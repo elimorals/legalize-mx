@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2023-12-05"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1037 +21,1325 @@ state: "PUE"
 ---
 # LEY DE EDUCACION DEL ESTADO DE PUEBLA
 
-REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
+LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
-Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 19 de abril de 2016.
+Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
-GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO
+DECRETO del Honorable Congreso del Estado, por el que expide la Ley de Educación del Estado de Puebla.
 
-DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN DE OCAMPO
+Al margen el Escudo del Estado de Puebla, con una leyenda que dice: Unidos en el Tiempo, en el Esfuerzo, en la Justicia y en la Esperanza. Estado Libre y Soberano de Puebla. H. Congreso del Estado de Puebla. LX Legislatura.
 
-REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
+LUIS MIGUEL GERÓNIMO BARBOSA HUERTA, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-Los miembros de la H. Junta Directiva de la Dirección de Pensiones Civiles del Estado de Michoacán de Ocampo, con fundamento en los artículos 4° inciso l), 18, 19, 54 párrafo tercero, 62 Bis, 70 párrafo segundo, Quinto y Décimo Transitorio de la vigente Ley de Pensiones Civiles para el Estado de Michoacán; 7 y 9 del Código de Justicia Administrativa del Estado de Michoacán de Ocampo; y,
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-C O N S I D E R A N D O
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-Que la Dirección de Pensiones Civiles del Estado, tiene como uno de sus pilares fundamentales el sentido humanístico y de servicio que, desde un principio inspiró la Ley de Pensiones Civiles del Estado de Michoacán, teniendo como objetivo fundamental dar tranquilidad económica, esparcimiento educativo, social, ayuda moral y material a sus derechohabientes; encontrándose en una permanente búsqueda de una mejor forma de optimizar las acciones y de lograr mejores resultados en beneficio de los servidores públicos y sus familiares; en específico de los jubilados y pensionados, por lo que resulta necesario contar con una marco normativo actualizado que dé certeza jurídica y garantice el otorgamiento de las diferentes prestaciones establecidas en la Ley.
+CONSIDERANDO
 
-Que el artículo Décimo Transitorio de la reforma a la Ley de Pensiones Civiles para el Estado de Michoacán publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 25 de agosto de 2015, tomo: CLXII, número: 79, quinta sección, establece la obligatoriedad de la Junta Directiva de homologar las prestaciones contenidas en la misma con su Reglamento.
+[…]
 
-Que la Junta Directiva aprobó en sesión extraordinaria de fecha 22 de octubre del año en curso y 10 de Marzo del 2016 la expedición del presente Reglamento que cumple con lo dispuesto en los artículos 4°inciso l), 18, 19, 54 párrafo tercero, 62 Bis, 70 párrafo segundo, Quinto y Décimo Transitorio de la vigente Ley de Pensiones Civiles para el Estado de Michoacán.
+Por lo anteriormente expuesto y con fundamento en los artículos 56, 57 fracción I, 64, 67 y 84 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Puebla; 22, 134, 135, 136 y 163 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 93 fracción VII y 120 fracciones II y VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente Minuta de:
 
-Por lo antes expuesto, tenemos a bien expedir el siguiente:
-
-REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
+LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
 ## TÍTULO PRIMERO. DEL DERECHO A LA EDUCACIÓN
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1°.
+###### ARTÍCULO 1.
 
-El presente Reglamento, es de orden público y de observancia obligatoria tanto para la Dirección de Pensiones Civiles del Estado, como para las entidades y servidores públicos, sujetos al régimen de la Ley de Pensiones Civiles para el Estado de Michoacán; y tiene por objeto establecer los criterios generales que deberán aplicarse para las Aportaciones al Fondo de Pensiones previsto por la Ley; el otorgamiento de préstamos en sus diversas modalidades; las pensiones derivadas establecidas en la Ley; los fondos de seguro; la cédula de identificación y designación de beneficiarios de los servidores públicos, pensionados o jubilados; con el propósito fundamental de que sean salvaguardadas las prestaciones y servicios contemplados por la propia Ley.
+La presente Ley garantizará el derecho a la educación reconocido en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano sea parte y en la Constitución Política del Estado Libre y Soberano de Puebla, así como regular la educación impartida en el Estado, por parte de las autoridades educativas locales, sus organismos descentralizados, los municipios y los particulares con autorización o con reconocimiento de validez oficial de estudios. Sus disposiciones son de orden público, interés social y de observancia general en todo el Estado de Puebla.
 
-###### Artículo 2°.
+La educación se considera un servicio público y estará sujeta a la rectoría del Estado en términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las controversias que surjan en la aplicación de la Ley y el presente Reglamento, serán resueltas en primera instancia por la Junta Directiva, y en lo conducente por el Tribunal de Justicia Administrativa del Estado de Michoacán.
+###### ARTÍCULO 2.
 
-Para los efectos del párrafo anterior, en lo no previsto por la Ley y el presente Reglamento se aplicará supletoriamente:
+La distribución de la función social educativa, se funda en la obligación de cada orden de gobierno de participar en el proceso educativo y de aplicar los recursos económicos que se asignan a esta materia por las autoridades competentes para cumplir los fines y criterios de la educación.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-I. La Ley del Seguro Social y sus Reglamentos;
+###### ARTÍCULO 3.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+La educación es factor determinante para la adquisición de conocimientos, el desarrollo armónico de todas sus capacidades y para formar mujeres y hombres que tengan sentido de solidaridad social y pertinencia cultural y lingüística.
 
-II. El Código Civil para el Estado de Michoacán;
+La autoridad educativa estatal fomentará la participación de las y los educandos, madres y padres de familia, tutoras o tutores, maestras y maestros, así como de las y los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del Estado de Puebla, a fin de contribuir al desarrollo sostenible, cultural y lingüístico.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JUNIO DE 2018)</small>
+###### ARTÍCULO 4.
 
-III. El Código de Procedimientos Civiles para el Estado de Michoacán; y,
+La aplicación y la vigilancia del cumplimiento de esta Ley corresponde a las autoridades educativas del Estado de Puebla y de los municipios, en los términos que este ordenamiento establece en el Título Octavo Del Federalismo Educativo, en el marco de distribución de competencias.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JUNIO DE 2018)</small>
+Para efectos de la presente Ley, se entenderá por:
 
-IV. El Código de Justicia Administrativa del Estado de Michoacán de Ocampo.
+I. Autoridad educativa federal: la Secretaría de Educación Pública de la Administración Pública Federal;
 
-###### Artículo 3°.
+II. Autoridad educativa estatal o Secretaría: la Secretaría de Educación de la Administración Pública del Estado de Puebla, así como a las instancias que, en su caso, establezcan para el ejercicio de la función social educativa;
 
-Para los efectos del presente Reglamento se entenderá por:
+III. Autoridad educativa municipal: el Ayuntamiento de cada Municipio del Estado de Puebla;
 
-I. Aportación: Al pago de las cantidades que los sujetos obligados y los servidores públicos deben realizar a favor de la Dirección de Pensiones, de conformidad con la Ley;
+IV. Autoridades escolares: el personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, y
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+V. Estado: la Federación, el Estado de Puebla y sus municipios.
 
-II. Cantidades Actualizadas: A las cantidades mencionadas conforme al artículo 17 «A» del Código Fiscal de la Federación, más la tasa de recargos determinada en la Ley de Ingresos del Estado de cada ejercicio correspondiente, aplicando el procedimiento establecido en el Código Fiscal del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-III. Cédula de Identificación y Designación de Beneficiarios: Al documento en el cual se anotarán los datos de identificación de los servidores públicos, pensionados o jubilados y sus beneficiarios;
+###### ARTÍCULO 5.
 
-IV. Cotización: Al cálculo de las aportaciones que deben realizarse a favor de la Dirección de Pensiones, de conformidad con las disposiciones aplicables de la Ley;
+Las Autoridades Educativas Estatal y Municipales, en el ámbito de su competencia, deberán establecer coordinación interestatal e intermunicipal para el desarrollo de proyectos regionales educativos con enfoque intercultural que contribuyan a los principios y fines establecidos en esta Ley.
 
-V. Dirección de Pensiones: A la Dirección de Pensiones Civiles del Estado;
+Para tal efecto, remitirán un informe al Congreso del Estado y al Cabildo Municipal que corresponda, respectivamente, sobre el inicio del proyecto regional a desarrollar, así como del avance y resultados del mismo a su conclusión.
 
-VI. Estado: Al Estado libre y Soberano de Michoacán de Ocampo;
+###### ARTÍCULO 6.
 
-VII. Familiar derechohabiente: Aquel a quien la Ley le concede tal carácter;
+Para el cumplimiento de los fines y criterios previstos en esta Ley y de conformidad con las necesidades de la población en sus contextos locales y situacionales, las autoridades educativas estatal y municipales en el ámbito de su competencia, garantizarán a las personas el acceso a una educación con equidad y excelencia. Para tal efecto, se deberán tomar en consideración las siguientes premisas:
 
-VIII. Gobernador: El Gobernador Constitucional del Estado de Michoacán de Ocampo;
+I. El Derecho a la Educación como eje fundamental en el desarrollo del Estado de Puebla, debe ser prioritario con el fin de que los servicios educativos de calidad lleguen a todos los pobladores del Estado, debiéndose preparar a las niñas, niños, jóvenes y adultos, con educación que no se circunscriba solamente a lo escolar, sino que trascienda la educación a lo largo de la vida, procurando entornos alternativos que auxilien y potencien la difusión de contenidos como lo son las telecomunicación (sic) y ambientes digitales.
 
-IX. Gobierno del Estado: Al Gobierno del Estado de Michoacán de Ocampo;
+II. Toda persona, sin distinción alguna, tiene derecho a educarse y a educar, por ello la Autoridad Educativa Local debe apoyarse en las siguientes dimensiones de las "4 A" del Derecho a la Educación:
 
-X. Junta Directiva: A la Junta Directiva de la Dirección de Pensiones;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-XI. Ley: A la Ley de Pensiones Civiles para el Estado de Michoacán;
+a) Asequibilidad: La disponibilidad, que implica la presencia de escuelas de todos los niveles obligatorios en lugares adecuados y cerca de donde viven niños, niñas y jóvenes; con maestros suficientemente formados de acuerdo con la nueva escuela mexicana y con pertinencia cultural y lingüística; con una organización que opere regularmente, y dotadas de infraestructura, recursos humanos suficientes y contratados en tiempo y forma de acuerdo a la disponibilidad presupuestaría, mobiliario y equipo tecnológico indispensables para el logro de los propósitos educativos, así como a uniformes y materiales bibliográficos contextualizados;
 
-XII. Pensionado o Jubilado: A toda persona que la Dirección de Pensiones le hubiere reconocido tal carácter de conformidad con la Ley;
+b) Accesibilidad: Acceso sin discriminación alguna, la cual sostiene que no debe haber barreras de ningún tipo para acceder a la educación. La exclusión educativa por razones de raza, origen, color, género, condición socioeconómica, discapacidad, lengua, religión y otras, es antónimo de la accesibilidad;
 
-XIII. Reglamento: Al Reglamento para el Otorgamiento de Prestaciones de la Dirección de Pensiones Civiles del Estado de Michoacán;
+c) Aceptabilidad: Representa un acercamiento a la dimensión de calidad de la educación desde la perspectiva de los estudiantes. Son ellos quienes deben sentirse seguros, respetados y acogidos en la escuela; quienes deben creer que en ella adquieren aprendizajes que coinciden con sus intereses y les resultan útiles para su vida actual y futura, y
 
-XIV. Servidor público: A toda persona que preste sus servicios al Gobierno del Estado, organismo público descentralizado estatal y municipios de la Entidad mediante designación legal, en virtud de nombramiento, siempre que su cargo, sueldo o salarios estén consignados en el presupuesto respectivo; y,
+d) Adaptabilidad: Refiere a la capacidad de la escuela, del plantel educativo para adecuarse a las condiciones específicas de los alumnos, y trata del significado, la pertinencia y la relevancia de la educación que se ofrece. Incorpora mecanismos de participación democrática, educación con (sic) para la igualdad con perspectiva de género, contextualización, recuperación de los saberes locales y el aprendizaje situado.
 
-XV. Sujetos obligados: A las Entidades o Dependencias Públicas, los distintos Poderes en que se divide el ejercicio del Gobierno del Estado, encargadas de los funcionarios, empleados, trabajadores y maestros a su servicio cotizantes al régimen de pensiones; así como Instituciones y Organismos Descentralizados y Municipios sujetos a la Ley, obligados a realizar aportaciones a la Dirección de Pensiones.
+###### ARTÍCULO 7.
 
-XVI. Beneficiarios: Aquella persona que adquiere una prestación establecida en la Ley o el presente Reglamento
+Toda persona tiene derecho a la educación, la cual es un medio para adquirir, actualizar, completar y ampliar sus conocimientos, capacidades, habilidades y aptitudes que le permitan alcanzar su desarrollo personal y profesional; y, como consecuencia de ello, contribuir a su bienestar, a la transformación y el mejoramiento de la sociedad de la que forma parte.
 
-XVII. Deudor solidario: La persona que está obligada legalmente a satisfacer una deuda adquirida por un deudor directo
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-XVIII. Solicitante: A toda persona que solicita el otorgamiento de una prestación señalada en la ley o el presente Reglamento.
+Con el ejercicio de este derecho, inicia un proceso permanente centrado en el aprendizaje del educando, que contribuye a su desarrollo humano integral y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria, sin menoscabar la cultura local y su cosmovisión.
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-XIX. Trabajador Temporal: Aquel o a quien se les otorga nombramiento para obra o tiempo determinado.
+La autoridad educativa estatal ofrecerá a las personas las mismas oportunidades de aprendizaje, así como de acceso con un proceso de mejora constante, tránsito, permanencia, avance académico y, en su caso, egreso oportuno del Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
 
-XX. Comprobante de Pago: El documento emitido por el sujeto obligado donde labora el servidor público, que describe sus percepciones y deducciones.
+Asimismo, se facilitará la permanencia o reincorporación de los educandos que se conviertan en madres o padres en los términos previstos en este artículo.
 
-###### Artículo 4°.
+###### ARTÍCULO 8.
 
-Para los efectos de las aportaciones al fondo de pensiones previsto por la Ley, el sueldo base de cotización se integra por la remuneración ordinaria en efectivo señalada en el acto jurídico que dé origen a la relación de trabajo, de conformidad con la plaza o cargo que el servidor público desempeñe.
+Todas las personas del Estado de Puebla deben cursar la educación obligatoria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+Es obligación de las madres y padres de familia, tutoras o tutores hacer que sus hijas, hijos o pupilos menores de dieciocho años asistan a las escuelas, para recibir educación obligatoria, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.
 
-###### Artículo 5°.
+La obligatoriedad de la educación superior corresponde al Estado en los términos dispuestos por la fracción X del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
-Las cantidades que sirven de base para las cotizaciones previstas en la Ley, son las que los servidores públicos perciben por concepto de sueldo base de cotización, por lo que no es permitido a los sujetos obligados tomar en cuenta para efectos de cotización, las compensaciones, sobresueldos, gratificaciones, viáticos; y cualquier otra remuneración distinta al sueldo base de cotización.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
-Para aquellos casos en que el servidor público desempeñe dos o más empleos durante el mismo periodo, las aportaciones se realizaran, en términos del artículo 23 de la Ley, generándose una clave de identificación del servidor público por cada una de las mismas.
-
-###### Artículo 6°.
-
-Las aportaciones que se hagan a la Dirección de Pensiones, respecto de un servidor público que trabaje jornadas completas en términos de la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y sus Municipios, deberán estar basadas en cantidades por lo menos equivalentes al salario mínimo general que fije la Comisión Nacional de Salarios Mínimos para el área geográfica donde se encuentra ubicada la ciudad de Morelia.
-
-Cuando el servidor público labore jornadas reducidas y su remuneración se determine por unidad de tiempo, las aportaciones a la Dirección de Pensiones, deberán de realizarse con base en el ingreso generado por tal concepto informando de dicha situación a la Dirección de Pensiones.
-
-###### Artículo 7°.
-
-En ningún caso la Dirección de Pensiones, aceptará aportaciones si no vienen acompañadas de la información de las nóminas ordinarias y adicionales correspondientes, en las que consten las percepciones salariales que se tomaron como base para determinar tales cotizaciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
-
-###### Artículo 8°.
-
-Cuando la Dirección de Pensiones detecte diferencias o falta de pago en las aportaciones señaladas en el artículo 22 de la Ley, podrá en cualquier momento solicitar y exigir al sujeto obligado el pago de la aportación omitida o de la diferencia resultante, en cantidades actualizadas señaladas en la fracción II del artículo 3° del presente Reglamento.
-
-Igualmente, en cualquier momento podrá la Dirección de Pensiones rechazar o regresar aportaciones que se pretendan realizar o que se hayan realizado errónea o indebidamente, ya sea porque su monto sea excesivo o porque no se ajusten a las disposiciones de la Ley y del presente Reglamento, o por cualquier otra razón o circunstancia que hagan improcedente la aportación de que se trate.
-
-En ambos casos a que se refieren los dos párrafos anteriores, la resolución de la Dirección de Pensiones, deberá ser debidamente motivada y fundada en las disposiciones normativas aplicables.
+Además de impartir educación en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Puebla, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica; alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal; y promoverá el desarrollo sostenible, en los términos que las leyes en la materia determinen.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA EDUCATIVO ESTATAL
 
-### CAPÍTULO SEGUNDO. DE LAS APORTACIONES AL FONDO DE PENSIONES
+### CAPÍTULO II. DEL EJERCICIO DEL DERECHO A LA EDUCACIÓN
 
-###### Artículo 9°.
+###### ARTÍCULO 9.
 
-No se recibirán por la Dirección de Pensiones aportaciones voluntarias por parte del servidor público para ser computadas como tiempo de servicio, salvo los casos establecidos en el artículo 24 de la Ley.
+La autoridad educativa estatal buscará la equidad, igualdad en condiciones y oportunidades, la excelencia y la mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes.
 
-###### Artículo 10.
+Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales e interculturales dentro de la escuela y en la comunidad.
 
-Los sujetos obligados comunicarán a la Dirección de Pensiones los movimientos de altas, bajas y demás cambios de su personal, que impliquen una variación en la cotización al fondo de pensiones, por lo menos tres días hábiles antes del envío de los movimientos de nómina; con la finalidad de que los mismos sean validados con la información de la Dirección de Pensiones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
-Asimismo, enviarán la información de nóminas, recibos o documentos en los cuales se hagan constar los descuentos realizados al servidor público por concepto de aportaciones, préstamos y cualquier otro descuento que se deba de realizar establecido en la Ley y el presente Reglamento.
+###### ARTÍCULO 10.
 
-### CAPÍTULO TERCERO. DE LA EXPEDICIÓN DE CÉDULA
+En la prestación de los servicios educativos se impulsará la educación sostenible y el desarrollo humano integral para que todas las personas en el Estado de Puebla puedan:
 
-#### SECCIÓN PRIMERA. DEL PRESTAMO HIPOTECARIO
+I. Contribuir a la formación del pensamiento crítico, a la transformación y al crecimiento solidario de la sociedad, enfatizando el trabajo en equipo y el aprendizaje colaborativo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2017)</small>
+II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-###### Artículo 11.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-Los sujetos obligados en caso de no enterar las aportaciones y descuentos por concepto de préstamos en los términos del artículo 22 de la Ley, cubrirán los adeudos en cantidades actualizadas.
+III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad; contribuir al impulso y promoción del desarrollo sostenible; impulsar el desarrollo social, ambiental y económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-###### Artículo 12.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Los sujetos obligados incorporaran a todos sus servidores públicos a la Dirección de Pensiones.
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez, las mujeres, personas pertenecientes a los pueblos y comunidades indígenas y migrantes;
 
-###### Artículo 13.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-La Dirección de Pensiones derivado de las aportaciones realizadas al fondo de pensiones, identificara con una clave al servidor público, pensionado o jubilado, a fin de que puedan ejercitar sus derechos que la misma Ley les confiere.
+V. Alentar la construcción de relaciones sociales, económicas e interculturales con base en el respeto de los derechos humanos; y
 
-#### SECCION SEGUNDA. DEL PRESTAMO DE GARANTÍA REAL
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
-###### Artículo 14.
+VI. Transitar a prácticas productivas y patrones de consumo sostenibles, bajo un paradigma biocéntrico que les permita contar con un medio ambiente sano y acceder a su desarrollo integral.
 
-El servidor público, pensionado o jubilado deberá verificar la información que haya sido proporcionada por los sujetos obligados a la Dirección de Pensiones en caso de existir diferencias en la información, deberá proporcionar la documentación probatoria que permita, realizar las actualizaciones correspondientes y asimismo solicitar la actualización de su registro a su Institución o Dependencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
-Será obligación del servidor público, pensionado o jubilado mantener permanentemente actualizada su información.
+### CAPÍTULO III. DE LA EDUCACIÓN EN EL ESTADO DE PUEBLA
 
-###### Artículo 15.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-La Dirección de Pensiones diseñará, administrará y actualizará la clave del servidor público, pensionado o jubilado.
+#### SECCIÓN I. DE LA EDUCACIÓN INICIAL
 
-###### Artículo 16.
+###### ARTÍCULO 11.
 
-Con el objeto de generar la cédula de identificación y designación de beneficiarios, los servidores públicos, las dependencias e instituciones en que presten sus servicios, así como el pensionado o jubilado, deberán proporcionar la información que requiera la Dirección de Pensiones, para tal efecto.
+En el Estado de Puebla se fomentará en las personas una educación sostenible basada en:
 
-###### Artículo 17.
+I. La identidad y el sentido de pertenencia, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimienta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 
-Para que los servidores públicos puedan percibir las prestaciones que les correspondan deberán cumplir con los requisitos que se establezcan en la ley y el presente Reglamento.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, la igualdad y la democracia, entre otros
 
-El servidor público, jubilado o pensionado que mediante engaño, simulación, sustitución de persona o por cualquier otro medio, obtenga indebidamente las prestaciones que señala la Ley, pagará a la Dirección de Pensiones el importe de los montos obtenidos a cantidades actualizadas, independientemente de la responsabilidad penal, civil o administrativa en que incurra.
+III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-#### SECCIÓN TERCERA. DEL PRÉSTAMO A CORTO PLAZO
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+IV. El respeto, preservación, cuidado y restauración del medio ambiente, con la constante orientación hacia la sostenibilidad, considerando las cosmovisiones de los pueblos y comunidades indígenas y afromexicanas con el fin de comprender y asimilar la interrelación con la naturaleza y con temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida orientados al desarrollo sostenible.
 
-###### Artículo 18.
+> <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2023)</small>
 
-Para el control y administración de la información se implementará una base de datos de servidores públicos, la cual contendrá la información individualizada y pormenorizada de los servidores públicos y sus beneficiarios en términos de lo que previene la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, en materia de protección de datos personales.
+Para efectos de la fracción anterior la autoridad educativa podrá promover, en el ámbito de sus atribuciones y en coordinación con las demás autoridades competentes, lo siguiente:
 
-###### Artículo 19.
+a) La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social, y sus equivalentes, en campañas de reforestación y manejo racional del agua y de residuos, u otras similares y relacionadas;
 
-En los casos extraordinarios no previstos en el presente Reglamento, se resolverá por la Junta Directiva, cuyo objetivo será analizar, evaluar y determinar la forma y condiciones en que se dará solución a los mismos.
+b) La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+c) El destino de una superficie de suelo, en las instalaciones educativas, para compostas de residuos orgánicos; y
 
-#### SECCIÓN CUARTA. DEL PRÉSTAMO A CORTO PLAZO EN LA MODALIDAD DE CONSUMO
+V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado de Puebla.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+###### ARTÍCULO 12.
 
-Artículo 67 BIS. Los préstamos a corto plazo en la modalidad de consumo se otorgarán conforme a las disposiciones siguientes:
+En términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Estado la rectoría de la educación.
 
-I. Se otorgarán a los jubilados y pensionados por vejez o invalidez, así como a los trabajadores cotizantes al fondo de pensiones;
+La educación que se imparta en el Estado de Puebla, además de obligatoria, será:
 
-II. Para los jubilados y pensionados se dará hasta por el importe de 5 meses;
+I. Universal, al ser un derecho humano que gozan todas las personas por igual, por lo que:
 
-III. Se ofrecerá a los derechohabientes de manera opcional al préstamo de corto plazo existente actualmente, sin que los mismos puedan otorgarse a la par entre estas modalidades;
+a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, y
 
-IV. El plazo para cubrir el presente préstamo será de hasta 96 quincenas (cuatro años);
+b) Tendrá especial énfasis en el estudio de la realidad y las culturas locales y nacionales;
 
-V. Se podrá otorgar a la par de cualquier adeudo que tenga vigente el interesado derivado solamente de una modalidad de un préstamo hipotecario, siempre y cuando se demuestre que tiene liquidez en su talón de cheque y acreditar que se
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-tienen ingresos adicionales;
+II. Inclusiva, equitativa y de excelencia eliminando toda forma de discriminación y exclusión, garantizando la igualdad de trato, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
 
-VI. Se podrá solicitar desde la primera quincena aportada al fondo de pensiones por el servidor público.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-VII. Para el caso de los servidores públicos, el préstamo podrá otorgarse hasta con dos avales quienes lo garantizarán con su fondo de pensiones;
+a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de las y los educandos, con instalaciones adecuadas y ajustando los materiales de aprendizaje;
 
-VIII. Este préstamo podrá renovarse una vez cubierta la octava parte del plazo fijado inicialmente;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-IX. Los descuentos por este concepto podrán sobrepasar el 50% cincuenta por ciento del sueldo base de cotización o pensión, acreditando contar con ingresos adicionales permanentes al salario, solamente en aquellos casos que cuenten con un préstamo hipotecario a la par, y previo apoyo de su representación sindical cuando esto proceda.
+b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de las y los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables, con la adaptación de planes de estudio para hacerlos pertinentes, flexibles y atentos a las necesidades de los distintos educandos;
 
-X. El monto del seguro será del 2% dos por ciento sobre el capital del préstamo otorgado, el cual se constituirá de conformidad con el artículo 43 de la Ley; con una tasa anual de interés ordinaria del 13% trece por ciento anual global.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-XI. Se otorgará con la misma documentación que señala el artículo 64 del presente Reglamento.
+c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos,
 
-###### Artículo 20.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-La prestación económica concedida por los artículos 68, 69 y 70 de la Ley, prescriben en 5 años; para el caso de fallecimiento del servidor público, en lo que corresponde a los artículos 69 y 70, la prestación se otorgará en el orden de prelación siguiente:
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de las y los educandos, madres y padres de familia, tutoras o tutores, personal docente y, en su caso, por una condición de salud, y
 
-I. Beneficiarios designados expresamente por el servidor público, pensionado o jubilado causante;
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+e) Se brindará capacitación a las y los docentes para detectar las necesidades de aprendizaje de las y los educandos, considerando los diversos tipos de discapacidad.
 
-II. El cónyuge y los hijos del servidor público, pensionado o jubilado causante; y,
+III. Pública, al ser impartida y administrada por el Estado, por lo que:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+a) Asegurará que el proceso educativo responda al interés social y a las finalidades de orden público para el beneficio de la Nación y del Estado de Puebla, y
 
-III. Herederos legítimos del servidor público, pensionado o jubilado causante, judicialmente declarados.
+b) Vigilará que, la educación impartida por particulares, cumpla con las normas de orden público que rigen al proceso educativo y al Sistema Educativo Estatal que se determinen en esta Ley y demás disposiciones aplicables;
 
-###### Artículo 21.
+IV. Gratuita, al ser un servicio público garantizado por el Estado, por lo que:
 
-El carácter de beneficiarios, para los efectos de la fracción I del artículo anterior del presente Reglamento, se acreditará con el original o la copia debidamente certificada por la Dirección de Pensiones la designación correspondiente, que obre en los archivos de ésta.
+a) Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación de este servicio en la educación que imparta el Estado;
 
-Si hubiere constancias de varias designaciones hechas por el servidor público, jubilado o pensionado causante, en actos diferentes y en favor de personas diferentes, la prestación se otorgará a los beneficiarios designados más recientemente.
+b) No se podrá condicionar la inscripción, el acceso a los planteles, la aplicación de evaluaciones o exámenes, la entrega de documentación a las y los educandos al pago de contraprestación alguna, ni afectar en cualquier sentido la igualdad en el trato a las y los educandos, y
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
-La dependencia económica se acreditará ante el personal administrativo correspondiente de la Dirección de Pensiones. Cuando los dependientes económicos sean el cónyuge supérstite o los hijos menores de 18 años, del afiliado causante, bastará para tener por acreditada su dependencia económica, las copias certificadas de las actas de matrimonio o de nacimiento, respectivamente; en caso de ser otra persona, deberán presentar resolución judicial emitida por autoridad judicial mediante la cual se acredite la dependencia económica.
+c) Las donaciones o aportaciones voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, definirán los mecanismos para su regulación, destino, aplicación, transparencia y vigilancia, además tendrán la facultad de apoyarse en instituciones que se determinen para tal fin;
 
-Los herederos legítimos acreditarán su derecho con la sentencia ejecutoriada que en tal sentido dicte el juez o tribunal competente.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa; y
+
+> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN, P.O. 16 DE MARZO DE 2023)</small>
+
+VI. Sostenible, al impulsar y promover contenidos y prácticas basados en los criterios, principios y desafíos del desarrollo sostenible, con la intención de formar estudiantes y ciudadanos consientes y participativos, atendiendo, para el caso, los principios y directrices dispuestos por las instituciones e instancias competentes para lograr lo siguiente:
+
+a) El reconocimiento del planeta, como un superorganismo vivo que se autorregula y nos provee de elementos para el bienestar y en consecuencia requiere cuidado y atención.
+
+b) La revinculación de todos los seres y sectores de la sociedad, como elementos corresponsables de la explotación y restauración del entorno.
+
+c) La conciencia de que la sostenibilidad se garantiza a través del respeto de los ciclos naturales de los ecosistemas, consumiendo de forma racional los recursos para mantener y proteger nuestra existencia sin comprometer la de las futuras generaciones.
+
+d) La valoración y preservación de los ecosistemas, propiciando la cooperación colectiva para la supervivencia común.
+
+e) El reconocimiento, respeto y valor a las diferencias culturales, asumiéndolas como riqueza y pluralidad que se complementan.
+
+f) Que la ciencia se promueva y práctique bajo criterios éticos, propiciando como metas las de beneficio colectivo para privilegiar más a la vida y a la humanidad, que al lucro y los mercados.
+
+g) La superación de que el corporativismo, la ciencia y tecnología son elementos únicos para la formación, así como para el acceso y respuesta a la realidad; por lo que se requiere visibilizar e involucrar otros saberes y prácticas, como los de las culturas originarias, para impulsar el desarrollo sostenible.
+
+h) La priorización e impulso del desarrollo colectivo de forma equitativa, lo que represente que los avances de la humanidad beneficien a todos, sin distinción ni discriminación.
+
+i) El rescate de la razón y la esencia humana, así como la promoción del respeto, solidaridad y corresponsabilidad, con base en la promoción de los valores para el desarrollo colectivo.
+
+(REPUBLICADO, P.O. 16 DE MARZO DE 2023)
+
+La educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, se sujetará a lo previsto en la fracción VI del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y a lo dispuesto en esta Ley.
+
+###### ARTÍCULO 13.
+
+La educación impartida en el Estado de Puebla, persigue los siguientes fines:
+
+I. Contribuir al desarrollo integral y permanente de las y los educandos, para que ejerzan de manera plena sus capacidades, a través de la mejora continua del Sistema Educativo Estatal;
+
+II. Promover el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas y la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+III. Inculcar el enfoque de derechos humanos, de igualdad sustantiva y de inclusión, promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IV. Fomentar el amor a la Patria, el aprecio por sus culturas y sus lenguas originarias el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales, estatales y municipales;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+V. Formar a las y los educandos en la cultura de la paz, el respeto, la tolerancia, la interculturalidad, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias étnicas y culturales, para lo cual promoverán la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda.
+
+VI. Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
+
+VII. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, Estado y sus municipios; el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+VIII. Inculcar el respeto por la naturaleza, a través de la generación de acciones, capacidades y habilidades coordinadas que aseguren el manejo integral, la conservación, la restauración, la preservación de la biodiversidad el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2023)</small>
+
+IX. Favorecer las relaciones e interacciones humanas con el medio ambiente y sus componentes bióticos y abióticos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 16 DE MARZO DE 2023)</small>
+
+X. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Puebla; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 16 DE MARZO DE 2023)</small>
+
+XI. Todos aquellos que contribuyan al bienestar y desarrollo del país, del Estado de Puebla y sus municipios.
+
+#### SECCIÓN II. DE LA EDUCACIÓN PREESCOLAR
+
+###### ARTÍCULO 14.
+
+La educación que se imparta en el Estado de Puebla, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en todos los ámbitos de gobierno del Estado de Puebla.
+
+Además, responderá a los siguientes criterios:
+
+I. Será democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+
+II. Será nacional, en cuanto que, sin hostilidades ni exclusivismos, la educación atenderá a la comprensión y solución de nuestros problemas, al aprovechamiento sustentable de nuestros recursos naturales, a la defensa de nuestra soberanía e independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
+
+III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las personas, sustentado en los ideales de fraternidad e igualdad de derechos, promoviendo el mejoramiento de la convivencia humana y evitando cualquier tipo de privilegio de razas, religión, grupos, sexo o de personas;
+
+IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V. Inculcará los conceptos y principios del desarrollo sostenible, las ciencias ambientales, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar una educación sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad.
+
+VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todas y todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Será inclusiva y equitativa al tomar en cuenta las diversas capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de las y los aspirantes y educandos, y así eliminar las distintas barreras al acceso al aprendizaje y a la participación, para lo cual adoptará métodos de enseñanza, enfoques, estructuras y con estrategias en educación que corresponda a las necesidades de los educandos, entre otras medidas en favor de la accesibilidad y los ajustes razonables;
+
+VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
+
+IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
+
+X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de las y los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2023)</small>
+
+ARTÍCULO 14 BIS. A fin de estimular el ejercicio y desarrollo de prácticas ambientales y sostenibles en los estudiantes desde sus primeros niveles de enseñanza, en los actores del Sistema Educativo y en la sociedad en general, la autoridad educativa podrá implementar, en coordinación con las demás autoridades competentes:
+
+a) La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social, y sus equivalentes, en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
+
+b) La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes; y
+
+c) El destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos.
+
+###### ARTÍCULO 15.
+
+El Sistema Educativo Estatal es el conjunto de actores, instituciones y procesos para la prestación del servicio público de la educación que se imparta en el Estado de Puebla, desde la educación básica hasta la superior, así como por las relaciones institucionales de dichas estructuras y su vinculación con la sociedad del Estado, los centros de población, sus organizaciones, sectores y familias.
+
+###### ARTÍCULO 16.
+
+A través del Sistema Educativo Estatal se articularán y coordinarán los esfuerzos de las autoridades educativas estatal y municipales, de los sectores social y privado, para el cumplimiento de los principios, fines y criterios de la educación establecidos en esta Ley.
+
+###### ARTÍCULO 17.
+
+El Sistema Educativo Estatal participará en la programación estratégica que se realice en el marco del Sistema Educativo Nacional para que la formación docente y directiva, la infraestructura, así como los métodos y materiales educativos, se armonicen con las necesidades de la prestación del servicio público de educación y contribuya a su mejora continua en el Estado de Puebla.
+
+#### SECCIÓN III. DE LA EDUCACIÓN PRIMARIA
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 18.
+
+En el Sistema Educativo Estatal participarán, con sentido de responsabilidad social, los actores e instituciones en los procesos que lo componen y será constituido por:
+
+I. Las y los educandos;
+
+II. Las maestras y los maestros;
+
+III. Las madres y padres de familia, tutoras o tutores, así como a sus asociaciones;
+
+IV. Las autoridades educativas del Estado de Puebla;
+
+V. Los gobiernos municipales en el ámbito de sus competencias;
+
+VI. Las autoridades escolares;
+
+VII. Las personas que tengan relación laboral con las autoridades educativas del Estado de Puebla en la prestación del servicio público de educación;
+
+VIII. Las instituciones educativas del Estado de Puebla, los Sistemas y subsistemas establecidos en la presente Ley y demás disposiciones aplicables en materia educativa en el Estado;
+
+IX. Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios otorgado por el Estado de Puebla;
+
+X. Las instituciones de educación superior a las que la ley otorga autonomía;
+
+XI. Los planes y programas de estudio;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+XII. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación en todos sus tipos, niveles y modalidades, adecuadas que cuenten con las características necesarias, para brindar una educación inclusiva de excelencia, a personas con discapacidad, en atención a la suficiencia presupuestaria;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XIII. Los Consejos, Comités y demás órganos que se conformen de acuerdo con las disposiciones aplicables,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XIV. En el caso de los pueblos y comunidades indígenas y afromexicanas se considerará a las autoridades locales y tradicionales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XV. Todos los actores que participen en la prestación del servicio público de educación en el Estado de Puebla.
+
+La persona titular de la Secretaría, presidirá el Sistema Educativo Estatal; los lineamientos para su funcionamiento y operación se determinarán en las disposiciones reglamentarias correspondientes.
+
+###### ARTÍCULO 19.
+
+Es obligación de la Autoridad Educativa Estatal, cumplir y hacer cumplir las disposiciones de la Ley General de Educación, de la Ley General del Sistema para la Carrera de las maestras y los maestros, de la Ley reglamentaria del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en materia de mejora continua en la educación, así como los demás ordenamientos aplicables en la materia, respetando las atribuciones que las mismas le confieren a la Autoridad Educativa Federal; las que emanen de la presente Ley, y las que se deriven de convenios tendientes al cumplimiento de la función social educativa.
+
+#### SECCIÓN IV. DE LA EDUCACIÓN SECUNDARIA
+
+###### ARTÍCULO 20.
+
+La educación que se imparta en el Sistema Educativo Estatal se organizará en tipos, niveles, modalidades y opciones educativas, conforme a lo siguiente:
+
+I. Tipos, los de educación obligatoria y superior;
+
+II. Niveles, los que se indican para cada tipo educativo en esta Ley;
+
+III. Modalidades, la escolarizada, no escolarizada y mixta, y
+
+IV. Opciones educativas, las que se determinen para cada nivel educativo en los términos de esta Ley y las disposiciones que de ella deriven, entre las que se encuentran la educación abierta y a distancia.
+
+Además de lo anterior, se consideran parte del Sistema Educativo Estatal, la formación para el trabajo, la educación para personas adultas, la educación física, la educación artística y la educación tecnológica.
+
+La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+De acuerdo con las necesidades educativas reales y específicas de la población, con atención a la de los pueblos y comunidades indígenas y afromexicanas podrá impartirse educación comunitaria con programas o contenidos particulares para ofrecerle una oportuna atención a su cultura.
+
+###### ARTÍCULO 21.
+
+La educación en sus distintos tipos, niveles, modalidades y opciones educativas responderá a la diversidad lingüística, regional, sociocultural y biocultural; así como de la población rural dispersa y grupos migratorios, además de las características y necesidades de los distintos sectores de la población del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+En todo caso, el Sistema Educativo Estatal, promoverá la inclusión e integración de las personas con discapacidad.
+
+###### ARTÍCULO 22.
+
+La educación básica está compuesta por los niveles inicial, preescolar, primaria y secundaria.
+
+Los servicios que comprende este tipo de educación, entre otros, son:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Inicial escolarizada y no escolarizada e indígena;
+
+II. Preescolar general, indígena y comunitario;
+
+III. Primaria general, indígena y comunitaria;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IV. Secundaria, entre las que se encuentran la general, técnica, indígena comunitaria o las modalidades regionales autorizadas por la Secretaría;
+
+V. Secundaria para trabajadores, y
+
+VI. Telesecundaria.
+
+De manera adicional, se considerarán aquellos para impartir educación especial, incluidos los Centros de Atención Múltiple.
 
 #### SECCIÓN PRIMERA. PENSIÓN POR VIUDEZ
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
-###### Artículo 23.
+###### ARTÍCULO 23.
 
-Cuando haya dos o más personas que conforme a las disposiciones contenidas en la Ley y el presente Reglamento, tengan derecho a recibir la prestación, el monto de ésta se dividirá entre todos los beneficiarios y se les otorgará por partes iguales, siempre que el servidor público, jubilado o pensionado causante no hubiere dispuesto proporción alguna, al momento de designarlos.
+En educación inicial, el Estado, de manera progresiva, generará las condiciones para la prestación universal de ese servicio.
 
-###### Artículo 24.
+Las autoridades educativas estatal y municipales impartirán educación inicial de conformidad con los principios rectores y objetivos que determine la autoridad educativa federal en términos de la Ley General de Educación.
 
-Si, presentada la solicitud de la prestación, y antes de ser otorgada, fallece uno de los solicitantes, la cantidad que le correspondiere acrecerá a las porciones de los demás beneficiarios, en forma proporcional, salvo disposición en contrario hecha por el causante, al momento de designarlos.
+Además, fomentarán una cultura a favor de la educación inicial con base en programas, campañas, estrategias y acciones de difusión y orientación, con el apoyo de los sectores social y privado, organizaciones de la sociedad civil y organismos internacionales. Para tal efecto, promoverán diversas opciones educativas para ser impartidas, como las desarrolladas en el seno de las familias y a nivel comunitario, en las cuales se proporcionará orientación psicopedagógica y serán apoyadas por las instituciones encargadas de la protección y defensa de la niñez.
 
-### CAPÍTULO CUARTO. DE LOS PRÉSTAMOS
+###### ARTÍCULO 24.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+La Educación Inicial tiene por objeto el desarrollo de las capacidades físicas, cognoscitivas, afectivas y de sociabilidad de niños y niñas menores de tres años de edad. La Autoridad Educativa Estatal, tomando en cuenta la vinculación estrecha que debe darse en esta etapa formativa con la educación familiar, realizará programas especiales de orientación conjunta dirigidos a madres y padres de familia y a todos los involucrados en esta etapa de proceso educativo, a fin de cumplir debidamente con los fines previstos en esta Ley y en lo establecido en la Ley de Educación Inicial del Estado Libre y Soberano de Puebla.
 
-###### Artículo 25.
+### CAPÍTULO I. DE LA NATURALEZA DEL SISTEMA EDUCATIVO ESTATAL
 
-La Dirección de Pensiones podrá conceder a los servidores públicos y a los jubilados y pensionados por vejez o invalidez, préstamos Hipotecarios en cualquiera de sus modalidades y de Corto Plazo, conforme a la disponibilidad financiera de la propia Dirección de Pensiones. La Junta Directiva, determinará anualmente en lo general, los montos máximos que habrán de ejercerse en las diferentes modalidades de préstamos considerando los criterios que determine anualmente la Junta Directiva.
+###### ARTÍCULO 25.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
-
-El otorgamiento de préstamos hipotecarios de los trabajadores temporales estarán sujetos previamente al análisis de la Dirección de Pensiones y al acuerdo respectivo de la Junta Directiva.
-
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
-
-La retención que realicen los sujetos obligados por concepto de descuentos de préstamos y aportaciones al fondo de pensiones, serán de manera preferente sobre cualquier otra deducción a favor de terceros; salvo resolución judicial.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+La edad mínima para ingresar a la educación básica en el nivel preescolar es de tres años, y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
 ## TÍTULO TERCERO. DEL PROCESO EDUCATIVO
 
 ### CAPÍTULO I. DE LA ORIENTACIÓN INTEGRAL EN EL PROCESO EDUCATIVO
 
-###### Artículo 61.
+###### ARTÍCULO 61.
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+La orientación integral en el proceso educativo comprende la formación para la vida de las y los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de la escuela con la comunidad y la adecuada formación de las maestras y maestros en los procesos de enseñanza aprendizaje, acorde con este criterio.
 
-###### Artículo 62.
+###### ARTÍCULO 62.
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+En el proceso educativo, deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para que asuma la educación permanente, como una actitud individual y conciba al Sistema Educativo Estatal como factor coadyuvante del proceso.
 
-###### Artículo 63.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
-Los préstamos a corto plazo se harán a los servidores públicos, conforme a las disposiciones siguientes:
+###### ARTÍCULO 63.
 
-I. A quienes hayan cubierto a la Dirección de Pensiones las aportaciones a que se refiere el artículo 22 de la Ley, cuando menos por seis meses;
+La orientación integral en la formación considerará lo siguiente:
 
-II. Mediante garantía del total de dichas aportaciones, las que en caso de mora de tres o más quincenas consecutivas, serán aplicadas al adeudo sin necesidad de requerimiento o aviso previo, aún y cuando se encuentren como servidores públicos, debiendo el deudor pagar la cantidad actualizada;
+I. El pensamiento lógico matemático y la alfabetización numérica;
 
-III. (DEROGADA, P.O. 1 DE JUNIO DE 2018)
+II. La comprensión lectora, la expresión oral y escrita, con elementos de la lengua que permitan la construcción de conocimientos correspondientes a distintas disciplinas y favorezcan la interrelación entre ellos;
 
-IV. (DEROGADA, P.O. 1 DE JUNIO DE 2018)
+III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento y aprendizaje digital, manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+IV. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación;
 
-V. En caso de ser insuficiente las aportaciones al fondo de pensiones, la diferencia se garantizará en forma solidaria con el aval de uno o dos servidores públicos contribuyentes al fondo; de conformidad con el artículo 31 fracción IV de la Ley;
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2023)</small>
 
-VI. Los pensionados o jubilados con excepción de las pensiones derivadas tendrán derecho a préstamos personales a corto plazo, hasta por el importe de cuatro meses de la jubilación o pensión que les corresponda; y,
+Dicho conocimiento deberá estar sustentado en principios éticos de desarrollo sostenible, cuyo objetivo primordial sea la satisfacción mesurada de las necesidades humanas, y que contribuya a la conservación del equilibrio del medio ambiente;
 
-VII. El monto del préstamo lo constituirá el capital y los intereses correspondientes al plazo señalado para el pago del mismo.
+V. El pensamiento filosófico, histórico y humanístico;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
 
-###### Artículo 64.
+VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
 
-El trámite de otorgamiento de préstamo de corto plazo se deberá presentar ante la Dirección de Pensiones la documentación siguiente:
+VIII. El logro de las y los educandos de acuerdo con sus capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+IX. Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
 
-I. Copia del comprobante de pago de la última quincena transcurrida; en el caso de pensionados o jubilados, copia de la constancia de pago de pensión;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+X. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas;
 
-II. Copia de identificación oficial vigente (Credencial de elector, pasaporte, cédula profesional o cartilla militar);
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-III. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IV. Copia de la clabe interbancaria vigente a nombre del solicitante
+XII. El fortalecimiento de la conciencia y los conocimientos teórico - prácticos sobre la educación sostenible y la protección y restauración ambiental, en términos de la presente ley y demás ordenamientos aplicables; y
 
-###### Artículo 65.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
 
-El monto de los préstamos de corto plazo, será de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo a favor de la Dirección de Pensiones, no exceden del 50% del sueldo o pensión del interesado, salvo lo dispuesto en el artículo 28 del presente Reglamento.
+XIII. El pensamiento colectivo, empático, cooperativo y la promoción de un modelo de competencia sana, basada en la mesura y la frugalidad.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 64.
+
+Las maestras y los maestros acompañarán a las y los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, ambientales, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+###### ARTÍCULO 65.
+
+La evaluación de las y los educandos será formativa e integral y comprenderá la valoración de los conocimientos, las habilidades, las destrezas, actitudes y, en general, el logro de los propósitos establecidos en los planes y programas de estudio.
+
+Las instituciones educativas deberán informar periódicamente a las y los educandos, a las madres y padres de familia y tutoras o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de las y los educandos que les permitan lograr un mejor aprovechamiento.
 
 ### CAPÍTULO II. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
-###### Artículo 66.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-El plazo para devolución no será mayor de 24 meses y el pago del préstamo se hará quincenalmente.
+###### ARTÍCULO 66.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+Los planes y programas a los que se refiere la Ley General de Educación favorecerán el desarrollo integral y gradual de las y los educandos en los niveles inicial, preescolar, primaria, secundaria, el tipo media superior y la normal, considerando la diversidad de saberes interculturales, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del país.
 
-###### Artículo 67.
+Sus propósitos, contenidos, procesos y estrategias educativas, recursos didácticos y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
 
-Los préstamos a corto plazo causarán un interés mínimo del 12% anual global; el que podrá ser revisado anualmente y modificado por acuerdo de la Junta Directiva, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares, más un 1% para servidores públicos y el 0.50% para jubilados y pensionados, ambos sobre el capital del préstamo otorgado, para la constitución del fondo de seguro para este tipo de préstamos, de conformidad con lo dispuesto por el artículo 44 de la Ley.
+El proceso educativo que se genere a partir de la aplicación de los planes y programas de estudio se basará en la libertad, creatividad y responsabilidad que aseguren una armonía entre las relaciones de educandos y docentes; a su vez, promoverá el trabajo colaborativo para asegurar la comunicación y el diálogo entre los diversos actores de la comunidad educativa.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE ENERO DE 2022)</small>
+Los libros de texto que se utilicen para cumplir con los planes y programas de estudio para impartir educación por el Estado y que se derive de la aplicación del presente Capítulo, serán los autorizados por la autoridad educativa federal en los términos de la Ley General de Educación, por lo que queda prohibida cualquier distribución, promoción, difusión o utilización de los que no cumplan con este requisito. Las autoridades escolares, madres y padres de familia, tutoras o tutores harán del conocimiento de las autoridades educativas estatal o municipales cualquier situación contraria a este precepto.
 
-###### Artículo 68.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-La Dirección de Pensiones constituye un fondo especial de seguro con la finalidad de liquidar los préstamos que quedaren insolutos al fallecer el servidor público, jubilado o pensionado a quien se hubiere otorgado.
+###### ARTÍCULO 67.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+Los planes y programas de estudio de la educación inicial, preescolar, primaria, secundaria, normal y demás aplicables para la formación de maestras y maestros de educación básica serán los que determine la autoridad educativa federal, conforme a lo dispuesto en la Ley General de Educación.
 
-###### Artículo 69.
+De conformidad a las disposiciones que se emitan, la Secretaría emitirá su opinión para que se considere en los planes y programas de estudio el contenido los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado de Puebla, atendiendo a los fines y criterios establecidos en los artículos 13 y 14 de esta Ley.
 
-Para los efectos de la constitución del fondo de seguro en sus diversas modalidades los servidores públicos, pensionados o jubilados aportarán el siguiente porcentaje sobre el capital del préstamo otorgado:
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+La Secretaría podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje, atendiendo al programa curricular de formación de docentes en atención a la diversidad cultural y lingüística.
 
-Hipotecario Corto plazo Corto
+En la elaboración de los planes y programas de estudio a los que se refiere este artículo, se podrán fomentar acciones para que emitan su opinión las maestras y los maestros, así como las niñas, niños, adolescentes y jóvenes. De igual forma, serán consideradas las propuestas que se formulen de acuerdo con el contexto de la prestación del servicio educativo y respondan a los enfoques humanista, social, crítico, comunitario e integral de la educación, entre otros, para la recuperación de los saberes locales.
 
-plazo en
+Los planes y programas de estudio en educación media superior atenderán el marco curricular común que sea establecido por la Secretaría con la participación de la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Puebla, con el propósito de contextualizarlos a sus realidades regionales. La elaboración de planes y programas de estudio de los bachilleratos de universidades públicas autónomas por ley se sujetará a las disposiciones correspondientes.
 
-la modalidad
+###### ARTÍCULO 68.
 
-de
+Los planes y programas que la autoridad educativa federal determine en cumplimiento de la Ley General de Educación, así como sus modificaciones, se publicarán en el Periódico Oficial del Estado y, previo a su aplicación, se deberá capacitar a las maestras y los maestros respecto de su contenido y métodos, así como generar espacios para el análisis y la comprensión de los referidos cambios.
 
-consumo
+En el caso de los planes y programas para la educación media superior, podrán publicarse en los medios informativos oficiales de las autoridades educativas estatales y de los organismos descentralizados correspondientes.
 
-Servidores Públicos 2% 1% 2%
+###### ARTÍCULO 69.
 
-Pensionistas y Jubilados 2% 0.50% 2%
+La opinión que se emita por la Secretaría sobre el contenido de los planes y programas de estudio será, entre otros, respecto a lo siguiente:
+
+I. El aprendizaje de las matemáticas;
+
+II. El conocimiento de la lecto-escritura y la literacidad, para un mejor aprovechamiento de la cultura escrita;
+
+III. El aprendizaje de la historia, la geografía, el civismo y la filosofía;
+
+IV. El fomento de la investigación, la ciencia, la tecnología y la innovación, así como su comprensión, aplicación y uso responsables;
+
+V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro país, la importancia de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos y comunidades indígenas y afromexicanas;
+
+VI. El aprendizaje de las lenguas extranjeras;
+
+VII. El fomento de la activación física, la práctica del deporte y la educación física;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VIII. La promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre; considerando en su caso, la diversidad gastronómica y la medicina tradicional de los pueblos y comunidades indígenas.
+
+IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
+
+X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+
+XI. La educación socioemocional;
+
+XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias;
+
+XIII. El reconocimiento de la diversidad de capacidades de las personas, a partir de reconocer su ritmo, estilo e intereses en el aprendizaje, así como el uso del Lenguaje de Señas Mexicanas, y fortalecer el ejercicio de los derechos de todas las personas;
+
+XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera;
+
+XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en las y los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+
+XVI. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
+
+XVII. El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
+
+XVIII. El fomento de los valores y principios del cooperativismo que propicien la construcción de relaciones, solidarias y fraternas;
+
+XIX. La promoción de actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
+
+XX. El fomento de la lectura y el uso de los libros, materiales diversos y dispositivos digitales;
+
+XXI. La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
+
+XXII. El conocimiento de las artes, la valoración, la apreciación, preservación y respeto del patrimonio musical, cultural y artístico, así como el desarrollo de la creatividad artística por medio de los procesos tecnológicos y tradicionales;
+
+XXIII. La enseñanza de la música para potencializar el desarrollo cognitivo y humano, así como la personalidad de las y los educandos;
+
+XXIV. El fomento de los principios básicos de seguridad y educación vial, y
+
+XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y en los artículos 13 y 14 de la presente Ley.
 
 ### CAPÍTULO III. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL EN EL PROCESO EDUCATIVO
 
-###### Artículo 70.
+###### ARTÍCULO 70.
 
-La Dirección de Pensiones de conformidad con lo establecido en el artículo 44 de la Ley, liquidará los préstamos que quedaran insolutos al fallecer el servidor público, pensionado o jubilado a quien se hubiera otorgado.
+En la educación que se imparta en el Estado de Puebla, se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de las y los educandos, además del establecimiento de programas de educación a distancia y semi presencial para cerrar la brecha digital y las desigualdades en la población.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
 
-###### Artículo 71.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-En ningún caso habrá lugar a la devolución o la bonificación de las aportaciones que los servidores públicos hagan para constituir el fondo a que se refiere este concepto.
+Se fomentará el uso de plataformas educativas digitales bilingües en las lenguas originarias del Estado de Puebla.
+
+###### ARTÍCULO 71.
+
+La Secretaría, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
 
 ### CAPÍTULO IV. DE LA GUÍA OPERATIVA PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS SERVICIOS DE EDUCACIÓN BÁSICA Y MEDIA SUPERIOR
 
-###### Artículo 72.
+###### ARTÍCULO 72.
 
-El Fondo de seguro es administrado por la Dirección de Pensiones y sus recursos tienen como origen el pago que los acreditados hacen al mismo, cubriéndose únicamente en caso de su fallecimiento.
+La Secretaría emitirá una Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior, el cual será un documento de carácter operativo y normativo que tendrá la finalidad de apoyar la planeación, organización y ejecución de las actividades docentes, pedagógicas, directivas, administrativas y de supervisión de cada plantel educativo enfocadas a la mejora escolar, atendiendo al contexto regional de la prestación de los servicios educativos en el Estado de Puebla.
 
-###### Artículo 73.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-El fondo de seguro constituido para los tipos de préstamos establecidos en la Ley, solo es aplicable para las parcialidades por vencer al momento de suceder el siniestro, siempre y cuando se encuentre al corriente en el pago de sus parcialidades establecidas en las condiciones del pago del préstamo otorgado, de lo contrario el adeudo deberá cobrarse con cargo al deudor a sus beneficiarios o herederos legítimos.
+En todo caso, se atenderán las características y necesidades de las escuelas ubicadas en contextos indígenas, con niveles altos de marginación.
+
+###### ARTÍCULO 73.
+
+La elaboración de la Guía a la que se refiere este Capítulo se apegará a las disposiciones y lineamientos de carácter general que emita la autoridad educativa federal. En dicha Guía se establecerán los elementos de normalidad mínima de la operación escolar, cuyo objetivo es dar a conocer las normas y los procedimientos institucionales y, con ello, facilitar la toma de decisiones para fortalecer la mejora escolar.
 
 ### CAPÍTULO V. DEL CALENDARIO ESCOLAR
 
-###### Artículo 74.
+###### ARTÍCULO 74.
 
-No operará el beneficio del fondo de seguro:
+El calendario escolar para cada ciclo lectivo de la educación básica y normal, y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables, será el que determine la autoridad educativa federal conforme a lo dispuesto en la Ley General de Educación.
 
-I. En caso de suicidio del acreditado o lesiones autoinflingidas;
+Las autoridades escolares, previa autorización de la Secretaría y de conformidad con los lineamientos que expida la autoridad educativa federal, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+###### ARTÍCULO 75.
 
-II. Cuando al solicitar el crédito hipotecario en cualquiera de sus modalidades o a corto plazo, se padezca una enfermedad en periodo terminal; y
+En días escolares, las horas de labor escolar se dedicarán a la orientación integral del educando, a través de la práctica docente, actividades educativas y otras que contribuyan a los principios, fines y criterios de la educación, conforme a lo previsto en los planes y programas de estudio aplicables.
 
-III. Cuando el acreditado no se encuentre al corriente en el pago de sus parcialidades en los términos establecidos en el contrato respectivo.
+Las actividades no previstas en los planes y programas de estudio, o bien la suspensión de clases, sólo podrán ser autorizadas por la autoridad que haya establecido o, en su caso, ajustado el correspondiente calendario escolar. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas o del calendario señalado por la autoridad educativa federal.
 
-###### Artículo 75.
+De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos.
 
-Para la comprobación del suicidio, las lesiones autoinfligidas y el padecimiento de enfermedades terminales, la Dirección de Pensiones podrá allegarse de todos los elementos de prueba necesarios.
+###### ARTÍCULO 76.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+El calendario que la autoridad educativa federal determine para cada ciclo lectivo de educación preescolar, primaria, secundaria, normal y demás para la formación de maestras y maestros de educación básica, se publicará en el Diario Oficial de la Federación.
 
-###### Artículo 76.
-
-Deberán de adecuarse los procedimientos administrativos en las áreas involucradas para que todo afiliado que solicite un préstamo hipotecario en cualquiera de sus modalidades y a corto plazo, manifieste por escrito que no tiene conocimiento de padecer de ninguna enfermedad terminal.
+La Secretaría publicará en el Periódico Oficial del Estado, las autorizaciones de ajustes al calendario escolar determinado por la autoridad educativa federal.
 
 ### CAPÍTULO VI. DE LA PARTICIPACIÓN DE MADRES Y PADRES DE FAMILIA, TUTORAS O TUTORES EN EL PROCESO EDUCATIVO
 
-###### Artículo 77.
+###### ARTÍCULO 77.
 
-En el otorgamiento de jubilaciones y pensiones se tomará como base para calcular el monto de una jubilación o pensión, el equivalente al salario regulador del servidor público, promediando el salario base de cotización de los últimos tres años es decir las últimas 72 aportaciones recibidas de manera quincenal, con un monto máximo diario de pensión o jubilación de hasta los (sic) veinte veces el valor diario de la Unidad de Medida y Actualización Vigente.
+Las madres y padres de familia, tutoras o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
-Los pensionados o jubilados que se encuentren en el supuesto que marca el artículo 65 de la Ley, de inmediato deberán reintegrar las cantidades actualizadas percibidas indebidamente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 78.
 
-Los servidores públicos contribuyentes al fondo de pensiones, en el caso que sean jubilados o pensionados, no tendrán derecho a la devolución de descuentos con que hayan contribuido al mismo; el importe acumulado por este concepto se destinará para financiar la jubilación o pensión que conforme a la Ley le corresponda.
-
-###### Artículo 78.
-
-Para el caso del fallecimiento de un pensionado o jubilado el monto de su último pago realizado por este concepto, se tomará como base para calcular el monto para el otorgamiento de la pensión derivada.
-
-Los servidores públicos o familiares derechohabientes deberán de cumplir con los requisitos establecidos en la Ley y el presente Reglamento, para el derecho al goce de la jubilación o pensión.
+La Secretaría desarrollará actividades de información y orientación para las familias de las y los educandos en relación con prácticas de acompañamiento enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud y atención de la menstruación, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, respeto, cuidado y restauración del medio ambiente y otros temas que permitan a madres y padres de familia, tutoras o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### CAPÍTULO VII. DE OTROS COMPLEMENTOS DEL PROCESO EDUCATIVO
 
-###### Artículo 79.
+###### ARTÍCULO 79.
 
-La Dirección de Pensiones, podrá en cualquier tiempo comprobar la veracidad de los documentos, hechos y datos que hayan servido de base para conceder una pensión o jubilación.
+Las empresas a que se refiere la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa estatal.
 
-###### Artículo 80.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Los servidores públicos que se encuentren en el supuesto establecido en el artículo 61 de la Ley; la incapacidad física o mental se acreditará con el dictamen médico expedido por el Instituto Mexicano del Seguro Social, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o la Secretaria de Salud en el cual se establezca la incapacidad respectiva; en caso de que no fuere posible realizarlo a través de dichos Institutos de Salud, la Dirección de Pensiones solicitará a los servidores públicos someterse a los reconocimientos o pruebas médicas ante las instancias que considere pertinentes para acreditar dicha incapacidad y estar en condiciones de otorgar la pensión.
+Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y adecuadas para personas con discapacidad y demás elementos necesarios para realizar su función, como servicios básicos, tecnológicos y conectividad, en los términos que señalen las disposiciones aplicables.
+
+El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa local en igualdad de circunstancias.
+
+La Secretaría podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente artículo.
+
+###### ARTÍCULO 80.
+
+La formación para el trabajo deberá estar enfocada en la adquisición de conocimientos, habilidades, destrezas y actitudes, que permitan a la persona desempeñar una actividad productiva, mediante alguna ocupación o algún oficio calificado. Se realizará poniendo especial atención a las personas con discapacidad con el fin de desarrollar capacidades para su inclusión laboral.
+
+La autoridad educativa federal, en términos de la Ley General de Educación, establecerá un régimen de certificación referido a la formación para el trabajo aplicable en toda la República, conforme al cual sea posible ir acreditando conocimientos, habilidades, destrezas y capacidades -intermedios o terminales- de manera parcial y acumulativa, independientemente de la forma en que hayan sido adquiridos.
+
+La autoridad educativa federal, conjuntamente con las demás autoridades federales competentes, determinará los lineamientos generales aplicables en toda la República para la definición de aquellos conocimientos, habilidades, destrezas y actitudes susceptibles de certificación, así como de los procedimientos de evaluación correspondientes, sin perjuicio de las demás disposiciones locales en atención a requerimientos específicos. Los certificados serán otorgados por las instituciones públicas y los particulares señalados en estos lineamientos, en cuya determinación, así como en la decisión sobre los servicios de formación para el trabajo que sean ofrecidos, las autoridades competentes establecerán procedimientos que permitan considerar las necesidades, propuestas y opiniones de los diversos sectores productivos, a nivel nacional, estatal o municipal.
+
+Podrán celebrarse convenios para que la formación para el trabajo se imparta por la autoridad educativa estatal, los ayuntamientos, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares. La formación para el trabajo que se imparta en términos del presente artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO CUARTO. DEL EDUCANDO
 
 ### CAPÍTULO I. DEL EDUCANDO COMO PRIORIDAD EN EL SISTEMA EDUCATIVO ESTATAL
 
-###### Artículo 81.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Tendrá (sic) derecho a la jubilación los servidores públicos que tengan 30 años o más de contribuir al fondo de pensiones y si comenzaron a cotizar al sistema de pensiones después de la reforma a la Ley publicada el 25 de agosto del 2015 deberán contar además con 60 años de edad.
+###### ARTÍCULO 81.
 
-###### Artículo 82.
+En la educación que se imparta en el Estado de Puebla, se priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación con enfoque intercultural y bilingüe. Para tal efecto, la Secretaría garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
 
-Para los efectos del artículo anterior, los servidores públicos, deberán de cumplir con los requisitos siguientes:
+###### ARTÍCULO 82.
 
-I. Acta de nacimiento original del titular, cónyuge e hijos menores de 18 años (reciente);
+Las y los educandos son los sujetos más valiosos de la educación con pleno derecho a desarrollar todas sus potencialidades de forma activa, transformadora y autónoma.
 
-II. Acta de matrimonio original (reciente);
+Como parte del proceso educativo, las y los educandos tendrán derecho a:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar);
+I. Recibir una educación de excelencia, intercultural y bilingüe en los pueblos y comunidades indígenas y afromexicanas;
 
-IV. Copia de CURP (Clave Única del Registro de Población) del titular y cónyuge;
+II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión;
 
-V. Hoja de baja como trabajador al servicio del Gobierno (sic) Estado (para efectos del pago de jubilación o pensión) expedida por la dependencia competente
+III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión;
 
-VI. Copia del comprobante de pago de la última quincena transcurrida;
+V. Recibir una orientación educativa y vocacional;
 
-VII. Permiso prejubilatorio (en su caso);
+VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y desarrollo integral;
 
-VIII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
 
-IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+VIII. Recibir becas y demás apoyos económicos priorizando a las y los educandos de toda la educación básica y media superior que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación, de los pueblos y comunidades indígenas y afromexicanas;
 
-X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión;
+IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] , P.O. 3 DE ABRIL DE 2019)</small>
+X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
 
-XI. Constancia de Registro Federal de Contribuyentes con homoclave; y,
+La Secretaría establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 83.
 
-XII. Demás documentos que la Dirección de Pensiones estime conveniente.
+La Secretaría creará para cada educando desde educación inicial hasta media superior, un expediente único en el que se contengan los datos sobre su trayectoria académica. En todo momento, la Secretaría deberá atender las disposiciones aplicables en materia de transparencia y protección de datos personales.
 
-###### Artículo 83.
+La información del expediente al que se refiere este artículo se proporcionará a la autoridad educativa federal para actualizar el Sistema de Información y Gestión Educativa, según lo dispuesto en la Ley General de Educación y demás disposiciones aplicables.
 
-Tendrá derecho a la pensión por Invalidez cuando un servidor público se inhabilite física o mentalmente, temporal o permanentemente, por causa del servicio o a consecuencia de él, de conformidad con el artículo 59 de la Ley.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 84.
 
-Para los efectos del artículo 62 de la Ley, cuando el servidor público pensionado por invalidez recupere su capacidad para el trabajo, se cancelará el pago de la pensión; el importe acumulado de descuentos con que hubiera contribuido al fondo al momento de ser pensionado, y que de conformidad con el artículo 77 del presente Reglamento se había destinado para el pago de su pensión, se restituirá al fondo solidario, restableciéndose con ello los derechos de cotización generados al momento en que se otorgó la pensión temporal por invalidez.
+Los planteles educativos de nivel básico a medio superior que formen parte del Sistema Educativo Estatal, procurarán contar con al menos un profesional en psicología o trabajo social, con el objeto de brindar apoyo a las niñas, niños y adolescentes a fin de prevenir y erradicar el abuso sexual, acoso escolar, embarazos adolescentes y conductas antisociales de las y los educandos, y así garantizar su salud emocional, mental y libre desarrollo de la personalidad. Cuando los servicios educativos se realicen a distancia, la Secretaría deberá implementar estrategias digitales para promover la salud mental de las y los educandos.
 
-###### Artículo 84.
+De igual forma, la Secretaría ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y las necesidades de cada plantel, a fin de garantizar lo establecido en el párrafo anterior, así como fomentar una conciencia crítica que perfile a las y los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
 
-Para los efectos del artículo anterior del presente Reglamento, los servidores públicos, deberán de cumplir con los requisitos siguientes:
-
-I. Acta de nacimiento original del titular, cónyuge e hijos menores de 18 años (reciente);
-
-II. Acta de matrimonio original (reciente);
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
-
-III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
-
-IV. Copia de CURP (Clave Única del Registro de Población) del titular y cónyuge;
-
-V. Hoja de baja por invalidez como trabajador al servicio del Gobierno del Estado expedida por la dependencia competente;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
-
-VI. Copia del comprobante de pago de la última quincena transcurrida;
-
-VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
-
-VIII. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión;
-
-IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
-
-X. Dictamen de invalidez parcial o total expedido por una Institución Médica;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2019)</small>
-
-XI. Constancia de Registro Federal de Contribuyentes con homoclave; y,
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2019)</small>
-
-XII. Demás documentos que la Dirección de Pensiones estime conveniente.
+Las acciones, servicios y estrategias que emprenda la Secretaría en materia de Salud Mental deberán privilegiar la coordinación con las autoridades sanitarias competentes.
 
 ### CAPÍTULO II. DEL FOMENTO DE ESTILOS DE VIDA SALUDABLES EN EL ENTORNO ESCOLAR
 
-###### Artículo 85.
+###### ARTÍCULO 85.
 
-Tendrá derecho a la pensión por vejez los servidores públicos que tengan 60 años o más de edad y tengan cuando menos 15 años de contribuir al fondo de pensiones; y si hubieren ingresado a cotizar al fondo de pensiones después de la publicación de la reforma a la ley de pensiones de fecha 25 de agosto del 2015 deberán de contar con 65 años de edad.
+La Secretaría, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emita la autoridad educativa federal sobre la distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela.
 
-###### Artículo 86.
+La Secretaría realizará acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de las y los educandos.
 
-Para los efectos del artículo anterior, los servidores públicos, deberán de cumplir con los requisitos siguientes:
+###### ARTÍCULO 86.
 
-I. Original de acta de nacimiento del titular, cónyuge e hijos menores de 18 años (reciente);
+Dentro de las escuelas queda prohibida la distribución y comercialización de los alimentos que no favorezcan la salud de las y los educandos, así como las bebidas energizantes.
 
-II. Original de acta de matrimonio (reciente);
+Las autoridades educativas estatal y municipales promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) del titular y cónyuge;
+###### ARTÍCULO 87.
 
-IV. Copia de CURP del titular y cónyuge;
+La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad, así como trastornos de la conducta alimentaria, entre las y los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas respectivas.
 
-V. Hoja de baja como trabajador al servicio del Gobierno del Estado (para efectos del pago de jubilación o pensión) expedida por la dependencia competente;
+El gobierno del Estado de Puebla, dispondrá las medidas para que los certificados médicos de las y los educandos que se requieran para sus trámites escolares se emitan sin costo alguno.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 88.
 
-VI. Copia del comprobante de pago de la última quincena transcurrida;
+Las cooperativas que funcionen con la participación de la comunidad educativa tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de las y los educandos y su operación será con apego a los lineamientos que establezca la autoridad educativa federal y a las demás disposiciones aplicables.
 
-VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+###### ARTÍCULO 89.
 
-VIII. Oficio de autorización de permiso pre-pensionario (en su caso);
-
-IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
-
-X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2019)</small>
-
-XI. Constancia de Registro Federal de Contribuyentes con homoclave; y,
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2019)</small>
-
-XII. Demás documentos que la Dirección de Pensiones estime conveniente.
-
-###### Artículo 87.
-
-Las disposiciones del presente Capítulo, reglamentan las pensiones derivadas que se establecen en el artículo 62 bis de la Ley.
-
-###### Artículo 88.
-
-Cuando fallezca un servidor público, pensionado o jubilado, sus familiares derechohabientes tendrán derecho a gozar de una pensión, con las modalidades y requisitos que la Ley y el presente Reglamento, señala para tal efecto. Las modalidades de la pensión por fallecimiento, serán las siguientes:
-
-I. Por viudez;
-
-II. Por orfandad; y,
-
-III. Por ascendencia.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
-
-El derecho al pago de la pensión por fallecimiento se generará a partir de la fecha que sea presentada la solicitud y requisitos a la Dirección de Pensiones, para su autorización por la Junta Directiva; y se tomará como base para determinar el otorgamiento de pensión, el equivalente al salario regulador del servidor público fallecido, promediando del salario base de cotización los últimos 3 años, es decir, las 72 aportaciones recibidas de manera quincenal al fondo de pensiones, salvo lo contemplado en el artículo cuarto transitorio de la Ley, con un monto máximo diario de pensión de hasta veinte veces el valor diario de la Unidad de Medida y Actualización Vigente.
-
-Para el caso del fallecimiento de un pensionado o jubilado, el monto de su último pago realizado por este concepto, se tomará como base para el otorgamiento de la pensión derivada.
-
-###### Artículo 89.
-
-Para que los familiares derechohabientes puedan gozar de una pensión derivada de la muerte de un servidor público, en sus distintas modalidades, este debió de haber contribuido al fondo de pensiones durante al menos 15 años.
+La Secretaría, de acuerdo con la suficiencia presupuestal, impulsará programas alimentarios para las y los educandos a partir de microempresas locales, en escuelas ubicadas en zonas de pobreza, alta marginación y vulnerabilidad social.
 
 ### CAPÍTULO III. DE LA CULTURA DE LA PAZ, CONVIVENCIA DEMOCRÁTICA EN LAS ESCUELAS Y ENTORNOS ESCOLARES LIBRES DE VIOLENCIA
 
-###### Artículo 90.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Cuando concurran viuda o viudo, concubina, hijos o ascendientes, para la obtención de una pensión de las que se establecen en el presente Reglamento, el monto que en común corresponda a todos los beneficiarios nunca excederá el 65 % del monto que hubiere podido corresponder al servidor público, jubilado o pensionado, fallecido. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones. Si a uno de los beneficiarios que menciona este artículo no le corresponde más el derecho de seguir disfrutando de la pensión otorgada, su parte será redistribuida proporcionalmente entre los demás beneficiarios.
+###### ARTÍCULO 90.
 
-###### Artículo 91.
+En la impartición de educación para menores de dieciocho años, la Secretaría en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica, emocional y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
-Si después de otorgada una pensión por fallecimiento en sus diversas modalidades, se presentaren otros beneficiarios solicitando se reconozca su derecho a ella y fuere declarada procedente, la Dirección de Pensiones les otorgará el beneficio que les corresponda, a partir de la fecha en que fue presentada su solicitud, redistribuyendo y ajustando las pensiones otorgadas según sea el caso. Si la solicitud presentada consistiere en el reconocimiento de un derecho de preferencia sobre una pensión ya otorgada, se suspenderá el pago al pensionado cuyo derecho fue reconocido inicialmente, hasta en tanto no sea resuelta la referida solicitud; y en caso de que ésta sea procedente, se revocará la pensión inicialmente otorgada; y si fuere improcedente, se le cubrirán al beneficiario inicialmente reconocido, las cantidades que hubiere dejado de cobrar por concepto de pensión.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 92.
+Los docentes y el personal que labora en los planteles de educación deberán estar capacitados con materiales pertinentes por parte de las autoridades educativas para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
-Los familiares derechohabientes que gocen del pago de una pensión por fallecimiento en sus diversas modalidades, deberán presentarse a la Dirección de Pensiones cuando sea requerido debiendo dar las facilidades necesarias para que se lleven a cabo los estudios socioeconómicos y reconocimientos médicos que en su caso prescriba la Dirección de Pensiones.
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
-###### Artículo 93.
+En caso de presentarse un conflicto entre los integrantes de la comunidad educativa, los directivos del plantel promoverán la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda.
 
-Los familiares derechohabientes que gocen del pago de una pensión por fallecimiento, tendrán la obligación de informar a la Dirección de Pensiones, cuando se encuentren en alguno de los supuestos que marca el presente Reglamento, para la revocación de dicha pensión, contando con un plazo no mayor de 15 días hábiles para tal efecto, y de inmediato deberán reintegrar las cantidades actualizadas percibidas indebidamente.
+En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
+Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia, tutoras o tutores, las autoridades escolares de las escuelas públicas y privadas de educación obligatoria informarán a la Secretaría, la cual emitirá una Alerta Temprana y será remitida a las autoridades competentes para la protección de niñas, niños y adolescentes para los efectos correspondientes.
+
+###### ARTÍCULO 91.
+
+Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren las y los educandos, las y los docentes, madres y padres de familia, tutoras o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+
+Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, en los buenos usos y costumbres de cada comunidad para fortalecer la cohesión comunitaria y una convivencia democrática;
+
+II. Promover en la formación docente contenidos y prácticas relacionados con la cultura de la paz y la resolución pacífica de conflictos;
+
+III. Proporcionar atención psicosocial y, en su caso, orientación sobre las vías legales a la persona agresora y a la víctima de violencia o maltrato escolar, ya sea psicológico, físico o cibernético, así como a las receptoras indirectas de maltrato dentro de las escuelas;
+
+IV. Establecer los mecanismos gratuitos de asesoría, orientación, reporte de casos y de protección para las niñas, niños, adolescentes y jóvenes que estén involucrados en violencia o maltrato escolar, ya sea psicológico, físico o cibernético, procurando ofrecer servicios remotos de atención, a través de una línea pública telefónica u otros medios electrónicos;
+
+V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación estudios, investigaciones, informes y diagnósticos que permitan conocer las causas y la incidencia del fenómeno de violencia o maltrato entre escolares en cualquier tipo, ya sea psicológica, física o cibernética, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de las y los educandos, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades, así como las medidas para atender dicha problemática;
+
+VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+
+VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales, promoviendo la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda;
+
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
+
+IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 92.
+
+La Secretaría, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo anterior de esta Ley. Entre los protocolos que se emitan, deberán comprender la detección de accidentes, la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario, así como los casos que se presenten por discriminación en términos de lo establecido en el último párrafo del artículo primero de la Constitución Política de los Estados Unidos Mexicanos. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 92 BIS. Las autoridades educativas promoverán, en todo proceso educativo, contenidos no estereotipados de las mujeres y de los hombres, evitando la realización de concursos, certámenes, elecciones o cualquier otra forma de competencia en la que se evalúe, de forma integral o parcial, la belleza o la apariencia física de niñas, niños y adolescentes.
+
+###### ARTÍCULO 93.
+
+La Secretaría emitirá los lineamientos para la contratación optativa de un seguro escolar contra accidentes personales para educandos que cursen el tipo básico. Dichas disposiciones contendrán los esquemas de subsidios que, en su caso, contemple el Gobierno del Estado de Puebla.
 
 ## TÍTULO QUINTO. DE LA REVALORIZACIÓN DE LAS MAESTRAS Y LOS MAESTROS
 
 ### CAPÍTULO I. DEL MAGISTERIO COMO AGENTE FUNDAMENTAL EN EL PROCESO EDUCATIVO
 
-###### Artículo 94.
+###### ARTÍCULO 94.
 
-Tendrá derecho a la pensión por viudez, el cónyuge del servidor público, pensionado o jubilado fallecido; a falta de cónyuge tendrá derecho a recibir la pensión, la persona con quien el servidor público, pensionado o jubilado fallecido, acredite que vivió como concubino durante los 5 años que precedieron inmediatamente a su muerte, o con quien tuvo hijos siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la transformación social.
 
-###### Artículo 95.
+Los esfuerzos y las acciones de las autoridades educativas del Estado de Puebla, en la revalorización de las maestras y los maestros para efectos de esta Ley, perseguirá los siguientes fines:
 
-Para los efectos del artículo anterior, los familiares derechohabientes, deberán de cumplir con los requisitos siguientes:
+I. Priorizar su labor para el logro de metas y objetivos centrados en el aprendizaje de las y los educandos;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+II.- Fortalecer su desarrollo y superación profesional mediante la formación, capacitación y actualización;
 
-I. Acta de nacimiento original de la viuda o del viudo y del servidor público fallecido (reciente);
+III. Fomentar el respeto a la labor docente y a su persona por parte de las autoridades educativas, de las y los educandos, madres y padres de familia, tutoras o tutores y sociedad en general; así como fortalecer su liderazgo en la comunidad;
 
-II. Acta de matrimonio original (reciente);
+IV. Reconocer su experiencia, así como su vinculación y compromiso con la comunidad y el entorno donde labora, para proponer soluciones de acuerdo a su contexto educativo;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+V. Priorizar su labor pedagógica y el máximo logro de aprendizaje de las y los educandos sobre la carga administrativa;
 
-III. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) de la viuda o el viudo del servidor público fallecido;
+VI. Promover su formación, capacitación y actualización de acuerdo con su evaluación diagnóstica y en el ámbito donde desarrolla su labor;
 
-IV. Acta de defunción del servidor público, pensionado o jubilado;
+VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
 
-V. Copia de CURP (Clave Única del Registro de Población) de la viuda y del servidor público, fallecido;
+VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del Estado de Puebla alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
 
-VI. Hoja de baja por fallecimiento del servidor público, expedida por la dependencia competente;
+IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 95.
 
-VII. Copia del comprobante de la última quincena transcurrida;
+La Secretaría colaborará con la autoridad educativa federal en la revisión permanente de las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los docentes, de alcanzar más horas efectivas de clase y de fortalecimiento académico, en general, de lograr la prestación del servicio educativo con mayor pertinencia y eficiencia.
 
-VIII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de las madres y padres de familia, tutoras o tutores.
 
-IX. Resolución dictada por autoridad jurisdiccional en materia laboral o civil, que acredite la dependencia económica o concubinato en su caso;
+###### ARTÍCULO 96.
 
-X. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+La autoridad educativa estatal y los municipios que impartan educación básica, efectuarán las acciones necesarias para que los movimientos y pagos de ese personal, se realicen a través de un sistema de administración de nómina, en el cual se deberá identificar al menos el tipo, nivel, modalidad educativa y la clave de la plaza y del centro de trabajo correspondiente, conforme a los lineamientos que al efecto emitan conjuntamente la autoridad educativa federal y la Secretaría de Hacienda y Crédito Público.
 
-XI. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
-
-XII. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión.
-
-La Dirección de Pensiones podrá solicitar más requisitos si legalmente los considera necesarios para el trámite.
-
-###### Artículo 96.
-
-La pensión por viudez cesará con la muerte del beneficiario y será revocada en el caso de que contraiga nuevo matrimonio, o que llegare a vivir en concubinato o desapareciera la incapacidad. Para lo anterior, la Dirección de Pensiones podrá solicitar la documentación y realizar los estudios que sean necesarios para tal efecto.
+El sistema de administración de nómina deberá observar los criterios de control presupuestario de servicios personales, así como los principios de transparencia, publicidad y de rendición de cuentas, y para lo cual la Secretaría y los municipios, mediante los convenios respectivos, se coordinarán con la autoridad educativa federal y la Secretaría de Hacienda y Crédito Público. Los pagos se deberán realizar preferentemente mediante medios electrónicos.
 
 ### CAPÍTULO II. DE LOS PROCESOS DE ADMISIÓN, PROMOCIÓN Y RECONOCIMIENTO EN EDUCACIÓN BÁSICA Y EN EDUCACIÓN MEDIA SUPERIOR
 
-###### Artículo 97.
+###### ARTÍCULO 97.
 
-Cuando dos o más personas reclamen su derecho a recibir el pago de la pensión por viudez, en calidad de cónyuges del servidor público, jubilado o pensionado, fallecido, exhibiendo la documentación correspondiente, se suspenderá el trámite para su otorgamiento, hasta en tanto se resuelva por la autoridad competente la situación legal. No se otorgará ninguna pensión de viudez, cuando concurran dos o más concubinas.
+Para ejercer la docencia en instituciones establecidas por las autoridades educativas del Estado de Puebla, en educación básica y media superior, las promociones en la función y en el servicio, así como para el otorgamiento de reconocimientos, se estará a lo dispuesto por (sic) Ley General del Sistema para la Carrera de las Maestras y los Maestros.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+En el caso de los docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación permanente que diseñe la autoridad educativa y acreditar su bilingüismo en la lengua indígena que corresponda y el español.
 
 ### CAPÍTULO III. DEL SISTEMA INTEGRAL DE FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN
 
-###### Artículo 98.
+###### ARTÍCULO 98.
 
-La pensión por viudez derivada del fallecimiento de un pensionado o jubilado, será por el equivalente al 50% de la pensión que éste se encontraba disfrutando a la fecha de su muerte.
+La Secretaría constituirá el sistema integral de formación, capacitación y actualización del Estado de Puebla, para que las maestras y los maestros ejerzan su derecho de acceder a éste, en términos de lo establecido en la Ley Reglamentaria del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación.
 
-###### Artículo 99.
+Las opciones de formación, capacitación y actualización tendrán contenidos con perspectiva de género, enfoque de derechos humanos, además de tomar en cuenta los contextos locales y regionales de la prestación de los servicios educativos, así como las condiciones de vulnerabilidad social.
 
-La pensión por viudez derivada del fallecimiento de un servidor público, se aplicará de la manera siguiente:
+###### ARTÍCULO 99.
 
-I. Si la pensión a que se refiere este artículo es derivada del fallecimiento de un servidor público a causa de un riesgo de trabajo, el sueldo base se considerara en los términos del artículo 77 del presente Reglamento, y sobre éste se aplicará el porcentaje señalado en el artículo anterior; y,
+El sistema integral de formación, capacitación y actualización tendrá los siguientes fines:
 
-II. Si el fallecimiento del servidor público es producido por causa distinta a un riesgo de trabajo; para el pago de la referida pensión, se aplicará la tabla porcentual que establece el artículo 57 de la Ley al sueldo base considerando lo señalado en el artículo 77 del presente Reglamento, y a la cantidad resultante se aplicará el porcentaje señalado en el artículo 98 del presente Reglamento.
+I. La formación, con nivel de licenciatura, de maestras y maestros de educación básica con los conocimientos y aptitudes necesarios para el aprendizaje y el desarrollo integral de las y los educandos;
 
-###### Artículo 100.
+II. La formación continua, la actualización de conocimientos de las humanidades, las artes, la ciencia, la tecnología e innovación y otras que contribuyan a la superación docente de las maestras y los maestros en servicio;
 
-Tendrán derecho a recibir la pensión por orfandad, los hijos menores de dieciséis años de edad, huérfanos de padre o madre servidor público, jubilado o pensionado. Asimismo, tendrán derecho a recibir la pensión por orfandad los hijos que tengan dictaminada una invalidez, que no les permita mantenerse por sí mismos, por todo el tiempo en que dure la misma.
+III. La promoción de programas de especialización, maestría y doctorado para una orientación integral, adecuados a las necesidades, contextos regionales y locales de la prestación de los servicios educativos y de los recursos disponibles;
+
+IV. La realización de programas de inducción, actualización, capacitación y superación profesional para las maestras y maestros de educación media superior;
+
+V. La promoción del enfoque de derechos humanos, de igualdad sustantiva, la cultura de la paz y la integridad en la práctica de las funciones de las maestras y los maestros, y
+
+VI. El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
+
+La implementación del sistema integral de formación, capacitación y actualización será progresiva y se ajustará a la suficiencia presupuestaria del ejercicio fiscal correspondiente.
+
+###### ARTÍCULO 100.
+
+La Secretaría podrá suscribir convenios de colaboración con instituciones dedicadas a la formación pedagógica de los profesionales de la educación e instituciones de educación superior nacionales o extranjeras, para ampliar las opciones de formación, capacitación y actualización que para tal efecto establezca la Comisión Nacional para la Mejora Continua de la Educación.
+
+Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia generados por las instituciones de formación docente y los sectores académicos, de conformidad con los criterios que emita dicha Comisión.
 
 ### CAPÍTULO IV. DE LA FORMACIÓN DOCENTE
 
-###### Artículo 101.
+###### ARTÍCULO 101.
 
-La pensión por orfandad, podrá ser prorrogada a los hijos mayores de 16 años y hasta los 25 años, siempre y cuando se encuentren estudiando en planteles del sistema educativo nacional como alumnos regulares; para lo cual deberán acreditarlo ante la Dirección de Pensiones, mediante la documentación requerida por la misma cada vez que les sea solicitado, en un plazo no mayor de 15 días hábiles.
+Las personas egresadas de las instituciones formadoras de docencia del Estado de Puebla, contarán con el conocimiento de diversos enfoques pedagógicos y didácticos que les permita atender las necesidades de aprendizaje de niñas, niños, adolescentes y jóvenes.
 
-###### Artículo 102.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Para los efectos del artículo anterior, los familiares derechohabientes deberán de cumplir con los requisitos siguientes:
+En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de equidad de género, inclusión y atención a la diversidad cultural y lingüística para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad.
 
-I. Acta de nacimiento original de los hijos del servidor público, pensionado o jubilado fallecido y de quien funja como tutor legal (reciente);
+###### ARTÍCULO 102.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+La Secretaría fortalecerá a las instituciones públicas de formación docente, para lo cual, tendrá a su cargo, entre otras, las siguientes acciones:
 
-II. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) de hijos mayores de 18 años y del tutor legal;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-III. Original de acta de defunción del servidor público, pensionado o jubilado;
+I. Propiciar la participación de la comunidad de las instituciones formadoras de docentes, para la construcción colectiva de sus planes y programas de estudio, con enfoque humanista, intercultural y bilingüe, con especial atención en los contenidos regionales y locales, considerando el saber genuino de los pueblos y comunidades indígenas y afromexicanas, además de los contextos escolares, la práctica en el aula y los colectivos docentes, y la construcción de saberes para contribuir a los fines de la nueva escuela mexicana;
 
-IV. Copia de CURP (Clave Única de Registro de Población) de los hijos y del tutor legal;
+II. Promover la movilidad de los docentes en los diferentes sistemas y subsistemas educativos, particularmente en aquellas instituciones que tengan amplia tradición y experiencia en la formación pedagógica y docente;
 
-V. Hoja de baja por fallecimiento del servidor público, expedida por la dependencia competente;
+III. Fomentar la creación de redes académicas para el intercambio de saberes y experiencias entre las maestras y los maestros de los diferentes sistemas y subsistemas educativos;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+IV. Proporcionar las herramientas para realizar una gestión pedagógica y curricular que priorice el máximo logro del aprendizaje y desarrollo integral de las y los educandos;
 
-VI. Copia del comprobante de pago de la última quincena transcurrida;
+V. Promover la integración de un acervo físico y digital en las instituciones formadoras de docentes, de bibliografía actualizada que permita a las maestras y los maestros acceder a las propuestas pedagógicas y didácticas innovadoras;
 
-VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+VI. Promover la acreditación de grados académicos superiores de los docentes;
 
-VIII. Resolución dictada por autoridad jurisdiccional, que acredite la tutoría legal de los hijos menores de 18 años;
+VII. Promover la investigación educativa y su financiamiento, a través de programas permanentes y de la vinculación con instituciones de educación superior y centros de investigación, y
 
-IX. Inscripción de la tutoría legal ante la Dirección del Registro Civil;
+VIII. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional.
 
-X. Copia del periódico oficial que contenga la publicación de la tutoría legal;
+###### ARTÍCULO 103.
 
-XI. Constancia de estudios de hijos mayores de 16 años, que acredite sus estudios en algún plantel del sistema educativo nacional;
-
-XII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
-
-XIII. Certificado de invalidez de hijos discapacitados mayores de 25 años, expedido por Institución Médica; y,
-
-XIV. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión.
-
-La Dirección de Pensiones podrá solicitar más requisitos si legalmente los considera necesarios para el trámite
-
-###### Artículo 103.
-
-La pensión por orfandad, cesará con la muerte de su beneficiario, o cuando haya alcanzado la edad límite que señala el presente Reglamento.
-
-Para lo anterior, la Dirección de Pensiones, podrá solicitar la documentación que sea necesaria para tal efecto, y asimismo realizar por lo menos una vez al año, un estudio socioeconómico.
+La Secretaría emitirá los lineamientos para proporcionar la formación inicial en el Estado de Puebla, los cuales atenderán la programación estratégica que se realice en el marco del Sistema Educativo Nacional prevista en la Ley General de Educación.
 
 ## TÍTULO SEXTO. DE LOS PLANTELES EDUCATIVOS
 
 ### CAPÍTULO ÚNICO. DE LAS CONDICIONES DE LOS PLANTELES EDUCATIVOS PARA GARANTIZAR SU IDONEIDAD Y LA SEGURIDAD DE LAS NIÑAS, NIÑOS, ADOLESCENTES Y JÓVENES
 
-###### Artículo 104.
+###### ARTÍCULO 104.
 
-La pensión por orfandad, por cada hijo reconocido legalmente, derivada por el fallecimiento de un pensionado o jubilado, será por el equivalente al 15% de la pensión que éste se encontraba disfrutando a la fecha de su muerte.
+Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje, donde se presta el servicio público de educación por parte de las autoridades educativas del Estado de Puebla, o por los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-###### Artículo 105.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
-La pensión por orfandad derivada del fallecimiento de un servidor público, se aplicará de la manera siguiente:
+Con el acuerdo de las autoridades, madres y padres de familia, tutoras o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno, así como para la instalación y funcionamiento de huertos y/o viveros escolares, y el destino de una superficie de suelo para compostas de residuos orgánicos, cuando sus condiciones lo permitan, entre otras actividades interactivas con el medio ambiente.
 
-I. Si la pensión a que se refiere este artículo es derivada del fallecimiento de un servidor público a causa de un riesgo de trabajo, se tomará en cuenta el sueldo base en los términos del artículo 77 del presente Reglamento y sobre éste se aplicará el porcentaje señalado en el artículo anterior; y,
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-II. Si el fallecimiento del servidor público es producido por causa distinta a un riesgo de trabajo, para el pago de la pensión referida, se aplicará la tabla porcentual que establece el artículo 57 de la Ley al sueldo base en los términos del artículo 77 del presente Reglamento, y la cantidad resultante se aplicará el porcentaje señalado en el artículo 104 del presente Reglamento.
+###### ARTÍCULO 105.
 
-###### Artículo 106.
+Los muebles e inmuebles destinados a la educación impartida por las autoridades educativas estatal y municipales, de acuerdo a la suficiencia presupuestaria y por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado de Puebla, en todos sus tipos, niveles y modalidades, así como los servicios e instalaciones necesarios, para proporcionar educación inclusiva, forman parte del Sistema Educativo Estatal.
 
-Cuando el beneficiario fuere huérfano de ambos padres servidores públicos, pensionados o jubilados, el monto de la pensión se elevará hasta el 20 % de la que pudiera corresponder al padre o madre fallecido con mayor sueldo, en los términos de los artículos anteriores del presente Reglamento.
+Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
-###### Artículo 107.
+La Secretaría coadyuvará con la autoridad educativa federal para mantener actualizado el Sistema Nacional de Información de la Infraestructura Física Educativa, a fin de realizar sobre ésta diagnósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles o inmuebles que se destinen al servicio educativo.
 
-Tienen derecho a la pensión por ascendencia, los padres del servidor público, jubilado o pensionado fallecido, que hubiesen dependido económicamente de aquel. La pensión por ascendencia se extinguirá con la muerte del beneficiario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 108.
+###### ARTÍCULO 106.
 
-Para los efectos del artículo anterior, los familiares derechohabientes deberán de cumplir con los requisitos siguientes:
+Con la finalidad de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, las autoridades educativas estatal y municipales, los Comités Escolares de Administración Participativa o sus equivalentes, así como el Comité Administrador Poblano para la Construcción de Espacios Educativos y los particulares que impartan educación en términos de esta Ley, atenderán las disposiciones que en la materia establezca la Ley General para la Inclusión de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Responsabilidades Administrativas, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal para Prevenir y Erradicar la Discriminación, así como aquellas que se refieran a la materia de obra pública y servicios relacionados con la misma, adquisiciones , arrendamientos y servicios, además de los lineamientos emitidos por la autoridad educativa federal a los que se refiere el artículo 103 de la Ley General de Educación y las disposiciones legales y reglamentarias aplicables a nivel federal, local y municipal.
 
-I. Acta de nacimiento original del padre o la madre del servidor público, pensionado o jubilado fallecido (reciente);
+Las universidades y demás instituciones de educación superior autónomas a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regularan en materia de infraestructura por sus órganos de gobierno y su normatividad interna.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 107.
 
-II. Copia de identificación oficial vigente con fotografía (credencial de elector, pasaporte, cédula profesional y/o cartilla del servicio militar) del padre o la madre del servidor público, pensionado o jubilado fallecido;
+Para que en un inmueble puedan prestarse servicios educativos, deben obtenerse las licencias, autorizaciones, avisos de funcionamiento y demás relacionados para su operación a efecto de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones de la normatividad municipal, estatal y federal aplicable. Además de lo anterior, deberá obtenerse un certificado de seguridad y operatividad escolar expedido por las autoridades correspondientes, en los términos que para tal efecto emita la autoridad educativa federal. Los documentos que acrediten el cumplimiento de dichos requisitos, deberán publicarse de manera permanente en un lugar visible del inmueble.
 
-III. Original del acta de defunción del servidor público, pensionado o jubilado;
+Todos los planteles educativos, públicos o privados, deberán elaborar un Plan Interno de Protección Civil, de acuerdo a los fenómenos perturbadores que amenacen la continuidad del Servicio Educativo, así como cumplir con las normas de protección civil y de seguridad que emitan las autoridades de los ámbitos federal, local y municipal competentes, según corresponda.
 
-IV. Copia de CURP (Clave Única de Registro de Población) del padre o la madre del servidor público, pensionado o jubilado fallecido;
+En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en la Ley General de Educación.
 
-V. Hoja de baja por fallecimiento del servidor público, expedida por la Dirección de Recursos Humanos respectiva;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 108.
 
-VI. Copia de comprobante de pago de la última quincena transcurrida;
+Las autoridades educativas estatal y municipales, sin distinciones y condiciones en todas las escuelas, atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas y afromexicanas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
 
-VII. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
 
-VIII. Resolución dictada por autoridad jurisdiccional, que acredite la dependencia económica del padre o la madre del servidor público, pensionado o jubilado fallecido;
+A partir de los programas que emita la Federación, se garantizará la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Secretaría de Salud en coordinación con la autoridad educativa federal, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física.
 
-IX. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+###### ARTÍCULO 109.
 
-X. Estado de cuenta o copia de tarjeta de débito o de ahorro de Institución Bancaria para el depósito del monto de pensión; y,
+La Secretaría, a través de la instancia que determine, realizará las actividades correspondientes en materia de infraestructura educativa para efecto de ejercer sus atribuciones referidas en este Capítulo y demás disposiciones legales aplicables.
 
-XI. Demás documentos que la Dirección de Pensiones estime conveniente.
+###### ARTÍCULO 110.
 
-###### Artículo 109.
+La Secretaría, en el ámbito de su respectiva competencia, deberá desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones necesarias para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
 
-La pensión por ascendencia derivada del fallecimiento de un pensionado o jubilado, será por el equivalente al 15% de la pensión que éste se encontraba disfrutando a la fecha de su muerte.
+Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamiento conforme lo establezcan las disposiciones aplicables.
 
-###### Artículo 110.
+###### ARTÍCULO 111.
 
-La pensión por ascendencia derivada del fallecimiento de un servidor público, se aplicará de la manera siguiente:
+Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán los gobiernos federales, estatales, municipales y, de manera voluntaria, madres y padres de familia, tutoras o tutores y demás integrantes de la comunidad.
 
-I. Si la pensión a que se refiere este artículo es derivada del fallecimiento de un servidor público a causa de un riesgo de trabajo, se tomará en cuenta el sueldo base en los términos del artículo 77 del presente Reglamento, y sobre éste se aplicará el porcentaje señalado en el artículo anterior; y,
+La Secretaría promoverá la participación directa de los municipios para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales. Los municipios coadyuvarán en el mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz.
 
-II. Si el fallecimiento del servidor público es producido por causa distinta a un riesgo de trabajo; para el pago de la pensión referida, se aplicará la tabla porcentual que establece el artículo 57 de la Ley al sueldo base en los términos del artículo 77 del presente Reglamento, y a la cantidad resultante se aplicará el porcentaje señalado en el artículo 109 del presente Reglamento.
+Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el mantenimiento de las escuelas públicas, previo acuerdo con la Secretaría. Las acciones que se deriven de la aplicación de este párrafo, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
 
-###### Artículo 111.
+###### ARTÍCULO 112.
 
-La Dirección de Pensiones suspenderá el pago de la pensión otorgada por el fallecimiento del servidor público, pensionado o jubilado, en los casos siguientes:
+Las autoridades educativas estatal y municipales promoverán que los colores que se utilicen en los inmuebles destinados al servicio público educativo ofertado en los planteles públicos del sistema educativo estatal, sean de color neutro.
 
-I. Cuando los familiares derechohabientes, no se sometan a los reconocimientos médicos prescritos por la Dirección de Pensiones;
+Los planteles educativos de cualquier nivel que formen parte del Sistema Educativo Estatal no deberán consignar los nombres de los funcionarios públicos y representantes populares durante el desempeño de su encargo, el de sus cónyuges o parientes hasta el segundo grado, ni el de los representantes sindicales del magisterio en funciones o por haber ocupado cargos de representación gremial.
 
-II. Si los familiares derechohabientes no acuden a la Dirección de Pensiones en la fecha fijada para tal efecto, para acreditar su sobrevivencia, cada dos años;
-
-III. Cuando los familiares derechohabientes no entreguen los documentos que la Dirección de Pensiones les requiera, o no den facilidades para llevar a cabo los estudios que sean necesarios, en los términos del presente Reglamento;
-
-IV. Si otorgada la pensión al cónyuge, se presentare otro que reclame su derecho a recibir dicho pago en calidad de cónyuge del servidor público, del jubilado o del pensionado fallecido; hasta que dicha situación legal sea resuelta por la autoridad competente;
-
-V. Cuando exista una resolución judicial que así lo determine; y,
-
-VI. En el caso de concurrencia de diversos beneficiarios.
-
-###### Artículo 112.
-
-Habrá revocación de la pensión otorgada por fallecimiento del servidor público, pensionado o jubilado, en los casos siguientes:
-
-I. Se revocará la pensión que ya ha sido otorgada por fallecimiento, en el caso de que se presentaren otros beneficiarios con mejor derecho a ella y lo comprobaren, en los términos del presente Reglamento;
-
-II. Se revocarán las pensiones otorgadas por el fallecimiento, cuando hayan sido concedidas o tramitadas, tomando como base documentos, hechos o datos falsos;
-
-III. La pensión por viudez, será revocada, en el caso de que la viuda, viudo, o concubina, contraigan nuevo matrimonio; o que llegaren a vivir en concubinato; o desapareciera la incapacidad y dependencia económica, de conformidad con el presente Reglamento; y,
-
-IV. La pensión por orfandad, será revocada en el caso de que el hijo contraiga matrimonio; que tenga un trabajo remunerado; o que llegare a vivir en concubinato; o desapareciera la incapacidad que no les había permitido mantenerse por sí mismos; o no aprobare el semestre cursado en el plantel del Sistema Educativo Nacional; de conformidad con el presente Reglamento.
+La Secretaría será la facultada para establecer las denominaciones oficiales de los planteles públicos del Sistema Educativo Estatal y deberá hacer referencia a los valores nacionales, maestras o maestros eméritos o nombres de personas ameritadas a quienes la Nación o el Estado de Puebla deba exaltar para engrandecer, nuestra esencia popular y los símbolos patrios.
 
 ## TÍTULO SÉPTIMO. DE LA MEJORA CONTINUA DE LA EDUCACIÓN
 
 ### CAPÍTULO ÚNICO. DEL PROCESO DE MEJORA CONTINUA DE LA EDUCACIÓN EN EL ESTADO DE PUEBLA
 
-###### Artículo 113.
+###### ARTÍCULO 113.
 
-Tiene derecho a una indemnización por retiro, el servidor público que se separe definitivamente del servicio, sin tener derecho a jubilación o pensión de conformidad con el artículo 70 de la Ley.
+La educación tendrá un proceso de mejora continua, el cual implica el desarrollo permanente del Sistema Educativo Estatal para el incremento del logro académico de las y los educandos. Tendrá como eje central el aprendizaje de niñas, niños, adolescentes y jóvenes de todos los tipos, niveles y modalidades educativos.
 
-A la muerte del servidor público, el derecho a que se refiere el párrafo anterior en caso de que no tengan derecho a pensión, pasará a los beneficiarios designados por éste, o en caso de no haberlos, a sus dependientes económicos y posteriormente a los herederos legítimos del causante, judicialmente declarados, a falta de los derechohabientes señalados previamente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 114.
+###### ARTÍCULO 114.
 
-Para los efectos del presente Reglamento, la indemnización por retiro corresponde a una cantidad igual a la de las aportaciones que el servidor público realizó durante el tiempo que prestó sus servicios al Gobierno del Estado, Instituciones, Organismos Descentralizados o Municipios, afectándose las percepciones si tuviere algún adeudo con la Dirección de Pensiones o responsabilidades con los sujetos obligados.
+La Secretaría coadyuvará con la Comisión Nacional para la Mejora Continua de la Educación, que oriente con enfoque de derechos humanos, sobre las cualidades, conocimientos de derechos de los actores, instituciones o procesos del Sistema Educativo Estatal, con la finalidad de contar con una retroalimentación que promueva una acción de mejora en la educación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+La evaluación a la que se refiere este artículo será integral, continua, colectiva, incluyente, diagnóstica y comunitaria. Valorará el cumplimiento de las responsabilidades de las autoridades educativas sobre la atención de las problemáticas de las escuelas y los avances de las políticas que lleven para el cumplimiento de sus obligaciones en materia educativa; además de aquellas de madres y padres de familia, tutoras o tutores respecto a sus hijas, hijos o pupilos menores de dieciocho años en términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y esta Ley.
 
-###### Artículo 115.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-El derecho al pago de la indemnización prescribe en cinco años contados a partir de la fecha de baja; de darse la prescripción se perderá la antigüedad reconocida por la Dirección de Pensiones para efectos del otorgamiento de prestaciones que establece la Ley. La antigüedad afectada por la prescripción podrá reconocerse solamente para el otorgamiento de jubilación o pensión cuando el interesado cotice al fondo de pensiones durante seis meses a partir de su reincorporación como servidor público.
+###### ARTÍCULO 115.
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+Con objeto de contribuir al proceso al que se refiere este Capítulo, la Secretaría tendrá a su cargo elaborar un Programa Educativo Estatal para garantizar el acceso a la educación con equidad, inclusión y excelencia para todos.
 
-En caso de que el sujeto obligado solicite a la Dirección de Pensiones la terminación del convenio de incorporación a los beneficios de la Ley, por así convenir a sus intereses y a los de sus trabajadores incorporados, lo anterior no generará derecho para el pago de la indemnización por retiro establecida en el artículo 70 de la Ley.
+El Programa Educativo Estatal de Puebla, tendrá un carácter plurianual y contendrá de manera integral y equitativa aspectos sobre la infraestructura y el equipamiento de la infraestructura educativa, el avance de los planes y programas educativos, la formación y prácticas docentes, de asesores técnicos pedagógicos, de directivos, la carga administrativa, la asistencia de las y los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas, los contextos socioculturales y lingüísticos, entre otros.
 
 ## TÍTULO OCTAVO. DEL FEDERALISMO EDUCATIVO
 
 ### CAPÍTULO ÚNICO. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EN EDUCACIÓN EN EL ESTADO DE PUEBLA
 
-###### Artículo 116.
+###### ARTÍCULO 116.
 
-Al servidor público que se le otorgue una indemnización por retiro perderá su antigüedad de cotización para efectos del otorgamiento de prestaciones señaladas en la Ley, sin que se pueda autorizar el reintegro de la misma.
+Corresponde de manera exclusiva a la autoridad educativa estatal, las atribuciones siguientes:
 
-Para aquellos casos en que el servidor público desempeñe dos o más empleos, el derecho para el otorgamiento de una jubilación o pensión, será de conformidad con el cumplimiento de los requisitos en cada uno de ellos; y en la que no cumpla con los requisitos podrá solicitar la indemnización por retiro al momento de separarse definitivamente del servicio al Gobierno del Estado, Instituciones, Organismos Descentralizados o Municipios.
+I. Prestar los servicios de educación básica incluyendo la indígena, inclusiva, así como la normal y demás para la formación docente;
 
-###### Artículo 117.
+II. Vigilar que las autoridades escolares cumplan con las normas en materia de fortalecimiento de las capacidades de administración escolar que emita la Secretaría;
 
-La indemnización por retiro de un servidor público que ha causado baja definitiva del servicio, podrá ser aplicado para cubrir adeudos que tenga con la Dirección de Pensiones y en segundo término, de las derivadas de responsabilidades con los sujetos obligados.
+III. Proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestras y maestros de educación básica;
 
-El deudor directo o los avales de préstamos otorgados por la Dirección de Pensiones podrán pedir su aplicación al pago de adeudos siempre y cuando no haya operado la prescripción de la indemnización por retiro. La Dirección de Pensiones podrá unilateralmente realizar tal aplicación.
+IV. Autorizar, previa verificación del cumplimiento de los lineamientos emitidos por la autoridad educativa federal, los ajustes que realicen las escuelas al calendario escolar determinado para cada ciclo lectivo de educación básica y normal y demás para la formación de maestras y maestros de educación básica;
 
-###### Artículo 118.
+V. Prestar los servicios que correspondan al tipo de educación básica y de educación media superior, respecto a la formación, capacitación y actualización para maestras y maestros, de conformidad con las disposiciones generales que la autoridad educativa federal determine, de acuerdo con lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
 
-Fuera de la Dirección de Pensiones, de los sujetos obligados o de las personas a que se refiere el artículo anterior, ninguna otra persona puede realizar o solicitar la aplicación de una indemnización por retiro al pago de adeudos.
+VI. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con la Ley General de Educación y los lineamientos generales que la autoridad educativa federal expida;
 
-###### Artículo 119.
+VII. Otorgar, negar y revocar autorización a los particulares para impartir la educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de docentes de educación básica;
 
-La indemnización por retiro equivalente al fondo de aportaciones aplicado al pago de un adeudo, ya sea por determinación unilateral de la Institución o por solicitud del interesado o del aval del deudor directo, podrá reactivarse si el interesado comparece y cubre a satisfacción de la Dirección de Pensiones el adeudo a cuyo pago se aplicó el fondo, incluyendo los intereses o actualizaciones correspondientes.
+VIII. Participar en la integración y operación de un sistema de educación media superior y un sistema de educación superior, con respeto a la autonomía universitaria y la diversidad educativa;
 
-###### Artículo 120.
+IX. Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos la Secretaría, deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables.
 
-En la aplicación de la indemnización por retiro o de fondos de aportaciones al pago de adeudos, se seguirán las disposiciones siguientes:
+La Secretaría participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa, mismo que también deberá proporcionar información para satisfacer las necesidades de operación de los sistemas educativos locales;
 
-I. Si la indemnización fuere mayor que la cantidad adeudada, el remanente será devuelto al interesado o a sus familiares derechohabientes, siempre que la aplicación se hubiere realizado por solicitud de aquél o de éstos, y si se hubiere realizado por determinación unilateral de la Dirección de Pensiones o por solicitud del aval, dicho remanente quedará como fondo disponible hasta que el interesado directo lo solicite, hasta su prescripción;
+X. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
 
-II. Si la indemnización no es suficiente para cubrir el adeudo existente, se realizarán las acciones legales a que haya lugar para recuperar el saldo del préstamo;
+XI. Vigilar y, en su caso, sancionar a las instituciones ubicadas en el Estado de Puebla, que formen parte del Sistema Educativo Estatal así como vigilar, con base en los instrumentos jurídicos correspondientes, a aquellas que sin estar incorporadas al Sistema Educativo Estatal, deban cumplir con las disposiciones en la materia;
 
-III. En el caso de los adeudos por préstamos, si el servidor público en cuanto deudor directo tuviere adeudos aún no vencidos, cuyos vencimientos futuros sean en parcialidades, podrá solicitar la aplicación de su fondo para cubrir las mismas, en cuyo caso la aplicación se realizará al pago de las primeras parcialidades o vencimientos, o en su caso directamente al concepto de capital. Si el adeudo fuera por cualquier otro concepto, el total del fondo se aplicará contra las cantidades insolutas; y,
+XII. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la autoridad educativa federal le proporcione;
 
-IV. Si el adeudo consiste en cantidades ya vencidas y otras sin vencer, la totalidad del fondo se aplicará al pago de las primeras, y si hubiere remanente, se procederá respecto de éste en los mismos términos de la fracción anterior.
+XIII. Supervisar las condiciones de seguridad estructural y protección civil de los planteles educativos del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XIII Bis. Atender en el ámbito de su competencia y en la medida de lo posible, las solicitudes de los planteles educativos para la instalación y funcionamiento de huertos y/o viveros escolares, en coordinación con las demás autoridades competentes;
+
+XIV. Generar y proporcionar, en coordinación con las autoridades competentes, las condiciones de seguridad en el entorno de los planteles educativos;
+
+XV. Emitir la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación que prestan en términos de esta Ley;
+
+XVI. Presentar un informe anual sobre los principales aspectos de mejora continua de la educación que hayan sido implementados en el Estado de Puebla, y
+
+XVII. Las demás que con tal carácter establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+
+###### ARTÍCULO 117.
+
+Adicionalmente a las atribuciones exclusivas a las que se refieren el artículo 116 de esta Ley, la Secretaría tendrá las siguientes atribuciones de manera concurrente con la autoridad educativa federal:
+
+I. Promover y prestar servicios educativos, distintos de los previstos en la Ley General de Educación, de acuerdo con las necesidades nacionales, estatales y regionales;
+
+II. Participar en las actividades tendientes para la admisión, promoción y reconocimiento, de conformidad con lo dispuesto en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+III. Determinar y formular planes y programas de estudio, distintos de los previstos en la fracción I del artículo 113 de la Ley General de Educación;
+
+IV. Ejecutar programas para la inducción, actualización, capacitación y superación de maestras y maestros de educación media superior, los que deberán sujetarse, en lo conducente, a lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+V. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción VI del artículo 114 de la Ley General de Educación, de acuerdo con los lineamientos generales que la autoridad educativa federal expida. Asimismo, podrán autorizar que las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la autoridad educativa federal expida en términos de la Ley General de Educación;
+
+La Secretaría podrá revocar las referidas autorizaciones cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en las disposiciones aplicables.
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la autoridad educativa federal;
+
+VI. Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia;
+
+VII. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los de normal y demás para la formación de docentes de educación básica que impartan los particulares;
+
+VIII. Editar libros y producir otros materiales educativos, distintos de los señalados en la fracción IV del artículo 113 de la Ley General de Educación, apegados a los fines y criterios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y para el cumplimiento de los planes y programas de estudio autorizados por la autoridad educativa federal;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura y demás autoridades competentes, a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística, incluyendo los avances tecnológicos que den acceso al acervo bibliográfico, con especial atención a personas con discapacidad, además de gestionar la dotación de ejemplares de acervos bibliográficos;
+
+X. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
+
+XI. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, incluido el deporte adaptado para personas con discapacidad;
+
+XII. Promover y desarrollar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el uso de los libros, de acuerdo con lo establecido en la ley de la materia;
+
+XIII. Fomentar el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus habilidades digitales para la selección y búsqueda de información;
+
+XIV. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a las y los educandos, así como corroborar que el trato de los educadores y educandos sea de respeto recíproco y atienda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XV. Promover entornos escolares saludables, a través de acciones que permitan a las y los educandos disponibilidad y acceso a una alimentación nutritiva, atención e higiene menstrual, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte;
+
+XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares y Tiendas Escolares;
+
+XVII. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia, tutoras o tutores en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años;
+
+XVIII. Aplicar los instrumentos que consideren necesarios para la mejora continua de la educación en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita la Comisión Nacional para la Mejora Continua de la Educación;
+
+XIX. Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
+
+XX. Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
+
+XXI. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo;
+
+XXII. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+
+XXIII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+
+El Ejecutivo Federal y el gobierno del Estado de Puebla podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquellas que, con carácter exclusivo, les confieren los artículos 113 y 114 de la Ley General de Educación.
+
+Además de las atribuciones concurrentes señaladas en esta Ley, las autoridades educativas federal y estatal, en el ámbito de sus competencias, tendrán las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
+
+###### ARTÍCULO 118.
+
+El ayuntamiento de cada municipio podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones VIII a X del artículo 117 de esta Ley.
+
+El gobierno del Estado de Puebla y los ayuntamientos, podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
+
+Para la admisión, promoción y reconocimiento del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, deberán observar lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros.
+
+###### ARTÍCULO 119.
+
+Las autoridades educativas estatal y municipales, prestarán servicios educativos con equidad y excelencia. Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+
+Para tal efecto realizarán, entre otras, las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas dignas y demás apoyos económicos que prioricen a las y los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+II. Establecer, de acuerdo con la suficiencia presupuestal, programas de diseño, elaboración y entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica y media superior en instituciones oficiales;
+
+III. Proporcionar apoyos a educandos cuya madre, padre, tutora o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
+
+IV. Garantizar el acceso a los servicios educativos a las víctimas y promover su permanencia en el sistema educativo estatal cuando como consecuencia del delito o violación de sus derechos humanos exista interrupción en los estudios;
+
+V. Promover la instalación de aires acondicionados en aulas de los planteles educativos que, por sus condiciones climáticas, lo requieran;
+
+VI. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para educandos en vulnerabilidad social;
+
+VII. Apoyar, conforme a las disposiciones que para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
+
+VIII. Celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
+
+IX. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la educación abierta y a distancia, mediante el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
+
+X. Celebrar convenios de colaboración interinstitucional con las autoridades de los tres órdenes de gobierno, a fin de impulsar acciones que mejoren las condiciones de vida de las y los educandos, con énfasis en las de carácter alimentario, preferentemente a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XI. Fomentar y vigilar programas de incentivos, con suficiencia presupuestaria, dirigidos a las maestras y los maestros de los diferentes niveles, tipos y modalidades, que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, así como pueblos y comunidades indígenas y afromexicanas, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar; así como a los directores comisionados con grupo y docentes que atienden grupo multigrado, a quienes se les deberá emitir, por parte de la Secretaría, la comisión correspondiente;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2022)</small>
+
+XII. Establecer, de forma gradual y progresiva de acuerdo con la suficiencia presupuestal estatal, las escuelas de tiempo completo en educación básica, con jornadas de entre 6 y 8 horas diarias, para promover un mejor aprovechamiento del tiempo disponible, generar un mayor desempeño académico y desarrollo integral de las y los educandos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
+
+La operatividad y lineamientos de estas escuelas estará determinada por la emisión anual de las reglas de operación del programa, mismas que deberán emitirse en atención a la disponibilidad presupuestal;
+
+XIII. Facilitar el acceso a la educación básica y media superior, previo cumplimiento de los requisitos que para tal efecto se establezcan, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos.
+
+Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos académicos y celebrarán convenios de colaboración con las instituciones competentes para la obtención de los documentos de identidad, asimismo, en el caso de la educación básica y media superior, se les ubicará en el nivel y grado que corresponda, conforme a la edad, el desarrollo cognitivo, la madurez emocional y, en su caso, los conocimientos que demuestren las y los educandos mediante la evaluación correspondiente.
+
+Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
+
+XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan las y los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
+
+XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
+
+XVI. Proporcionar a las y los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+
+XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+
+###### ARTÍCULO 120.
+
+La Secretaría participará en el Consejo Nacional de Autoridades Educativas para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
 
 ## TÍTULO NOVENO. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
 ### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
-###### Artículo 121.
+###### ARTÍCULO 121.
 
-Los servicios médicos se prestarán a los pensionados o jubilados como una continuidad de la protección médica y social que han recibido desde un principio como servidores públicos, con base en los convenios celebrados inicialmente entre las Entidades Públicas con el Instituto Mexicano del Seguro Social o con el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y se regirán de conformidad con su normatividad aplicable.
+El Ejecutivo Federal y el gobierno del Estado de Puebla, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos.
 
-La Dirección de Pensiones tiene la obligación de realizar los convenios necesarios, para que los pensionados o jubilados puedan continuar con su servicio médico; lo anterior de acuerdo con las disposiciones aplicables para cada Instituto de Salud.
+El Ejecutivo Estatal propondrá en el proyecto de presupuesto de egresos del Estado, la asignación de recursos de cada uno de los niveles de educación a su cargo para cubrir los requerimientos financieros, humanos, materiales y de infraestructura, así como de su mantenimiento, a fin de dar continuidad y concatenación entre dichos niveles, con el fin de que la población escolar tenga acceso a la educación, con criterios de excelencia.
 
-###### Artículo 122.
+Las instituciones públicas de educación superior colaborarán, de conformidad con la ley en la materia, con las instancias fiscalizadoras para verificar la aplicación de los recursos que se le destinen derivados de este artículo.
 
-El Gobierno del Estado celebrará convenio con el Instituto Mexicano del Seguro Social o con el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado para garantizar debidamente el servicio de protección médica y social integral así como su continuidad a los trabajadores pensionados o jubilados de la Secretaría de Educación.
+En el caso de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
 
-###### Artículo 123.
+Para dar cumplimiento a la obligatoriedad y la gratuidad de la educación superior, se estará a lo dispuesto a la gradualidad y capacidad financiera del Estado de acuerdo a las disposiciones generales de la materia.
 
-Los servidores públicos cotizantes al fondo de pensiones, gozarán en los términos de los contratos colectivos de trabajo, condiciones generales de trabajo o cualquier otro convenio que al efecto celebren las Dependencias, Entidades, Organismos Descentralizados o Municipios con sus trabajadores, los cuales serán pagados según las condiciones que al efecto apliquen en dichos acuerdos de voluntades al momento de suscitarse el fallecimiento del servidor público; para tales efectos, los beneficiarios de dicho seguro deberán ser señalados por los servidores públicos de manera expresa y bajo los formatos que al efecto señalen las patronales correspondientes.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 124.
+###### ARTÍCULO 122.
 
-Los pensionados o jubilados así reconocidos por la Dirección de Pensiones, gozarán en términos de lo dispuesto por el artículo 67 segundo párrafo de la Ley, de un seguro de vida voluntario, constituyendo un fondo que será administrado por la Dirección de Pensiones, el cual se integrará con las aportaciones de los jubilados o pensionados por vejez e invalidez y de la Dirección de Pensiones, en los términos y condiciones fijados por la Junta Directiva, considerando la opinión de los representantes de las Asociaciones y Uniones de Jubilados y Pensionados formalmente reconocidas por la Dirección de Pensiones.
+La Autoridad Educativa Estatal, vigilará que cada Municipio, atendiendo al presupuesto correspondiente, reciba y recabe los recursos suficientes para el cumplimiento de las responsabilidades educativas que asuma, atendiendo las necesidades de infraestructura y servicios básicos de las instituciones de educación indígena.
 
-La suma asegurada, el monto de las aportaciones o primas y demás condiciones en que se otorgue el seguro de vida serán revisadas anualmente por la Junta Directiva.
+###### ARTÍCULO 123.
 
-###### Artículo 125.
+El gobierno del Estado de Puebla en todo momento procurará fortalecer las fuentes de financiamiento a la tarea educativa y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
 
-La Dirección de Pensiones pagará a los beneficiarios designados, la suma asegurada que haya sido fijada con motivo del fallecimiento del pensionado o jubilado asegurado; para tales efectos, los beneficiarios de dicho seguro deberán ser señalados por los pensionados o jubilados de manera expresa y bajo los formatos que al efecto señale la Dirección de Pensiones.
+###### ARTÍCULO 124.
 
-El pago del importe total de la mencionada suma asegurada, se realizará en una sola exhibición y de manera inmediata, directamente a los beneficiarios que haya designado el asegurado.
+La autoridad educativa estatal incluirá en el proyecto de presupuesto que sometan a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer las capacidades de la administración escolar. Los programas para tal efecto responderán a los lineamientos que emita la autoridad educativa federal.
 
-T R A N S I T O R I O S
+###### ARTÍCULO 125.
 
-###### ARTÍCULO PRIMERO.
-
-El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Se abroga el Reglamento del Artículo 62 bis de la ley de Pensiones Civiles para el Estado, de fecha 1°de enero del 2003 autorizado por Junta Directiva.
-
-###### ARTÍCULO TERCERO.
-
-Se abroga el Reglamento de Préstamos de la Dirección de Pensiones, aprobado por la Junta Directiva, de fecha 26 de febrero del 2015.
-
-###### ARTÍCULO CUARTO.
-
-Se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
-
-Morelia, Michoacán, a los 17 días del mes de marzo de 2016 dos mil dieciséis.
-
-APROBADO POR LOS MIEMBROS DE LA JUNTA DIRECTIVA DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN DE OCAMPO, EN LA SESIÓN EXTRAORDINARIA CELEBRADA EL DÍA 22 DE OCTUBRE DE 2015.
-
-LIC. CARLOS MALDONADO MENDOZA
-
-SECRETARIO DE FINANZAS Y ADMINISTRACIÓN Y PRESIDENTE DE LA H. JUNTA DIRECTIVA
-
-(Firmado)
-
-LIC. LOGAN GUSTAVO MEZA HERRERA
-
-SUBSECRETARIO DE FINANZAS
-
-DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
-
-(Firmado)
-
-LIC. DIEGO LEÑERO LEAL
-
-SUBSECRETARIO DE ADMINISTRACIÓN
-
-E INNOVACIÓN DE PROCESOS
-
-DE LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN
-
-(Firmado)
-
-BIOL. ANTONIO FERREYRA PIÑON
-
-SECRETARIO GENERAL DEL S.T.A.S.P.E
-
-(Firmado)
-
-P.L.E. ROGELIO ANDRADE VARGAS
-
-SECRETARIO GENERAL DEL S.T.A.S.P.L.E
-
-(Firmado)
-
-LIC. FERNANDO JAVIER GÁMEZ PINÓN
-
-SECRETARIO GENERAL DEL S.U.T.A.S.P.J.E.M
-
-(Firmado)
-
-PROFR. CARLOS TINOCO CARLÓN
-
-REPRESENTANTE DEL SINDICATO DE
-
-TRABAJADORES DE LA EDUCACIÓN, SECCIÓN XVIII
-
-(Firmado)
-
-PROFR. IGNACIO OCAMPO BARRUETA
-
-DIRECTOR GENERAL DE PENSIONES
-
-CIVILES DEL ESTADO DE MICHOACÁN
-
-(Firmado)
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 6 DE JUNIO DE 2017.
+En el caso de que en el Estado de Puebla se presente un mayor rezago educativo, se podrán celebrar convenios en los que se concreten las proporciones de financiamiento y las acciones específicas que la autoridad educativa estatal deberá realizar para reducir y superar dichos rezagos, a través de programas compensatorios conforme a la Ley General de Educación.
 
 ## TÍTULO DÉCIMO. DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO
 
@@ -1091,7 +1379,9 @@ Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
 I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la educación preescolar, primaria, secundaria, media superior y, en su caso, la inicial;
 
-II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+II. Participar en el proceso educativo, a través de programas desarrollados por la Secretaría, de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar, desarrollo y herencia cultural;
 
 III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
@@ -1135,9 +1425,11 @@ La organización y el funcionamiento de las asociaciones de madres y padres de f
 
 ### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN ESCOLAR, HONRADEZ Y SEGURIDAD
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
 ###### ARTÍCULO 129.
 
-Las autoridades educativas podrán promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
+Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
 
 ###### ARTÍCULO 130.
 
@@ -1173,7 +1465,9 @@ Dicho Consejo Municipal debe concebir a la educación más allá de la escuela, 
 
 Este consejo, ante el ayuntamiento y la autoridad educativa respectiva, podrá:
 
-I. Gestionar el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+I. Gestionar el mejoramiento de los servicios educativos, conforme a las necesidades de las instituciones para la construcción y ampliación de espacios educativos, así como de servicios de apoyo a la educación, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
 
 II. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
@@ -1185,15 +1479,23 @@ V. Coadyuvar a nivel municipal en actividades de seguridad, protección civil y 
 
 VI. Promover la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
-VII. Promover actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia, tutoras o tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-VIII. Proponer la entrega de estímulos y reconocimientos de carácter social a las y los educandos, maestras y maestros, directivos y empleados escolares que propicien la vinculación con la comunidad;
+VII. Promover y calendarizar actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia, tutoras o tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
-IX. Procurar la obtención de recursos complementarios, para el mantenimiento y equipamiento básico de cada escuela pública;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VIII. Proponer la entrega de estímulos y reconocimientos de carácter social a las y los educandos, así como a maestras y maestros, directivos y empleados escolares, que propicien la vinculación con la comunidad;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Gestionar ante las instancias correspondientes la obtención de recursos complementarios, para el mantenimiento y equipamiento básico de cada escuela pública;
 
 X. Fortalecer los esquemas formales y no formales bajo la premisa del aprendizaje de toda la vida que siente las bases para el desarrollo social, económico y ambiental sostenible, incidiendo en políticas públicas municipales innovadoras que puedan ser replicables en experiencias y contextos locales, y
 
-XI. En general, realizar actividades para apoyar y fortalecer la educación en el municipio.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+XI. En general, realizar actividades de apoyo para fortalecer la educación y su continuidad en el municipio.
 
 Será responsabilidad de la autoridad municipal que, en el consejo se alcance una efectiva participación social que contribuya a elevar la excelencia en educación, así como, la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
@@ -1481,387 +1783,489 @@ El Secretario de Educación Pública. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica
 
 P.O. 9 DE ABRIL DE 2021.
 
-### CAPÍTULO QUINTO. DE LA CONSTITUCIÓN DE LOS FONDOS DE SEGURO
+### CAPÍTULO II. DEL TIPO DE EDUCACIÓN BÁSICA
 
-###### Artículo 26.
+###### ARTÍCULO 26.
 
-Para el otorgamiento de los préstamos otorgados a los servidores públicos, pensionados o jubilados se considera que los pagos periódicos a que se obligue el deudor no sobrepasen el 50% de su sueldo base de cotización o pensión, una vez deducidos los cargos por impuestos, cuotas de seguridad social y pensión alimenticia.
+La educación preescolar tiene las siguientes características y finalidades:
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+I. Considerar a la niña y al niño como centro del proceso educativo;
 
-El servidor público podrá, en cualquier tiempo efectuar pagos anticipados a cuenta del adeudo durante la vigencia del préstamo; todo pago anticipado se aplicará para reducir el saldo insoluto del mismo, siempre y cuando se encuentren al corriente de sus pagos. Los pagos anticipados que se hagan al capital no liberan al servidor público de su obligación de pagar las amortizaciones periódicas quincenales correspondientes a su préstamo.
+II. Desarrollar los aspectos cognoscitivos, físico y social de las niñas y niños a través de la estimulación del lenguaje, involucrando a las madres y padres de familia, tutoras o tutores para que propicien un ambiente de aprendizaje y estimulación constante para el educando;
+
+III. Fomentar actitudes de respeto, trabajo en equipo, optimismo, ayuda mutua, responsabilidad, higiene e independencia personal, que permita a las y los educandos una formación que propicie la sana convivencia social;
+
+IV. Promover la iniciativa y capacidad creadora, el juego, la expresión de las distintas formas de pensar y sentir, así como el acercamiento a los distintos campos del arte y la cultura;
+
+V. Orientar la realización comprometida de acciones tendientes al cuidado y a la conservación de la vida y de los entornos natural y social;
+
+VI. Estimular el aspecto afectivo, sentido de responsabilidad, hábitos de cooperación, amor a su familia e identidad local y nacional, de acuerdo con los intereses propios de su edad, e
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+VII. Iniciar al educando en el conocimiento del idioma inglés; en los contextos de las escuelas de educación indígena respetando el conocimiento de las lenguas originarias.
 
 #### SECCIÓN SEGUNDA. PENSIÓN POR ORFANDAD
 
-###### Artículo 27.
+###### ARTÍCULO 27.
 
-En caso de que el servidor público, pensionado o jubilado cuente con un adeudo anterior de algún tipo de préstamo otorgado por la Dirección de Pensiones, al momento de tramitar un nuevo préstamo se descontará la cantidad adeudada del monto otorgado.
+La educación primaria, tiene carácter formativo y su objeto es fortalecer el desarrollo integral y armónico del educando, fortalecer su identidad individual y su integración plena a su familia, a la escuela y a la comunidad; fomentar hábitos tendientes a la conservación y mejoramiento de su salud personal, el desarrollo de habilidades físicas y la práctica del deporte; proporcionarle conocimientos básicos para la preservación de su entorno ecológico, y el ejercicio de sus derechos y deberes cívico- sociales y culturales, atendiendo a la cultura de los pueblos y comunidades indígenas y afromexicanas. Asimismo, motivar en las y los educandos, el desarrollo del pensamiento crítico y científico y una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia, a su comunidad y al sistema social del que forma parte.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+###### ARTÍCULO 28.
 
-###### Artículo 28.
+La educación primaria tiene las siguientes características y finalidades:
 
-El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado; excepto entre las modalidades de corto plazo y de consumo. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
+I. Considerar a la niña y al niño como centro del proceso educativo;
 
-Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda y/o terreno; la suma total del monto de ambos préstamos no superará la cantidad de $850,000.00 (Ochocientos cincuenta mil pesos 00/100 M.N.).
+II. Promover el desarrollo integral del educando; fortalecer la identidad individual y la adaptación al medio ambiente natural, familiar, escolar y social, así como las aptitudes y hábitos tendientes a la conservación de la salud física y mental;
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+III. Generar condiciones que permitan la participación responsable en la toma de decisiones y la solución de problemas de la vida cotidiana;
 
-###### Artículo 29.
+IV. Proporcionar las nociones fundamentales de la estructura y manejo del lenguaje, de las matemáticas, de las ciencias naturales y de las ciencias sociales, que fomenten el dominio en el razonamiento verbal y matemático;
 
-Los préstamos de corto plazo e hipotecarios en sus diferentes modalidades otorgados por la Dirección de Pensiones a los servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte y para los préstamos al consumo la renovación podrá realizarse a la octava parte, del plazo por el que fueron concedidos o se encuentren cubiertos los abonos correspondientes a dicho periodo, siempre y cuando hayan sido pagados mediante descuentos vía nómina o pagos por quincenas vencidas. Para el caso de que se cuenten con dos modalidades de préstamos hipotecarios, se podrá renovar para liquidar ambos, teniendo en uno de ellos cubierto la cuarta parte del plazo o del capital prestado.
+V. Favorecer el desarrollo de aptitudes corporales y estéticas a través de la educación física y artística;
 
-###### Artículo 30.
+VI. Fomentar la iniciativa, la creatividad y la responsabilidad en un ambiente de libertad y respeto;
 
-Los servidores públicos que cambien su situación jurídica de activos a pensionados por jubilación, vejez o invalidez durante la vigencia del préstamo, cubrirán el saldo del préstamo, con los descuentos que realice la Dirección de Pensiones a cargo de su ingreso que obtengan como pensionados, descuentos que no serán mayores al 50% del importe de dicha pensión salvo convenio expreso. Para los efectos de este artículo, la tasa de interés con la que se contrató el préstamo no variará, debiéndose ajustar el plazo de amortización del préstamo, el cual no deberá superar el plazo máximo establecido para la redención de los mismos señalado por la Ley en su artículo 41 y del presente Reglamento los artículos 42, 54 y 63
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Propiciar el ejercicio crítico y reflexivo sobre los objetos de conocimientos mediante el trabajo intelectual, lógico y sistemático, de tal modo que el educando se haga agente activo de su proceso de aprendizaje; así como la comprensión, aplicación y uso responsable de la tecnología.
+
+VIII. Orientar en el educando la adquisición de una conciencia de participación comprometida con el cuidado y conservación del entorno natural y social;
+
+IX. Fortalecer la práctica de los valores y el respeto a los símbolos patrios, y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+X. Desarrollar el conocimiento y dominio del idioma inglés; en los contextos de las escuelas de educación indígena respetando el conocimiento de las lenguas originarias.
+
+###### ARTÍCULO 29.
+
+La educación secundaria, tiene carácter formativo y su objeto es fortalecer el desarrollo integral del educando, continuar y profundizar en la formación científica, humanística, física, artística, tecnológica y para el trabajo productivo; así como inducir la capacidad de observación, análisis y reflexión crítica, el desarrollo de facultades para adquirir conocimientos, habilidades, destrezas y valores que eleven la calidad moral de la sociedad.
+
+###### ARTÍCULO 30.
+
+La educación secundaria tendrá las siguientes características y finalidades:
+
+I. Será de carácter formativo y se ajustará a los intereses y aptitudes del educando, así como a las exigencias del desarrollo de la comunidad, del Estado y la Nación;
+
+II. Ampliar los conocimientos adquiridos por los educandos y fortalecer sus hábitos y aptitudes, que le permitan continuar su mejoramiento personal y su desenvolvimiento en la comunidad, a fin de encaminarlos a la conservación y el mejoramiento de su salud física y mental, la práctica del deporte y en general, aquellas actividades que le permitan hacer uso de sus potencialidades;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+III. Proporcionar los elementos necesarios para el conocimiento en general de la geografía, la historia y la ecología, propiciando el ejercicio crítico y reflexivo para crear conciencia participativa y comprometida con su comunidad, considerando la cultura de los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA, [N. DE E. CON SUS INCISOS] P.O. 16 DE MARZO DE 2023)</small>
+
+IV. Profundizar en la educación sostenible y en el cuidado, protección, preservación y restauración del medio ambiente, incorporando, cuando las condiciones lo permitan, cuestiones prácticas que favorezcan la interacción de las personas con la naturaleza, pudiendo ser, entre otras, las siguientes:
+
+a) La instalación y funcionamiento de huertos y/o viveros escolares;
+
+b) La participación de la comunidad escolar en campañas de reforestación y manejo racional del agua y de residuos; y
+
+c) El destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos;
+
+V. Promover el desarrollo de habilidades y destrezas mediante el trabajo en talleres y laboratorios;
+
+VI. Formar al educando para el análisis crítico, científico y objetivo de la realidad como base para la búsqueda de soluciones a los problemas de su comunidad, de su Municipio, del Estado y del País;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+
+VII. Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales; así como su comprensión, aplicación y uso responsable.
+
+VIII. Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad, y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+
+IX. Lograr el dominio del idioma inglés; en los contextos de las escuelas de educación indígena respetando el conocimiento de las lenguas originarias.
 
 #### SECCIÓN TERCERA. PENSIÓN POR ASCENDENCIA
 
-###### Artículo 31.
+###### ARTÍCULO 31.
 
-Los servidores públicos que causen baja al servicio del Gobierno del Estado, o que por cualquier otra causa no se le puedan realizar vía nómina los descuentos respectivos durante la vigencia del préstamo, deberán cubrir los pagos quincenales y los accesorios directamente en las ventanillas de caja de la Dirección de Pensiones o en su caso mediante depósito en la cuenta que sea señalada para tal efecto sin necesidad de requerimiento previo.
+La autoridad educativa estatal impartirá la educación multigrado, la cual se ofrecerá a estudiantes de diferentes grados académicos, niveles de desarrollo y de conocimientos, en centros educativos en zonas de alta y muy alta marginación.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+Para dar cumplimiento a esta disposición, las autoridades educativas del Estado de Puebla atenderán los criterios establecidos en la Ley General de Educación.
 
-Todos los préstamos otorgados por la Dirección de Pensiones a los servidores públicos, serán garantizados en primer lugar, mediante garantía del total de las aportaciones a que se refiere el artículo 22 de la Ley, las que en caso de mora de tres o más quincenas, serán aplicadas al adeudo sin necesidad de requerimiento o aviso previo, aún y cuando se encuentren activos como servidores públicos; pudiendo el deudor pagar el monto del fondo aplicado al adeudo en cantidades actualizadas para recuperar su antigüedad afectada con la aplicación, siempre y cuando se encuentre como servidor público cotizante al fondo de pensiones.
+###### ARTÍCULO 32.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+La educación media superior comprende los niveles de bachillerato, de profesional técnico bachiller y los equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes y se ofrecen a quienes han concluido estudios de educación básica.
 
-###### Artículo 32.
+Las autoridades educativas del Estado de Puebla, podrán ofrecer, entre otros, los siguientes servicios educativos:
 
-Si por baja u otras causas graves a juicio de la Dirección de Pensiones, el servidor público no pudiere cubrir los abonos provenientes del préstamo de corto plazo e hipotecario en cualquiera de sus modalidades, podrá concedérsele, previa solicitud a la Dirección de Pensiones, un plazo de espera de hasta seis meses, en los siguientes casos:
+I. Bachillerato General;
 
-I. Cuando la cantidad que se adeude a la fecha de la solicitud sea el equivalente a las aportaciones recibidas a la misma fecha, el plazo de espera se podrá otorgar sin restricción alguna;
+II. Bachillerato Tecnológico;
 
-II. Cuando la cantidad que se adeude a la fecha de la solicitud sea mayor a las aportaciones recibidas se deberá garantizar dicha diferencia con la firma de un pagaré mercantil por el lapso de espera autorizado. La Junta Directiva podrá autorizar al titular de la Dirección de Pensiones a convenir las condiciones y los plazos de espera, al término del cual se deberá reanudar los pagos previa la renovación del pagare original; y,
+III. Bachillerato Intercultural;
 
-III. No se podrá otorgar un nuevo plazo de espera sobre aquellos préstamos renovados que ya hayan tenido ese beneficio.
+IV. Bachillerato Artístico;
 
-En relación a lo establecido en las fracciones anteriores no aplicará el seguro a que se refiere el Artículo 44 de la Ley.
+V. Profesional técnico bachiller;
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+VI. Telebachillerato comunitario, y
 
-###### Artículo 33.
+VII. Educación media superior a distancia y/o digital.
 
-Los préstamos de garantía hipotecaria que otorga la Dirección de Pensiones, se garantizarán con hipoteca constituida en primer lugar en su favor, inscrita en el Registro Público de la Propiedad o su equivalente.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y/o digital, y aquellos que operen con base en la certificación por evaluaciones parciales. La educación media superior, según sea el caso, promoverá la pertinencia cultural de los pueblos y comunidades indígenas.
 
-###### Artículo 34.
+###### ARTÍCULO 33.
 
-Los inmuebles que se dejen en garantía de los préstamos de garantía hipotecaria, deberán estar libres de gravamen, salvo el caso de liberación de gravamen, y que sea urbano. Para el caso de inmuebles ubicados fuera del Estado, se autorizará previo estudio y análisis que haga la Dirección.
+El bachillerato tendrá las siguientes características y finalidades:
 
-###### Artículo 35.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-La Dirección de Pensiones procederá a la cancelación de la hipoteca otorgada en su favor, en los casos siguientes:
+I. Desarrollar las habilidades necesarias para adquirir los conocimientos básicos de las ciencias, las humanidades, las tecnologías y para acceder a estudios de tipo superior; así como la comprensión, aplicación y uso responsable de la tecnología.
 
-I. Cuando el préstamo, su interés y sus accesorios, hubiesen sido pagados en su totalidad ya sea en el plazo concedido o por liquidación anticipada;
+II. Promover el uso de métodos adecuados como base para continuar la formación de las y los educandos, ya sea en la educación de tipo superior o en el desempeño laboral, así como para la interpretación de la cultura de su tiempo;
 
-II. Cuando se declare procedente la aplicación del seguro del préstamo por fallecimiento del servidor público cotizante al fondo; y,
+III. Propiciar el desarrollo de una conciencia valorativa y crítica que permita adoptar actitudes responsables;
 
-III. Cuando se haya procedido a la cancelación del saldo en virtud de resolución judicial de autoridad competente.
+IV. Formar actitudes y aptitudes que motiven, preparen y orienten para el autoaprendizaje;
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 36.
+V. Fortalecer la identidad local, estatal y nacional a través del aprecio por la cultura, la historia, las costumbres, las tradiciones y lengua originarias de los pueblos y comunidades indígenas y afromexicanas del Estado y del País;
 
-La sustitución de la garantía inicial solo procederá cuando el nuevo inmueble garantice plenamente el monto total del préstamo otorgado, siempre y cuando el acreditado se encuentre al corriente de sus pagos y lo solicite a la Dirección de Pensiones por escrito, señalando los motivos y fundamentos que originen la sustitución; esta última no generará nueva solicitud de préstamo.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-###### Artículo 37.
+VI. Fomentar la práctica continua de los valores humanos y la democracia en la convivencia social;
 
-Si por baja u otras causas graves, tales como: el diagnostico de una invalidez temporal o definitiva dictaminada por una Institución de Salud; falta de liquidez derivada de la condena al pago de alimentos provisionales de una autoridad competente y, las que por su naturaleza ameriten conceder el plazo de espera por el Titular de la Dirección de Pensiones, y el servidor público no pudiere cubrir los abonos provenientes del préstamo hipotecario, podrá concedérsele un plazo de espera de hasta seis meses, al término del cual deberá reanudar sus pagos; el adeudo del lapso de espera lo pagará al final del plazo convenido.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE MARZO DE 2023)</small>
 
-### CAPÍTULO SEXTO. DE LAS JUBILACIONES Y PENSIONES
+VI Bis. Fortalecer la conciencia y conocimiento teórico-práctico sobre la educación sostenible, el cuidado, protección, preservación y restauración ambiental, a través de lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+a) La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social, y sus equivalentes, en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
 
-###### Artículo 38.
+b) La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes; y
 
-Los montos máximos, las tasas de interés y seguro de los préstamos se aplicaran de acuerdo con la ley y de conformidad con lo señalado en el presente Reglamento, modificándose cuando fuere conveniente para el debido funcionamiento de la Dirección de Pensiones y fortalecimiento de su fondo.
+c) El destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos;
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+VII. Proporcionar capacitación y adiestramiento que respondan a las necesidades sociales y productivas de las regiones del Estado;
 
-###### Artículo 39.
+VIII. Vincular al educando con el sector productivo de bienes y servicios, y
 
-El préstamo hipotecario en cualquiera de sus modalidades no excederá del 90% del valor comercial fijado al inmueble garante, a menos que el interesado proporcione otras garantías adicionales suficientes para garantizar el excedente.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 40.
+IX. Perfeccionar el aprendizaje del idioma inglés; en los contextos de las escuelas de educación indígena se promoverá el conocimiento de las lenguas originarias.
 
-Cuando el acreditado no estuviere de acuerdo con el avalúo practicado, por la Dirección de Pensiones, podrá designar un perito que practique uno nuevo a costo del solicitante; y en caso de discrepar los peritajes en un porcentaje mayor al 10% se podrá nombrar un tercero por ambas partes. La Junta Directiva resolverá en definitiva.
+###### ARTÍCULO 34.
 
-###### Artículo 41.
+Las autoridades educativas del Estado de Puebla, en el ámbito de sus competencias, establecerán, de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en el tipo de educación media superior, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso para las personas que así lo decidan, puedan ingresar a este tipo educativo, así como disminuir la deserción y abandono escolar, como puede ser el establecimiento de apoyos económicos, bajo criterios bien definidos y de forma transparente.
 
-Salvo en el caso de disfrute del plazo de espera, si se incumple con la obligación de pago del préstamo, la Dirección de Pensiones cobrará un interés moratorio sobre las amortizaciones vencidas, en los términos establecidos para el otorgamiento del préstamo.
+De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
-###### Artículo 42.
+###### ARTÍCULO 35.
 
-La Dirección de Pensiones de conformidad con lo que disponen los artículos 37, 38, 39, 40, 41, 42, 43, 44 y 45 de la Ley, otorgará a los trabajadores activos cotizantes al fondo de pensiones, préstamos con garantía hipotecaria en las modalidades de: compra, construcción, mejoramiento de vivienda o terreno, liberación de gravamen y de liquidez, por los siguientes montos.
+Con la finalidad de formular políticas, estrategias, programas y metas en materia de educación superior, se crea la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Puebla. La Secretaría emitirá los lineamientos de su integración y su funcionamiento.
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+###### ARTÍCULO 36.
 
-I. Monto de hasta $450,000.00 (Cuatrocientos cincuenta mil pesos 00/100 M.N.), para compra de vivienda o terreno, liberación de gravamen, construcción y mejoramiento de vivienda; con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años;
+El tipo de educación media superior en el Estado de Puebla, se organizará en un sistema estatal. Dicho sistema responderá, en términos de la Ley General de Educación, al marco curricular común a nivel nacional establecido por la autoridad educativa federal con la participación de la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Puebla.
 
-II. (DEROGADA, P.O. 28 DE ENERO DE 2022)
+El Sistema Estatal de Educación Media Superior del Estado de Puebla, se integrará por representantes de las instituciones de:
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+I. Bachillerato Escolarizado;
 
-III. Monto de hasta $400,000.00 (Cuatrocientos mil pesos 00/100 M.N.), para liquidez, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
+II. Bachillerato No Escolarizado;
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+III. Bachillerato Mixto, y
 
-Para jubilados y pensionados se estará a lo dispuesto en el artículo 43 segundo párrafo del presente reglamento.
+IV. Las demás que incorporan a la educación media superior en la modalidad de bachillerato, preparatoria y subsistemas que brindan certificación por examen, capacitación para el trabajo y atención para personas con discapacidad.
 
-###### Artículo 43.
+###### ARTÍCULO 37.
 
-La Dirección de Pensiones podrá otorgar préstamos hipotecarios a los servidores públicos contribuyentes al fondo de pensiones, cuando hayan cotizado por lo menos un año como mínimo y que no cuenten con más de 70 años de edad, sujetos a los criterios para el otorgamiento de préstamos para pensionados o jubilados.
+La educación superior está compuesta por el técnico superior universitario, la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende también la educación normal en todos sus niveles y especialidades.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+### CAPÍTULO III. DEL TIPO DE EDUCACIÓN MEDIA SUPERIOR
 
-Para los jubilados o pensionados por vejez o invalidez, que no cuenten con más de 70 años de edad al presentar la solicitud de préstamo hipotecario, el monto a otorgar será por la cantidad de hasta $150,000.00 (Ciento cincuenta mil pesos 00/100 M.N.).
+###### ARTÍCULO 38.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+La obligatoriedad de la educación superior corresponde al Estado, el cual la garantizará para todas las personas que cumplan con los requisitos solicitados por las instituciones respectivas.
 
-###### Artículo 44.
+Las políticas que lleven a cabo las autoridades educativas del Estado de Puebla, se realizarán con base a lo establecido en la Ley General de Educación Superior.
 
-En la modalidad de construcción o mejoramiento de vivienda, el préstamo será entregado en una ministración, siempre y cuando el 90% del valor del inmueble sea superior a la cantidad entregada, en caso de que el inmueble no garantice el préstamo solicitado, se otorgará en ministraciones, según corresponda.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-La Dirección de Pensiones vigilará mediante supervisión de obra, que el importe del préstamo sea invertido para lo cual fue solicitado, quedando a cargo del Servidor Público los gastos que se originen por motivo de las supervisiones de acuerdo con las tarifas de supervisión que acuerde la Junta Directiva.
+###### ARTÍCULO 39.
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+En el ámbito de su competencia, las autoridades educativas estatal y de los municipios (sic) con la autoridad educativa federal para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos y comunidades indígenas y afromexicanas, así como de los grupos sociales más desfavorecidos para proporcionar, conservar y fortalecer la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
 
-El monto máximo que se puede otorgar para el caso de ministraciones será de hasta $100,000.00 (Cien mil pesos 00/100 M.N.), independientemente de las supervisiones que se deriven para corroborar la inversión del 100% cien por ciento del préstamo; el plazo para la inversión total del préstamo será de 6 meses a partir de la entrega de la primera ministración.
+###### ARTÍCULO 40.
 
-### CAPÍTULO SEPTIMO. DE LAS PENSIONES DERIVADAS
+La autoridad educativa estatal establecerá el Registro Estatal de Opciones para Educación Superior, el cual tendrá por objetivo dar a conocer a la población los espacios disponibles en las instituciones de educación superior públicas y privadas del Estado de Puebla, así como los requisitos para su acceso.
 
-###### Artículo 45.
+Para tal efecto, la autoridad educativa estatal dispondrá las medidas para que las instituciones de educación superior públicas y privadas del Estado de Puebla, proporcionen los datos para alimentar el Registro Estatal de Opciones para Educación Superior.
 
-Los préstamos hipotecarios que otorgue la Dirección de Pensiones serán sujetos al presupuesto anual autorizado por la Junta Directiva, atendiendo a la disponibilidad de recursos, el otorgamiento del monto del préstamo será dependiendo del nivel salarial en que se encuentren los solicitantes y el valor del inmueble garante, así como en múltiplos de $5,000.00 cinco mil pesos 00/ 100 M.N.
+La información del registro al que se refiere este artículo será pública y difundida de manera electrónica e impresa, a través de los medios de comunicación determinados por la autoridad educativa estatal.
 
-### CAPÍTULO NOVENO. DE LA INDEMNIZACIÓN POR RETIRO
+###### ARTÍCULO 41.
 
-###### Artículo 46.
+Las autoridades educativas estatal y municipales, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes. Determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
 
-Los servidores públicos, pensionados o jubilados y (sic) podrán solicitar préstamos hipotecarios mancomunados.
+###### ARTÍCULO 42.
 
-###### Artículo 47.
+Las autoridades educativas respetarán el régimen jurídico de las universidades a las que la ley otorga autonomía, en los términos establecidos en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, lo que implica, entre otros, reconocer su facultad para ejercer la libertad de cátedra e investigación, crear su propio marco normativo, la libertad para elegir sus autoridades, gobernarse a sí mismas, y administrar su patrimonio y recursos.
 
-El proceso de otorgamiento de préstamo hipotecario podrá iniciarlo directamente el servidor público, los pensionados o jubilados ante la Dirección de Pensiones tratándose de personal de confianza; en caso de ser trabajador de base sindicalizado, lo hará a través de su representante sindical bajo su propia responsabilidad.
+###### ARTÍCULO 43.
 
-###### Artículo 48.
+En el Estado de Puebla, se reconoce el derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y de la innovación, considerados como elementos fundamentales de la educación y la cultura.
 
-Es obligatorio que los servidores públicos, pensionados o jubilados, así como en su caso los representantes legales firmen el contrato respectivo en las oficinas de la Dirección de Pensiones o en el lugar que esta les indique.
+###### ARTÍCULO 44.
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2019)</small>
+El fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación que realicen las autoridades educativas estatales y municipales se realizará de conformidad con lo establecido en la Ley General en materia de Ciencia, Tecnología e Innovación y demás disposiciones aplicables.
 
-Los servidores públicos deberán presentar su comprobante de pago de la última quincena transcurrida.
+### CAPÍTULO IV. DEL TIPO DE EDUCACIÓN SUPERIOR
 
-### CAPÍTULO DÉCIMO. DEL SERVICIO MÉDICO Y SEGURO DE VIDA
+###### ARTÍCULO 45.
 
-### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN Y REVOCACIÓN DEL PAGO DE PENSIÓN
+El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-Para iniciar el trámite de otorgamiento de préstamo hipotecario se deberá presentar ante la Dirección de Pensiones la documentación siguiente:
+Las autoridades educativas estatales y municipales, en el ámbito de su competencia, promoverán el desarrollo, la vinculación y divulgación de la investigación científica para el beneficio social y el desarrollo de las actividades productivas y culturales del Estado de Puebla.
 
-I. Del Solicitante:
+### CAPÍTULO VI. DE LA EDUCACIÓN INDÍGENA
 
-a) Solicitud del préstamo hipotecario;
+(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-b) Copia de la escritura de propiedad del inmueble dado en garantía;
+###### ARTÍCULO 46.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+En el Estado de Puebla, se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas y afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas del Estado de Puebla como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-c) Certificado de libertad de gravamen original expedido por el Registro Público de la Propiedad Raíz y del Comercio, a 10, 20 o más años de acuerdo con la fecha de celebración de la escritura del inmueble, con vigencia de un mes; podrá recibirse el certificado con gravámenes, siempre y cuando sean de préstamos otorgados por la Dirección de Pensiones liquidados o vigentes;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas y afromexicanas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado de Puebla. Asimismo, se fortalecerá la formación de recursos humanos que fomenten y preserven la cultura de los pueblos y comunidades indígenas.
 
-d) Copia de la constancia del número reciente, expedido por la autoridad municipal o pago de predial;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+###### ARTÍCULO 47.
 
-e) Avalúo de la propiedad emitido por perito valuador autorizado por la Comisión Nacional Bancaria y de Valores o por la Secretaría de Finanzas y Administración con la copia de acreditación de perito valuador vigente; o a través de la Secretaría de Educación en el Estado, con la copia de autorización de práctico para ejercer la profesión de perito valuador en bienes inmuebles. La vigencia del avalúo será de hasta dos años siempre y cuando la propiedad no sufra alguna modificación o cambien drásticamente las condiciones económicas que disminuyan el valor del inmueble, sujeta al análisis de la Dirección de Pensiones; y,
+Las autoridades educativas del Estado de Puebla consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales locales, nacionales e internacionales en la materia de consulta, cada vez que prevea medidas sustanciales en materia educativa, relacionadas con los pueblos y comunidades indígenas y afromexicanas, respetando su autodeterminación en los términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-f) Copia de comprobante de pago de la última quincena transcurrida.
+###### ARTÍCULO 48.
 
-g) Copia de comprobante de domicilio actualizado;
+En materia de educación indígena, las autoridades educativas estatal y municipales podrán realizar, entre otras acciones, lo siguiente:
 
-h) Copia del acta de matrimonio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-i) Copia de acta de nacimiento; y,
+I. Fortalecer de manera progresiva, las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos, la conectividad, así como con programas de atención específica, las artes, la ciencia, la tecnología, educación especial y la innovación, impulsar la creación y el equipamiento de laboratorios con equipo, personal capacitado, tanto docente, administrativo, de apoyo y asistencia;
 
-j) Copia de identificación oficial (Credencial de Elector, pasaporte vigente, cédula profesional o cartilla militar).
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2018)</small>
+II. Desarrollar programas educativos que reconozcan y atiendan la herencia cultural de los pueblos y comunidades indígenas y afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías, a través de una investigación verídica y contextualizada;
 
-k) Copia de la clabe interbancaria vigente a nombre del solicitante.
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-II. Del Deudor solidario (En su caso):
+II Bis. Impulsar la creación y el equipamiento de laboratorios, con el propósito de orientar la educación científica que apoye los proyectos de educación sustentable, atendiendo las características y necesidades de los pueblos y comunidades indígenas y afromexicanas en cada una de las instituciones de los diferentes tipos de educación;
 
-a) Copia de su identificación oficial (Credencial de elector, pasaporte vigente, cédula profesional o cartilla militar);
+III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del Estado de Puebla;
 
-b) Copia de acta de matrimonio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-c).Copia de acta de nacimiento; y,
+IV. Fortalecer con un enfoque intercultural bilingüe a las instituciones públicas de formación docente, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
 
-d) Comprobante de domicilio actualizado.
+V. Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
 
-III. Del Cónyuge (en caso de sociedad conyugal):
+VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de las y los educandos con un enfoque intercultural y plurilingüe, y
 
-a) Copia de acta de nacimiento; y
+VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas y afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
 
-b) Copia de su identificación oficial (credencial de elector, pasaporte vigente, cédula profesional o cartilla militar).
+### CAPÍTULO VII. DE LA EDUCACIÓN HUMANISTA
 
-La Dirección de Pensiones podrá solicitar más requisitos si legalmente los considera necesarios para el trámite.
+### CAPÍTULO V. DEL FOMENTO DE LA INVESTIGACIÓN, LA CIENCIA, LAS HUMANIDADES, LA TECNOLOGÍA Y LA INNOVACIÓN
 
-###### Artículo 50.
+###### ARTÍCULO 49.
 
-De manera adicional a los requisitos señalados en el artículo 49 del presente Reglamento se pedirá la documentación siguiente:
+En la educación que se imparta en el Estado de Puebla, se promoverá un enfoque humanista y la cultura de la legalidad, con lo que se favorecerá en el educando sus habilidades socioemocionales que le permitan adquirir y generar conocimientos, fortalecer la capacidad para aprender a pensar, sentir, actuar y desarrollarse como persona integrante de una comunidad y en armonía con la naturaleza, de manera que aprenda a resolver situaciones problemáticas autónoma y colectivamente, mediante la aplicación de los conocimientos aprendidos a situaciones concretas de su realidad y el desarrollo de sus actitudes y habilidades para su participación en los procesos productivos, democráticos y comunitarios.
 
-I. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2023)</small>
 
-a) (DEROGADO, P.O. 3 DE ABRIL DE 2019)
+###### ARTÍCULO 50.
 
-II. Liberación de Gravamen:
+La Secretaría generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas de los pueblos y comunidades indígenas y afromexicanas.
 
-a) Finiquito del banco o de la Institución acreedora.
-
-III. (DEROGADA, P.O. 3 DE ABRIL DE 2019)
-
-a) (DEROGADO, P.O. 3 DE ABRIL DE 2019)
-
-b) (DEROGADO, P.O. 3 DE ABRIL DE 2019)
-
-IV. Compra de Inmueble:
-
-a) Copia de identificación personal, de acta de nacimiento, de acta de matrimonio y comprobante de domicilio del vendedor;
-
-b) Carta de designación de Notaria Pública elegida y firmada por el servidor público, pensionado o jubilado;
-
-c) En caso de que el vendedor sea empresa constructora o persona moral, la autorización definitiva y constitución de régimen de propiedad en condominio;
-
-d) Anexos donde se encuentra delimitada la propiedad;
-
-e) Poder del representante legal;
-
-f) Acta Constitutiva; y,
-
-g) Copia de identificación personal del apoderado jurídico.
+En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza-aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
 ### CAPÍTULO VIII. DE LA EDUCACIÓN INCLUSIVA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-###### Artículo 51.
+###### ARTÍCULO 51.
 
-Los préstamos que otorgue la Dirección de Pensiones, se calcularán según el sueldo base de cotización del servidor público, o a la percepción que por concepto de pensión se reciba; en ambos casos, de igual manera se considerará el 90% del valor de avalúo del inmueble.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todas y todos los educandos, al eliminar prácticas de discriminación, estigmatización, estereotipos, exclusión y segregación, sobre la base de igualdad de oportunidades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2019)</small>
+La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de las y los educandos.
 
-###### Artículo 52.
+(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Para los servidores públicos, el plazo máximo para la redención del préstamo hipotecario será de hasta 15 años con descuentos quincenales, que irían desde el 30% al 50% del salario base de cotización.
+###### ARTÍCULO 52.
 
-Para los jubilados o pensionados por vejez e invalidez, el plazo máximo para la redención del préstamo será de hasta 15 años mediante descuentos quincenales sujetos al 50% de la percepción que tengan por concepto de pensión.
+Las instituciones de educación especial, deberán ser atendidas por personal profesional especializado y multidisciplinario, para cumplir eficazmente con los propósitos de esta educación.
 
-###### Artículo 53.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-Por aprobación de la Junta Directiva los préstamos generarán un interés anual global del 8% sobre el monto total otorgado, un seguro hipotecario del 2% sobre el monto total del préstamo, así como el 18% en caso de moratoria sobre el capital vencido.
+###### ARTÍCULO 53.
 
-###### Artículo 54.
+La educación inclusiva y equitativa tiene como finalidad favorecer el aprendizaje de todas y todos los educandos en todos los tipos, niveles y modalidades educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la Secretaría en la materia buscarán:
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+I. Favorecer el máximo logro de aprendizaje de las y los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
-###### Artículo 55.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+II. Desarrollar al máximo la personalidad, los talentos y la creatividad de las y los educandos, así como sus aptitudes físicas y mentales;
 
-###### Artículo 56.
+III. Favorecer la plena participación de las y los educandos, su educación y garantizar la continuidad de sus estudios en la educación obligatoria;
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual, género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida diaria que favorezcan su convivencia cotidiana e inclusión laboral, a fin de propiciar su participación plena y en condiciones equitativas en la educación y en la sociedad, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Reconocer la diversidad y promover la participación superando los obstáculos que dificultan el aprendizaje y la participación de todos, centrándose en el bienestar y el éxito de las personas con discapacidad, con una cultura de no discriminación.
+
+(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+###### ARTÍCULO 54.
+
+En la aplicación de esta Ley, se garantizará el derecho a la educación a las y los educandos con necesidades específicas de aprendizaje o que enfrenten barreras para el aprendizaje y la participación.
+
+La Secretaría, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a las y los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
+
+I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de las y los educandos, madres y padres de familia, tutoras o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de las y los educandos que enfrentan barreras para el aprendizaje y la participación;
+
+II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+
+III. Prestar educación especial para apoyar a las y los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+
+IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
+
+V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que las y los educandos requieran;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI. Garantizar la satisfacción de las necesidades de aprendizaje de las y los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VIII. Fomentar la toma de conciencia sobre la discapacidad y el uso de modos, medios y formatos de comunicación aumentativos y alternativos y de técnicas y materiales educativos para apoyar a las personas con discapacidad.
+
+(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+###### ARTÍCULO 55.
+
+Para garantizar la educación inclusiva, la Secretaría, en el ámbito de su competencia, ofrecerá las medidas pertinentes, entre ellas:
+
+I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
+
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+
+III. Asegurar que las y los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+IV. Asegurar que se proporcionen los apoyos necesarios y/o se realicen los ajustes razonables para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+V. Proporcionar a las y los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VI. Promover la prestación del servicio de transporte a quienes así lo requieran, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+
+VII. Fomentar a través de talleres, actividades culturales y deportivas una cultura de respeto, solidaridad, empatía y colaboración hacia las personas con discapacidad.
+
+(NOTA: EL 25 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2020 Y SU ACUMULADA 186/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+###### ARTÍCULO 56.
+
+En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
 
 ### CAPÍTULO IX. DE LA EDUCACIÓN PARA PERSONAS ADULTAS
 
-###### Artículo 57.
+###### ARTÍCULO 57.
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+La Secretaría ofrecerá acceso a programas y servicios educativos para personas adultas en distintas modalidades que consideren sus contextos familiares, comunitarios, laborales y sociales; en esquemas formales y no formales, bajo la premisa del aprendizaje a lo largo de toda la vida que siente las bases para el desarrollo social económico y ambiental sostenible.
 
-###### Artículo 58.
+Esta educación proporcionará los medios para erradicar el rezago educativo y analfabetismo a través de diversos tipos y modalidades de estudio, así como una orientación integral para la vida que posibilite a las personas adultas formar parte activa de la sociedad, a través de las habilidades, conocimientos y aptitudes que adquiera con el proceso de enseñanza aprendizaje que el Estado facilite para este fin.
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+###### ARTÍCULO 58.
 
-###### Artículo 59.
+La educación formal para personas adultas será considerada una educación a lo largo de la vida y está destinada a la población de quince años o más que no haya cursado o concluido la educación primaria y secundaria; además de fomentar su inclusión a la educación media superior y superior. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+###### ARTÍCULO 59.
 
-###### Artículo 60.
+Las personas beneficiarias de la educación referida en este Capítulo podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos a que aluden la Ley General de Educación. Cuando al presentar una evaluación no acrediten los conocimientos, habilidades, capacidades y destrezas, recibirán un informe que indique las asignaturas y unidades de aprendizaje en las que deban profundizar y tendrán derecho a presentar nuevas evaluaciones hasta lograr la acreditación respectiva.
 
-(DEROGADO, P.O. 6 DE JUNIO DE 2017)
+La Secretaría organizará servicios permanentes de promoción y asesoría de educación para personas adultas. Promoverá ante las instancias competentes se den facilidades necesarias a trabajadores y sus familiares para estudiar y acreditar la educación primaria, secundaria y media superior.
 
-## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28; SE REFORMAN LOS ARTÍCULOS 29, 33, 34, 42; LAS FRACCIONES I, II Y III DEL ARTICULO 42; 44; SE DEROGAN LOS ARTÍCULOS 54, 55, 56, 57, 58, 59, 60, 61 Y 62; DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN”.]
+Quienes participen voluntariamente proporcionando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
-PRIMERO. La presente reforma entrará en vigor a partir del día 1º de mayo de 2017, previa publicación que se haga en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+###### ARTÍCULO 60.
 
-SEGUNDO. Todos los trámites para el otorgamiento de Préstamos en las modalidades y montos que sean recibidos hasta antes de la entrada en vigor de la presente reforma, seguirán su curso normal hasta su conclusión.
+La educación a que se refiere el presente Capítulo tendrá las modalidades siguientes:
 
-TERCERO. Los servidores públicos que antes de la entrada en vigor de la presente reforma cuenten con un préstamo con garantía hipotecaria o de garantía real, podrán optar por migrar su crédito o solicitar otro en la modalidad de liquidez, siempre y cuando se esté en lo dispuesto por el artículo 29 del presente Reglamento. No procederá el préstamo de liquidez a la par de uno de garantía real vigente.
+I. ESCOLARIZADA: Comprende el conjunto de servicios educativos que se imparten en las instituciones educativas, lo cual implica proporcionar un espacio físico para recibir formación académica de manera sistemática y requiere de instalaciones que cubran las características que la Autoridad Educativa señala en el acuerdo específico de que se trate;
 
-CUARTO. Se deja sin efectos todas las menciones que dentro del presente Reglamento se hagan del crédito o préstamo de garantía real, pero aquellos que a la fecha de entrada en vigor de la presente reforma se encuentren vigentes, la Dirección continuará descontando las amortizaciones hasta su finiquito.
+II. NO ESCOLARIZADA: Destinada a estudiantes que no asisten a la formación en el campo institucional. Esta falta de presencia es sustituida por la institución, mediante elementos que permiten lograr su formación a distancia, por lo que el grado de apertura y flexibilidad del modelo, dependen de los recursos didácticos de autoacceso, del equipamiento de informática y telecomunicaciones, y del personal docente, y
 
-QUINTO. La Dirección procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+III. MIXTA: Derivada de la combinación de las modalidades escolarizada y no escolarizada, se caracteriza por su flexibilidad para cursar las asignaturas o módulos que integran el plan de estudios, ya sea de manera presencial o no presencial.
 
-P.O. 1 DE JUNIO DE 2018.
+La Autoridad Educativa Estatal determinará las diferentes opciones educativas de la educación media superior, las cuales necesariamente deberán encuadrar en alguna de las ofertas citadas, considerando como criterios la educación individual o en grupo, la trayectoria curricular, la mediación docente, la mediación digital, el espacio, el tiempo y la certificación.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN".]
+Cuando se trate de esquemas no formales de aprendizaje, la autoridad educativa estatal podrá coadyuvar con la autoridad educativa municipal, en procesos innovadores y que puedan ser replicables en experiencias y contextos locales.
 
-###### ARTÍCULO PRIMERO.
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 78 Y LA FRACCIÓN XV DEL ARTÍCULO 117 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
-La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Los préstamos a que se refiere el artículo 63 del presente Reglamento, se harán a los servidores públicos conforme a las disposiciones siguientes:
+P.O. 9 DE ABRIL DE 2021.
 
-A partir del primero de septiembre y hasta el treinta y uno de diciembre del año 2018, el préstamo para los servidores públicos, excepto para trabajadores temporales, podrá sobrepasar el monto de las aportaciones en los términos siguientes:
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 84 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 33 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA”.]
 
-a) Se otorgará hasta una quincena adicional de su último sueldo de cotización, cuando el servidor público tuviere una antigüedad de cuatro a ocho años once meses y quince días de servicio.
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
-b) Se otorgará hasta un mes adicional de su último sueldo de cotización, cuando el servidor público tuviere una antigüedad de nueve o más años de servicio.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### ARTÍCULO TERCERO.
+P.O. 6 DE ABRIL DE 2022.
 
-Hasta el día primero de septiembre del año 2018, los préstamos hipotecarios otorgados en su modalidad de liquidez, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo.
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 119 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
-Asimismo, hasta la fecha señalada en el párrafo anterior, se podrán otorgar préstamos a la par entre modalidades de garantía hipotecaria, solamente cuando uno de ellos sea de liquidez y la suma total del monto de ambos préstamos no supere la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.); en casos excepcionales se estará a lo que acuerde la Junta Directiva.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO CUARTO.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+P.O. 23 DE DICIEMBRE DE 2022.
 
-P.O. 3 DE ABRIL DE 2019.
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 92 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN”.]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO PRIMERO.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
-
-P.O. 28 DE ENERO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN“.]
-
-###### ARTÍCULO PRIMERO.
-
-La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+P.O. 16 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
 
@@ -1910,3 +2314,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El cumplimiento del presente Decreto, estará sujeto a la suficiencia presupuestaria, que se determine en el ejercicio fiscal correspondiente.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, EN MATERIA DE EDUCACIÓN INDÍGENA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Educación del Estado, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, realizará las adecuaciones legales y administrativas para la aplicación del presente Decreto y estará sujeta a la suficiencia presupuestaria del ejercicio fiscal que corresponda.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Poder Ejecutivo y los Ayuntamientos del Estado, deberán considerar de manera paulatina y progresiva en sus programas presupuestarios a partir del ejercicio fiscal 2025 y subsecuentes, las acciones y actividades que en el ámbito de sus respectivas competencias resulten necesarias para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 28, LA FRACCIÓN VII DEL ARTÍCULO 30 Y LA FRACCIÓN I DEL ARTÍCULO 33, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
