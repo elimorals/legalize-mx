@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-01-10"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4361,9 +4361,9 @@ IV.- Si cualquiera de las personas que participan en las lesiones obrase con pre
 
 Si las lesiones fueren inferidas en riña, se impondrá al responsable de la tercera parte del mínimo hasta las dos terceras partes del máximo de la sanción que le correspondiera de acuerdo con los artículos anteriores. Al imponer la sanción se tomará en cuenta si el responsable fue provocado o provocador.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
-ARTICULO 325 BIS.- Cuando las lesiones fueren cometidas al interior de una institución educativa pública o privada, se impondrá al responsable hasta una mitad más de la sanción que le correspondiera de acuerdo a este Capítulo.
+ARTICULO 325 BIS.- Cuando las lesiones fueren cometidas al interior o en las inmediaciones de una institución educativa pública o privada o estas deriven de actos previos de violencia escolar, se impondrá al responsable hasta una mitad más de la sanción que le correspondiera de acuerdo a este Capítulo.
 
 ###### ARTICULO 326.
 
@@ -4475,6 +4475,12 @@ Al responsable del delito de homicidio simple intencional, se le impondrá de do
 
 Si el homicidio se comete en riña, se aplicará a su autor, si fuere el provocado, de cuatro años seis meses a seis años de prisión, y si fuere el provocador de seis a ocho años de prisión. Esta disposición sólo se aplicará cuando las circunstancias especiales del hecho justifiquen que el autor del homicidio corrió el riesgo de ser muerto o herido por su adversario.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+###### ARTICULO 334 Bis.
+
+Si el homicidio se comete al interior o en las inmediaciones de una institución educativa pública o privada o deriva de actos previos de violencia escolar, se impondrá al responsable hasta una mitad más de la sanción que le correspondiera de acuerdo a este Capítulo.
+
 ###### ARTICULO 335.
 
 Cuando el homicidio se ejecute con la intervención de dos o más personas, se observarán las reglas siguientes:
@@ -4578,6 +4584,12 @@ ARTICULO 337 QUATER.- Al que prive de la vida a su adoptante o adoptado, cónyug
 ###### ARTICULO 340.
 
 Por riña se entiende el acometimiento recíproco por vías de hecho.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
+
+###### ARTICULO 340 Bis.
+
+Cuando las conductas señaladas en el presente Capítulo sean cometidas al interior o en las inmediaciones de una institución educativa pública o privada o deriven de actos previos de violencia escolar, se investigarán de oficio.
 
 ###### ARTICULO 341.
 
@@ -7478,6 +7490,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-781 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS TERCERO, CUARTO Y SÉPTIMO, Y SE ADICIONAN LOS PÁRRAFOS TERCERO, QUINTO Y SEXTO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 368 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-814 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 325 BIS; Y SE ADICIONAN LOS ARTÍCULOS 334 BIS Y 340 BIS AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
