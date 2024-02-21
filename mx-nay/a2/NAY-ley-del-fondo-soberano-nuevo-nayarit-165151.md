@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-fondo-soberano-nuevo-nayarit-165151"
 country: "mx"
 rank: "ley"
 publication_date: "2023-03-16"
-last_updated: "2023-03-16"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL FONDO SOBERANO NUEVO NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Cuarta del Número 50 del Periódico Oficial del Estado de Nayarit, el jueves 16 de marzo de 2023.
 
@@ -155,15 +155,21 @@ II. Contar con título profesional en las áreas de derecho, ingeniería civil, 
 
 III. Haberse desempeñado, durante al menos cinco años, en actividades que proporcionen la experiencia necesaria para cumplir con las funciones de consejero, ya sea en los ámbitos profesional, docente o de investigación;
 
-IV. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión. Tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE FEBRERO DE 2024)</small>
 
-V. No encontrarse, al momento de la designación, inhabilitado o suspendido administrativamente o, en su caso, penalmente, para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
+IV. No encontrarse, al momento de la designación, inhabilitado o suspendido administrativamente o, en su caso, penalmente, para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
 
-VI. No tener litigio pendiente con el Gobierno del Estado ni con el Gobierno Federal, sus dependencias, entidades o fideicomisos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
-VII. No haber sido sancionado con motivo de una investigación de carácter administrativo, por infracciones graves, o penal, por violaciones a las leyes nacionales o extranjeras, que hayan tenido como conclusión cualquier tipo de resolución o acuerdo que implique expresamente la aceptación de la culpa o responsabilidad, o bien, sentencia condenatoria firme, y
+V. No tener litigio pendiente con el Gobierno del Estado ni con el Gobierno Federal, sus dependencias, entidades o fideicomisos, y
 
-VIII. No pertenecer, como ministro, a ningún culto religioso.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE FEBRERO DE 2024)</small>
+
+VI. No pertenecer, como ministro, a algún culto religioso.
+
+VII. (DEROGADA, P.O. 21 DE FEBRERO DE 2024)
+
+VIII. (DEROGADA, P.O. 21 DE FEBRERO DE 2024)
 
 ###### Artículo 11.
 
@@ -720,3 +726,11 @@ DADO en la Ciudad de Tepic, Capital del Estado de Nayarit a los catorce días de
 Atentamente: Dip. Alba Cristal Espinoza Peña, Presidenta.- Dip. Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dieciséis días del mes de marzo de dos mil veintitrés.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Mtro. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS FRACCIONES DEL ARTÍCULO 10 DE LA LEY DEL FONDO SOBERANO NUEVO NAYARIT”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
