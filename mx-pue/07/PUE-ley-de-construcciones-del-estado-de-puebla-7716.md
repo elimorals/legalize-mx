@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-construcciones-del-estado-de-puebla-7716"
 country: "mx"
 rank: "ley"
 publication_date: "1935-06-18"
-last_updated: "1935-06-18"
+last_updated: "2024-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE CONSTRUCCIONES DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONSTRUCCIONES PARA EL ESTADO Y MUNICIPIOS DE PUEBLA, PUBLICADA EN EL P.O. DE 21 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CONSTRUCCIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 18 de junio de 1935.
 
@@ -70,3 +72,17 @@ El Gobernador hará publicar y cumplir la presente disposición. Dada en el Pala
 Graciano H. Tenorio, D. P.- Armando Colombres, D. S.- Adán M. Vázquez, D.S.- Rúbricas.
 
 Por tanto, mando se imprima, publique y circule y se le dé el debido cumplimiento. Dado en el Palacio del Departamento Ejecutivo, en Puebla de Zaragoza, a los cuatro días del mes de junio de mil novecientos treinta y cinco.- El Gobernador Const. Int. del Estado, Lic. Gustavo Ariza.- El Subsecretario de Gobierno, Juan B. Tejeda.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE CONSTRUCCIONES PARA EL ESTADO Y MUNICIPIOS DE PUEBLA".]
+
+PRIMERO. La presente Ley entrará en vigor a los 180 días hábiles contados a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Construcciones del Estado de Puebla, publicada en el Periódico Oficial del Estado el día 18 de junio de 1935.
+
+TERCERO. Los Ayuntamientos tendrán un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para realizar las adecuaciones normativas a sus ordenamientos municipales.
+
+CUARTO. Los procedimientos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley continuarán su sustanciación y resolución en términos de las disposiciones vigentes.
