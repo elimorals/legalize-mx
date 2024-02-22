@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-escolar-para-el-estado-de-sonora-67616"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-15"
-last_updated: "2015-07-16"
+last_updated: "2024-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de enero de 2009.
 
@@ -39,9 +39,11 @@ LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE SONORA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta ley son de orden público e interés social. Así mismo, las actividades y programas relacionados con la seguridad escolar son de carácter obligatorio para las autoridades estatales y municipales, organizaciones de los sectores de los sectores (sic) público, privado y social, instituciones educativas y de las asociaciones de padres de familia y de estudiantes y en general para los habitantes de la Entidad.
+Las disposiciones de esta ley son de orden público e interés social. Así mismo, las actividades y programas relacionados con la seguridad escolar son de carácter obligatorio para las autoridades estatales y municipales, organizaciones de los sectores de los sectores público, privado y social, los integrantes de las comunidades escolares de las Instituciones Educativas y las asociaciones de padres de familia y de estudiantes y en general para los habitantes de la Entidad.
 
 ###### ARTÍCULO 2.
 
@@ -49,25 +51,37 @@ La presente ley tiene por objeto:
 
 I.- Establecer las normas conforme a las cuales se llevarán a cabo las acciones en materia de seguridad escolar;
 
-II.- Procurar la creación de vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad escolar y la propia sociedad, así como establecer las bases para el funcionamiento de los organismos encargados de diseñar y aplicar las políticas que surjan sobre la base de dicha comunicación;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+II.- Procurar la creación de vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad educativa y la propia sociedad, así como establecer las bases para el funcionamiento de los organismos encargados de diseñar y aplicar las políticas que surjan sobre la base de dicha comunicación;
 
 III.- Establecer las bases de coordinación entre los diversos niveles de autoridad que guardan relación con la materia de la seguridad escolar;
 
 IV.- Regular las acciones, proyectos y programas en la materia de corto, mediano y largo plazo, que permitan su seguimiento y evaluación constante, así como una eventual rectificación;
 
-V.- Promover los Mecanismos Alternativos de solución de controversias como alternativa a los conflictos entre la comunidad escolar; y
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-VI.- Impulsar acciones para generar un clima de seguridad en la comunidad escolar y su entorno, para fortalecer de manera integral una cultura de la prevención.
+V.- Promover los Mecanismos Alternativos de solución de controversias como alternativa a los conflictos entre la comunidad educativa, exceptuando aquellos casos relacionados con una probable conducta sexual, estableciendo, en todo momento, las medidas necesarias para garantizar la confidencialidad y proteger la intimidad y privacidad de niñas, niños y adolescentes; y
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+VI.- Impulsar acciones para generar un clima de seguridad en la comunidad educativa y su entorno, para fortalecer de manera integral una cultura de la prevención.
 
 ###### ARTÍCULO 3.
 
 Para los efectos de esta ley, se entenderá por:
 
-I.- Brigada o Brigadas: Conjunto de personas dedicadas a funciones de Seguridad Escolar;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-II.- Comunidad escolar: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, docentes, personal de apoyo y administrativo, padres de familia, vecinos y autoridades educativas;
+I.- Comité: Conjunto de personas dedicadas a funciones de Seguridad Escolar;
 
-III.- Consejo Escolar o Consejos Escolares: El o los Consejos Escolares de Participación Social a que se refiere la Ley de Educación para el Estado de Sonora;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+II.- Comunidad Educativa: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, docentes, personal de apoyo y administrativo, padres de familia y autoridades educativas;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+III.- Consejo Escolar: El Consejo de Participación Escolar o su equivalente a que se refiere la Ley de Educación para el Estado de Sonora;
 
 IV.- Ley: La Ley de Seguridad Escolar para el Estado de Sonora;
 
@@ -77,23 +91,31 @@ VI.- Plantel escolar, escuela o centro escolar: El establecimiento público o pr
 
 VII.- Secretaría: La Secretaría de Educación y Cultura; y
 
-VIII.- Seguridad Escolar: La condición referida al resguardo de la integridad física, afectiva y social de los integrantes de la comunidad escolar, al interior y en el entorno que rodea el plantel educativo, derivada del conjunto de acciones preventivas y de atención, coordinadas por la autoridad competente en la materia.
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+VIII.- Seguridad Escolar: La condición referida al resguardo de la integridad física, afectiva y social de los integrantes de la comunidad educativa, al interior y en el entorno que rodea el plantel educativo, derivada del conjunto de acciones preventivas y de atención, coordinadas por la autoridad competente en la materia.
 
 ###### ARTÍCULO 4.
 
 La prevención y adopción de medidas y acciones en materia de seguridad escolar son responsabilidad del Gobierno del Estado y los ayuntamientos, de acuerdo a su ámbito de competencia, con la participación de los sectores público, privado, social y en general de sus habitantes, en los términos de esta ley y de los reglamentos que de ella se deriven.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-Los programas y acciones de enlace escolar y de seguridad pública, tenderán principalmente a modificar las actitudes, y formar hábitos y valores de los alumnos a efecto de prevenir la inseguridad.
+Los programas y acciones de enlace escolar y de seguridad pública, tenderán principalmente a modificar las actitudes, y formar hábitos y valores de los alumnos a efecto de fortalecer la seguridad escolar.
 
 ###### ARTÍCULO 6.
 
 En lo no previsto por la presente ley, serán de aplicación supletoria:
 
-I.- La Ley de Seguridad Pública para el Estado de Sonora;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-II.- La Ley de Educación para el Estado de Sonora;
+I.- La Ley de Educación para el Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+II.- La Ley para la Prevención, Atención y Erradicación de la Violencia Escolar para el Estado de Sonora;
 
 III.- La Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes;
 
@@ -117,7 +139,9 @@ Son autoridades en materia de Seguridad Escolar:
 
 I.- El Gobernador del Estado;
 
-II.- El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+II.- El Procurador de Protección de Niñas, Niños y Adolescentes del Estado de Sonora;
 
 III.- El Secretario de Educación y Cultura;
 
@@ -131,9 +155,17 @@ VI.- La Unidad Estatal de Protección Civil;
 
 VII.- Los ayuntamientos del Estado;
 
-VIII.- Las Unidades Municipales de Protección Civil; y
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-IX.- Los Directores Generales de los organismos públicos descentralizados cuya coordinación administrativa sectorial corresponda a la Secretaría de Educación y Cultura.
+VIII.- Las Unidades Municipales de Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 22 DE FEBRERO DE 2024)</small>
+
+IX.- La Secretaria Ejecutiva Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Sonora; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 22 DE FEBRERO DE 2024)</small>
+
+X.- Los Directores Generales de los organismos públicos descentralizados cuya coordinación administrativa sectorial corresponda a la Secretaría de Educación y Cultura.
 
 ###### ARTÍCULO 8.
 
@@ -147,17 +179,23 @@ III.- Celebrar convenios de coordinación y ejecución a fin de cumplir los obje
 
 IV.- Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 9.
 
-Corresponde al Procurador General de Justicia del Estado:
+Corresponde al Procurador de Protección de Niñas, Niños y Adolescentes del Estado:
 
 I.- Aplicar la presente ley con base a sus atribuciones;
 
-II.- Coordinar y auxiliarse de las autoridades y entidades auxiliares previstas en la presente ley, para el cumplimiento del objeto de la misma;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-III.- Proponer al Gobernador del Estado la adopción de medidas necesarias para el efectivo cumplimiento de esta ley;
+II.- Coordinarse con las autoridades y entidades auxiliares previstas en la presente ley, para el cumplimiento del objeto de la misma; y
 
-IV.- Investigar las denuncias que presenten las autoridades señaladas en el artículo 7 y los auxiliares señalados en el artículo 14, ambos de la presente ley, e impulsar los mecanismos alternativos de solución de controversias en materia de seguridad escolar, para el personal de las áreas vinculadas con este ámbito y demás organismos que esta ley regula; y
+III.- (DEROGADA, B.O. 22 DE FEBRERO DE 2024)
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+IV.- Dar seguimiento a las denuncias que presenten las autoridades señaladas en el artículo 7 y los auxiliares señalados en el artículo 14, ambos de la presente ley, e impulsar los mecanismos alternativos de solución de controversias en materia de seguridad escolar, para el personal de las áreas vinculadas con este ámbito y demás organismos que esta ley regula; y
 
 V.- Las demás atribuciones que conforme a ésta ley y demás disposiciones legales aplicables que le competan.
 
@@ -169,37 +207,51 @@ I.- Aplicar, en la esfera de su competencia, esta ley, sus reglamentos y vigilar
 
 II.- Proponer al Gobernador del Estado la celebración de acuerdos con los ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente ley;
 
-III.- Proponer al Procurador General de Justicia del Estado la adopción de medidas necesarias para el cumplimiento del objeto de esta ley;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-IV.- Concentrar el registro de los consejos escolares y las brigadas en la Entidad;
+III.- Proponer a la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, la adopción de medidas necesarias para el cumplimiento de (sic) objeto de esta ley;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+IV.- Concentrar el registro de los Consejos Escolares y los Comités en la Entidad;
 
 V.- Formular y desarrollar programas y realizar las acciones que le competen en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias de la administración estatal, según sus respectivas esferas de competencia, o con los municipios de la Entidad y con la sociedad en general;
 
-VI.- Motivar y facilitar la organización de los miembros de la comunidad escolar en los diversos niveles educativos para el cumplimiento del objeto de esta ley, estimulando su participación en el rescate de valores y ataque a las causas que generan la inseguridad;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+VI.- Motivar y facilitar la organización de los miembros de la comunidad educativa en los diversos niveles educativos para el cumplimiento del objeto de esta ley, estimulando su participación en el rescate de valores y ataque a las causas que generan la inseguridad;
 
 VII.- Proponer que en la toma de decisiones, en materia de esta ley, las autoridades o instancias respectivas consideren las necesidades específicas para cada una de las regiones del Estado; y
 
 VIII.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 10 BIS.- La Secretaria de Educación y Cultura podrá celebrar convenios con asociaciones civiles legalmente constituidas, cuya finalidad y objeto sea el realizar labor altruista en beneficio de los adultos mayores, para efecto de que las asociaciones civiles canalicen personas adultos mayores para coadyuvar de manera voluntaria en planteles educativos públicos del Estado en las labores de seguridad peatonal de alguna comunidad escolar determinada.
+ARTÍCULO 10 BIS.- La Secretaria de Educación y Cultura podrá celebrar convenios con asociaciones civiles legalmente constituidas, cuya finalidad y objeto sea el realizar labor altruista en beneficio de los adultos mayores, para efecto de que las asociaciones civiles canalicen personas adultos mayores para coadyuvar de manera voluntaria en planteles educativos públicos del Estado en las labores de seguridad peatonal de alguna comunidad educativa determinada.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
 
 Los adultos mayores que colaboren en los planteles educativos públicos en términos de lo establecido en el párrafo anterior recibirán cobertura en servicios médicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Secretaría Ejecutiva Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Sonora:
 
 I.- Auxiliar a las autoridades en el cumplimiento de esta ley y demás disposiciones legales que de esta deriven;
 
-II.- Celebrar acuerdos de colaboración con los ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente ley;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-III.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta ley, así como apoyar y asesorar a los Consejos Escolares y a las Brigadas Escolares;
+II.- Celebrar acuerdos de colaboración con las autoridades y ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente ley;
 
-IV.- Formular, desarrollar programas y realizar las acciones que le competen en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, y con los municipios de la Entidad y con la sociedad;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+III.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta ley, así como apoyar y asesorar a los Consejos Escolares y a los Comités;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+IV.- Participar en la formulación, desarrollo de programas y realizar las acciones que le competen en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, y con los municipios de la Entidad y con la sociedad;
 
 V.- Auxiliar en las revisiones a que se refiere el artículo 32 de esta ley; y
 
@@ -209,15 +261,17 @@ VI.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplic
 
 Corresponde a los ayuntamientos del Estado:
 
-I.- Llevar el registro de las brigadas en el Municipio y remitir esta información a la Secretaría;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+I.- Llevar el registro de los Comités en el Municipio y remitir esta información a la Secretaría;
 
 II.- Establecer y promover las líneas de colaboración de la comunidad en general con los cuerpos preventivos de seguridad pública y los centros educativos;
 
 III.- Propiciar la organización de eventos en los que se destaque y estimule la participación y activismo de los miembros de la comunidad en favor de la seguridad escolar;
 
-> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-IV.- Coordinarse, permanentemente, con la Secretaría de Seguridad Pública, para aplicar en la comunidad escolar, los programas existentes relativos a la prevención de problemas de conducta o inseguridad, así como promover y fomentar la utilización de mecanismos alternativos de solución de controversias relacionadas con el ámbito escolar;
+IV.- Brindar apoyo a la Secretaria de Educación y Cultura, a solicitud de esta última, para aplicar en la comunidad educativa, los programas existentes relativos a la prevención de problemas de conducta o inseguridad, así como promover y fomentar la utilización de mecanismos alternativos de solución de controversias relacionadas con el ámbito escolar;
 
 V.- Proveer, conforme a la disponibilidad presupuestal aprobada, de infraestructura vial y de señalización en las calles aledañas a los espacios educativos para garantizar la seguridad en el entorno del plantel educativo correspondiente;
 
@@ -233,13 +287,13 @@ Corresponde a los Directores Generales de los órganos de gobierno de los Organi
 
 I.- Aplicar, en la esfera de su competencia, esta ley y sus reglamentos, así como vigilar su observancia;
 
-> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-II.- Proponer a los titulares de la Secretaría y de la Secretaría de Seguridad Pública, la adopción de medidas necesarias para el cumplimiento de los objetivos de esta ley y, en su caso, aplicarlas en el ámbito de su competencia:
+II.- Proponer a los titulares de la Secretaría y de la Secretaría ejecutiva Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Sonora, la adopción de medidas necesarias para el cumplimiento de los objetivos de esta ley y, en su caso, aplicarlas en el ámbito de su competencia;
 
-> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-III.- Coadyuvar con la Secretaría, la Secretaría de Seguridad Pública y los ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo; y
+III.- Coadyuvar con la Secretaría, la Secretaría de Seguridad Pública y los ayuntamientos, en la formulación del registro de los Comités de los planteles educativos a su cargo; y
 
 IV.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
@@ -255,9 +309,9 @@ I.- Los Consejos Escolares;
 
 II.- Los directores de los planteles escolares;
 
-> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-III.- Las Brigadas; y
+III.- Los Comités; y
 
 > <small>(ADICIONADA, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -273,7 +327,9 @@ II.- Proponer estímulos y otorgar reconocimientos a alumnos, maestros, directiv
 
 III.- Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos en materia de seguridad escolar;
 
-IV.- Llevar a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar, en coordinación con la Brigada del plantel;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+IV.- Llevar a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar, en coordinación con el Comité del plantel;
 
 V.- Alentar el interés familiar y comunitario en la protección de los alumnos, así como del plantel escolar y su entorno;
 
@@ -281,43 +337,59 @@ VI.- Contribuir a reducir las condiciones sociales adversas que influyan negativ
 
 VII.- Realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
 
-VIII.- Coordinar la constitución y operación de las brigadas;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-IX.- Respaldar las labores de las Brigadas;
+VIII.- Coordinar la constitución y operación de los Comités;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+IX.- Respaldar las labores de los Comités;
 
 X.- Promover y fomentar la utilización de Mecanismos Alternativos en el ámbito escolar; y
 
 XI.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Las Brigadas son instancias de apoyo de las autoridades encargadas de aplicar la presente ley, que interactúan con las distintas autoridades previstas en la misma, a través de su representante.
+Los Comités son instancias de apoyo de las autoridades encargadas de aplicar la presente ley, que interactúan con las distintas autoridades previstas en la misma, a través de su representante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 17.
 
-En cada escuela de educación pública dependiente de la Secretaría, se constituirá una Brigada.
+En cada escuela de educación pública dependiente de la Secretaría, se constituirá un Comité.
 
 Las escuelas particulares de educación básica, media superior y superior que cuenten con autorización y reconocimiento de validez oficial de estudios otorgados por la Secretaria, respectivamente, se sujetarán a las disposiciones que en la materia emita dicha autoridad.
 
 En el caso de las instituciones de educación pública que dependan de la autoridad educativa federal, o en el de las universidades autónomas con domicilio en el Estado de Sonora, el Ejecutivo por conducto de la Secretaría, podrá celebrar los convenios de colaboración necesarios para la aplicación de la presente ley.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-La Brigada será coordinada por el Consejo Escolar, debiendo integrarla con un mínimo de siete miembros, dentro de los cuales se contemplará personal docente, padres de familia, vecinos del plantel y alumnos, dándose preferencia a la participación de estos últimos como parte de su proceso formativo y siempre atendiendo a la propia naturaleza del nivel educativo.
+El Comité será coordinada (sic) por el Consejo Escolar, debiendo integrarlo con un mínimo de siete miembros, dentro de los cuales se contemplará personal docente, padres de familia y alumnos, dándose preferencia a la participación de estos últimos como parte de su proceso formativo y siempre atendiendo a la propia naturaleza del nivel educativo.
 
-El directivo del plantel educativo al que pertenezca la Brigada será quien la represente ante el Consejo Escolar correspondiente.
+El directivo del plantel educativo al que pertenezca el Comité será quien lo represente ante el Consejo Escolar correspondiente.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Las actividades que lleven a cabo las Brigadas, que involucren acciones específicas de carácter permanente por parte de las autoridades, deberán formalizarse previamente mediante la suscripción de convenios de colaboración que realice la Secretaría con las autoridades competentes.
+Las actividades que lleven a cabo los Comités, que involucren acciones específicas de carácter permanente por parte de las autoridades, deberán formalizarse previamente mediante la suscripción de convenios de colaboración que realice la Secretaría con las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponde a las Brigadas en materia de Seguridad Escolar:
+Corresponde a los Comités en materia de Seguridad Escolar:
 
 I.- Diseñar y aplicar medidas preventivas que propicien un entorno escolar sano y confiable para la educación;
 
-II.- Fomentar, en la comunidad escolar, la cultura de la denuncia ciudadana de aquellas acciones delictivas o contrarias a la legalidad;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+II.- Fomentar, en la comunidad educativa, la cultura de la denuncia ciudadana de aquellas acciones delictivas o contrarias a la legalidad;
 
 III.- Denunciar los hechos presuntamente delictivos de que tengan conocimiento;
 
@@ -325,21 +397,31 @@ IV.- Constituirse en vínculos efectivos de coordinación entre las autoridades 
 
 V.- Proponer al directivo del plantel correspondiente, gestione ante quien corresponda los recursos para cubrir las necesidades que en materia de Seguridad Escolar requiera el plantel;
 
-VI.- Canalizar ante las autoridades competentes, denuncias de violencia física y/o verbal, o cualquier tipo de abuso, ya sea emocional, físico, o sexual, del que sea víctima algún miembro de la comunidad escolar;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+VI.- Canalizar ante las autoridades competentes, denuncias de violencia física y/o verbal, o cualquier tipo de abuso, ya sea emocional, físico, o sexual, del que sea víctima algún miembro de la comunidad educativa;
 
 VII.- Hacer del conocimiento del directivo del plantel correspondiente, de aquellos estudiantes que requieran algún tratamiento específico, para que este a su vez, con el consentimiento expreso de sus padres o tutores, lo canalice para su atención a las diversas organizaciones e instituciones de los sectores público, privado o social;
 
 VIII.- Proponer y opinar respecto los criterios y acciones en materia de Seguridad Escolar;
 
-IX.- Llevar registro de aquellos establecimientos comerciales y/o negocios en general que a juicio de los miembros de la brigada constituyan un riesgo para la Seguridad Escolar, y en caso de detectar irregularidades, hacerlo del conocimiento de las autoridades correspondientes;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-X.- Proponer al Consejo Escolar correspondiente que otorgue reconocimientos a los miembros de la comunidad escolar y de la sociedad en general, que se distingan por su valor cívico y participación social en bien de las labores preventivas de Seguridad Escolar, así como a sus propios miembros;
+IX.- Llevar registro de aquellos establecimientos comerciales y/o negocios en general que a juicio de los miembros del Comité, constituyan un riesgo para la Seguridad Escolar, y en caso de detectar irregularidades, hacerlo del conocimiento de las autoridades correspondientes;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+X.- Proponer al Consejo Escolar correspondiente que otorgue reconocimientos a los miembros de la comunidad educativa y de la sociedad en general, que se distingan por su valor cívico y participación social en bien de las labores preventivas de Seguridad Escolar, así como a sus propios miembros;
 
 XI.- Gestionar ante la autoridad municipal respectiva, en coordinación con la Asociación de Padres de Familia de cada plantel, la instalación de alumbrado, de infraestructura vial y de señalización en el perímetro del centro escolar;
 
-XII.- Solicitar a la autoridad competente, con apego a las disposiciones aplicables, la destrucción de tapias, bardas e inmuebles en general que, por su estado y condiciones físicas, representen un peligro, o sean susceptibles de ser usados para actividades ilícitas en riesgo de la comunidad escolar;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-XIII.- Promover y difundir entre los vecinos del plantel, y los miembros de la comunidad escolar, las actividades y capacitaciones que realiza la Brigada;
+XII.- Solicitar a la autoridad competente, con apego a las disposiciones aplicables, la destrucción de tapias, bardas e inmuebles en general que, por su estado y condiciones físicas, representen un peligro, o sean susceptibles de ser usados para actividades ilícitas en riesgo de la comunidad educativa;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+XIII.- Promover y difundir entre los miembros de la comunidad educativa, las actividades y capacitaciones que realiza el Comité;
 
 XIV.- Fungir como mediadores en casos de controversias relacionadas con el ámbito escolar de su competencia; y
 
@@ -393,7 +475,7 @@ IX.- Contar con una línea telefónica de emergencia;
 
 X.- Colocar en lugar visible los números de emergencia;
 
-> <small>(REFORMADA, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 22 DE FEBRERO DE 2024)</small>
 
 XI.- Contar con, al menos, dos extintores para fuegos tipo A, B y C; y procurar la capacitación de los integrantes de la comunidad escolar sobre su uso responsable;
 
@@ -409,27 +491,33 @@ XIII.- En general, aplicar esta ley y su reglamentación dentro de su ámbito de
 
 XIV.- Las demás acciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-La constitución y el funcionamiento de las Brigadas se hará de conformidad a la reglamentación que al efecto se expida y conforme a las siguientes bases:
+La constitución y el funcionamiento de los Comités se hará de conformidad a la reglamentación que al efecto se expida y conforme a las siguientes bases:
 
-I.- El directivo del plantel tendrá la responsabilidad del registro de la brigada ante la Secretaría, y será responsable del funcionamiento y desarrollo de los planes de trabajo de la Brigada ante la comunidad y la autoridad competente;
+I.- El directivo del plantel tendrá la responsabilidad del registro del Comité ante la Secretaría, y será responsable del funcionamiento y desarrollo de los planes de trabajo del Comité ante la comunidad y la autoridad competente;
 
-II.- Los miembros de la Brigada podrán ser sustituidos, debiéndose comunicar por el director del plantel a la Secretaría, dentro de los diez días hábiles siguientes a partir de que ocurra;
+II.- Los miembros del Comité podrán ser sustituidos, debiéndose comunicar por el director del plantel a la Secretaría, dentro de los diez días hábiles siguientes a partir de que ocurra;
 
-III.- Las determinaciones de la Brigada se adoptarán por mayoría de votos de sus miembros;
+III.- Las determinaciones del Comité se adoptarán por mayoría de votos de sus miembros;
 
 IV.- La representación del cuerpo de alumnos deberá elegirse de entre aquellos que se distingan por su espíritu de servicio a la comunidad, debiendo corresponder a ambos géneros, en su caso;
 
-V.- Por cada miembro de la Brigada podrá haber un suplente, quien sustituirá al titular en sus ausencias, sin formalidad adicional alguna; y
+V.- Por cada miembro del Comité podrá haber un suplente, quien sustituirá al titular en sus ausencias, sin formalidad adicional alguna; y
 
 VI.- La representación del cuerpo de alumnos deberá estar integrada sólo por aquellos que cuenten con la autorización previa y por escrito de quienes ejerzan la patria potestad en los términos de la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 23.
 
-Sin perjuicio de las atribuciones que les establece la presente ley, las Brigadas promoverán:
+Sin perjuicio de las atribuciones que les establece la presente ley, los Comités promoverán:
 
-I.- La participación de los vecinos y los miembros de la comunidad escolar en la consolidación de los programas y actividades relativos a la Seguridad Escolar;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+I.- La participación de los miembros de la comunidad educativa en la consolidación de los programas y actividades relativos a la Seguridad Escolar;
 
 II.- La colaboración en la vigilancia vecinal tendiente a proteger a los estudiantes del plantel escolar, así como el patrimonio y entorno escolares, especialmente, estos últimos, en periodos vacacionales y días inhábiles;
 
@@ -453,39 +541,55 @@ II.- Las medidas de seguridad que se implementen al interior y exterior de los c
 
 III.- Las disposiciones mínimas que deberá contener el reglamento interior de los centros educativos.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 25.
 
-Previa denuncia de los integrantes de las Brigadas o de cualquiera de las señaladas en el artículo 14 de la presente ley, las autoridades competentes podrán solicitar a los responsables de negocios, vendedores o comerciantes, cercanos o adyacentes al centro escolar, la exhibición de los permisos, autorizaciones o licencias expedidos por autoridad competente para la operación de que se trate.
+Previa denuncia de los integrantes de los Comités o de cualquiera de los auxiliares señalados en el artículo 14 de la presente ley, las autoridades competentes podrán solicitar a los responsables de negocios, vendedores o comerciantes, cercanos o adyacentes al centro escolar, la exhibición de los permisos, autorizaciones o licencias expedidos por autoridad competente para la operación de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-En caso de negativa a la solicitud a que se refiere el artículo anterior o de irregularidad en documentación o actividad, las autoridades competentes adoptarán y ejecutarán las medidas de seguridad y protección necesarias encaminadas a evitar los daños o situaciones de riesgo para los miembros de la comunidad escolar o a las instituciones.
+En caso de negativa a la solicitud a que se refiere el artículo anterior o de irregularidad en documentación o actividad, las autoridades competentes adoptarán y ejecutarán las medidas de seguridad y protección necesarias encaminadas a evitar los daños o situaciones de riesgo para los miembros de la comunidad educativa o a las instituciones.
 
 Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Es obligación de los miembros de la comunidad escolar reportar o hacer del conocimiento de la Brigada o de la autoridad escolar, cualquier situación anormal que detecten y que consideren que pone o puede poner en riesgo la Seguridad Escolar.
+Es obligación de los miembros de la comunidad educativa reportar o hacer del conocimiento del Comité o de la autoridad escolar, cualquier situación anormal que detecten y que consideren que pone o puede poner en riesgo la Seguridad Escolar.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 28.
 
-Los miembros de la comunidad escolar, a través de la Brigada, cuando detecten cualquier deterioro del inmueble o instalaciones del centro escolar que ponga en riesgo o en peligro la salud o integridad física de los miembros de la misma comunidad, lo harán del conocimiento del directivo del plantel escolar correspondiente.
+Los miembros de la comunidad educativa, a través del Comité, cuando detecten cualquier deterioro del inmueble o instalaciones del centro escolar que ponga en riesgo o en peligro la salud o integridad física de los miembros de la misma comunidad, lo harán del conocimiento del directivo del plantel escolar correspondiente.
 
 ###### ARTÍCULO 29.
 
 Los directivos de los planteles escolares deberán realizar las denuncias correspondientes ante la autoridad competente, cuando se cometan ilícitos tanto al interior del centro educativo como dentro del perímetro escolar.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 30.
 
-La Brigada deberá promover, a través de las autoridades competentes, la información a los miembros de la comunidad escolar sobre el uso adecuado de los materiales que existan en el centro educativo que puedan poner en peligro la integridad física.
+El Comité deberá promover, a través de las autoridades competentes, la información a los miembros de la comunidad educativa sobre el uso adecuado de los materiales que existan en el centro educativo que puedan poner en peligro la integridad física.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-La Brigada, en coordinación con la autoridad de Protección Civil que corresponda, implementará un programa específico en esta materia, atendiendo a las características especiales propias de cada centro escolar.
+El Comité, en coordinación con la autoridad de Protección Civil que corresponda, implementará un programa específico en esta materia, atendiendo a las características especiales propias de cada centro escolar.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 32.
 
-Con el fin de detectar la posesión de estupefacientes, armas o demás sustancias u objetos prohibidos en el interior del centro escolar, la Brigada deberá convenir con los padres de familia de manera expresa para que autoricen el que se practiquen revisiones periódicas a las pertenencias de los estudiantes, las cuales se examinarán detalladamente en presencia de los alumnos sujetos a revisión, previo acceso al centro escolar que corresponda.
+Con el fin de detectar la posesión de estupefacientes, armas o demás sustancias u objetos prohibidos en el interior del centro escolar, el Comité deberá convenir con los padres de familia, de manera expresa, para que, en la atención de riesgos, autoricen el que se practiquen revisiones preventivas a las pertenencias de los estudiantes, las cuales se examinarán detalladamente, sin la participación de personal externo al plantel, en presencia de los alumnos sujetos a revisión.
+
+La Secretaria de Educación y Cultura, en coordinación con las autoridades en materia de seguridad escolar, emitirá los protocolos de actuación para la práctica de las revisiones referidas en el párrafo anterior, apegándose, en lo conducente, al Protocolo para la Protección y Cuidado del Estudiantado en la Revisión de Útiles Escolares en los Planteles Federales de Educación Media Superior, y demás disposiciones en la materia, emitidas por la Secretaría de Educación Pública. En los procesos de revisión no deberán participar estudiantes menores de edad, a efecto de prevenir cualquier forma de molestia o acoso por parte de otros estudiantes, debido a su participación.
 
 ### CAPÍTULO V. DEL CONTENIDO MÍNIMO DE LOS REGLAMENTOS INTERIORES DE LOS CENTROS ESCOLARES EN MATERIA DE SEGURIDAD ESCOLAR
 
@@ -513,19 +617,29 @@ V.- Causas y motivos de infracciones, así como sus sanciones.
 
 El Programa de Seguridad Escolar tiene como objetivos:
 
-I.- Detectar y evitar el tráfico, consumo de drogas, alcohol y tabaco en el interior de los planteles educativos;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-II.- Detectar la incidencia delictiva que se de o pudiese darse en los diferentes centros escolares, e identificar por parte de quien son cometidos estos hechos o delitos, para implementar el seguimiento y tratamiento y las medidas que se llevarán a cabo, con la finalidad de brindar seguridad a la comunidad escolar en general;
+I.- Detectar y evitar la posesión, tráfico, consumo de drogas, alcohol, tabaco, armas u objetos o sustancias que puedan utilizarse como tales, en el interior de los planteles educativos;
 
-III.- Analizar las diferentes situaciones que se pudiesen dar en cada centro escolar para que basadas en éstas se planteen operativos que reduzcan el riesgo de peligro y garanticen la seguridad de la comunidad escolar;
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
 
-IV.- Crear conciencia en la sociedad y en la comunidad escolar sobre la necesidad de implementar medidas tendientes a la prevención, autoprotección y denuncia de conductas ilícitas y consumos nocivos para la salud dentro de los planteles educativos;
+II.- Detectar la incidencia delictiva que se dé o pudiese darse en los diferentes centros escolares, e identificar por parte de quien son cometidos estos hechos o delitos, para implementar el seguimiento y tratamiento y las medidas que se llevarán a cabo, con la finalidad de brindar seguridad a la comunidad educativa en general;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+III.- Analizar las diferentes situaciones que se pudiesen dar en cada centro escolar para que basadas en éstas se planteen operativos que reduzcan el riesgo de peligro y garanticen la seguridad de la comunidad educativa;
+
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+IV.- Crear conciencia en la sociedad y en la comunidad educativa sobre la necesidad de implementar medidas tendientes a la prevención, autoprotección y denuncia de conductas ilícitas y consumos nocivos para la salud dentro de los planteles educativos;
 
 V.- Promover una cultura de colaboración, participación y solidaridad escolar, en donde impulsados por las diversas autoridades de gobierno, escolares y de seguridad pública, se logre que organismos empresariales, cámaras, asociaciones, organismos no gubernamentales, sindicatos, organizaciones culturales, líderes de opinión intelectuales, centros académicos y la comisión y asociaciones de derechos humanos se involucren con este programa;
 
 VI.- Involucrar al personal docente y administrativo de las escuelas, padres de familia, alumnos y vecinos de las instituciones escolares, para ejercitar y operar las acciones conducentes para lograr un verdadero ambiente de seguridad y sanidad escolar;
 
-VII.- Coordinar las acciones con la participación de las diversas instituciones sociales para la realización de conferencias, pláticas y foros para la prevención, detección y canalización oportuna de factores de riesgo de la comunidad escolar y en general organizar actividades escolares y extraescolares, tendientes a acrecentar un interés por el deporte, arte y la cultura en los estudiantes.
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2024)</small>
+
+VII.- Coordinar las acciones con la participación de las diversas instituciones sociales para la realización de conferencias, pláticas y foros para la prevención, detección y canalización oportuna de factores de riesgo de la comunidad educativa y en general organizar actividades escolares y extraescolares, tendientes a acrecentar un interés por el deporte, arte y la cultura en los estudiantes.
 
 VIII.- El fomento de la resolución no violenta de conflictos a través de mecanismos alternativos de resolución de controversias en materia de seguridad escolar.
 
@@ -539,7 +653,9 @@ El Programa de Seguridad Escolar logrará sus objetivos a través de la Secretar
 
 ARTÍCULO 36 BIS.- En todo caso, el Programa de Seguridad Escolar deberá establecer la impartición, durante los dos primeros meses del año escolar, de cursos de capacitación de seguridad en las escuelas dirigidos a todo el personal docente, administrativo y de apoyo que labore en el plantel respectivo.
 
-Los cursos de capacitación a que se refiere el párrafo anterior, deberán contemplar las acciones de emergencia que tendrán que llevar a cabo los integrantes de un determinado plantel escolar, así como las áreas más seguras a las que deberán acudir, cuando en calles aledañas, en el perímetro escolar o en el mismo interior del plantel, se presenten acontecimientos extraordinarios, producto de la naturaleza o generados por el hombre, que amenacen con poner en riesgo la seguridad de la comunidad escolar.
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
+Los cursos de capacitación a que se refiere el párrafo anterior, deberán contemplar las acciones de emergencia que tendrán que llevar a cabo los integrantes de un determinado plantel escolar, así como las áreas más seguras a las que deberán acudir, cuando en calles aledañas, en el perímetro escolar o en el mismo interior del plantel, se presenten acontecimientos extraordinarios, producto de la naturaleza o generados por el hombre, que amenacen con poner en riesgo la seguridad de la comunidad educativa.
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -573,15 +689,19 @@ Es obligación del personal docente, administrativo y de apoyo, asistir a los cu
 
 Las infracciones a la presente ley serán sancionadas de acuerdo a la Ley de Procedimiento Administrativo del Estado de Sonora, los reglamentos de las Condiciones Generales de Trabajo de las Instituciones Educativas o demás leyes aplicables, por la autoridad que corresponda en cada caso.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-La omisión en la aplicación de la normatividad a que se refiere el artículo anterior, se considerará una falta grave, que se sancionará de acuerdo a la Ley de Responsabilidad de Servidores Públicos respectiva.
+La omisión en la aplicación de la normatividad a que se refiere el artículo anterior, se considerará una falta grave, que se sancionará de acuerdo a la Ley de Responsabilidades y Sanciones para el Estado de Sonora.
 
 ### CAPÍTULO VIII. DEL RECURSO
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 39.
 
-Contra las resoluciones emitidas por la autoridad, dictadas con fundamento en las disposiciones de esta ley y demás que de ésta deriven, podrá interponerse el recurso previsto en la Ley de Procedimiento Administrativo del Estado de Sonora.
+Contra las resoluciones o actos realizados por las autoridades de esta ley, dictadas con fundamento en las disposiciones de esta ley y demás que de ésta deriven, podrá interponerse el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Estado de Sonora o promoverse el correspondiente juicio ante el Tribunal de Justicia Administrativa del Estado de Sonora.
 
 ## TRANSITORIOS
 
@@ -622,3 +742,13 @@ B.O. 16 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 22 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 161, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE SONORA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Dentro del término de 60 días naturales a la entrada en vigor del presente decreto, el Ejecutivo del Estado, deberá realizar las adecuaciones normativas al Reglamento de la Ley de Seguridad Escolar para el Estado de Sonora.
+
+TERCERO.- Dentro del término de 60 días naturales a la entrada en vigor del presente decreto, la Secretaria de Educación y Cultura, en coordinación con las autoridades en materia de Seguridad Escolar, expedirá los lineamientos y/o protocolos para la práctica de las revisiones establecidas en el artículo 32 del presente decreto.
