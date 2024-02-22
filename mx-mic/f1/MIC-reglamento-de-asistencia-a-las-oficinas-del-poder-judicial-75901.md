@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-asistencia-a-las-oficinas-del-poder-judicial-7590
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-10-21"
-last_updated: "1982-10-21"
+last_updated: "2024-02-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE ASISTENCIA A LAS OFICINAS DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO PUBLICADO EN EL PERIÓDICO OFICIAL DE 22 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO DE ASISTENCIA A LAS OFICINAS DEL PODER JUDICIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2024 (SIN EFECTOS).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 21 de octubre de 1982.
 
@@ -206,3 +208,17 @@ Para los funcionarios y empleados de todas las oficinas existentes en el edifici
 El Presidente del Supremo Tribunal dispondrá se publique, difunda y observe.
 
 PALACIO DEL PODER JUDICIAL. Morelia, Michoacán de Ocampo, a 7 siete de Octubre de 1982 mil novecientos ochenta y dos.- PRESIDENTE.- LlC. LUIS EDUARDO GONZALEZ VAZQUEZ.- MAGISTRADOS.- Lic. José Gutiérrez Verduzco.- Lic. Mauro Hernández Pacheco.- Lic. José Solórzano Juárez.- Lic. Hilda Navarro Skinfield.- Lic. Jesús Aguilar Ferreira.- Lic. Elia Maldonado Calderón.- Lic. Octavio Oropeza Béjar.- Lic. Salvador Tamayo Sánchez.- Lic. J. Refugio GalIegos Baeza.- SECRETARIO GENERAL.- Lic. Carlos Arenas García.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN QUE DEJA SIN EFECTOS EL REGLAMENTO DE ASISTENCIA A LAS OFICINAS DEL PODER JUDICIAL EN EL ESTADO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente hábil al de su publicación.
+
+Segundo. Publíquese en el Periódico Oficial del Estado de Michoacán y en la página de internet del Poder Judicial del Estado.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO ÚNICO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Único. Dejar sin efectos el Reglamento de Asistencia a las Oficinas del Poder Judicial del Estado, emitido por el Pleno del Supremo Tribunal de Justicia del Estado el 7 de octubre de 1982 (publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 21 de octubre de 1982).
