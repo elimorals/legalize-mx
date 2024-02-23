@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-02-09"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -2059,9 +2057,9 @@ I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derec
 
 II.- No haber sido condenado por algún delito que merezca pena corporal;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-III.- Tener 21 años cumplidos, el día de la elección.
+III.- Tener 18 años cumplidos el día de la elección, con excepción de la o el Presidente Municipal en cuyo caso se requerirá tener 21 años cumplidos el día de la elección.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2428,6 +2426,10 @@ En el Estado, el varón y la mujer son iguales ante la Ley. Esta protegerá la o
 Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos.
 
 La mujer tiene los mismos derechos civiles y políticos que el hombre; podrá ser electa y tendrá derecho al voto en cualquier elección, siempre que reúna los requisitos que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Toda persona tiene derecho al cuidado digno que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida, así como a cuidar. El Estado promoverá la corresponsabilidad entre mujeres y hombres, las familias, la comunidad y el propio Estado en las actividades de cuidado, las cuales son de interés público.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -3332,3 +3334,21 @@ P.O. 9 DE FEBRERO DE 2024.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 339 POR EL QUE “SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 340 POR EL QUE “SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 103 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Lo previsto en el presente decreto, entendido como regla electoral, será aplicable para la renovación de los HH. Ayuntamientos en el proceso electoral del 2027.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
