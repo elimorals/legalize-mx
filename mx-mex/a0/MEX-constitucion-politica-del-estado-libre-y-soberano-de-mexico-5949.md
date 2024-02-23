@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2024-02-09"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE FEBRERO DE 2024.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -3227,6 +3227,12 @@ IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, 
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
+> <small>(ADICIONADO, G.G. 23 DE FEBRERO DE 2024)</small>
+
+###### Artículo 147 Bis.
+
+El Estado de México garantizará el derecho humano al goce de vacaciones periódicas debidamente remuneradas a todos los servidores públicos de la Entidad, en las condiciones previstas en la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO NOVENO. De la Permanencia de la Constitución
@@ -5228,6 +5234,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.G. 9 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236.- POR EL QUE SE ADICIONA UN PÁRRAFO OCTAVO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 237.- POR EL QUE SE ADICIONA EL ARTÍCULO 147 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
