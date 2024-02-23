@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-11-14"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -185,7 +185,9 @@ II. Violencia física.- Es cualquier acto que inflija daño no accidental, usand
 
 III. Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+IV. Violencia Económica.- Toda acción u omisión que afecta de manera directa o indirecta a la economía, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos, percepción de un salario menor por igual trabajo, explotación laboral, exigencia de exámenes de no gravidez, así como la discriminación para la promoción laboral, incumplimiento de las responsabilidades alimentarias, exclusión o discriminación en la toma de decisiones financieras o en la disposición de los recursos compartidos sin la voluntad de la víctima;
 
 V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad sexual, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y (sic)
 
@@ -217,9 +219,17 @@ XI. Violencia Química: Es aquella que pretende causar daño físico irreversibl
 
 Dicha acción envuelve una carga simbólica, porque con esta el agresor pretende causar de forma deliberada y permanente dolor, sufrimiento o humillación a la víctima, causándole daños físicos, psicológicos y emocionales; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
 
-XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XII. Violencia por Acoso.- Es la agresión reflejada en cualquier acto expresivo, verbal o físico, motivada u orientada por discriminación con base en el género, que pretenda coaccionar a la persona acosada con molestias o requerimientos que la coloquen intencionalmente en una situación de riesgo, incluso en aquellos casos donde no exista subordinación, pero el acosador cometa un ejercicio abusivo del poder que ponga a la víctima en estado de indefensión;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIII. Violencia Institucional.- Son los actos u omisiones de las personas que tengan el carácter de servidores públicos que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -228,6 +238,22 @@ XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da�
 ###### ARTÍCULO 6.
 
 La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicoemocional, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+
+II. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
+
+III. Evitar que la atención que reciba la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+IV. Evitar procedimientos de mediación o conciliación por ser inviables en una relación de sometimiento entre el agresor y las víctimas;
+
+V. Favorecer la separación y alejamiento del agresor con respecto a la víctima; y
+
+VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
 En lo relativo a este tipo de violencia se estará a lo dispuesto en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche, así como en los Códigos Civil y de Procedimientos Civiles, Penal y de Procedimientos Penales para el Estado de Campeche.
 
@@ -509,15 +535,21 @@ IX. Garantizar la investigación y la elaboración de diagnósticos estadístico
 
 X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-XI. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+XI. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+XII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
 
-XIII.- Vigilar que los usos y costumbres sociales no atenten contra los derechos humanos de las mujeres.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIII. Vigilar que los usos y costumbres sociales no atenten contra los derechos humanos de las mujeres; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIV. Impulsar políticas para el adelanto y desarrollo de las mujeres cuyo objeto sea mejorar su calidad de vida y contribuir al logro de la igualdad sustantiva.
 
 ###### ARTÍCULO 21.
 
@@ -769,7 +801,9 @@ V. Realizar el diagnóstico estatal y otros estudios complementarios de manera p
 
 VI. Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres en el que se integren, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres; las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover en el Estado los derechos humanos de las mujeres;
 
-VII. Proponer a las instancias encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que se requieran, a fin de erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VII. Proponer a las instancias encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que se requieran, a fin de erradicar la violencia contra las mujeres en todas las regiones del Estado, considerando las características de los grupos de desventajas, las variables socioculturales, el respeto por las culturas, así como por las lenguas indígenas de la Entidad;
 
 VIII. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
 
@@ -1282,3 +1316,11 @@ P.O. 14 DE NOVIEMBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 338 POR EL QUE “SE REFORMAN LAS FRACCIONES IV Y XII DEL ARTÍCULO 5; LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 20; LA FRACCIÓN VII DEL ARTÍCULO 30; SE ADICIONAN LAS FRACCIONES XIII, XIV AL ARTÍCULO 5; UN PÁRRAFO SEGUNDO AL ARTÍCULO 6 Y UNA FRACCIÓN XIV AL ARTÍCULO 20, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
