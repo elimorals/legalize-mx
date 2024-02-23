@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-162309"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-01-06"
-last_updated: "2023-12-05"
+last_updated: "2024-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Puebla, el viernes 6 de enero de 2023.
 
@@ -53,11 +53,13 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
 La presente Ley es de orden público y observancia general. Tiene por objeto establecer las bases para la organización y competencias del Poder Judicial del Estado Libre y Soberano de Puebla.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en la Sala Constitucional, en el Tribunal de Justicia Administrativa, en los Juzgados y Tribunales de Primera o Única Instancia, los Tribunales Laborales, y Juzgados Especializados, de conformidad con las normas de organización, competencia y procedimiento que establecen la Constitución del Estado, la presente Ley y las leyes correspondientes.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en el Tribunal de Justicia Administrativa, en los Juzgados de primera instancia, de conformidad con las normas de organización, competencia y procedimiento que establecen la Constitución del Estado, la presente Ley y las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 El Poder Judicial del Estado contará con un órgano no jurisdiccional denominado Consejo de la Judicatura, que tendrá las funciones de administración, vigilancia, evaluación del desempeño y disciplina, así como la rectoría de la carrera judicial de los miembros del Poder Judicial del Estado, en los términos que establecen la Constitución del Estado, esta Ley y demás disposiciones reglamentarias aplicables.
 
@@ -79,9 +81,13 @@ III. Consejo: El Consejo de la Judicatura del Poder Judicial;
 
 IV. Constitución del Estado: Constitución Política del Estado Libre y Soberano de Puebla;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-IV Bis. Juzgados y Tribunales Laborales. Los Juzgados de primera o única instancia y especializados;
+IV Bis. Juzgados de primera instancia: Los establecidos en el artículo 39 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+IV Ter. Ley Reglamentaria: La Ley Reglamentaria de los Medios de Defensa de la Constitución Política del Estado Libre y Soberano de Puebla;
 
 V. Mecanismos Alternativos: Mecanismos Alternativos de Solución de Controversias en Materia Penal y Mecanismos Alternativos de Solución de Controversias;
 
@@ -89,11 +95,23 @@ VI. Órganos jurisdiccionales: Aquellos encargados de conocer, decidir y ejecuta
 
 VII. Tribunales: El Tribunal Superior de Justicia del Estado y el Tribunal de Justicia Administrativa del Estado;
 
-VIII. Sala Constitucional: La Sala Constitucional del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VIII. Sala Especializada en Materia Constitucional: La Sala Especializada en Materia Constitucional del Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VIII Bis. Sala Especializada: La Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa;
 
 IX. Salas: Las Salas del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa;
 
-X. Plenos: El Pleno del Tribunal Superior de Justicia, de la Sala Constitucional y del Tribunal de Justicia Administrativa;
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+IX Bis. Salas Especializadas: La Sala Especializada en Materia Constitucional del Tribunal Superior de Justicia y la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+X. Plenos: El Pleno del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa;
 
 XI. Pleno del Consejo: El Pleno del Consejo de la Judicatura del Poder Judicial del Estado, y
 
@@ -115,9 +133,9 @@ IV. Conocer de las controversias que se susciten entre los poderes, municipios y
 
 V. Conocer de la acción de tutela que promuevan las personas por violaciones a sus derechos humanos;
 
-VI. Conocer de las acciones promovidas en contra de las omisiones legislativas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-(sic) del recurso de revocación en contra de los acuerdos generales que emita el Consejo y del recurso de revisión en contra de los actos de adscripción y remoción de Jueces, así como de la remoción de las Magistradas o Magistrados;
+VI. Conocer de las acciones promovidas en contra de las omisiones legislativas; del recurso de revocación en contra de los acuerdos generales que emita el Consejo y del recurso de revisión en contra de los actos de adscripción y remoción de Jueces;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -137,9 +155,9 @@ XII. Prestar el servicio de defensoría pública en los asuntos del fuero local,
 
 XIII. Dirigir la carrera judicial, así como administrar, vigilar y evaluar el desempeño y disciplina de las personas servidoras públicas del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XIV. Llevar a cabo procesos de formación, capacitación, actualización y certificación, así como celebrar convenios de colaboración en materia de impartición de justicia y cultura de la legalidad;
+XIV. Llevar a cabo los procesos de formación profesional, capacitación, actualización y certificación de acuerdo con la normatividad aplicable a la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -301,15 +319,17 @@ VI. Centro: Comprende los distritos judiciales de Tepeaca, Tecali y Puebla, con 
 
 Los distritos y regiones judiciales podrán ser creados y modificados por acuerdo del Consejo.
 
-## TÍTULO SEGUNDO. DE LOS TRIBUNALES, DE LA SALA CONSTITUCIONAL, EL CONSEJO Y SU FUNCIONAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2024)</small>
+
+## TÍTULO SEGUNDO. DE LOS TRIBUNALES, EL CONSEJO Y SU FUNCIONAMIENTO
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-Los Tribunales se integrarán por el número de Magistradas y Magistrados conforme a la Constitución del Estado. Para el buen despacho de los asuntos de su competencia funcionarán en Pleno y en Salas.
+Los Tribunales se integrarán por el número de Magistradas y Magistrados conforme a la Constitución del Estado. Para el buen despacho de los asuntos de su competencia funcionarán en Pleno, Salas y Salas Especializadas.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -321,13 +341,13 @@ Solo podrán ser removidos de su cargo, mediante el mismo procedimiento y la mis
 
 ### CAPÍTULO II. DE LOS PLENOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-Los Plenos se integrarán por la totalidad de las Magistradas o Magistrados que conforman cada uno de ellos y de la Sala Constitucional, respectivamente; así como de las Consejeras o los Consejeros que integran el Consejo. Para que funcionen legalmente se necesita quórum de la mayoría de la totalidad de las Magistradas o Magistrados.
+Los Plenos se integrarán por la totalidad de las Magistradas o Magistrados que conforman cada uno de los Tribunales en términos de esta Ley.
 
-Para que funcionen legalmente se necesita quórum de la mayoría de la totalidad de las Magistradas o Magistrados.
+El Pleno del Consejo por la totalidad de las Consejeras y Consejeros. Para que funcionen legalmente se necesita quórum de la mayoría de la totalidad de las Magistradas o Magistrados y Consejeras o Consejeros, respectivamente.
 
 ###### ARTÍCULO 17.
 
@@ -343,9 +363,13 @@ Las resoluciones de los Plenos se tomarán por mayoría o por unanimidad de voto
 
 Las Magistradas o Magistrados sólo podrán abstenerse de votar cuando tengan impedimento legal o cuando no se hayan encontrado presentes en la discusión respectiva.
 
-La Magistrada o Magistrado que disienta del sentido del fallo total aprobado por la mayoría, formulará voto particular. Si disiente del fallo aprobado sólo de forma parcial, formulará voto segmentado. Cuando comparta la resolución que toma la mayoría pero discrepe de las consideraciones que la sustentan, formulará voto concurrente.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-En cualquier caso, deberá emitirlo dentro de los cinco días siguientes a la fecha del acuerdo y serán engrosados al final del acta o en la resolución respectiva.
+La Magistrada, Magistrado, que disienta del sentido del fallo total aprobado por la mayoría, puede formular voto particular. Cuando comparta la resolución que toma la mayoría pero discrepe de las consideraciones que la sustentan, puede anunciar un voto concurrente.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En cualquier caso, deberá emitirlo dentro de los cinco días siguientes a la fecha del acuerdo y será engrosado al final del acta o en la resolución respectiva.
 
 ###### ARTÍCULO 19.
 
@@ -369,11 +393,13 @@ V. Conocer de las renuncias que a sus respectivos cargos presenten las personas 
 
 VI. Solicitar al Consejo la expedición de los acuerdos generales de carácter administrativo que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional;
 
-VII. Dar cuenta al Consejo de la conducta irregular de las personas servidoras públicas de los Tribunales y de la Sala Constitucional; así como aquellas de las y los abogados, las o los agentes de negocios y demás personas en las promociones que realicen ante el Poder Judicial;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+VII. Dar cuenta al Consejo de la conducta irregular de las personas servidoras públicas de los Tribunales; así como aquellas de las y los abogados, las o los agentes de negocios y demás personas en las promociones que realicen ante el Poder Judicial;
 
-VIII. Dictar su Reglamento Interior y Acuerdos Generales que regulen el funcionamiento de sus Plenos y Salas, así como reglamentos y Acuerdos Generales en las materias de su competencia;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VIII. Dictar su Reglamento Interior y Acuerdos Generales que regulen el funcionamiento de sus Plenos, Salas y Salas Especializadas, así como reglamentos y Acuerdos Generales en las materias de su competencia;
 
 IX. Emitir lineamientos y criterios generales de interpretación que coadyuven a dar seguridad jurídica y a la buena marcha de la administración de justicia, los que serán de observancia obligatoria;
 
@@ -393,9 +419,9 @@ XIV. Aprobar el proyecto y estimaciones del presupuesto anual de egresos de sus 
 
 XV. Proponer iniciativas de leyes y decretos en lo relacionado con su ámbito de competencia y la administración de justicia, a través de sus presidencias, con la aprobación de dos terceras partes de sus integrantes;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XVI. Decidir, de oficio o a petición de parte, en definitiva, sobre los criterios discrepantes sostenidos por las Magistradas o los Magistrados y las Consejeras y los Consejeros y entre las Salas de los Tribunales, la Sala Constitucional y el Consejo. La resolución que se dicte será de observancia obligatoria;
+XVI. Decidir, de oficio o a petición de parte, en definitiva, sobre los criterios discrepantes sostenidos por las Magistradas o los Magistrados y entre las Salas de los Tribunales la resolución que se dicte será de observancia obligatoria;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -419,9 +445,11 @@ XXI. Las demás que le confiera esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE SUS PRESIDENTES O PRESIDENTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-Los Presidentes y Presidentas serán electos por mayoría de votos del Pleno al que correspondan o de la sala especializada del Tribunal de Justicia Administrativa. Durarán en su cargo cuatro años, sin posibilidad de reelección.
+Los Presidentes y Presidentas serán electos por mayoría de votos del Pleno al que correspondan y durarán en su cargo cuatro años, sin posibilidad de reelección.
 
 Durante el ejercicio del cargo, las Presidentas o los Presidentes deberán integrar Sala o ponencia, según sea el caso.
 
@@ -433,13 +461,15 @@ En ningún caso, las personas que presidan los Órganos Jurisdiccionales, podrá
 
 Corresponden a las o los Presidentes:
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-I. Representar a los Tribunales, Sala Constitucional o Consejo, según corresponda ante toda clase de autoridades y personas en los asuntos en los que sean parte de acuerdo a su competencia, salvo lo dispuesto en esta Ley; así como presidir el Pleno, dirigir los debates y conservar el orden en las sesiones;
+I. Representar a los Tribunales, según corresponda, ante toda clase de autoridades y personas en los asuntos en los que sean parte de acuerdo con su competencia, salvo lo dispuesto en esta Ley; así como presidir el Pleno, dirigir los debates y conservar el orden en las sesiones;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2024)</small>
 
-II. Someter al Pleno, para su aprobación, el proyecto de presupuesto del Tribunal Superior de Justicia, de la Sala Constitucional y del Tribunal de Justicia Administrativa, según corresponda. El Consejo de la Judicatura lo hará para el resto del Poder Judicial.
+II. Someter al Pleno, para su aprobación, el proyecto de presupuesto del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, según corresponda. El Consejo lo hará para el resto del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 La Presidencia del Consejo de la Judicatura integrará todo el proyecto de presupuesto de egresos y lo remitirá al Ejecutivo del Estado para los efectos y trámites conducentes.
 
@@ -449,17 +479,17 @@ IV. Resolver sobre. los puntos que no admitan demora, cuando sean de la competen
 
 V. En caso de empate en las votaciones del Pleno, los Presidentes o Presidentas tendrán voto de calidad;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-VI. Firmar las actas, resoluciones y correspondencia de los Tribunales o Sala Constitucional en los casos en que las leyes lo determinen, y vigilar las labores de las Secretarías del Pleno, a fin de que el despacho no sufra demora alguna;
+VI. Firmar las actas, resoluciones y correspondencia de los Tribunales en los casos en que las leyes lo determinen, y vigilar las labores de las Secretarías del Pleno, a fin de que el despacho no sufra demora alguna;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 VII. Enviar al Congreso, por conducto del Consejo, una memoria al inicio del primer periodo de sesiones ordinarias en el que se exponga la situación que guarda el Órgano Jurisdiccional que preside;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-VIII. Proponer, por acuerdo del Pleno respectivo, a las personas servidoras públicas que funjan como enlaces administrativos de los Tribunales o Sala Constitucional, ante el Consejo;
+VIII. Proponer, por acuerdo del Pleno respectivo, a las personas servidoras públicas que funjan como enlaces administrativos de los Tribunales ante el Consejo;
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -469,47 +499,49 @@ IX. Rendir, por sí o a través del personal autorizado por el Pleno, los inform
 
 X. Las demás que expresamente le confiera esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-La Presidencia de cada una de las Salas y Tribunales de Alzada se ejercerá por las Magistradas o Magistrados designados por elección, de entre los mismos que la integran, durará un año y será rotativa entre sus miembros, para una distribución democrática en el ejercicio de sus atribuciones, salvo lo dispuesto en el artículo 20.
+La Presidencia de cada una de las Salas, las Salas Especializadas y Tribunales de Alzada se ejercerá por las Magistradas o Magistrados designados por elección, de entre los mismos que la integran, durará un año y será rotativa entre sus miembros, para una distribución democrática en el ejercicio de sus atribuciones.
 
-### CAPÍTULO IV. DE LAS SALAS DE LOS TRIBUNALES, SALA CONSTITUCIONAL Y CONSEJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO IV. DE LAS SALAS, DE LAS SALAS ESPECIALIZADAS DE LOS TRIBUNALES, ASÍ COMO DEL CONSEJO
 
 #### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-Los Tribunales contarán con el número de Salas Unitarias, Colegiadas y Tribunales de Alzada que sean necesarios para el buen despacho de los asuntos que sean de su competencia.
+Los Tribunales contarán con el número de Salas, Salas Especializadas, Unitarias, Colegiadas y Tribunales de Alzada que sean necesarios para el buen despacho de los asuntos que sean de su competencia, los que funcionarán por especialidades; las Colegiadas se integrarán por tres magistradas o magistrados.
 
-Para el mismo efecto, la Sala Constitucional, la Sala Especializada y el Consejo contarán con ponencias de acuerdo al número de sus integrantes.
+Para el mismo efecto el Consejo contará con ponencias de acuerdo con el número de sus integrantes.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Las audiencias de las Salas, Tribunales de Alzada, Sala Constitucional y Consejo serán públicas, salvo los casos en que la naturaleza de los asuntos de que se trate, la protección de datos personales o el interés público exijan que sean privadas, de conformidad con la normatividad aplicable. Las Salas, los Tribunales de Alzada y la Sala Constitucional tendrán la facultad de imponer las mismas correcciones disciplinarias que el Pleno del Consejo, en los asuntos de su respectiva competencia y en los casos que resulten procedentes.
+Las audiencias de las Salas, Salas Especializadas, Tribunales de Alzada y Consejo serán públicas, salvo los casos en que la naturaleza de los asuntos de que se trate, la protección de datos personales o el interés público exijan que sean privadas, de conformidad con la normatividad aplicable. Las Salas, Salas Especializadas y los Tribunales de Alzada tendrán la facultad de imponer las mismas correcciones disciplinarias que el Pleno del Consejo, en los asuntos de sus respectivas competencias y en los casos que resulten procedentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-Las resoluciones de las Salas, de los Tribunales de Alzada, de la Sala Constitucional o del Consejo se aprobarán por mayoría o unanimidad de votos. Las Magistradas o los Magistrados y las Consejeras y los Consejeros no podrán abstenerse de votar a menos que exista algún impedimento legal.
+Las resoluciones de las Salas y Salas Especializadas, de los Tribunales de Alzada o del Consejo se aprobarán por mayoría o unanimidad de votos. Las Magistradas y los Magistrados y las Consejeras y los Consejeros no podrán abstenerse de votar a menos que exista algún impedimento legal.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+La Magistrada, Magistrado, Consejera o Consejero que disienta del sentido del fallo total aprobado por la mayoría, puede formular voto particular. Cuando comparta la resolución que toma la mayoría, pero discrepe de las consideraciones que la sustentan, puede anunciar un voto concurrente.
 
-La Magistrada o el Magistrado o la Consejera o el Consejero que disienta del sentido del fallo total aprobado por la mayoría, formulará voto particular. Cuando comparta la resolución que toma la mayoría, pero discrepe de las consideraciones que la sustentan, formulará voto concurrente.
+En cualquier caso, deberá emitirlo dentro de los cinco días siguientes a la fecha del acuerdo y será engrosado al final del acta o en la resolución respectiva.
 
-En cualquier caso, deberá emitirlo dentro de los cinco días siguientes a la fecha del acuerdo y serán engrosados al final del acta o en la resolución respectiva.
-
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-En caso de falta de alguna Magistrada, Magistrado, Consejera o Consejero por menos de quince días, la Sala, Tribunal de Alzada, la Sala Constitucional o Consejo podrá funcionar con los restantes, únicamente en cuanto a las resoluciones de mero trámite.
+En caso de ausencia de alguna Magistrada, Magistrado, Consejera o Consejero por menos de quince días, será el Pleno correspondiente quien comisione por turno o especialidad, a la persona servidora pública que debe integrar el Órgano Jurisdiccional.
 
-Si con motivo de la ausencia de la Magistrada, Magistrado, Consejera o Consejero, el asunto no pueda ser resuelto dentro del plazo que establezca la ley aplicable, el Pleno o la Presidenta o el Presidente del Tribunal o de la Sala Constitucional designará a la Magistrada, el Magistrado o persona servidora pública que en funciones de Magistrada o Magistrado deba integrar el Órgano Jurisdiccional correspondiente o el Consejo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -517,33 +549,35 @@ Si con motivo de la ausencia de la Magistrada, Magistrado, Consejera o Consejero
 
 En caso de ausencia de algún Magistrado, Magistrada o Consejero o Consejera por más de quince días, se solicitará al Consejo que comisione por turno o especialidad, a la persona servidora pública que debe integrar el Órgano Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 28.
 
-Para el despacho de los asuntos de cada Sala, Tribunal de Alzada, Sala Constitucional o Comisión, según corresponda, se turnarán estos a las Magistradas o los Magistrados, las Consejeras o los Consejeros por riguroso orden o, en su defecto, a las Magistradas o los Magistrados, las Consejeras o los Consejeros que los substituyan con arreglo a esta ley, según los acuerdos que para el efecto emita el Consejo.
+Para el despacho de los asuntos de cada Sala, Salas Especializadas, Tribunal de Alzada o Comisión, según corresponda, se turnarán estos a las Magistradas o los Magistrados, las Consejeras o los Consejeros por riguroso orden o, en su defecto, a las Magistradas o los Magistrados, las Consejeras o los Consejeros o Servidores Públicos, que los substituyan con arreglo a esta ley, según los acuerdos que para el efecto emita el Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-Las Magistradas o Magistrados, Consejeras o Consejeros a quienes se turnen los asuntos conforme al artículo anterior, serán considerados en éstos como ponentes, y deberán:
+Las Magistradas o Magistrados, Consejeras o Consejeros y Servidores Públicos, a quienes se turnen los asuntos conforme a los tres artículos anteriores, serán considerados en éstos como ponentes, y deberán:
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 I. Dictar las resoluciones de mero trámite, así como las que les correspondan por disposición de ley;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-II. Formular los proyectos de resolución, acuerdo o sentencia, según corresponda, que deban pronunciarse y someterlos a consideración de la Sala, Comisión o Pleno, y
+II. Formular los proyectos de resolución, acuerdo o sentencia, según corresponda, que deban pronunciarse y someterlos a consideración de la Sala, Salas Especializadas, Comisión o Pleno, y
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 III. Rendir informe previo y justificado en los juicios de amparo de los asuntos turnados a su ponencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-Son facultades y obligaciones de los Presidentes o Presidentas de las Salas:
+Son facultades y obligaciones de los Presidentes o Presidentas de las Salas y Salas Especializadas:
 
 I. Presidir las (sic) Sala, dirigir los debates y conservar el orden en las sesiones;
 
@@ -569,9 +603,11 @@ VII. Solicitar el auxilio, aún el de la fuerza pública, a las autoridades comp
 
 VIII. Ejercer las otras facultades que le confiera esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 30 BIS. Corresponde a las Secretarias y los Secretarios de los Órganos Jurisdiccionales respectivos, conforme a su adscripción, además de las que tengan por disposición de ley, las atribuciones siguientes:
+ARTÍCULO 30 BIS. Corresponde a las Secretarias y los Secretarios de los Órganos Jurisdiccionales y del Consejo, conforme a su adscripción, además de las que tengan por disposición de ley, las atribuciones siguientes:
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 A) Secretarias y/o Secretarios de los Plenos:
 
@@ -587,6 +623,8 @@ V. Engrosar las resoluciones o sentencias que correspondan al Pleno, y
 
 VI. Despachar los demás asuntos que le encomiende la Presidenta o el Presidente y los que expresamente le confiera esta Ley.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
 B) Secretaria y/o Secretario Relator de asuntos de Pleno:
 
 I. Estudiar, analizar y resolver los asuntos que le sean encomendados;
@@ -597,7 +635,9 @@ III. Consultar la legislación de la materia, la jurisprudencia aplicable y la d
 
 IV. Despachar los demás asuntos que le encomiende la Presidenta o el Presidente y las demás que expresamente le confiera esta Ley y demás disposiciones aplicables.
 
-C) Secretarias y/o Secretarios de las Salas Colegiadas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2024)</small>
+
+C) Secretarias y/o Secretarios de las Salas, Salas Especializadas, Colegiadas y Unitarias:
 
 I. Dar cuenta, dentro de los términos legales, con los escritos, promociones y diligencias sobre los que deba recaer trámite o resolución;
 
@@ -621,11 +661,15 @@ X. Turnar los asuntos para notificación al Diligenciario, Diligenciaria, Actuar
 
 XI. Realizar la recopilación de decretos, reglamentos y acuerdos administrativos publicados en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
 D) Secretarias y/o Secretarios de Acuerdos:
 
 I. Dar cuenta, dentro de los términos legales, con los escritos, promociones y diligencias sobre los que deba recaer trámite o resolución;
 
-II. Autorizar las resoluciones y actuaciones en que intervengan;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. Autorizar y dar fe de las resoluciones y actuaciones en que intervengan;
 
 III. Redactar las actas de las diligencias que se practiquen y los acuerdos que se pronuncien;
 
@@ -645,19 +689,49 @@ X. Tener, bajo su custodia y responsabilidad, los documentos y valores que deban
 
 XI. Formar el legajo de control de las fichas de depósito, el que será autorizado mensualmente con la firma de la persona Titular del Órgano Jurisdiccional.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+
 E) Secretarias y/o Secretarios de Estudio y Cuenta o Proyectista:
 
 I. Formular los proyectos de resolución que les encomiende la persona Titular del Órgano Jurisdiccional de quien dependan, conforme a las instrucciones que reciban de éste.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+F) Jefes de Causa y Seguimiento en materia de Oralidad Penal:
+
+I. Dar cuenta, dentro de los términos legales, con los escritos, promociones y diligencias sobre los que deba recaer trámite o resolución;
+
+II. Llevar un control, en el que se asiente la fecha en que se entregan a las personas servidoras públicas respectivas los tocas, expedientes o procesos, para el desahogo de los acuerdos respectivos, así como la fecha de su devolución;
+
+III. Dar cuenta a la persona Titular del Órgano Jurisdiccional, en caso de advertir demoras, conforme al control que se señala en la fracción que antecede;
+
+IV. Expedir las certificaciones, copias, testimonios e informes que se les prevengan;
+
+V. Elaborar y despachar la correspondencia oficial, recabando la firma de la autoridad correspondiente;
+
+VI. Recibir, fuera de las horas de oficina, los escritos de término que les presenten las personas interesadas, cuando no encuentren a la persona Titular del área de atención al público, tratándose de los adscritos al Tribunal Superior de Justicia;
+
+VII. Vigilar el comportamiento de las personas servidoras públicas de la oficina, dando cuenta a su superior de las faltas que noten;
+
+VIII. Tener, bajo su custodia y responsabilidad, los documentos y valores que deban reservarse conforme a la Ley, así como los sellos del Órgano Jurisdiccional, y
+
+IX. Formar el legajo de control de las fichas de depósito, el que será autorizado mensualmente con la firma de la persona Titular del Órgano Jurisdiccional.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ARTÍCULO 30 TER. Las ausencias de las Secretarias y los Secretarios serán cubiertas de la forma siguiente:
 
-I. Las Secretarias y/o los Secretarios de los Plenos serán suplidos en sus faltas por las Secretarias y los Secretarios de acuerdos de las Salas; en el caso de la Sala Constitucional será el Secretario o la Secretaria de acuerdos de alguna ponencia que designe su Pleno;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-II. Las Secretarias y/o los Secretarios de acuerdos de Sala serán suplidos en sus faltas por las Secretarias y los Secretarios de Estudio y Cuenta y de acuerdos, en el caso de la Sala Especializada en materia de Responsabilidades Administrativas será el Secretario o la Secretaria de acuerdos de alguna ponencia que designe su Pleno, y
+I. Las Secretarias y/o los Secretarios de los Plenos serán suplidos por las Secretarias y los Secretarios de acuerdos de las Salas y Salas Especializadas;
 
-III. Las Secretarias y/o los Secretarios de acuerdos de Ponencia tratándose del Tribunal de Justicia Administrativa, serán suplidos en sus faltas por las Secretarias y los Secretarios Proyectistas adscritos a la Ponencia.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. Las Secretarias y/o los Secretarios de acuerdos de las Salas o Salas Especializadas serán suplidos por las Secretarias y los Secretarios de Estudio y Cuenta y de Acuerdos, y
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+III. Las Secretarias y/o los Secretarios de acuerdos de Ponencia tratándose del Tribunal de Justicia Administrativa, serán suplidos por las Secretarias y los Secretarios Proyectistas adscritos a la Ponencia.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -665,7 +739,9 @@ ARTÍCULO 30 QUATER. Son obligaciones de las Diligenciarias, los Diligenciarios,
 
 I. Asistir diariamente a la oficina durante las horas que les fije la autoridad de la que dependan; hacer las notificaciones que se les ordene y devolver inmediatamente los expedientes, procesos o tocas; en su caso, asentar en autos la causa de la demora o del incumplimiento;
 
-II. Practicar las diligencias que se les encomienden;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. Practicar las diligencias que se les encomienden y dar fe respecto de ellas;
 
 III. Proporcionar a la respectiva Secretaría todos los informes que se le soliciten, y
 
@@ -687,51 +763,77 @@ V. Auxiliar en los demás trabajos de la oficina, cuando sus principales ocupaci
 
 VI. Las demás que le asigne su superior jerárquico, que expresamente le confiera esta ley y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 30 SEXIES. Son obligaciones de las y los Oficiales, las encargadas y los encargados de atención al público, de acuerdo con las disposiciones legales:
+ARTÍCULO 30 SEXIES. Son obligaciones de las y los Oficiales, sus auxiliares, las encargadas y los encargados de atención al público:
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 I. Recibir los escritos que se presenten, asentar en ellos la razón correspondiente, autorizada con su firma, y dar cuenta oportunamente con los mismos y con los antecedentes a la Secretaría. A petición de parte, firmar copia del escrito por vía de recibo;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
 II. Elaborar y mantener actualizado el inventario general de la oficina, y rendir los informes que sobre el mismo se le soliciten;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 III. Guardar los expedientes, procesos o tocas, y mostrarlos a las personas interesadas que los soliciten cuando proceda;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
 IV. Llevar, en su caso, el registro y el control de los archivos documental y electrónico, así como las estadísticas que se origen con motivo de la función jurisdiccional, y
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+
 V. Las demás que le asigne su superior jerárquico, que expresamente le confiera esta ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 30 SÉPTIES. Las ausencias de las Juezas y los Jueces, menores a quince días serán cubiertas por los Secretarios de Acuerdos, previa autorización del Consejo.
+
+Las que excedan de ese tiempo, serán cubiertas por el personal que designe el Pleno del Consejo.
 
 ## TÍTULO TERCERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ### CAPÍTULO I. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 31.
 
-Al Tribunal Superior de Justicia le corresponde resolver de los medios de impugnación ordinarios del orden civil, familiar, penal, de justicia para adolescentes, mercantil, laboral y los demás que les competan conforme a las leyes.
+Al Tribunal Superior de Justicia le corresponde resolver de los medios de impugnación ordinarios del orden civil, familiar, penal, de justicia para adolescentes, mercantil y los demás que les competan conforme a las Leyes.
+
+A través de la Sala Especializada en Materia Constitucional resolverá los asuntos a que se refiere el artículo 87 de la Constitución del Estado.
 
 ###### ARTÍCULO 32.
 
 Son facultades del Pleno del Tribunal Superior de Justicia, además de las previstas en esta ley, las siguientes:
 
-I. De los conflictos de competencia que se susciten entre las Salas del Tribunal, Tribunales del (sic) Alzada y de todos los casos de competencia no especificados en las leyes;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+I. De los conflictos de competencia que se susciten entre las Salas, Sala Especializada en Materia Constitucional, Tribunales del (sic) Alzada y de todos los casos de competencia no especificados en las leyes;
 
 II. Prorrogar la jurisdicción de las Juezas y Jueces, en los casos y condiciones autorizados por las disposiciones legales aplicables;
 
 III. Asignar la especialización de las Salas conforme a las materias que establezca esta ley, previo acuerdo del Consejo;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-IV. Conocer de oficio, o a petición fundada del Presidente o Presidenta de cualquiera de las Salas o de la persona Titular de la Fiscalía General del Estado, de las apelaciones en materia civil, familiar, penal y de justicia para adolescentes que, por su interés o trascendencia así lo ameriten; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante y, por lo segundo, que sea necesario sentar un criterio que trascienda a la resolución del caso, y
+IV. Conocer de oficio, o a petición fundada del Presidente o Presidenta de cualquiera de las Salas, del Presidente o Presidenta de la Sala Especializada en Materia Constitucional en ejercicio de la jurisdicción ordinaria o de la persona Titular de la Fiscalía General del Estado, de las apelaciones en materia civil, familiar, penal y de justicia para adolescentes que, por su interés o trascendencia así lo ameriten; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante y, por lo segundo, que sea necesario sentar un criterio que trascienda a la resolución del caso;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
 
-V. Las demás que señalen la presente ley y demás disposiciones aplicables.
+V. Solicitar al Consejo la asignación de competencia en jurisdicción ordinaria a la Sala Especializada en Materia Constitucional;
 
-VI. (DEROGADA, P.O. 19 DE JUNIO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+VI. Sistematizar y publicar de manera digital, los precedentes que en materia constitucional emita la Sala Especializada en Materia Constitucional para su consulta pública, y
 
-ARTÍCULO 32 BIS. El Tribunal contará con el número de Salas Unitarias, Colegiadas y Tribunales de Alzada que sean necesarios para el buen despacho de los asuntos que sean de su competencia, los que funcionarán por especialidades; las Colegiadas se integrarán por tres magistradas o magistrados.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+VII. Las demás que señalen la presente Ley y demás disposiciones aplicables.
+
+ARTÍCULO 32 BIS. (DEROGADO, P.O. 23 DE FEBRERO DE 2024)
 
 ### CAPÍTULO II. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -785,6 +887,60 @@ V. De los demás asuntos que le confiera esta ley y los demás acuerdos del Cons
 
 En los casos descritos por las fracciones anteriores, cuando la Magistrada o Magistrado estime que, por la importancia y trascendencia del asunto, deba ser resuelto en forma colegiada, lo hará del conocimiento del Pleno, a efecto de hacer la calificación correspondiente, lo que será notificado a las partes.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 36 BIS. La Sala Especializada en Materia Constitucional tendrá carácter permanente, gozará de autonomía de jurisdicción en la resolución de los asuntos de su competencia, y será garante y custodia de la Constitución del Estado; se integrará por tres Magistradas o Magistrados, que serán elegidos por el voto de la mayoría del Pleno del Consejo, de entre los integrantes del Tribunal Superior de Justicia del Estado.
+
+La Sala Especializada en Materia Constitucional conocerá y resolverá con base en las disposiciones de la Ley Reglamentaria, de los siguientes asuntos:
+
+I. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma local de carácter general y la Constitución del Estado;
+
+Las acciones de inconstitucionalidad podrán ejercitarse por:
+
+a) El equivalente al treinta y tres por ciento de las y los integrantes del Congreso del Estado;
+
+b) El Ejecutivo Estatal, por conducto de la o el Consejero Jurídico del Gobierno;
+
+c) Los partidos políticos con registro en el Estado, a través de sus dirigencias, exclusivamente en contra de normas electorales locales;
+
+d) La Comisión de Derechos Humanos del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
+
+e) El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
+
+f) La Fiscalía General del Estado, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones, y
+
+g) Las y los ciudadanos, en un número equivalente, al menos, al cero punto cinco por ciento de los inscritos en la lista nominal de electores, en los términos que determine la Ley Reglamentaria.
+
+II. De las acciones que promueva el Presidente o Presidenta Municipal o el treinta y tres por ciento de las y los integrantes del Ayuntamiento, en contra de los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dictados por éste, cuando resulten contrarios a lo previsto en la Constitución del Estado;
+
+III. Con excepción del Poder Judicial, de las controversias que se susciten entre los poderes, municipios y órganos a los que la Constitución del Estado otorgue autonomía, cuando tengan por objeto la constitucionalidad de actos u omisiones que afecten sus respectivos ámbitos competenciales;
+
+IV. De la acción de tutela que promuevan las personas por violaciones a sus derechos humanos, en los términos que determine la Ley Reglamentaria;
+
+V. De las acciones que los sujetos legitimados en la fracción I del presente artículo promuevan en contra de las omisiones legislativas atribuibles al Congreso del Estado, cuando medie mandato expreso en norma de carácter general;
+
+VI. Del recurso de revocación que se promueva, conforme a las reglas de legitimación y procedencia que prevea la Ley, en contra de los acuerdos generales que emita el Consejo, así como del recurso de revisión en el que se controvierta la adscripción o remoción de Jueces o Juezas;
+
+VII. De la consulta sobre la interpretación de esta Ley, y a petición de los Plenos y del Pleno del Consejo, podrá determinar el criterio que prevalecerá;
+
+VIII. Podrá conocer de asuntos de jurisdicción ordinaria previo acuerdo del Consejo, y
+
+IX. Las señaladas en esta y otras Leyes como competencia de la Sala Especializada en Materia Constitucional.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 36 TER. La asignación de competencia ordinaria, otorga a las y los integrantes de la Sala Especializada en Materia Constitucional las mismas atribuciones que corresponde a esa jurisdicción.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 36 QUATER. La Sala Especializada en Materia Constitucional, sólo podrá declarar la invalidez de las normas impugnadas u ordenar que se subsane una omisión legislativa, cuando dicho efecto sea determinado por unanimidad de votos.
+
+Las razones que justifiquen las decisiones contenidas en las sentencias dictadas por la Sala Especializada en Materia Constitucional serán obligatorias para todas las autoridades jurisdiccionales del Estado de Puebla, siempre y cuando fueren aprobadas por unanimidad de votos.
+
+No ejercerá competencia en contra de actos procesales o resoluciones judiciales emitidas por los demás órganos jurisdiccionales del Poder Judicial del Estado.
+
+La interpretación de la presente Ley, corresponde a la Sala Especializada en Materia Constitucional, la que, a petición de los Plenos, podrá determinar el criterio que prevalecerá en términos de la Ley Reglamentaria.
+
 ###### ARTÍCULO 37.
 
 Las Salas Especializadas en Justicia para Adolescentes, conocerán de los siguientes asuntos:
@@ -837,17 +993,27 @@ XII. Los de paz, y
 
 XIII. Los que para tal efecto sean creados por el Consejo, atendiendo a las necesidades del derecho humano de acceso a la justicia.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En atención a las atribuciones de las y los Jueces de Paz, tendrán diferentes requisitos a los demás Jueces de Primera Instancia, conforme al acuerdo que emita el Consejo.
+
 ###### ARTÍCULO 40.
 
 En los distritos y regiones judiciales habrá el número de juzgados que el Consejo considere necesarios para que la administración de justicia sea expedita. En todo caso, dichos juzgados estarán numerados progresivamente.
 
-En cada distrito o región judicial podrán crearse el número de tribunales o juzgados de primera instancia, que el Consejo determine, de acuerdo a las necesidades jurisdiccionales para que la impartición de la justicia sea pronta y expedita; los que conforme a sus acuerdos generales tendrán competencia para conocer de los asuntos laborales, civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes y demás materias en que ejerzan su jurisdicción.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En cada distrito o región judicial podrán crearse el número de juzgados de primera instancia, que el Consejo determine, de acuerdo a las necesidades jurisdiccionales para que la impartición de la justicia sea pronta y expedita; los que conforme a los acuerdos generales tendrán competencia para conocer de las materias establecidas en el artículo anterior y demás materias en que ejerzan su jurisdicción.
 
 En el distrito judicial de Puebla y región judicial centro, los juzgados podrán ubicarse, por acuerdo del Pleno, dentro de la zona conurbada o área metropolitana.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-Los juzgados tomarán su denominación del distrito judicial al que pertenezcan y cuando existan varios de la misma competencia en un distrito, se distinguirán por número ordinal.
+Los juzgados tomarán su denominación del distrito o región judicial al que pertenezcan y cuando existan varios de la misma competencia en un distrito, se distinguirán por número ordinal.
+
+El Consejo conforme a los acuerdos que emita contará con administradores, unidades de apoyo administrativo y demás personas servidoras públicas para el funcionamiento de los Tribunales y Juzgados, cuyas facultades serán las que establezca la normatividad aplicable.
 
 #### SECCIÓN PRIMERA. DE LOS JUZGADOS DE LO CIVIL Y MERCANTIL, DE LO FAMILIAR, DE LO PENAL Y DE LOS TRIBUNALES LABORALES
 
@@ -877,7 +1043,9 @@ II. Substanciar los procedimientos de jurisdicción voluntaria en materia famili
 
 III. Conocer de los juicios sucesorios;
 
-IV. Resolver los asuntos derivados de acciones relativas al estado civil, a la capacidad de las personas, a los menores e incapacitados;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+IV. Resolver los asuntos derivados de acciones relativas al estado civil, a la capacidad de las personas y a los niños, niñas y adolescentes;
 
 V. Conocer todas las cuestiones en materia familiar que reclamen la intervención judicial, y
 
@@ -903,9 +1071,9 @@ Los juzgados de oralidad penal ejercerán competencia territorial en cada una de
 
 Los juzgados de oralidad penal contarán con un administrador, así como con el personal necesario para su funcionamiento, cuyas facultades serán las que establezca el reglamento respectivo y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-ARTÍCULO 45 BIS. En el proceso penal acusatorio y oral, las Juezas y los Jueces de oralidad penal las Magistradas y los Magistrados de Tribunal de Alzada actuarán sin Secretarias, Secretarios o testigos de asistencia, y en ese caso, tendrán fe pública para autenticar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+ARTÍCULO 45 BIS. En los procedimientos de oralidad, las Juezas y los Jueces de oralidad, las Magistradas y los Magistrados de Tribunal de Alzada pueden actuar sin Secretarias, Secretarios o testigos de asistencia, y en ese caso, tendrán fe pública para autenticar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
 
 ###### ARTÍCULO 46.
 
@@ -933,17 +1101,21 @@ En los distritos judiciales en los que no se haya designado Juez o Jueza de Exho
 
 #### SECCIÓN QUINTA. DE LOS JUZGADOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-Para una administración de justicia accesible, los municipios del Estado podrán tener por lo menos un juzgado municipal, conforme a los acuerdos que emita el Consejo.
+Para una administración de justicia accesible, los Municipios del Estado podrán tener por lo menos un juzgado municipal, conforme a los acuerdos que emita el Consejo previa solicitud del Ayuntamiento.
 
 ###### ARTÍCULO 51.
 
 Los juzgados municipales tomarán la denominación del municipio en que ejerzan jurisdicción, que estará determinada por los límites que correspondan al municipio y sus pueblos; y si en el municipio hubiere dos o más juzgados, se designarán por orden numérico.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 52.
 
-Las Juezas y Jueces municipales serán nombrados por el Consejo y podrán ser elegidos a propuesta del Ayuntamiento del lugar en que van a ejercer jurisdicción.
+Las Juezas y Jueces municipales serán nombrados por el Consejo y elegidos a propuesta del Ayuntamiento del lugar en que van a ejercer jurisdicción, quienes durarán tres años en el ejercicio de su cargo.
 
 ###### ARTÍCULO 53.
 
@@ -963,7 +1135,9 @@ VI. De los recursos que procedan contra las resoluciones de las Juezas y Jueces 
 
 VII. De las diligencias de apeo y deslinde;
 
-VIII. De la rectificación de las actas del estado civil de las personas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VIII. De la rectificación de las actas del estado civil de las personas, conforme al Código Civil para el Estado Libre y Soberano de Puebla y demás normatividad aplicable;
 
 IX. De los actos preparatorios de juicio, cuando la cuantía del negocio principal que haya de promoverse, no exceda los límites de su competencia, y
 
@@ -981,15 +1155,25 @@ En las cabeceras de los municipios donde no existan juzgados de lo civil o de lo
 
 La instalación y el funcionamiento de los juzgados municipales será a cargo del presupuesto del municipio respectivo, en los términos del convenio que suscriba el Presidente o Presidenta del Consejo, en representación del Poder Judicial, con el Ayuntamiento correspondiente.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En los juzgados municipales habrá un Juez y por lo menos un secretario de acuerdos y un escribiente nombrados por el Consejo a propuesta del Ayuntamiento con cargo al presupuesto municipal.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Las identificaciones de los Jueces Municipales y personal de los juzgados serán proporcionadas por el Consejo. Los sellos oficiales de dichos Juzgados serán autorizados por el Consejo y el Ayuntamiento ordenará su elaboración. El mal uso de la credencial y los sellos será causa de responsabilidad penal y administrativa grave.
+
 #### SECCIÓN SEXTA. DE LOS JUZGADOS DE PAZ
 
 ###### ARTÍCULO 57.
 
 Para una administración de justicia accesible, los pueblos, rancherías, comunidades, barrios, colonias y unidades habitacionales de los municipios del Estado, podrán tener por lo menos un Juzgado de Paz, cuando a criterio del Consejo, por razones debidamente fundadas, éste se considere necesario.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 58.
 
-Las Juezas y Jueces de Paz serán nombrados por el Consejo y podrán ser elegidos a propuesta del Ayuntamiento del lugar en el que van a ejercer jurisdicción.
+Las Juezas y Jueces de Paz serán nombrados por el Consejo y serán elegidos a propuesta del Ayuntamiento del lugar en el que van a ejercer jurisdicción y durarán en su cargo tres años.
 
 ###### ARTÍCULO 59.
 
@@ -1045,7 +1229,9 @@ II. La Sala Especializada, y
 
 III. Las Salas Colegiadas.
 
-La Sala Especializada solo integrará Pleno para la discusión y aprobación de su presupuesto de egresos.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+La Sala Especializada resolverá de manera colegiada y sus Magistrados no integrarán el Pleno del Tribunal, excepto en los asuntos en los que el Consejo prorrogue su jurisdicción ordinaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1127,9 +1313,13 @@ El funcionamiento de las Salas Colegiadas y de la Sala Especializada, se determi
 
 El Pleno del Tribunal de Justicia Administrativa tendrá competencia para conocer, además de lo dispuesto por la normativa aplicable, sobre las que se indican a continuación:
 
-I. El recurso de revisión en contra de las resoluciones que concedan, nieguen, modifiquen o revoquen definitivamente cualquiera de las medidas cautelares previstas en la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla, salvo en las que por su trascendencia, el Pleno del Tribunal ejerza su facultad de atracción;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-II. El recurso de revisión en contra de las sentencias definitivas emitidas por las Salas cuando no sean favorables a sus intereses;
+I. El recurso de revisión en contra de las resoluciones que concedan, nieguen, modifiquen o revoquen definitivamente cualquiera de las medidas cautelares previstas en la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. El recurso de revisión en contra de las sentencias definitivas emitidas por las Salas cuando no sean favorables a los intereses de las partes;
 
 III. El recurso de revisión interpuesto por la Secretaría de Planeación y Finanzas o por la dependencia que tenga atribuidas las funciones en materia fiscal en el Estado, en contra (sic) resoluciones de las autoridades de los Gobiernos Municipales coordinadas en ingresos estatales;
 
@@ -1141,13 +1331,25 @@ VI. El recurso que se promueva en contra de las sentencias dictadas en el juicio
 
 VII. El recurso de reconsideración en contra de las sentencias definitivas emitidas por el Pleno del Tribunal;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-VIII. Conocer de oficio o a petición fundada del Presidente o de la Presidenta de cualquiera de las Salas de los asuntos que, por su interés o trascendencia así lo ameriten; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante y, por lo segundo, que sea necesario sentar un criterio que trascienda a la resolución del caso, en términos de lo que establece la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla, y
+VIII. Conocer de oficio o a petición fundada del Presidente o de la Presidenta de cualquiera de las Salas de los asuntos que, por su interés o trascendencia así lo ameriten; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante y, por lo segundo, que sea necesario sentar un criterio que trascienda a la resolución del caso, en términos de lo que establece la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla;
 
-IX. Las señaladas en esta y otras leyes como competencia del Tribunal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
 
-### CAPÍTULO III. DE LA SALA ESPECIALIZADA
+IX. Solicitar al Consejo la asignación de competencia en jurisdicción ordinaria a la Sala Especializada, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+X. Las señaladas en esta y otras Leyes como competencia del Tribunal.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 69 BIS. La asignación de competencia ordinaria, otorga a las y los integrantes de la Sala Especializada las mismas atribuciones que corresponde a esa jurisdicción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO III. DE LAS SALAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
 ###### ARTÍCULO 70.
 
@@ -1179,13 +1381,23 @@ IX. Resolver los recursos de reclamación en los términos de la Ley General de 
 
 X. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, las sanciones que correspondan de acuerdo con lo establecido en la normatividad aplicable;
 
-XI. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los Entes Públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XII. Las demás que establezca la presente Ley y las disposiciones aplicables.
+XI. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los Entes Públicos Estatales o Municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XII. Podrá conocer de asuntos de jurisdicción ordinaria previo acuerdo del Consejo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIII. Las demás que establezca la presente Ley y las disposiciones aplicables.
 
 La Presidenta o Presidente de la Sala Especializada, le corresponde formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de lo dispuesto por el artículo 125 de la Constitución del Estado, así como rendir los informes previos y justificados que correspondan a la Sala Especializada, en los juicios de amparo respectivos.
 
-### CAPÍTULO IV. DE LAS SALAS COLEGIADAS
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO IV
 
 ###### ARTÍCULO 71.
 
@@ -1209,7 +1421,9 @@ VIII. Las que se originen por fallos en licitaciones públicas y la interpretaci
 
 IX. Las que nieguen la indemnización por responsabilidad patrimonial del Estado, declaren improcedente su reclamación o cuando habiéndola otorgado no satisfaga al reclamante. También, las que por repetición, impongan la obligación a las personas servidoras públicas de resarcir al Estado el pago correspondiente a la indemnización, en los términos de la ley de la materia;
 
-X. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+X. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla; así como resolver sobre los casos de Responsabilidad Patrimonial del Estado en términos de la legislación aplicable;
 
 XI. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo;
 
@@ -1217,7 +1431,9 @@ XII. Las que se configuren por negativa ficta en las materias señaladas en este
 
 XIII. Las sanciones y demás resoluciones emitidas por la Auditoría Superior del Estado, en términos de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla;
 
-XIV. Los juicios que promuevan las autoridades para que sean anuladas (sic) los actos y resoluciones administrativas favorables a un particular, cuando se consideren contrarias a la ley;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIV. Los juicios que promuevan las autoridades para que sean anulados los actos y resoluciones administrativas favorables a un particular, cuando se consideren contrarios a la Ley;
 
 XV. Resolver la recusación de las Magistradas o Magistrados que integran la Sala;
 
@@ -1231,77 +1447,29 @@ XIX. Conocer y resolver del juicio de resolución exclusiva de fondo así como d
 
 XX. Las demás que establezca la presente ley y las disposiciones aplicables.
 
-## TÍTULO QUINTO. DE LA SALA CONSTITUCIONAL
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2024)</small>
 
-### CAPÍTULO ÚNICO. DE SU INTEGRACIÓN Y ATRIBUCIONES
+## TÍTULO QUINTO
+
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 72.
 
-La Sala Constitucional es el órgano jurisdiccional, especializado, terminal y máxima autoridad local en materia de interpretación de la Constitución del Estado, las reglas y principios previstos en la misma y la protección del orden jurídico constitucional local.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
-
-Para la interpretación de la presente Ley, la Sala Constitucional podrá determinar el criterio que prevalecerá, a solicitud de los Plenos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2024)
 
 ###### ARTÍCULO 73.
 
-La Sala Constitucional se integrará por cinco Magistrados o Magistradas, nombrados conforme a lo previsto en la Constitución del Estado.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2024)
 
 ###### ARTÍCULO 74.
 
-La Sala Constitucional conocerá y resolverá con base en las disposiciones de la Ley Reglamentaria de los Medios de Defensa de la Constitución, de los siguientes asuntos:
-
-I. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma local de carácter general y la Constitución del Estado;
-
-Las acciones de inconstitucionalidad podrán ejercitarse por:
-
-a) El equivalente al treinta y tres por ciento de las y los integrantes del Congreso del Estado;
-
-b) El Ejecutivo Estatal, por conducto de la o el Consejero Jurídico del Gobierno;
-
-c) Los partidos políticos con registro en el Estado, a través de sus dirigencias, exclusivamente en contra de normas electorales locales;
-
-d) La Comisión de Derechos Humanos del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
-
-e) El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
-
-f) La Fiscalía General del Estado, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones, y
-
-g) Las y los ciudadanos, en un número equivalente, al menos, al cero punto cinco por ciento de los inscritos en la lista nominal de electores, en los términos que determine la Ley Reglamentaria de los Medios de Defensa de la Constitución.
-
-II. De las acciones que promueva el Presidente o Presidenta Municipal o el treinta y tres por ciento de las y los integrantes del Ayuntamiento, en contra de los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dictados por éste, cuando resulten contrarios a lo previsto en la Constitución del Estado;
-
-III. Con excepción del Poder Judicial, de las controversias que se susciten entre los poderes, municipios y órganos a los que la Constitución del Estado otorgue autonomía, cuando tengan por objeto la constitucionalidad de actos u omisiones que afecten sus respectivos ámbitos competenciales;
-
-IV. De la acción de tutela que promuevan las personas por violaciones a sus derechos humanos, en los términos que determine la Ley Reglamentaria de los Medios de Defensa de la Constitución del Estado;
-
-V. De las acciones que los sujetos legitimados en la fracción I del presente artículo promuevan en contra de las omisiones legislativas atribuibles al Congreso del Estado, cuando medie mandato expreso en norma de carácter general, y
-
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
-
-VI. Del recurso de revocación que se promueva, conforme a las reglas de legitimación y procedencia que prevea la ley, en contra de los acuerdos generales que emita el Consejo, así como del recurso de revisión en el que se controvierta la adscripción o remoción de Jueces o Juezas, así como la remoción de Magistrados o Magistradas dictada, en su caso, por el Congreso;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
-
-VII. De la consulta sobre la interpretación de esta Ley, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2023)</small>
-
-VIII. Las señaladas en esta y otras leyes como competencia de la Sala.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2024)
 
 ###### ARTÍCULO 75.
 
-La Sala Constitucional deberá sujetarse a los siguientes principios:
-
-I. Interpretación conforme: El método de interpretación hermenéutica que debe de realizar la Sala Constitucional en atención al principio de presunción de constitucionalidad, prefiriendo salvar la validez constitucional ante varias interpretaciones posibles de una norma local de carácter general a la luz de la Constitución Local y tomando como referencia lo previsto en el parámetro de regularidad constitucional;
-
-II. Maximización de los derechos: Es la actividad jurisdiccional que debe atender la Sala Constitucional con el objeto de ampliar el contenido de protección de un derecho fundamental reconocido en la Constitución Local, tomando como referencia lo previsto en el parámetro de regularidad constitucional;
-
-III. Criterio de interpretación material de las disposiciones constitucionales y legales, conforme al estado social y democrático de derecho;
-
-IV. Criterio de interpretación procesal, considerando que el objeto de los procesos constitucionales, es obtener la observancia y cumplimiento de la Constitución del Estado, interpretando las causales de improcedencia y sobreseimiento de manera limitada y restringida, privilegiando en todo momento la resolución de fondo de las controversias, y
-
-V. Impulsar de manera oficiosa el proceso, durante cada una de sus etapas.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2024)
 
 ## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA
 
@@ -1313,7 +1481,9 @@ V. Impulsar de manera oficiosa el proceso, durante cada una de sus etapas.
 
 El Consejo es el órgano de representación administrativa, administración, vigilancia, evaluación del desempeño, disciplina y rectoría de la carrera judicial, de servicios de defensoría pública y de capacitación, formación, actualización, certificación y fomento a la cultura de la legalidad del Poder Judicial que cuenta con independencia técnica, de gestión y decisión.
 
-El Consejo de la Judicatura funcionará en Pleno y tendrá las comisiones que determine esta Ley o establezca aquél, mediante acuerdos generales de carácter administrativo, para el ejercicio eficaz de sus atribuciones.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+El Consejo, para la atención y despacho de los asuntos de su competencia, contará con la estructura orgánica conforme a sus necesidades.
 
 ###### ARTÍCULO 77.
 
@@ -1327,23 +1497,31 @@ III. Dos por mayoría absoluta de los integrantes del Pleno del Tribunal Superio
 
 Las Consejeras y Consejeros deberán reunir los requisitos señalados en el artículo 89 de la Constitución del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-El Presidente o la Presidenta del Consejo ejercerá la representación administrativa del Poder Judicial, así como la legal en los procedimientos en los que sea parte, siempre y cuando dicha representación no corresponda a alguno de los Órganos Jurisdiccionales; la cual podrá delegar a quien designe.
+El Pleno del Consejo se integrarán (sic) por la totalidad de las Consejeras o los Consejeros. Para que funcione legalmente se necesita quórum de la mayoría de la totalidad de sus integrantes.
+
+El Presidente o la Presidenta del Consejo ejercerá la representación administrativa del Poder Judicial, así como la legal en los procedimientos en los que sea parte, de acuerdo a la normatividad aplicable vigente, siempre y cuando dicha representación no corresponda a alguno de los Órganos Jurisdiccionales; la cual podrá delegar a quien designe.
+
+El Presidente o Presidenta del Consejo será electo por mayoría de votos del Pleno de Consejo y durará en su cargo cuatro años, sin posibilidad de reelección.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 79.
 
-Las Consejeras o Consejeros ejercerán su función con independencia e imparcialidad. Aquellos que sean Magistrados o Magistradas no integrarán Sala ni Pleno en su Tribunal o Sala Constitucional de origen, durante el ejercicio de su cargo en el Consejo.
+Las Consejeras o Consejeros ejercerán su función con independencia e imparcialidad. Aquellos no integrarán Sala, ni Pleno en su Tribunal o Juzgado de origen, durante el ejercicio de su cargo en el Consejo.
 
 ###### ARTÍCULO 80.
 
 Las Consejeras o Consejeros durarán en su cargo seis años, sin posibilidad de reelección, y no podrán desempeñar cualquier otra actividad remunerada, salvo aquellas científicas, docentes, literarias o de beneficencia. Tampoco podrán actuar como patrones, abogados o representantes; ni intervenir en la celebración de contratos de bienes o servicios por sí o a través de terceros con el Poder Judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 81.
 
-Las decisiones del Consejo son definitivas e inatacables. Sólo procede el recurso de revocación en contra de los acuerdos que emita y del recurso de revisión en contra de los actos de adscripción y remoción de las Juezas y los Jueces y de remoción de las Magistradas o Magistrados que prevea la legislación vigente.
+Las decisiones del Consejo son definitivas e inatacables. Sólo procede el recurso de revocación en contra de los acuerdos que emita y del recurso de revisión en contra de los actos de adscripción y remoción de las Juezas y los Jueces que prevea la legislación vigente.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1355,23 +1533,31 @@ Los actos y decisiones del Consejo no modifican ni invaden las resoluciones de l
 
 Son atribuciones del Pleno del Consejo:
 
-I. Ejecutar los acuerdos de los Tribunales y Sala Constitucional del Poder Judicial del Estado, en los casos previstos por esta ley, así como procurar, en la esfera de lo administrativo, por la existencia de posibilidades materiales y prácticas para el goce del derecho humano de acceso a la justicia;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+I. Ejecutar los acuerdos de los Tribunales del Poder Judicial del Estado, en los casos previstos por la Constitución del Estado y esta Ley, así como procurar, en la esfera de lo administrativo, por la existencia de posibilidades materiales y prácticas para el goce del derecho humano de acceso a la justicia;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 II. Dictar las medidas generales de carácter administrativo que estime convenientes para que la administración de justicia sea expedita, pronta, imparcial y gratuita; lo que deberá hacer del conocimiento de los Órganos Jurisdiccionales;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-III. Establecer con la aprobación de los Plenos, las estructuras de sus Órganos Jurisdiccionales, conforme a la suficiencia presupuestaria, para el adecuado funcionamiento de los mismos, de conformidad con la normatividad aplicable; asimismo, aprobar la estructura de los demás órganos auxiliares y de las unidades administrativas del Poder Judicial;
+III. Establecer con la aprobación de los Plenos, las estructuras de sus Órganos Jurisdiccionales, conforme a la suficiencia presupuestaria, para el adecuado funcionamiento de los mismos, de conformidad con la normatividad aplicable; asimismo, aprobar la estructura de los demás órganos auxiliares y de las unidades administrativas que integran la estructura orgánica del Poder Judicial;
 
 IV. Decretar la creación de las unidades administrativas que sean necesarias para el adecuado funcionamiento del Poder Judicial;
 
-V. Nombrar y remover a las personas servidoras públicas que formen parte del Consejo, órganos auxiliares del mismo y demás que establezca la normatividad aplicable;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-VI. Nombrar al titular del Órgano Interno de Control;
+V. Nombrar a las personas servidoras públicas que formen parte de las unidades administrativas del Consejo, y demás que establezca la normatividad aplicable;
 
-VII. Nombrar a los titulares del Instituto Especializado de Defensoría Pública, de la Escuela Estatal de Formación Judicial y del Centro de Justicia Alternativa, removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VI. Nombrar y remover al titular del Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+VII. Nombrar y remover a los titulares de los órganos auxiliares;
 
 VIII. Imponer las correcciones disciplinarias de conformidad con lo dispuesto en la presente ley;
 
@@ -1385,11 +1571,15 @@ XI. Dictar las medidas necesarias que permitan la coordinación con los órganos
 
 XII. Determinar el número y, en su caso, especialización por materia de los Tribunales;
 
-XIII. (DEROGADA, P.O. 19 DE JUNIO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIII. Elegir a las tres Magistradas o Magistrados que deban integrar la Sala Especializada en Materia Constitucional de entre los integrantes del Tribunal Superior de Justicia;
 
 XIV. Procurar que sean prestados servicios comunes de notificación, ejecución, oficialía de partes y otros para varios órganos jurisdiccionales;
 
-XV. Resolver sobre la ratificación, adscripción, remoción, inhabilitación y, en su caso, reincorporación de las Juezas, Jueces, Magistradas y Magistrados, con excepción de los municipales y de Paz;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XV. Resolver, en su caso, sobre la ratificación, adscripción, remoción, inhabilitación y, en su caso, reincorporación de las Juezas y Jueces de primera instancia, Magistradas y Magistrados;
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1423,7 +1613,9 @@ En caso que los hechos investigados tengan apariencia de delito, el Consejo debe
 
 Cuando la determinación sea necesaria para la tramitación de un asunto penal, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado.
 
-Salvo por el caso de los delitos cometidos en flagrancia o aquellos de prisión preventiva oficiosa, para efecto de judicializar una carpeta de investigación en contra de una Jueza o un Juez, Magistrada o Magistrado, el Ministerio Público, con la debida secrecía, deberá solicitar la opinión por parte del Consejo como requisito previo indispensable, quien deberá pronunciarse en un plazo máximo de cinco días a partir de la formulación del Ministerio Público. En caso de ser negativa la opinión del Consejo de la Judicatura, el titular de la Fiscalía General del Estado, bajo su más estricta responsabilidad, podrá judicializar la carpeta de investigación correspondiente;
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Salvo por el caso de los delitos cometidos en flagrancia o aquellos de prisión preventiva oficiosa o justificada, para efecto de judicializar una carpeta de investigación en contra de una Jueza o un Juez, Magistrada o Magistrado, el Ministerio Público, con la debida secrecía, deberá solicitar la opinión por parte del Consejo como requisito previo indispensable, quien deberá pronunciarse en un plazo máximo de cinco días a partir de la formulación del Ministerio Público. En caso de ser negativa la opinión del Consejo de la Judicatura, el titular de la Fiscalía General del Estado, bajo su más estricta responsabilidad, podrá judicializar la carpeta de investigación correspondiente;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1433,13 +1625,17 @@ XXIV. Dictar medidas cautelares como las relativas al cambio de adscripción, su
 
 XXV. Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de personas servidoras públicas en términos de lo que dispone esta Ley y demás disposiciones aplicables, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en la Constitución del Estado por parte de las personas servidoras públicas del Poder Judicial, y en su caso, acordar las sanciones correspondientes;
 
-XXVI. Elaborar el presupuesto del Consejo y del Poder Judicial, con excepción de los correspondientes a los Tribunales y a la Sala Constitucional. El Presidente o Presidenta del Consejo integrará el proyecto de presupuesto de egresos y lo remitirá al Ejecutivo del Estado para los efectos conducentes;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XXVI. Elaborar el presupuesto del Consejo y del Poder Judicial, con excepción de los correspondientes a los Tribunales. El Presidente o Presidenta del Consejo integrará el proyecto de presupuesto de egresos y lo remitirá al Ejecutivo del Estado para los efectos conducentes;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 XXVII. Dictar las bases administrativas generales de organización y funcionamiento del Poder Judicial;
 
-XXVIII. (DEROGADA, P.O. 19 DE JUNIO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XXVIII. Determinar la competencia en jurisdicción ordinaria de las Salas Especializadas;
 
 XXIX. Emitir las bases para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y contratación de obra que realice el Poder Judicial, se ajusten a los criterios establecidos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, en ejercicio de su presupuesto de egresos;
 
@@ -1471,9 +1667,9 @@ XXXIX. (DEROGADA, P.O. 19 DE JUNIO DE 2023)
 
 XL. Autorizar a las personas servidoras públicas del Poder Judicial para desempeñar las funciones de las Magistradas y los Magistrados, las Juezas o los Jueces, respectivamente, en sus ausencias, conforme a lo dispuesto en esta ley;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XLI. Dictar las disposiciones administrativas necesarias para regular el turno de los asuntos de la competencia del propio Consejo, de los Tribunales, la Sala Constitucional, o de los juzgados, cuando en un mismo lugar haya varios de ellos;
+XLI. Dictar las disposiciones administrativas necesarias para regular el turno de los asuntos de la competencia del propio Consejo, de los Tribunales o de los juzgados, cuando en un mismo lugar haya varios de ellos;
 
 XLII. Convocar periódicamente a congresos de Magistradas, Magistrados, Juezas, Jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial y proponer las medidas pertinentes para mejorarlos;
 
@@ -1481,9 +1677,9 @@ XLIII. Apercibir, amonestar e imponer multas hasta de ciento ochenta veces el va
 
 XLIV. Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial, ordenándolas por ramas, especialidades y distritos judiciales;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XLV. Ejercer el presupuesto de egresos del Poder Judicial, debiendo atender a las necesidades del Tribunal Superior de Justicia, de la Sala Constitucional y del Tribunal de Justicia Administrativa;
+XLV. Ejercer el presupuesto de egresos del Poder Judicial, debiendo atender a las necesidades de los Tribunales;
 
 XLVI. Administrar y ejercer en forma autónoma el patrimonio del Poder Judicial y el presupuesto que anualmente sea aprobado en la Ley de Egresos del Estado;
 
@@ -1551,21 +1747,37 @@ LXIX. Emitir los acuerdos que regulen el turno aleatorio y equitativo de los asu
 
 LXX. Expedir los acuerdos generales y normativa, así como llevar los actos de naturaleza administrativa necesarios para el correcto y eficiente funcionamiento del Juicio Digital;
 
-LXXI. Promover las medidas necesarias relativas al ingreso, permanencia, disciplina, capacitación, estímulos, ascensos, promociones por escalafón y remoción del personal del Poder Judicial, así como autorizar los programas permanentes de capacitación, especialización, certificación y actualización de las personas servidoras públicas y demás interesados, considerando, en materia de responsabilidades administrativas, los criterios que en su caso emitan en atención al Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-LXXII. Resolver sobre los casos de Responsabilidad Patrimonial por error judicial, así como repetir en contra de las Juezas o los Jueces, Magistradas o Magistrados que resulten responsables por error judicial conforme a la normatividad aplicable;
+LXXI. Promover las medidas necesarias relativas al ingreso, permanencia, disciplina, capacitación, ascensos, promociones por escalafón y remoción del personal del Poder Judicial, así como los estímulos conforme a los acuerdos generales y suficiencia presupuestal; autorizar los programas permanentes de capacitación, especialización, certificación y actualización de las personas servidoras públicas y demás interesados, considerando, en materia de responsabilidades administrativas, los criterios que en su caso emitan en atención al Sistema Nacional Anticorrupción;
 
-LXXIII. Desempeñar cualquier otra función que la Constitución, la ley y demás normatividad encomiende al Consejo, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-LXXIV. Las demás que señalen las leyes.
+LXXII. Acordar las propuestas relativas a la asignación, reubicación, cambio de adscripción o comisiones del personal adscrito al Poder Judicial que sean competencia del Consejo;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+LXXIII. Implementar las acciones necesarias para fomentar los mecanismos alternativos de solución de controversias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+LXXIV. Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho humano que garantiza el acceso efectivo a la justicia, la solución de conflictos y genera una cultura de paz;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+LXXV. Establecer la creación y funcionamiento del registro de personas facilitadoras y del sistema de convenios en materia de mecanismos alternativos de solución de controversia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+LXXVI. Las demás que señalen las leyes.
 
 ###### ARTÍCULO 83.
 
 Son atribuciones del Presidente o Presidenta del Consejo, además de las señaladas en el artículo 21 de esta ley, las siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-I. Ejercer la representación administrativa del Poder Judicial, así como la legal en los procedimientos en los que sea parte, siempre y cuando dicha representación no corresponda a alguno de los Órganos Jurisdiccionales; la cual podrá delegar a quien designe.
+I. Ejercer la representación administrativa del Poder Judicial, así como la legal en los procedimientos en los que sea parte, de conformidad con la normatividad aplicable vigente, siempre y cuando dicha representación no corresponda a alguno de los Órganos Jurisdiccionales, la cual podrá delegar a quien designe;
 
 II. Acordar con la persona servidora pública judicial que se determine, el orden del día que deba proponerse a consideración del Pleno del Consejo, en las sesiones respectivas; sesiones que se someterán a considerar;
 
@@ -1583,15 +1795,13 @@ VII. Acordar sobre los asuntos que sean de la competencia del Pleno del Consejo 
 
 VIII. Proponer al Consejo los nombramientos de los titulares de los órganos que lo conforman, y demás personas servidoras públicas del propio Consejo que señale para tal efecto la presente ley, la normatividad aplicable, o los acuerdos correspondientes;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
-
-IX. Conceder licencias a las personas servidoras públicas del Poder Judicial, cuando procedan por causa justificada, con o sin goce de sueldo, cuando no excedan de quince días, con las excepciones previstas en esta ley;
+IX. (DEROGADA, P.O. 23 DE FEBRERO DE 2024)
 
 X. Vigilar el funcionamiento de los órganos auxiliares del Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XI. Proporcionar los medios necesarios para sistematizar y publicar de manera digital los precedentes en materia de interpretación de la Constitución del Estado y de los demás Órganos Jurisdiccionales, para su consulta pública.
+XI. Proporcionar los medios necesarios para sistematizar y publicar de manera digital los expedientes de los demás Órganos Jurisdiccionales, así como los precedentes en materia especializada constitucional, para su consulta pública conforme a suficiencia presupuestal;
 
 XII. Proponer al Pleno del Consejo la expedición de acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones;
 
@@ -1599,13 +1809,21 @@ XII. Proponer al Pleno del Consejo la expedición de acuerdos generales y demás
 
 XIII. Informar al Congreso y la Persona Titular del Poder Ejecutivo del Estado de las vacantes que se produzcan en el Poder Judicial del Estado que deban ser cubiertas mediante sus respectivos nombramientos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XIV. Rendir cuentas de la ejecución del gasto del Poder Judicial al Consejo, y
+XIV. Rendir cuentas de la ejecución del gasto del Poder Judicial al Consejo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
 
-XV. Las demás que determinen las leyes y los correspondientes reglamentos interiores y acuerdos generales.
+XV. Proponer y solicitar al Pleno del Consejo, la remoción del titular del Órgano Interno de Control y de los titulares de los órganos auxiliares;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XVI. Remover a las personas servidoras públicas que formen parte de las unidades administrativas del Consejo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XVII. Las demás que determinen las Leyes y los correspondientes reglamentos interiores y acuerdos generales.
 
 ## TÍTULO SÉPTIMO. DE LOS ÓRGANOS AUXILIARES
 
@@ -1619,15 +1837,27 @@ I. El Centro de Justicia Alternativa;
 
 II. La Escuela Estatal de Formación Judicial;
 
-III. El Instituto Especializado de la Defensoría Pública, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-IV. Aquéllos que determine el Pleno del Consejo mediante acuerdos generales.
+III. El Instituto Especializado de la Defensoría Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+IV. El Centro Estatal de Convivencia Familiar Supervisada, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+V. Aquéllos que determine el Pleno del Consejo mediante acuerdos generales.
 
 ### CAPÍTULO II. DEL CENTRO DE JUSTICIA ALTERNATIVA
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 85.
 
-El Centro de Justicia Alternativa será un órgano desconcentrado del Tribunal Superior de Justicia del Estado con plena autonomía técnica, de gestión, operativa, presupuestaria y de decisión. Su titular será nombrado por el Consejo de la Judicatura y durará seis años en su cargo, sin posibilidad de reelección.
+El Poder Judicial contará con un Centro de Mecanismos Alternativos de Solución de Controversias como órgano auxiliar; que funcionará como el Centro de Justicia Alternativa, Órgano Desconcentrado, el cual contará con plena autonomía técnica, de gestión, operativa y de decisión.
+
+La persona Titular será nombrada por el Pleno del Consejo y durará cinco años en su cargo, con posibilidad de ratificación hasta por un periodo igual.
 
 ###### ARTÍCULO 86.
 
@@ -1635,7 +1865,9 @@ Son atribuciones del Centro de Justicia Alternativa las siguientes:
 
 I. Desarrollar y aplicar de manera eficaz y eficiente los mecanismos alternativos de solución de controversias;
 
-II. Actuar como órgano especializado en la aplicación de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. Actuar como órgano especializado en la aplicación de los Mecanismos Alternativos de Solución de Controversias en las diversas materias que regula la legislación y normatividad aplicable;
 
 III. Informar al público sobre los Mecanismos Alternativos;
 
@@ -1655,9 +1887,13 @@ La Escuela Estatal de Formación Judicial es un órgano auxiliar del Consejo cuy
 
 La Escuela Estatal de Formación Judicial tendrá las siguientes facultades:
 
-I. Educar, capacitar, actualizar y certificar a las personas servidoras públicas del Poder Judicial;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-II. Realizar los exámenes de oposición, así como en los procesos de selección y evaluación de las personas servidoras públicas del Poder Judicial del Estado en los términos de esta Ley y de las demás aplicables;
+I. Capacitar, formar, actualizar y certificar a las personas servidoras públicas del Poder Judicial y usuarios externos. Así como tramitar ante las autoridades educativas federales, estatales, órganos nacionales e internacionales, así como las instancias públicas o privadas las autorizaciones, registros o certificaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. Realizar los exámenes de oposición, así como los procesos de evaluación de las personas servidoras públicas del Poder Judicial del Estado en los términos de esta Ley y de las demás aplicables;
 
 III. Expedir el Programa de Formación y Desarrollo Profesional del Poder Judicial;
 
@@ -1687,13 +1923,25 @@ El Instituto Especializado de la Defensoría Pública es un órgano con autonom�
 
 La prestación de dicho servicio en las materias más sensibles a la realidad de las personas tiene como finalidad el acceso a una justicia integral, a través de fortalecer los derechos y oportunidades de defensa de los justiciables.
 
-El Consejo ejercerá la función de evaluación y vigilancia sobre la actuación del Instituto.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+El Consejo ejercerá la función de evaluación y vigilancia sobre la actuación del Instituto. Asimismo, mediante acuerdo general o reglamento determinará las facultades de dicho órgano auxiliar.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO V. DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR SUPERVISADA
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 90 BIS. El Centro Estatal de Convivencia Familiar Supervisada es un órgano auxiliar del Consejo que cuenta con autonomía técnica y operativa en sus funciones y, que tiene por objeto facilitar la convivencia familiar cuando a juicio de la autoridad judicial no pueda cumplirse de manera libre y se considere necesario por el interés superior de la niñez la asistencia temporal al mismo.
+
+Los servicios que preste el Centro Estatal de Convivencia Familiar se realizarán con el fin de ilustrar el criterio de la autoridad judicial y de ofrecer mayor información o evidencia especializada en apoyo a las determinaciones de las autoridades judiciales, aportando elementos para la toma de decisiones y de esta manera coadyuvar a que la administración de justicia contribuya al bienestar social.
+
+El Consejo ejercerá la función de evaluación y vigilancia sobre la actuación del Centro. Asimismo, mediante acuerdo general o reglamento determinará las facultades de dicho órgano auxiliar.
 
 ## TÍTULO OCTAVO. DE LAS RESPONSABILIDADES DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL
 
-### CAPÍTULO II. DE LAS FALTAS ADMINISTRATIVAS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 91.
 
@@ -1725,7 +1973,7 @@ IX. Las demás que determinen las leyes, reglamentos y acuerdos generales corres
 
 Las personas servidoras públicas responsables de la investigación, sustanciación y resolución de las faltas administrativas incurrirán en obstrucción de la justicia, cuando se configure cualquiera de los supuestos previstos en el artículo 64 de la Ley General de Responsabilidades Administrativas.
 
-### CAPÍTULO III. DE LA DECLARACIÓN PATRIMONIAL Y DE INTERESES
+### CAPÍTULO II. DE LAS FALTAS ADMINISTRATIVAS
 
 ###### ARTÍCULO 93.
 
@@ -1783,23 +2031,33 @@ XIV. Hacer valer las atribuciones o facultades de su empleo, cargo o comisión, 
 
 XV. Intervenir en los casos en que determinadas personas que hayan recibido un nombramiento de base, interino o de confianza, directa o indirectamente designen, nombren o intervengan para que se contrate a los cónyuges, concubinos, convivientes o parejas en relaciones análogas, o a parientes consanguíneos o por afinidad hasta el cuarto grado de la persona que las nombró;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XVI. Llevar a cabo reuniones con las partes o sus representantes o apoderados fuera de los recintos o diligencias judiciales para tratar los asuntos jurisdiccionales en los que participen, y
+XVI. Llevar a cabo reuniones con las partes o sus representantes o apoderados fuera de los recintos o diligencias judiciales para tratar los asuntos jurisdiccionales en los que participen;
 
-XVII. Las previstas en la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+XVII. Las previstas en el Capítulo I, Título Tercero de la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
 
-Se considerarán faltas graves las contenidas en el presente artículo, a excepción de las fracciones II, III, IV y VII.
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+XVIII. Las previstas en el Capítulo II, Título Tercero de la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIX. El mal uso de la identificación y sellos oficiales por parte de Jueces Municipales.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Se considerarán faltas graves las contenidas en el presente artículo, a excepción de las fracciones II, III, IV, VII, XVII y XIX.
+
+### CAPÍTULO III. DE LA DECLARACIÓN PATRIMONIAL Y DE INTERESES
 
 ###### ARTÍCULO 96.
 
 Las personas servidoras públicas del Poder Judicial del Estado estarán obligadas a presentar su declaración de situación patrimonial y de intereses en los casos y conforme a lo previsto en la Ley General de Responsabilidades Administrativas y los acuerdos generales respectivos.
 
-### CAPÍTULO V. DE LAS SANCIONES
+### CAPÍTULO IV. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTÍCULO 97.
 
@@ -1811,9 +2069,11 @@ I. Todas las investigaciones y procedimientos se seguirán con respeto a la pres
 
 II. Las investigaciones podrán iniciar como consecuencia de:
 
-a) Quejas presentadas por particulares o por autoridades, pertenecientes o no al Poder Judicial.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-En estos casos, corresponde a la Presidencia del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, de la Sala Constitucional o del Consejo de la Judicatura del Estado pronunciarse sobre la admisibilidad de la queja, a partir de la propuesta que formule el órgano que los acuerdos generales definan para tal efecto;
+a) Quejas o Denuncia presentadas por particulares o por autoridades, pertenecientes o no al Poder Judicial.
+
+En estos casos, corresponde al Consejo pronunciarse sobre la admisibilidad de la denuncia, a través del Órgano Interno de Control.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1847,15 +2107,15 @@ VIII. Los medios de impugnación se regirán por lo previsto en las Leyes.
 
 Podrán intervenir en el procedimiento de responsabilidad administrativa las autoridades que se faculten en los acuerdos generales respectivos, siempre conforme a lo previsto en las bases antes desarrolladas.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 98.
 
-Serán competentes para conocer de las responsabilidades de las personas servidoras públicas del Poder Judicial del Estado, como autoridades resolutoras en términos de la Ley General de Responsabilidades Administrativas, así como para aplicar las sanciones administrativas que correspondan:
+Serán competentes para conocer de las responsabilidades de las personas servidoras públicas del Poder Judicial del Estado, como autoridades resolutoras en términos de la Ley General de Responsabilidades Administrativas, así como para aplicar las sanciones administrativas que correspondan.
 
-I. El Pleno del Consejo, tratándose de faltas de las personas servidoras públicas del Poder Judicial, y
+El Pleno del Consejo en faltas graves y la unidad que determine en faltas no graves, tratándose de las personas servidoras públicas del Poder Judicial a excepción de las Magistradas y Magistrados.
 
-II. El Presidente o Presidenta del Consejo, tratándose de faltas de las personas servidoras públicas del Consejo de la Judicatura distintos a las Consejeras o Consejeros.
-
-Cuando de un mismo acto se derive responsabilidad por una falta grave de un Magistrado, Magistrada, Juez o Jueza, y otra u otras personas servidoras públicas del Poder Judicial del Estado, se estará a lo previsto en la fracción I de este artículo.
+Cuando de un mismo acto se derive responsabilidad por una falta grave de un Magistrado, Magistrada, Juez o Jueza, y otra u otras personas servidoras públicas del Poder Judicial del Estado, se estará a lo previsto en el párrafo anterior.
 
 Las personas servidoras públicas responsables de la resolución de las faltas administrativas incurrirán en obstrucción de justicia, cuando incurran en alguno de los supuestos previstos en el artículo 64 de la Ley General de Responsabilidades Administrativas.
 
@@ -1877,11 +2137,13 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las decisiones disciplinarias serán impugnables mediante recurso de reconsideración, ante el propio Pleno del Consejo.
 
-Tratándose de la remoción, a Magistradas, Magistrados, Juezas y Jueces, procederá el recurso de revisión ante la Sala Constitucional del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Tratándose de la remoción, a Magistradas, Magistrados, Juezas y Jueces, procederá el recurso de revisión ante la Sala Especializada en Materia Constitucional.
 
 Se entiende por remoción la destitución del empleo, cargo o comisión de acuerdo a lo previsto por la Ley General de Responsabilidades Administrativas.
 
-### CAPÍTULO I. DE LOS IMPEDIMENTOS EN GENERAL
+### CAPÍTULO V. DE LAS SANCIONES
 
 ###### ARTÍCULO 101.
 
@@ -1971,9 +2233,9 @@ Los plazos a los que se refiere este artículo se computarán en días naturales
 
 Las faltas serán valoradas y, en su caso, sancionadas de conformidad con los criterios establecidos en los artículos 75 a 80 de la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-En todo caso, se considerarán como faltas graves, además de las así calificadas por la Ley General de Responsabilidades Administrativas, las demás que determinen las leyes correspondientes.
+En todo caso, se considerarán como faltas graves y no graves, además de las así calificadas por la Ley General de Responsabilidades Administrativas, las que determinen las Leyes y normatividad correspondiente.
 
 Tratándose de las Magistradas o Magistrados, Consejeros y Consejeras, la destitución sólo procederá en los casos a que se refieren los artículos 86, párrafo decimosegundo, y 125, fracción II, de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -1989,17 +2251,17 @@ II. Cuando reincidan en una causa de responsabilidad sin haber atendido a las ob
 
 Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Consejo de la Judicatura dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este Título.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 106.
 
-Si el Pleno del Tribunal, Sala Constitucional o Consejo de la Judicatura o su Presidenta o Presidente estimaren que la queja fue interpuesta sin motivo, se impondrá a la o el quejoso, a su representante, a su abogado o abogada, o a todos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, al momento de interponerse la queja.
+Si el Pleno del Tribunal, del Consejo o su Presidenta o Presidente estimaren que la queja fue interpuesta sin motivo, se impondrá a la o el quejoso, a su representante, a su abogado o abogada, o a todos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, al momento de interponerse la queja.
 
 ## TÍTULO NOVENO
 
 DE LOS IMPEDIMENTOS, DE LA PROTESTA CONSTITUCIONAL, DE LAS ACTUACIONES JUDICIALES, DE LAS VACACIONES Y DÍAS INHÁBILES, DE LAS LICENCIAS, DE LAS REGLAS DE CONTACTO, DE LA JUBILACIÓN Y RETIRO
 
-### CAPÍTULO II. DE LOS IMPEDIMENTOS EN PARTICULAR
-
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+### CAPÍTULO I. DE LOS IMPEDIMENTOS EN GENERAL
 
 ###### ARTÍCULO 107.
 
@@ -2063,7 +2325,9 @@ III. Conocer de los asuntos en los que tengan interés personal, o tenerlo su c�
 
 IV. Adquirir bienes sujetos a remate judicial.
 
-### CAPÍTULO III. DE LA PROTESTA CONSTITUCIONAL
+### CAPÍTULO II. DE LOS IMPEDIMENTOS EN PARTICULAR
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 ###### ARTÍCULO 111.
 
@@ -2107,17 +2371,17 @@ No pueden ser personas servidoras públicas de un mismo Órgano Jurisdiccional o
 
 En caso de nombramientos de dos o más personas ligadas en términos del párrafo anterior, sólo subsistirá el primero.
 
-### CAPÍTULO IV. DE LAS ACTUACIONES JUDICIALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
+### CAPÍTULO III. DE LA PROTESTA CONSTITUCIONAL
 
 ###### ARTÍCULO 117.
 
 Las y los integrantes del Consejo de la Judicatura que fueren designados por el Congreso del Estado o por la persona titular del Poder Ejecutivo, otorgarán ante ellos la protesta constitucional, y las Consejeras y Consejeros que fueren designados por el Pleno del Tribunal Superior de Justicia la harán ante su Pleno.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 118.
 
-Las Magistradas o Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y de la Sala Constitucional otorgarán la protesta constitucional ante el Congreso del Estado.
+Las Magistradas o Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa otorgarán la protesta constitucional ante el Congreso del Estado.
 
 ###### ARTÍCULO 119.
 
@@ -2139,25 +2403,31 @@ La protesta a que se refiere este capítulo se prestará en los términos siguie
 
 Las personas servidoras públicas del Poder Judicial del Estado, una vez nombrados, tomarán posesión, previa protesta legal, ante la autoridad que determine la normatividad o los acuerdos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 124.
 
-El Pleno de los Tribunales y de la Sala Constitucional, darán posesión de sus cargos al Presidente o Presidenta y a los Magistrados o Magistradas que lo integran.
+Los Plenos darán posesión de sus cargos al Presidente o Presidenta y a los Magistrados o Magistradas que lo integran.
 
 El Consejo funcionando en Pleno, dará posesión de sus cargos a su Presidente o Presidenta, a las Consejeras o Consejeros de la Judicatura y a las Juezas, los Jueces, Jueces municipales y de paz del Poder Judicial del Estado.
 
-### CAPÍTULO V. DE LAS VACACIONES Y DÍAS INHÁBILES
+### CAPÍTULO IV. DE LAS ACTUACIONES JUDICIALES
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 125.
 
-Los Tribunales, la Sala Constitucional y los Juzgados estarán siempre expeditos para administrar justicia, impartiéndola en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, gratuita, intercultural, con perspectiva de género e imparcial.
+Los Tribunales y los Juzgados estarán siempre expeditos para administrar justicia, impartiéndola en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, gratuita, intercultural, con perspectiva de género e imparcial.
 
-Son horas hábiles las que median entre las ocho y las dieciocho, o las que se indiquen en los acuerdos correspondientes. Los Tribunales, la Sala Constitucional y Juzgados despacharán durante los días hábiles del año, de las ocho a las quince horas, o en el horario dispuesto mediante los acuerdos correspondientes.
+Son horas hábiles las que median entre las ocho y las dieciocho, o las que se indiquen en los acuerdos correspondientes. Los Tribunales y Juzgados despacharán durante los días hábiles del año, de las ocho a las quince horas, o en el horario dispuesto mediante los acuerdos correspondientes o legislación aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 126.
 
-Las diligencias que deban practicarse fuera de los recintos judiciales se llevaran a cabo por el o las personas autorizadas para ello.
+Las diligencias que deban practicarse fuera de los recintos judiciales se llevarán a cabo por el o las personas autorizadas para ello.
 
-### CAPÍTULO VI. DE LAS LICENCIAS
+### CAPÍTULO V. DE LAS VACACIONES Y DÍAS INHÁBILES
 
 ###### ARTÍCULO 127.
 
@@ -2175,11 +2445,13 @@ Las personas servidoras públicas del Poder Judicial del Estado, disfrutarán de
 
 Las personas servidoras públicas designadas para cubrir los recesos disfrutarán de las correspondientes vacaciones dentro de los tres primeros meses siguientes al del periodo inmediato de sesiones.
 
-### CAPÍTULO VII. DE LAS REGLAS DE CONTACTO
+### CAPÍTULO VI. DE LAS LICENCIAS
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 129.
 
-Toda persona servidora pública del Poder Judicial del Estado que deba faltar temporalmente al ejercicio de sus funciones, deberá contar con la licencia otorgada en los términos de este Capítulo. En toda solicitud de licencia deberán expresarse por escrito las razones que la motivan.
+Toda persona servidora pública del Poder Judicial del Estado que deba ausentarse temporalmente al ejercicio de sus funciones, deberá contar con la licencia otorgada en los términos de este Capítulo. En toda solicitud de licencia deberán expresarse por escrito las razones que la motivan.
 
 ###### ARTÍCULO 130.
 
@@ -2203,7 +2475,7 @@ Toda licencia deberá presentarse por escrito, en el que se hará constar las ra
 
 Las licencias de las personas servidoras públicas del Poder Judicial que sean procedentes, serán concedidas por el Pleno del Consejo.
 
-### CAPÍTULO VIII. DE LA JUBILACIÓN Y RETIRO
+### CAPÍTULO VII. DE LAS REGLAS DE CONTACTO
 
 ###### ARTÍCULO 135.
 
@@ -2214,6 +2486,8 @@ Las Magistradas, los Magistrados, Jueces, Juezas, Consejeras y Consejeros no pod
 ###### ARTÍCULO 136.
 
 Las audiencias de los Órganos del Poder Judicial del Estado serán públicas, salvo los casos que justifiquen que sean privadas.
+
+### CAPÍTULO VIII. DE LA JUBILACIÓN Y RETIRO
 
 ###### ARTÍCULO 137.
 
@@ -2263,6 +2537,10 @@ El Pleno del Consejo, de oficio, dictaminará sobre el retiro de las Juezas o lo
 
 Para el pago de la pensión por retiro de las Juezas y los Jueces, se creará un Fondo de Ahorro, que se integra con aportaciones mensuales de los mismos.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Tendrán derecho de un haber de retiro en una sola ocasión que será una prestación en dinero equivalente a un año de salario como Juez y veinte días de salario por año de servicio con dicho carácter, conforme a la disponibilidad presupuestal y autorización del Consejo.
+
 ###### ARTÍCULO 143.
 
 El monto de la pensión será el que permita el rendimiento del Fondo de Ahorro para el Retiro de las Juezas y los Jueces, de conformidad con el manejo financiero del conjunto de las aportaciones.
@@ -2271,11 +2549,19 @@ El monto de la pensión será el que permita el rendimiento del Fondo de Ahorro 
 
 Las Juezas y los Jueces que, por cualquier causa, se separen de la función antes de obtener el beneficio de la pensión por retiro, sólo tendrán derecho a que se les reintegre el monto total de sus aportaciones a este Fondo.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 145.
 
-Las Magistradas y los Magistrados, del Poder Judicial podrán retirarse voluntariamente cuando habiendo cumplido sesenta y cinco años de edad, se hayan desempeñado como Magistradas, Magistrados, Consejeros o Consejeras al menos diez años, sin que dentro de estos se consideren los años de servicio que hubieren prestado en algún cargo dentro del Poder Judicial o en algún otro de los Poderes del Estado.
+Las Magistradas y los Magistrados podrán retirarse voluntariamente por alguna de las causas siguientes:
+
+I. Cuando habiendo cumplido sesenta y cinco años de edad, y tengan más de diez años consecutivos como Magistrados.
+
+II. Tener más de diez años consecutivos como Magistrados, si además han desempeñado otros cargos al servicio del Poder Judicial del Estado durante treinta años, incluidos los diez como Magistrados.
+
+III. Tener más de diez años consecutivos como Magistrados, sí además han desempeñado otros cargos al servicio de los Poderes del Estado de Puebla durante veinte años.
+
+Los Magistrados que obtengan su retiro, gozarán de los beneficios a que tienen derecho conforme a todas las disposiciones legales vigentes.
 
 ###### ARTÍCULO 146.
 
@@ -2287,17 +2573,21 @@ Cuando las Magistradas, los Magistrados, los Consejeros y las Consejeras, se ret
 
 En caso de fallecimiento de las Magistradas o los Magistrados Consejeras y Consejeros durante el ejercicio del cargo o después de concluido, su cónyuge y sus hijos e hijas menores o que tengan alguna incapacidad para trabajar para su subsistencia tendrán derecho a una pensión equivalente al setenta y cinco por ciento de la remuneración mensual que en términos de este capítulo debiera corresponder al propio Magistrado, Magistrada o Consejero o Consejera. El o la cónyuge dejará de tener derecho a este beneficio, al contraer matrimonio o al entrar en concubinato, y los menores al cumplir la mayoría de edad o superar la incapacidad.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 147.
 
-El Pleno del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, de la Sala Constitucional y del Consejo de la Judicatura, de oficio, dictaminarán sobre el retiro de las Magistradas, Magistrados, Consejeras y Consejeros que les correspondan.
+Los Plenos y el Pleno del Consejo, de oficio, dictaminarán sobre el retiro de las Magistradas, Magistrados, Consejeras y Consejeros que les correspondan.
 
 ###### ARTÍCULO 148.
 
 Aprobado el retiro obligatorio o voluntario de las Magistradas, Magistrados, el Presidente o Presidenta del Consejo informará a la persona titular del Poder Ejecutivo de la vacante para efecto de iniciar el procedimiento correspondiente en los términos que establece la Constitución del Estado. Para el caso de las Consejeras o Consejeros de la Judicatura, se informará al Poder que corresponda para el nombramiento.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 149.
 
-El Congreso, al aprobar anualmente la Ley de Egresos, incluirá, en el ramo relativo al Poder Judicial, la partida correspondiente para el pago de salarios de las personas servidoras públicas, así como los tabuladores desglosados de dichas remuneraciones y los haberes por retiro de las Magistradas, Magistrados, Consejeras, Consejeros y demás personas servidoras públicas del Poder Judicial, de conformidad con esta ley o la normatividad y acuerdos aplicables.
+El Congreso, al aprobar anualmente la Ley de Egresos, incluirá, en el ramo relativo al Poder Judicial, la partida correspondiente para el pago de salarios de las personas servidoras públicas, así como los tabuladores desglosados de dichas remuneraciones y los haberes por retiro de las Magistradas, Magistrados, Jueces y Juezas y demás personas servidoras públicas del Poder Judicial, de conformidad con esta Ley o la normatividad y acuerdos aplicables.
 
 ###### ARTÍCULO 150.
 
@@ -2356,3 +2646,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de conformidad con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias, publicado en el Diario Oficial de la Federación el ocho de mayo de dos mil veintitrés.
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto dentro de los noventa días naturales siguientes podrán retirarse voluntariamente las Magistradas y Magistrados que habiendo cumplido treinta años al servicio del Poder Judicial del Estado de Puebla, se hayan desempeñado al menos diez años consecutivos con tal carácter; previa autorización del Consejo, conforme a la suficiencia presupuestal.
+
+CUARTO. Las Salas Especializadas en la primera sesión que lleven a cabo deberán nombrar a su Presidente para el término de un año conforme lo establecido el artículo 22 de este Decreto.
+
+QUINTO. El Consejo en un término no mayor a sesenta días hábiles deberá realizar las adecuaciones necesarias de la estructura orgánica del Tribunal de Justicia Administrativa y del Tribunal Superior de Justicia, con motivo de la nueva conformación, previo acuerdo de los Plenos.
+
+SEXTO. El Consejo emitirá los acuerdos necesarios para el cumplimiento del presente Decreto.
+
+SÉPTIMO. El titular del Centro de Justicia Alternativa durará en su cargo el tiempo para el cual fue nombrado.
