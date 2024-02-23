@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-carrera-judicial-del-estado-de-puebla-165223"
 country: "mx"
 rank: "ley"
 publication_date: "2023-03-23"
-last_updated: "2023-03-23"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CARRERA JUDICIAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Ley publicada en la Quinta Sección del Número 16 del Periódico Oficial del Estado de Puebla, el jueves 23 de marzo de 2023.
 
@@ -91,7 +91,7 @@ La carrera judicial establece las bases para la formación, actualización y esp
 
 Toda persona puede aspirar a desempeñar cargos dentro de la carrera judicial, siempre que reúna los requisitos establecidos en esta Ley, el Reglamento o los lineamientos y acuerdos que al efecto emita el Consejo.
 
-Las Juezas y los Jueces municipales y de paz podrán acceder a la carrera judicial en los términos de la presente Ley y demás disposiciones que para tal efecto emita el Consejo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
@@ -121,13 +121,15 @@ VIII. Trayectoria personal íntegra.
 
 ### CAPÍTULO TERCERO. CATEGORÍAS, CURSOS Y CONCURSOS DE LA CARRERA JUDICIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-La carrera judicial se integra por las siguientes categorías:
+La carrera judicial podrá integrarse por las siguientes categorías:
 
 I. Juezas y Jueces de primera instancia;
 
-II. Juezas y Jueces municipales y de paz, y
+II. (DEROGADA, P.O. 23 DE FEBRERO DE 2024)
 
 III. Las demás categorías que se determinen por el Consejo mediante acuerdo general.
 
@@ -235,9 +237,15 @@ II. Tener título de licenciatura en Derecho o su equivalente, expedido con cinc
 
 III. Ser mayor de treinta años;
 
-IV. Recibir nombramiento mediante cursos y/o concursos, según corresponda, en los términos que para cada uno de ellos se establezcan en esta Ley y en los acuerdos generales del Consejo, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+IV. Recibir nombramiento mediante cursos y/o concursos, según corresponda, en los términos que para cada uno de ellos se establezcan en esta Ley y en los acuerdos generales del Consejo, con excepción de los Municipales que serán elegidos a propuesta del Ayuntamiento del lugar en que van a ejercer jurisdicción, y
 
 V. Los demás que establezcan la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+El Consejo mediante acuerdo establecerá los requisitos para ser Jueza o Juez de paz.
 
 ### CAPÍTULO SÉPTIMO. DE LA SEPARACIÓN
 
@@ -376,3 +384,15 @@ CUARTO. El Consejo de la Judicatura asignará los recursos humanos, materiales y
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de marzo de dos mil veintitrés. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE DEL ARTÍCULO 11 Y LA FRACCIÓN IV DEL 22; ADICIONA UN ÚLTIMO PÁRRAFO AL 22, Y DEROGA EL ÚLTIMO PÁRRAFO DEL 8 Y LA FRACCIÓN II DEL 11, TODOS DE LA LEY DE CARRERA JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos para la designación de Jueces de paz, que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su curso conforme a lo previsto en este, en lo que los favorezca.
