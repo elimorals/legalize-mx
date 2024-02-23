@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2022-12-27"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -534,6 +534,10 @@ Cuando el Gobierno del Estado entere a los Municipios las Participaciones, espec
 Las Participaciones serán entregadas a los Ayuntamientos por la Secretaría dentro de los cinco días siguientes a aquél en el que el Estado las reciba de la Secretaría de Hacienda y Crédito Público. Esta entrega podrá ser directa o a través de un fideicomiso para la distribución y fuente de pago de Participaciones Municipales, que al efecto se constituya.
 
 Estas Participaciones en ningún caso podrán ser embargadas y sólo podrán afectarse como garantías para el pago de obligaciones contraídas por los Municipios, con la autorización del H. Congreso del Estado e inscritas en el Registro Único de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público, así como también en el Registro de Obligaciones y Empréstitos del Estado de Guerrero, a favor de la Federación o de Instituciones de Crédito que operen en el territorio nacional o a favor de personas físicas o morales de nacionalidad mexicana.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+También, podrán ser afectadas como garantía de pago de las obligaciones en materia de seguridad social previa autorización del Congreso a favor del Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, cuando exista mora acreditable de 60 días naturales, del entero de las cuotas, aportaciones y descuentos.
 
 ### CAPÍTULO II. DE LA COLABORACIÓN ADMINISTRATIVA EN MATERIA DE INGRESOS
 
@@ -1048,3 +1052,9 @@ PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, e
 SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
 
 TERCERO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 707 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 34 DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
