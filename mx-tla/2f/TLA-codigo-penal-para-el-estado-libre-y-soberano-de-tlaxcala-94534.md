@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2023-11-16"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2869,9 +2869,9 @@ Al servidor público que retarde o entorpezca maliciosamente o por negligencia l
 
 Se presumirá que existió una relación sentimental entre el sujeto activo y la víctima cuando esta sea o haya sido concubina, amasia o novia del sujeto activo o que hayan tenido una relación de hecho por la que vivieron juntos, así como por el hecho de mantener relaciones sexuales de manera reiterada.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-La pena se agravará hasta en una tercera parte, cuando la víctima, en relación con el sujeto activo, sea menor de edad, se encontrare en estado de gravidez, sea persona discapacitada, adulta mayor o tenga algún vínculo de parentesco, así como en los casos en que el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+La pena se agravará hasta en una tercera parte cuando la víctima sea menor de edad, se encuentre en estado de gravidez, sea persona discapacitada, adulta mayor o tenga algún vínculo de parentesco con la persona sujeto activo, así como en el supuesto en que esta última cometa el delito en presencia de alguien que le corresponda el carácter de víctima indirecta en términos de la Ley correspondiente, o en la hipótesis de que sea servidor público y haya cometido la conducta valiéndose de esta condición.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -2884,6 +2884,14 @@ Si existió una relación que implique subordinación de la víctima o superiori
 ###### Artículo 229 Ter.
 
 Además de las sanciones descritas en el artículo anterior, el sujeto activo será condenado a la pérdida de los derechos que le asistieran con relación a los bienes o patrimonio de la víctima, al momento de cometer el delito; así como los que hubiera tenido respecto a su persona, si no se consumare, quedando en tentativa.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Si la persona sujeto activo del delito tuviera el carácter de ascendiente, en la línea recta, de alguna hija o algún hijo menor de edad de la víctima, perderá o no podrá ejercer, respecto a esa niña, niño o adolescente la patria potestad, la guarda y custodia y el derecho a régimen de visitas y convivencia, en la medida en que ello se acorde al principio de interés superior de la niñez; así como los derechos a heredar por sucesión legítima y a alimentos que pudieran corresponderle.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En todo caso, se ordenará a las autoridades competentes que brinden la protección y otorguen la prestación de los servicios de ayuda inmediata, asistencia, atención y reparación integral del daño a las niñas, los niños y adolescentes que hubiesen quedado en situación de orfandad por feminicidio, o que hubieren presenciado la comisión de ese delito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
 
@@ -5928,3 +5936,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 326.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
