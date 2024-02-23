@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2023-10-18"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE FEBRERO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE FEBRERO DE 2024.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -8661,7 +8661,9 @@ I.- Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su i
 
 II.- Si se hace en escritura pública, desde la fecha de su otorgamiento;
 
-III.- Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un Registro Público; desde la muerte de cualquiera de los dos que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
+> <small>(F. DE E., P.O. 23 DE FEBRERO DE 2024)</small>
+
+III.- Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un registro público; desde la muerte de cualquiera de los dos que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
 
 ###### Artículo 1408.
 
@@ -14515,9 +14517,11 @@ III.- Después se ministrará, también a prorrata, a los hermanos y a la concub
 
 IV.- Por último, se ministrarán igualmente a prorrata a los demás parientes colaterales dentro del cuarto grado.
 
+> <small>(F. DE E., P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 2508.
 
-Es inoficioso el testamento en que no deje la pensión alimenticia, según lo establecido en este capítulo.
+Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo establecido en este Capítulo.
 
 ###### Artículo 2509.
 
