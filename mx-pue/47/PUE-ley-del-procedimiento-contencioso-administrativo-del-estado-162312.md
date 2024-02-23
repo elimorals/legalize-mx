@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-procedimiento-contencioso-administrativo-del-estado-162
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-06"
-last_updated: "2023-01-06"
+last_updated: "2024-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PROCEDIMIENTO CONTECIOSO ADMINISTRATIVO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
 
 Ley publicada en la Segunda Sección del Número 5 del Periódico Oficial del Estado de Puebla, el viernes 6 de enero de 2023.
 
@@ -65,6 +65,10 @@ I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digita
 
 II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II BIS. Actuario (a): Persona servidora pública que tiene las atribuciones señaladas en el artículo 30 QUATER de la Ley Orgánica del Poder Judicial del Estado de Puebla;
+
 III. Autoridad: Entes públicos integrantes del Poder Ejecutivo, de los municipios o de los organismos auxiliares de carácter estatal o municipal, que dicten, ordenen, ejecuten o traten de ejecutar actos o resoluciones administrativas o fiscales;
 
 IV. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional;
@@ -97,13 +101,25 @@ XVII. Ley: Ley del Procedimiento Contencioso Administrativo del Estado de Puebla
 
 XVIII. Pleno: Pleno del Tribunal de Justicia Administrativa del Estado de Puebla;
 
-XIX. Presidente: Magistrada o Magistrado Presidente o Presidenta del Tribunal de Justicia Administrativa del Estado de Puebla;
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XVIII BIS. Ponencia: Ponencia de la Sala Colegiada, que substancia el asunto;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XIX. Presidente: Magistrada o Magistrado Presidente o Presidenta del Tribunal de Justicia Administrativa del Poder Judicial del Estado de Puebla;
 
 XX. Procedimiento: Procedimiento Contencioso Administrativo;
 
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XX BIS. Sala: Salas Colegiadas del Tribunal de Justicia Administrativa del Poder Judicial del Estado de Puebla;
+
 XXI. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal, y
 
-XXII. Tribunal: Tribunal de Justicia Administrativa del Estado de Puebla.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+XXII. Tribunal: Tribunal de Justicia Administrativa del Poder Judicial del Estado de Puebla.
 
 ###### ARTÍCULO 3.
 
@@ -177,9 +193,11 @@ VII. Vista al ministerio público cuando se trate de hechos probablemente consti
 
 VIII. Los demás que establezca esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-Las partes podrán consultar el expediente administrativo y del procedimiento y obtener copia certificada, a costa del solicitante, de los documentos y actuaciones que los integren, cuando así lo soliciten por escrito o a través del Sistema de Justicia en Línea y acrediten su representación.
+Las partes podrán consultar el expediente administrativo y del procedimiento y obtener copia certificada impresa o electrónica, a costa del solicitante, de los documentos y actuaciones que los integren, cuando así lo soliciten por escrito o a través del Sistema de Justicia en Línea y acrediten su representación.
 
 ###### ARTÍCULO 13.
 
@@ -255,15 +273,37 @@ II. Sea contraria a una jurisprudencia de la Suprema Corte de Justicia de la Nac
 
 III. Se anule con fundamento en el artículo 107, fracción V de esta Ley. La condenación en costas o la indemnización establecida en los párrafos segundo y tercero de este artículo se reclamará a través del incidente respectivo, el que se tramitará conforme lo previsto por el cuarto y quinto párrafos del artículo 66 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 18 BIS. Las notificaciones se harán:
+
+I. Personalmente;
+
+II. Por correo certificado con acuse de recibo;
+
+III. Por lista;
+
+IV. Por oficio;
+
+V. Por edicto, y
+
+VI. Por Boletín Jurisdiccional.
+
+Lo anterior, de conformidad con lo establecido en el presente Capítulo y en los Acuerdos Generales que para el efecto emita el Consejo de la Judicatura.
+
 ### CAPÍTULO II. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Las partes, en el primer escrito que presenten, deberán señalar domicilio dentro del territorio donde resida el Tribunal, para que se realicen las notificaciones personales o por correo certificado con acuse de recibo, en los términos que establece esta Ley. En caso contrario, se requerirá a las personas interesadas para que lo hagan en un plazo de tres días hábiles siguientes a aquel en que surta efectos la notificación, con el apercibimiento que, de no hacerlo, las notificaciones que deban hacerse personales o por correo certificado con acuse de recibo, se efectuarán en los estrados de la Sala. Para tal efecto, las personas particulares podrán señalar como domicilio para recibir notificaciones los estrados de la Sala que corresponda.
+Las partes, en el primer escrito que presenten, deberán señalar si las notificaciones se practicarán por Boletín Jurisdiccional para tal efecto, deberán designar la Dirección de Correo Electrónico, en caso de no precisarlo, deberán señalar domicilio dentro del territorio donde resida el Tribunal, para que se realicen las notificaciones personales o por correo certificado con acuse de recibo, en los términos que establece esta Ley.
 
-Las notificaciones personales podrán hacerse en el local de la Sala correspondiente, si éstas no se han efectuado.
+En caso contrario, se requerirá a las personas interesadas para que lo hagan en un plazo de tres días hábiles siguientes a aquel en que surta efectos la notificación, con el apercibimiento que, de no hacerlo, las notificaciones que deban hacerse personales o por correo certificado con acuse de recibo, se efectuarán en los estrados de la Sala. Para tal efecto, las personas particulares podrán señalar como domicilio para recibir notificaciones los estrados de la Sala o Ponencia que corresponda.
 
-Cuando se desconozca el domicilio de la persona interesada o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal, las notificaciones podrán realizarse por edicto.
+Las notificaciones personales podrán hacerse en el local de la Sala o Ponencia correspondiente, si éstas no se han efectuado.
+
+Cuando se desconozca el domicilio de la persona interesada o en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal, las notificaciones podrán realizarse por edicto.
 
 ###### ARTÍCULO 20.
 
@@ -273,13 +313,27 @@ I. A la demandada, el auto que ordene el emplazamiento adjuntándose el escrito 
 
 II. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 37, fracción III de esta Ley;
 
-III. La que mande citar a la o el testigo que no pueda ser presentado por la parte oferente, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-IV. En todos aquellos casos en que la Magistrada o Magistrado así lo ordene.
+III. La que mande citar a la o el testigo que no pueda ser presentado por la parte oferente;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+IV. En todos aquellos casos en que la Magistrada o Magistrado así lo ordene, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+V. En las disposiciones relativas al Juicio en Línea y Boletín Jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, así como el perito comparecido a aceptar y protestar el cargo, deberán señalar Dirección de Correo Electrónico, si optaron porque las notificaciones se realicen por Boletín Jurisdiccional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
-Las notificaciones que conforme al artículo anterior deban realizarse de forma personal y que por alguna de las razones siguientes no puedan practicase de esta manera, se harán por lista, previa razón del Actuario, cuando:
+Las notificaciones que conforme al artículo anterior deban realizarse de forma personal y que por alguna de las razones siguientes no puedan practicase de esta manera, se harán por lista o Boletín Jurisdiccional, según corresponda, previa razón del Actuario, cuando:
 
 I. Las partes no señalen domicilio dentro del territorio donde resida el Tribunal;
 
@@ -307,15 +361,21 @@ Tratándose de la autoridad, las resoluciones que se dicten en los juicios que s
 
 Las notificaciones personales de los acuerdos y resoluciones se efectuarán a más tardar, dentro de los tres días hábiles siguientes al en que se turnen a la Actuaria o Actuario y las que deban ser por lista, al día hábil siguiente al de la fecha en que se hayan dictado. Si la notificación no se efectúa dentro de los términos señalados, no será motivo de anulación de la misma.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 25.
 
-Las diligencias y actuaciones se efectuarán en días y horas hábiles. Son días hábiles para la promoción, substanciación y resolución de los juicios contenciosos administrativos regulados por esta Ley, todos los del año, con exclusión de los sábados, domingos y aquéllos en que se suspendan las labores por orden del Tribunal o de su Presidente o Presidenta, en su caso, o por determinación de otras disposiciones legales. Son horas hábiles las comprendidas entre las nueve y las quince horas.
+Las diligencias y actuaciones se efectuarán en días y horas hábiles. Son días hábiles para la promoción, substanciación y resolución de los juicios contenciosos administrativos regulados por esta Ley, todos los del año, con exclusión de los sábados, domingos y aquéllos en que se suspendan las labores por orden del Tribunal o de su Presidente o Presidenta, en su caso, o por determinación de otras disposiciones legales.
+
+El Tribunal despachará durante los días hábiles del año, de las ocho a las quince horas.
 
 ###### ARTÍCULO 26.
 
 Las notificaciones se harán en días y horas hábiles, con una anticipación de cuarenta y ocho horas, por lo menos, al momento en que deba efectuarse la actuación o diligencia a que se refieran las mismas.
 
-Las notificaciones deberán practicarse en el horario comprendido entre las nueve y las dieciocho horas.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Las notificaciones deberán practicarse en el horario comprendido entre las ocho y las dieciocho horas.
 
 ###### ARTÍCULO 27.
 
@@ -330,6 +390,32 @@ La notificación omitida o irregular se entiende hecha a partir del momento en q
 ###### ARTÍCULO 29.
 
 Cuando no se lleve a cabo una actuación o diligencia en el día y hora señalados, se hará constar la razón por la que no se practicó.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 29 BIS. Las partes que hayan optado por la notificación a través de Boletín Jurisdiccional, deberán señalar expresamente en el primer escrito su Dirección de Correo Electrónico; una vez que hayan elegido dicho medio de notificación, no podrán variar su elección.
+
+Las notificaciones a las partes en el Juicio que deban efectuarse por medio de Boletín Jurisdiccional, se realizarán previo aviso electrónico a las Direcciones de Correo Electrónico señaladas. El aviso de notificación deberá ser enviado cuando menos con tres días hábiles de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
+
+Las notificaciones electrónicas a las partes, se entenderán realizadas con la sola publicación en el Boletín Jurisdiccional, con independencia del envío de los avisos electrónicos.
+
+Una vez realizada la notificación por Boletín Jurisdiccional, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente a aquél, al que surta efectos la notificación correspondiente. En todos los casos, previo levantamiento de razón, se entregarán los traslados de ley.
+
+Las partes, mientras no se haya realizado la notificación por Boletín Jurisdiccional, podrán apersonarse en el Tribunal para ser notificados personalmente.
+
+La notificación surtirá sus efectos al día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Jurisdiccional o al día hábil siguiente a aquél en que las partes sean notificadas personalmente en las instalaciones designadas por el Tribunal, cuando así proceda en términos de lo establecido por esta Ley.
+
+El aviso de notificación deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del emplazamiento, el escrito de demanda correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+ARTÍCULO 29 TER. Los acuerdos, resoluciones o sentencias que se dicten, se publicarán en el Boletín Jurisdiccional, en los casos procedentes.
+
+En el Boletín Jurisdiccional deberá indicarse la denominación de la Sala y Ponencia que corresponda, el número de expediente, la identificación de las autoridades a notificar y el nombre del particular, en términos de la normatividad aplicable en materia de protección de datos personales, así como una síntesis del auto, resolución o sentencia.
+
+El Boletín Jurisdiccional podrá consultarse en la página electrónica del Tribunal.
+
+El Pleno del Consejo de la Judicatura, mediante los lineamientos que para tal efecto se expidan, establecerá el contenido de la síntesis del acuerdo, resolución o sentencia, así como las áreas dentro del Tribunal en las que serán entregados los traslados de ley y en su caso, los mecanismos que permitan a las partes conocer el auto, resolución o sentencia correspondiente.
 
 ### CAPÍTULO III. DE LOS PLAZOS Y TÉRMINOS
 
@@ -391,9 +477,11 @@ Manifestada por la Magistrada o Magistrado o persona servidora pública la causa
 
 ### CAPÍTULO V. DE LA DEMANDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-La persona demandante podrá presentar su demanda, mediante Juicio en la vía tradicional, por escrito ante la Sala competente o, en línea, a través del Sistema de Justicia en Línea, para este último caso, el demandante deberá manifestar su opción al momento de presentar la demanda. Una vez que la persona demandante haya elegido su opción no podrá variarla. Cuando la autoridad tenga este carácter la demanda se presentará en todos los casos en línea a través del Sistema de Justicia en Línea.
+La persona demandante podrá presentar su demanda, mediante Juicio en la vía tradicional, por escrito ante la Sala competente o, en línea, a través del Sistema de Justicia en Línea, para este último caso, el demandante deberá manifestar su opción al momento de presentar la demanda. Una vez que la persona demandante haya elegido su opción no podrá variarla. Cuando la autoridad tenga este carácter la demanda se podrá presentar en línea a través del Sistema de Justicia en Línea.
 
 Para el caso de que la persona demandante no manifieste su opción al momento de presentar su demanda se entenderá que eligió tramitar el Juicio en la vía tradicional.
 
@@ -405,7 +493,7 @@ a) Que haya surtido efectos la notificación del acto o resolución que pueda se
 
 b) Hayan iniciado su vigencia el decreto, acuerdo, acto o resolución administrativa de carácter general impugnada, cuando sea autoaplicativa;
 
-II. De treinta días siguientes a aquél en que surta efectos la notificación de la resolución que decida que el recurso de queja es improcedente y deba tramitarse como juicio. Para ello, deberá prevenirse al promovente para que, dentro de dicho plazo, presente demanda en contra de la resolución administrativa que tenga carácter definitivo, y
+II. (DEROGADA, P.O. 23 DE FEBRERO DE 2024)
 
 III. De cinco años, cuando las autoridades demanden la modificación o nulidad de un acto o resolución favorable a un particular, los que se contarán a partir del día hábil siguiente a la fecha en que ésta se haya emitido, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto; en caso de que el acto o la resolución sean total o parcialmente desfavorables para la persona particular, solo se retrotraerán los efectos a los cinco años anteriores a la presentación de la demanda.
 
@@ -413,7 +501,9 @@ Cuando la persona interesada fallezca durante el plazo para iniciar juicio, el p
 
 En los casos de personas incapaces o declaración de ausencia, decretadas por autoridad judicial, el plazo para interponer el juicio contencioso administrativo se suspenderá hasta por un año. La suspensión cesará tan pronto como se acredite que se ha aceptado el cargo de tutor de la persona con discapacidad o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
 
-Cuando la persona demandante tenga su domicilio fuera de la capital del Estado y de los Municipios conurbados a la misma, la demanda podrá enviarse a través de correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida la persona demandante.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Cuando las partes, tengan su domicilio fuera de la capital del Estado y de los Municipios conurbados a la misma, la demanda, la contestación de demanda y sus ampliaciones podrán enviarse a través de correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida la parte interesada.
 
 ###### ARTÍCULO 37.
 
@@ -451,7 +541,9 @@ En el escrito de demanda en que promuevan dos o más personas en contravención 
 
 Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI de este artículo, la Magistrada o Magistrado desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII de este artículo, se requerirá al promovente para que los señale dentro del término de cinco días hábiles, subsane las omisiones referidas, apercibiéndolo que, de no hacerlo en tiempo, se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
-En el supuesto de que no se señale domicilio de la persona demandante para recibir notificaciones conforme a lo dispuesto en la fracción I de este artículo o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en sitio visible de la propia Sala.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En el supuesto de que no se señale domicilio de la persona demandante para recibir notificaciones conforme a lo dispuesto en la fracción I de este artículo o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por Boletín Jurisdiccional o por lista autorizada, que se fijará en sitio visible de la propia Sala o Ponencia.
 
 Si en el lugar señalado por el actor o actora como domicilio del tercero, se negare que sea este, el demandante deberá proporcionar la información suficiente para proceder a su primera búsqueda, siguiendo al efecto las reglas previstas en el Código de Procedimientos Civiles del Estado.
 
@@ -633,9 +725,17 @@ XIV. Sean resoluciones dictadas por autoridades que determinen impuestos y sus a
 
 No es improcedente el juicio cuando se impugnen por vicios propios, los mencionados actos de cobro y recaudación;
 
-XV. Sea contra reglamentos, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
-XVI. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley o de una ley fiscal o administrativa.
+XV. Sea contra reglamentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XVI. La demanda se hubiere interpuesto por la misma parte y en contra del mismo acto impugnado, por dos o más ocasiones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2024)</small>
+
+XVII. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley o de una ley fiscal o administrativa.
 
 La procedencia del juicio será examinada de oficio.
 
@@ -675,7 +775,9 @@ Las medidas cautelares se tramitarán de conformidad con el incidente respectivo
 
 I. La promoción en donde se soliciten las medidas cautelares señaladas, deberá contener los siguientes requisitos:
 
-a) El nombre de la persona demandante y su domicilio para recibir notificaciones, el cual deberá ubicarse dentro del territorio donde resida el Tribunal;
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+a) El nombre de la persona demandante, la Dirección de Correo Electrónico o, en su caso, el domicilio para recibir notificaciones, el que deberá ubicarse dentro de la jurisdicción territorial del Tribunal;
 
 b) El acto o la resolución que se pretende impugnar y fecha de notificación de los mismos;
 
@@ -725,9 +827,13 @@ La solicitud de suspensión de la ejecución del acto administrativo impugnado, 
 
 I. Se concederá siempre que:
 
-a) No se afecte el interés social, ni se contravengan disposiciones de orden público, y
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-b) Que la ejecución del acto afecte derechos sustantivos cuyos daños o perjuicios sean de difícil reparación.
+a) Lo soliciten el actor o actora o su representante legal, y
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+b) No se siga perjuicio al interés social, ni se contravengan disposiciones de orden público.
 
 II. Para el otorgamiento de la suspensión deberán satisfacerse los siguientes requisitos:
 
@@ -749,7 +855,9 @@ d) El monto de la garantía y contragarantía será fijado por la Magistrada o M
 
 III. El procedimiento será:
 
-a) La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Sala en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia definitiva;
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+a) La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Ponencia en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia definitiva;
 
 b) Se tramitará por cuerda separada, bajo la responsabilidad de la Magistrada o Magistrado;
 
@@ -809,53 +917,69 @@ III. Independientemente de que las partes y los agravios sean o no diversos, se 
 
 Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y el juicio en línea, la Magistrada o Magistrado Instructor requerirá a las partes relativas al Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por substanciar el juicio en línea, en caso de que no ejerza su opción se tramitara el Juicio en la vía tradicional.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 59.
 
-La acumulación podrá solicitarse por las partes, hasta antes del cierre de instrucción, ante la Sala que esté conociendo del juicio en el cual la demanda se presentó primero, para lo cual en un término que no exceda de tres días hábiles se solicitará el envío de los autos del juicio. La Magistrada o Magistrado que conozca de la acumulación, en el plazo de cinco días hábiles, dictará la determinación que proceda. La acumulación podrá tramitarse de oficio. El incidentista deberá señalar el o los procedimientos que pretenda se acumulen.
+La acumulación podrá solicitarse por las partes, hasta antes del cierre de instrucción, ante la Ponencia que esté conociendo del juicio en el cual la demanda se presentó primero, para lo cual en un término que no exceda de tres días hábiles se solicitará el envío de los autos del juicio. La Sala que conozca de la acumulación, en el plazo de cinco días hábiles, dictará la determinación que proceda. La acumulación podrá tramitarse de oficio. El incidentista deberá señalar el o los procedimientos que pretenda se acumulen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad de la actuación siguiente en la que intervenga, o bien, dentro de los tres días hábiles siguientes a aquél en que conoció el hecho, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad. Si transcurrido dicho término no se presenta actuación en la que intervenga el perjudicado, se entenderá legalmente hecha la notificación irregular.
+Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad de la actuación siguiente en la que intervenga, o bien, dentro de los tres días hábiles siguientes a aquél en que conoció el hecho, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad, ante la Ponencia. Si transcurrido dicho término no se presenta actuación en la que intervenga el perjudicado, se entenderá legalmente hecha la notificación irregular.
 
 Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 
 Si se admite la promoción, se dará vista a las demás partes por el término de cinco días hábiles para que expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
 
-Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa a la Actuaria o Actuario, equivalente a diez veces el valor diario de la Unidad de Medida y Actualización vigente, sin que exceda del treinta por ciento de su sueldo mensual. La Actuaria o Actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Si se declara la nulidad, la Ponencia ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa a la Actuaria o Actuario, equivalente a diez veces el valor diario de la Unidad de Medida y Actualización vigente, sin que exceda del treinta por ciento de su sueldo mensual. La Actuaria o Actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
 
 ###### ARTÍCULO 61.
 
 Las partes podrán recusar vía incidental a las Magistradas o Magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 33 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 62.
 
-La recusación de Magistradas o Magistrados se promoverá mediante escrito que se presente, dentro del término de tres días hábiles siguientes a que se conozca de la causa del impedimento, ante el Pleno de la Sala, acompañando las pruebas que se ofrezcan. Dentro de los tres días hábiles siguientes, se enviará al Presidente o Presidenta el escrito de recusación junto con un informe que la Magistrada o Magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno de la Sala. A falta de informe se presumirá cierto el impedimento. Si el Pleno de la Sala considera fundada la recusación, la Magistrada o Magistrado será sustituido en los términos de la Ley Orgánica del Poder Judicial.
+La recusación de Magistradas o Magistrados se promoverá mediante escrito que se presente, dentro del término de tres días hábiles siguientes a que se conozca de la causa del impedimento, ante el Pleno del Tribunal o de la Sala según corresponda, acompañando las pruebas que se ofrezcan. Dentro de los tres días hábiles siguientes, se enviará al Presidente o Presidenta el escrito de recusación junto con un informe que la Magistrada o Magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno del Tribunal o de la Sala, según corresponda. A falta de informe se presumirá cierto el impedimento. Si el Pleno del Tribunal o de la Sala considera fundada la recusación, la Magistrada o Magistrado será sustituido en los términos de la Ley Orgánica del Poder Judicial.
 
 Las Magistradas o Magistrados que conozcan de una recusación son irrecusables para ese solo efecto.
 
-Si se declara infundada la recusación interpuesta, el Pleno de la Sala decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la haya hecho valer, y en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se haya interpuesto la recusación.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Si se declara infundada la recusación interpuesta, el Pleno del Tribunal o de la Sala decidirá de acuerdo con su prudente arbitrio, si hubo mala fe por parte de quien la haya hecho valer, y en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se haya interpuesto la recusación.
 
 La recusación del perito del Tribunal se promoverá ante la Sala correspondiente, dentro de los tres días hábiles siguientes a la fecha en que surta efectos la notificación del acuerdo por el que se le designe.
 
 La Magistrada o Magistrado pedirá al perito recusado que rinda un informe dentro de los tres días hábiles siguientes. A falta de informe, se presumirá cierto el impedimento. Si se encuentra fundada la recusación, se substituirá al perito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante la Sala correspondiente hasta antes de que se cierre la instrucción en el juicio. El incidente se substanciará conforme a lo dispuesto en el cuarto párrafo del artículo 66 de esta Ley.
+Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante la Ponencia, hasta antes de que se cierre la instrucción en el juicio.
 
 Si alguna de las partes sostiene la falsedad de un documento firmado por otra, la Magistrada o Magistrado podrá citar a la parte respectiva para que estampe su firma en presencia del Secretario misma que se tendrá como indubitable para el cotejo.
 
 En los casos distintos de los señalados en el párrafo anterior, el incidentista deberá acompañar el documento que considere como indubitado o señalar el lugar donde se encuentre, o bien ofrecer la pericial correspondiente; si no lo hace, la Magistrada o Magistrado desechará el incidente.
 
-La Sala resolverá sobre la autenticidad del documento exclusivamente para los efectos del juicio en el que se presente el incidente.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+El Pleno de la Sala resolverá sobre la autenticidad del documento exclusivamente para los efectos del juicio en el que se presente el incidente.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
-La Magistrada o Magistrado de oficio o a petición de las partes, solicitará se substancie el incidente de reposición de autos, para lo cual se hará constar en el acta que para tal efecto se levante por la Sala, la existencia anterior y la falta posterior del expediente o de las actuaciones faltantes. A partir de la fecha de esta acta, quedará suspendido el juicio y no correrán los términos.
+La Magistrada o Magistrado de oficio o a petición de las partes, solicitará se substancie el incidente de reposición de autos, para lo cual se hará constar en el acta que para tal efecto levante por la Ponencia, la existencia anterior y la falta posterior del expediente o de las actuaciones faltantes. A partir de la fecha de esta acta, quedará suspendido el juicio y no correrán los términos.
 
-Con el acta se dará vista a las partes para que en el término de diez días hábiles prorrogables exhiban ante la Magistrada o Magistrado, en copia simple o certificada, las constancias y documentos relativos al expediente que obren en su poder, a fin de reponerlo. Una vez integrado, la Sala, en el plazo de cinco días hábiles, declarará repuestos los autos, se levantará la suspensión y se continuará con el procedimiento.
+Con el acta se dará vista a las partes para que en el término de diez días hábiles prorrogables exhiban ante la Magistrada o Magistrado, en copia simple o certificada, las constancias y documentos relativos al expediente que obren en su poder, a fin de reponerlo. Una vez integrado, el Pleno de la Sala en el plazo de cinco días hábiles, declarará repuestos los autos, se levantará la suspensión y se continuará con el procedimiento.
 
-Cuando la pérdida ocurra encontrándose los autos a disposición del Pleno del Tribunal, se ordenará a la Sala correspondiente proceda a la reposición de autos y una vez integrado el expediente, se remitirá el mismo al Pleno para la resolución que corresponda.
+Cuando la pérdida ocurra encontrándose los autos a disposición de la Ponencia, de la Sala o del Pleno del Tribunal, se ordenará a la Ponencia correspondiente proceda a la reposición de autos y una vez integrado el expediente, se remitirá el mismo a donde se encontraba, para la resolución que corresponda.
 
 ###### ARTÍCULO 65.
 
@@ -863,7 +987,9 @@ La interrupción del juicio por causa de muerte, disolución, incapacidad o decl
 
 I. Se decretará por la Magistrada o Magistrado a partir de la fecha en que este tenga conocimiento de la existencia de alguno de los supuestos a que se refiere este artículo, y
 
-II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el tutor, la Magistrada o Magistrado instruirá la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión, de la sociedad en disolución, del ausente o del incapaz, según sea el caso.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el tutor, la Magistrada o Magistrado instruirá la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista o Boletín Jurisdiccional según corresponda, al representante de la sucesión, de la sociedad en disolución, del ausente o del incapaz, según sea el caso.
 
 ###### ARTÍCULO 66.
 
@@ -963,7 +1089,9 @@ La prueba pericial tendrá lugar en las cuestiones relativas a alguna ciencia o 
 
 Al ofrecerse la prueba pericial, las partes presentarán los cuestionarios sobre los que los peritos deberán rendir su dictamen en la audiencia respectiva.
 
-En caso de discordia, el perito tercero será designado por la Magistrada o Magistrado. Dicho perito será recusable en términos de lo dispuesto por el artículo 62 del presente ordenamiento.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En caso de discordia, el perito tercero será designado por la Ponencia, conforme a la lista de peritos del Poder Judicial del Estado de Puebla. Dicho perito será recusable en términos de lo dispuesto por el artículo 62 del presente ordenamiento.
 
 ###### ARTÍCULO 82.
 
@@ -979,7 +1107,9 @@ III. En los acuerdos por los que se discierna del cargo a cada perito, la Magist
 
 IV. Por una sola vez y por causa que lo justifique, comunicada a la Magistrada o Magistrado antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la ampliación del plazo para rendir el dictamen o la sustitución de su perito, señalando en este caso, el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto. La Magistrada o Magistrado podrá otorgar un plazo de hasta quince días hábiles para presentar o rendir su peritaje o realizar la sustitución de su perito, y
 
-V. En caso de que existan diferencias en los dictámenes presentados por los peritos, en alguno o algunos de los puntos esenciales sobre los que verse la prueba pericial, la Magistrada o Magistrado deberá de nombrar un perito tercero en discordia, el perito tercero será elegido de entre los que se tengan adscritos. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que deba rendir dicho dictamen, preferentemente de entre los adscritos a las dependencias, instituciones u organismos públicos. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución de crédito, debiendo cubrirse sus honorarios por las partes. En los demás casos los cubrirá el Tribunal. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de quince días hábiles para que rinda su dictamen.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
+V. En caso de que existan diferencias en los dictámenes presentados por los peritos, en alguno o algunos de los puntos esenciales sobre los que verse la prueba pericial, la Magistrada o Magistrado deberá de nombrar un perito tercero en discordia, el perito tercero será elegido de entre los que se tengan adscritos a la lista de peritos del Poder Judicial del Estado de Puebla. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala deberá designarlo conforme lo establecido en la normatividad emitida por el Consejo de la Judicatura. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución de crédito, debiendo cubrirse sus honorarios por las partes. En los demás casos los cubrirá el Tribunal, a través del Consejo de la Judicatura. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de quince días hábiles para que rinda su dictamen.
 
 La Magistrada o Magistrado, dentro del plazo de tres días hábiles posteriores a la notificación del acuerdo que tenga por rendido el dictamen del perito tercero, podrá ordenar que se lleve a cabo el desahogo de una junta de peritos, en la cual se planteen aclaraciones en relación a los dictámenes. El acuerdo por el que se fije el lugar, día y hora para la celebración de la junta de peritos deberá notificarse a todas las partes, así como a los peritos.
 
@@ -1145,19 +1275,27 @@ b) El Presidente o Presidenta comunicará el ejercicio de la facultad de atracci
 
 c) Los acuerdos del Presidente o Presidenta que admitan la petición o que de oficio decidan atraer el juicio, serán notificados personalmente a las partes en los términos de la presente Ley. Al efectuar la notificación se les requerirá que señalen domicilio para recibir notificaciones en el Estado de Puebla, así como que designen persona autorizada para recibirlas o, en el caso de las autoridades, que señalen a su representante en el mismo. En caso de no hacerlo, la resolución y las actuaciones diversas que dicte el Pleno les serán notificadas en el domicilio que obre en autos, y
 
-d) Una vez cerrada la instrucción del juicio, la Magistrada o Magistrado remitirá el expediente original a la Secretaría General de Acuerdos del Pleno, la que lo turnará a la Magistrada o Magistrado ponente que determine el Pleno.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+d) Una vez cerrada la instrucción del juicio, la Magistrada o Magistrado remitirá el expediente original a la Secretaria de Pleno del Tribunal, la que lo turnará a la Magistrada o Magistrado ponente que determine el Pleno.
 
 ### CAPÍTULO XIV. DE LA SENTENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 105.
 
-La sentencia se pronunciará por unanimidad o por mayoría de votos de las Magistradas o Magistrados integrantes del Pleno de la Sala o del Tribunal según corresponda, dentro de los cuarenta y cinco días hábiles siguientes a aquél en que haya quedado cerrada la instrucción en el juicio. Para este efecto, la Magistrada o Magistrado formulará el proyecto respectivo dentro de los treinta días siguientes al cierre de instrucción. Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el artículo 49 de esta Ley, no será necesario que se hubiese cerrado la instrucción.
+La sentencia se pronunciará por unanimidad o por mayoría de votos de las Magistradas o Magistrados integrantes del Pleno del Tribunal o de la Sala según corresponda, dentro de los cuarenta y cinco días hábiles siguientes a aquél en que haya quedado cerrada la instrucción en el juicio. Para este efecto, la Magistrada o Magistrado Ponente formulará el proyecto respectivo dentro de los treinta días siguientes al cierre de instrucción. Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el artículo 49 de esta Ley, no será necesario que se hubiese cerrado la instrucción.
 
 El plazo para que la Magistrada o Magistrado Ponente formule su proyecto, empezará a correr a partir de que tenga en su poder el expediente integrado.
 
-En el caso de los asuntos del Pleno, cuando la mayoría de las Magistradas o Magistrados estén de acuerdo con el proyecto, la Magistrada o Magistrado disidente podrá limitarse a expresar que vota total o parcialmente en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de cinco días hábiles.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-Si el proyecto no fue aceptado por los otros Magistrados y Magistradas del Pleno, el ponente o instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
+En el caso de los asuntos del Pleno del Tribunal o de la Sala, cuando la mayoría de las Magistradas o Magistrados estén de acuerdo con el proyecto, la Magistrada o Magistrado disidente podrá limitarse a expresar que vota total o parcialmente en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Si el proyecto no fue aceptado por los otros Magistrados y Magistradas del Pleno del Tribunal o de la Sala, el ponente o instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
 
 ###### ARTÍCULO 106.
 
@@ -1167,7 +1305,9 @@ Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala d
 
 La Sala podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
 
-Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Pleno de la sala se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Pleno del Tribunal o de la Sala se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
 
 En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
 
@@ -1231,7 +1371,9 @@ d) Reconocer la existencia de un derecho subjetivo y condenar a la autoridad al 
 
 Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en la fracción IV, deberá cumplirse en un plazo de cuatro meses tratándose del Juicio Ordinario o un mes tratándose del Juicio Sumario de conformidad con lo previsto en el artículo 146 de la presente Ley, contados a partir de que la sentencia quede firme.
 
-Si el cumplimiento de la sentencia entraña el ejercicio o el goce de un derecho por parte de a (sic) persona demandante, transcurrido el plazo señalado en el párrafo anterior sin que la autoridad hubiere cumplido con la sentencia, el beneficiario del fallo tendrá derecho a una indemnización que la Sala que haya conocido del asunto determinará, atendiendo el tiempo transcurrido hasta el total cumplimiento del fallo y los perjuicios que la omisión hubiere ocasionado, sin menoscabo de lo establecido en el artículo 114 de esta Ley. El ejercicio de dicho derecho se tramitará vía incidental.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Si el cumplimiento de la sentencia entraña el ejercicio o el goce de un derecho por parte de la persona demandante, transcurrido el plazo señalado en el párrafo anterior, sin que la autoridad hubiere cumplido con la sentencia, el beneficiario del fallo tendrá derecho a una indemnización que la Sala que haya conocido del asunto determinará, atendiendo el tiempo transcurrido hasta el total cumplimiento del fallo y los perjuicios que la omisión hubiere ocasionado, sin menoscabo de lo establecido en el artículo 114 de esta Ley. El ejercicio de dicho derecho se tramitará vía incidental.
 
 Cuando para el cumplimiento de la sentencia, sea necesario solicitar información o realizar algún acto de la autoridad administrativa en el extranjero, se suspenderá el plazo a que se refiere el párrafo anterior, entre el momento en que se pida la información o en que se solicite realizar el acto correspondiente y la fecha en que se proporcione dicha información o se realice el acto.
 
@@ -1263,11 +1405,15 @@ El promovente deberá señalar la parte de la sentencia cuya aclaración se soli
 
 Las partes podrán formular excitativa de justicia ante el Presidente o Presidenta de la sala o del Presidente o Presidenta del Tribunal, si la Magistrada o Magistrado responsable no formula el proyecto respectivo dentro del plazo señalado en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 112.
 
-Recibida la excitativa de justicia, el Presidente o Presidenta de la sala o del Presidente o Presidenta del Tribunal; solicitará informe a la Magistrada o Magistrado responsable, quien deberá rendirlo en el plazo de cinco días hábiles. El Presidente o Presidenta dará cuenta al Pleno de la Sala o del Tribunal y si este encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días hábiles para que la Magistrada o Magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Poder Judicial del Estado de Puebla.
+Recibida la excitativa de justicia, el Presidente o Presidenta de la Sala o del Presidente o Presidenta del Tribunal, solicitará informe a la Magistrada o Magistrado responsable, quien deberá rendirlo en el plazo de cinco días hábiles. El Presidente o Presidenta dará cuenta al Pleno de la Sala o del Tribunal y si este encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días hábiles para que la Magistrada o Magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Poder Judicial del Estado de Puebla.
 
-En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto de la Magistrada o Magistrado responsable, el informe a que se refiere el párrafo anterior se pedirá al Presidente o Presidenta, para que lo rinda en el plazo de tres días, y en el caso de que el Pleno considere fundada la excitativa, concederá un plazo de diez días para que dicte la sentencia y si ésta no lo hace, se podrá sustituir a los Magistrados o Magistradas renuentes.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto de la Magistrada o Magistrado responsable, el informe a que se refiere el párrafo anterior se pedirá al Presidente o Presidenta, para que lo rinda en el plazo de tres días, y en el caso de que el Pleno del Tribunal o de la Sala considere fundada la excitativa, concederá un plazo de diez días para que dicte la sentencia y si ésta no lo hace, se podrá sustituir a los Magistrados o Magistradas renuentes.
 
 Cuando un Magistrado o Magistrada, en dos ocasiones hubiere sido sustituido conforme a este precepto, el Presidente o Presidenta deberá poner el hecho en conocimiento del Consejo de la Judicatura.
 
@@ -1335,25 +1481,37 @@ a) Procederá en contra de los siguientes actos:
 
 La queja solo podrá hacerse valer por una sola vez, con excepción de los supuestos contemplados en el sub inciso 3, caso en el que se podrá interponer en contra de las resoluciones dictadas en cumplimiento a esta instancia.
 
-a (SIC)) Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante la Sala o el Pleno que dictó la sentencia, dentro de los quince días hábiles siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca.
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INMERSO CON EL ANTERIOR SEGUNDO PÁRRAFO DE ESTE INCISO. VÉASE LITERALIDAD DEL DECRETO, PUBLICADO EN EL P.O. DE 23 DE FEBRERO DE 2024, PÁGINAS DE LA 12 A LA 13.]</small>
 
-En el supuesto previsto en el inciso anterior, sub inciso 3, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2024)</small>
+
+b) Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante la Sala o el Pleno que dictó la sentencia, dentro de los quince días hábiles siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el supuesto previsto en el inciso anterior, sub inciso 3, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
 
 En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto; repetición del acto impugnado o del efecto de este; que precluyó la oportunidad de la autoridad demandada para emitir la resolución definitiva con la que concluya el procedimiento ordenado; o bien, que procede el cumplimiento sustituto.
 
 La Magistrada o Magistrado o el Presidente o Presidenta, en su caso, ordenarán a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de cinco días hábiles en el que justificará el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él, se dará cuenta a la Sala o al Pleno, según corresponda, que resolverá dentro de los cinco días hábiles siguientes.
 
-b) En caso de repetición de la resolución anulada, la Sala hará la declaratoria correspondiente, anulando la resolución repetida y la notificará a la autoridad responsable de la repetición, previniéndole se abstenga de incurrir en nuevas repeticiones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2024)</small>
+
+c) En caso de repetición de la resolución anulada, la Sala hará la declaratoria correspondiente, anulando la resolución repetida y la notificará a la autoridad responsable de la repetición, previniéndole se abstenga de incurrir en nuevas repeticiones.
 
 Además, al resolver la queja, la Sala impondrá la multa y ordenará se envíe el informe al superior jerárquico, establecido por la fracción I, inciso a) de este artículo.
 
-c) Si la Sala resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días hábiles para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-d) Si la Sala comprueba que la resolución a que se refiere el inciso a), subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará esta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta.
+d) Si la Sala resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días hábiles para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir.
 
-e) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-f) Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
+e) Si la Sala comprueba que la resolución a que se refiere el inciso a), subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará esta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, la Sala declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código Procesal Civil aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+g) Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
 
 III. Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del acto impugnado o alguna otra de las medidas cautelares previstas en la presente Ley, procederá la queja mediante escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia definitiva ante la Sala correspondiente.
 
@@ -1383,13 +1541,17 @@ El recurso de reclamación procederá en contra de las resoluciones de la Magist
 
 Para el caso de las medidas cautelares provisionales, el plazo para interponer el recurso, será de dos días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 116.
 
-Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado a la contraparte por el término de cinco días hábiles para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la Sala o Pleno para que resuelva en el término de cinco días hábiles. La Magistrada o Magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
+Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado a la contraparte por el término de cinco días hábiles para que exprese lo que a su derecho convenga y sin más trámite dará cuenta al Pleno de la Sala para que resuelva en el término de cinco días hábiles. La Magistrada o Magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
 
 Para el caso de las medidas cautelares provisionales, el plazo para desahogar la vista a que se refiere el párrafo anterior, será de dos días y el plazo para resolver será de tres días.
 
-La Magistrada o Magistrado Instructor notificará a las partes y en el plazo de tres días someterá al Pleno el proyecto de resolución.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+La Magistrada o Magistrado Instructor notificará a las partes y en el plazo de tres días someterá al Pleno de la Sala el proyecto de resolución.
 
 ###### ARTÍCULO 117.
 
@@ -1423,7 +1585,9 @@ Interpuesto el recurso de revisión ante la Sala que haya dictado la sentencia r
 
 Correr traslado del mismo a las partes para que dentro del término de cinco días contados a partir de la fecha en la que se notifique la interposición del recurso, expresen lo que en su derecho convenga o se adhieran a la revisión.
 
-Una vez integrado el expediente, la Sala lo remitirá en original al Pleno por conducto de la Secretaría de Acuerdos del Tribunal, para que sin más trámite, dé cuenta al Pleno para que designe a la Magistrada o Magistrado Ponente que formulará el proyecto de resolución, dentro del término de noventa días hábiles, contados a partir del día siguiente a aquél en que se haya turnado al ponente el expediente para la elaboración del proyecto de resolución.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Una vez integrado el expediente, la Sala lo remitirá en original al Pleno por conducto de la Secretaría de Pleno del Tribunal, para que, sin más trámite, dé cuenta al Pleno para que designe a la Magistrada o Magistrado Ponente que formulará el proyecto de resolución, dentro del término de noventa días hábiles, contados a partir del día siguiente a aquél en que se haya turnado al ponente el expediente para la elaboración del proyecto de resolución.
 
 ###### ARTÍCULO 121.
 
@@ -1503,9 +1667,11 @@ Los documentos que las partes ofrezcan como prueba, incluido el expediente admin
 
 Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emita el Consejo de la Judicatura para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 134.
 
-Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario o Secreataria (sic) de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario o Secretaria de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
 
 Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas a la Sala que esté conociendo del asunto, en la misma fecha en la que se registre en el Sistema de Justicia en Línea del Tribunal la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
 
@@ -1547,9 +1713,13 @@ En el caso de que las autoridades demandadas no cumplan con esta obligación, to
 
 Para la presentación y trámite de los recursos de revisión y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
 
-Las Secretarias o (sic) de Acuerdos, según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Juzgados, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
-Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado se podrá remitir la información a través de medios electrónicos.
+Las Secretarias o Secretarios de Acuerdos, según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a las Salas y Juzgados, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite, la Sala podrá remitir la información a través de medios electrónicos.
 
 ###### ARTÍCULO 140.
 
@@ -1571,9 +1741,11 @@ El reporte que determine que existió interrupción en el Sistema deberá señal
 
 El juicio de resolución exclusiva de fondo se tramitará a petición del actor o actora, de conformidad con las disposiciones que se establecen en este Título y, en lo no previsto, se aplicarán las demás disposiciones que regulan el juicio contencioso administrativo. En el juicio de resolución exclusiva de fondo se observarán especialmente los principios de oralidad y celeridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 143.
 
-El Tribunal determinará las Salas en materia del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 41, fracción VII, incisos b) o c) del Código Fiscal del Estado de Puebla y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
+Las Salas conocerán del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 41, fracción VII, incisos b) o c) del Código Fiscal del Estado de Puebla y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
 
 El juicio de resolución exclusiva de fondo no será procedente cuando se haya interpuesto recurso administrativo en contra de las resoluciones señaladas en el párrafo anterior, y dicho recurso haya sido desechado, sobreseído o se tenga por no presentado.
 
@@ -1639,11 +1811,13 @@ La persona demandante podrá ampliar la demanda, únicamente cuando se actualice
 
 La autoridad, al contestar la demanda y, en su caso, la ampliación de demanda, deberá señalar si coincide o no con la propuesta de litis del juicio, expresando en este último caso, cuál es su propuesta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 148.
 
-Recibida la contestación de la demanda y, en su caso, la contestación a la ampliación de la misma, la Magistrada o Magistrado Instructor citará a las partes para audiencia de fijación de litis, la que se desahogará sin excepción de manera oral dentro de los veinte días siguientes a la recepción de la contestación respectiva. La Magistrada o Magistrado Instructor expondrá de forma breve en qué consiste la controversia planteada por las partes, quienes manifestarán lo que a su derecho convenga, ajustándose a lo manifestado en la demanda, su ampliación o su contestación.
+Recibida la contestación de la demanda y, en su caso, la contestación a la ampliación de la misma, la Magistrada o Magistrado Instructor citará a las partes para audiencia de fijación de litis, la que se desahogará sin excepción de manera oral dentro de los veinte días hábiles siguientes a la recepción de la contestación respectiva. La Magistrada o Magistrado Instructor expondrá de forma breve en qué consiste la controversia planteada por las partes, quienes manifestarán lo que a su derecho convenga, ajustándose a lo manifestado en la demanda, su ampliación o su contestación.
 
-La audiencia de fijación de litis deberá ser desahogada, sin excepción, ante la presencia de la Magistrada o Magistrado Instructor·quien podrá auxiliarse del Secretario o Secretaria de Acuerdos para que levante acta circunstanciada de la diligencia. Las partes podrán acudir personalmente o por conducto de sus autorizados legales. Los demás Magistradas o Magistrados integrantes de la Sala podrán acudir a la audiencia de fijación de litis. Cuando estando debidamente notificadas las partes, en términos del artículo 20 de esta Ley, alguna no acuda a la audiencia de fijación de litis, ésta se llevará a cabo con la parte que esté presente.
+La audiencia de fijación de litis deberá ser desahogada, sin excepción, ante la presencia de la Magistrada o Magistrado Instructor quien podrá auxiliarse del Secretario o Secretaria de Acuerdos para que levante acta circunstanciada de la diligencia. Las partes podrán acudir personalmente o por conducto de sus autorizados legales. Los demás Magistradas o Magistrados integrantes de la Sala podrán acudir a la audiencia de fijación de litis. Cuando estando debidamente notificadas las partes, en términos del artículo 20 de esta Ley, alguna no acuda a la audiencia de fijación de litis, ésta se llevará a cabo con la parte que esté presente.
 
 Quedará al prudente arbitrio de la Magistrada o Magistrado Instructor, la regulación del tiempo que tengan las partes para exponer los motivos por los que estiman les asiste la razón, considerando estrictamente el principio de celeridad que rige esta vía.
 
@@ -1765,7 +1939,9 @@ V. El oferente de una prueba testimonial, no pueda presentar a las personas señ
 
 En estos casos la Magistrada o Magistrado, antes de resolver sobre la admisión de la demanda, determinará la improcedencia de la vía sumaria y ordenará que el juicio se siga conforme a las demás disposiciones de esta Ley y emplazará a las otras partes, en el plazo previsto por los artículos 41 y 42 de la misma, según se trate.
 
-Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de reclamación ante la Sala en que se encuentre radicado el juicio, en el plazo previsto por el artículo 164 de esta Ley.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
+Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de reclamación ante la Sala en que se encuentre radicado el juicio, en el plazo de diez días hábiles contados a partir de que surta efectos la notificación del acuerdo.
 
 ###### ARTÍCULO 159.
 
@@ -1819,9 +1995,11 @@ En la fecha fijada para el cierre de instrucción la Magistrada o Magistrado Ins
 
 En el momento en que la Magistrada o Magistrado Instructor advierta que el expediente se encuentra debidamente integrado, otorgará a las partes un término de tres días para que formulen alegatos, quedando cerrada la instrucción una vez fenecido dicho plazo, con o sin la presentación de dichos alegatos.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 167.
 
-Una vez cerrada la instrucción, la Magistrada o Magistrado pronunciará sentencia dentro de los diez días siguientes, salvo en los casos en que se haya ejercido facultad de atracción que deberá estarse a lo dispuesto por el artículo 104, fracción II, inciso d), de esta Ley, a efecto de que sea resuelto por el Pleno, con los plazos y las reglas correspondientes a ello, de conformidad con esta Ley.
+Una vez cerrada la instrucción, el Pleno de la Sala pronunciará sentencia dentro de los quince días hábiles siguientes, salvo en los casos en que se haya ejercido facultad de atracción, que deberá estarse a lo dispuesto por el artículo 104, fracción II, inciso d), de esta Ley, a efecto de que sea resuelto por el Pleno, con los plazos y las reglas correspondientes a ello, de conformidad con esta Ley.
 
 ###### ARTÍCULO 168.
 
@@ -1856,3 +2034,19 @@ DÉCIMO. Los procedimientos que se encuentren en trámite, a la entrada en vigor
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de diciembre de dos mil veintidós. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Vicepresidenta. NORMA SIRLEY REYES CABRERA. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de diciembre de dos mil veintidós. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las disposiciones relativas al Juicio en Línea y Boletín Jurisdiccional, entrarán en vigor, una vez que el Consejo de la Judicatura emita los lineamientos para su implementación y desarrollo.
+
+CUARTO. La implementación y desarrollo del Sistema de Justicia en Línea y del Boletín Jurisdiccional, estarán sujetos a la suficiencia presupuestal autorizada.
+
+QUINTO. Los juicios que se encuentren en trámite ante el Tribunal de Justicia Administrativa, al momento de entrar en vigor el presente Decreto, así como las disposiciones relativas al Juicio en Línea y Boletín Jurisdiccional, se tramitarán hasta su total conclusión conforme a las disposiciones vigentes al momento en que fue admita la demanda.
