@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-mecanismos-alternativos-de-solucion-de-controversias-165
 country: "mx"
 rank: "ley"
 publication_date: "2023-03-23"
-last_updated: "2023-03-23"
+last_updated: "2024-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 23 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Número 16 del Periódico Oficial del Estado de Puebla, el jueves 23 de marzo de 2023.
 
@@ -502,3 +504,31 @@ QUINTO. Los procedimientos que se encuentren en trámite, a la entrada en vigor 
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de marzo de dos mil veintitrés. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La aplicación de lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado Libre y Soberano de Puebla previsto en el presente Decreto, será conforme a la Declaratoria emitida por el Honorable Congreso del Estado a petición del Consejo.
+
+TERCERO. De conformidad con el Artículo Segundo de las Disposiciones Transitorias de este Decreto, se abroga la Ley de Mecanismos Alternativos de Solución de Controversias del Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado de fecha veintitrés de marzo del año dos mil veintitrés.
+
+CUARTO. Las certificaciones que hayan sido expedidas a las Personas Facilitadoras previo a la entrada en vigor del presente Decreto se regirán conforme a los acuerdos generales del Consejo.
+
+QUINTO. En caso de que haya concluido la vigencia de la Certificación y no se emitan la Convocatoria que corresponda para la renovación o recertificación en los términos previstos en el presente Decreto, ésta continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin.
+
+SEXTO. La Persona Titular del Centro continuará en sus funciones hasta agotar el plazo previsto en su nombramiento. En caso de que el nombramiento o designación no contemple un plazo de vigencia en el mismo, se estará a lo dispuesto en el artículo 15 de la presente Ley.
+
+SÉPTIMO. En tanto no se emita la normatividad correspondiente, el Consejo podrá seguir aplicando los acuerdos y demás disposiciones vigentes hasta antes de la aplicación del presente Decreto.
+
+OCTAVO. Para el cumplimiento e implementación de la presente Ley, el Consejo podrá emitir los acuerdos generales correspondientes.
+
+NOVENO. En atención a la conformación del Poder Judicial contará con un Centro el cual también funcionará como el Centro de Justicia en materia de Justicia Administrativa.
+
+Para el desahogo de los asuntos en materia administrativa el Tribunal de Justicia Administrativa, deberá designar a una persona servidora pública para que intervenga en el ámbito de competencia de éste y coadyuve con el Centro.
+
+DÉCIMO. El Poder Judicial estará sujeto a la suficiencia presupuestaria correspondiente para la implementación de lo establecido en el presente Decreto.
