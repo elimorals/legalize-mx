@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-168835"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-14"
-last_updated: "2023-12-14"
+last_updated: "2024-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2024
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección XIII del Número 11 del Periódico Oficial del Estado de Jalisco, el jueves 14 de diciembre de 2023.
 
@@ -189,7 +189,9 @@ Del impuesto sobre hospedaje.
 
 Este impuesto se determinará aplicando la tasa del 3.0% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
 
-En relación a este impuesto, los municipios podrán constituir fideicomisos o suscribir convenios de colaboración con la Secretaría de la Hacienda Pública, a fin de que los ingresos derivados de este impuesto sean reintegrados a los mismos, conforme a los términos, lineamientos y condiciones que se establezcan en el mismo.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+En relación a este impuesto, los municipios podrán constituir fideicomisos o suscribir convenios de colaboración con la Secretaría de la Hacienda Pública o el Servicio Estatal Tributario de Jalisco, a fin de que los ingresos derivados de este impuesto sean reintegrados a los mismos, conforme a los términos, lineamientos y condiciones que se establezcan en el mismo.
 
 ### CAPÍTULO III. Del impuesto sobre nóminas
 
@@ -609,9 +611,11 @@ XI. Registro de nueva carrera en institución de educación: $2,284.00
 
 De los Servicios en el Ramo de Movilidad y Transporte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 23.
 
-Por los servicios que preste la Secretaría de Transporte, la Secretaria de Seguridad y, en su caso, la Secretaría de la Hacienda Pública, se causarán derechos de acuerdo con la tarifa correspondiente:
+Por los servicios que prestan la Secretaría de Transporte, la Secretaria de Seguridad, la Secretaría de la Hacienda Pública y, en su caso, el Servicio Estatal Tributario de Jalisco, se causarán derechos de acuerdo con la tarifa correspondiente:
 
 I. Por la dotación y canje de placas, incluyendo tarjeta de circulación y calcomanía, se pagarán las siguientes tarifas:
 
@@ -1025,7 +1029,7 @@ k) Constancia para adquirir la titularidad de concesiones,
 
 autorizaciones o permisos del servicio de transporte público: $169.00
 
-1) Constancia de acreditación del curso de sensibilización,
+l) Constancia de acreditación del curso de sensibilización,
 
 concientización y prevención de accidentes viales por causa
 
@@ -1321,7 +1325,9 @@ La exención para los incisos que anteceden aplicará hasta 45 días hábiles po
 
 En el caso de que los propietarios de bienes puestos en depósito que adeuden 180 días o más por servicios de guarda y custodia, sin que hayan efectuado el pago de las contraprestaciones establecidas en el presente artículo, la Secretaría de Administración procederá a formular la liquidación correspondiente. Los propietarios de bienes deberán efectuar el pago dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
 
-Transcurrido el plazo señalado en el párrafo anterior sin que se hubiera efectuado el pago la Secretaría de la Hacienda Pública dará inicio al procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se hubiera efectuado el pago, el Servicio Estatal Tributario de Jalisco dará inicio al procedimiento administrativo de ejecución.
 
 Serán excluidos del procedimiento de remate los vehículos que se encuentren a disposición de autoridades jurisdiccionales y que de acuerdo a los procedimientos respectivos no sea posible llevar a cabo su enajenación.
 
@@ -2962,3 +2968,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29526/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE JALISCO, LA LEY DE HACIENDA DEL ESTADO DE JALISCO, ASÍ COMO LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2024".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
