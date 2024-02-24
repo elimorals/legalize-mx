@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-estatal-de-entretenimiento-de-133812
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-02"
-last_updated: "2021-11-18"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Jalisco, el sábado 2 de febrero de 2019.
 
@@ -61,6 +61,10 @@ I. Agencia: La Agencia Estatal de Entretenimiento de Jalisco.
 
 II. Consejo consultivo: Es el órgano auxiliar y de asesoría del organismo;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+II Bis. Comité: El Comité Interno de Valoración;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 III. Dirección: La Dirección Filma en Jalisco que operará como parte de la estructura administrativa de la Agencia para desempeñar las atribuciones en materia de obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, previstas en la presente Ley, en su Reglamento, en la Ley de Filmaciones, en su Reglamento y en las demás disposiciones que resulten aplicables;
@@ -72,6 +76,10 @@ IV. Director General: El Director General de la Agencia;
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 V. Eventos. de entretenimiento: Cualquier evento de entretenimiento: teatro; exposiciones visuales, exposiciones gráficas, baile, conciertos, turismo, folklore, arte, deporte, recreación, animación, audiovisual, cinematográfico, fotográfico y similares y todos aquellos relacionados con el enriquecimiento de la cultura, esparcimiento, entretenimiento y espectáculos en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+V Bis. Fondo: Fondo Filma Jalisco;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
@@ -249,17 +257,21 @@ XXXVI. Promover y apoyar el desarrollo de infraestructura y los servicios de pro
 
 XXXVII. Otorgar estímulos a organizaciones, empresas, así como al talento, preferentemente jaliscienses o residentes en la, entidad, de acuerdo con la convocatoria que se emita;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-XXXVIII. Promover la protección del patrimonio intangible producido en Jalisco en la realización de las actividades reguladas por la presente Ley y por la Ley de Filmaciones; y
+XXXVIII. Promover la protección del patrimonio intangible producido en Jalisco en la realización de las actividades reguladas por la presente Ley y por la Ley de Filmaciones;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2024)</small>
 
-XXXIX. Ejercer las demás atribuciones que le confieran otras disposiciones legales o reglamentarias.
+XXXIX. Administrar los recursos del Fondo en los términos de la Ley de Filmaciones del Estado de Jalisco, la presente ley, así como las disposiciones legales y reglamentarias aplicables; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2024)</small>
 
-Para la realización de las atribuciones en materia (sic) obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, la Agencia contará con el apoyo administrativo de la Direción (sic) en los términos previstos en la presente Ley, en su Reglamento, en la Ley de Filmaciones y en las demás disposiciones que resulten aplicables.
+XL. Ejercer las demás atribuciones que le confieran otras disposiciones legales o reglamentarias.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+Para la realización de las atribuciones en materia de obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, la Agencia contará con el apoyo administrativo de la Dirección en los términos previstos en la presente Ley, en su Reglamento, en la Ley de Filmaciones y en las demás disposiciones que resulten aplicables.
 
 ### Capítulo II. Organización de la Agencia
 
@@ -427,9 +439,9 @@ XXVII. Aprobar las bases de convocatorias para proporcionar apoyos
 
 XXVIII. Dar seguimiento y evaluar el cumplimiento de los trabajos realizados por los beneficiarios de los apoyos, a través del grupo técnico de evaluadores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-XXIX. Colaborar con las autoridades competentes en la realización de talleres, cursos, capacitación, clases magistrales, seminarios, simposios y eventos académicos para los profesionistas de la industria, productores, estudiantes y público en general, con la participación de personajes destacados en la industria cinematográfica y audiovisual, nacional e internacional;
+XXIX. Promover, organizar y colaborar con las autoridades competentes en la realización de talleres, cursos, capacitación, clases magistrales, seminarios, simposios y eventos académicos para los profesionistas de la industria, productores, estudiantes y público en general, con la participación de personajes destacados en la industria cinematográfica y audiovisual, nacional e internacional;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
@@ -438,6 +450,14 @@ XXX. Fomentar programas permanentes de capacitación y profesionalización para 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 XXXI. Realizar las acciones necesarias para promover, preservar, divulgar y fomentar las actividades cinematográficas, audiovisuales y fotográficas en la entidad;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+XXXI Bis. Fomentar la formación y el desarrollo de contenido para especializar al talento jalisciense, para la creación de equipos de profesionales, así como desarrollar la cadena de valor que fortalezca a las empresas prestadoras de servicio;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+XXXI Ter. Realizar las acciones necesarias para para (sic) facilitar la atracción de inversión y el desarrollo del Estado como polo de la industria;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
 
@@ -539,13 +559,61 @@ XIX. Rendir informe anual de actividades al Presidente de la Junta de Gobierno, 
 
 XX. Las demás previstas en la presente ley y demás ordenamientos aplicables.
 
-#### Sección III. Del Órgano de vigilancia
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE FEBRERO DE 2024)</small>
 
-#### Sección IV. Del Consejo consultivo
+#### Sección II Bis. Del Comité Interno de Valoración
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+###### Artículo 12 Bis.
+
+El Comité Interno de Valoración, es el órgano auxiliar de la Agencia cuya función principal es la dictaminación de los apoyos, incentivos y estímulos de los programas derivados del Fondo, conforme a las reglas de operación que para tal efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+###### Artículo 12 Ter.
+
+El Comité Interno de Valoración estará integrado por:
+
+I. Una persona representante de la Coordinación General Estratégica de Crecimiento y Desarrollo Económico del Estado de Jalisco, quien lo presidirá;
+
+II. Una persona representante de la Secretaría de Desarrollo Económico;
+
+III. Una persona representante de la Secretaría de Turismo;
+
+IV. Una persona representante de la Secretaría de Innovación Ciencia y Tecnología
+
+V. Una persona representante de la Secretaría de Cultura;
+
+VI. Una persona representante de la Oficina de Visitantes y Convenciones de Guadalajara, A.C.;
+
+VII . Una persona representante de la Universidad de Guadalajara;
+
+VIII. Tres personas representantes de organizaciones y/o asociaciones debidamente conformadas, reconocidas y relacionadas con la industria fílmica en el Estado de Jalisco, invitadas por el Gobernador del Estado a propuesta del Coordinador General Estratégico de Crecimiento y Desarrollo Económico.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+###### Artículo 12 Quáter.
+
+El Comité contará con una Secretaría Técnica, que auxiliará a la Presidencia del Comité para el cumplimiento y desahogo de los acuerdos, la cual recaerá en la persona Titular de la Dirección General de la Agencia Estatal de Entretenimiento de Jalisco.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+###### Artículo 12 Quinquies.
+
+Los integrantes del Comité contarán con voz y voto, podrán nombrar a un suplente y permanecerán en el Comité por el tiempo que dure el encargo que desempeñen.
+
+Para la validez de los acuerdos del Comité se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate la Presidencia tendrá voto de calidad.
+
+La participación de los integrantes del Comité será de carácter honorífico y por lo tanto no será remunerada y su temporalidad se establecerá en las disposiciones reglamentarias aplicables.
+
+#### Sección III. Del Órgano de vigilancia
 
 ###### Artículo 13.
 
 La Agencia tendrá un órgano de vigilancia en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco. El funcionamiento y atribuciones de dicho órgano se sujetarán a las disposiciones que determine la Contraloría del Estado, tomando como ejes rectores los principios de transparencia, máxima publicidad, austeridad, disciplina financiera y rendición de cuentas.
+
+#### Sección IV. Del Consejo consultivo
 
 ###### Artículo 14.
 
@@ -666,3 +734,13 @@ QUINTO. La Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gesti
 SEXTO. El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
 
 SÉPTIMO. Las atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29522/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, 11, 12 EL TÍTULO TERCERO Y LOS ARTÍCULOS 14, 15, 16 Y 17 DE LA LEY DE FILMACIONES DEL ESTADO DE JALISCO Y REFORMA LOS ARTÍCULOS 2, 5, 10 Y ADICIONA LA SECCIÓN II BIS CON LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUÁTER Y 12 QUINQUIES DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo en un plazo de sesenta días hábiles deberá realizar las modificaciones reglamentarias y administrativas necesarias para cumplimentar el presente decreto.
+
+TERCERO. La Secretaría de la Hacienda Pública deberá contemplar la asignación presupuestal necesaria en la Agencia Estatal de Entretenimiento de Jalisco, para la conformación del Fondo Filma Jalisco para el ejercicio fiscal 2024, con base en las disposiciones previstas en el presente decreto y en apego a las disposiciones aplicables.
