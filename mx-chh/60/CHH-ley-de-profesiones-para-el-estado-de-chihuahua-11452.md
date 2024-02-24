@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-profesiones-para-el-estado-de-chihuahua-11452"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2018-05-30"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE MAYO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -193,13 +191,17 @@ ARTICULO 12 Cuáter. Cuando existan lineamientos y procedimientos de evaluación
 
 DEL REGISTRO PUBLICO DE PROFESIONES.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2024)</small>
 
 ###### ARTICULO 13.
 
-Los títulos profesionales, diplomas o grados académicos en sus diferentes tipos, niveles o denominaciones, expedidos por las autoridades o instituciones del Sistema Educativo Nacional, local o de otros Estados de la República o de la Ciudad de México, deberán registrarse en la Dirección Estatal de Profesiones si sus titulares desean ejercer en el Estado de Chihuahua, siempre que su otorgamiento se haya sujetado a las leyes respectivas, de conformidad con la fracción V del artículo 121, de la Constitución Federal.
+Los títulos profesionales, diplomas o grados académicos en sus diferentes tipos, niveles o denominaciones, expedidos por las autoridades o instituciones del Sistema Educativo Nacional, local o de otros Estados de la República o de la Ciudad de México, podrán registrarse en la Dirección Estatal de Profesiones si sus titulares desean ejercer en el Estado de Chihuahua, siempre que su otorgamiento se haya sujetado a las leyes respectivas, de conformidad con la fracción V del artículo 121, de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2018)</small>
 
 Los títulos expedidos en el extranjero, a mexicanos o a extranjeros, serán registrados por la Dirección Estatal de Profesiones, siempre y cuando la Secretaría de Educación Pública o la Secretaría de Educación y Deporte certifique que los estudios que comprenda el título son equivalentes o similares a los que se imparten en planteles del Sistema Educativo Nacional, y se satisfagan los demás requisitos previstos en la Ley de Profesiones para el Distrito Federal.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2018)</small>
 
 Por ningún motivo se registrarán los títulos debidamente apostillados del extranjero otorgados por instituciones no autorizadas legalmente para expedirlos y que no hayan sido previamente revalidados.
 
@@ -453,13 +455,15 @@ Las personas que, sin tener título profesional legalmente expedido, actúen o s
 
 Para ejercer en el Estado de Chihuahua cualquiera de las profesiones reconocidas oficialmente, se requiere:
 
-I.- Poseer título, en sus diferentes tipos, niveles o denominaciones, legalmente expedido y debidamente registrado en los términos de esta ley;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2018)</small>
+I. Poseer título, en sus diferentes tipos, niveles o denominaciones, legalmente expedido y debidamente registrado en el Registro Nacional de Profesionistas;
 
-II.- Obtener la respectiva cédula profesional y registro estatal o autorización de ejercicio de la Dirección Estatal de Profesiones, lo cual es de su competencia exclusiva, y en caso de que una rama o especialidad así lo requiera por disposición expresa, los documentos que acrediten su certificación vigente;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-III.- Estar en pleno goce y ejercicio de los derechos civiles. El goce y ejercicio de los derechos políticos será exigible sólo a los mexicanos.
+II. Contar con la respectiva cédula profesional, y en caso de que una rama o especialidad así lo requiera por disposición expresa, los documentos que acrediten su certificación vigente;
+
+III. Estar en pleno goce y ejercicio de los derechos civiles. El goce y ejercicio de los derechos políticos será exigible sólo a los mexicanos.
 
 ###### ARTICULO 29.
 
@@ -1223,9 +1227,19 @@ El estudiante deberá dar a conocer, mediante un documento, las actividades que 
 
 El documento lo deberá entregar a la institución educativa a la cual pertenece, con copia para la Dirección Estatal de Profesiones.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+Las autoridades educativas, en coordinación con las instituciones educativas, promoverán que el servicio social realizado por el estudiantado sea reconocido como parte de su experiencia para el desempeño de sus labores profesionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 91.
 
-El servicio social de los estudiantes quedará al cuidado y responsabilidad de las escuelas de enseñanza profesional, conforme a sus planes de estudio.
+El servicio social del estudiantado quedará al cuidado y responsabilidad de las escuelas de enseñanza profesional, conforme a sus planes de estudio.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+Podrá contemplar el desarrollo de actividades de fomento a la cultura de la donación de sangre y sus componentes con fines terapéuticos, como uno de los propósitos de servicio a la sociedad.
 
 ###### ARTICULO 92.
 
@@ -1576,3 +1590,19 @@ TERCERO.- Cualquier referencia jurídica, administrativa, financiera, organizati
 CUARTO.- Las revisiones, consultas, actualizaciones, o medidas operativas y/o legales tanto en el ámbito administrativo, jurídico y gubernamental a que haya lugar para el cumplimiento del presente Decreto bajo la competencia de la Dirección Estatal de Profesiones, se llevarán a cabo a la brevedad posible. Para tales efectos, se tomarán todas las medidas jurídicas, administrativas, operativas y financieras que fueren necesarias por las Dependencias del Poder Ejecutivo del Estado, que resulten aplicables bajo su respectiva esfera de competencia, en lo particular por las Secretarías de Hacienda y de Educación y Deporte.
 
 QUINTO.- Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0648/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA “DECRETO Nº LXVII/RFLEY/0728/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
