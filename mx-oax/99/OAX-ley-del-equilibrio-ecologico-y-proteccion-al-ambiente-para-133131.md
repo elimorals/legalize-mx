@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2023-12-16"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -640,6 +640,42 @@ II. Propiciar la investigación científica, tecnológica y el aprovechamiento r
 III. Promover la generación de conocimientos estratégicos acerca de la naturaleza, la interacción entre los elementos de los ecosistemas, incluido el ser humano, la evolución y transformación de los mismos, a fin de contar con información para la elaboración de programas que fomenten la prevención, restauración, conservación y protección del ambiente, y;
 
 IV. Diseñar, implementar y actualizar el programa estatal de educación para el desarrollo sostenible.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+V. Promover tecnologías orientadas al aprovechamiento racional de los recursos naturales y acelerar la transferencia de dichas tecnologías;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+VI. Establecer estrategias para el fomento y conservación del patrimonio natural en el Estado;
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+###### Artículo 25 Bis.
+
+La Secretaría, realizará acciones de promoción a fin de incentivar a las instituciones e individuos del Estado, en el uso de tecnologías ecológicamente sanas, siempre y cuando existan ventajas en el uso de las mismas.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
+
+I. Promover un cambio en la conducta de las personas que realicen actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sostenible;
+
+II. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen el ambiente, hagan uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
+
+III. Considerar como instrumentos económicos diversos mecanismos, tales como normativas fiscales, financieras y de mercado, con el propósito de que las personas asuman los beneficios y costos ambientales derivados de sus actividades económicas. Estos instrumentos buscan incentivar acciones que promuevan el cuidado del ambiente. Esto incluye el uso de estímulos fiscales para fomentar el cumplimiento de los objetivos de la política ambiental, así como la consideración de instrumentos financieros como créditos, fianzas, seguros, fondos y fideicomisos dirigidos a la preservación y uso sostenible de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico.
+
+Asimismo, se contemplan instrumentos de mercado como concesiones, autorizaciones, licencias y permisos, estableciendo volúmenes preestablecidos de emisiones o límites de aprovechamiento, especialmente en áreas naturales protegidas o zonas de relevancia ambiental;
+
+IV. Considerar prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de ingresos, las actividades relacionadas con:
+
+a) La investigación, incorporación o utilización de mecanismos, equipos y tecnología que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+
+b) La investigación o incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
+
+c) El ahorro y el aprovechamiento sostenible en la prevención de la contaminación del agua;
+
+d) El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
+
+e) En general, aquellas actividades relacionadas con la preservación y restauración de equilibrio ecológico y del ambiente.
 
 ###### Artículo 26.
 
@@ -3218,3 +3254,11 @@ P.O. 16 DE DICIEMBRE DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1716.- MEDIANTE (SIC) CUAL ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 25 Y EL ARTÍCULO 25 BIS A LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
