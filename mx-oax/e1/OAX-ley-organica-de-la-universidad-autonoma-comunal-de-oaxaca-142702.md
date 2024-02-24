@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-universidad-autonoma-comunal-de-oaxaca-14270
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-04-20"
-last_updated: "2020-04-20"
+last_updated: "2024-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA COMUNAL DE OAXACA
 
-(NOTA: EL 31 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 1201 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA COMUNAL DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTE DE ABRIL DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE OAXACA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+(NOTA 1: EL 31 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚM. 1201 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA COMUNAL DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTE DE ABRIL DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE OAXACA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA COMUNAL DE OAXACA, PUBLICADA EN EL P.O. DE 24 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA COMUNAL DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024 (ABROGADO).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 20 de abril de 2020.
 
@@ -402,3 +404,31 @@ TERCERO.- Una vez entrada en vigor la presente Ley, la Comisión Permanente de E
 “Dado en el Salón de Sesiones del H. Congreso del Estado.- San Raymundo Jalpan, Centro, Oaxaca, a 15 de enero de 2020.- Dip. Jorge Octavio Villacaña Jiménez, Presidente.- Dip. Migdalia Espinosa Manuel, Secretaria.- Dip. Inés Leal Peláez, Secretaria.- Dip. Saúl Cruz Jiménez, Secretario.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 22 de enero de 2020. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE LA UNIVERSIDAD AUTÓNOMA COMUNAL DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se abroga la Ley Orgánica de la Universidad Autónoma Comunal de Oaxaca publicada el 15 de enero de 2020 en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+CUARTO. Derivado de la sentencia contenida en el expediente de la acción de inconstitucionalidad 180/2020, emitida por la Suprema Corte de Justicia de la Nación, los nombramientos emitidos y otorgados de conformidad con la Ley Orgánica de la Universidad Autónoma Comunal de Oaxaca publicada el 15 de enero de 2020 en el Periódico Oficial del Gobierno del Estado, abrogada; quedan sin efecto; por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción correspondientes.
+
+QUINTO. El Consejo Directivo Universitario deberá quedar instalado dentro de los 60 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. El Consejo Directivo Universitario procederá a la elaboración y aprobación de la reglamentación interna, tan pronto como sus condiciones y circunstancias lo permitan.
+
+SÉPTIMO. Las Secretarías de Educación Pública, de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, deberán proveer en sus respectivas competencias lo necesario para la implementación del presente Decreto.
+
+OCTAVO. Las autoridades universitarias y la Secretaría de Educación Pública establecerán los mecanismos de gestión presupuestal con la Federación mediante un convenio de cofinanciamiento; así como los procedimientos administrativos para la reincorporación de los planes de estudios al sistema educativo estatal y la regularización de los expedientes académicos de docentes y estudiantes.
+
+NOVENO. Las autoridades universitarias y la Secretaría de Educación Pública establecerán los mecanismos administrativos para la incorporación de los planes de estudios y la regularización de expedientes académicos de docentes y estudiantes.
+
+DÉCIMO. A efecto de garantizar la certeza y seguridad jurídica de los procedimientos administrativos y académicos de los estudiantes actualmente matriculados en los centros universitarios comunales, así como la continuidad del calendario académico vigente, se establece un plazo de ciento veinte días hábiles posteriores a la entrada en vigor de la presente ley para su regularización correspondiente.
+
+DÉCIMOPRIMERO. Vista la urgencia del inicio administrativo y su regularización de la Universidad, una vez que haya entrado en vigor la presente Ley, por única ocasión, el Titular del Ejecutivo nombrará al Rector o Rectora de forma directa.
