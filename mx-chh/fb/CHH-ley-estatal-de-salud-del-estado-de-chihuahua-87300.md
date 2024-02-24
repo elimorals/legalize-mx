@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-02-21"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1165,13 +1165,15 @@ Quienes ejerzan las actividades profesionales en el campo de la medicina, señal
 
 Tratándose de especialidades médicas, deberán contar con certificación vigente, mediante la cual acredite el entrenamiento, habilidades, destrezas y calificación de la pericia que se requiere para su ejercicio, de acuerdo a la Lex Artis Ad Hoc de cada profesión y especialidad médica.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2024)</small>
 
-Los documentos señalados, deberán ser expedidos y registrados ante las autoridades educativas y de salud competentes, atendiendo, en su caso, a lo dispuesto en el artículo 81 de la Ley General de Salud.
+Los documentos señalados, deberán ser expedidos y registrados ante las autoridades educativas y de salud competentes, atendiendo, en su caso, a lo dispuesto en los artículos 121, fracción V de la Constitución Política de los Estados Unidos Mexicanos, y 81 de la Ley General de Salud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 95.
 
-Las autoridades educativas del Estado proporcionarán a las autoridades sanitarias estatales, la relación de títulos, diplomas y certificados del área de salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria que sea necesaria, sobre la materia.
+Las autoridades educativas del Estado proporcionarán a las autoridades sanitarias estatales, la relación de títulos, diplomas y certificados del área de salud que, en su caso, hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria que sea necesaria, sobre la materia.
 
 En el caso de que exista convenio entre el Ejecutivo del Estado y el Federal, en materia de registro profesional y expedición de cédulas profesionales, el Ejecutivo Estatal cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
@@ -4124,6 +4126,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0651/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, SEGUNDO PÁRRAFO, DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0728/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
