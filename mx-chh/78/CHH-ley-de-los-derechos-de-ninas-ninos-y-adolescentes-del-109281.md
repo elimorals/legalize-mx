@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-02-17"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1155,6 +1155,10 @@ XII. Ajustarse al tiempo de participación máximo para la intervención de niñ
 
 XIII. Implementar medidas para protegerles de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+XIV. Las sentencias judiciales o resoluciones administrativas que se emitan en un proceso jurisdiccional o administrativo, donde se decidan sobre los derechos de niñas, niños y adolescentes, deben ser redactadas de manera clara, sencilla y comprensible y, en su caso, en formatos accesibles de fácil comprensión y lectura.
+
 ###### Artículo 90.
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
@@ -1186,6 +1190,10 @@ IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de 
 V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables.
 
 VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+VII. Garantizar procedimientos y uso de lenguaje claro, sencillo, accesible, conciso y comprensible, para las niñas, niños o adolescentes, que formen parte de estos.
 
 ###### Artículo 93.
 
@@ -2822,6 +2830,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 17 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0656/2023 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 22 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0654/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
