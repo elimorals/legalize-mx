@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2023-08-19"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -165,13 +165,17 @@ I.- Asegurar el desarrollo integral de las personas con discapacidad para que te
 
 II.- Garantizar la igualdad y equiparación de oportunidades para las personas con discapacidad, así como su participación efectiva en todos los aspectos de la vida;
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-III.- Eliminar cualquier forma de discriminación por motivos de discapacidad, incluyendo la denegación de ajustes razonables; y
+III.- Eliminar cualquier forma de discriminación por motivos de discapacidad, incluyendo la denegación de ajustes razonables;
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-IV.- Garantizar que todas las autoridades en el ámbito de sus competencias realicen consultas a las personas con discapacidad, y tratándose de niñas y niños con discapacidad a través de sus tutores, en la elaboración y aplicación de la legislación como en la implementación de programas y políticas públicas.
+IV.- Garantizar a todas las autoridades en el ámbito de sus competencias realicen consultas a las personas con discapacidad, y tratándose de niñas y niños con discapacidad a través de sus tutores, en la elaboración y aplicación de la legislación como en la implementación de programas y políticas públicas, y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+V.- Reconocer a las personas con movilidad limitada, entendiéndose estas como toda persona cuya movilidad se encuentre reducida de forma permanente o temporal, por motivos de edad, embarazo o cualquier otra causa que, sin ser una discapacidad requiere una atención adecuada para la adaptación de sus necesidades particulares.
 
 ### CAPÍTULO II
 
@@ -1212,3 +1216,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1695.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES III, IV; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 5 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
