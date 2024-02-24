@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2023-10-28"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -591,9 +591,15 @@ XV. Proporcionar, en coordinación con la Secretaría de Desarrollo Social y Hum
 
 XVI. Canalizar ante las autoridades competentes los casos de personas adultas mayores que fallezcan y no cuenten con familiares o sus familias no dispongan con recursos económicos para hacer frente a los gastos funerarios, con el objeto de que les sea otorgado el apoyo oportuno;
 
-XVII. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento sano y activo; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-XVIII. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
+XVII. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomas las medidas pertinentes para acceder a un envejecimiento sano y activo;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+XVIII. La asistencia y cuidados proporcionados a las personas adultas mayores de forma preferente, y
+
+XIX. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -1072,3 +1078,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1697.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVII, Y SE ADICIONA LA FRACCIÓN XVIII RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 16 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
