@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-filmaciones-del-estado-de-jalisco-148181"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-04"
-last_updated: "2021-11-18"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FILMACIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 4 de marzo de 2021.
 
@@ -121,11 +121,17 @@ II. Dirección: La Dirección Filma en Jalisco que operará como parte de la est
 
 III. Consejo: Consejo Consultivo Estatal de Filmaciones;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+III Bis. Comité: El Comité Interno de Valoración, que refiere la Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco.
+
 IV. Desarrollo: Etapa inicial del proceso de producción audiovisual, en el que se realizan varias actividades como la escritura del guión, tablero de producción, plan de rodaje, presupuesto, lista de planos, búsqueda de financiamiento;
 
 V. Filmación: Registro, grabación o captación de imágenes en un soporte material o digital, con o sin sonidos asociados, para la realización de una obra cinematográfica o audiovisual;
 
-VI. Fondo Estatal: Fondo Estatal Filma en Jalisco FILMAJAL;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+VI. Fondo: El Fondo Filma Jalisco.
 
 VII. Grabación: Captación, almacenamiento o incorporación de imágenes o sonidos a un soporte físico o dispositivo, material o digital, de manera que puedan percibirse, reproducirse o comunicarse;
 
@@ -247,9 +253,13 @@ IV. Los Municipios.
 
 1. Corresponden al titular del Poder Ejecutivo las siguientes atribuciones:
 
-I. Establecer las políticas, estrategias, planes y programas para impulsar, fomentar y coordinar acciones orientadas a desarrollar la industria cinematográfica, audiovisual y fotográfica, así como para mejorar la infraestructura fílmica y los servicios públicos que ofrece el Estado de Jalisco a esta industria;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-II. Promover la participación e inversión de los sectores público, social y privado en la industria cinematográfica, audiovisual, fotográfica y en la infraestructura fílmica de la entidad;
+I. Establecer las políticas, estrategias, planes, apoyos, incentivos, estímulos y programas para impulsar, fomentar y coordinar acciones orientadas ·a desarrollar la industria cinematográfica, audiovisual y fotográfica, así como para mejorar la infraestructura fílmica y los servicios públicos que ofrece el Estado de Jalisco a esta industria;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+II. Promover e impulsar la atracción de la inversión de los sectores público, social y privado en la industria cinematográfica, audiovisual, fotográfica y en la infraestructura fílmica de la entidad y propiciar el encadenamiento con profesionales y empresas locales para la profesionalización de la industria estatal;
 
 III. Considerar en los planes, programas y presupuestos correspondientes, las acciones y los recursos necesarios para el fomento y promoción de las acciones previstas en la presente Ley;
 
@@ -271,7 +281,9 @@ III. Incluir anualmente en el anteproyecto de Presupuesto de Egresos del Estado 
 
 IV. Promover la participación e inversión de los sectores público, social y privado en el desarrollo y promoción de la industria cinematográfica y audiovisual, así como de la producción de obras fotográficas y de entretenimiento;
 
-V. Determinar los instrumentos de apoyo y estímulo económico para el desarrollo en la entidad de las obras cinematográficas, audiovisuales y fotográficas, impulsando preferentemente la industria local;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+V. Determinar los instrumentos de apoyo y estímulo económico para el desarrollo en la entidad de las obras cinematográficas, audiovisuales y fotográficas, impulsando preferentemente la industria local y con enfoque de género. Dichos instrumentos deberán publicarse durante el primer trimestre del año a ejercer, procurando que estos se expidan en el mismo momento;
 
 VI. Promover el incremento, desarrollo, aprovechamiento e inversión en infraestructura para el sector, equipamiento, salas, talleres, escenarios y mobiliario en el Estado, a efecto de que contribuya al desarrollo social, económico y cultural de la entidad; así como de inversión, desarrollo y crecimiento de infraestructura para el sector en el territorio de la entidad;
 
@@ -309,9 +321,17 @@ XX. Generar una guía de producción ecológica que contenga las mejores prácti
 
 XXI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2021)
 
-XXII. Estar a cargo por sí o a través del área correspondiente de implementar las disposiciones del Título Sexto de esta Ley; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
-XXIII. Las demás que le otorgue esta Ley y otras disposiciones legales aplicables.
+XXII. Estar a cargo por sí o a través del área correspondiente de implementar las disposiciones del Título Sexto de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+XXIII. Administrar los recursos del Fondo en los términos de la presente ley, la Ley Orgánica de la Agencia Estatal de Entretenimiento, así como las disposiciones legales y reglamentarias aplicables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+XXIV. Las demás que le otorgue esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 13.
 
@@ -331,27 +351,55 @@ V. Fijar en sus presupuestos correspondientes, los recursos necesarios para la r
 
 VI. Las demás atribuciones que les otorgue esta Ley y demás ordenamientos jurídicos aplicables.
 
-## TÍTULO TERCERO. FONDO FILMA EN JALISCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2024)</small>
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+## TÍTULO TERCERO. FONDO FILMA JALISCO
 
-### Capítulo I. Objeto, integración y atribuciones
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE FEBRERO DE 2024)</small>
+
+### Capítulo Único. Objeto e integración
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 14.
 
-(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
+1. El Fondo se crea con el propósito de aplicar y operar programas que tengan como objeto incrementar e incentivar en el estado la inversión y producción de la industria fílmica y audiovisual mediante apoyos e incentivos económicos a personas físicas y jurídicas, nacionales y extranjeras que tengan interés en producir en Jalisco.
+
+2. Los objetivos del Fondo son los siguientes:
+
+I. Propiciar el encadenamiento con profesionales y empresas locales para la consolidación de la industria estatal;
+
+II. Impulsar el crecimiento de las capacidades de los potenciales proveedores mediante asesoría y vinculación a otros programas; y
+
+III. Los demás que determine la Agencia, en los términos de las reglas de operación y disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 15.
 
-(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
+1. El Fondo se integra con los recursos asignados en cada ejercicio fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 16.
 
-(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
+1. La gestión, operación y ejecución de los recursos del Fondo, se definirán a través de las reglas de operación que para tal efecto se establezcan, en las que se podrá contemplar la realización de proyectos multianuales.
+
+2. En ningún caso, los recursos que constituyen el Fondo se destinarán a sufragar gastos que deriven de fines distintos a los enumerados en las reglas de operación aplicables.
+
+3. La asignación de recursos del Fondo procurará beneficiar al número de proyectos económicamente viables, asegurando en todo caso la continuidad y la calidad de los resultados como lo marcan las reglas de operación del programa.
+
+4. El otorgamiento de apoyos económicos del Fondo estará sujeto a la celebración del instrumento jurídico correspondiente, de conformidad con la presente Ley y las disposiciones legales aplicables.
+
+5. Los beneficiarios del Fondo, en un ejercicio de corresponsabilidad social, aportarán experiencia, conocimientos y vinculación para la formación y el desarrollo de contenido para especializar al talento jalisciense.
+
+Las acciones previstas en el presente artículo se deberán de observar bajo la perspectiva de género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 17.
 
-(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2021)
+1. La Agencia, emitirá los criterios y requisitos en las reglas de operación del programa, con base a la suficiencia presupuestal del Fondo en los términos previstos en la Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco, el Reglamento de la presente Ley, y disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -760,3 +808,13 @@ QUINTO. La Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gesti
 SEXTO. El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
 
 SÉPTIMO. Las atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29522/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, 11, 12 EL TÍTULO TERCERO Y LOS ARTÍCULOS 14, 15, 16 Y 17 DE LA LEY DE FILMACIONES DEL ESTADO DE JALISCO Y REFORMA LOS ARTÍCULOS 2, 5, 10 Y ADICIONA LA SECCIÓN II BIS CON LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUÁTER Y 12 QUINQUIES DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo en un plazo de sesenta días hábiles deberá realizar las modificaciones reglamentarias y administrativas necesarias para cumplimentar el presente decreto.
+
+TERCERO. La Secretaría de la Hacienda Pública deberá contemplar la asignación presupuestal necesaria en la Agencia Estatal de Entretenimiento de Jalisco, para la conformación del Fondo Filma Jalisco para el ejercicio fiscal 2024, con base en las disposiciones previstas en el presente decreto y en apego a las disposiciones aplicables.
