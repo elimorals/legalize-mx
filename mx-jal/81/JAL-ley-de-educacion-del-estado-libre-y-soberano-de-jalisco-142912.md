@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-10-07"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -89,9 +89,17 @@ V. Estado, a la Federación, los Estados, la Ciudad de México y los municipios;
 
 VI. Comisión Estatal: a la Comisión Estatal para la Mejora Continua en Jalisco;
 
-VII. SIMEJORA: al Sistema de Mejora Continua de la Educación en Jalisco; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2024)</small>
 
-VIII. Sistema Nacional: al Sistema Nacional de Mejora Continua de la Educación.
+VII. Fondo: al fondo estatal especial para la educación, creado para la entrega de mochilas, útiles, uniformes y calzado a estudiantes de educación básica de escuelas públicas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+VIII. SIMEJORA: al Sistema de Mejora Continua de la Educación en Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2024)</small>
+
+IX. Sistema Nacional: al Sistema Nacional de Mejora Continua de la Educación.
 
 Coordinación interestatal e intermunicipal en proyectos regionales educativos
 
@@ -1919,7 +1927,9 @@ Para tal efecto realizarán entre otras, las siguientes acciones:
 
 I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
 
-II. Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+II. Garantizar la implementación de programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica;
 
 III. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -2013,17 +2023,33 @@ Programas compensatorios para reducir el rezago educativo
 
 Además de las actividades enumeradas en el artículo anterior, el Ejecutivo Federal llevará a cabo programas compensatorios por virtud de los cuales apoye con recursos específicos al gobierno de la entidad para enfrentar los rezagos educativos, previa celebración de convenios en los que se concreten las proporciones de financiamiento y las acciones específicas que la autoridad educativa estatal deberá realizar para reducir y superar dichos rezagos.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2024)</small>
+
+## Título Noveno Bis. Del Fondo para la Educación Básica
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+### Capítulo Único. Objeto e Integración
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+Objeto e Integración del fondo para la educación básica
+
+###### Artículo 124 Bis.
+
+1. El Ejecutivo del Estado constituirá un fondo especial para la educación, cuyo objeto es la realización del programa de entrega gratuita de mochilas, útiles escolares, uniformes y calzado a estudiantes de educación básica de escuelas públicas.
+
+2. El fondo estará integrado con recursos asignados para ese efecto en las leyes de ingresos y los presupuestos de egresos de la Federación, Estado y los Municipios, así como con recursos que provengan de donativos, donaciones y cesiones de derechos.
+
+3. El esquema de aportaciones al Fondo entre el Estado y los Municipios será en partes iguales, que podrán realizarse bajo cualquier mecanismo o modalidad, y convendrán los términos para la ejecución del programa.
+
+4. Para salvaguardar el principio de imparcialidad que debe regir los procesos electorales, en los ejercicios fiscales en que se lleve a cabo la renovación de la titularidad del Poder Ejecutivo del Estado de Jalisco, los recursos del fondo se destinarán a programas dirigidos a educación básica, priorizando los que tengan por objeto infraestructura y equipamiento de escuelas públicas.
+
 ## Título Décimo. De la corresponsabilidad social en el proceso educativo
 
 ### Capítulo I. De la participación de madres y padres de familia o tutores
 
 Derechos de quienes ejercen la patria potestad o tutela
-
-## Título Décimo Primero. De la validez de estudios y certificación de conocimientos
-
-### Capítulo II. De los Consejos de Participación Escolar
-
-Participación de la sociedad para garantizar el derecho a la educación
 
 ###### Artículo 125.
 
@@ -2105,9 +2131,9 @@ Las asociaciones de madres y padres de familia, se abstendrán de intervenir en 
 
 La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
-### Capítulo III. Del servicio social
+### Capítulo II. De los Consejos de Participación Escolar
 
-Obligatoriedad del servicio social
+Participación de la sociedad para garantizar el derecho a la educación
 
 ###### Artículo 128.
 
@@ -2179,9 +2205,9 @@ En el estado de Jalisco, operará un consejo estatal de participación escolar e
 
 Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
 
-### Capítulo IV. De la participación de los medios de comunicación
+### Capítulo III. Del servicio social
 
-Contribución de los medios de comunicación a los fines y criterios de la educación
+Obligatoriedad del servicio social
 
 ###### Artículo 132.
 
@@ -2195,9 +2221,9 @@ Opciones para la prestación del servicio social
 
 La autoridad educativa estatal, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-### Capítulo Único. De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
+### Capítulo IV. De la participación de los medios de comunicación
 
-Validez de los estudios
+Contribución de los medios de comunicación a los fines y criterios de la educación
 
 ###### Artículo 134.
 
@@ -2211,11 +2237,11 @@ Creación de espacios y proyectos de difusión educativa
 
 El Ejecutivo estatal promoverá la contribución de los medios de comunicación a los fines de la educación. Para tal efecto procurará la creación de espacios y la realización de proyectos de difusión educativa con contenidos de la diversidad cultural de la entidad, cuya transmisión sean en español y las diversas lenguas indígenas.
 
-## Título Décimo Segundo. De la educación impartida por particulares
+## Título Décimo Primero. De la validez de estudios y certificación de conocimientos
 
-### Capítulo I. Disposiciones generales
+### Capítulo Único. De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
 
-Educación impartida por particulares
+Validez de los estudios
 
 ###### Artículo 136.
 
@@ -2261,9 +2287,11 @@ La autoridad educativa estatal, por acuerdo de su titular y de conformidad con l
 
 Los acuerdos secretariales señalarán los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
-### Capítulo II. De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
+## Título Décimo Segundo. De la educación impartida por particulares
 
-Disposiciones para las acciones de vigilancia
+### Capítulo I. Disposiciones generales
+
+Educación impartida por particulares
 
 ###### Artículo 141.
 
@@ -2333,9 +2361,9 @@ Obligación de particulares que presten servicios educativos sin reconocimiento 
 
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-### Capítulo III. Del recurso administrativo
+### Capítulo II. De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
 
-Recurso administrativo
+Disposiciones para las acciones de vigilancia
 
 ###### Artículo 146.
 
@@ -2458,6 +2486,10 @@ Procedimiento de las acciones de vigilancia
 ###### Artículo 153.
 
 Las acciones de vigilancia a las que se refiere el artículo 146 de esta Ley que lleven a cabo las autoridades educativas del Estado se realizarán de conformidad con el procedimiento establecido en los artículos 152 al 179 de la Ley General de Educación previstos en su Capítulo II del Título Décimo Primero y atenderán los lineamientos que emita la autoridad educativa federal en la materia.
+
+### Capítulo III. Del recurso administrativo
+
+Recurso administrativo
 
 ###### Artículo 154.
 
@@ -2712,3 +2744,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
 
 TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29525/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 Y 118 Y SE ADICIONA EL TÍTULO NOVENO BIS DENOMINADO "DEL FONDO PARA LA EDUCACIÓN" CON EL ARTÍCULO 124 BIS, A LA LEY DEL EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Para los efectos de los recursos económicos con los cuales se constituirá el fondo para la educación, el Ejecutivo del Estado en el presupuesto de egresos, deberá destinar una partida presupuestal que funcionará como base inicial del mismo, debiendo de incrementarse según los recursos con que se integra dicho fondo.
