@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-01-19"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1907,6 +1905,20 @@ II. Si el sujeto activo del delito tiene parentesco por consanguinidad o afinida
 
 III. Si el sujeto activo es ministro de un culto religioso.
 
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+### CAPITULO V.
+
+Cohabitación forzada.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
+202 Quáter.- Comete el delito de cohabitación forzada de personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio o concubinato.
+
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y multa de mil a mil quinientas veces el valor diario de la Unidad de Medida y Actualización (UMA).
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
+
 ### CAPITULO UNICO.
 
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
@@ -1914,6 +1926,10 @@ III. Si el sujeto activo es ministro de un culto religioso.
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+## TITULO SEPTIMO.
+
+Revelación de secretos.
 
 ### CAPITULO I.
 
@@ -1951,9 +1967,11 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-## TITULO SEPTIMO.
+## TITULO OCTAVO.
 
-Revelación de secretos.
+Delitos por hechos de corrupción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO I BIS.. Delitos contra la administración de justicia, cometidos por servidores públicos
 
@@ -1982,12 +2000,6 @@ IX. Permitir, fuera de los casos previstos por la ley, la salida temporal de las
 A quien cometa los delitos previstos en las fracciones II, III, VIII y IX, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 
 A quien cometa los delitos previstos en las fracciones I, IV, V, VI y VII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-## TITULO OCTAVO.
-
-Delitos por hechos de corrupción.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -2405,6 +2417,10 @@ II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y 
 
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO I.
 
 Falsificación de sellos, llaves, cuños, troqueles y marcas.
@@ -2424,10 +2440,6 @@ II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga uso indebido de ellos;
 
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO II.
 
@@ -2521,6 +2533,10 @@ En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa d
 
 Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO IV.
 
 Variación del nombre o del domicilio.
@@ -2534,10 +2550,6 @@ I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra perso
 II.- Al que para eludir la práctica de una diligencia judicial, o una notificación de cualquier clase o citación de una Autoridad, o para obtener algún documento, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO IV BIS
 
@@ -3671,6 +3683,12 @@ TITULO DECIMONOVENO.
 
 Delitos en contra de las personas en su patrimonio.
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO I.
 
 Robo.
@@ -3921,12 +3939,6 @@ II. De 6 meses a 2 años de prisión y multa de 50 a 150 veces el valor diario d
 
 369 Sexies.- Los delitos señalados de los artículos 369 Ter al 369 Quinquies se perseguirán de oficio.
 
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
-
 ### CAPITULO II.
 
 Abigeato.
@@ -3939,41 +3951,27 @@ Abigeato.
 
 371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, caballar, asnal y mular y; como ganado menor: el ovino, caprino, porcino. Se equipara a ganado menor las colonias de abejas en un apiario y las especies de una granja acuícola.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2024)</small>
 
 372.- El abigeato de ganado mayor se sancionará:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Con prisión de seis a diez años y multa de cuarenta o (sic) ochenta veces el valor diario de la Unidad de Medida y Actualización (UMA) cuando el apoderamiento, posesión, destace o seccionamiento sea de una a dos cabezas;
 
-I.- Con prisión de cuatro a ocho años de prisión y multa de treinta a setenta veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de una a dos cabezas;
+II. Con prisión de diez a quince años y multa de ochenta a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento, posesión, destace o seccionamiento sea de tres a cinco cabezas;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+III. Con prisión de quince a veintidós años y multa de ciento ochenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento, posesión, destace o seccionamiento sea de seis a diez cabezas; y
 
-II.- Con prisión de ocho a doce años de prisión y multa de setenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de tres a cinco cabeza (sic);
+IV. Con prisión de veintidós a treinta años y multa de cuatrocientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento, posesión, destace o seccionamiento sea de más de diez cabezas.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2024)</small>
 
-III.- Con prisión de doce a dieciocho años de prisión y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de seis a diez cabezas; y,
+372 (SIC).- El abigeato de ganado menor se sancionará:
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I.- Con prisión de cuatro a seis años y multa de doscientas a trescientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento no exceda de cinco cabezas o de hasta cinco colonias de abejas en un apiario;
 
-IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de más de diez cabezas.
+II.- Con prisión de seis a diez años y multa de trescientas a cuatrocientas cincuenta veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento exceda de cinco cabezas, pero no de quince o exceda de cinco, pero no de quince colonias de abejas de un apiario; y
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
-
-373.- El abigeato de ganado menor se sancionará:
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
-
-I.- Con prisión de tres a cinco años y multa de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas o de hasta cinco colonias de abejas en un apiario;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
-
-II.- Con prisión de cinco a ocho años y multa de doscientas a trescientas cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas, pero no de quince o exceda de cinco pero no de quince colonias de abejas de un apiario, y
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
-
-III.- Con prisión de ocho a diez años y multa de trescientas cincuenta a setecientas cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento exceda de quince cabezas o quince colonias de abejas de un apiario.
+III.- Con prisión de diez a catorce años y multa de seiscientas a novecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento exceda de quince cabezas o quince colonias de abejas de un apiario.
 
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 
@@ -4555,6 +4553,48 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
 
+###### ARTÍCULO 388 Bis.
+
+Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
+
+## TITULO VIGESIMO.
+
+Encubrimiento.
+
+390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientos pesos, al que:
+
+I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
+
+Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
+
+II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la Fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste debe respeto, gratitud o amistad;
+
+III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
+
+IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
 ### CAPITULO IV. Discriminación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
@@ -4615,48 +4655,6 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 388 Bis.
-
-Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
-
-En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
-
-Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
-
-## TITULO VIGESIMO.
-
-Encubrimiento.
-
-390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientos pesos, al que:
-
-I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
-
-Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
-
-II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la Fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste debe respeto, gratitud o amistad;
-
-III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
-
-IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
-## TITULO VIGESIMO PRIMERO.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
 ### CAPITULO V. Violencia Política
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
@@ -4676,6 +4674,10 @@ Si la conducta descrita en el artículo anterior se comete en contra de una o va
 Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -4716,10 +4718,6 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 418.- Los delitos previstos en este Título se perseguirán por querella, con excepción de cuando los acreedores sean las y los hijos menores de 18 años, o persona con discapacidad, en cuyo caso se perseguirá de oficio, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
@@ -6242,3 +6240,23 @@ P.O. 28 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1692.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 372 Y 373 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1735.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO V DENOMINADO COHABITACIÓN FORZADA AL TÍTULO SEXTO, EL CUAL CONTIENE UN ARTÍCULO 202 QUÁTER, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
