@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2023-10-28"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -320,6 +320,10 @@ XXX.- Aplicar, en colaboración con la Federación, el Gobierno Estatal y munici
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
 XXXI.- Diseñar y promover políticas públicas, que permitan el uso de tecnologías limpias para el aprovechamiento de los residuos en la generación de energía eléctrica;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
+
+XXXI Bis.- Implementar entre la población, programas de difusión y promoción de la cultura de separación de los residuos sólidos de manejo especial que deriven de una emergencia de salud pública; y
 
 XXXII.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
@@ -1425,7 +1429,7 @@ Las infracciones establecidas en el artículo anterior, serán sancionadas admin
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
-I. Multa por el equivalente de diez a cincuenta mil días de la Unidad de Medida y Actualización vigente al momento de imponer la sanción;
+I. Multa por el equivalente de diez a cincuenta mil días de la Unidad de Medida de (sic) Actualización vigente al momento de imponer la sanción;
 
 II. La suspensión o revocación de las concesiones o autorizaciones correspondientes;
 
@@ -1714,3 +1718,11 @@ P.O. 28 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1717.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXXI BIS AL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
