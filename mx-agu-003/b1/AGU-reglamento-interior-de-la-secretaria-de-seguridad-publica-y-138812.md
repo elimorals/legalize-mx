@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-02"
-last_updated: "2019-12-30"
+last_updated: "2024-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA Y VIALIDAD DEL MUNICIPIO DE CALVILLO Y DE LAS RELACIONES Y DERECHOS DE LOS ELEMENTOS, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE CALVILLO Y DE LAS RELACIONES Y DERECHOS DE LOS ELEMENTOS Y AUXILIARES OPERATIVOS, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE CALVILLO Y DE LAS RELACIONES Y DERECHOS DE LOS ELEMENTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Número 35 del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de septiembre de 2019.
 
@@ -1862,3 +1864,13 @@ Se derogan todas las disposiciones reglamentarias municipales en lo que se opong
 P.O. 30 DE DICIEMBRE DE 2019.
 
 > <small>[N. DE E. EL DECRETO PUBLICADO EN EL PERÍODICO OFICIAL DE FECHA 30 DE DICIEMBRE DE 2019, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 26 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE AUTORIZA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE CALVILLO Y DE LAS RELACIONES Y DERECHOS DE LOS ELEMENTOS Y AUXILIARES OPERATIVOS".]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Segundo. A partir de la entrada en vigor del presente Reglamento, toda la normatividad que haga referencia al personal operativo (Suboficial, Policía Primero; Policía Segundo; Policía Tercero; Policía; Policía Becario; Auxiliar Operativo A; Auxiliar Operativo B; Auxiliar Operativo C; Auxiliar Operativo) adscritos a la Secretaría de Seguridad Pública y Vialidad de este Municipio de Calvillo, DEBERÁ ENTENDERSE COMO "Personal Operativo de la Secretaría de Seguridad Pública y Vialidad de este Municipio de Calvillo".
+
+Tercero. Con la entrada en vigor del presente Decreto, se abroga el Reglamento Interior de la Secretaría de seguridad pública y vialidad del municipio de Calvillo y de las relaciones y derechos de los elementos y auxiliares operativos, publicado en fecha dos de septiembre dos mil diecinueve en el periódico oficial del estado de Aguascalientes y sus reformas posteriores.
