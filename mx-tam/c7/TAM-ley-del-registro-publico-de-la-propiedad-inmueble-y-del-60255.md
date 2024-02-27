@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2023-06-06"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -1435,7 +1435,9 @@ VIII. Los demás datos que deban contener de acuerdo a su especie, conforme a la
 
 ###### ARTICULO 162.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para usucapirlos y no tenga título de propiedad, o teniéndolo lo hubiere extraviado, o no sea inscribible por defectuoso, si no está en el caso de deducir la acción que al efecto le concede el Código Civil, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información ad-perpetuam respectiva en los términos que establece el Código de Procedimientos Civiles y cumpliendo los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+El que haya poseído de buena fe bienes inmuebles por el tiempo y con las condiciones exigidas para usucapirlos y no tenga título de propiedad, o teniéndolo lo hubiere extraviado, o no sea inscribible por defectuoso, si no está en el caso de deducir la acción que al efecto le concede el Código Civil para el Estado de Tamaulipas, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información ad-perpetuam respectiva en los términos que establece el Código de Procedimientos Civiles del Estado de Tamaulipas y cumpliendo los siguientes requisitos:
 
 I. El promovente acompañará:
 
@@ -1461,9 +1463,11 @@ IV. No se recibirá la información ad-perpetuam si no se presenta el certificad
 
 V. No se recibirá la información ad-perpetuam sin que previamente se haya publicado la solicitud relativa en el Periódico Oficial del Estado y en otro de mayor circulación del lugar donde estén ubicados los bienes materia de la información, por tres veces consecutivas, de siete en siete días. Además, en igual forma, se dará publicidad en avisos que se fijarán en los lugares más visibles de las oficinas públicas de la cabecera del municipio y del centro de población correspondiente al de la jurisdicción del inmueble.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 163.
 
-Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la usucapión, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+Comprobada debidamente la posesión de buena fe, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la usucapión, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
 
 ###### ARTICULO 164.
 
@@ -1473,7 +1477,9 @@ Si el Código de Procedimientos Civiles establece requisitos más gravosos que l
 
 ###### ARTICULO 165.
 
-1. El que esté poseyendo bienes inmuebles, sin que haya transcurrido el tiempo de la usucapión, podrá registrar dicha posesión previa resolución judicial.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+1. El que esté poseyendo bienes inmuebles de buena fe, sin que haya transcurrido el tiempo de la usucapión, podrá registrar dicha posesión previa resolución judicial.
 
 2. Para ese efecto, el poseedor promoverá información en los términos, en cuyo caso el certificado que exige el inciso d) fracción I, del artículo 162 de esta ley, deberá sólo acreditar el tiempo en que el interesado lo ha tenido manifestado y pagando el impuesto predial. El efecto del registro será tener la posesión inscrita como apta para producir la usucapión al transcurrir el plazo de cinco años contados desde la misma inscripción.
 
@@ -1602,6 +1608,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DE “DECRETO No.65-821 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 732; 733; 734; y 739, FRACCIONES VI Y VII; SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 739; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 730, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 162, PÁRRAFO ÚNICO; 163; Y 165, PÁRRAFO 1, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO”.]
 
 ###### ARTÍCULO ÚNICO.
 
