@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2021-10-01"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -241,7 +243,9 @@ Los trabajadores de los Poderes del Estado, se clasificarán conforme a lo seña
 
 Para el otorgamiento de las licencias y permisos que deban concederse a los trabajadores para el desempeño de comisiones de carácter accidental o permanente o para ocuparse de asuntos personales o por responsabilidades familiares deberá estarse en todo tiempo a lo previsto por el artículo 41 de la presente Ley.
 
-Se entenderá por responsabilidades familiares, las acciones que los trabajadores madres o padres, realizan con el fin de asistir y amparar a sus hijos menores de edad, asumiendo las responsabilidades comunes del hogar.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+Se entenderá por responsabilidades familiares, las acciones que las personas trabajadoras realicen con el fin de asistir a su progenitor en su calidad de adulto mayor, que padezca alguna enfermedad o discapacidad de carácter físico, psicológico o sensorial que les impida valerse por sí mismos; así como en su calidad de padre o madre, requieran asistir o amparar a sus hijos menores de edad, asumiendo las responsabilidades comunes del hogar.
 
 ### CAPITULO SEGUNDO. DE LA JORNADA DE TRABAJO Y DIAS DE DESCANSO
 
@@ -325,17 +329,19 @@ II.- Gozarán de una semana de descanso en los casos de aborto legal o clínico;
 
 III.- Disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto y de otros dos meses después del mismo. El segundo período de descanso se prorrogará por el tiempo necesario si se encuentran imposibilitadas para trabajar, este caso de prorrogabilidad deberá justificarse médicamente para acreditar que la incapacidad es consecuencia directa e inmediata del parto;
 
-A solicitud expresa de la trabajadora y según convenga a sus intereses familiares, podrá permitir que sea el esposo o concubino quien disponga de hasta dos de las semanas posteriores al parto a las que ella tuviere derecho para abocarse a la crianza del niño.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-Esta opción deberá ser notificada por la madre trabajadora, tanto en su centro de trabajo, como en el del esposo o concubino, cuando menos dos semanas antes de poder hacerse efectiva.
+Cuando el producto sea prematuro, los días de descanso no disfrutados antes del parto por la madre, se podrán sumar a la licencia de maternidad de sesenta días posteriores al parto, a fin de garantizar los noventa días señalados por la normatividad aplicable; debiendo notificar a la institución dentro de los 30 días posteriores al parto, presentando el certificado médico correspondiente.
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-IV.- Durante el período de lactancia hasta por un año, tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o bien, a opción de la trabajadora reducir su jornada de trabajo una hora diaria;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+IV.- Durante el período de lactancia, en los primeros seis meses tendrán dos descansos extraordinarios por día de una hora cada uno para alimentar a sus hijos, o bien, a opción de la trabajadora reducir su jornada de trabajo dos horas diarias. En los posteriores seis meses, dos descansos al día, de media hora cada uno, o la reducción de su jornada laboral por una hora;
 
-V.- Disfrutar en los mismos términos de los descansos referidos en las fracciones anteriores, cuando reciban en adopción por resolución judicial un bebé menor de seis semanas de edad;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+V.- Disfrutar en los mismos términos de los descansos referidos en la fracción anterior, cuando reciban en adopción un bebé menor de seis semanas de edad;
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
 
@@ -355,13 +361,13 @@ ARTICULO 24 BIS.- Los padres trabajadores tendrán los siguientes derechos:
 
 I.- Gozarán de tres días de descanso en los casos de que su esposa o concubina tenga un aborto legal o clínico;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-II. Disfrutarán de licencia de paternidad, por diez días, con goce de sueldo, cuando su esposa o concubina tenga un parto;
+II.- Disfrutarán de licencia de paternidad, hasta por treinta días, con goce de sueldo, cuando su esposa o concubina tenga un parto;
 
-III.- Disfrutarán de hasta dos de las semanas de descanso a las que su esposa o concubina tuviera derecho cuando ella expresamente se lo concediera, conforme a lo previsto en la fracción III del artículo 24 de la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-Del mismo derecho y en los mismos términos gozarán tratándose de paternidad por adopción; y,
+III.- Del mismo derecho y en los mismos términos de la fracción anterior, gozarán tratándose de paternidad por adopción; y
 
 IV.- Los descansos aludidos en este artículo se considerarán como parte de su antigüedad y durante los mismos, gozarán del salario íntegro sin que pueda verse afectado en su perjuicio, ningún otro derecho o condición laboral.
 
@@ -413,11 +419,15 @@ Sólo podrán hacerse descuentos, retenciones o deducciones al salario, en los s
 
 I.- Por impuestos o gravámenes legales establecidos;
 
-II.- Por pagos de deudas al Estado, o entidades Paraestatales, ya sean por deudas contraídas con anticipo de salarios, pagos hechos con exceso al trabajador, errores, pérdidas, averías o adquisición de artículos. La cantidad exigible en ningún caso podrá ser mayor del treinta por ciento del excedente del salario mínimo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+II.- Por pagos de deudas al Estado, o entidades paraestatales, ya sean por deudas contraídas con anticipo de salarios, pagos hechos con exceso a la trabajadora o trabajador, errores, pérdidas, averías o adquisición de artículos. La cantidad exigible en ningún caso podrá ser mayor del treinta por ciento del excedente del salario mínimo;
 
 III.- Por cuotas sindicales ordinarias;
 
-IV.- Por cuotas y pagos a los institutos de seguridad social en los términos de las Leyes y Convenios relativos, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+IV. Por cuotas y pagos a los institutos de seguridad social en los términos de las leyes y convenios relativos. El patrón está obligado a enterar el monto retenido al Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, la omisión de retener, así como de enterar el monto, será una falta administrativa grave en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, y
 
 V.- Por concepto de pago de alimentos ordenados por la autoridad judicial.
 
@@ -461,7 +471,13 @@ II.- Tener acceso a disfrutar al igual que sus familiares, de los beneficios de 
 
 III.- Disfrutar de licencias o permisos para desempeñar una comisión accidental o permanente del Estado, de carácter sindical o por motivos particulares, siempre que se soliciten con la anticipación debida y que el número de trabajadores no sea tal que perjudique la buena marcha de la dependencia o entidad.
 
-Estas licencias o permisos podrán ser con goce o sin goce de sueldo, sin menoscabo de sus derechos y antigüedad y, se otorgarán en los términos previstos en las Condiciones Generales de Trabajo que se expidan conforme a la presente Ley, y
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+Cuando se trate de responsabilidad familiar para asistir a su progenitor en calidad de adulto mayor, deberá presentar constancia que acredite su situación de adulto mayor, el padecimiento de alguna enfermedad o discapacidad física, psicológica o sensorial que le impida valerse por sí misma. La licencia será hasta por cinco días cada mes, no mayor a tres años, y cuando sea para asistir a consulta médica el día indicado en el citatorio emitido por institución de salud.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+Estas licencias o permisos podrán ser con goce o sin goce de sueldo, sin menoscabo de sus derechos y antigüedad y, se otorgarán en los términos previstos en las Condiciones Generales de Trabajo que se expidan conforme a la presente Ley, así como en las constancias expedidas por algún Instituto de Seguridad Social.
 
 IV.- Asociarse para la defensa de sus intereses, y los demás derivados de esta Ley;
 
@@ -524,6 +540,20 @@ X.- Otorgar permiso con goce de sueldo al trabajador o trabajadora por un plazo 
 El trabajador o trabajadora deberá comprobar la donación de sangre con constancia de una institución de salud, hospital, clínica o banco de sangre, con domicilio en el Estado de Guerrero, bajo ninguna circunstancia le producirá pérdida o disminución de sueldos, salarios o permisos por este concepto o causa.
 
 En el caso de que el trabajador haya realizado una donación de sangre en forma altruista, en horario fuera de su jornada laboral, previa comprobación oficial de ello, tendrá derecho a licencia de un día de descanso, con goce de salario.
+
+> <small>(ADICIONADA [N. DE E. CON SUS PÁRRAFOS], P.O. 27 DE FEBRERO DE 2024)</small>
+
+XI.- Las trabajadoras y los trabajadores, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a un día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía o papanocolau (sic) y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, en las instituciones de salud públicas o privadas que corresponda.
+
+En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
+
+El tiempo para realizar los exámenes, señalados en el párrafo anterior, será complementado, en su caso, con el tiempo suficiente para los traslados hacia y desde la institución médica, considerando las condiciones geográficas, de transporte y la disponibilidad de equipamiento médico necesario.
+
+Para el ejercicio de este derecho, los trabajadores deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes suficientes que acrediten que se los realizaron en la fecha estipulada.
+
+> <small>[N. DE E. EL PRESENTE PÁRRAFO PERTENECE A LA FRACCIÓN XI, P.O. 27 DE FEBRERO DE 2024]</small>
+
+El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
 
 ###### ARTICULO 43.
 
@@ -797,7 +827,7 @@ ARTICULO 68 A.- Cuando con motivo de un Convenio o Acuerdo de Coordinación se t
 
 ###### ARTICULO 69.
 
-Admitido un miembro en el sindicato, no podrá dejar de formar parte de él, salvo que fuere expulsado, sin que el Estado admita en ningún caso la cláusula de exclusión.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2024)
 
 ###### ARTICULO 70.
 
@@ -1424,3 +1454,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase éste decreto al Gobernador Constitucional del Estado libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado y en la página WEB del Honorable Congreso del Estado, en las redes sociales y difúndase a través de los medios de comunicación.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 706 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO; Y A LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248”.]
+
+PRIMERO. El presente Dictamen de reformas, adiciones y derogaciones surtirá sus efectos a los quince días naturales de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La reforma a las fracciones II y III del artículo 24 Bis de la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248, será de manera gradual, conforme a la siguiente tabla:
+
+DÍAS NATURALES AÑOS DE APLICABILIDAD
+
+QUINCE 2024
+
+VEINTE 2026
+
+VEINTICINCO 2028
+
+TREINTA 2030
+
+TERCERO. Remítase a la Titular del Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general y efectos conducentes.
+
+CUARTO. Publíquese en la página web del Congreso General, para su conocimiento general y efectos conducentes.
