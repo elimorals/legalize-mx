@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-proteccion-de-personas-defensoras-de-derechos-13062
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-14"
-last_updated: "2023-10-20"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en la Décima Sección al Número 54 del Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, el martes 14 de agosto de 2018.
 
@@ -72,6 +72,10 @@ VII. Medidas de Protección Extraordinaria: Conjunto de acciones y medios para r
 VIII. Persona Peticionaria: Persona que solicita Medidas de Prevención o de Protección Extraordinaria ante el Mecanismo;
 
 IX. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen;
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+De la misma manera, esta ley reconoce como periodistas, a todas aquellas personas que aún sin título profesional en la materia, ejercen la labor de informar, analizar, transmitir, comentar, publicar, difundir, en medios digitales, impresos y de imagen, en el territorio del Estado;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
@@ -147,7 +151,9 @@ III. Gestionar a través de la Unidad, el acceso de los periodistas y comunicado
 
 IV. Promover a través de la Unidad el acceso de los periodistas y Comunicadores a los programas municipales, estatales y federales para la otorgación de créditos para el financiamiento al sector periodístico y garantizar su viabilidad empresarial, bajo las reglas de operación de las instituciones del ramo; así como la integración a actividades sociales, culturales deportivas y recreativas;
 
-V. Revisar y aprobar el Plan Anual de trabajo elaborado por la Unidad;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+V. Revisar y aprobar el Plan Anual de Trabajo elaborado por la Unidad, mismo que deberá enviar al Congreso del Estado para su conocimiento;
 
 VI. Resolver las inconformidades a que se refiere esta Ley;
 
@@ -227,7 +233,9 @@ I. Un Coordinador; y,
 
 II. Un Grupo Operativo.
 
-Un funcionario de la Secretaría de Gobierno, con rango inmediato inferior a Subsecretario o equivalente, fungirá como Coordinador Ejecutivo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+El Secretario de Gobierno fungirá como Coordinador Ejecutivo.
 
 ###### Artículo 17.
 
@@ -321,6 +329,12 @@ IV. Los bienes de la persona, el grupo, organización, o movimiento social; y,
 
 V. Las demás personas que se determine en la evaluación de riesgo.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+Las solicitudes de protección podrán realizarse de manera presencial, escrita o digital, por medios electrónicos, en las plataformas y micro sitios que para tal efecto construya la Fiscalía General del Estado y la Secretaría de Seguridad Pública del Estado de Michoacán de Ocampo, así como la Comisión Estatal de Derechos Humanos. En todo momento se protegerá la integridad física y los datos personales, así como la identidad del solicitante.
+
 ###### Artículo 22.
 
 La Unidad recibirá las solicitudes de incorporación, verificará que cumplan con los requisitos previstos en esta Ley, y en su caso, determinará el tipo de procedimiento. Solamente dará trámite a las solicitudes que cuenten con el consentimiento del potencial beneficiario, salvo que éste se encuentre impedido por causa grave. Una vez que desaparezca el impedimento, el beneficiario deberá otorgar su consentimiento.
@@ -351,6 +365,18 @@ III. Solicitar al Mecanismo Federal simultáneamente a la emisión de las Medida
 
 Las Medidas de Protección Extraordinarias permanecerán activas hasta que el Mecanismo Federal pueda acoger a la persona en su protección.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+###### Artículo 24 Bis.
+
+De presentarse amenazas contra su integridad física, patrimonial, psicológica, emocional, extorción económica; o bien, cuando se cumpla con alguna de las amenazas antes referidas, en este caso, el Estado de manera inmediata aplicará las Medidas Preventivas y de Protección Extraordinarias dispuestas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+###### Artículo 24 Ter.
+
+La Unidad elaborará un padrón actualizado y vigente como medida de protección de los Periodistas y las Personas Defensoras de Derechos Humanos en el Estado, quienes tendrán la opción de decidir si forman parte o no de este padrón.
+
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 25.
@@ -367,9 +393,13 @@ Dichas medidas se analizarán, determinarán, implementarán y evaluarán de com
 
 Las Medidas de Protección Extraordinarias incluyen:
 
-I. Acompañamiento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-II. Protección de inmuebles;
+I. Acompañamiento y alimentación de la persona peticionaria y su familia, así como apoyo económico;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+II. Protección de inmueble o en su caso, reubicación domiciliaria o de residencia;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
@@ -394,6 +424,10 @@ f) Seguridad y Protección: Se garantizará la integridad física con las medida
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 V. Las demás que se requieran para salvaguardar la vida, integridad y libertad de los beneficiarios.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+Para los efectos de lo mandatado en este artículo, el Sistema Estatal deberá coordinarse para su implementación con la Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 ###### Artículo 28.
 
@@ -600,3 +634,23 @@ P.O. 20 DE OCTUBRE DE 2023.
 PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 568 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 2; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 8; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 16; SE ADICIONAN LOS ARTÍCULOS 21 BIS, 24 BIS Y 24 TER; SE REFORMAN LAS FRACCIONES I Y II, Y, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 27, TODOS DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán coordinarse a efecto del cumplimiento de lo mandatado en el presente Decreto, así como establecer en sus presupuestos de egresos del siguiente ejercicio fiscal los recursos necesarios para su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades responsables de la aplicación de lo mandatado en el presente Decreto, deberán de reformar sus reglamentos y manuales de operación, para adecuarlos a lo mandatado en el presente Decreto en un máximo de 180 días naturales a su entrada en vigor.
