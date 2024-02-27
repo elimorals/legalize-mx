@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-anticorrupcion-del-estado-de-puebla-120383"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2022-12-22"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en la Trigésima Tercera Sección al Número 19 del Periódico Oficial del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -101,7 +101,9 @@ X. Órganos internos de control: Órganos internos de control en los entes públ
 
 XI. Secretaría Ejecutiva: Organismo que funge como órgano de apoyo técnico del Comité Coordinador Estatal;
 
-XII. Secretario Técnico: Servidor público a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confieren la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+XII. Secretaría Técnica: La persona servidora pública a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confieren la presente Ley;
 
 XIII. Servidores públicos: Cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos o 124 de la Constitución Política del Estado Libre y Soberano de Puebla;
 
@@ -131,9 +133,11 @@ El Sistema Estatal tiene por objeto establecer principios, bases generales, pol�
 
 Las políticas públicas establecidas por el Comité Coordinador del Sistema Nacional Anticorrupción y el Comité Coordinador del Sistema Estatal Anticorrupción son obligatorias y deberán ser implementadas por todos los entes públicos a los que se hace referencia en la presente Ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-El sistema estatal podrá denunciar o dar aviso, según corresponda al ministerio publico competente, respecto de posibles bienes que podrían ser sujetos al procedimiento de extinción de dominio.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+La Secretaría Ejecutiva dará seguimiento en el Estado, a la implementación de dichas políticas.
 
 ###### ARTÍCULO 7.
 
@@ -189,39 +193,63 @@ XVI. Promover el establecimiento de lineamientos y convenios de cooperación ent
 
 XVII. Disponer las medidas necesarias para que las autoridades competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, accedan a la información necesaria para el ejercicio de sus atribuciones, contenida en los sistemas que se conecten con la Plataforma Digital Estatal;
 
-XVIII. Participar, conforme a las leyes de la materia, en los mecanismos de cooperación internacional para el combate a la corrupción, a fin de conocer y compartir las mejores prácticas internacionales, para colaborar en el combate global del fenómeno; y, en su caso, compartir a la comunidad internacional las experiencias relativas a los mecanismos de evaluación de las políticas anticorrupción; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-XIX. Las señaladas por esta Ley y las demás aplicables en la materia.
+XVIII. Participar, conforme a las leyes de la materia, en los mecanismos de cooperación internacional para el combate a la corrupción, a fin de conocer y compartir las mejores prácticas internacionales, para colaborar en el combate global del fenómeno; y, en su caso, compartir a la comunidad internacional las experiencias relativas a los mecanismos de evaluación de las políticas anticorrupción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2024)</small>
+
+XIX. Promover la difusión de las consecuencias por las acciones y omisiones administrativas y penales de las y los servidores públicos y particulares por hechos de corrupción;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+XX. Implementar programas de capacitación para las personas servidoras públicas en prevención y combate a la corrupción; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 27 DE FEBRERO DE 2024)</small>
+
+XXI. Las señaladas por esta Ley y las demás aplicables en la materia.
 
 ###### ARTÍCULO 10.
 
 Son integrantes del Comité Coordinador Estatal:
 
-I. Un representante del Comité Estatal de Participación Ciudadana, quien lo presidirá;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-II. El titular de la Auditoría Superior del Estado de Puebla;
+I. Una persona representante del Comité Estatal de Participación Ciudadana, quien lo presidirá;
 
-III. El titular de la Fiscalía Especializada de Combate a la Corrupción del Estado de Puebla;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+II. La persona titular de la Auditoría Superior del Estado de Puebla;
 
-IV. El Titular de la Secretaría de la Función Pública;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-V. Un representante del Consejo de la Judicatura;
+III. La persona titular de la Fiscalía Especializada de Combate a la Corrupción del Estado de Puebla;
 
-VI. El Presidente del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-> <small>(REFORMADA, P.O.11 DE FEBRERO DE 2022)</small>
+IV. La Persona Titular de la Secretaría de la Función Pública;
 
-VII. El Presidente de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+V. Una persona representante del Consejo de la Judicatura del Poder Judicial del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+VI. La persona que presida el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+VII. La persona que presida la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Poder Judicial del Estado de Puebla.
 
 ###### ARTÍCULO 11.
 
 Para el adecuado funcionamiento del Sistema Estatal, la presidencia del Comité Coordinador Estatal durará un año, la cual será rotativa entre los miembros del Comité Estatal de Participación Ciudadana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-Son atribuciones del Presidente del Comité Coordinador Estatal:
+Son atribuciones de la persona Titular o Encargada de la Presidencia del Comité Coordinador Estatal:
 
 I. Presidir las sesiones del Sistema Estatal y del Comité Coordinador Estatal correspondientes;
 
@@ -233,7 +261,9 @@ IV. Dar seguimiento a los acuerdos del Comité Coordinador Estatal, a través de
 
 V. Presidir el órgano de gobierno de la Secretaría Ejecutiva;
 
-VI. Proponer al órgano de gobierno de la Secretaría Ejecutiva, el nombramiento del Secretario Técnico;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+VI. Proponer al órgano de gobierno de la Secretaría Ejecutiva, el nombramiento de la persona Titular o Encargada de la Secretaría Técnica;
 
 VII. Informar a los integrantes del Comité Coordinador Estatal sobre el seguimiento de los acuerdos y recomendaciones adoptadas en las sesiones;
 
@@ -243,33 +273,35 @@ IX. Presentar para su aprobación las recomendaciones en materia de combate a la
 
 X. Aquellas que prevean las reglas de funcionamiento y organización interna del Comité Coordinador o el Comité Coordinador Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador Estatal o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
+El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses. La Persona Titular o Encargada de la Secretaría Técnica podrá convocar a sesión extraordinaria o a petición de la persona que presida el Comité Coordinador Estatal o previa solicitud formulada por la mayoría de las y los integrantes de dicho Comité.
 
 Para que el Comité Coordinador Estatal pueda sesionar es necesario que esté presente la mayoría de sus integrantes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-Para el desahogo de sus reuniones, el Comité Coordinador Estatal invitara a los demás integrantes del Comité Estatal de Participación Ciudadana con derecho a voz; también podrán invitar a los representantes del Sistema Nacional, los Sistemas Locales y los Órganos internos de control de los organismos con autonomía reconocida en la Constitución Política del Estado Libre y Soberano de Puebla, otros entes públicos, así como organizaciones de la sociedad civil.
+Para el desahogo de sus reuniones, el Comité Coordinador Estatal podrá invitar a los demás integrantes del Comité Estatal de Participación Ciudadana con derecho a voz; también podrán invitar a los representantes del Sistema Nacional, los Sistemas Locales y los Órganos internos de control de los organismos con autonomía reconocida en la Constitución Política del Estado Libre y Soberano de Puebla, otros entes públicos, así como organizaciones de la sociedad civil.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-El Comité Coordinador Estatal por acuerdo de la mayoría de sus integrantes, podrá celebrar sesiones ordinarias y extraordinarias a distancia mediante el uso de herramientas tecnológicas ante un (sic) circunstancia o situación inevitable o impredecible que esté debidamente justificada y que impida la presencia de la mayoría de sus integrantes conforme a las formalidades que al tenor previsto en la normativa de las sesiones de carácter presencial.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 El Sistema Estatal sesionará previa convocatoria del Comité Coordinador Estatal en los términos en que este último lo determine.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-Las sesiones deberán difundirse haciendo uso de las tecnologías de la información y comunicación con las que se disponga para dicho fin.
+Las sesiones del Comité Coordinador Estatal, se realizarán conforme a sus lineamientos y/o las determinaciones de sus integrantes y se difundirán haciendo uso de las tecnologías de la información y comunicación con las que se disponga para dicho fin.
 
 ###### ARTÍCULO 14.
 
 Las determinaciones se tomarán por mayoría de votos, salvo en los casos que esta Ley establezca mayoría calificada.
 
-El Presidente del Comité Coordinador Estatal tendrá voto de calidad en caso de empate. Los miembros de este Comité podrán emitir voto particular de los asuntos que se aprueben en el seno del mismo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+La persona Titular o encargada de la presidencia del Comité Coordinador Estatal tendrá voto de calidad en caso de empate. Los miembros de este Comité podrán emitir voto particular de los asuntos que se aprueben en el seno del mismo.
 
 ### CAPÍTULO III. DEL COMITÉ ESTATAL DE PARTICIPACIÓN CIUDADANA
 
@@ -277,9 +309,11 @@ El Presidente del Comité Coordinador Estatal tendrá voto de calidad en caso de
 
 El Comité Estatal de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador Estatal, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-El Comité Estatal de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
+El Comité Estatal de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado titular o persona encargada de la Secretaría Técnica.
 
 Los integrantes del Comité Estatal de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité Estatal de Participación Ciudadana y a la Comisión Ejecutiva.
 
@@ -395,9 +429,11 @@ XVII. Dar seguimiento al funcionamiento del Sistema Estatal; y
 
 XVIII. Proponer al Comité Coordinador Estatal mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-El Presidente del Comité Estatal de Participación Ciudadana tendrá como atribuciones:
+La persona Titular o encargada de la presidencia del Comité Estatal de Participación Ciudadana tendrá como atribuciones:
 
 I. Presidir las sesiones;
 
@@ -423,9 +459,7 @@ La Secretaría Ejecutiva del Sistema Estatal es un organismo descentralizado, no
 
 La Secretaría Ejecutiva tiene por objeto fungir como órgano de apoyo técnico del Comité Coordinador Estatal, a efecto de proveerle la asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones, conforme a lo dispuesto por la presente Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
-
-Asimismo, auxiliara al Comité Estatal de Participación Ciudadana para el cumplimiento de las funciones, que así requiera, conforme a lo dispuesto en la siguiente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
@@ -459,9 +493,11 @@ V. Transparencia y acceso a la información pública, conforme a la Ley de la ma
 
 La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Puebla, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-El órgano de gobierno estará integrado por los miembros del Comité Coordinador Estatal y será presidido por el Presidente del Comité Estatal de Participación Ciudadana.
+El órgano de gobierno estará integrado por los miembros del Comité Coordinador Estatal y será presidido por la persona Titular o encargada de la presidencia del Comité Estatal de Participación Ciudadana.
 
 El órgano de gobierno celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia. Las sesiones serán convocadas por su Presidente o a propuesta de cuatro integrantes de dicho órgano.
 
@@ -475,7 +511,9 @@ El órgano de gobierno, además de las atribuciones indelegables previstas en el
 
 I. Expedir el Estatuto Orgánico en el que se establezcan las bases de organización, así como las facultades y funciones que correspondan a las distintas áreas que integren la Secretaría Ejecutiva; y
 
-II. Nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, de conformidad con lo establecido por esta Ley.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+II. Nombrar y remover, por mayoría calificada de cinco votos, a la persona Titular o encargada de la Secretaría Técnica, de conformidad con lo establecido por esta Ley.
 
 #### SECCIÓN II. DE LA COMISIÓN EJECUTIVA
 
@@ -483,9 +521,13 @@ II. Nombrar y remover, por mayoría calificada de cinco votos, al Secretario Té
 
 La Comisión Ejecutiva estará integrada por:
 
-I. El Secretario Técnico; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-II. El Comité Estatal de Participación Ciudadana, con excepción del miembro que funja en ese momento como Presidente del mismo.
+I. La persona Titular o encargada de la Secretaría Técnica; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+II. El Comité Estatal de Participación Ciudadana, con excepción del miembro que en ese momento presida el mismo.
 
 ###### ARTÍCULO 31.
 
@@ -495,7 +537,9 @@ I. Las políticas integrales en materia de prevención, control y disuasión de 
 
 II. La metodología para medir y dar seguimiento, con base en indicadores aceptados y confiables, a los fenómenos de corrupción, así como a las políticas integrales a que se refiere la fracción anterior, conforme a las disposiciones legales aplicables;
 
-III. Los informes de las evaluaciones que someta a su consideración el Secretario Técnico respecto de las políticas a que se refiere este artículo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+III. Los informes de las evaluaciones que someta a su consideración la persona Titular o encargada de la Secretaría Técnica respecto de las políticas a que se refiere este artículo;
 
 IV. Los mecanismos de suministro, intercambio, sistematización y actualización de la información en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción;
 
@@ -505,25 +549,39 @@ VI. El informe anual que contenga los avances y resultados del ejercicio de las 
 
 VII. Las recomendaciones no vinculantes que serán dirigidas a las autoridades que se requieran, en virtud de los resultados advertidos en el informe anual, así como el informe de seguimiento que contenga los resultados sistematizados de la atención dada por las autoridades a dichas recomendaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-La Comisión Ejecutiva celebrará sesiones ordinarias y extraordinarias que serán convocadas por el Secretario Técnico, en los términos que establezca el Estatuto Orgánico de la Secretaría Ejecutiva.
+La Comisión Ejecutiva celebrará sesiones ordinarias y extraordinarias que serán convocadas por la persona Titular o encargada de la Secretaría Técnica, en los términos que establezca el Estatuto Orgánico de la Secretaría Ejecutiva.
 
-La Comisión Ejecutiva podrá invitar a sus sesiones a especialistas en los temas a tratar, los cuales contarán con voz pero sin voto, mismos que serán citados por el Secretario Técnico.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+La Comisión Ejecutiva podrá invitar a sus sesiones a especialistas en los temas a tratar, los cuales contarán con voz pero sin voto, mismos que serán citados por la persona Titular o encargada de la Secretaría Técnica.
 
 Por las labores que realicen como miembros de la Comisión Ejecutiva, los integrantes del Comité Estatal de Participación Ciudadana no recibirán contraprestación adicional a la que se les otorgue por su participación como integrantes del Comité Estatal de Participación Ciudadana, de conformidad con lo establecido en esta Ley.
 
-La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador Estatal, a través del Secretario Técnico.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-#### SECCIÓN III. DEL SECRETARIO TÉCNICO
+La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador Estatal, a través de la persona Titular o encargada de la Secretaría Técnica.
+
+> <small>(REFORMADA SU DENOMINACIÓN , P.O. 27 DE FEBRERO DE 2024)</small>
+
+#### SECCIÓN III. DE LA SECRETARÍA TÉCNICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-El Secretario Técnico será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, por el voto favorable de cinco de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido.
+La persona Titular o encargada de la Secretaría Técnica será nombrada y removida por el órgano de gobierno de la Secretaría Ejecutiva, por el voto favorable de cinco de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido.
 
-Para efectos del párrafo anterior, el Presidente del órgano de gobierno, previa aprobación del Comité Estatal de Participación Ciudadana, someterá al mismo una terna de personas que cumplan los requisitos para ser designado Secretario Técnico, de conformidad con la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-El Secretario Técnico podrá ser removido por falta a su deber de diligencia, o bien por causa plenamente justificada a juicio del órgano de gobierno y por acuerdo obtenido por la votación señalada en el presente artículo; o bien, en los siguientes casos:
+Para efectos del párrafo anterior, la persona que presida el órgano de gobierno, previa aprobación del Comité Estatal de Participación Ciudadana, someterá al mismo una terna de personas que cumplan los requisitos para ser designado como Titular o persona encargada de la Secretaría Técnica, de conformidad con la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2024)</small>
+
+La persona Titular o encargada de la Secretaría Técnica podrá ser removida por falta a su deber de diligencia, o bien por causa plenamente justificada a juicio del órgano de gobierno y por acuerdo obtenido por la votación señalada en el presente artículo; o bien, en los siguientes casos:
 
 1. Utilizar en beneficio propio o de terceros la documentación e información confidencial relacionada con las atribuciones que le corresponden en términos de la presente Ley y de la legislación en la materia.
 
@@ -531,9 +589,11 @@ El Secretario Técnico podrá ser removido por falta a su deber de diligencia, o
 
 3. Incurrir en alguna falta administrativa grave o hecho de corrupción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-Para ser designado Secretario Técnico se deberán reunir los requisitos siguientes:
+Para ser designado como la persona Titular o encargada de la Secretaría Técnica se deberán reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles;
 
@@ -555,11 +615,15 @@ IX. No haber sido miembro, adherente o afiliado a algún partido político, dura
 
 X. No ser titular de una dependencia o entidad del Estado, Fiscal General del Estado, subsecretario, oficial mayor o equivalente en la Administración Pública Estatal, Gobernador, secretario de Gobierno, Consejero de la Judicatura a menos que se haya separado de su cargo un año antes del día de su designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 35.
 
-Corresponde al Secretario Técnico ejercer la dirección de la Secretaría Ejecutiva, por lo que contará con las facultades previstas en el artículo 53 de la Ley de Entidades Paraestatales del Estado de Puebla.
+Corresponde a la persona Titular o encargada de la Secretaría Técnica ejercer la dirección de la Secretaría Ejecutiva, por lo que contará con las facultades previstas en el artículo 53 de la Ley de Entidades Paraestatales del Estado de Puebla.
 
-El Secretario Técnico adicionalmente tendrá las funciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2024)</small>
+
+La persona Titular o encargada de la Secretaría Técnica adicionalmente tendrá las funciones siguientes:
 
 I. Actuar como Secretario del Comité Coordinador Estatal y del órgano de gobierno;
 
@@ -777,13 +841,17 @@ La Plataforma a la que hace referencia el artículo 38 fracción I, constituirá
 
 ### CAPÍTULO ÚNICO. DE LAS RECOMENDACIONES
 
-###### ARTÍCULO 57.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-El Secretario Técnico solicitará a los miembros del Comité Coordinador Estatal toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir este Comité, incluidos los proyectos de recomendaciones. Asimismo, solicitará a las entidades de fiscalización superior y los órganos internos de control de los entes públicos que presenten un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe. Los informes serán integrados al informe anual del Comité Coordinador Estatal como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante el Comité Coordinador Estatal.
+###### Artículo 57.
+
+La persona Titular o Encargada de la Secretaría Técnica solicitará a los miembros del Comité Coordinador Estatal toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir este Comité, incluidos los proyectos de recomendaciones. Asimismo, solicitará a las entidades de fiscalización superior y los órganos internos de control de los entes públicos proporcionen un informe detallado que contenga el número de procedimientos instaurados a la fecha de inicio del periodo del informe correspondiente; así como el número de procedimientos que culminaron con una sanción firme y en su caso a cuánto ascienden las indemnizaciones efectivamente cobradas durante el periodo del informe. Los informes proporcionados serán integrados al informe anual del Comité Coordinador Estatal como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante el Comité Coordinador Estatal.
 
 El informe anual a que se refiere el párrafo anterior deberá ser aprobado como máximo treinta días previos a que culmine el periodo anual de la presidencia.
 
-En los casos en los que del informe anual se desprendan recomendaciones, el Presidente del Comité Coordinador Estatal instruirá al Secretario Técnico para que, a más tardar a los quince días posteriores a que haya sido aprobado el informe, las haga del conocimiento de las autoridades a las que se dirigen. En un plazo no mayor de treinta días, dichas autoridades podrán solicitar las aclaraciones y precisiones que estimen pertinentes en relación con el contenido de las recomendaciones.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+En los casos en los que del informe anual se desprendan recomendaciones, la persona que presida el Comité Coordinador Estatal instruirá a la persona Titular o encargada de la Secretaría Técnica para que, a más tardar a los quince días posteriores a que haya sido aprobado el informe, las haga del conocimiento de las autoridades a las que se dirigen. En un plazo no mayor de treinta días, dichas autoridades podrán solicitar las aclaraciones y precisiones que estimen pertinentes en relación con el contenido de las recomendaciones.
 
 ###### ARTÍCULO 58.
 
@@ -801,11 +869,11 @@ Toda la información relacionada con la emisión, aceptación, rechazo, cumplimi
 
 En caso que el Comité Coordinador Estatal considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-En (sic) el Comité Estatal de Participación Ciudadana tendrá una vinculación permanente con las instancias competentes a efecto de dar seguimiento a las peticiones que realicen los ciudadanos, conforme a lo dispuesto en la normatividad aplicable y a los acuerdos del Comité Coordinador Estatal.
+El Comité Estatal de Participación Ciudadana tendrá vinculación con las instancias competentes a efecto de dar seguimiento a las peticiones que realicen los ciudadanos, conforme a lo dispuesto en la normatividad aplicable y a los acuerdos del Comité Coordinador Estatal.
 
 ## TRANSITORIOS
 
@@ -890,3 +958,11 @@ PRIMERO. El presente Decreto entrara en vigor al siguiente día de su publicaci�
 SEGUNDO. Los integrantes del Comité Coordinador Estatal deberá (sic) designar en un término de 30 días hábiles a los enlaces que auxiliaran para la recepción de quejas y denuncias, contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
