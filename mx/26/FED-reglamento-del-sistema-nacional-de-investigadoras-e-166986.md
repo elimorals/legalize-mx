@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadoras-e-166986"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-07-11"
-last_updated: "2023-07-11"
+last_updated: "2024-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166986&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-06-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 11 de julio de 2023.
 
@@ -397,7 +397,9 @@ c) Haber participado activamente en el desarrollo institucional y demostrar una 
 
 V. Para obtener el reconocimiento como Investigadora o Investigador Nacional Emérito la o el solicitante deberá demostrar el cumplimiento de los siguientes requisitos:
 
-a) Cumplir 65 años o más en el año de la convocatoria;
+> <small>(REFORMADO, D.O.F. 27 DE FEBRERO DE 2024)</small>
+
+a) Tener la edad de 65 años o más al momento de recibir el reconocimiento;
 
 b) Contar con el reconocimiento de Investigadora o Investigador Nacional Nivel 3 con anterioridad al cierre de la convocatoria para Investigadora o Investigador Nacional Emérito, y
 
@@ -471,9 +473,19 @@ VIII. Las resoluciones del Consejo General serán definitivas e inapelables, por
 
 ### Capítulo VI. De la Vigencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 24.
 
-Los reconocimientos que confiere el Consejo Nacional a través del SNII entrarán en vigor a partir del primero de enero del año que corresponda en términos de la convocatoria y tendrán la duración ordinaria siguiente:
+Los reconocimientos que confiere el Consejo Nacional a través del SNII entrarán en vigor a partir del primero de enero del año que corresponda en términos de la convocatoria.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2024)</small>
+
+En el caso del reconocimiento de Investigadora o Investigador Nacional Emérito éste entrará en vigor a partir del primero de enero si para ese momento la persona investigadora tiene al menos 65 años de edad, pero si los cumple durante el año, el reconocimiento entrará en vigor hasta ese momento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE FEBRERO DE 2024)</small>
+
+Los reconocimientos tendrán la duración ordinaria siguiente:
 
 I. Candidata o Candidato a Investigadora o Investigador Nacional: cuatro años. Sólo podrá obtenerse esta categoría por una ocasión;
 
@@ -599,9 +611,11 @@ Las Investigadoras o Investigadores Nacionales nivel 3 y las Investigadoras o In
 
 Son obligaciones de las personas investigadoras:
 
-I. Realizar actividades en materia de humanidades, ciencias, tecnologías e innovación en universidades, instituciones de educación superior o centros de investigación en el sector público en México;
+> <small>(REFORMADA, D.O.F. 27 DE FEBRERO DE 2024)</small>
 
-Participar y colaborar en otros programas del Consejo Nacional; en cuerpos colegiados responsables de llevar a cabo evaluaciones académicas o técnicas de programas y proyectos, particularmente en el marco de las actividades del Consejo Nacional; en cuerpos editoriales; en la vinculación de las humanidades, las ciencias, las tecnologías y la innovación; en el desarrollo de la institución en que presta sus servicios, y en la creación, actualización y fortalecimiento de planes y programas de estudio.
+I. Realizar actividades en materia de humanidades, ciencias, tecnologías e innovación en universidades, instituciones de educación superior o centros de investigación en el sector público en México.
+
+Participar y colaborar en otros programas del Consejo Nacional; en cuerpos colegiados responsables de llevar a cabo evaluaciones académicas o técnicas de programas y proyectos, particularmente en el marco de las actividades del Consejo Nacional; en cuerpos editoriales; en la vinculación de las humanidades, las ciencias, las tecnologías y la innovación; en el desarrollo de la institución en que presta sus servicios, y en la creación, actualización y fortalecimiento de planes y programas de estudio;
 
 II. Suscribir un convenio individual con el Consejo Nacional, en donde se estipulen los términos y condiciones para el otorgamiento del apoyo económico, sujeto a disponibilidad presupuestaria;
 
@@ -648,3 +662,13 @@ TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del pre
 Atentamente
 
 Dado en la Ciudad de México, a los siete días del mes de junio de dos mil veintitrés.- Directora General del Consejo Nacional de Humanidades, Ciencias y Tecnologías, Dra. María Elena Álvarez-Buylla Roces.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
