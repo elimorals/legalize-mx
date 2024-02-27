@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2023-10-12"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -951,11 +951,17 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la mujer en la prevención y atención oportuna a sus riesgos y padecimientos;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente; y
+II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente;
 
-III.- Acciones para la prevención y control de las enfermedades evitables por vacunación, enfermedades diarreicas, infecciones respiratorias agudas, accidentes y otras enfermedades prioritarias de los menores de cinco años.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+III.- Acciones para la prevención y control de las enfermedades evitables por vacunación, enfermedades diarreicas, infecciones respiratorias agudas, accidentes y otras enfermedades prioritarias de los menores de cinco años; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+IV.- Acciones para promover y fomentar la donación de leche materna para aquellos infantes que no puedan recibir leche de sus propias madres.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3958,3 +3964,11 @@ P.O. 12 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-820 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
