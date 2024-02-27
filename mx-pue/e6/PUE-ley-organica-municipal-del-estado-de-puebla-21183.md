@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2023-12-05"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1289,6 +1289,10 @@ V.- Inducir y organizar la participación de los ciudadanos en la promoción del
 
 VI.- Aprobar y mandar al Ejecutivo, para su publicación en los términos legales, el Plan Municipal de Desarrollo que corresponda a su ejercicio constitucional y derivar los programas de dirección y ejecución en las acciones que sean de su competencia, impulsando la participación ciudadana y coadyuvando a la realización de programas regionales de desarrollo;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+VI Bis.- Impulsar el desarrollo de las comunidades y demás centros de población;
+
 VII.- Instituir los órganos de planeación y determinar los mecanismos para su funcionamiento, estableciendo sistemas continuos de control y evaluación del Plan Municipal de Desarrollo; asimismo, dictar los acuerdos que correspondan para cumplir con los objetivos, estrategias y líneas de acción derivados de los Planes Regional, Estatal y Nacional de Desarrollo, en lo correspondiente al Municipio;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
@@ -2239,7 +2243,9 @@ Las personas integrantes del Comité de Planeación para el Desarrollo Municipal
 
 El Comité de Planeación para el Desarrollo Municipal tendrá las siguientes atribuciones:
 
-I. Promover la participación de la sociedad en el proceso de planeación del desarrollo municipal;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+I. Impulsar la participación social, en el proceso de planeación del desarrollo municipal;
 
 II. Apoyar en la elaboración, actualización, instrumentación y seguimiento del Plan Municipal de Desarrollo y los Programas que de él se deriven, asegurando su congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y los Programas que de él deriven;
 
@@ -3689,6 +3695,10 @@ Las Juntas Auxiliares, además de las facultades contempladas en la presente Ley
 
 I.- Remitir al Ayuntamiento, con la oportunidad debida para su revisión y aprobación, el proyecto de presupuesto de gastos del año siguiente;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+I Bis.- Remitir al Ayuntamiento, las propuestas que estimen conducentes para su incorporación en el proceso de planeación municipal;
+
 II.- Ayudar al Ayuntamiento en el desempeño de las funciones que le encomiende;
 
 III.- Dar las facilidades y coadyuvar en su caso con el Ayuntamiento para que este procure la seguridad y el orden público del pueblo;
@@ -4588,6 +4598,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 78, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 88 BIS DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 117, ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 78 Y LA FRACCIÓN I BIS AL ARTÍCULO 230 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
