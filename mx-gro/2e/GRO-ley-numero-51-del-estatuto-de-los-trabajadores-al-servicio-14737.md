@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2021-10-01"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -263,9 +263,11 @@ Cuando un trabajador no pudiere hace (sic) uso de las vacaciones en los período
 
 Durante las horas de jornada legal, los trabajadores al servicio del Estado, podrán desarrollar las actividades sociales y culturales que fueren compatibles con sus aptitudes, edad y condiciones de salud; pero sin menoscabo de la función específica que tengan asignada.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-ARTICULO 25 bis.- Los trabajadores, podrán percibir licencia de cinco días hábiles con goce de sueldo, por el fallecimiento de padres, hijos, cónyuge, concubina o concubinario.
+ARTICULO 25 BIS.- Las personas trabajadoras, tendrán derecho a licencia de cinco días hábiles con goce de sueldo, por el fallecimiento de padres, hijos, cónyuge, concubina o concubinario. Asimismo, podrán disfrutar de licencias médicas con goce de sueldo, cuando presenten una constancia expedida por algún Instituto de Seguridad Social para atender algún padecimiento por enfermedad o discapacidad, propio o de algún descendiente.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2021)</small>
 
 El órgano gubernamental que funja como patrón estará obligado a otorgar los días de descanso siempre y cuando el trabajador así lo desee.
 
@@ -287,15 +289,27 @@ El salario será uniforme para cada una de las categorías de los trabajadores a
 
 Los pagos se verificarán en el lugar en que los trabajadores presten sus servicios y deberán hacerse precisamente en moneda del curso legal o en cheques al portador fácilmente cobrables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2024)</small>
+
 ###### ARTICULO 29.
 
-No deberán hacerse retenciones, descuentos o deducciones al salario de los trabajadores, sino en los casos siguientes:
+No deberán hacerse retenciones, descuentos o deducciones al salario de las personas trabajadoras, únicamente en los casos siguientes:
 
-I.- Cuando el trabajador contraiga deudas con el Estado por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-II.- Cuando se trate de cobro de cuotas sindicales ordinarias o de aportación de fondos para cooperativas de cajas de ahorro, constituidas legalmente o por la voluntad expresa de los trabajadores.
+I.- Cuando la persona trabajadora contraiga deudas con el Estado por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas;
 
-III.- Cuando se trate de descuentos ordenados por la Autoridad Judicial competente.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+II.- Cuando se trate de cobro de cuotas sindicales ordinarias o de aportación de fondos para cooperativas de cajas de ahorro, constituidas legalmente o por la voluntad expresa de las personas trabajadoras;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+III.- Cuando se trate de descuentos ordenados por autoridad judicial competente, y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+IV.- Para cubrir el monto que por concepto de cuotas le corresponda aportar para el Instituto de Seguridad Social de los Servidores Públicos del Estado; misma que deberá el patrón enterar en los términos de la ley de la materia. La omisión de retención como de enterar el monto, será una falta administrativa grave en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
 
 El monto total de los descuentos no podrá exceder del 30% del importe total del salario excepto el caso a que se refiere la fracción III de este artículo.
 
@@ -366,6 +380,20 @@ El trabajador o trabajadora deberá comprobar la donación de sangre con constan
 > <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN X], P.O. 4 DE FEBRERO DE 2020]</small>
 
 En el caso de que el trabajador haya realizado una donación de sangre en forma altruista, en horario fuera de su jornada laboral, previa comprobación oficial de ello, tendrá derecho a licencia de un día de descanso, con goce de salario.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+XI.- Otorgar a las personas trabajadoras, que cuenten con contratos de trabajo superior a treinta días, un día de permiso una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía o papanicolau y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, en instituciones de salud públicas o privadas.
+
+En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
+
+El tiempo para realizar los exámenes, señalados en los párrafos anteriores, será complementado, en su caso, con el tiempo suficiente para los traslados hacia y desde la institución médica, considerando las condiciones geográficas, de transporte y la disponibilidad de equipamiento médico necesario.
+
+Para el ejercicio de este derecho, las personas trabajadoras deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes que acrediten que se los realizaron en la fecha estipulada.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XI, P.O. 27 DE FEBRERO DE 2024.]</small>
+
+El tiempo en el que las personas trabajadoras se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
 
 C A P I T U L O V.
 
@@ -461,7 +489,7 @@ I. Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
 
 II. Si comprueba que no es posible el desarrollo normal de la relación de trabajo, por razón del cargo que desempeña el trabajador o por las características de sus labores;
 
-III. En los casos de trabajadores de confianza; y
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2024)
 
 IV. Cuando se trate de trabajadores eventuales.
 
@@ -489,7 +517,7 @@ El Sindicato de Trabajadores al Servicio del Estado, Municipios y de los Organis
 
 ###### ARTICULO 38.
 
-En el Estado de Guerrero sólo se reconocerá un sindicato, y admitido un miembro no podrá dejar de formar parte de él, salvo que fuere expulsado, sin que el Estado admita en ningún caso la cláusula de exclusión.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2024)
 
 ###### ARTICULO 39.
 
@@ -903,15 +931,17 @@ T I T U L O VI.
 
 DE LOS MEDIOS DE APREMIO Y DE LA EJECUCION DE LOS LAUDOS.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
 ###### ARTICULO 95.
 
-El Tribunal para hacer cumplir sus determinaciones, podrá imponer multas de 200 a 500 días de salarios mínimo vigente en la capital del Estado de Guerrero.
+El tribunal, para hacer cumplir sus determinaciones, podrá imponer multas de 15 a 150 veces el valor diario de la Unidad de Medida y Actualización (UMA).
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
 ###### ARTICULO 96.
 
-Las multas se harán efectivas por la Dirección General de Hacienda y Economía del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Dirección de Hacienda informará al Tribunal de haber hecho efectiva la multa señalando los datos relativos que acrediten su cobro.
+Las multas se harán efectivas por la Secretaría de Finanzas y Administración del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Secretaría de Finanzas y Administración del Estado, informará al Tribunal de haber hecho efectiva la multa señalando los datos relativos que acrediten su cobro.
 
 ###### ARTICULO 97.
 
@@ -1064,3 +1094,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase éste decreto al Gobernador Constitucional del Estado libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado y en la página WEB del Honorable Congreso del Estado, en las redes sociales y difúndase a través de los medios de comunicación.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 706 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO; Y A LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248”.]
+
+PRIMERO. El presente Dictamen de reformas, adiciones y derogaciones surtirá sus efectos a los quince días naturales de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La reforma a las fracciones II y III del artículo 24 Bis de la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248, será de manera gradual, conforme a la siguiente tabla:
+
+DÍAS NATURALES AÑOS DE APLICABILIDAD
+
+QUINCE 2024
+
+VEINTE 2026
+
+VEINTICINCO 2028
+
+TREINTA 2030
+
+TERCERO. Remítase a la Titular del Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general y efectos conducentes.
+
+CUARTO. Publíquese en la página web del Congreso General, para su conocimiento general y efectos conducentes.
