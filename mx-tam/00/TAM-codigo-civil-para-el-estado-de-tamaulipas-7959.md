@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-11-24"
+last_updated: "2024-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -3471,15 +3471,21 @@ I.- En cinco años, cuando se poseen de buena fe;
 
 II.- En cinco años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
 
-III.- En diez años, cuando se posean de mala fe.
+III.- (DEROGADA, P.O. 27 DE FEBRERO DE 2024)
 
 ART. 731.- Se aumentará en una tercera parte el tiempo señalado para la usucapión, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, la finca ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
 
-ART. 732.- Los bienes muebles se adquieren por usucapión en dos años si la posesión es de buena fe, y en cuatro años si la posesión es de mala fe.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
 
-ART. 733.- Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
+ART. 732.- Los bienes muebles se adquieren por usucapión en dos años si la posesión es de buena fe.
 
-ART. 734.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+ART. 733.- Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, no se podrá usucapir.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2024)</small>
+
+ART. 734.- La posesión adquirida por medio de un delito no se podrá usucapir.
 
 ART. 735.- Se puede completar el plazo necesario para usucapir, agregando al tiempo que haya poseído la persona que pretende prescribir el tiempo que poseyó la persona que le transmitió el bien, con tal de que ambas posesiones reúnan los requisitos legales necesarios para poder usucapir.
 
@@ -3501,9 +3507,17 @@ IV.- Entre copropietarios o coposeedores, respecto del bien común;
 
 V.- Contra los incapaces, mientras no tengan representante legal. Si por culpa de éste no se hubiere interrumpido el término de la usucapión, responderá de los daños y perjuicios que se causen a los representados;
 
-VI.- Contra los que se ausenten del Estado en cumplimiento de un servicio público; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
-VII.- Contra los militares en servicio activo en tiempo de guerra o en acción militar, tanto dentro como fuera del Estado.
+VI.- Contra los que se ausenten del Estado en cumplimiento de un servicio público;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+VII.- Contra los militares en servicio activo en tiempo de guerra o en acción militar, tanto dentro como fuera del Estado; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2024)</small>
+
+VIII.- Contra el o la arrendadora del bien que se pretende usucapir.
 
 ART. 740.- Las restricciones previstas en el artículo anterior impiden que principie la usucapión o la suspenden cuando se haya iniciado, considerándose útil el tiempo transcurrido.
 
@@ -10942,6 +10956,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-714 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-821 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 732; 733; 734; y 739, FRACCIONES VI Y VII; SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 739; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 730, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 162, PÁRRAFO ÚNICO; 163; Y 165, PÁRRAFO 1, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO".]
 
 ###### ARTÍCULO ÚNICO.
 
