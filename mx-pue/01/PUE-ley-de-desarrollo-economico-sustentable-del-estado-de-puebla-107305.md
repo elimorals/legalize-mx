@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2022-12-23"
+last_updated: "2024-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 27 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
 
@@ -35,7 +37,9 @@ RAFAEL MORENO VALLE ROSAS, Gobernador Constitucional del Estado Libre y Soberano
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 123 fracción XVIII, 134, 135, 136 y 144 fracción II de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46 y 48 fracción XVIII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -1308,3 +1312,21 @@ P.O. 23 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Económico Sustentable del Estado de Puebla, publicada en el Periódico Oficial del Estado el 30 de marzo de 2015.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
+
+CUARTO. El Ejecutivo del Estado expedirá el Reglamento de la Ley y las demás disposiciones que resulten necesarias para el cumplimiento de esta, en un plazo que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor del presente ordenamiento.
+
+QUINTO. Hasta en tanto se expida el Reglamento que refiere el artículo anterior, prevalecerán las reglas de otorgamiento de incentivos en el Reglamento vigente con la ley que se abroga, en lo que no se contraponga.
+
+SEXTO. Todas las erogaciones que resulten de la presente Ley, estarán sujetas a la a la (sic) disponibilidad presupuestaria que se determine por el Honorable Congreso del Estado en el Ejercicio Fiscal correspondiente.
+
+SÉPTIMO. Los procedimientos que se encuentren en trámite al momento de la publicación de esta Ley, su sustanciación y resolución será conforme a la Ley y su Reglamento abrogado.
