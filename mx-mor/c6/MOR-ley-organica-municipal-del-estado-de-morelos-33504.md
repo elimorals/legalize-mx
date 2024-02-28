@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2023-06-14"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1727,7 +1727,9 @@ En cada Municipio, existirá un Concejo de Cronistas:
 
 a).- El Concejo de Cronistas se integrará previa convocatoria que haga el Ayuntamiento para tal efecto y funcionará de conformidad con el Reglamento correspondiente;
 
-b).- En la integración del Concejo de Cronistas se deberá garantizar la paridad de género;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+b).- En la convocatoria e integración del Concejo de Cronistas se deberá procurar la paridad de género;
 
 c).- Los integrantes del Concejo tendrán como responsabilidad la integración, la custodia y la difusión de la memoria histórica y del patrimonio cultural del Municipio, y sus cargos honoríficos;
 
@@ -2326,6 +2328,12 @@ El oficial del Registro Civil en cada municipio podrá llevar a cabo la ceremoni
 ###### Artículo 91.
 
 Para ser oficial del Registro Civil, se requiere título de licenciado en derecho y cédula profesional, debidamente expedidos por autoridad competente, al momento de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+###### Artículo 91 Bis.
+
+Las ausencias temporales de los Oficiales del Registro Civil serán suplidas por el servidor público que el Ayuntamiento designe como encargado de despacho; mismo que deberá contar con los mismos requisitos establecidos en el artículo anterior, pudiendo desempeñar legalmente las atribuciones que originalmente corresponden al titular. Dicha designación temporal no deberá exceder de los treinta días naturales.
 
 ###### Artículo 92.
 
@@ -4698,3 +4706,27 @@ TERCERA.- Los 36 municipios del estado de morelos en un plazo no mayor a 60 día
 CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
 
 QUINTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS NOVENTA Y OCHO.- POR EL QUE SE ADICIONA UN ARTÍCULO 91 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
+
+TERCERA.- Los Ayuntamientos contarán con un periodo de sesenta días posteriores a la publicación del Decreto, para realizar las adecuaciones normativas pertinentes.
+
+CUARTA.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS NOVENTA Y NUEVE POR EL QUE SE REFORMA EL INCISO B DEL ARTÍCULO 74 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+TERCERA.- Los Ayuntamientos contarán con un periodo de sesenta días posteriores a la publicación del Decreto, para realizar las adecuaciones normativas pertinentes.
+
+CUARTA.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
