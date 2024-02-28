@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2022-08-24"
+last_updated: "2024-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE TURISMO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TURISMO PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -53,47 +55,41 @@ Para lo no previsto en este ordenamiento serán de aplicación supletoria, la Le
 
 Los lineamientos emanados de la presente Ley, serán acordes a lo establecido por la Organización Mundial de Turismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 2.
 
-Para efectos de esta Ley se entiende como:
+Para los efectos de esta Ley, se entiende por:
 
-Secretaría Federal: Secretaría de Turismo de la Administración Pública Federal.
+I. Secretaría Federal: Secretaría de Turismo de la Administración Pública Federal.
 
-Secretaría: Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
+II. Secretaría: Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+III. Secretario o Secretaria: El o la titular de la Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
 
-Secretario o Secretaria: El o la Titular de la Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
+IV. Prestador de servicios turísticos: La Persona física o moral que habitualmente proporciona, intermedia o contrata con el turista en cualquier momento la prestación remunerada de alguno de los servicios a que se refiere esta Ley.
 
-Prestador de servicios turísticos: La Persona física o moral que habitualmente proporciona, intermedia o contrata con el turista en cualquier momento la prestación remunerada de alguno de los servicios a que se refiere esta Ley.
+V. Turista: La Persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y que pernoctando cuando menos una noche utilice algunos de los servicios a que se refiere esta Ley.
 
-Turista: La Persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y que pernoctando cuando menos una noche utilice algunos de los servicios a que se refiere esta Ley.
+VI. Visitante: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y utilice algunos de los servicios a que se refiere esta Ley.
 
-Visitante: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y utilice algunos de los servicios a que se refiere esta Ley.
+VII. Servicios Turísticos: Es la actividad realizada por personas físicas o morales, para satisfacer alguna demanda o necesidad turística en el Estado.
 
-Servicios Turísticos: Es la actividad realizada por personas físicas o morales, para satisfacer alguna demanda o necesidad turística en el Estado.
+VIII. Turismo: Son las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un período de tiempo consecutivo inferior a un año, con fines de ocio, por negocios y otros motivos.
 
-Turismo: Son las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un período de tiempo consecutivo inferior a un año, con fines de ocio, por negocios y otros motivos.
+IX. Sector Turístico: Conjunto de organizaciones, públicas, privadas y sociales cuya actividad principal esté enfocada al turismo o al turista.
 
-Sector Turístico: Conjunto de organizaciones, públicas, privadas y sociales cuya actividad principal esté enfocada al turismo o al turista.
+X. Zona Turística: Área destinada, desarrollada o proyectada principalmente para la actividad turística y en la que se presten servicios turísticos, incluyendo zonas arqueológicas.
 
-Zona Turística: Área destinada, desarrollada o proyectada principalmente para la actividad turística y en la que se presten servicios turísticos, incluyendo zonas arqueológicas.
+XI. Patrimonio Turístico: Es el conjunto de bienes e instalaciones que generan el interés del mercado turístico por sus características y valores naturales, históricos y culturales, tangibles e intangibles, estéticos o simbólicos, que se deben de incorporar en el mismo al disponer de la infraestructura necesaria para el adecuado desarrollo de la actividad turística y por lo mismo, requieren ser preservados, conservados y protegidos para el disfrute de la sociedad, determinado como tal por la Secretaría.
 
-Patrimonio Turístico: Es el conjunto de bienes e instalaciones que generan el interés del mercado turístico por sus características y valores naturales, históricos y culturales, tangibles e intangibles, estéticos o simbólicos, que se deben de incorporar en el mismo al disponer de la infraestructura necesaria para el adecuado desarrollo de la actividad turística y por lo mismo, requieren ser preservados, conservados y protegidos para el disfrute de la sociedad, determinado como tal por la Secretaría.
+XII. Turismo Gastronómico: La opción turística decisiva y enfocada a todo tipo de gente dispuesta a experimentar la cultura culinaria que nuestro Estado de Morelos ofrece.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2013)</small>
+XIII. Turismo de Salud: La opción turística enfocada a todo tipo de personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud en el Estado de Morelos.
 
-Turismo Gastronómico: La opción turística decisiva y enfocada a todo tipo de gente dispuesta a experimentar la cultura culinaria que nuestro Estado de Morelos ofrece.
+XIV. Turismo Sustentable: Es toda actividad turística realizada de manera responsable con el medio ambiente, respetando los usos, costumbres y tradiciones de las comunidades receptoras, procurando el beneficio y crecimiento económico de las comunidades locales y, conservando el patrimonio natural y cultural de las comunidades anfitrionas.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-Turismo de Salud: La opción turística enfocada a todo tipo de personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud en el Estado de Morelos.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
-Turismo Sustentable: Es toda actividad turística realizada de manera responsable con el medio ambiente, respetando los usos, costumbres y tradiciones de las comunidades receptoras, procurando el beneficio y crecimiento económico de las comunidades locales y, conservando el patrimonio natural y cultural de las comunidades anfitrionas.
+XV. Turismo Idiomático: las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de origen, por un período de tiempo consecutivo inferior a un año, con el fin de hacer una inmersión lingüística en un idioma distinto al de su entorno natural.
 
 ###### Artículo 3.
 
@@ -433,7 +429,9 @@ VII. Un representante de los Ayuntamientos del Estado, mismo que será designado
 
 VIII. El Titular de la Dirección General del Fideicomiso Turismo Morelos;
 
-IX. Cinco representantes del Consejo Empresarial Turístico de Morelos, A.C.;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IX. Cinco representantes de sector empresarial turísticos, entre los que deberán estar incluidos la Cámara de Comercio, Servicios y Turismo (CANACO SERVYTUR); La Cámara Nacional de la Industria de Restaurantes y Alimentos, Morelos (CANIRAC), el Consejo Coordinador Empresarial Morelos (CCE-Morelos) y un representante de la Asociación de Institutos para la Enseñanza de Español en Cuernavaca (AIPEC).
 
 X. Un representante de la Asociación de Hoteles del Estado de Morelos, A.C.; y,
 
@@ -699,25 +697,33 @@ VIII. Promover con los prestadores de servicios turísticos y la comunidad en ge
 
 IX. Fomentar la actividad artesanal y los productos representativos de la región para efectos turísticos;
 
-X. Integrar y mantener actualizado el inventario del patrimonio y servicios turísticos municipales, coadyuvando con el Registro Estatal de Turismo;
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XI. Promover la inserción en los bandos y reglamentos municipales, normas tendientes al fomento de la actividad turística, la protección del patrimonio turístico, la imagen urbana, la calidad de los servicios y la atención a los turistas;
+X. Promover el desarrollo del turismo idiomático como una de sus fortalezas para el desarrollo económico;
 
-XII. Ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XIII. Promoción, difusión y orientación turística;
+XI. Integrar y mantener actualizado el inventario del patrimonio y servicios; turísticos municipales, coadyuvando con el Registro Estatal de Turismo;
 
-XIV. Promover los programas de señalética y;
+XII. Promover la inserción en los bandos y reglamentos municipales, normas tendientes al fomento de la actividad turística, la protección del patrimonio turístico, la imagen urbana, la calidad de los servicios y la atención a los turistas;
+
+XIII. Ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias;
+
+XIV. Promoción, difusión y orientación turística;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XV. Promover los programas de señalética;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
-XV. Operar módulos de información y orientación al turista;
+XVI. Operar módulos de información y orientación al turista;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XVI. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente; y
+XVII. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente, y
 
-XVII. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
+XVIII. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -841,9 +847,11 @@ La Secretaría en uso de sus facultades, promoverá entre los prestadores de ser
 
 La Secretaría solicitará a las autoridades de educación pública del Estado un registro actualizado de las instituciones educativas dedicadas a la especialidad del turismo que estén reconocidas oficialmente, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten, la información sobre dicho particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 57.
 
-La Secretaría promoverá el establecimiento de programas de vinculación escuela-empresa con el fin de coadyuvar en la adecuación de los planes y programas de estudio de los centros de enseñanza turística, con las necesidades del mercado y de los prestadores de servicios turísticos, fomentando la concientización turística en todos los niveles educativos.
+La Secretaría promoverá el establecimiento de programas de vinculación escuela-empresa con el fin de coadyuvar en la adecuación de los planes y programas de estudio de los centros de enseñanza turística, incluyendo a los de enseñanza del español, con las necesidades del mercado y de los prestadores de servicios turísticos, fomentando la concientización turística en todos los niveles educativos.
 
 En los citados programas se deberá contemplar la capacitación respecto a la atención de las personas con capacidades diferentes.
 
@@ -1250,3 +1258,11 @@ PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA (SIC).- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS NOVENTA Y SEIS POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 17, 41 Y 57 DE LA LEY DE TURISMO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
