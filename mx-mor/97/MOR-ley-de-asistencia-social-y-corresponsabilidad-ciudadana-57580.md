@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2023-09-27"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -73,7 +73,9 @@ IV.- Adolescentes: Personas que tienen entre doce años y dieciocho años cumpli
 
 V.- Adulto Mayor: Toda persona mayor de 60 años;
 
-VI.- Persona con discapacidad: Todo ser humano que tiene una carencia o disminución congénita o adquirida de alguna aptitud o capacidad funcional de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manera transitoria o permanente;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+VI.- Persona con discapacidad: incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -85,11 +87,11 @@ IX.- Ley: La Ley de Asistencia Social y Corresponsabilidad Ciudadana.
 
 ### CAPÍTULO II. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### ARTÍCULO 4.
 
-Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores y población indígena.
+Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores, personas con discapacidad y población indígena.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -147,7 +149,9 @@ II.- Supervisar la aplicación de las normas técnicas que rijan la prestación 
 
 III.- Evaluar los resultados de los servicios asistenciales que se presten en el Estado por instituciones de los sectores público y privado así como supervisar la debida aplicación de las Normas Oficiales Mexicanas que rijan la prestación de los servicios de salud en materia de asistencia social;
 
-IV.- Apoyar técnicamente a la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV.- Apoyar técnicamente a la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos profesionales en materia de prestación de servicios de asistencia social, derechos humanos e inclusión;
 
 V.- Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;
 
@@ -171,9 +175,13 @@ XII.- Las demás que le otorguen las leyes aplicables.
 
 Para los efectos de esta Ley se entienden como servicios básicos en materia de asistencia social, los siguientes:
 
-I.- La atención a personas que por sus carencias económicas o problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-II.- La atención a menores, adultos mayores y mujeres en estado de abandono o desamparo, discapacitados sin recursos y receptores de violencia familiar en establecimientos especializados;
+I.- La atención a personas que, por su situación de vulnerabilidad, carencias económicas o estado de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+II.- La atención a menores, adultos mayores y mujeres en estado de abandono o desamparo, personas con discapacidad sin recursos y receptores de violencia familiar, en establecimientos especializados;
 
 III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para una senectud digna;
 
@@ -271,9 +279,9 @@ XI.- Llevar a cabo todas las funciones inherentes a la autorización, inspecció
 
 XII.- Fomentar, apoyar, coordinar, evaluar y supervisar las actividades que lleven a cabo las instituciones o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XIII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad mental o física y mujeres receptoras de violencia familiar;
+XIII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad y mujeres receptoras de violencia familiar;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
@@ -1244,3 +1252,13 @@ PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo Estatal pa
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. (Sic) Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SEISCIENTOS NOVENTA Y CINCO.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El Presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
