@@ -4,7 +4,7 @@ identifier: "VER-codigo-244-hacendario-para-el-municipio-de-misantla-estado-1379
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-30"
-last_updated: "2023-12-28"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MISANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2024.
 
 Código publicado en el Número Extraordinario al Número 216 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 30 de mayo de 2019.
 
@@ -2575,31 +2575,23 @@ En ambos casos los usuarios del servicio podrán optar por realizar un pago anua
 
 Los derechos a que este Capítulo se refiere, se causarán y pagarán anualmente de conformidad con las cuotas siguientes:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2024)</small>
 
-I. Para uso habitacional
+I. Descripción Cuota fija anual en UMAs
 
-Descripción Cuota Fija Anual
+Casa habitación en zona urbana 2.27 a 4.33
 
-en UMAs
+Casa habitación en zona rural 1 a 2.26
 
-Casa habitación en zona urbana 15
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2024)</small>
 
-Casa habitación en zona rural 3.46
+II. Descripción Comercio Cuota rango en UMAs
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
+Bajo 6 a 30
 
-II. Para uso comerciales, industriales y prestadores de servicios
+Medio 75 a 138.81
 
-Descripción Cuota Rango UMAS
-
-Comercio
-
-Bajo 20 34.7
-
-Medio 75 138.81
-
-Alto 200 607.29
+Alto 200 a 607.29
 
 > <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -4934,3 +4926,11 @@ G.O. 28 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 723 QUE REFORMA EL ARTÍCULO 225 DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MISANTLA, VER.".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
