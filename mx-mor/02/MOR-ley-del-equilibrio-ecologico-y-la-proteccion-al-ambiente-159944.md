@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-159944
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-01"
-last_updated: "2022-09-01"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en la Edición Extraordinaria al Número 6110 del Periódico Oficial del Estado de Morelos, el jueves 1 de septiembre de 2022.
 
@@ -2367,11 +2367,17 @@ I. Un presidente que será la persona titular de la Secretaría;
 
 II. Un secretario, que será el titular de Dirección General de Proyectos y Gestión Administrativa de la Secretaría o su equivalente;
 
-III. Como vocal, la diputada o diputado presidente de la Comisión de Medio Ambiente, Recursos Naturales o Agua del Congreso del Estado de Morelos; y,
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-IV. Como vocal un representante del Consejo Consultivo Estatal.
+III. Como vocal, la diputada o diputado presidente de la Comisión de Medio Ambiente, Recursos naturales y Agua del Congreso del estado de Morelos, y
 
-Sus funciones se definirán en el reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV. Como vocal, un representante del Consejo Consultivo Estatal para el Desarrollo Sustentable, quien no podrá ser servidor público de ninguno de los poderes del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Sus funciones se definirán en el reglamento de la presente Ley, debiendo establecer que las sesiones de éste Comité Técnico Estatal deberán ser públicas y abiertas. Debiendo ser transmitidas a través de medios electrónicos con los que cuente el Gobierno del Estado.
 
 ###### Artículo 189.
 
@@ -2948,3 +2954,15 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS POR EL QUE SE REFORMA EL ARTÍCULO 188 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS".]
+
+PRIMERA: Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA: El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA: Se concede al Titular del Poder Ejecutivo Estatal, un plazo de 60 días hábiles contados a partir de la publicación en el Periódico Oficial “Tierra y Libertad”, para realizar las reformas correspondientes al Reglamento del Comité Técnico del Fondo Verde Estatal a que se refiere esta Iniciativa.
