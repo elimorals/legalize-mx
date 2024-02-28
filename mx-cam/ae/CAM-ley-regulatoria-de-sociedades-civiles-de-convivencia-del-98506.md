@@ -4,7 +4,7 @@ identifier: "CAM-ley-regulatoria-de-sociedades-civiles-de-convivencia-del-98506"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY REGULATORIA DE SOCIEDADES CIVILES DE CONVIVENCIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 27 de diciembre de 2013.
 
@@ -55,9 +55,11 @@ La Sociedad Civil de Convivencia es un contrato que se constituye cuando dos per
 
 La Sociedad Civil de Convivencia obliga a los conviventes, en razón de la voluntad de permanencia, ayuda mutua y establecimiento del domicilio común, la cual surte efectos frente a terceros cuando la sociedad es registrada ante las Oficinas del Registro Público de la Propiedad y de Comercio del Estado de Campeche, en cuya jurisdicción se encuentre establecido el domicilio común.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 4.
 
-No podrán constituir Sociedad Civil de Convivencia, las personas unidas en matrimonio, concubinato y aquéllas que mantengan vigente otra Sociedad Civil de Convivencia.
+No podrán constituir Sociedad Civil de Convivencia, las personas unidas en matrimonio, concubinato, aquéllas que mantengan vigente otra Sociedad Civil de Convivencia y los parientes consanguíneos en línea recta sin límite de grado o colaterales hasta el cuarto grado.
 
 ###### Artículo 5.
 
@@ -103,9 +105,17 @@ Uno de los ejemplares será depositado en dicho Registro; y los dos restantes se
 
 El mismo procedimiento se deberá seguir para el registro de modificaciones y adiciones que se formulen a la escritura pública de constitución de la Sociedad Civil de Convivencia.
 
-Por el registro de la Sociedad Civil de Convivencia a que se refiere este artículo, se pagará a la Secretaría de Finanzas del Gobierno del Estado, el monto de los derechos que especifique la Ley de Hacienda del Estado de Campeche.
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
-Para los efectos de este artículo, contra la denegación del registro, las personas interesadas podrán recurrir el acto en los términos de la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche y, en su caso, conforme a las disposiciones de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, para demandar la imposición de sanciones a los servidores públicos que hubieren incurrido en acciones u omisiones que impliquen responsabilidad administrativa.
+Cuando falte alguno de los requisitos señalados en el artículo 7 de esta ley, la autoridad registradora tiene la obligación de orientar a las personas convivientes a efecto de que cumplan con los mismos y puedan concluir el trámite.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Por el registro de la Sociedad Civil de Convivencia a que se refiere este artículo, se pagará a la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, el monto de los derechos que especifíque la Ley de Hacienda del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Para los efectos de este artículo, contra la denegación del registro, ratificación, modificación y adición por parte de las o los servidores públicos competentes, sin causa justificada, las personas interesadas podrán recurrir el acto en los términos de la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche y, en su caso, conforme a las disposiciones de la Ley General de Responsabilidades Administrativas, para demandar la imposición de sanciones a los servidores públicos que hubieren incurrido en acciones u omisiones que impliquen responsabilidad administrativa.
 
 La Dirección General del Registro Público de la Propiedad y de Comercio del Estado de Campeche implementará una sección y un sistema de control y archivo de Sociedades Civiles de Convivencia.
 
@@ -234,3 +244,13 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintitrés días del mes de diciembre del año dos mil trece.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 341 POR EL QUE "SE ADICIONA UN PÁRRAFO CUARTO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 10; Y SE REFORMAN EL ARTÍCULO 4 Y LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 10, TODOS DE LA LEY REGULATORIA DE SOCIEDADES CIVILES DE CONVIVENCIA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
