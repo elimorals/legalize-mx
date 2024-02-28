@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2023-09-30"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1727,7 +1727,9 @@ Ejecutoriada una sentencia de divorcio, el Juez que lo decretó remitirá copia 
 
 Los cónyuges que pidan de conformidad su divorcio deberán acompañar en todo caso en su demanda, un convenio en el que se fijen los siguientes puntos:
 
-I. A quién se confían los hijos de los cónyuges, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+I. A quién se confían los hijos de los cónyuges, así como el domicilio en el que habitarán, del que se informará en caso de cambio de este, tanto durante el procedimiento, como después de ejecutoriado el divorcio, en el caso de cambio de domicilio, deberá recaer autorización del juez;
 
 II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo;
 
@@ -5478,6 +5480,14 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decret
 P.O. 30 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 325.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y EL CÓDIGO FAMILIAR, DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 449.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 224 DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
