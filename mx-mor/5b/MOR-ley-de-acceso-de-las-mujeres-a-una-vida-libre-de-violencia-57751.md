@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2023-08-02"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -89,7 +89,9 @@ XI.- Tipos de Violencia contra las mujeres: Las clases en que pueden presentarse
 
 XII.- Víctima: La mujer de cualquier edad a quien se le infringe cualquier tipo de violencia;
 
-XIII.- Agresor: La persona que infringe cualquier tipo de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XIII.- Agresor.- La persona que infringe cualquier tipo de violencia contra las mujeres o que se encuentre inscrita en el Registro Estatal de Agresores Sexuales;
 
 XIV.- Estado de riesgo: Es la eventualidad de un peligro por un ataque social, sexual, delictivo individual o colectivo, a partir de la construcción social de desigualdad y discriminación, que genera miedo, intimidación, incertidumbre o ansiedad ante un evento impredecible de violencia;
 
@@ -132,6 +134,10 @@ XXIX.- Noviazgo: Es una vinculación que se establece entre dos personas que se 
 > <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 XXX.- Mesa de Armonización Legislativa: A la Mesa de Armonización Legislativa para la no Discriminación y Erradicación de la Violencia contra las Mujeres.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XXXI.- Registro: El Registro Estatal de Agresores Sexuales.
 
 ###### Artículo 5.
 
@@ -1155,11 +1161,43 @@ X.- Se llevará a cabo seguimiento a los medios de comunicación para evitar que
 
 XI.- Las acciones y programas a ejecutar para la atención y rehabilitación de los agresores.
 
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE FEBRERO DE 2024)</small>
+
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE AGRESORES SEXUALES
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Artículo 50 bis.- Se crea el Registro Estatal de Agresores Sexuales, como un instrumento que sólo puede ser consultado por las autoridades competentes y dependerá su operación de la Comisión Estatal de Seguridad Pública, el cual contendrá datos de las personas sentenciadas por los delitos de naturaleza sexual previstos por los artículos 150 BIS, 152, 156, 157, 158, 158 bis, 159, 161, 162, 162 bis, 211, 211 bis, 211 ter, 211 quater, 212 y 212 ter, del 211 (sic), del Código Penal para el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Artículo 50 ter. Las autoridades jurisdiccionales competentes notificarán de inmediato a la Comisión Estatal de Seguridad Pública, de los agresores que tengan sentencia firme por alguno de los delitos previstos en el artículo anterior.
+
+También deberán notificar sobre los acuerdos de reparación celebrados y las sentencias derivadas de procedimiento abreviado.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Artículo 50 quater.- La Comisión Estatal de Seguridad Pública, integrará una ficha del agresor sentenciado que deberá contener, cuando menos, lo siguiente:
+
+I. Nombre completo;
+
+II. Alias;
+
+III. Clave Única de Registro de Población;
+
+IV. Fotografía reciente;
+
+V. Delito por el que fue condenado, y
+
+VI. Pena privativa de libertad estipulada.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Artículo 50 quintus.- El Registro Estatal de Agresores Sexuales será actualizado, por lo menos, de manera mensual, de conformidad con la información entregada por la autoridad jurisdiccional competente, quien tendrá la responsabilidad de notificar las bajas y altas de las personas sentenciadas de acuerdo con los datos que obren en los expedientes correspondientes.
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
+### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO DE MORELOS
 
@@ -1607,11 +1645,7 @@ V. Establecer, utilizar y supervisar todos los instrumentos y acciones del Siste
 
 VI. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPÍTULO III. DEL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
 
 ###### Artículo 60.
 
@@ -1662,6 +1696,12 @@ V.- Las demás previstas en la normatividad aplicable para el cumplimiento de es
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL CAPÍTULO III AL TÍTULO SEXTO DE ESTE ORDENAMIENTO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO III. DEL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 62.
 
@@ -2160,3 +2200,15 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS TREINTA Y TRES.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS PARA EL ESTADO MORELOS, POR EL QUE SE CREA EL REGISTRO ESTATAL DE AGRESORES SEXUALES”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Dentro del plazo de 180 días hábiles contados a partir de la vigencia del presente Decreto, se deberán realizar las adecuaciones que resulten necesarias al marco regulatorio interior de la Comisión Estatal de Seguridad Pública, para atender los términos de la presente reforma, respecto a la implementación y funcionamiento del Registro Estatal de Agresores Sexuales.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
