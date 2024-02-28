@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2022-06-08"
+last_updated: "2024-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LAS JUVENTUDES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024 (ABROGADO).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -1302,3 +1304,17 @@ P.O. 8 DE JUNIO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 498.- LEY PARA LAS JUVENTUDES DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley de la Juventud del Estado de Zacatecas, aprobada por Decreto número 116, expedido por la Sexagésima Primera Legislatura del Estado, publicada en el suplemento número 36 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 3 de mayo de 2014.
+
+Artículo tercero. Dentro de los 90 días siguientes a la entrada en vigor de este ordenamiento, el Titular del Poder Ejecutivo del Estado publicará en el Periódico Oficial, Órgano del Gobierno del Estado, el reglamento de esta Ley.
+
+Artículo cuarto. Dentro de los 180 días siguientes a la entrada en vigor de esta Ley, se publicará en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa Estatal de Juventudes.
+
+Artículo quinto. Se derogan las disposiciones que se opongan a la presente Ley.
