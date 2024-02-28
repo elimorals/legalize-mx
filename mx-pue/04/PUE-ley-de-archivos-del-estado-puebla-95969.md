@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-archivos-del-estado-puebla-95969"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-13"
-last_updated: "2015-10-19"
+last_updated: "2024-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE ARCHIVOS DEL ESTADO PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. 28 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de septiembre de 2013.
 
@@ -756,3 +758,45 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente ordenamiento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Archivos del Estado de Puebla, publicada en el Periódico Oficial del Estado, el trece de septiembre de dos mil trece y se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. Las Secretarías de Gobernación, de Planeación y Finanzas, de Administración y de la Función Pública, en el ámbito de sus atribuciones, deberán llevar a cabo en un plazo no mayor a 500 días hábiles contados a partir de la entrada en vigor de esta Ley, las gestiones necesarias para que se autorice conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General del Estado.
+
+CUARTO. Los sujetos obligados deberán realizar, en un plazo no mayor a 500 días hábiles contados a partir de la entrada en vigor de esta Ley, las previsiones y adecuaciones presupuestales necesarias, a fin de dar cumplimiento a la Ley.
+
+QUINTO. El Órgano de Gobierno del Archivo General del Estado, deberá expedir y publicar en el Periódico Oficial del Estado, en un periodo no mayor a un año, contado a partir de la dispuesto en el Tercero Transitorio de esta Ley, el Reglamento Interior del Archivo General del Estado.
+
+SEXTO. Hasta en tanto se dé cumplimiento a lo dispuesto en los Artículos Tercero y Cuarto Transitorios de esta Ley, los Sujetos Obligados realizarán las medidas administrativas correspondientes para aplicar la presente Ley en lo que resulte conducente.
+
+SÉPTIMO. La Secretaría de Gobernación, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General del Estado para el cumplimiento del presente Ordenamiento, hasta en tanto se da cumplimiento a lo dispuesto en los Artículos Tercero y Cuarto Transitorios de esta Ley.
+
+OCTAVO. El Consejo Estatal será presidido por la Secretaría de Gobernación hasta en tanto se realizan las adecuaciones a la estructura de la Administración Pública Estatal.
+
+El Consejo Estatal deberá instalarse dentro de tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su Reglamento interior en los seis meses subsecuentes.
+
+NOVENO. El Consejo Estatal, deberá empezar a sesionar dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+DÉCIMO. Los sujetos obligados deberán implementar su Sistema Institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+DÉCIMO PRIMERO. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO SEGUNDO. Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la presente Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos, deberán prever en el programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de esta Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+DÉCIMO TERCERO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO CUARTO. En un plazo de seis meses, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+
+DÉCIMO QUINTO. Los recursos humanos, materiales y financieros con los que opera la Dirección del Archivo General del Estado dependiente de la Secretaría de Gobernación, serán transferidos al Organismo Público Descentralizado que se crea mediante esta Ley en los términos que establezcan las disposiciones aplicables.
