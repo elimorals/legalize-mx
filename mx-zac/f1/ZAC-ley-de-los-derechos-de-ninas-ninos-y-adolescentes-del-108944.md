@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-09-30"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -262,6 +262,10 @@ III. Los derechos a una vida libre de violencia, integridad personal y protecci�
 a) Vida libre de violencia;
 
 b) Protección;
+
+> <small>(ADICIONADO, 28 DE FEBRERO DE 2024)</small>
+
+c) Vida libre de violencia cibernética, digital, así como todas aquellas mediante el uso de inteligencia artificial.
 
 IV. Los derechos de protección a la intimidad y retención ilícita:
 
@@ -2306,6 +2310,14 @@ Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el p
 P.O. 30 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 325.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y EL CÓDIGO FAMILIAR, DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO No. 448.- SE ADICIONA EL INCISO C) DE LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
