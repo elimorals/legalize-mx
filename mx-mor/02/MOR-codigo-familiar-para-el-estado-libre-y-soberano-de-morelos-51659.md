@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2023-08-02"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -765,9 +765,11 @@ No obstante lo establecido en las fracciones III, IV y V la obligación alimenta
 
 CARACTERES DEL DERECHO DE RECIBIR ALIMENTOS. El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción, compensación o convenio que establezca modalidad o reducción alguna.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 57.
 
-El derecho a recibir alimentos es imprescriptible, por lo que se refiere a alimentos actuales y futuros.
+El derecho a recibir alimentos es imprescriptible, irrenunciable y retroactivo; puede ser reclamado en cualquier momento por quien lo acredite.
 
 ###### ARTÍCULO 58.
 
@@ -971,7 +973,9 @@ XIII.- La embriaguez habitual, o el uso ilegal y persistente de drogas estupefac
 
 XIV.- (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2017)
 
-XV. Encontrarse afectado por enfermedades mentales incurables;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XV.- Encontrarse afectado por enfermedad mental incurable que lo prive del juicio o del uso de la razón;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
 
@@ -1116,6 +1120,10 @@ CAMBIO DE RÉGIMEN MATRIMONIAL. Durante el matrimonio, los esposos pueden dar po
 ###### ARTÍCULO 100
 
 RÉGIMEN DE LA SOCIEDAD CONYUGAL. El régimen de la sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de los consortes.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+En la sociedad conyugal se considera patrimonio o bien propio de cada cónyuge, los adquiridos a título personal por herencia, legado, por cualquier otro título gratuito, donación o don de la fortuna.
 
 En caso de no existir capitulaciones matrimoniales respecto de la sociedad conyugal, o existiendo éstas no establecieran la proporción de la misma, se entenderá que dicha proporción será por partes iguales.
 
@@ -3759,9 +3767,9 @@ IV.- El convenio que los pretendientes deberán celebrar con relación a sus bie
 
 Si de acuerdo con el artículo 103 de este Cuerpo de Leyes fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de dicha escritura.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-V.- Un certificado suscrito por médico titulado y registrado legalmente, bajo protesta de decir verdad, en que determine, que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento, establecido en el artículo 77, fracción XV y artículo 78, fracción III de este Código, o en su caso por cuanto a lo que se refiere al impedimento del artículo 78, fracción III, cumplir con lo requerido para su dispensa;
+V.- Un certificado médico prenupcial, que determine que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento previstas en los artículos 77 y 78 del presente ordenamiento; y en el caso del impedimento contemplado en la fracción III del artículo 78 del presente Código, cumplir con lo requerido para su dispensa;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -5645,9 +5653,11 @@ PERSONAS QUE PUEDEN ACEPTAR O REPUDIAR LA HERENCIA. Pueden aceptar o repudiar la
 
 La herencia dejada a los menores y demás incapacitados será aceptada por sus representantes legales, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 758.
 
-ACEPTACIÓN O REPUDIACIÓN DE LA HERENCIA POR MUJER CASADA. La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges y en caso de discrepancia, resolverá el Juez.
+ACEPTACIÓN O REPUDIACIÓN DE LA HERENCIA POR LA O EL CÓNYUGE. La o el cónyuge no necesita la autorización del otro para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges y en caso de discrepancia, resolverá el Juez.
 
 ###### ARTÍCULO 759.
 
@@ -5923,17 +5933,21 @@ La infracción a los dos párrafos anteriores hará responsable al albacea de lo
 
 FIJACIÓN DE GASTOS DE ADMINISTRACIÓN. El albacea, dentro de los treinta días de ejercer su cargo, fijará, de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de la administración y el número y sueldos de los dependientes.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 805.
 
-VENTA DE BIENES POR EL ALBACEA DEBIDO A GASTOS URGENTES. Si para el pago de una deuda u otro gasto urgente fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos, y si esto no fuere posible, con aprobación judicial.
+VENTA DE BIENES POR EL ALBACEA DEBIDO A GASTOS URGENTES. Si para el pago de una deuda u otro gasto urgente fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con la mayoría de los herederos, y si esto no fuere posible, con aprobación judicial.
 
 ###### ARTÍCULO 806.
 
 APLICACIÓN DE PROHIBICIONES IMPUESTAS A TUTORES PARA LOS ALBACEAS. Lo dispuesto en el artículo 324 de este Código, respecto de los tutores, se observará también respecto de los albaceas.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### ARTÍCULO 807.
 
-PROHIBICIONES GENERALES AL ALBACEA SOBRE LOS BIENES HEREDITARIOS. El albacea no puede enajenar, gravar o hipotecar los bienes de la sucesión, transigir o comprometer en árbitros los negocios de la herencia, ni obligar a la sucesión mediante contratos, documentos o títulos de crédito, sin consentimiento de los herederos o legatarios en su caso, que representen mayoría de intereses, más aprobación judicial. La enajenación, gravamen, transacción o compromiso en árbitros serán inexistentes sin cumplimentarse estos requisitos. Asimismo lo serán las obligaciones, contratos, documentos o títulos de crédito que otorgue por la sucesión.
+PROHIBICIONES GENERALES AL ALBACEA SOBRE LOS BIENES HEREDITARIOS. El albacea no puede enajenar, gravar o hipotecar los bienes de la sucesión, transigir o comprometer en árbitros los negocios de la herencia, ni obligar a la sucesión mediante contratos, documentos o títulos de crédito, sin consentimiento de los herederos o legatarios en su caso, que representen la mayoría de los intereses de la sucesión. La enajenación, gravamen, transacción o compromiso en árbitros serán inexistentes sin cumplimentarse estos requisitos. Asimismo, lo serán las obligaciones, contratos, documentos o títulos de crédito que otorgue por la sucesión.
 
 ###### ARTÍCULO 808.
 
@@ -7110,6 +7124,42 @@ Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y SIETE.- POR EL QUE SE REFORMAN LA FRACCIÓN XV DEL ARTÍCULO 77 Y LA FRACCIÓN V DEL ARTÍCULO 457 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Publíquese el presente Decreto en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación oficial.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS CUATRO POR EL QUE SE REFORMA LOS ARTÍCULOS 57 Y 758 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 100; TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS SEIS POR EL QUE SE REFORMAN LOS ARTÍCULOS 805 Y 807 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 ###### ARTÍCULO TERCERO.
 
