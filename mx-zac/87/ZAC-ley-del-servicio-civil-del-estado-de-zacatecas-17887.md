@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2023-03-11"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -862,6 +862,14 @@ Todas y todos los trabajadores que cuenten con más de diez años de servicios, 
 ###### Artículo 54.
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia, por lo menos seis meses, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Para determinar los descansos a que se refiere este artículo, la interesada exhibirá los certificados médicos, que establezcan la fecha aproximada del parto y que hagan saber la fecha en que sucedió el mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Los hombres trabajadores tendrán derecho a un permiso de paternidad por el nacimiento de sus hijos, de cuarenta y cinco días naturales con goce de sueldo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Dicho permiso se hará extensivo en los casos de adopción de un infante. El permiso de paternidad a que se refiere el presente párrafo se otorgará una vez que el servidor público acredite el nacimiento o adopción correspondiente.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -4022,3 +4030,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO. Los titulares de las entidades públicas contarán con un plazo de 60 días para emitir el protocolo para prevenir, atender y sancionar el acoso y hostigamiento sexual; la Secretaría de las Mujeres y la Secretaría de la Función Públicas (sic) deberán verificar el cumplimiento de esta obligación.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 450.- SE REFORMA EL ARTÍCULO 54 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
