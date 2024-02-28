@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y-912
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-16"
-last_updated: "2020-09-11"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS -- ANTES LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS --
 
-LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS
+LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de enero del 2013.
 
@@ -59,17 +59,19 @@ TERCERO.- Túrnese a la Mesa Directiva del Congreso del Estado a fin de que sea 
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
 
-LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2024)</small>
+
+LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS
 
 ## TÍTULO I
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres, en el ámbito público y privado promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el género, mediante la coordinación entre los diferentes órganos de gobierno de acciones y el establecimiento de mecanismos institucionales y políticas públicas de aceleramiento para la igualdad; es de orden público, de interés social y de observancia general y obligatoria para todo el Estado de Morelos.
+La presente Ley tiene por objeto regular, promover y garantizar el derecho a la igualdad entre mujeres y hombres, en el ámbito público y privado incidiendo en el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el género, mediante la coordinación de acciones entre los Poderes del estado, los Ayuntamientos y Órganos Constitucionales Autónomos, para el establecimiento de mecanismos institucionales y políticas públicas, que aseguren la igualdad sustantiva; es de orden público, de interés social y de observancia general y obligatoria para todo el Estado de Morelos.
 
 ###### Artículo 2.
 
@@ -79,17 +81,21 @@ I.- La igualdad;
 
 II.- La no discriminación;
 
-III.- La equidad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-IV.- La autodeterminación; y,
+III.- La autodeterminación, y
 
-IV(sic).- Los contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado Libre y Soberano de Morelos.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV.- Los contenidos en los tratados internacionales en la materia, en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado Libre y Soberano de Morelos.
+
+IV (SIC).- Los contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado Libre y Soberano de Morelos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 3.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Morelos, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión, discapacidad o preferencia sexual, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
-
-La trasgresión a los principios y programas que esta Ley prevé será sancionada de conformidad a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Morelos que, por razón de su sexo, género o preferencia sexual, edad, estado civil, profesión, cultura, origen étnico o nacional, religión, opinión, condición social, salud o condición de discapacidad, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
 
 ###### Artículo 4.
 
@@ -109,7 +115,9 @@ También se entenderá como discriminación la homofobia, la misoginia, la trans
 
 III. Discriminación contra la Mujer, a toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-IV. Equidad de Género, al principio conforme al cual el hombre y la mujer acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyéndose aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones, el trato digno, las oportunidades y los beneficios del desarrollo, en todos los ámbitos de la vida política, económica, social, cultural y familiar;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV. Igualdad de Género, al principio conforme al cual la mujer y el hombre acceden con justicia e igualdad, al uso, control y beneficios de los bienes y servicios de la sociedad, incluyéndose aquellos socialmente valorados. Considerando el trato digno, las oportunidades y los beneficios del desarrollo, en todos los ámbitos de la vida política, económica, social, cultural y ambiental; así como, la participación paritaria de las mujeres en la toma de decisiones;
 
 V. Género, a la asignación que socialmente se hace a mujeres y hombres de determinados valores, creencias, atributos, interpretaciones, roles, representaciones y características;
 
@@ -135,35 +143,79 @@ XI. Ley, al presente instrumento legislativo;
 
 XII. Paridad, a la estrategia política que tiene por objetivo garantizar una participación equilibrada de mujeres y hombres en todos los ámbitos de la sociedad, particularmente en la toma de decisiones;
 
-XIII. Perspectiva de género, a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XIII. Perspectiva de género, se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género, igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 XIV. Programa, al Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
 XV. Sexo, a las Características distintivas de las personas en razón de su conformación biológica para la procreación;
 
-XVI. Sistema Estatal, al Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XVII. Transversalidad, al proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, que concrete el principio de igualdad sustantiva.
+XVI. Sistema, al Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XVII. Transversalidad, al proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, que concrete el principio de igualdad sustantiva, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XVIII. Unidad o Unidades, a la Unidad de Igualdad de Género como mecanismo para transversalizar la perspectiva de género, enfocada a alcanzar la igualdad sustantiva, responsable de encausar el desarrollo de acciones institucionales al interior de los Poderes Ejecutivo, Legislativo, Judicial, los Ayuntamientos y los Órganos Constitucionales Autónomos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 6.
 
-La igualdad entre mujeres y hombres implica la eliminación de normas o prácticas discriminatorias, que tienen por efecto impedir o anular el reconocimiento o el ejercicio del derecho a la igualdad de oportunidades y de trato entre mujeres y hombres, niños, niñas, adolescentes, adultos mayores por pertenecer a cualquier sexo, etnia, edad, condición social o económica, estado civil, condiciones de salud, embarazo, lengua, religión entre otras.
+La igualdad entre mujeres y hombres es un derecho e implica la eliminación de normas o prácticas discriminatorias, que tienen por efecto impedir o anular el reconocimiento o el ejercicio de sus derechos, en sus diferentes etapas de desarrollo.
 
 ## TÍTULO II. DE LAS AUTORIDADES E INSTITUCIONES
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y LA COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 7.
 
-El Estado, el Instituto de la Mujer para el Estado de Morelos y los Ayuntamientos, por medio de las Instancias, ejercerán sus atribuciones en materia de esta Ley, de conformidad con la distribución de competencias previstas en la misma y en los demás ordenamientos aplicables.
+Los Poderes del estado, los Ayuntamientos, y los Órganos Constitucionales Autónomos, por medio de las Unidades o área asignada, ejercerán sus atribuciones en materia de esta Ley, de conformidad con la distribución de competencias previstas en la misma y en los demás ordenamientos aplicables, manteniendo vinculación con el Instituto.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los Órganos Constitucionales Autónomos del Estado de Morelos, que cuenten con una Unidad de Igualdad de Género, promoverán e implementaran a través de estos mecanismos, una cultura institucional y organizacional con enfoque de igualdad de género y derechos humanos, en favor de la igualdad entre mujeres y hombres, como pilar fundamental en la toma de decisiones, para permear, de manera transversal en el diseño, programación, ejecución y evaluación de las políticas públicas institucionales. Sus actuaciones se regirán de conformidad con lo que se establezca al interior del Sistema y lo previsto en el Reglamento de esta Ley
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+###### Artículo 7 Bis.
+
+Las Unidades deberán contemplar:
+
+a) En su funcionamiento, considerar una integración conformada de personal con perspectiva de género, experiencia y conocimiento en políticas y programas públicos en materia de igualdad.
+
+En el caso de los Municipios, la persona Titular de la Unidad será preferentemente persona distinta a la directora de la Instancia.
+
+b). En su operación, de forma enunciativa más no limitativa, la obligación de:
+
+I. Planear, fomentar e implementar acciones que abonen a la igualdad sustantiva;
+
+II. Coadyuvar y desempeñar las actividades orientadas a acelerar la igualdad entre mujeres y hombres, impulsando y promoviendo la igualdad de oportunidades;
+
+III. Fomentar y proponer la incorporación de la perspectiva de género en los procesos de planeación y de presupuesto de los programas, políticas, lineamientos y procedimientos en general;
+
+IV. Gestionar procesos de formación dirigidos al personal de la institución, en materia de igualdad, perspectiva de género, no discriminación, violencia contra las mujeres, acoso y hostigamiento sexual, entre otros, y
+
+V. Presentar un plan de trabajo anual, que observe los compromisos internacionales del Estado mexicano en materia de igualdad.
+
+El Instituto, podrá coadyuvar para orientar y acompañar a las Unidades que formen parte de los Poderes Ejecutivo, Legislativo y Judicial, los Municipios y Órganos Constitucionales Autónomos del Estado de Morelos, para fortalecer su operación en aras de que cumplimenten la integración referida en el inciso a) y sus obligaciones.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 8.
 
-Para la integración y funcionamiento del Sistema Estatal, el Gobierno y los Ayuntamientos del Estado por conducto de sus Unidades municipales, participarán en el conforme a las bases de coordinación que se establezcan en el Reglamento de la presente Ley.
+En la integración y funcionamiento del Sistema, se contará con la participación de los Poderes del Estado, los Ayuntamientos y los Órganos Constitucionales Autónomos, conforme a las bases de coordinación que se establezcan en la presente Ley y el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 9.
 
-El Gobierno del Estado, a través de la Secretaría, Dependencia o entidad que corresponda, según la materia de que se trate, o los Ayuntamientos a través de las Instancias, podrán suscribir convenios o acuerdos de coordinación, con la coparticipación del Instituto, a fin de:
+Los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos o los Órganos Constitucionales Autónomos, a través de las áreas correspondientes o Unidades, conforme al ámbito de sus respectivas competencias, podrán suscribir convenios o acuerdos de coordinación, a fin de:
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -183,9 +235,11 @@ VI.- Proponer iniciativas y políticas de cooperación para el desarrollo de mec
 
 Para hacer efectivo el cumplimiento de la presente Ley, la o el titular del Ejecutivo, en los términos de la Constitución Política del Estado Libre y Soberano de Morelos, deberá incluir en la Ley de Presupuesto de Egresos que presente al Congreso del Estado, los recursos necesarios para la ejecución de las acciones derivadas de la misma, así como para el Desarrollo del Programa Estatal y los propósitos del Sistema Estatal; al efecto, las diversas dependencias y entidades que conforman el mismo, propondrán con oportunidad al Gobernador o Gobernadora del Estado, en sus respectivas partidas, los recursos qué deban etiquetarse para esos fines.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 11.
 
-En el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos que se celebren para el cumplimiento del objeto de esta Ley, se procurará la intervención del área responsable de la Comisión de Derechos Humanos del Estado de Morelos.
+El Sistema dará el seguimiento y evaluará los resultados que se obtengan por el cumplimiento del objeto de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LOS PODERES DEL ESTADO
 
@@ -199,7 +253,9 @@ II. Diseñar y aplicar los instrumentos de las políticas públicas estatales en
 
 III. Coordinar las acciones para la transversalidad de la perspectiva de género en la administración pública estatal;
 
-IV. Crear e instrumentar el Programa Estatal de conformidad a lo establecido en el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV. Elaborar e instrumentar el Programa Estatal de conformidad a lo establecido en el Plan Estatal de Desarrollo, pudiendo participar los Poderes Legislativo y Judicial, los Ayuntamientos, los Órganos Constitucionales Autónomos y demás instancias que conforman el Sistema;
 
 V. Promover las reformas normativas y reglamentarias necesarias para la armonización del marco jurídico del Estado, con las normas federales y con los compromisos internacionales suscritos por México en materia de derechos humanos de las mujeres;
 
@@ -207,13 +263,23 @@ VI. Garantizar la igualdad de oportunidades, mediante la adopción de instrument
 
 VII. Celebrar acuerdos municipales, nacionales e internacionales de coordinación, cooperación y concertación en materia de igualdad de género;
 
-VIII. Crear y fortalecer los mecanismos institucionales de promoción de la igualdad entre mujeres y hombres, y de empoderamiento de aquéllas, a través del Instituto;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+VIII. Crear y fortalecer los mecanismos institucionales de promoción de la igualdad entre mujeres y hombres, y de empoderamiento de aquéllas;
 
 IX. Incorporar en los presupuestos de Egresos del Estado la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad, con perspectiva de género;
 
-X. Crear en cada una de las dependencias y entidades que conforman la administración pública del Estado, los mecanismos, institucionales apropiados para el cumplimiento de los objetivos de esta Ley, tanto en las relaciones internas, como en el servicio al público; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+X. Crear en cada una de las Secretarías, Dependencias y Entidades que conforman la Administración Pública del Estado, los mecanismos institucionales apropiados para el cumplimiento de los objetivos de esta Ley, tanto en las relaciones internas, como en el servicio al público;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XI. Proponer al Sistema, los lineamientos para la política estatal en materia de igualdad entre mujeres y hombres, en términos de las leyes aplicables y en concordancia con los programas establecidos por el Poder Ejecutivo Federal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE FEBRERO DE 2024)</small>
+
+XII. Las demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### Artículo 13.
 
@@ -225,9 +291,17 @@ I. Vigilar que el marco jurídico estatal esté debidamente armonizado con los c
 
 II. Promover las iniciativas correspondientes para dar cumplimiento a lo previsto en dichos ordenamientos y en la presente Ley;
 
-III. Garantizar que las disposiciones legales necesarias para promover los principios, políticas y objetivos que sobre la igualdad entre mujeres y hombres se expidan, se consideren las acciones presupuestales necesarias para garantizar su ejecución; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-IV. Capacitar, en coordinación con el Instituto a todo su personal en materia de proceso legislativo con perspectiva de género y mecanismos de promoción y vigencia de los derechos humanos.
+III. Garantizar que las disposiciones legales necesarias para promover los principios, políticas y objetivos que en materia de igualdad entre mujeres y hombres se expidan, se consideren las acciones presupuestales necesarias para garantizar su ejecución;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV. Gestionar mecanismos para brindar y garantizar la permanente capacitación de todo su personal en materia de proceso legislativo con perspectivade (sic) género y de derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+V. Coordinar las acciones para la transversalidad de la perspectiva de géneroen (sic) el Poder Legislativo Estatal.
 
 ###### Artículo 14.
 
@@ -235,7 +309,9 @@ El Poder Judicial del Estado, con base en los principios y disposiciones de esta
 
 I. Implementará mecanismos y acciones encaminadas a promover y garantizar la igualdad en el acceso y promoción de las y los funcionarios judiciales, en la carrera judicial;
 
-II. Capacitará a las magistradas, magistrados; jueces y juezas y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos considerados vulnerables, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+II. Capacitará a las magistradas, magistrados, jueces, juezas y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos considerados en situaciones de vulnerabilidad, coordinando acciones para la transversalidad de la perspectiva de género en el Poder Judicial del Estado, y
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -281,19 +357,25 @@ IV. Promover, en coordinación con las dependencias de la Administración públi
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 18.
 
-La política estatal en materia de igualdad entre mujeres y hombres, deberá establecer las acciones conducentes para lograr la igualdad sustantiva en los ámbitos, económica, política, social y cultural.
+La política estatal en materia de igualdad entre mujeres y hombres, deberá establecer las acciones conducentes para lograr la igualdad sustantiva en el ámbito, económico, político, social, cultural y ambiental.
 
 Esta política deberá considerar, como mínimo, los siguientes lineamientos:
 
 I. Promover la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
-II. Promover el empoderamiento de las mujeres, en especial en los ámbitos educativo, laboral y político;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+II. Promover el empoderamiento de las mujeres, en el ámbito público y privado;
 
 III. Garantizar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
-IV. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+IV. Fomentar la participación y representación política paritaria entre mujeres y hombres;
 
 V. Promover la igualdad de acceso y el pleno disfrute de los derechos civiles, políticos, económicos, sociales y culturales, para las mujeres y los hombres;
 
@@ -313,13 +395,17 @@ VIII. Adoptar las medidas necesarias para la erradicación de la violencia contr
 
 IX. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-X. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, y
+X. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, así como, la erradicación de actividades que repliquen roles y estereotipos de género;
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XI. En materia de educación, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; y la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres.
+XI. En materia de educación, la formación en el respeto de los derechos, de las libertades y de la igualdad entre mujeres y hombres, así como, en el ejercicio de la tolerancia dentro de los principios democráticos de convivencia; y la inclusión dentro de sus fines y principios de calidad, para la eliminación de los obstáculos que dificultan la igualdad sustantiva, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+XII. Promover en las prácticas de comunicación social la incorporación de un lenguaje incluyente, impulsando acciones para la eliminación de estereotipos sexistas y discriminatorios que refuerzan la violencia simbólica, en los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los Órganos Constitucionales Autónomos.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -327,9 +413,17 @@ XI. En materia de educación, la inclusión entre sus fines de la formación en 
 
 Son instrumentos de la política estatal en materia de igualdad entre las mujeres y hombres, los siguientes:
 
-I. El Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-II. El Programa Estatal para la Igualdad entre Mujeres y Hombres.
+I. El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+II. El Programa Estatal para la Igualdad entre Mujeres y Hombres, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+III. La Observancia en materia de Igualdad entre Mujeres y Hombres, correspondiendo ésta al Sistema.
 
 ###### Artículo 20.
 
@@ -357,21 +451,61 @@ El Gobierno del Estado es el encargado del funcionamiento del Sistema Estatal, y
 
 El Sistema Estatal es el mecanismo de integración interinstitucional, dirigido a articular las estructuras, mecanismos, instrumentos, métodos y procedimientos de las diversas dependencias y entidades del Poder Ejecutivo, así como de los demás entes relacionados con el objeto de este Ordenamiento, para lograr la transversalización de la política estatal en materia de igualdad entre hombres y mujeres, en el quehacer y la propia estructura de la administración pública, para el debido cumplimiento del objeto de la presente Ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 24.
 
-Formarán parte del Sistema Estatal, a través de sus titulares o representantes de los mismos, las dependencias y entidades de la administración pública estatal, que generen o deban generar programas, proyectos o acciones relacionados con el objeto de esta Ley.
+Formarán parte del Sistema Estatal para la Igualdad entre Mujeres y Hombres a través de sus titulares:
 
-Los Ayuntamientos ejerciendo la representación en el Presidente Municipal que recaiga la representación ante el Instituto de Desarrollo Municipal del Estado de Morelos.
+I. El Poder Ejecutivo, recayendo el seguimiento en la Secretaría de Gobierno;
 
-La sociedad civil a través de las organizaciones involucradas en el tema.
+II. El Instituto de la Mujer para el Estado de Morelos;
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+III. El Poder Legislativo, representado por la persona titular de la Presidencia de la Mesa Directiva, recayendo el seguimiento en la Comisión de Igualdad de Género;
+
+IV. El Poder Judicial, representado por la persona titular de la Comisión de la Unidad de Igualdad de Género y Derechos Humanos, recayendo el seguimiento en la persona titular de la Unidad de Igualdad de Género y Derechos Humanos, ambas del Tribunal Superior de Justicia del Estado de Morelos;
+
+V. Comisión de Derechos Humanos del Estado de Morelos;
+
+VI. Secretaría de Administración;
+
+VII. Secretaría de Desarrollo Social;
+
+VIII. Secretaría de la Contraloría;
+
+IX. Secretaría de Desarrollo Agropecuario;
+
+X. Secretaría de Obras Públicas;
+
+XI. Secretaría de Turismo y Cultura;
+
+XII. Secretaría del Trabajo y Desarrollo Económico;
+
+XIII. Secretaría de Desarrollo Sustentable;
+
+XIV. Secretaría de Movilidad y Transporte;
+
+XV. Instituto Morelense de las Personas Adolescentes y Jóvenes;
+
+XVI. Instituto del Deporte y Cultura Física del Estado de Morelos;
+
+XVII. Instituto Morelense de Radio y Televisión;
+
+XVIII. Coordinación de Comunicación Social del Poder Ejecutivo Estatal;
+
+XIX. El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a través de la persona titular y la persona que represente la presidencia de la Junta de Gobierno, y
+
+XX. El número que determine el Sistema de personas representantes de las organizaciones civiles estatales y academia, que acrediten trabajo relacionado con la materia de igualdad, se integrarán al mismo especificada (sic) su participación mediante acuerdo.
+
+Cada integrante podrá nombrar para las sesiones, reuniones o mesas de trabajo a representantes con grado jerárquico inferior inmediato, y capacidad de toma de decisiones, dando aviso a la Secretaría Ejecutiva y haciéndolo constar por escrito.
+
+Las atribuciones y responsabilidades, de cada integrante serán definidas en el Reglamento de la Ley.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 25.
 
-El Sistema Estatal será presidido por el Instituto, a través de su Junta Directiva. El Gobernador del Estado será Presidente Honorario del mismo. El Sistema Estatal sesionará de manera ordinaria tres veces al año, y extraordinaria cuando así se requiera, y de conformidad con lo que se establezca en el Reglamento de esta Ley.
-
-Formarán parte del Sistema Estatal, una persona representante del Congreso del Estado; una persona representante del Poder Judicial; y la persona titular de la Comisión de Derechos Humanos del Estado de Morelos. Las y los representantes de las organizaciones civiles estatales relacionadas con la materia, se integrarán al mismo por invitación del propio Sistema Estatal. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema Estatal.
+El Sistema será presidido por la persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal. El Instituto fungirá como Secretaría Ejecutiva. El Sistema sesionará de manera ordinaria tres veces al año, y extraordinaria cuando así se requiera, de conformidad con lo que se establezca en el Reglamento de esta Ley.
 
 ###### Artículo 26.
 
@@ -397,41 +531,49 @@ VIII. Participar en el Sistema Nacional, conforme lo determinen las bases de coo
 
 Corresponde al Instituto, la coordinación de las acciones que el Sistema Estatal genere, así como las medidas para vincularlo con otros de carácter nacional o municipal; sin perjuicio de las atribuciones y funciones contenidas en su Ley orgánica, conforme lo determine el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 28.
 
-Para el cumplimento de los objetivos de esta Ley, y del Sistema Estatal, el Instituto tendrá las siguientes atribuciones:
+Para el cumplimento de los objetivos de esta Ley y del Sistema, el Instituto tendrá las siguientes atribuciones:
 
-I. Proponer al Sistema Estatal los lineamientos para la política estatal en materia de igualdad entre hombres y mujeres, en términos de las leyes aplicables y en concordancia con los programas establecidos por el Ejecutivo Federal;
+I. Coadyuvar en el diseño del proyecto de Programa, con la participación de los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, los Órganos Constitucionales Autónomos, y las instancias que conforman el Sistema;
 
-II. Diseñar, con la participación de las dependencias y entidades que conforman el Sistema Estatal, el proyecto para el Programa Estatal;
+II. Proponer al Sistema las bases de coordinación de los programas de igualdad entre mujeres y hombres, de los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los Órganos Constitucionales Autónomos;
 
-III. Proponer al Sistema Estatal las bases de coordinación de los programas de igualdad entre mujeres y hombres, de las dependencias y entidades de la administración pública estatal, así como los grupos que, por funciones y programas a fines (sic), determinen;
+III. Asesorar sobre la asignación de los recursos que requieran los planes anuales de igualdad entre mujeres y hombres, a través de su área especializada en Evaluación y Presupuesto con Perspectiva de Género;
 
-IV. Asesorar a las dependencias y entidades competentes, sobre la asignación de los recursos que requieran los programas de igualdad entre mujeres y hombres;
+IV. Orientar a las instancias que conforman el Sistema, en procesos de formación y capacitación en materia de igualdad entre mujeres y hombres;
 
-V. Apoyar la coordinación entre las dependencias y entidades estatales para formar y capacitar a su personal en materia de igualdad entre mujeres y hombres;
+V. Promover la participación de la sociedad civil en materia de igualdad entre mujeres y hombres; y
 
-VI. Promover la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres; y
-
-VII. Las demás que se requieran para el cumplimiento del objeto del Sistema Estatal; y las que determinen las disposiciones generales aplicables.
+VI. Las demás que se requieran para el cumplimiento del objeto del Sistema; y las que determinen las disposiciones generales aplicables.
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 29.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres deriva del Plan Estatal de Desarrollo, y tomará en cuenta las desigualdades que prevalezcan en cada región del Estado.
+El Programa deriva del Plan Estatal de Desarrollo, y tomará en cuenta las desigualdades que prevalezcan en cada región del Estado. Deberá estar alineado con los diversos instrumentos internacionales en materia de derechos humanos de las mujeres y con el Programa Nacional en la materia.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 30.
 
-El Programa Estatal, contendrá como mínimo, los objetivos, estrategias y líneas de acción fundamentales, tomando en cuenta los criterios e instrumentos de la política nacional y estatal de igualdad, en congruencia con el programa nacional.
+El Programa Estatal contendrá como mínimo los objetivos, estrategias, líneas de acción e indicadores de cumplimiento, tomando en cuenta criterios e instrumentos de la política nacional y estatal de igualdad, en congruencia con el Programa Nacional.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 31.
 
-El cumplimiento del Programa Estatal deberá revisarse cada tres años por el Instituto.
+El cumplimiento del Programa deberá revisarse cada año por el Sistema.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 32.
 
-Los informes anuales del Gobernador del Estado deberán contener el estado que guarda la ejecución del Programa Estatal, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
+Los informes anuales de los Poderes del Estado, los Ayuntamientos y los Órganos Constitucionales Autónomos, deberán contener el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
 
 ## TÍTULO IV. DE LOS OBJETIVOS Y ACCIONES DE LA POLÍTICA ESTATAL DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -647,19 +789,67 @@ Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo Estata
 
 ## TÍTULO V. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 47.
 
-El Sistema Estatal será responsable del seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres conforme lo señale el Reglamento de esta Ley.
+El Sistema, será responsable de la observancia de la política estatal en materia de igualdad entre mujeres y hombres conforme lo señale el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+###### Artículo 47 Bis.
+
+La ejecución de la política estatal en materia de igualdad entre mujeres y hombres corresponderá a los diferentes órganos de gobierno o cualquier autoridad que forme parte del Sistema y que esta Ley o su Reglamento les asigne alguna atribución o competencia.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+###### Artículo 47 Ter.
+
+El Sistema, como responsable de la observancia para el óptimologro (sic) del seguimiento y evaluación de la política estatal en materia de igualdad entre mujeres y hombres, deberá instalar un comité especializado mediante elcual (sic):
+
+I. Recibirá información sobre medidas y actividades que ponga en marcha la Administración Pública Estatal o Municipal, en materia de igualdad entre mujeres y hombres;
+
+II. Evaluará el impacto en la sociedad de las políticas y medidas que afecten a las mujeres y los hombres en materia de igualdad;
+
+III. Propondrá la realización de estudios e informes técnicos de diagnóstico, sobre la situación de mujeres y hombres en materia de igualdad;
+
+IV. Difundirá información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres, y
+
+V. Las demás que sean necesarias para cumplir con los objetivos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+###### Artículo 47 Quater.
+
+El Comité referido en el artículo que antecede, será conformado de la manera siguiente:
+
+I. La Secretaría de Gobierno;
+
+II. La Secretaría de hacienda;
+
+III. La Secretaría de Administración;
+
+IV. El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
+
+V. El instituto de la Mujer para el Estado de Morelos, y
+
+VI. La Comisión de Derechos Humanos del Estado de Morelos.
+
+Debiendo participar sociedad civil y Academia, conforme lo señale el Reglamento de esta Ley.
 
 ## TÍTULO VI. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 48.
 
-La violación a los principios y programas que esta Ley dispone, por parte de las Autoridades del Estado de Morelos y Municipios, será sancionada de conformidad a la Ley Estatal de Responsabilidades de los Servidores Públicos de la entidad y, en su caso, las aplicables que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Estado de Morelos.
+El incumplimiento a los principios y programas que esta Ley dispone, por parte de las autoridades de los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, y Órganos Constitucionales Autónomos, será sancionado de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos, la Ley de Responsabilidades Administrativas para el Estado de Morelos y Ley para Prevenir y Eliminar la Discriminación en el Estado; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 49.
 
-La violación a los principios y programas que esta Ley establece, por parte de las personas físicas o morales en el ámbito privado, será sancionada de acuerdo a lo que disponga la Ley que en materia de Discriminación se encuentre vigente; sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Estado de Morelos.
+El incumplimiento a lo establecido en esta Ley, por parte de las personas físicas o morales en el ámbito privado, será sancionada de acuerdo a lo que disponga la Ley para Prevenir y Eliminar la Discriminación en la Entidad, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en la legislación aplicable.
 
 ###### Artículo 50.
 
@@ -746,3 +936,23 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL SEISCIENTOS CATORCE QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS”.]</small>
+
+PRIMERA: Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA: El Congreso del Estado, deberá en un término no mayor de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá llevar a cabo la armonización legislativa que derive, de la presente reforma.
+
+CUARTA: En un plazo no mayor de 90 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá emitir las armonizaciones correspondientes al Reglamento de la presente Ley, así como realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+QUINTA: El Sistema Estatal de Igualdad entre Mujeres y Hombres, a que se refiere esta Ley, deberá instalarse en un término no mayor de 45 días naturales siguientes a la entrada en vigor de la presente Ley, su instalación constará en Decreto que para tal efecto emita el Ejecutivo Estatal.
+
+SEXTA: Para efectos de la instalación del Sistema, el Poder Ejecutivo Estatal y el Instituto de la Mujer para el Estado de Morelos deberán realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios, conforme a la normativa aplicable.
+
+SÉPTIMA: La designación de la persona a cargo de la Unidad de Igualdad de Género, en las administraciones actuales, será preferentemente una persona trabajadora en activo, con el propósito de no generar un impacto presupuestal en sus finanzas en el presente ejercicio fiscal; por lo que respecta a los subsecuentes ejercicios fiscales deberá garantizarse la suficiencia presupuestal para el cumplimiento de esta Ley.
+
+OCTAVA: Se derogan todas aquellas disposiciones que contravengan la presentereforma (sic).
