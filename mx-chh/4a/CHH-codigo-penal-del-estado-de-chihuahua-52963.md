@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2024-01-10"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2837,13 +2837,17 @@ En los casos de tentativa de robo, cuando no fuera posible determinar el monto, 
 
 Se impondrán las mismas penas previstas en el artículo anterior a quien sin consentimiento de la persona que legalmente pueda otorgarlo, aproveche energía eléctrica, gas o cualquier otro fluido.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2021)</small>
-
 ###### Artículo 209 Bis.
 
-Se impondrán de seis meses a tres años de prisión a quien sustraiga agua sin el consentimiento de quien legalmente pueda otorgarlo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Se impondrán de seis meses a tres años de prisión a quien sustraiga agua sin el consentimiento de quien legalmente pueda otorgarlo. Cuando la sustracción tenga como finalidad obtener un lucro en beneficio propio o de un tercero, se impondrá de uno a cinco años de prisión.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2021)</small>
 
 Además de la pena prevista en el párrafo anterior, se impondrán de uno a tres años de prisión si para la sustracción del agua se daña la infraestructura de una red que abastezca, en todo o en parte, a un centro de población, sea urbano o rural.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2021)</small>
 
 Además de las penas previstas en los párrafos anteriores de este artículo, se aplicarán de dos a cinco años de prisión si con motivo de la sustracción del agua se afecta o suspende la prestación de un servicio público.
 
@@ -2872,6 +2876,10 @@ III. Se cometa quebrantando la fe o seguridad existente entre el sujeto activo y
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
 IV. Recaiga sobre objetos dejados en el interior o partes o accesorios de un vehículo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+Cuando el robo recaiga sobre el catalizador de un vehículo, se aplicará prisión de dos a cinco años.
 
 V. Se cometa aprovechando el desorden o confusión que se produzca por catástrofe, desorden público o cualquier siniestro, incluyéndose en éste los ocasionados con motivo del tránsito de vehículos.
 
@@ -2926,6 +2934,10 @@ V. Recaiga sobre bienes de instituciones educativas o culturales.
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 VI. Recaiga sobre armamento, equipo táctico, uniforme, equipo de comunicación o identificación personal, perteneciente o bajo el resguardo de las instituciones de seguridad pública.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
+
+VII. Recaiga sobre bienes históricos o artísticos de interés local.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
 
@@ -3265,9 +3277,9 @@ Se aplicará prisión de seis meses a seis años y de setecientos cincuenta a mi
 
 A quien a sabiendas de la comisión de un delito y sin haber participado en este, adquiera o reciba el producto del mismo, se le aplicarán de seis meses a cuatro años de prisión y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, o las penas que correspondan al responsable del ilícito encubierto, si estas son más benévolas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
-Cuando lo adquirido o recibido sea ganado, se le aplicará de dos a cuatro años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+Cuando lo adquirido o recibido sea ganado; semillas, frutos cosechados o por cosechar, o cualquier otro artículo destinado al aprovechamiento agrícola, forestal o frutícola; o algún catalizador de cualquier tipo de vehículo automotor, se le aplicará de dos a cuatro años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2018)</small>
 
@@ -5864,3 +5876,11 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0812/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
