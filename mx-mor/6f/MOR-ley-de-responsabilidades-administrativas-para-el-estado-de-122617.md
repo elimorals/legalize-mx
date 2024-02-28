@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-responsabilidades-administrativas-para-el-estado-de-1226
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-11-15"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -515,21 +513,29 @@ IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrenda
 
 En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad;
 
-X. Abstenerse de autorizar a sus subordinados licencias, permisos, suspensiones o faltas a las labores cuando no tenga facultad para ello o sin justificación;
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XI. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley prohíba;
+X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en Conflicto de Interés;
 
-XV (SIC). Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de otras autoridades o de los titulares de las áreas de auditoría;
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2024)</small>
 
-XVII (SIC). Abstenerse de aprobar, para sí o para algún servidor público el salario o sueldo cuyo monto resulte mayor o igual al sueldo o salario asignado al superior jerárquico de dicho servidor público, excepto en los siguientes casos: cuando el importe sea producto del cumplimiento de las condiciones generales del trabajo que se pacten; o cuando derive de un trabajo técnico calificado o especializado de la función en (sic) encomendada;
+XI. Abstenerse de realizar propaganda gubernamental con recursos públicos que incluya nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público o a través de terceros;
 
-XVIII. Garantizar el acceso de un servidor público por elección o designación al ejercicio de su función o a la realización de programas, proyectos o actividades inherentes a la misma;
+XII. Abstenerse de autorizar a sus subordinados licencias, permisos, suspensiones o faltas a las labores cuando no tenga facultad para ello o sin justificación;
 
-XX (SIC). Garantizar que un servidor público por elección o designación integre comisiones, comités y otras instancias inherentes a su cargo o asista a las sesiones, o reuniones de los mismos;
+XIII. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley prohíba;
 
-XXII. (SIC) Abstenerse de imponer estereotipos de género en la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo, así como la asignación de responsabilidades que tengan como propósito la limitación del ejercicio de sus funciones, y
+XIV. Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de otras autoridades o de los titulares de las áreas de auditoría;
 
-XXII (SIC). Garantizar las retribuciones, emolumentos o prerrogativas a que tienen derecho los funcionarios públicos en el ejercicio de un cargo de elección popular.
+XV. Abstenerse de aprobar, para sí o para algún servidor público el salario o sueldo cuyo monto resulte mayor o igual al sueldo o salario asignado al superior jerárquico de dicho servidor público, excepto en los siguientes casos: cuando el importe sea producto del cumplimiento de las condiciones generales del trabajo que se pacten; o cuando derive de un trabajo técnico calificado o especializado de la función en (sic) encomendada;
+
+XVI. Garantizar el acceso de un servidor público por elección o designación al ejercicio de su función o a la realización de programas, proyectos o actividades inherentes a la misma;
+
+XVII. Garantizar que un servidor público por elección o designación integre comisiones, comités y otras instancias inherentes a su cargo o asista a las sesiones, o reuniones de los mismos;
+
+XVIII. Abstenerse de imponer estereotipos de género en la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo, así como la asignación de responsabilidades que tengan como propósito la limitación del ejercicio de sus funciones, y
+
+XIX. Garantizar las retribuciones, emolumentos o prerrogativas a que tienen derecho los funcionarios públicos en el ejercicio de un cargo de elección popular.
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -886,3 +892,13 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS TRES.- POR EL QUE SE ADICIONA LAS FRACCIONES X Y XI, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 51, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
