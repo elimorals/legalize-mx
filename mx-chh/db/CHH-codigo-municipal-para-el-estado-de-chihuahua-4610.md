@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2024-02-17"
+last_updated: "2024-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -3313,6 +3313,12 @@ Cuando los espectáculos se efectúen en lugares que tengan número determinado 
 
 La violación a esta disposición se sancionará con una multa correspondiente a dos tantos del importe de los boletos vendidos en exceso, independientemente, de la responsabilidad en el caso que se causen daños con motivo de ese sobrecupo.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
+
+###### ARTICULO 137 Bis.
+
+De acuerdo con lo que cada ayuntamiento determine, se sancionará a quien ofrezca o propicie la venta de boletos de espectáculos públicos, con precios superiores a los autorizados por quienes explotan dichos espectáculos.
+
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 138.
@@ -5829,7 +5835,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 1 DE JULIO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY /0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY /0732/2020 VIII P.E.”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5888,3 +5894,11 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto, todas las menciones administrativas, financieras, jurídicas y de cualquier índole que se hagan al Municipio de Rosario, se entenderán referidas al Municipio de Valle del Rosario.
+
+P.O. 28 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0812/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
