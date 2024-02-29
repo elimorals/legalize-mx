@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-1016
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2023-10-24"
+last_updated: "2024-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2024.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -57,9 +57,11 @@ Esta Ley tiene por objeto prevenir, atender y erradicar todas las formas de disc
 
 Obligaciones de las autoridades en la aplicación de esta Ley
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 3.
 
-Corresponde a los poderes públicos del Estado, a los ayuntamientos, dependencias y entidades estatales y municipales y a los organismos autónomos, promover las condiciones para que la libertad y la igualdad de trato y oportunidades de las personas sean reales y efectivas, eliminando aquellos obstáculos que limiten e impidan el ejercicio de sus derechos y su desarrollo, así como su efectiva participación civil, política, económica, cultural y social; e impulsar y fortalecer las acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas en situación de discriminación.
+Corresponde a los poderes públicos del Estado, a los ayuntamientos, dependencias y entidades estatales y municipales y a los organismos autónomos, promover y garantizar las condiciones para que la libertad y la igualdad de trato y oportunidades de las personas sean reales y efectivas, eliminando aquellos obstáculos que limiten e impidan el ejercicio de sus derechos y su desarrollo, así como su efectiva participación civil, política, económica, cultural y social; e impulsar y fortalecer las acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas en situación de discriminación.
 
 Previsión presupuestal
 
@@ -232,6 +234,24 @@ Las acciones afirmativas incluyen, entre otras, las medidas para favorecer el ac
 Serán prioritariamente aplicables hacia personas pertenecientes a pueblos y comunidades indígenas, mujeres y personas con discapacidad.
 
 Se tomará en cuenta la edad de las personas para aplicarlas a niñas, niños y adolescentes y personas adultas mayores en ámbitos relevantes.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+Señalética que prohíbe la discriminación
+
+Artículo 11 bis. Todo establecimiento que preste servicios al público y toda oficina de los poderes públicos del Estado, de los ayuntamientos, de las dependencias y entidades estatales y municipales y de los organismos autónomos del Estado deberá contar, como medida de acción integral, con señalética visible a todo el público con la siguiente leyenda:
+
+En este lugar se prohíbe discriminar. En Guanajuato se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes o por cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos. Cualquier acto de discriminación podrá ser denunciado.
+
+Asimismo, contendrá los números telefónicos de la unidad administrativa de la Secretaría de Gobierno encargada de desahogar los procedimientos de queja y conciliatorios y de la Procuraduría de los Derechos Humanos del Estado de Guanajuato.
+
+La señalética considerará los ajustes razonables para garantizar que la leyenda sea accesible a todas las personas, incluyendo a aquellas con discapacidad o en condición de vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+Capacitación
+
+Artículo 11 ter. Los poderes públicos del Estado, los ayuntamientos, las dependencias y entidades, así como los organismos autónomos, en el ámbito de sus competencias, tienen como obligación capacitar a su personal y procurar, fomentar e impulsar la capacitación de toda la población en materia de derechos humanos, igualdad, no discriminación y eliminación de todo tipo de estereotipos, prejuicios y estigmas.
 
 Acciones no discriminatorias
 
@@ -864,5 +884,13 @@ El Comité Interno de entrega-recepción, para cada unidad administrativa, deber
 P.O. 24 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 219. SE ADICIONA UNA FRACCIÓN XXXIII BIS AL ARTÍCULO 8 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 29 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 303 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 3; Y SE ADICIONAN LOS ARTÍCULOS 11 BIS Y 11 TER A LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
