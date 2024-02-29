@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-organizacion-y-funcionamiento-de-las-128333"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-11"
-last_updated: "2023-01-04"
+last_updated: "2024-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-02-07"
 ---
 # REGLAMENTO PARA LA ORGANIZACION Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/INAI/ACT-PUB-07-02-2024-13.zip]</small>
+
 REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2018.
 
@@ -217,15 +219,15 @@ La Comisionada o el Comisionado Coordinador y las Comisionadas y Comisionados In
 
 El Pleno en el ejercicio de sus atribuciones, será la instancia encargada de la creación de las Comisiones.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE FEBRERO DE 2024)</small>
 
 ###### Artículo 5.
 
-Las Comisiones se integrarán por tres Comisionadas o Comisionados con derecho a voz y voto, uno de los cuales fungirá como Comisionada o Comisionado Coordinador y su designación corresponderá al Pleno.
+Las Comisiones se integrarán por tres personas Comisionadas con derecho a voz y voto, excepto cuando el Pleno tenga menos de cinco personas Comisionadas designadas en funciones, en cuyo (sic) podrán integrarse válidamente con dos o tres personas Comisionadas, atendiendo a las necesidades del servicio y a lo que acuerde el Pleno. La designación de las personas Comisionadas Integrantes y de aquella que fungirá como Comisionada Coordinadora, corresponderá al Pleno.
 
-Participarán en las Comisiones las personas titulares de las Secretarías Ejecutiva, de Acceso a la Información, de Protección de Datos Personales, y Ejecutiva del Sistema Nacional de Transparencia, así como las personas titulares de las Direcciones Generales que, de acuerdo con sus atribuciones y denominación le corresponda. Asimismo, la o el Comisionado Presidente conocerá de los asuntos y trabajos que se desarrollen en cada una de las Comisiones y podrá designar a un representante permanente de nivel Secretaría o Dirección General, para que participe en las sesiones de las Comisiones. Dichos integrantes sólo tendrán derecho a voz.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+(REFORMADO, D.O.F. 4 DE ENERO DE 2023)Participarán en las Comisiones las personas titulares de las Secretarías Ejecutiva, de Acceso a la Información, de Protección de Datos Personales, y Ejecutiva del Sistema Nacional de Transparencia, así como las personas titulares de las Direcciones Generales que, de acuerdo con sus atribuciones y denominación le corresponda. Asimismo, la o el Comisionado Presidente conocerá de los asuntos y trabajos que se desarrollen en cada una de las Comisiones y podrá designar a un representante permanente de nivel Secretaría o Dirección General, para que participe en las sesiones de las Comisiones. Dichos integrantes sólo tendrán derecho a voz.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
@@ -234,6 +236,10 @@ Participarán en las Comisiones las personas titulares de las Secretarías Ejecu
 ###### Artículo 6.
 
 La designación de la Comisionada o Comisionado Coordinador y la integración de las Comisiones será por dos años. Al concluir dicho periodo, el Pleno podrá ampliar su gestión por un lapso igual. En caso contrario, el órgano máximo de decisión renovará la coordinación e integración de éstas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE FEBRERO DE 2024)</small>
+
+En caso de ausencia definitiva de las Comisionadas y Comisionados Integrantes, el Pleno podrá acordar la renovación parcial o total de las Comisiones a efecto de subsanar la disminución de sus integrantes o que continúen funcionando con las Comisionadas y Comisionados Integrantes restantes hasta la conclusión del periodo respectivo, siempre y cuando estén integradas por al menos dos personas Comisionadas.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
@@ -291,9 +297,11 @@ Las Comisiones permanentes del Instituto son:
 
 9. Vinculación con el Sistema Nacional de Transparencia.
 
-10. Criterios.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 11], D.O.F. 29 DE FEBRERO DE 2024)</small>
 
-11. Vinculación y Promoción del Derecho.
+10. Vinculación y Promoción del Derecho.
+
+11. (DEROGADO, D.O.F. 29 DE FEBRERO DE 2024)
 
 Las Comisiones temporales, serán aquellas creadas por acuerdo del Pleno para la atención de un asunto determinado, un periodo, u objeto específico, por lo cual, una vez concluida la tarea institucional, rendirán un informe al Pleno del Instituto y se procederá a su extinción.
 
@@ -790,3 +798,107 @@ CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo
 QUINTO. El presente Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
 
 SEXTO. Se deroga toda disposición de igual o menor jerarquía que contravenga el presente Acuerdo.
+
+D.O.F. 29 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES Y LA RENOVACIÓN DE LA INTEGRACIÓN DE LAS COMISIONES PERMANENTES".]</small>
+
+PRIMERO. Se aprueba la modificación del Reglamento para la Organización y Funcionamiento de las Comisiones del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos del Anexo Único que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se aprueba la renovación de la integración de las Comisiones Permanentes del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, para quedar de la forma que sigue:
+
+I. Comisión de Asuntos Internacionales
+
+Comisionada Coordinadora: Josefina Román Vergara
+
+Comisionada Integrante: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+II. Comisión de Capacitación y Cultura de la Transparencia
+
+Comisionada Coordinadora: Blanca Lilia Ibarra Cadena
+
+Comisionada Integrante: Josefina Román Vergara
+
+Comisionada Integrante: Norma Julieta del Río Venegas
+
+III. Comisión de Gestión Documental y Archivos
+
+Comisionada Coordinadora: Josefina Román Vergara
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+IV. Comisión de Indicadores y Evaluación
+
+Comisionada Coordinadora: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Josefina Román Vergara
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+V. Comisión de Normatividad de Datos Personales
+
+Comisionada Coordinadora: Josefina Román Vergara
+
+Comisionada Integrante: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+VI. Comisión de Políticas de Acceso, Gobierno Abierto y Transparencia
+
+Comisionada Coordinadora: Blanca Lilia Ibarra Cadena
+
+Comisionada Integrante: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Josefina Román Vergara
+
+VII. Comisión de Supervisión, Vigilancia, Verificación y Sanciones
+
+Comisionada Coordinadora: Josefina Román Vergara
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+VIII. Comisión de Tecnologías de la Información
+
+Comisionada Coordinadora: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+IX. Comisión de Vinculación con el Sistema Nacional de Transparencia
+
+Comisionada Coordinadora: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+X. Comisión de Vinculación y Promoción del Derecho
+
+Comisionada Coordinadora: Norma Julieta del Río Venegas
+
+Comisionada Integrante: Josefina Román Vergara
+
+Comisionada Integrante: Blanca Lilia Ibarra Cadena
+
+TERCERO. Se aprueba que, una vez que sean designadas por parte de la Cámara de Senadores de la República, una o más de las tres personas Comisionadas que a la fecha de aprobación del presente Acuerdo se encuentran pendientes a efecto de integrar la totalidad del Pleno del Instituto, procederá la renovación de la integración y coordinación de las Comisiones Permanentes para que las personas Comisionadas designadas puedan formar parte de su integración o coordinación en términos de la normatividad aplicable.
+
+CUARTO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+El presente Acuerdo y su Anexo Único podrán ser consultado (sic) en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-07-02-2024.13.zip
+
+Contenido de la carpeta zip:
+
+1. Acuerdo ACT-PUB-07-02-2024.13.pdf
+
+2. Anexo Único del Acuerdo ACT-PUB-07-02-2024.13.pdf
+
+www.dof.gob.mx/2024/INAI/ACT-PUB-07-02-2024-13.zip
+
+QUINTO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+SEXTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo, para agilizar su cumplimiento.
+
+SÉPTIMO. El presente Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+OCTAVO. Se deja sin efectos el Acuerdo ACT-PUB/24/01/2024.08 y se deroga toda disposición de igual o menor jerarquía que contravenga el presente Acuerdo.
