@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2023-12-01"
+last_updated: "2024-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, PUBLICADO EN EL G.G. 29 DE FEBRERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE FEBRERO DE 2024 (ABROGADA).
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -3242,3 +3244,21 @@ PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno"
 SEGUNDO. Este Decreto entrará el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Poder Legislativo del Estado de México asignara recursos públicos en los ejercicios fiscales correspondientes, para cumplir con la presente reforma.
+
+G.G. 29 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239.- POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO. Se abroga la Ley de Educación del Estado de México, publicada el 06 de mayo de 2011 en el Periódico Oficial "Gaceta del Gobierno" y se derogan todas las disposiciones contrarias al presente Decreto.
+
+TERCERO. La autoridad educativa estatal dentro de su ámbito de competencia deberá emitir o ajustar los reglamentos, acuerdos, lineamientos y demás disposiciones normativas conforme a lo establecido en el presente Decreto y las disposiciones que establezca la autoridad educativa federal, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
+
+CUARTO. Hasta la publicación de las disposiciones normativas a las que se refiere el artículo anterior, seguirán aplicándose las disposiciones normativas vigentes.
+
+QUINTO. Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones en los cuales se fundamentaron.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+SÉPTIMO. El Sistema Integral de Formación, Capacitación y Actualización del Estado de México, previsto en el artículo 101 de este Decreto deberá constituirse antes de finalizar el año 2024.
