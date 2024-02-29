@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2023-08-08"
+last_updated: "2024-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE FEBRERO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -618,6 +618,26 @@ XLIII. Fomentar la educación y la creación de bibliotecas públicas, así como
 XLIV. Integrar, de conformidad con lo dispuesto por esta Ley y demás disposiciones legales aplicables, la Unidad Municipal de Protección Civil; y en el caso de aquellos municipios que no cuenten con Cuerpos de Bomberos podrán integrarlos para su respectiva operatividad;
 
 XLV. Aprobar el funcionamiento interno de la Unidad Municipal de Protección Civil, con base en la propuesta que ésta le presente;
+
+> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2024)</small>
+
+XLV Bis. Autorizar, por conducto de la Unidad Municipal de Protección Civil, la celebración de carreras atléticas organizadas por personas físicas o morales, previa revisión de los siguientes requisitos:
+
+a) Que la distancia a recorrer guarde un margen razonable de exactitud con la anunciada por los organizadores;
+
+b) Que el terreno que comprende el recorrido sea seguro para las y los participantes;
+
+c) Que se establezca un número máximo de personas corredoras, mismo que deberá guardar relación con las dimensiones de la vialidad a recorrer. De observarse que el número de participantes previsto es mayor a la capacidad de la vialidad, se deberá reducir el número de personas corredoras, a fin de garantizar su seguridad;
+
+d) Que se establezca como requisito esencial para obtener la inscripción respectiva, la presentación de certificado médico por parte de las personas interesadas en participar, mismo que deberá expresar su óptimo estado de salud para el esfuerzo físico requerido en cada carrera;
+
+e) Que la convocatoria emitida al público por las personas organizadoras, atendiendo a la naturaleza de cada carrera, considere como obligatorio el uso del equipamiento idóneo y necesario por parte de las personas participantes, estableciendo en la misma que la falta de algún elemento del equipo necesario dará lugar a denegar la participación de las personas atletas inscritas;
+
+f) Que se contemplen mecanismos que permitan dar auxilio oportuno a las personas participantes que pudieran quedarse rezagadas; y
+
+g) Los demás que a juicio de la Unidad deban observarse.
+
+La realización de carreras atléticas sin la autorización a que se refiere esta fracción o la inobservancia de algunos de los requisitos señalados por parte de las personas organizadoras al momento de la celebración de la carrera, dará lugar a una sanción económica de entre trescientas y seiscientas Unidades de Medida y Actualización, de acuerdo a la gravedad de la falta.
 
 > <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2017)</small>
 
@@ -1457,9 +1477,17 @@ III. Dar seguimiento y evaluar las atribuciones del Consejo y de la Unidad Munic
 
 IV. Canalizar al Órgano de Control Interno las quejas y denuncias que se presenten en contra de los servidores públicos municipales del Sistema de Protección Civil;
 
-V. Contribuir al cumplimiento de las disposiciones legales en materia de Protección Civil; y
+> <small>(REFORMADA, G.O. 29 DE FEBRERO DE 2024)</small>
 
-VI. Las demás señaladas en esta Ley y otras disposiciones legales aplicables.
+V. Contribuir al cumplimiento de las disposiciones legales en materia de Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE FEBRERO DE 2024)</small>
+
+VI. Supervisar el actuar de la Unidad Municipal de Protección Civil en lo relativo a las autorizaciones otorgadas para la celebración de las carreras atléticas; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], G.O. 29 DE FEBRERO DE 2024)</small>
+
+VII. Las demás señaladas en esta Ley y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -4558,3 +4586,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se concede un plazo de noventa días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus reglamentos u otros ordenamientos para dar puntual cumplimiento al mismo.
+
+G.O. 29 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 725 QUE REFORMA LAS FRACCIONES V Y VI DEL ARTÍCULO 60 OCTIES, Y ADICIONA UNA FRACCIÓN XLV BIS AL ARTÍCULO 35 Y UNA FRACCIÓN VII AL ARTÍCULO 60 OCTIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede un plazo de noventa días hábiles a los Ayuntamientos, para que realicen las adecuaciones normativas a que haya lugar para dar cumplimiento a este Decreto.
