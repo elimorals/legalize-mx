@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-67-2022-del-pleno-del-consejo-de-la-162980"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-01-13"
-last_updated: "2023-12-27"
+last_updated: "2024-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162980&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-05"
 
 ACUERDO GENERAL 67/2022, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 13 de enero de 2023.
 
@@ -199,7 +199,11 @@ Competencia en declaratorias generales de inconstitucionalidad. Conforme a los a
 
 Competencia en contradicciones de criterios. Conforme a los artículos 107, fracción XIII, de la Constitución; 42, fracciones I y II de la Ley Orgánica; 226 y 227 de la Ley de Amparo y demás normas aplicables, los Plenos Regionales tienen competencia para:
 
-I. Resolver las contradicciones de criterios que se susciten entre los Tribunales Colegiados de Circuito que pertenezcan a la misma región; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE FEBRERO DE 2024)</small>
+
+I. Resolver las contradicciones de criterios que se susciten entre los Tribunales Colegiados de Circuito que pertenezcan a la misma región.
+
+Tratándose de contradicciones de criterios en materia común, sustentadas entre órganos jurisdiccionales de distinta especialización, corresponderá conocer de la contradicción al Pleno Regional que ejerza jurisdicción por territorio y por materia sobre el Tribunal Colegiado de Circuito que emitió el primero de los criterios en contienda; y
 
 II. Denunciar ante el Pleno o las Salas de la Suprema Corte de Justicia de la Nación las contradicciones de criterios que se susciten entre las mencionadas Salas; entre Plenos Regionales; o entre Tribunales Colegiados de distinta región; ya sea que la denuncia la formule el Pleno Regional o alguna o alguno de sus integrantes.
 
@@ -694,3 +698,11 @@ SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación,
 TERCERO. Los asuntos pendientes de resolución serán remitidos al Pleno Regional correspondiente con base en la semiespecialización señalada en el artículo 1, del Acuerdo General 108/2022 del Pleno del Consejo de la Judicatura Federal, relativo a la creación, denominación e inicio de funciones de los Plenos Regionales de las Regiones Centro-Norte y Centro-Sur, así como su competencia, jurisdicción territorial y domicilio; para la remisión no se considerarán aquellos asuntos listados, aplazados o retirados.
 
 Al momento del reparto de asuntos, todos los órganos jurisdiccionales deberán enviar a la Dirección General de Estadística Judicial, una relación de los expedientes que se remiten.
+
+D.O.F. 29 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 1/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 67/2022, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
