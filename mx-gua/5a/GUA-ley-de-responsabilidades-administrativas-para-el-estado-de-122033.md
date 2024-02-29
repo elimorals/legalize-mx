@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-para-el-estado-de-1220
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2023-11-20"
+last_updated: "2024-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2024.
 
 Ley publicada en la Cuarta Parte al Número 98 del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -1687,13 +1687,17 @@ La resolución de la reclamación no admitirá recurso legal alguno.
 
 #### Sección Tercera. Apelación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 215.
 
-Las resoluciones emitidas por el Tribunal, podrán ser impugnadas por las partes o por los terceros, mediante el recurso de apelación, ante la instancia y conforme a los medios que determine la Ley Orgánica del Tribunal de Justicia Administrativa.
+Las resoluciones emitidas por el Tribunal podrán ser impugnadas por los responsables o por los terceros, mediante el recurso de apelación, ante la instancia y conforme a los medios que determinen la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato.
 
 El recurso de apelación se promoverá mediante escrito ante el Tribunal, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
 
-En el escrito deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+En el escrito deberán formularse los agravios que el recurrente considere le hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
 
 ###### Artículo 216.
 
@@ -1725,13 +1729,35 @@ Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, perito
 
 #### Sección Cuarta. Revisión
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
 ###### Artículo 220.
 
-Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por la Secretaría, los Órganos internos de control de los entes públicos o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
+Las resoluciones definitivas que emita la Sala Especializada del Tribunal podrán ser impugnadas por la Secretaría, los Órganos internos de control de los entes públicos o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante la sala que la emitió.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+Artículo 220 bis. El recurso de revisión se presentará dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
+
+Al recurso se acompañarán los agravios que cause la resolución impugnada.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+Artículo 220 ter. Interpuesto el recurso, el magistrado sin más trámite, ordenará que se asiente certificación de la fecha en que se notificó la resolución impugnada, así como la fecha de recepción del recurso y mandará el expediente al Presidente del Tribunal, quien acordará sobre su admisión.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+Artículo 220 cuáter. La presidencia del Pleno del Tribunal, dentro de los tres días siguientes a su recepción, acordará sobre la admisión del recurso, la designación del magistrado ponente y, en su caso, las prevenciones que se requieran.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2024)</small>
+
+Artículo 220 quinquies. De admitirse, se les dará vista a las partes con copia del recurso para que en el término de tres días hagan valer lo que a su interés convenga. Transcurrido el término, se turnará de inmediato el expediente al magistrado ponente, para que formule el proyecto de resolución respectivo sin que sea asignado el expediente al que emitió la sentencia definitiva.
+
+El proyecto de resolución se formulará por el magistrado ponente y lo deberá presentar al Pleno del Tribunal dentro del plazo máximo de treinta días hábiles.
 
 ###### Artículo 221.
 
-La tramitación del recurso de revisión se sujetará a lo establecido en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para la substanciación de la revisión en amparo indirecto, y en contra de la resolución dictada por el Tribunal Colegiado de Circuito no procederá juicio ni recurso alguno.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2024)
 
 ### Capítulo IV. Ejecución
 
@@ -1824,3 +1850,9 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 234, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 29 DE FEBRERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 302 POR EL QUE SE REFORMAN LOS ARTÍCULOS 215 EN SUS PÁRRAFOS PRIMERO Y TERCERO Y 220; SE ADICIONAN LOS ARTÍCULOS 220 BIS, 220 TER, 220 CUÁTER, Y 220 QUINQUIES Y, SE DEROGA EL ARTÍCULO 221 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
