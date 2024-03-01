@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2023-04-04"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2024.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -467,7 +467,13 @@ I. Auxiliar a la Secretaría, según corresponda, en el desempeño de sus funcio
 
 II. Participar en la formulación de los Programas Integrales de Movilidad Sustentable, respecto de los servicios de transporte y de los otros modos de movilidad que se presten en el territorio municipal; y proponer al Ejecutivo del Estado las medidas tendientes al mejoramiento del servicio de transporte;
 
-III. Determinar las políticas en materia de estacionamientos públicos establecidos en las vías de circulación, en el ámbito de sus competencias;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MARZO DE 2024)</small>
+
+III. Determinar las políticas en materia de estacionamientos públicos establecidos en las vías de circulación, en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2024)</small>
+
+Asimismo, podrán establecer las bases para que el gobierno municipal realice los convenios de colaboración con centros comerciales y espacios privados de atención al público, para permitir el acceso a las autoridades competentes, con la finalidad de establecimiento de multas para las personas que estacionen su vehículo automotor en lugar exclusivo para personas con discapacidad, o frente a una rampa para uso de las personas con discapacidad;
 
 IV. Expedir de acuerdo a esta Ley, los permisos para estacionamiento público o pensión de vehículos, con indicación de las respectivas tarifas autorizadas y vigilar su correcto funcionamiento;
 
@@ -4886,3 +4892,15 @@ P.O. 4 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 31 DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 24 DE LA LEY (SIC) MOVILIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LA MOVILIDAD DE LAS PERSONAS CON DISCAPACIDAD EN ESPACIOS PRIVADOS DE ATENCIÓN AL PÚBLICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efectos conducentes.
+
+TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
+
+CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad.
