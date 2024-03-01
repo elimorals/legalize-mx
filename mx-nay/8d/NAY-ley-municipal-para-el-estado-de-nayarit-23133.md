@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2023-12-20"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -2557,6 +2557,10 @@ La policía preventiva municipal deberá acatar las órdenes que el Gobernador l
 
 El servicio de estacionamiento público es aquél que se presta en bienes inmuebles de propiedad municipal o en la vía pública; se pagará de conformidad con la tarifa que apruebe el Ayuntamiento, según la utilización de sistemas de control de tiempo y espacio.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2024)</small>
+
+El gobierno municipal podrá realizar convenios de colaboración con centros comerciales y espacios privados de atención al público, para permitir el acceso a las autoridades competentes, con la finalidad de establecimiento de multas para las personas que estacionen su vehículo automotor en lugar exclusivo para personas con discapacidad, o frente a una rampa para uso de las personas con discapacidad.
+
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 141.
@@ -4686,3 +4690,15 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL INCISO B) DEL ARTÍCULO 126 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE LUMINARIAS FOTOVOLTAICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 140 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LA MOVILIDAD DE LAS PERSONAS CON DISCAPACIDAD EN ESPACIOS PRIVADOS DE ATENCIÓN AL PÚBLICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efectos conducentes.
+
+TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
+
+CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad.
