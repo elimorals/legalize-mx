@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2022-12-09"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -541,6 +541,10 @@ Las autoridades de Tránsito y Transporte del Estado dotarán a las personas con
 
 Los conductores de vehículos automotores, que invadan u ocupen los espacios destinados a personas con discapacidad, serán infraccionados en los términos que dispone esta Ley, dejándose nota en el expediente correspondiente para que ésta se duplique en caso de reincidencia.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2024)</small>
+
+El gobierno municipal podrá realizar convenios de colaboración con centros comerciales y espacios privados de atención al público, para permitir el acceso a las autoridades competentes, con la finalidad de establecimiento de multas para las personas que estacionen su vehículo automotor en lugar exclusivo para personas con discapacidad, o frente a una rampa para uso de las personas con discapacidad.
+
 ###### Artículo 46.
 
 Los edificios que tengan escaleras en su acceso desde la vía pública, deberán contar con un sistema de rampas para dar servicio a las personas con discapacidad, instalándose o adecuándose en su caso pasamanos, barandales o elevadores con las características de seguridad y diseño que disponga la autoridad.
@@ -1052,3 +1056,15 @@ P.O. 9 DE DICIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. La reforma prevista en el artículo 26 no significará, por ningún motivo, creación de nuevos empleos, cargos o comisiones, a menos que así se crea conveniente, ni tampoco aplicará despidos o desplazamientos de personas trabajadoras o servidoras públicas ya contratadas, por lo que se dará cumplimiento a dicha disposición reformada de manera gradual conforme a la disposición presupuestal.
+
+P.O. 1 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 45 DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LA MOVILIDAD DE LAS PERSONAS CON DISCAPACIDAD EN ESPACIOS PRIVADOS DE ATENCIÓN AL PÚBLICO.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efectos conducentes.
+
+TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
+
+CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad.
