@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2020-02-01"
+last_updated: "2024-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -84,6 +84,10 @@ VII. Seguridad Vial. Conjunto de políticas, sistemas, programas y acciones orie
 > <small>(ADICIONADA, P.O. 15 DE JULIO DE 2017)</small>
 
 VIII. Movilidad. El conjunto de desplazamientos de personas y bienes, mediante diversos modos de transporte, orientado a satisfacer las necesidades de las personas y facilitar el acceso a las oportunidades de desarrollo que ofrece un centro de población.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2024)</small>
+
+IX. Vehículo todoterreno.- Todo aquel vehículo de tres o cuatro ruedas, con motor a gasolina de hasta 1000 centímetros cúbicos o motor eléctrico no mayor a 750 Kilovoltio, destinado específicamente para ser utilizado en actividades deportivas, recreativas, turísticas, de seguridad o laborales en terrenos abruptos, que pueden ser designados ATV, UTV O QUAD por su construcción, o siendo vehículos regulares modificados con estas características, incluidos los diseñados y fabricados en una o varias fases, y a los sistemas, componentes y unidades técnicas independientes, así como a las piezas y equipos diseñados y fabricados para tales vehículos.
 
 ###### Artículo 3.
 
@@ -633,13 +637,103 @@ La persona a la que le hayan sido proporcionados juegos de placas de demostraci�
 
 El extravío o robo de una o ambas placas de circulación de cualquier tipo, deberá notificarse a la Secretaría de Hacienda en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente, con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
 
-### CAPÍTULO PRIMERO. DE LOS CONDUCTORES Y PASAJEROS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2024)</small>
+
+### CAPÍTULO CUARTO. DE LOS VEHÍCULOS TODOTERRENO
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+###### Artículo 47 Bis.
+
+Queda prohibida la circulación de los vehículos todoterreno dentro de zonas urbanas en avenidas, calzadas, paseos, carreteras, puentes, distribuidores viales, calles, camellones, arroyos y banquetas o cualquier vialidad pavimentada y con tráfico de vehículos. Para el transporte de esta clase de vehículos por estas vías, deberán utilizarse remolques o vehículos de carga.
+
+En vías públicas, su uso deberá limitarse a brechas, terrecería, arroyos secos o a aquellas áreas ubicadas en zonas públicas definidas por las autoridades en materia de vialidad, siempre y cuando cumplan con las siguientes características:
+
+I. Estar registrados ante la Secretaría.
+
+II. Faros frontales que proyecten luz blanca en alta y baja intensidad.
+
+III. Luces traseras cubiertas con micas de color rojo.
+
+IV. Cinturones de seguridad para el total de sus ocupantes, mismos que deberán utilizarse estando en circulación.
+
+V. Extintor en buenas condiciones de uso.
+
+VI. Silenciador en el sistema de escape.
+
+VII. Velocímetro en buen estado de funcionamiento, y con iluminación nocturna en el tablero.
+
+VIII. Tapón o tapa del tanque del combustible.
+
+IX. Las demás que dispongan las autoridades de vialidad y/o tránsito en sus reglamentos.
+
+Las autoridades en materia de vialidad podrán, en todo momento, establecer las limitantes, horarios y condiciones para la circulación de los vehículos todoterreno en las vías públicas enumeradas en el segundo párrafo de este artículo.
+
+Tratándose de cuatrimotos, quedarán exentas de cumplir con lo dispuesto en las fracciones IV y V de este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+###### Artículo 47 Ter.
+
+Queda prohibido que los vehículos todoterreno porten los accesorios, características o artículos siguientes:
+
+I. Faros encendidos o reflejantes de color diferente al blanco.
+
+II. Radios o dispositivos de cualquier índole que utilicen la frecuencia de la dependencia de seguridad pública.
+
+III. Sirenas, aparatos que emitan sonidos semejantes, torretas, así como accesorios o distintivos de uso exclusivo para vehículos policiales, de emergencia y del Ejército.
+
+IV. Luces estroboscópicas en la parte delantera, así como blanca en la parte posterior.
+
+V. Artículos u objetos que impidan u obstaculicen la visibilidad del conductor.
+
+VI. Mofles directos, rotos o que emitan un ruido excesivo.
+
+VII. Aparatos de sonido en unidades móviles, que rebasen los límites permitidos por las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+###### Artículo 47 Quater.
+
+Solo pueden conducir vehículos todoterreno las personas mayores edad, o las mayores de 16 años siempre y cuando vayan acompañadas de una persona mayor de edad; en ambos casos deberán contar con licencia para conducir vigente emitida por la autoridad competente, y acatar las siguientes obligaciones:
+
+I. Respetar a peatones, ciclistas, vida silvestre, ganado y demás conductores de vehículos motorizados.
+
+II. Ser acompañados, en su caso, solo por el número de personas de acuerdo a los asientos con los que cuente el vehículo.
+
+III. Llevar el casco debidamente colocado, gafas protectoras adecuadas y cinturón de seguridad, tanto el conductor como en su caso los tripulantes, siempre que el vehículo esté en movimiento.
+
+IV. Contar con la póliza o constancia de seguro que garantice por lo menos los daños a terceros.
+
+V. Acatar estrictamente las demás disposiciones emitidas por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+###### Artículo 47 Quinquies.
+
+Queda estrictamente prohibido a los conductores de los vehículos todoterreno, lo siguiente:
+
+I. Conducir bajo el influjo del alcohol o cualquier sustancia psicotrópica.
+
+II. Transportar un mayor número de personas al número de asientos con el que cuenta el vehículo.
+
+III. Transportar animales sin los dispositivos adecuados de sujeción, entendiéndose por estos correas o pecheras con adaptador especial para el cinturón de seguridad, cajas transportadoras y barreras que imposibiliten el acceso del animal al asiento del conductor.
+
+IV. Utilizar teléfonos celulares o cualquier otro que propicien distracciones al conducir.
+
+V. Utilizar, o facilitar para su uso, los medios de identificación vehicular en vehículos distintos a los que les fueron expedidos.
+
+VI. Realizar actividades ruidosas provenientes de aparatos de sonido en unidades móviles, que rebasen los límites permitidos por las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+###### Artículo 47 Sexies.
+
+La identificación y registro de los vehículos todoterreno deberá ser anual, estará a cargo de la Secretaría, y dará lugar a la expedición de los medios físicos, digitales y /o documentales de identificación vehicular que se consideren pertinentes.
 
 ## TÍTULO III
 
-### CAPÍTULO SEGUNDO. DE LAS LICENCIAS
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
+### CAPÍTULO PRIMERO. DE LOS CONDUCTORES Y PASAJEROS
 
 ###### Artículo 48.
 
@@ -717,9 +811,9 @@ XII. Las demás que establezca esta Ley.
 
 Los conductores de vehículos de paso preferencial o emergencia quedarán exentos de cumplir con lo dispuesto en las fracciones II, III, IV, V y VIII a que hace referencia el artículo que precede, siempre que sea en uso de funciones propias de seguridad y atención social, observando en todo momento las debidas precauciones.
 
-### CAPÍTULO TERCERO. DE LA SUSPENSIÓN Y CANCELACIÓN DE LICENCIAS
+### CAPÍTULO SEGUNDO. DE LAS LICENCIAS
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 52.
 
@@ -819,9 +913,9 @@ Los menores a que se refiere este artículo, estarán autorizados para conducir,
 
 Las personas que tengan licencia para conducir expedida por autoridades de otras Entidades Federativas, del Distrito Federal o del extranjero, podrán conducir vehículos en las vías públicas, siempre que correspondan al tipo de vehículos de que se trate, a excepción del servicio público de transporte estatal.
 
-### CAPÍTULO ÚNICO. DE LOS PEATONES, PERSONAS CON DISCAPACIDAD Y DEMÁS USUARIOS DE LAS VIAS PÚBLICAS
+### CAPÍTULO TERCERO. DE LA SUSPENSIÓN Y CANCELACIÓN DE LICENCIAS
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 57.
 
@@ -889,7 +983,9 @@ Cancelada la licencia de conducir, el particular no podrá obtener nuevamente es
 
 ## TÍTULO IV
 
-### CAPÍTULO PRIMERO. DE LA CIRCULACIÓN EN GENERAL
+### CAPÍTULO ÚNICO. DE LOS PEATONES, PERSONAS CON DISCAPACIDAD Y DEMÁS USUARIOS DE LAS VIAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
 
 ###### Artículo 62.
 
@@ -947,7 +1043,7 @@ La persona que se sienta agraviada con la actuación de cualquiera de las autori
 
 ## TÍTULO V
 
-### CAPÍTULO SEGUNDO. DEL ESTACIONAMIENTO EN LA VIA PÚBLICA
+### CAPÍTULO PRIMERO. DE LA CIRCULACIÓN EN GENERAL
 
 ###### Artículo 66.
 
@@ -1021,7 +1117,7 @@ Los conductores de vehículos en circulación deberán conservar, respecto del q
 
 La Dirección o el municipio correspondiente podrán impedir en todo momento el tránsito de los vehículos que no reúnan los requisitos legales para su circulación, o que representen un grave peligro para la seguridad de sus ocupantes o de los demás vehículos o peatones, así como el de aquellos que por sus condiciones particulares puedan ocasionar algún daño a las vías públicas de la Entidad.
 
-### CAPÍTULO TERCERO. DE LA VELOCIDAD LEGAL
+### CAPÍTULO SEGUNDO. DEL ESTACIONAMIENTO EN LA VIA PÚBLICA
 
 ###### Artículo 77.
 
@@ -1083,9 +1179,7 @@ Los vehículos indebidamente estacionados, así como los señalados en las fracc
 
 En lugares donde haya instalados relojes estacionómetros, es obligación de los conductores pagar la cuota fijada en los mismos. El incumplimiento de dicha obligación causará la multa correspondiente y, en su caso, la aplicación del inmovilizador, en los términos que establezca el reglamento municipal correspondiente. También motivará la aplicación de la multa y del inmovilizador cuando se estacionen o invadan los espacios exclusivos y prohibidos señalados en las fracciones I y V del artículo 77 de esta Ley.
 
-### CAPÍTULO ÚNICO. DE LA EDUCACIÓN, SEGURIDAD VIAL Y CULTURA DE LA MOVILIDAD
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
+### CAPÍTULO TERCERO. DE LA VELOCIDAD LEGAL
 
 ###### Artículo 84.
 
@@ -1105,7 +1199,9 @@ Queda prohibida la circulación de vehículos de carga en los carriles centrales
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2017)</small>
 
-### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO ÚNICO. DE LA EDUCACIÓN, SEGURIDAD VIAL Y CULTURA DE LA MOVILIDAD
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
 ###### Artículo 87.
 
@@ -1169,7 +1265,7 @@ IX. Las demás necesarias para el cumplimiento de la presente Ley y su reglament
 
 ## TÍTULO VII
 
-### CAPÍTULO SEGUNDO. DE LAS NOTIFICACIONES
+### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 90.
 
@@ -1413,9 +1509,7 @@ VII. En el caso de menores de edad, sin perjuicio de lo señalado en la fracció
 
 Invariablemente, el oficial de vialidad y/o tránsito que realice el acto de molestia, deberá expresar por escrito el precepto legal en que lo funda y motiva, notificándolo a quien aparezca como propietario del vehículo y/o a quienes hayan asumido la responsabilidad civil.
 
-### CAPÍTULO TERCERO. DE LOS RECURSOS
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+### CAPÍTULO SEGUNDO. DE LAS NOTIFICACIONES
 
 ###### Artículo 102.
 
@@ -1433,7 +1527,9 @@ III. Si están señalados en semanas, meses o años, o tienen una fecha determin
 
 IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan de acuerdo al calendario, y los días se entenderán de veinticuatro horas naturales, contadas de las veinticuatro a las veinticuatro.
 
-### CAPÍTULO CUARTO. DE LA PRESCRIPCIÓN
+### CAPÍTULO TERCERO. DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 104.
 
@@ -1496,6 +1592,8 @@ Los consejos consultivos de vialidad y/o tránsito, Instalarán en sus respectiv
 I. Recibir las quejas y denuncias que se formulen en contra de los servidores públicos por el incumplimiento de sus obligaciones;
 
 II. Implementar mecanismos e instancias de participación ciudadana con el propósito de establecer procesos que faciliten la presentación de quejas y denuncias, así como lograr acuerdos y compromisos concretos con sectores de la sociedad tendientes a una mayor transparencia en la actividad de la Administración Pública Estatal y Municipal.
+
+### CAPÍTULO CUARTO. DE LA PRESCRIPCIÓN
 
 ###### Artículo 110.
 
@@ -1932,3 +2030,11 @@ P.O. 1 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0618/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 91, EL INCISO F) DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0726/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría contará con 180 días naturales para adecuar la reglamentación necesaria para la aplicación de este Decreto.
