@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2022-11-26"
+last_updated: "2024-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE NOVIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -235,9 +233,9 @@ VI. Promover la participación de la juventud en el quehacer de la administraci�
 
 VII. Fomentar la construcción de espacios públicos y preservarlos, para aplicar programas de esparcimiento que beneficien a la juventud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2024)</small>
 
-VIII. Programar la instalación del Cabildo Juvenil Municipal; y
+VIII. Programar cada año la instalación del Cabildo Juvenil Municipal; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -635,17 +633,17 @@ V. Las demás que le confiera la Ley y el Reglamento Interior.
 
 El Cabildo Juvenil es un espacio de expresión política de los jóvenes, promovido por el Cabildo de los Ayuntamientos del Estado de Colima, a través de la Comisión encargada de los temas de la Juventud. Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto, con la finalidad de que los Ayuntamientos se enriquezcan de esas aportaciones y alternativas para que contribuyan a mejorar la situación del sector juvenil y de la sociedad en general.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2024)</small>
 
 ###### Artículo 30 Ter.
 
-La Comisión encargada de los temas de la juventud en los Ayuntamientos en coordinación con el resto del Cabildo, programarán la instalación del Cabildo Juvenil, debiendo emitir la convocatoria correspondiente, en los términos de los Reglamentos Municipales que para tal efecto se expidan.
+La Comisión encargada de los temas de la juventud en los ayuntamientos en coordinación con la Dirección, instituto, o área afín de la Juventud y el resto del Cabildo, programarán la instalación del Cabildo Juvenil, debiendo emitir la convocatoria correspondiente, en los términos de los Reglamentos Municipales que para tal efecto se expidan.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2024)</small>
 
 ###### Artículo 30 Quáter.
 
-Los Cabildos Juveniles estarán integrados por un Presidente Municipal Juvenil, un Síndico Juvenil y por el número de Regidores juveniles que integren el Ayuntamiento correspondiente, debiéndose además nombrar un suplente para cada integrante, quienes entrarán en funciones en los términos previstos por el Reglamento Municipal.
+Los Cabildos Juveniles estarán integrados por un Presidente Municipal Juvenil, un Síndico Juvenil y por el número de Regidores juveniles que integren el Ayuntamiento correspondiente, mismo que deberá cumplir con el principio constitucional de paridad de género al momento de la integración y debiéndose además nombrar un suplente para cada integrante, quienes entrarán en funciones en los términos previstos por el Reglamento Municipal.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -655,7 +653,9 @@ Los requisitos para ser integrante del Cabildo Juvenil son los siguientes:
 
 I.- Ser ciudadano mexicano con residencia en el Municipio para el cual pretenda ser integrante;
 
-II.- Tener una edad máxima de hasta 29 años, a la fecha que establezca la convocatoria y las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2024)</small>
+
+II.- Tener una edad de entre 12 hasta 29 años, a la fecha que establezca la convocatoria y las demás disposiciones aplicables;
 
 III.- Presentar un Proyecto con los requisitos que establezca la convocatoria correspondiente y las demás disposiciones aplicables;
 
@@ -1230,3 +1230,9 @@ P.O. 8 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 407.- POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 10, ASÍ COMO EL ARTÍCULO 30 TER, 30 QUÁTER Y LA FRACCIÓN II DEL ARTÍCULO 30 QUINQUIES DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
