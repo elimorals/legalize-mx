@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2024-02-24"
+last_updated: "2024-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -325,9 +325,9 @@ c) Recibir información sobre las instituciones que prestan servicios para su at
 
 d) Recibir formación educativa y aquella con la que se logre el desarrollo de sus capacidades y su potencial; así como aportar sus conocimientos y aptitudes a las generaciones más jóvenes;
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2024)</small>
 
-e) Participar en la vida educativa, cívica, cultural, deportiva y recreativa de su comunidad.
+e) Participar en la vida cívica cultural deportiva económica y recreativa de su comunidad;
 
 f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
@@ -649,9 +649,9 @@ VI. Promover las actividades turísticas y de recreación con un diseño particu
 
 VII. Establecer mecanismos para facilitar el acceso al crédito que otorgan las entidades financieras públicas y privadas;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2024)</small>
 
-VIII. Crear y fomentar programas de promoción del emprendimiento social y privado para el empleo de las personas adultas mayores, y;
+VIII. Crear y fomentar programas de promoción del empoderamiento social y privado para el empleo de las personas adultas mayores, destinando espacios para la comercialización de artesanías elaboradas por los adultos mayores y estableciendo preferentemente en el mes de agosto, la Semana Artesanal del Adulto Mayor, y
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1086,3 +1086,13 @@ P.O. 24 DE FEBRERO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1696.- MEDIANTE EL CUAL REFORMA EL INCISO E) DE LA FRACCIÓN VI DEL ARTÍCULO 9 Y LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
