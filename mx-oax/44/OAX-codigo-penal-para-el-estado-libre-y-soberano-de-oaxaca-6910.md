@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-02-24"
+last_updated: "2024-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -429,9 +431,9 @@ Reparación del daño.
 
 I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2024)</small>
 
-II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiera requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar y de violencia en contra de las personas adultas mayores, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -4673,11 +4675,29 @@ Si la conducta descrita en el artículo anterior se comete en contra de una o va
 
 Este delito se perseguirá de oficio.
 
-> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2024)</small>
 
 ## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
+### CAPITULO VI. De la Violencia en Contra de las Personas Adultas Mayores
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+412 QUINQUIES.- A quién, sin tener una relación de parentesco cometa sobre una persona adulta mayor algún tipo de violencia, se le impondrá la pena de cuatro a ocho años de prisión y multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Además, la autoridad correspondiente lo sujetará a terapias psicológicas por el tiempo que se estime conveniente.
+
+Se considera violencia todo acto o admisión contra una persona adulta mayor, que ocurra de manera única o repetida, la cual puede ser física, psicológica o emocional, económica o patrimonial, sexual o que vulnere el goce de sus derechos humanos y libertades fundamentales.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+412 SEXIES.- A quien esté a cargo del cuidado de una persona adulta mayor y comenta (sic) sobre ella algún tipo de violencia, se le incrementará hasta en un tercio la sanción establecida en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
+
+412 SEPTIES.- El delito de violencia cometido en contra de una persona adulta mayor se perseguirá de oficio.
+
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -6260,3 +6280,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1800.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 27 Y SE ADICIONA EL CAPÍTULO VI "DE LA VIOLENCIA EN CONTRA DE LAS PERSONAS ADULTAS MAYORES", LOS ARTÍCULOS 412 QUINQUIES, 412 SEXIES Y 412 SEPTIES, AL TÍTULO VIGÉSIMO SEGUNDO DENOMINADO "DELITOS CONTRA EL DERECHO A UNA VIDA LIBRE DE VIOLENCIA" DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
