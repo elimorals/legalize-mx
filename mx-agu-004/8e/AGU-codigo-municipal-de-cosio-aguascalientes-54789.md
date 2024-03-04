@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2022-04-11"
+last_updated: "2024-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -547,7 +547,9 @@ X.- Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto fe
 
 XI.- Tomar la protesta de Ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
 
-XII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Director de Finanzas Municipal y proponer la terna para la elección del Director de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2024)</small>
+
+XII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Director de Finanzas Municipal, así como, proponer la terna para la elección del Director de Seguridad Pública, del Contralor Municipal y de las personas que funjan como autoridad investigadora, substanciadora y resolutora del órgano interno;
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
@@ -2305,11 +2307,17 @@ a) Departamento de Transparencia;
 
 b) Departamento de Auditoría;
 
-c) Unidad de Investigación de Faltas Administrativas,
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
 
-d) Unidad de Substanciación de Procesos Administrativos,
+c) Autoridad investigadora o Unidad de Investigación y Recepción de Quejas y Denuncias;
 
-e) Unidad de Resolución de Procesos Administrativos.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
+
+d) Autoridad de Substanciación o Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
+
+e) Autoridad Resolutora o Unidad de Resolución de Procedimientos Administrativos.
 
 VI.- Delegación y Comisarios Municipales (Autoridades Honorarias Auxiliares):
 
@@ -2415,15 +2423,17 @@ c).- Departamento de Protección Civil. (Honorario).
 
 ### CAPITULO CUARTO. De los Funcionarios Públicos Municipales
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 224.
 
-Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador y Director de Seguridad Pública. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate. El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia moral y notoria buena costumbre. Los asesores, técnicos y peritos, además de su título profesional o equivalente, deberán adjuntar la documentación que corrobore su experiencia laboral en el ramo, los cuales tendrán el carácter de trabajadores de este H. Ayuntamiento conforme a lo establecido al Estatuto Jurídico de los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y Organismos descentralizados.
+Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes. En el caso de los titulares de la Secretaría del Ayuntamiento y Dirección General del Gobierno, de la Tesorería Municipal, de la Contraloría Municipal, así como, de las personas que funjan como autoridad investigadora, substanciadora y resolutora del órgano interno, del Juez Calificador y del Director de Seguridad Pública, serán nombrados y en su caso removidos por el Ayuntamiento a propuesta del Presidente Municipal. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate. El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse. Los asesores, técnicos y peritos, además de su título profesional o equivalente, deberán adjuntar la documentación que corrobore su experiencia laboral en el ramo, los cuales tendrán el carácter de trabajadores de este H. Ayuntamiento conforme a lo establecido al Estatuto Jurídico de los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y Organismos descentralizados.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 225.
 
-Los servidores públicos municipales que no cumplan satisfactoriamente con su encargo podrán ser cesados o removidos de su función. Tratándose del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador o Director de Seguridad Pública, el cese o remoción será decretado por el Ayuntamiento, en el caso de los demás servidores públicos, el Presidente Municipal podrá cesarlos o removerlos, siempre y cuando exista causa justificada para el cese o remoción.
+Los servidores públicos municipales que no cumplan satisfactoriamente con su encargo podrán ser cesados o removidos de su función. Tratándose de los titulares de la Secretaría del Ayuntamiento y Dirección General del Gobierno, de la Tesorería Municipal, de la Contraloría Municipal, así como, de las personas que funjan como autoridad investigadora, substanciadora y resolutora del órgano interno, del Juez Calificador y del Director de Seguridad Pública, el cese o remoción será decretado por el Ayuntamiento, en el caso de los demás servidores públicos, el Presidente Municipal podrá cesarlos o removerlos, siempre y cuando exista causa justificada para el cese o remoción.
 
 ###### ARTICULO 226.
 
@@ -2559,25 +2569,55 @@ VI.- No ser pariente consanguíneo en línea recta en cualquier grado o en líne
 
 VII.- No presentar antecedentes de violencia de género y/o familiar en cualquiera de sus tipos, ni criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 237.
 
-Al frente de la Contraloría Municipal, habrá un profesionista, que se denominará Contralor Municipal, servidor público que será nombrado por el Presidente Municipal.
+Los Procedimientos de Responsabilidad Administrativa deberán llevarse a cabo, observando lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; asimismo, para la debida integración de los procedimientos de responsabilidad administrativa, la Contraloría Municipal contará con las siguientes áreas administrativas:
+
+I.- Autoridad investigadora o Unidad de Investigación y Recepción de Quejas y Denuncias;
+
+II.- Autoridad de Substanciación o Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa;
+
+III.- Autoridad Resolutora o Unidad de Resolución de Procedimientos Administrativos.
+
+Debiéndose designar en cada una de estas circunscripciones, persona distinta a la del Contralor Municipal; igualmente, ninguna autoridad previamente señalada podrá ejercer dos o más funciones de las descritas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2024)</small>
+
+ARTICULO 237 BIS.- La persona titular de la Contraloría Municipal, así como las personas que funjan como autoridad investigadora, substanciadora y resolutora de la misma, deberán ser seleccionadas por los Ayuntamientos conforme a lo ordenado por la Ley General de Responsabilidades Administrativas, atendiendo al siguiente procedimiento:
+
+1 (SIC).- La persona que funja como Presidente Municipal deberá emitir una convocatoria pública para recibir propuestas de candidatos por parte de instituciones académicas, colegios de profesionistas o de cualquier persona interesada.
+
+Dicha convocatoria deberá publicarse, al menos, en el Periódico Oficial del Estado, en el portal de internet del Municipio y en sus estrados. Asimismo, se remitirá a instituciones académicas y colegios de profesionistas;
+
+II.- Con base en las propuestas que reciba, la persona que funja como Presidente Municipal integrará ternas, una por cada puesto, y quienes formen parte de ellas deberán cumplir los requisitos establecidos en este Código y serán entrevistados públicamente por los miembros del Ayuntamiento; y
+
+III.- El Ayuntamiento elegirá a las personas que ocuparán los cargos, por mayoría de los presentes en la sesión de cabildo respectiva, en un plazo no mayor de 30 días hábiles contados a partir de la instalación del propio Ayuntamiento en funciones.
+
+Los servidores públicos referidos en el párrafo anterior, fungirán por el periodo constitucional que le corresponda al Ayuntamiento que los designó; en caso de que sobrevenga la ausencia definitiva de alguno de ellos, se deberá hacer una nueva designación conforme al procedimiento descrito, en cuyo caso el plazo de 30 días hábiles para que el Ayuntamiento elija, correrá a partir de que se presente la ausencia, y la persona que sea designada ostentará el cargo únicamente hasta completar el periodo del servidor público que sustituye.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 238.
 
-Para ser Contralor Municipal se deberán reunir los requisitos siguientes:
+La persona titular de la Contraloría Municipal, así como las personas que funjan como autoridad investigadora, substanciadora y resolutora del órgano interno, deberán cumplir con los siguientes requisitos:
 
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+I. Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio;
 
-II.- Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
+II.- Contar con título y cédula profesional de licenciatura en Derecho, Contaduría Pública o Administración Pública, o en alguna otra profesión que sea afín:
 
-III.- Poseer título expedido en alguna carrera profesional de las ciencias económicas, administrativas o contables;
+III.- Contar con experiencia comprobable, en materias contable, de auditoría financiera o de responsabilidades administrativas u otra análoga;
 
-IV.-Tener experiencia mínima de un año en procesos de auditoria contable, fiscal o de procesos internos;
+IV.- No haber sido condenado por algún delito por hechos de corrupción o previsto como tipo penal protector de la administración pública, ni por algún otro delito doloso que haya cometido en el ejercicio de una función pública;
 
-V.- No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el 4° grado, del Presidente Municipal; y
+V.- No estar inhabilitado al momento de su designación, para desempeñar un cargo, empleo o comisión pública; y
 
-VI.- No presentar antecedentes criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso.
+El titular de la Contraloría Municipal, así como las personas que funjan como autoridad investigadora, substanciadora y resolutora de la misma, estarán sujetos a un régimen de servicio profesional regido por los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, integridad y equidad. La normativa municipal a través del Reglamento respectivo, establecerá los niveles o jerarquías a los que aplicará el servicio profesional, así como la forma y periodicidad en que se evaluará a los servidores públicos.
+
+Quienes formen parte del servicio profesional tendrán derecho de acceder a mejores cargos con base en su desempeño y concursos de oposición, y podrán proponerse como candidatos para desempeñarse como autoridad de investigación, substanciación resolución, así como titular de la contraloría municipal, por cuanto cumplan con los requisitos y procedimiento descritos.
+
+Se fomentará a dichos servidores públicos para que obtengan la Certificación del Estándar de Competencia EC0777 denominado ejecución de las atribuciones de la contraloría municipal del Consejo Nacional de Normalización y Certificación de Competencias Laborales u otra análoga, que sea idónea para acreditar la competencia profesional en materia de control interno en la administración pública.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
 
@@ -2601,7 +2641,7 @@ IV. No presentar antecedentes criminales, relativos a haber sufrido condena por 
 
 ###### ARTICULO 241.
 
-La designación del Secretario del Ayuntamiento, Tesorero Municipal, Juez Calificador y el Director de Seguridad Pública, Tránsito y Vialidad, serán nombrados y en su caso removidos por el Ayuntamiento a propuesta del Presidente Municipal; el nombramiento y remoción de los demás servidores públicos corresponde al Presidente Municipal.
+(DEROGADO, P.O. 4 DE MARZO DE 2024)
 
 ### CAPITULO SEXTO. De las. Atribuciones de los Servidores Públicos Municipales
 
@@ -2703,21 +2743,9 @@ XXVIII.- Conocer e investigar las conductas de los particulares relacionados con
 
 XXIX.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+ARTICULO 243 BIS.- (DEROGADO, P.O. 4 DE MARZO DE 2024)
 
-ARTICULO 243 BIS.- Para la debida integración de los procedimientos de responsabilidad administrativa la Contraloría Municipal contará con las siguientes unidades administrativas:
-
-I.- Unidad de Investigación y Recepción de Quejas y Denuncias.
-
-II.- Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa.
-
-III.- Unidad de Resolución de Procedimientos Administrativos.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2020)</small>
-
-ARTICULO 243 TER.- Los Procedimientos de Responsabilidad Administrativa deberán llevarse a cabo, observando lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, para lo cual se entenderá como autoridad investigadora a la Unidad de Investigación y Recepción de Quejas y Denuncias; Autoridad Substanciadora a la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa y Autoridad Resolutora a la Unidad de Resolución de Procedimientos Administrativos.
-
-Para fungir como titular de la Unidad de Investigación y Recepción de Quejas y Denuncias, así como de la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa, y de la Unidad de Resolución de Procedimientos Administrativos, se designará respectivamente en cada una de esas áreas a persona distinta del Contralor Municipal, quienes deberán contar con Título y cédula profesional de Licenciado en Derecho o Contador Público.
+ARTICULO 243 TER.- (DEROGADO, P.O. 4 DE MARZO DE 2024)
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
 
@@ -13848,3 +13876,19 @@ P.O. 11 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 220, FRACCIÓN XI, 220 BIS, Y SE ADICIONA EL ARTÍCULO 220, TER, DEL CÓDIGO MUNICIPAL DE COSÍO, AGUASCALIENTES".]
 
 ÚNICO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “INICIATIVA POR LA QUE SE REFORMAN A LOS ARTÍCULOS 42, FRACCIÓN XII, 223, FRACCIÓN V (SIC).- INCISOS C), D), E), 224, 225, 237 Y 238, DEL CÓDIGO MUNICIPAL DE COSÍO, AGUASCALIENTES, ASÍ COMO, SE ADICIONA EL ARTÍCULO 237 BIS, Y DEROGAN LOS ARTÍCULOS 241, 243 BIS Y 243 TER, DEL MISMO ORDENAMIENTO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas que antes del inicio de vigencia de este Decreto hayan sido designadas como titular de la Contraloría Municipal o como autoridad investigadora, substanciadora o resolutora, continuarán en su encargo por el periodo para el cual hayan sido nombradas.
+
+###### ARTÍCULO TERCERO.
+
+El Ayuntamiento deberá adecuar mediante la normativa reglamentaria respectiva a la presente reforma, en un plazo no mayor a 180 días naturales contados a partir de que inicie su vigencia este Decreto.
