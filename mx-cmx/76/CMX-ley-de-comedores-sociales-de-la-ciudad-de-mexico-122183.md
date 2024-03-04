@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-comedores-sociales-de-la-ciudad-de-mexico-122183"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-26"
-last_updated: "2022-03-23"
+last_updated: "2024-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-03-31"
 
 LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2024.
 
 Ley publicada en el No. 97 Bis la Gaceta Oficial de la Ciudad de México, el lunes 26 de junio de 2017.
 
@@ -252,6 +252,14 @@ X. La persona responsable administradora de la operación de un comedor comunita
 
 XI. La presidencia del Grupo Solidario deberá informar periódicamente, conforme al Reglamento y Reglas de Operación, el destino de los recursos otorgados.
 
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2024)</small>
+
+XII. Evitar en lo máximo posible el desperdicio y merma de alimentos en el funcionamiento de los comedores sociales y comunitarios, y
+
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2024)</small>
+
+XIII. Fomentar la valorización y aprovechamiento de productos y materiales utilizados, con el objetivo de motivar su consumo responsable, sostenible y evitar su desperdicio injustificado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 12.
@@ -402,37 +410,45 @@ En correspondencia social, las personas usuarias y beneficiarias podrán recibir
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 24.
 
-La Autoridad Responsable en coordinación con la Secretaría del Medio Ambiente de la Ciudad de México, capacitará a los Comités de Administración y a los Grupos Solidarios en materia de regulación de gestión integral de residuos sólidos que se generen en los comedores comunitarios y los comedores populares. Aplicando supletoriamente lo establecido en la Ley de Residuos Sólidos vigente en la Ciudad de México.
+La Autoridad Responsable en coordinación con la Secretaría del Medio Ambiente de la Ciudad de México, capacitará a los Comités de Administración y a los Grupos Solidarios en materia de regulación de gestión integral de residuos sólidos que se generen en los comedores comunitarios y los comedores populares, promoviendo los principios de economía circular.
+
+Aplicando supletoriamente lo establecido en la Ley de Residuos Sólidos y la Ley de Economía Circular vigentes en la Ciudad de México.
 
 ## TÍTULO CUARTO. DEL ABASTO A LOS COMEDORES
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 25.
 
-La Autoridad Responsable, en el marco de sus atribuciones, desarrollará e implementará huertos urbanos públicos con el propósito de abastecer la demanda de los comedores sociales.
+La Autoridad Responsable, en el marco de sus atribuciones, desarrollará e implementará huertos urbanos públicos con el propósito de abastecer la demanda de los comedores sociales y contribuir en la política de seguridad, soberanía y sustentabilidad alimentaria.
 
-La Autoridad Responsable en coordinación con las Entidades de la Administración Pública Centralizada de la Ciudad de México brindará capacitación a los Comités de Administración y los Grupos Solidarios.
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
+La Autoridad Responsable, en coordinación con las Entidades de la Administración Pública Centralizada de la Ciudad de México, brindarán capacitación a los Comités de Administración y los Grupos Solidarios, mediante un enfoque sistémico, integral, cíclico y sostenible.
 
 Los Comités de Administración y los Grupos Solidarios podrán desarrollar sus propios huertos urbanos vigilando el cumplimiento de la Ley de Huertos Urbanos de la Ciudad de México y los ordenamientos aplicables.
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 26.
 
-La Autoridad Responsable, de conformidad con la Ley para la Donación Altruista de Alimentos de la Ciudad de México, establecerá los mecanismos de vinculación entre los comedores sociales y los donantes.
+La Autoridad Responsable, de conformidad con la Ley para la Donación Altruista de Alimentos de la Ciudad de México, establecerá los mecanismos de vinculación entre los comedores sociales, los comedores comunitarios y los donantes, para la recuperación, traslado y distribución de los alimentos donados y su entrega oportuna.
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 4 DE MARZO DE 2024)</small>
+
+Asimismo, deberá impulsar campañas periódicas para promover y orientar el aprovechamiento y donación de alimentos aptos para el consumo humano, a efecto de contribuir a satisfacer las necesidades básicas de la población vulnerable.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 27.
 
-La Autoridad Responsable establecerá los criterios para la adquisición de insumos, de conformidad con lo establecido en la Ley de Adquisiciones vigente en la Ciudad de México, considerando la figura del proveedor alimentario social.
+La Autoridad Responsable establecerá los criterios para la adquisición de insumos, de conformidad con lo establecido en la Ley de Adquisiciones vigente en la Ciudad de México, considerando la figura del proveedor alimentario social y la integralidad y sustentabilidad del desarrollo agropecuario y rural de la Ciudad de México.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES E INFRACCIONES
 
@@ -607,6 +623,14 @@ CUARTO.- Hasta en tanto se expida el Reglamento de la presente Ley, la Secretar�
 G.O. 23 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1º DE LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN LAS FRACCIONES XII Y XIII, DEL ARTÍCULO 11; EL DEL (SIC) ARTÍCULO 24; EL PRIMER Y SEGUNDO PÁRRAFO, DEL ARTÍCULO 25; EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO, AL ARTÍCULO 26 Y EL ARTÍCULO 27, TODOS DE LA LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
