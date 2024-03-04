@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2024-01-18"
+last_updated: "2024-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1080,7 +1080,9 @@ I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar
 
 II. Diseñar, implementar y evaluar programas y, políticas públicas, a través de acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre las niñas y las adolescentes;
 
-III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles de género, estereotipos sexistas o que se derivan del proceso menstrual, que vulneren la dignidad humana, o de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos;
 
 IV. Establecer medidas dirigidas de manera preferente a las niñas y las adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio o goce de los derechos contenidos en esta Ley;
 
@@ -1102,9 +1104,11 @@ Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas
 
 ### Capítulo Sexto.. Del Derecho a no ser discriminado
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 36.
 
-Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma o lengua, color de piel, edad, género, discapacidad; situación jurídica, condición social, económica o cultural; de salud, embarazo, religión, opinión, orientación sexual e identidad de género, estado civil, calidad de persona migrante, refugiada, desplazada, o cualquier otra condición atribuible a ellas o ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
+Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma o lengua, color de piel, edad, género, discapacidad; situación jurídica, condición social, económica o cultural; de salud, embarazo, religión, opinión, orientación sexual e identidad de género, del proceso menstrual, estado civil, calidad de persona migrante, refugiada, desplazada, o cualquier otra condición atribuible a ellas o ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 
 ###### Artículo 37.
 
@@ -1264,6 +1268,10 @@ Para tales efectos, y conforme los lineamientos que al respecto establezca la Se
 
 X. Atender de manera eficaz las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA, Virus de Papiloma Humano y otras enfermedades de transmisión sexual e impulsar programas de prevención, vacunación e información sobre éstas;
 
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2024)</small>
+
+X Bis. Establecer medidas, políticas públicas, estrategias y acciones, enfocadas al estudio, detección, prevención y tratamiento del cáncer en la infancia y en la adolescencia, en sus diferentes etapas;
+
 XI. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que mejore su calidad de vida, facilite su interacción e inclusión social y permita un ejercicio igualitario de sus derechos;
 
 XII. Prohibir, sancionar y erradicar la esterilización de niñas, niños y adolescentes, la asignación forzada de la identidad sexo genérica y cualquier forma de violencia obstétrica;
@@ -1308,21 +1316,29 @@ Se dará prioridad de acceso a las políticas públicas de seguridad social a la
 
 Las autoridades y las alcaldías, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil, prácticas de lactancia materna y aumentar la esperanza de vida.
 
-(REPUBLICADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 50.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias impulsarán las acciones necesarias para garantizar los derechos sexuales y reproductivos de niñas, niños y adolescentes, estableciendo entre otras medidas las siguientes:
+Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias impulsarán las acciones necesarias para garantizar los derechos sexuales, reproductivos y de salud menstrual de niñas, niños y adolescentes, estableciendo entre otras medidas las siguientes:
 
-I. Proporcionar asesoría y orientación gratuita sobre salud sexual y reproductiva,
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+I. Proporcionar asesoría y orientación gratuita sobre salud sexual, reproductiva y gestión menstrual;
 
 II. Prevenir embarazos de las niñas y las adolescentes;
 
-III. Proporcionar servicios gratuitos y profesionales en materia de salud sexual y reproductiva.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+III. Proporcionar servicios gratuitos y profesionales en materia de salud sexual, reproductiva y gestión menstrual;
 
-IV. Desarrollar campañas de comunicación masiva para prevenir el abuso sexual de niñas, niños y adolescentes, así como para el normal desarrollo psicosexual de las niñas y niños.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+IV. Desarrollar campañas de comunicación masiva para prevenir el abuso sexual de niñas, niños y adolescentes, así como para el normal desarrollo psicosexual de las niñas y niños; y
+
+> <small>(ADICIONADA, G.O. 4 DE MARZO DE 2024)</small>
+
+V. Establecer programas y medidas que promuevan el acceso a insumos de gestión menstrual e higiene, para niñas, niños y adolescentes pertenecientes a grupos de atención prioritaria.
 
 ###### Artículo 51.
 
@@ -1934,7 +1950,9 @@ XI. Coadyuvar en la localización de niñas, niños y adolescentes sustraídos, 
 
 XII. Implementar medidas de inclusión plena y realizar las acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados;
 
-XIII. Promover medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, garantizando el interés superior;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+XIII. Promover medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos emanados del proceso menstrual, sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación y que vulneren la dignidad humana, garantizando el interés superior;
 
 XIV. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia;
 
@@ -2973,3 +2991,19 @@ G.O. 18 DE ENERO DE 2024.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 34; SE REFORMA EL ARTÍCULO 36; SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES I, III Y IV, SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 50, Y SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 99, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
