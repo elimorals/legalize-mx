@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-albergues-privados-para-personas-mayores-de-la-70689"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2024-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70689&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-10-30"
 
 LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de noviembre de 2009.
 
@@ -52,9 +52,11 @@ LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL DISTRITO FEDERAL
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto proteger y dar certeza jurídica de los servicios que presten los albergues privados para Personas Adultas Mayores en el Distrito Federal.
+La presente Ley es de orden público e interés social y tiene por objeto proteger y dar certeza jurídica de los servicios que presten los albergues privados para Personas Adultas Mayores en la Ciudad de México.
 
 ###### Artículo 2.
 
@@ -66,17 +68,27 @@ b) Albergue Privado: Estancia, casa hogar o lugar con cualquier otra denominaci�
 
 c) Albergue de Asistencia Social: Al albergue, estancia, casa hogar o lugar con cualquier otra denominación, que con patrimonio de origen público brinde servicios permanentes o esporádicos de estancia, alimentación, cuidado, geriatría, gerontología, médico, asistencial, etcétera, a personas de la tercera edad;
 
-d) Delegación: Al órgano político-administrativo de cada demarcaciones territoriales (sic) en el Distrito Federal;
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
-e) Ley de Adultos Mayores: A la Ley de los Derechos de las Personas Adultas Mayores en el Distrito Federal;
+d) Alcaldías: Los órganos político administrativos de cada de las demarcaciones territoriales de la Ciudad de México;
 
-f) Ley de Salud: A la Ley de Salud para el Distrito Federal;
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
-g) Secretaría de Salud: A la Secretaría de Salud del Distrito Federal;
+e) Ley de Personas Mayores: Ley de Reconocimiento de los Derechos de las Personas Mayores y del Sistema Integral para su Atención de la Ciudad de México;
 
-h) DIF: Al Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
-i) Ley: A esta Ley de Albergues para Personas de la Tercera Edad del Distrito Federal;
+f) Ley de Salud: A la Ley de Salud de la Ciudad de México;
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
+g) Secretaría de Salud: A la Secretaría de Salud de la Ciudad de México;
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
+h) DIF: Al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
+
+i) Ley: A esta Ley de Albergues Privados para Personas Mayores de la Ciudad de México;
 
 j) Código Civil: Al Código Civil para el Distrito Federal;
 
@@ -86,17 +98,25 @@ k) Residente: Al Adulto Mayor que en virtud de un Contrato de Prestación de Ser
 
 La aplicación y seguimiento de esta Ley corresponde a:
 
-I.- Al Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
 
-II.- A la Secretaría de Desarrollo Social;
+I. A la persona titular de la Jefatura de Gobierno;
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+II. A la Secretaría de Inclusión y Bienestar Social;
 
 III.- A la Secretaría de Salud;
 
-IV.- A Los Jefes Delegacionales;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+IV. A las personas Alcaldes;
 
 V.- Al Sistema de Desarrollo Integral de la Familia; y
 
-VI.- A la familia de las Personas Adultas Mayores vinculadas con el parentesco, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables o en su caso, a los representantes legales de las Personas Adultas Mayores.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+VI. A la familia de las personas mayores vinculadas con el parentesco, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables o en su caso, a los representantes legales de las personas mayores.
 
 ###### Artículo 4.
 
@@ -104,41 +124,57 @@ Los albergues privados al prestar sus servicios, deberán someterse a lo dispues
 
 ### Capítulo II. Facultades y Obligaciones de las Autoridades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 5.
 
-Corresponde al Titular de la Jefatura de Gobierno:
+Corresponde a la persona titular de la Jefatura de Gobierno;
 
 I.- Vigilar el cumplimiento de esta Ley a efecto de que los albergues privados cuenten con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos debidamente capacitados;
 
-II.- Vigilar que los administradores de albergues proporcionen información sobre la cobertura y características de los servicios que prestan para los adultos mayores; y
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+II. Vigilar que las personas administradoras de albergues proporcionen información sobre la cobertura y características de los servicios que prestan para las personas mayores; y
 
 III.- Los demás que le confieren otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 6.
 
-Corresponde al Titular de la Secretaría de Desarrollo Social:
+Corresponde a la persona titular de la Secretaría de Inclusión y Bienestar Social:
 
 I.- Coordinar e implementar acciones que se requieran para promover la integración social de las Personas Adultas Mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere la Ley de Adultos Mayores;
 
-II.- Promover la difusión de los derechos y valores en beneficio de las Personas Adultas Mayores, con el propósito de sensibilizar a las familias y a la sociedad en general para que la convivencia sea armónica;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+II. Promover la difusión de los derechos y valores en beneficio de las personas mayores, con el propósito de sensibilizar a las familias y a la sociedad en general para que la convivencia sea armónica;
 
 III.- Promover ante las instancias correspondientes, eventos culturales que propicien el sano esparcimiento;
 
-IV.- Fomentar entre la población una cultura de la vejez, de respeto, de aprecio y reconocimiento a la capacidad de aportación de las Personas Adultas Mayores; y
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+IV. Fomentar entre la población una cultura de vejez, de respeto, de aprecio y reconocimiento a la capacidad de aportación de las personas mayores; y
 
 V.- Contar con un padrón de registro de albergues privados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 7.
 
-Corresponde al Titular de la Secretaría de Salud:
+Corresponde a la persona titular de la Secretaría de Salud de la Ciudad de México:
 
-I.- Otorgar a los albergues privados la autorización sanitaria, en términos de lo establecido por esta Ley y la Ley de Salud del Distrito Federal, de acuerdo al nivel de cuidado y atención que brindarán a sus residentes.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+I. Otorgar a los albergues privados la autorización sanitaria, en términos de lo establecido por esta Ley y la Ley de Salud de la Ciudad de México, de acuerdo al nivel de cuidado y atención que brindarán a sus residentes; y
 
 II.- Revocar la autorización sanitaria en caso de incumplimiento de manera reiterada a las normas de salud a que está obligado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 8.
 
-Corresponde a los Jefes Delegacionales:
+Corresponde a las personas titulares de las Alcaldías:
 
 I.- Recibir los avisos de apertura de los albergues privados;
 
@@ -146,17 +182,25 @@ II.- Atender observaciones y quejas acerca del funcionamiento de los Albergues q
 
 III.- Vigilar administrativamente el cumplimiento de las disposiciones en materia de protección civil, así como aplicar las sanciones que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 9.
 
-Corresponde al Titular del Sistema para el Desarrollo Integral de la Familia:
+Corresponde a la persona titular del Sistema para el Desarrollo Integral de la Familia:
 
 I.- Proporcionar en forma gratuita los servicios de asistencia y orientación jurídica, en especial aquellos que se refieren a la seguridad de su persona, patrimonio y testamentario;
 
-II.- Impulsar y promover el reconocimiento y ejercicio de los derechos de las Personas Adultas Mayores;
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
 
-III.- Dar atención y seguimiento a quejas, denuncias e informes, sobre la violación de los derechos de Personas Adultas Mayores haciéndolos del conocimiento de las autoridades correspondientes y de ser procedente ejercer las acciones legales correspondientes; y
+II. Impulsar y promover el reconocimiento y ejercito de los derechos de las personas mayores;
 
-IV.- Presentar denuncias ante las autoridades competentes de cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudica a las Personas Adultas Mayores.
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+III. Dar atención y seguimiento a quejas, denuncia e informes, sobre la violación de los derechos de personas mayores haciéndolos del conocimiento de las autoridades correspondientes y de ser procedente ejercer las acciones legales correspondientes; y
+
+> <small>(REFORMADA, G.O. 4 DE MARZO DE 2024)</small>
+
+IV. Presentar denuncias ante las autoridades competentes de cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudica a las personas mayores.
 
 ### Capítulo III. De la Autorización Sanitaria
 
@@ -196,17 +240,23 @@ Con base en lo anterior, se definirán las condiciones especiales de cuidado y a
 
 Se establecerá el costo por cada concepto y la temporalidad de los pagos a realizarse, así como la persona que se obliga a cubrir los costos de los servicios otorgados, o en su caso, la gratuidad de los mismos.
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 18.
 
-Se establecerán los derechos y obligaciones de los adultos mayores durante su estancia en el Albergue Privado, así como los de sus familiares, visitantes y los del propio Albergue Privado.
+Se establecerán los derechos y obligaciones de las personas mayores durante su estancia en el albergue privado, así como los de sus familiares, visitantes y los del propio albergue privado.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 19.
 
-Se establecerá el régimen de visitas de los familiares y amigos al Adulto Mayor y entregándose una copia del reglamento interior y de visitas a los interesados.
+Se establecerá el régimen de visitas de los familiares y amistades de la persona mayor y entregándose una copia del reglamento interior y de visitas a los interesados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 20.
 
-Los albergues deberán abrir y mantener actualizado un expediente individual por Residente, en donde consten todas las circunstancias personales del Adulto Mayor relativas a su estancia y los servicios que recibe por parte del Albergue Privado, teniéndose especial cuidado en documentar todo lo relativo a los servicios relacionados a la salud y los servicios de supervisión y protección que se le brinden durante su estancia.
+Los albergues deberán abrir y mantener actualizado un expediente individual por residente, en donde consten todas las circunstancias personales de la persona mayor relativas a su estancia y los servicios que recibe por parte del albergue privado, teniéndose especial cuidado en documentar todo lo relativo a los servicios relacionados a la salud y los servicios de supervisión y protección que se le brinden durante su estancia.
 
 En el expediente deberá constar el nombre, dirección y teléfono de sus médicos tratantes, así como los de las personas a quienes avisará sobre cualquier situación que se llegue a presentar y que escape del control del Albergue Privado.
 
@@ -214,31 +264,43 @@ En el expediente deberá constar el nombre, dirección y teléfono de sus médic
 
 Los expedientes individuales, podrán ser consultados en cualquier tiempo por los Residentes, sus familiares y las autoridades competentes que lo soliciten, teniendo el derecho de obtener una copia del mismo, firmada autógrafamente por el administrador del Albergue Privado.
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 22.
 
-Al momento de admitir a un nuevo Residente, el Albergue deberá practicar una valoración médica al Adulto Mayor, a fin de determinar el estado de salud con el que ingresa.
+Al momento de admitir a un nuevo residente, el albergue deberá practicar una valoración médica a la persona mayor, a fin de determinar el estado de salud con el que ingresa.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 23.
 
-Al momento de admitir a un nuevo Residente, el Albergue Privado deberá elaborar un inventario de las pertenencias con las que ingresa el Adulto Mayor, mismo que deberá mantenerse actualizado durante su estancia y que obrará en su expediente individual.
+Al momento de admitir a un nuevo residente, el albergue privado deberá elaborar un inventario de las pertenencias con las que ingresa la persona mayor, misma que deberá mantenerse actualizado durante su estancia y que obrará en su expediente individual.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 24.
 
-El Albergue Privado informará respecto de sus actividades, horarios, reglas, ubicación de los espacios físicos, visitas y todo lo que sea necesario para que el Adulto Mayor tenga una estancia adecuada en el mismo.
+El albergue privado informará respecto de sus actividades, horarios, reglas, ubicación de los espacios físicos, visitas y todo lo que sea necesario para que la persona mayor tenga una estancia adecuada en el mismo.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 25.
 
-El Albergue deberá informar al Residente sobre la atención médica y terapéutica que se le proporcionará, así como sobre la suministración de medicamentos que recibirá, debiendo mantener permanentemente informado sobre estos aspectos al Adulto Mayor y a sus familiares durante todo el tiempo que dure su residencia en el Albergue Privado.
+El albergue deberá informar al residente sobre la atención médica y terapéutica que se le proporcionará, así como sobre la suministración de medicamentos que recibirá, debiendo mantener permanentemente informado sobre estos aspectos a la persona mayor y a sus familiares durante todo el tiempo que dure su residencia en el albergue privado.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 26.
 
-El Albergue Privado informará al Residente sobre las diversas actividades de estudio, trabajo, recreación y esparcimiento con que cuenta, y le invitará y motivará a unirse voluntariamente a ellas. Por ninguna causa que no sea por prescripción médica, podrá exigirse que el Adulto Mayor participe en este tipo de actividades.
+El albergue privado informará al residente sobre las diversas actividades de estudio, trabajo, recreación y esparcimiento con que cuenta, y le invitará y motivará a unirse voluntariamente a ellas. Por ninguna causa que no sea por prescripción médica, podrá exigirse que la persona mayor participe en este tipo de actividades.
 
-Cuando el Adulto Mayor se niegue a la actividad requerida, se asentará en el expediente respectivo las razones de la negativa.
+Cuando la persona mayor se niegue a la actividad requerida, se asentará en el expediente respectivo las razones de la negativa.
+
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
 
 ###### Artículo 27.
 
-El Albergue Privado informará al Adulto Mayor sobre los servicios asistenciales que se encuentran a su alcance, para que pueda hacer uso de ellos cuando así lo requiera.
+El albergue privado informará a la persona mayor sobre los servicios asistenciales que se encuentran a su alcance, para que pueda hacer uso de ellos cuando así lo requiera.
 
 ### Capítulo V. Sobre el cuidado
 
@@ -294,9 +356,11 @@ Los voluntarios no podrán brindar servicios que requieran de conocimientos espe
 
 ### Capítulo VII. De los Derechos y Obligaciones de los Familiares de los Residentes
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 38.
 
-Los familiares del Residente tienen derecho a visitar al Adulto Mayor.
+Los familiares del residente tienen derecho a visitar a la persona mayor.
 
 ###### Artículo 39.
 
@@ -330,9 +394,11 @@ Los familiares del Residente tienen derecho a recibir del Albergue Privado toda 
 
 El Residente tiene derecho a recibir un trato digno y respetuoso, que facilite la convivencia y la prestación de los servicios.
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 47.
 
-El hecho de dejar en manos de terceras personas el cuidado y la atención que requiere el Adulto Mayor, de ninguna manera libera a los familiares de los derechos y de las obligaciones que la ley les reconoce e impone.
+El hecho de dejar en manos de terceras personas el cuidado y la atención que requiere la persona mayor, de ninguna manera libera a los familiares de los derechos y de las obligaciones que la ley les reconoce e impone.
 
 Cuando los familiares del residente, dejen de cumplir con las obligaciones y atenciones, que requiere el adulto mayor, dejándolo en estado de abandono y omisión de atención, por más de noventa días, el representante legal del albergue privado, deberá denunciar los hechos ante el Ministerio Público.
 
@@ -350,9 +416,11 @@ El Albergue Privado deberá contemplar dentro de su reglamento interno, todo lo 
 
 El Albergue Privado deberá hacer del conocimiento de todas las personas que brindan y reciben los servicios que proporciona, el reglamento interno que elabore, así como las modificaciones que llegue a tener el mismo.
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 51.
 
-En la formulación del reglamento interno, deberán observarse las disposiciones jurídicas aplicables a la materia, así como el estricto cumplimiento de la Ley de los Derechos de las Personas Adultas Mayores del Distrito Federal.
+En la formulación del reglamento interno, deberán observarse las disposiciones jurídicas aplicables a la materia, así como el estricto cumplimiento de la Ley de Reconocimiento de los Derechos de las Personas Mayores y del Sistema Integral para su Atención de la Ciudad de México.
 
 ### Capítulo IX. De las sanciones
 
@@ -360,9 +428,11 @@ En la formulación del reglamento interno, deberán observarse las disposiciones
 
 Las violaciones a esta Ley traerán como consecuencia la imposición de las sanciones previstas en este capítulo, sin perjuicio de las responsabilidades penales, civiles, administrativas o de cualquier índole que pudieren ser reclamadas a quien o quienes incurrieren en dichas faltas.
 
+> <small>(REFORMADO, G.O. 4 DE MARZO DE 2024)</small>
+
 ###### Artículo 53.
 
-Para los efectos de esta Ley deberá hacerse del conocimiento del DIF los hechos que se consideran constitutivos de una queja en contra de una persona en lo particular, en términos de lo dispuesto en el artículo 28 de la Ley de los Derechos de la Personas Adultas Mayores, con la finalidad que el Residente cuente con la asesoría y representación necesaria para dar trámite a su queja.
+Para los efectos de esta Ley, los albergues deberán hacerse (sic) del conocimiento del DIF los hechos que se consideran constitutivos de una queja en contra de una persona en lo particular, en términos de lo dispuesto por las disposiciones aplicables, con la finalidad que el residente cuente con la asesoría y representación necesaria para dar trámite a su queja.
 
 ## TRANSITORIOS
 
@@ -377,3 +447,13 @@ Cuarto.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Feder
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciséis días del mes de abril del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. DANIEL RAMÍREZ DEL VALLE, PRESIDENTE.- DIP. SERGIO MIGUEL CEDILLO FERNÁNDEZ, SECRETARIO.- DIP. JACOBO MANFREDO BONILLA CEDILLO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta días del mes de octubre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSE ÁNGEL ÁVILA PEREZ.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y MODIFICAN LOS ARTÍCULOS EL ARTÍCULO 1; LOS INCISOS A), D), E), F), G), H) E I), DEL ARTÍCULO 2; LAS FRACCIONES I, II, IV, Y VI, DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II, DEL ARTÍCULO 5; EL PÁRRAFO PRIMERO Y LAS FRACCIONES II Y IV, DEL ARTÍCULO 6; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I, DEL ARTÍCULO 7; EL PÁRRAFO PRIMERO, DEL ARTÍCULO 8; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II, III Y IV, DEL ARTÍCULO 9; EL ARTÍCULO 18; EL ARTÍCULO 19; EL PRIMER PÁRRAFO, DEL ARTÍCULO 20; EL ARTÍCULO 22; EL ARTÍCULO 23; EL ARTÍCULO 24; EL ARTÍCULO 25; EL ARTÍCULO 26; EL ARTÍCULO 27; EL ARTÍCULO 38; EL ARTÍCULO 47; EL ARTÍCULO 51 Y EL ARTÍCULO 53, ASÍ COMO SU DENOMINACIÓN, TODOS DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
