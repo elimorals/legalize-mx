@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2020-11-25"
+last_updated: "2024-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2024.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -244,6 +244,10 @@ a) Diez Direcciones Regionales, las cuales operarán en la sede y con competenci
 10) Centro.- Con sede en la Ciudad de México, circunscripción: Ciudad de México.
 
 El Instituto contará además, con las áreas y los servidores públicos a que hace referencia el artículo 12 de este Reglamento, cuyas atribuciones deberán contenerse y especificarse en los Manuales de Organización de las Unidades Administrativas del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2024)</small>
+
+XI. Coordinación General de Estrategia Digital.
 
 ### Capítulo II,
 
@@ -3189,11 +3193,15 @@ La Coordinación General de Informática, contará con las atribuciones específ
 
 I. Coordinar y determinar la organización de las áreas informáticas del Instituto, en coordinación con la Dirección General Adjunta de Recursos Humanos, para que se proporcionen a las Unidades Administrativas los servicios informáticos y las soluciones tecnológicas que son requeridas para el apoyo de los procesos y proyectos institucionales;
 
-II. Proponer las políticas en materia de tecnologías de la información y comunicaciones, para su aprobación por la Junta de Gobierno y conducir su aplicación, con el propósito de armonizar su desarrollo en el Instituto y su comunicación con el Sistema;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2024)</small>
+
+II. Proponer las políticas en materia de tecnologías de la información y comunicaciones, en acuerdo con la Coordinación General de Estrategia Digital, para su aprobación por la Junta de Gobierno y conducir su aplicación, con el propósito de armonizar su desarrollo en el Instituto y su comunicación con el Sistema;
 
 III. Proponer, instrumentar y dar seguimiento al cumplimiento de disposiciones normativas internas y criterios técnicos en materia de tecnologías de la información y comunicaciones, que propicien la administración racional y eficiente de los recursos informáticos del Instituto, así como realizar las acciones que en materia de tecnologías de la información y comunicaciones corresponden al Instituto como coordinador del Sistema;
 
-IV. Integrar el anteproyecto de presupuesto de tecnologías de la información y comunicaciones del Instituto, considerando para ello las necesidades de las Áreas y Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2024)</small>
+
+IV. Integrar el anteproyecto de presupuesto de tecnologías de la información y comunicaciones del Instituto, en conjunto con la Coordinación General de Estrategia Digital, considerando para ello las necesidades de las Áreas y Unidades Administrativas;
 
 V. Dictaminar técnicamente la adquisición, contratación de servicios, instalación, operación y mantenimiento de las tecnologías de información y comunicaciones, incluyendo sus componentes físicos y lógicos, que sean necesarios para soportar las atribuciones del Instituto;
 
@@ -3333,11 +3341,33 @@ XXIII. Expedir copias certificadas de la documentación generada en ejercicio de
 
 XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2024)</small>
+
 ### Capítulo XVII,
 
 De la Suplencia de los Servidores Públicos de la Contraloría Interna.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JULIO DE 2019)</small>
+
+###### ARTICULO 46 Quinquies.
+
+La Coordinación General de Estrategia Digital, contará con las atribuciones específicas siguientes:
+
+I. Diseñar las estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, entre otras;
+
+II. Coordinar la implementación de estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, en conjunto con la Dirección General Adjunta de Integración de Información;
+
+III. Proponer mecanismos de coordinación, cooperación y seguimiento en materia de estrategias digitales, para servicios o proyectos interinstitucionales, con otras oficinas, organismos nacionales e internacionales de estadística y geografía;
+
+IV. Realizar el análisis de las alternativas tecnológicas para el desarrollo e implementación de las estrategias digitales, para su posible adopción en el Instituto;
+
+V. Asesorar a las Áreas y Unidades Administrativas para la formulación de estrategias digitales relacionadas con la producción de información estadística y geográfica, en conjunto con la Coordinación General de Informática;
+
+VI. Diseñar las propuestas de inversión tecnológica, para su integración al programa de inversión anual del Instituto, en colaboración con la Dirección General Adjunta de Programación, Organización y Presupuesto y la Coordinación General de Informática;
+
+VII. Acordar con la Coordinación General de Informática la priorización de las solicitudes de iniciativas y proyectos de tecnologías de la información y comunicaciones de las Áreas y Unidades Administrativas, en consistencia con las estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, entre otras, y
+
+VIII. Las facultades que expresamente le otorga a su Titular el artículo 11 de este Reglamento.
 
 ###### ARTICULO 47.
 
@@ -3788,3 +3818,11 @@ SEGUNDO.- A partir de la fecha señalada en el Transitorio Primero, los asuntos 
 TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de las presentes reformas al Reglamento se modifican, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
 
 CUARTO.- Las referencias que en diversas disposiciones administrativas se realicen a la Dirección General Adjunta de Administración de Riesgos y Transparencia, deben entenderse hechas a la Dirección General Adjunta de Apoyo Normativo y Administración de Riesgos.
+
+D.O.F. 4 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación y se ordena su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la Unidad Administrativa que por virtud de las presentes reformas al Reglamento se crea, se encuentren disponibles para el cumplimiento de sus atribuciones, de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
