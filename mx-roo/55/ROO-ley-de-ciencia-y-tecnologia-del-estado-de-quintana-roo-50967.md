@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ciencia-y-tecnologia-del-estado-de-quintana-roo-50967"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-15"
-last_updated: "2006-06-15"
+last_updated: "2024-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. 5 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el sábado 15 de Junio de 2006.
 
@@ -986,3 +988,41 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 205 POR EL QUE SE EXPIDE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se abroga la Ley de Ciencia y Tecnología del Estado de Quintana Roo, expedida mediante Decreto 086 de la XI Legislatura del Estado y publicada en el Periódico Oficial del Gobierno del Estado de fecha 15 de junio de 2006.
+
+Tercero. La persona Titular del Poder Ejecutivo del Estado contará con un plazo de un año contado a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes a las disposiciones reglamentarias y demás normatividad complementaria en la materia.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente Decreto
+
+Cuarto. A partir de la entrada en vigor de esta Ley, el Consejo Quintanarroense de Ciencia y Tecnología se convertirá en el Consejo Quintanarroense de Humanidades Ciencias y Tecnologías, que se crea mediante la presente Ley, por lo que toda norma, ordenamiento, actos e instrumentos jurídicos que hagan mención al primero, se entenderá que se refiere al segundo de los mencionados.
+
+Quinto. Los recursos humanos, materiales y financieros a cargo del Consejo Quintanarroense de Ciencia y Tecnología se transferirán íntegramente al Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías que se enuncia en la presente Ley.
+
+El Consejo Quintanarroense de Ciencia y Tecnología, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto, en un plazo no mayor a seis meses contados a partir de la entrada en vigor de la Ley.
+
+Las atribuciones de las unidades administrativas del Consejo Quintanarroense de Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta en tanto esto suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos en esta Ley, la persona titular de la Dirección General del Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías definirá la distribución necesaria de facultades.
+
+La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Quintanarroense de Ciencia y Tecnología, quienes pasarán a formar parte de la plantilla laboral del Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías.
+
+Sexto. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
+
+Séptimo. A partir de la entrada en vigor de esta Ley, se modifica la denominación del Sistema Estatal de Información y Documentación Científica y Tecnológica, que pasará a ser el Sistema Estatal de Información. En ese sentido, toda referencia en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que refieran al primero, se referirán al Sistema Estatal de Información en mención.
+
+Octavo. El Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías cuenta con un plazo de 180 días naturales, a partir de la entrada en vigor de esta Ley, para llevar a cabo la instalación del Sistema Estatal de Humanidades, Ciencias, Tecnologías e Innovación, así como su Junta de Gobierno y demás órganos que la conforman o que resulten aplicables ante la expedición del presente Decreto.
+
+Noveno. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal 2024, así como los subsecuentes, con el objeto de dar cumplimiento a las facultades que la presente Ley otorga al Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías.
+
+Décimo. Se autoriza al Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías para que, en un plazo que no exceda al ejercicio fiscal 2024, haga uso de los recursos autorizados para el Consejo Quintanarroense de Ciencia y Tecnología, en el presupuesto de egresos 2024, así como para realizar las adecuaciones pertinentes para su restructura administrativa, programática y presupuestal que le permita cumplir con las obligaciones impuestas por la presente Ley.
+
+Décimo Primero. Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado a través de las instancias competentes, podrá reorganizar las estructuras administrativas, así como crear, fusionar, rescindir o disolver unidades administrativas, realizando las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el ejercicio fiscal 2024, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+Décimo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
