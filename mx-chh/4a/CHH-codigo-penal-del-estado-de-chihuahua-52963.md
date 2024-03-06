@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2024-02-28"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2907,6 +2907,10 @@ XIII. Recaiga sobre semillas, frutos cosechados o por cosechar, o cualesquiera o
 
 XIV. Recaiga sobre materiales conductores de agua o energía, utilizados para la prestación de un servicio público, o el equipamiento de alcantarillado y drenaje público.
 
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XV. Recaiga en equipamiento urbano destinado a parques, plazas o áreas verdes con fines de recreación o deporte; así como a corredores biológicos o zonas de esparcimiento, o equipamientos destinados para la vida comunitaria y la movilidad.
+
 ###### Artículo 212.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
@@ -3961,7 +3965,9 @@ II. Otorgue indebidamente privilegios a los internos; o
 
 III. Permita ilegalmente la salida temporal de personas privadas de su libertad.
 
-### CAPÍTULO VII. EVASIÓN DE PRESOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2024)</small>
+
+### CAPÍTULO VII. EVASIÓN DE PERSONAS PRIVADAS DE SU LIBERTAD
 
 ###### Artículo 300.
 
@@ -3989,9 +3995,17 @@ Si la reaprehensión de la persona evadida se logra por gestiones de quien resul
 
 ###### Artículo 305.
 
-Al evadido no se le impondrá pena o medida de seguridad alguna, salvo que obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerza violencia, en cuyo caso se le impondrá de seis meses a tres años de prisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2024)</small>
 
-Cuando un particular cometa o participe en alguno de los delitos previsto en este Capítulo, se le impondrá la mitad de las sanciones establecidas.
+A la persona evadida no se le impondrá pena o medida de seguridad alguna, salvo que obre de concierto con otra u otras personas privadas de su libertad y se fugue alguna de ellas o ejerza violencia, en cuyo caso se le impondrá de seis meses a tres años de prisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2024)</small>
+
+En caso de que, para darse a la fuga, la persona evadida ejerciere violencia en las personas, la pena se aumentará en dos tercios.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE MARZO DE 2024)</small>
+
+Cuando un particular cometa o participe en alguno de los delitos previstos en este Capítulo, se le impondrá la mitad de las sanciones establecidas.
 
 ## TÍTULO VIGÉSIMO
 
@@ -5880,6 +5894,22 @@ Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor
 P.O. 28 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0812/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0796/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0797/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 211, LA FRACCIÓN XV, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
