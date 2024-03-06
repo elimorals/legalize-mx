@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2023-12-12"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -183,11 +183,15 @@ II. La justicia social;
 
 III. La igualdad de oportunidades;
 
-IV. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2024)</small>
+
+IV. El interés superior de la niñez, así como el respeto a la evolución de sus facultades y el derecho a preservar su identidad;
 
 V. El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas;
 
-VI. La participación e inclusión plenas y efectivas en la sociedad;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2024)</small>
+
+VI. La participación, inclusión e integración plena y efectiva en la sociedad;
 
 VII. El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humana;
 
@@ -201,13 +205,37 @@ X. La igualdad entre mujeres y hombres con discapacidad;
 
 XI. La transversalidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2024)</small>
 
-XII. La progresividad; y
+XII. La progresividad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2024)</small>
 
-XIII. Los demás que resulten aplicables.
+XIII. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XIV. La universalidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XV. La corresponsabilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XVI. La interdependencia e indivisibilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XVII. El fomento a la vida independiente;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XVIII. El pro persona; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE MARZO DE 2024)</small>
+
+XIX. Los establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, así como los Tratados Internacionales ratificados por el Estado mexicano y demás disposiciones que resulten aplicables.
 
 ###### Artículo 5.
 
@@ -994,3 +1022,11 @@ P.O. 12 DE DICIEMBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 343 POR EL QUE “SE REFORMAN LAS FRACCIONES IV, VI, XII Y XIII Y SE ADICIONAN LAS FRACCIONES XIV, XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 4 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
