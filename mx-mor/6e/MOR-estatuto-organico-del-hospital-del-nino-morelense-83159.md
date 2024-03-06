@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-hospital-del-nino-morelense-83159"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-10-05"
-last_updated: "2011-10-05"
+last_updated: "2024-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL HOSPITAL DEL NIÑO MORELENSE
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL ESTATUTO ORGÁNICO DEL HOSPITAL DEL NIÑO MORELENSE, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL HOSPITAL DEL NIÑO MORELENSE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos el miércoles 5 de octubre de 2011.
 
@@ -31,7 +33,9 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR, CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; Y 2, 3 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -336,3 +340,19 @@ HOSPITAL DEL NIÑO MORELENSE
 DR. MELQUISEDEC PIEDRAGIL AYALA.
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL HOSPITAL DEL NIÑO MORELENSE".]
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 76, penúltimo párrafo, y 83, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se abroga el Estatuto Orgánico del Hospital del Niño Morelense, publicado en el Periódico Oficial "Tierra y Libertad", número 4924, de fecha 05 de octubre de 2011, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente estatuto orgánico.
+
+CUARTA. Dentro de un plazo de ciento veinte días hábiles posteriores a la entrada en vigor del presente Estatuto Orgánico, el Hospital del Niño Morelense deberá de actualizar los Manuales Administrativos, Descriptivo y Perfiles de Puesto y demas instrumentos administrativos que correspondan en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada unidad administrativa según su ámbito de competencia.
+
+QUINTA. En un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá instalarse el Subcomité de Adquisiciones, Arrendamientos y Servicios del Hospital del Niño Morelense.
