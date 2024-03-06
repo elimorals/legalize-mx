@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-el-colegio-de-morelos-126597"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-24"
-last_updated: "2022-10-19"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DE “EL COLEGIO DE MORELOS”
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Estatuto publicado en el Número 5571 del Periódico Oficial del Estado de Morelos, el miércoles 24 de enero de 2018.
 
@@ -239,9 +237,25 @@ La falta del Secretario Técnico será suplida por el integrante del Consejo que
 
 La Junta autorizará el establecimiento de los centros de investigación previstos en el artículo 46 de la Ley Orgánica, los cuales serán integrados por los investigadores, por áreas de conocimiento y líneas de investigación afines; en el acto de su creación, dicha Junta precisará sus ámbitos de competencia y su participación en el Consejo Académico, a través de la reglamentación derivada.
 
-### CAPÍTULO VI. DE LA COMUNIDAD DE EL COLEGIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2024)</small>
 
-### CAPÍTULO VII. DE LA TRANSPARENCIA
+### CAPÍTULO V BIS. DE LAS UNIDADES ADMINISTRATIVAS DE APOYO INSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+Las unidades administrativas de apoyo institucional serán las siguientes:
+
+I. La unidad de transparencia, datos personales y archivo
+
+II. La unidad de igualdad de género y cultura de paz.
+
+Estas unidades administrativas sin ser órganos académicos, ni órganos de gobierno unipersonales o colegiados, coadyuvan de manera significativa al cumplimiento de aquellos actos relacionados con la cultura de transparencia, rendición de cuentas, memoria institucional, equidad de género, y búsqueda de la paz social.
+
+Las presentes reformas se llevaron a cabo conforme al Estatuto Orgánico de El Colegio de Morelos.
+
+### CAPÍTULO VI. DE LA COMUNIDAD DE EL COLEGIO
 
 ###### Artículo 18.
 
@@ -285,7 +299,7 @@ La Comunidad de El Colegio estará facultada para reunirse y realizar propuestas
 
 La convocatoria a las juntas de la comunidad de El Colegio podrá ser realizada por la Junta, por el Rector o por investigadores, académicos, administrativos, técnicos o alumnos, siempre que se haga por un grupo representativo. La citación correspondiente a la reunión será realizada por el Secretario.
 
-### CAPÍTULO VIII. DE LOS DERECHOS LABORALES
+### CAPÍTULO VII. DE LA TRANSPARENCIA
 
 ###### Artículo 21.
 
@@ -299,13 +313,15 @@ Las autoridades competentes de El Colegio deben guardar registro de toda la docu
 
 El Colegio dictaminará sus balances y estados financieros por conducto de un auditor externo, nombrado por la autoridad competente, el cual deberá tener una amplia experiencia en la materia, ser de reconocida probidad y contar al menos con cinco años trabajando en el estado de Morelos.
 
-### CAPÍTULO IX. DE LA REFORMA DEL ESTATUTO
+### CAPÍTULO VIII. DE LOS DERECHOS LABORALES
 
 ###### Artículo 24.
 
 Las relaciones laborales tanto del personal académico como del administrativo, se regirán por el apartado A del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, en los términos y modalidades que establezca la Ley Federal del Trabajo, la legislación y la normativa de El Colegio, de manera que concuerde con lo previsto por el artículo 3 del presente Estatuto relativo a su autonomía, libertad académica y de investigación, sus fines y objeto.
 
 El Rector podrá establecer y mantener un fondo de pensiones para el personal de El Colegio, el cual le permitirá asumir las pensiones que la institución generará en los años siguientes. Los trabajadores de El Colegio podrán hacer aportaciones voluntarias a dicho fondo conforme a la normativa que se determine al respecto.
+
+### CAPÍTULO IX. DE LA REFORMA DEL ESTATUTO
 
 ###### Artículo 25.
 
@@ -402,3 +418,11 @@ PRIMERO.- Las modificaciones al presente Estatuto entrarán en vigor a partir de
 > <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2022)</small>
 
 SEGUNDO.- Quedan derogadas todas aquellas disposiciones que contravengan al presente Estatuto.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO/COLMORJG/3ORD.23/02.- LOS INTEGRANTES DE LA H. JUNTA DE GOBIERNO APRUEBAN POR UNANIMIDAD LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE EL COLEGIO DE MORELOS”.]
+
+PRIMERO. Las adiciones al presente estatuto orgánico, entrarán en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente estatuto.
