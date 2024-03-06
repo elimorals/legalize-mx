@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-16"
-last_updated: "2020-01-29"
+last_updated: "2024-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024 (DEROGADO).
 
 Código publicado en el Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de agosto de 2018.
 
@@ -278,3 +280,27 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se deja sin efecto la Carta Compromiso inserta en el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Seguridad Pública publicado en el Periódico Oficial del Estado No. 99 de fecha 16 de agosto de 2018, solo para los efectos de no seguirse recabando en ese formato, en el entendido que las cartas compromiso ya signadas seguirán surtiendo sus efectos legales y administrativos a que haya lugar.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTO (SIC) DE INTERÉS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Seguridad Pública del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado Número 99, Tomo CXLIII, de fecha 16 de agosto de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés del Instituto, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO QUINTO.
+
+El Comité de Ética, establecerá mecanismos de difusión del presente Código para su debido cumplimiento, una vez que haya sido publicado en el Periódico Oficial del Estado.
