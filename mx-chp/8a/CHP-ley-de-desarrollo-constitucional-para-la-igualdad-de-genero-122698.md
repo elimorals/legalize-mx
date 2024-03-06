@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-para-la-igualdad-de-genero-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-02"
-last_updated: "2023-09-13"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GENERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección al Número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 2017.
 
@@ -755,7 +757,31 @@ VIII. Violencia de los derechos reproductivos.- Es toda acción u omisión que l
 
 IX. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 6 DE MARZO DE 2024)</small>
+
+X. Violencia a través de interpósita persona, es cualquier acto u omisión que, con el objetivo de causar un perjuicio o daño a las mujeres, se dirige (sic) contra de las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Este tipo de violencia se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Amenazar o causar daño a las hijas y/o hijos.
+
+b) Amenazar con ocultar, retener o sustraer a las hijas y/o hijos fuera de su domicilio o su lugar de residencia habitual.
+
+c) Utilizar a las hijas y/o hijos para obtener información de la madre, respecto a su ámbito personal, laboral, familiar o de cualquier otra índole.
+
+d) Promover, incitar o fomentar en las hijas e hijos, actos de violencia física en contra de la madre.
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna, afectando el vínculo materno filial.
+
+f) Ocultar, retener o sustraer a las hijas y/o hijos, familiares o personas allegadas.
+
+g) Interponer acciones legales basadas en hechos falsos o inexistentes en contra de las mujeres, para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común.
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las que tenga derecho la mujer, hijas y/o hijos.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE MARZO DE 2024)</small>
+
+XI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. DE LAS MODALIDADES DE LA VIOLENCIA, DERECHOS DE LAS MUJERES Y ÓRDENES DE PROTECCIÓN
 
@@ -889,31 +915,39 @@ XI. El patrimonio; y
 
 XII. Los derechos políticos electorales.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2024)</small>
+
+Toda acción u omisión que genere una transgresión a los derechos humanos de las mujeres víctimas, deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2024)</small>
+
 ###### Artículo 54.
 
 Las víctimas de violencia previstas en esta Ley, tendrán los siguientes derechos:
 
-I. Protección inmediata y efectiva por parte de las autoridades;
+I. Recibir protección inmediata, gratuita y efectiva por parte de las autoridades, que favorezcan el empoderamiento de las mujeres y la reparación del daño causado por los distintos tipos y modalidades de violencia.
 
-II. Trato digno y respeto durante cualquier entrevista o actuación como víctima de violencia;
+II. Trato digno y respeto durante cualquier entrevista o actuación como víctima de violencia.
 
-III. Asistencia legal necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
+III. Recibir la asesoría y asistencia legal necesaria y gratuita, en los trámites y procedimientos jurídicos relacionados con la violencia generada en su contra.
 
-IV. Asistencia médica y psicológica gratuita e inmediata, y en su caso, a sus hijos e hijas, para la atención de las consecuencias generadas por la violencia;
+IV. Recibir la asistencia médica y psicológica especializada, inmediata y gratuita, incluyendo, en su caso, a las hijas e hijos, para atender las consecuencias generadas por la violencia ejercida en su contra.
 
-V. A que se les proporcione anticoncepción de emergencia y medicamentos contra enfermedades de transmisión sexual conforme a lo establecido por el artículo 6.4 de la NOM-046-SSA2-2005;
+V. A que se les proporcione anticoncepción de emergencia y medicamentos contra enfermedades de transmisión sexual conforme a lo establecido por el artículo 6.4 de la NOM-046-SSA2-2005.
 
-VI. Acciones de asistencia social que contribuyan a su pleno desarrollo;
+VI. Acciones de asistencia social que contribuyan a su pleno desarrollo.
 
-VII. Atención en un refugio temporal en compañía de sus hijos e hijas;
+VII. Atención en un refugio temporal en compañía de sus hijos e hijas.
 
-VIII. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+VIII. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
 
 IX. Las mujeres víctimas de violencia serán asistidas en todo tiempo por intérpretes y defensores sociales que tengan conocimiento de su lengua y cultura, en los casos que se requiera.
 
-X. Favorecer la separación y alejamiento del agresor con respecto a la Víctima;
+X. Favorecer la separación y alejamiento del agresor con respecto a la Víctima.
 
-XI. Las demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
+XI. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán proporcionar la atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia.
+
+XII. Los demás que establezcan esta Ley, su reglamento y las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
@@ -967,7 +1001,13 @@ IV. Prohibición de intimidar o molestar a la víctima en su entorno social, as�
 
 V. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
 
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+VI. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de violencia, de sus hijas y/o hijos menores de dieciocho años de edad y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados, por efecto de alguna de las conductas o manifestaciones de la violencia a través de interpósita persona.
+
 Las medidas a que se refiere el presente artículo, podrán ser emitidas por el Ministerio Público, cuando se ponga en peligro la vida y/o libertad de la víctima. Para su emisión, bastará únicamente con la declaración de la víctima, la cual posteriormente deberá ser corroborada por peritos legalmente acreditados.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2024)</small>
 
 ###### Artículo 61.
 
@@ -975,15 +1015,17 @@ Son órdenes de protección preventivas las siguientes:
 
 I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
 
-Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima.
 
-II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+II. Elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar el cumplimiento de las obligaciones alimentarias.
 
-III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima.
 
 IV. Acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima, para tomar sus objetos personales y documentos; previa orden de autoridad competente.
 
 V. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+
+VI. La prohibición a la persona agresora de salir del país sin autorización judicial o del ámbito territorial fijado por la autoridad competente.
 
 Estas medidas serán tramitadas ante los órganos jurisdiccionales competentes.
 
@@ -998,6 +1040,10 @@ II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuand
 III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio conyugal, hasta en tanto el órgano jurisdiccional determine lo conducente;
 
 IV. Embargo precautorio de bienes inmuebles propiedad del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y Comercio, o en su caso un porcentaje del salario mínimo o de salarios suficientes a efecto de garantizar y hacer efectivas las obligaciones alimentarias.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+V. Ordenar la restitución, recuperación y entrega inmediata a las mujeres víctimas de violencia, de sus hijas y/o hijos menores de dieciocho años de edad y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados, por efecto de alguna de las conductas o manifestaciones de la violencia a través de interpósita persona.
 
 Estas medidas serán tramitadas ante los órganos jurisdiccionales competentes.
 
@@ -1023,11 +1069,11 @@ Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2024)</small>
 
 ###### Artículo 66.
 
-El Estado y los municipios se coordinarán para establecer el Sistema Estatal, con el objeto de conjuntar esfuerzos para la implementación de las políticas y programas de evaluación y coordinación de los modelos de prevención, atención, sanción y erradicación de la violencia física, psicológica, económica, patrimonial, política, sexual, moral, obstétrica y de derechos reproductivos contra las mujeres, de conformidad con el Programa Estatal.
+El Estado y los municipios se coordinarán para establecer el Sistema Estatal, con el objeto de conjuntar esfuerzos para la implementación de las políticas y programas de evaluación y coordinación de los modelos de prevención, atención, sanción y erradicación de la violencia física, psicológica, económica, patrimonial, política, sexual, moral, violencia a través de interpósita persona, obstétrica y de derechos reproductivos contra las mujeres, de conformidad con el Programa Estatal.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1798,3 +1844,13 @@ Artículo Tercero.- Todas las autoridades del Estado de Chiapas, así como los m
 Artículo Cuarto.- La Secretaría deberá realizar las gestiones necesarias a efecto de instalar el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, de acuerdo a su nueva conformación, en un plazo no mayor a 30 días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial.
 
 Artículo Quinto.- La Secretaría, dentro de los noventa días siguientes a la publicación en el Periódico oficial del presente Decreto, deberá realizar las adecuaciones que correspondan a la normatividad y reglamentación aplicable.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 260 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES; DEL CÓDIGO CIVIL PARA EL ESTADO DE CHIAPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE VIOLENCIA A TRAVÉS DE INTERPÓSITA PERSONA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Cualquier erogación que se genere con motivo a la entrada en vigor del presente Decreto, será cubierta de conformidad con el presupuesto autorizado a las Dependencias y Entidades de la Administración Pública Estatal, el Poder Judicial y Órganos Autónomos responsables de la ejecución del gasto público, para el ejercicio fiscal correspondiente.
