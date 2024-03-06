@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-morelos-8907
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2017-03-01"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -1169,6 +1169,12 @@ En casos de peligro derivado de conflictos o siniestros públicos, todos los pro
 
 Todos los profesionales del ramo están obligados a colaborar como auxiliares del Gobierno del Estado e Institutos de Investigación, proporcionando los datos o información que se les soliciten, en los casos que sean de interés público.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2024)</small>
+
+###### Artículo 154 Bis.
+
+La persona titular de la Dirección deberá de contar con título y cédula profesional de Médico Veterinario o Ingeniero Agrónomo Zootecnista o carrera a fin.
+
 ## TÍTULO SÉPTIMO.
 
 DISPOSICIONES ESPECIALES SOBRE AVICULTURA, PORCICULTURA, APICULTURA Y ACUACULTURA.
@@ -1604,3 +1610,15 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS VEINTICUATRO.- POR EL QUE SE ADICIONA EL ARTÍCULO 154 BIS A LA LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS, EN MATERIA DE PROFESIONALIZACIÓN DE LA PERSONA TITULAR DE LA DIRECCIÓN GENERAL DE GANADERÍA Y ACUACULTURA DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL PODER EJECUTIVO ESTATAL”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. El requisito contenido en el artículo que se adiciona a través del presente Decreto, deberá de exigirse a partir de la siguiente designación de la persona titular de la Dirección General de Ganadería y Acuacultura de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al contenido del presente decreto.
