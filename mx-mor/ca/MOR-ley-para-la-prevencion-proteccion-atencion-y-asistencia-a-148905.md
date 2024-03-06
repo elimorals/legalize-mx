@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-proteccion-atencion-y-asistencia-a-14890
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-31"
-last_updated: "2023-07-12"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 31 de marzo de 2021.
 
@@ -69,7 +69,7 @@ V. Comisión Ejecutiva Estatal, a la Comisión Ejecutiva de Atención y Reparaci
 
 VI. Constitución, a la Constitución Política de los Estados Unidos Mexicanos;
 
-VII. El Fondo, al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Morelos;
+VII. (DEROGADA, P.O. 6 DE MARZO DE 2024)
 
 VIII. El Programa Estatal, al Programa Estatal para Prevenir y Erradicar la Trata de Personas y para la Protección a las Víctimas de este Delito en el Estado de Morelos;
 
@@ -369,13 +369,7 @@ XII. Los demás que el Consejo considere necesarios.
 
 ###### Artículo 25.
 
-El Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Morelos, contemplará lo correspondiente a las víctimas de los delitos en materia de trata de personas.
-
-Mismo que podrá ser constituido en los términos y porcentajes que establezca el Reglamento respectivo y se integrarán de la siguiente manera:
-
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Morelos en el rubro correspondiente, y
-
-II. Donaciones o aportaciones en efectivo o especie realizadas por terceros, personas físicas o morales, de carácter público, privado o social, nacional o extranjera, de manera altruista.
+(DEROGADO, P.O. 6 DE MARZO DE 2024)
 
 ###### Artículo 28.
 
@@ -418,6 +412,16 @@ RÚBRICAS.
 P.O. 12 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVENTA Y OCHO.- POR EL QUE SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 8, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL SETECIENTOS VEINTITRÉS POR EL QUE SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 3 Y EL ARTÍCULO 25, AMBOS DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE MORELOS".]
 
 PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
