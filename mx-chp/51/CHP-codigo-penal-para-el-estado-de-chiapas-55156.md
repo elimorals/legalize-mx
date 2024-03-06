@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2023-05-03"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHP"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2125,7 +2127,7 @@ Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o
 
 ### Capítulo II. Violencia Familiar
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2024)</small>
 
 ###### Artículo 189.
 
@@ -2207,23 +2209,43 @@ Tratándose de los delitos previstos en los artículos 191 y 193, el Juez deber�
 
 ###### Artículo 198.
 
-Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de acosarla, dominarla, someterla, controlarla, denostarla, denigrarla, mediante violencia física, verbal, psicoemocional, sexual, patrimonial o económica, independientemente de que se produzcan o no lesiones o se configure cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
+Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de acosarla, dominarla, someterla, controlarla, denostarla, denigrarla, mediante violencia física, verbal, psicoemocional, sexual, patrimonial, económica o a través de interpósita persona, independientemente de que se produzcan o no lesiones o se configure cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 El mismo delito será imputable a quien omita impedirlo o denunciarlo.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
 Los delitos contenidos en el presente Capítulo se perseguirán de oficio.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 Para los efectos de este artículo, se entenderá por:
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
 Violencia física: A toda agresión física intencional en la que se utilice cualquier sustancia, objeto o miembro del cuerpo capaz de inmovilizar o causar un daño en la integridad física de otra persona.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 Violencia psicoemocional: A cualquier conducta, activa u omisiva que mediante prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias, denigrantes, de menosprecio, descuido reiterado y negligencia, celotipia, de subestimación o de abandono, expresiones verbales denigrantes, provoquen en quien las sufra deterioro anímico, disminución o afectación de su personalidad o estabilidad mental, o induzcan al suicidio.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
 Violencia sexual: A la utilización, imposición o abstención de prácticas sexuales como instrumento para el control, manipulación o dominio del sujeto pasivo, que atente contra su integridad personal, su libre desarrollo de la personalidad y la intimidad sexual, le generen un daño físico o moral.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 Violencia patrimonial: A cualquier acto u omisión que afecta la supervivencia y estabilidad patrimonial de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
 Violencia económica: A toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2024)</small>
+
+Violencia a través de interpósita persona: es cualquier acto u omisión dirigido en contra de la hija y/o hijo o familiares, con el objetivo de causar un perjuicio o daño a la mujer, ya sea que se tenga o haya tenido relación de matrimonio, concubinato o alguna relación de hecho con la persona agresora, aun cuando no cohabite en el mismo domicilio; se manifiesta mediante: amenazas, daños, ocultamiento, retención o sustracción causados a las hijas y/o hijos fuera de su domicilio o lugar de residencia habitual; utilizar a las hijas y/o hijos para obtener información de la madre, respecto a su ámbito personal, laboral, familiar o de cualquier otra índole; promover, incitar o fomentar en las hijas e hijos, actos de violencia física en contra de la madre o de violencia psicológica encaminados a descalificar la figura materna; interponer acciones legales basadas en hechos falsos o inexistentes en contra de las mujeres, para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común; o condicionar el cumplimiento de las obligaciones alimentarias a las que tenga derecho la mujer, hijas y/o hijos.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -2236,6 +2258,10 @@ En caso de reincidencia la pena prevista se aumentará al doble.
 En cualquier caso, el Juez ordenará la sujeción obligatoria del sujeto activo del delito, a tratamiento psicológico especializado, así como al Programa de Reeducación para Personas Generadoras de Violencia, a través de instituciones públicas o privadas, cuyos servicios deberán ser integrales, especializados y gratuitos, con perspectiva de género y masculinidades, atendiendo al Principio de Máxima Protección de las Personas.
 
 En caso de no cumplir con esta disposición, el Juez ordenará las medidas necesarias para el cumplimiento de sus determinaciones.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2024)</small>
+
+Las penas previstas para el delito de violencia familiar, aumentarán hasta una tercera parte cuando se cometa a través de interpósita persona.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -6196,3 +6222,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 260 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES; DEL CÓDIGO CIVIL PARA EL ESTADO DE CHIAPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE VIOLENCIA A TRAVÉS DE INTERPÓSITA PERSONA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Cualquier erogación que se genere con motivo a la entrada en vigor del presente Decreto, será cubierta de conformidad con el presupuesto autorizado a las Dependencias y Entidades de la Administración Pública Estatal, el Poder Judicial y Órganos Autónomos responsables de la ejecución del gasto público, para el ejercicio fiscal correspondiente.
