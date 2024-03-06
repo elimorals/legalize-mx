@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2023-12-18"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -381,7 +383,9 @@ III. La atención médica que comprende actividades preventivas, curativas y de 
 
 IV. La atención materno-infantil;
 
-V. La planificación familiar;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2024)</small>
+
+(SIC) La salud sexual y reproductiva
 
 VI. La salud mental;
 
@@ -665,7 +669,9 @@ Artículo 63 bis.- La atención a la salud de la mujer comprende principalmente 
 
 Artículo 63 ter.- La Secretaría Estatal, en coordinación con las instituciones del sector salud promocionará los programas de prevención, detección y tratamiento para atender la salud de la mujer de manera integral.
 
-### Capítulo VI. Servicios de Planificación Familiar
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2024)</small>
+
+### Capítulo VI. Servicios de Salud Sexual, Reproductiva y de Planificación Familiar
 
 ###### Artículo 64.
 
@@ -679,11 +685,27 @@ Quienes practiquen la esterilización sin la voluntad del paciente o ejerzan pre
 
 En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2024)</small>
+
+###### ARTÍCULO 64 Bis.
+
+La atención a la salud sexual, reproductiva y de planificación familiar deberá contener adicionalmente lo siguiente:
+
+I. Actividades, políticas y programas integrales enfocados a la educación y capacitación sobre salud sexual, derechos reproductivos, así como la concientización de la maternidad y paternidad deseada para las y los adolescentes, las juventudes y adultos; con pleno respeto a su dignidad y con perspectiva de género.
+
+II. Los servicios de planificación familiar y anticoncepción necesarios, los cuales tendrán como propósito reducir el índice de embarazos, mediante la prevención de aquellos no planeados y no deseados, así como disminuir el riesgo reproductivo, evitar la propagación de infecciones de trasmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes; y
+
+III. La información, difusión y orientación en materia de atención a la salud sexual y reproductiva, así como el suministro constante de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2024)</small>
+
 ###### Artículo 65.
 
-Los servicios de planificación familiar comprenden:
+Los servicios de salud sexual, reproductiva y de planificación familiar comprenden:
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2024)</small>
+
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, salud reproductiva y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
 
 II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
@@ -691,9 +713,31 @@ III. La asesoría para la prestación de servicios de planificación familiar a 
 
 IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
 
-V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2024)</small>
+
+V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de atención sexual, reproductiva y de planificación familiar;
 
 VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+VII. La difusión y aplicación de vacunas contra enfermedades de transmisión sexual de conformidad a la disponibilidad presupuestal;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+VIII. El fomento de la maternidad y paternidad responsable, deseada e informada;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+IX. La prevención de embarazos en adolescentes; particularmente respecto a embarazos no planeados y no deseados;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+X. La divulgación y distribución de métodos anticonceptivos a la población demandante, dando prioridad a los grupos de riesgo; y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2024)</small>
+
+XI. La prevención y atención médica integral de las infecciones de transmisión sexual, incluyendo el VIH/SIDA.
 
 ###### Artículo 66.
 
@@ -2814,3 +2858,11 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 6 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 342 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 26; LA DENOMINACIÓN DEL CAPÍTULO VI “SERVICIOS DE PLANIFICACIÓN FAMILIAR” DEL TÍTULO TERCERO PARA QUEDAR COMO CAPÍTULO VI “SERVICIOS DE SALUD SEXUAL, REPRODUCTIVA Y DE PLANIFICACIÓN FAMILIAR”; EL PÁRRAFO PRIMERO, LAS FRACCIONES I Y V DEL ARTÍCULO 65; Y SE ADICIONAN EL ARTÍCULO 64 BIS Y LAS FRACCIONES VII, VIII, IX, X Y XI AL ARTÍCULO 65, TODOS DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
