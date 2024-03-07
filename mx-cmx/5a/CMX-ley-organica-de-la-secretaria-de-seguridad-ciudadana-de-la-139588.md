@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-ciudadana-de-la-1395
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-23"
-last_updated: "2022-10-21"
+last_updated: "2024-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139588&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE MARZO DE 2024.
 
 Ley publicada en el Número 247 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 23 de diciembre de 2019.
 
@@ -192,9 +192,11 @@ Las Unidades de Protección Ciudadana, Agrupamientos, Servicios y demás integra
 
 ### CAPÍTULO II. DE LAS PERSONAS TITULARES DE LAS SUBSECRETARÍAS Y DE LA OFICIALÍA MAYOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE MARZO DE 2024)</small>
+
 ###### Artículo 8.
 
-Para ser designado Titular de alguna de las Subsecretarías y de la Oficialía Mayor, se requiere:
+Para ser designada persona Titular de las Subsecretarías y de la Oficialía Mayor, se requiere:
 
 I. Ser de nacionalidad mexicana y en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -204,6 +206,10 @@ III. Tener Título y cédula profesional con antigüedad mínima de cinco años 
 
 IV. Gozar de buena reputación y no haber sido condenado por sentencia que haya causado ejecutoria que lo haya declarado como responsable de un delito doloso, ni estar sujeto a proceso penal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE MARZO DE 2024)</small>
+
+En la designación de las personas Titulares de las Subsecretarías y de la Oficialía Mayor, se buscará cumplir el principio constitucional de paridad de género.
+
 ### CAPÍTULO III. DE LAS OTRAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 9.
@@ -212,11 +218,17 @@ Las Coordinaciones Generales, Direcciones Generales y Direcciones Ejecutivas se 
 
 I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos treinta años de edad;
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2024)</small>
+
+I. Ser de nacionalidad mexicana y en pleno ejercicio de sus derechos políticos y civiles;
 
 III. Tener Título y cédula profesional con antigüedad mínima de cinco años, en carrera afín a las funciones que le correspondan o contar con experiencia comprobable de por lo menos cinco años en funciones de dirección, y
 
 IV. Gozar de buena reputación y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE MARZO DE 2024)</small>
+
+En la designación de las personas Titulares de las Coordinaciones Generales, Direcciones Generales y Direcciones Ejecutivas, se buscará cumplir el principio constitucional de paridad de género.
 
 ### CAPÍTULO IV. DE LA UNIDAD DE ASUNTOS INTERNOS
 
@@ -318,11 +330,63 @@ IV. Gozar de buena reputación y no haber sido condenado por sentencia condenato
 
 V. Sujetarse y aprobar las evaluaciones correspondientes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE MARZO DE 2024)</small>
+
+### CAPÍTULO VI BIS. DE LA UNIDAD ESPECIALIZADA DE GÉNERO
+
+> <small>(ADICIONADO, G.O. 7 DE MARZO DE 2024)</small>
+
+###### Artículo 14 Bis.
+
+La Unidad Especializada de Género, es la Unidad Administrativa adscrita a la Oficina de la persona Titular de la Secretaría que tiene como objetivo transversalizar la perspectiva de género dentro de la Secretaría, con la finalidad de erradicar la violencia por razones de género dentro de la institución.
+
+La Unidad Especializada de Género tendrá las siguientes atribuciones:
+
+I. Recibir las quejas o denuncias de mujeres víctimas de violencia por razones de género ejercida por personal policial y administrativo de la Secretaría;
+
+II. Brindar orientación, asesoría y asistencia jurídica, atención psicológica y de trabajo social de primer contacto, a las mujeres víctimas de violencia por razones de género;
+
+III. Otorgar acompañamiento a las mujeres víctimas de violencia por razones de género para presentar denuncias ante las autoridades competentes, con el fin de proteger los derechos humanos de las víctimas de violencia por razones de género;
+
+IV. Emitir las medidas de protección administrativas de conformidad con las facultades de la Secretaría y la normatividad aplicable;
+
+V. Iniciar expedientes para la atención y seguimiento de las quejas o denuncias que reciba, dentro de los cuales podrá requerir información, verificar antecedentes, recabar evidencia documental, proponer la aplicación de correctivos disciplinarios y/o sanciones al personal policial, así como emitir las demás actuaciones que conforme a derecho procedan para la atención de los asuntos.
+
+La Dirección General de Asuntos Internos de la Secretaría estará obligada a pronunciarse, de manera fundada y motivada, respecto del trámite y resolución de todos los asuntos que le remita la Unidad Especializada de Género;
+
+VI. Establecer un registro de los expedientes iniciados y de las actuaciones realizadas;
+
+VII. Emitir recomendaciones a las Unidades Administrativas, Unidades Administrativas Policiales y demás Unidades de la Secretaría, enfocadas a prevenir, detectar y erradicar, conductas y prácticas que generen un ambiente laboral de violencia entre hombres y mujeres derivado de estereotipos o prejuicios de género;
+
+VIII. Elaborar un diagnóstico anual respecto a indicadores de violencia por razones de género dentro de la institución, que permitan medir los avances tendientes a erradicar la violencia por razones de género;
+
+IX. Diseñar, implementar y evaluar el plan anual de acciones afirmativas para fortalecer el liderazgo y las capacidades de las mujeres dentro de la Secretaría, a fin de que reciban la formación y especialización necesaria para ocupar dichos cargos y que esto permita cerrar la brecha de género entre hombres y mujeres en los espacios de toma de decisiones de la Secretaría;
+
+X. Asesorar en materia de igualdad de género y participar en los procesos de planeación y programación de la Secretaría, para proponer las acciones y medidas que permitan la incorporación de la perspectiva de género;
+
+XI. Implementar estrategias de capacitación en perspectiva de género, igualdad sustantiva y erradicación de violencia contra las mujeres, así como establecer la coordinación con las instancias de gobierno correspondientes, para promover el efecto multiplicador y la participación activa del personal de las Unidades Administrativas, Unidades Administrativas Policiales y otras Unidades de la Secretaría, y
+
+XII. Las demás que le atribuyan otras disposiciones aplicables.
+
+Las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría, en el ámbito de sus respectivas competencias, coadyuvarán con la Unidad Especializada de Género para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 7 DE MARZO DE 2024)</small>
+
+###### Artículo 14 Ter.
+
+Para ser persona titular de la Unidad Especializada de Género, además de los requisitos establecidos para ser persona Titular de una Unidad Administrativa, deberá cumplir lo siguiente:
+
+I. Tener título profesional en Ciencias Sociales o en Ciencias de la Salud;
+
+II. Contar con formación académica y/o experiencia profesional en materia de violencia contra las mujeres por razones de género;
+
+III. No haber sido condenada con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
+
+IV. No estar inscrita en el Registro de Deudores alimentarios morosos.
+
 ### CAPÍTULO VII. DE LA UNIVERSIDAD DE LA POLICÍA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
-
-### CAPÍTULO VIII. DE LAS SUPLENCIAS
 
 ###### Artículo 15.
 
@@ -333,6 +397,20 @@ Todos los integrantes de los cuerpos de la Policía de Proximidad y servidores p
 La Universidad de la Policía de la Ciudad es un Órgano Desconcentrado de la Administración Pública de la Ciudad, adscrito y subordinado jerárquicamente a la Secretaría. Su adscripción al interior de la Secretaría, así como las atribuciones de las unidades responsables de su administración se definirán conforme al Dictamen de Estructura Orgánica que emita la autoridad competente y, demás normatividad aplicable.
 
 La persona titular de la Universidad de la Policía será designada y removida libremente por la persona titular de la Secretaría y, para ser designado, deberá cumplir con los requisitos establecidos en el artículo 9 del presente ordenamiento.
+
+### CAPÍTULO VIII. DE LAS SUPLENCIAS
+
+###### Artículo 16.
+
+En el despacho y resolución de los asuntos de su competencia, las personas servidoras públicas de la Secretaría serán suplidas en sus ausencias temporales, y de acuerdo a lo dispuesto en el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, conforme a lo siguiente:
+
+I. La persona titular de la Secretaría, por las personas titulares de las Subsecretarías, de la Oficialía Mayor y de la Dirección General de Asuntos Jurídicos, en el orden que disponga el Reglamento Interior y la normatividad aplicable;
+
+II. Las personas titulares de las Subsecretarías y de la Oficialía Mayor, por las que ocupen los cargos de jerarquía inmediata inferior, en los asuntos de su exclusiva competencia;
+
+III. Las demás personas servidoras públicas, serán suplidas por aquéllas de jerarquía inmediata inferior, en los asuntos de su exclusiva competencia.
+
+## TÍTULO TERCERO. DE LA POLICÍA DE PROXIMIDAD
 
 ### CAPÍTULO I. ESTRUCTURA DE LA POLICÍA DE PROXIMIDAD
 
@@ -355,20 +433,6 @@ g. Policía de la Brigada de Vigilancia Animal;
 h. Cuerpos especiales, y
 
 i. Las demás que determine la normatividad aplicable.
-
-###### Artículo 16.
-
-En el despacho y resolución de los asuntos de su competencia, las personas servidoras públicas de la Secretaría serán suplidas en sus ausencias temporales, y de acuerdo a lo dispuesto en el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, conforme a lo siguiente:
-
-I. La persona titular de la Secretaría, por las personas titulares de las Subsecretarías, de la Oficialía Mayor y de la Dirección General de Asuntos Jurídicos, en el orden que disponga el Reglamento Interior y la normatividad aplicable;
-
-II. Las personas titulares de las Subsecretarías y de la Oficialía Mayor, por las que ocupen los cargos de jerarquía inmediata inferior, en los asuntos de su exclusiva competencia;
-
-III. Las demás personas servidoras públicas, serán suplidas por aquéllas de jerarquía inmediata inferior, en los asuntos de su exclusiva competencia.
-
-## TÍTULO TERCERO. DE LA POLICÍA DE PROXIMIDAD
-
-### CAPÍTULO II. DE LA ESCALA DE JERARQUÍAS DE LA POLICÍA DE PROXIMIDAD
 
 ###### Artículo 19.
 
@@ -434,7 +498,7 @@ b) Las demás que determinen el Reglamento Interior y el Manual Administrativo d
 
 Las funciones de la Secretaría en materia de movilidad, seguridad vial y tránsito se llevarán a cabo por los Agrupamientos, Servicios y Unidades de Protección Ciudadana, de acuerdo a lo establecido en el Reglamento Interior.
 
-### CAPÍTULO III. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
+### CAPÍTULO II. DE LA ESCALA DE JERARQUÍAS DE LA POLICÍA DE PROXIMIDAD
 
 ###### Artículo 23.
 
@@ -484,7 +548,7 @@ Los mecanismos para regular los procedimientos de reclutamiento, selección, cer
 
 Las resoluciones de destitución y separación, así como baja de integrantes de la Policía, se harán del conocimiento de la Oficialía Mayor o del área administrativa equivalente para los efectos que a estas competan.
 
-### CAPÍTULO IV. DE LAS FUNCIONES POLICIALES
+### CAPÍTULO III. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
 
 ###### Artículo 26.
 
@@ -553,6 +617,8 @@ En el catálogo de puestos se incluirán las percepciones que corresponderán a 
 ###### Artículo 31.
 
 La persona titular de la Secretaría podrá determinar el ascenso al nivel o jerarquía inmediato superior de los integrantes de la Policía que se hubieren distinguido en el desempeño de sus funciones o por acciones relevantes que hubieren realizado con motivo de su cargo.
+
+### CAPÍTULO IV. DE LAS FUNCIONES POLICIALES
 
 ###### Artículo 32.
 
@@ -787,3 +853,19 @@ G.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 7 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 8; LA FRACCIÓN I Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 9; Y SE ADICIONA UN CAPÍTULO VI BIS AL TÍTULO SEGUNDO, ASÍ COMO EL ARTÍCULO 14 BIS Y EL ARTÍCULO 14 TER, TODOS DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Gobierno de la Ciudad de México contará con 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones correspondientes al Reglamento Interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+CUARTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
+
+QUINTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México llevará a cabo las acciones y medidas administrativas y financieras correspondientes, a fin de fortalecer y garantizar la correcta operación de la Unidad Especializada de Género.
+
+SEXTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México impulsará las acciones que permitan cumplir de manera gradual el principio constitucional de paridad de género, en la designación del personal de mandos.
