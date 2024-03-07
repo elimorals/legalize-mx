@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2023-12-19"
+last_updated: "2024-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1535,9 +1535,9 @@ La prescripción es personal y extingue la pretensión punitiva y la potestas (s
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2024)</small>
 
-Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, feminicidio, violación de conformidad con los artículos 176 y 177 y 180, abuso sexual de conformidad con el artículo 179 y 180, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322, pederastia de conformidad con el artículo 177 BIS, exposición de incapaces o menores de edad de conformidad con en el artículo 193, estupro de conformidad con el artículo 181, y tráfico de menores de conformidad a los artículos (sic) 159 de este Código, son imprescriptibles.
+Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, feminicidio, violación de conformidad con los artículos 176 y 177 y 180, abuso sexual de conformidad con el artículo 179 y 180, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322, pederastia de conformidad con el artículo 177 BIS, exposición de incapaces o menores de edad de conformidad con en el artículo 193, estupro de conformidad con el artículo 181, y tráfico de menores de conformidad a los artículos (sic) 159, pornografía infantil de conformidad con los artículos 276, 276 bis y 277 de este Código, son imprescriptibles.
 
 ###### Artículo 116.
 
@@ -7036,5 +7036,13 @@ P.O. 19 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 507 QUE CONTIENE REFORMA AL ARTÍCULO 182 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 7 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 545 QUE CONTIENE REFORMA AL ARTÍCULO 115 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE PORNOGRAFÍA INFANTIL".]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
