@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2023-07-10"
+last_updated: "2024-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MARZO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -840,6 +840,14 @@ XL. En los niveles de educación básica, desarrollar programas de activación f
 > <small>(ADICIONADA, D.O. 30 DE MARZO DE 2022)</small>
 
 XLI. Garantizar que en los planteles públicos educativos se cuente con internet de banda ancha con el efecto de que se tenga acceso a las Tecnologías de la Información y Comunicación, siendo esto de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, con la finalidad de brindar una educación de calidad y excelencia a los educandos.
+
+> <small>(ADICIONADA, D.O. 7 DE MARZO DE 2024)</small>
+
+XLII. Garantizar a las y los estudiantes de escuelas primarias y secundarias públicas a cargo de la Secretaría, los Centros de Atención Múltiple y de las escuelas primarias a cargo del Consejo Nacional de Fomento Educativo, la entrega de un paquete escolar entre los meses de agosto y septiembre de cada año; y entre los meses de diciembre y enero, lo anterior, considerando la suficiencia presupuestal y con la finalidad de contribuir a una educación integral y de calidad.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XLII, D.O. 7 DE MARZO DE 2024]</small>
+
+La Secretaría en coordinación con las dependencias que estime pertinentes, establecerá las disposiciones que regulen la organización y el funcionamiento de la entrega de los paquetes escolares, así como su contenido, mediante reglas de operación.
 
 ###### Artículo 34.
 
@@ -2738,3 +2746,19 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Cláusula Derogatoria
 
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+D.O. 7 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 738/2024 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE ACCIONES PARA CONTRIBUIR A LA EDUCACIÓN INTEGRAL Y DE CALIDAD”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este documento.
+
+Ajustes Presupuestales
+
+Artículo Tercero. El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas y en conjunto con la Secretaría de Educación del Gobierno del Estado, deberán considerar las acciones necesarias en la planeación, programación y disponibilidad presupuestal para el cumplimiento de lo dispuesto en el presente Decreto.
