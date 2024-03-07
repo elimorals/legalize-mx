@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2024-02-29"
+last_updated: "2024-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -3671,21 +3671,19 @@ Los planes y programas podrán ser modificados mediante el mismo procedimiento r
 
 ### CAPÍTULO II
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 7 DE MARZO DE 2024)</small>
 
 ###### Artículo 202.
 
-Los Ayuntamientos promoverán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la construcción de obra pública municipal, desde su planeación hasta su conclusión. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
+Los Ayuntamientos promoverán y respetarán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la construcción de obra pública municipal, desde su planeación hasta su entrega. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 7 DE MARZO DE 2024)</small>
 
 ###### Artículo 203.
 
-Los Comités de Contraloría Social estarán integrados por tres vecinos beneficiarios directos de la obra, quienes serán elegidos entre los ciudadanos beneficiados por aquella, en Asamblea General que se celebrará antes del inicio de la obra. El Ayuntamiento entregará la información a la que está obligado en materia de transparencia y acceso a la información pública de la misma, para que el Comité realice sus trabajos.
+Los Comités de Contraloría Social estarán integrados por cinco habitante, quienes desarrollarán sus funciones a través de una presidencia, una secretaría y tres vocalías, y se elegirán de entre la ciudadanía directamente beneficiada con la obra, mediante una Asamblea General que se celebrará, por lo menos, cinco días antes de la fecha de inicio de la obra. Sin excepciones, el Ayuntamiento entregará la información a la que está obligado en materia de transparencia y acceso a la información pública de la misma, para que el Comité realice sus trabajos oportunamente.
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
-
-El cargo de integrante del Comité será honorífico. No podrán ser integrantes de los Comités los dirigentes de organizaciones políticas o servidores públicos.
+El cargo de integrante del Comité será honorífico y no podrá ser asumido por dirigentes de organizaciones políticas, servidores públicos o cualquier persona que tenga vínculo alguno con la empresa contratista.
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3693,13 +3691,17 @@ El cargo de integrante del Comité será honorífico. No podrán ser integrantes
 
 Corresponderá a los Comités de Contraloría Social:
 
-I. Vigilar que la obra pública se realice de acuerdo con el expediente técnico respectivo y dentro de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2024)</small>
+
+I. Vigilar que la obra pública se realice de acuerdo con el expediente técnico respectivo y en plena observancia a lo dispuesto en la normatividad aplicable y en las reglas de operación, de ser el caso;
 
 II. Participar como observadores en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
 
 III. Hacer visitas de inspección y llevar registro de sus resultados;
 
-IV. Verificar la calidad con que se realiza la obra pública;
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2024)</small>
+
+IV. Verificar la calidad con que se realiza la obra pública y que ésta se ejecute, concluya y entregue de acuerdo a los plazos previstos;
 
 V. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observen dentro del desempeño de sus funciones o las quejas que reciban de la ciudadanía, con motivo de las obras objeto de supervisión;
 
@@ -4596,3 +4598,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se concede un plazo de noventa días hábiles a los Ayuntamientos, para que realicen las adecuaciones normativas a que haya lugar para dar cumplimiento a este Decreto.
+
+G.O. 7 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 724 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede un plazo de noventa días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus Reglamentos u otros ordenamientos para dar cumplimiento a lo previsto en este Decreto.
