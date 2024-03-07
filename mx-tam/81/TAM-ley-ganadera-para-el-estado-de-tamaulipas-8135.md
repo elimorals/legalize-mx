@@ -4,7 +4,7 @@ identifier: "TAM-ley-ganadera-para-el-estado-de-tamaulipas-8135"
 country: "mx"
 rank: "ley"
 publication_date: "1993-05-12"
-last_updated: "2016-12-21"
+last_updated: "2024-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY GANADERA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GANADERA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de mayo de 1993.
 
@@ -496,3 +498,43 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 7 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Ganadera para el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado anexo al número 38 de fecha 12 de mayo de 1993.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley y demás normatividad aplicable, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO CUARTO.
+
+Las leyes estatales que se relacionen con la debida aplicación de la presente Ley deberán ser armonizadas con la misma en un periodo no mayor a dos años a partir de su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+Los trámites y asuntos que se encuentren en curso al momento de la entrada en vigor de la presente Ley se desahogarán y concluirán, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO SEXTO.
+
+Se exceptuará a los productores que se encuentren inscritos en el registro general de fierros de herrar, a la entrada en vigor de la presente Ley, por lo que hace a verificar que los fierros de herrar no sean iguales o semejantes a otros ya autorizados en el Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ayuntamientos deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativas aplicables, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley, deberán cubrirse con cargo al presupuesto aprobado, por lo que no se requerirán de ampliaciones presupuestarias para el presente ejercicio fiscal.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al contenido y aplicación del presente Decreto.
