@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2024-02-21"
+last_updated: "2024-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 7 DE MARZO DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -607,69 +607,77 @@ XLVII. Apoyar con asesorías técnicas y legales la integración, organización 
 
 XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-XLIX. Promover, respetar, proteger y garantizar en el ámbito de su competencia, el derecho humano al agua para consumo personal y doméstico y el saneamiento en beneficio del desarrollo social conforme al artículo 4o. párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos;
+XLIX. Promover programas de desarrollo social, el acceso al agua y saneamiento de las viviendas de zonas con mayor vulnerabilidad o marginación, mediante sistemas de captación y almacenamiento de agua de lluvia y tecnologías de tratamiento de aguas residuales;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE FEBRERO DE 2024)</small>
+(REFORMADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-L. Efectuar, en colaboración con la Comisión Nacional del Agua, acciones de rehabilitación, modernización y seguridad de presas y plantas de bombeo;
+L. Vigilar que el funcionamiento y prestación de los servicios públicos de agua potable y saneamiento se realice conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas al efecto;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LI. Intervenir con carácter de vocal en las Asociaciones Civiles de Usuarios que integran los Distritos y Unidades de Riego;
+LI. Promover, respetar, proteger y garantizar en el ámbito de su competencia, el derecho humano al agua para consumo personal y doméstico y el saneamiento en beneficio del desarrollo social conforme al artículo 4o. párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LII. Celebrar convenios de coordinación con la Federación, los municipios y sus respectivas administraciones públicas, así como de concertación con el sector social y privado, y favorecer, en el ámbito de su competencia, en forma sistemática y con medidas específicas, la descentralización de la gestión de los recursos hídricos en términos de la Ley de Aguas Nacionales;
+LII. Efectuar, en colaboración con la Comisión Nacional del Agua, acciones de rehabilitación, modernización y seguridad de presas y plantas de bombeo;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LIII. Representar al Gobierno del Estado de Tamaulipas en los Órganos auxiliares y funcionales de los Consejos de Cuenca;
+LIII. Intervenir con carácter de vocal en las Asociaciones Civiles de Usuarios que integran los Distritos y Unidades de Riego;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LIV. Llevar a cabo de forma directa o en coordinación con la Comisión Nacional del Agua, la elaboración de programas de medición de volúmenes de aguas nacionales extraídas por los distintos usuarios en el estado;
+LIV. Celebrar convenios de coordinación con la Federación, los municipios y sus respectivas administraciones públicas, así como de concertación con el sector social y privado, y favorecer, en el ámbito de su competencia, en forma sistemática y con medidas específicas, la descentralización de la gestión de los recursos hídricos en términos de la Ley de Aguas Nacionales;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LV. Coadyuvar con la Comisión Nacional del Agua en el seno de los Consejos de Cuenca, para realizar estudios de disponibilidad en cuencas y acuíferos del estado de Tamaulipas;
+LV. Representar al Gobierno del Estado de Tamaulipas en los Órganos auxiliares y funcionales de los Consejos de Cuenca;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LVI. Generar y mantener actualizada información hidrométrica, climatológica, piezométrica y de calidad del agua en el territorio del estado;
+LVI. Llevar a cabo de forma directa o en coordinación con la Comisión Nacional del Agua, la elaboración de programas de medición de volúmenes de aguas nacionales extraídas por los distintos usuarios en el estado;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LVII. Coadyuvar con las autoridades federales, estatales y municipales competentes, para generar y actualizar mapas de riesgos de inundación a centros de población y proponer acciones de protección mediante infraestructura hidráulica;
+LVII. Coadyuvar con la Comisión Nacional del Agua en el seno de los Consejos de Cuenca, para realizar estudios de disponibilidad en cuencas y acuíferos del estado de Tamaulipas;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LVIII. Fomentar en el ámbito de su competencia, el desarrollo industrial en áreas con disponibilidad hídrica o donde resulte factible el reúso y que genere bienestar social, desarrollo económico y empleo en las diversas regiones del Estado;
+LVIII. Generar y mantener actualizada información hidrométrica, climatológica, piezométrica y de calidad del agua en el territorio del estado;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LIX. Verificar en el ámbito de su competencia, que en la instalación de industrias en zonas con disponibilidad hídrica baja o en déficit se presenten compromisos y programas de tratamiento y reúso del agua;
+LIX. Coadyuvar con las autoridades federales, estatales y municipales competentes, para generar y actualizar mapas de riesgos de inundación a centros de población y proponer acciones de protección mediante infraestructura hidráulica;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LX. Planear, asesorar, programar y en su caso, ejecutar acciones para la rehabilitación, conservación y tecnificación de la infraestructura de Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en el Estado de Tamaulipas, directamente o a través de terceros;
+LX. Fomentar en el ámbito de su competencia, el desarrollo industrial en áreas con disponibilidad hídrica o donde resulte factible el reúso y que genere bienestar social, desarrollo económico y empleo en las diversas regiones del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LXI. Promover, en coordinación con las autoridades federales, estatales y municipales y los usuarios de los Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en el Estado de Tamaulipas, acciones para el mejoramiento y recuperación de suelos para uso agrícola;
+LXI. Verificar en el ámbito de su competencia, que en la instalación de industrias en zonas con disponibilidad hídrica baja o en déficit se presenten compromisos y programas de tratamiento y reúso del agua;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LXII. Otorgar capacitación y asistencia técnica a los usuarios de los Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en la elaboración, seguimiento y ejecución de los planes de riego con objeto de propiciar un aprovechamiento racional del agua;
+LXII. Planear, asesorar, programar y en su caso, ejecutar acciones para la rehabilitación, conservación y tecnificación de la infraestructura de Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en el Estado de Tamaulipas, directamente o a través de terceros;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LXIII. Crear, implementar, operar y actualizar Programas de apoyo en favor de los distintos usuarios del agua, implementando las reglas de operación, lineamientos y otras de naturaleza análoga; y
+LXIII. Promover, en coordinación con las autoridades federales, estatales y municipales y los usuarios de los Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en el Estado de Tamaulipas, acciones para el mejoramiento y recuperación de suelos para uso agrícola;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN LI], P.O. 21 DE FEBRERO DE 2024)
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
-LXIV. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+LXIV. Otorgar capacitación y asistencia técnica a los usuarios de los Distritos y Unidades de Riego y Distritos de Temporal Tecnificado en la elaboración, seguimiento y ejecución de los planes de riego con objeto de propiciar un aprovechamiento racional del agua;
+
+(ADICIONADA, P.O. 21 DE FEBRERO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
+
+LXV. Crear, implementar, operar y actualizar Programas de apoyo en favor de los distintos usuarios del agua, implementando las reglas de operación, lineamientos y otras de naturaleza análoga; y
+
+(ADICIONADA, P.O. 16 DE JUNIO DE 2011) (F. DE E., P.O. 7 DE MARZO DE 2024)
+
+LXVI. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
