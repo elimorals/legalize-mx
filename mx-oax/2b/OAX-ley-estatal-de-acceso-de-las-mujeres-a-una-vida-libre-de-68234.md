@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-02-10"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -217,9 +217,27 @@ IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
 X. Violencia Obstétrica: Es toda acción u omisión de profesionales y personal de la salud en el ámbito público y privado, que cause daño físico o psicológico a la mujer, durante el embarazo, parto o puerperio, que se exprese en la falta de acceso a servicio de salud sexual o reproductiva, trato cruel, inhumano o degradante, abuso de la medicalización en los procesos biológicos naturales, la practica innecesaria o no autorizada de intervenciones o procedimientos quirúrgicos, la manipulación o negociación de información; y en general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir de manera libre e informada, a lo largo de dichas etapas.
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-XI. La violencia vicaria: Es toda acción u omisión cometida por una persona, por sí o a través de terceros contra una mujer, con quien tiene o mantuvo un vínculo matrimonial o una relación de concubinato, noviazgo o de tipo sentimental, que se ejerce a través de las hijas e hijos producto de la relación o cualquier otra persona significativa para ella, con el objeto de causarle un daño psicológico, patrimonial, moral o de cualquier otro tipo, y
+XI. La violencia vicaria: es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas o ente sintiente significativo para ella, ya sea que se tenga o sea haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener, sustraer, separar o alejar a hijas y/o hijos así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común; y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2888,3 +2906,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1926.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 7 FRACCIÓN XI DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE ADICIONA EL CAPÍTULO I BIS DENOMINADO "VIOLENCIA VICARIA" Y EL ARTÍCULO 404 TER Y 404 QUÁTER AL TÍTULO VIGÉSIMO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA EL INCISO f) AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 298 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
