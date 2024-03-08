@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-03-02"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4397,6 +4395,60 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)</small>
+
+### CAPITULO I BIS. Violencia Vicaria
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2024)</small>
+
+404 Ter.- La violencia vicaria: Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas o ente sintiente significativo para ella, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se entenderá como violencia vicaria, entre otras:
+
+I.- Amenazar con causar daño a las hijas e hijos;
+
+II.- Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+III.- Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+IV.- Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+V.- Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+VI.- Ocultar, retener, sustraer, separar o alejar a hijas y/o hijos así como a familiares o personas allegadas;
+
+VII.- Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común;
+
+VIII.- Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
+
+IX.- Ejercer castigo corporal o humillante contra las hijas e hijos o personas significativas para la víctima, aunque no deje huella material en el cuerpo;
+
+X.- Obstaculizar a la mujer la convivencia con hijas, hijos, personas o entes sintientes significativos; y
+
+XI.- Sustraer, retener, ocultar, lastimar o privar de la vida a un ente sintiente significativo de la mujer o de sus hijas e hijos, como animales de compañía.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2024)</small>
+
+404 Quater.- A quien cometa el delito de violencia vicaria se le impondrá de tres a nueve años de prisión, y sanción pecuniaria de cien a quinientos días el valor de la Unidad de Medida y Actualización, asimismo, se le sujetará a tratamiento psicológico especializado.
+
+Las penas previstas en el presente artículo, se incrementarán en una mitad de su mínimo y máximo, cuando:
+
+I.- El sujeto activo incurra en tráfico de influencias o corrupción de los servidores públicos que intervengan en los procedimientos administrativos y judiciales relacionados con el conflicto;
+
+II.- El sujeto activo se valga de su cargo público para ejercer la violencia;
+
+III.- Tenga como resultado el suicidio de la mujer;
+
+IV.- Las hijas, hijos o personas significativas se encuentren en una situación de discapacidad o cualquier otra situación de vulnerabilidad, que no le permita comprender el carácter ilícito del hecho u oponer resistencia;
+
+V.- Ejerza violencia física que deje huella material en el cuerpo contra las hijas e hijos o personas significativas para la mujer;
+
+VI.- Cuando les suministre a las hijas e hijos o personas allegadas para la mujer, sustancias inmovilizantes o que alteren los sentidos; y
+
+VII.- Por descuido se afecta la salud o integridad física de las hijas, hijos o personas significativas para la mujer.
+
+Si quien ejerza el servicio público entorpece los procedimientos públicos a favor del victimario hasta el punto de ejecutar la violencia vicaria, la sanción se dará en los mismos términos del presente artículo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado en el Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
@@ -4521,40 +4573,6 @@ En caso de no tener elementos suficientes del feminicidio, se judicializará por
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
 
-### CAPITULO III BIS.
-
-Alteraciones a la Salud por Razón de Género.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
-
-412-A.- Al que por sí o por interpósita persona infiera una alteración en la salud o cualquier otro daño que deje huella material en el cuerpo de una mujer por razón de género, usando para ello cualquier tipo de agente físico, químico o sustancia corrosiva, se le impondrá de veinte a treinta años de prisión y multa de doscientas a quinientas veces el valor diario de la unidad de medida y actualización.
-
-Se considera que existen razones de género, cuando ocurra indistintamente alguna de las siguientes circunstancias:
-
-I. Que la alteración o daño haya sido cometida por desprecio u odio a la víctima motivado por discriminación o misoginia;
-
-II. Que existan indicios o datos de violencia de cualquier tipo y ámbito en contra de la víctima por parte del sujeto activo, anterior o posterior a la conducta;
-
-III. Que existan datos de acoso u hostigamiento sexual en contra de la víctima por parte del sujeto activo, anterior o posterior a la conducta; o
-
-IV. Que la víctima haya sido incomunicada o privada de su libertad.
-
-Se impondrá de treinta a cuarenta años de prisión y multa de quinientas a mil veces el valor diario de la unidad de medida y actualización, si entre el activo y la víctima exista o haya existido una relación de parentesco por consanguinidad, afinidad, civil, matrimonio, concubinato, noviazgo, relaciones de convivencia o una relación similar, laboral o docente.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
-
-412- B.- Las penas previstas en el artículo anterior se aumentarán en dos tercios de la mínima a dos tercios de la máxima en los siguientes casos:
-
-I. Cuando la conducta del sujeto activo cause destrucción de cualquier función orgánica de la víctima;
-
-II. Cuando la conducta del sujeto activo cause deformidad o daño permanente, pérdida parcial o total de la función anatómica de la víctima; o
-
-III. Cuando la conducta del sujeto activo cause deformidad incorregible en el rostro de la víctima.
-
-Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -4596,6 +4614,40 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 ## TITULO VIGESIMO PRIMERO.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPITULO III BIS.
+
+Alteraciones a la Salud por Razón de Género.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+412-A.- Al que por sí o por interpósita persona infiera una alteración en la salud o cualquier otro daño que deje huella material en el cuerpo de una mujer por razón de género, usando para ello cualquier tipo de agente físico, químico o sustancia corrosiva, se le impondrá de veinte a treinta años de prisión y multa de doscientas a quinientas veces el valor diario de la unidad de medida y actualización.
+
+Se considera que existen razones de género, cuando ocurra indistintamente alguna de las siguientes circunstancias:
+
+I. Que la alteración o daño haya sido cometida por desprecio u odio a la víctima motivado por discriminación o misoginia;
+
+II. Que existan indicios o datos de violencia de cualquier tipo y ámbito en contra de la víctima por parte del sujeto activo, anterior o posterior a la conducta;
+
+III. Que existan datos de acoso u hostigamiento sexual en contra de la víctima por parte del sujeto activo, anterior o posterior a la conducta; o
+
+IV. Que la víctima haya sido incomunicada o privada de su libertad.
+
+Se impondrá de treinta a cuarenta años de prisión y multa de quinientas a mil veces el valor diario de la unidad de medida y actualización, si entre el activo y la víctima exista o haya existido una relación de parentesco por consanguinidad, afinidad, civil, matrimonio, concubinato, noviazgo, relaciones de convivencia o una relación similar, laboral o docente.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+412- B.- Las penas previstas en el artículo anterior se aumentarán en dos tercios de la mínima a dos tercios de la máxima en los siguientes casos:
+
+I. Cuando la conducta del sujeto activo cause destrucción de cualquier función orgánica de la víctima;
+
+II. Cuando la conducta del sujeto activo cause deformidad o daño permanente, pérdida parcial o total de la función anatómica de la víctima; o
+
+III. Cuando la conducta del sujeto activo cause deformidad incorregible en el rostro de la víctima.
+
+Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
 
 ### CAPITULO IV. Discriminación
 
@@ -4657,6 +4709,10 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO V. Violencia Política
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
@@ -4676,10 +4732,6 @@ Si la conducta descrita en el artículo anterior se comete en contra de una o va
 Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2024)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO VI. De la Violencia en Contra de las Personas Adultas Mayores
 
@@ -5055,6 +5107,10 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
@@ -5096,10 +5152,6 @@ III. En el supuesto de que el delito se realice con violencia física o moral o 
 Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
 
 ARTICULOS TRANSITORIOS:
-
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
 ## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
@@ -6288,3 +6340,13 @@ P.O. 2 DE MARZO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1926.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 7 FRACCIÓN XI DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE ADICIONA EL CAPÍTULO I BIS DENOMINADO "VIOLENCIA VICARIA" Y EL ARTÍCULO 404 TER Y 404 QUATER AL TÍTULO VIGÉSIMO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA EL INCISO f) AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 298 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
