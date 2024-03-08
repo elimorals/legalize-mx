@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-del-126
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-08"
-last_updated: "2017-12-08"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 8 de diciembre de 2017.
 
@@ -80,6 +80,10 @@ c) Violencia sexual: A toda acción u omisión que amenaza, pone en riesgo, lesi
 d) Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos.
 
 e) Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2024)</small>
+
+f) Violencia vicaria: Es Cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos; familiares o personas allegadas o ente sintiente significativo para ella, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
 
 ###### ARTÍCULO 4.
 
@@ -446,3 +450,15 @@ CUARTO. Se abroga la Ley de Asistencia y Prevención de la Violencia Intrafamili
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de septiembre de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip Hilda Graciela Pérez Luis, Secretaria.- Dip. Leslie Vibsania Mendoza Zavaleta, Secretaria.- Dip. María Mercedes Rojas Saldaña, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 20 de Octrubre (sic) de 2017.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1926.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 7 FRACCIÓN XI DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE ADICIONA EL CAPÍTULO I BIS DENOMINADO “VIOLENCIA VICARIA” Y EL ARTÍCULO 404 TER Y 404 QUATER AL TITULO VIGÉSIMO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA EL INCISO f) AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA Y PREYENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 298 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en- el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
