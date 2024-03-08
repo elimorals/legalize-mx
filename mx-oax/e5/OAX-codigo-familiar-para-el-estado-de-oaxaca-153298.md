@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2023-04-01"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -1895,7 +1895,9 @@ La patria potestad se pierde:
 
 I. Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado, dos o más veces, a pena privativa de libertad mayor de dos años;
 
-II. Cuando por las costumbres depravadas de quienes la ejercen, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad, o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley penal. Se entiende por maltrato todo acto u omisión dirigido a dominar, someter, controlar o agredir física, psicoemocional o sexualmente al hijo o hija sujeto a la patria potestad;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+II. Cuando por las costumbres depravadas de quienes la ejercen, malos tratamientos, abandono de sus deberes, violencia vicaria, pudiera comprometerse la salud, la seguridad, o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley penal. Se entiende por maltrato todo acto u omisión dirigido a dominar, someter, controlar o agredir física, psicoemocional o sexualmente al hijo o hija sujeto a la patria potestad;
 
 III. Por la exposición que el que, o los que, ejerzan la patria potestad hicieren de los sujetos a ella, o porque los dejen abandonados por más de seis meses.
 
@@ -5726,3 +5728,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1926.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 7 FRACCIÓN XI DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE ADICIONA EL CAPÍTULO I BIS DENOMINADO "VIOLENCIA VICARIA" Y EL ARTÍCULO 404 TER Y 404 QUÁTER AL TÍTULO VIGÉSIMO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA EL INCISO f) AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 298 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
