@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-municipio-de-tijuana-baja-california-170088
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-22"
-last_updated: "2023-12-22"
+last_updated: "2024-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL 2024
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL 2024
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE MARZO DE 2024.]</small>
 
 Ley publicada en la Sección V del Número 72 del Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2023.
 
