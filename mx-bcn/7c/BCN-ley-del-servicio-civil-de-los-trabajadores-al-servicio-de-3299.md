@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2024-02-09"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -368,6 +368,12 @@ Los hombres disfrutarán de un permiso de cinco días laborables, con goce de su
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
 
 ARTICULO 29 BIS.- Las mujeres y hombres trabajadores tendrán permiso de un día al año, con goce de sueldo íntegro, para someterse a la realización de exámenes médicos de prevención de cáncer de mama, cervicouterino o de próstata, según sea el caso; para lo cual deberán presentar el certificado médico correspondiente expedido por una institución de salud pública o privada.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2024)</small>
+
+ARTICULO 29 TER.- Las madres, padres o tutores trabajadores tendrán derecho a que se les otorguen permisos para ausentarse de sus labores con el fin de atender asuntos escolares relacionados con sus hijas, hijos o pupilos menores de edad, para facilitar su participación en las actividades de educación y desarrollo de las y los educandos. Dichos permisos se expedirán, previa justificación y a petición de parte de la madre, padre o tutor que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor, los que no podrán excederse de cuatro permisos durante el año escolar por cada educando menor.
+
+En ningún caso se podrá otorgar dicho permiso de manera simultánea a la madre, padre o tutor, así como tampoco podrá exigirse que sea compensada su ausencia laboral.
 
 ###### ARTICULO 30.
 
@@ -2488,3 +2494,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se contará para la instalación de las salas de lactancia, con un plazo de 90 días naturales, siguientes a la publicación de la presente reforma.
 
 TERCERO. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestal.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 390 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 29 TER A LA LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
