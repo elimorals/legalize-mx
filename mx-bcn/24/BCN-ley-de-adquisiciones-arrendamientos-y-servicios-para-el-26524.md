@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2023-07-07"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -35,9 +35,11 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORN
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control de las adquisiciones, arrendamientos y servicios que realice:
+La presente Ley es de orden público y tiene por objeto regular las acciones relativas al artículo 100 de la Constitución Política del Estado Libre y Soberano de Baja California, correspondientes a la planeación, programación, presupuestación, contratación, gasto y control de las adquisiciones, arrendamientos y servicios que realice:
 
 I.- El Poder Ejecutivo;
 
@@ -57,9 +59,9 @@ Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos
 
 Se sujetarán a lo dispuesto en esta Ley, las aportaciones registradas en las Leyes como ingresos propios, en los que la administración y ejercicio de los mismos, sean responsabilidad del Gobierno del Estado o de los municipios, así como las establecidas indistintamente en el Presupuesto de Egresos de la Federación, en el Capítulo V de la Ley de Coordinación Fiscal o en el ordenamiento jurídico respectivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
 
-La Unidad Administrativa, podrá promover contratos marco, previa determinación de las características técnicas y de calidad acordadas, mediante los cuales éstas adquieran bienes, arrendamientos o servicios, a través de la suscripción de contratos específicos.
+La Unidad Administrativa, podrá promover contratos marco, previa determinación de las características técnicas y de calidad acordadas, mediante los cuales éstas adquieran bienes, arrendamientos o servicios, a través de la suscripción de convenios específicos.
 
 ###### ARTÍCULO 3.
 
@@ -73,9 +75,13 @@ III.- Unidad Administrativa.- En el Poder Ejecutivo y Poder Legislativo, a la Of
 
 IV.- Contraloría.- La autoridad que ejerza atribuciones de control y evaluación administrativa interna en cada uno de los sujetos obligados;
 
-V.- Órgano.- La dependencia, entidad o área administrativa del sujeto obligado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-VI.- Tesorería.- En el Poder Ejecutivo, la Secretaría de Planeación y Finanzas; y en los demás sujetos obligados, la que ejerza atribuciones para efectuar pagos;
+V.- Órgano.- En el Poder Ejecutivo del Gobierno del Estado de Baja California, conjunto de Dependencias y Entidades que componen la Administración Pública Centralizada y la paraestatal; en los demás sujetos obligados, los que señale su normatividad interna;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+VI.- Tesorería.- En el Poder Ejecutivo, la Secretaría de Hacienda; y en los demás sujetos obligados, la que ejerza atribuciones para efectuar pagos;
 
 VII.- Sujetos obligados:
 
@@ -97,23 +103,61 @@ XI.- Fabricante o productor regional.- Son las personas físicas o morales que l
 
 XII.- Productos o mercancías regionales.- Son los bienes y servicios desarrollados o transformados por fabricantes o productores regionales;
 
-> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo, siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal al menos con un año de antigüedad en el Estado; y
+XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo, siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal al menos con un año de antigüedad en el Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE MARZO DE 2024)</small>
 
 XIV.- Medios electrónicos.- Los medios de comunicación electrónica que determine y autorice la unidad administrativa o la contraloría, en su ámbito de competencia, en los casos previstos por esta Ley;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-XV.- Comisión.- La Comisión Interinstitucional prevista en la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
+XV.- Comisión.- La Comisión Interinstitucional prevista en la Ley de Asociaciones Público-Privadas para el Estado de Baja California;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-XVI.- Sustentabilidad Ambiental: La administración eficiente y racional de los recursos naturales, de manera tal que sea posible mejorar el bienestar de la población actual sin comprometer la calidad de vida de las generaciones futuras.
+XVI.- Sustentabilidad Ambiental.- La administración eficiente y racional de los recursos naturales, de manera tal que sea posible mejorar el bienestar de la población actual sin comprometer la calidad de vida de las generaciones futuras;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-XVII.- Adquisición Sustentable.- Es la compra o adquisición de cualquier bien o servicio que por su característica, composición y propiedades, resulten favorable a la preservación y cuidado del medio ambiente.
+XVII.- Adquisición Sustentable.- Es la compra o adquisición de cualquier bien o servicio que por su característica, composición y propiedades, resulten favorable a la preservación y cuidado del medio ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XVIII.- Administrador del contrato.- La Unidad Administrativa o la persona servidora pública designada por la misma, encargada de administrar, así como de dar seguimiento y verificación al cumplimiento de la contratación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XIX.- Caso fortuito o fuerza mayor.- El acontecimiento proveniente del hombre o de la naturaleza, caracterizado por ser imprevisible, inevitable, irresistible, insuperable, así como inimputable y ajeno a la voluntad de las partes contratantes, de los órganos o de los sujetos obligados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XX.- Compra consolidada.- Aquellas que efectúen en un solo contrato, dos o más sujetos de esta ley o bien, entre dos o más órganos solicitantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XXI.- Contrato marco.- Instrumento que celebra la Unidad Administrativa, conjuntamente con la Contraloría, y uno o más posibles proveedores, mediante los cuales se establecen de manera general las especificaciones técnicas y de calidad, alcances, precios y condiciones derivadas de la investigación de mercado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XXII.- Contratos integrales.- Aquel que permita adquirir, arrendar bienes y contratar servicios en un mismo acto jurídico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XXIII.- Convocante.- Al Comité o Subcomité de Adquisiciones, arrendamientos y Servicios, así como aquellos sujetos obligados identificados por la Unidad Administrativa, responsables de agotar el procedimiento de contratación en los términos de la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XXIV.- Entidades paraestatales: Los organismos descentralizados, las empresas de participación estatal mayoritaria y minoritaria y los fideicomisos públicos que aluden los artículos 2, fracción VIII, y 52 de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XXV.- Investigación de mercado.- La verificación de la existencia de bienes, arrendamientos o servicios, de proveedores, y del precio estimado sobre los mismos, basado en la información que se obtenga de conformidad con las disposiciones contenidas en la presente Ley; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XXVI.- Precio no aceptable.- Es aquel que derivado de la investigación de mercado realizada, resulte superior en un diez por ciento al ofertado respecto del que se observa en dicha investigación o en su defecto, el de las ofertas presentadas en un procedimiento de contratación de adquisiciones, arrendamientos y/o servicios.
 
 ###### ARTÍCULO 4.
 
@@ -135,11 +179,21 @@ VII.- La contratación de arrendamiento financiero de bienes muebles;
 
 VIII.- La contratación de servicios profesionales, consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-IX.- La contratación de proyectos derivada de la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California; y
+IX.- La contratación de proyectos derivados de la Ley de Asociaciones Público-Privadas para el Estado de Baja California;
 
-X.- En general las adquisiciones, arrendamientos y servicios de cualquier naturaleza cuya prestación genere una obligación de pago, cuando no se encuentren regulados en forma específica por otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+X.- La adquisición y arrendamiento de bienes intangibles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XI.- La contratación de proyectos integrales; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XII.- En general las adquisiciones, arrendamientos y servicios de cualquier naturaleza cuya prestación genere una obligación de pago, cuando no se encuentren regulados en forma específica por otras disposiciones legales.
 
 ###### ARTÍCULO 5.
 
@@ -161,7 +215,9 @@ La unidad administrativa, la tesorería y la contraloría, en las materias de su
 
 En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales sobre los foráneos, preferentemente aquellos que fabriquen y distribuyan productos o mercancías que resulten favorables a la preservación y cuidado del medio ambiente. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento y hasta 10 por ciento.
 
-Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Economía Sustentable y Turismo en sus respectivos ámbitos de competencia, dictarán las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas empresas, las que deberán observar las unidades administrativas.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
+
+Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Economía e Innovación en su respectivo ámbito de competencia, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas empresas, las que deberán observar las unidades administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
 
@@ -215,9 +271,9 @@ I.- Los objetivos y prioridades del Plan Estatal de Desarrollo, a los Planes Mun
 
 II.- Los objetivos, metas y previsiones de recursos establecidos en los presupuestos de egresos que corresponda;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-III.- A las disposiciones establecidas sobre la materia (sic) la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
+III.- A las disposiciones establecidas sobre la materia, en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -271,25 +327,41 @@ I.- Convocar y adjudicar las adquisiciones, arrendamientos y servicios;
 
 II.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
 
-III.- Dictaminar previamente a la iniciación del procedimiento, sobre la improcedencia de celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 38 de esta Ley, salvo en los casos de las fracciones II y IV del mismo precepto, en cuyo caso se deberá informar al Comité una vez concluida la contratación respectiva;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+III.- Dictaminar la procedencia de contrataciones mediante adjudicación directa por excepción al procedimiento de licitación pública por encontrarse en alguno de los supuestos de excepción previstos en el artículo 38 de esta Ley, salvo en los casos de las fracciones II y IV del mismo precepto, en cuyo caso se deberá informar al Comité una vez concluida la contratación respectiva;
 
 IV.- Proponer y aplicar las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
 
-El Comité establecerá en dichas políticas, bases y lineamientos, los aspectos de sustentabilidad ambiental, incluyendo la evaluación de las tecnologías que permitan la reducción de la emisión de gases de efecto invernadero y la eficiencia energética, que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales. En la definición de los aspectos de sustentabilidad ambiental el Comité solicitará la opinión de la Secretaría de Protección al Ambiente del Estado u órgano equivalente en el ámbito municipal.
+El Comité´ establecerá´ en dichas políticas, bases y lineamientos, los aspectos de sustentabilidad ambiental, incluyendo la evaluación de las tecnologías que permitan la reducción de la emisión de gases de efecto invernadero y la eficiencia energética, que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales. En la definición de los aspectos de sustentabilidad ambiental el Comité solicitará la opinión de la Secretaría de Medio Ambiente y Desarrollo Sustentable del Estado u órgano equivalente en el ámbito municipal.
 
 V.- Analizar exclusivamente para su opinión, cuando se le solicite, los dictámenes y fallos emitidos por los servidores públicos responsables de ello;
 
-VI.- Autorizar, cuando se justifique, la creación de Subcomités de adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-VII.- Coadyuvar al cumplimiento de la Ley y demás disposiciones aplicables;
+VI.- Autorizar, cuando se justifique, la creación de Subcomités de adquisiciones, arrendamientos y servicios; los cuales, podrán llevar a cabo procedimientos de contratación únicamente con autorización previa y por escrito de la Presidencia del Comité;
 
-VIII.- Las que se señalen en el Reglamento y demás disposiciones que se emitan al respecto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+VII.- Proceder a la corrección de un error aritmético, mecanográfico o de cualquier otra naturaleza que no afecte el resultado de las evaluaciones realizadas por la persona convocante, siempre que no se haya firmado contrato respectivo.
 
-Para la contratación de los proyectos de Asociaciones Público-Privadas prevista en la ley de la materia, el Comité se auxiliará de la Comisión en la elaboración de convocatorias y bases, así como en las juntas de aclaraciones y en la evaluación de las proposiciones a que se refiere esta Ley.
+Cuando se advierta en cualquier etapa del procedimiento alguna de las inconsistencias a que se refiere el párrafo que antecede, se procederá a la corrección del acto, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a las y los participantes en el procedimiento de contratación, remitiendo copia de la misma a la Contraloría dentro de los cinco días hábiles posteriores a la fecha de su firma.
+
+Si el error cometido no fuera susceptible de corrección conforme a lo dispuesto en esta fracción, el Comité dará vista a la Contraloría, a efecto de que, previa intervención de oficio, se emitan en su caso, las directrices para su reposición.
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+VIII.- Coadyuvar al cumplimiento de la Ley y demás disposiciones aplicables; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2024)</small>
+
+IX.- Las que se señalen en el Reglamento y demás disposiciones que se emitan al respecto.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
+
+Para la contratación de los proyectos de Asociaciones Público Privadas prevista en la ley de la materia, el Comité se auxiliará de la Comisión en la elaboración de convocatorias y bases, así como en las juntas de aclaraciones y en la evaluación de las proposiciones a que se refiere esta Ley.
 
 ###### ARTÍCULO 19.
 
@@ -331,6 +403,24 @@ La unidad administrativa podrá contratar adquisiciones, arrendamientos y servic
 
 En casos excepcionales y previa autorización de la tesorería, el Comité podrá convocar sin contar con dicha autorización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+
+Previo al inicio de los procedimientos de contratación previstos en el artículo 21 de esta Ley, el órgano solicitante, deberá realizar una investigación de mercado de la cual se desprendan las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+
+Del resultado de la investigación de mercado se determinará:
+
+a) Si existe oferta de bienes y servicios en la cantidad, calidad y oportunidad requerida;
+
+b) Si hay proveedores con la capacidad para cumplir con las necesidades de contratación; y,
+
+c) Los precios a partir de los cuales los proveedores no podrán ofertar precios superiores a los de dicha investigación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+
+La investigación de mercado que realicen los órganos solicitantes deberá integrarse, de acuerdo con las características del bien o servicio a contratar, con información obtenida de cuando menos tres fuentes.
+
 ###### ARTÍCULO 21.
 
 La unidad administrativa llevará a cabo la contratación de adquisiciones, arrendamientos y servicios, mediante los procedimientos que a continuación se señalan:
@@ -351,9 +441,11 @@ El Comité pondrá a disposición pública a través de medios electrónicos, la
 
 En todos los casos tratándose de licitaciones públicas, invitaciones o adjudicaciones directas se priorizará a empresas radicadas en del (sic) Estado que cumplan con los requisitos técnicos y que sus ofertas sean competentes respecto a las demás ofertas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-Las adquisiciones, arrendamientos y servicios, se contratarán por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado o a través de medios electrónicos, que será abierto públicamente, a fin de asegurar al sujeto obligado, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias que se estimen pertinentes.
+Las adquisiciones, arrendamientos y servicios, se contratarán por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones en sobre cerrado o a través de medios electrónicos, que será abierto públicamente, a fin de asegurar al sujeto obligado, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias que se estimen pertinentes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -387,9 +479,11 @@ Las licitaciones públicas podrán ser:
 
 I.- Regionales.- Cuando atendiendo a programas para incentivar los sectores de la economía regional, independientemente del origen de los bienes o servicios, únicamente puedan participar personas con residencia en el Estado de Baja California; solamente se realizarán licitaciones regionales en apego a las disposiciones establecidas en el Reglamento;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
 II.- Nacionales.- Cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes y/o servicios a adquirir sean producidos en el país, y cuenten por lo menos con un cincuenta por ciento de contenido nacional.
 
-En el Reglamento se señalarán los casos en que no será exigible el porcentaje mencionado, así como un procedimiento expedito para determinar el grado del contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría de Desarrollo Económico;
+En el Reglamento se señalarán los casos en que no será exigible el porcentaje mencionado, así como un procedimiento expedito para determinar el grado del contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría de Economía e Innovación.
 
 III.- Internacionales.- Cuando puedan participar personas de nacionalidad mexicana como extranjera y los bienes a adquirir sean de origen nacional o extranjero.
 
@@ -569,13 +663,25 @@ En junta pública se dará a conocer el fallo de la licitación, a la que librem
 
 En el mismo acto del fallo o adjunta a la comunicación referida, el Comité proporcionará por escrito a los licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+
+Con la notificación del fallo por el que se adjudica el contrato, las obligaciones derivadas de este serán exigibles, sin perjuicio de la obligación de las partes de formalizarlo en los términos de lo establecido en el artículo 45 de esta Ley.
+
 ###### ARTÍCULO 35.
 
 El Comité procederá a declarar desierta la licitación, cuando las propuestas presentadas no reúnan los requisitos establecidos en las bases de licitación o sus precios no fueren aceptables, debiéndose expedir una nueva convocatoria.
 
-Tratándose de licitaciones en las que una o varias partidas se declaren desiertas por no haberse recibido propuestas satisfactorias, el Comité podrá proceder, sólo respecto a esas partidas, a convocar una nueva licitación, o bien a aplicar el procedimiento de invitación o de adjudicación directa, según corresponda.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
 
-El Comité podrá cancelar una licitación por caso fortuito o fuerza mayor. De igual manera, podrá cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio al órgano correspondiente.
+Tratándose de licitaciones que se declaren desiertas por no haberse recibido propuestas satisfactorias, el Comité podrá proceder a convocar una nueva licitación, o bien a aplicar el procedimiento de invitación o de adjudicación directa, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+
+Asimismo, tratándose de licitaciones en las que una o varias partidas se declaren desiertas por no haberse recibido propuestas satisfactorias, el Comité podrá proceder, sólo respecto a esas partidas, a convocar una nueva licitación, o bien a aplicar el procedimiento de invitación o de adjudicación directa, según corresponda.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
+
+El Comité podrá cancelar una licitación o algunas de sus partidas por caso fortuito o fuerza mayor. De igual manera, podrá cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio al órgano correspondiente.
 
 ###### ARTÍCULO 36.
 
@@ -585,9 +691,11 @@ En este caso, los precios de los bienes o servicios contenidos en una misma part
 
 #### SECCIÓN TERCERA. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 37.
 
-En los supuestos que prevé el artículo 35 de esta Ley, el Comité podrá optar por no llevar a cabo el procedimiento de licitación pública, y la unidad administrativa podrá celebrar contratos a través de los procedimientos de invitación o de adjudicación directa.
+En los supuestos que prevé el artículo 38 de esta Ley, el Comité podrá optar por no llevar a cabo el procedimiento de licitación pública, y la unidad administrativa podrá celebrar contratos a través de los procedimientos de invitación o de adjudicación directa.
 
 La selección del procedimiento deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el sujeto obligado. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción, deberá constar por escrito y ser firmado por el titular del órgano usuario o requirente de los bienes o servicios.
 
@@ -597,15 +705,21 @@ En cualquier supuesto se invitará a personas que cuenten con capacidad de respu
 
 La unidad administrativa podrá contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación o de adjudicación directa, cuando:
 
-I.- El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos, así como aquellos sujetos a precios oficiales;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-II.- Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado de Baja California, como consecuencia de desastres producidos por fenómenos naturales;
+I.- El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos, así como aquellos sujetos a precios oficiales; o bien, por no existir bienes o servicios alternativos o sustitutos técnicamente razonables, supuesto que se acreditará con la investigación de mercado;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+II.- Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado de Baja California, como consecuencia de desastres afectaciones y daños producidos por fenómenos naturales o emergencias sanitarias;
 
 III.- Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes debidamente justificadas;
 
 IV.- Derivado de caso fortuito o de fuerza mayor, no sea posible obtener bienes o servicios mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
 
-V.- Se hubiere rescindido el contrato respectivo por causas imputables al proveedor que hubiere resultado ganador en la licitación. En este caso, se estará conforme al Reglamento;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+V.- Se hubiere rescindido el contrato respectivo por causas imputables al proveedor que hubiere resultado ganador en el procedimiento de contratación. En este caso, se estará conforme al Reglamento.
 
 VI.- Se realicen dos licitaciones públicas que hayan sido declaradas desiertas;
 
@@ -625,9 +739,21 @@ XIII.- Se trate de adquisiciones de bienes perecederos, granos y productos alime
 
 XIV.- Se trate de adquisiciones de armamento necesario para el desempeño de las funciones propias de las áreas de seguridad pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-XV.- Se trate de la contratación de servicios en los medios de comunicación social, incluidos radio, televisión, prensa escrita y medios electrónicos.
+XV.- Se trate de la contratación de servicios de comunicación o difusión en medios de comunicación social, incluidos radio, televisión, prensa escrita, medios electrónicos y plataformas digitales, según corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XVI.- Se trate de la contratación de un bien, arrendamiento, o servicio, con algún proveedor que cuente con contrato vigente adjudicado mediante el procedimiento de licitación pública en el ejercicio fiscal en curso o en el inmediato anterior, que acepte y sostenga otorgar las mismas condiciones del contrato vigente en cuanto especificaciones técnicas, de calidad, precio, alcances y demás especificaciones previamente ofertadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XVII.- Se trate de servicios de consultorías, asesorías, estudios o investigaciones, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que preferentemente se incluirán instituciones públicas y privadas de educación superior y centros públicos de investigación; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XVIII.- Se trate de la suscripción de convenios específicos que deriven de un contrato marco.
 
 ###### ARTÍCULO 39.
 
@@ -641,9 +767,11 @@ La suma de las operaciones que se realicen al amparo de este artículo, no podr�
 
 La unidad administrativa deberá someter a consideración del Comité, los procedimientos de contratación cuya adjudicación se fundamente en este artículo.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 40.
 
-En el supuesto de que dos procedimientos de invitación hayan sido declarados desiertos, el Comité podrá adjudicar directamente el contrato.
+En el supuesto de que el procedimiento de invitación haya sido declarado desierto, el Comité podrá adjudicar directamente el contrato.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2021)</small>
 
@@ -655,13 +783,15 @@ Los órganos podrán adquirir sin sujetarse a los procedimientos previstos por e
 
 El procedimiento de invitación se sujetará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-I.- Deberá invitarse a cuando menos tres personas, de las cuales dos de ellas, si las hubiere, deberán ser fabricantes o distribuidores de la Entidad;
+I.- Deberá invitarse a cuando menos tres personas, de las cuales dos de ellas, si las hubiere, deberán ser fabricantes o distribuidores regionales;
 
 II.- El acto de presentación y apertura de proposiciones se llevará a cabo en dos etapas, para lo cual la apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la contraloría;
 
-III.- Se deberá contar con un mínimo de tres propuestas, susceptibles de analizarse técnicamente;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+III.- En la primera etapa de presentación y apertura de proposiciones será requisito indispensable contar con un mínimo de dos propuestas, susceptibles de analizarse técnicamente; caso contrario deberá declarase desierta;
 
 IV.- En las invitaciones se indicarán, como mínimo, la cantidad y descripción de los bienes o servicios requeridos, plazo y lugar de entrega, así como condiciones de pago;
 
@@ -715,19 +845,31 @@ XIII.- El importe del finiquito por la prestación de los servicios o la entrega
 
 XIV.- Penas por el atraso de pagos conforme a la fracción V de este artículo, por la entrega de bienes o prestaciones de servicios, por causas imputables a los sujetos obligados;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE MARZO DE 2024)</small>
 
-XV.- En los contratos derivados de los proyectos a que se refiere la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California, se deberá contener, además de los anteriores requisitos y de lo previsto en éste último ordenamiento:
+XV.- En los contratos derivados de los proyectos a que se refiere la Ley de Asociaciones Público-Privadas para el Estado de Baja California, se deberá contener, además de los anteriores requisitos y de lo previsto en éste último ordenamiento:
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 a) La especificación si el proyecto se llevará a cabo con activos del Proveedor, del Órgano, de un tercero o de un grupo de proveedores con base en lo requerido por la Administración pública;
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 b) La situación jurídica de todos aquellos bienes inmuebles involucrados en el proyecto, para los efectos contractuales, derechos, obligaciones y condiciones de las partes respecto a los mismos, que garanticen satisfactoriamente el cumplimiento del objeto del proyecto;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 c) Los riesgos que asumirán tanto el Sujeto Obligado como el Proveedor;
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 d) La duración del contrato, y el plazo para dar inicio a la prestación de los servicios o para la entrega de los bienes, en su caso;
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 e) Las fórmulas y metodología para evaluar el cumplimiento del Proveedor, incluyendo indicadores de disponibilidad y de desempeño, y detallando la forma y cálculo de penalizaciones y deducciones a los pagos que deba realizar la Administración;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 f) Los medios para solucionar las controversias entre las partes, para cuyos efectos podrán establecerse, en primer orden, el arbitraje, y en su defecto los medios previstos en esta Ley, así como los mecanismos para las controversias que se susciten entre el Proveedor y los usuarios.
 
@@ -797,9 +939,9 @@ III.- Aquellos proveedores que por causas imputables a ellos mismos, la unidad a
 
 IV.- Las que se encuentren inhabilitadas por resolución de la Contraloría conforme al Capítulo Sexto de esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-V.- Las que se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+V.- Las que se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California;
 
 VI.- Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la unidad administrativa.
 
@@ -842,6 +984,12 @@ Tratándose de contratos en los que se incluyan bienes o servicios de diferentes
 Cualquier modificación a los contratos deberá formalizarse por escrito por la unidad administrativa; los instrumentos legales respectivos serán suscritos por el servidor público que lo haya hecho en el contrato, quien lo sustituya o quien esté facultado para ello.
 
 La unidad administrativa se abstendrá de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones sustanciales y en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2024)</small>
+
+ARTÍCULO 51 BIS.- Sin perjuicio de lo establecido por el artículo 51 de esta Ley, procederán las modificaciones por ampliación de vigencia de contratos de arrendamiento y de prestación de servicios, que requieran continuidad una vez concluido el ejercicio fiscal en el que terminaría su vigencia original, siempre y cuando resulten indispensables para mantener la operación regular de los órganos solicitantes y que su ampliación de la vigencia no exceda del primer trimestre del ejercicio fiscal siguiente; debiendo necesariamente contar con la validación previa y por escrito de la Unidad Administrativa indicando las condiciones para su ampliación.
+
+Las modificaciones por ampliación de vigencia quedaran sujetas a la disponibilidad presupuestaria con la que cuente el órgano para el ejercicio fiscal siguiente, por lo que la capacidad para poder ampliar la vigencia estará condicionada a la existencia de los recursos presupuestarios respectivos. El precio de la contratación sujeto a la ampliación, será igual al pactado originalmente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -941,9 +1089,11 @@ III.- La gravedad de la infracción.
 
 Los servidores públicos del órgano, que en ejercicio de sus funciones tengan conocimiento de infracciones a la Ley o a las disposiciones que de ella deriven, deberán comunicarlo inmediatamente a la unidad administrativa y contraloría correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-Los servidores públicos que infrinjan las disposiciones contenidas en la Ley, serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Las y los servidores públicos que infrinjan las disposiciones contenidas en la Ley, serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ###### ARTÍCULO 64.
 
@@ -1097,9 +1247,11 @@ IV.- Revocar total o parcialmente el acto impugnado;
 
 V.- Modificar u ordenar la modificación del acto impugnado, u ordenar la emisión de uno nuevo que lo sustituya.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 83.
 
-Contra la resolución que recaiga, procede interponer recurso ante el Tribunal de lo Contencioso Administrativo del Estado de Baja California.
+Contra la resolución que recaiga, procede interponer recurso ante el Tribunal Estatal de Justicia Administrativa de Baja California.
 
 #### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO DE CONCILIACIÓN
 
@@ -1278,3 +1430,11 @@ P.O. 7 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO 248 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 21 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 386 DE LA XXIV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 3, 4, 8, 14, 18, 20, 22, 24, 34, 35, 37, 38, 40, 44, 49, 63 Y 83; ASÍ COMO LA ADICIÓN DEL ARTÍCULO 51 BIS A LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los procedimientos de contratación iniciados con anterioridad a la entrada en vigor de las presentes reformas, se seguirán sustanciando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
