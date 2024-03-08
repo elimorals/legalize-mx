@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-la-secretaria-1571
 country: "mx"
 rank: "codigo"
 publication_date: "2022-03-22"
-last_updated: "2022-03-22"
+last_updated: "2024-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE SEGURIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 8 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2024 (ABROGADO).
 
 Código publicado en la Sección Primera del Número 53 de la Gaceta del Gobierno del Estado de México, el martes 22 de marzo de 2022.
 
@@ -758,3 +760,17 @@ PROTESTO LO NECESARIO
 ______________________________________
 
 Nombre y firma de la persona servidora pública
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Con la entrada en vigor del presente acuerdo, se abroga el Acuerdo del Secretario de Seguridad y Presidente del Comité de Ética de la Secretaría de Seguridad del Estado de México, por el que se emite el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, publicado en el Periódico Oficial "Gaceta del Gobierno", el 22 de marzo de 2022. Dejando sin efectos todas aquellas disposiciones de igual o menor jerarquía, que contravengan lo dispuesto por el presente Acuerdo.
+
+CUARTO. Una vez publicado el presente Acuerdo, a través del Comité de Ética de la Secretaría de Seguridad del Estado de México, se realizará su difusión por los diversos medios oficiales de comunicación que para tal efecto establezca la Secretaría de Seguridad.
