@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-12-08"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1271,6 +1271,8 @@ VIII. Las demás establecidas en las leyes y reglamentos respectivos.
 
 En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 8 DE MARZO DE 2024)</small>
+
 ###### Artículo 107.
 
 Las asociaciones de madres y padres de familia tendrán por objeto:
@@ -1291,9 +1293,17 @@ VII. Estimular, promover y apoyar actividades extraescolares que complementen y 
 
 VIII. Gestionar el mejoramiento de las condiciones de los planteles educativos ante las autoridades correspondientes;
 
-IX. Alentar el interés familiar y comunitario para el desempeño del educando, y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
 
-X. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores.
+IX. Alentar el interés familiar y comunitario para el desempeño del educando;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+
+X. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+
+XI. Convenir con las instituciones de educación pública y con los particulares, sobre el cambio en el modelo de los uniformes escolares, con base al reglamento que determine la Secretaría de Educación Estatal.
 
 Las asociaciones de madres y padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
@@ -1432,6 +1442,10 @@ La autorización y el reconocimiento incorporan a las instituciones que los obte
 En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en términos de este artículo, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas y niños, incluyendo la retención de documentos personales y académicos.
 
 La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia, asimismo, a ropa adicional al uniforme que por condiciones climáticas se porte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+
+El modelo de los uniformes escolares sólo podrá ser modificado con previo convenio que se realizará entre las asociaciones de madres y padres de familia con base a la reglamentación correspondiente, debiendo ser aprobado por la autoridad educativa.
 
 ###### Artículo 121.
 
@@ -1828,3 +1842,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 27 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 22 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA; Y LA REFORMA AL ARTÍCULO 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA (SIC)”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 391 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 107 Y 120 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo en un plazo no mayor a 180 días, a partir de la entrada en vigor de este Decreto, deberá emitir los lineamientos para la solicitud y cambio del modelo de los uniformes en las instituciones públicas y particulares.
