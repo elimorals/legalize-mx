@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2023-07-29"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -477,15 +477,15 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 ### Capítulo I. De las Faltas administrativas de los Servidores Públicos y de Particulares
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2024)</small>
 
 ###### Artículo 47.
 
-Incurrirán en Faltas administrativas no graves, Faltas administrativas graves, Faltas de particulares en la modalidad de graves y Faltas de particulares en situación especial quienes actualicen los supuestos previstos en los Capítulos I, II, III y IV, del Título Tercero, del Libro Primero, de la Ley General.
+Incurrirán en faltas administrativas no graves, faltas administrativas graves, faltas de particulares en la modalidad de graves y faltas de particulares en situación especial quienes actualicen los supuestos previstos en los Capítulos I, II, III y IV del Título Tercero, del Libro Primero, de la Ley General.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2024)</small>
 
-También se considerarán como faltas administrativas graves de las y los servidores públicos los actos de violencia de género cometidos contra las mujeres, de acuerdo a lo establecido por la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, así como las conductas discriminatorias en términos del artículo 7 de la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca.
+También se considerarán como faltas administrativas graves de las y los servidores públicos los actos de violencia de género cometidos contra las mujeres de acuerdo a lo establecido por la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, la omisión de emitir órdenes de protección y las conductas discriminatorias en términos del artículo 7 de la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca.
 
 ###### Artículo 48.
 
@@ -720,3 +720,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 8 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1926.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 7 FRACCIÓN XI DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE ADICIONA EL CAPÍTULO I BIS DENOMINADO "VIOLENCIA VICARIA" Y EL ARTÍCULO 404 TER Y 404 QUATER AL TÍTULO VIGÉSIMO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA EL INCISO f) AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 298 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
