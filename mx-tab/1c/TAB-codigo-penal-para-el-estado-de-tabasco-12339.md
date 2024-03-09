@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2023-10-04"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1445,11 +1445,11 @@ La prescripción de la pena privativa de la libertad sólo se interrumpe con la 
 
 Al que prive de la vida a otro, se le impondrá prisión de ocho a veinte años.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Artículo 111.
 
-Al que prive de la vida al ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, quebrantando la fe o la seguridad que el pasivo debía esperar del activo por la real y actual relación de confianza que existe entre ambos en el caso concreto, se le impondrá prisión de veinte a cincuenta años; así como pérdida de los derechos que tenga con respecto a la víctima, inclusive los de carácter sucesorio.
+Al que prive de la vida al ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, quebrantando la fe o la seguridad que el pasivo debía esperar del activo por la real y actual relación de confianza que existe entre ambos en el caso concreto, se le impondrá prisión de veinte a cincuenta años; así como pérdida de los derechos que tenga con respecto a la víctima, inclusive los de carácter sucesorio, de patria potestad, tutela, guarda y custodia sobre los descendientes, adoptante o adoptado. La pérdida de los derechos a que se refiere este artículo se aplicará también en los casos de tentativa.
 
 ###### Artículo 112.
 
@@ -1517,17 +1517,17 @@ IX. El cuerpo de la víctima sea expuesto o exhibido en lugar público.
 
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio, de patria potestad, tutela guarda y custodia sobre los descendientes, adoptante o adoptado.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
 Si además del feminicidio, resulta delito diverso, se estará a las reglas del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio y las relativas a la tentativa del delito de feminicidio.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -5646,3 +5646,19 @@ P.O. 4 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 230 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 111 Y 115 BIS, PÁRRAFOS TERCERO Y QUINTO; DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite ante los órganos jurisdiccionales civiles y penales, relacionados con el presente Decreto, se atenderán de acuerdo con las disposiciones aplicables a la fecha en que inició el juicio correspondiente, hasta su total conclusión.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
