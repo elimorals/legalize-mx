@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2023-08-03"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -233,13 +233,17 @@ XXVI. Hacer del conocimiento público las recomendaciones que emita y los inform
 
 XXVII. Solicitar a la autoridad correspondiente la amonestación o el inicio de procedimiento administrativo en los casos en que un servidor público oculte o retrase injustificadamente la información que se le solicite con motivo del trámite de las quejas y en lo que obstruya el trabajo de la Comisión;
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XXVIII. Fomentar la investigación científica en el área de los derechos humanos; y
+XXVIII. Fomentar la investigación científica en el área de los derechos humanos;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
 
-XXIX. Las demás que se establezcan en la presente ley, su reglamento interior y las disposiciones legales aplicables.
+XXIX. Proponer políticas estatales de acompañamiento institucional de los migrantes para las diversas instancias gubernamentales, que permitan el acceso pleno a los derechos establecidos en la ley de la materia, fortaleciendo la protección institucional gubernamental, con especial atención a jaliscienses en retorno; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XXX. Las demás que se establezcan en la presente ley, su reglamento interior y las disposiciones legales aplicables.
 
 ###### Artículo 8º.
 
@@ -1590,3 +1594,9 @@ P.O. 3 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29226/LXIII/23 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTICULAR (SIC) 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE (SIC) COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
