@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2023-12-12"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3203,11 +3203,13 @@ Adquieren el derecho que les concede el artículo 486 y los derechos que de ello
 
 Adquieren también ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere embarazada.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Art. 491.
 
 La filiación de los hijos procreados fuera de matrimonio, sólo se establece por el reconocimiento voluntario hecho por los progenitores o por una sentencia que así lo declare.
+
+En caso de que cualesquiera de los progenitores hayan fallecido o estén en calidad de desaparecidos, el reconocimiento lo podrán hacer los abuelos paternos, abuelos maternos o familiares más próximos.
 
 Si dentro del procedimiento correspondiente se oferta una prueba científica a fin de acreditar la filiación y el presunto progenitor se niega a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario, que es la madre o el padre.
 
@@ -19470,3 +19472,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Será obligación de la Secretaría de Salud en coordinación con la Secretaría del Sistema de Asistencia Social, de conformidad con la suficiencia presupuestal con la que cuenten y su respectivo ámbito de competencia, fomentar y promover el diagnóstico oportuno de la insuficiencia o falla renal con el objetivo de intervenir de manera temprana los casos de ésta enfermedad que son los que más demandan el trasplante de un órgano, además de la obligación del sistema de salud estatal para crear un sistema de control de la enfermedad, que retrase la progresión de éste padecimiento para reducir el riesgo de complicaciones.
 
 TERCERO. El Ejecutivo del Estado llevará a cabo la adecuación o creación del reglamento que corresponda.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29532/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16 DE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS Y LOS ARTÍCULOS 42 Y 43 DE LA LEY DEL REGISTRO CIVIL, Y EL ARTÍCULO 491 DEL CÓDIGO CIVIL, TODOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "El Estado de Jalisco".
