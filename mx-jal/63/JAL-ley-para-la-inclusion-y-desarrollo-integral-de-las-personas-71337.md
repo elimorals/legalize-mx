@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2023-07-22"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -1287,11 +1287,13 @@ El transporte deberá cumplir con las especificaciones técnicas y especiales qu
 
 Cada unidad del servicio colectivo de pasajeros deberá contar con un mínimo de dos asientos preferenciales para personas con discapacidad, los cuales se fijarán de forma vertical, con el respaldo adherido a uno de los costados de la unidad y estarán cerca de la puerta de ingreso.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Artículo 71.
 
-El Ejecutivo del Estado, mediante estudios técnicos, determinará en la norma técnica correspondiente, que el transporte público, en particular las unidades del servicio colectivo de pasajeros, cuenten con aditamentos especiales, tales como rampas y elevadores o mecanismos especiales que permitan la entrada y salida a personas con discapacidad. La Secretaría del Transporte y los municipios vigilarán el cumplimiento de dicha norma técnica.
+El Ejecutivo del Estado, mediante estudios técnicos, determinará en la norma técnica correspondiente, que el transporte público, en particular las unidades del servicio colectivo de pasajeros, cuenten con aditamentos especiales, necesarios y suficientes, tales como escalones, rampas y elevadores o mecanismos especiales que permitan el abordaje y descenso a personas con discapacidad. La Secretaría del Transporte y los municipios vigilarán el cumplimiento de dicha norma técnica.
+
+Invariablemente los estudios y normas técnicas incluirán la instalación de aditamentos específicos, necesarios y suficientes para el abordaje y descenso de las unidades del servicio colectivo de pasajeros para las personas con discapacidad de acondroplasia esquelética de talla baja.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1606,3 +1608,9 @@ P.O. 22 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29216/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 33 BIS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29536/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 71 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO".]
+
+Único: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
