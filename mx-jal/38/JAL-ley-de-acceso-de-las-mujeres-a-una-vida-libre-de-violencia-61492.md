@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2023-03-25"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -201,9 +201,25 @@ II. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilida
 
 III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-IV. Violencia económica. Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar, privar o restringir sus percepciones económicas, la administración de sus bienes propios, que provocan o perpetúan la brecha de género, así como todo tipo de discriminación económica por razón de género;
+IV. Violencia económica. Es toda acción u omisión de la persona agresora que afecta la supervivencia y la autonomía económica de las mujeres. Se manifiesta a través de las siguientes acciones:
+
+a) Controlar, privar o restringir los ingresos de la víctima;
+
+b) Pesquisar y limitar el gasto del hogar de manera que implique dominación o superioridad, así como transar con él a cambio de sometimiento;
+
+c) No aportar con el sustento familiar, a pesar de tener la capacidad de hacerlo;
+
+d) Menoscabar el patrimonio de familia en provecho propio;
+
+e) Desentenderse de sus obligaciones de cuidado respecto a las personas dependientes;
+
+f) Imponer limitaciones a la administración y disposición de los bienes propios de la víctima;
+
+g) Realizar conductas que provoquen o perpetúen la brecha de género; y
+
+h) Cualquier otro tipo de discriminación económica por razón de género;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -699,11 +715,21 @@ XIV. Promover y realizar investigaciones con perspectiva de género sobre las ca
 
 XV. Evaluar y considerar la eficacia de las acciones del programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE MARZO DE 2024)</small>
+
 XVI. Presentar un informe anual sobre los avances del programa, ante el Congreso del Estado a través del informe de gobierno;
 
-XVII. Promover los mecanismos necesarios para el cumplimiento de la presente ley; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XVIII. Las demás que le confieran esta ley u otros ordenamientos aplicables.
+XVII. Promover los mecanismos necesarios para el cumplimiento de la presente ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XVIII. Crear un programa de (sic) específico para las víctimas de violencia económica en el marco de los programas estatales de empleo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XIX. Las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 #### Sección Segunda.
 
@@ -1105,6 +1131,18 @@ XXIII. Promover que las organizaciones sociales, sindicatos, organizaciones estu
 
 XXIV. Las demás previstas para el cumplimiento de la ley.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE MARZO DE 2024)</small>
+
+#### Sección Décima Bis. La Secretaría de Desarrollo Económico
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+###### Artículo 34 Bis.
+
+I. Promover el desarrollo del capital humano de las mujeres, así como la cultura de la innovación y la perspectiva de género en el sector empresarial; y
+
+II. Crear programas de promoción tendientes a lograr la autonomía económica de las mujeres víctimas de violencia.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2019)</small>
 
 #### Sección Décima Primera.
@@ -1113,19 +1151,15 @@ La Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
-#### Sección Décima Segunda.
-
-Del Sistema Estatal para el Desarrollo Integral de la Familia.
-
 ###### Artículo 35.
 
 La observancia al cumplimiento estatal de las políticas para el acceso de las mujeres a una vida libre de violencia, estará a cargo de la Comisión Estatal de Derechos Humanos.
 
 El Gobierno del Estado de Jalisco será el responsable de garantizar a las mujeres el acceso a una vida libre de violencias (sic), de acuerdo con el derecho internacional de derechos humanos.
 
-#### Sección Décima Tercera.
+#### Sección Décima Segunda.
 
-De la Procuraduría General de Justicia del Estado.
+Del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 36.
 
@@ -1151,17 +1185,17 @@ VIII. Establecer las acciones y medidas que se deberán tomar para la reeducaci�
 
 IX. Las demás que señale esta ley o su reglamento.
 
-#### Sección Décima Cuarta.
+#### Sección Décima Tercera.
 
-Del Sistema Jalisciense de Radio y Televisión.
+De la Procuraduría General de Justicia del Estado.
 
 ###### Artículo 37.
 
 (DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
-#### Sección Décima Quinta.
+#### Sección Décima Cuarta.
 
-Del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar.
+Del Sistema Jalisciense de Radio y Televisión.
 
 ###### Artículo 38.
 
@@ -1177,11 +1211,9 @@ IV. Promover y difundir, programas que contribuyan a la detección, prevención,
 
 V. Las demás previstas para el cumplimiento de la ley.
 
-#### Sección Décima Sexta.
+#### Sección Décima Quinta.
 
-De la Universidad de Guadalajara y de las Instituciones Públicas de Educación Superior.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 24 DE OCTUBRE DE 2019)</small>
+Del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar.
 
 ###### Artículo 39.
 
@@ -1205,7 +1237,11 @@ IV. Promover la celebración de convenios con los ayuntamientos de la entidad a 
 
 V. Las demás que señale esta ley o su reglamento.
 
-#### Sección Décima Séptima. Del Gobierno Municipal y sus Ayuntamientos
+#### Sección Décima Sexta.
+
+De la Universidad de Guadalajara y de las Instituciones Públicas de Educación Superior.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 24 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 40.
 
@@ -1231,11 +1267,7 @@ V. Diseñar e implementar campañas de difusión masiva para prevenir la violenc
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
-#### Sección Décima Octava.
-
-Del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+#### Sección Décima Séptima. Del Gobierno Municipal y sus Ayuntamientos
 
 ###### Artículo 41.
 
@@ -1293,11 +1325,11 @@ XIII. La atención de los demás asuntos que en materia de violencia contra las 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
 
-#### Sección Décima Novena.
+#### Sección Décima Octava.
 
-De la Secretaría de Agricultura y Desarrollo Rural.
+Del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Artículo 41 Bis.
 
@@ -1310,6 +1342,12 @@ II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+#### Sección Décima Novena.
+
+De la Secretaría de Agricultura y Desarrollo Rural.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 41 Ter.
 
@@ -2056,3 +2094,11 @@ P.O. 25 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los ayuntamientos en coordinación con la Secretaría de Salud (sic) Jalisco y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, deberán realizar acciones tendientes a informar y prevenir los ataques contra niñas y mujeres con ácido, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas o inflamables o cualquier otra sustancia.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29523/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 10 Y 25; Y ADICIONA EL ARTÍCULO 34 BIS JUNTO CON LA SECCIÓN DÉCIMA BIS "LA SECRETARÍA DE DESARROLLO ECONÓMICO", DENTRO DEL CAPÍTULO III, DEL TÍTULO SEGUNDO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO, EN MATERIA DE VIOLENCIA ECONÓMICA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza a la Secretaría de la Hacienda Pública para que, en coordinación con la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, la Secretaría del Trabajo y Previsión Social y la Secretaría de Desarrollo Económico, actualicen la estructura programática a efecto de incorporar los fines del presente decreto e incluir las partidas presupuestarias para el siguiente ejercicio fiscal.
