@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2023-05-10"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -3549,11 +3549,13 @@ Qué comprende el interés del Estado
 
 El interés del Estado a que se refiere el artículo anterior comprende la salud física y mental de los menores, así como su educación, instrucción y preparación.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 407.
 
 Instituciones para el beneficio social
 
-La patria potestad, la adopción, la tutela y la curaduría son instituciones que tienen por objeto la atención de los incapaces, a través de los deberes que la ley impone a los ascendientes, adoptantes, tutores y curadores. El funcionamiento de tales instituciones queda sujeto a las modalidades que le impongan las resoluciones que se dicten de acuerdo con las leyes aplicables.
+La patria potestad, la adopción, la tutela y la curaduría son Instituciones que tienen por objeto la atención de los incapaces, a través de los deberes que la ley impone a los ascendientes, adoptantes, tutores y curadores. El funcionamiento de tales instituciones queda sujeto a las modalidades que le impongan las resoluciones que se dicten de acuerdo con las leyes aplicables, en los casos de pérdida de patria potestad por acción u omisiones del padre en casos de feminicidio se aplicarán en beneficio de las niñas, niños y adolescentes en orfandad las disposiciones contenidas en el Protocolo Nacional de Atención Integral a Niñas, Niños y Adolescentes en condición de orfandad por feminicidio, donde el estado brindará medidas de asistencia y atención inmediata para procurarle tratamiento psicológico.
 
 ###### ARTICULO 408.
 
@@ -3682,6 +3684,12 @@ Si se separan los padres que vivían juntos al hacer el reconocimiento, convendr
 Por ascendientes
 
 Solamente por falta o impedimento del padre y de la madre, la patria potestad corresponde al abuelo y a la abuela paternos y maternos.
+
+(NOTA: EL 29 DE ABRIL DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE ABRIL DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+POR MANDATO JUDICIAL O CUANDO SE ACREDITE FEHACIENTEMENTE QUE EL PADRE INTENTÓ O COMETIÓ FEMINICIDIO EN PERJUICIO DE LA MADRE, EL JUEZ LIMITARÁ, SUSPENDERÁ O DECLARARÁ LA PÉRDIDA DEL DERECHO QUE CORRESPONDE A LA CONVIVENCIA O PATRIA POTESTAD DE LOS ABUELOS PATERNOS.
 
 ###### ARTICULO 426.
 
@@ -3905,7 +3913,9 @@ Pérdida de la patria potestad
 
 La patria potestad se pierde:
 
-I.- Cuando el que la ejerza es condenado por sentencia ejecutoriada expresamente a la pérdida de ese derecho, o cuando es condenado por delito de acción u omisión dolosa con una pena de dos o más años de prisión;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+I.- Cuando el que la ejerza intente privar o prive de la vida a la madre con quien comparta la patria potestad o bien sea condenado por delito de acción u omisión dolosa con una pena de dos o más años de prisión;
 
 II.- (DEROGADA, P.O. 10 DE MAYO DE 2023)
 
@@ -3916,6 +3926,10 @@ III.- Cuando por violencia familiar, las costumbres depravadas de quienes la eje
 IV.- Por la exposición que el padre o la madre o el abuelo o la abuela hicieren de sus hijos o nietos; o porque los dejen abandonados por más de seis meses, si quedaron a cargo de alguna persona, y por más de un día si al abandonar a los hijos no hubieren quedado a cargo de persona alguna y éste sea intencional; y
 
 V.- Por incumplimiento injustificado de dar alimentos.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2024)</small>
+
+VI.- En caso de oposición, a petición del padre, la madre o cualquiera de sus ascendientes, el juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial o cuando se acredite fehacientemente que el padre intentó privar o privó de la vida a la persona con quien comparta derechos de carácter de patria potestad, tutela, guarda y custodia, podrá limitarse, suspenderse o perderse el derecho de custodia, así como en los casos de suspensión o pérdida de la patria potestad, conforme a lo dispuesto en las fracciones anteriores.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -25879,21 +25893,21 @@ SEGUNDO. Los divorcios en trámite se regirán por las disposiciones vigentes an
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### ARTICULO SEGUNDO.
+P.O. 9 DE MARZO DE 2024.
 
-Para la aplicación de los artículos del Código Fiscal de la Federación que se reforman conforme a lo establecido por el artículo anterior, se estará a las siguientes disposiciones transitorias:
+## [N. DE E. TRANSITORIOS DEL DECRETO 230 POR EL QUE SE “REFORMAN LOS ARTÍCULOS 407 Y 452, FRACCIÓN I; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 425 Y LA FRACCIÓN VI AL ARTÍCULO 452; TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
 
-I.- Cuando con anterioridad al 1o. de mayo de 1986, se hubieran causado recargos sobre contribuciones o aprovechamientos federales no pagados o intereses a cargo del fisco federal sobre cantidades que deba devolver, que hubieran alcanzado el 300% del importe de dichas contribuciones, aprovechamientos o cantidades a devolver, según sea el caso, a partir de la fecha mencionada se reanudará la causación de recargos o de intereses sobre las cantidades insolutas, conforme a lo dispuesto por los artículos 21 y 22 del Código Fiscal de la Federación.
+###### ARTÍCULO PRIMERO.
 
-II.- Tratándose de solicitudes de devolución que se hubieran presentado antes del 1o. de junio de 1986, la devolución se podrá hacer en el plazo de cuatro meses sin causar intereses.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO SEGUNDO.
 
-Durante el año de 1986 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
+Los asuntos que se encuentren en trámite ante los órganos jurisdiccionales civiles y penales, relacionados con el presente Decreto, se atenderán de acuerdo con las disposiciones aplicables a la fecha en que inició el juicio correspondiente, hasta su total conclusión.
 
-I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, determinen las autoridades fiscales como pago provisional a cargo de los obligados durante el año de 1986 se incrementará con la que resulte de aplicar a la misma el factor 1.6.
+###### ARTÍCULO TERCERO.
 
-II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 2.45 que se aplicará a partir del 1o. de marzo de 1986, sobre las cantidades en vigor desde el 1o. de julio de 1985.
+Se derogan las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO SEGUNDO.
 
