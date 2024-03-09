@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2021-07-06"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -155,7 +155,7 @@ Organismo Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia.
 
 El Estado coadyuvará en el resguardo de la familia como un espacio de afecto, seguridad y desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Artículo 7.
 
@@ -165,19 +165,25 @@ I. Promover acciones y programas de protección social a las víctimas de la vio
 
 II. Fomentar en coordinación con instituciones especiales públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia intrafamiliar cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención;
 
-III. Promover programas de intervención temprana en comunidades de escasos recursos para prevenir la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-IV. Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia intrafamiliar;
+III. Promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias en comunidades, barrios y colonias, para prevenir, identificar y canalizar a las autoridades correspondientes, los casos de violencia intrafamiliar, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+IV. Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención, identificación y canalización de casos de violencia intrafamiliar, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento, a través de su participación en las brigadas interinstitucionales y multidisciplinarias;
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
 V. Elaborar programas de capacitación para los funcionarios públicos y demás personas que por la naturaleza de sus funciones, les corresponda, en cualquier momento del proceso de atención, tener contacto con los sujetos involucrados en actos de violencia intrafamiliar;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-VI. Introducir en sus programas de bienestar social, la asistencia y prevención de la violencia intrafamiliar; y
+VI. Introducir en sus programas de bienestar social, la asistencia, prevención, identificación y canalización de casos de la violencia intrafamiliar; y
 
-VII. Promover, a través de los medios de comunicación, campañas permanentes encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene y combate la violencia intrafamiliar en coordinación con las instancias competentes.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+VII. Promover, a través de los medios de comunicación, campañas permanentes encaminadas a sensibilizar y concientizar a la población sobre los derechos, las formas en que se expresa, se previene y combate la violencia intrafamiliar en coordinación con las instancias competentes, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento, a través de su participación en las brigadas interinstitucionales y multidisciplinaria; (sic)
 
 ###### Artículo 8.
 
@@ -197,6 +203,8 @@ II. Fomentar la capacitación sobre la detección y prevención de la violencia 
 
 III. Diseñar y operar en los planteles educativos programas de detección y canalización de víctimas de violencia intrafamiliar a las unidades de atención respectivos; así como la creación de grupos de atención de violencia intrafamiliar, integrados por padres de familia, personal docente y alumnado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE MARZO DE 2024)</small>
+
 ###### Artículo 10.
 
 Le corresponde a la Secretaría de Salud, además del despacho de los asuntos precisados en la Ley Orgánica del Poder Ejecutivo, las siguientes:
@@ -205,39 +213,67 @@ I. Diseñar y poner en práctica programas de capacitación, detección, prevenc
 
 II. Establecer bases y directrices en la elaboración de los Partes Médicos que se instrumenten en el Estado;
 
-III. Por conducto de trabajadoras sociales y médicos, canalizar los asuntos de violencia intrafamiliar a las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-IV. Fomentar campañas públicas tendientes a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene o combate la violencia intrafamiliar;
+III. Por conducto de trabajadoras sociales y médicos, promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias para prevenir, identificar y canalizar los asuntos de violencia intrafamiliar a las autoridades correspondientes, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento;
 
-V. Promover que se preste la atención a las víctimas de la violencia intrafamiliar, en las diversas instituciones médicas, públicas y privadas; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+IV. Fomentar campañas públicas tendientes a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene o combate la violencia intrafamiliar, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+V. Promover que se preste la atención inmediata a las víctimas de la violencia intrafamiliar, en las diversas instituciones médicas, públicas y privadas, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento; y
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
 VI. Difusión y aplicación en todos los sectores de salud (sic) la norma oficial aplicable, referente a la prestación de servicios de salud, y los criterios para la atención médica de la violencia intrafamiliar.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Artículo 11.
 
 La Secretaría de Seguridad, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, para los efectos de esta ley, tendrá las siguientes:
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
 I. Coordinarse con la Fiscalía Estatal para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
 II. Instaurar cursos de formación y capacitación a los elementos de seguridad sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención; e
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
 III. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
+
+IV. Promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias, para prevenir, identificar y canalizar los casos de violencia intrafamiliar. promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento; (sic)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Artículo 12.
 
 La Fiscalía Estatal, además de las atribuciones señaladas en la Ley Orgánica de la Fiscalía del Estado de Jalisco, para los efectos de esta ley tendrá las siguientes:
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2019)</small>
+
 I. Turnar a las instancias competentes, los casos en que de la carpeta de investigación se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2019)</small>
 
 II. Realizar las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables, una vez aplicado el tratamiento especializado por el personal capacitado; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2019)</small>
+
 III. Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a la policía investigadora y adoptar las medidas pertinentes cuando se presente algún caso.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
+
+IV. Promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias, para prevenir, identificar y canalizar los casos de violencia intrafamiliar. promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención ·y acompañamiento; (sic)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Artículo 13.
 
@@ -250,6 +286,10 @@ I. Llevar a cabo el proceso de seguimiento control y evaluación del Programa Es
 II. Incorporar a sus programas acciones de asistencia y prevención de la violencia intrafamiliar; y
 
 III. Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas y victimarios de la violencia intrafamiliar.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
+
+IV. Promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias en comunidades de escasos recursos para prevenir, identificar y canalizar a las autoridades correspondientes, los casos de violencia intrafamiliar.
 
 ### CAPITULO II
 
@@ -872,3 +912,9 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28405/LXII/21 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 19 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29533/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, 10, 12 Y 13 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
