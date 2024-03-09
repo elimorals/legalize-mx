@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2024-02-24"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -423,13 +423,17 @@ XVIII. Elaborar, promover y vigilar la aplicación de los protocolos para preven
 
 XIX. Implementar programas de fortalecimiento docente con perspectiva en desarrollo tecnológico y de innovación;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XX. Generar la infraestructura necesaria para impulsar la transformación digital y el desarrollo tecnológico; y
+XX. Generar la infraestructura necesaria para impulsar la transformación digital y el desarrollo tecnológico;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
 
-XXI. Las demás que otras disposiciones legales así dispongan.
+XXI. Promover e implementar programas, mecanismos, instrumentos y acciones para facilitar y garantizar la validación o equivalencia de los estudios realizados, así como la incorporación, permanencia a los servicios educativos en sus diferentes tipos, niveles, modalidades y opciones educativas a las niñas, niños y adolescentes jaliscienses migrantes en retorno; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXI], P.O. 9 DE MARZO DE 2024)</small>
+
+XXII. Las demás que otras disposiciones legales así dispongan.
 
 ## Título Segundo. Del Sistema Educativo Estatal
 
@@ -1299,17 +1303,17 @@ La autoridad educativa estatal, de acuerdo con la suficiencia presupuestal, impu
 
 ### Capítulo II bis. De la prevención en salud en el entorno escolar
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
 Artículo 80 bis. Autoridades y prevención de enfermedades
 
-Las autoridades educativas en coordinación con la autoridad sanitaria estatal calendarizarán acciones de medicina preventiva en las escuelas de la entidad.
+Las autoridades educativas en coordinación con la autoridad sanitaria estatal y las instituciones educativas implementarán permanentemente acciones de medicina preventiva en las escuelas de educación básica y media superior de la entidad.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
 Artículo 80 ter. Acciones preventivas
 
-La Secretaría en coordinación con la Secretaría de Salud y el Organismo Público Descentralizado Servicios de Salud Jalisco realizará tamizajes en educandos con factores de riesgo identificados mediante estudios epidemiológicos poblacionales, previa autorización de los padres o tutores, asimismo podrá realizar acciones de asesoramiento y formación necesarias para la detección oportuna de enfermedades.
+La Secretaria en coordinación con la Secretaría de Salud y el Organismo Público Descentralizado Servicios de salud Jalisco realizará permanentemente tamizajes y acciones tendientes al cuidado de la salud, prevención de enfermedades y de adicciones en educandos con factores de riesgo identificados mediante estudios epidemiológicos poblacionales, previa autorización de los padres o tutores, asimismo podrá realizar acciones de asesoramiento y formación necesarias para la detección oportuna de enfermedades y de adicciones.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
@@ -2752,3 +2756,17 @@ P.O. 24 DE FEBRERO DE 2024.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Para los efectos de los recursos económicos con los cuales se constituirá el fondo para la educación, el Ejecutivo del Estado en el presupuesto de egresos, deberá destinar una partida presupuestal que funcionará como base inicial del mismo, debiendo de incrementarse según los recursos con que se integra dicho fondo.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29539/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 80 BIS, Y EL ARTÍCULO 80 TER, DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. La Secretaría de Educación, con sujeción a la disponibilidad presupuestaria asignada para tal efecto para el presente ejercicio fiscal y los subsecuentes, instrumentará las acciones establecidas en la presente Ley.
