@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2023-04-18"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -507,11 +507,21 @@ La apostilla o legalización de los documentos emitidos por autoridades extranje
 
 El acta de nacimiento contendrá: lugar y fecha de registro; el año, mes, día, hora y lugar de nacimiento, sexo del registrado, el nombre que se le ponga y los apellidos que le correspondan; la expresión de si es presentado vivo o muerto; su impresión digital si está vivo, así como la Clave Única del Registro Nacional de Población respectiva, y el nombre, edad, domicilio, origen y nacionalidad de los padres, salvo lo dispuesto en el artículo siguiente; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos.
 
-Si el registro lo realiza una persona distinta a los padres, deberá cumplimentar lo dispuesto en el artículo 27 de esta ley.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
+Si el registro lo realiza una persona distinta a los padres, deberá cumplimentar lo dispuesto en el artículo 27 de esta ley; con excepción del caso que el padre o la madre hayan fallecido o estén desaparecidos.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
 En caso de tratarse de una persona huérfana de padre y madre, quien comparezca al registro, deberá de presentar las constancias de nacimiento de la persona a registrar, así como las actas de defunción de los padres.
 
-Si se tratara de madre soltera y esta falleciere, sólo se presentarán las constancias de nacimiento de la persona a registrar y de defunción de la madre.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2024)</small>
+
+En caso de tratarse de una persona, donde tanto el padre como la madre estén desaparecidos, quien comparezca al registro, deberá de presentar las constancias de nacimiento de la persona a registrar, así como la denuncia, queja o reporte de desaparición de los padres.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
+Si se tratara de madre soltera y esta falleciere o esté desaparecida, sólo se presentarán las constancias de nacimiento de la persona a registrar, de defunción de la madre o denuncia, queja o reporte de desaparición, según corresponda.
 
 ###### Artículo 43.
 
@@ -521,23 +531,25 @@ Cuando sólo uno de los cónyuges presente al infante y exhiba copia certificada
 
 Cuando no se presente copia certificada o extracto del acta de matrimonio o no ocurran ambos progenitores, sólo se asentará el nombre del padre o de la madre, cuando éste lo solicite por sí o por apoderado.
 
-(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+Los abuelos maternos o los familiares más próximos podrán efectuar el registro de un nacimiento cuando la madre hubiese fallecido o esté desaparecida y no fuere casada.
 
-LOS ABUELOS MATERNOS O LOS FAMILIARES MÁS PRÓXIMOS PODRÁN EFECTUAR EL REGISTRO DE UN NACIMIENTO CUANDO LA MADRE HUBIESE FALLECIDO Y NO FUERE CASADA.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2024)</small>
 
-(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Los abuelos paternos o los familiares más próximos podrán efectuar el registro de un nacimiento cuando el padre hubiese fallecido o esté desaparecido, no fuere casado y que por alguna circunstancia justificada la madre no se presente al registro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-PODRÁ EFECTUAR EL REGISTRO DE SU HIJO, EL PADRE QUE EN COMPAÑÍA DE LOS ABUELOS MATERNOS O LOS FAMILIARES MÁS PRÓXIMOS O DOS TESTIGOS DECLAREN LA RELACIÓN AFECTIVA QUE EXISTIÓ ENTRE EL PADRE Y LA MADRE FALLECIDA.
+Podrá efectuar el registro de su hijo, el padre que en compañía de los abuelos maternos o los familiares más próximos o dos testigos que declaren la relación efectiva que existió entre el padre y la madre fallecida o desaparecida.
 
-(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2019) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2019)
+En caso de fallecimiento del padre o por encontrarse desaparecido, la madre podrá efectuar el registro de su hijo en compañía de los abuelos paternos o familiares más próximos o dos testigos que declaren la relación efectiva que existió entre la madre y el padre fallecido o desaparecido.
 
-EN CASO DE FALLECIMIENTO DEL PADRE, LA MADRE PODRÁ EFECTUAR EL REGISTRO DE SU HIJO EN COMPAÑÍA DE LOS ABUELOS PATERNOS O FAMILIARES HASTA EL CUARTO GRADO QUE DECLAREN LA RELACIÓN DE CONCUBINATO QUE EXISTIÓ ENTRE AMBOS PROGENITORES. LA CONCUBINA DEBERÁ EXHIBIR LAS CONSTANCIAS QUE ACREDITEN EL CONCUBINATO DE CONFORMIDAD CON EL ARTÍCULO AL ARTÍCULO (SIC) 778 PÁRRAFOS SEGUNDO Y TERCERO DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2024)</small>
+
+En relación a los últimos cuatro párrafos de este artículo, se deberá de presentar la constancia de nacimiento de la persona a registrar, así como el acta de defunción o la denuncia, queja, o reporte de desaparición de los padres, según corresponda.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
@@ -1840,3 +1852,9 @@ P.O. 18 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29156/LXIII/23 QUE DEROGA EL ARTÍCULO 46 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29532/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16 DE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS Y LOS ARTÍCULOS 42 Y 43 DE LA LEY DEL REGISTRO CIVIL, Y EL ARTÍCULO 491 DEL CÓDIGO CIVIL, TODOS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "El Estado de Jalisco".
