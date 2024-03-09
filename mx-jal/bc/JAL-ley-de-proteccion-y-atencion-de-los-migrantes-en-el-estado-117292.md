@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-atencion-de-los-migrantes-en-el-estado-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-17"
-last_updated: "2022-02-19"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección II al Número 4 del Periódico Oficial del Estado de Jalisco, el jueves 17 de noviembre de 2016.
 
@@ -119,21 +119,41 @@ V. Combatir las formas de discriminación hacia la población migrante;
 
 VI. Impulsar el reconocimiento de la contribución de los migrantes al desarrollo del Estado de origen y de destino, así como los valores de la diversidad y la interacción multicultural;
 
-VII. Considerar en el Plan Estatal o en el municipal de Desarrollo, según corresponda, las políticas públicas enfocadas a los distintos flujos migratorios;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-VIII. Generar las condiciones para la reintegración social, laboral, educativa y cultural de los migrantes en retorno, que les permitan realizarse como individuos, y contribuir al mejoramiento de las condiciones de vida de sus familiares y comunidades de origen;
+VII. Considerar en el Plan Estatal o en el municipal de Desarrollo, según corresponda, las políticas públicas enfocadas a los distintos flujos migratorios, acentuando lo relativo a los Jaliscienses migrantes en retorno;
 
-IX. Procurar la inserción escolar de menores, jóvenes y adultos migrantes en retorno en la educación básica y media superior;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
 
-X. Procurar el acceso a la identidad, a la documentación de la población del Estado que reside en el exterior, así como facilitar y acercar los servicios de registro civil a los migrantes en retorno en el extranjero;
+VIII. Establecer políticas de acompañamiento y asesoría institucional para los Jaliscienses migrantes en retorno que permitan el pleno acceso a sus derechos;
 
-XI. Proveer protección y apoyo con documentación, traslado, alimentación, albergue, salud, reinserción educativa, atención psicológica, seguridad y protección a su integridad física a los menores que emigran por causas de pérdidas de sus progenitores, violencia intrafamiliar, violencia en su comunidad, agresión y explotación sexual, de conformidad con lo dispuesto con la legislación federal de la materia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
 
-XII. Promover mecanismos de reunificación familiar y, en su caso, procesos de custodia para aquellas personas menores de edad, de conformidad con lo dispuesto con la legislación federal de la materia;
+IX. Generar las condiciones para la reintegración social, laboral, educativa y cultural de los migrantes en retorno, que les permitan realizarse como individuos, y contribuir al mejoramiento de las condiciones de vida de sus familiares y comunidades de origen;
 
-XIII. Prevenir e impedir la explotación laboral y sexual de los migrantes en el Estado, con enfoque especial hacia mujeres, niñas, niños, adolescentes, menores de edad no acompañados, discapacitados e indígenas; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
 
-XIV. Las demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y que establezcan las leyes.
+X. Procurar la inserción escolar de menores, jóvenes y adultos migrantes en retorno en la educación básica y media superior;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XI. Procurar el acceso a la identidad, a la documentación de la población del Estado que reside en el exterior, así como facilitar y acercar los servicios de registro civil a los migrantes en retorno en el extranjero;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XII. Proveer protección y apoyo con documentación, traslado, alimentación, albergue, salud, reinserción educativa, atención psicológica, seguridad y protección a su integridad física a los menores que emigran por causas de pérdidas de sus progenitores, violencia intrafamiliar, violencia en su comunidad, agresión y explotación sexual, de conformidad con lo dispuesto con la legislación federal de la materia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XIII. Promover mecanismos de reunificación familiar y, en su caso, procesos de custodia para aquellas personas menores de edad, de conformidad con lo dispuesto con la legislación federal de la materia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XIV. Prevenir e impedir la explotación laboral y sexual de los migrantes en el Estado, con enfoque especial hacia mujeres, niñas, niños, adolescentes, menores de edad no acompañados, discapacitados e indígenas; y
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+XV. Las demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y que establezcan las leyes
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
@@ -159,7 +179,9 @@ VII. Las demás que le confieren las normas jurídicas aplicables.
 
 Corresponde a la autoridad competente en materia de asistencia a migrantes en el Estado:
 
-I. Promover la suscripción de acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, locales, estatales, nacionales e internacionales para el desarrollo de proyectos que involucren o beneficien a los jaliscienses en el extranjero;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+I. Promover la suscripción de acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, locales, estatales, nacionales e internacionales para el desarrollo de proyectos que involucren o beneficien a los jaliscienses en el extranjero y en situación de retorno;
 
 II. Impulsar el fortalecimiento de las políticas públicas de la Administración Pública Estatal y del municipio, dirigidas a la población migrante;
 
@@ -169,7 +191,9 @@ IV. Celebrar convenios de colaboración con organismos gubernamentales, no guber
 
 V. Participar en la formulación y ejecución del correspondiente, mediante la presentación de propuestas en relación con sus funciones y objetivos, así como de mecanismos de consulta pública, investigación, generación de estadísticas, concertación, instrumentación, ejecución, control y evaluación de dicho programa;
 
-VI. Proponer el apartado correspondiente al fenómeno migratorio respecto del Plan Estatal de Desarrollo, sujetándose a las previsiones contenidas en el programa sectorial correspondiente;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+VI. Proponer el apartado correspondiente al fenómeno migratorio y de los jaliscienses en retorno respecto del Plan Estatal de Desarrollo, sujetándose a las previsiones contenidas en el programa sectorial correspondiente;
 
 VII. Recibir y canalizar propuestas, solicitudes, sugerencias e inquietudes de los jaliscienses en el extranjero, así como de instituciones y de expertos en la materia de migración, a los organismos públicos, privados y sociales que correspondan;
 
@@ -177,9 +201,11 @@ VIII. Coordinarse con las personas físicas o jurídicas que lleven a cabo accio
 
 IX. Las demás que esta Ley u otras disposiciones legales le confieran.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
 ###### Artículo 8.
 
-Las dependencias de la Administración Pública Estatal, podrán generar políticas públicas para los migrantes en coordinación con la autoridad competente en materia de asistencia a migrantes en el Estado.
+Las dependencias de la Administración Pública Estatal, podrán generar políticas públicas para los migrantes y jaliscienses en retorno, en coordinación con la autoridad competente en materia de asistencia a migrantes en el Estado.
 
 ###### Artículo 9.
 
@@ -264,3 +290,9 @@ P.O. 19 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28735/LXIII/22 QUE FORMA EL ARTÍCULO 2 BIS DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO; Y EL ARTÍCULO 68 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”
