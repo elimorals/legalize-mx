@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2021-04-13"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -241,9 +241,17 @@ IV. Laboral: a quienes por su responsabilidad, constancia e interés en el desem
 
 V. Científico: a quien haya realizado estudios, descubrimientos, aportaciones o propuestas, producto de investigaciones en cualquier campo de la ciencia, así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica;
 
-VI. Académico: a los jóvenes, cuya dedicación y entrega al estudio provoquen la admiración y constituyan un ejemplo para los estudiantes; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MARZO DE 2024)</small>
 
-VII. Deportivo: a quien haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales, o cuya conducta deportiva constituya un ejemplo a seguir.
+VI. Académico: a los jóvenes, cuya dedicación y entrega al estudio provoquen la admiración y constituyan un ejemplo para los estudiantes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MARZO DE 2024)</small>
+
+VII. Deportivo: a quien haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales, o cuya conducta deportiva constituya un ejemplo a seguir; e
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2024)</small>
+
+VIII. Igualdad de género y diversidad sexual: a quienes con su labor contribuyan a transversalizar la perspectiva de género en los ámbitos sociales, políticos, culturales o económicos y/o; a quienes promueven estratégicamente la inclusión, no discriminación y el respeto de todas las posibilidades que tienen las personas de asumir, expresar y vivir su sexualidad, orientación sexual e identidad o expresión de género.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -536,3 +544,11 @@ P.O. 13 DE ABRIL DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un terminó (sic) de 90 días hábiles para realizar las adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29520/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 18 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El premio materia del presente decreto se instituirá a partir de la edición El Premio Estatal a la Juventud Jalisco 2023.
