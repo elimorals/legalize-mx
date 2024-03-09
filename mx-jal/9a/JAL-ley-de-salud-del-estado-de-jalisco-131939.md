@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2024-01-23"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -795,7 +795,9 @@ Para que sea válida la disposición de voluntad referida en el párrafo anterio
 
 V. Dolor: Es la experiencia sensorial de sufrimiento físico y emocional, de intensidad variable, que puede presentarse acompañada de daño real o potencial de tejido del paciente;
 
-VI. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+VI. Enfermedad en estado terminal. Enfermedad avanzada, progresiva, irreversible e incurable, donde concurren múltiples sintomatologías multifactoriales y cambiantes y cuyo pronóstico de vida para el paciente es reservado;
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2020)</small>
 
@@ -843,9 +845,17 @@ VIII. Establecer los límites entre la defensa de la vida del enfermo en situaci
 
 IX. Proporcionar alivio del dolor y otros síntomas severos asociados a las enfermedades en estado terminal;
 
-X. Proporcionar al enfermo los apoyos físicos, psicológicos, sociales y espirituales que se requieran, a fin de brindarle la mejor calidad de vida posible; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XI. Dar apoyo a la familia o a la persona de su confianza para ayudarla a sobrellevar la enfermedad del paciente y, en su caso, el duelo.
+X. Proporcionar al enfermo los apoyos físicos, psicológicos, sociales y espirituales que se requieran, a fin de brindarle la mejor calidad de vida posible;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+XI. Dar apoyo a la familia, cuidador o a la persona de su confianza para ayudarla a sobrellevar la enfermedad del paciente y, en su caso, el duelo; y
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2024)</small>
+
+XII. Promover la creación y operación de unidades de cuidados paliativos en hospitales que cuentan con unidades de cuidados intermedios e intensivos.
 
 ###### Artículo 56.
 
@@ -944,6 +954,18 @@ I. Observar en lo conducente lo previsto en la Ley General de Salud, en las Norm
 II. Coordinarse con la Secretaría de Salud para recibir capacitación e información sobre cuidados paliativos; y
 
 III. Atender el derecho preferentemente a la niñez de acuerdo a los principios establecidos en el Código Civil del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+###### Artículo 61 Bis.
+
+Centros especializados de atención en cuidados paliativos.
+
+1. Podrán constituirse centros especializados de atención en cuidados paliativos, como establecimientos sanitarios dedicados a la asistencia de síntomas físicos y emocionales del paciente y su familia durante la enfermedad terminal.
+
+2. Los centros especializados de atención, en cuidados paliativos, se sujetarán a la regulación sanitaria que, en su caso, resulte aplicable como establecimiento médico y se encuentran obligados a efectuar el aviso de funcionamiento ante la autoridad sanitaria competente.
+
+3. Los centros especializados de atención en cuidados paliativos deben contar como mínimo, con un médico especialista en medicina paliativa y del dolor con cédula y certificación vigente, quien será el responsable sanitario de los servicios del establecimiento así como, con un equipo multidisciplinario, preferentemente especializado en cuidados paliativos.
 
 ###### Artículo 62.
 
@@ -1653,137 +1675,41 @@ Educación para la Salud. Programas.
 
 2. El Gobierno del Estado, por conducto de la Secretaría de Salud, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
 
-#### SECCIÓN TERCERA. DE LA NUTRICIÓN Y EL COMBATE DE LA OBESIDAD, DIABETES, SOBREPESO Y TRASTORNOS DE LA CONDUCTA ALIMENTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2024)</small>
+
+#### SECCIÓN TERCERA. DE LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LA DIABETES
 
 ###### Artículo 115.
 
-De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia. Programas.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
-
-1. El Gobierno del Estado, por conducto de la Secretaría de Salud, elaborará, coordinará y desarrollará programas de nutrición estatales para la prevención y combate a la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 116.
 
-De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia. Consejo.
-
-1. Se crea el Consejo para la Prevención Integral y Combate de la Obesidad, Diabetes, Sobrepeso y Trastornos de la Conducta Alimenticia en el Estado de Jalisco, como una instancia colegiada permanente, que consulte, instrumente, coordine y evalúe las estrategias y programas orientados a la prevención y atención integral de la obesidad, el sobrepeso y los trastornos en la conducta alimenticia en el Estado de Jalisco.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 117.
 
-De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia. Integración del Consejo.
-
-1. El Consejo está integrado por:
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
-
-I. El titular de la Secretaría de Salud, que será quien lo presida;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
-
-II. El titular de la Secretaría de Educación;
-
-III. El Titular del Organismo Público Descentralizado Hospital Civil de Guadalajara;
-
-IV. Una Secretaría Técnica, la cual estará a cargo de un servidor público adscrito a la Dirección de Prevención y Control de Enfermedades del organismo público descentralizado "Servicios de Salud Jalisco";
-
-V. Dos representantes del sector social;
-
-VI. Dos representantes del sector privado, todos del Estado de Jalisco; y
-
-VII. Un representante por cada uno de los siguientes rubros correspondientes del sector científico debiendo pertenecer al Sistema Nacional de Investigadores provenientes de Universidades públicas o privadas o centro de:
-
-a) Cardiología
-
-b) Endocrinología
-
-c) Deporte y Cultura Física
-
-d) Nutrición; y
-
-e) Psicología.
-
-2. Los miembros permanentes del Consejo podrán invitar a los delegados de la Delegación Estatal del Instituto Mexicano del Seguro Social y de la Delegación Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, quienes tendrán el carácter de invitados permanentes.
-
-3. Por cada integrante del Consejo deberá designarse su respectivo suplente.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 118.
 
-De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia. Reuniones del Consejo.
-
-1. El Consejo deberá reunirse por lo menos dos veces al año. A las sesiones del Consejo se podrá invitar a especialistas, funcionarios públicos, académicos, investigadores y demás personas cuya trayectoria profesional o actividad las vincule con los objetivos del Consejo. Estos invitados, tendrán derecho a voz pero no a voto.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 119.
 
-De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia. Funciones del Consejo.
-
-1. El Consejo tendrá las siguientes funciones:
-
-I. Expedir su reglamento interno;
-
-II. Proponer acciones y dar seguimiento durante su ejecución;
-
-III. Evaluar las políticas públicas y programas para la Prevención Integral y Combate de la Obesidad, Sobrepeso, Diabetes y Trastornos de la Conducta Alimenticia en el Estado de Jalisco;
-
-IV. Vincular los sectores público, social y privado, en materia de prevención y atención integral del sobrepeso, la obesidad y los trastornos de la conducta alimenticia;
-
-V. Actuar como un organismo de consulta permanente en materia de estrategias y programas encaminados hacia la prevención y atención integral del sobrepeso, la obesidad y los trastornos de la conducta alimenticia;
-
-VI. Constituirse en un espacio de orientación y educación con acceso a quienes padecen trastornos de la conducta alimenticia o diabetes;
-
-VII. Promover acciones tendientes a eliminar todas las formas de discriminación y exclusión de las personas con la prevalencia de padecimientos de obesidad y sobrepeso y sus consecuencias;
-
-VIII. Concientizar a la población sobre los riesgos en la salud por el sobrepeso, la diabetes, la obesidad y los trastornos de la conducta alimenticia;
-
-IX. Fortalecer hábitos alimenticios y actividades físicas saludables, equilibrados y adecuados;
-
-X. Proponer la firma de acuerdos, convenios, bases de colaboración o los instrumentos jurídicos que se requieran para la prevención y atención integral del sobrepeso, la diabetes, la obesidad y los trastornos alimenticios con instituciones y organismos de los sectores público, social y privado, así como con otras entidades de la Federación u organismos internacionales; y
-
-XI. Las demás que se establezcan en el Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 120.
 
-De la nutrición. Programa integral de prevención.
-
-1. El Programa Integral para la Prevención y Atención de la Obesidad y Trastornos de la Conducta Alimentaria será el instrumento de coordinación de acciones de los gobiernos estatales y municipales con los sectores privado y social.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 121.
 
-De la nutrición. Acciones.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
-
-1. La Secretaría de Salud debe considerar al menos las siguientes acciones:
-
-I. Coordinarse con la Secretaría de Educación para la elaboración y publicación de catálogos de alimentos saludables para su consumo en los planteles educativos;
-
-II. Implementar planes de atención para la población con obesidad y sobrepeso o con alto potencial de adquirirla;
-
-III. Reforzar programas de promoción de la lactancia materna;
-
-IV. Desarrollar campañas publicitarias en relación a una vida saludable y prevención de la obesidad;
-
-V. Llevar a cabo la vigilancia epidemiológica y la estadística de casos de obesidad, sobrepeso y conductas alimentarías en la población; y
-
-VI. Establecer relaciones científicas con organismos nacionales e internacionales que permitan el intercambio de conocimientos y experiencias sobre la prevención de la obesidad.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 122.
 
-De la nutrición. Responsabilidades de la familia.
-
-1. En la prevención y atención de la obesidad, desnutrición o algún trastorno de conducta alimentaria, les corresponde a los padres de familia:
-
-I. Promover hábitos saludables en sus hijos o pupilos a través de orientación y educación sobre los efectos y consecuencias de la mala nutrición y sedentarismo;
-
-II. Proporcionar los elementos y recursos necesarios para una alimentación correcta y la realización de actividades físicas de los niños, niñas y adolescentes;
-
-III. Dar ejemplo a sus hijos e hijas con hábitos de vida saludable;
-
-IV. Solicitar orientación de un profesional de la salud cuando la niña, niño o adolescente a su cargo padezca de obesidad, desnutrición o algún trastorno de conducta alimentaria;
-
-V. Solicitar asesoría a la autoridad sanitaria para el diseño de una alimentación familiar saludable; y
-
-VI. Solicitar colaboración de las autoridades e instituciones educativas en el fomento a la salud, cuando se detecte en la niña, niño o adolescente a su cuidado, obesidad, desnutrición o algún trastorno de conducta alimentaria.
+(DEROGADO, P.O. 9 DE MARZO DE 2024)
 
 ###### Artículo 123.
 
@@ -1993,11 +1919,13 @@ Participación de la Comunidad. Acción Popular.
 
 #### SECCIÓN SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SALUD
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
 ###### Artículo 138.
 
-Participación de la Comunidad. Constitución de Consejos municipales.
+De la ley de Salud del Estado de Jalisco.
 
-1. Con sujeción a la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, en cada municipio, delegación o agencia podrá constituirse un Consejo Municipal de Salud o Comité, según sea el caso, que tendrán como objetivos fomentar una cultura orientada a la salud, coadyuvar al mejoramiento, vigilancia y prestación de los servicios de salud de su localidad, y promover la preservación de condiciones ambientales que favorezcan a la salud pública.
+1. Con sujeción a la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, en cada municipio, delegación o agencia preferentemente deberá constituirse un Consejo Municipal de Salud o Comité, dentro de los primeros 3 tres meses de inicio de la administración municipal, según sea el caso, que tendrá como objetivos fomentar una cultura orientada a la salud, coadyuvar al mejoramiento, vigilancia y prestación de los servicios de salud de su localidad, y promover la preservación de condiciones ambientales que favorezcan a la salud pública.
 
 ###### Artículo 139.
 
@@ -5100,3 +5028,27 @@ Con motivo de la transferencia de personal, se respetarán todos los derechos la
 ###### ARTÍCULO CUARTO.
 
 La Secretaría de Salud deberá presentar al Ejecutivo del Estado, la propuesta de modificaciones o expedición de la normatividad reglamentaria necesaria para la implementación de este decreto dentro de los 90 días siguientes a su entrada en vigor.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29530/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 54 PÁRRAFO 1 FRACCIÓN VI Y 55 PÁRRAFO 1 FRACCIONES X Y XI; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 55 Y EL ARTÍCULO 61 BIS, TODOS DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Poder Ejecutivo del Estado de Jalisco contará con un plazo de 120 días naturales contados a partir del día siguiente de la publicación para la adecuación de sus Reglamentos.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29537/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 138, A LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29538/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE EXPIDE LA LEY DE NUTRICIÓN ADECUADA Y ESTILOS DE VIDA SALUDABLES DEL ESTADO DE JALISCO, REFORMA LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO II DEL TÍTULO CUARTO DE LA LEY DE SALUD DEL ESTADO DE JALISCO Y DEROGA LOS ARTÍCULOS 115, 116, 117, 118,119,120, 121 Y 122 DE LA MISMA".]
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. El Poder Ejecutivo contará con un plazo de 120 ciento veinte días hábiles a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones reglamentarias y presupuestarias.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán de manera gradual, paulatina y progresiva, de acuerdo a la disponibilidad presupuestal.
