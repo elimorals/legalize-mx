@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2024-01-11"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1383,9 +1383,9 @@ Tratándose de delitos fiscales, operará la prescripción en el término de cin
 
 En caso de concurso de delitos, las acciones penales prescribirán simultánea y separadamente en los términos señalados para cada uno.
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-En el caso del delito previsto en los artículos 142-L y 142-M, el plazo para la prescripción empezará a computarse a partir del día en que la víctima cumpla la mayoría de edad.
+Serán imprescriptibles los delitos previstos en los artículos 142-L y 142-M.
 
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2017)</small>
 
@@ -3759,7 +3759,7 @@ II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad
 
 ### CAPITULO II. Extorsión
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
 ###### Art. 188.
 
@@ -3789,15 +3789,17 @@ A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo p
 
 ###### Art. 189.
 
-Comete el delito de extorsión, aquél que mediante coacción exija de otro la entrega, envío o depósito para sí o para un tercero, de cosas, dinero o documentos que produzcan efectos jurídicos. El mismo delito cometerá quien, bajo coacción, exija de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos.
+Comete el delito de extorsión, aquél que mediante coacción exija de otro la entrega, envio o depósito para si o para un tercero, de cosas, dinero o documentos que produzcan efectos jurídicos. El mismo delito cometerá quien, bajo coacción, exija de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos.
 
 Si el extorsionador consigue su propósito, se le impondrán de uno a nueve años de prisión.
 
-Si el extorsionador no logra el fin propuesto, se le impondrán de seis meses a seis años de prisión.
+Si el extorsionador no logra el fin propuesto se le impondrán de seis meses a seis años de prisión.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+Las penas contenidas en los párrafos anteriores serán incrementadas en una cuarta parte, cuando su realización sea ejecutada sobre menores o personas de la tercera edad, o el pasivo padezca de algún trastorno mental o incapacidad física; el activo se ostente como miembro de una organización criminal; o la obligue a reclutar a una u otras víctimas; o cuando incite a su víctima a realizar actos sexuales, o de pornografía o lo obligue a consumir substancias prohibidas, o psicotrópicas, videograbe, fotografié o distribuya dicho contenido; o cuando el activo sea un servidor público.
 
-Cuando el medio de coacción sea la retención temporal de una persona, para exigirle a ésta, la entrega de cosas, dinero, o documentos o la realización de cualquier transacción que afecte los derechos o el patrimonio del pasivo, se impondrá la pena de diez a treinta años de prisión y multa por el importe de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización, aún cuando el extorsionador no logre el fin propuesto.
+Cuando el medio de coacción sea la retención temporal de una persona, para exigirle a ésta, la entrega de cosas, dinero, o documentos o la realización de cualquier transacción que afecte los derechos o el patrimonio del pasivo, se impondrá la pena de diez a treinta años de prisión y multa por el importe de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización, aun cuando el extorsionador no logre el fin propuesto.
+
+De igual forma, se impondrán de cinco a diez años de prisión cuando para la consumación del ilícito, el activo se valga de medios electrónicos, celulares, o aparatos de telefonía, aísle a su víctima, y le exija mediante amenazas, coacción psicológica, física o mental, depósitos, transferencias o entregas de dinero, bienes, documentos, o la realización de cualquier acto o transacción que afecte los derechos o el patrimonio del pasivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -7350,3 +7352,15 @@ P.O. 11 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29509/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA EL ARTÍCULO 234 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29534/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 189 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29535/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
