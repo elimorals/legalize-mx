@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-y-cuidado-de-los-animales-en-el-97663"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-18"
-last_updated: "2017-07-05"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PROTECCIÓN Y CUIDADO DE LOS ANIMALES EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 18 de diciembre de 2013.
 
@@ -73,13 +73,21 @@ VII. Establecer las disposiciones correspondientes a la denuncia, verificación,
 
 La aplicación de esta Ley corresponde:
 
-I. Al Poder Ejecutivo, a través de la Secretaría de Salud, de Desarrollo Agropecuario, Forestal y pesquero, y de Energía, Recursos Naturales y Protección Ambiental; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-II. A los Ayuntamientos, a través de la Coordinación de Reglamentos, y en su caso de los jueces calificadores.
+I. Al Poder Ejecutivo, a través de la Secretaría de Salud, de Desarrollo Agropecuario, Forestal y Pesca, de Seguridad y Protección Ciudadana y de Bienestar, Sustentabilidad y Cambio Climático; y
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+
+II. A los Ayuntamientos, a través de la Coordinación de Reglamentos, de las Direcciones de Seguridad Pública y de los jueces calificadores;
 
 Las autoridades señaladas en el párrafo anterior, conforme a sus respectivas competencias, se coordinarán para la aplicación de la presente Ley y, en su caso, se auxiliarán de las dependencias y unidades que sean necesarias.
 
 Independientemente de lo previsto en la presente Ley, son aplicables las disposiciones contenidas en las leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados en materia de salud, ganadería, desarrollo rural y protección ambiental, en lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+La Secretaría de Seguridad y Protección Ciudadana y las Direcciones de Seguridad Pública municipales colaborarán, en el ámbito de sus competencias, con el rescate de animales abandonados, de calle o en situación de riesgo y vulnerabilidad, para canalizarlos a donde la autoridad competente determine.
 
 ###### Artículo 3.
 
@@ -377,7 +385,9 @@ Los animales guía tienen libre acceso a todos los lugares y servicios públicos
 
 Toda persona individual o colectiva que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización correspondiente y disponer de los medios necesarios, a fin de que los animales reciban un trato digno y respetuoso y mantengan un estado de bienestar. Además de cumplir con las normas oficiales mexicanas correspondientes.
 
-Toda persona que se dedique al adiestramiento de perros de seguridad y a la prestación de servicios de seguridad que manejen animales, deberá contar con autorización de la Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
+Toda persona que se dedique al adiestramiento de perros de seguridad y a la prestación de servicios de seguridad que manejen animales, deberá contar con autorización de la Secretaría de Seguridad y Protección Ciudadana.
 
 ###### Artículo 26.
 
@@ -404,6 +414,16 @@ V. Se realicen en animales criados preferentemente para tal fin.
 ###### Artículo 28.
 
 Queda prohibido vender, alquilar, prestar o donar animales para que se realicen experimentos en ellos.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+Se prohíbe utilizar animales para trabajo, transporte o carga por encima de sus capacidades físicas y estado de salud. En su caso, se les debe proteger con arnés o equipo necesario para evitar molestias o lesiones.
+
+Cuando la actividad sea comercial, se deberá contar con un certificado de buen estado de salud del animal, expedido por un médico veterinario. El reglamento fijará la vigencia del certificado.
+
+Al finalizar su ciclo de servicio, el animal quedará a cargo de su propietario o poseedor, recibiendo cuidado y condiciones de bienestar. Excepcionalmente podrá ser donado.
 
 ### CAPÍTULO CUARTO. DEL SACRIFICIO DE LOS ANIMALES
 
@@ -477,6 +497,22 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de un año, contado a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción.
 
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2024)</small>
+
+IV. Arresto administrativo hasta por treinta y seis horas; y
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2024)</small>
+
+V. Decomiso temporal o definitivo del animal.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+###### Artículo 37 Bis.
+
+Los animales decomisados serán resguardados y cuidados de conformidad con lo que instruya la autoridad competente.
+
+Aquellos que sean decomisados en forma definitiva, serán valorados por un médico veterinario y podrán ser reintegrados a su hábitat natural o puestos a disposición de un zoológico, centro de control animal o en adopción a personas físicas o a una organización protectora de animales.
+
 ###### Artículo 38.
 
 Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta: la gravedad de la infracción, así como la situación socioeconómica y la reincidencia del infractor.
@@ -511,9 +547,11 @@ II. Por causa de notoria improcedencia o sobreseimiento.
 
 ### CAPÍTULO OCTAVO. DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
 ###### Artículo 41.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y demás disposiciones jurídicas aplicables, podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado, mediante el medio de impugnación establecido en la Ley que regula la justicia administrativa en el Estado.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y demás disposiciones jurídicas aplicables, podrán ser impugnadas ante el Tribunal de Justicia Administrativa del Estado de Tabasco, mediante el medio de impugnación establecido en la Ley de Justicia Administrativa del Estado de Tabasco.
 
 ## TRANSITORIOS
 
@@ -576,3 +614,13 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 231 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES I Y II; 25 Y 41; Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 2; EL ARTÍCULO 28 BIS; LAS FRACCIONES IV Y V AL ARTÍCULO 37 Y EL ARTÍCULO 37 BIS, TODOS DE LA LEY PARA LA PROTECCIÓN Y CUIDADO DE LOS ANIMALES EN EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En el ámbito de sus respectivas competencias, el Poder Ejecutivo y los Ayuntamientos deberán adecuar sus normas reglamentarias a las disposiciones de este Decreto dentro del plazo de noventa días naturales a partir de su entrada en vigor.
