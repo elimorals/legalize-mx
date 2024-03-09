@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2023-12-19"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -503,9 +503,9 @@ XXIX. Coordinar, supervisar y evaluar el diseño y desarrollo de los sistemas de
 
 XXX. Participar en los sistemas nacional y estatal, tanto de seguridad pública, como de protección civil, en los términos de la legislación aplicable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XXXI. Instrumentar y coordinar, como eje rector, la política pública estatal en materia de derechos humanos con un enfoque especial en los grupos en situación de desigualdad y discriminación por edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, situación de discapacidad o migración;
+XXXI. Instrumentar y coordinar, como eje rector, la política pública estatal en materia de derechos humanos con un enfoque especial en los grupos en situación de desigualdad y discriminación por edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, expresión de género (sic), situación de discapacidad, migración o migrantes jaliscienses en retorno;
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
@@ -3048,3 +3048,9 @@ QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, por cond
 SEXTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del Archivo Histórico de la Secretaría General de Gobierno, pasarán a formar parte del patrimonio del Archivo General del Estado, de conformidad con la normatividad en la materia.
 
 SÉPTIMO. El acervo documental del Archivo Histórico de la Secretaría General de Gobierno deberá remitirse al Archivo General del Estado en un plazo de trescientos sesenta y cinco días naturales, debiendo generarse programas para la entrega recepción, en términos de la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE (SIC) COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
