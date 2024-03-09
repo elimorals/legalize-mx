@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-declaracion-especial-de-ausencia-por-147906"
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-22"
-last_updated: "2021-02-22"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el lunes 22 de febrero de 2021.
 
@@ -279,7 +279,9 @@ Requerimientos y valoración de la información por el Juzgado de Primera Instan
 
 Medidas provisionales y cautelares.
 
-1. A fin de garantizar la Máxima Protección a la Persona Desaparecida, sus familiares y las personas legitimadas por esta Ley, el Juzgado de Primera Instancia podrá dictar las medidas provisionales y cautelares que resulten necesarias al momento de admitir la solicitud de Declaración Especial de Ausencia.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
+1. A fin de garantizar la Máxima Protección a la Persona Desaparecida, sus familiares y las personas legitimadas por esta Ley, el Juzgado de Primera Instancia deberá dictar las medidas provisionales y cautelares que resulten necesarias en cualquier momento a partir de la admisión de la solicitud de Declaración Especial de Ausencia.
 
 2. Las medidas versarán sobre aquellas necesidades específicas que advierta de la revisión de la solicitud y la información que le remitan las autoridades competentes, particularmente la Comisión Ejecutiva, sobre la guarda, alimentos, patria potestad y uso de la vivienda, así como las que considere necesarias, bajo el Principio de Máxima Protección.
 
@@ -536,3 +538,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29532/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16 DE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS Y LOS ARTÍCULOS 42 Y 43 DE LA LEY DEL REGISTRO CIVIL, Y EL ARTÍCULO 491 DEL CÓDIGO CIVIL, TODOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "El Estado de Jalisco".
