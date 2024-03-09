@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2023-10-07"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -257,13 +257,17 @@ XXII. Promover la cultura de paz en el sector económico del estado de Jalisco;
 
 XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género para lograr una inclusión económica plena;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XXIV. Identificar los incentivos adecuados para el desarrollo y fortalecimiento de las industrias creativas y del ecosistema de innovación, ciencia y tecnología, como apoyos económicos y de capacitación en la materia, de manera directa o con la participación de otras instancias gubernamentales competentes, organismos de la sociedad civil, de la iniciativa privada ya sean nacionales o internacionales; y
+XXIV. Identificar los incentivos adecuados para el desarrollo y fortalecimiento de las industrias creativas y del ecosistema de innovación, ciencia y tecnología, como apoyos económicos y de capacitación en la materia, de manera directa o con la participación de otras instancias gubernamentales competentes, organismos de la sociedad civil, de la iniciativa privada ya sea (sic) nacionales o internacionales;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
 
-XXV. Establecer los mecanismos tendientes a fortalecer el ecosistema de innovación, ciencia y tecnología, así como su cadena productiva.
+XXV. Establecer los mecanismos tendientes a fortalecer el ecosistema de innovación, ciencia y tecnología, así como su cadena productiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
+
+XXVI. Promover e impulsar sistemas de apoyo financiero, administrativo y de capacitación para los jaliscienses migrantes en retorno en el estado.
 
 ### Capítulo II. De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico
 
@@ -1490,3 +1494,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
 
 TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
