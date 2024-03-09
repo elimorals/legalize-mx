@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2021-07-06"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -583,9 +583,17 @@ Para el caso de que se modifique la división regional del Estado, afectándose 
 
 N. Un representante del Consejo Metropolitano;
 
-O. Un representante del Colegio de Notarios del Estado de Jalisco; y
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-P. Un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco.
+O) Un representante del Colegio de Notarios del Estado de Jalisco;
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+
+P) Un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco; y
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+Q) Una persona representante del colegio de profesionistas en ingeniaría civil con mayor representación en el Estado de Jalisco, a invitación de la Presidencia.
 
 ###### Artículo 20.
 
@@ -641,13 +649,17 @@ G. Un representante común de las personas jurídicas con funciones de organizac
 
 H. Un representante común de las asociaciones de valuadores o del Consejo Intergrupal de Valuadores, dicho representante deberá acreditar que elabora avalúos en el municipio, y que está registrado en la Dirección de Catastro del Estado;
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-I. Un representante del Colegio de Notarios de Jalisco, que esté adscrito a dicho municipio; y
+I) Un representante del Colegio de Notarios de Jalisco, que esté adscrito a dicho municipio;
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
 
-J. Por las personas que el Consejo considere conveniente invitar a participar, por sus conocimientos y reconocida solvencia moral.
+J) Una persona representante del colegio de profesionistas en ingeniería civil con mayor representación en el Estado de Jalisco, a invitación de la Presidencia; y
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2024)</small>
+
+K) Por las personas que el Consejo considere conveniente invitar a participar, por sus conocimientos y reconocida solvencia moral.
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -1528,3 +1540,11 @@ P.O. 6 DE JULIO DE 2021.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Los ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+P.O. 9 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29519/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 19 Y 23 DE LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Los Consejos Técnicos Catastrales Estatal y Municipales deberán generar la invitación a que se refieren las disposiciones materia de esta reforma, a efecto de que, en la próxima sesión inmediata a celebrarse, se integren las representaciones que correspondan.
