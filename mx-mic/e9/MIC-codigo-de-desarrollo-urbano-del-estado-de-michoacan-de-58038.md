@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2023-08-08"
+last_updated: "2024-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -2301,9 +2301,11 @@ Los bienes inmuebles declarados patrimonio cultural, deberán inscribirse ademá
 
 ### Capítulo l. De la Transferencia de Potencialidad de Desarrollo Urbano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 168.
 
-El sistema de transferencia de potencialidades de desarrollo urbano será aplicable en el territorio del Estado de Michoacán, de acuerdo a las disposiciones de los programas de centro de población, como instrumento de fomento para el cumplimiento de las políticas y estrategias contenidas en los mismos.
+El sistema de derechos para la potencialidad de desarrollo urbano será aplicable en el territorio del Estado de Michoacán, de acuerdo con las disposiciones de los programas municipales, programa municipal, programa de centro de población, programa parcial o programa sectorial, como instrumento de fomento para el cumplimiento de las políticas y estrategias contenidas en los mismos.
 
 A través de la transferencia de potencialidad de desarrollo urbano, el propietario de un predio contenido en un programa de centro de población y cuyos coeficientes de ocupación del suelo y densidades, no se encuentran cubiertos en su totalidad, puede transferir las partes de coeficientes o densidades no utilizadas, a otro predio aledaño en la zona como receptor.
 
@@ -2325,9 +2327,13 @@ III. Los predios receptores de transferencia solamente podrán recibir el potenc
 
 Quienes adquieran las potencialidades de desarrollo autorizadas, podrán incrementar la intensidad de construcción, ocupación y densidad de población de sus predios o inmuebles, exclusivamente en la misma proporción de los derechos obtenidos por la transferencia.
 
-Los reglamentos municipales señalarán los requisitos y características para las operaciones de transferencia de potencialidades de desarrollo urbano. La dependencia municipal autorizará y supervisará dichas operaciones, mediante una resolución en la que establezca los coeficientes de utilización y ocupación del suelo, así como la densidad de población correspondiente, altura máxima y demás normas urbanas aplicables al predio o inmueble receptor, para lo cual deberá contar con la opinión de la Comisión Municipal.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
-Las operaciones de transferencia autorizadas, deberán consignarse en el programa correspondiente y se inscribirán en el Registro Municipal de Programas de Desarrollo Urbano y en el Registro Público de la Propiedad y del Comercio e incluirse dentro del informe de evaluación del desarrollo urbano.
+Los programas de desarrollo urbano municipales, de centro de población, parciales, así como los reglamentos municipales señalarán los requisitos y características para las operaciones de transferencia de potencialidades de desarrollo urbano. La dependencia municipal autorizará y supervisará dichas operaciones, mediante una resolución en la que establezca los coeficientes de utilización y ocupación del suelo, así como la densidad de población correspondiente, altura máxima y demás normas urbanas aplicables al predio o inmueble receptor, para lo cual deberá contar con la opinión de la Comisión Municipal.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
+Las operaciones de transferencia autorizadas, deberán consignarse en el programa correspondiente y se inscribirán en el Registro Municipal de Programas de Desarrollo Urbano a cargo de los Institutos Municipales de Planeación o del área encaminada a la planeación estratégica y gestión del desarrollo urbano en el territorio municipal, y en el Registro Público de la Propiedad y del Comercio e incluirse dentro del informe de evaluación del desarrollo urbano; por lo que la dependencia municipal deberá informar al menos de manera trimestral a los Institutos Municipales de Planeación o al área encaminada a la planeación estratégica y gestión del desarrollo urbano en el territorio municipal, sobre los registros de estas.
 
 ###### ARTÍCULO 171.
 
@@ -3645,9 +3651,17 @@ I. De diseño urbano;
 
 II. De sistemas de agua potable y alcantarillado sanitario y pluvial;
 
-III. De vialidad; y,
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-IV. De electrificación y alumbrado público.
+III. De vialidad;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+
+IV. De electrificación y alumbrado público; y,
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2024)</small>
+
+V. De ajustes razonables.
 
 ###### ARTÍCULO 293.
 
@@ -3679,9 +3693,9 @@ Las construcciones en los desarrollos en condominio, además de cumplir con lo d
 
 Las áreas de donación en los desarrollos o desarrollos en condominio, en ningún caso podrán ser objeto de enajenación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
-Las áreas de donación deberán destinarse a la dotación de equipamiento urbano y áreas verdes. Las destinadas para áreas verdes serán entregadas forestadas por parte del fraccionador y las áreas destinadas para la construcción de equipamiento urbano se ajustarán a lo establecido en los programas de desarrollo urbano correspondientes.
+Las áreas de donación deberán destinarse a la dotación de equipamiento urbano y áreas verdes. Las destinadas para áreas verdes serán entregadas forestadas por parte del fraccionador, las áreas destinadas para la construcción de equipamiento urbano se ajustarán a lo establecido en los programas de desarrollo urbano correspondientes; en ambos casos deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal.
 
 Las características que deberán cumplir las áreas de donación para equipamiento urbano son las siguientes:
 
@@ -4211,27 +4225,33 @@ Previo a la autorización de fraccionamientos Industriales por parte del Ayuntam
 
 Para obtener la autorización definitiva de un conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, de uso comercial, industrial en un predio o para cementerios, las personas físicas o morales tendrán la obligación de donar en los términos del artículo 297 del presente Código y conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-I. En los fraccionamientos habitacionales urbanos las áreas que se destinen a vías públicas, el ocho por ciento del área total del desarrollo deberá destinarse para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
+I. En los fraccionamientos habitacionales urbanos las áreas que se destinen a vías públicas, el ocho por ciento del área total del desarrollo deberá destinarse para establecer única y exclusivamente obras o instalaciones para equipamiento urbano, y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal;
 
-II. En los conjuntos habitacionales urbanos de cualquier tipo. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-III. En los fraccionamientos habitacionales suburbanos. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
+II. En los conjuntos habitacionales urbanos de cualquier tipo. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal;
 
-IV. En los fraccionamientos comerciales e industriales de cualquier tipo. Las áreas destinadas a vías públicas y el tres por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un tres por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-a. (DEROGADO, P.O. 16 DE JULIO DE 2013)
+III. En los fraccionamientos habitacionales suburbanos. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal;
 
-b. (DEROGADO, P.O. 16 DE JULIO DE 2013)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-V. En los cementerios. Las áreas destinadas a vías públicas y el diez por ciento del área total del terreno a fraccionar o lo que estipule el contrato de concesión correspondiente a favor del Ayuntamiento;
+IV. En los fraccionamientos habitacionales urbanos tipo popular las áreas que se destinen a vías públicas, el cinco por ciento del área total del desarrollo a favor del Ayuntamiento y el tres por ciento a favor del Estado, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde. En excepción a lo anterior, cuando los predios sean menores a cinco hectáreas, se donarán las áreas que se destinen a vías públicas, el ocho por ciento del área total del desarrollo para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y el cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-VI. En los fraccionamientos habitacionales urbanos tipo popular las áreas que se destinen a vías públicas, el cinco por ciento del área total del desarrollo a favor del Ayuntamiento y el tres por ciento a favor del Estado, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde. En excepción a lo anterior, cuando los predios sean menores a cinco hectáreas, se donarán las áreas que se destinen a vías públicas, el ocho por ciento del área total del desarrollo para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y el cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
+V. En los cementerios. Las áreas destinadas a vías públicas y el diez por ciento del área total del terreno a fraccionar o lo que estipule el contrato de concesión correspondiente a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal;
 
-VII. En el caso de condominios habitacionales y comerciales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento; y,
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+
+VI. En los fraccionamientos habitacionales urbanos tipo popular las áreas que se destinen a vías públicas, el tres por ciento del área total del desarrollo para el Gobierno del Estado, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+
+VII. En el caso de condominios habitacionales y comerciales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento, y deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal; y,
 
 VIII. En el caso de condominios industriales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el ocho por ciento del área total del desarrollo.
 
@@ -4372,6 +4392,10 @@ I. La licencia de uso del suelo;
 II. La autorización del visto bueno del proyecto de vialidad y lotificación; y,
 
 III. La autorización definitiva del proyecto.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2024)</small>
+
+La Dependencia Municipal tramitará las fases a las que se refiere este artículo de manera digital, habilitando para esos efectos la plataforma y aquellas herramientas electrónicas necesarias para recibir de los particulares aquellos documentos requeridos para generar el expediente electrónico correspondiente.
 
 ###### ARTÍCULO 345.
 
@@ -4833,6 +4857,10 @@ III.- No acate las observaciones que las autoridades competentes le hagan con mo
 
 IV. Deje de prestar suficiente y adecuadamente los servicios a que está obligado antes de la municipalización.
 
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 11 DE MARZO DE 2024)</small>
+
+En materia de agua, cuando no entregue en los plazos previstos, las obras de urbanización correspondientes a los componentes de agua potable, alcantarillado y/o saneamiento.
+
 Esta medida se aplicará una vez que habiendo impuesto las sanciones previstas en el artículo 443 de este Código y transcurrido el plazo razonable otorgado por la Dependencia Municipal para subsanar las observaciones, no se hubieran atendido.
 
 ###### ARTÍCULO 387.
@@ -4897,9 +4925,11 @@ XV. Durante el período de ejecución de las obras de urbanización del Desarrol
 
 En caso de que el Desarrollo o desarrollo en condominio se ubique en la jurisdicción de dos o más municipios, las obligaciones del fraccionador se distribuirán proporcionalmente a favor de cada uno de los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 394.
 
-El fraccionador mientras no municipalice el Desarrollo, o en su caso, un desarrollo en condominio, estará obligado a:
+El fraccionador, mientras se encuentre en etapa de ejecución de cualquiera de las secciones o partes autorizadas de un desarrollo, o en su caso, de un desarrollo en condominio, estará obligado a:
 
 I. Prestar los servicios de vigilancia;
 
@@ -4993,11 +5023,11 @@ Cuando se suspenda o cancele el registro al Director Responsable de Obra el frac
 
 ### Capítulo IX. De la Municipalización
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 407.
 
-La municipalización es el acto formal mediante el cual se realiza la entrega por parte del fraccionador al Ayuntamiento y sus dependencias o entidades, de los bienes inmuebles, áreas de donación, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un Desarrollo, y en su caso, desarrollo en condominio, cuando se encuentren en posibilidad de operar suficiente y adecuadamente, y por ende sea posible que el Ayuntamiento y sus dependencias o entidades en la esfera de su competencia, presten los servicios públicos necesarios.
+La municipalización es el acto formal mediante el cual se realiza la entrega por parte del fraccionador al Ayuntamiento y sus dependencias o entidades, de los bienes inmuebles, áreas de donación, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un Desarrollo, y en su caso, desarrollo en condominio, cuando se encuentren en posibilidad de operar suficiente y adecuadamente, y que incluyan en todos los casos anteriores ajustes razonables en obras y/o acciones que cumplan con el diseño universal, y por ende sea posible que el Ayuntamiento y sus dependencias o entidades en la esfera de su competencia, presten los servicios públicos necesarios.
 
 En el caso de los servicios de suministro de energía eléctrica, agua potable y alcantarillado sanitario y pluvial, las instalaciones se entregarán directamente a las dependencias correspondientes.
 
@@ -5045,11 +5075,17 @@ Habiéndose municipalizado un Desarrollo, y en su caso, desarrollo en condominio
 
 Mientras no se cumpla con el supuesto previsto en este artículo, el fraccionador seguirá obligado a la prestación de los servicios y mantenimiento de las instalaciones correspondientes, así como a mantener vigente la garantía otorgada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 412.
 
-El Ayuntamiento recibirá el Desarrollo, y en su caso; desarrollo en condominio mediante el levantamiento de un acta administrativa de entrega- recepción, en la que intervendrán el regidor titular de la Comisión de Desarrollo Urbano y Obras Públicas del Ayuntamiento, el titular de la Dependencia Municipal, el fraccionador y un representante de la asociación de colonos si la hubiere, a fin de que, previo dictamen técnico-jurídico se certifique la terminación de obras de urbanización y que el fraccionador cumplió con todas las obligaciones, así como la calidad y el buen funcionamiento de las obras y los servicios que se entregan.
+El Ayuntamiento municipalizará el Desarrollo, y en su caso; desarrollo en condominio, así como las etapas, secciones y/o componentes de la urbanización, mediante el levantamiento de un acta administrativa de entrega recepción, en la que intervendrán el regidor titular de la Comisión de Desarrollo Urbano y Obras Públicas del Ayuntamiento en carácter de testigo, el titular de la Dependencia Municipal, el fraccionador y un representante de la asociación de colonos si la hubiere, a fin de que, previo dictamen técnico-jurídico se certifique la terminación de obras de urbanización y que el fraccionador cumplió con todas las obligaciones, así como la calidad y el buen funcionamiento de las obras y los servicios que se entregan.
 
 La Dependencia Municipal elaborará el dictamen técnico jurídico y cual se insertará como parte del acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2024)</small>
+
+Cuando no se municipalice dentro de los plazos autorizados, el Ayuntamiento se hará cargo de los servicios referidos en el artículo 394, y en relación a las fracciones II y III del propio artículo, previo a la contratación del servicio con el Organismo Operador, en caso de incumplimiento se deberán hacer efectivas las garantías al fraccionador, previo haber aplicado las sanciones previstas en el artículo 443 de este Código.
 
 ###### ARTÍCULO 413.
 
@@ -5646,3 +5682,13 @@ P.O. 8 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 425 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 351, DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 612 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 168; SE REFORMA EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 170; SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 292; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 297; SE REFORMAN LAS FRACCIONES I, II, III, IV, V, VI Y VII DEL ARTÍCULO 329; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 344; SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 386; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 394; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 407; Y, SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 412, TODOS LOS ANTERIORES RELATIVOS AL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades municipales realizarán las adecuaciones administrativas y presupuestales necesarias para cumplir con lo establecido en el último párrafo del artículo 344 del presente Decreto, en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de este Decreto.
+
+TERCERO. Notifíquese a las autoridades de los 113 municipios del Estado de Michoacán para su conocimiento y efectos correspondientes.
