@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2024-01-08"
+last_updated: "2024-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -537,9 +537,9 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
+II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como del Tribunal de Justicia Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -869,13 +869,13 @@ El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus 
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley de Fiscalización Superior del Estado, así como a la demás legislación aplicable; y
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-IV. Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promover las responsabilidades que sean procedentes ante la Sala Administrativa y la Fiscalía Estatal Especializada en Combate a la Corrupción para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
+IV. Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Estatal Especializada en Combate a la Corrupción para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IV, P.O. 11 DE MARZO DE 2024.]</small>
 
-Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante la Sala Administrativa conforme a lo previsto en la Ley.
+Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante el Tribunal de Justicia Administrativa conforme a lo previsto en la Ley.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -2015,11 +2015,13 @@ No pueden ser electos Presidente Municipal, Regidor o Síndico:
 
 I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;
 
-II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
 
-III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya caudado (sic) estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+
+III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
 
 IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
 
@@ -2263,27 +2265,35 @@ Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejer
 
 En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
 
 ###### Artículo 82.
 
-Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, empleos, cargos o comisiones, debiendo ser sancionado (sic) por la autoridad competente.
+Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, empleos, cargos o comisiones, debiendo ser sancionados por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 Las sanciones consistirán en amonestación, suspensión, destitución e inhabilitación temporal o definitiva, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
 
-Las faltas administrativas graves que determinen las leyes, serán investigadas y substanciadas por el Órgano Superior de Fiscalización del Estado, y los respectivos órganos internos de control según corresponda, y serán resueltas por la Sala Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
+Las faltas administrativas graves que determinen las leyes, serán investigadas y substanciadas por el Órgano Superior de Fiscalización del Estado, y los respectivos órganos internos de control según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en su ley orgánica, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
 Las leyes establecerán los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
-Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia de la Sala Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Estatal Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Estatal Especializada en Combate a la Corrupción a que se refiere esta Constitución.
 
-Artículo 82 A.- La Sala Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación temporal o definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
+
+Artículo 82 A.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación temporal o definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2307,7 +2317,9 @@ c) El titular de la Fiscalía Estatal Especializada en Combate a la Corrupción;
 
 d) El titular de la secretaría del Ejecutivo del Estado, responsable del control interno;
 
-e) Presidente de la Sala Administrativa;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
+e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa;
 
 f) Un representante del Consejo de la Judicatura Estatal; y
 
@@ -4142,3 +4154,19 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 592.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se concreta lo establecido en el Artículo Décimo Cuarto Transitorio del Decreto número 405, publicando (sic) en el Periódico Oficial del Estado el 14 de agosto de 2023, las referencias hechas en esta Constitución al Tribunal de Justicia Administrativa se entenderán realizadas a la Sala Administrativa del Poder Judicial del Estado.
