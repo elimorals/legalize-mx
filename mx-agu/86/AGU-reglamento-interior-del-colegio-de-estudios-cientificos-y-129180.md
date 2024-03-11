@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-colegio-de-estudios-cientificos-y-12918
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-06-18"
-last_updated: "2022-07-04"
+last_updated: "2024-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2024.
 
 Reglamento publicado en la Tercera Sección al Núm. 25 del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de junio de 2018.
 
@@ -97,9 +97,7 @@ a) Direcciones de Área:
 
 1. Dirección Académica:
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
-
-1.1 Direcciones de Planteles CECyTE
+1.1 (DEROGADO, P.O. 11 DE MARZO DE 2024)
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -125,13 +123,17 @@ a) Direcciones de Área:
 
 2.2 Jefatura del Departamento de Recursos Humanos;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
-2.3 Jefatura del Departamento de Recursos Materiales; y
+2.3 Jefatura del Departamento de Recursos Materiales;
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
-2.4 Subdirecciones de Plantel.
+2.4 Subdirecciones de Plantel; y
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2024)</small>
+
+2.5 Jefatura del Departamento de Informática
 
 3. Dirección de Planeación:
 
@@ -159,11 +161,13 @@ b) Jefatura de Departamento de los Centros de Educación Media Superior a Distan
 
 1. Responsables de Centros EMSaD
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
-
-c) Jefatura del Departamento de Informática
+c) (DEROGADO, P.O. 11 DE MARZO DE 2024)
 
 d) (DEROGADO, P.O. 4 DE JULIO DE 2022)
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2024)</small>
+
+e) Direcciones de Planteles CECyTE.
 
 III. Órganos de Control y Evaluación:
 
@@ -241,15 +245,33 @@ IV. Asistir a las sesiones de la Junta Directiva, y participar con voz pero sin 
 
 V. Validar y autorizar los documentos de su competencia, inherentes al ejercicio de sus funciones;
 
-VI. Controlar, supervisar y evaluar al Departamento de informática, el cual, es el encargado de poner a disposición la información en las plataformas informáticas estatal y nacional de las obligaciones de transparencia comunes que generen las Direcciones de Área y Coordinaciones del CECyTEA conforme a las leyes en la materia, así como las referentes en materia anticorrupción;
+VI. (DEROGADA, P.O. 11 DE MARZO DE 2024)
 
-VII. Desempeñar el cargo de Presidente del Comité Ética y Prevención de Conflictos de Interés del CECyTEA; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-VIII. Ejecutar y acatar las disposiciones que emita y/o acuerde la Junta Directiva y las demás facultades contenidas en otras disposiciones legales aplicables.
+VII. Desempeñar el cargo de Presidente del Comité Ética del CECyTEA;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-Además, la Dirección General contará con las siguientes áreas de apoyo: Jefatura de Departamento de los Centros de Educación Media Superior a Distancia; y una Jefatura del Departamento de Informática; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
+VIII. Ejecutar y acatar las disposiciones que emita y/o acuerde la Junta Directiva y las demás facultades contenidas en otras disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2024)</small>
+
+IX. Coordinar y supervisar las actividades de los Directores de Planteles, así como la formulación y operación de metodologías que servirán de apoyo a la enseñanza;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2024)</small>
+
+X. Apoyar en la gestión a los Directores de Planteles para la dotación de recursos a los Planteles adscritos al CECyTEA;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2024)</small>
+
+XI. Aplicar las medidas disciplinarias pertinentes en caso de incumplimiento a las disposiciones normativas, a Directores de Planteles; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2024)</small>
+
+XII. Gestionar con la Dirección de Planeación, respecto de las necesidades de los planteles del CECyTEA de infraestructura y equipamiento a efecto de ser atendidas de manera oportuna.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
 
 ###### Artículo 14.
 
@@ -281,9 +303,9 @@ XII. Llevar a cabo las acciones necesarias a fin de que las funciones de los Ór
 
 XIII. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-XIV. Otorgar descuentos en el cobro de inscripción y colegiaturas a aquellos alumnos que por sus condiciones socio-económicas se encuentren en imposibilidad de cubrirlos, dicho apoyo se condicionará al resultado del estudio de trabajo social;
+XIV. Otorgar descuentos de conformidad a los Lineamientos para otorgar apoyos educativos a los alumnos del CECYTEA que para tal efecto se expidan;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -327,15 +349,19 @@ X. Las demás que el Director General les encomiende dentro del ámbito de su co
 
 La Dirección Académica depende de la Dirección General y estará a cargo de un Director, quien tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-I. Realizar en colaboración con los jefes de departamento de la Dirección Académica y Directores de Planteles, con base en el Calendario oficial de la Subsecretaría de Educación Media Superior de la Secretaría de Educación Pública, CECyTEA y el Instituto de Educación de Aguascalientes, el Calendario de Actividades de planteles del CECyTEA, el que pondrá a consideración del Director General;
+I. Realizar, en colaboración con los jefes de departamento de la Dirección Académica y Directores de Planteles, con base en el Calendario oficial de la Subsecretaría de Educación Media Superior de la Secretaría de Educación Pública, CECyTEA y el Instituto de Educación de Aguascalientes, el Calendario Escolar del CECyTEA, el que pondrá a consideración del Director General;
 
 II. Supervisar y controlar la ejecución del calendario escolar y todos los planes y programas de estudio vigilando su cumplimiento;
 
-III. Coordinar y supervisar las actividades de los Directores de Planteles, así como la formulación y operación de metodologías que servirán de apoyo a la enseñanza;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-IV. Revisar junto con los Directores de Planteles las cargas horarias docentes de manera semestral que se pondrán a consideración del Director General;
+III. Coordinar y supervisar las actividades de los Coordinadores académicos, así como la formulación y operación de metodologías que servirán de apoyo a la enseñanza;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+
+IV. Revisar junto con los Coordinadores Académicos las cargas horarias docentes de manera semestral que se pondrán a consideración del Director del Plantel para validación del Director General;
 
 V. Realizar los ajustes necesarios a la carga horaria docente en el transcurso del semestre, de acuerdo con las necesidades que se presenten en los Planteles;
 
@@ -345,11 +371,9 @@ VI. Elaborar el plan de trabajo anual del área académica;
 
 VII. Aplicar los recursos que en el plan anual de trabajo estén asignados a los programas que tiene bajo su cargo el área académica para la promoción de actividades de atención a la demanda, cobertura y calidad; desarrollo académico y pertinencia de planes y programas de estudio;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+VIII. (DEROGADA, P.O. 11 DE MARZO DE 2024)
 
-VIII. Apoyar en la gestión a los Directores de Planteles para la dotación de recursos a los Planteles adscritos al CECyTEA;
-
-IX. Aplicar las medidas disciplinarias pertinentes en caso de incumplimiento a las disposiciones normativas, a Directores de Planteles;
+IX. (DEROGADA, P.O. 11 DE MARZO DE 2024)
 
 X. Auxiliar al Director General dentro de la esfera de su competencia en las tareas que le sean encomendadas, relacionadas con el sector educativo y sustentadas en disposiciones legales aplicables;
 
@@ -387,9 +411,7 @@ XVIII. Coordinar con la Dirección General de Profesiones de la SEP, el registro
 
 XIX. Colaborar con la Dirección de Vinculación en la prestación del servicio social obligatorio, así como las prácticas profesionales de los estudiantes del CECyTEA, requeridos para la obtención del certificado final y título profesional en coordinación con las demás áreas de la Dirección y Directores de los Planteles de acuerdo con las disposiciones legales y reglamentarlas aplicables;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
-
-XX. Gestionar con la Dirección de Planeación, respecto de las necesidades de los planteles del CECyTEA de infraestructura y equipamiento a efecto de ser atendidas de manera oportuna;
+XX. (DEROGADA, P.O. 11 DE MARZO DE 2024)
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -403,7 +425,9 @@ XXII. Documentar las faltas y/o violaciones a través de los medios correspondie
 
 XXIII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
 
-La Dirección Académica contará con las Direcciones de Plantel que estarán sujetas a lo dispuesto por la Ley General del Servicio Profesional Docente y demás disposiciones legales aplicables, así mismo contará con las Jefaturas de los Departamentos de Desarrollo Académico; y Psicopedagógico; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
+La Dirección Académica contará con las Jefaturas de los Departamentos de Desarrollo Académico; y Psicopedagógico; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
 #### SECCIÓN TERCERA. De la Dirección Administrativa
 
@@ -501,15 +525,21 @@ XXXV. Proponer las políticas de información, diseminación, publicación y act
 
 XXXVI. Documentar las faltas y/o violaciones a través de los medios correspondientes a las disposiciones señaladas en el Estatuto Jurídico y las demás normas laborales aplicables; cometidas por los trabajadores del CECyTEA, que se encuentren adscritos a su área;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
 
-XXXVII. Llevar el registro y actualización del archivo del CECyTEA; y
+XXXVII. Llevar el registro y actualización del archivo del CECyTEA;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2024)</small>
+
+XXXVIII. Controlar, supervisar y evaluar al Departamento de informática, el cual, es el encargado de poner a disposición la información en las plataformas informáticas estatal y nacional de las obligaciones de transparencia comunes que generen las Direcciones de Área y Coordinaciones del CECyTEA conforme a las leyes en la materia, así como las referentes en materia anticorrupción; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2022)</small>
 
-XXXVIII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+XXXIX. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
 
-La Dirección Administrativa contará con las Jefaturas de los Departamentos de Finanzas; de Recursos Humanos; y de Recursos Materiales; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
+La Dirección Administrativa contará con las Jefaturas de los Departamentos de Finanzas; de Recursos Humanos; de Recursos Materiales; y de Informática, así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
 #### SECCIÓN CUARTA. De la Dirección de Planeación
 
@@ -891,21 +921,35 @@ El Consejo Técnico será presidido por el Director General e integrado por espe
 
 #### SECCIÓN ÚNICA. De las Ausencias, Suplencias y Designaciones
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
 ###### Artículo 30.
 
-El Director General será representado en sus ausencias temporales menores a treinta días por el Director que él mismo designe.
+El Director General durante sus ausencias temporales, que no excedan de noventa días naturales, será suplido por el Director de Área que él mismo designe.
 
-En caso de ausencias mayores al término señalado en el párrafo anterior, el Director General será suplido observando el procedimiento para la designación de éste establecido en la Ley de Entidades Paraestatales.
+Dicha suplencia deberá ser formalizada mediante oficio debidamente firmado.
+
+En caso de ausencia definitiva del Director General, se atenderá al procedimiento y a la competencia de quien deba realizar la nueva designación en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
 ###### Artículo 31.
 
-Los Directores de Área, Coordinadores, y Jefes de Departamento, serán suplidos, en sus ausencias temporales menores a treinta días, por el servidor público que designe el Director General.
+Los Directores de Área, Coordinadores y Jefes de Departamento durante sus ausencias temporales que no excedan noventa días naturales serán suplidos por el servidor público de jerarquía inferior inmediata al de aquel que el Director General designe.
 
-En caso de ausencias mayores al término señalado en el párrafo anterior, los Directores de Área, Coordinadores, y Jefes de Departamento serán suplidos observando el procedimiento para la designación de éstos previsto en la normatividad aplicable.
+Las suplencias deberán ser formalizadas mediante oficio debidamente firmado por quien la designe.
+
+En el supuesto de ausencia definitiva se atenderá al procedimiento y a la competencia de quien deba realizar la nueva designación, en términos de las disposiciones legales aplicables.
 
 ###### Artículo 32.
 
 Para el caso de las ausencias de los titulares de las Unidades que conforman el Órgano Interno de Control del CECyTEA se estará a lo dispuesto por la Ley de Entidades Paraestatales y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2024)</small>
+
+###### Artículo 33.
+
+Los servidores públicos que cubran las ausencias temporales o especiales, actuarán con todas las facultades que correspondan al titular, independientemente de las de su propio cargo.
 
 T R A N S I T O R I O S
 
@@ -974,3 +1018,11 @@ Se deberán realizar las acciones necesarias, así como las modificaciones a las
 ###### ARTÍCULO CUARTO.
 
 Se instruye a la persona titular de la Dirección General del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes para que lleve a cabo las acciones necesarias tendentes a la inscripción de las presentes reformas, derogaciones y adiciones al Reglamento Interior en el Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
+
+P.O. 11 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas, derogaciones y adiciones al Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
