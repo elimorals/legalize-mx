@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-913-de-la-juventud-guerrerense-87279"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-13"
-last_updated: "2024-02-20"
+last_updated: "2024-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 2012.
 
@@ -307,6 +307,8 @@ i).- Cuidar y mantener los bienes públicos.
 
 ### CAPÍTULO III. POLÍTICAS PÚBLICAS PARA LOS JÓVENES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 18.
 
 Las políticas públicas para los jóvenes son un conjunto de directrices de carácter público dirigidas a asegurar la vigencia de los derechos de la juventud, y comprenden de manera enunciativa y no limitativa, las siguientes acciones:
@@ -365,7 +367,17 @@ XXVI.- Procurar la rehabilitación de los jóvenes con problemas de adicciones y
 
 XXVII.- Prevenir y atender el alcoholismo, el tabaquismo, la drogadicción y la fármaco dependencia, y
 
-XXVIII.- Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XXVIII.- Promover y difundir información científica en materia de derechos sexuales y reproductivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XXIX.- Adoptar medidas para la prevención de la violencia sexual y fomentar el acceso a la justicia para las víctimas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XXX.- Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 ## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE LA JUVENTUD
 
@@ -760,3 +772,13 @@ TERCERO.- Se derogan todas las disposiciones que contravengan la presente Ley.
 CUARTO.- Remítase la Ley a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
 
 QUINTO.- Publíquese la presente Ley para el reconocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 686 POR EL QUE SE REFORMAN LOS ARTÍCULOS 182, 183, 185, 187 Y 189; SE ADICIONAN LOS ARTÍCULOS 187 BIS Y 187 TER Y SE DEROGA EL ARTÍCULO 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499; SE REFORMAN LOS ARTÍCULOS 8, 10, 12 Y 32 DE LA LEY NÚMERO 278 PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO; SE REFORMAN LOS ARTÍCULOS 4º Y 17 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332; SE REFORMA EL ARTÍCULO 18 DE LA LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE; Y SE REFORMAN LOS ARTÍCULOS 1 Y 4 DE LA LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
