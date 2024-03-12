@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2023-12-15"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -180,6 +180,16 @@ XVI. Erradicar la violencia masculina que se encuentra legitimada socialmente co
 XVII. Evitar que se excluya a las mujeres, o que sólo se beneficien marginalmente, de los programas globales de desarrollo.
 
 ### CAPÍTULO II. RESPONSABILIDAD DEL ESTADO Y DE LOS GOBIERNOS MUNICIPALES
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 683 PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2024, SE ADICIONAN LOS NUMERALES XII Y XIII AL ARTÍCULO 8, SIN EMBARGO, SE ADVIERTE QUE NO CORRESPONDE A LA ESTRUCTURA DEL CITADO ARTÍCULO, A SABER: “Artículo 8. [ .. . ]</small>
+
+I. al XI. [ ... ]
+
+“XII. Realizar, a través de los diversos medios de comunicación, e instrumentos institucionales, campañas de sensibilización sobre la violencia contra las mujeres, con la finalidad de informar a la población, y en especial a las mujeres, sobre las leyes que las protegen, las medidas y programas que les asisten y los recursos disponibles; así como campañas dirigidas a incentivar las denuncias de cualquier tipo de violencia, agresión o acoso contra niñas y adolescentes y de prevención de la violencia en este grupo etario;
+
+XIII. Difundir en las comunidades indígenas información sobre los derechos de las mujeres, diseñando un programa de prevención de la violencia.”
+
+SE SUGIERE CONSULTAR LA PÁGINA 30 DE DICHA PUBLICACIÓN OFICIAL.]
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -931,6 +941,12 @@ VIII. Promover, en coordinación con la federación, la creación de Programas d
 
 IX. Garantizar una adecuada coordinación entre el gobierno estatal y los municipios, para ello establecerá Sistemas Regionales para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+IX Bis. Crear el Sistema de Información de Riesgo Feminicida como un mecanismo interinstitucional para el registro personalizado de víctimas de violencia de género recurrente con potencial riesgo de violencia feminicida, a efecto de adoptar las medidas de atención, prevención y protección necesarias.
+
+El sistema de información de riesgo feminicida estará coordinado por la Secretaría de la Mujer.
+
 X. Realizar a través de la Secretaria de la Mujer y con el apoyo de las instancias municipales de atención a la mujer, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
@@ -1139,9 +1155,13 @@ XVI. Diseñar, con una visión transversal, la política integral con perspectiv
 
 XVII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
 
-XVIII. Las demás previstas para el cumplimiento de la presente Ley.
+XVIII. Establecer protocolos de detección de la violencia cibernética, violencia escolar y violencia en el ámbito familiar, donde se vean afectadas las alumnas o alumnos y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XIX. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN SÉPTIMA. DE LA SECRETARÍA DE SALUD
 
@@ -1672,3 +1692,13 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 683 POR EL QUE SE REFORMA (SIC), DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
