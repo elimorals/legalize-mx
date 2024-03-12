@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2024-01-19"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -109,9 +109,9 @@ VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado
 
 VIII. Certificado de Idoneidad: Documento expedido por el Consejo Estatal de Adopciones o por el Sistema Nacional DIF en casos de adopciones internacionales;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-VIII Bis. Crianza positiva: comportamiento de los (sic) madres, padres y tutores, con base en el interés superior de la niñez, donde se promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los limites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes;
+VIII Bis. Crianza positiva: conjunto de prácticas de cuidado, protección, formación y guía que favorecen el desarrollo, bienestar y crecimiento saludable y armonioso de niñas, niños y adolescentes, de acuerdo con la evolución de sus facultades, la etapa del ciclo vital de desarrollo, así como sus características y circunstancias particulares, evitando recurrir al castigo físico, tratos humillantes y violencia en cualquiera de sus manifestaciones;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -257,13 +257,17 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-XIV. La accesibilidad, y
+XIV.- La accesibilidad;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-XV. El derecho al adecuado desarrollo evolutivo de la personalidad.
+XV.- La Crianza Positiva, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XVI.- Los demás que se reconozcan en los ordenamientos legales e instrumentos internacionales ratificados por México en la materia.
 
 ###### Artículo 8.
 
@@ -423,9 +427,9 @@ Niñas, niños y adolescentes no podrán ser separados de las personas que ejerz
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitarla separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia, y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 27.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar y crianza positiva para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia, y que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 27.
 
 ###### Artículo 24.
 
@@ -825,9 +829,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, físico, mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 43.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, así como ejercer una crianza positiva y respetuosa que abone al desarrollo, bienestar y crecimiento saludable y armonioso. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -835,9 +841,11 @@ Queda prohibido el uso de los castigos corporales y humillantes que arriesguen l
 
 ### CAPÍTULO NOVENO. DEL DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 44.
 
-Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+Las niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia, a recibir una crianza positiva y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -2346,3 +2354,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE MANEJO RESPONSABLE DE LAS REDES SOCIALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE CRIANZA POSITIVA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
