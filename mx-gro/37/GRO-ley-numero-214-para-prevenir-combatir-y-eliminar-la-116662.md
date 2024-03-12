@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-214-para-prevenir-combatir-y-eliminar-la-116662"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-19"
-last_updated: "2021-08-20"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Número 58 Alcance I del Periódico Oficial del Estado de Guerrero, el martes 19 de julio de 2016.
 
@@ -107,11 +107,15 @@ Cada uno de los poderes públicos estatales, municipales, organismos autónomos 
 
 En el presupuesto de Egresos del Estado, municipios y organismos autónomos, para cada ejercicio fiscal se incluirán las asignaciones correspondientes para promover las medidas de nivelación, de inclusión y acciones afirmativas a que se refiere el Capítulo III de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### Artículo 4.
 
-En el Estado de Guerrero, la discriminación contra la mujer, por cuanto niega o limita su igualdad de derechos con el hombre, es fundamentalmente injusta y constituye una ofensa a la dignidad humana. Por lo tanto, queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento, goce o ejercicio de los derechos y la igualdad.
+En el Estado de Guerrero, la discriminación contra la mujer, las niñas y los niños, por cuanto niega o limita su igualdad de derechos con el hombre, es fundamentalmente injusta y constituye una ofensa a la dignidad humana. Por lo tanto, queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento, goce o ejercicio de los derechos y la igualdad.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Además de los derechos establecidos en esta ley, a las mujeres, niñas y niños, se les garantizaran los derechos establecidos en otros ordenamientos tanto nacionales como internacionales, incluidos los relacionados con el acceso a la justicia y reparación integral.
 
 ###### Artículo 5.
 
@@ -280,6 +284,10 @@ VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicac
 VII. Derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas o trabajos, entro otros;
 
 VIII. Implementar licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+IX. El diseño y la aplicación de acciones interinstitucionales para facilitar el acceso a la denuncia en casos de violencia contra las mujeres y las niñas.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
 
@@ -1010,3 +1018,13 @@ P.O. 20 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales conducentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA (SIC), DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
