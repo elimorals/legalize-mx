@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2023-12-08"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -447,11 +447,21 @@ XVII. Verificar y controlar el funcionamiento sanitario de los establecimientos 
 
 XVIII. Prestar atención especializada a los senescentes;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-XIX. Prevención, detección y tratamiento del cáncer de mama;
+XIX. Coordinar acciones, con las instancias competentes, para identificar, canalizar y dar aviso de hechos constitutivos de violencia sexual, familiar o de género;
 
-XX. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables;
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XX. Generar campañas de prevención y denuncia en caso de violencia de cualquier tipo contra niñas, niños y adolescentes, en particular de violencia sexual y en materia de educación sexual integral;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XXI. Coordinar las acciones necesarias, así como desarrollar los protocolos necesarios, para garantizar la interrupción voluntaria del embarazo, de conformidad con la legislación estatal y nacional aplicable y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XXII. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
 
 B).- En materia de salubridad local, vigilar y procurar condiciones adecuadas de saneamiento en:
 
@@ -537,7 +547,21 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Diseñar y ejecutar programas de salud para prevenir y atender la violencia escolar conocida como bullying, y
 
-XV. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XV. Diseñar y ejecutar programas para la prevención de la violencia sexual, violencia de género y violencia familiar;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XVI. Vigilar que se brinden los servicios de interrupción voluntaria del embarazo y que la actuación del personal que intervenga sea con pleno respeto a los derechos humanos y libre de prejuicios;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XVII. Promover la capacitación permanente a todo el Sistema en materia de derechos humanos, derechos de las víctimas, derechos de las y los pacientes, atención con perspectiva de género y enfoque diferencial y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -3162,3 +3186,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
