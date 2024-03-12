@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2023-11-08"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -2289,53 +2289,39 @@ Las comisiones especiales tendrán carácter temporal, y serán nombradas por el
 
 Las comisiones podrán solicitar al presidente del Consejo, por acuerdo de la mayoría de sus miembros, la convocatoria a reunión extraordinaria del Pleno.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 119.
 
-El Consejo estará integrado de la siguiente manera:
+El Consejo estará integrado por:
 
-I. Por el Secretario de Comunicaciones y Transportes;
+l. La persona titular de la Secretaría de Comunicaciones y Transportes
 
-II. Por el Director General de Comunicaciones y Transportes, o el Director General del Transporte Colectivo Metropolitano, según sea el tema que se trate;
+II. La persona titular de la Dirección General de Comunicaciones y Transportes, o de la Dirección General del Transporte Colectivo Metropolitano, según sea el tema que se trate;
 
-III. El diputado presidente de la Comisión de Comunicaciones y Transportes, o por el diputado integrante de dicha Comisión, que el propio presidente designe;
+III. La persona titular de la presidencia de la Comisión de Comunicaciones y Transportes del Congreso del Estado, o por quien la propia presidencia designe, siempre que sea integrante de dicha Comisión;
 
-IV. Por un representante de cada uno de los consejos municipales de transporte de la Entidad, según corresponda a la competencia territorial de cada uno de éstos;
+IV. La persona que represente a cada uno de los consejos municipales de transporte de la Entidad, según corresponda a la competencia territorial de cada uno de estos;
 
-V. Por un representante del sector industrial del Estado;
+V. La persona que represente al sector industrial del Estado;
 
-VI. Por un representante del sector comercial del Estado;
+VI. La persona que represente al sector comercial del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+VII. La persona representante legal de los concesionarios de cada una de las personas morales legalmente constituidas dedicadas al transporte público en el Estado;
 
-VII. Por el sector de los concesionarios, un representante legal de los concesionarios de cada una de las personas morales legalmente constituidas del transporte público en la Entidad;
+VIII. La persona representante de cada una de las asociaciones de estudiantes de las instituciones de educación superior en el Estado;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+IX. La persona representante de cada una de las autoridades educativas de las instituciones de educación superior en el Estado;
 
-VIII. Por el sector estudiantil, un representante de cada una de las asociaciones de estudiantes de Instituciones de educación superior en el Estado;
+X. La persona representante del Instituto de las Mujeres del Estado de San Luis Potosí, y
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+XI. Cuando la persona que presida el Consejo lo estime, podrán ser convocados para participar, sólo con derecho a voz, quienes sean representantes de, asociaciones de profesionistas, operadoras u operadores, así como personas ciudadanas y quienes sean funcionarias o funcionarios que, por razones de la importancia de sus atribuciones, estén vinculados con los fines del transporte público.
 
-IX. Por el sector de autoridades estudiantiles, un representante de cada una de las autoridades educativas de las Instituciones de educación superior en el Estado;
+Las personas integrantes a quienes se refieren las fracciones I a X, tendrán intervención en las determinaciones que se tomen para el mejoramiento y solución de los problemas que se presenten en el transporte público en el Estado. El voto de cada sector representado deberá ser emitido de manera colegiada, y este solo contará por uno.
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+El reglamento respectivo debe contener el procedimiento para organizar, entre las personas integrantes de cada sector, la emisión de las votaciones; así como también las respectivas sanciones a que se harán acreedores por la inasistencia a las reuniones del Consejo.
 
-X. Una representante del Instituto de las Mujeres del Estado de San Luis Potosí, y
-
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
-
-XI. A convocatoria del Presidente del Consejo, y sólo con derecho a voz, podrán participar representantes de asociaciones de profesionistas, operadores, y ciudadanos, así como los funcionarios que, por razones de la importancia de sus atribuciones, estén vinculados con los fines del transporte público.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
-
-Los integrantes a que refieren las fracciones I a X, tendrán intervención en las determinaciones que se tomen para el mejoramiento y solución de los problemas que aquejen al transporte público de la Entidad, y el voto que emitan deberá ser contabilizado de manera colegiada contando por uno el de cada sector representativo.
-
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
-
-El reglamento respectivo debe contener el procedimiento para organizar entre los integrantes de cada sector, para la emisión de las votaciones; así como también las respectivas sanciones a que se harán acreedores por la inasistencia a las reuniones del Consejo.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
-
-La Presidencia del Consejo implementará mecanismos que promuevan la participación de las mujeres en la integración del mismo.
+La persona que sea titular de la presidencia del Consejo implementará mecanismos que promuevan la participación de las mujeres en la integración del mismo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -2389,43 +2375,39 @@ IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se pr
 
 Cada municipio integrará, obligatoriamente, en su ámbito territorial, dentro del primer trimestre del primer año de gobierno, el Consejo Municipal de Transporte Público, como un órgano que conocerá de los aspectos técnicos y económicos, inherentes al servicio de transporte público en todas sus modalidades, con el fin de emitir a las autoridades las opiniones correspondientes en dicha materia.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 124.
 
-El Consejo Municipal de Transporte Público se integrará de la siguiente forma:
+El Consejo Municipal de Transporte Público se integrará por:
 
-I. Un Presidente que será el presidente municipal;
+l. La persona titular de la presidencia municipal;
 
-II. Un Secretario Técnico, que será el secretario del ayuntamiento;
+II. La persona titular de la secretaría del ayuntamiento, quien realizará las funciones de la secretaría técnica;
 
-III. Un Regidor, presidente de la Comisión de Seguridad Pública y Tránsito Municipal;
+III. La persona titular de la presidencia de la Comisión de Seguridad Pública y Tránsito Municipal;
 
-IV. El Delegado regional de la Secretaría, o la persona que éste designe;
+IV. La persona titular de la delegación regional de la Secretaría, o la persona que designe;
 
-V. Un representante de los usuarios por cada modalidad, designados por el Presidente;
+V. La persona que represente a los usuarios por cada modalidad, persona que será designada por el titular de la presidencia municipal;
 
-VI. Un representante de los concesionarios por cada ruta y modalidad, a invitación expresa del Presidente del Consejo;
+VI. La persona que represente a los concesionarios por cada ruta y modalidad, a invitación expresa de quien sea titular de la presidencia del Consejo;
 
-VII. Un representante por cada una de las cámaras de la industria, comercio y servicios, constituidas en el municipio;
+VII. La persona que represente a cada una de las cámaras de la industria, comercio y servicios, constituidas en el municipio;
 
-VIII. Un representante de las instituciones de educación media superior y superior;
+VIII. La persona que represente a las instituciones de educación media superior y superior;
 
-IX. Un representante de los estudiantes de las instituciones de educación media superior y superior;
+IX. La persona que represente a los estudiantes de las instituciones de educación media superior y superior;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+X. La persona que represente a las organizaciones sindicales legalmente constituidas, y que tengan relación directa con el transporte público;
 
-X. Un representante de las organizaciones sindicales, legalmente constituidas, que tengan relación directa con el transporte público;
+XI. A invitación expresa de la persona quien sea titular de la presidencia del Consejo, podrán participar en las sesiones las y los representantes de los sectores públicos, estatal y municipal, y las personas que, por su experiencia y conocimientos, puedan aportar importante colaboración al desarrollo de los trabajos del Consejo, y
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+XII. En el caso de los municipios con presencia indígena, la persona titular del Departamento de Asuntos Indígenas Municipal.
 
-XI. A invitación expresa del Presidente, podrán participar en las sesiones del Consejo, los representantes de los sectores públicos, estatal y municipal, y las personas que por su experiencia y conocimientos puedan aportar importante colaboración al desarrollo de los trabajos del Consejo, y
+En caso de ausencia de la persona titular de la presidencia del Consejo, la persona que desempeñe la titularidad de la secretaría técnica, ejercerá las atribuciones que le correspondan. El resto de las personas quienes integren el Consejo designarán a su suplente, quien fungirá como titular en caso de ausencia de estas, y deberán estar legalmente acreditadas en los registros de la secretaría técnica del Consejo.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-XII. En el caso de los municipios con presencia indígena, la persona Titular del Departamento de Asuntos Indígenas Municipal.
-
-En caso de ausencia del Presidente del Consejo, será el secretario técnico quien ejerza las atribuciones que le correspondan a aquél. El resto de los miembros del Consejo designarán a su suplente, quien fungirá como titular en caso de ausencia de éste, y deberán estar legalmente acreditados en los registros de la Secretaría Técnica del Consejo.
-
-Los consejos municipales de transporte público, a través de su representante, se coordinarán con la Secretaría, para formular opiniones y propuestas respecto a cualquier problema en esta materia, en el municipio que corresponda.
+Los consejos municipales de transporte público en el Estado, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en el municipio que corresponda.
 
 ### Capítulo IV. De las Funciones de los Consejos Municipales de Transporte Público
 
@@ -3334,3 +3316,11 @@ P.O. 8 DE NOVIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1014.- SE REFORMAN LOS ARTÍCULOS 119 Y 124, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
