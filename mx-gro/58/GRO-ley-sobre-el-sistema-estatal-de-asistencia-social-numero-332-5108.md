@@ -4,7 +4,7 @@ identifier: "GRO-ley-sobre-el-sistema-estatal-de-asistencia-social-numero-332-51
 country: "mx"
 rank: "ley"
 publication_date: "1986-07-15"
-last_updated: "2015-02-20"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de julio de 1986.
 
@@ -57,43 +57,75 @@ El Gobierno del Estado, en forma prioritaria proporcionará servicios de asisten
 
 Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
-###### ARTICULO 4°.
+###### ARTÍCULO 4°.
 
-Tienen derecho a la asistencia social las personas, familias y grupos que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
+En los términos del artículo anterior de esta Ley, son sujetos a la recepción de los servicios de asistencia social referentemente los siguientes:
 
-Con base en lo anterior, son sujetos de la asistencia social, preferentemente los siguientes:
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 I.- La familia considerándola como la unidad fundamental de la sociedad;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 II.- Personas menores de dieciocho años sujetas a maltrato o en estado de abandono, desamparo, desnutrición o con deficiencias en su desarrollo físico o mental,
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 III.- Personas menores de dieciocho años infractores en lo referente a servicios de previsión, prevención, atención, promoción, protección y rehabilitación, así como a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que disponga la Ley de Justicia para Adolescentes del Estado Libre y Soberano de Guerrero o los reglamentos aplicables;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 IV.- Alcohólicos, farmacodepedientes e individuos en condiciones de vagancia;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 V.- Mujeres en periodos de gestación o lactancia, carentes de recursos económicos o maltratados, dando prioridad a las madres adolescentes que se encuentre(sic) en esta situación;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 VI.- Adultos mayores en desamparo, marginación, sujetos a maltrato, violencia en cualquiera de sus modalidades o expuestos a ser víctimas de explotación o con alguna discapacidad;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 VII.- Personas que por su discapacidad tengan limitación para realizar alguna actividad para su desempeño físico, mental, social ocupacional o económico;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 VIII.- Indigentes;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 IX.- Personas que por su extrema pobreza o ignorancia requieran de servicios asistenciales;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 X.- Víctimas de la comisión de delitos en estado de abandono, con especial atención a quienes resientan cualquier tipo de violencia, pornografía, trata de personas o cualquier delito sexual;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 XI.- Familiares que dependen económicamente de quienes se encuentren privados de su libertad por causas penales y que por ello queden en estado de abandono;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 XII.- Habitantes marginados del medio rural o urbano que carezcan de lo indispensable para su subsistencia;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
 
 XIII.- Personas afectadas por desastres que queden en estado de necesidad o desamparo;
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 XIV.- Personas menores de dieciocho años que trabajen en condiciones que afecten su desarrollo e integridad física y mental; y
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+
 XV.- Personas que no tengan la capacidad para comprender el significado del hecho, en estado de abandono, maltrato o desamparo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XVI.- Las niñas, niños y adolescentes víctimas de violencia sexual o víctimas indirectas del delito de feminicidio u homicidio.
 
 ###### ARTICULO 5º.
 
@@ -213,7 +245,9 @@ El Gobierno del Estado contará con un Organismo Público Descentralizado, con p
 
 Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero.
 
-###### ARTICULO 17°.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2024)</small>
+
+###### ARTICULO 17.
 
 El organismo, para el logro de sus objetivos, realizará las siguientes funciones:
 
@@ -253,7 +287,13 @@ XVII.- Participar en programas de rehabilitación y educación especial;
 
 XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesaria para satisfacer los requerimientos de autonomía de los inválidos, y;
 
-XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XIX.- Garantizar servicios integrales para la prevención y atención en casos de violencia sexual cometida en contra de mujeres, niñas, niños y adolescentes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 18°.
 
@@ -566,3 +606,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 686 POR EL QUE SE REFORMAN LOS ARTÍCULOS 182, 183, 185, 187 Y 189; SE ADICIONAN LOS ARTÍCULOS 187 BIS Y 187 TER Y SE DEROGA EL ARTÍCULO 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499; SE REFORMAN LOS ARTÍCULOS 8, 10, 12 Y 32 DE LA LEY NÚMERO 278 PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO; SE REFORMAN LOS ARTÍCULO 4° Y 17 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332; SE REFORMA EL ARTÍCULO 18 DE LA LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE; Y SE REFORMAN LOS ARTÍCULO 1 Y 4 DE LA LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
