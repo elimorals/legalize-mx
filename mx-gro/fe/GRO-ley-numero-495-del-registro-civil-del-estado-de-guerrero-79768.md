@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2023-12-08"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -572,6 +572,18 @@ Las actas registrales son instrumentos públicos que legitiman a sus titulares, 
 ###### Artículo 40.
 
 Los Oficiales del Registro Civil asentarán y certificarán en los formatos, los registros relativos al estado civil de las personas, los cuales tendrán las características y medidas de seguridad que determine la Coordinación Técnica del Sistema Estatal del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+El formato que expida el Registro Civil es único y constituye un documento público con pleno valor, validez oficial y vigencia indeterminada.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Las modificaciones o rectificaciones a los datos asentados en los registros se realizarán previo los procedimientos establecidos en la presente ley, costos y tarifas vigentes.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+El requerimiento de actualización de formato sin justificación legal, será motivo de responsabilidad en términos de la Ley de Responsabilidades Administrativas del Estado de Guerrero.
 
 ###### Artículo 41.
 
@@ -1670,6 +1682,18 @@ CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno de
 P.O. 8 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 495 POR EL QUE SE REFORMA EL ARTÍCULO 46 EN SU ÚLTIMO PÁRRAFO DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Remítase a las Administraciones Públicas Estatal y Municipales, así como a Órganos Autónomos del Estado y con Autonomía Técnica, para su conocimiento general y efectos correspondientes para su debida y exacta observancia.
+
+CUARTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 681 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 40 DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
 
 PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
