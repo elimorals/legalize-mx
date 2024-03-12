@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2023-12-15"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1523,9 +1523,13 @@ II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes, deni
 
 III. Existan antecedentes o datos de cualquier tipo de violencia, cometido en el ámbito familiar, laboral o escolar, cometido por el sujeto activo en contra de la víctima;
 
-IV. Existan datos o referencias que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-V. Haya existido entre el sujeto activo y la víctima una relación de familia, sentimental, afectiva o de confianza;
+IV. Existan antecedentes o datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+V. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho, amistad, laboral, docente o de confianza;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -1548,6 +1552,22 @@ Al servidor público que retarde, entorpezca u obstruya maliciosamente o por neg
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 Cuando el delito sea cometido por persona integrante de alguna institución policial, las penas previstas en este artículo se incrementarán hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Cuando el feminicidio sea cometido en contra de una niña, adolescentes, mujer indígena o rural, adulta mayor, o bien la víctima cuente con algún tipo de discapacidad, la pena prevista aumentará de una mitad de su mínimo hasta una mitad de su máximo.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Tratándose de casos en grado de tentativa se seguirán las reglas establecidas en los artículos 24 y 81 del presente código.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Las autoridades no podrán excusarse de la investigación de este delito por considerarlo violencia en el ámbito familiar.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Cuando existan niñas, niños o adolescentes como victimas indirectas derivado del hecho delictivo, las instancias de procuración y administración de justicia deberán de considerar el principio de interés superior de la infancia en todas las etapas procesales, hasta la reparación integral del daño.
 
 ###### Artículo 136.
 
@@ -1997,19 +2017,7 @@ A quien realice cualquier tipo de relación sexual, real o simulada, con una o v
 
 ###### Artículo 175.
 
-Lenocinio
-
-Comete el delito de lenocinio quien:
-
-I. Explote el cuerpo de otra persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
-
-II. Induzca a una persona o la solicite para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que ejerza la prostitución;
-
-III. Regenteé, dirija, patrocine, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos, o
-
-IV. Oculte, concierte o permita el comercio carnal de una persona.
-
-El delito de lenocinio se sancionará con prisión de seis a doce años y de trescientos a mil doscientos días multa.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
@@ -2085,9 +2093,13 @@ Si el autor es pariente de la víctima por consanguinidad en línea recta ascend
 
 ### Capítulo III. Hostigamiento sexual
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ## Título Quinto. Delitos contra la libertad sexual y el normal desarrollo psicosexual
 
 ### Capítulo IV. Acoso sexual
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### Artículo 178.
 
@@ -2123,7 +2135,7 @@ Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se
 
 ### CAPÍTULO V. DE LA DIVULGACIÓN NO CONSENTIDA DE IMÁGENES O VIDEOS ÍNTIMOS O SEXUALES
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### Artículo 180.
 
@@ -2161,9 +2173,9 @@ Si se hace uso de violencia física o psicológica, la pena prevista se aumentar
 
 Agravantes
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2024)</small>
 
-Las penas previstas para la violación, la violación equiparada, el abuso sexual de personas menores de edad y el abuso sexual se aumentarán hasta en una mitad más cuando sean cometidos:
+Las penas previstas para la violación y el abuso sexual se aumentarán hasta en una mitad más cuando sean cometidos:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -2181,13 +2193,23 @@ V. En lugar despoblado o solitario;
 
 VI. Dentro de los centros educativos, culturales, deportivos, religiosos, de trabajo, o cualquier otro de naturaleza social, o se ejecute en inmuebles públicos.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+VII. Cuando el acto se comenta (sic) en un medio de transporte de personas, público o privado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+VIII. Cuando el delito sea cometido en contra de una niña, niño, adolescentes, mujer indígena o rural, persona adulta mayor, o bien la víctima cuente con algún tipo de discapacidad.
+
 ### Capítulo VI. Incesto
 
 ###### Artículo 183.
 
 Hostigamiento sexual
 
-A quien con fines o móviles lascivos asedie reiteradamente a otra persona, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, religiosas, domésticas, o cualquier otra que implique subordinación, se le impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+Se impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+
+A quien con fines o móviles de naturaleza sexual que causen ofensa, humillación o descredito, asedie reiteradamente a otra persona, valiéndose de su posición jerárquica o de poder, generando un ambiente intimidante, hostil u ofensivo, en las relaciones laborales, docentes, religiosas, domésticas, o cualquier otra que implique subordinación.
 
 Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, además de la pena prevista en el párrafo anterior, será destituido e inhabilitado del cargo o empleo por el mismo tiempo de la pena de prisión impuesta.
 
@@ -2203,9 +2225,13 @@ Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, ad
 
 ### Capítulo VII. Reparación del daño
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 185.
 
-Acoso sexual A quien con fines o móviles lascivos asedie reiteradamente a otra persona con la que no exista relación de subordinación, se le impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+Acoso sexual
+
+A quien con fines o móviles de naturaleza sexual asedie reiteradamente a otra persona con la que no exista relación de subordinación, se le impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
 
 ###### Artículo 186.
 
@@ -2221,23 +2247,37 @@ Este delito se perseguirá por querella.
 
 ### Capítulo I. Privación de la libertad personal
 
-###### ARTÍCULO 187.
+###### Artículo 187.
 
-De la divulgación no consentida de imágenes o videos íntimos o sexuales.
+Comete el delito de violación a la intimidad sexual, aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización.
 
-Comete el delito de divulgación no consentida de imágenes o videos íntimos o sexuales, quien por cualquier medio publique, transmita, copie, reproduzca, modifique, emplee, difunda o comparta fotografías, imágenes, audios o videos con contenido sexual de otra persona sin su consentimiento, por medio de aplicaciones tecnológicas de mensajería y/o plataformas digitales de sistema de mensajería instantánea por mensaje cortos, de mensajería multimedia, redes sociales digitales u otro sistema de mensajería, sea cual fuese su denominación. Utilizando dispositivos electrónicos móviles de comunicación por medio de la red de comunicación denominada internet, o a través de las tecnologías de la información y telecomunicación o cualquier otro medio. Se impondrá prisión de tres a seis años, y multa de doscientos hasta mil veces el valor diario de la Unidad de Medida y Actualización.
+Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
 
-Cuando en la publicación o difusión señalada en el párrafo anterior esté involucrado un individuo que tenga relación de parentesco, consanguinidad, afinidad, civil, laboral, política o haya tenido alguna relación sentimental, afectiva o de confianza con la víctima, la pena aumentará hasta en una tercera parte en su mínimo y en su máximo.
+Estas conductas se sancionarán con una pena de tres a seis años de prisión y una multa de quinientas a mil Unidades de Medida y Actualización.
 
-Las penas se aumentarán en una mitad más cuando las fotografías, imágenes, audios con imágenes o videos correspondan a menores de 18 años de edad o personas que no tienen capacidad de comprender el significado del hecho aun con su consentimiento.
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
 
-Cuando exista ánimo lucrativo, hostigamiento, de extorsión y/o para obtener beneficios sexuales para sí o para un tercero; en la revelación del contenido a que se refiere este artículo, la pena de prisión se aumentará hasta en una mitad adicional.
+###### Artículo 187 Bis.
 
-El presente delito procederá a instancia de parte del ofendido o de sus representantes.
+Se impondrán las mismas sanciones previstas en el artículo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
 
-Para efectos de esta disposición se entiende por Video: Como la tecnología de grabación, procesamiento, almacenamiento, transmisión de imágenes y reconstrucción por medios electrónicos digitales o analógicos de una secuencia de imágenes que representan escenas en movimiento.
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
 
-Se entiende como divulgación consentida de imágenes o videos íntimos o sexuales para los efectos de esta disposición, la aceptación expresa manifestada libre y sin presión de ningún tipo, que deberá quedar asentada por cualquier medio o herramienta tecnológica sobre el supuesto contemplado en este artículo.
+###### Artículo 187 Ter.
+
+El mínimo y el máximo de la sanción se aumentará hasta en una mitad:
+
+I.- Cuando el delito sea cometido por el cónyuge, concubinario o concubina, o por cualquier persona con la que la víctima tenga o haya tenido una relación sentimental, afectiva o de confianza;
+
+II.- Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones;
+
+III.- Cuando se cometa contra una persona que no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo;
+
+IV.- Cuando se obtenga algún tipo de beneficio no lucrativo;
+
+V.- Cuando se haga con fines lucrativos, o
+
+VI.- Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
 
 ### Capítulo II. Privación de la libertad con fines sexuales
 
@@ -2253,7 +2293,11 @@ A los hermanos, ascendientes o descendientes consanguíneos en línea recta, que
 
 Reparación del daño
 
-Si a consecuencia de la comisión de alguno de los delitos previstos en este título resultan hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre en los términos previstos por la legislación civil; asimismo, los gastos derivados del embarazo y los médicos tanto para la madre como para el hijo.
+La integralidad de la reparación del daño en los delitos previstos en este título, deberá pagarse de manera preferente e incluir entre otros conceptos, medidas de restitución, rehabilitación, indemnización de daños materiales e inmateriales, medidas de satisfacción simbólica y la garantía de no repetición.
+
+Si de la comisión de estos delitos, resultarán como víctimas colaterales los concebidos, los menores y/o adolescentes, la indemnización comprenderá el pago de alimentos y para el cónyuge supérstite, en los términos que señala la ley civil.
+
+Se deberán considerar como parte de las garantías de no repetición, medidas que eviten riesgos futuros para la víctima.
 
 ## Título Sexto. Delitos contra la libertad personal
 
@@ -2347,9 +2391,13 @@ IV. Hasta en dos terceras partes si espontáneamente se devuelve a la persona me
 
 Violencia familiar
 
-A quien teniendo la calidad de cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, maltrate física o psicoemocionalmente a un miembro de la familia, o cuando exista alienación parental, se le impondrán de uno a cinco años de prisión, pérdida de los derechos que tenga respecto de la víctima por el doble del término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
-Se entiende por Alienación Parental la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
+A quien teniendo la calidad de cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, maltrate física o psicoemocionalmente a un miembro de la familia, se le impondrán de uno a cinco años de prisión, pérdida de los derechos que tenga respecto de la víctima por el doble del término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Cuando el delito sea cometido en contra de una niña, niño o adolescente, mujer indígena o rural, persona adulta mayor, o bien la víctima cuente con algún tipo de discapacidad temporal o permanente, la pena prevista se aumentará de una mitad en su margen mínimo hasta una mitad en su margen máximo.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -2869,15 +2917,43 @@ Se equipara a la violencia moral, la utilización de juguetes u otros objetos qu
 
 Robo de ganado mayor
 
-Comete el delito de robo de ganado mayor, quien se apodere de ganado ajeno vacuno, caballar o mular, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de dos a diez años y con cien a quinientos días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
+Comete el delito de robo de ganado mayor, quien se apodere de ganado ajeno vacuno, caballar o mular, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de cinco a diez años y con cien a quinientos días multa.
 
 Para los efectos de este artículo y el siguiente, el robo de ganado mayor quedará configurado con el apoderamiento de uno o más semovientes.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Se equipará el delito de robo de ganado mayor a quien por propia o interpósita persona, robe, clone, expida, aretes de identificación de ganado, marque, contramarque o contraseñe animales, sin el legítimo derecho de propiedad, a quien expida guías falsas o las haga válida en acto de compra-venta.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Se equipará el delito de robo de ganado mayor de quien por propia o interpósita persona extraiga sin consentimiento de quien legalmente pueda realizarlo, los dispositivos electrónicos de identificación de ganado, así como duplicar, alterar o modificar componentes de dichos dispositivos.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Se equiparará al delito de robo de ganado mayor y se sancionará con la misma pena que este, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
 
 ###### Artículo 231.
 
 Robo de ganado menor
 
-Comete el delito de robo de ganado menor, quien se apodere de ganado ajeno asnar, porcino, o de cualquier otra de las clases no previstas en el artículo anterior, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de uno a seis años y de cincuenta a trescientos días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
+Comete el delito de robo de ganado menor, quien se apodere de ganado ajeno asnar, porcino, o de cualquier otra de las clases consideradas en la legislación dentro de esta categoría, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de dos a seis años y de cincuenta a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Se equipará el delito de robo de ganado menor a quien por propia o interpósita persona robe, clone, expida, aretes de identificación de ganado, marque, contramarque o contraseñe animales, sin el legítimo derecho de propiedad, a quien expida guías falsas o las haga válida en acto de compra-venta.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Se equipará el delito de robo de ganado menor quien por propia o interpósita persona extraiga sin consentimiento de quien legalmente pueda realizarlo, los dispositivos electrónicos de identificación de ganado, así como duplicar, alterar o modificar componentes de dichos dispositivos.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Se equiparará al delito de robo de ganado menor y se sancionará con la misma pena que este, quien por propia o interpósita persona sacrifique ganado sin el consentimiento de quien legalmente pueda otorgarlo.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -5164,3 +5240,33 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 686 POR EL QUE SE REFORMAN LOS ARTÍCULOS 182, 183, 185, 187 Y 189; SE ADICIONAN LOS ARTÍCULOS 187 BIS Y 187 TER Y SE DEROGA EL ARTÍCULO 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499; SE REFORMAN LOS ARTÍCULOS 8, 10, 12 Y 32 DE LA LEY NÚMERO 278 PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO; SE REFORMAN LOS ARTÍCULOS 4º Y 17 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332; SE REFORMA EL ARTÍCULO 18 DE LA LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE; Y SE REFORMAN LOS ARTÍCULOS 1 Y 4 DE LA LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 689 POR EL QUE SE REFORMA LOS ARTÍCULOS 230 Y 231, Y SE ADICIONAN LOS PÁRRAFOS IV, V Y VI AL ARTÍCULO 230, Y LOS PÁRRAFOS III, IV Y V AL ARTÍCULO 231, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
