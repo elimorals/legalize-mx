@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2023-06-06"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1367,9 +1367,11 @@ El Contralor Interno impondrá sanciones administrativas a los servidores públi
 
 Las faltas administrativas en que incurran los servidores públicos de la Fiscalía General que no encuadren en el régimen especial previsto en esta Ley, serán del conocimiento del Órgano Interno de Control en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-La responsabilidad de los servidores públicos
+La responsabilidad de los servidores públicos:
 
 Como una medida para contribuir al correcto funcionamiento del servicio público, se propone un mecanismo que determine y, en su caso, sancione las conductas irregulares en que incurran los servidores públicos en el ejercicio de sus funciones o con motivo de ellas.
 
@@ -1441,7 +1443,13 @@ XXXI. Cumplir con el servicio y las obligaciones que les sean encomendadas;
 
 XXXII. No faltar de manera injustificada, y
 
-XXXIII. Las demás que otros ordenamientos legales prevean.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XXXIII. Abstenerse de realizar acciones o incurrir en omisiones que revictimicen a familiares de víctimas de feminicidio, víctimas de violencia sexual, de género o familiar, o que utilicen estereotipos de género, o que obstaculicen el acceso a la justicia.
+
+(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXXIII]
+
+XXXIV. Las demás que otros ordenamientos legales prevean.
 
 ###### ARTÍCULO 48.
 
@@ -1828,3 +1836,13 @@ SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) s
 TERCERO. La persona titular de la Fiscalía Especializada para la Investigación del Delito de Feminicidio, Homicidio Doloso Cometido en Agravio de Mujeres y demás Personas con Orientación o Preferencia Sexual por Identidad o Expresión de Género, deberá someter a consideración de la Titular de la Fiscalía General del Estado, el Protocolo de Actuación con Perspectiva de Género para la Investigación del Delito de Feminicidio, a más tardar a los treinta días de haber tomado posesión del cargo.
 
 CUARTO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efetos legales procedentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA (SIC), DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
