@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2023-10-16"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -119,13 +119,17 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 En el Estado de San Luis Potosí todas las personas son libres e iguales en dignidad y derechos.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
-La mujer y el hombre son iguales ante la ley. El Estado promoverá la igualdad de oportunidades de las mujeres y los hombres en la vida pública, económica, social y cultural.
+La mujer y el hombre son iguales ante la ley, bajo principio de igualdad consagrado en este precepto, el Estado promoverá la igualdad de oportunidades y condiciones en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social, cultural y en general, todos aquellos que dignifiquen a la persona, por consiguiente, los ordenamientos secundarios deben prever disposiciones que la garanticen, y las autoridades velar por su cumplimiento.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2023)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, la condición de migrante en retorno, o binacional en tránsito; el estado civil, o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+El Estado garantizará el derecho de toda persona a una vida libre de violencia, en especial aquella contra las mujeres motivada por su género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2023)</small>
 
@@ -413,7 +417,7 @@ Toda persona tiene el derecho de acceder a la información sobre sí misma o sus
 
 La Comisión Estatal de Garantía de Acceso a la Información Pública es un organismo especializado, imparcial, y colegiado, responsable de garantizar el derecho de acceso a la información, y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos; y la Ley General que establece las bases, principios generales, y procedimientos del ejercicio de este derecho.
 
-Dependiente de la Comisión Estatal de Garantía de Acceso a la Información Pública habrá un Sistema Estatal de Documentación y Archivos, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de las entidades públicas.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
 La Comisión Estatal de Garantía de Acceso a la Información Pública estará integrada por tres comisionados numerarios; y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
 
@@ -575,21 +579,27 @@ III.- Ejercer individual y libremente el derecho de asociarse y reunirse para to
 
 IV.- Las demás que les confieren la presente Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-Las prerrogativas de los ciudadanos potosinos se suspenden:
+Las prerrogativas de las personas ciudadanas potosinas se suspenden por:
 
-I.- Cuando dejen de cumplir, sin causa justificada, cualquiera de las obligaciones que establece el artículo 25 de esta Constitución. En este caso la suspensión será de un año y sin perjuicio de las penas que por los mismos hechos señale la ley, y en su caso, lo previsto en el tercer párrafo del artículo 132 de esta Constitución;
+I. Dejar de cumplir, sin causa justificada, cualquiera de las obligaciones que establece el artículo 25 de esta Constitución. En este caso la suspensión será de un año y sin perjuicio de las penas que por los mismos hechos señale la ley;
 
-II.- Si han sido condenados por delito que merezca pena privativa de libertad, desde la fecha en que la sentencia quede firme, hasta su cumplimiento;
+II. Estar en el supuesto que señala el párrafo tercero del artículo 132 de esta Constitución;
 
-III.- Por encontrarse prófugos de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;
+III. Tener sentencia condenatoria que haya causado estado, por los delitos de violencia familiar, contra las mujeres por razón de género, contra la libertad sexual, la seguridad sexual, o contra el normal desarrollo psicosexual;
 
-IV.- Por incapacidad legal declarada en sentencia firme que imponga como pena esta suspensión; y
+IV. Haber sido declarada como persona deudora alimentaria morosa;
 
-V.- En los demás casos que señalen la Constitución Política de los Estados Unidos Mexicanos y las leyes.
+V. Por encontrarse prófuga de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;
+
+VI. Por incapacidad legal declarada en sentencia firme que imponga como pena esta suspensión, y
+
+VII. En los demás casos que señalen la Constitución Política de los Estados Unidos Mexicanos y las leyes.
+
+En los supuestos de las fracciones, III, y IV, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3690,5 +3700,29 @@ P.O. 16 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0854.- SE REFORMAN LOS ARTÍCULOS 46, 73, 99 Y 117, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1012.- SE DEROGA DEL ARTÍCULO 17 EN SU FRACCIÓN III EL PÁRRAFO CUARTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial de (sic) Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1013.- SE REFORMA EL ARTÍCULO 27, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1016.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8°; Y ADICIONA EL PÁRRAFO CUARTO AL MISMO ARTÍCULO 8°, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
