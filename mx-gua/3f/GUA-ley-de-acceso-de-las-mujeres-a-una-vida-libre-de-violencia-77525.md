@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2023-11-20"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE MARZO DE 2024.]</small>
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -1813,4 +1813,6 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-Artículo Segundo. Las personas titulares de la Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato, de la Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato y de la Secretaría de Desarrollo Económico Sustentable, se integrarán al Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2024)</small>
+
+Artículo Segundo. Las personas titulares de la Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato, de la Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato de la Secretaría de Desarrollo Económico Sustentable y del Instituto Electoral del Estado de Guanajuato, se integrarán al Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
