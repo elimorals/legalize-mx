@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-812-para-la-proteccion-de-los-derechos-de-ninas-1102
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2023-11-14"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 09 de octubre de 2015.
 
@@ -112,6 +112,12 @@ VIII. Consejo Guerrerense para el Desarrollo Social: Consejo Guerrerense para el
 IX. Constitución Federal: A la Constitución Política de los Estados Unidos Mexicanos;
 
 X. Constitución del Estado: A la Constitución Política del Estado Libre y Soberano de Guerrero;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+X Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones.
+
+Las prácticas de la crianza positiva serán sin recurrir a castigos físicos ni a tratos crueles y humillantes, salvaguardando el interés superior de la niñez.
 
 XI. Ley: A la presente Ley;
 
@@ -328,6 +334,14 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso, y;
 XIX. Derechos de niñas, niños o adolescentes migrantes
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XXI. Derecho a la alimentación nutritiva.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XXII. Derecho al acceso a la justicia, la verdad, la reparación integral del daño y la garantía de no repetición al ser víctimas directas o indirectas de un delito.
 
 El Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -609,9 +623,11 @@ El Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas com
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 43.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, una crianza positiva, con un enfoque de derechos humanos. Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 ###### Artículo 44.
 
@@ -640,6 +656,22 @@ V. El trabajo antes de la edad mínima de quince años, prevista en el artículo
 VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones aplicables, y;
 
 VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+VIII. El castigo corporal y humillante.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VIII, P.O. 12 DE MARZO DE 2024]</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o quienes ejerzan la patria potestad, tutela o guarda y custodia, los encargados y personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que les brinde asistencia, sin que se autorice el uso del castigo corporal, humillante, degradante o agraviante.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VIII, P.O. 12 DE MARZO DE 2024]</small>
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes utilizando la fuerza física, emocional, personal, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, daño, agravio, aunque sea leve.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VIII, P.O. 12 DE MARZO DE 2024]</small>
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador, de menosprecio, u otros similares que tengan como objetivo provocar dolor, amenaza, degradación, molestia, humillación, atente contra su autoestima; cometido en contra de niñas, niños y adolescentes.
 
 Las autoridades del Estado y de los Municipios deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -1165,19 +1197,53 @@ Para garantizar de forma prioritaria la asistencia social y protección consular
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### Capítulo Primero. De las Autoridades del Estado y Municipales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2024)</small>
 
-### Capítulo Segundo. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+### Capítulo vigésimo.. Del derecho a la alimentación nutritiva
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+###### Artículo 99 Bis.
+
+Las niñas, niños y adolescentes tienen derecho a la alimentación cuantitativa y cualitativamente adecuada, suficiente, acorde a su edad, de conformidad con los recursos, cultura, prácticas alimentarias de su entorno cultural, familiar, social, a recibir educación nutricional.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+###### Artículo 99 Ter.
+
+Quienes ejerzan la patria potestad, tutela, guarda y custodia o cuidados de niñas, niños y adolescentes garantizarán este derecho, fomentarán su alimentación saludable, equilibrada, suficiente y nutritiva.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+###### Artículo 99 Quáter.
+
+Todas las autoridades, en términos de lo dispuesto por esta Ley, y las leyes de Salud, están obligadas a diseñar, implementar y evaluar programas y políticas públicas que garanticen a niñas, niños y adolescentes el derecho a la alimentación nutritiva.
+
+Se coordinarán y coadyuvarán para cumplir la presente Ley, en el ámbito de su competencia ejecutarán políticas públicas y preverán que sus presupuestos a niñas, niños y adolescentes el derecho a la alimentación nutritiva.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE MARZO DE 2024)</small>
+
+### Capitulo Vigésimo Primero
+
+Derecho al acceso a la justicia, la verdad, la reparación integral del daño y la garantía de no repetición al ser víctimas directas o indirectas de un delito.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+###### Articulo 99 Quinquies.
+
+Es deber de toda autoridad al análisis de evaluación de riesgo, daño, peligro, exposición y otras similares en que es dañada la persona, realizado por personal especializado en la materia, de manera objetiva, imparcial y neutral; ante lo que deberá disponer de medidas proporcionales, individualizado, diferenciado, por cada víctima, sea directa o indirecta.
+
+La respuesta será de protección, para prevenir, investigar, sancionar, restablecer y reparar; de forma inmediata, completa, oportuna, proporcional, asequible y total.
 
 ## Título Tercero. De las Obligaciones
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Primero. De las Autoridades del Estado y Municipales
 
 ###### Artículo 100.
 
 El Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
 
-### Capítulo Primero. De las Autoridades Estatales, Municipales y Organismos Constitucionales Autónomos del Estado
+### Capítulo Segundo. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ###### Artículo 101.
 
@@ -1209,7 +1275,9 @@ X. Considerar la opinión y preferencia de niñas, niños y adolescentes para la
 
 XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
-XII. Tratar a niñas, los niños y los adolescentes con respeto a su dignidad y a sus derechos.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XII. Tratar a niñas, los niños y los adolescentes con respeto a su dignidad y a sus derechos, orientarlos, disciplinarlos sin castigos o formas agresivas; criarlos de manera positiva, con ejemplos, libre, saludable, amorosa, armoniosa y respetuosa.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1251,7 +1319,9 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, y;
 
-III. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+III. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, estando prohibidos los castigos, especialmente los de tipo corporal, humillantes, degradantes, inhumanos o cualquiera que genere daño.
 
 ###### Artículo 108.
 
@@ -1267,7 +1337,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## Título Cuarto. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guerrero y de las Procuradurías de Protección Regionales
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 109.
 
@@ -1287,13 +1357,19 @@ Niñas, niños o adolescentes deberá contar con expediente completo para efecto
 
 De igual manera se le deberá garantizar la protección de sus datos personales conforme a la Ley de Transparencia y Acceso a la Información del Estado de Guerrero y hacer de su conocimiento en todo momento su situación legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 112.
 
-Los centros de asistencia social deben contar, por lo menos, con el siguiente personal:
+Los Centros de asistencia social deben contar, por lo menos, con el siguiente personal:
 
 I. Responsable de la coordinación o dirección;
 
 II. Especializado en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica y actividades de orientación social y de promoción de la cultura de protección civil, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+II Bis. Profesional certificado en psicología infantil con experiencia en el manejo de trauma infantil, abuso sexual, herida por abandono, manejo de la ira, desarrollo de habilidades sociales, teoría del apego, entre otras, para restaurar la personalidad integral y la regulación emocional de las Niñas, Niños y Adolescentes.
 
 III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar con por lo menos una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad;
 
@@ -1303,9 +1379,19 @@ V. Brindar, de manera permanente, capacitación y formación especializada a su 
 
 VI. Supervisar y evaluar de manera periódica a su personal.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+###### Artículo 112 Bis.
+
+Cada centro de asistencia social público o privado deberá contar y mantener actualizado, un registro del personal que labora en el mismo, incluyendo al titular, y/o representante legal. Dicho registro deberá contener además de los documentos personales que se requieren para formalizar una relación laboral, una ficha curricular en la cual señale su domicilio, sus antecedentes laborales, su formación académica y capacitación donde se acredite su preparación, para desarrollar las funciones encomendadas directamente con la atención y cuidado a niñas niños y adolescentes, de igual forma a dicho expediente se deberá integrar la carta de antecedentes no penales en la materia, la cual deberá actualizarse cada año.
+
+Este registro se hará del conocimiento de la Procuraduría de Protección de Protección de Niñas, Niños y Adolescentes del Estado de Guerrero, en los términos de las fracciones VI y VII del Artículo 113 de la Ley 812 para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guerreo (sic).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 113.
 
-Son obligaciones de los titulares o responsables legales de los centros de asistencia social:
+Son Obligaciones de los titulares o responsables legales de los centros de asistencia social:
 
 I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Estatal de centros de asistencia social del Sistema Estatal DIF;
 
@@ -1316,6 +1402,10 @@ III. Asegurar que las instalaciones tengan en lugar visible, la constancia de re
 IV. Garantizar que el centro de asistencia social cuente con un reglamento interno, aprobado por el Sistema Estatal del DIF;
 
 V. Contar con un Programa Interno de Protección Civil en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+V Bis. Asegurar que las instalaciones de los centros de asistencia social cuenten con un sistema de monitoreo digital permanente, para prevenir la violencia y abuso de las Niñas, Niños y Adolescentes.
 
 VI. Brindar las facilidades a las Procuradurías de Protección del Estado o Regionales para que realicen la verificación periódica que corresponda en términos de las disposiciones aplicables; y en su caso, atender sus recomendaciones;
 
@@ -1329,23 +1419,25 @@ X. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades co
 
 XI. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 114.
 
 La Procuraduría de Protección del Estado en coordinación con la Procuraduría Federal, serán las autoridades competentes para autorizar, registrar, certificar y supervisar los centros de asistencia social destinados a brindar los servicios descritos en el presente capítulo, para lo cual conformarán el Registro Estatal y Nacional de los Centros de Asistencia Social.
 
-Al efecto, la Procuraduría de Protección del Estado de Guerrero, deberá reportar semestralmente a la Procuraduría de Protección Federal, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
-
-El Registro Nacional a que hace referencia este artículo deberá ser público y consultable en la página de internet del Sistema Nacional del DIF.
+Al efecto, la Procuraduría de Protección del Estado de Guerrero, deberá reportar semestralmente a la Procuraduría de Protección Federal, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes, que serán igualmente remitidos al Congreso del Estado de Guerrero, por conducto de la Comisión de Derechos de niñas, niños y adolescentes.
 
 ###### Artículo 115.
 
 Sin perjuicio de las atribuciones que las disposiciones aplicables establezcan a otras autoridades, corresponderá a las Procuradurías de Protección, la supervisión de los centros de asistencia social y, en su caso, ejercitarán las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables.
 
-La Procuraduría de Protección del Estado de Guerrero será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en materia de asistencia social.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MARZO DE 2024)</small>
+
+La Procuraduría de Protección del Estado de Guerrero, tiene como responsabilidad la verificación, autenticidad, calificación y preparación del personal que atiende en los centros de asistencia social.
 
 ## Título Quinto. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Tercero. Del Sistema Estatal de Protección Integral
+### Capítulo Primero. De las Autoridades Estatales, Municipales y Organismos Constitucionales Autónomos del Estado
 
 ###### Artículo 116.
 
@@ -1491,7 +1583,7 @@ V. Prestar apoyo y colaboración técnica y administrativa en las materias regul
 
 VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Cuarto. De los Sistemas Municipales de Protección Integral
+### Capítulo Segundo. De la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guerrero y de las Procuradurías de Protección Regionales
 
 ###### Artículo 122.
 
@@ -1589,7 +1681,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 El nombramiento de los titulares de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado y de las Procuradurías de Protección Regionales deberá ser aprobado por la Junta de Gobierno del Sistema Estatal del DIF, a propuesta de su Titular; al igual que su remoción.
 
-### Capítulo Quinto. Del Órgano Autónomo de Protección de los Derechos Humanos de Niñas, Niños y Adolescentes
+### Capítulo Tercero. Del Sistema Estatal de Protección Integral
 
 #### Sección Primera. De los Integrantes
 
@@ -1811,7 +1903,7 @@ De acuerdo con los resultados de las evaluaciones, el Consejo Guerrerense para e
 
 Los resultados de las evaluaciones de la política estatal serán entregados al H. Congreso del Estado de Guerrero.
 
-### Capítulo Sexto. Del Programa Estatal y de los Programas Regionales
+### Capítulo Cuarto. De los Sistemas Municipales de Protección Integral
 
 ###### Artículo 137.
 
@@ -1831,11 +1923,13 @@ Las instancias a que se refiere el presente artículo coordinará a los servidor
 
 Las instancias a que se refiere este artículo deberán ejercer, sin perjuicio de otras que dispongan las leyes del Estado, las atribuciones previstas en el artículo 120 de esta Ley.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Quinto. Del Órgano Autónomo de Protección de los Derechos Humanos de Niñas, Niños y Adolescentes
 
 ###### Artículo 140.
 
 La Comisión de los Derechos Humanos del Estado de Guerrero, deberá establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+### Capítulo Sexto. Del Programa Estatal y de los Programas Regionales
 
 ###### Artículo 141.
 
@@ -1858,6 +1952,8 @@ El Programa Estatal deberá incluir mecanismos transparentes que permitan su eva
 El Sistema Estatal y Sistemas Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación del Programa Estatal y Programas Regionales.
 
 ## Título Sexto. De las Infracciones Administrativas
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 146.
 
@@ -2020,3 +2116,33 @@ PRIMERO.- El presente Decreto entrará en vigor a los diez días siguientes de s
 SEGUNDO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la Página Web Oficial de este Honorable Congreso, para su conocimiento general.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 684 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, PARA LA INCORPORACIÓN DE LA CRIANZA POSITIVA, LA PROHIBICIÓN DE IMPONER CASTIGOS CORPORALES Y HUMILLANTES, Y EL DERECHO A LA ALIMENTACIÓN NUTRITIVA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a los diez días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la Página Web Oficial de este Honorable Congreso, para su conocimiento general.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 685 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, PARA LA INCORPORACIÓN DE DISPOSICIONES PARA CERTIFICAR AL PERSONAL EN LOS CENTROS DE ASISTENCIA; CONTAR CON UNA FICHA TÉCNICA; Y UN SISTEMA DE MONITOREO DIGITAL, PARA PREVENIR VIOLENCIAS".]
+
+PRIMERO.- El presente Decreto entrará en vigor a los diez días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la Página Web Oficial de este Honorable Congreso, para su conocimiento general.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
