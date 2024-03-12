@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-278-para-la-prevencion-social-de-la-violencia-y-1424
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-24"
-last_updated: "2020-01-24"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 278 PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Alcance III del Número 7 del Periódico Oficial del Estado de Guerrero, el viernes 24 de enero de 2020.
 
@@ -143,6 +143,8 @@ IV. Psicosocial.
 
 #### SECCIÓN PRIMERA. ÁMBITO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 8.
 
 La prevención en el ámbito social comprende la implementación de políticas públicas para reducir los factores y condiciones sociales, la cual se llevará a cabo mediante:
@@ -151,7 +153,9 @@ I. Programas integrales e incluyentes de desarrollo social, cultural y económic
 
 II. La promoción de actividades que eliminen la marginación y la exclusión;
 
-III. Programas específicos enfocados a las familias, hombres, mujeres, niños, niñas, adolescentes y comunidades en condiciones de vulnerabilidad;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+III. Programas específicos enfocados a las familias, hombres, mujeres, niños, niñas, adolescentes y comunidades en condiciones de vulnerabilidad; principalmente enfocados a la erradicación de las violencias familiar, de género y sexual.
 
 IV. El fomento a la solución pacífica y civilizada de conflictos a través de la mediación y la conciliación;
 
@@ -164,6 +168,10 @@ VII. Fomento a la cultura de paz;
 VIII. La prevención de adicciones entre niños, niñas, adolescentes y adultos; y
 
 IX. Las políticas públicas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo integral en los grupos vulnerables o en situación de riesgo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+X. La construcción de políticas públicas del orden municipal y estatal, medidas de identificación y prevención de la violencia sexual en el ámbito social, comunitaria (sic), situacional; así como como el en (sic) ámbito psicosocial.
 
 #### SECCIÓN SEGUNDA. ÁMBITO COMUNITARIO
 
@@ -187,11 +195,17 @@ VII. La participación de observatorios ciudadanos.
 
 #### SECCIÓN TERCERA. ÁMBITO SITUACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 10.
 
 La prevención en el ámbito situacional consiste en modificar el entorno para propiciar la convivencia y la cohesión social, así como, disminuir los factores de riesgo que facilitan fenómenos de violencia y de incidencia delictiva, mediante:
 
-I. El mejoramiento y regulación del desarrollo urbano, rural, ambiental y el diseño industrial, incluidos los sistemas de transporte público y de vigilancia;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+I. El mejoramiento y regulación del desarrollo urbano, rural, ambiental y el diseño industrial, incluidos los sistemas de transporte público y de vigilancia,
+
+La prevención de la violencia contra la mujer debe ser un elemento explícito en la planificación urbana y rural y en el diseño de los edificios y residencias; así como en el mejoramiento del transporte público.
 
 II. La mejora y modificación de las condiciones físicas que aumenten el riesgo a la ocurrencia de delitos y violencia;
 
@@ -206,6 +220,10 @@ VI. La vigilancia respetando los derechos a la intimidad y a la privacidad;
 VII. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia; y
 
 VIII. La aplicación de estrategias para garantizar la no repetición de casos de victimización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+IX. La detección de los lugares peligrosos, examinar los temores de las mujeres y solicitar a las mujeres sus recomendaciones para mejorar su seguridad.
 
 #### SECCIÓN CUARTA. ÁMBITO PSICOSOCIAL
 
@@ -223,11 +241,15 @@ IV. El fortalecimiento de las capacidades institucionales que asegure la sosteni
 
 ### CAPÍTULO SEGUNDO. DE LA ATENCIÓN A LAS VÍCTIMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 12.
 
 El acceso a la justicia y la atención integral a las víctimas de la violencia o la delincuencia, debe considerar la asistencia, protección, reparación del daño y prevención de la doble victimización, a través de:
 
-I. La atención inmediata y efectiva a víctimas de delitos, en términos del impacto emocional y el proceso legal, velando por sus derechos y su seguridad en forma prioritaria;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+I. La atención inmediata y efectiva a víctimas de delitos, en términos del impacto emocional y el proceso legal, velando por sus derechos y su seguridad en forma prioritaria, la cual deberá implementare (sic) desde un enfoque diferencial para mujeres, niños, niñas, adolescentes, comunidades o pueblos originarios y otros grupos vulnerables;
 
 II. La atención psicológica especializada, inmediata y subsecuente realizada por profesionales considerando diferentes modalidades terapéuticas;
 
@@ -235,9 +257,15 @@ III. La atención específica e integral a grupos especialmente vulnerables a de
 
 IV. Brindar respuestas a las peticiones o solicitudes de intervención presentadas por las víctimas de la violencia y la delincuencia, a través de los mecanismos creados para ese fin;
 
-V. La reparación integral del daño que incluye el reconocimiento público, la reparación del daño moral y material, y las garantías de no repetición; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+V. La reparación integral del daño que incluye el reconocimiento público, medidas de restitución, rehabilitación, indemnización de daños materiales e inmateriales, medidas de satisfacción simbólica y la garantía de no repetición;
 
 VI. La observancia de la normatividad vigente en la materia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+VII. Implementar el diseño de medidas y políticas de atención en concordancia con la política nacional de atención integral a víctimas, para la adecuada atención y protección a las víctimas, tomando en consideración las políticas diseñadas para el efecto por el Sistema Nacional de Atención a Víctimas y el Sistema Estatal de Víctimas.
 
 ## TÍTULO CUARTO. DE LAS INSTANCIAS DE COORDINACIÓN
 
@@ -573,6 +601,8 @@ XXII. Las demás que instruya el Comité Estatal y las disposiciones legales de 
 
 El Programa Estatal es el documento programático que articula las estrategias institucionales y líneas de acción de la Federación, Estado y los municipios que inciden en la prevención social de la violencia y la delincuencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 32.
 
 El Programa Estatal deberá contribuir al objetivo general de proveer a las personas libertad, seguridad y justicia, con base en metas establecidas precisas, claras y medibles, a través de:
@@ -596,6 +626,10 @@ VIII. Los mecanismos para hacer efectiva la participación ciudadana y comunitar
 IX. El desarrollo de estrategias diversas de prevención social de la violencia y la delincuencia; y,
 
 X. El control, monitoreo y evaluación permanente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+XI. Crear medidas de identificación y prevención de la violencia sexual en el ámbito social, comunitario, situacional; así como como el en (sic) ámbito psicosocial.
 
 ### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
 
@@ -748,3 +782,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
