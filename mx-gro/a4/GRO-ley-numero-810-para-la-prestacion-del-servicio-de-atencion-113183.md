@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-810-para-la-prestacion-del-servicio-de-atencion-1131
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-29"
-last_updated: "2015-05-29"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Alcance III del Periódico Oficial del Estado de Guerrero, el viernes 29 de mayo de 2015.
 
@@ -99,6 +99,10 @@ Cuidado y atención infantil: Acciones tendentes a preservar y favorecer condici
 
 Desarrollo integral infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional, social y espiritualmente, en condiciones de igualdad;
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Interés superior de las niñas, niños y adolescentes. Conjunto de acciones y procesos tendientes a garantizar un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible, en términos de lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos.
+
 Ley: Ley para la Prestación del Servicio de Atención, Cuidado y Desarrollo Integral Infantil para el Estado de Guerrero;
 
 Ley general: A la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
@@ -106,6 +110,10 @@ Ley general: A la Ley General de Prestación de Servicios para la Atención, Cui
 Medidas precautorias: Aquéllas que con motivo de la prestación de los servicios para la atención, cuidado y desarrollo integral infantil emitan las autoridades competentes, organismos y organizaciones calificadas, de conformidad con la presente Ley, para salvaguardar y proteger la vida y la integridad de niñas y niños;
 
 Modalidades, niveles y tipos: A las modalidades, los niveles y los tipos de servicio de atención, cuidado y desarrollo integral infantil que refiere la presente Ley;
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Perspectiva de género. Aquellas herramientas o métodos que permiten detectar y eliminar las barreras u obstáculos que discriminan a las personas por condición de género.
 
 Política pública: A la política del servicio para la atención, cuidado y desarrollo integral infantil del Estado de Guerrero;
 
@@ -175,7 +183,9 @@ II. Aplicación, supervisión e inspección, verificación y aseguramiento efica
 
 III. Fomento al cuidado de la salud integral;
 
-IV. Atención médica en caso de urgencia, la cual podrá brindarse en el centro de atención o a través de instituciones de salud públicas, sociales o privadas, fiables y calificadas;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+IV. Atención médica urgente e integral, para garantizar la salud física y mental, la cual podrá brindarse en el centro de atención o a través de instituciones de salud públicas, sociales o privadas, fiables y calificadas;
 
 V. Alimentación adecuada, suficiente y que garantice su nutrición;
 
@@ -673,6 +683,10 @@ VII. Informar y apoyar a los padres, tutores o quien tenga la custodia o la resp
 
 VIII. Vigilar que las niñas y niños a su cuidado estén al corriente de sus vacunas.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+Todos los centros de atención deberán contar con mecanismos de seguridad y verificación de procesos para evitar y prevenir que dentro de los mismos centros se presenten casos de violencia.
+
 ###### Artículo 54.
 
 Los centros de atención podrán admitir a niñas y niños con discapacidad no dependiente, en términos de su reglamento. Para lo cual, el prestador del servicio deberá contar con áreas físicas, instalaciones, mobiliario y equipo adecuado que permita la estancia, permanencia y desarrollo integral de la niña o niño con discapacidad.
@@ -1024,3 +1038,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
