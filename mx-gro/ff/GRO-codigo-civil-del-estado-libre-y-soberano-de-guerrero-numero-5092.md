@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2023-12-15"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -42,6 +42,10 @@ Disposiciones Generales
 ###### Artículo 1.
 
 Las disposiciones de este Código regirán, en el Estado de Guerrero, las situaciones y relaciones civiles de derecho común, no sometidas a las leyes federales y serán supletorias, en lo conducente, de las otras leyes del Estado, salvo disposición en contrario.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+En todos los casos se aplicarán obligatoriamente los principios de interés superior de las niñas, niños y adolescentes, perspectiva de género, condiciones de vulnerabilidad, origen étnico, sus características y necesidades especiales.
 
 ###### Artículo 2.
 
@@ -3811,9 +3815,9 @@ II. En los casos de divorcio, teniendo en cuenta lo que dispone el articulo 36 d
 
 III. Cuando por la conducta irresponsable de quien ejerza la patria potestad o por el abandono de sus deberes pudiera comprometerse la seguridad o la salud física o mental de los menores, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-IV. En los casos en que se dicte sentencia por el delito de violencia familiar, violencia vicaria, trata de personas, lesiones que pongan en peligro la vida del menor o delitos contra la libertad sexual por parte de quien ejerza la patria potestad o por la tolerancia para que otras personas lo hagan; y
+IV. En los casos en que se dicte sentencia por el delito de violencia familiar, feminicidio, feminicidio en grado de tentativa, trata de personas, lesiones que pongan en peligro la vida del menor o delitos contra la libertad sexual por parte de quien ejerza la patria potestad o por la tolerancia para que otras personas lo hagan.
 
 V. Por la exposición del menor que hiciere la persona que tenga a su cargo el ejercicio de la patria potestad; o porque le deje abandonado por más de seis meses, si quedare a cargo de alguna persona; y por más de un día si al abandonarlo, el hijo no hubiere quedado al cuidado de persona alguna.
 
@@ -16066,3 +16070,13 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
