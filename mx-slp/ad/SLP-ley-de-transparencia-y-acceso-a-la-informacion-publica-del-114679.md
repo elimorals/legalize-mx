@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2024-02-20"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -801,19 +801,29 @@ Para la valoración de la persona titular del órgano interno de control que bus
 
 #### Sección Cuarta. Del Consejo Consultivo de la CEGAIP
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
-La CEGAIP, tendrá un Consejo Consultivo, integrado por Cinco consejeros honoríficos que durarán en su encargo cinco años.
+La CEGAIP tendrá un Consejo Consultivo honorifico integrado por cinco consejeras y consejeros, quienes durarán en su encargo cinco años.
 
 El Congreso del Estado, previa realización de una amplia consulta a la sociedad, a través de una convocatoria pública dirigida a instituciones académicas, de investigación, asociaciones, colegios de profesionales y la sociedad en general, llevará a cabo la elección del Consejo, con el voto de las dos terceras partes de sus miembros presentes.
 
-El Congreso del Estado determinará los métodos internos de proposición de nombramiento de los consejeros a los órganos competentes de dicho poder legislativo.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
-En la integración del Consejo Consultivo se deberá garantizar la igualdad de género y la inclusión de personas con experiencia en las materias de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+El Congreso del Estado determinará el procedimiento que deberá seguir para proponer al Pleno, las candidaturas para integrar el Consejo.
 
-El Congreso del Estado establecerá el procedimiento para que el nombramiento de los consejeros se realice considerando, además de los elementos señalados en este artículo, que el método de proposición y designación sea transparente.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
-En caso de falta absoluta de cualquier integrante del Consejo Consultivo, el Consejero Presidente lo notificará inmediatamente al Congreso del Estado.
+En la integración del Consejo Consultivo se deberá garantizar la paridad de género y la inclusión de personas con experiencia en las materias de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
+El Congreso del Estado establecerá el procedimiento para que el nombramiento de consejeras y consejeros se realice considerando, además de los elementos señalados en este artículo, que el método de proposición y elección sea transparente.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
+En caso de falta absoluta de cualquier integrante del Consejo Consultivo, la Consejera o el Consejero que lo presida lo notificará inmediatamente al Congreso del Estado para que proceda a cubrir la vacante de acuerdo al procedimiento establecido en este artículo.
 
 ###### ARTÍCULO 43.
 
@@ -3392,3 +3402,11 @@ SEGUNDO. La Junta Gobierno del Archivo General del Estado deberá expedir su Reg
 TERCERO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá entregar al Archivo General del Estado y, al Archivo Histórico del Estado, en su caso, conforme a la competencia de cada uno de éstos, las copias de inventarios de expedientes, así como los documentos de archivo, y demás instrumentos que haya recibido, administrado o generado en ejercicio de su función como autoridad en materia de archivos.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1015.- SE REFORMA EL ARTÍCULO 42 EN SUS PÁRRAFOS PRIMERO, TERCERO, CUARTO, QUINTO Y SEXTO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
