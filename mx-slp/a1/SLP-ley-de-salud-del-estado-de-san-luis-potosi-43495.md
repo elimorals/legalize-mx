@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-12-20"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1527,15 +1527,25 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 En el caso en que exista convenio entre el Ejecutivo del Estado y el Ejecutivo Federal, en materia de registro profesional y expedición de cédulas profesionales, el Ejecutivo Estatal cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 71.
 
-Quienes ejerzan en forma pública o privada las actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado de la licenciatura y la especialidad respectivamente, y, en su caso, el número de su correspondiente cédula profesional; además, el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitarán la opinión de la Secretaría de Salud. Si se tratare del registro de certificados de especialidades médicas o del registro de la recertificación de éstas, las autoridades ya señaladas también deberán solicitar la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
+Quienes ejerzan en forma pública o privada las actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado de la licenciatura y la especialidad, respectivamente, y, en su caso, el número de cédula profesional, el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud.
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2019)</small>
+Estas menciones también deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-Así mismo, deberá estar a la vista de los pacientes el documento del título, diploma o certificado de la licenciatura; y en caso de ejercer especialidades o subespecialidades, también el documento de la certificación o recertificación correspondiente.
+Si se tratare del registro de certificados de especialidades médicas o del registro de la recertificación de éstas, las academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, también deberán solicitar la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
+
+Asimismo, deberán estar a la vista de los pacientes los siguientes documentos:
+
+I. El título, diploma o certificado de la licenciatura;
+
+II. En caso de ejercer especialidades o subespecialidades, el certificado o documento que acredite la recertificación;
+
+III. El número de cédula profesional, y en su caso, de cédula de especialidad, y
+
+IV. El registro de certificados de especialización.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1567,9 +1577,53 @@ Para efectos de la validez a que alude la fracción IV, debe acreditarse la rece
 
 ARTICULO 71 QUINQUE. Las personas que ejerzan en forma pública y/o privada la enfermería, deberán contar con certificación vigente otorgada por organismos debidamente reconocidos por la autoridad en materia de educación superior, así como por las autoridades federales y estatales sanitarias, en los términos que correspondan.
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
+ARTICULO 71 SEXIES. La emisión de los diplomas de especialidades médicas corresponde a las instituciones de educación superior y de salud oficialmente reconocidas ante las autoridades correspondientes.
+
+Para la realización de los procedimientos médicos quirúrgicos de especialidad se requiere que el especialista haya sido entrenado para la realización de los mismos en instituciones de salud oficialmente reconocidas ante las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 71 SEPTIES. El Comité Normativo Nacional de Consejos de Especialidades Médicas, conforme a la normativa federal, es el organismo facultado para supervisar el entrenamiento, habilidades, destrezas y calificación de la pericia que se requiere para la certificación y recertificación de la misma en las diferentes especialidades de la medicina reconocidas por el Comité y en las instituciones de salud oficialmente reconocidas ante las autoridades correspondientes.
+
+Los Consejos de Especialidades Médicas que tengan la declaratoria de idoneidad y que estén reconocidos por el Comité Normativo Nacional de Consejos de Especialidades Médicas, constituido por la Academia Nacional de Medicina de México, la Academia Mexicana de Cirugía y los Consejos de Especialidad miembros, están facultados para expedir certificados de su respectiva especialidad médica.
+
+Para la expedición de la cédula de médico especialista las autoridades educativas competentes solicitarán la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2024)</small>
+
+### CAPITULO II. Ejercicio Especializado de la Cirugía
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 71 OCTIES. Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren además de los requisitos señalados en el artículo anterior:
+
+I. Cédula de especialista legalmente expedida por las autoridades educativas competentes, y
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, aceptadas como adecuadas para tratar a un paciente en el momento de que se trata, de acuerdo con cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con los artículos 71 Sexties y Septies de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 71 NONIES. Los médicos especialistas podrán pertenecer a una agrupación médica, cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad; agrupaciones que se encargan de garantizar el profesionalismo y ética de los expertos en esta práctica de la medicina.
+
+El Comité Normativo Nacional de Consejos de Especialidades Médicas y los Consejos de Especialidades Médicas para la aplicación del presente artículo y lo dispuesto en el Título Cuarto de la presente Ley, se sujetarán a las disposiciones que emita la Secretaría de Salud.
+
+Para efectos de la validez a que alude la fracción II del artículo anterior, debe acreditarse la recertificación cada cinco años.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 71 DECIES. La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 71 Octies de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 71 UNDECIES. La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 71 Quáter, 71 Octies, 71 Decies de esta Ley y lo previsto por el Capítulo Único del Título Décimo Tercero de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 71 DUODECIES. Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
+
+### CAPITULO III. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 72.
 
@@ -1597,9 +1651,7 @@ Para los efectos del párrafo anterior el Ejecutivo del Estado, por conducto de 
 
 La Secretaría de Salud del Estado, y las instituciones de educación superior, elaborarán programas de carácter social que incorporen la perspectiva de género para las personas profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+### CAPITULO IV. Formación, Capacitación y Actualización del Personal
 
 ###### ARTICULO 77.
 
@@ -1660,6 +1712,8 @@ La operación de los programas correspondientes en los establecimientos de salud
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 82.
 
@@ -1743,9 +1797,7 @@ En cualquier tratamiento de una persona enferma el médico podrá utilizar nuevo
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 88.
 
@@ -1767,9 +1819,9 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 90.
 
@@ -1807,9 +1859,9 @@ III. Fomento sanitario, y
 
 IV Programas tendientes a erradicar la discriminación y la violencia de género.
 
-### CAPITULO III. Nutrición
+### CAPITULO II. Educación para la Salud
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 92.
 
@@ -1849,7 +1901,9 @@ La Secretaría de Salud, en coordinación con la Secretaría de Educación, form
 
 Tratándose de las comunidades indígenas, los programas a que se refiere este artículo, deberán difundirse en español, y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 94.
 
@@ -1939,7 +1993,7 @@ X. Elaborar un expediente de la víctima que contenga datos desagregados por eda
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 97.
 
@@ -1975,7 +2029,7 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 102.
 
@@ -1991,7 +2045,7 @@ II. Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de co
 
 III. Coordinar los programas y actividades que establezca la autoridad federal de la materia, para la prevención, atención, control y erradicación de enfermedades, violencia de género y accidentes.
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 103.
 
@@ -2159,7 +2213,7 @@ El transporte de enfermos infectocontagiosos deberá efectuarse en vehículos ac
 
 La Secretaría de Salud del Estado determinará los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
 
-### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 118.
 
@@ -2183,7 +2237,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria competente les requiera, acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO V. Organización de los Servicios de Salud
+### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
 
 ###### ARTICULO 121.
 
@@ -2207,7 +2261,7 @@ IV. Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Las autoridades sanitarias, en coordinación con las autoridades de educación, elaborarán programas y campañas para promover y fomentar la educación sobre la salud bucodental, y la práctica de los hábitos de higiene dental para prevenir y controlar las enfermedades bucodentales en la población escolar.
 
-### CAPITULO VI. Accidentes
+### CAPITULO V. Organización de los Servicios de Salud
 
 ###### ARTICULO 124.
 
@@ -2219,7 +2273,7 @@ Será obligatoria la notificación de los casos de tales enfermedades diagnostic
 
 La Secretaría de Salud del Estado establecerá el Registro Estatal de Deficientes Mentales, para facilitar la atención y protección de las personas que se encuentren disminuidas en sus capacidades intelectuales.
 
-### CAPITULO UNICO
+### CAPITULO VI. Accidentes
 
 ###### ARTICULO 126.
 
@@ -2249,7 +2303,7 @@ Este Consejo se integrará y funcionará en los términos y disposiciones que pa
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION Y REHABILITACION DE LA DISCAPACIDAD
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO UNICO
 
 ###### ARTICULO 128.
 
@@ -2347,7 +2401,7 @@ El Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 ###### ARTICULO 140.
 
@@ -2377,9 +2431,7 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral, educativo y de los espectáculos.
 
-### CAPITULO III. Programa para la Prevención y Tratamiento de la Farmacodependencia
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 142.
 
@@ -2407,7 +2459,9 @@ Los establecimientos que expendan tabaco deberán tener a la vista del público,
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. Programa para la Prevención y Tratamiento de la Farmacodependencia
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 146.
 
@@ -2527,7 +2581,7 @@ Los establecimientos que expendan inhalantes y substancias tóxicas, deberán te
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 151.
 
@@ -2557,7 +2611,7 @@ ARTICULO 152 BIS. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 ###### ARTICULO 157.
 
@@ -2573,7 +2627,7 @@ ARTICULO 152 BIS. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 ###### ARTICULO 160.
 
@@ -2591,7 +2645,7 @@ ARTICULO 152 BIS. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 ###### ARTICULO 164.
 
@@ -2599,7 +2653,7 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO VI. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO V. De las Cuotas Familiares
 
 ###### ARTICULO 165.
 
@@ -2627,7 +2681,7 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO VII. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VI. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 ###### ARTICULO 171.
 
@@ -2639,7 +2693,7 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO VIII. Causas de Suspensión y Cancelación en el Sistema de Protección Social en Salud
+### CAPITULO VII. Derechos y Obligaciones de los Beneficiarios
 
 ###### ARTICULO 173.
 
@@ -2655,9 +2709,7 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+### CAPITULO VIII. Causas de Suspensión y Cancelación en el Sistema de Protección Social en Salud
 
 ###### ARTICULO 176.
 
@@ -2673,7 +2725,9 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD GENERAL Y LOCAL
 
-### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 179.
 
@@ -2711,7 +2765,7 @@ III. Giro comercial.
 
 Todo cambio de propietario de un establecimiento, de razón social, denominación o cesión de derechos de productos, deberá ser comunicado por escrito a la Secretaría de Salud del Estado, o en su caso, a los Servicios de Salud en el Estado, según corresponda, conforme a las competencias dispuestas en esta Ley, en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la normatividad que al efecto se expida.
 
-### CAPITULO III. Mercados y Centros de Abasto
+### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
 
 ###### ARTICULO 184.
 
@@ -2745,7 +2799,7 @@ En su caso se ajustarán a los límites máximos permisibles de hongos, levadura
 
 Para coadyuvar en la determinación de la ubicación y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, las autoridades sanitarias tomarán en cuenta lo dispuesto en la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
 
-### CAPITULO IV. De las Construcciones
+### CAPITULO III. Mercados y Centros de Abasto
 
 ###### ARTICULO 189.
 
@@ -2767,7 +2821,7 @@ Se prohíbe el comercio de todo tipo de alcohol y bebidas alcohólicas, así com
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta Ley, los reglamentos respectivos y otras disposiciones legales aplicables.
 
-### CAPITULO V. Cementerios, Crematorios y Funerarias
+### CAPITULO IV. De las Construcciones
 
 ###### ARTICULO 193.
 
@@ -2811,7 +2865,7 @@ Los edificios, cualquiera que sea el uso a que estén destinados, estarán provi
 
 La potabilidad del agua reunirá los requisitos especificados en esta Ley y su reglamento, así como en las normas oficiales mexicanas.
 
-### CAPITULO VI. Limpieza Pública
+### CAPITULO V. Cementerios, Crematorios y Funerarias
 
 ###### ARTICULO 202.
 
@@ -3067,7 +3121,7 @@ II. Expresar los motivos de la exhumación y destino final de los restos, y
 
 III. Los demás que determine la autoridad sanitaria.
 
-### CAPITULO VII. Rastros y Establecimientos Similares
+### CAPITULO VI. Limpieza Pública
 
 ###### ARTICULO 241.
 
@@ -3109,7 +3163,7 @@ Los municipios proveerán de depósitos de basura en los parques, jardines, pase
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO VIII. Salud Ocupacional
+### CAPITULO VII. Rastros y Establecimientos Similares
 
 ###### ARTICULO 247.
 
@@ -3149,7 +3203,7 @@ El sacrificio de animales en los rastros se efectuará en los días y horas que 
 
 Los rastros y casas de matanza deberán estar ubicados a más de quinientos metros de zona habitacional.
 
-### CAPITULO IX. Agua Potable, Alcantarillado y Saneamiento
+### CAPITULO VIII. Salud Ocupacional
 
 ###### ARTICULO 255.
 
@@ -3175,9 +3229,7 @@ La Secretaría de Salud del Estado, en coordinación con las dependencias estata
 
 Los establecimientos que expendan substancias tóxicas inhalantes, deberán tener a la vista del público letreros alusivos a las condiciones bajo las cuales se expendan dichos productos al público en general, y prohibición expresa de su venta a menores de edad.
 
-### CAPITULO X. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos
-
-Similares
+### CAPITULO IX. Agua Potable, Alcantarillado y Saneamiento
 
 ###### ARTICULO 260.
 
@@ -3235,7 +3287,9 @@ V. Letrinización y control de excretas.
 
 Estos giros son de competencia municipal, pero quedarán bajo la supervisión de las autoridades sanitarias en el Estado.
 
-### CAPITULO XI. Prostitución
+### CAPITULO X. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos
+
+Similares
 
 ###### ARTICULO 270.
 
@@ -3269,7 +3323,7 @@ Cada granja contará con los servicios de un responsable médico veterinario zoo
 
 Queda prohibido el sacrificio de animales destinados al consumo humano, dentro de las instalaciones de la granja.
 
-### CAPITULO XII. Reclusorios o Centros de Readaptación Social
+### CAPITULO XI. Prostitución
 
 ###### ARTICULO 275.
 
@@ -3335,7 +3389,7 @@ Queda prohibido el ejercicio de la prostitución a menores de dieciocho años.
 
 Queda prohibido el ejercicio de la prostitución en la vía pública.
 
-### CAPITULO XIII. Baños Públicos y Albercas
+### CAPITULO XII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 287.
 
@@ -3367,7 +3421,7 @@ Las autoridades sanitarias vigilarán permanentemente que los reclusorios y cent
 
 En estas instituciones queda prohibida la introducción, uso, posesión y comercio de bebidas alcohólicas, estupefacientes y psicotrópicos; éstos últimos a menos que hayan sido prescritos por un médico legalmente reconocido, y controlada su administración por él mismo.
 
-### CAPITULO XIV. Centros de Reunión y Espectáculos
+### CAPITULO XIII. Baños Públicos y Albercas
 
 ###### ARTICULO 294.
 
@@ -3393,9 +3447,7 @@ Queda prohibida la renta de trajes de baño.
 
 La apertura al público y el funcionamiento de estos establecimientos, deberán sujetarse a la verificación y control sanitario.
 
-### CAPITULO XV
-
-Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; Estudios de Tatuaje y/o Perforaciones y Otros Similares
+### CAPITULO XIV. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 299.
 
@@ -3423,7 +3475,9 @@ VI. Vehículo para traslado de enfermos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-### CAPITULO XVI. Tintorerías, Lavanderías y Lavaderos Públicos
+### CAPITULO XV
+
+Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; Estudios de Tatuaje y/o Perforaciones y Otros Similares
 
 ###### ARTICULO 302.
 
@@ -3459,7 +3513,7 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 Dentro de los establecimientos a que se refiere este Título queda estrictamente prohibido el ejercicio de la prostitución, así como la venta e ingesta de bebidas alcohólicas y de substancias nocivas a la salud.
 
-### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
+### CAPITULO XVI. Tintorerías, Lavanderías y Lavaderos Públicos
 
 ###### ARTICULO 306.
 
@@ -3475,7 +3529,7 @@ III. Lavadero público: los establecimientos a los cuales acuden los interesados
 
 Corresponde a los Servicios de Salud del Estado, otorgar cuando proceda, la autorización correspondiente y ejercer la verificación sanitaria de los establecimientos a que se refiere este Capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVIII. Transporte Público Urbano y Foráneo
+### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
 
 ###### ARTICULO 308.
 
@@ -3493,7 +3547,7 @@ La construcción, acondicionamiento y funcionamiento de un inmueble que se prete
 
 La apertura y explotación de un establecimiento de hospedaje no comprende el derecho de explotar giros anexos, aun cuando éstos constituyan una misma unidad comercial con el citado establecimiento; en consecuencia, tales anexos deberán recabar u obtener la autorización correspondiente, según el giro de que se trate.
 
-### CAPITULO XIX. Gasolinerias
+### CAPITULO XVIII. Transporte Público Urbano y Foráneo
 
 ###### ARTICULO 312.
 
@@ -3511,9 +3565,7 @@ Los vehículos destinados al servicio de transporte de pasajeros y de carga, deb
 
 Las terminales de transportes deberán tramitar aviso de apertura ante los Servicios de Salud en el Estado, y reunir las condiciones de higiene para su funcionamiento; contando con recipientes para basura en lugares estratégicos.
 
-### CAPITULO XX. Prevención, Control de Esterilización de la Rabia y otras Zoonosis; y Natalidad de Animales
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
+### CAPITULO XIX. Gasolinerias
 
 ###### ARTICULO 316.
 
@@ -3533,7 +3585,9 @@ En lugares visibles y distribuidos en número suficiente, se fijarán letreros i
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2021)</small>
 
-### CAPITULO XXI. Escuelas, Institutos, Colegios, Guarderías e Internados
+### CAPITULO XX. Prevención, Control de Esterilización de la Rabia y otras Zoonosis; y Natalidad de Animales
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 320.
 
@@ -3617,7 +3671,7 @@ Toda persona que venda, ofrezca en adopción o regale animales domésticos, est�
 
 En caso de incumplimiento a esta disposición sanitaria, los animales deben ser trasladados al Centro de Control de Rabia y otras Zoonosis para vacunarlos, y si no reclamados por su propietario, en un término de cinco días hábiles, quedan a disposición de la autoridad.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XXI. Escuelas, Institutos, Colegios, Guarderías e Internados
 
 ###### ARTICULO 326.
 
@@ -3633,7 +3687,7 @@ Los establecimientos objeto de este Capítulo deben contar con las instalaciones
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 329.
 
@@ -3655,7 +3709,7 @@ La autoridad sanitaria competente expedirá las autorizaciones respectivas, cuan
 
 Los establecimientos que obtengan autorización sanitaria deben colocarla a la vista del público. Las autorizaciones serán revisadas por la autoridad sanitaria competente.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 333.
 
@@ -3725,7 +3779,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 341.
 
@@ -3767,9 +3821,11 @@ Las autoridades sanitarias competentes en el Estado pueden encomendar a sus veri
 
 Las dependencias y entidades públicas en el Estado coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
 
-###### ARTICULO 348.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
-Las visitas ordinarias se efectuarán en días y horas hábiles; y las extraordinarias en cualquier tiempo.
+###### ARTÍCULO 348.
+
+Las visitas de verificación podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
 
 Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se consideran horas hábiles las de su funcionamiento habitual o autorizado.
 
@@ -3785,9 +3841,25 @@ Los verificadores en el ejercicio de sus funciones previo cumplimiento de las fo
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+En caso de que los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de verificación, se nieguen a permitir el acceso o dar facilidades e informes a los verificadores, la autoridad sanitaria, podrá hacer uso indistinto de cualquiera de las medidas de apremio previstas en el artículo 378 de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 351.
 
-Las autoridades sanitarias con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 345 de esta Ley, podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos, a que se refiere el artículo 5º. apartados A y B de la misma, notificándolas al interesado y dándole un plazo adecuado para su realización.
+Las autoridades sanitarias con base en los resultados del contenido del acta de verificación o del informe de verificación a que se refiere el artículo 345 de esta Ley, deberán notificar de manera personal al interesado o titular de la autorización sanitaria de que se trate, el dictamen sanitario correspondiente que deberá contener:
+
+I. El análisis de las anomalías encontradas y asentadas en el acta de verificación o del informe de verificación;
+
+II. El plazo y acciones para corregir las anomalías detalladas en el acta de verificación o del informe de verificación;
+
+III. La ratificación o remoción de la medida de seguridad a que haya habido lugar en la ejecución de la orden de verificación y que obre en el acta de verificación o del informe de verificación, y
+
+IV. La imposición de alguna de las medidas de seguridad a que se refiere el numeral 358 de esta Ley, sin perjuicio de las que se hayan impuesto en la visita de verificación.
+
+En caso de que el establecimiento cumpla con todos los requisitos que esta Ley y demás disposiciones legales aplicables exijan para su funcionamiento, se le exhortará a proseguir con el cumplimiento de la normatividad aplicable, apercibido de que, en caso contrario, se hará acreedor a la imposición de cualquiera de las medidas de seguridad, así como a alguna de las sanciones administrativas establecidas en los artículos 358 y 380 de esta ley respectivamente.
 
 ###### ARTICULO 352.
 
@@ -3801,6 +3873,18 @@ III. En el acta que se levante con motivo de la verificación se hará constar l
 
 IV. Al concluir la verificación se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta o a recibir una copia de la misma, o de la orden de visita, se debe hacerse constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 352 BIS. Será objeto de videograbación, la visita de verificación a que se refiere el artículo 345 de esta Ley y se sujetará a lo dispuesto por el Reglamento Interior de la Comisión para la Protección contra Riesgos Sanitarios del Estado de San Luis Potosí.
+
+El verificador deberá recabar indistintamente el consentimiento del propietario, responsable o encargado u ocupante del establecimiento respectivo, para llevar a cabo la videograbación de la visita de verificación.
+
+El verificador, única y exclusivamente se enfocará y grabará lo correspondiente a la actuación de la visita de verificación.
+
+En caso de que indistintamente el propietario, responsable o encargado u ocupante del establecimiento respectivo, se niegue a otorgar su consentimiento para llevar a cabo la videograbación de la visita de verificación, el verificador, deberá suspender la videograbación de forma inmediata. Esta eventualidad, deberá constar en el acta de verificación o del informe de verificación.
+
+Esta negativa, no suspenderá, ni imposibilitará, ni invalidará la ejecución de la orden respectiva.
+
 ###### ARTICULO 353.
 
 La recolección de muestras para laboratorio que tomen en la ejecución de la verificación, se efectuará con sujeción a lo siguiente:
@@ -3809,33 +3893,65 @@ I. Se observarán las formalidades y requisitos exigidos para las visitas de ver
 
 II. La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
 
-III. Se obtendrán tres muestras del producto: una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, previo sellado inviolable; la otra muestra podrá quedar en poder de la misma persona a disposición de la autoridad sanitaria competente, y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente, al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-IV. El resultado del análisis oficial se notificará por escrito en forma personal o por correo certificado con acuse de recibo al interesado, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+III. Se obtendrán tres muestras del producto: una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular a su costa: la otra muestra podrá quedar en poder de la misma persona a disposición de la autoridad sanitaria competente previo sello inviolable y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente, al laboratorio autorizado y habilitado por ésta, para su análisis oficial.
 
-V. En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación de análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria competente procederá conforme a la fracción VII de este artículo, según corresponda;
+El análisis particular descrito en el párrafo precedente, deberá realizarse dentro del plazo de 3 días naturales, siguientes a la fecha de la toma de muestras. Dicho plazo, será aplicable a lo dispuesto en el artículo 353 bis, contados a partir del día siguiente a la fecha en que la persona con quien se entendió la diligencia, le haya enviado, en condiciones adecuadas de conservación, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en su poder.
 
-VI. Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado, a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación, y el resultado del análisis oficial quedará firme;
+La muestra testigo, deberá ser conservada en condiciones adecuadas según la naturaleza de la muestra, atendiendo a la normatividad oficial aplicable que corresponda, en caso contrario, esta no tendrá el carácter definitivo a que se refiere el último párrafo de la fracción VII de este artículo, prevaleciendo con tal carácter, el resultado del análisis oficial;
 
-VII. La impugnación presentada en términos de las fracciones anteriores dará lugar a que la autoridad sanitaria competente analice la muestra testigo, en un laboratorio que la misma señale en presencia de las partes interesadas. El resultado del análisis de la muestra testigo será en que el (sic) definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+IV. El resultado del análisis oficial se notificará por escrito en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+V. En caso de desacuerdo con el resultado que se haya notificado, el interesado o titular de la autorización sanitaria de que se trate, lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación de análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria competente procederá conforme a la fracción VII de este artículo, según corresponda;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+VI. Con la impugnación a que se refiere la fracción anterior, el interesado o titular de la autorización sanitaria de que se trate, deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación, y el resultado del análisis oficial quedará firme.
+
+El análisis particular, deberá realizarse conforme a lo establecido en el segundo párrafo de la fracción III de este artículo.
+
+En caso de no cumplir con este requisito, no se dará trámite a la impugnación, y el resultado del análisis oficial quedará firme;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+VII. La impugnación presentada, previo cumplimiento de lo establecido en las fracciones anteriores, dará lugar a que el interesado o titular de la autorización sanitaria de que se trate, asumiendo los gastos que esto implique, solicite a la autoridad sanitaria competente, el análisis de la muestra testigo, en un laboratorio que la misma señale.
+
+En el caso de insumos médicos, el análisis, se deberá realizar en un laboratorio autorizado por autoridad competente como laboratorio de control analítico auxiliar de la regulación sanitaria, y
 
 VIII. El resultado del análisis de la muestra testigo se notificará por escrito en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
 
 Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan, o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan, y a negar o revocar, en su caso, la autorización de que se trate.
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado dentro de los quince días hábiles siguientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
-En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
-El depositario de la muestra testigo será responsable solidario con el interesado, si no conserva la muestra citada.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 353 BIS. Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, la persona con quien se entendió la diligencia, está obligada a enviar al mencionado titular, en condiciones adecuadas de conservación, dentro del término de tres días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en su poder, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
+
+Si la persona con quien se entendió la diligencia, omite dar cumplimiento a la obligación a que se refiere el párrafo precedente o no conserva la muestra citada, dará lugar a que se constituya responsable solidario del titular.
 
 El procedimiento de muestreo no impide que la autoridad sanitaria competente dicte y ejecute las medidas de seguridad sanitarias que procedan, en cuyo caso se asentará en el acta de verificación las que se hubieren ejecutado, y los productos que comprenda.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 354.
 
-En el caso de toma de muestras de productos perecederos debe conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará por escrito en forma personal al interesado, dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
+En el caso de toma de muestras de productos perecederos debe conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron.
 
-Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme.
+El resultado del análisis se notificará por escrito en forma personal al interesado o titular de la autorización sanitaria de que se trate, dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
+
+Transcurrido el término de tres días sin que se haya impugnado el resultado del análisis oficial, éste quedará firme.
 
 ###### ARTICULO 355.
 
@@ -3843,7 +3959,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA
 
-### CAPITULO I. Del Procedimiento
+### CAPITULO UNICO
 
 ###### ARTICULO 356.
 
@@ -3921,29 +4037,41 @@ En su caso, se pedirá a las dependencias encargadas de la sanidad animal, la in
 
 La autoridad sanitaria en el ámbito de su competencia podrá ordenar la inmediata suspensión de trabajos, de servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 366.
 
-La suspensión de trabajos o servicios será temporal. Podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario, para corregir las irregularidades que pongan en peligro la salud de las personas. Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión. Esta será levantada a instancias del interesado o por la propia autoridad que la ordenó, cuando cese la causa por la cual fue decretada.
+La suspensión de trabajos o servicios será temporal. Podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario, para corregir las irregularidades que pongan en peligro la salud de las personas. Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión. Esta será levantada a instancias del interesado o titular de la autorización sanitaria de que se trate o por la propia autoridad que la ordenó, cuando cese la causa por la cual fue decretada.
 
-Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
+Durante la suspensión, se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron o cuando sea necesario llevar a cabo alguna actividad indispensable para el mantenimiento de equipos o infraestructura, previa solicitud por escrito de la persona interesada o titular de la autorización sanitaria de que se trate.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 366 BIS. La autoridad sanitaria en el ámbito de su competencia, podrá hacer uso de cualquiera de las medidas de apremio señaladas en el artículo 378, cuando existan indicios de que en algún local o casa habitación se realice cualquier actividad que ponga en peligro la salud de las personas.
 
 ###### ARTICULO 367.
 
 La autoridad sanitaria en el ámbito de su competencia, podrá ordenar la emisión de mensajes publicitarios que adviertan peligros a la salud, cuando las circunstancias particulares lo ameriten.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 368.
 
-El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas, o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La autoridad sanitaria podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cual será su destino.
+El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas, o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La autoridad sanitaria podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen del laboratorio autorizado y habilitado por ésta, cuál será su destino.
 
-Si el dictamen indicara que el bien asegurado no es nocivo, pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos.
+Si el dictamen indicara que el bien asegurado no es nocivo, pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado o titular de la autorización sanitaria de que se trate, un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos.
 
-Si dentro de este plazo el interesado no realizara el trámite indicado, o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono, y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
+Si dentro del plazo establecido en el párrafo anterior, el interesado o titular de la autorización sanitaria de que se trate, no realizará el trámite indicado, o no gestionará la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono, y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
 
-Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el párrafo anterior y previo la observancia de la garantía de audiencia, podrá determinar que el interesado y bajo la vigilancia de aquélla, someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad señale.
+Si del dictamen resultara que el bien asegurado es nocivo para la salud, la autoridad sanitaria, dentro del plazo establecido en el segundo párrafo de este artículo y previo la observancia de la garantía de audiencia, podrá determinar que el interesado o titular de la autorización sanitaria de que se trate y bajo la vigilancia de aquélla, someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad señale.
 
-Los productos perecederos asegurados que se descomponen en poder de la autoridad sanitaria, así como los objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación, que no los hagan aptos para su consumo, serán destruidos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+Asimismo productos perecederos asegurados que se descomponen en poder de la autoridad sanitaria, además los objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación, que no los hagan aptos para su consumo, serán destruidos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
 
-Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria, la que los entregara para su aprovechamiento, de preferencia a instituciones de asistencia social, públicos o privados.
+Los productos perecederos que no se reclamen por la persona interesada o titular de la autorización sanitaria de que se trate, dentro de las veinticuatro horas que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria, la que los entregará para su aprovechamiento, de preferencia a instituciones de asistencia social, públicos o privados.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 368 BIS. Será procedente la acción de aseguramiento prevista en el artículo 368 de esta Ley como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos cosméticos que indebidamente hubieren sido publicitados o promovidos indebidamente como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o de rehabilitación de un determinado padecimiento, sin que los mismos cuenten con registro sanitario para ser considerados como tales.
 
 ###### ARTICULO 369.
 
@@ -3953,23 +4081,29 @@ La desocupación o desalojo de casas, edificios, establecimientos y en general d
 
 SEGURIDAD Y SANCIONES
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Del Procedimiento
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 370.
 
-El procedimiento administrativo podrá iniciarse a petición de parte interesada; o de oficio como lo prevé el Título Décimo Quinto de esta Ley.
+Lo previsto en los Títulos Décimo Cuarto y Décimo Quinto de esta Ley, podrán iniciarse por oficio o a petición de parte.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 371.
 
-Derivado de las irregularidades sanitarias que reporte el acta o informe de verificación, la autoridad sanitaria competente citará por escrito al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco, ni mayor de treinta días naturales comparezca a manifestar lo que a su derecho convenga; ofrezca y desahogue las pruebas que estime procedentes en relación con los hechos asentados en el acta o informe de verificación según el caso. Al efecto serán admisibles toda clase de pruebas, excepto la de absolver posiciones. Tratándose del informe de verificación, la autoridad sanitaria competente deberá acompañar al citatorio invariablemente copia de aquél.
+Derivado de las irregularidades sanitarias que reporte el acta de verificación o del informe de verificación o dictamen sanitario, la autoridad sanitaria competente, notificará por escrito a la persona interesada o titular de la autorización sanitaria de que se trate, personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco ni mayor de treinta días naturales, comparezca a manifestar lo que a su derecho convenga; ofrezca y desahogue las pruebas que estime procedentes en relación con los hechos asentados en el acta de verificación o del informe de verificación o dictamen sanitario según el caso. Al efecto serán admisibles toda clase de pruebas, excepto la confesional por posiciones. Tratándose del acta de verificación o del informe de verificación o del dictamen, la autoridad sanitaria competente, deberá acompañar al citatorio invariablemente copia de aquél.
 
 ###### ARTICULO 372.
 
 Una vez oído al presunto infractor o a su representante legal, y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes, a emitir por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 373.
 
-En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 371 de esta Ley, se procederá a decretar la rebeldía y a pronunciar la resolución definitiva, notificándola por escrito personalmente o por correo certificado con acuse de recibo.
+En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 371 de esta Ley, se procederá a decretar la rebeldía y a pronunciar la resolución definitiva en el plazo establecido en el artículo anterior, notificándola por escrito personalmente o por correo certificado con acuse de recibo.
 
 ###### ARTICULO 374.
 
@@ -3991,15 +4125,19 @@ III. Se considerarán los precedentes que se hayan dado en el ejercicio de las f
 
 IV. Los demás que establezca el superior jerárquico.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 377.
 
-La resolución que pronuncie la autoridad sanitaria competente, se hará saber por escrito al interesado dentro del plazo que marca la ley; en caso de no existir éste, dentro de un plazo no mayor de cuatro meses, contados a partir de la recepción de la solicitud del particular.
+La resolución que pronuncie la autoridad sanitaria competente, se hará saber por escrito al interesado o titular de la autorización sanitaria de que se trate, dentro del plazo que marca la ley; en caso de no existir éste, dentro de un plazo no mayor de cuatro meses, contados a partir del día hábil siguiente a aquel en que fenezca el plazo establecido en el artículo 372.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 378.
 
-Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+Para hacer cumplir sus determinaciones en todo procedimiento, incluyendo las visitas de verificación sanitaria, ejecución de sanciones y medidas de seguridad, las autoridades sanitarias competentes harán uso de las acciones legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
-### CAPITULO III. Recurso de Revisión
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 379.
 
@@ -4011,9 +4149,9 @@ Las sanciones administrativas podrán ser:
 
 I. Amonestación o apercibimiento;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-II. Multa de hasta mil veces de la unidad de medida y actualización vigente;
+II. Multa;
 
 III. Clausura temporal o definitiva, que podrá ser parcial o total, y
 
@@ -4041,31 +4179,35 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 382.
 
-Se sancionará con multa equivalente hasta veinte veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 75, 89, 105, 108, 121, 182, 192, 193, 195, 196, 197, 198, 247, 304 QUINQUE, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
+Se sancionará con multa equivalente de veinte hasta dos mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 49, 71, 71 QUINQUES, 71 SEXIES, 89, 105, 108, 121, 182, 192, 193, 195, 196, 197, 198, 247, 304 QUINQUE, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 383.
 
-Se sancionará con multa equivalente de veinte hasta cien veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 44 párrafo segundo, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274, 213 y 300 de esta Ley.
+Se sancionará con multa equivalente de veinte hasta seis mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 44, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 213, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274 y 300 de esta Ley.
 
-La violación a las disposiciones contenidas en los artículos, 144, 145, 317, 318, 319, 350, 362, 363, 364 y 365 de esta Ley, se sancionará con multa equivalente de cincuenta y hasta quinientas veces la unidad de medida y actualización vigente.
+La violación a las disposiciones contenidas en los artículos, 144, 145, 317, 318, 319, 350, 362, 363, 364 y 365 de esta Ley, se sancionará con multa equivalente de cincuenta hasta doce mil veces la unidad de medida y actualización vigente.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 384.
 
-Se sancionará con multa equivalente de doscientos y hasta mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 57 párrafo último, 84, 86, 87, 276, 278, 279, 281, 282, 283, 284, 285, 286, 302, 304, 305 y 388 de esta Ley.
+Se sancionará con multa equivalente de doscientos hasta veinte mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 57 párrafo último, 84, 86, 87, 276, 278, 279, 281, 282, 283, 284, 285, 286, 302, 304, 305, 358 y 388 de esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+ARTICULO 384 BIS. Se sancionará con multa equivalente de mil hasta dieciséis mil veces la unidad de medida y actualización vigente e inhabilitación de siete a diez años, en el desempeño de empleo, profesión o cargo público, a quien infrinja las disposiciones contenidas en el Título Cuarto, Capitulo II, artículos 71 SEPTIES, 71 OCTIES, 71 NONIES párrafo último, 71 DECIES, 71 UNDECIES y 71 DUODECIES, de esta Ley; la cancelación de Cédula con Efectos de Patente; o autorización respectiva según sea el caso. Lo anterior, sin afectar el derecho del o los afectados, de presentar denuncia por el delito o delitos de que se trate.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 385.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa de hasta quinientas veces la unidad de medida y actualización vigente, atendiendo a las reglas de calificación que se establecen en el artículo 381 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente de cien hasta dieciséis mil veces la unidad de medida y actualización vigente, atendiendo a las reglas de calificación que se establecen en el artículo 381 de esta Ley.
 
 ###### ARTICULO 386.
 
@@ -4087,13 +4229,21 @@ II. Cuando el peligro para la salud de las personas se origine por la violación
 
 III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen, sigan constituyendo un peligro para la salud;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-IV. Cuando se lleve a cabo alguno de los supuestos previstos en el artículo 71 BIS de esta Ley, así como las normas y disposiciones que del mismo se deriven, y
+IV. Cuando se lleve a cabo alguno de los supuestos previstos en el artículo 71 BIS de esta Ley, así como las normas y disposiciones que del mismo se deriven;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-V. Cuando por la peligrosidad de las actividades que se realicen, o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+V. Cuando por la peligrosidad de las actividades que se realicen, o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+VI. Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+VII. Por reincidencia.
 
 ###### ARTICULO 389.
 
@@ -4111,109 +4261,71 @@ Sólo procederá esta pena, si previamente se aplicó cualquiera otra de las san
 
 Impuesto el arresto, se comunicará por escrito la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. De la Substanciación
+### CAPITULO III. Recurso de Revisión
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 391.
 
-Contra actos y resoluciones que dicten las autoridades sanitarias del Estado, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión, o el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado de San Luis Potosí.
+Contra actos y resoluciones que dicten las autoridades sanitarias del Estado, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión, para lo cual deberá estarse a lo estipulado en el Libro Primero, Título Segundo, Capítulo VIII, Sección Primera del Código Procesal Administrativo para el Estado de San Luis Potosí; o el juicio de nulidad ante el Tribunal Estatal de Justicia Administrativa de San Luis Potosí.
 
 ###### ARTICULO 392.
 
-El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquél en que se hubiere notificado la resolución o acto que se recurra.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 393.
 
-La oposición a los actos de trámite en un procedimiento administrativo, se hará valer en todo caso al impugnar la resolución definitiva.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 394.
 
-El afectado podrá impugnar los actos administrativos recurribles que no hayan sido notificados, o lo hubieren sido sin apegarse a lo dispuesto en esta Ley, conforme a las siguientes reglas:
-
-I. Si el particular afirma conocer el acto administrativo materia de la notificación, la impugnación contra la misma se hará valer mediante la interposición del recurso administrativo correspondiente, en el que manifestará la fecha en que lo conoció; en caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se acumulen contra la notificación;
-
-II. Si el particular niega conocer el acto manifestará tal desconocimiento, interponiendo el recurso administrativo correspondiente ante la autoridad competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en el que se deba dar a conocer y el nombre de la persona autorizada para recibirlo, en su caso. Si no se señalare domicilio, la autoridad dará a conocer el acto mediante notificación por edictos; si no se señalare persona autorizada, se hará mediante notificación personal.
-
-El particular tendrá un plazo de quince días a partir del día siguiente a aquél en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación, o cualquiera de ellos según sea el caso;
-
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo;
-
-IV. Si se resuelve que no hubo notificación o que ésta no fue efectuada conforme a lo dispuesto por la presente Ley, se tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo, o en que se le dio a conocer en los términos de la fracción II del presente artículo, quedando sin efectos todo lo actuado con base en aquélla y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto, y
-
-V. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 395.
 
-El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado, y expresará:
-
-I. El órgano administrativo a quien se dirige;
-
-II. El nombre del recurrente, y del tercero perjudicado si lo hubiere, así como el lugar que señale para efectos de notificaciones;
-
-III. El acto que se recurre y fecha en que se le notificó, o tuvo conocimiento del mismo;
-
-IV. La descripción de los hechos antecedentes de la resolución que se recurre;
-
-V. Los agravios que se causan, y
-
-VI. Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionen.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 396.
 
-Con el escrito mediante el cual se interponga el recurso se deberán acompañar los siguientes documentos:
-
-I. Los que acrediten la personalidad del promovente, cuando actúe a nombre de otro o de persona moral, salvo que ya la tenga reconocida por la autoridad que emitió el acto o la resolución impugnada;
-
-II. El documento en donde conste el acto o la resolución recurridos, cuando dicha actuación haya sido por escrito, tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o el documento sobre el cual no hubiere recaído resolución alguna;
-
-III. La constancia de notificación del acto impugnado; si la notificación fue por edictos se deberá acompañar la última publicación, o la manifestación bajo protesta de decir verdad, de la fecha en que se tuvo conocimiento de la resolución, y
-
-IV. Las pruebas que se acompañan.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 397.
 
-Al recibir el recurso, la autoridad sanitaria correspondiente verificará si éste es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de quince días hábiles, contados a partir del día siguiente a aquél en que se hubiera notificado.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
-En el caso de que el recurrente no diere cumplimiento al requerimiento efectuado, o cuando la autoridad sanitaria advierta la existencia de una causa notoria de improcedencia, se desechará el recurso.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2024)</small>
 
-### CAPITULO V. De la Suspensión
+### CAPITULO IV. De la Substanciación
 
 ###### ARTICULO 398.
 
-En la substanciación del recurso se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades sanitarias, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
-
-Para el desahogo de las pruebas se dispondrá de un término de treinta días hábiles contados a partir de la fecha en que hayan sido admitidas; concluido el término para el desahogo de las pruebas, se dictará la resolución correspondiente en el término de quince días hábiles. Si el recurrente no hubiere ofrecido pruebas que ameriten desahogo especial, la resolución se dictará dentro del término de quince días hábiles, contados a partir de la fecha de admisión del recurso.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 399.
 
-Las autoridades sanitarias estatales en el ámbito de su competencia, resolverán los recursos que se interpongan de conformidad con esta Ley y, al efecto, podrán confirmar, modificar o revocar el acto o resolución que se haya combatido.
-
-Estas autoridades en uso de las facultades que les confiere la legislación aplicable, podrán delegar la atribución, debiéndose publicar el acuerdo respectivo en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 400.
 
-A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las autoridades sanitarias, éstas los orientarán sobre el derecho de recurrir la resolución o acto de que se trate, y sobre la tramitación del recurso.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
-### CAPITULO VI. Extinción de Facultades
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2024)</small>
+
+### CAPITULO V. De la Suspensión
 
 ###### ARTICULO 401.
 
-La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
-
-Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución; siempre y cuando se satisfagan los siguientes requisitos:
-
-I. Que lo solicite el recurrente o su representante legal;
-
-II. Que no se siga perjuicio al interés social, ni se contravenga disposiciones de orden público, y
-
-III. Que sean de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 402.
 
-En la tramitación y substanciación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de San Luis Potosí, y el Código Fiscal del Estado.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
 
 ###### ARTICULO 403.
 
-Contra las resoluciones dictadas en los recursos administrativos, procede el juicio de nulidad ante el Tribunal Estatal de lo Contencioso Administrativo.
+(DEROGADO, P.O. 12 DE MARZO DE 2024)
+
+### CAPITULO VI. Extinción de Facultades
 
 ###### ARTICULO 404.
 
@@ -4858,6 +4970,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0902.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XI, XII Y XIII; Y ADICIONA AL MISMO ARTÍCULO 23 DOS FRACCIONES ÉSTAS COMO XIV Y XV DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1018.- SE REFORMAN LOS ARTÍCULOS 71, 348 EL PÁRRAFO PRIMERO, 351, 353 SUS FRACCIONES III, IV, V, VI Y VII, 354, 366, 368, 370, 371, 373, 377, 378, 380 LA FRACCIÓN II, 382, 383, 384, 385, 388 LAS FRACCIONES IV Y V Y 391; ADICIONA LOS ARTÍCULOS 71 SEXIES, 71 SEPTIES, EL CAPÍTULO II AL TÍTULO CUARTO, DENOMINADO "EJERCICIO ESPECIALIZADO DE LA CIRUGÍA" Y LOS ARTÍCULOS 71 OCTIES, 71 NONIES, 71 DECIES, 71 UNDECIES, 71 DUODECIES, AL 350 EL PÁRRAFO TERCERO, 352 BIS, 353 BIS, 366 BIS, 368 BIS, 384 BIS, AL ARTÍCULO 388 LAS FRACCIONES VI Y VII; Y DEROGA LOS CAPÍTULOS IV Y V DEL TÍTULO DÉCIMO SEXTO Y LOS ARTÍCULOS 353 LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DE LA FRACCIÓN VIII, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402 Y 403, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
