@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1256-para-la-promocion-de-la-convivencia-libre-92108
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-11"
-last_updated: "2013-01-11"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de enero de 2013.
 
@@ -45,6 +45,8 @@ LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL E
 
 ### Capítulo I. Del objeto, definiciones y principios
 
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 1.
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de Guerrero y tienen por objeto:
@@ -60,6 +62,10 @@ IV. Diseñar mecanismos, instrumentos y procedimientos para garantizar el derech
 V. Fomentar la corresponsabilidad social y la cohesión comunitaria para garantizar un ambiente libre de violencia en el entorno escolar del Estado de Guerrero.
 
 VI. Promover la creación y, en su caso, la modificación de los planes y programas de estudio que contribuyan a la prevención del maltrato escolar desde un ámbito integral y multidisciplinario en coordinación con las autoridades de los distintos niveles de gobierno.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
+
+VII. Implementar políticas públicas especializadas para prevenir, atender y erradicar la violencia, el acoso y el hostigamiento sexual en el entorno escolar.
 
 ###### Artículo 2.
 
@@ -127,13 +133,17 @@ XIV. Resolución no violenta de conflictos;
 
 Los principios de esta Ley constituyen el marco conforme al cual las autoridades deberán planear, crear, ejecutar, dar seguimiento y evaluar el conjunto de acciones de gobierno para garantizar un ambiente libre de violencia en el entorno escolar y de maltrato escolar.
 
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE MARZO DE 2024)</small>
+
 ###### Artículo 4.
 
 La persona receptora de cualquier tipo y modalidad de violencia en el entorno escolar o de maltrato escolar tiene derecho a:
 
 I. En caso de riesgo grave a que se dicten medidas cautelares tendientes a salvaguardar su integridad física y asegurar su derecho a la vida, integridad y dignidad, y (sic)
 
-II. Recibir información, atención y acompañamiento médico y psicológico;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+II. Recibir información, atención y acompañamiento en materia de salud mental y física, incluida aquella especializada en casos de violencia sexual;
 
 III. Contar con protección inmediata y efectiva por parte de las autoridades del Estado de Guerrero cuando se encuentre en riesgo su integridad física o psicológica;
 
@@ -708,3 +718,15 @@ LA SECRETARIA DE EDUCACIÓN-GUERRERO.
 PROFRA. SILVIA ROMERO SUÁREZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 686 POR EL QUE SE REFORMAN LOS ARTÍCULOS 182, 183, 185, 187 Y 189; SE ADICIONAN LOS ARTÍCULOS 187 BIS Y 187 TER Y SE DEROGA EL ARTÍCULO 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499; SE REFORMAN LOS ARTÍCULOS 8, 10, 12 Y 32 DE LA LEY NÚMERO 278 PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO; SE REFORMAN LOS ARTÍCULOS 4° Y 17 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332; SE REFORMA EL ARTÍCULO 18 DE LA LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE; Y SE REFORMAN LOS ARTÍCULOS 1 Y 4 DE LA LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
