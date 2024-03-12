@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-450-de-victimas-del-estado-libre-y-soberano-de-12136
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2021-08-27"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 12 de mayo de 2017.
 
@@ -68,6 +68,20 @@ V. Garantizar un efectivo ejercicio del derecho de las víctimas a la justicia e
 VI. Establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas; y
 
 VII. Establecer las sanciones respecto al incumplimiento por acción o por omisión de cualquiera de sus disposiciones.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+
+###### Artículo 2 Bis.
+
+Los principios rectores y obligatorios de cumplimiento de la presente ley son:
+
+Principio de proporcionalidad: Es el criterio con que deberán aplicarse las disposiciones de la presente ley, tomando en cuenta el nivel de riesgo o condición de peligro, daño o afectación en la que se encuentre la persona destinataria a efecto de garantizar su seguridad y reducir los riesgos existentes.
+
+Perspectiva de género. Aquellas herramientas o métodos que permiten detectar y eliminar las barreras u obstáculos que discriminan a las personas por condición de género.
+
+Interseccionalidad. Cuando existe una combinación de dos o más condiciones o características en una misma persona como: raza, etnia, clase, género, sexo, orientación sexual, nacionalidad, edad, discapacidad, o cualquier otra que pueda producir algún tipo de discriminación.
+
+Interés superior de las niñas, niños y adolescentes. Conjunto de acciones y procesos tendientes a garantizar un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan alcanzar el máximo de bienestar posible, en términos de lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3.
 
@@ -261,13 +275,17 @@ Las instituciones públicas de los gobiernos Estatal y municipales en el ámbito
 
 ### Capítulo I. Medidas de Ayuda Inmediata
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### Artículo 9.
 
-La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia y atención preferencial, en la prestación de servicios, programas y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
+La gravedad del daño sufrido por las víctimas y el nivel de riesgo o peligro en el que se encuentre serán los criterios que determinarán la prioridad en su asistencia y atención preferencial, para la prestación de servicios, programas y en la implementación de acciones por las instituciones encargadas de brindarles atención y tratamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2021)</small>
 
 Los servicios, programas y acciones, tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, periodistas y personas en situaciones de desplazamiento interno.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE AGOSTO DE 2021)</small>
 
 Las Medidas de Ayuda Inmediata previstas en el presente Capítulo podrán cubrirse a través de lo siguiente:
 
@@ -1142,3 +1160,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los poderes del estado, los órganos autónomos, los Ayuntamientos del Estado y concejo municipal, tendrán 90 días para hacer las adecuaciones administrativas correspondientes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
