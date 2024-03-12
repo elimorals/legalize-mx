@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-207-de-transparencia-y-acceso-a-la-informacion-11455
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2021-10-15"
+last_updated: "2024-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
 
 Ley publicada en el No. 37 Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 6 de mayo de 2016.
 
@@ -517,11 +517,15 @@ El Instituto de conformidad con lo dispuesto en su normatividad, contará con la
 
 El Pleno del Instituto será su máximo órgano de decisión sus resoluciones no estarán subordinadas a autoridad alguna, por lo que adoptará dichas decisiones con plena independencia y estará integrado por tres Comisionados, los cuales serán designados por el Congreso del Estado, mediante convocatoria pública, con el voto de las dos terceras partes de los integrantes del Congreso, en los términos de la Constitución Estatal y de la presente Ley y demás disposiciones aplicables.
 
-En la integración del pleno se procurará la paridad de género. Los comisionados durarán en su encargo 7 años y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados, en instituciones docentes, científicas o de beneficencia, siempre y cuando no afecten la buena marcha del Instituto.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+
+En la integración del pleno se deberá cumplir con el principio de paridad de género. Las Comisionadas y Comisionados durarán en su encargo 7 años y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados, en instituciones docentes, científicas o de beneficencia, siempre y cuando no afecten la buena marcha del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
 
 ###### Artículo 36.
 
-La designación de los comisionados del Instituto, se realizará bajo el siguiente procedimiento:
+La designación de las Comisionadas y Comisionados del Instituto, se realizará bajo el siguiente procedimiento:
 
 I. Se invitará a las personas mediante convocatoria pública expedida por el Poder Legislativo, a propuesta de la Junta de Coordinación Política, que se publicará por lo menos con cuarenta y cinco días anteriores a la conclusión del periodo de gestión de los Comisionados, en por lo menos dos medios de comunicación escritos de mayor circulación en el Estado;
 
@@ -535,7 +539,9 @@ b) La Junta de Coordinación Política integrará un listado con el doble del to
 
 c) La Junta de Coordinación Política presentará la lista al Pleno para su designación en términos de lo previsto en los incisos d) y e) que se mencionaron en este numeral de la presente Ley;
 
-d) En la conformación del Pleno del Instituto se procurará la experiencia en materia de acceso a la información pública y protección de datos personales, así como la paridad de género; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+
+d) En la integración del Pleno del Instituto se procurará la experiencia en materia de acceso a la información pública y protección de datos personales; y
 
 e) Cada uno de los comisionados será designado por el Congreso del Estado mediante el voto de cuando menos las dos terceras partes de sus integrantes, de la lista propuesta por la Junta de Coordinación Política.
 
@@ -677,9 +683,15 @@ XIX. Promover la participación y colaboración con organismos internacionales, 
 
 XX. Fomentar los principios de gobierno abierto, la transparencia, la rendición de cuentas, la participación ciudadana, la accesibilidad y la innovación tecnológica;
 
-XXI. Emitir recomendaciones a los sujetos obligados para diseñar, implementar y evaluar acciones de apertura gubernamental que permitan orientar las políticas internas en la materia; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
-XXII. Las demás que les confieran esta Ley y otras disposiciones aplicables.
+XXI. Emitir recomendaciones a los sujetos obligados para diseñar, implementar y evaluar acciones de apertura gubernamental que permitan orientar las políticas internas en la materia;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+
+XXII. Previa resolución con motivo de denuncia por incumplimiento a las obligaciones de transparencia en la que se haya determinado la responsabilidad, podrá solicitar al Congreso del Estado la comparecencia de las y los titulares de los sujetos obligados que incurran en el incumplimiento de sus obligaciones, a fin de que, rindan cuentas de su actuar ante la autoridad legislativa; y
+
+XXIII. Las demás que les confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 44.
 
@@ -3160,3 +3172,13 @@ CUARTO. Los procedimientos administrativos iniciados por las autoridades federal
 QUINTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y trámites legales correspondientes.
 
 SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 12 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 682 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese y désele amplia difusión a través de la Dirección de Comunicación del Honorable Congreso del Estado Libre y Soberano de Guerrero, así como en las diferentes redes sociales del mismo, para su mayor conocimiento.
