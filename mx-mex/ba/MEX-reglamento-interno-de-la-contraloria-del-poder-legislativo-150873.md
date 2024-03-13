@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-contraloria-del-poder-legislativo-1508
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-08-27"
-last_updated: "2021-10-08"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2024.
 
 Reglamento publicado en el número 38, Sección Segunda de la Gaceta de Gobierno del Estado de México, el viernes 27 de agosto de 2021.
 
@@ -122,6 +120,10 @@ XXVIII. Falta administrativa no grave: A las faltas administrativas de los servi
 XXIX. Falta administrativa grave: A las faltas administrativas de los servidores públicos catalogadas como graves en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de México;
 
 XXX. Faltas de particulares: A los actos u omisiones de personas físicas o jurídicas colectivas que se encuentran vinculadas con las faltas administrativas graves, establecidas en los Capítulos Tercero y Cuarto del Título Tercero de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de México;
+
+> <small>(ADICIONADA, G.G. 13 DE MARZO DE 2024)</small>
+
+XXX bis. Firma Electrónica: Son los datos en forma electrónica consignados en un mensaje, lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar técnica y legalmente la identidad del Firmante en Internet, toda vez que está vinculada únicamente a los datos que le identifican como tal por lo que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
 
 XXXI. Fiscalía General: A la Fiscalía General de Justicia del Estado de México;
 
@@ -364,6 +366,10 @@ XVI. Revisar, programar y enviar la documentación necesaria al Archivo General 
 XVII. Llevar el control y gestión de la correspondencia de los asuntos a su cargo; y
 
 XVIII. Las demás que les confieran otras disposiciones legales o les encomiende el Contralor.
+
+> <small>(ADICIONADO, G.G. 13 DE MARZO DE 2024)</small>
+
+Podrán de manera preferente, hacer uso de la Firma Electrónica en los procesos y trámites de su competencia, conforme a la normatividad vigente en la materia. Previo trámite ante la Autoridad Certificadora del Poder Legislativo y a las normas o manuales emitidos al efecto.
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -1200,3 +1206,21 @@ Los expedientes que se encuentren actualmente en trámite, en términos del acue
 Se abroga el Reglamento Interno de la Contraloría del Poder Legislativo del Estado Libre y Soberano de México publicado mediante decreto 231, del veintiuno de junio de dos mil seis.
 
 Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los trece días del mes de agosto del año dos mil veintiuno.- PRESIDENTE.- DIP. VALENTÍN GONZÁLEZ BAUTISTA.- RÚBRICA.- SECRETARIOS.- DIP. ÓSCAR GARCÍA ROSAS.- RÚBRICA.- DIP. ARACELI CASASOLA SALAZAR.- RÚBRICA.- DIP. ROSA MARÍA PINEDA CAMPOS.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 243.- POR EL QUE SE REFORMA EL ARTÍCULO 40 BIS, LA FRACCIÓN XX DEL ARTÍCULO 62, LA FRACCIÓN I DEL ARTÍCULO 81, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 93 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISTLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 152, EL ARTÍCULO 179, EL PRIMER PÁRRAFO, LAS FRACCIONES I, II, IV Y VI DEL ARTÍCULO 180 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 181 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 180 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración y Finanzas del Poder Legislativo del Estado de México, en un término de noventa días hábiles, después de la entrada en vigor de este Decreto, emitirá las normas para la expedición, uso, renovación y revocación de la Firma Electrónica en el Poder Legislativo del Estado de México.
