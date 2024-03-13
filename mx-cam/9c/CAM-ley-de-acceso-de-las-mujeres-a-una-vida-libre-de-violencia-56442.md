@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-02-23"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -713,6 +713,10 @@ d) Los efectos causados por la violencia en las mujeres; y
 
 e) Los recursos erogados en la atención de las víctimas.
 
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2024)</small>
+
+VI Bis.- Llevar un registro y remitir a las autoridades competentes la información y estadísticas sobre las personas atendidas en caso de lesiones causadas por ácidos, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, líquidos a altas temperaturas o cualquier otra sustancia, protegiendo en todo momento sus datos personales;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
 
 VII.- Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
@@ -1324,3 +1328,13 @@ P.O. 23 DE FEBRERO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE "SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 28 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Por cuanto al registro a que se refiere el presente decreto, la Secretaría de Salud del Estado, deberá realizarlo de conformidad con su disponibilidad presupuestal.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
