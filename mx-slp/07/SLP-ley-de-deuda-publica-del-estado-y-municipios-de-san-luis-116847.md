@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2023-11-23"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,23 @@ state: "SLP"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DE MICHOACÁN
+LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
-Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el viernes 30 de mayo de 2014.
+Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
-FAUSTO VALLEJO FIGUEROA, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+DECRETO 0400
 
-DECRETO
+La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+Decreta
 
-NÚMERO 314
+EXPOSICIÓN DE MOTIVOS
 
-ÚNICO. Se expide la Ley de la Comisión Estatal para la Protección Contra Riesgos Sanitarios de Michoacán.
+[…]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -47,241 +47,347 @@ LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
 ## TÍTULO PRIMERO. De las Disposiciones Generales
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
-###### Artículo 1.
+###### ARTÍCULO 1°.
 
-Se crea la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán, como órgano desconcentrado de la Secretaría de Salud del Estado.
+La presente Ley es de orden e interés público, y tiene por objeto establecer las bases, requisitos y procedimientos para contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que en términos de lo previsto por este ordenamiento, constituyan deuda pública, así como regular lo relativo a su presupuestación, administración, registro, control, aplicación y publicación de las obligaciones financieras que contraigan los Sujetos de esta Ley; así como fijar los mecanismos de garantía y de pago que utilicen para tal efecto.
 
-###### Artículo 2.
+Los sujetos de esta Ley atenderán de manera obligatoria las disposiciones establecidas en la presente y administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-La Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán, tendrá como objeto el ejercicio de las atribuciones que en materia de protección, regulación, supervisión, control, fomento sanitario e imposición de sanciones en materia de salud de acuerdo a lo dispuesto en la presente ley, la Ley General de Salud y la Ley de Salud del Estado de Michoacán de Ocampo, sus reglamentos, los acuerdos celebrados en materia de protección, regulación, control y fomento sanitario, las Normas Oficiales Mexicanas relativas a los productos, actividades, establecimientos y servicios en materia de protección, regulación, control, fomento sanitario y las demás que señalen los ordenamientos legales en la materia.
+###### ARTÍCULO 2°.
 
-###### Artículo 3.
+Son sujetos de esta Ley:
 
-Para efectos de esta Ley se entenderá por:
+I. El Ejecutivo del Estado;
 
-I. Acuerdo Específico: Acuerdos en Coordinación celebrados entre el Gobierno del Estado de Michoacán, la Federación o los Gobiernos Municipales;
+II. Los ayuntamientos;
 
-II. COEPRIS: Comisión Estatal para la Protección Contra Riesgos Sanitarios de Michoacán;
+III. Las entidades estatales y municipales, y
 
-III. COFEPRIS: Comisión Federal para la Protección contra Riesgos Sanitarios;
+IV. Los organismos intermunicipales.
 
-IV. Comisionado Estatal: Titular de la Comisión Estatal para la Protección Contra Riesgos Sanitarios del Estado de Michoacán;
+Los organismos intermunicipales constituyen su propia deuda pública, misma que no se integra a la del Estado ni a la de los municipios.
 
-V. Control Sanitario: Al conjunto de acciones de orientación, protección, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejercen las autoridades sanitarias;
+Las dependencias de la Administración Pública Estatal o Municipal, contratarán su deuda pública, a través del Ejecutivo del Estado, o del ayuntamiento, según sea el caso.
 
-VI. Ley Estatal: Ley de Salud del Estado de Michoacán de Ocampo;
+###### ARTÍCULO 3°.
 
-VII. NOM: Normas Oficiales Mexicanas;
+Para efectos de esta Ley, en singular o plural, se entenderá por:
 
-VIII. Riesgo Sanitario: La probabilidad de ocurrencia de un evento adverso, conocido o potencial, que ponga en peligro la salud o la vida humana;
+I. Afectaciones: comprometer como garantía o fuente de pago de obligaciones los recursos que sean susceptibles para ello, de acuerdo a la normatividad federal y estatal vigente, a través de fideicomisos o contratos análogos;
 
-IX. Secretaría: Secretaría de Salud de Michoacán;
+II. Agencia Calificadora de Valores: la institución autorizada por la Comisión Nacional Bancaria y de Valores, como ente facultado para emitir opiniones al riesgo crediticio de un emisor o de un financiamiento;
 
-X. Sistema Estatal Sanitario: Sistema conformado por las unidades administrativas de la COEPRIS, incluyendo las Coordinaciones jurisdiccionales para la Protección contra Riesgos Sanitarios; y,
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XI. Vigilancia Sanitaria: Conjunto de acciones que tienen por objeto garantizar el cumplimiento de la Ley General de Salud, la Ley de Salud del Estado de Michoacán de Ocampo y demás disposiciones que dicten con base a ellas, para proteger la salud de las personas, a través de visitas de verificación e informes de la publicidad, a cargo del personal autorizado por la autoridad sanitaria.
+III. Asociaciones Público-Privadas: las previstas conforme a la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice;
 
-###### Artículo 4.
+IV. Aportaciones Federales: las ministraciones de recursos que reciben el Estado y los municipios que están destinados a un fin específico de acuerdo al Capítulo V de la Ley de Coordinación Fiscal, y que se contemplan en el Ramo 33 del Presupuesto de Egresos de la Federación;
 
-Para el cumplimiento de su objetivo la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán, tiene a su cargo las siguientes facultades:
+V. Balance Presupuestario de Recursos Disponibles: la diferencia entre los Ingresos de libre disposición incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda. El Financiamiento Neto que se contrate deberá estar dentro del límite establecido por el Sistema de Alertas, en cuyo caso será un balance sostenible; en caso contrario, el balance será negativo;
 
-I. Ejercer el control, vigilancia y el fomento sanitarios de los productos, actividades, establecimientos y servicios; así como, evaluar, expedir o revocar las autorizaciones y ejercer los actos de autoridad en los términos de las disposiciones previstas en la Ley General de Salud, Ley de Salud del Estado de Michoacán de Ocampo, Reglamentos, Acuerdos Específicos, NOM y lo que establece la presente Ley;
+VI. Calificación de riesgo crediticio: la calificación otorgada por una agencia calificadora de valores, a la calidad crediticia de un sujeto de esta Ley;
 
-II. Ejercer las acciones de regulación sanitaria que le sean conferidas mediante la legislación local aplicable;
+VII. Crédito Público: la capacidad jurídica, política, económica y moral de los sujetos de esta Ley para, basados en la confianza de que gozan por su administración, patrimonio e historial crediticio, endeudarse con el objeto de obtener ingresos destinados a realizar inversiones públicas productivas, o cubrir sus necesidades de corto plazo;
 
-III. Dirigir dentro del Sistema Estatal de Salud, las políticas estatales de Protección Contra Riesgos Sanitarios;
+VIII. Créditos: las operaciones de endeudamiento directo o contingente que celebre el Ejecutivo del Estado o los municipios, así como las que contraten las entidades del Estado o las entidades del municipio y los organismos intermunicipales, con el aval o el respaldo solidario del Estado o del Municipio según corresponda;
 
-IV. Vigilar el cumplimiento y la aplicación correcta de las NOM de los distintos productos que se pretendan exponer al mercado;
+IX. Congreso: el Congreso del Estado de San Luis Potosí;
 
-V. Revisar, evaluar, y cumplir con las condiciones que se señalen para la prevención y manejo de productos, además de los servicios que generan un riesgo sanitario;
+X. Dependencias: las secretarías de Despacho, la Oficialía Mayor, la Procuraduría General de Justicia, y la Contraloría General del Estado, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí;
 
-VI. Verificar si los establecimientos satisfacen las condiciones sanitarias de los distintos productos, métodos, instalaciones, servicios o actividades relacionadas con la materia de su competencia;
+XI. Deuda Contingente: cualquier financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con los municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos y, por los propios municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria y sus fideicomisos;
 
-VII. Aplicar y ordenar el levantamiento en materia de su competencia de las medidas de seguridad sanitaria que se deriven de los procedimientos de vigilancia sanitaria;
+XII. Deuda Estatal Garantizada: el financiamiento del Ejecutivo del Estado o ayuntamientos con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-VIII. Imponer las sanciones que correspondan derivadas de los resultados obtenidos de los procedimientos de vigilancia sanitaria, según sea el caso, emitiendo los acuerdos o resoluciones correspondientes;
+XIII. Deuda Directa: los endeudamientos que contraten los sujetos de esta Ley como responsable directo;
 
-IX. Establecer estrategias para la investigación, evaluación y seguimiento de riesgos sanitarios, en coordinación con otras autoridades competentes de la administración pública estatal;
+XIV. Deuda Pública: cualquier financiamiento contratado por los sujetos de esta Ley;
 
-X. Establecer y ejecutar acciones de prevención, regulación, control y fomento sanitario, a fin de prevenir y reducir los riesgos sanitarios derivados por la exposición de la población a factores químicos, físicos, biológicos y desastres naturales;
+XV. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los sujetos de esta Ley, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico, el empleo y la estabilidad del sistema financiero;
 
-XI. Participar en coordinación con las demás unidades administrativas de la Secretaría, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, cuando éstas estén en relación con los riesgos sanitarios;
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XII. Administrar los recursos humanos, materiales y financieros asignados a la Comisión Estatal para la Protección contra Riesgos Sanitarios, de acuerdo a las políticas, lineamientos y demás disposiciones legales aplicables;
+XV Bis. Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las transferencias federales etiquetadas;
 
-XIII. Establecer mecanismos de coordinación, evaluación y supervisión con todas y cada una de las jurisdicciones sanitarias para la Protección Contra Riesgos Sanitarios en los ámbitos de su competencia;
+XVI. Empréstitos: las operaciones de endeudamiento directo o contingente que resulten del crédito público, mediante la emisión de valores que suscriban el Estado, o los municipios, así como las que emitan las entidades del Estado o las entidades de los municipios y los organismos intermunicipales, con el aval o el respaldo solidario del Estado, o Municipio correspondiente;
 
-XIV. Difundir la información relativa respecto a los lineamientos y disposiciones sanitarias, para su conocimiento y aplicación correcta;
+XVII. Entidades del Estado: los organismos descentralizados estatales, las empresas de participación estatal mayoritaria, y los fideicomisos públicos que de conformidad con la Ley Orgánica de la Administración Pública del Estado, sean considerados entidades paraestatales;
 
-XV. Expedir o revocar las autorizaciones, certificados y avisos, establecidos en la Ley de Salud del Estado de Michoacán de Ocampo;
+XVIII. Entidades de los Municipios: los organismos descentralizados municipales, las empresas de participación municipal mayoritaria, y los fideicomisos públicos municipales;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+XIX. Fideicomisos: aquéllos que por contrato o mediante acuerdo expreso constituyen el Estado o los municipios, con el propósito de que sirvan de auxilio en el ejercicio de las atribuciones legales que tienen conferidas cada uno de ellos, para impulsar las áreas prioritarias del desarrollo;
 
-XVI. Realizar la vigilancia sanitaria en los domicilios de los establecimientos comerciales o de servicios públicos o privados, conforme a lo dispuesto en la Ley General de Salud y en la Ley de Salud del Estado de Michoacán de Ocampo, cerciorándose que corresponda al establecimiento indicado, caso contrario, debe levantar un informe detallado a fin de que se actualice el padrón de establecimientos sujetos a la legislación sanitaria y elaborará un informe trimestral, mismo que será publicado en la página de internet de la COEPPRIS (SIC) y de la Secretaría de Salud. En el caso de los establecimientos de salud, cualquiera que sea el tipo, categoría o modalidad, deberá mantener actualizado el catálogo de dichos establecimientos conforme a la normatividad aplicable y a las normas oficiales mexicanas en la materia. Además, realizará actividades de detección de establecimientos que ofrezcan servicios de salud y que no cuenten con las licencias, permisos o avisos de funcionamiento necesarios y elaborará un informe trimestral respecto a los hallazgos y a las denuncias y acciones tomadas en estos casos, mismo que será publicado en la página de internet de la COEPRIS y de la Secretaría de Salud.
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XVII. Las demás que señalen otras disposiciones legales aplicables.
+XIX Bis. Fideicomisos Públicos con Estructura Orgánica: aquellos que cuentan con un Comité Técnico, un Director General, y una estructura análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, por lo que son considerados Entidades paraestatales;
 
-###### Artículo 5.
+XX. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos de esta Ley, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-Son autoridades de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán las siguientes:
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-I. El Secretario de Salud del Estado; y,
+XXI. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 
-II. El Comisionado Estatal.
+XXII. Fuente de Pago: los recursos utilizados por los sujetos de esta Ley para el pago de cualquier financiamiento u obligación;
 
-###### Artículo 6.
+XXIII. Gasto Corriente: las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo de manera enunciativa, el gasto en servicios personales, materiales y suministros y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
-La Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán, para la atención y despacho de los asuntos de su competencia, contará con los servidores públicos y unidades administrativas siguientes:
+XXIV. Garantía de Pago: mecanismo que respalda el pago de un financiamiento u obligación contratada;
 
-I. Un Comisionado;
+XXV. Gastos no Etiquetados: las erogaciones que realiza el Estado y los municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
 
-II. Un Sub comisionado;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2024)</small>
 
-III. Un Departamento de Evidencia y Manejo de Riesgos;
+XXV BIS. Gastos y costos relacionados con la contratación: aquellos que estén relacionados con la celebración del Financiamiento, que, de manera enunciativa mas no limitativa, son: comisiones de apertura, comisiones por disposición, comisiones por estructuración, costos por la contratación de calificadoras, de instrumentos derivados y garantías de pago, sin incluir honorarios por asesoría profesional, técnica, legal y financiera.
 
-IV. Un Departamento de Fomento Sanitario;
+XXVI. Ingresos de Libre Disposición: los ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las entidades federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
-V. Un Departamento de Operación Sanitaria;
+XXVII. Ingresos Excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
-VI. Un Departamento de Autorización y Dictamen;
+XXVIII. Ingresos Ordinarios: los ingresos que perciban cada uno de los sujetos de esta Ley por concepto de impuestos, derechos, contribuciones por mejoras, productos, aprovechamientos, participaciones federales y estatales, aportaciones federales, así como por otros conceptos que sustituyan a los mencionados anteriormente, y otros que regularmente perciba el sujeto de esta Ley que corresponda, sin considerar los recursos derivados de financiamiento;
 
-VII. Una Unidad de Resolución y Sanciones;
+XXIX. Ingresos Propios: aquéllos percibidos por el Estado y los municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
 
-VIII. Una Unidad de Administración de Recursos;
+XXX. Ingresos Totales: la totalidad de los Ingresos de libre disposición, las transferencias federales etiquetadas y el Financiamiento Neto;
 
-IX. Un Enlace de Informática y Servicios;
+XXXI. Instituciones Financieras: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público, o por cualquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
 
-X. Un departamento jurídico;
+XXXII. Instrumentos Derivados: los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;
 
-XI. Un Enlace de Comunicación Social;
+XXXIII. Inversión Pública Productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
-XII. Un Enlace Federal y Estatal; y,
+XXXIV. Ley de Ingresos: la Ley que contempla los ingresos que en un ejercicio fiscal recibirán el Estado y los municipios, aprobados por el Congreso;
 
-XIII. 8 Coordinadores Jurisdiccionales para la Protección Contra Riesgos Sanitarios.
+XXXV. Líneas de Crédito: a los montos máximos de financiamiento aprobados por las instituciones financieras autorizadas;
 
-###### Artículo 7.
+XXXVI. Obligaciones: los compromisos de pago a cargo de los sujetos de esta Ley derivados de los financiamientos y de las Asociaciones Público-Privadas;
 
-Al frente de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán, estará un Comisionado el cual será nombrado por el Gobernador del Estado, a propuesta de una terna presentada por el Secretario de Salud, a quien corresponderá la supervisión de este órgano desconcentrado.
+XXXVII. Obligaciones a Corto Plazo: cualquier obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
 
-###### Artículo 8.
+XXXVIII. Participaciones Federales: las ministraciones de recursos que reciben el Estado y los municipios por concepto de la proporción que corresponde a sus haciendas públicas de los ingresos federales de libre disposición y que se contemplan en el Ramo 28 del Presupuesto de Egresos de la Federación;
 
-Son requisitos para ser Comisionado Estatal:
+XXXIX. Periódico Oficial: Periódico Oficial del Gobierno del Estado "Plan de San Luis";
 
-I. Tener una residencia mínima en el Estado de Michoacán de 3 años anterior al de su designación;
+XL. Presupuesto de Egresos: documento que establece la distribución del gasto público para un ejercicio fiscal, aprobado por el Congreso para el caso del gasto Estatal, y por el cabildo en el caso de gasto municipal;
 
-II. Contar con título profesional y cédula profesional vigentes;
+XLI. Quirografario: aquél que consta de manera escrita que no tiene garantía específica que respalde su recuperación;
 
-III. Contar con experiencia de 3 años en el ejercicio de actividades relacionadas con la regulación sanitaria o salud pública;
+XLII. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un financiamiento;
 
-IV. Haber realizado funciones o actividades vinculadas con administración, estrategias, proyectos o programas relacionados con el ámbito de la protección contra riesgos sanitarios;
+XLIII. Reglamento: el Reglamento de esta Ley;
 
-V. Ser mayor de 30 años de edad al día de su designación; y,
+XLIV. Refinanciamiento: la contratación de uno o varios financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más financiamientos previamente contratados;
 
-VI. No haber sido sentenciado con pena privativa de la libertad por delito culposo, ni estar inhabilitado para desempeñarse como servidor público.
+XLV. Registro Estatal: al Registro de Obligaciones y Empréstitos del Estado y Municipios de San Luis Potosí, a cargo de la Dirección de Financiamiento, Deuda y Crédito Público de la Secretaría de Finanzas;
+
+XLVI. Registro Público Único: el registro para la inscripción de obligaciones y financiamientos que contraten los sujetos de esta Ley, a cargo de la Secretaría de Hacienda y Crédito Público;
+
+XLVII. Secretaría: la Secretaría de Finanzas;
+
+XLVIII. Servicio de la Deuda: son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros a los Sujetos de esta Ley, derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
+
+XLIX. Sistema de Alertas: la evaluación y publicación hecha por la Secretaría de Hacienda y Crédito Público sobre los indicadores de endeudamiento de los sujetos de esta Ley;
+
+L. Sujetos de esta Ley: a los enumerados en el artículo 2° de esta Ley;
+
+Ll. Techo de Financiamiento Neto: el límite de financiamiento neto anual que podrá contratar cada uno de los sujetos de esta Ley con fuente de pago de Ingresos de libre disposición. Dicha fuente de pago podrá estar afectada a un vehículo específico de pago o provenir directamente del Presupuesto de Egresos;
+
+LII. Transferencias Federales Etiquetadas: los recursos que reciben el Estado y los municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y el Presupuesto de Egresos de la Federación, y
+
+LIII. Valores: a los valores representativos de un empréstito o financiamiento, tales como, las obligaciones, bonos, certificados y demás títulos de crédito, nominados o innominados, representativos de la parte alícuota de un bien o de la participación en un crédito colectivo o de cualquier derecho de crédito individual, que emitan los sujetos de esta Ley, en serie o en masa, en los términos de las leyes que rijan, destinados a circular en el mercado de valores, incluyendo los que se emitan de manera indirecta, mediante fideicomisos, a través de instituciones fiduciarias y al amparo, en su caso, de una acta de emisión, cuando por disposición de ley o de la naturaleza de los títulos correspondientes así se requiera.
+
+###### ARTÍCULO 4°.
+
+A falta de disposición expresa en esta Ley, se aplicarán supletoriamente, la Ley de Presupuesto y Responsabilidad Hacendaría del Estado y Municipios de San Luis Potosí; la Ley de Coordinación Fiscal; y la Ley del Mercado de Valores; se estará a la interpretación de la Secretaría para efectos administrativos.
+
+Los sujetos de esta Ley deberán de observar las normas contables que emita el Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, incluyendo los criterios a seguir para la elaboración y presentación homogénea de la información financiera referida en la misma.
+
+Los titulares de los sujetos de esta Ley serán responsables del estricto cumplimiento de la misma, así como de las disposiciones que con base en ésta se emitan. Las infracciones a este Ordenamiento y a sus disposiciones administrativas se sancionarán en los términos del Título Quinto de esta Ley, y de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+###### ARTÍCULO 5°.
+
+Para efectos de esta Ley se entiende por obligaciones constitutivas de deuda pública, las siguientes:
+
+I. La suscripción de títulos de crédito, bonos de deuda pública o de cualquier otro documento pagadero a plazos a excepción de lo dispuesto por la fracción II del artículo 6° de esta Ley;
+
+II. La emisión y colocación de valores, títulos de crédito y demás documentos señalados en la Ley del Mercado de Valores, que conforme a su naturaleza tenga permitido emitir, los que serán inscritos en la Sección de Valores del Registro Nacional de Valores e Intermediarios, y se cotizarán en la Bolsa Mexicana de Valores, S.A.B. de C.V., mediante los cuales se capten recursos financieros para los sujetos de esta Ley y se optimicen los ya existentes;
+
+III. El refinanciamiento y la reestructuración de los pasivos anteriores, cuyo propósito se (sic) disminuir, administrar o mejorar las condiciones de éstos, y
+
+IV. Las disposiciones monetarias efectivas de las líneas de crédito que tengan contratadas los sujetos de esta Ley, cuyo vencimiento se pacte en plazo superior a un año.
+
+###### ARTÍCULO 6°.
+
+No constituyen deuda pública las obligaciones que de forma directa, indirecta o contingente, contraigan los sujetos de esta Ley en los siguientes casos:
+
+I. Cuando los integrantes de algún órgano de gobierno o titulares de una dependencia o entidad actúen como sujetos de derecho privado;
+
+II. Cuando los financiamientos directos con las instituciones financieras que contraten los sujetos de esta Ley se realicen para cubrir necesidades de corto plazo, siempre y cuando se cumpla con lo establecido por los artículos 31 y 32 de esta Ley, y
+
+III. Cuando celebren contratos para adquisiciones, arrendamientos, obras o prestación de servicios cuya vigencia sea mayor de un año, sin la afectación de ingresos, ni los mecanismos de afectación para cubrir dichos contratos.
+
+Los financiamientos señalados en la fracción II, no se considerarán dentro de los montos anuales de endeudamiento autorizados en las respectivas leyes de ingresos, mismos que estarán sujetos a los requisitos de información y registro previstos en esta Ley.
+
+###### ARTÍCULO 7°.
+
+Las obligaciones constitutivas en la deuda pública estarán invariablemente destinadas a inversiones públicas productivas, entendiéndose como tal toda erogación por la cual se genere, directa o indirectamente, un beneficio social y, adicionalmente, cuya finalidad específica sea:
+
+I. La construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público;
+
+II. La adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o
+
+III. La adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable.
+
+###### ARTÍCULO 8°.
+
+Los sujetos de esta Ley podrán reestructurar o refinanciar su deuda pública con el objeto de lograr mejores condiciones de plazo, tasas de interés, comisiones, o reducir las cargas financieras por servicio de la deuda pública, entre otras, a través de las figuras jurídicas siguientes:
+
+I. La reestructuración, que se refiere a los financiamientos, empréstitos y la emisión de valores que celebran o coloquen los sujetos de esta Ley, a efecto de mejorar las condiciones de tasas de interés, plazo, amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor que no implique novación, y
+
+II. El refinanciamiento, que consiste en los financiamientos, empréstitos y emisión de valores que celebren o coloquen los sujetos de esta Ley, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, amortización, garantías y otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, sustituyendo o novando las obligaciones del financiamiento original por uno o varios financiamientos con el mismo o con diferente acreedor.
 
 ## TÍTULO SEGUNDO. Principios y Competencias en Materia de Deuda Pública
 
-### CAPÍTULO SEGUNDO. ÁMBITO DE COMPETENCIA
+### CAPÍTULO I. De los Principios Rectores en Materia de Deuda Pública
 
-###### Artículo 9.
+###### ARTÍCULO 9°.
 
-El Comisionado, será el representante legal de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán y tendrá las siguientes atribuciones:
+El Estado y los municipios velarán por la estabilidad de las finanzas públicas y del sistema financiero, para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo, por ello, la contratación de deuda pública será efectuada con estricto apego a los siguientes principios:
 
-I. Acordar con el titular de la Secretaría los asuntos relacionados con las unidades administrativas adscritas a la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán;
+I. En ningún caso se podrán celebrar financiamientos, empréstitos y la emisión de valores, con gobiernos de otras naciones, con personas físicas o morales extranjeras;
 
-II. Verificar que los sistemas de regulación, control y fomento sanitario a establecimientos, se realicen de acuerdo con los lineamientos y procedimientos indicados por la Comisión Federal para la Protección contra Riesgos Sanitarios;
+II. Los financiamientos, empréstitos y la emisión de valores no podrán pagarse en moneda extranjera o fuera del territorio nacional. Cuando las obligaciones que asuman los sujetos de esta Ley se hagan constar en valores o títulos de crédito, se deberá indicar en el texto de los mismos que sólo podrán ser negociados dentro del territorio nacional con personas físicas o morales de nacionalidad mexicana;
 
-III. Aplicar las medidas de seguridad conducentes e imponer sanciones administrativas en el ámbito de su competencia, así como remitir a las instancias competentes para su cumplimiento;
+III. En los supuestos de refinanciamiento o reestructura queda prohibido pactar indemnizaciones o cláusulas penales por concepto de pago anticipado que excedan del término del periodo constitucional del acreditado, o éstas impliquen una penalización superior al dos por ciento del capital total adeudado;
 
-IV. Conducir la operación de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán, a fin de que sus funciones se realicen de manera articulada, congruente y eficaz, de conformidad con sus programas de trabajo;
+IV. Sólo podrán contraer obligaciones o financiamientos cuando se destinen a inversiones públicas productivas y a refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas obligaciones y financiamientos, así como las reservas que deban constituirse en relación con las mismas;
 
-V. Vigilar el cumplimiento de las normas, criterios, sistemas y procedimientos de carácter técnico y operativo que deban observarse en la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán;
+V. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente;
 
-VI. Desempeñar las funciones y comisiones que el titular de la Secretaría le encomiende así como mantenerlo informado sobre su desarrollo;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-VII. Acordar sobre la designación o destitución, con el Secretario de Salud, en relación a los titulares de las unidades administrativas dentro de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán;
+VI. Los financiamientos, empréstitos y la emisión de valores deberán atender a los objetivos y metas contenidos en los planes, estatal y municipales de desarrollo según corresponda y, en su caso, en los programas que, en términos de la legislación en materia de planeación se emitan, dando preferencia al desarrollo de la infraestructura social en las zonas con alto grado de marginación;
 
-VIII. Elaborar y actualizar los manuales de organización y procedimientos para la ejecución de las atribuciones de la Comisión Estatal para la Protección Contra Riesgos Sanitarios;
+VII. La autorización de montos o conceptos de endeudamiento en los correspondientes presupuestos de egresos y leyes de ingresos de los sujetos de esta Ley, no los autoriza para contratar financiamientos. Para tales efectos, deberán contar con la respectiva autorización del Congreso;
 
-IX. Proporcionar la información de datos o fichas técnicas que le sea requerida por otras dependencias de la Administración Pública Estatal así como de los particulares en términos de la Ley de Acceso a la Información Pública del Estado de Michoacán;
+VIII. En todos los casos se procurará mantener un equilibrio financiero y un Balance Presupuestario de Recursos Disponibles sostenible, por lo tanto, la programación, contratación y pago de los financiamientos se deberán ajustar a la capacidad de pago de los sujetos de esta Ley, para asegurar la autosustentabilidad de la deuda pública. Dicha capacidad se establecerá principalmente en función de las obligaciones de éstos, y de la disponibilidad presupuestal del ejercicio fiscal en curso y de los subsecuentes. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago y endeudamiento de los sujetos de esta Ley, con base en los techos de financiamiento que establece el artículo 45 de esta Ley;
 
-X. Suscribir convenios, acuerdos o documentos relativos al ejercicio de sus funciones de manera enunciativa; emitiendo y firmando toda clase de oficios, informes, documentos, requerimientos, dictámenes, penalizaciones y sanciones derivadas de las funciones de su encargo en términos de la Ley General de Salud, Ley de Salud del Estado de Michoacán de Ocampo, los reglamentos de ambas, las NOM en materia de Salud, convenios y acuerdos de coordinación celebrados con la Comisión Federal para la Protección contra Riesgos Sanitarios, las dependencias federales, estatales y municipales, en términos de las demás disposiciones legales en materia de salud, así mismo todo aquello que se le indique por previo acuerdo del Secretario de Salud;
+IX. Los sujetos de esta Ley deberán incluir en sus respectivas leyes o presupuestos de egresos del ejercicio fiscal correspondiente, las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a su cargo, en el año fiscal de que se trate;
 
-XI. Expedir y cotejar las copias de los documentos o constancias que obren en sus archivos que le sean solicitadas por particulares u organismos públicos o privados dentro del marco de la legislación vigente;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2020)</small>
 
-XII. Elaborar, actualizar y difundir anualmente el diagnóstico sobre la situación prevaleciente del sistema de control contra riesgos sanitarios en el estado;
+X. Deberán buscarse las alternativas o modalidades de mercado que permitan obtener las mejores condiciones en cuanto a tasas de interés, comisiones, plazos, y demás accesorios legales y contractuales derivados de las operaciones de financiamiento y empréstitos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia;
 
-XIII. Promover y coordinar la capacitación así como la difusión permanente de acciones de prevención y fomento sanitario, en coordinación con los particulares, organismos privados, así como con las unidades administrativas de la Secretaría y las demás dependencias de la Administración Pública Estatal;
+XI. Dentro de los términos de la vigencia de los financiamientos, empréstitos y emisión de valores, los sujetos de esta Ley podrán gestionar la modificación de la deuda pública, sujetándose a las disposiciones de la presente Ley;
 
-XIV. Establecer los criterios para la programación, ejecución y evaluación de la información sobre el control de riesgos sanitarios en el Estado;
+XII. En ningún caso podrán permanecer u otorgarse como garantía de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión;
 
-XV. Promover y orientar investigaciones dirigidas a identificar los riesgos sanitarios así como evaluar la eficiencia de las medidas de control y fomento sanitario;
+XIII. Los fideicomisos de garantía, administración y pago, así como los bursátiles, se sujetarán para su operación a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles correspondientes. Los bienes, los ingresos, así como las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios afectos a los fideicomisos señalados en la fracción que antecede, se considerarán desincorporados temporalmente del patrimonio de los sujetos de esta Ley;
 
-XVI. Establecer los mecanismos de coordinación, supervisión, evaluación y comunicación con las coordinaciones regionales para la Protección contra Riesgos Sanitarios en los ámbitos de su competencia;
+XIV. Los sujetos de esta Ley deberán integrar los documentos necesarios en materia de deuda pública, a fin de que los procedimientos, actos o convenios sean susceptibles de auditoría o revisión por las instancias competentes, y
 
-XVII. Promover la cooperación con instituciones federales, estatales, municipales, públicas y privadas para propiciar el intercambio técnico y académico, así como para la elaboración de proyectos preventivos de control;
+XV. Los financiamientos, empréstitos y la emisión de valores inscritos en el Registro Estatal, así como sus anotaciones, sólo podrán modificarse con los mismos requisitos y formalidades previstos para llevar a cabo su inscripción correspondiente.
 
-XVIII. Comisionar a los servidores públicos de las diferentes unidades administrativas para que realicen actividades relacionadas con los fines de la Comisión Estatal para la Protección Contra Riesgos Sanitarios;
+### CAPÍTULO II. De las Competencias en Materia de Deuda Pública
 
-XIX. Expedir acreditaciones para practicar visitas y verificaciones sanitarias, en los términos, objeto y alcance que se especifique en la orden de visita; y,
+###### ARTÍCULO 10.
 
-XX. Las demás que la normatividad aplicable le atribuya.
+Son órganos competentes en materia de deuda pública dentro del ámbito de sus respectivas atribuciones:
 
-### CAPÍTULO TERCERO. UNIDADES ADMINISTRATIVAS
+I. El Poder Legislativo del Estado;
 
-###### Artículo 10.
+II. El Poder Ejecutivo del Estado;
 
-Atribuciones del Sub Comisionado:
+III. La Secretaría de Finanzas;
 
-I. Suplir al Comisionado en su ausencia;
+IV. Los ayuntamientos, y
 
-II. Vigilar el cumplimiento de las disposiciones de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán;
+V. Los órganos de gobierno de las entidades estatales y municipales y los organismos intermunicipales.
 
-III. Participar en todos los programas y acciones que le competen a la Comisión Estatal para la Protección contra Riesgos Sanitarios; y,
+###### ARTÍCULO 11.
 
-IV. Las que el Comisionado le encomiende dentro de su ámbito de competencia.
+Corresponden al Poder Legislativo del Estado las siguientes atribuciones:
 
-###### Artículo 11.
+I. Recibir, analizar y, en su caso, autorizar mediante Decreto, los empréstitos, financiamientos, contratos de asociaciones público-privadas y la emisión de valores de:
 
-En caso de procedimientos de carácter judicial o administrativo en los que tenga que intervenir el comisionado, la suplencia recaerá en el titular del departamento jurídico y a falta de este, por los servidores públicos que se encomienden para dicho fin o que sea requerido para tal.
+a) El Ejecutivo del Estado, cuando los plazos de amortización rebasen un año o el periodo constitucional del titular del Poder Ejecutivo.
 
-###### Artículo 12.
+b) Los ayuntamientos, previa autorización de las dos terceras partes del cabildo, cuando excedan de su periodo constitucional, siempre y cuando existan razones justificadas para ello, y se contemple su pago en los correspondientes presupuestos de egresos.
 
-Los recursos para el financiamiento de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán serán los que se prevean dentro del Presupuesto de Egresos del Estado de Michoacán de Ocampo, los que la Federación le aporte a través de los convenios específicos que apliquen en la materia y los ingresos propios que por el ejercicio de sus atribuciones obtenga y los captados por las sanciones económicas que imponga.
+c) Las entidades del Estado y de los municipios, así como de los organismos intermunicipales, previa autorización de las dos terceras partes de los integrantes de su órgano de gobierno, cuando los plazos de amortización excedan de un año;
 
-Los ingresos que la Comisión Estatal para la Protección contra Riesgos Sanitarios obtenga por concepto de donativos o aportaciones de las dependencias, entidades e instituciones públicas, así como las provenientes del sector social y privado deberán observar las disposiciones legales aplicables.
+II. Autorizar al Ejecutivo del Estado o a los ayuntamientos, previa aprobación de las dos terceras partes de los miembros que integran éstos últimos, para intervenir como aval o deudor solidario de los financiamientos y/o empréstitos que se contraten en términos de esta Ley;
 
-T R A N S I T O R I O S
+III. Aprobar anualmente en las leyes de ingresos y del Presupuesto de Egresos del Estado, el ingreso que obtenga el Ejecutivo del Estado o sus entidades por un financiamiento, empréstito y la emisión de valores, y las partidas presupuestales para su destino y pago durante el ejercicio fiscal correspondiente;
 
-PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+IV. Aprobar las modificaciones a la Ley de Ingresos, y del Presupuesto de Egresos del Estado para incluir, respectivamente, el ingreso que obtenga el Ejecutivo del Estado o sus entidades, por un financiamiento, empréstito y la emisión de valores; y las partidas presupuestales para su destino y pago, cuando el endeudamiento se dé después de haberse aprobado los ordenamientos legales referidos;
 
-SEGUNDO. A su entrada en vigor la Dirección de Protección Contra Riesgos Sanitarios (DIREPRIS) se convertirá en la Comisión Estatal para la Protección Contra Riesgos Sanitarios de Michoacán (COEPRIS).
+V. Aprobar anualmente en la Ley de Ingresos del municipio respectivo, el ingreso que obtenga por concepto de un financiamiento, empréstito y emisión de valores; así como las modificaciones a este ordenamiento legal, cuando la contratación del endeudamiento se dé después de haberse aprobado la ley aludida;
 
-TERCERO. Los recursos humanos, materiales y presupuestales asignados a la Dirección de Protección contra Riesgos Sanitarios del Organismo Público Descentralizado de Servicios de Salud de Michoacán, para el ejercicio de las funciones sustantivas a que se refiere esta Ley, quedan reasignados a la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán.
+VI. Autorizar la contratación de financiamientos y/o empréstitos a dos o más ayuntamientos, que se coordinen bajo el amparo de una línea de crédito global o en su caso, la emisión conjunta de valores, las cuales serán negociadas y gestionadas con la asesoría de la Secretaría;
 
-CUARTO. Las relaciones laborales entre la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán y los trabajadores de los Servicios de Salud comisionados a la misma, se regirán conforme a las condiciones generales de trabajo de la Secretaría de Salud aplicables a los Servicios de Salud de Michoacán.
+VII. Autorizar la afectación en pago y/o garantía, las participaciones federales presentes y futuras que le toquen al Estado o al ayuntamiento correspondiente, los fondos de aportaciones federales respectivos en los términos y hasta por los montos previstos por la Ley de Coordinación Fiscal, sus ingresos propios o los bienes muebles o inmuebles que poseen y que no se encuentren destinados directamente a la prestación de un servicio público, así como el mecanismo jurídico, a través del cual se realice tal afectación;
 
-QUINTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto y sean del ámbito de la Dirección Estatal para la Protección contra Riesgos Sanitarios, serán conocidos y resueltos por la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán.
+VIII. Autorizar la afectación en pago y garantía, sus ingresos propios o los bienes muebles o inmuebles que poseen, y que no se encuentran destinados directamente a la prestación de un servicio público de las entidades del Estado o de los municipios, así como de los organismos intermunicipales, previa autorización de las dos terceras partes de los integrantes de su órgano de gobierno;
 
-SEXTO. La organización, funciones y distribución de facultades de las unidades administrativas de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán se establecerán en el Reglamento que, para tal efecto, expida el Gobernador del Estado en un término de noventa días. Hasta en tanto no se expida este Reglamento, continuarán en vigor las disposiciones que señala el Reglamento Interior de la Administración Pública Centralizada y el Reglamento Interior de los Servicios de Salud de Michoacán para la Dirección de Protección contra Riesgos Sanitarios, en lo que no se opongan a lo dispuesto en el presente decreto.
+IX. Autorizar a los sujetos de esta Ley la reestructura, el refinanciamiento, y cualquier otro instrumento legal cuando así se justifique, de las obligaciones financieras que hayan adquirido como deudor directo o como aval o deudor solidario, modificando, en su caso, tasas de interés, plazos, condiciones, acreedor y formas de pago, cuando la modificación correspondiente implique una mejoría de los términos y circunstancias en que originalmente se autorizaron, y
 
-SÉPTIMO. En el proceso de creación de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán se deben garantizar los derechos de sus trabajadores, en los términos que disponga la legislación aplicable.
+X. Las demás que en materia de deuda pública les correspondan, conforme a otras disposiciones legales.
 
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+Tratándose de contratos de asociaciones público-privadas que impliquen el otorgamiento de una garantía estatal o municipal, se regirá por lo dispuesto en esta Ley.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 08 ocho días del mes de mayo de 2014 dos mil catorce.
+La aprobación prevista en las fracciones III, IV y V de este artículo, se otorgará cuando previa o simultáneamente, se emita el decreto en el que se autoriza el endeudamiento.
 
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO.- DIP. JOSÉ ELEAZAR APARICIO TERCERO.- SEGUNDA SECRETARIA.- DIP. DANIELA DE LOS SANTOS TORRES.- TERCER SECRETARIO.- DIP. CÉSAR MORALES GAYTÁN. (Firmados).
+###### ARTÍCULO 12.
 
-En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de mayo del año 2014 dos mil catorce.
+Corresponde al Poder Ejecutivo del Estado por conducto de la Secretaría, las siguientes atribuciones:
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL ENCARGADO DE DESPACHO DE LA SECRETARÍA DE GOBIERNO.- LIC. MARCO VINICIO AGUILERA GARIBAY. (Firmados).
+I. Contratar directamente los financiamientos, empréstitos y la emisión de valores a cargo del Gobierno Estatal en los términos de esta Ley. Los títulos de crédito y demás documentos requeridos para tal efecto, serán suscritos por el titular del Ejecutivo del Estado, el Secretario General de Gobierno, y el Secretario de Finanzas;
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+II. Tomar las medidas de carácter administrativo relativas al pago de la deuda principal y sus accesorios, así como cumplir con los requisitos y formalidades establecidas en los contratos del financiamiento, empréstito y de la emisión de valores;
 
-P.O. 30 DE MARZO DE 2023.
+III. Tomar las medidas necesarias a fin de que el financiamiento neto a contratar en el ejercicio fiscal correspondiente arroje un Balance Presupuestario de Recursos Disponibles sostenible o, en su caso, para el Balance Presupuestario de Recursos Disponibles negativo, autorizado por el Congreso. Se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero;
+
+IV. Fungir como aval o deudor solidario en la contratación de empréstitos y financiamientos a cargo de los sujetos señalados en las fracciones II, III y IV del artículo 2° de esta Ley;
+
+V. Reestructurar, refinanciar y cualquier otro cambio, cuando así se justifique, las obligaciones financieras ya adquiridas como deudor directo o como aval o deudor solidario, modificando, en su caso, tasas de interés, plazos, condiciones, acreedor y formas de pago, previa aprobación del Congreso, salvo las excepciones previstas en esta Ley, cuando la modificación correspondiente sea bajo las mejores condiciones de mercado;
+
+VI. Llevar el Registro Estatal actualizado y detallado de la deuda pública, que refleje su situación en los informes de los estados financieros trimestrales y anual de cuenta pública;
+
+VII. Publicar cada tres meses en el Periódico Oficial y en el portal de obligaciones de transparencia del Gobierno del Estado, la información relativa a la deuda pública directa y contingente, con números a marzo, junio, septiembre y diciembre de cada año;
+
+VIII. Asesorar a los municipios en todo lo relativo a la obtención de recursos crediticios, contratación de empréstitos y otras operaciones financieras para sí o para sus entidades, así como a los organismos intermunicipales y cuando dos o más municipios se lo soliciten, gestionar ante el Congreso la autorización global para el endeudamiento y la celebración de instrumentos legales para formalizar los mecanismos mediante los cuales se realice el pago y/o se garanticen las obligaciones que contraigan, a los cuales se podrán adherir aquellos municipios a los que les resulte conveniente, en el entendido que cada municipio deberá obtener de manera previa a la contratación del financiamiento, la autorización de cuando menos las dos terceras partes de su cabildo;
+
+IX. Consignar anualmente en la iniciativa del Presupuesto de Egresos del Estado, las amortizaciones por concepto de capital y el pago de intereses a que den lugar los empréstitos, financiamientos y la emisión de valores contratados por el Ejecutivo del Estado o sus entidades;
+
+X. Establecer en la iniciativa de Ley de Ingresos del Estado, el ingreso que se pretende obtener mediante un financiamiento, empréstito y la emisión de valores;
+
+XI. Cuando las circunstancias extraordinarias así lo requieran, promover ante el Congreso las modificaciones a la Ley de Ingresos, y del Presupuesto de Egresos del Estado, para incluir el ingreso que se pretenda obtener mediante un endeudamiento, y el destino y pago, respectivamente, cuando éste se contrate una vez que los ordenamientos legales referidos hayan sido ya aprobados; así como promover dichas modificaciones ante la necesidad de un Balance Presupuestario de Recursos Disponibles negativo;
+
+XII. Realizar oportunamente el pago de amortizaciones e intereses, así como accesorios a que haya lugar, derivados de empréstitos, financiamientos y de la emisión de valores contratados;
+
+XIII. Supervisar, a través de su órgano de control correspondiente, que los recursos obtenidos por las operaciones financieras contratadas, sean aplicados precisamente en los fines previstos;
+
+XIV. Vigilar que la capacidad de pago de las entidades del Estado, que contraten empréstitos, financiamientos y la emisión de valores, sea suficiente para cubrir puntualmente los compromisos de pago establecidos;
+
+XV. Informar al Congreso cuando éste lo solicite, acerca de las operaciones relativas a la deuda pública estatal;
+
+XVI. Realizar los trámites necesarios para cumplir con los requisitos de registro de la deuda pública estatal, ante la Secretaría de Hacienda y Crédito Público;
+
+XVII. Solicitar a los sujetos de esta Ley la información sobre las operaciones y saldos de su deuda pública;
+
+XVIII. Instrumentar los mecanismos de garantía y/o pago adecuados para el cumplimiento puntual de las obligaciones financieras;
+
+XIX. Afectar las participaciones presentes y futuras o los fondos de aportaciones correspondientes de los ayuntamientos, en los términos y hasta por los montos que establece la Ley de Coordinación Fiscal, cuando éstos los señalen expresamente como fuente de pago y/o garantía de las obligaciones financieras contratadas;
+
+XX. Llevar el registro actualizado y detallado de la deuda pública municipal, y asesorar a los municipios, sus entidades y a los organismos Intermunicipales, a fin de que su aplicación se dé en los términos señalados por el decreto de autorización;
+
+XXI. Afectar las participaciones y los fondos de aportación federal que le correspondan al Estado, de acuerdo con los términos y montos que establece la Ley de Coordinación Fiscal, así como los ingresos propios o los bienes muebles o inmuebles que posee y que no se encuentran destinados directamente a la prestación de un servicio público, cuando éstas se señalen expresamente como fuente de pago y garantía de las obligaciones financieras contratadas, y
+
+XXII. Las demás facultades que en materia de deuda pública le confieran, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, esta Ley, así como otras disposiciones legales aplicables.
+
+La Secretaría será la única dependencia del Ejecutivo del Estado, facultada para autorizar la contratación de deuda de corto plazo, a las entidades del Estado.
 
 ###### ARTÍCULO 13.
 
@@ -381,6 +487,10 @@ Para la contratación de financiamientos, empréstitos y la emisión de valores,
 
 Los sujetos de esta Ley sólo podrán contraer obligaciones o financiamientos cuando se destinen a inversiones públicas productivas y a refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas obligaciones y financiamientos, así como las reservas que deban constituirse en relación con las mismas.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2024)</small>
+
+Para efectos de lo anterior, los entes públicos, sólo podrán destinar hasta un 0.15 por ciento del monto de los financiamientos para cubrir los Gastos y costos relacionados con la contratación.
+
 Cuando las obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la inversión pública productiva realizada.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
@@ -463,7 +573,7 @@ b) El plazo de pago.
 
 c) El destino específico, desglosado por obra o acción.
 
-d) La o las instituciones financieras con las que se pretende contratar.
+d) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2023)
 
 e) La fuente de pago y de garantía.
 
@@ -491,9 +601,9 @@ c) La Ley de Ingresos, y el Presupuesto de Egresos del ayuntamiento, entidad mun
 
 d) Los proyectos de las obras o acciones a realizar con los recursos que se obtengan del empréstito, financiamiento y emisión de valores.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
-e) Opinión emitida por el titular del Instituto de Fiscalización Superior del Estado, del estado financiero, deuda pública y obligaciones de pago.
+e) Opiniones emitidas en primer término por el titular de la Secretaría de Finanzas del Gobierno del Estado, con relación a sus obligaciones de pago y deuda pública inscritas en el Registro Estatal; así como su clasificación en el sistema de alertas de la Secretaría de Hacienda y Crédito Público, y en segundo término por el titular del Instituto de Fiscalización Superior del Estado; sobre el estado financiero y de los resultados de cuenta pública.
 
 Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso, en el otorgamiento de avales o garantías que pretendan otorgar los municipios.
 
@@ -955,11 +1065,13 @@ José Luis Ugalde Montes
 
 P.O. 30 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 347.- ARTÍCULO PRIMERO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 202 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE MODIFICA LA FRACCIÓN XVI DEL ARTÍCULO 4 DE LA LEY DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DE MICHOACÁN”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1052.- SE REFORMAN LOS ARTÍCULOS 3°, 17, 19, 24, 27, 33, 42, 43, 46, 50 Y 52; Y ADICIONA A LOS ARTÍCULOS 3°, 24 Y 42, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
-SEGUNDO. El Poder Ejecutivo Estatal dispondrá los recursos presupuestarios, humanos y materiales suficientes para el cumplimiento de lo mandatado en el presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0636.- SE REFORMA EL ARTÍCULO 9º EN SUS FRACCIONES, VI, Y X, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
@@ -996,3 +1108,19 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0873.- SE REFORMA EL ARTÍCULO 21 EN SU INCISO E) DE LA FRACCIÓN IV; Y DEROGA AL ARTÍCULO 21 SU INCISO D) DE LA FRACCIÓN I, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1020.- SE ADICIONA UNA FRACCIÓN XXV BIS AL ARTÍCULO 3º; Y UN PÁRRAFO SEGUNDO DEL ARTÍCULO 16, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
