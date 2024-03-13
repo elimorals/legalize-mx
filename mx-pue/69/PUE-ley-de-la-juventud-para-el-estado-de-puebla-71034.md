@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2023-03-23"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -803,9 +803,15 @@ IV.- Por un representante del sector privado del Estado de Puebla, el cual tenga
 
 V.- Por un representante de los Comités Municipales de la Juventud, correspondientes a cada región del Estado; y
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE MARZO DE 2024)</small>
 
-VI.- A invitación del Titular de la Secretaría podrán asistir y participar otras instancias gubernamentales y poderes, así como especialistas en la materia con derecho a voz pero sin voto.
+VI.- A invitación de la persona Titular de la Secretaría podrán asistir y participar representantes de otras instancias gubernamentales y poderes, así como especialistas en la materia con derecho a voz pero sin voto, siendo invitados permanentes las siguientes Dependencias:
+
+a) Secretaría de Trabajo;
+
+b) Secretaría de Salud, y
+
+c) Secretaría de Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -1040,6 +1046,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 12, EL 32 Y LA FRACCIÓN IV DEL 59, DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
