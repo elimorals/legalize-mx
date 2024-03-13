@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2023-10-20"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2024.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -463,13 +463,13 @@ La Asamblea, para el cumplimiento de sus obligaciones se reunirá en sesiones co
 
 En cualquier momento de las sesiones, los diputados podrán pedir a la presidencia la verificación del quórum.
 
-> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.G. 13 DE MARZO DE 2024)</small>
 
-Artículo 40 bis.- En caso de emergencia Nacional o Estatal de carácter sanitaria o de protección civil, determinada por la autoridad competente y por el tiempo que dure ésta, la Asamblea podrá sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de internet oficial de la Legislatura, en la cual se deberá garantizar la correcta identificación de los integrantes, sus intervenciones, así como el sentido de su voto, que será de carácter nominal, en términos de esta Ley.
+Artículo 40 bis.- La Asamblea podrá sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de internet oficial de la Legislatura, en la cual se deberá garantizar la correcta identificación de los integrantes, sus intervenciones, así como el sentido de su voto, en términos de esta Ley.
 
-Lo anterior también será aplicable, en los casos mencionados, a sesiones de la Diputación Permanente y a reuniones de comisiones y comités.
+Lo anterior también será aplicable, a sesiones de la Diputación Permanente y a reuniones de comisiones y comités.
 
-Corresponderá a la Junta de Coordinación Política determinar la realización de las sesiones a que se refiere este artículo.
+Corresponderá a la Junta de Coordinación Política determinar la realización de las sesiones y reuniones a que se refiere este artículo.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA LEGISLATURA
 
@@ -847,9 +847,9 @@ Cuando se considere que sea digno de reconocerse en el mismo año en que ya se h
 
 XIX. En representación de la Legislatura entregar y reconocer con base a la propuesta del acuerdo de la Comisión Legislativa competente, el Pergamino y la Medalla al Reconocimiento Docente, durante la tercera semana del mes de mayo de cada año a las maestras y los maestros que destaquen por su compromiso social a través de actividades relevantes que representen el enaltecimiento de la educación en el Estado de México, asimismo el otorgamiento de estímulos económicos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
 
-XX. Validar el registro de la Firma Electrónica de las diputadas y diputados;
+XX. Autorizar los registros de las diputadas, diputados y personas servidoras públicas que cuentan con Firma Electrónica emitida por la Autoridad Certificadora del Poder Legislativo;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1399,9 +1399,9 @@ Las iniciativas de ley o decreto, o cualquier otra propuesta dictaminada como no
 
 Las iniciativas de ley o decreto deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 13 DE MARZO DE 2024)</small>
 
-I. Presentarse por escrito o de forma electrónica, firmadas autógrafa o electrónicamente por él o sus autores y serán entregadas a la Presidencia de la Legislatura o de la Diputación Permanente, por conducto de la Secretaría de Asuntos Parlamentarios.
+I. Presentarse por escrito con firma autógrafa o de forma digital con Firma Electrónica por él o sus autores y serán entregadas a la Presidencia de la Legislatura o de la Diputación Permanente, por conducto de la Secretaría de Asuntos Parlamentarios.
 
 Las iniciativas de ley o decreto presentadas por los ciudadanos del Estado, hablantes de lengua indígena o discapacitados visuales, que no se presenten escritas en español, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la Legislatura, por conducto de la Secretaría de Asuntos Parlamentarios, la obtendrá, de manera oficiosa o de traductor adscrito preferentemente a las dependencias públicas.
 
@@ -1503,9 +1503,9 @@ Tratándose de leyes o decretos de la incumbencia exclusiva de la Legislatura, s
 
 Aprobada por la Legislatura una adición o reforma a la Constitución, los secretarios de la directiva lo comunicarán a todos los ayuntamientos de los municipios de la entidad, ya sea en copia simple o electrónica por los medios que pongan a disposición los ayuntamientos de los municipios de la iniciativa, del dictamen y de la minuta proyecto de decreto respectivos, para el efecto de que hagan llegar su voto a la Legislatura o a la Diputación Permanente dentro de los quince días naturales siguientes a la fecha en que reciban la comunicación.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 13 DE MARZO DE 2024)</small>
 
-La emisión del voto por parte de los ayuntamientos podrá realizarse a través de un oficio en forma física o electrónica. El oficio electrónico será presentado en el portal que para tal efecto habilite la Legislatura y deberá estar signada con la firma electrónica avanzada o el sello electrónico de los integrantes del cabildo del Ayuntamiento que suscribió el voto.
+La emisión del voto por parte de los ayuntamientos podrá realizarse de forma escrita, digital o en su caso electrónica en el portal que para tal efecto habilite la Legislatura.
 
 (REFORMADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
@@ -1554,6 +1554,10 @@ VI. Instituto de Estudios Legislativos;
 VII. Unidad de Información.
 
 Asimismo, podrá disponer la creación de otras que sean necesarias.
+
+> <small>(ADICIONADO, G.G. 13 DE MARZO DE 2024)</small>
+
+Las personas servidoras públicas adscritas a las Dependencias y Órganos del Poder Legislativo podrán hacer uso de la Firma Electrónica para eficientar los procesos que consideren necesarios en el ámbito de su competencia.
 
 ###### Artículo 94 Bis.
 
@@ -2702,3 +2706,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Los informes de actividades legislativas correspondientes al Segundo y Tercer Año de Ejercicio Constitucional de la “LXI” Legislatura del Estado de México, podrán rendirse de manera conjunta en el mes de agosto del año 2024.
+
+G.G. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243.- POR EL QUE SE REFORMA EL ARTICULO 40 BIS, LA FRACCIÓN XX DEL ARTÍCULO 62, LA FRACCIÓN I DEL ARTÍCULO 81, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 93 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 152, EL ARTÍCULO 179, EL PRIMER PÁRRAFO, LAS FRACCIONES I, II, IV Y VI DEL ARTÍCULO 180 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 181 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 180 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración y Finanzas del Poder Legislativo del Estado de México, en un término de noventa días hábiles, después de la entrada en vigor de este Decreto, emitirá las normas para la expedición, uso, renovación y revocación de la Firma Electrónica en el Poder Legislativo del Estado de México.
