@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2024-02-27"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -3197,6 +3197,10 @@ IX.- Control de la fauna nociva; y
 
 X.- Las demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2024)</small>
+
+ARTÍCULO 199 BIS.- Los Ayuntamientos procurarán que las vialidades a su cargo con mayor circulación y tránsito cuenten con la señalética y elementos visuales suficientes, que indiquen las prevenciones mínimas que deben observar tanto las personas peatonas como conductores de vehículos, en términos de la Ley de la materia.
+
 ###### ARTÍCULO 200.
 
 Los servicios públicos municipales se rigen, entre otras disposiciones, por las siguientes:
@@ -4606,6 +4610,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 117, ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 78 Y LA FRACCIÓN I BIS AL ARTÍCULO 230 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 199 BIS A LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
