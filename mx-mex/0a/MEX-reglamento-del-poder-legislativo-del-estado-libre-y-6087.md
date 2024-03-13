@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2023-10-20"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2024.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1949,9 +1949,9 @@ V.- Formular y preparar la documentación que se requiera para el funcionamiento
 
 VI.- Presentar para su firma autógrafa o electrónica las resoluciones y correspondencia del presidente y secretarios de la Legislatura y de la Diputación Permanente, así como remitir en tiempo y forma las leyes, decretos o acuerdos para su promulgación y publicación.
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
 
-VII.- Proporcionar a las comisiones, comités, grupos parlamentarios y diputados en particular, los apoyos, atención y documentación que requieran, para el adecuado cumplimiento de sus funciones legislativas;
+VII.- Proporcionar a las comisiones, comités, grupos parlamentarios, así como a Diputadas y Diputados en particular, los apoyos, atención, documentación y, en su caso, acompañar en el proceso de firmado electrónico que requieran, para el adecuado cumplimiento de sus funciones legislativas;
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2011)</small>
 
@@ -2403,41 +2403,75 @@ El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su
 
 ### CAPITULO XV. DE LA FIRMA ELECTRONICA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.G. 13 DE MARZO DE 2024)</small>
 
 ###### Artículo 179.
 
-Las Diputadas y los Diputados contarán con una Firma Electrónica, que tiene por objeto agilizar la gestión del proceso legislativo, y que podrá ser utilizada para el envío y remisión de oficios, firma de acuerdos, decretos, dictámenes y cualquier otro documento propio del proceso legislativo y los actos administrativos que de este deriven.
+La Firma Electrónica son los datos en forma electrónica consignados en un mensaje, lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar técnica y legalmente la identidad del Firmante en Internet, toda vez que está vinculada únicamente a los datos que le identifican como tal por lo que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
+
+Las Diputadas y los Diputados contarán con una Firma Electrónica, que tiene por objeto agilizar la gestión del proceso legislativo, y que podrá ser utilizada para el envío y remisión de oficios, firma de acuerdos, decretos, dictámenes y cualquier otro documento propio del proceso legislativo y los actos administrativos que de éste deriven.
+
+Las Diputadas y los Diputados, así como las personas servidoras públicas en funciones del Poder Legislativo, podrán hacer uso de manera preferente de la Firma Electrónica en todo aquello que sus atribuciones les permitan.
 
 Todo documento que cuente con Certificado Digital de Firma Electrónica tendrá la misma validez legal y producirá los mismos efectos jurídicos que la firma autógrafa, sin perjuicio de aquellos actos de autoridad para los que, cualquier ordenamiento jurídico, de manera expresa, exija la firma autógrafa de la persona titular.
 
-Las Diputadas y Diputados podrán solicitar la revocación de su certificado digital de Firma Electrónica, cuando se considere que el uso de la información de su clave privada, o el dispositivo que la contiene, esté comprometida o en riesgo.
+Las Diputadas, Diputados y personas servidoras públicas en funciones del Poder Legislativo podrán solicitar la revocación de su Firma Electrónica, cuando se considere que el uso de la información de su clave privada, o el dispositivo que la contiene, esté comprometida o en riesgo o en los siguientes supuestos:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+I. En caso de que el Titular de la Firma Electrónica deje el cargo;
+
+II. Cuando así lo soliciten las Diputadas, los Diputados y personas servidoras públicas a la Autoridad Certificadora;
+
+III. Cuando el Firmante se encuentre sujeto a un procedimiento jurisdiccional que le impida el ejercicio de sus funciones y que se encuentre pendiente de resolver; y
+
+IV. En caso de fallecimiento del Firmante.
+
+El tratamiento de los datos personales recabados y generados con motivo del registro y certificación de la Firma Electrónica, estará a cargo de la Autoridad Certificadora, de conformidad con lo previsto por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de (sic) Estado de México y Municipios, la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y demás normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MARZO DE 2024)</small>
 
 ###### Artículo 180.
 
-La Secretaría de Administración y Finanzas realizará el registro y certificación de la Firma Electrónica, generando un expediente digital, que contendrá lo siguiente:
+Las funciones de la Autoridad Certificadora estarán a cargo de la Secretaría de Administración y Finanzas, quien realizará el registro y certificación de la Firma Electrónica, generando un expediente con soporte documental digitalizado, que contendrá lo siguiente:
 
-I. Nombre de la persona autorizada;
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
 
-II. Fecha de registro;
+I. Nombre completo de la persona autorizada;
+
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
+
+II. Fecha de registro ante la Autoridad Certificadora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 III. Documento que acredite la identidad de la persona autorizada;
 
-IV. Firma autógrafa para su digitalización;
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
+
+IV. Firma autógrafa en equipo de firmado digital;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 V. Correo electrónico institucional;
 
-VI. Validación de la Junta de Coordinación Política.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2024)</small>
 
-Los datos personales recabados serán protegidos, de conformidad con lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
+VI. Solicitud autorizada por la Junta de Coordinación Política; y
+
+> <small>(ADICIONADA, G.G. 13 DE MARZO DE 2024)</small>
+
+VII. Carta compromiso de responsabilidades y deberes que asumen por el uso de la Firma Electrónica emitida por la Autoridad Certificadora.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
+Los datos personales recabados serán protegidos, de conformidad con lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MARZO DE 2024)</small>
+
 ###### Artículo 181.
 
-Una vez validada la Firma Electrónica por la Junta de Coordinación Política, esta se hará llegar a las diputadas y los diputados de manera personal e intransferible, para que, a partir de su entrega, pueda ser utilizada en los trámites y procedimientos aplicables.
+Una vez emitida la Firma Electrónica por la Autoridad Certificadora, se hará llegar a las Diputadas, los Diputados y las personas servidoras públicas en funciones del Poder Legislativo de manera personal e intransferible, para que, a partir de su entrega, pueda ser utilizada en los trámites y procedimientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 El uso indebido de la Firma Electrónica se sancionará con base en lo establecido por las leyes aplicables en la materia.
 
@@ -3198,3 +3232,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Los informes de actividades legislativas correspondientes al Segundo y Tercer Año de Ejercicio Constitucional de la “LXI” Legislatura del Estado de México, podrán rendirse de manera conjunta en el mes de agosto del año 2024.
+
+G.G. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243.- POR EL QUE SE REFORMA EL ARTÍCULO 40 BIS, LA FRACCIÓN XX DEL ARTÍCULO 62, LA FRACCIÓN I DEL ARTÍCULO 81, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 93 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 152, EL ARTÍCULO 179, EL PRIMER PÁRRAFO, LAS FRACCIONES l, ll, IV Y VI DEL ARTÍCULO 180 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 181 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 180 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración y Finanzas del Poder Legislativo del Estado de México, en un término de noventa días hábiles, después de la entrada en vigor de este Decreto, emitirá las normas para la expedición, uso, renovación y revocación de la Firma Electrónica en el Poder Legislativo del Estado de México.
