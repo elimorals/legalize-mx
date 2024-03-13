@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11991
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-01"
-last_updated: "2024-03-07"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE MARZO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 261 PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2024.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MARZO DE 2024.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado Libre y Soberano de Chiapas, el miércoles 1 de febrero de 2017.
 
@@ -1469,11 +1469,17 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 
 Artículo Tercero.- Los pliegos de observación a que se refiere el artículo 40 Bis, que a la entrada en vigor del presente Decreto se encuentren en trámite ante la autoridad investigadora de la Auditoría Superior del Estado, se remitirán a los órganos internos de control o quienes ejerzan esta función en las Entidades Fiscalizadas, para la instrumentación de los procedimientos de responsabilidad respectivos, teniéndose para la autoridad investigadora del ente fiscalizador como asuntos concluidos.
 
-Artículo Cuarto.- A efecto de dar cumplimiento a lo establecido en el artículo 4, fracción XXII y 17 Ter del presente Decreto, las Entidades Fiscalizadas deberán realizar los trámites necesarios para la obtención de la Firma Electrónica Avanzada en los términos y requerimientos que establezca la Auditoría Superior del Estado.
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2024)</small>
 
-Artículo Quinto.- El proceso de Notificación Digital a través del Buzón Digital a que se refiere la fracción XXXIV del artículo 4, artículo 17 Bis, artículo 17 Ter y 17 Quater, iniciará a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la entrada en vigor del presente Decreto.
+Artículo Cuarto.- A efecto de dar cumplimiento a lo establecido en el artículo 4, fracción XVIII y 17 Ter del presente Decreto, las Entidades Fiscalizadas deberán realizar los trámites necesarios para la obtención de la Firma Electrónica Avanzada en los términos y requerimientos que establezca la Auditoría Superior del Estado.
 
-Artículo Sexto.- El proceso de presentación de solicitudes y/o atención a requerimientos a través del Buzón Digital, por parte de los entes fiscalizados a efecto de dar atención a lo dispuesto en el tercer párrafo del artículo 17 Bis, 17 Ter y 17 Quater, iniciará a más tardar dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2024)</small>
+
+Artículo Quinto.- El proceso de Notificación Digital a través del Buzón Digital a que se refiere la fracción XXXIII del artículo 4, artículo 17 Bis, artículo 17 Ter y 17 Quater, iniciará a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2024)</small>
+
+Artículo Sexto.- El proceso de presentación de solicitudes y/o atención a requerimientos a través del Buzón Digital, por parte de los entes fiscalizados a efecto de dar atención a lo dispuesto en el artículo 17 Bis, 17 Ter y 17 Quater, iniciará a más tardar dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 Artículo Séptimo.- El proceso de Notificación Digital a través del Buzón Digital de los procedimientos de Investigación y Sustanciación de Responsabilidades Administrativas a que se refiere el presente Decreto, se iniciará una vez que el marco normativo establecido en la Ley Orgánica del Tribunal Administrativo del Poder Judicial del Estado lo permita, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas.
 
