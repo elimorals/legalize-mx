@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2023-03-16"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -271,13 +271,17 @@ XII.- Promover campañas para prevenir y combatir el uso de sustancias Prohibida
 
 XIII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2024)</small>
 
-XIV.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente; y
+XIV.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2024)</small>
 
-XV.- Las demás que le otorgue esta Ley, su reglamento y demás normas, aplicables.
+XV.- Promover planes, programas y políticas públicas para garantizar la participación en igualdad de condiciones entre mujeres y hombres, fomentando así el libre desarrollo de las actividades físicas y deportivas, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE MARZO DE 2024)</small>
+
+XVI.- Las demás que le otorgue esta Ley, su reglamento y demás normas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
@@ -856,6 +860,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I Y III DEL ARTÍCULO 21, EL 22, EL PRIMER PÁRRAFO DEL 23, LAS FRACCIONES I Y II Y EL ÚLTIMO PÁRRAFO DEL 23, Y LA FRACCIÓN I DEL 28, DE LA LEY ESTATAL DEL DEPORTE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV, Y ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 14 DE LA LEY ESTATAL DEL DEPORTE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
