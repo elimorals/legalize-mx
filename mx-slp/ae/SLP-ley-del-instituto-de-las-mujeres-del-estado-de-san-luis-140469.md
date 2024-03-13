@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-140469"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-23"
-last_updated: "2022-11-08"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de enero de 2020.
 
@@ -353,27 +353,41 @@ i) Instituto Potosino de la Juventud.
 
 j) Centro de Justicia para las Mujeres.
 
-k) Comisión Ejecutiva Estatal de Atención a Víctimas.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE MARZO DE 2024)</small>
+
+k) Comisión Ejecutiva Estatal de Atención a Víctimas (CEEAV).
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE MARZO DE 2024)</small>
 
 l) Coordinación Estatal para el Fortalecimiento Institucional de los Municipios (CEFIM).
 
-m) Coordinación Estatal para la Atención de los Pueblos Indígenas (CEAPI);
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+m) Instituto de Desarrollo Humano y Social de Los Pueblos y Comunidades Indígenas del Estado (INDEPI);
 
-k) (sic) Secretaría de Desarrollo Económico, y
+(REUBICADO [N. DE E. REFORMADO], P.O. 13 DE MARZO DE 2024)
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+n) Secretaría de Desarrollo Económico.
 
-l) (sic) Sistema de Financiamiento para el Desarrollo del Estado.
+(REUBICADO [N. DE E. REFORMADO], P.O. 13 DE MARZO DE 2024)
+
+ñ) Sistema de Financiamiento para el Desarrollo del Estado;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 13 DE MARZO DE 2024)</small>
 
 III. La o el titular de la Fiscalía General del Estado, y
 
-IV. La Directora General del Instituto, en quien recaerá la Secretaría Técnica, que tendrá en las sesiones derecho a voz y no a voto.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE MARZO DE 2024)</small>
+
+IV. La Directora General del Instituto, en quien recaerá la Secretaria Técnica, que tendrá en las sesiones derecho a voz y no a voto.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 13 DE MARZO DE 2024)</small>
 
 Las o los titulares de la Contraloría General del Estado y de la Comisión Estatal de Derechos Humanos serán invitados permanentes y podrán participar en las sesiones con voz, pero sin voto.
 
-Las y los integrantes de la Junta Directiva designarán a una persona suplente de nivel jerárquico inmediato inferior, que podrá asistir a las sesiones en su ausencia, con todas las atribuciones que le correspondan al propietario o propietaria.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE MARZO DE 2024)</small>
+
+Las y los integrantes de la Junta Directiva designaran a una persona suplente de nivel jerárquico inmediato inferior que podrán (sic) asistir a las sesiones en su ausencia, con todas las atribuciones que le correspondan al propietario o propietaria.
 
 ###### ARTÍCULO 18.
 
@@ -668,5 +682,13 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0417.- SE REFORMA EL ARTÍCULO 6º EN SU FRACCIÓN XVIII, DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO; SE ADICIONA AL ARTÍCULO 62, EL PÁRRAFO ÚLTIMO, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1021.- SE ADICIONA EN EL ARTÍCULO 17 TRES INCISOS, ESTOS COMO K), L) Y M); LAS FRACCIONES III Y IV Y DOS PÁRRAFOS, ESTOS COMO PENÚLTIMO Y ÚLTIMO, DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
