@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2023-07-31"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -611,9 +611,9 @@ Para el programa de obras y acciones los ayuntamientos y los consejos podrán co
 
 Para el correcto ejercicio de los recursos del Fondo para la Infraestructura Social Municipal y del Fondo para el Fortalecimiento de los Municipios, y una mayor transparencia y control de los mismos, los ayuntamientos deberán integrar un expediente técnico por cada obra o acción.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
 
-Dichos expedientes deberán estar a disposición de la Contraloría General del Estado, o del órgano de control y supervisión interno del municipio según corresponda, y de la Auditoría Superior del Estado, cuando así lo requieran.
+Dichos expedientes deberán estar a disposición de la Contraloría General del Estado, o del Órgano de Control y Supervisión Interno del Municipio según corresponda, y al Instituto de Fiscalización Superior del Estado de San Luis Potosí, cuando así lo requieran.
 
 ###### ARTICULO 62.
 
@@ -745,11 +745,11 @@ XII. Impulsar la corresponsabilidad y participación directa de las comunidades,
 
 ### CAPITULO V. Del Intercambio de Información
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, establecerá un mecanismo de comunicación con los ayuntamientos, las dependencias federales y estatales, el Congreso del Estado, la Auditoría Superior del Estado, y la sociedad, permitiendo:
+La Secretaría de Desarrollo Social y Regional a través del Sistema de Información del Desarrollo Social y Regional, establecerá un mecanismo de comunicación con los ayuntamientos, las dependencias federales y estatales, el Congreso del Estado, el Instituto de Fiscalización Superior del Estado de San Luis Potosí, y la sociedad, permitiendo:
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
 
@@ -769,9 +769,9 @@ Los ayuntamientos deberán proveer a la Secretaría de Desarrollo Social y Regio
 
 Con el fin de evaluar los resultados del ejercicio de los recursos de los Fondos para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios, y el impacto en el desarrollo social y regional, el Ayuntamiento convocará a una reunión evaluatoria en el seno del Consejo, por lo menos una vez al año.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
 
-En esa reunión podrán participar representantes, del Ejecutivo del Estado, del Congreso del Estado, de la Auditoría Superior del Estado, y de la Secretaría de Desarrollo Social del Gobierno Federal.
+En esta reunión podrán participar representantes del Ejecutivo del Estado, del Congreso del Estado, del Instituto de Fiscalización Superior del Estado de San Luis Potosí, y de la Secretaría de Desarrollo Social del Gobierno Federal.
 
 ###### ARTICULO 79.
 
@@ -791,9 +791,9 @@ Recibidos los recursos de los Fondos Estatales y Municipales por el Estado y los
 
 La supervisión y vigilancia no podrá implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos Fondos.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
 
-La revisión y fiscalización de las cuentas públicas del Estado y de los municipios, serán efectuadas por la Auditoria Superior del Estado, de conformidad a las disposiciones legales aplicables, a efecto de verificar que las dependencias del Ejecutivo del Estado y de los municipios, respectivamente, aplicaron los recursos de los Fondos Estatales y Municipales para los fines previstos en esta Ley.
+La revisión y fiscalización de las cuentas públicas del Estado y de los municipios, serán efectuadas por el Instituto de Fiscalización Superior del Estado de San Luis Potosí, de conformidad a las disposiciones legales aplicables, a efecto de verificar que las dependencias del Ejecutivo del Estado y de los municipios, respectivamente, aplicaron los recursos de los Fondos Estatales y Municipales para los fines previstos en esta Ley.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -851,17 +851,21 @@ Para atender las obligaciones que el Estado o los municipios contraigan al ampar
 
 El Estado y los municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les corresponden de los Fondos a que el mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 88.
 
-El Estado y los municipios, que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos de los fondos no han sido aplicados a los fines que por cada Fondo se señale en esta Ley, deberán hacerlo del conocimiento en forma inmediata a la Secretaría de la Función Pública, así como a la Auditoría Superior del Estado para proceder en los términos del artículo 49 de la Ley de Coordinación Fiscal Federal.
+El estado y los municipios, que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos de los fondos no han sido aplicados a los fines que por cada Fondo se señale en esta Ley, deberán hacerlo del conocimiento en forma inmediata a la Secretaría de la Función Pública, así como el Instituto de Fiscalización Superior del Estado de San Luis Potosí para proceder en los términos del artículo 49 de la Ley de Coordinación Fiscal Federal.
 
-Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditorí a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
+Cuando el Instituto de Fiscalización Superior del Estado de San Luis Potosí detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditoria Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
-Se faculta a la Contraloría General del Estado, a la Auditoría Superior del Estado, y a los órganos de Control y Supervisión Internos de los gobiernos municipales, donde estén constituidos, para que en términos de lo previsto por la Ley (sic) Responsabilidades Administrativas para el Estado de San Luis Potosí, y demás leyes aplicables, se finquen los pliegos de responsabilidades de los servidores públicos estatales y municipales, por el uso inadecuado de los recursos correspondientes a los Fondos Estatales y Municipales que conforme a esta Ley les corresponda administrar; los que constituirán créditos fiscales a favor del Estado o Municipios, según el caso, pudiéndose hacer efectivos en caso necesario, a través del procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
+
+Se faculta a la Contraloría General del Estado, al Instituto de Fiscalización Superior del Estado de San Luis Potosí, y a los órganos de Control y Supervisión Internos de los gobiernos municipales, donde estén constituidos, para que en términos de lo previsto por la Ley Responsabilidades Administrativas para el Estado de San Luis Potosí, y demás leyes aplicables, se finquen los pliegos de responsabilidades de los servidores públicos estatales y municipales, por el uso inadecuado de los recursos correspondientes a los Fondos Estatales y Municipales que conforme a esta Ley les corresponda administrar; los que constituirán créditos fiscales a favor del Estado o Municipios, según el caso, pudiéndose hacer efectivos en caso necesario, a través del procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 Lo anterior, sin perjuicio de las responsabilidades administrativas, civiles o penales en que pudieran incurrir.
 
@@ -1040,5 +1044,13 @@ P.O. 31 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0805.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 87 BIS, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1019.- SE REFORMAN LOS ARTÍCULOS 61 EN SU SEGUNDO PÁRRAFO, 76 EN SU PRIMER PÁRRAFO, 78 EN SU SEGUNDO PÁRRAFO, 81 EN SU TERCER PÁRRAFO Y 88 EN SUS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
