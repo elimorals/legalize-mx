@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-116847
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-06"
-last_updated: "2023-11-23"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de octubre de 2016.
 
@@ -136,6 +136,10 @@ XXIII. Gasto Corriente: las erogaciones que no tienen como contrapartida la crea
 XXIV. Garantía de Pago: mecanismo que respalda el pago de un financiamiento u obligación contratada;
 
 XXV. Gastos no Etiquetados: las erogaciones que realiza el Estado y los municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2024)</small>
+
+XXV BIS. Gastos y costos relacionados con la contratación: aquellos que estén relacionados con la celebración del Financiamiento, que, de manera enunciativa mas no limitativa, son: comisiones de apertura, comisiones por disposición, comisiones por estructuración, costos por la contratación de calificadoras, de instrumentos derivados y garantías de pago, sin incluir honorarios por asesoría profesional, técnica, legal y financiera.
 
 XXVI. Ingresos de Libre Disposición: los ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las entidades federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
@@ -482,6 +486,10 @@ Para la contratación de financiamientos, empréstitos y la emisión de valores,
 ###### ARTÍCULO 16.
 
 Los sujetos de esta Ley sólo podrán contraer obligaciones o financiamientos cuando se destinen a inversiones públicas productivas y a refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas obligaciones y financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2024)</small>
+
+Para efectos de lo anterior, los entes públicos, sólo podrán destinar hasta un 0.15 por ciento del monto de los financiamientos para cubrir los Gastos y costos relacionados con la contratación.
 
 Cuando las obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la inversión pública productiva realizada.
 
@@ -1106,5 +1114,13 @@ P.O. 23 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0873.- SE REFORMA EL ARTÍCULO 21 EN SU INCISO E) DE LA FRACCIÓN IV; Y DEROGA AL ARTÍCULO 21 SU INCISO D) DE LA FRACCIÓN I, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1020.- SE ADICIONA UNA FRACCIÓN XXV BIS AL ARTÍCULO 3º; Y UN PÁRRAFO SEGUNDO DEL ARTÍCULO 16, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
