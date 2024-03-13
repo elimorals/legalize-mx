@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2022-12-22"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -166,6 +166,10 @@ XVIII. Propuesta: proposición que se expone en un procedimiento de adjudicació
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 XIX. Proveedor: la persona física o moral que celebre contratos o pedidos de adquisiciones, arrendamientos o servicios en sus diversas modalidades conforme a esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2024)</small>
+
+XIX Bis. Proveedor local: Persona física o moral que celebre contratos o pedidos de adquisiciones, arrendamientos o servicios en sus diversas modalidades conforme a esta Ley, con domicilio fiscal dentro del territorio del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -645,7 +649,11 @@ XIII. Comunicar oportunamente a la Secretaría de los cambios en la planeación 
 
 De acuerdo con el artículo 13 de esta Ley, las Secretarías, los Ayuntamientos, los Comités Municipales y las Contralorías Municipales, en el ámbito de sus respectivas competencias, podrán dictar, de oficio o con base en las consultas o asuntos planteados y con el carácter de criterios, las disposiciones administrativas que se requieran para el adecuado cumplimiento de esta Ley.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2024)</small>
+
+La Secretaría y los Comités Municipales en sus procesos de adquisiciones, arrendamientos y contratación de servicios que requieran, procurarán apoyar en condición de competencia a proveedores locales.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE MARZO DE 2024)</small>
 
 En relación con los programas que tengan por objeto promover la participación de las empresas locales, especialmente de las micro, pequeñas y medianas, la Secretaría y los Comités Municipales dictarán las reglas que se deban observar en los procedimientos materia de esta Ley y determinarán, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrá adquirir, arrendar o contratar el sector público, con objeto de ejercer el poder de compra gubernamental, obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo estatal y municipal.
 
@@ -757,7 +765,9 @@ V. La existencia en cantidad y calidad suficiente de los bienes, los plazos esti
 
 VI. Las normas aplicables conforme a la Ley de Infraestructura de la Calidad o, a falta de éstas, las normas internacionales;
 
-VII. Preferentemente, la utilización de bienes o servicios de procedencia nacional, así como aquéllos propios de la región, y la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos a realizarse en el Estado, en el país o en el extranjero;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2024)</small>
+
+VII. Preferentemente, la utilización de bienes o servicios de procedencia nacional y local y la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos a realizarse en el Estado, en el país o en el extranjero;
 
 VIII. Los requerimientos de conservación o mantenimiento de los bienes muebles a su cargo; y
 
@@ -811,19 +821,25 @@ Los bienes que adquieran el Estado y los Municipios quedarán sujetos al control
 
 ### CAPÍTULO I. GENERALIDADES
 
-SECCIÓN UNO: DE LOS PROCEDIMIENTOS NACIONALES E INTERNACIONALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2024)</small>
+
+SECCIÓN UNO: DE LOS PROCEDIMIENTOS LOCALES, NACIONALES E INTERNACIONALES
 
 ###### ARTÍCULO 63.
 
 Los procedimientos de adjudicación podrán ser:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2024)</small>
 
-I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir o arrendar sean producidos o se ubiquen en el País o el Servicio sea prestado en el mismo;
+I. Locales, cuando únicamente puedan participar proveedores con domicilio fiscal dentro del territorio del Estado de Puebla y los bienes a adquirir o arrendar sean producidos o se ubiquen en el Estado o el servicio sea prestado en el mismo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2024)</small>
 
-II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera y los bienes a adquirir o arrendar, o el servicio a contratar, sean de origen nacional o extranjero. Solamente se podrán llevar a cabo procedimientos de adjudicación internacionales, en los siguientes casos:
+II. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir o arrendar sean producidos o se ubiquen en el País o el Servicio sea prestado en el mismo; e
+
+> <small>(ADICIONADA [N. DE E. REUBICADA CON SUS INCISOS], P.O. 13 DE MARZO DE 2024)</small>
+
+III. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera y los bienes a adquirir o arrendar, o el servicio a contratar, sean de origen nacional o extranjero. Solamente se podrán llevar a cabo procedimientos de adjudicación internacionales, en los siguientes casos:
 
 a) Cuando resulte obligatorio conforme a lo establecido en los tratados;
 
@@ -833,11 +849,11 @@ c) Cuando habiéndose realizado una licitación de carácter nacional, no se pre
 
 d) Cuando así se estipule para las contrataciones financiadas con créditos otorgados conforme a las disposiciones vigentes.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
-Respecto de los procedimientos de adjudicación de carácter nacional, la Secretaría y los Comités Municipales, en su ámbito de competencia y mediante reglas de carácter general, establecerán los casos de excepción correspondientes a los requisitos que establece la fracción I del artículo anterior, así como un procedimiento expedito para determinar el grado de contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría de Economía, la Secretaría de la Función Pública y la Contraloría Municipal, en su caso. La Secretaría y los Comités Municipales, de oficio o a solicitud de la Secretaría de la Función Pública o la Contraloría Municipal, podrán realizar visitas para verificar que los bienes cumplen con los requisitos señalados.
+Respecto de los procedimientos de adjudicación de carácter nacional, la Secretaría y los Comités Municipales, en su ámbito de competencia y mediante reglas de carácter general, establecerán los casos de excepción correspondientes a los requisitos que establecen las fracciones I y II del artículo anterior, así como un procedimiento expedito para determinar el grado de contenido local y nacional de los bienes que se oferten, para lo cual tornará en cuenta la opinión de la Secretaría de Economía, la Secretaría de la Función Pública y la Contraloría Municipal, en su caso. La Secretaría y los Comités Municipales, de oficio o a solicitud de la Secretaría de la Función Pública o la Contraloría Municipal, podrán realizar visitas para verificar que los bienes cumplen con los requisitos señalados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -847,11 +863,11 @@ En relación con los procedimientos de adjudicación de carácter internacional,
 
 Podrá negarse la participación a extranjeros en procedimientos de adjudicación internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, proveedores, bienes o servicios mexicanos.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 66.
 
-La Secretaría y los Comités Municipales, tomando en cuenta la opinión de la Secretaría de Economía, la Secretaría de la Función Pública y de la Contraloría Municipal respectiva, determinará de acuerdo con lo establecido en el artículo 63 de esta Ley, el carácter nacional o internacional de los procedimientos de adjudicación y contratación, así como los criterios para determinar el contenido nacional de los bienes a ofertar, en razón de las reservas, medidas de transición u otros supuestos establecidos en los tratados.
+La Secretaría y los Comités Municipales, tomando en cuenta la opinión de la Secretaría de Economía, la Secretaría de la Función Pública y de la Contraloría Municipal respectiva, determinará de acuerdo con lo establecido en el artículo 63 de esta Ley, el carácter local, nacional o internacional de los procedimientos de adjudicación y contratación, así como los criterios para determinar el contenido local y nacional de los bienes a ofertar, en razón de las reservas, medidas de transición u otros supuestos establecidos en los tratados.
 
 SECCIÓN DOS: DE LOS MONTOS MÁXIMOS Y MÍNIMOS PARA ADJUDICAR
 
@@ -2444,6 +2460,14 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 22 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46, LA FRACCIÓN VII DEL ARTÍCULO 55, LA DENOMINACIÓN DE LA SECCIÓN UNO DEL CAPÍTULO I DEL TÍTULO CUARTO, LAS FRACCIONES I Y II DEL ARTÍCULO 63, EL 64 Y EL 66, Y ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 6, UN TERCER PÁRRAFO AL 46 Y LA FRACCIÓN III AL 63, TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
