@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2023-07-27"
+last_updated: "2024-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1032,6 +1032,22 @@ El Sistema Anticorrupción del Estado será el encargado de dar seguimiento y cu
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 IV. El sistema educativo estatal se ajustará a los principios que se establecen en el artículo 3o de la Constitución Política de los Estados Unidos Mexicanos; estará orientado a promover la convivencia armónica y respetuosa entre la sociedad y la naturaleza; los valores cívicos y la cultura de la legalidad; y a fomentar el trabajo productivo para una convivencia social armónica; desarrollará además, la investigación y el conocimiento de la geografía y la cultura de Jalisco, de sus valores científicos, arqueológicos, históricos y artísticos, así como de su papel en la integración y desarrollo de la nación mexicana;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2024)</small>
+
+La Universidad de Guadalajara es un organismo público descentralizado del Gobierno del Estado de Jalisco, con plena autonomía para garantizar el principio de enseñanza mediante la libertad de cátedra, de investigación, y de examen y discusión de las ideas, así como para gobernarse a sí misma y administrar su patrimonio, cuyo fin es impartir educación media superior y superior, así como coadyuvar al desarrollo de la cultura en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2024)</small>
+
+La Universidad de Guadalajara contará con una aportación estatal para conformar su presupuesto anual equivalente, al menos, al cinco por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate. Esta aportación representa la parte proporcional del subsidio que corresponde al Estado conforme al esquema de financiamiento establecido con la Federación para la Universidad de Guadalajara.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2024)</small>
+
+Adicionalmente, podrá acceder al equivalente, al menos, al punto tres por ciento del Presupuesto de Egresos del Estado para la realización de proyectos específicos de mejoramiento de infraestructura educativa y su equipamiento, mismos que deberán estar alineados con el Plan Nacional de Desarrollo, el Programa Sectorial de Educación y los Programas Nacional y Estatales de Educación Superior, anexando a su proyecto de presupuesto la documentación que lo justifique.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2024)</small>
+
+Para la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia, transparencia y evaluación del desempeño del gasto público por parte de la Universidad de Guadalajara, deberán observarse las disposiciones de la legislación aplicable en materia hacendaria y de gasto público.
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2015)</small>
 
@@ -4456,3 +4472,11 @@ P.O. 27 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29218/LXIII/23 QUE REFORMA LOS ARTÍCULOS 21, 37 Y 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29540/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 15 FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO 257/ LXIII/24 QUE DECLARA APROBADA LA MINUTA DE DICHO DECRETO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las disposiciones relativas a la proyección, programación y presupuestación de la Universidad de Guadalajara, contenidas en los párrafos tercero y cuarto de la fracción IV del artículo 15 reformado mediante el presente decreto, serán aplicables a partir del ejercicio fiscal 2025.
