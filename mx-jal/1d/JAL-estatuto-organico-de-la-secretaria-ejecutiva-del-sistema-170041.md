@@ -4,7 +4,7 @@ identifier: "JAL-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-170041
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-01-16"
-last_updated: "2024-01-16"
+last_updated: "2024-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 14 DE MARZO DE 2024.]</small>
 
 Estatuto publicado en la Sección V al número 25 del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2024.
 
@@ -43,7 +43,9 @@ CONSIDERANDO
 
 [...]
 
-Que el Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco, en su Cuarta Sesión Ordinaria 2023, celebrada el día 11 de diciembre de 2023, aprobó la abrogación del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco, y la expedición del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco en los términos siguientes:
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2024)</small>
+
+Que el Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco, en su Quinta Sesión Ordinaria 2023, celebrada el día 11 de diciembre de 2023, aprobó la modificación del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco, conforme al siguiente texto que a la letra dice: "A.OG.2023.48 Se aprueba la modificación del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco, en los términos del Proyecto anexo y conforme a lo expuesto por el Secretario Técnico y se le instruye realice las gestiones para su publicación en el Periódico Oficial del Estado de Jalisco.".
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO
 
