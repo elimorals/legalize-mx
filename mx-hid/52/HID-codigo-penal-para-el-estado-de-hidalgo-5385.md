@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2023-08-03"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -4147,21 +4147,33 @@ El encubrimiento se perseguirá a petición de parte ofendida, cuando se refiera
 
 ### CAPÍTULO III TER. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES
 
-> <small>(REFORMADO, P.O. 10 JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2024)</small>
 
-ARTÍCULO 349 DECIES.- Al que dolosamente realice actos de maltrato o crueldad en contra de animales domésticos o ferales, causándoles lesiones, se le impondrá de 3 meses a 1 año de prisión y multa de 25 a 50 Unidades de Medida y Actualización; la punibilidad señalada se aumentará en una mitad, si las lesiones ponen en peligro la vida del animal; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
+ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato, crueldad o abandono en contra de animales domésticos o ferales, causándoles lesiones, se le impondrá de 6 meses a 2 años de prisión y multa de 25 a 50 Unidades de Medida y Actualización; la punibilidad señalada se aumentará en una mitad, si las lesiones ponen en peligro la vida del animal; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 1 a 4 años de prisión y multa de 50 a 200 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2023)</small>
 
 Se aumentará hasta en una mitad la punibilidad que corresponda, cuando en la comisión del delito concurra alguna de las siguientes circunstancias:
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
 
-I.- El delito sea cometido ante la presencia de una niña, niño o adolescente; o
+I.- El delito sea cometido ante la presencia de una niña, niño o adolescente;
 
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
 
 II.- El sujeto activo capte los actos de maltrato o crueldad animal a través de audios, fotografías o videograbaciones para hacerlos públicos por cualquier medio.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
+
+III.- Se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte y prolonguen su agonía; o
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
+
+IV.- Realice actos erótico sexuales con un animal o le introduzca por vía vaginal o rectal el miembro viril o cualquier otra parte del cuerpo, objeto o instrumento.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2024)</small>
+
+La persona que resulte responsable por el delito previsto en este artículo, perderá todo derecho sobre los animales que haya tenido bajo su propiedad o posesión.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -4169,9 +4181,17 @@ ARTICULO 349 UNDECIES.- Para efectos de este Capítulo, se entenderá por:
 
 I. Animal doméstico: los que dependan de un ser humano para subsistir y habiten con éste en forma regular, sin que exista actividad lucrativa de por medio;
 
-II. Animal feral: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del ser humano, se establecen en el entorno natural; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
 
-III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física, instinto, desarrollo o crecimiento del animal.
+II. Animal feral: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del ser humano, se establecen en el entorno natural;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física, instinto, desarrollo o crecimiento del animal; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
+
+IV. Abandono: dejar en desamparo en el interior de algún inmueble o en la vía pública a cualquier animal, solo o sin atención ni cuidado, de tal manera que quede afectada su integridad física y/o se deteriore su salud.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
@@ -4918,3 +4938,9 @@ P.O. 3 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL CAPITULO I BIS RECLUTAMIENTO DE NIÑAS, NIÑOS Y ADOLESCENTES Y EL CAPÍTULO IV BIS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN, DEL TÍTULO TERCERO, DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y LOS ARTÍCULOS 165 BIS, 165 TER, 172 BIS, 172 TER Y 172 QUATER; Y DEROGA EL ARTÍCULO 107 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 804 QUE REFORMA EL ARTÍCULO 349 DECIES PÁRRAFO PRIMERO Y FRACCIÓN I, Y LA FRACCIÓN II Y III DEL ARTÍCULO 349 UNDECIES; Y SE ADICIONA LA FRACCIÓN III Y IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 349 DECIES, Y LA FRACCIÓN IV DEL ARTÍCULO 349 UNDECIES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
