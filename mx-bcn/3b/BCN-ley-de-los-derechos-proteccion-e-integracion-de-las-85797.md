@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2023-12-01"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -243,7 +243,9 @@ IX. Vivir en el seno de su Familia o a mantener relaciones personales y contacto
 
 X. Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial que afecte sus esferas personal, familiar y social;
 
-XI. Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que los involucre;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+XI. Acceso a la justicia en cualquier procedimiento judicial o administrativo que involucre a las personas adultas mayores, garantizando se les dé una atención preferente;
 
 XII. Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones creadas para tal efecto;
 
@@ -725,9 +727,17 @@ III. La capacitación a las personas adultas mayores, para que adquieran conocim
 
 IV. La organización de una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores y orientarlas para que presenten ofertas de trabajo;
 
-V. La asesoría jurídica gratuita a las personas adultas mayores que decidan retirarse de sus actividades laborales; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
 
-VI. La creación de mecanismos de autoempleo mediante capacitación y financiamiento para que las personas adultas mayores adquieran conocimientos y destrezas en el campo de formulación y ejecución de proyectos productivos.
+V. La asesoría jurídica gratuita a las personas adultas mayores que decidan retirarse de sus actividades laborales;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+VI. La creación de mecanismos de autoempleo mediante capacitación y financiamiento para que las personas adultas mayores adquieran conocimientos y destrezas en el campo de formulación y ejecución de proyectos productivos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2024)</small>
+
+VII. Fomentar el trabajo digno para las personas adultas mayores, en un plano de igualdad de oportunidades, generando los mecanismos de seguimiento y vigilancia que garanticen se cumplan con las disposiciones legales en materia laboral, con la finalidad de erradicar la discriminación.
 
 #### SECCIÓN VIII. DE LA SECRETARÍA DE TURISMO
 
@@ -1126,3 +1136,15 @@ P.O. 1 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 314 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN XIV AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 393 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XI DEL ARTÍCULO 8 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 394 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
