@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2024-03-04"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -738,11 +738,11 @@ X. Garantizar que se informe y asesore jurídicamente de forma gratuita y profes
 
 XI. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos o diversos al interés superior de la niñez, para quienes participen en ella.
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2024)</small>
 
 ###### Artículo 31 Bis.
 
-La persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá dar aviso o presentarlo ante la Procuraduría de Protección y al DIF-CDMX, con las prendas valores o cualesquiera otros objetos encontrados en su persona, señalando las circunstancias de tiempo, modo y lugar en que lo hubiere hallado. La Procuraduría de Protección y el DIF–CDMX, darán parte de la presentación al Ministerio Público para que en el marco de sus atribuciones realice la investigación correspondiente.
+La persona que encontrare una niña, niño o adolescente en estado de indefensión, situación de calle, trabajo infantil desempeñado en calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación, en cualquiera de sus formas o que hubiere sido puesto en situación de desamparo familiar, deberá dar aviso o presentarlo ante la Procuraduría de Protección y al DIF-CDMX, con las prendas valores o cualesquiera otros objetos encontrados en su persona, señalando las circunstancias de tiempo, modo y lugar en que lo hubiere hallado. La Procuraduría de Protección y el DIF–CDMX, darán parte de la presentación al Ministerio Público para que en el marco de sus atribuciones realice la investigación correspondiente.
 
 > <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -1180,7 +1180,9 @@ VI. La tortura, tratos crueles, inhumanos o degradantes;
 
 VII. La desaparición forzada de personas;
 
-VIII. El trabajo antes de la edad mínima de quince años;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2024)</small>
+
+VIII. El trabajo antes de la edad mínima de quince años, y particularmente el trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación;
 
 IX. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso;
 
@@ -1209,6 +1211,10 @@ Las leyes de la Ciudad de México deberán establecer las disposiciones que orie
 > <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
 
 Para lo cual el Registro PÚBLICO de Agresores Sexuales, registrará a las personas sentenciadas con ejecutoria por los delitos SEÑALADOS EN LA LEGISLACIÓN PENAL, que hayan sido cometidos contra niñas, niños y adolescentes Y, QUE LA AUTORIDAD JURISDICCIONAL, HAYA DETERMINADO SU INSCRIPCIÓN EN DICHO REGISTRO.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+De manera específica, para lo relacionado con el trabajo infantil mencionado en la fracción VIII del presente artículo, la Procuraduría de Protección y el DIF-CDMX, deberán llevar a cabo la vigilancia e inspecciones de manera permanente en los sitios mencionados en la misma fracción, con el fin de detectar, atender y erradicar el mismo.
 
 > <small>[N. DE E. REUBICADO, G.O. 20 DE MARZO DE 2020]</small>
 
@@ -2402,9 +2408,13 @@ VI. Solicitar a la autoridad ministerial competente la imposición de medidas pr
 
 a) El ingreso de una niña, niño o adolescente a un centro de asistencia social, y
 
-> <small>(REFORMADO, G.O. 3 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2024)</small>
 
-b) La atención médica inmediata por parte de alguna institución del Sistema de Salud de la Ciudad de México.
+b) La atención médica inmediata por parte de alguna institución del Sistema de Salud de la Ciudad de México, y
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+c) El acogimiento, cuidado y protección de niñas, niños y adolescentes en situación de trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación.
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
 
@@ -2472,6 +2482,22 @@ V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del
 
 VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de laniña (sic), niño o adolescente se encuentren garantizados.
 
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+Artículo 113 BIS. En materia de trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación, la Procuraduría de Protección, en el ámbito de sus respectivas competencias deberá:
+
+I. Contar con un sistema de información y registro detallado de carácter confidencial y de acceso exclusivo por orden de autoridad judicial o administrativa competente, actualizado al menos una vez cada dos meses, que permita integrar un Padrón de Niñas, Niños y Adolescentes que laboran en calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación. Dicho Padrón deberá elaborarse con base en caso concreto, denunciado y atendido por la Procuraduría en coordinación con el DIF-CDMX.
+
+El padrón que deberá incluir:
+
+a) La situación jurídica y familiar de las niñas, niños o adolescentes, debiendo especificar si se encuentra en estado de orfandad o bajo la tutela o cuidado de padre o madre, o ambos;
+
+b) Nombre completo del infante, fecha de nacimiento, edad, género, escolaridad;
+
+c) Ubicación en la que se encontró a la niña, niño o adolescente laborando, y
+
+d) Diagnóstico médico y psicológico, condición pedagógica, información social, perfil de necesidades de atención familiar, información biométrica y de ser el caso, número de hermanos, tipo y severidad de la discapacidad con la que vive y requerimientos de atención a necesidades especiales de las niñas, niños y adolescentes.
+
 ###### Artículo 114.
 
 Los requisitos para ser titular de la Procuraduría de Protección, son los siguientes:
@@ -2496,7 +2522,9 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 Las medidas de protección especial que adopten las autoridades y los órganos político administrativos, serán aquellas necesarias para garantizar y restituir los derechos de niñas, niños y adolescentes en condiciones de vulnerabilidad o discriminación múltiple.
 
-Se consideran de manera enunciativa, mas no limitativa, las siguientes condiciones o situaciones de vulnerabilidad: discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, víctimas de delito, hijas e hijos de personas en reclusión, en situación de calle, embarazo adolescente, adolescentes en conflicto con la ley, uso de drogas, trabajo infantil, en situación de abandono, por orientación y preferencia sexual, y cualquier otra condición o situación que impida a niñas, niños y adolescentes el ejercicio efectivo de sus derechos.
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2024)</small>
+
+Se consideran de manera enunciativa, mas no limitativa, las siguientes condiciones o situaciones de vulnerabilidad: discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, víctimas de delito, hijas e hijos de personas en reclusión, en situación de calle, embarazo adolescente, adolescentes en conflicto con la ley, uso de drogas, trabajo infantil, trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación, en situación de abandono, por orientación y preferencia sexual, y cualquier otra condición o situación que impida a niñas, niños y adolescentes el ejercicio efectivo de sus derechos.
 
 ###### Artículo 116.
 
@@ -3007,3 +3035,11 @@ G.O. 4 DE MARZO DE 2024.
 PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31 BIS; SE MODIFICA LA FRACCIÓN VIII Y SE ADICIONA UN QUINTO PÁRRAFO, RECORRIENDO EL SUBSECUENTE DEL ARTÍCULO 44; SE MODIFICA EL INCISO B) Y SE ADICIONA UN INCISO C) A LA FRACCIÓN VI DEL ARTÍCULO 112; SE ADICIONA UN ARTÍCULO 113 BIS, Y SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 115, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
