@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2024-01-26"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -1781,9 +1781,11 @@ Los reconocimientos y distinciones a que se refiere el presente capítulo se oto
 
 #### SECCIÓN II. DE LA GALA DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 183.
 
-Se instituye la Gala del Deporte como el reconocimiento anual que otorga el Poder Ejecutivo Estatal, a través del INDE a aquellas personas que se hayan distinguido por sus méritos en el ámbito de la cultura física y el deporte y por su aportación, trabajo, esfuerzo, dedicación y resultados de técnicos o destacada participación en el desarrollo de la materia en la entidad.
+Se instituye la Gala del Deporte como el reconocimiento anual que otorga el Poder Ejecutivo Estatal, a través del INDE a aquellas personas que se hayan distinguido por sus méritos en el ámbito de la cultura física y el deporte y por su aportación, trabajo, esfuerzo, dedicación y resultados técnicos o destacada participación en el desarrollo de la materia en la entidad, dentro de la cual, también se reconocerá a la categoría de Cronista Deportivo.
 
 ###### ARTÍCULO 184.
 
@@ -2198,3 +2200,9 @@ P.O. 26 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 368 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LAS FRACCIONES XXII Y XXIII Y LA ADICIÓN DE LAS FRACCIONES XXIV, XXV Y XXVI DEL ARTÍCULO 7 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las reformas contenidas en el presente decreto entrará (sic) en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 397 MEDIANTE EL CUAL SE APRUEBA LA REFORMA EL (SIC) ARTÍCULO 183 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La reforma contenida en el presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
