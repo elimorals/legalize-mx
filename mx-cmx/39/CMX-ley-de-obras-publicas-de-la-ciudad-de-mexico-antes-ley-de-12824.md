@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-obras-publicas-de-la-ciudad-de-mexico-antes-ley-de-12824
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-29"
-last_updated: "2022-11-30"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "1998-11-18"
 ---
 # LEY DE OBRAS PUBLICAS DE LA CIUDAD DE MEXICO --ANTES LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL--
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE NOVIEMBRE DE 2022)</small>
-
 LEY DE OBRAS PÚBLICAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -43,6 +41,8 @@ La Asamblea Legislativa del Distrito Federal,
 I Legislatura
 
 DECRETA
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 LEY DE OBRAS PÚBLICAS DEL DISTRITO FEDERAL
 
@@ -409,6 +409,14 @@ XIV. Las demás previsiones que deban tomarse en cuenta, de acuerdo con la natur
 ###### Artículo 18.
 
 Las dependencias, órganos desconcentrados, alcaldías y entidades estarán obligadas a prever los efectos sobre el medio ambiente y el medio urbano que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental, impacto urbano, y los referentes a la materia de protección civil, previstos en las Leyes aplicables en la materia. Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando estás pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias, órganos desconcentrados, alcaldías y entidades con atribuciones en la materia. En cuanto a impacto urbano, se deberán prever los trabajos de restauración de monumentos arqueológicos, históricos y artísticos, así como que se tengan en cuenta los aspectos básicos sobre factibilidad de dotación de servicios, vialidad y facilidades para los discapacitados, atendiendo las leyes y reglamentos respectivos, debiéndose evitar las barreras arquitectónicas que se pudieran producir con los proyectos.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+En la ejecución de toda obra pública de construcción que realice la Administración Pública de la Ciudad de México, se deberá (sic) utilizar materiales reciclados, producto del reciclaje de residuos de la construcción y demolición, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+Asimismo, deberá recolectar y transportar los residuos de la construcción y demolición a las plantas de reciclaje de residuos de la construcción y demolición autorizadas por la Secretaría de Medio Ambiente de la Ciudad de México, debiendo cumplir con las disposiciones que establecen las normas ambientales de la Ciudad de México en esta materia.
 
 Cuando se trate de obra pública en monumentos, predios colindantes a estos o zonas de monumentos arqueológicos, artísticos o históricos se dará intervención a las instituciones competentes en los términos de la Ley de la materia.
 
@@ -1963,3 +1971,13 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México
 
 TERCERO. Los instrumentos de planeación previstos en el artículo 16 antes de la entrada en vigor del presente decreto, deberán seguir siendo considerados en la planeación de obra pública hasta en tanto entren en vigor aquellos que los sustituirán; con excepción de aquellos instrumentos de planeación que prevean su propia vigencia.
+
+G.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO Y UN TERCER PÁRRAFO AL ARTÍCULO 52 A LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y SE ADICIONA UN SEGUNDO PÁRRAFO Y UN TERCER PÁRRAFO, RECORRIENDO EN SU ORDEN EL SUBSECUENTE, AL ARTÍCULO 18 DE LA LEY DE OBRAS PÚBLICAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los 90 días naturales posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá actualizar y armonizar la normatividad aplicable en la Ciudad de México.
