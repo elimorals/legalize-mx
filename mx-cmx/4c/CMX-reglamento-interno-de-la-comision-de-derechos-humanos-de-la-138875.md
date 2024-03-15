@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2023-01-31"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -1214,7 +1214,13 @@ Integración
 
 Para el cumplimiento de sus atribuciones, la Dirección Ejecutiva de Investigación e Información en Derechos Humanos contará con al menos:
 
-I. Una Dirección de Área; y
+[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wpcontent/uploads/2024/03/Acuerdo_
+
+Reforma_RI_marzo_24_ESTRADOS.pdf
+
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2024)</small>
+
+I. Tres Subdirecciones de Área; y
 
 II. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
 
@@ -2395,6 +2401,30 @@ PRIMERO. Se da a conocer el enlace electrónico del sitio oficial de la Comisió
 https://cdhcm.org.mx/wp-content/uploads/2023/01/Acuerdo-Reforma-RI.Ene_23_ESTRADOS.pdf
 
 SEGUNDO. Las modificaciones antes mencionadas entrarán en vigor el día 01 de febrero de 2023.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
+
+G.O. 15 DE MARZO DE 2024.
+
+[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wpcontent/uploads/2024/03/Acuerdo_
+
+Reforma_RI_marzo_24_ESTRADOS.pdf
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL. DONDE PODRÁ SER CONSULTADO EL ACUERDO 07/2024, POR EL CUAL SU CONSEJO APROBÓ REFORMAR EL ARTÍCULO 61 DE SU REGLAMENTO INTERNO”.]
+
+Primero. La presente reforma al Reglamento Interno fue aprobada por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en la Sesión Ordinaria 2/2024 de fecha veintidós de febrero de dos mil veinticuatro, entrará en vigor el dieciséis de marzo de dos mil veinticuatro.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México, el Aviso por el que se dé a conocer el enlace electrónico del sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México, donde podrá ser consultada la presente reforma.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANCRIBE EL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADO EL ACUERDO 07/2024, POR EL CUAL EL CONSEJO DE LA MISMA APROBÓ REFORMAR EL ARTÍCULO 61 DEL REGLAMENTO INTERNO DE ESTE ORGANISMO”.]</small>
+
+PRIMERO. Se da a conocer el enlace electrónico del sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México, donde podrá ser consultado el Acuerdo 07/2024 de este Organismo, de fecha 22 de febrero de 2024, por el cual se aprueba reformar el artículo 61 del Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México, el cual estará disponible para su consulta y descarga en el siguiente enlace electrónico: https://cdhcm.org.mx/wp-content/uploads/2024/03/Acuerdo_Reforma_RI_marzo_24_ESTRADOS.pdf
+
+SEGUNDO. Las modificaciones antes mencionadas entrarán en vigor el día 16 de marzo de 2024.
 
 ## TRANSITORIOS
 
