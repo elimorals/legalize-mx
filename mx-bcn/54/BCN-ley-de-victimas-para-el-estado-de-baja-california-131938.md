@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-victimas-para-el-estado-de-baja-california-131938"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-29"
-last_updated: "2024-02-09"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Sección III al Número 49 del Periódico Oficial del Estado de Baja California, el lunes 29 de octubre de 2018.
 
@@ -1735,11 +1735,15 @@ X.- Cuando se entregue a la víctima el cuerpo o restos humanos del familiar o p
 
 XI.- Las demás acciones que establezcan las disposiciones jurídicas aplicables en materia de atención integral a víctimas y reparación.
 
-#### SECCIÓN IV. FACULTADES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2024)</small>
+
+#### SECCIÓN IV. FACULTADES DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 122.
 
-Corresponde a la Secretaría de Seguridad Pública del Estado, en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
+Corresponde a la Secretaría de Seguridad Ciudadana del Estado, en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
 
 I.- Proporcionar a la víctima del delito, información sobre las instituciones públicas o privadas de seguridad que puedan proporcionarle atención;
 
@@ -1749,7 +1753,9 @@ III.- Proporcionar custodia y protección a la víctima del delito y demás pers
 
 IV.- Coordinar a la policía estatal y brindar apoyo a las corporaciones de policía municipal, en el cumplimiento de sus deberes en materia de asistencia, atención y protección de la víctima del delito, y demás personas que intervienen en el procedimiento penal; en términos de lo previsto por esta Ley y demás ordenamientos legales aplicables en la materia;
 
-V.- Ordenar que se cumplan las medidas de protección que se decreten a favor de personas que se encuentren internas en instituciones del Sistema Estatal Penitenciario, independientemente de la situación procesal en la que éstos se encuentren; lo anterior, sin perjuicio de que las autoridades penitenciarias adopten las medidas adicionales que resulten procedentes en términos de la normatividad aplicable para garantizar la debida protección de la persona;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+V.- Ordenar que se cumplan las medidas de protección que se decreten a favor de personas privadas de su libertad que se encuentren internas en instituciones del Sistema Estatal Penitenciario, independientemente de la situación procesal en la que estos se encuentren; lo anterior, sin perjuicio de que las autoridades penitenciarias adopten las medidas adicionales que resulten procedentes en términos de la normatividad aplicable para garantizar la debida protección de la persona;
 
 VI.- Promover la formación y especialización de los servidores públicos adscritos a las corporaciones policiacas del Estado y municipios, en el conocimiento de sus deberes en relación con la víctima u ofendido del delito, así como de las demás personas que intervienen en el procedimiento penal;
 
@@ -1779,11 +1785,15 @@ VII.- Proporcionar a la víctima del delito la información y asesoría que requ
 
 VIII.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN VI. FACULTADES DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2024)</small>
+
+#### SECCIÓN VI. FACULTADES DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 124.
 
-Corresponde a la Secretaría de Educación y Bienestar Social, en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
+Corresponde a la Secretaria de Educación, en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
 
 I.- Promover la incorporación de contenidos temáticos con perspectiva de los derechos de la víctima del delito, en los programas de educación de su competencia;
 
@@ -1801,11 +1811,15 @@ VII.- Establecer apoyos para que las víctimas puedan participar en procesos de 
 
 VIII.- Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
-#### SECCIÓN VII. FACULTADES DE LA SECRETARÍA DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2024)</small>
+
+#### SECCIÓN VII. FACULTADES DE LA SECRETARÍA DE BIENESTAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 125.
 
-Corresponde a la Secretaría de Desarrollo Social, en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
+Corresponde a la Secretaría de Bienestar en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
 
 I.- Proporcionar a la víctima las facilidades necesarias para que pueda acceder a los beneficios de los programas de desarrollo social con los que cuente la Dependencia, particularmente en tratándose de víctimas que hayan sufrido daños graves como consecuencia del hecho victimizante;
 
@@ -1949,6 +1963,8 @@ VI.- Las demás que le señale esta Ley y otras disposiciones legales aplicables
 
 #### SECCIÓN VI. FACULTADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 133.
 
 Corresponde a las instituciones de Seguridad Pública Municipal, en lo concerniente a la aplicación de esta Ley, el ejercicio de las atribuciones siguientes:
@@ -1959,7 +1975,9 @@ II.- Auxiliar con la fuerza pública a la autoridad ministerial y judicial para 
 
 III.- Proporcionar custodia y protección a la víctima del delito y demás personas que intervienen en el procedimiento penal, en términos de lo dispuesto por la presente Ley y demás ordenamientos legales aplicables;
 
-IV.- Coordinarse con la Secretaría de Seguridad Pública del Estado para brindar apoyo a la víctima del delito y demás personas que intervienen en el procedimiento penal, en lo relativo a su asistencia, atención y protección;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+IV.- Coordinarse con la Secretaría de Seguridad Ciudadana del Estado para brindar apoyo a la víctima del delito y demás personas que intervienen en el procedimiento penal, en lo relativo a su asistencia, atención y protección;
 
 V.- Promover la formación y especialización de los servidores públicos adscritos a sus corporaciones, en el conocimiento de sus deberes con relación a la asistencia, atención y protección de la víctima del delito, así como de las demás personas que intervienen en el procedimiento penal, y
 
@@ -2558,3 +2576,9 @@ P.O. 9 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NUMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 388 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 122, 124, 125, 133 FRACCIÓN IV DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
