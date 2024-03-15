@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-civil-del-estado-de-yucatan-124456"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2019-07-31"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 20 de octubre de 2017.
 
@@ -402,6 +402,26 @@ X. Emitir dictámenes de riesgo de los bienes inmuebles que sean de su competenc
 XI. Inspeccionar las instalaciones públicas o privadas a que se refiere el artículo 24 para verificar que cumplan lo dispuesto en esta ley y la demás normativa aplicable, y, en su caso, imponer las sanciones correspondientes.
 
 XII. Proponer la suscripción de convenios de asesoría, capacitación y ayuda financiera con el Gobierno del estado.
+
+> <small>(ADICIONADO, D.O. 15 DE MARZO DE 2024)</small>
+
+###### Artículo 23 Bis.
+
+Nombramiento de la o el Titular
+
+La Coordinación Municipal estará a cargo de una persona titular, quien será nombrada y removida, por la mayoría simple del Cabildo a propuesta de la o el Presidente Municipal.
+
+Para el cumplimiento de su objeto y de conformidad con la disponibilidad presupuestal, la coordinadora o el coordinador se auxiliará del personal técnico y administrativo que requiera, el cual deberá contar con conocimientos en la materia.
+
+> <small>(ADICIONADO, D.O. 15 DE MARZO DE 2024)</small>
+
+###### Artículo 23 Ter.
+
+Acreditación de competencias
+
+La persona titular de la Coordinación Municipal de Protección Civil, deberá contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil, en términos de lo dispuesto en el artículo 17 de la Ley general.
+
+En caso de no contar con la certificación referida en el párrafo anterior y, para efectos de lo dispuesto en el presente capítulo, deberá acreditar la capacitación en competencias impartida por la Coordinación Estatal de Protección Civil, en un plazo no mayor de noventa días contados a partir de su nombramiento.
 
 ### Capítulo VI. Distribución de Competencias
 
@@ -1230,3 +1250,19 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 741/2024 POR EL QUE SE MODIFICA LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE PROFESIONALIZACIÓN DE LAS PERSONAS TITULARES DE LAS COORDINACIONES MUNICIPALES DE PROTECCIÓN CIVIL".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Partida Presupuestal
+
+Artículo Segundo. Los ayuntamientos deberán prever la suficiencia presupuestal necesaria en una partida correspondiente a su Presupuesto de Egresos para el Ejercicio Fiscal 2025, para la acreditación de la capacitación en competencias de la persona titular de la Coordinación Municipal de Protección Civil a que hace referencia el presente Decreto.
+
+Cláusula derogatoria
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
