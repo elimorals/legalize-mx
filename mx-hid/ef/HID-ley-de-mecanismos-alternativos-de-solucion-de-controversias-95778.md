@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mecanismos-alternativos-de-solucion-de-controversias-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2014-11-10"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -77,8 +77,6 @@ Para el cumplimiento del objeto previsto en el artículo anterior, el Sistema de
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 I.- Acuerdo Reparatorio: El pacto entre la víctima u ofendido y el imputado que lleva como resultado la solución del conflicto a través de cualquier mecanismo idóneo y que tiene el efecto de concluir el proceso, en términos del Código Nacional de Procedimientos Penales;
@@ -86,8 +84,6 @@ I.- Acuerdo Reparatorio: El pacto entre la víctima u ofendido y el imputado que
 II.- Arbitraje: Procedimiento extrajudicial al que los interesados someten ciertas controversias que hayan surgido o puedan surgir entre ellos, respecto de una determinada relación jurídica;
 
 III.- Centro de Justicia Alternativa: Aquella institución pública estatal y municipal que tenga como fin la solución de conflictos a través de los mecanismos alternativos de solución de controversias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -99,6 +95,10 @@ VI.- Conciliación: Método alternativo no adversarial para lograr la solución 
 
 VII.- Convenio: Acuerdo a través del cual los interesados ponen fin de manera total o parcial a un conflicto;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
+
+VII Bis.- Cultura de la Paz y No Violencia: Es el conjunto de valores, actitudes, creencias, tradiciones, comportamientos y estilos de vida encaminados a la construcción de la paz y la transformación no violenta de los conflictos o controversias, mediante mecanismos o acciones que promuevan el respeto a los derechos humanos, el dialogo, la plena participación, tolerancia, solidaridad y cooperación, para alcanzar consensos u objetivos equitativos y de interés común.
+
 VIII.- Facilitador: Aquella persona que interviene en los mecanismos de solución de controversias con el fin de coadyuvar en su solución y contribuir a la armonía social;
 
 IX.- Facilitador Indígena: Aquella persona física, que coadyuva en la solución de controversias, integrante de una comunidad indígena, con conocimientos de los usos y costumbres, cultura, tradiciones, lengua y valores culturales con ese sector de la población;
@@ -107,7 +107,9 @@ X.- Facilitador Privado: Aquella persona física que, sin pertenecer a una insti
 
 XI.- Interesados: Personas físicas o morales debidamente representadas, que se someten a algún mecanismo alternativo de solución de controversias;
 
-XII.- Mediación: Método alternativo no adversarial para lograr la solución de conflictos, mediante el cual el facilitador, quien no tiene facultad de decisión, interviene únicamente propiciando la comunicación entre los interesados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente, y también coadyuvar para lograr una paz social;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+XII. Mediación: Método alternativo no adversarial para lograr la solución de conflictos, mediante el cual el facilitador, quien no tiene facultad de decisión, interviene únicamente propiciando la comunicación entre los interesados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente, y también coadyuvar para lograr la cultura de la paz y no violencia;
 
 XIII.- Negociación: Es el acto por virtud del cual las partes interesadas, sin intermediarios, solucionan un conflicto; y
 
@@ -219,9 +221,11 @@ V.- Substanciar los mecanismos alternativos de solución de controversias para p
 
 VI.- Mantener el buen desarrollo de las sesiones, procurando que no haya interrupciones y propiciar un ambiente afable que permita el libre intercambio de información entre los interesados, de manera que se asegure un trato de consideración y de respeto;
 
-VII.- Dar por terminado el desarrollo de las sesiones de mecanismos alternativos de solución de controversias cuando alguno de los interesados lo solicite expresamente o el facilitador considere que se ha agotado la viabilidad del mecanismo alternativo elegido;
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VI Bis.- Promover y difundir permanentemente la cultura de la paz y no violencia;
+
+VII.- Dar por terminado el desarrollo de las sesiones de mecanismos alternativos de solución de controversias cuando alguno de los interesados lo solicite expresamente o el facilitador considere que se ha agotado la viabilidad del mecanismo alternativo elegido;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -519,6 +523,10 @@ III.- Crear sedes regionales y unidades de apoyo necesarios para su buen funcion
 
 IV.- Desarrollar y administrar los procedimientos para la aplicación de los mecanismos alternativos de solución de controversias conforme a esta Ley;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
+
+IV Bis.- Promover y difundir permanentemente la cultura de la paz y no violencia en pro de la construcción y la transformación de los conflictos o controversias.
+
 V.- Difundir y divulgar los mecanismos alternativos de solución de controversias; y
 
 VI.- Las demás que le confieran los ordenamientos legales.
@@ -711,9 +719,11 @@ La mediación indígena puede desarrollarse en español o en la lengua de la com
 
 ### CAPÍTULO TERCERO. MEDIACIÓN ESCOLAR
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2024)</small>
+
 ###### Artículo 63.
 
-Toda persona tiene derecho a una adecuada educación sobre la paz social, por lo que las escuelas llevarán a cabo programas o actividades en alguna asignatura afín que fomenten en los alumnos la utilización del diálogo, la negociación, la mediación y otros métodos idóneos para la solución de conflictos.
+Toda persona tiene derecho a una adecuada educación sobre la cultura de la paz y no violencia, por lo que las escuelas llevarán a cabo programas o actividades en alguna asignatura afín que fomenten en los alumnos la utilización del diálogo, la negociación, la mediación y otros métodos idóneos para la solución de conflictos.
 
 ###### Artículo 64.
 
@@ -755,7 +765,9 @@ La reparación derivada del procedimiento restaurativo podrá comprender lo sigu
 
 I.- El reconocimiento de responsabilidad y la formulación de una disculpa a la víctima en un acto público o privado, de conformidad con el acuerdo alcanzado por los intervinientes, por virtud del cual el ofensor acepta que su conducta causó un daño real;
 
-II.- El compromiso de no repetición de la conducta originadora del conflicto y el establecimiento de condiciones para darle efectividad, tales como inscribirse a programas educativos para la promoción de la paz, tratamiento de adicciones y alcoholismo, terapias para el control del enojo u otras medidas similares;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+II. El compromiso de no repetición de la conducta originadora del conflicto y el establecimiento de condiciones para darle efectividad, tales como inscribirse a programas educativos para la promoción de la cultura de la paz y no violencia, tratamiento de adicciones y alcoholismo, terapias para el control del enojo u otras medidas similares;
 
 III.- La voluntad de someterse a alguna de las condiciones previstas para el otorgamiento de la suspensión del proceso; y
 
@@ -848,3 +860,9 @@ P.O. 10 DE NOVIEMBRE DE 2014.
 ARTÍCULO PRIMERO Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder Ejecutivo del Estado, de fecha 22 de agosto de 2014.
 
 SEGUNDO. En la fecha y en los lugares en que entre en vigencia el Nuevo Sistema de Justicia Penal previsto en el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 05 de marzo de 2014, el Centro de la Procuraduría tendrá competencia para conocer y facilitar los acuerdos reparatorios que deseen realizar los interesados, desde el momento en que tengan conocimiento de la noticia del delito y hasta antes de decretarse el auto de apertura de juicio.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 803 QUE ADICIONA LA FRACCIÓN VII BIS DEL ARTÍCULO 3, LA FRACCIÓN VI BIS DEL ARTÍCULO 13 Y LA FRACCIÓN IV BIS DEL ARTÍCULO 45, Y REFORMA LA FRACCIÓN XII DEL ARTÍCULO 3, EL ARTÍCULO 63 Y LA FRACCIÓN II DEL ARTÍCULO 70 DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
