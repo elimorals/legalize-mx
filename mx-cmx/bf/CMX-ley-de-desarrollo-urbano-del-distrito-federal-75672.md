@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2023-05-15"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -1392,6 +1392,14 @@ Los usos del suelo se clasificarán en el reglamento y se reproducirán a detall
 
 Las disposiciones en materia de construcciones regularán el uso y ocupación de la vía pública, la nomenclatura y asignación de número oficial, el alineamiento; las afectaciones y restricciones de construcción, edificación, modificación, ampliación, reparación, uso, mantenimiento y demolición de construcciones; la explotación de yacimientos pétreos; las responsabilidades de los propietarios y poseedores de inmuebles, así como de los concesionarios y los directores responsables de obra; el impacto urbano y la forma de garantizar daños y perjuicios a terceros.
 
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+En todas las construcciones de la Ciudad de México, públicas y privadas, se deberá (sic) utilizar materiales reciclados, producto del reciclaje de residuos de la construcción y demolición de conformidad con la normativa aplicables (sic).
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2024)</small>
+
+Asimismo, se deberá recolectar y transportar los residuos generados por las obras de construcción y demolición a las plantas de reciclaje de residuos de la construcción y demolición autorizadas por la Secretaría de Medio Ambiente de la Ciudad de México.
+
 ###### Artículo 53.
 
 La regulación del equipamiento urbano se referirá al conjunto de inmuebles, así como de las instalaciones, construcciones y mobiliario, utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas y sociales.
@@ -2243,3 +2251,13 @@ CUARTO. La Agencia Digital de Innovación Pública tendrá un plazo de 180 días
 QUINTO. Los trámites contenidos en la Ley se continuarán presentando como hasta antes de la entrada en vigor del presente Decreto, hasta en tanto se habilite la Plataforma Digital, momento a partir del cual deberán ingresarse a través de dicho sistema.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO Y UN TERCER PÁRRAFO AL ARTÍCULO 52 A LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y SE ADICIONA UN SEGUNDO PÁRRAFO Y UN TERCER PÁRRAFO, RECORRIENDOEN SU ORDEN EL SUBSECUENTE, AL ARTÍCULO 18 DE LA LEY DE OBRAS PÚBLICAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los 90 días naturales posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá actualizar y armonizar la normatividad aplicable en la Ciudad de México.
