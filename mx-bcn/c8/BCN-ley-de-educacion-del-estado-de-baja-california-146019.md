@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2024-03-08"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1059,9 +1059,17 @@ VI. Promover la acreditación de grados académicos superiores de los docentes;
 
 VII. Promover la investigación educativa y su financiamiento, a través de programas permanentes y de la vinculación con instituciones de educación superior y centros de investigación;
 
-VIII. Promover la colaboración con Instituciones Formadoras de Docentes Nacionales e Internacionales, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
 
-IX. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional.
+VIII. Promover la colaboración con Instituciones Formadoras de Docentes Nacionales e Internacionales;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
+
+IX. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional; y,
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2024)</small>
+
+X. Promover la capacitación a las y los docentes en materia de primeros auxilios.
 
 ###### Artículo 86.
 
@@ -1096,6 +1104,10 @@ La autoridad educativa estatal y municipal coadyuvarán con la autoridad educati
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
 
 Los bienes muebles e inmuebles, así como las instalaciones a que se refiere este artículo, que sean propiedad de particulares, continuarán siendo propiedad de dichos particulares.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2024)</small>
+
+Destinar, dentro del plantel educativo, un espacio que cuente con botiquín de primero (sic) auxilios y un área de atención para el caso de emergencia o accidente ocurrido dentro del mismo, mismo que deberá estar perfectamente identificable.
 
 ###### Artículo 89.
 
@@ -1850,3 +1862,11 @@ P.O. 8 DE MARZO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Poder Ejecutivo en un plazo no mayor a 180 días, a partir de la entrada en vigor de este Decreto, deberá emitir los lineamientos para la solicitud y cambio del modelo de los uniformes en las instituciones públicas y particulares.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 389 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE ADICIONA LA FRACCIÓN X AL ARTÍCULO 85, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 88 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La aplicación del presente Decreto, estará sujeto a la disponibilidad presupuestaria.
