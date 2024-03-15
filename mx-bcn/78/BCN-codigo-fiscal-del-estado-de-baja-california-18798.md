@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2024-01-26"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -149,7 +149,7 @@ Las otras disposiciones fiscales se interpretarán aplicando cualquier método d
 
 La recaudación, administración, determinación, concentración, vigilancia y cobranza de los ingresos que el Estado tiene derecho a percibir, así como los importes de fianzas o garantías que por cualquier motivo deba otorgarse ante cualquier autoridad estatal, estará a cargo de la Secretaría de Hacienda y sus unidades administrativas, de acuerdo con la competencia que le señale el presente Código, el Reglamento Interno de la Secretaría de Hacienda y los demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 14.
 
@@ -159,21 +159,27 @@ I.- La persona Titular del Poder Ejecutivo;
 
 II.- La persona Titular de la Secretaría de Hacienda;
 
-III.- La persona a cargo de la Dirección del Servicio de Administración Tributaria, así como sus unidades administrativas:
+III.- La persona Titular de Procuraduría Fiscal;
 
-1. La persona a cargo de la Dirección de Auditoría Fiscal.
+IV.- La persona Titular de la Subsecretaría de Finanzas;
 
-2. La persona a cargo de la Dirección de Auditoria de Comercio Exterior.
+V.- La persona Titular de la Dirección General del Servicio de Administración Tributaria de Baja California;
 
-3. La persona a cargo de la Dirección Jurídica y de Cobranza.
+VI.- La persona Titular de la Dirección de Auditoría Fiscal;
 
-IV.- Las personas titulares de las presidencias municipales y las personas titulares de las tesorerías de los Municipios del Estado de Baja California.
+VII.- La persona Titular de la Dirección de Auditoría de Comercio Exterior;
 
-V.- La persona Titular de la Procuraduría Fiscal.
+VIII.- La persona Titular de la Dirección de Recaudación;
 
-VI.- La persona Titular (sic) Subsecretaría de Finanzas.
+IX.- La persona Titular de la Dirección de Legalidad Tributaria;
 
-VII.- Las y Los auditores, visitadores, inspectores, interventores, notificadores, ejecutores y verificadores fiscales, designados por las autoridades competentes en los términos del Reglamento Interno de la Secretaría Hacienda del Estado de Baja California, así como del Reglamento Interior del Servicio de Administración Tributaria del Estado de Baja California, según corresponda, para que ejerzan las atribuciones que expresamente se les encomiende de conformidad con la legislación fiscal aplicable.
+X.- Las personas Titulares de Recaudaciones de Rentas;
+
+XI.- Las personas titulares de las presidencias municipales y las personas titulares de las tesorerías de los municipios del Estado de Baja California;
+
+XII.- Las personas titulares de las Subprocuradurías adscritas a Procuraduría Fiscal, de las personas titulares de Subdirecciones señaladas en las fracciones VI, VII, VIII y IX, y las personas titulares de las Subrecaudaciones de Rentas del Estado;
+
+XIII.- Las personas servidoras públicas con cargos de auditores, visitadores, inspectores, interventores, notificadores, ejecutores y verificadores, designados por las autoridades competentes en los términos del Reglamento Interno de la Secretaría de Hacienda del Estado de Baja California, o del Reglamento Interior del Servicio de Administración Tributaria de Baja California, para que ejerzan las atribuciones que expresamente se les encomiende de conformidad con la legislación fiscal aplicable.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -1245,9 +1251,9 @@ II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de
 
 III.- Por edictos, cuando se desconozca el domicilio del causante o del representante de la sucesión, en caso de fallecimiento. Se hará mediante tres publicaciones consecutivas en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad y contendrá un resumen de los actos que se notifican.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2024)</small>
 
-IV.- Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio manifestado ante las autoridades fiscales estatales, se ignore éste o el de su representante, desaparezca, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción IV del artículo 104 Bis de este Código y en los demás casos que señalen las Leyes Fiscales y este Código.
+IV.- Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio manifestado ante las autoridades fiscales estatales, se ignore este o el de su representante, desaparezca, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción IV del artículo 104 Bis de este Código y en los demás casos que señalen las Leyes Fiscales y este Código.
 
 Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día contado a partir del día siguiente a aquel en que se hubiera fijado o publicado el documento; y
 
@@ -1259,17 +1265,17 @@ V.- Por instructivo, solamente en los casos y con las formalidades a que se refi
 
 Las notificaciones podrán hacerse en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2024)</small>
 
-La Secretaría de Hacienda del Estado, podrá habilitar a terceros para que realicen las notificaciones previstas en este artículo, cumpliendo con las formalidades establecidas en este Código.
+La Secretaría de Hacienda, podrá habilitar a terceros para que realicen las notificaciones previstas en este artículo, cumpliendo con las formalidades establecidas en este Código.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2010)</small>
 
 La habilitación a terceros se dará a conocer a través de la página de Internet del Poder Ejecutivo del Gobierno del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2024)</small>
 
-Los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de las y los contribuyentes que las autoridades fiscales les suministren para este fin, observando en todo momento los convenios de confidencialidad suscrito (sic) entre los terceros y la persona titular de la Secretaría de Hacienda. Lo anterior en términos del Artículo 108 de este Código.
+Los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para este fin, observando en todo momento los convenios de confidencialidad suscrito (sic) entre los terceros y la persona titular de la Secretaría de Hacienda. Lo anterior en términos del Artículo 108 de este Código.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2870,3 +2876,11 @@ P.O. 26 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N.° 366, MEDIANTE EL CUAL, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 13, 14, 15, 21, 25, 28, 28 BIS, 32, 34, 36, 38, 40, 42, 51 BIS, 56, 58, 68, 78, 81, 83, 84, 88, 94 BIS, 95, 97 BIS, 105, 106, 139, 151, 153, 154, 162, 168, 171, 173, 179, 181, 183 Y 186, DEL CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N.° 411, MEDIANTE EL CUAL, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 14 Y 68, FRACCIÓN IV, SEGUNDO PÁRRAFO DEL CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Continúan en vigor todos los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en las normas vigentes con anterioridad al presente Decreto.
