@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2024-01-03"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1495,17 +1495,21 @@ I.- Conformar dentro de los primeros quince días naturales del inicio de la adm
 
 II.- Establecer la unidad municipal de protección civil;
 
+> <small>(ADICIONADA, D.O. 15 DE MARZO DE 2024)</small>
+
+III.- Procurar proveer los recursos necesarios para la capacitación de la persona designada como Titular de la Coordinación Municipal, en términos de lo dispuesto en la Ley de Protección Civil del Estado de Yucatán;
+
 > <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
-III.- Prevenir a la comunidad en casos de contingencia;
+IV.- Prevenir a la comunidad en casos de contingencia;
 
 > <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
-IV.- Contar con el equipamiento básico para casos de contingencia, dentro de las capacidades presupuestarias, y mantenerlo en óptimas condiciones, y
+V.- Contar con el equipamiento básico para casos de contingencia, dentro de las capacidades presupuestarias, y mantenerlo en óptimas condiciones, y
 
 > <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
-V.- Las demás que les asignen las diversas leyes.
+VI.- Las demás que les asignen las diversas leyes.
 
 > <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -4548,3 +4552,19 @@ Artículo décimo primero. Se derogan todas aquellas disposiciones normativas de
 Exención de la vigencia
 
 Artículo décimo segundo. Los proyectos de desarrollos inmobiliarios que, a la entrada en vigor de este decreto, se encuentren aprobados por la autoridad municipal competente, no serán sujetos de la acreditación de los requisitos de habitabilidad que deban señalarse en el avalúo.
+
+D.O. 15 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 741/2024 POR EL QUE SE MODIFICA LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE PROFESIONALIZACIÓN DE LAS PERSONAS TITULARES DE LAS COORDINACIONES MUNICIPALES DE PROTECCIÓN CIVIL”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Partida Presupuestal
+
+Artículo Segundo. Los ayuntamientos deberán prever la suficiencia presupuestal necesaria en una partida correspondiente a su Presupuesto de Egresos para el Ejercicio Fiscal 2025, para la acreditación de la capacitación en competencias de la persona titular de la Coordinación Municipal de Protección Civil a que hace referencia el presente Decreto.
+
+Cláusula derogatoria
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
