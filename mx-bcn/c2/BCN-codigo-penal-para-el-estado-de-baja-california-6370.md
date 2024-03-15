@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2024-02-09"
+last_updated: "2024-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3007,15 +3007,21 @@ Se impondrá prisión de dos a diez años y multa de hasta el equivalente a ocho
 
 ### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2024)</small>
 
 ###### Artículo 226.
 
-Tipo y Punibilidad.- Se aplicará de uno a seis años de prisión y hasta doscientos días de multa:
+Tipo y punibilidad.- Se aplicará de uno a seis años de prisión y hasta doscientos días (sic) multa:
 
-I.- Al que de propia autoridad y haciendo uso de violencia o furtivamente, ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2024)</small>
+
+I.- Al que de propia autoridad y haciendo uso de violencia o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1994)</small>
 
 II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad en los casos en que la Ley no lo permite por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1994)</small>
 
 III.- Al que en los términos de las fracciones anteriores, desvíe o haga uso de aguas propias o ajenas en los casos en que la Ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan.
 
@@ -6593,11 +6599,11 @@ P.O. 9 DE FEBRERO DE 2024.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1097 POR EL QUE SE REFORMA EL ARTÍCULO 121 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 15 DE MARZO DE 2024.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 395 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 226 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 17 DE SEPTIEMBRE DE 2024.
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1102 POR EL QUE SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 145 OCTAVUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
