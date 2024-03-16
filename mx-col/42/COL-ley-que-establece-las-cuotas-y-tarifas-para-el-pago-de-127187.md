@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-127187"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-17"
-last_updated: "2020-11-07"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Número 20 del Periódico Oficial del Estado de Colima, el sábado 17 de marzo de 2018.
 
@@ -515,11 +515,17 @@ a).- Credencial que lo acredite como pensionado o jubilado expedidos por institu
 
 b).- Identificación oficial con fotografía.
 
-IV.- A los usuarios de cuota fija que acrediten ser de la tercera edad, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable, drenaje y saneamiento, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando estén al corriente y cubran de manera anticipada todo el año, dicho descuento se aplicara en los meses de Enero a Diciembre.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-V.- A los usuarios de cuota fija que acrediten ser discapacitados, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable, drenaje y saneamiento, la condonación se aplicará respecto a la casa que habiten y no es retroactiva a la fecha de esta publicación. Deberá entregar a la comisión, copia de identificación oficial con fotografía o certificado de la institución que lo acredite como tal, dicho descuento se aplicará en los meses de Enero a Diciembre.
+IV.- A los usuarios de cuota fija que acrediten ser adultos mayores, con su respectiva credencial de elector, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable, drenaje y saneamiento; dicho descuento se aplicará respecto de la casa que habiten y que comprueben ser propietarios o poseedores, siempre que el domicilio del predio sea el mismo que se asienta en su credencial de elector o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre el beneficiario, o del contrato de arrendamiento que en su caso exhiba el beneficiario del referido descuento; siempre y cuando estén al corriente y cubran de manera anticipada todo el año, dicho descuento se aplicará en los meses de enero a diciembre.
 
-VI.- A los usuarios que tengan un familiar con capacidades diferentes y que viva en la misma vivienda, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable, drenaje y saneamiento, para lo cual deberán presentar aparte de lo señalado en el inciso anterior, original del acta de nacimiento, acompañada del original de la credencial de elector de cualquiera de los padres o tutores y entregar copias, dicho descuento se aplicará en los meses de Enero a Diciembre.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+V.- A los usuarios de cuota fija que acrediten ser personas con discapacidad, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable, drenaje y saneamiento, la condonación se aplicará respecto a la casa que habiten y no es retroactiva a la fecha de esta publicación. Deberá entregar a la CAPAI, copia de identificación oficial con fotografía o certificado de la institución que lo acredite como tal, dicho descuento se aplicará en los meses de enero a diciembre.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+VI.- A los usuarios que tengan un familiar con alguna discapacidad y que viva en la misma vivienda, se concede un 50 por ciento de descuento en el pago por los servicios de agua potable, drenaje y saneamiento, para lo cual deberán presentar aparte de lo señalado en la fracción anterior, original del acta de nacimiento, acompañada del original de la credencial de elector de cualquiera de los padres o tutores, y entregar copia de dichos documentos. Dicho descuento se aplicará en los meses de enero a diciembre.
 
 VII.- Tratándose de los servicios bajo, medio tipo A y B, mixto y alto consumo se estará a lo dispuesto por la fracción I o en su defecto, la fracción II del presente Artículo.
 
@@ -650,3 +656,11 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 410.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 31, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN; SE REFORMAN EL PÁRRAFO PRIMERO, Y LOS INCISOS A) Y B), DEL ARTÍCULO 16 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 33, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y II, DEL ARTÍCULO 27 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA; SE REFORMAN LAS FRACCIONES II Y III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN III; ASÍ COMO, SE ADICIONAN LOS INCISOS A) Y B) A LA FRACCIÓN II, Y SE DEROGAN LOS INCISOS A) Y B) DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 17º DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MINATITLÁN, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 42, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TECOMÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES IV, V Y VIII, DEL ARTÍCULO 38 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
