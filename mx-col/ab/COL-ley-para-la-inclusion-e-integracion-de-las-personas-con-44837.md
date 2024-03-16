@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2022-10-22"
+last_updated: "2024-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA INCLUSION E INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -1476,3 +1478,27 @@ P.O. 22 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 170.- POR EL QUE SE REFORMA EL ARTÍCULO 9 BIS DE LA LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 409.- POR EL QUE SE EXPIDE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COLIMA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. En consecuencia, se abroga el Decreto No. 201 que contiene la Ley para la Inclusión e Integración de las Personas con Discapacidad del Estado de Colima, publicada en el Periódico Oficial el día 07 de mayo de 2005, Suplemento No. 1, Tomo 90.
+
+TERCERO. La Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, dentro término de 180 días naturales a partir de la entrada en vigor de la Ley.
+
+CUARTO. El Consejo Consultivo, deberá conformarse dentro del plazo de cuatro meses contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. Las autoridades señaladas en el artículo 3 de esta Ley, deberán considerar en sus propuestas de presupuesto anual, las partidas adecuadas para la implementación de políticas, públicas, acciones y medidas encaminadas al cumplimiento de esta ley.
+
+Por lo tanto, el gasto adicional que, en su caso, derive de la implementación de esta Ley, se realizará con cargo al presupuesto aprobado a las Dependencias responsables de la implementación de la misma, en el Presupuesto de Egresos del Estado de Colima del ejercicio fiscal correspondiente.
+
+SEXTO. Dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley, las autoridades de la Administración pública estatal y municipal deberán armonizar las normas conducentes de su competencia, con la presente Ley.
+
+SÉPTIMO. La persona titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, dentro del término de 180 días contados a partir de la entrada en vigor de la presente Ley, deberá reformar o crear las normas conducentes, a efecto de establecer las normas técnicas que en materia de accesibilidad se deban observar para la construcción, así como todas aquellas normas que permitan, dentro del ámbito de su competencia, garantizar los derechos de las personas con discapacidad.
+
+OCTAVO. Para el cumplimiento de la fracción V del artículo 50 de esta Ley, la Secretaría de Educación y Cultura podrá avanzar en la capacitación y/o contratación de docentes de manera gradual, siempre y cuando se garantice el derecho de comunicación y educación inclusiva de los niños, niñas y adolescentes que presenten alguna discapacidad y que sean inscritos en cada ciclo escolar.
+
+NOVENO. El organismo público descentralizado a que hace referencia el Capítulo Segundo del Título Tercero de esta Ley denominado Instituto Colimense para la Discapacidad, seguirá estando vigente de acuerdo con el Decreto que lo establece publicado en el Periódico Oficial “El Estado de Colima” el 31 de octubre de 2020, en el Suplemento Núm. 2.
