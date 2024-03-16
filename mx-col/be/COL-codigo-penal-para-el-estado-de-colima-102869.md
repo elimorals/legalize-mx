@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2023-06-10"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1095,11 +1095,13 @@ Si las partes no llegan a un convenio satisfactorio sobre la reparación del da�
 
 Cuando el delito se cometa en transporte de servicio público o privado de pasaje se perseguirá de oficio y se sancionará conforme a lo previsto por el párrafo cuarto de este artículo, con la excepción de que se acredite que el vehículo cuenta con seguro vigente para daños a terceros y el seguro de viajero a que se refiere la ley vigente de la materia y siempre y cuando el conductor se encuentre en los supuestos de exclusión previstos en la fracción II.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 77.
 
 Delitos culposos.
 
-Se sancionarán como delitos culposos los siguientes: homicidio, contemplado en el artículo 120, 121 fracción I; lesiones, contemplado en artículo 125 y 126; aborto, a que se refiere el artículo 138; daños, a que se refiere el artículo 207; peligro de contagio, contemplado en el artículo 212; ataques a las vías y a los medios de comunicación, contemplados en los artículos 249 a 251; evasión de presos a que se refiere el artículo 279, delitos contra el ambiente, contemplados en los artículos 287 y 288, los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+Se sancionarán como delitos culposos los siguientes: homicidio, contemplado en el artículo 120, 121 fracción I; lesiones, contemplado en artículo 125 y 126; aborto, a que se refiere el artículo 138; daños, a que se refiere el artículo 207; ataques a las vías y a los medios de comunicación, contemplados en los artículos 249 a 251; evasión de presos a que se refiere el artículo 279, delitos contra el ambiente, contemplados en los artículos 287 y 288, los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
 ###### ARTÍCULO 78.
 
@@ -1547,15 +1549,13 @@ CUMPLIMIENTO DEL CRITERIO DE OPORTUNIDAD, ACUERDO REPARATORIO EN JUSTICIA RESTAU
 
 La potestad para ejercer la acción penal, se extingue en los casos de cumplimiento de criterio de oportunidad, acuerdo reparatorio en justicia restaurativa, o de las condiciones decretadas en la suspensión condicional del proceso, y en las formas previstas en el Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 119.
 
 Delitos de querella necesaria.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
-
-Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, violencia digital tipificado en el artículo 152 TER, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo 192 en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, calumnia tipificado en el artículo 222, discriminación tipificado en el artículo 223, violencia política tipificado en el artículo 224 TER, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
+Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, violencia digital tipificado en el artículo 152 TER, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo 192 en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, calumnia tipificado en el artículo 222, discriminación tipificado en el artículo 223, violencia política tipificado en el artículo 224 TER, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
 
 # LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
 
@@ -3029,8 +3029,6 @@ Si el delito recae en bienes de interés colectivo o de valor científico, artí
 
 ### CAPÍTULO I. PELIGRO DE CONTAGIO
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 209.
 
 Al que después de la ejecución del delito y sin haber participado en él, con ánimo de lucro, adquiera, reciba u oculte el producto del delito, si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, se le impondrán de seis meses a cuatro años de prisión y multa por un importe equivalente de cien a quinientas unidades de medida y actualización.
@@ -3051,17 +3049,15 @@ Al que no procure por los medios lícitos que tenga a su alcance impedir la cons
 
 ## TÍTULO SÉPTIMO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD PERSONAL
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE MARZO DE 2024)</small>
+
 ### CAPÍTULO III. ATAQUE PELIGROSO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 212.
 
-Al que sabiendo que padece una enfermedad contagiosa, que a través de relaciones sexuales o por cualquier medio de transmisión, ponga en peligro la salud de otro, siempre y cuando la víctima no tenga conocimiento de esa circunstancia, se le impondrán de tres meses a tres años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
-
-Si como consecuencia del peligro expuesto resultare el contagio efectivo de una enfermedad que se puede curar mediante tratamiento médico se impondrá una pena de prisión de dos a cinco años, y multa por un importe equivalente de cien a doscientas unidades de medida y actualización.
-
-Si a consecuencia del peligro expuesto resultare el contagio efectivo de una enfermedad incurable, se impondrá una pena de prisión de cinco a quince años, y multa por un importe equivalente de cien a trescientas unidades de medida y actualización.
+(DEROGADO, P.O. 16 DE MARZO DE 2024)
 
 ### CAPÍTULO IV. EXPOSICIÓN DE INCAPACES
 
@@ -4834,3 +4830,9 @@ P.O. 10 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 413.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 77 Y 119, DEROGÁNDOSE EL CAPÍTULO I DEL TÍTULO SÉPTIMO Y EL ARTÍCULO 212 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
