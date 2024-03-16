@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2023-07-29"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -127,7 +127,9 @@ I. Las adquisiciones de bienes muebles e inmuebles y los arrendamientos de biene
 
 II. Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, que sean necesarios para la realización de las obras públicas por administración directa, o los que suministren las Dependencias y Entidades de acuerdo con lo pactado en los contratos de obra;
 
-III. Las adquisiciones de bienes muebles que incluyan su instalación por parte del Proveedor, en inmuebles de las Dependencias y Entidades, cuando su precio sea superior al de su instalación;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+III. Las adquisiciones de bienes muebles que incluyan su instalación por parte del Proveedor, en inmuebles de las Dependencias y Entidades, así como los proyectos de prestación de servicios integrales, cuando su precio sea superior al de su instalación;
 
 IV. La contratación de los servicios relacionados con bienes muebles incorporados o adheridos a inmuebles cuya conservación, mantenimiento o reparación no impliquen modificación alguna al propio inmueble;
 
@@ -1300,3 +1302,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1865.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 4 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y ADMINISTRACION DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
