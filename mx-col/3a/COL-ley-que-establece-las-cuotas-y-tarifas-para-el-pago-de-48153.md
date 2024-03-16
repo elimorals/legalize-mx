@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48153"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-03-14"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1067,9 +1067,9 @@ b).- Identificación oficial con fotografía.
 
 En caso de que el usuario sujeto al beneficio de esta fracción, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-IV.- 50 por ciento de descuento en el pago bimestral o anual, adelantado o puntual de los servicios públicos de agua potable, alcantarillado y saneamiento a usuarios de cuota fija, mayores de 60 años de edad o discapacitados. Dicho descuento se aplicara respecto de la casa que habiten, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
+IV.- 50 por ciento de descuento en el pago bimestral o anual, adelantado o puntual de los servicios públicos de agua potable, alcantarillado y saneamiento, a usuarios de cuota fija adultos mayores o personas con discapacidad, respecto de la casa que habiten y que comprueben ser propietarios o poseedores de dicho predio, siempre que el domicilio del predio sea el mismo que se asienta en su credencial de elector o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario o del contrato de arrendamiento que en su caso exhiba el beneficiario del referido descuento.
 
 V.- 50 por ciento de descuento a los usuarios de cuota fija trabajadores del H. Ayuntamiento de Armería, Colima y sus Organismos Descentralizados, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero y febrero, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
 
@@ -1204,3 +1204,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 410.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 31, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN; SE REFORMAN EL PÁRRAFO PRIMERO, Y LOS INCISOS A) Y B), DEL ARTÍCULO 16 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 33, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y II, DEL ARTÍCULO 27 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA; SE REFORMAN LAS FRACCIONES II Y III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN III; ASÍ COMO, SE ADICIONAN LOS INCISOS A) Y B) A LA FRACCIÓN II, Y SE DEROGAN LOS INCISOS A) Y B) DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 17º DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MINATITLÁN, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 42, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TECOMÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES IV, V Y VIII, DEL ARTÍCULO 38 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
