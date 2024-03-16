@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48151"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-03-14"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -325,19 +325,19 @@ Los desarrolladores y/o urbanizadores con obra terminadas (sic), cuando solicite
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, deberán hacer el pago de los derechos en los siguientes 15 días al bimestre que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-A los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados, de la tercera edad y discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos; así como un 25 por ciento a los trabajadores sindicalizados del H. Ayuntamiento de este municipio, por servicios públicos de agua potable, alcantarillado y saneamiento, respecto del año en curso y de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos:
+A los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados, adultos mayores, y personas con discapacidad, tendrán derecho a un descuento del 50 por ciento en el pago de los servicios públicos de agua potable, alcantarillado y saneamiento, respecto del año en curso y de la casa que habitan y que comprueben ser propietarios o poseedores de dicho predio. Asimismo, los usuarios trabajadores sindicalizados del H. Ayuntamiento de este municipio, tendrán derecho a un descuento del 25 por ciento en el pago de los servicios públicos de agua potable, alcantarillado y saneamiento, respecto del año en curso y de la casa que habitan y que comprueben ser propietarios o poseedores de dicho predio; debiendo exhibir los siguientes documentos:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2024)</small>
 
-a) Original y copia de credencial que acredite como pensionado, jubilado o de la tercera edad.
+a) En el primer supuesto, original y copia de credencial que lo acredite como pensionado, jubilado, adulto mayor, o persona con discapacidad.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2024)</small>
 
-b) Credencial de elector en la que aparezca el domicilio respecto del cual solicita descuento.
+b) En ambos supuestos, original y copia de credencial de elector en la que aparezca el domicilio respecto del cual solicita el descuento, o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario o del contrato de arrendamiento que en su caso exhiba el beneficiario del referido descuento.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -450,3 +450,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 410.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 31, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN; SE REFORMAN EL PÁRRAFO PRIMERO, Y LOS INCISOS A) Y B), DEL ARTÍCULO 16 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 33, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y II, DEL ARTÍCULO 27 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA; SE REFORMAN LAS FRACCIONES II Y III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN III; ASÍ COMO, SE ADICIONAN LOS INCISOS A) Y B) A LA FRACCIÓN II, Y SE DEROGAN LOS INCISOS A) Y B) DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 17° DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MINATITLÁN, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 42, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TECOMÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES IV, V Y VIII, DEL ARTÍCULO 38 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
