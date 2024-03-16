@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-03-14"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1531,9 +1531,9 @@ b) Identificación oficial con fotografía.
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-IV. 50 por ciento de descuento a los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, o pago puntual, de cuota fija mayores de 60 años de edad o discapacitados que acrediten una situación económica precaria; dicho descuento se aplicará respecto de la casa que habiten.
+IV. 50 por ciento de descuento a los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, o pago puntual, de cuota fija que sean adultos mayores o personas con discapacidad; dicho descuento se aplicará respecto de la casa que habiten y que comprueben ser propietarios o poseedores de dicho predio, debiendo presentar identificación oficial con fotografía en la que aparezca el domicilio respecto del cual se solicita el descuento, o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario o del contrato de arrendamiento que en su caso exhiba el beneficiario del referido descuento.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1712,3 +1712,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 410.- ARTÍCULO OCTAVO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 42, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TECOMÁN, COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
