@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2022-12-31"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -1035,13 +1035,11 @@ IV. Si hubieran realizado el pago del cuarto bimestre antes de la fecha prevista
 
 V. Si hubieran realizado el pago del quinto bimestre antes de la fecha prevista de su vencimiento, se les concede un descuento del 10 por ciento aplicable a la facturación del sexto bimestre, y se mantendrá vigente en el plazo del mismo.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 291, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2020.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-Los pensionados, jubilados, adultos mayores y personas con discapacidad, obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado o puntual, de los servicios de agua potable, alcantarillado y saneamiento, siempre y cuando sus consumos sean hasta 25 metros cúbicos mensuales, si los consumos rebasan los 25 metros cúbicos mensuales pero no exceden de 50 metros cúbicos mensuales el descuento en los conceptos anteriores será del 30 por ciento.
+Los pensionados, jubilados, adultos mayores y personas con discapacidad, obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado o puntual, de los servicios de agua potable, alcantarillado y saneamiento, siempre y cuando sus consumos sean hasta 25 metros cúbicos mensuales.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2020)</small>
 
@@ -1061,13 +1059,13 @@ II. Presentar la credencial de elector y entregar copia de ésta, cuando el desc
 
 III. En el caso de pensionados y jubilados, presentar: documento original que lo acredite, expedido por institución oficial mexicana y entregar copia cuando el descuento se aplique por primera vez.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-IV. En el caso de personas con capacidades diferentes, presentar la credencial original del Instituto Colimense de la Discapacidad y entregar copia cuando el descuento se aplique por primera vez.
+IV.- En el caso de personas con discapacidad, presentar credencial original del Instituto Colimense para la Discapacidad y entregar copia cuando el descuento se aplique por primera vez.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-V. Que el domicilio del predio sea el mismo que se asienta en su credencial de elector o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario.
+V.- Que el domicilio del predio sea el mismo que se asienta en su credencial de elector o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario, o del contrato de arrendamiento en original con copia simple para su cotejo, que en su caso exhiba el beneficiario del referido descuento.
 
 VI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2007)
 
@@ -1075,9 +1073,9 @@ VI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2007)
 
 VII. En caso de que el usuario sujeto al beneficio establecido en este artículo, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado, que concede esta Ley en su artículo 37.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-VIII. En caso de personas menores de edad con capacidades diferentes, deberán presentar aparte de lo señalado en los incisos anteriores, original del acta de nacimiento, acompañada del original de la credencial de elector de cualquiera de los padres o tutores y entregar copias si el descuento se realiza por primera vez.
+VIII.- En caso de personas menores de edad con alguna discapacidad, deberán presentar aparte de lo señalado en las fracciones anteriores, original del acta de nacimiento, acompañada del original de la credencial de elector de cualquiera de los padres o tutores y entregar copias si el descuento se realiza por primera vez.
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado, que concede esta Ley en su artículo 37.
 
@@ -1310,3 +1308,11 @@ P.O. 31 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1º de enero de 2023, previa publicación en el Periódico Oficial “El Estado de Colima.
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 410.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 31, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN; SE REFORMAN EL PÁRRAFO PRIMERO, Y LOS INCISOS A) Y B), DEL ARTÍCULO 16 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 33, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y II, DEL ARTÍCULO 27 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA; SE REFORMAN LAS FRACCIONES II Y III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN III; ASÍ COMO, SE ADICIONAN LOS INCISOS A) Y B) A LA FRACCIÓN II, Y SE DEROGAN LOS INCISOS A) Y B) DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 17º DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MINATITLÁN, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 42, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TECOMÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES IV, V Y VIII, DEL ARTÍCULO 38 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
