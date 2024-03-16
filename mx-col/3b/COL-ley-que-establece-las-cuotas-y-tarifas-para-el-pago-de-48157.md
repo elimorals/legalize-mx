@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-03-14"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -331,17 +331,25 @@ El organismo podrá realizar descuentos en el pago de los derechos, de conformid
 
 I.- 4 por ciento de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado por anualidad durante los meses de enero y febrero.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2024)</small>
 
-II.- Los usuarios que acrediten ser mexicanos y tener la calidad de Pensionados, Jubilados y Discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+II.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados y personas con discapacidad, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por los servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios o poseedores de dicho predio, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2024)</small>
 
-III.- 50 por ciento de descuentos a los usuarios mayores de 60 años que se hará valido únicamente a la casa donde viven y que comprueben que el contrato de agua esté a su nombre.
+a).- Original y copia de credencial que lo acredite como pensionado, jubilado, o persona con discapacidad, expedidos por institución oficial mexicana.
 
-a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana.
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2024)</small>
 
-b).- Identificación oficial con fotografía.
+b).- Identificación oficial con fotografía en la que aparezca el domicilio respecto del cual solicita el descuento, o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario, o del contrato de arrendamiento que en su caso exhiba el beneficiario del referido descuento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2024)</small>
+
+III.- Los usuarios que acrediten ser adultos mayores, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por los servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, y que comprueben ser propietarios o poseedores. Para tal efecto, deberán exhibir además una Identificación oficial con fotografía en la que aparezca el domicilio respecto del cual solicita el descuento, o carta de residencia actualizada, expedida por la autoridad municipal competente, o recibo vigente de la compañía de luz, o recibo telefónico vigente a nombre del beneficiario, o del contrato de arrendamiento que en su caso exhiba el beneficiario del referido descuento.
+
+a).- (DEROGADO, P.O. 16 DE MARZO DE 2024)
+
+b).- (DEROGADO, P.O. 16 DE MARZO DE 2024)
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
@@ -494,3 +502,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 410.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 31, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN; SE REFORMAN EL PÁRRAFO PRIMERO, Y LOS INCISOS A) Y B), DEL ARTÍCULO 16 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC; SE REFORMAN LAS FRACCIONES IV, V Y VI, DEL ARTÍCULO 33, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y II, DEL ARTÍCULO 27 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA; SE REFORMAN LAS FRACCIONES II Y III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN III; ASÍ COMO, SE ADICIONAN LOS INCISOS A) Y B) A LA FRACCIÓN II, Y SE DEROGAN LOS INCISOS A) Y B) DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 17º DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MINATITLÁN, COLIMA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 42, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE TECOMÁN, COLIMA; SE REFORMAN EL PÁRRAFO PRIMERO, Y LAS FRACCIONES IV, V Y VIII, DEL ARTÍCULO 38 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
