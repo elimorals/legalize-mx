@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-vivienda-para-el-estado-de-tabasco-83608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2015-04-15"
+last_updated: "2024-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -109,9 +111,9 @@ II. Definir los lineamientos generales de la política y los programas de vivien
 
 III. Regular la coordinación y concertación de acciones con los sectores público, social y privado, dirigidas a garantizar el derecho y disfrute de una vivienda adecuada, digna y decorosa, tanto en tiempo, forma y calidad, cumpliendo con lo dispuesto en las fracciones I a la VI del artículo 2 de esta Ley;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-IV. Establecer los criterios de políticas públicas para atender las necesidades específicas de los grupos sociales en situación de vulnerabilidad en el territorio del Estado;
+IV. Establecer los criterios de políticas públicas para atender las necesidades específicas de los grupos sociales en situación de pobreza, vulnerabilidad, exclusión y marginación;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
@@ -179,9 +181,9 @@ VII. ESTADO: Estado Libre y Soberano de Tabasco;
 
 VIII. ESTÍMULO: Medidas de carácter administrativo, fiscal, financiero o jurídico, que aplican las dependencias y entidades del sector público para promover y facilitar la ejecución de acciones, procesos o programas habitacionales;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-IX. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD, EXCLUSIÓN Y MARGINACIÓN: Aquellos núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de políticas públicas enfocadas a la atención e inversión del Gobierno del Estado y otros entes públicos para mejorar sus condiciones de vida y ejercer su derecho a la vivienda;
+IX. GRUPOS SOCIALES EN SITUACIÓN DE POBREZA, VULNERABILIDAD, EXCLUSIÓN Y MARGINACIÓN: Aquellos núcleos de población que, por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de políticas públicas enfocadas a la atención e inversión del Gobierno del Estado y otros entes públicos para mejorar sus condiciones de vida y ejercer su derecho a la vivienda;
 
 X. INVITAB: Instituto de Vivienda de Tabasco;
 
@@ -267,7 +269,9 @@ La Política Estatal de Vivienda tiene como objetivo determinar las prioridades 
 
 I. Mantener congruencia con los programas de desarrollo económico, social, urbano y de ordenamiento territorial del Estado;
 
-II. Promover mayores oportunidades de acceso a la vivienda, dando prioridad a los grupos sociales en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+II. Promover mayores oportunidades de acceso a la vivienda, dando prioridad a los grupos sociales en situación de pobreza, vulnerabilidad, exclusión y marginación;
 
 III. Impulsar la participación de los tres órdenes de gobierno y del sector privado en la construcción y mejoramiento de vivienda;
 
@@ -535,7 +539,9 @@ Se establece el Sistema Estatal de Vivienda como un mecanismo permanente de conc
 
 I. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de la Política Estatal de Vivienda;
 
-II. Dar integralidad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción de las necesidades de vivienda, particularmente de la población vulnerable;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+II. Dar integralidad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción de las necesidades de vivienda, particularmente de la población que viva en situación de pobreza, vulnerabilidad, exclusión y marginación;
 
 III. Promover y garantizar la participación articulada de todos los factores productivos cuyas actividades incidan en el desarrollo de la vivienda;
 
@@ -641,9 +647,9 @@ XV. Informar a la sociedad sobre las acciones que se realicen en materia de suel
 
 XVI. Establecer y proponer mecanismos y programas de financiamiento y fomento para la producción de vivienda en todas sus modalidades;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
 
-XVII. Identificar los inmuebles de propiedad estatal que puedan ser materia de enajenación en favor de instituciones públicas, sociales o privadas que tengan a su cargo resolver problemas de vivienda de interés social para atender las necesidades de la población vulnerable;
+XVII. Identificar los inmuebles de propiedad estatal que puedan ser materia de enajenación en favor de instituciones públicas, sociales o privadas que tengan a su cargo resolver problemas de vivienda de interés social para atender las necesidades de la población, priorizando aquella que viva en situación de pobreza, vulnerabilidad, exclusión y marginación;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2015)</small>
 
@@ -751,7 +757,9 @@ Los ayuntamientos, en el ámbito de sus respectivas jurisdicciones, tendrán las
 
 I. Formular, aprobar, administrar y ejecutar los programas municipales de suelo, vivienda y los que de éstos se deriven para solucionar los problemas habitacionales, en congruencia con los lineamientos del Programa Nacional de Vivienda, la presente Ley, el Programa Sectorial de Vivienda, los Programas Estatales de Desarrollo Urbano, Rural e Indígena correspondientes, y demás ordenamientos legales aplicables, así como evaluar y vigilar su cumplimiento;
 
-II. Establecer y operar sistemas de financiamiento y subsidios que permitan a la población más vulnerable obtener recursos preferenciales para la adquisición de tierra para uso habitacional o para la adquisición, construcción, mejoramiento, ampliación y rehabilitación de viviendas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+II. Establecer y operar sistemas de financiamiento y subsidios que permitan a la población, obtener recursos preferenciales para la adquisición de tierra para uso habitacional o para la adquisición, construcción, mejoramiento, ampliación y rehabilitación de viviendas; priorizando la que viva en situación de pobreza, vulnerabilidad, exclusión y marginación;
 
 III. Fomentar la regularización de la tenencia del suelo en los términos de la legislación aplicable y de conformidad con la Política y Programa Sectorial de Vivienda, así como con los programas estatales de desarrollo urbano, rural o indígena;
 
@@ -775,7 +783,9 @@ XII. Integrar el Sistema de Información Municipal, que permita conocer la situa
 
 XIII. Proporcionar la información correspondiente al Sistema Estatal de Información e Indicadores de Vivienda, en el marco de los acuerdos y convenios que celebre con el Ejecutivo del Estado y/o con el Ejecutivo Federal;
 
-XIV. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda en su ámbito territorial, otorgando atención preferente a grupos sociales en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+XIV. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda en su ámbito territorial, otorgando atención preferente a grupos sociales en situación de pobreza, vulnerabilidad, exclusión y marginación;
 
 XV. Celebrar con dependencias y entidades de la Administración Pública Estatal, propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para el desarrollo de programas de vivienda y acciones inmobiliarias;
 
@@ -1049,9 +1059,9 @@ Con el objeto de hacer más rápidos y expeditos los trámites para adquisición
 
 El Ejecutivo del Estado concederá a través de las dependencias y organismos, bajo la coordinación del INVITAB, los beneficios, estímulos y facilidades que se consignan en esta Ley, así como las contenidas en otras disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2024)</small>
 
-Para estos fines, el Ejecutivo del Estado creará e implementará medidas concretas de apoyo y fomento, para los productores sociales de vivienda y para otros promotores de vivienda; de igual manera otorgará facilidades administrativas a los beneficiarios y a la población vulnerable.
+Para estos fines, el Ejecutivo del Estado creará e implementará medidas concretas de apoyo y fomento, para los productores sociales de vivienda y para otros promotores de vivienda; de igual manera otorgará facilidades administrativas a los beneficiarios y a la población que viva en situación de pobreza, vulnerabilidad, exclusión y marginación.
 
 ### CAPÍTULO QUINTO. DE LA ASISTENCIA HABITACIONAL
 
@@ -1071,7 +1081,9 @@ III. Las personas mayores de sesenta años de edad;
 
 IV. Las personas con discapacidades; y
 
-V. Las demás personas que se encuentren en estado de vulnerabilidad social.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+
+V. Las demás personas que se encuentren en estado de pobreza, vulnerabilidad, exclusión y marginación.
 
 ## TÍTULO SEXTO. DEL SUELO PARA LA VIVIENDA
 
@@ -1434,3 +1446,11 @@ PRIMERO.- Se derogan las disposiciones que contravengan lo dispuesto en este Dec
 SEGUNDO.- En un plazo de 180 días hábiles el Gobierno del Estado de Tabasco deberá efectuar las adecuaciones institucionales, programáticas y reglamentarias que resulten necesarias y coadyuven al cumplimiento de las disposiciones del presente Decreto.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 16 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 233 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN IV; 7 FRACCIÓN IX; 9 FRACCIÓN II; 22 FRACCIÓN II; 30 FRACCIÓN XVII; 39, FRACCIONES II Y XIV; 64 PÁRRAFO SEGUNDO, Y 66 FRACCIÓN V, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
