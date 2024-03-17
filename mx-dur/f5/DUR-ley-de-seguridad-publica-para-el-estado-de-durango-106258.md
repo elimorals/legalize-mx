@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-106258"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-28"
-last_updated: "2020-03-29"
+last_updated: "2024-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 28 de diciembre de 2014.
 
@@ -2383,7 +2383,13 @@ VII. Ser sujeto de condecoraciones, estímulos y recompensas cuando su conducta 
 
 VIII. Tener jornadas de trabajo acordes con las necesidades del servicio, así como disfrutar de prestaciones tales como aguinaldo, vacaciones, licencias o descanso semanal;
 
-IX. Recibir oportuna atención médica, sin costo alguno para el elemento policial, cuando sean lesionados en cumplimiento de su deber; en casos de extrema urgencia o gravedad, deberán ser atendidos en la institución médica pública o privada más cercana al lugar donde se produjeron los hechos; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2024)</small>
+
+IX. Recibir oportuna atención médica, sin costo alguno para el elemento policial, cuando sean lesionados en cumplimiento de su deber; en casos de extrema urgencia o gravedad, deberán ser atendidos en la institución médica pública o privada más cercana al lugar donde se produjeron los hechos;
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2024)</small>
+
+En el caso de las mujeres, tendrán derecho durante el período de gravidez al cambio de área operativa a otra distinta que no ponga en riesgo su salud y la del producto, y
 
 X. Ser recluidos en áreas especiales para policías en los casos en que sean sujetos a prisión preventiva.
 
@@ -2644,3 +2650,15 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 555 REFORMA A LA FRACCIÓN IX EN SU PRIMER PÁRRAFO Y A LA MISMA SE LE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 186 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. En el caso de las integrantes de la institución de seguridad pública que al momento de la entrada en vigor del presente Decreto se encuentren en estado de gravidez, le será aplicable el derecho al cambio de adscripción.
+
+TERCERO. En el plazo no mayor de 180 días a partir de la entrada en vigor del presente Decreto, las autoridades estatales y municipales deberán adecuar las disposiciones reglamentarias correspondientes para dar cumplimiento a las obligaciones previstas en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
