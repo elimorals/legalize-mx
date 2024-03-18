@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2023-07-31"
+last_updated: "2024-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -1413,9 +1413,9 @@ XXII. Despachar la correspondencia a través de la Secretaría;
 
 XXIII. Vigilar que los jueces, secretarios y demás servidores del Poder Judicial, cumplan con sus deberes respectivos, dictando las medidas que exijan el buen servicio y la disciplina de los mismos;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2024)</small>
 
-XXIV. Llevar el seguimiento de los actos del desempeño del personal del Poder Judicial del Estado, para evaluar y resolver sobre las designaciones, promociones, ratificaciones, y reelecciones, sanciones o remociones que corresponda, conforme a los lineamientos de la carrera Judicial y las disposiciones constitucionales; además llevar un registro referente a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
+XXIV. Llevar el seguimiento de los actos del desempeño del personal del Poder Judicial del Estado, para evaluar y resolver sobre las designaciones, promociones, ratificaciones, y reelecciones, sanciones o remociones que corresponda, conforme a los lineamientos de la carrera Judicial y las disposiciones constitucionales; además llevar un registro referente a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información al Instituto de Fiscalización Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
 
 XXV. Llevar la estadística del Poder Judicial, a través de la Unidad de Estadística y Seguimiento;
 
@@ -2878,5 +2878,13 @@ P.O. 31 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0806.- SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO LEGISLATIVO NO. 730, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL DIEZ DE ABRIL DE DOS MIL VEINTITRÉS”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1027.- SE REFORMA EL ARTÍCULO 94 EN SU FRACCIÓN XXIV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 4º EN SU FRACCIÓN V INCISO A) EL PUNTO 2.1 Y EL ARTÍCULO 22, DE LA LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
