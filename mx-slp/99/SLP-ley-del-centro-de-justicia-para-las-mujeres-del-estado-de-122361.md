@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2024-01-03"
+last_updated: "2024-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,23 @@ state: "SLP"
 ---
 # LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
 
-Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
-SILVANO AUREOLES CONEJO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+DECRETO 0654
 
-DECRETO
+La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+Decreta
 
-NÚMERO 509
+EXPOSICIÓN DE MOTIVOS
 
-ÚNICO. Se expide la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, para quedar como sigue:
-
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+[…]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -49,3257 +47,1201 @@ LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. DEL OBJETO DE LA LEY
+### Capítulo Único. De su naturaleza y objeto
 
-###### Artículo 1.
+###### ARTÍCULO 1°.
 
-La presente Ley regula el ejercicio de las atribuciones que corresponden a los Municipios del Estado y establece las bases para su gobierno, integración, organización, funcionamiento, fusión y división y regula el ejercicio de las funciones de sus dependencias y entidades, de conformidad con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado de Michoacán de Ocampo y las demás disposiciones aplicables.
+La presente Ley tiene por objeto instituir el Centro de Justicia para las Mujeres del Estado de San Luis Potosí, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría General de Gobierno, y establecer las atribuciones, estructura orgánica, aplicación de los modelos de atención existentes y mecanismos que rigen su actuación.
 
-###### Artículo 2.
+###### ARTÍCULO 2°.
 
-El Municipio Libre es una entidad política y social investida de personalidad jurídica, con libertad interior, patrimonio propio y autonomía para su gobierno; se constituye por un conjunto de mujeres y hombres, residentes en un territorio geográfico determinado, gobernado por un Ayuntamiento para satisfacer sus intereses comunes.
+El Centro de Justicia para las Mujeres, es el organismo encargado de brindar atención y servicios integrales, multidisciplinarios y transversales bajo el mismo techo a las mujeres víctimas de violencia y sus menores hijos e hijas, con un enfoque de derechos humanos, de género y de interés superior de la infancia, y tendrá los siguientes objetivos generales:
 
-###### Artículo 3.
+I. Asesorar, apoyar y acompañar a las mujeres víctimas de violencia y en su caso a sus menores hijos e hijas en los procesos necesarios para resolver su problemática en torno a la violencia, recuperar su seguridad, lograr su pleno acceso a la justicia y contribuir a que en los ámbitos de la vida familiar, social, cultural, educativa, laboral, política y económica, las mujeres puedan alcanzar los niveles de bienestar y acceso a las oportunidades, libres de violencia y en condiciones de igualdad que les permitan lograr su pleno desarrollo humano;
 
-El Municipio es la base de la división territorial y de la organización política y administrativa del Estado de Michoacán de Ocampo.
+II. Coordinar a las diversas instituciones públicas y privadas que lo conforman y dar certeza, uniformidad, calidad y seguridad jurídica a la actuación integral de las mismas para que las mujeres víctimas de violencia así como sus menores hijos e hijas puedan obtener un claro y efectivo acceso a la justicia de manera integral;
 
-El Estado se divide para los efectos de su organización política y administrativa, en 113 Municipios cuyos nombres y cabeceras se expresan a continuación:
+III. Proporcionar orientación y atención a las mujeres, sus hijas y sus hijos para salvaguardar en todo momento su integridad como usuarias del Centro;
 
-Municipio: Cabecera:
+IV. Facilitar a las mujeres víctimas de violencia el acceso a la justicia, para combatir y contrarrestar la violencia que sufren y pone en riesgo su vida;
 
-Acuitzio; Acuitzio del Canje
+V. Ofrecer un ambiente seguro, empático y confiable a las usuarias, sus hijas e hijos, en donde se respete su dignidad;
 
-Aguililla; Aguililla
+VI. Contribuir a la reducción de las tasas de violencia de género, familiar, sexual y de homicidios dolosos contra mujeres tipificados como feminicidios;
 
-Álvaro Obregón; Álvaro Obregón
+VII. Fomentar el incremento de las denuncias y reducir la impunidad;
 
-Angamacutiro; Angamacutiro de la Unión
+VIII. Favorecer una mayor confiabilidad en el sistema de justicia;
 
-Angangueo; Mineral de Angangueo
+IX. Evitar la revictimización de las usuarias (sic) través de la prestación de servicios integrales y multidisciplinarios bajo el mismo techo y a través de las redes de instancias asociadas;
 
-Apatzingán; Apatzingán de la Constitución de 1814
+X. Generar estudios, información y estadísticas sobre la violencia contra las mujeres, sus causas y consecuencias, y
 
-Áporo; Áporo
+XI. Consolidar un equipo multidisciplinario profesionalizado y destacado en el tema de género y violencia contra las mujeres.
 
-Aquila; Aquila
+###### ARTÍCULO 3°.
 
-Ario; Ario de Rosales
+El Centro articulará los esfuerzos de las diversas instituciones del Estado integradas al mismo, para facilitar el acceso a la justicia y la prevención de los factores de riesgo de las mujeres, niñas y niños cualquiera que sea su condición, logrando para estas, así como para sus hijas e hijos, una mayor seguridad, con el apoyo de una red de colaboración, favoreciendo su empoderamiento social y económico.
 
-Arteaga; Arteaga
+Las dependencias, entidades e instituciones que se señalan en este artículo, deberán integrarse en el Centro con una representación, para atender de acuerdo a su naturaleza y a lo dispuesto en la presente Ley, los asuntos y brindar los servicios que le sean encomendados por la Coordinación General del mismo, bajo los principios que en este ordenamiento se establecen:
 
-Briseñas, Briseñas de Matamoros
+I. Centro de Atención Integral a Víctimas;
 
-Buenavista; Buenavista Tomatlán
+II. Comisión Estatal de Derechos Humanos;
 
-Carácuaro; Carácuaro de Morelos
+III. Consejo Estatal de Población;
 
-Coahuayana; Coahuayana de Hidalgo
+IV. Defensoría Pública del Estado;
 
-Coalcomán de Vázquez Pallares; Coalcomán de Vázquez Pallares
+V. Instituto de las Mujeres del Estado;
 
-Coeneo; Coeneo de la Libertad
+VI. Instituto para el Desarrollo Humano y Social de los Pueblos y Comunidades indígenas;
 
-Cojumatlán de Régules; Cojumatlán de Régules
+VII. Instituto Potosino de la Juventud;
 
-Contepec; Contepec
+VIII. Secretaría de Desarrollo Económico;
 
-Copándaro; Copándaro de Galeana
+IX. Secretaría de Desarrollo Social y Regional;
 
-Cotija; Cotija de la Paz
+X. Secretaría de Educación del Gobierno del Estado;
 
-Cuitzeo; Cuitzeo del Porvenir
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-Charapan; Charapan
+XI. Secretaría de Seguridad y Protección Ciudadana;
 
-Charo; Charo
+XII. Secretaría de Salud;
 
-Chavinda; Chavinda
+XIII. Secretaría del Trabajo y Previsión Social;
 
-Cherán; Cherán
+XIV. Servicios de Salud en el Estado;
 
-Chilchota; Chilchota
+XV. Sistema de Financiamiento para el Desarrollo del Estado SIFIDE;
 
-Chinicuila; Villa Victoria
+XVI. Sistema para el Desarrollo Integral de la Familia del Estado, DIF Estatal;
 
-Chucándiro; Chucándiro
+XVII. Organizaciones de la sociedad civil;
 
-Churintzio; Churintzio
+XVIII. Poder Judicial del Estado, y
 
-Churumuco; Churumuco de Morelos
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-Ecuandureo; Ecuandureo
+XIX. Fiscalía General del Estado.
 
-Epitacio Huerta; Epitacio Huerta
+El Centro podrá celebrar convenio con los ayuntamientos de los municipios en donde se establezca, a fin de que estos últimos integren una representación municipal en las instalaciones del Centro, a través del DIF Estatal o, en su caso, de la instancia municipal que atienda a las mujeres; así mismo, para acordar que el municipio se haga cargo de los servicios municipales que requiera el Centro para su operación y funcionamiento.
 
-Erongarícuaro; Erongarícuaro
+###### ARTÍCULO 4°.
 
-Gabriel Zamora; Lombardía
+Para efectos de la interpretación de la presente Ley se entiende por:
 
-Hidalgo; Ciudad Hidalgo
+I. Centro: el Centro de Justicia para las Mujeres del Estado de San Luis Potosí;
 
-Huandacareo; Huandacareo
+II. Usuarias: las mujeres víctimas de violencia, que son atendidas por el Centro en cualquiera o en varias de sus áreas de atención, así como en su caso sus menores hijas e hijos;
 
-Huaniqueo; Huaniqueo de Morales
+III. CAIV: Centro de Atención Integral a Víctimas;
 
-Huetamo; Huetamo de Núñez
+IV. DIF Estatal: el Sistema para la Atención Integral de la Familia del Estado;
 
-Huiramba; Huiramba
+V. SEDESORE: Secretaría de Desarrollo Social y Regional, y
 
-Indaparapeo; Indaparapeo
-
-Irimbo; Irimbo
-
-Ixtlán; Ixtlán de los Hervores
-
-Jacona; Jacona de Plancarte
-
-Jiménez; Villa Jiménez
-
-Jiquilpan; Jiquilpan de Juárez
-
-José Sixto Verduzco; Pastor Ortiz
-
-Juárez; Benito Juárez
-
-Jungapeo: Jungapeo de Juárez
-
-Lagunillas; Lagunillas
-
-La Huacana; La Huacana
-
-La Piedad; La Piedad de Cabadas
-
-Lázaro Cárdenas; Ciudad Lázaro Cárdenas
-
-Los Reyes; Los Reyes de Salgado
-
-Madero; Villa Madero
-
-Maravatío; Maravatío de Ocampo
-
-Marcos Castellanos; San José de Gracia
-
-Morelia; Morelia
-
-Morelos; Villa Morelos
-
-Múgica; Nueva Italia de Ruiz
-
-Nahuatzen; Nahuatzen
-
-Nocupétaro; Nocupétaro de Morelos
-
-Nuevo Parangaricutiro; Nuevo San Juan Parangaricutiro
-
-Nuevo Urecho; Nuevo Urecho
-
-Numarán; Numarán
-
-Ocampo; Ocampo
-
-Pajacuarán; Pajacuarán
-
-Panindícuaro; Panindícuaro
-
-Parácuaro; Parácuaro
-
-Paracho; Paracho de Verduzco
-
-Pátzcuaro; Pátzcuaro
-
-Penjamillo; Penjamillo de Degollado
-
-Peribán; Peribán de Ramos
-
-Purépero; Purépero de Echáiz
-
-Puruándiro; Puruándiro
-
-Queréndaro; Queréndaro
-
-Quiroga; Quiroga
-
-Sahuayo; Sahuayo de Morelos
-
-San Lucas; San Lucas
-
-Santa Ana Maya; Santa Ana Maya
-
-Salvador Escalante; Santa Clara del Cobre
-
-Senguio; Senguio
-
-Susupuato; Susupuato de Guerrero
-
-Tacámbaro; Tacámbaro de Codallos
-
-Tancítaro; Tancítaro
-
-Tangamandapio; Santiago Tangamandapio
-
-Tangancícuaro; Tangancícuaro de Arista
-
-Tanhuato; Tanhuato de Guerrero
-
-Taretan; Taretan
-
-Tarímbaro; Tarímbaro
-
-Tepalcatepec; Tepalcatepec
-
-Tingambato; Tingambato
-
-Tingüindín; Tingüindín
-
-Tiquicheo; Tiquicheo de Nicolas Romero.
-
-Tlalpujahua; Tlalpujahua de Rayón
-
-Tlazazalca; Tlazazalca
-
-Tocumbo; Tocumbo
-
-Tumbiscatío; Tumbiscatío de Ruiz
-
-Turicato; Turicato
-
-Tuxpan; Tuxpan
-
-Tuzantla; Tuzantla
-
-Tzintzuntzan; Tzintzuntzan
-
-Tzitzio; Tzitzio
-
-Uruapan; Uruapan
-
-Venustiano Carranza; San Pedro Cahro
-
-Villamar; Villamar
-
-Vista Hermosa; Vista Hermosa de Negrete
-
-Yurécuaro; Yurécuaro
-
-Zacapu; Zacapu
-
-Zamora; Zamora de Hidalgo
-
-Zináparo; Zináparo
-
-Zinapécuaro; Zinapécuaro de Figueroa
-
-Ziracuaretiro; Ziracuaretiro
-
-Zitácuaro; Heróica Zitácuaro
-
-###### Artículo 4.
-
-Los Municipios del Estado de Michoacán se clasificarán para su mejor tratamiento administrativo, financiero, social, político y de asignación de derechos y obligaciones en:
-
-Municipios Urbanos: Son los que tienen más de cien mil habitantes, cuentan con instituciones de educación media superior y superior de carácter público o privado; Instituciones de Salud Pública de segundo nivel o más, infraestructura urbana suficiente en las áreas de transporte, energía, sanitaria, telecomunicaciones y de usos varios como vivienda, comercio; industria, salud, educación y recreación.
-
-Municipios Urbanos en Transición: Los que tienen más de cuarenta mil y menos de cien mil habitantes; cuentan con instituciones de educación media superior de carácter público o privado; Instituciones de Salud Pública de Primer Nivel; infraestructura urbana media en las áreas de transporte, energía, sanitaria, telecomunicaciones y de usos varios como vivienda, comercio, industria, salud, educación y recreación.
-
-Municipios Rurales: Los que tienen menos de cuarenta mil habitantes; y que realicen actividades económicas agropecuarias, pesqueras, forestales o de transformación agroindustrial, preponderadamente primarias.
-
-El número de habitantes se tomará del último censo o conteo de población del INEGI; a petición del Ayuntamiento el Congreso del Estado podrá reclasificar a los municipios considerando otros índices de desarrollo diferente al poblacional.
-
-La clasificación municipal planteada en este artículo podrá servir de base en los planes y programas, estatales y municipales, así como para los lineamientos de cualquier ley o decreto emitido por la Legislatura Local.
+VI. SEGE: Secretaría de Educación del Gobierno del Estado.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES, LOS SERVICIOS QUE BRINDA EL CENTRO, Y DE LOS PROCESOS DE ATENCIÓN
 
-### CAPÍTULO II. DE LA DIVISIÓN POLÍTICA MUNICIPAL
+### Capítulo I. De los Principios Rectores del Centro
 
-###### Artículo 5.
+###### ARTÍCULO 5°.
 
-Los Municipios conservarán la extensión y límites que actualmente tienen, conforme a la Ley Orgánica de División Territorial del Estado de Michoacán.
+El Centro regirá su actuación y prestará sus servicios a las personas usuarias, bajo los siguientes principios:
 
-El ámbito de competencia de las autoridades municipales se limitará a su territorio y población. La sede de cada Ayuntamiento será su cabecera municipal.
+I. Respeto a la dignidad humana: se refiere al valor del Ser Humano perteneciente a un orden superior, que permite reconocer en cada mujer, a una persona merecedora de respeto, con inteligencia y capacidad de ejercer su libertad a través de sus opiniones y decisiones. La dignidad humana permite asegurar el efectivo ejercicio de los derechos humanos;
 
-### CAPÍTULO III. DE LA DIVISIÓN Y CLASIFICACIÓN MUNICIPAL
+II. No discriminación: a ninguna mujer se le podrán negar los servicios y la atención que se presten (sic) el Centro en razón de su edad, origen étnico, lengua, condición jurídica, preferencia sexual, religión, pertenencia política, condición socioeconómica, estado de salud, o cualquiera otra condición;
 
-###### Artículo 6.
+III. Confidencialidad: para garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos, en un ambiente de confianza entre la mujer y quienes se encargan de atenderla, deberá asegurarse el manejo confidencial de sus datos personales que deberán quedar protegidos bajo el artículo 13, fracción IV de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y la secrecía de su ubicación en caso de canalizarse a un Refugio, así como el manejo confidencial de la información que proporcione en torno a su caso, salvo aquella que sea indispensable para promover las acciones jurídicas que procedan a su favor;
 
-Los Municipios se dividirán administrativamente en cabecera municipal, Tenencias y Encargaturas del Orden y comprenderán las ciudades, pueblos y comunidades respectivas; así como las colonias, ejidos, villas, congregaciones, rancherías, caseríos, fincas rurales y demás centros de población que se encuentren asentados dentro de los límites de cada Municipio.
+IV. Debida diligencia: el acceso expedito, oportuno y efectivo a todos los recursos gubernamentales existentes para atender la violencia contra las mujeres. Contempla las medidas de: prevención, investigación oportuna, acciones para la sanción y reparación de las violaciones a los derechos humanos y acciones para evitar la impunidad;
 
-### CAPÍTULO IV. DE LA VECINDAD
+V. Perspectiva de género: la atención a la violencia contra las mujeres desde la perspectiva de género implica reconocerla como un problema que se explica por la posición de desventaja social de las mujeres frente a los hombres y toma en cuenta las características e historias personales de mujeres que viven en situación de violencia y sus agresores, sin perder de vista el contexto social en el que ocurre la violencia;
 
-###### Artículo 7.
+VI. Integralidad: la concentración de diversos servicios para las mujeres y su coordinación para agilizar los procesos que inicien y asegurar que no se les revictimice en ningún momento. El abordaje de los casos de violencia debe ser integral, de manera que la atención psicológica, legal y social conjuguen sus mecanismos con otras especialidades, para revertir la situación de violencia que viven las mujeres, con u (sic) abordaje interdisciplinario, tanto para la atención misma como para la comprensión de su problemática;
 
-Los centros de población, previa declaratoria del Ayuntamiento, tendrán las siguientes categorías, siempre y cuando el centro de población, reúna los requisitos que a continuación se establecen para cada caso:
+VII. Cooperación multiagencial: la prestación de servicios en coordinación con Organizaciones de la Sociedad Civil que tengan amplia experiencia en la prestación efectiva de servicios a mujeres víctimas de violencia a través de apoyos en asesoría jurídica, psicológica y médica, así como en la provisión de lugares seguros para que puedan resguardarse en caso de situaciones de extrema violencia. Reconoce la importancia de las aportaciones que se pueden realizar desde las organizaciones para mejorar la atención de las personas víctimas de violencia, así como de sus hijas e hijos;
 
-Ciudad: Todo centro de población que tenga la calidad de cabecera municipal o cuyo censo arroje al menos un número mayor de 20,000 habitantes y los servicios de: agua potable y alcantarillado, energía eléctrica, alumbrado público, limpia y recolección de basura, mercados, panteones, rastros, calles pavimentadas, parques y jardines, cuerpo de bomberos, seguridad pública, tránsito y vialidad, transporte público, unidad deportiva, servicios médicos servicios bancarios, hospital, servicios asistenciales públicos y planteles educativos de Educación Básica y Media Superior. Las ciudades estarán divididas conforme a lo dispuesto en el Código de Desarrollo Urbano del Estado de Michoacán de Ocampo.
+VIII. Profesionalismo: las y los servidores públicos que laboren en el Centro, independientemente del área a la que estén suscritos así como las personas que colaboren con el mismo, deben actuar con seriedad, honradez, eficacia y pericia al utilizar sus capacidades y conocimientos en los servicios de atención que prestan a las mujeres, sus hijas e hijos, y cumplir con todas las leyes, regulaciones y normas federales, estatales y municipales, así como disposiciones de derecho internacional; En su actuación deben evitar toda forma de corrupción, extorsión o soborno; evitar conflictos de interés; y cooperar activamente con el personal de otras áreas;
 
-Pueblo: Centro de población cuyo censo arroje un número mayor de 5,000 habitantes y los servicios de: agua potable y alcantarillado, energía eléctrica, alumbrado público, calles pavimentadas, servicios médicos, policía preventiva, mercado, panteón, lugares de recreo y para la práctica del deporte y centros de Educación Básica y Media Superior.
+IX. Sustentabilidad: el diseño de las acciones de tal manera que logren prevalecer a pesar de las modificaciones en el ámbito político, evaluando su funcionamiento, sugiriendo mejoras, fortaleciendo su institucionalidad así como la profesionalización permanente y mejora continua del personal asignado;
 
-Comunidad: Centro de población cuyo censo arroje un número mayor de 2,000 habitantes.
+X. Transparencia: considera proveer lo necesario para que toda persona pueda acceder a la información de forma sencilla y expedita; transparentar la gestión pública a través de la difusión de la información generada; favorecer la rendición de cuentas hacia los ciudadanos y fomentar la valoración de su desempeño; mejorar la organización, clasificación y manejo de los documentos públicos; y contribuir a la democratización de la sociedad; este principio no menoscaba el de confidencialidad, y
 
-Los ejidos, congregaciones, colonias, caseríos, rancherías, villas, fincas rurales y demás poblados que se encuentren asentados en los diversos centros de población dentro de los límites de cada Municipio, no tendrán un mínimo de habitantes y estarán determinados por cada Ayuntamiento que establecerá en su Bando de Gobierno Municipal el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo.
+XI. Enfoque intercultural: implica atender la posibilidad de diálogo entre distintas culturas, de modo que permita recuperar desde los distintos contextos culturales, todas aquellas expresiones que se basan en el respeto a la otredad. No obstante ello, de ninguna manera significa aceptar prácticas culturales discriminatorias hacia las mujeres que toleren la violencia contra ellas u obstaculicen el goce de igualdad de derechos. En aquellas regiones con presencia de diferentes grupos culturales, se deberán establecer mecanismos de colaboración con las Casas de la Mujer Indígena de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, y el INDEPI para favorecer el trabajo coordinado y la atención de las mujeres hablantes de lenguas indígenas mediante traductores certificados por el Instituto Nacional de Lenguas Indígenas.
+
+### Capítulo II. De los Servicios del Centro
+
+###### ARTÍCULO 6°.
+
+El Centro brindará de manera integral y gratuita a las personas usuarias los siguientes servicios:
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+
+I. Atención jurídica: que comprende asesorar, asistir, garantizar, proteger y representar a las víctimas y usuarias así como a sus menores hijos e hijas en todo lo referente a sus derechos legalmente reconocidos, en un marco de coordinación y coadyuvancia entre los servicios de atención a víctimas y el Ministerio Público como órgano investigador, así como ante los órganos jurisdiccionales competentes. Este servicio se brindará través (sic) del Departamento Jurídico y de las instituciones asociadas tales como el Centro de Atención Integral a Víctimas, la Defensoría Pública, la Fiscalía General del Estado, y el Instituto de las Mujeres del Estado, así como todas aquellas de naturaleza pública o privada que formen parte del Centro o se integren al mismo y estén en aptitud de prestar servicios en esta área ya sea en las instalaciones del mismo o de manera externa;
+
+II. Atención a la seguridad: se presta mediante las acciones pertinentes para garantizar la seguridad requerida a las mujeres víctimas y usuarias y a sus menores hijas e hijos. Este servicio se otorga de manera inmediata mediante la gestión que realiza el área de trabajo social, jurídico o en la vía telefónica del Centro ante los Cuerpos de Seguridad Pública del Estado y Municipios según sea el caso, o bien derivando a las mujeres víctimas o usuarias y a sus menores hijos e hijas al Refugio en caso necesario.
+
+Dentro de este servicio se prestará el de reubicación de estudiantes hijos o hijas de madres que sufren violencia, en escuelas públicas cuando así se requiera por cuestiones de cambio de domicilio o por su seguridad;
+
+III. Atención telefónica: se presta a través del número del Centro en el cual se atiende directamente o se enlaza a la víctima o usuaria con instituciones asociadas que le presten contención emocional y atención psicológica de emergencia conforme al protocolo de atención telefónica que se establezca (sic) el Centro, y donde se pueda solicitar ayuda policial de ser necesario;
+
+IV. Atención a la salud física y psico-emocional: consiste en proporcionar a las mujeres víctimas y usuarias del Centro la debida atención en sus posibles daños o lesiones, tanto físicas como psico-emocionales, que incluya apoyo y asistencia directa, información y canalizaciones a servicios externos para su complementación; este servicio se brinda de manera directa en el Centro en lo relativo a la atención psicológica y de manera externa con el apoyo de instituciones como el Centro de Atención Integral a Víctimas, el Instituto de las Mujeres y el DIF Estatal. En lo que toca a los servicios de atención a la salud física, ésta se brinda a través de los servicios de salud, tanto en las instalaciones del Centro como en las clínicas y hospitales que se requieran según sea el caso; todo lo anterior con la finalidad de empoderar a las víctimas
+
+V. Atención a la asistencia social: se brinda el apoyo social y material a las víctimas y usuarias y sus menores hijas e hijos cuando éstas lo requieran, además de intervenir, haciendo contacto con las familias, para consolidar la red de apoyo familiar y la comprensión que en este núcleo social requieren las mujeres víctimas o usuarias del CJM. Lo anterior a través de servicios, internos y externos, de atención, seguridad y protección como los del albergue de transición. Este servicio se presta en el Centro a través del área de trabajo social, y con el apoyo de (sic) CAIV, DIF Estatal, en su caso DIF Municipal y SEDESORE;
+
+VI. Atención educativa y de prevención: consiste en la promoción de la cultura y toma de conciencia pública en temas relacionados con la violencia de género, a través de un espacio instalado en el Centro, con objetivos de prevención, detección y atención directa a la comunidad educativa, proporcionando una formación plena que ayude a la convivencia respetuosa y tolerante en la sociedad.
+
+Este ámbito de actuación se dirigirá tanto a las mujeres que hayan estado involucradas en actos de violencia, así como a sus menores hijos e hijas, y se produzca en ellos una cultura de igualdad de género y prevención del delito.
+
+Participan en este servicio la Secretaría de Educación del Gobierno del Estado, el CAIV, el Instituto de las Mujeres, el DIF Estatal y organizaciones de la sociedad civil asociadas, y
+
+VII. Atención para el desarrollo económico. se apoyará a las mujeres víctimas de violencia para alcanzar su autodeterminación a través de actividades de tipo económico que les permitan contar con propios ingresos. Participan en esta labor el área de Trabajo Social del Centro, la Secretaría del Trabajo y Previsión Social a través de la Red de Integración Laboral, el Instituto de las Mujeres, y la Secretaría de Desarrollo Económico, así como el Sistema de Financiamiento para el Desarrollo del Estado SIFIDE.
+
+El personal de las áreas de psicología, trabajo social y atención jurídica, que trabajen dentro del Centro, deberán de contar con título universitario y cédula profesional que les permita desempeñar su labor, así como especialización y capacitación continua en atención a personas víctimas de violencia de género.
+
+Todo el personal de atención a las víctimas ya sea de manera directa o indirecta debe participar en procesos de contención de emociones según el Modelo de Contención de Emociones para el personal de los Centros de Justicia para Mujeres.
+
+### Capítulo III. De los Procesos de Atención
+
+###### ARTÍCULO 7°.
+
+El proceso de atención que se brinde en el Centro a las mujeres víctimas de violencia, usuarias así como a sus menores hijos e hijas es de carácter secuencial: se proporcionará dando continuidad, seguimiento y conexión a todas las fases que lo conforman, de acuerdo con la sucesión ordenada de la problemática. Éstas son:
+
+I. Prevención: consiste en ejecutar las acciones necesarias para desarrollar acciones y programas con enfoques preventivos que atiendan tanto las causas como las manifestaciones de la violencia a través de modelos educativos dirigidos a las mujeres y a la sociedad en general, que informen, sensibilicen y capaciten acerca de la problemática y den a conocer los servicios del Centro;
+
+II. Detección: consiste en tomar las medidas y atender a las señales para percibir si una mujer está siendo víctima, aun sin que ella lo reconozca, para poner a su alcance los medios de protección adecuados. Estas actividades deben ser incluidas en un programa específico diseñado y dirigido a identificar a las o los usuarios que se encuentren involucrados en situaciones de violencia entre la población en general, ello de conformidad con la Norma Oficial Mexicana NOM-190-SSA1, Criterios para la Atención Médica de la Violencia Familiar;
+
+III. Atención: para la prevención de la victimización futura el Centro partirá del reconocimiento de la victimización pasada o actual, para que la debida atención a las víctimas rompa el ciclo de la violencia, evitando con ello los obstáculos que causan la frustración de no conseguir los servicios adecuados y que con ello se dé pie a la continuación de las conductas violentas; asimismo, cuando se trate de la comisión de un delito, los derechos de las mujeres víctimas, constitucionalmente garantizados, se harán valer en el Centro a través de la prestación de servicios especializados, gratuitos, accesibles y de calidad, necesarios para restituir a las víctimas su lugar en los sistemas legales, así como a la realización de las acciones tendentes a salvaguardar su integridad, propiciando además la utilización de esquemas ágiles, expeditos y oportunos de referencia y contrarreferencia en la complementación del servicio;
+
+IV. Registro: el Centro deberá cuidar la correcta documentación de los casos que se atiendan en el Centro para hacer eficiente el manejo de la información recabada durante el proceso de investigación y atención, para ser compartida entre las instituciones que lo conforman tanto de manera interna como externa, en forma ágil y electrónica, que evite la repetición revictimizadora de la narración de los hechos violentos; los datos registrados se resguardarán bajo el principio irrestricto de confidencialidad, y única y exclusivamente se proporcionarán informes a solicitud de autoridad competente, a fin de garantizar la integridad y el respeto a la dignidad de las víctimas. El sistema específico de integración de expediente único se llevará vía intranet, o en su caso en un libro de registro en el que todas las áreas del Centro integren sus registros de manera uniforme y confidencial, así como la estadística de los casos atendidos en todas las áreas en los formatos de concentración respectivos;
+
+V. Análisis: con el propósito de evitar emitir juicios de valor o apreciaciones subjetivas al realizar una evaluación y diagnóstico de los servicios, éste debe basarse en el análisis y seguimiento en el registro de datos que señala la fracción anterior de este artículo, para el diseño de políticas públicas y la ubicación prioritaria de la provisión de servicios a partir de la prevalencia e incidencia del problema, y
+
+VI. Evaluación y seguimiento: el Centro debe aplicar de forma sistemática mediciones cualitativas y cuantitativas, utilizando para ello estrategias de evaluación del servicio tales como la instalación de un buzón anónimo de sugerencias que facilite la libre opinión y expresión de quejas de las usuarias del mismo o las encuestas de salida que midan a juicio de la usuaria la calidad del servicio bajo preguntas claras y específicas. Así mismo debe aplicar cuando menos de manera semestral estudios de tiempos y movimientos para evaluar la duración de prestación de servicios y mejorar con ello los procesos de atención, con independencia de las evaluaciones mensuales. El seguimiento se efectuará con el propósito de evaluar la deserción de los servicios, el grado de satisfacción en la solución de sus conflictos y la efectividad en la atención brindada.
 
 ## TÍTULO TERCERO. DE LA ESTRUCTURA ORGÁNICA Y ATRIBUCIONES DE LAS ÁREAS DEL CENTRO
 
-### CAPÍTULO V. DE LA INTEGRACIÓN DE LOS AYUNTAMIENTOS
+### Capítulo I. Estructura Orgánica
 
-###### Artículo 8.
+###### ARTÍCULO 8°.
 
-Los Ayuntamientos deberán publicar las declaratorias de las categorías políticas en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+El Centro contará con la siguiente estructura orgánica:
 
-Una vez hecha la convocatoria, los centros de población que estimen haber satisfecho los requisitos señalados para cada categoría política en el artículo anterior, podrán ostentar oficialmente la denominación que les corresponda.
+I. Órgano de gobierno denominado Consejo Directivo;
 
-### CAPÍTULO VI. DE LA INSTALACIÓN DE LOS AYUNTAMIENTOS
+II. Coordinación General;
+
+III. Coordinación de Empoderamiento;
+
+IV. Dirección Administrativa;
+
+V. Departamento de Psicología;
+
+VI. Departamento Jurídico;
+
+VII. Unidad de Prevención;
+
+VIII. Unidad de Recepción y Trabajo Social;
+
+IX. Unidad Médica, y
+
+X. Las demás áreas que sean necesarias para el cumplimiento de su objeto y funciones y que puedan ser cubiertas con el presupuesto asignado al mismo, o con sus recursos propios.
+
+### Capítulo II. Consejo Directivo
 
 #### Sección Primera. Integración
 
-###### Artículo 9.
+###### ARTÍCULO 9°.
 
-Los Gobiernos municipales, podrán erigir nuevas Tenencias en aquellos centros de población donde fuere necesario para la mejor administración de los intereses públicos de cada localidad.
+El Consejo contará con un órgano de gobierno denominado Consejo Directivo el cual estará integrado por las titularidades de las siguientes dependencias, entidades e instituciones:
 
-Para tales efectos deberá presentarse solicitud formal hecha al Ayuntamiento por escrito por parte de las vecinas y vecinos de dicho centro poblacional que incluya al menos al 20% del padrón electoral de dicho centro poblacional y de las comunidades adyacentes a ésta, que se pretenden integrar a la misma solicitando su elevación administrativa a Jefatura de Tenencia; que deberá contar con las características de un pueblo y además cumplir con los siguientes requisitos:
+I. La Secretaría General de Gobierno quien lo presidirá;
 
-I. Haber sido previamente declarado como Encargatura del Orden;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-II. Que los centros de población que integrarán la Jefatura de Tenencia aglutinen entre el 15% y el 25% de la población total del Municipio;
+II. La Fiscalía General del Estado, quien ocupará la vicepresidencia;
 
-III. Que el Cabildo del Ayuntamiento apruebe en Sesión, tomando en cuenta los servicios públicos con los que cuenta, la suficiencia presupuestal del Municipio para hacer frente a las necesidades de la nueva Tenencia, así como la situación geográfica y su lejanía de la cabecera Municipal y las demás Tenencias, de manera tal que se justifique su conformación, de igual forma deberá ubicarse en un espacio territorial concentrado, evitando la dispersión poblacional de la misma; y emita posteriormente la declaración correspondiente, donde precise y fundamente la necesidad administrativa de elevar la categoría del centro poblacional a Jefatura de Tenencia;
+III. La Coordinación General del Centro quien fungirá como Secretaría Técnica, y
 
-IV. Que aglutine al menos al 10% de las comunidades o rancherías del Municipio;
+IV. Las siguientes nueve vocalías:
 
-V. Que la localidad tenga como mínimo una antigüedad de 25 años; y,
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-VI. Que represente al menos el 10% de los ingresos municipales por materia de impuesto predial.
+a) Secretaría de Seguridad y Protección Ciudadana.
 
-Posteriormente el Ayuntamiento deberá presentar la iniciativa respectiva al Congreso para que éste incluya la nueva Tenencia, y realice la modificación correspondiente para actualizar la Ley Orgánica de División Territorial de Michoacán.
+b) Secretaría de Desarrollo Social y Regional.
 
-###### Artículo 10.
+c) Secretaría de Salud.
 
-Son vecinas y vecinos del Municipio las personas, que residan permanente o temporalmente dentro de su territorio manteniendo su domicilio.
+d) Secretaría de Educación del Gobierno del Estado.
 
-Los Ayuntamientos a través de la Secretaría del Ayuntamiento, integrarán un registro municipal que permita conocer el número de vecinas y vecinos de su respectiva demarcación territorial; para lo cual se asignarán los recursos necesarios y se emitirá la reglamentación respectiva.
+e) Secretaría de (sic) Trabajo y Previsión Social.
 
-Para efecto de altas y bajas del registro se mantendrá una estrecha coordinación con la Oficialía del Registro Civil.
+f) Sistema para el Desarrollo Integral de la Familia (DIF Estatal).
+
+g) Consejo Estatal de Población.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
+h) Instituto de Migración y Enlace Internacional.
+
+i) Instituto de las Mujeres del Estado.
+
+###### ARTÍCULO 10.
+
+Las y los integrantes del Consejo, participarán en las sesiones con voz y voto, a excepción de la Secretaría Técnica, que solo tendrá voz.
+
+Todos los cargos del Consejo Directivo son de carácter honorífico y, por tanto, sus integrantes no recibirán remuneración o emolumento alguno por su desempeño; el Centro proveerá los viáticos que resulten necesarios para el cumplimiento de sus atribuciones, los que deberán comprobarse en términos de ley.
 
 #### Sección Segunda. Atribuciones
 
-###### Artículo 11.
+###### ARTÍCULO 11.
 
-La vecindad en un Municipio se adquiere por:
+El Consejo Directivo tendrá las siguientes atribuciones:
 
-I. Tener doce meses como mínimo con domicilio establecido en el Municipio y con residencia efectiva por este lapso; o,
+I. Establecer las directrices para la administración del patrimonio del Centro procurando su incremento;
 
-II. Por manifestar expresamente, antes del tiempo señalado en la fracción anterior, ante la autoridad municipal, su propósito de adquirir la vecindad, anotándose en el padrón municipal previa comprobación de haber renunciado ante las autoridades municipales, a su anterior vecindad.
+II. Dictar las medidas necesarias para que el Centro cumpla con el objeto y fines que establécela (sic) presente Ley;
 
-Los Ayuntamientos emitirán las disposiciones que favorezcan la participación de las y los habitantes, en la solución de los problemas del Municipio.
+III. Autorizar la celebración de contratos y convenios con personas físicas y morales, públicas y privadas, derivadas del cumplimiento del objeto y fines del Centro, para que suscriba los mismos;
+
+IV. Examinar y, en su caso, aprobar, dentro de los últimos tres meses del año los presupuestos anuales de ingresos y egresos y los planes de trabajo y financiamiento del Centro para el siguiente año fiscal;
+
+V. Examinar y, en su caso, aprobar dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio, y el informe de actividades de la Coordinación General del Centro;
+
+VI. Vigilar la aplicación correcta de los recursos que por cualquier título obtenga el Centro;
+
+VII. Vigilar el ejercicio anual de ingresos y egresos, mediante la práctica de auditorías internas y externas que estime necesarias, y las demás medidas de control que considere convenientes;
+
+VIII. Dictaminar y aprobar, en su caso, los asuntos que sean sometidos a su consideración por la Coordinación General del Centro;
+
+IX. Aprobar, en su caso, los reglamentos y manuales de procedimientos que resulten necesarios para el óptimo funcionamiento del Centro y que le sean propuestos por la Coordinación General;
+
+X. Aprobar las actas que se levanten, haciendo constar los acuerdos tomados en las sesiones del Consejo, y
+
+XI. En general, realizar todos aquellos actos que fuesen necesarios para la mejor administración, funcionamiento y cumplimiento de los fines del Centro, y para desempeñar fielmente las políticas y estrategias fijadas en el Plan Estatal de Desarrollo.
 
 #### Sección Tercera. Atribuciones del Presidente del Consejo Directivo
 
-###### Artículo 12.
+###### ARTÍCULO 12.
 
-El Ayuntamiento declarará la adquisición o pérdida de la vecindad en el Municipio, la que deberá asentar en el registro municipal correspondiente.
+La Presidencia del Consejo Directivo tendrá las siguientes atribuciones:
 
-La vecindad no se pierde cuando:
+I. Dictar las políticas y estrategias a que deberán sujetarse los acuerdos del Consejo;
 
-I. La vecina o vecino se traslade a residir a otro lugar en función del desempeño de un cargo de elección popular, público o comisión de carácter oficial;
+II. Proponer al Consejo Directivo a quien ocupará el cargo de Coordinadora General del Centro, debiendo para ello cuidar que la misma cumpla el perfil que se requiere para el desempeño de dicho cargo, y
 
-II. Por ausencias temporales, siempre y cuando se mantenga el domicilio y se le dé aviso a la autoridad municipal; y,
-
-III. Por causa de fuerza mayor debidamente comprobada.
+III. Presidir las sesiones ordinarias y extraordinarias, teniendo voto de calidad.
 
 #### Sección Cuarta. Sesiones
 
-###### Artículo 13.
+###### ARTÍCULO 13.
 
-Las ciudadanas y ciudadanos de un Municipio tendrán los siguientes derechos y obligaciones:
+El Consejo Directivo celebrará sesiones ordinarias cuando menos una vez cada tres meses, previa convocatoria de la Coordinación General; debiendo sesionar cuando menos cuatro veces al año.
 
-I. Votar y ser votadas y votados para los cargos de elección popular municipales;
+El Consejo podrá celebrar sesiones extraordinarias cada vez que se estime necesario, previa convocatoria de la Coordinación General o a solicitud de la Presidencia del Consejo, o de por lo menos tres integrantes del mismo.
 
-II. Proponer ante el Ayuntamiento el Bando de Gobierno Municipal, reglamentos, circulares y disposiciones administrativas de observancia general en el Municipio, con el objeto de organizar el gobierno municipal y regular sus atribuciones y procedimientos;
+Las sesiones serán válidas con la asistencia de la mitad más uno de sus miembros.
 
-III. Proporcionar verazmente y sin demora, los informes y datos estadísticos y de otro género que les sean solicitados por las autoridades municipales;
+###### ARTÍCULO 14.
 
-IV. Inscribirse en los padrones estadísticos o reglamentarios que determinen las disposiciones aplicables y declarar con probidad, la información que se les solicite para el mismo fin, de conformidad con la normatividad vigente en materia de protección de datos personales;
+Las decisiones del Consejo Directivo se tomarán por mayoría de votos de los asistentes, siendo válidos aun para los ausentes. En caso de empate la Presidencia del Consejo Directivo tendrá voto de calidad.
 
-V. Desempeñar los cargos de concejal, las funciones electorales que correspondan, formar parte de los concejos municipales o de participación ciudadana que se constituyan, de conformidad con las disposiciones aplicables;
+###### ARTÍCULO 15.
 
-VI. Limitar su libertad al derecho que tienen los demás de convivir en armonía, realizando sus actividades públicas y privadas con respeto al interés de la colectividad;
+Las convocatorias para las sesiones ordinarias se emitirán con cuando menos cinco días naturales de anticipación, para las sesiones extraordinarias, se convocará con cuando menos setenta y dos horas de anticipación. Las convocatorias serán emitidas y firmadas por la Coordinación General del CJM a prevención, y contendrán el orden del día, respecto de lo cual se recabará acuse de recibido.
 
-VII. Respetar y obedecer a las autoridades legalmente constituidas y cumplir las leyes, reglamentos y disposiciones emanadas de las mismas;
+###### ARTÍCULO 16.
 
-VIII. Actuar con espíritu de solidaridad, auxiliando a las autoridades cuando sean legítimamente requeridos para ello, así como contribuir a la realización de obras de beneficio común;
+De las sesiones ordinarias o extraordinarias del Consejo Directivo se levantará minuta de trabajo, la cual contendrá los asuntos tratados y los acuerdos que se tomen; la minuta será firmada por los asistentes; posteriormente, la minuta de trabajo, se pasará en forma definitiva al Libro de Actas.
 
-IX. Responder a los llamados debidamente motivados y fundados, que por escrito o por cualquier medio idóneo, les haga el Ayuntamiento o sus autoridades;
+###### ARTÍCULO 17.
 
-X. Procurar la conservación y mejoramiento de los servicios públicos municipales, respondiendo, en su caso, por el deterioro que ocasionen a los bienes del dominio público de uso común;
-
-XI. Informar oportunamente a las autoridades municipales sobre desperfectos o fallas en la prestación de los servicios públicos municipales;
-
-XII. Abstenerse de tirar basura o ensuciar la vía pública o en los bienes de dominio privado y contribuir a la limpieza, ornato, forestación y conservación de las áreas verdes del Municipio y de los centros de población en que residan;
-
-XIII. Coadyuvar en la protección y preservación del equilibrio ecológico, así como en las tareas de prevención de la contaminación y deterioro de los ecosistemas, de conformidad con las disposiciones en la materia;
-
-XIV. Participar con el Ayuntamiento en la realización de acciones, ejecución de obras y servicios públicos de interés colectivo para el bienestar social, que se deriven de una planeación democrática y participativa;
-
-XV. Cumplir con el pago de las cuotas y tarifas aplicables a impuestos, derechos y contribuciones aprobadas por el Ayuntamiento o la Legislatura del Estado, de acuerdo a la legislación correspondiente;
-
-XVI. Enviar a sus hijas e hijos o menores de edad bajo su custodia a cursar la Educación Básica;
-
-XVII. Las vecinas y vecinos del Municipio en igualdad de circunstancias, tendrán preferencia para el desempeño de empleos, cargos y comisiones del Ayuntamiento, respetando los principios de la Ley para la Igualdad entre Mujeres y Hombres del Estado de Michoacán de Ocampo para el otorgamiento de contratos y concesiones municipales, de conformidad con las disposiciones aplicables;
-
-XVIII. Constituir un consejo ciudadano para participar en la fiscalización y evaluación de las acciones de gobierno, a través de los mecanismos que establezca el Ayuntamiento; y,
-
-XIX. Las que determinen esta Ley y las demás disposiciones aplicables.
-
-###### Artículo 14.
-
-El Ayuntamiento o Concejo Municipal es un Órgano colegiado deliberante y autónomo, popularmente electo de manera directa; constituyen el Órgano responsable de gobernar y administrar cada Municipio y representan la autoridad superior en los mismos.
-
-###### Artículo 15.
-
-Entre el Ayuntamiento o el Concejo Municipal y los Poderes del Estado no habrá autoridad intermedia alguna. Para la gestión, planeación, programación y ejecución de programas de interés comunitario o intermunicipal se establecerán las relaciones de colaboración y coordinación necesaria (sic), a través de los instrumentos jurídicos correspondientes, a fin de propiciar el desarrollo regional aprovechando de manera integral las fortalezas, recursos naturales y la capacidad productiva de las diversas y diferentes regiones de la Entidad.
-
-###### Artículo 16.
-
-Las y los integrantes de los Ayuntamientos se elegirán por sufragio universal, directo, libre y secreto de las ciudadanas y ciudadanos, bajo el sistema electoral mixto de mayoría relativa y de representación proporcional y durarán en su encargo tres años, con opción a ser electo consecutivamente por un periodo más, siempre que su encargo no sea mayor de tres años, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Código Electoral del Estado y las demás disposiciones aplicables, incluyendo la Ley para la Igualdad entre Mujeres y Hombres del Estado de Michoacán de Ocampo.
-
-###### Artículo 17.
-
-El Ayuntamiento se integrará con las y los siguientes integrantes que contarán con autonomía plena en sus decisiones, con atribuciones para crear, modificar o abrogar la legislación Municipal, de forma colegiada:
-
-I. Una Presidenta o Presidente Municipal, que será representante del Ayuntamiento y responsable directo del gobierno y de la administración pública municipal, por tanto, deberá velar por la correcta planeación, programación, ejecución y control de los programas, obras y servicios públicos a cargo de la municipalidad, de acuerdo al Plan de Desarrollo Municipal y la legislación correspondiente;
-
-II. Un cuerpo de Regidoras y Regidores que representarán a la comunidad, cuya función principal será participar en la atención y solución de los asuntos municipales; así como vigilar que el ejercicio de la administración municipal se desarrolle conforme a lo dispuesto en las disposiciones aplicables; y,
-
-III. Una Síndica o Síndico responsable de vigilar la debida administración del erario público y del patrimonio municipal.
+La Coordinación General será la encargada de ejecutar los acuerdos del Consejo Directivo y en su caso, se procederá a protocolizar ante Notario Público aquellos acuerdos que se estimen necesarios cuando expresamente lo determine así el propio Consejo Directivo.
 
 #### Sección Quinta. De la Presidencia del Consejo
 
-###### Artículo 18.
+###### ARTÍCULO 18.
 
-Los Ayuntamientos de los Municipios de Apatzingán, Hidalgo, La Piedad, Lázaro Cárdenas, Morelia, Tarímbaro, Uruapan, Zacapu, Zamora y Zitácuaro se integrarán con siete Regidoras y Regidores electos por mayoría relativa y hasta cinco Regidoras y Regidores de representación proporcional.
+(DEROGADO, P.O. 5 DE MARZO DE 2019)
 
-Los Ayuntamientos de los Municipios de Puruándiro, Maravatío, Jiquilpan, Jacona, Los Reyes, Pátzcuaro, Huetamo, Tacámbaro, Coalcomán, Múgica, Sahuayo y Zinapécuaro, y aquellos que sean cabecera de un distrito se integrarán con seis Regidoras y Regidores electos por mayoría relativa y hasta cuatro Regidoras y Regidores de representación proporcional.
+### Capítulo III. De la Coordinación General del Centro
 
-El resto de los Ayuntamientos de los Municipios del Estado, se integrarán con cuatro Regidoras y Regidores por mayoría relativa y hasta tres Regidoras y Regidores de representación proporcional.
+###### ARTÍCULO 19.
 
-Por cada Síndica o Síndico y por cada Regidora o Regidor, se elegirá una o un suplente del mismo sexo.
+El Centro contará con una Coordinación General, cuya titular será designada por mayoría de votos del Consejo Directivo a propuesta de su Presidencia.
 
-### CAPÍTULO VII. DE LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+La Coordinadora General del Centro durará en su cargo cinco años pudiendo ser reelecta.
 
-###### Artículo 19.
+###### ARTÍCULO 20.
 
-El Ayuntamiento residirá en la cabecera del Municipio y sólo podrá cambiar su residencia con la aprobación del Congreso del Estado, a solicitud del Municipio, por mayoría de votos de las Diputadas y Diputados presentes, cuando exista causa justificada, se cubran los requisitos legales para ello; y con previo estudio se hará el traslado a otro lugar comprendido dentro de la circunscripción territorial del Municipio.
+Para ser Coordinadora del Centro se requiere:
 
-###### Artículo 20.
+I. Ser de sexo femenino;
 
-Los cargos de Presidenta o Presidente Municipal, Síndica o Síndico y Regidoras o Regidores de un Ayuntamiento, son obligatorios pero no gratuitos, su remuneración se fijará en los presupuestos de egresos correspondientes y se publicará en los estrados y permanentemente en la página electrónica del Ayuntamiento respectivo, a más tardar a los cinco días naturales de la aprobación del presupuesto de egresos para el periodo correspondiente.
+II. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
-Estos cargos sólo podrán ser renunciables por causa grave que califique el Ayuntamiento con sujeción a esta Ley.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-###### Artículo 21.
+III. Contar con título y cédula profesional legalmente expedidos por institución competente, con antigüedad al menos de tres años al día de su designación;
 
-Los Ayuntamientos tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos, de conformidad con las disposiciones aplicables.
+IV. Contar con cuando menos tres años de experiencia en materias relacionadas con la atención a víctimas, y
 
-###### Artículo 22.
+V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
-Las y los integrantes electas o electos del Ayuntamiento o Concejo Municipal tomarán posesión de su cargo, en un acto solemne y público, el primer día del mes de septiembre del año de su elección.
+###### ARTÍCULO 21.
 
-Sólo por causas consignadas en el Código Electoral del Estado, o por sentencia del tribunal electoral correspondiente, los Ayuntamientos podrán instalarse en fecha posterior.
+La Coordinadora General del Centro tendrá las siguientes atribuciones:
 
-###### Artículo 23.
+I. Representar legalmente al Centro fungiendo como mandataria general para pleitos y cobranzas, actos de administración, cambiario y de dominio, con todas las facultades generales y especiales que requieren cláusula especial conforme a la ley, pudiendo en consecuencia de manera enunciativa y no limitativa presentar y desistirse en juicios de amparo; sustituir las facultades para actos de administración y de pleitos y cobranzas y revocar las sustituciones que haga, y suscribir, firmar, endosar, girar o en cualquier otra forma obligar cambiariamente al CJM en cheques, pagarés, letras de cambio o cualesquiera otros títulos de crédito en los términos del artículo 90 de la Ley General de Títulos y Operaciones de Crédito. Lo anterior, salvo la limitación que determine el Consejo Directivo;
 
-Para efectos de la instalación del Ayuntamiento, en la última Sesión ordinaria del mes inmediato anterior a la fecha de terminación de la gestión del Ayuntamiento saliente, se nombrará una Comisión Instaladora del Ayuntamiento electo, la cual estará integrada por la Síndica o Síndico Municipal quien la encabeza, la Síndica o Síndico electo, una Regidora o Regidor en funciones y una Regidora o Regidor electo, así como la o el Titular de la Contraloría Municipal en funciones.
+II. Ejecutar los acuerdos del Consejo Directivo;
 
-La Comisión Instaladora, previo acuerdo con la Presidenta o Presidente Municipal electo, convocará a quienes integren el Ayuntamiento electo, de conformidad con la constancia de mayoría emitida por el órgano correspondiente o, en su caso la resolución del Tribunal Estatal Electoral, al menos con anticipación de cinco días naturales para que concurran a la Sesión Solemne de instalación.
+III. Conforme a los lineamientos que dicte el Consejo Directivo, administrar los bienes del Centro;
 
-La Presidenta o Presidente electo, propondrá el lugar y la hora en que se celebrará la Sesión Solemne, debiendo ser invariablemente en la cabecera municipal respectiva.
+IV. Convocar a solicitud de la Presidencia a las y los integrantes del Consejo Directivo a las sesiones ordinarias y extraordinarias que estime convenientes;
 
-La invitación para asistir a dicha Sesión se hará extensiva a la comunidad en general debiendo incluir lugar, fecha y hora de la misma, así como el orden del día correspondiente.
+V. Fungir como Secretaria de Actas del Consejo Directivo y levantar las correspondientes a las sesiones ordinarias y extraordinarias que éste celebre, y presentarlas para la aprobación del mismo y en su caso firma de los asistentes;
 
-El Ayuntamiento electo, en reunión previa a la Sesión de instalación, designará de entre sus integrantes a una Secretaria o Secretario para levantar el acta de instalación, quien durará en dicho encargo hasta la Sesión donde se designe a la Secretaria o Secretario del Ayuntamiento.
+VI. Formular de acuerdo con la Presidencia del Consejo Directivo, el Orden del Día de los asuntos que deban tratarse en las sesiones del mismo, y mantener bajo su custodia el archivo;
 
-###### Artículo 24.
+VII. Celebrar convenios y contratos con autoridades de los tres ámbitos de gobierno, así como con personas físicas o morales nacionales o extranjeras, previo acuerdo del Consejo Directivo en los casos que así se requiera, para lograr el cumplimiento de los fines del Centro;
 
-Una vez terminada el acta de instalación del Ayuntamiento, la o el integrante del Ayuntamiento electo, en funciones de Secretaria o Secretario, previo acuerdo con la Presidenta o Presidente, procederá a citar a quienes integran el Ayuntamiento a una Sesión extraordinaria para realizar el nombramiento de Secretaria o Secretario del Ayuntamiento y Tesorera o Tesorero Municipal, durante los cinco días naturales siguientes a la instalación del nuevo Ayuntamiento.
+VIII. Dirigir, administrar y supervisar en todos sus aspectos los asuntos de la competencia del Centro;
+
+IX. Dictar todos los acuerdos e instrucciones necesarias para que el personal a su cargo cumpla con sus responsabilidades;
+
+X. Proponer al Consejo Directivo los proyectos de iniciativa de las reformas o adiciones legislativas que considere necesarias para el cumplimiento de los fines del Centro a fin de que éste los someta a la aprobación del Ejecutivo para su presentación al Congreso del Estado;
+
+XI. Recibir la propuesta de las áreas competentes para formular el presupuesto anual de ingresos y egresos del Centro y someterlo a aprobación del Consejo Directivo, dentro de los últimos cuatro meses del año;
+
+XII. Presentar al Consejo Directivo durante los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio, así como el informe de actividades, para que en su caso sean aprobados;
+
+XIII. Proponer al Consejo Directivo las medidas que considere convenientes para el mejor funcionamiento del Centro;
+
+XIV. Nombrar y remover al personal al servicio del Centro así como promover la instalación del Centro, en las regiones del Estado;
+
+XV. Vigilar que los planes y programas del Centro se realicen conforme a los acuerdos del Consejo Directivo;
+
+XVI. Supervisar a través de la Dirección Administrativa el inventario de bienes a su cuidado, actualizarlo y llevar su control en forma permanente;
+
+XVII. Someter a la aprobación del Consejo Directivo las requisiciones de bienes que excedan los montos autorizados a la aprobación del Comité de Adquisiciones Arrendamientos y Servicios, de conformidad con la ley de la materia;
+
+XVIII. Elaborar para su aprobación y publicación en su caso, los proyectos de reglamentos internos, acuerdos administrativos, circulares, manuales así como de servicios al público;
+
+XIX. Certificar para su validez probatoria todos los documentos que obren en oficinas y archivos a cargo del Centro, así como expedir las constancias correspondientes, debiendo resguardar conforme a la ley la privacidad de los datos personales;
+
+XX. Celebrar y ejecutar, con la autorización del Consejo Directivo, actos de administración y de dominio sobre los bienes muebles e inmuebles propiedad del Centro, contando cuando así se requiera;
+
+XXI. Otorgar poderes o mandatos a servidores públicos subalternos o particulares, para la atención de asuntos de su competencia, cuando por circunstancias extraordinarias lo requiera el cumplimiento de sus funciones y no pueda hacerlo personalmente;
+
+XXII. Presidir el Comité de Transparencia, y el Comité de Adquisiciones, Arrendamientos y Servicios del Centro;
+
+XXIII. Revisar informes de las áreas que conforman el Centro;
+
+XXIV. Proveer, a través de la Dirección Administrativa, de los recursos humanos, materiales y suministros a las Direcciones, unidades y áreas del Centro para que den cumplimiento de sus objetivos y metas, así como a los objetivos y metas señaladas en el Plan Estatal de Desarrollo, Plan Sectorial y Programa Operativo Anual, de acuerdo a su presupuesto y con apego a las disposiciones legales vigentes a esa materia;
+
+XXV. Preparar los informes trimestrales y anual de la institución;
+
+XXVI. Convocar a las Direcciones, jefaturas de departamento y de las demás unidades y áreas del Centro que corresponda para acordar los asuntos de su competencia, y
+
+XXVII. Las demás que le confieren los ordenamientos jurídicos aplicables o que le encomiende el Consejo Directivo.
+
+###### ARTÍCULO 22.
+
+El Centro contará con una Dirección Administrativa dependiente de la Coordinación General, cuyo titular será nombrado por la misma.
+
+El Reglamento de esta Ley determinará los requisitos para ocupar dicho cargo.
+
+###### ARTÍCULO 23.
+
+Corresponde a la Dirección Administrativa:
+
+I. Proporcionar a las diversas áreas del Centro los recursos humanos técnicos, financieros y materiales que requieran para el cumplimiento de sus programas de trabajo;
+
+II. Elaborar en coordinación con las áreas correspondientes el Programa Anual Operativo del Centro;
+
+III. Tramitar, por acuerdo de la Coordinación General, los nombramientos, remociones renuncias y licencias de los titulares de las direcciones, unidades y áreas del Centro;
+
+IV. Promover la capacitación, adiestramiento y actualización del personal del Centro ante la Oficialía Mayor de Gobierno y otras instituciones públicas o privadas;
+
+V. Tramitar la adquisición de bienes y servicios que requiera el funcionamiento del Centro previa autorización del Comité de Adquisiciones, Arrendamientos y Servicios cuando así se requiera, así como el alta y baja de bienes muebles e inmuebles;
+
+VI. Elaborar el inventario de los bienes muebles e inmuebles del Centro y mantener actualizados los resguardos respectivos;
+
+VII. Mantener actualizados los manuales de organización, procedimientos y de servicios del Centro;
+
+VIII. Llevar la Oficialía de Partes del Centro y despachar la correspondencia del Centro;
+
+IX. Intervenir, en coordinación con las dependencias competentes, en la entrega y recepción de las áreas del Centro;
+
+X. Presentar los informes que le sean solicitados por la Coordinación General en la esfera de su competencia;
+
+XI. Supervisar y evaluar las áreas de intendencia, seguridad, cocina y comedor y demás áreas a su cargo;
+
+XII. Representar a la Coordinadora General en los eventos en que la misma le confiera tal representación;
+
+XIII. Supervisar el buen estado y uso del parque vehicular del Centro;
+
+XIV. Asumir el mantenimiento de las instalaciones tanto del inmueble como de los bienes muebles del Centro;
+
+XV. Preparar los informes financieros que deba rendir el Centro;
+
+XVI. Planear, organizar, dirigir y controlar el manejo de los fondos propiedad del Centro, y efectuar los pagos autorizados por la Coordinación General;
+
+XVII. Emitir y firmar los cheques que autorice la Coordinación General. As{i (sic) como resguardar y administrar la caja chica del Centro;
+
+XVIII. Formar parte del Comité de Transparencia del Centro y del Comité de Adquisiciones Arrendamientos y Servicios del mismo;
+
+XIX. Verificar que se dé respuesta en tiempo y forma a las solicitudes de información que se presenten al Centro;
+
+XX. Llevar y organizar conforme a la Ley de la materia el Archivo del Centro, y
+
+XXI. Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquellas que legalmente le confiera la Coordinación General.
+
+###### ARTÍCULO 24.
+
+La Dirección Administrativa, contará con las siguientes áreas:
+
+I. Una Subdirección, que le apoyará en la operación de las funciones que le corresponden y en la vigilancia del cumplimiento de las que tocan a las áreas que dependen de la misma;
+
+II. Recursos materiales, tecnológico e informáticos;
+
+III. Recursos Financieros;
+
+IV. Recursos Humanos, y
+
+V. Recepción del Centro.
+
+Las áreas tendrán las funciones que determine el Reglamento, el que dispondrá los requisitos que se requieran para ocupar la titularidad de las mismas.
 
 ## TÍTULO CUARTO. DE LA ATENCIÓN DE USUARIAS
 
-### CAPÍTULO VIII. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
+### Capítulo I. Disposiciones Generales
 
-###### Artículo 25.
+###### ARTÍCULO 25.
 
-El día señalado para la instalación, la Presidenta o Presidente Municipal electo rendirá protesta ante quienes integran el Ayuntamiento y enseguida les tomará protesta a las y los integrantes del Ayuntamiento.
+Los Manuales correspondientes determinarán el modelo de atención del Centro el cual deberá contener cuando menos los siguientes aspectos:
 
-Una vez declarado el quórum legal, la Presidenta o Presidente Municipal electo, puesto en pie al igual que quienes integran el Ayuntamiento, dirá: «Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen haciendo especial énfasis en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; desempeñar leal y patrióticamente el cargo de Presidenta (e) Municipal que el pueblo me ha conferido mirando en todo por el bien y la prosperidad de la Nación, del Estado y del Municipio y si así no lo hiciere que me lo demanden”. Enseguida la Presidenta o Presidente Municipal preguntará al resto de integrantes del Ayuntamiento que permanecerán de pie: ¿»Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado, las leyes que de ambas emanen, desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido, mirando en todo por el bien y la prosperidad de la Nación, del Estado y del Municipio»?. A lo que deberán contestar: «Sí protesto»; la Presidenta o Presidente dirá entonces: «Si así no lo hicieren, que se les demande».
+I. Procedimiento de Recepción de Usuarias para su Ingreso a las Oficinas del Centro en condiciones de calidez, seguridad, conducción adecuada al área correspondiente para su registro y atención;
 
-Igual protesta se obligará a rendir a la o el integrante del Ayuntamiento que se presente después y cualquiera que fuere llamado para suplir a su propietaria o propietario.
+II. Prohibición de permitir acceso sin autorización del área de seguridad correspondiente a personas del sexo masculino, o de proporcionar a los mismos información sobre las usuarias, aun cuando aduzcan parentesco o relación con las mismas;
 
-En caso de que no le sea posible a la Presidenta o Presidente Municipal realizar la toma de protesta en el día previamente establecido; la Síndica o Síndico Municipal tomará protesta y le tomara protesta al resto de los integrantes del Cabildo, encabezando temporalmente al Ayuntamiento y le dará vista al Congreso del Estado para que resuelva en definitiva la ausencia de la Presidenta o Presidente.
+III. Atención de menores hijos e hijas de las usuarias en el área lúdica por personal especializado para facilitar la atención de la usuaria;
 
-### CAPÍTULO IX. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
+IV. Disposiciones de funcionamiento de un sistema informático en el que participen todas las áreas del Centro con el manejo de un expediente único que evite la revictimización de las usuarias de forma que deban proporcionar la información personal y sobre su caso en una sola ocasión y el que cada área haga el llenado del capítulo correspondiente con base en la información general y bajo el estricto principio de confidencialidad, y
 
-###### Artículo 26.
+V. Procedimiento de Atención Telefónica.
 
-El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, de la documentación impresa y electrónica que contenga la situación que guarda la administración pública municipal; el día en que se instale el nuevo Ayuntamiento, en términos de la presente Ley y demás disposiciones legales aplicables.
+### Capítulo II. Del Área de Psicología
 
-La entrega-recepción, es un acto obligatorio que no deberá dejar de realizarse por ningún motivo y no podrá extenderse por más de quince días naturales siguientes a la instalación del nuevo Ayuntamiento. La o el Contralor en funciones deberá coordinar y supervisar los trabajos de la entrega-recepción.
+###### ARTÍCULO 26.
 
-###### Artículo 27.
+El área de Psicología será la encargada de brindar apoyo psicológico a mujeres receptoras de violencia de cualquier naturaleza que acuden al Centro con el propósito de reconocer modelos de comunicación e interacción no violenta, y/o su canalización al área correspondiente dentro de la Institución, así como a sus menores hijos e hijas, haciendo intervención en crisis y dando apoyo psicológico con enfoque centrado en la persona, basado en procesos cognitivos.
 
-El Congreso del Estado, a través de la Auditoría Superior, designará a una persona como representante para que observe el proceso. En el último trimestre de la administración, los Ayuntamientos deberán conformar una comisión de entrega, cuyo objetivo será coordinar las diferentes acciones de integración de documentos, conciliación, consolidación y verificación de resultados, así como de los asuntos programáticos, presupuestales, contables, financieros, administrativos, patrimoniales, técnicos y jurídicos del período constitucional, para dar cumplimiento al proceso de entrega y recepción. Al efecto, la comisión de entrega definirá la estrategia de operación interna, los mecanismos de coordinación necesarios y en su caso las acciones adicionales que se requieran. La comisión de entrega estará integrada por:
+El área de Psicología dará respuesta a la demanda de una atención integral y oportuna para las mujeres que viven violencia, especialmente a aquellas que requieren iniciar un proceso terapéutico para víctimas de violencia, sus hijas e hijos menores de edad, procurando que éste de inicio se maneje con terapias breves para hacer frente y trascender el evento del que fueron víctimas, evitando que las usuarias generen dependencia emocional o de cualquier otro tipo de los servicios que ofrece el Centro.
 
-I. La Presidenta o Presidente Municipal, quien presidirá;
+###### ARTÍCULO 27.
 
-II. La Síndica o Síndico, quien fungirá como vicepresidenta o vicepresidente;
+El área de Psicología deberá atender las siguientes disposiciones:
 
-III. La Contralora o Contralor Municipal, quien fungirá como Secretaria o Secretario Técnico; y,
+I. Para atender y trabajar con menores, la primera entrevista debe ser con su madre, padre o tutor;
 
-IV. Las demás servidoras y servidores públicos a consideración de la Presidenta o Presidente Municipal, quienes fungirán como vocales.
+II. En todos los casos en que se brinde atención se debe realizar una historia clínica de las personas usuarias mediante formato respectivo;
 
-###### Artículo 28.
+III. Deberá asentarse en el expediente respectivo una breve historia de vida para dar contexto a la narración del hecho violento por el que la mujer víctima de violencia acude al Centro;
 
-La Secretaria o Secretario Técnico será responsable de verificar los avances e informar de ello en las reuniones de la comisión de entrega, levantar las actas correspondientes y dar seguimiento al cumplimiento de los acuerdos. La comisión de entrega se reunirá por lo menos una vez al mes durante el período junio-julio-agosto del último año de la administración. Los integrantes no podrán delegar sus funciones relativas al mismo ni percibirán remuneración adicional por ello. Declarado electo el nuevo Ayuntamiento por resolución inatacable de autoridad competente, la Presidenta o Presidente Municipal electo comunicará de inmediato al Ayuntamiento en funciones los nombres de las personas que conformarán la comisión de recepción, que se encargará de revisar la información y la integración de documentos relativos al proceso de rendición de cuentas. Al efecto, las comisiones de entrega-recepción se reunirán por lo menos una vez, previamente a la instalación del nuevo Ayuntamiento.
+IV. Los expedientes deben ser estrictamente confidenciales y las demás áreas del Centro e instituciones asociadas externas, sólo pueden solicitar detalles del usuario en caso de que existan situaciones que puedan ser de riesgo y en los casos judiciales en los que se requiera de informes;
 
-###### Artículo 29.
+V. Cada psicólogo deberá tener bajo su resguardo personal el archivo de cada uno de los casos que atiende;
 
-Los documentos que integran la entrega–recepción serán:
+VI. No deberán llevarse a cabo diagnósticos psiquiátricos; en tales casos se solicitará a trabajo social la canalización a instituciones pertinentes previa autorización de los familiares;
 
-I. Los libros de actas de las Sesiones de Cabildo del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
+VII. Deberán proponerse a la usuaria un mínimo de diez sesiones de una hora, debiendo valorar la necesidad de continuar el tratamiento hasta su solución dentro del Centro o derivarla para su continuación a alguna de las instituciones colaboradoras, y
 
-II. La documentación relativa a la situación financiera y estados contables que deberán contener los libros de contabilidad y balances, así como los registros auxiliares, correspondientes al Ayuntamiento saliente; y la documentación comprobatoria de los ingresos, patrimonio y gastos;
+VIII. La atención podrá ser de manera directa, individual y canalizando después a grupos de trabajo, donde podrá revalorizarse, así como apoyar a la usuaria en la construcción de un plan de vida, que le permita rediseñar su proyecto de vida.
 
-III. La documentación relativa al estado que guarda la Cuenta Pública del Municipio, la que incluirá los oficios de razonabilidad, las observaciones, requerimientos o apercibimientos emitidos por la Auditoría Superior o por el Congreso del Estado a las servidoras o servidores públicos responsables, tanto en funciones, como quienes hayan dejado el servicio público, durante el ejercicio de la Administración Pública Municipal saliente;
+###### ARTÍCULO 28.
 
-IV. La situación de la deuda pública municipal y la documentación relativa a la misma;
+Corresponde al titular de la Jefatura del Área de Psicología:
 
-V. El estado de la obra pública ejecutada, así como la que esté en proceso y la documentación relativa a su planeación, programación, presupuestación y ejecución, señalando debidamente el carácter federal, estatal o municipal de los recursos utilizados;
+I. Rendir los informes que le requiera la Coordinadora General del Centro sobre los servicios otorgados;
 
-VI. La documentación relativa a los proyectos y programas ejecutados y no ejecutados, se guardarán y registrarán en un sistema de datos con soporte digitalizado y acceso público. Los cuales deberán ser presentados y entregados a la administración entrante. De los proyectos y programas antes mencionados, deberán crear un inventario, el cual debe contener un folio de captura y búsqueda en dicho sistema de datos;
+II. Llevar un registro, respetando el anonimato, de cada atención realizada para proveer a través de un sistema de reportes, información cuantitativa de la realidad social de las mujeres que acuden al Centro;
 
-VII. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como informes y comprobantes de los mismos;
+III. Organizar al equipo de psicólogas/os y realizar juntas semanales con su equipo y presentarse a las juntas mensuales convocadas por la Coordinadora General;
 
-VIII. El estado que guarda el cumplimiento de obligaciones fiscales, incluidas las de seguridad social, de carácter federal, estatal o municipal, según sea el caso;
+IV. Asegurar el correcto funcionamiento de su área con una atención de calidad y calidez, con base en la perspectiva de género y la cultura de la paz en ella;
 
-IX. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
+V. Verificar que el personal del área proporcione la atención de manera confidencial y gratuita a las mujeres víctimas de violencia y según sea necesario brindar asesoría, orientación, intervención en crisis o contención emocional;
 
-X. La documentación relativa a convenios o contratos que el Municipio tenga con otros Municipios, con el Estado, con la Federación o con particulares;
+VI. Aplicar el Modelo de Atención autorizado por el Centro para atender a los niños, niñas y adolescentes que acuden al mismo;
 
-XI. La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guarden los que estén en proceso de ejecución;
+VII. Brindar por disposición de la Coordinación General a las áreas que se requiera la capacitación y actualización de los temas de género, violencia y familiar, así como las formas de atención;
 
-XII. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal; así como los documentos que amparen la propiedad o posesión de los mismos, tratándose de bienes inmuebles además se deberá incluir un expediente del uso a la fecha de la entrega de los mismos;
+VIII. Supervisar y realizar observaciones a los psicólogos/as de forma puntual y oportuna sobre las intervenciones con las personas usuarias;
 
-XIII. El inventario de los programas informáticos con que se cuenta, el respaldo electrónico de la información y de las bases de datos; así como el acceso a todos los dominios electrónicos y digitales oficiales del ayuntamiento;
+IX. Evaluar constructiva y objetivamente de forma mensual la intervención del personal de psicología y dar retroalimentación al personal de su área en relación a sus atenciones psicológicas;
 
-XIV. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento;
+X. Coordinar a su personal con otras áreas del Centro para realizar talleres, conferencias, cursos, actividades dirigidas a la prevención y los eventos de difusión que se requieran;
 
-XV. Los juicios en trámite, su estado procesal y el pasivo contingente en cantidad líquida o numeraria que representen, así como los juicios en trámite de carácter laboral;
+XI. Verificar el acompañamiento de las víctimas cuando se solicite por el área jurídica o médica, y
 
-XVI. Los asuntos, contratos, convenios u obras pendientes de atención o trámite, conforme al ejercicio de atribuciones del Ayuntamiento; y,
+XII. Las demás que disponga el Reglamento y las que le sean asignadas por la Coordinación General.
 
-XVII. Toda la información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
+###### ARTÍCULO 29.
 
-###### Artículo 30.
+Corresponde a las y los psicólogos del Centro:
 
-El Congreso del Estado a través de la Auditoría Superior iniciará la capacitación a las servidoras y servidores públicos municipales, en los meses de mayo y junio, quienes tendrán como fecha límite el treinta y uno de julio del último año del ejercicio constitucional, para la integración documental en materia de organización, planeación, marco regulatorio y situación legal, administrativa, de obra pública y de transparencia. La capacitación a integrantes de los Ayuntamientos electos se desarrollará en los meses de julio y agosto y concluirá antes de su instalación. En la actualización e integración de la documentación final, se deben incluir la captación de ingresos y los gastos menores de la última quincena, de manera que, con límite al treinta y uno de agosto, se produzca la información completa y definitiva que se anexará al expediente de entrega y recepción.
+I. Brindar atención psicológica, individual, de pareja y familiar a las usuarias del Centro;
 
-La información a que se refiere el párrafo anterior, se clasificará conforme a lo siguiente:
+II. Solicitar en su caso la canalización a otra dependencia de salud a las usuarias, además de proporcionar el seguimiento necesario en el proceso psicológico de las mismas;
 
-I. Organización: Toda documentación relativa a la conformación y operación del Ayuntamiento;
+III. Participar en los talleres de actualización, así como en la elaboración de modelos nuevos de atención a efecto de optimizar la calidad del servicio, y adecuarse a las necesidades que vayan surgiendo en el centro;
 
-II. Planeación: Planes y programas municipales, así como estrategias y líneas de acción para el logro de objetivos y metas;
+IV. Atender a todas las usuarias que lo requieran, de manera digna, cálida y eficaz, durante su estancia dentro del Centro;
 
-III. Marco regulatorio y situación legal: Disposiciones jurídicas que norman la actuación del Ayuntamiento, así como a los compromisos que debe atender, derivados de un instrumento o proceso jurídico;
+V. Estar y permanecer debidamente actualizado/a en los temas relacionados con la violencia hacia las mujeres, perspectiva de género y atención telefónica;
 
-IV. Financiera: Información presupuestaria y contable de las transacciones efectuadas por el Ayuntamiento, que expresan su situación económica, los resultados de su operación y los cambios en su patrimonio;
+VI. Registrar adecuadamente los datos necesarios para la conformación de la base de datos;
 
-V. Administrativa: Todo lo relacionado con recursos humanos, materiales y técnicos del Ayuntamiento, así como la documentación y elementos utilizados en la operación del mismo;
+VII. Realizar a favor de las personas usuarias, pláticas, talleres y asesoría psicológica y sobre prevención de enfermedades, sexualidad, salud reproductiva, nutrición y en torno de las medidas de auto cuidado de la salud integral;
 
-VI. Obra pública: Engloba todo lo relativo a obras terminadas o en proceso, de acuerdo con el tipo de recursos utilizados y la modalidad de ejecución;
+VIII. Dar a conocer con la autorización de la usuaria, las estrategias de intervención en los procesos de atención, y
 
-VII. Transparencia: Comprende los asuntos pendientes de atender y el cumplimiento por parte de la Autoridad Municipal de sus obligaciones en esta materia;
+IX. Llevar a cabo con las usuarias sesiones en grupos de desarrollo humano y de crecimiento personal.
 
-VIII. Control y fiscalización: Observaciones en proceso de atención, resultantes de la fiscalización de las cuentas públicas y la revisión de la gestión municipal; y,
+###### ARTÍCULO 30.
 
-IX. Compromisos institucionales: Actividades de atención prioritaria durante los noventa días posteriores a la entrega y recepción.
+El Reglamento de la presente Ley dispondrá el modelo de atención en el área de psicología, desde el enfoque de la perspectiva de género, considerando cuando menos, presentación, información de servicios que brinda el Centro, detección de otras necesidades asistenciales, médicas, o legales, contención e intervención en crisis, planes de seguridad personalizados; atención telefónica en los casos que se requiera; apoyo en las terapias grupales y de información legal; revisión de los casos con el equipo de ser necesario; rendición y ratificación a petición de autoridad competente los informes victimológicos; fortalecimiento de la usuaria para prepararla a presentar denuncias en el área jurídica cuando ésta así lo decida; acompañamiento de la usuaria en procesos legales y asistenciales si esto es necesario; y gestiones con el área de Trabajo Social para la canalización a la atención psiquiátrica en casos en que se requiera.
 
-### CAPÍTULO X. DE LA DESAPARICIÓN DE AYUNTAMIENTOS
+### Capítulo III. De la Unidad de Prevención
 
-###### Artículo 31.
+###### ARTÍCULO 31.
 
-La Síndica o Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega-recepción, con especificación de los documentos anexos, firmada al margen y al calce por quienes intervengan, de la cual se proporcionará copia certificada a integrantes del Ayuntamiento saliente, al entrante y al Congreso del Estado a través de la Auditoría Superior, en un plazo no mayor de quince días naturales.
+La Unidad de Prevención del Centro llevará a cabo las acciones y programas tendentes a prevenir nuevos actos de violencia en las personas usuarias del Centro.
 
-###### Artículo 32.
+Desarrollará así mismo estrategias enfocadas al desarrollo de habilidades, promoción de conductas saludables, fortalecimiento de valores y actitudes, apoyadas en las medidas que evitan que la violencia ocurra.
 
-Concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, de la que deberán formar parte, la Síndica o Síndico, la Secretaria o Secretario del Ayuntamiento, la Tesorera o Tesorero y los demás integrantes a consideración de la Presidenta o Presidente Municipal, misma que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo no mayor a 20 días naturales. El dictamen se someterá, dentro de los diez días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a las servidoras y servidores públicos de la administración anterior, para que expresen lo que a su interés convenga, respecto de las observaciones que el dictamen contenga o para solicitar información o documentación complementaria. La respuesta se producirá en un plazo no mayor a setenta y dos horas, contado a partir de la notificación. Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión y dentro de los quince días naturales siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado a través de la Auditoría Superior, para el efecto de revisión de las cuentas públicas municipales.
+En esta Unidad se proporcionará información y servicios para la prevención, detección y atención de cualquier tipo o forma de violencia dentro y fuera del contexto escolar y familiar, para lograr la generación de espacios de convivencia armónicos y libres de violencia.
 
-### CAPÍTULO XI. DE LAS COMISIONES DEL AYUNTAMIENTO
+###### ARTÍCULO 32.
 
-###### Artículo 33.
+Para los efectos del artículo anterior, corresponde a la Unidad de Prevención llevar a cabo las siguientes funciones:
 
-El desempeño del cargo de la Presidenta o Presidente Municipal, Síndica o Síndico así como Regidoras y Regidores es obligatorio, y se realizará con probidad, eficacia, eficiencia y honradez, quedando impedidos quienes los ocupen, para aceptar otro empleo o cargo en la Administración Pública Municipal, Estatal o Federal, por el que perciban remuneración alguna, a excepción de los de instrucción y beneficencia.
+I. Coadyuvar, en coordinación con la SEGE actividades de sensibilización y capacitación permanentemente de maestras y maestros de los niveles de educación básica, de conformidad con las actividades de prevención previstas en el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-###### Artículo 34.
+II. Apoyar en coadyuvancia con la SEGE en actividades de sensibilización y capacitación de niñas y niños, víctimas de violencia en centros escolares y que así lo soliciten;
 
-El ejercicio del cargo de Presidenta o Presidente Municipal, Síndica o Síndico así como de Regidoras y Regidores, será remunerado conforme a lo fijado en el presupuesto de egresos del Municipio, atendiendo los principios de racionalidad, austeridad y disciplina del gasto, así como la condición socioeconómica del Municipio; procurando evitar disparidades entre la remuneración de los integrantes del Ayuntamiento y las y los funcionarios municipales de primer nivel, ajustándose al promedio de sueldos en la región. El cargo deberá desempeñarse de tiempo completo.
+III. Atender los casos reportados de violencia en las escuelas realizando visitas a la familia y ofreciendo el apoyo de gestión y trámites escolares, convirtiéndose en un enlace entre las autoridades educativas, el Centro y la familia afectada;
 
-Las y los integrantes del Ayuntamiento así como los mandos medios y superiores desde el nivel de Jefaturas de Departamento o equivalente, del sector central y de los organismos paramunicipales, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de trienio o cualquier periodo de trabajo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+IV. Diseñar y coordinar con la Dirección Administrativa y su área de recursos humanos las estrategias de capacitación para el personal del Centro;
 
-###### Artículo 35.
+V. Diseñar, elaborar y difundir materiales informativos como trípticos y carteles;
 
-Para resolver los asuntos que le corresponden, el Ayuntamiento celebrará Sesiones que podrán ser:
+VI. Participar en actividades culturales, ferias y stands con materiales de difusión del Centro, así como acudir a los medios de comunicación masiva (radio, televisión) para promover los servicios del mismo;
 
-I. Ordinarias: Las que obligatoriamente deberán llevarse a cabo cuando menos dos veces al mes, en la primera y segunda quincena, para atender asuntos de la Administración Municipal;
+VII. Brindar apoyo interinstitucional a organizaciones gubernamentales y de la sociedad civil, relacionadas con la materia de esta Ley;
 
-II. Extraordinarias: Las que se realizarán cuantas veces sean necesarias para resolver situaciones de urgencia. En cada sesión extraordinaria sólo se tratará el asunto que motivó la Sesión;
+VIII. Evaluar los procesos de prevención a través de la aplicación y estadística de resultados del Centro, y
 
-III. Solemnes: Aquéllas que exigen un ceremonial especial;
+IX. Las demás que le asigne la Coordinación General y que sean acordes al área.
 
-IV. Internas: Las que por acuerdo del Ayuntamiento tengan carácter privado, a las que asistirán únicamente integrantes de éste; y,
+### Capítulo IV. De la Atención Telefónica
 
-V. Virtuales: Las que se realicen mediante el uso de herramientas tecnológicas, excepcionalmente en caso de emergencia Nacional, Estatal o Municipal de carácter sanitaria o de protección civil, determinada por la autoridad competente y por el tiempo que dure ésta, que impida o haga inconveniente la Sesión presencial del Cabildo o Concejo Municipal en el edificio sede o en su sede alterna, conforme a las formalidades previstas en la normativa que rige las Sesiones de carácter presencial.
+###### ARTÍCULO 33.
 
-Todos los documentos que se generen en las sesiones virtuales podrán ser firmados a través de medios digitales, de conformidad con la legislación en la materia. Los asuntos que por su trascendencia deban reservarse para ser tratados en sesiones presenciales no podrán integrarse al orden del día, ni ser discutidos o votados en sesiones a distancia, a criterio de la mayoría de votos de las y los presentes en la Sesión, teniendo la Presidenta o Presidente Municipal voto de calidad para en caso de empate.
+La Línea Telefónica del Centro asegurará que cualquier mujer víctima de violencia pueda disponer de asesoramiento especializado, con carácter de urgencia a nivel social, psicológico y jurídico, favoreciendo el acceso a los servicios del mismo, así como proporcionar, ante situaciones urgentes, una respuesta rápida y eficaz a estas mujeres y, en su caso, a sus hijas e hijos menores, coordinando las actuaciones de los servicios de salud, sociales, de asistencia jurídica y psicológica así como de protección policial y facilitándoles, si fuera necesario, alojamiento de urgencia.
 
-###### Artículo 36.
+###### ARTÍCULO 34.
 
-Las sesiones ordinarias, extraordinarias y solemnes serán públicas, deberán celebrarse en el recinto oficial del Ayuntamiento, y las solemnes en el recinto que para tal efecto acuerde el propio Ayuntamiento mediante declaratoria oficial, a excepción de las autorizadas virtuales; debiendo establecerse criterios generales de periodicidad para las sesiones de Cabildo, en la reglamentación correspondiente.
+La atención telefónica que brinde el Centro tendrá por objeto:
 
-En casos especiales y previo acuerdo podrán también celebrarse las sesiones en otro lugar abierto o cerrado, dentro de la jurisdicción municipal, además deberán hacer lo conducente para que a través de plataformas digitales puedan transmitir las sesiones en vivo y queden registros en video de las sesiones, conforme a las capacidades técnicas y presupuestarias de los Municipios.
+I. Proporcionar las medidas urgentes y necesarias que posibiliten la resolución de posibles situaciones de manera inmediata: atención policial, urgencias médicas, alojamiento de emergencia;
 
-### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA PRESIDENTA O PRESIDENTE MUNICIPAL
+II. Ofrecer a la mujer escucharla de una manera activa que le permita expresarse con la carga emocional asociada al problema que plantea, ayudándola a autoevaluar y objetivar su situación;
 
-###### Artículo 37.
+III. Evaluar el daño físico y emocional y el riesgo vital, así como los apoyos familiares y sociales de los que dispone;
 
-Las sesiones serán convocadas por la Presidenta o Presidente Municipal o las dos terceras partes de quienes integran el Ayuntamiento, a través de la Secretaria o Secretario del mismo. La citación podrá ser personal o a través de medios electrónicos, de conformidad con la legislación especializada en la materia; y en casos extraordinarios, de ser necesario en el domicilio particular de cada integrante del Ayuntamiento; la citación deberá darse por lo menos con cuarenta y ocho horas de anticipación para sesiones ordinarias, tratándose de sesiones extraordinarias se hará cuando menos con veinticuatro horas de anticipación, contener el orden del día y en su caso la información necesaria para el desarrollo de las mismas, así como el lugar, día y hora.
+IV. Ofrecer información general sobre los recursos y programas de atención integral a mujeres víctimas de violencia;
 
-Para que las sesiones sean válidas, se requiere la asistencia de la mitad más uno de integrantes del Ayuntamiento y serán dirigidas por la Presidenta o Presidente Municipal y en ausencia, por la Síndica o Síndico y en ausencia de ambas figuras, quien determine la mayoría de asistentes.
+V. Escuchar, orientar y canalizar a las usuarias del servicio, y
 
-Si a la primera citación no asisten las y los integrantes necesarios para celebrar la Sesión, se citará nuevamente en los términos que fija esta Ley. Ese mismo día quienes asistan establecerán la fecha y hora en la que se desarrollará la sesión ordinaria.
+VI. Brindar contención emocional a personas, que se encuentren en situación de crisis, de manera inmediata y profesional.
 
-Los acuerdos se tomarán por mayoría de votos de integrantes presentes en la Sesión, teniendo la Presidenta o Presidente Municipal voto de calidad en caso de empate. El Ayuntamiento sesionará las veces que señale su reglamento, pero nunca serán menos de dos sesiones ordinarias al mes.
+###### ARTÍCULO 35.
 
-La convocatoria para la celebración de sesiones a distancia, además de lo dispuesto en la presente Ley, se adjuntarán los motivos que dan lugar a las mismas y las especificaciones técnicas correspondientes o información necesaria para su realización; y, podrá ser notificada por vía electrónica o impresa.
+La atención telefónica que brinde el Centro deberá tener las siguientes características:
 
-Las Jefas o Jefes de Tenencia y las Encargadas o Encargados del Orden podrán participar en las sesiones del Cabildo convocadas de forma ex profesa para tratar los asuntos de las Tenencias con derecho a voz, que deberán ser al menos dos veces al año de forma ordinaria o de forma extraordinaria cuando haya algún asunto que así lo amerite.
+I. La atención deberá ser de carácter permanente durante las veinticuatro horas del día y los trescientos sesenta y cinco días del año;
 
-###### Artículo 38.
+II. Se procurará que el número asignado sea fácil de recordar;
 
-Cada Sesión del Ayuntamiento se iniciará con la lectura del Acta de la Sesión anterior sometiéndose a aprobación o rectificación de quienes intervinieron en la misma.
+III. El servicio será completamente gratuito;
 
-Posteriormente la Secretaria o el Secretario del Ayuntamiento informará sobre el cumplimiento de los acuerdos de la Sesión anterior. Cumplido esto, se deliberarán los asuntos restantes del orden del día.
+IV. Deberá contar con sistema de localización geográfica de las llamadas, y
 
-Los acuerdos del Ayuntamiento se registrarán en los Libros de Actas en original y duplicado, mismos que deberán tener un respaldo digitalizado, estableciendo una numeración anual consecutiva y única para cada acuerdo votado en Sesión de Cabildo, siendo firmados por los integrantes que hayan estado presentes.
+V. Deberá ser atendido por profesionales.
 
-La Secretaria o el Secretario del Ayuntamiento deberá expedir copias certificadas de los acuerdos asentados en el libro; así como de las actas levantadas por las distintas comisiones, comités o concejos al interior del Municipio, a integrantes del Ayuntamiento, y a cualquier ciudadana o ciudadano que acredite interés jurídico en la causa que lo soliciten, por escrito ante la autoridad, la cual en las siguientes 48 horas deberá proceder a su entrega, previo pago de los derechos correspondientes.
+El Reglamento de esta Ley establecerá el Protocolo de Atención Telefónica que deberá seguirse en la atención de usuarias; en el que deberán participar las áreas de, Psicología, Trabajo Social y Jurídica del Centro.
 
-En el curso del primer mes de cada año, el Ayuntamiento deberá remitir a la Dirección de Archivos del Poder Ejecutivo, un ejemplar del libro de actas de las sesiones del Ayuntamiento correspondiente al año anterior.
+###### ARTÍCULO 36.
 
-### CAPÍTULO XIII. DE LAS ATRIBUCIONES DE LA SÍNDICA O EL SÍNDICO MUNICIPAL
+La persona responsable de atender la línea telefónica, deberá:
 
-###### Artículo 39.
+I. Brindar orientación y canalizar, en su caso, a la usuaria;
 
-Previo acuerdo de sus integrantes, en las sesiones del Ayuntamiento deberán comparecer las servidoras o servidores públicos municipales cuando se trate de asuntos de su competencia. Tal comparecencia será convocada por la Presidenta o Presidente Municipal a propuesta de cualquier integrante del Cabildo.
+II. Valorar cada llamada como un caso único, y adecuarse a cada situación particular;
 
-Los casos no previstos en la presente Ley, respecto al funcionamiento del Ayuntamiento, se sujetarán a las disposiciones de los respectivos reglamentos municipales o a los acuerdos del propio Ayuntamiento.
+III. Atender todas las llamadas telefónicas que se hagan a la línea durante su horario de trabajo;
 
-###### Artículo 40.
+IV. Estar y mantenerse actualizada en los temas relacionados con la violencia hacia las mujeres, perspectiva de género y atención telefónica;
 
-El Ayuntamiento o el Concejo Municipal tiene las siguientes atribuciones:
+V. Brindar la atención de forma profesional. comprometida, sensible, capaz de proponer alternativas, comunicar de manera efectiva y empática con las usuarias y usuarios comprendiendo las necesidades de las y los mismos;
 
-a).- En materia de Política Interior:
+VI. Llevar un registro preciso con los datos necesarios para la conformación de la base de datos, que deberá ser entregado a la jefatura de la línea telefónica;
 
-I. Prestar, en su circunscripción territorial en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la presente Ley, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público; limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abastos; panteones; rastro; calles, parques y jardines y su equipamiento; seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; policía preventiva municipal y tránsito, así como los demás que se determinen conforme a otras disposiciones aplicables;
+VII. Efectuar el seguimiento necesario en llamadas subsecuentes, y
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+VIII. Tener conocimiento preciso de las etapas de crisis que puede presentar la usuaria.
 
-Para la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, se deberá tomar en cuenta lo establecido en el Plan de Desarrollo Municipal, el cual incluirá en detalle un cronograma de medidas y acciones a implementar para garantizar el buen funcionamiento, la adecuada prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento, además de la detección, extracción, conducción, distribución, tratamiento y reúso de aguas residuales en el municipio. Asimismo, los indicadores para cumplir con los siguientes objetivos: asegurar la aplicación de la normatividad en la materia de agua potable y los límites máximos permisibles de contaminantes de las aguas residuales; y mejorar el funcionamiento de la infraestructura de tratamiento de aguas residuales, contemplando la posible construcción de plantas de tratamiento y colectores con un enfoque integral;
+### Capítulo V. Del Servicio de Albergue
 
-II. Realizar sus políticas y programas de gobierno, en coordinación con los Gobiernos Estatal y Federal y la sociedad organizada;
+###### ARTÍCULO 37.
 
-III. Auxiliar en su circunscripción territorial a las Autoridades Federales y Estatales, en el cumplimiento de los asuntos de su competencia;
+El Centro deberá contar con un servicio de Albergue temporal a cargo de personas capacitadas para brindar la atención y apoyo que se requiera en cada caso, en que se brinde la atención y servicios que requiera la usuarias (sic) y en su caso sus menores hijos e hijas.
 
-IV. Formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que, en su caso, formule la Federación y el Gobierno del Estado;
+El Albergue del Centro, a cargo del área de Trabajo Social del mismo, será un lugar digno de resguardo temporal no mayor a setenta y dos horas y deberá contar con las condiciones que garanticen la seguridad de las usuarias así como en su caso de sus hijos e hijas menores que viven una situación de violencia. En él se ofrecerá un servicio estructurado con un enfoque de género, el cual facilitará el inicio de las usuarias en su proceso de autonomía y con él el freno del ciclo de violencia.
 
-V. Proteger y preservar el equilibrio ecológico en la materia de su competencia, de conformidad con las disposiciones aplicables;
+El objetivo del Albergue es garantizar, a las usuarias, un espacio seguro y confortable para su protección y acogida temporal. Las actividades cotidianas en el mismo deben ser en todo momento psicoafectivas y educativas.
 
-VI. Formular, aprobar y aplicar los planes de desarrollo urbano municipal, de conformidad con las disposiciones aplicables;
+Cuando por motivos de seguridad o cualquier otro no fuere posible el acceso de la usuaria al albergue temporal, se alojará a la misma en un Hotel que guarde las condiciones de seguridad y confidencialidad necesarias, encargándose de ello el área administrativa del Centro, así como de que su traslado al mismo sea seguro y con acompañamiento de personal de la institución.
 
-VII. Vigilar el uso adecuado del suelo municipal, de conformidad con las disposiciones y los planes de desarrollo urbano;
+###### ARTÍCULO 38.
 
-VIII. Decretar los usos, destinos y provisiones del suelo urbano en su jurisdicción;
+Cuando se reciba en el Centro o (sic) través de la atención telefónica de la línea de emergencia, un caso que se valora como de alto riesgo para la mujer y sus hijos, se le dará la opción de ingresar al albergue temporal del Centro. Al darse esta situación, se procederá conforme a lo siguiente:
 
-IX. Participar con las dependencias Federales y Estatales competentes, en la regularización de la tenencia de la tierra urbana y rural del Municipio;
+I. Se orientará y planeará con la mujer la manera en que puede salir de su domicilio tomando en cuenta el apoyo de familiares y conocidos;
 
-X. Celebrar por razones de interés público común, convenios de coordinación con otros Ayuntamientos o con los gobiernos Federal y Estatal;
+II. Se acordará con la mujer un lugar de referencia para ir por ella, procurando fijar un lugar donde haya protección: delegación de policía, policía y tránsito municipal, o en condiciones de seguridad;
 
-XI. Celebrar convenios para la administración y custodia de las zonas federales;
+III. Si la mujer no cuenta con dinero, se le apoyará con el costo del taxi;
 
-XII. Rendir a la población, por conducto de la Presidenta o Presidente Municipal o Concejera o Concejero Municipal respectivo, un informe anual en el mes de agosto, del estado que guardan los asuntos municipales y del avance de los programas de obras y servicios. En el último año de su gestión, rendirá su informe en la segunda quincena del mes de julio y en el proceso de entrega-recepción, entregará por separado toda la documentación del ejercicio correspondiente al mes de agosto, al Ayuntamiento o Concejo Municipal entrante;
+IV. Se dará aviso a la coordinación del albergue del Centro sobre la situación de la mujer, para verificar que existan condiciones para su ingreso;
 
-XIII. Expedir y reformar en su caso, el Bando de Gobierno Municipal en el cual se establezca la delimitación territorial de las Jefaturas de Tenencia y Encargatura del Orden, mencionando todas las comunidades del Municipio y notificar al Congreso del Estado cada que actualice el mismo;
+V. Si la necesidad de ingreso se recibe en horario nocturno, se dará aviso al personal del Centro autorizado para que recoja a la familia en el lugar acordado;
 
-XIV. Expedir y reformar en su caso los reglamentos municipales necesarios para el mejor funcionamiento del Ayuntamiento;
+VI. Se llevará a la familia a (sic) albergue donde previamente la Coordinadora General ha avisado del ingreso;
 
-XV. Integrar comisiones de trabajo para el estudio y atención de los servicios municipales;
+VII. Durante el traslado, se le explicará a la mujer y a sus hijos de manera general a donde irán, y al llegar al Centro, la encargada, en ese momento se hará cargo de la atención a la familia, y al día siguiente la trabajadora social realizará la entrevista inicial y posteriormente los trámites de ingreso;
 
-XVI. Conceder fundadamente a sus integrantes licencias hasta por dos meses y hasta por seis meses a las empleadas y empleados municipales;
+VIII. Se realizarán los trámites de ingreso correspondiente, y
 
-XVII. Aprobar, en su caso, los nombramientos o remociones de la Secretaria o Secretario del Ayuntamiento, de la Tesorera o Tesorero Municipal y de la o el Titular del Comité de Desarrollo Integral de la Familia a propuesta de la Presidenta o Presidente Municipal;
+IX. Si la mujer acude al Centro con sus familiares se verificará que se encuentren dentro de las instalaciones los hijos con los que la usuaria decide ingresar a (sic) Centro, en donde todos ellos estarán protegidos y se explicará a los familiares la importancia de su discreción en cuanto a no brindar ninguna información al agresor sobre el lugar donde se encuentra la mujer, debiendo elaborar con los familiares un plan de seguridad, en caso de que ellos también corran riesgo de ser agredidos.
 
-XVIII. Integrar la lista de aspirantes para elegir a la Contralora o Contralor Municipal;
+### Capítulo VI. De la Atención y Asesoría Jurídica
 
-XIX. Proponer, y aprobar en su caso, el nombramiento y remoción de la Contralora o Contralor Municipal; así como denunciar a la Auditoría Superior de Michoacán, si fuera el caso; los actos u omisiones de responsabilidad graves en que pueda incurrir al ejercer el cargo debiendo dar el seguimiento respectivo la Sindicatura;
+###### ARTÍCULO 39.
 
-XX. Designar a la Directora o Director de Seguridad Pública Municipal o su equivalente, a partir de la propuesta de terna que realice la Presidenta o Presidente Municipal, tomando en cuenta el principio de paridad de género, eligiéndole en votación calificada en Sesión de Cabildo;
+El área jurídica del Centro, prestará servicios de asesoría jurídica y de tramitación de procedimientos, a través de profesionales del derecho, preferentemente de sexo femenino y con capacitación en género, derechos humanos, derecho familiar, derecho penal, y amplio conocimiento de los diversos tratados, leyes y disposiciones que regulan los derechos de las mujeres en el País y el Estado, para brindar desde un inicio a las mujeres que acuden al Centro, seguridad y protección jurídica, apoyo, acompañamiento y seguimiento en la presentación de denuncias, querellas, y en los procedimientos administrativos y jurisdiccionales que se requieran para lograr que las mujeres víctimas de violencia y en su caso sus menores hijas e hijos alcancen la justicia.
 
-XXI. Solicitar a los Gobiernos Federal y Estatal en su caso, la expropiación de bienes por causa de utilidad pública;
+###### ARTÍCULO 40.
 
-XXII. Proponer programas de uso, mantenimiento y ampliación del espacio público con la participación ciudadana; y,
+Corresponde a la persona titular del área Jurídica:
 
-XXIII. Garantizar el derecho a realizar actividades de ocio, esparcimiento, recreativas, artísticas, turísticas y ecoturísticas, privilegiando el interés público.
+I. Llevar los registros de atención registrándolos tanto por género como por la clasificación del delito o caso por el que se brinda la asesoría o atención que se requiere;
 
-b).- En materia de Administración Pública:
+II. Asignar a los o las profesionales del área, considerando sus respectivas agendas, la atención de nuevas usuarias o mujeres víctimas de violencia que requieran servicios jurídicos;
 
-I. Elaborar, presentar y publicar, en el curso de los cuatro primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
+III. Designar, para los casos de violencia sexual necesariamente a una abogada o licenciada en derecho, debidamente capacitada para atender a la víctima;
 
-II. Organizar, estructurar y determinar las funciones de su Administración Pública, debiendo respetar siempre el principio de paridad de género;
+IV. Atender el primer contacto con la víctima;
 
-III. Organizar y operar los procedimientos para la actualización, ejecución, seguimiento, control y evaluación del Plan Municipal de Desarrollo y sus respectivos programas;
+V. Recibir las quejas que las mujeres usuarias y víctimas de violencia deseen presentar;
 
-IV. Constituir y supervisar el funcionamiento del Instituto Municipal de Planeación, que tendrá las funciones del Comité de Planeación para el Desarrollo Municipal;
+VI. Dar seguimiento a las investigaciones periciales;
 
-V. Comunicar al Congreso del Estado la creación de nuevas Tenencias y Encargaturas del Orden o fusión de las existentes, de conformidad con las disposiciones aplicables;
+VII. Canalizar a las víctimas con las instituciones que brindan la atención, acciones y servicios dirigidos al empoderamiento económico de las usuarias y víctimas de violencia del Centro, cuando así se estime necesario;
 
-VI. Fomentar la conservación de los edificios públicos municipales y en general del patrimonio municipal;
+VIII. Gestionar con el área de trabajo social la canalización y acompañamiento en su caso de las usuarias y víctimas de violencia a la policía ministerial, hospitales, DIF estatal, asociaciones civiles o demás instituciones colaboradoras cuando así se requiera;
 
-VII. Formular, aprobar y administrar la zonificación territorial municipal;
+IX. Solicitar la intervención del área de psicología cuando sea necesario y de manera indubitable en los casos de violencia sexual y de atención de menores;
 
-VIII. Participar en la creación y administración de reservas territoriales, de conformidad con las disposiciones aplicables;
+X. Realizar las solicitudes para evaluaciones médicas y psicológicas que se requieran;
 
-IX. Supervisar que los centros de detención bajo su autoridad reúnan las condiciones mínimas de seguridad, higiene, educación y trabajo que determine la normatividad respectiva;
+XI. Ordenar mediante los formatos respectivos la canalización de usuarias y víctimas de violencia que requieran atención de otras unidades del Centro;
 
-X. Adquirir bienes para el cumplimiento de sus atribuciones con sujeción a las disposiciones aplicables;
+XII. Revisar y aprobar los escritos y promociones que las abogadas del área presenten ante el Ministerio Públicos (sic) u otras autoridades administrativas o jurisdiccionales, y
 
-XI. Participar en la formulación y aplicación de programas de transporte público cuando aquellos afecten su ámbito territorial;
+XIII. Generar durante los informes del área a la Coordinación General y reportar los registros y las estadísticas de atención para actualizar la información del Centro en su página de transparencia, cuidando siempre del resguardo de la confidencialidad y protección de datos personales de las usuarias y víctimas del Centro.
 
-XII. Someter a concurso las compras, prestación de servicios y la construcción de obras públicas de conformidad con las disposiciones de la materia, y en caso de que se establezcan obligaciones cuyo término exceda el ejercicio constitucional del Ayuntamiento, requerirá del acuerdo de las dos terceras partes de sus integrantes, de conformidad con lo dispuesto en el inciso b), de la fracción II, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+###### ARTÍCULO 41.
 
-XIII. Otorgar licencias y permisos conforme a las disposiciones aplicables;
+Corresponde a las abogadas y abogados del área jurídica:
 
-XIV. Organizar, operar y actualizar el sistema municipal de información económica, social y estadística de interés general;
+I. Atender con diligencia, calidad y calidez a las usuarias y víctimas de violencia, brindándoles en todo momento la seguridad de que su problemática será atendida y resuelta debidamente con todos los medios al alcance del Centro y que será protegida en su seguridad personal y la de sus hijos e hijas menores, en los casos en que así se requiera, por las autoridades del Estado;
 
-XV. Organizar, conservar y actualizar los archivos históricos municipales; así como promover, fomentar, difundir e institucionalizar la cultura de la transparencia, acceso a la información pública y rendición de cuentas, gobierno abierto, la participación ciudadana, la accesibilidad y la innovación tecnológica;
+II. Dar asesoría jurídica a las usuarias y víctimas de violencia que les sean asignadas para su atención por la jefatura del área;
 
-XVI. Elaborar y publicar, en coordinación con las autoridades competentes, el Catálogo del Patrimonio Histórico y Cultural del Municipio, fomentando su divulgación;
+III. Elaborar y tramitar los escritos y promociones que se requieran para resolver la problemática jurídica de la usuaria;
 
-XVII. Determinar, de conformidad con las disposiciones aplicables, los tipos de construcciones y edificios que no sean susceptibles de modificaciones arquitectónicas;
+IV. I niciar (sic) los procedimientos administrativos y judiciales que en cada caso se requieran y darles seguimiento hasta su total resolución;
 
-XVIII. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en la materia, de conformidad con las disposiciones aplicables;
+V. Dar la asesoría necesaria y acompañar a la usuaria o víctima de violencia en los casos en que deba realizar gestiones o trámites jurídicos de manera personal, fuera de las instalaciones del Centro;
 
-XIX. Presentar iniciativas de leyes y/o decretos al Congreso del Estado para su aprobación en su caso, preferentemente aquéllas que tiendan a fortalecer la autoridad y la capacidad de gestión del Ayuntamiento como primer nivel de gobierno para atender los requerimientos comunitarios de obras y servicios públicos;
+VI. Asistir a las reuniones del grupo interdisciplinario del Centro;
 
-XX. Autorizar, de acuerdo a lo establecido en ésta Ley y demás disposiciones aplicables, a propuesta de la Presidenta o Presidente Municipal, la creación y supresión de dependencias, entidades y unidades administrativas para el mejor cumplimiento de los programas de obras y servicios públicos municipales;
+VII. Atender las encomiendas de la jefatura del área, y
 
-XXI. Autorizar y establecer, a partir de la propuesta que las áreas técnicas, administrativas y financieras formulen, y con base en las leyes respectivas y las recomendaciones o lineamientos que expida el Congreso del Estado, directamente o por conducto de la Auditoría Superior de Michoacán, la política salarial del Municipio, que deberá guardar congruencia en la estructura orgánica autorizada y observar los principios de austeridad, racionalidad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad;
+VIII. Llevar el expediente jurídico de cada usuaria y realizar los reportes respectivos en el expediente único de la misma.
 
-XXII. Resolver previo concurso, en los términos convenientes para la comunidad y de conformidad con las disposiciones aplicables, los casos de concesión de servicios públicos de su competencia;
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XXIII. Establecer en las disposiciones reglamentarias correspondientes, las sanciones, multas o infracciones que procedan por la violación o incumplimiento de las disposiciones municipales;
+###### ARTÍCULO 42.
 
-XXIV. Implementar la mejora regulatoria en sus procesos administrativos regulándolos de conformidad con las prácticas reconocidas en la materia;
+El Reglamento de la presente Ley determinará el procedimiento de asesoría jurídica, debiendo contemplar que en todo caso se den a conocer a la usuaria, los conceptos de violencia familiar y tipos de violencia que definen, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí; el Código Penal del Estado de San Luis Potosí; así como lo relativo que estipula el Código Nacional de Procedimientos Penales, con la intención de que conozca la problemática como un delito; los derechos que tiene como víctima, así como el énfasis en la autodeterminación de las mismas en la decisión de las acciones que deban tomarse, para apoyar su empoderamiento; e igualmente determinará las causas de suspensión o conclusión del servicio.
 
-XXV. Contar con una Secretaría o Dirección de Obras Públicas, vigilando que la Directora o Director de Obras Públicas o su equivalente cumpla con el perfil idóneo y con los requisitos de ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles; ser profesionista en las áreas de arquitectura y/o ingenierías relacionados a la construcción, tener experiencia en alguna de ellas de cuando menos dos años; así como no haber sufrido condena por delito doloso; y,
+En caso de que se requiera llevar a cabo el trámite por la vía civil o familiar, se canalizará a la usuaria a la Defensoría Pública para su atención, o con alguna otra de las instituciones asociadas que brinden este servicio.
 
-XXVI. Crear las instancias municipales de las mujeres, con la finalidad de promover su desarrollo integral en aras de lograr su plena incorporación a la vida económica, política, cultural y social; así como, coadyuvar en la prevención y atención de la violencia contra las mujeres por razones de género, que deberán tener al menos el rango de Dirección de Atención a la Mujer, pudiendo ser una Secretaría o Instituto; que se encargará de atender todos los temas relacionados con las mujeres.
+### Capítulo VII. Del Trabajo Social
 
-Las instancias tendrán como Directora o Director a una persona que cuente con conocimientos en materia de perspectiva de género y derechos humanos. El Ayuntamiento deberá contar con personal jurídico y psicológico para brindar asesoría a las mujeres, víctimas de violencia y discriminación.
+###### ARTÍCULO 43.
 
-La Dirección deberá vincularse con las áreas municipales que estime necesario, mismas que deberán brindar todo el apoyo y prestar las facilidades para su funcionamiento.
+Corresponde al área de trabajo social del Centro la responsabilidad de atender, orientar y de canalizar en forma atingente y adecuada a las demás áreas, dependencias, instituciones y organizaciones colaboradoras del Centro, atendiendo a las necesidades específicas de la mujer víctima de violencia o usuaria y en su caso de sus menores hijos e hijas.
 
-El Ayuntamiento de acuerdo a su capacidad presupuestaria, deberá dotar a las Direcciones de Atención a la Mujer de un espacio físico, personal calificado y mobiliario indispensable para atender a quienes soliciten el apoyo; y deberá vigilar en todo momento, que la Dirección cumpla su función.
+###### ARTÍCULO 44.
 
-c).- En materia de Hacienda Pública:
+Para brindar la atención en el área de Trabajo Social, se considerará lo siguiente:
 
-I. Administrar libre y responsablemente su Hacienda de conformidad con las disposiciones aplicables;
+I. Se informará a la usuaria del principio de confidencialidad, así como de protección de datos personales y de los servicios que ofrece el Centro, clarificando las necesidades de la misma;
 
-II. Aprobar, en su caso, el proyecto de Ley de Ingresos que le presente la Tesorera o Tesorero Municipal;
+II. Se confirmará que la usuaria presenta una situación de violencia para continuar con la atención psicológica, legal o asistencial que se requiera dependiendo de sus necesidades y sus propias decisiones de elección, caso en el cual se deberá elaborar un plan de acción;
 
-III. Presentar al Congreso del Estado para su aprobación, en su caso, la Ley de Ingresos Municipal;
+III. Si las necesidades de la usuaria no son acordes con la competencia y atribuciones del Centro, se le deberá brindar la asesoría y se le canalizará a las instituciones competentes;
 
-IV. Aprobar, en su caso, el Presupuesto de Egresos que le presente la Tesorera o Tesorero Municipal y remitirlo al Congreso del Estado para la vigilancia de su ejercicio. Los Ayuntamientos deberán aprobar en los Presupuestos de Egresos las erogaciones plurianuales necesarias y suficientes para cubrir el pago de las obligaciones derivadas de los contratos de proyectos para prestación de servicios que hayan sido celebrados por entidades públicas municipales para la implementación de proyectos de infraestructura o servicios públicos de conformidad con lo previsto en la Ley de Asociaciones Público Privadas para el Estado de Michoacán de Ocampo, durante la vigencia de los mismos;
+IV. Se registrará a la usuaria con la Cédula Única de Registro, evaluando el nivel de riesgo considerando los indicadores que establezca el Reglamento, y se proyectará un plan de trabajo que defina el tipo de atención de acuerdo con las necesidades que deriven de la situación de la usuaria;
 
-V. Someter anualmente para examen y en su caso aprobación del Congreso del Estado, la Cuenta Pública Municipal, correspondiente al año anterior, de conformidad con las disposiciones aplicables;
+V. Si resultara necesario y la usuaria corre peligro, debe elaborarse un plan de seguridad personalizado, acorde con las necesidades, situación particular y características de la misma;
 
-VI. Formular y entregar al Ayuntamiento entrante los archivos, documentos y comprobantes de ingresos y egresos, el balance general, el estado de resultados del ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión, un informe detallado del patrimonio municipal y de los bienes que integran la Hacienda Municipal;
+VI. Cuando se detecte que existen lesiones, y que la usuaria no ha recibido atención en su estado de salud física, se le acompañará al área médica, previo el consentimiento de la misma;
 
-VII. Publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo los presupuestos de egresos, el Plan Municipal de Desarrollo, los reglamentos municipales, los bandos, las circulares y demás disposiciones administrativas de observancia general en el Municipio;
+VII. En los casos en que la mujer se presente con sus hijos o hijas menores de edad, si se detecta que los mismos requieren atención, se aplicará el Protocolo Específico de Atención a Niños, Niñas y Adolescentes del Centro o, en su defecto, se les canalizará para su atención a la Procuraduría de Protección de Niñas, Niños, Adolecentes (sic), la Mujer, la Familia y Adulto Mayor del DIF Estatal;
 
-VIII. Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el periódico de mayor circulación en el Municipio, el estado de origen y aplicación de los recursos públicos a su cargo;
+VIII. En el caso de que se detecte que la usuaria presenta alguna limitación intelectual o alguna enfermedad psiquiátrica, se requerirá que se encuentre presente un representante legal para llevar a cabo la entrevista. El caso deberá turnarse al área de Psicología del Centro a fin de que se valore si se atiende en el Centro o se le canaliza a otra institución que sea más apropiada según sea el caso;
 
-IX. Enviar una copia del Informe rendido ante la ciudadanía, a la o el Titular Poder Ejecutivo del Estado y al Poder Legislativo, dentro de los primeros quince días del mes de agosto de cada año, de las labores desarrolladas en el ejercicio;
+IX. En el caso de atención de adultas mayores que asistan sin familiares se contactará con los hijos para hacer de su conocimiento los hechos que denuncia la usuaria y de ser posible se buscará una solución con la misma familia en colaboración con el área de psicología, y
 
-X. Autorizar la contratación de créditos y en general, ejercer las facultades en materia de deuda pública de conformidad con esta Ley y demás disposiciones aplicables;
+X. Se deberá canalizar directamente al Refugio para Mujeres asociado al Centro, a las usuarias que así lo requieran una vez valorada su situación y el peligro que corren.
 
-XI. Autorizar la afectación, como fuente de pago, garantía o ambas, de las obligaciones a su cargo el derecho y/o los ingresos que le correspondan que sean susceptibles de afectación en términos de las disposiciones aplicables; y,
+###### ARTÍCULO 45.
 
-XII. Autorizar que el Municipio se adhiera a mecanismos de fuente de pago o garantía en los que participen otros Municipios, sujetándose para tales efectos a la autorización y lineamientos emitidos por el Congreso del Estado.
+El seguimiento de los casos de cada usuaria se llevará a cabo mediante visitas domiciliarias, vía telefónica o a través de la coordinación interinstitucional. En caso de abandono del trámite se da de baja la cédula de registro.
 
-d).- En materia de Desarrollo Social y Fomento Económico:
+Corresponde al área de trabajo social apoyar los trabajos de investigación del Centro con el trabajo de campo. Al efecto se trasladarán al lugar donde conocen el caso de mujeres en situación de violencia para hacer levantamiento de datos sobre su situación socioeconómica y llevar ayuda in situ.
 
-I. Fomentar la participación de la comunidad en los programas de obras y servicios públicos municipales;
+Durante las visitas de (sic) deberá considerar el enfoque intercultural en los lugares a los que acuden, y tratándose de comunidades indígenas deberán respetar usos, costumbres y sistemas normativos, dando aviso siempre a las autoridades indígenas del lugar sobre su presencia y sus actividades.
 
-II. Fomentar el desarrollo de la cultura, el deporte, las actividades recreativas de sano esparcimiento, el fortalecimiento de los valores históricos y cívicos de la población, así como el respeto y aprecio a los símbolos patrios;
+### Capítulo VIII. De la Atención Médica
 
-III. Coadyuvar al desarrollo de las actividades económicas que incidan en el mejoramiento de los niveles de vida de la población;
+###### ARTÍCULO 46.
 
-IV. Promover el desarrollo del campo en materia agropecuaria, participando en la coordinación de los programas federales, estatales y municipales que incidan en el sector y aprobando la asignación de recursos para fortalecer el funcionamiento y mantenimiento de las unidades de riego del Municipio;
+El área médica se encargará de brindar atención a la salud física proporcionando a las víctimas atención en sus posibles daños o lesiones físicas, que incluya apoyo y asistencia directa, información y canalizaciones a servicios externos para su complementación.
 
-V. Apoyar los programas de asistencia social;
+###### ARTÍCULO 47.
 
-VI. Conducir, supervisar y controlar el desarrollo urbano de las localidades, de conformidad con las disposiciones aplicables;
+El área médica estará integrada por una jefatura, una médica y una enfermera, quienes deberán ser del sexo femenino para cuidar la vulnerabilidad por la que atraviesan las mujeres que requieren los servicios del Centro, con el fin de no exponer de nuevo a la víctima y ponerla en riesgo de una doble victimización al enfrentarse a una auscultación en caso de así requerirlo.
 
-VII. Garantizar la participación social y comunitaria en la toma de decisiones colectivas, estableciendo medios institucionales de consulta sobre ejecución, control y supervisión de obras o prestación de los servicios públicos;
+El espacio físico deberá contar con una área de exploración privada, con sanitario y baño de regadera. Ser un espacio iluminado, limpio y ordenado pero cuidando que no se pierda la calidez del mismo y contar con el equipo médico necesario para atender urgencias no graves.
 
-VIII. Fomentar la prestación gratuita de servicios de colocación laboral o profesional para promover el mayor número de empleos entre las y los habitantes del Municipio;
+###### ARTÍCULO 48.
 
-IX. Promover, en el ámbito de su competencia, el mejoramiento cívico de sus habitantes;
+Corresponden a la Jefatura del Área Médica las siguientes funciones:
 
-X. Impulsar, asesorar, gestionar y apoyar a los inventores, artistas, creadores, intérpretes, artesanos, productores, emprendedores, empresarios y ciudadanía en general, para que logren proteger legalmente sus derechos de propiedad intelectual, tales como pueden ser: marcas, patentes, derechos de autoría, variedades vegetales, marcas colectivas, indicaciones geográficas, denominaciones de origen, entre otras figuras de propiedad intelectual en sentido amplio, de tal manera que sus titulares puedan hacer uso legal y adecuado de dichos derechos en favor de ellos mismos y del desarrollo económico de los Municipios y sus comunidades, en coordinación con las autoridades responsables del fomento económico;
+I. Llevar el Registro y expediente médico de las usuarias atendidas, respetando la confidencialidad y protección de datos personales de cada atención realizada para proveer a través de un sistema de reportes la información cuantitativa del estado de salud en que ingresan las mujeres que acuden al Centro;
 
-XI. Impulsar la realización de las actividades cívicas, culturales y deportivas que le correspondan;
+II. Asegurar el correcto funcionamiento de su área con una atención de calidad y calidez, con perspectiva de género en cada atención brindada;
 
-XII. Promover el desarrollo del Municipio, con la concurrencia participativa y responsabilidad social de los sectores público, privado y social que establezcan un sistema de bienestar social y desarrollo económico distributivo;
+III. Comprobar que su personal proporcione la atención médica de manera confidencial y gratuita a las usuarias que lo soliciten;
 
-XIII. Instrumentar y articular las políticas municipales en materia de protección de las mujeres para la prevención, atención y erradicación de la violencia por razones de género, en el marco del Subsistema Regional respectivo, conforme a lo establecido en la ley de la materia; y,
+IV. Mantener un directorio actualizado de la oferta médica institucional en los tres órdenes de gobierno, así como de las organizaciones de la sociedad civil que prestan servicios a la población en general para ser el enlace del Centro con las diversas instituciones públicas, privadas y sociales que ofrecen servicios médicos de primer, segundo y tercer nivel, a fin de que cuando sea necesario pueda gestionarse la atención médica de las usuarias víctimas de violencia;
 
-XIV. En general, las demás que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y los demás ordenamientos aplicables.
+V. Recibir capacitación, así como brindar capacitación y actualización sobre temas de género, derechos humanos, violencia, familias y salud reproductiva, entre otros temas, así como sobre las formas de atención médica a mujeres víctimas de violencia;
 
-e).- En materia de Cultura:
+VI. Participar en coordinación con las áreas de psicología y jurídica del Centro, con temas de salud y género en las pláticas y capacitaciones a los grupos de mujeres del Centro;
 
-I. Contar con la instancia responsable del diseño e implementación de políticas, programas y acciones necesarios para el desarrollo cultural del Municipio;
+VII. Supervisar y realizar observaciones a su equipo de trabajo de forma puntual y oportuna sobre las intervenciones con las usuarias;
 
-II. Elaborar el Diagnóstico Cultural Municipal, el catálogo de su patrimonio y el de sus principales manifestaciones culturales y artísticas, los cuales deberán estar contemplados en el Plan Municipal de Desarrollo;
+VIII. Evaluar constructiva y objetivamente de forma mensual la intervención del personal, a través del procedimiento establecido por la Coordinación General;
 
-III. Diseñar y desarrollar el Programa Municipal de Cultura en base a lo establecido en la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo;
+IX. Dar retroalimentación al personal de su área en relación a sus atenciones médicas, y
 
-IV. Promover el establecimiento y fortalecimiento de casas de cultura y centros culturales para el fomento del desarrollo cultural, alentando la participación social en las diversas actividades culturales;
+X. Las demás que le sean asignadas por la Coordinación General.
 
-V. Fomentar la investigación y difusión de las manifestaciones culturales en el Municipio a través de la instancia correspondiente;
+###### ARTÍCULO 49.
 
-VI. Impulsar y participar en el diseño e implementación de políticas, programas y acciones de promoción de la cultura y el arte, dentro de los lineamientos de la política cultural establecidos en la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo;
+La atención médica se brindará bajo los siguientes presupuestos:
 
-VII. Presentar propuestas ante la Secretaría de Cultura del Estado de Michoacán, para ser incorporados en el Sistema Estatal de Educación Artística;
+I. Deberá ser oportuna, de calidad idónea, profesional y éticamente responsable, de trato respetuoso y digno por parte de los profesionales, técnicos y auxiliares de la salud;
 
-VIII. Participar en la integración y funcionamiento de las Redes Regionales de Cultura;
+II. Se informará a la usuaria sobre el procedimiento que se va a llevar a cabo y en que consiste y siempre se le dará aviso antes de tocarla;
 
-IX. Promover convenios con los gobiernos Federal, Estatal y Municipal, así como con diversos organismos públicos, privados y sociales, con el fin de fortalecer las políticas, programas y acciones culturales en su Municipio;
+III. Se pedirá a la usuaria que de ser posible siempre algún familiar o persona de su confianza esté presente al momento de la revisión, a fin de que pueda sentirse segura y cómoda;
 
-X. Destinar presupuesto en materia de cultura, congruente con su Plan Municipal de Desarrollo y atendiendo las leyes en la materia;
+IV. Con apego a lo establecido en la Norma Oficial Mexicana 040 de la SSA, cuando se infiera o se tenga conocimiento de que la usuaria ha sido víctima de violencia sexual, deberá elaborarse el certificado médico de las lesiones y del estado de salud de la usuaria; si es el caso se tomarán, siempre con el consentimiento firmado de ésta, fotografías y muestras de material orgánico que puedan apoyar científicamente a la determinación o identificación del agresor, resguardándolas debidamente y conservándolas en el medio idóneo para poder ser presentadas como pruebas en caso de que la víctima decida interponer la denuncia correspondiente;
 
-XI. Impulsar las actividades turísticas y ecoturísticas, aprovechando de manera responsable y sustentable su patrimonio histórico, arquitectónico, artístico, natural, cultural y de las tradiciones del Municipio y sus comunidades; y,
+V. Con apego a lo establecido en la Norma Oficial Mexicana 040 de la SSA, cuando se trate de lesiones que le hayan sido inferidas a la paciente, se procederá a certificar la localización y estado de las mismas, igualmente se tomarán fotografías de éstas con el consentimiento de la víctima, para los efectos legales que procedan;
 
-XII. Las demás que señale la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo, así como otras disposiciones legales aplicables.
+VI. El personal de área deberá mantener el espacio en un ambiente privado donde la usuaria se sienta lo más cómoda posible con su situación;
 
-f).- En materia de Transparencia:
+VII. Se tomará registro de las lesiones si fuera el caso y se reportará la gravedad de las mismas a la jefatura del área o en su caso a la Coordinación General;
 
-I. Expedir los reglamentos y acuerdos pertinentes para el fortalecimiento de la práctica de la transparencia y la rendición de cuentas del Ayuntamiento y la Administración Pública Municipal centralizada y paramunicipal y el acceso de la población a la información pública;
+VIII. Se deberá dar tratamiento y seguimiento al estado de salud de las usuarias atendidas hasta su recuperación posible, y
 
-II. Impulsar, en el Presupuesto de Egresos del Municipio, de cada ejercicio fiscal, programas de inversión, adquisición y aplicación de tecnologías para facilitar la transparencia, la rendición de cuentas del Ayuntamiento y la Administración Pública Municipal centralizada y paramunicipal y el acceso de la población a la información pública;
+IX. Cuando resulte necesario se deberá canalizar a las usuarias a los servicios de salud, clínicas y hospitales que tengan convenio con el Centro a fin de que puedan recibir la atención médica que requieren, con el acompañamiento del personal del área médica o de trabajo social del Centro.
 
-III. Garantizar que el responsable de la Unidad de Transparencia tenga los conocimientos acreditables en las materias de acceso a la información pública, protección de datos personales y archivos, cuente con al menos dos años de experiencia en la materia de acceso a la información pública, protección de datos personales y archivos, que no haya sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado; y,
+### Capítulo IX. Del Apoyo para el Desarrollo Económico
 
-IV. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+###### ARTÍCULO 50.
 
-###### Artículo 41.
+El Centro brindará a las personas usuarias que así lo requieran, apoyo para su desarrollo económico a efecto de crear y fortalecer su autodeterminación financiera.
 
-La Policía Preventiva Municipal, estará al mando de la Presidenta o Presidente Municipal, en los términos de la reglamentación correspondiente y acatará las órdenes que la o el Gobernador del Estado le transmita, en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público, el Ejecutivo Federal tomará el mando de la fuerza pública donde este resida de forma habitual o transitoria.
+###### ARTÍCULO 51.
 
-La policía preventiva municipal coadyuvará con la guardia nacional conforme a las disposiciones constitucionales y leyes relativas en la materia.
+Corresponde a la Jefatura del área de Empoderamiento Económico:
 
-El Ayuntamiento podrá establecer convenios de colaboración con la Guardia Nacional para la realización de acciones en materia de seguridad pública con apego a la normatividad aplicable, dichos convenios deberán realizarse en coordinación con el Gobierno del Estado en los términos de lo dispuesto en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+I. Realizar las gestiones necesarias para dotar a las usuarias que así lo requieran de apoyos sociales, económicos o de empleo;
 
-###### Artículo 42.
+II. Estar en permanente contacto con las instituciones colaboradoras que integran la Red de Integración Laboral y con aquellas que manejan bolsa de trabajo;
 
-Corresponde al Congreso del Estado, declarar la desaparición de un Ayuntamiento o Concejo Municipal de conformidad con lo establecido en la fracción XIX del artículo 44 de la Constitución Política del Estado de Michoacán de Ocampo.
+III. Gestionar cursos para capacitar a las mujeres en oficios o para desarrollar habilidades;
 
-### CAPÍTULO XIV. DE LAS ATRIBUCIONES DE LAS REGIDORAS Y LOS REGIDORES
+IV. Gestionar y dar acompañamiento a las usuarias para la obtención del acceso a créditos o préstamos a tasas preferenciales o proyectos productivos para fomentar su autonomía;
 
-###### Artículo 43.
+V. Realizar las acciones tendentes a descubrir y desarrollar las habilidades y las potencialidades de las usuarias, orientándolas para iniciar acciones que contribuyan a lograr su autonomía financiera, y
 
-Son causas de desaparición de un Ayuntamiento en su caso:
-
-I. Incurrir en violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado de Michoacán de Ocampo;
-
-II. La ausencia de la mayoría de sus integrantes, tanto propietarios como suplentes, de manera que no pueda integrarse;
-
-III. La renuncia calificada por el Congreso del Estado de la mayoría de integrantes y que no pueda conformarse aun con las y los suplentes;
-
-IV. La declaratoria de procedencia emitida por el Congreso, en los términos de la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán, respecto de la mayoría de los integrantes y no pueda integrarse éste, aun con los suplentes;
-
-V. Por actos u omisiones de las y los integrantes del Ayuntamiento que provoquen una situación grave y permanente, que impida el ejercicio de las funciones del Ayuntamiento o Concejo Municipal, conforme al Orden Constitucional Federal o Local; y,
-
-VI. Todas las demás previstas en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo.
-
-###### Artículo 44.
-
-La solicitud para que el Congreso del Estado declare la desaparición de un Ayuntamiento podrá ser formulada por los integrantes del Municipio, el o la titular del Ejecutivo del Estado y el Congreso del Estado de conformidad con lo establecido en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán.
-
-###### Artículo 45.
-
-El procedimiento para decretar la desaparición de un Ayuntamiento, se sujetará a lo dispuesto por la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán.
-
-### CAPÍTULO XV. DE LA SECRETARÍA DEL AYUNTAMIENTO
-
-###### Artículo 46.
-
-En el caso de desaparición de un Ayuntamiento, el Congreso del Estado designará un Concejo Municipal, que funcionará hasta convocar a nuevas elecciones.
-
-Dichos concejos municipales, ejercerán las atribuciones que la Ley establece para los Ayuntamientos y se conformarán con igual número de integrantes, quienes deberán cumplir los requisitos de elegibilidad establecidos para las Regidoras y los Regidores.
-
-Para cubrir las faltas o ausencias temporales de alguno de los integrantes del Concejo Municipal, se aplicará en lo conducente, lo dispuesto por la presente Ley, para los miembros del Ayuntamiento.
-
-Cuando por cualquier causa alguno de los integrantes del Concejo Municipal, dejare de desempeñar su cargo, éste será ocupado por la o el su suplente; a falta de ambos, el Congreso del Estado, nombrará a quien deba ocuparlo, en todo caso, la persona designada, deberá cubrir los requisitos que para ser Regidora o Regidor establezca la Ley.
-
-###### Artículo 47.
-
-Las y los integrantes del Concejo Municipal designado, rendirán su protesta, en el lugar, día y hora que fije el Congreso del Estado, en los mismos términos que prevé esta Ley para la instalación del Ayuntamiento.
-
-###### Artículo 48.
-
-Para estudiar, examinar y resolver los problemas municipales y vigilar que se ajusten a las disposiciones y acuerdos del Ayuntamiento, se designarán comisiones colegiadas entre sus integrantes, las que se establecerán en el Bando de Gobierno Municipal.
-
-Las y los responsables de las comisiones serán nombrados por Acuerdo de Cabildo, conforme al perfil de sus integrantes y no se podrán asignar más de tres comisiones a cada Regidor.
-
-Las y los titulares de las Comisiones permanentes del Ayuntamiento podrán tener comunicación y solicitar información a los servidores públicos municipales responsables de las áreas de su vinculación. La Presidenta o Presidente Municipal instruirá a las o los servidores públicos municipales para entregar la información requerida. En caso de que un Regidor o Regidora requiera información de un área específica pero no pertenezca a la Comisión respectiva, deberá formular su petición directamente a la Presidenta o Presidente Municipal.
-
-Las y los responsables de las distintas áreas de la administración pública municipal estarán obligados a rendir un informe de actividades en forma trimestral a la Comisión del Ayuntamiento que corresponda.
-
-###### Artículo 49.
-
-Las comisiones propondrán al Ayuntamiento, los proyectos de solución a los problemas de su conocimiento, a efecto de atender todas las ramas de la Administración Municipal; y deberán reunirse al menos una vez al mes de forma ordinaria.
-
-Además, podrán citar a comparecencia a las y los Secretarios, Directores y Jefes de Área cuando lo crean pertinente y de conformidad con la reglamentación respectiva.
-
-Los Ayuntamientos deberán establecer en su reglamentación municipal los criterios generales para la convocatoria y funcionamiento especifico de cada una de las Comisiones.
-
-### CAPÍTULO XVI. DE LA TESORERÍA MUNICIPAL
-
-###### Artículo 50.
-
-Las Comisiones Municipales deberán ser entre otras:
-
-I. De Gobernación, Seguridad Pública, Protección Civil y Participación Ciudadana, que será presidida por la Presidenta o Presidente Municipal;
-
-II. De Hacienda, Financiamiento y Patrimonio Municipal, que será presidida por la Síndica o el Síndico Municipal;
-
-III. De Desarrollo Económico, Comercio y Trabajo;
-
-IV. De Educación, Cultura, Turismo, Ciencia, Tecnología e Innovación;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
-
-V. De Derechos Humanos y Grupos en Situación de Vulnerabilidad;
-
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
-
-VI. De la Mujer;
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
-
-VII. De la Protección de los Derechos de las Niñas, Niños y Adolescentes;
-
-VIII. De Salud, Desarrollo Social, Juventud y Deporte;
-
-IX. De Medio Ambiente, Protección Animal y Desarrollo Rural;
-
-X. De Desarrollo Urbano y Obras Públicas;
-
-XI. De Acceso a la Información Pública, Transparencia y Protección de Datos Personales;
-
-XII. De Planeación, Programación y Desarrollo Sustentable;
-
-XIII. De Asuntos Indígenas, en donde existan pueblos y comunidades indígenas;
-
-XIV. De Asuntos Migratorios, donde se requiera; y,
-
-XV. Las demás que, en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de las dos terceras partes de los integrantes del Cabildo, se determinen, al inicio de una administración.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
-
-###### Artículo 51.
-
-La Comisión de Gobernación, Seguridad Pública, Protección Civil y Participación Ciudadana, tendrá las siguientes atribuciones:
-
-I. Vigilar el cumplimiento de la normatividad que integra el Sistema Jurídico Mexicano;
-
-II. Fomentar el civismo y los sentimientos patrios entre la población;
-
-III. Promover la capacitación permanente de los empleados municipales, con la finalidad de eficientar la prestación de los servicios públicos;
-
-IV. Coadyuvar con las autoridades competentes municipales y de los demás niveles de gobierno, a preservar la seguridad pública, el orden y la paz social en el Municipio;
-
-V. Supervisar la prestación del servicio social que se efectúe en la Administración Pública Municipal;
-
-VI. Atender todo lo relacionado con los mecanismos de participación ciudadana que se desarrollen en el Municipio;
-
-VII. Vigilar el cumplimiento de las disposiciones en materia de Protección Civil, que le corresponda observar al Ayuntamiento;
-
-VIII. Establecer, en su caso, en coordinación con las autoridades federales y estatales, las disposiciones o mecanismos de Protección Civil necesarios ante las eventualidades que deba accionarse;
-
-IX. Elaborar y presentar al Ayuntamiento, para su aprobación, en su caso, las iniciativas de reglamentos de su competencia;
-
-X. Buscar mecanismos de consulta a los Pueblos Originarios, en términos de la Ley de la materia, para que sean tomados en cuenta en la elaboración del Plan Municipal de Desarrollo, y en su caso incorporar las recomendaciones y propuestas que ellos realicen; y,
-
-XI. Las demás que le señale la Ley y demás disposiciones aplicables.
+VI. Ser el enlace del Centro con las instituciones colaboradoras que puedan apoyar el desarrollo económico de las usuarias, a través de programas asistenciales de carácter temporal o de acceso al autoempleo o la generación de proyectos productivos.
 
 ## TÍTULO QUINTO. DE LAS INSTITUCIONES ASOCIADAS AL CENTRO
 
-### CAPÍTULO XVII. DE LA CONTRALORÍA MUNICIPAL
+### Capítulo I. Generalidades
 
-###### Artículo 52.
+###### ARTÍCULO 52.
 
-La Comisión de Hacienda, Financiamiento y Patrimonio Municipal, tendrá las siguientes atribuciones:
+El Centro funcionará fundamentalmente con la colaboración de las instituciones gubernamentales, que conforme a su competencia, objeto y atribuciones prestan servicios de diversa naturaleza a las mujeres en el Estado, integrando su representación y servicios en las instalaciones del Centro, así como con la de organizaciones de la sociedad civil, que mediante convenio celebrado con el Centro, integren su representación dentro de las instalaciones del mismo.
 
-I. Vigilar, en el ámbito de su competencia, lo relacionado con los ingresos y egresos municipales; y con el patrimonio municipal tanto en sus bienes muebles e inmuebles así como su uso y destino;
+###### ARTÍCULO 53.
 
-II. Presentar los proyectos de Ley de Ingresos, Presupuesto de Egresos y demás disposiciones municipales en la materia, para aprobación del Ayuntamiento;
+Las dependencias, entidades e instituciones que determina la presente Ley, deberán comisionar para tal fin o al personal que sea necesario, o en su defecto de manera externa, siempre bajo los principios de perspectiva de género, de derechos humanos y de interés superior de la infancia, y conforme al modelo, procedimientos y métodos utilizados por el Centro para ofrecer a las mujeres víctimas de violencia y a sus menores hijos e hijas una atención personalizada que considera sus condiciones específicas, que sea integral, multidiciplinaria (sic), transversal, y con acompañamiento y seguimiento hasta su solución completa, para lograr abatir trámites y tiempos de atención, y lograr finalmente su acceso a la justicia y al empoderamiento personal que le permitan rediseñar su vida libre de violencia y decidir por sí misma.
 
-III. Instruir a la Tesorería Municipal la publicación de lo que en términos de la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo debe;
+###### ARTÍCULO 54.
 
-IV. Dar opinión en todo lo relacionado a los proyectos que se planteen para contraer obligaciones a corto o largo plazo;
+Las representaciones de las diversas dependencias, entidades, instituciones y organizaciones asociadas al Centro, sea que colaboren in situ o de manera externa, además de presentar los reportes e informes de trabajo a aquella de la que dependan orgánicamente, deberán presentarlos igualmente a la Coordinación del Centro, dentro de los primeros días de cada mes, a fin de que sea ésta la que aglutine la información del total de los servicios y atenciones que de manera integral se brinde a las usuarias.
 
-V. Vigilar el cumplimiento de las disposiciones hacendarias competencia del Ayuntamiento;
+###### ARTÍCULO 55.
 
-VI. Refrendar, en su caso, los informes que sobre estados financieros le presente la Tesorería Municipal al Ayuntamiento;
+Las instituciones participantes podrán ser:
 
-VII. Establecer y supervisar el cumplimiento de las disposiciones sobre conservación y mantenimiento de los bienes Municipales;
+I. De participación interna: los que se ubiquen dentro del espacio físico del Centro, con roles específicos, sujetos a la normatividad y presupuesto propios de la institución de origen, pero comprometidos con los principios, misión, visión y objeto del Centro; asumiendo responsabilidades compartidas, cooperación, y coordinación, y dispuestos a formar parte de una institución que brinda a las mujeres víctimas de violencia todos los servicios necesarios, bajo un mismo techo;
 
-VIII. Promover la organización y funcionamiento de los inventarios sobre bienes Municipales;
+II. De participación externa: las que prestan apoyos complementarios fuera de las instalaciones del Centro, logrando con ello que las mujeres víctimas de violencia obtengan una atención integral de amplio alcance, con servicios hospitalarios, facilidades de vivienda, refugio, custodia y guarda temporal de menores, reeducación en masculinidad, y en general empoderamiento, y
 
-IX. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia;
+III. De participación mixta: Con presencia dentro y fuera del Centro.
 
-X. Vigilar y promover la implementación de las políticas de mejora regulatoria de conformidad con la legislación en la materia; y,
+### Capítulo II. Centro de Atención Integral a Víctimas
 
-XI. Las demás que señale esta Ley u otras disposiciones aplicables.
+###### ARTÍCULO 56.
 
-###### Artículo 53.
+La Comisión Ejecutiva Estatal de Atención a Víctimas dispondrá una representación del Centro de Atención Integral a Víctimas, en el Centro de Justicia para las Mujeres, comisionando al efecto al personal que resulte necesario.
 
-La Comisión de Desarrollo Económico, Comercio y Trabajo; tendrá las siguientes atribuciones:
+###### ARTÍCULO 57.
 
-I. Organizar y ejecutar los diagnósticos necesarios para conocer y difundir las potencialidades y fortalezas productivas, económicas, laborales y sociales del Municipio y facilitar su aprovechamiento a corto, mediano y largo plazo;
+Corresponde a la representación del CAIV:
 
-II. Elaborar los proyectos de los programas sectoriales, para las dependencias, entidades y unidades administrativas municipales y someterlos a consideración del Ayuntamiento;
+I. La atención a usuarias que conforme a la ley tengan condición de víctimas;
 
-III. Integrar y someter a consideración del Ayuntamiento, los proyectos de inversión que permitan racionalizar el aprovechamiento de los recursos y la generación de nuevas fuentes de ocupación y de riqueza en el Municipio, privilegiando que el crecimiento económico sea compatible con la protección al ambiente;
+II. El apoyo, canalización y acompañamientos ante autoridades para que la víctima ejerza su derecho de coadyuvante o parte del proceso penal o civil hasta la reparación del daño;
 
-IV. Coadyuvar en el desarrollo económico, social y laboral del municipio;
+III. La asesoría jurídica de mujeres víctimas;
 
-V. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia;
+IV. La asesoría psicológica de primer nivel, y
 
-VI. Supervisar, en su competencia, el cumplimiento de las disposiciones administrativas, jurídicas y constitucionales en materia laboral; y,
+V. El desarrollo de las acciones que establece la Ley de Víctimas del Estado, para hacer válidos sus derechos.
 
-VII. Las demás que le señale esta Ley u otras disposiciones aplicables.
+### Capítulo III. De la Comisión Estatal de Derechos Humanos
 
-###### Artículo 54.
+###### ARTÍCULO 58.
 
-La Comisión de Educación, Cultura, Turismo, Ciencia, Tecnología e Innovación, tendrá las siguientes atribuciones:
+La Comisión Estatal de Derechos Humanos, designará una representación en el Centro, a la que corresponderá:
 
-I. Coadyuvar con los diversos órdenes de gobierno en el cumplimiento de las disposiciones en materia de Educación, Cultura, Turismo, Ciencia, Tecnología e Innovación;
+I. Brindar orientación, atención e instauración de procedimientos de queja a mujeres víctimas de violencia que hayan sido vulneradas en sus derechos humanos, y
 
-II. Vigilar que las autoridades en materia educativa garanticen e incrementen los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación inicial, la educación preescolar, la educación básica, la educación media superior y la capacitación productiva; buscando un sistema de becas para estudiantes que pertenezcan a pueblos originarios en todos los niveles;
+II. Dar difusión de los derechos humanos de las mujeres y apoyo en las campañas de erradicación de la violencia contra las mujeres.
 
-III. Implementar programas y campañas dirigidas a prevenir y disuadir, en el ámbito de su competencia, el ausentismo y la deserción escolar y el ausentismo magisterial;
+### Capítulo IV. Consejo Estatal de Población
 
-IV. Participar en el diseño, implementación y seguimiento del Programa Municipal de Cultura; sustentado en los lineamientos de la política cultural establecidos en la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo;
+###### ARTÍCULO 59.
 
-V. Participar en las Redes Regionales de Cultura y en el Sistema Estatal de Educación Artística;
+Corresponde al Consejo Estatal de Población, como asociado externo del Centro:
 
-VI. Impulsar la participación social en la construcción, desarrollo y conservación de los centros educativos y culturales;
+I. La colaboración en los temas de difusión de políticas de transversalización de la perspectiva de género;
 
-VII. Establecer y aplicar una política de difusión y promoción de los atractivos turísticos del Municipio;
+II. La colaboración en el tema de mujeres víctimas de trata, y
 
-VIII. Coadyuvar en el desarrollo de centros turísticos municipales;
+III. El apoyo en la generación de estudios y datos estadísticos en torno a la violencia contra las mujeres.
 
-IX. Participar en el diseño del Plan Municipal de Desarrollo en los rubros de Educación, Cultura, Turismo; Ciencia, Tecnología e Innovación;
+### Capítulo V. Defensoría Pública
 
-X. Fomentar el establecimiento y operación de centros educativos, culturales y turísticos de esparcimiento público;
+###### ARTÍCULO 60.
 
-XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia;
+La Defensoría Pública adscribirá defensoras al Centro, conforme a las necesidades del servicio.
 
-XII. Promover todas las acciones necesarias para impulsar el desarrollo de la Ciencia, Tecnología e Innovación en el Municipio;
+###### ARTÍCULO 61.
 
-XIII. Promover la capacitación permanente de las empleadas y los empleados municipales, con la finalidad de eficientar la prestación de los servicios públicos; y,
+Corresponde a la Defensoría Pública el desarrollo de las siguientes funciones:
 
-XIV. Las demás que le señale esta Ley u otras disposiciones aplicables.
+I. Prestar orientación y asesoría jurídica a usuarias del Centro;
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+II. Gestionar las órdenes de protección y medidas cautelares que corresponda;
 
-Artículo 54 bis. La Comisión de Derechos Humanos y Grupos en Situación de Vulnerabilidad, tendrá las siguientes funciones:
+III. Brindar asistencia jurídica en asuntos de violencia familiar a las usuarias, y
 
-I. Vigilar, fomentar y coordinar que los empleados y funcionarios municipales respeten los derechos humanos, durante su ejercicio, incluida la discriminación motivada por origen étnico o nacional, sexo, género, edad, discapacidades, condición social, condiciones de salud, religión, diversidad de opiniones, orientación sexual, identidad y/o expresiones de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+IV. Tramitar los divorcios derivados de violencia.
 
-II. Coordinar en conjunto y mediante consulta con la sociedad civil organizada de adultos mayores, así como personas con discapacidad a través de las asociaciones u organizaciones que los representan, pueden ser estos locales o regionales y en su caso de sus familiares o cuidadores, así como de las personas parte de la diversidad sexual, identidad de género, la generación de políticas públicas, programas y acciones en beneficio de los mismos, incorporándose en los planes de desarrollo municipal y en la construcción y ejecución del presupuesto municipal;
+###### ARTÍCULO 62.
 
-III. Recibir y dar vista a la Comisión Estatal de Derechos Humanos de las quejas que por discriminación, negación de los servicios públicos o violación de sus derechos por parte de funcionarios y empleados municipales sean objeto los ciudadanos, así como de aquellas facultades que le confiera la legislación vigente en la materia de protección, fomento y vigilancia de los Derechos Humanos, acorde a lo dispuesto por el párrafo tercero del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos;
+Por acuerdo con el Centro, la representación de la Defensoría Pública, podrá hacerse cargo del área jurídica del mismo, e incorporar a ésta a las representaciones de las instancias asociadas que brinden servicios jurídicos.
 
-IV. Fomentar la generación y aplicación de mecanismos que permitan el acceso de los jóvenes, adultos mayores, integrantes de los pueblos originarios, personas integrantes de la diversidad sexual y las personas migrantes, en términos de la normatividad aplicable, a los beneficios de los programas municipales y estatales que les apliquen, sin distinción o discriminación;
+### Capítulo VI. Instituto de las Mujeres del Estado
 
-V. Fomentar la aplicación de programas que faciliten la incorporación de las personas en situación de vulnerabilidad a la actividad productiva;
+###### ARTÍCULO 63.
 
-VI. Promover las acciones necesarias para mejorar el nivel de vida de las personas, así como sus condiciones sociales y culturales;
+El Instituto de las Mujeres del Estado, integrará una representación en el Centro, a la que corresponderá el desarrollo de las siguientes acciones:
 
-VII. Fomentar la tolerancia, la armonía social, el respeto a la diversidad y la cultura de la paz entre los habitantes del municipio, en aras de lograr el respeto a los derechos humanos;
+I. Apoyo psicológico, en la modalidad individual y con grupos de autoayuda;
 
-VIII. Promover la incorporación de los jóvenes, integrantes de la diversidad sexual, adultos mayores y los habitantes de los pueblos originarios, en el desarrollo de los proyectos productivos, acciones afirmativas, el acceso a la salud, el acceso presupuestario mediante el otorgamiento de estímulos económicos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+II. Asesoría jurídica ante cualquier institución para proteger los derechos e integridad personal de las usuarias, así como la de sus hijas e hijos;
 
-IX. Establecer mecanismos de participación conjunta con la dependencia estatal de atención al migrante y sus familias, para una mejor coordinación en la atención de los grupos del sector;
+III. Servicios sociales y económicos para mujeres;
 
-X. Vincularse con la Comisión Estatal de los Derechos Humanos, el Consejo Estatal para Prevenir y Eliminar la Discriminación y la Violencia del Estado de Michoacán y la Comisión Ejecutiva Estatal de Atención a Víctimas, con la finalidad de brindar y dar acompañamiento a las víctimas, la defensa de los derechos humanos de las personas que viven o transitan por el municipio;
+IV. Difusión de material informativo e impartición de cursos sobre violencia de género y Derechos Humanos a personas usuarias y al personal, así como la reeducación de agresores;
 
-XI. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de los pueblos originarios que cuentan con población originaria, reconociendo el derecho a la «auto adscripción», con el propósito de fortalecer las economías locales y mejorar las condiciones de seguridad y de vida de sus pueblos, mediante las acciones coordinadas entre los tres niveles de gobierno y con la participación de las comunidades indígenas; y,
+V. Generación y manejo de estadísticas sobre las personas beneficiadas y el tipo de servicio brindado;
 
-XII. Las demás que le señale esta Ley u otras disposiciones aplicables.
+VI. Seguimiento a las personas usuarias que no regresan al Centro, y
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+VII. Formación de monitoras comunitarias.
 
-###### Artículo 55.
+En los municipios en los que el Centro cuente con instalaciones, las instancias municipales dedicadas a la atención a mujeres, podrán mediante Convenio que al efecto celebre el Centro con el Ayuntamiento correspondiente, instalar su representación en el Centro, en cuyo caso les corresponderá el desarrollo de las acciones que establece este artículo.
 
-La Comisión de la Mujer, tendrá las siguientes funciones:
+### Capítulo VII. Instituto para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado
 
-I. Promover la planeación del desarrollo municipal con perspectiva de género, bajo los principios de igualdad sustantiva y equidad;
+###### ARTÍCULO 64.
 
-II. Fomentar la generación y aplicación de mecanismos que permitan el acceso de las mujeres, en términos de su normatividad, a los beneficios de los programas municipales y estatales que les apliquen, sin distinción o discriminación;
+Corresponde al Instituto para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado, como asociado externo del Centro:
 
-III. Gestionar a petición de parte ante las dependencias y entidades municipales, los apoyos que soliciten las mujeres, ya sea individualmente o a través de organizaciones y asociaciones;
+I. La colaboración para el cumplimiento de los propósitos de enfoque intercultural de las políticas dirigidas a mujeres víctimas de violencia;
 
-IV. Impulsar que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte dirigido a las mujeres;
+II. El apoyo en la traducción a lenguas indígenas de materiales dirigidos a las mujeres en las comunidades indígenas;
 
-V. Fomentar la tolerancia, la armonía social y la cultura de la paz entre los habitantes del municipio a efecto de fortalecer el respeto y defensa de los derechos humanos de las mujeres;
+III. El apoyo en la apertura de espacios en la radio indígena para tratar temas relacionados con la violencia de género y los derechos de las mujeres;
 
-VI. Buscar las medidas de apoyo a la nutrición para las madres en lactancia y población infantil;
+IV. El apoyo de traductores para las mujeres que los requieran en la realización de trámites ante instancias de procuración e impartición de justicia o la obtención de otros servicios, y
 
-VII. Promover la incorporación de las mujeres al desarrollo mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos económicos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+V. El desarrollo de acciones y programas dirigidos a mujeres adolescentes y jóvenes víctimas de violencia.
 
-VIII. Coadyuvar con la instancia municipal de la mujer para brindar atención y asesoría jurídica, laboral, psicológica, emocional, nutricional, médica-ginecológica, dental a las mujeres que así lo requieran y a las víctimas de violencia;
+### Capítulo VIII. Instituto Potosino de la Juventud
 
-IX. Coadyuvar de manera interinstitucional con las direcciones del municipio de manera coordinada a fin de establecer programas de educación tendientes a erradicar las diferentes expresiones de violencia de género, fomentando una cultura de paz y respeto a los derechos humanos; y,
+###### ARTÍCULO 65.
 
-X. Las demás que le señale esta Ley u otras disposiciones aplicables.
+Al Instituto Potosino de la Juventud le corresponde como asociado externo del Centro, el desarrollo de acciones y programas dirigidos a mujeres adolescentes y jóvenes víctimas de violencia, y la canalización de éstas a sus diversos programas, según se requiera.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+### Capítulo IX. Secretaría de Desarrollo Económico; Secretaría de Desarrollo Social y Regional; Secretaría de (sic) Trabajo y Previsión Social; y SIFIDE
 
-Artículo 55 bis. La Comisión para la Protección de los Derechos de las Niñas, Niños y Adolescentes tendrá las siguientes atribuciones:
+###### ARTÍCULO 66.
 
-I. Promover que la planeación del desarrollo municipal, procure siempre la Protección de los Derechos de las Niñas, Niños y Adolescentes;
+La (sic) secretarías de, Desarrollo Económico; Desarrollo Social y Regional; y del Trabajo y Previsión Social, y el Sistema de Financiamiento para el Desarrollo del Estado, deberán incorporar de forma coordinada al Centro una representación, a la que corresponderá:
 
-II. Impulsar acciones, en favor de los Derechos de las Niñas, Niños y Adolescentes para que tengan un sano desarrollo, con respeto, tolerancia, inclusión e igualdad,
+I. Brindar a las usuarias apoyos sociales, económicos o de empleo;
 
-III. Garantizar que las acciones y programas municipales brinden amplia protección de los derechos humanos en favor (sic) los Derechos de las Niñas, Niños y Adolescentes;
+II. Llevar a cabo la administración de bolsa de trabajo;
 
-IV. Impulsar las estrategias y propuestas necesarias para que sean incluidas en la planeación del desarrollo municipal y se establezca una política de fomento, desarrollo y promoción de actividades jurídicas y culturales que permitan a los habitantes la sensibilización de los Derechos de las Niñas, Niños y Adolescentes;
+III. Organizar cursos para capacitar a las mujeres en oficios, o para desarrollar habilidades;
 
-V. Coadyuvar con las instancias y áreas competentes en la implementación, diseño y aplicación de una política pública con perspectiva de derechos humanos de la infancia y adolescencia en los órganos, entidades, mecanismos, instancias, leyes, normas, políticas, servicios y presupuestos, del Ayuntamiento, para que se respete, promueva, proteja, restituya y restablecer los derechos de las Niñas, Niños y Adolescentes;
+IV. Tramitar el acceso a créditos o préstamos a tasas preferenciales para fomentar la autonomía de las mujeres usuarias;
 
-VI. Coadyuvar con las diferentes dependencias estatales y municipales que tengan como fin la protección integral de los derechos de las Niñas, Niños y Adolescentes, para que se les brinde atención y asesoría a las niñas, niños y adolescentes en situación de vulnerabilidad; y,
+V. Instrumentar la orientación, capacitación y apoyo a proyectos productivos de las usuarias, y
 
-VII. Las demás que le señale esta Ley u otras disposiciones aplicables.
+VI. Las demás que contribuyan al empoderamiento económico de las mujeres.
 
-### CAPÍTULO XVIII. DE AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+###### ARTÍCULO 67.
 
-###### Artículo 81.
+Por acuerdo con el Centro, la representación de las secretarías antes señaladas, podrá hacerse cargo del área de Desarrollo Económico del mismo.
 
-La administración municipal, se auxiliará de las Jefas o Jefes de Tenencia y Encargadas o Encargados del Orden en sus respectivas demarcaciones territoriales, para el mejor cumplimiento de sus funciones. Estos últimos aplicarán solo para aquellas demarcaciones urbanas o rurales en las que no haya Tenencia, ambos dependerán jerárquicamente en lo político y administrativo de la Presidenta o Presidente Municipal.
+### Capítulo X. Secretaría de Educación del Gobierno del Estado
 
-Los cabildos reconocerán las Jefaturas de Tenencia y determinarán el número de Encargaturas del Orden en que será dividido el territorio municipal respectivo.
+###### ARTÍCULO 68.
 
-###### Artículo 82.
+La Secretaría de Educación del Gobierno del Estado, deberá integrar una representación en el Centro, a la que corresponderá el desarrollo de las siguientes acciones:
 
-Las Jefas o Jefes de Tenencia funcionarán en sus respectivas demarcaciones como auxiliares de la administración pública municipal y tendrán las siguientes funciones:
+I. Organizar y encargarse responsablemente del área de atención infantil del Centro y de la atención de las menores hijas e hijos de las usuarias durante su estancia en el Centro, en tanto que sus madres sean atendidas, debiendo contar para ello con el material didáctico y lúdico que sea necesario, el cual deberá ser proporcionado por el Centro;
 
-I. Representar al municipio en la demarcación territorial que les corresponda en los términos que la reglamentación municipal respectivas lo establezca.
+II. Impartir clases multigrados para niñas/niños y acreditación de los cursos;
 
-II. Participar de forma directa con derecho a voz y voto en los Concejos Municipales;
+III. Apoyar en lo académico en la realización de las tareas escolares a niñas y niños;
 
-III. Organizar e instrumentar el Presupuesto Participativo en su demarcación de conformidad con la legislación correspondiente y la normatividad que establezca el municipio, y que será del total de la recaudación que por concepto del impuesto predial se obtenga en la Tenencia respectiva;
+IV. Detectar a los hijos e hijas que necesiten atención especializada y canalizarlos a la unidad correspondiente;
 
-IV. Coadyuvar en las acciones de seguridad pública y prevención del delito en su demarcación que implementen las autoridades competentes en términos de lo dispuesto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+V. Asumir el manejo responsable del área de atención infantil mientras las mamás reciben servicios múltiples;
 
-V. Coadyuvar en la ejecución de los programas, proyectos y acciones que realice el Ayuntamiento, en el ámbito territorial de su competencia;
+VI. Apoyar a las usuarias para el cambio de plantel escolar de sus menores hijas e hijos en caso de ser necesario, y
 
-VI. Comunicar oportunamente a las autoridades competentes, de cualquier alteración que adviertan en el orden público y protección civil, así como informar sobre las medidas que hayan tomado para prevenirlas, en el entendido de que, de ser necesario, la Presidenta o Presidente Municipal podrá delegar a la Jefa o Jefe de Tenencia la coordinación y actuación que corresponda, a excepción de la seguridad pública municipal;
+VII. Elaborar de (sic) material didáctico sobre violencia de género.
 
-VII. Supervisar la prestación de los servicios públicos y proponer las medidas necesarias a la Presidenta o Presidente Municipal, para mejorar y ampliarlos;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-VIII. Cumplir y ejecutar los acuerdos, órdenes y citatorios del Ayuntamiento, de la Presidenta o Presidente Municipal y de la Síndica o Síndico;
+### Capítulo XI. Secretaría de Seguridad y Protección Ciudadana
 
-IX. Implementar medidas conciliatorias que tengan por objeto resolver conflictos menores que se susciten entre los pobladores de su demarcación;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-X. Solicitar a las instancias correspondientes del Poder Judicial del Estado, el reconocimiento e instalación de Juzgados Comunales en comunidades indígenas y/o Jefaturas de Tenencia cuyas condiciones sociales, demográficas, geográficas e históricas lo ameriten;
+###### ARTÍCULO 69.
 
-XI. Coadyuvar en la preservación de las zonas de reserva ecológica, territorial, áreas naturales protegidas y equipamiento urbano; informando oportunamente a las autoridades competentes de cualquier actividad que las afecte;
+La Secretaría de Seguridad y Protección Ciudadana, deberá adscribir al Centro a los agentes que se requieran, quienes además de las funciones que les corresponden como miembros de los cuerpos de seguridad pública, deberán estar preparados para atender sus funciones con perspectiva de género y de derechos humanos, y atenderán las funciones específicas que se señalan a continuación:
 
-XII. Informar y coadyuvar con las autoridades de protección civil sobre incendios, desastres naturales, epidemias o cualquier otro evento que ponga en riesgo la seguridad de la población y el medio ambiente;
+I. Realizar los rondines de seguridad del Interior y exterior del Centro;
 
-XIII. Promover entre las o los pobladores de su demarcación medidas que fomenten el desarrollo sustentable y la protección ecológica;
+II. Llevar el registro de las entradas y salidas del Centro;
 
-XIV. Informar anualmente al Ayuntamiento sobre el estado general que guarde la administración de la Tenencia y del avance del Plan Municipal de Desarrollo en su jurisdicción, un mes antes de la fecha límite para la presentación del informe anual de la Presidenta o Presidente Municipal;
+III. Estar atentos y asegurar la integridad de las usuarias/os y del personal que labora en el Centro;
 
-XV. Participar en las sesiones del Cabildo convocadas de forma ex profesa para tratar los asuntos de las tenencias con derecho a voz, que deberán ser al menos dos veces al año de forma ordinaria o de forma extraordinaria cuando haya algún asunto que así lo amerite; debiendo recibir la información sobre los asuntos que se tratarán en la Tenencia;
+IV. Supervisar todas las medidas de seguridad como chapas, candados, puertas y alarmas;
 
-XVI. Organizar las asambleas ciudadanas en las que serán electas las Encargadas o los Encargados del Orden; y,
+V. Permanecer en enlace y contar con el Directorio de con (sic) los cuerpos de seguridad, de protección civil y de emergencias, y
 
-XVII. Desempeñar todas las demás funciones que les encomienden esta Ley, los reglamentos municipales y demás disposiciones aplicables.
+VI. Las demás que le asigne la Coordinación General o la Dirección Administrativa relacionadas con la naturaleza de su encomienda.
 
-###### Artículo 83.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-A propuesta de la Jefatura de Tenencia respectiva, la Presidenta o Presidente Municipal designará una Secretaria o Secretario Administrativo en cada Tenencia para apoyar las actividades de la Jefatura de Tenencia y tendrán las siguientes funciones:
+###### ARTÍCULO 70.
 
-I. Fomentar la participación ciudadana en los programas de beneficio social;
+Corresponde además de lo señalado en el artículo inmediato anterior, a la Secretaría de Seguridad y Protección Ciudadana:
 
-II. Organizar, operar y actualizar el archivo administrativo e histórico de la Tenencia;
+I. Atender los reportes de auxilio a policías con protocolos de actuación;
 
-III. Elaborar las certificaciones sobre actos y resoluciones de competencia de la Tenencia, debiendo recabar la firma de la Jefa o Jefe de Tenencia;
+II. Dar la atención a llamadas de auxilio en casos de violencia contra las mujeres, por el personal de los Centros de Control, que cuente con capacitación en materia de perspectiva de género para evitar la revictimización de las usuarias;
 
-IV. Coadyuvar en la elaboración de los informes administrativos anuales para presentar al Ayuntamiento;
+III. Operar la vinculación con el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres, para coadyuvar con las investigaciones de las instituciones correspondientes, y
 
-V. Elaborar los certificados para acreditar la insolvencia en los casos de inhumación y supervisar, en el ámbito de su competencia, que se cumplan las disposiciones relativas al Registro Civil, debiendo recabar la firma de la Jefa o Jefe de Tenencia;
+IV. Proporcionar seguridad al personal y a las personas usuarias del Centro procurando que el personal asignado a las funciones de seguridad del Centro, pueda mantener en lo posible su estabilidad laboral en el mismo, con el propósito de favorecer el incremento de la confianza de las usuarias del mismo, sintiéndose al llegar a él, protegidas/os en un ambiente seguro y confortable.
 
-VI. Cumplir y ejecutar los acuerdos, órdenes y citatorios del Jefe de Tenencia, del Ayuntamiento, de la Presidenta o Presidente Municipal, de la Síndica o Síndico o de las Juezas o Jueces Municipales; y,
+### Capítulo XII. Secretaría de Salud y Servicios de Salud en el Estado
 
-VII. Las que determinen esta Ley, el Bando de Gobierno Municipal, los reglamentos municipales y las demás disposiciones aplicables.
+###### ARTÍCULO 71.
 
-Para el adecuado desempeño de sus funciones, la Secretaria o Secretario de la Tenencia, además de ser mayor de edad, deberá como mínimo contar con la formación básica.
+La Secretaría de Salud y los Servicios de Salud en el Estado, deberán adscribir al Centro a cuando menos una médica y una enfermera, quienes brindarán los siguientes servicios a las usuarias:
 
-###### Artículo 84.
+I. Cuidados y curaciones médicas;
 
-Las Jefas o Jefes de Tenencia se elegirán mediante votación, libre, directa y secreta, sancionada por una comisión electa por el Ayuntamiento, integrada por siete ciudadanos, con voz y voto, que se encuentren inscritos en el listado nominal de electores del Instituto Nacional Electoral, residentes en la Tenencia de la elección respectiva y un Secretario Técnico, que contará con voz pero sin voto que actuará como fedatario.
+II. Aplicación de exámenes para detectar enfermedades tales como Papanicolaou o mamografía, pudiendo remitir a las usuarias a los Centros de Salud que brinden este servicio;
 
-La convocatoria para elegir a las Jefas o Jefes de Tenencia de cada municipio será expedida por el Ayuntamiento previa aprobación del Cabildo, que podrá solicitar el auxilio del Instituto Electoral del Estado de Michoacán, cuando así lo requiera, la convocatoria deberá emitirse dentro de los 90 días naturales posteriores a la instalación del mismo.
+III. Servicios de anticoncepción general para mujeres y contracepción de emergencia para víctimas de abuso sexual y quimioprofilaxis para la prevención de infecciones de transmisión sexual;
 
-La elección se llevará a cabo 30 días después de emitida la convocatoria y a más tardar dentro de los 120 días posteriores a la instalación del Ayuntamiento. Las Jefas o Jefes de Tenencia serán electos por el mismo periodo que el Ayuntamiento en funciones, pudiendo ser reelectas o reelectos por única vez para el periodo inmediato posterior.
+IV. Orientación y apoyo para el trámite del Seguro Popular para personas usuarias e hijas/os, y
 
-Para ser Jefa o Jefe de Tenencia se requiere ser mayor de edad, vecino de la respectiva circunscripción, tener un modo honesto de vivir y saber leer y escribir.
+V. Aplicación de la norma oficial NOM 046-SSA2-2005 Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención.
 
-Se requerirá credencial para votar expedida por el Instituto Nacional Electoral que corresponda con la sección en la que se está sufragando.
+###### ARTÍCULO 72.
 
-###### Artículo 85.
+Mediante acuerdo que se celebre con el Centro, el personal comisionado por la Secretaría de Salud y los Servicios de Salud en el Estado, podrán hacerse cargo del área médica del mismo y cumplir además de las funciones que señala el artículo anterior, las que determina el artículo 48 de la presente Ley.
 
-Tratándose de comunidades indígenas, que constituyan una Tenencia o Encargatura del Orden y estén reconocidas por el Instituto Nacional de Pueblos Indígenas, se podrá recurrir a formas de elección según usos y costumbres.
+### Capítulo XIII. Sistema para el Desarrollo Integral de la Familia del Estado
 
-###### Artículo 86.
+###### ARTÍCULO 73.
 
-En aquellas comunidades que pertenezcan territorial y administrativamente a la Jefatura de Tenencia se designará a una Encargada o Encargado del Orden, quien auxiliará a la Jefa o Jefe de Tenencia en sus funciones y en su ausencia a la Administración Pública Municipal, en su respectiva demarcación territorial.
+El DIF Estatal integrará al Centro una representación, a la que corresponde:
 
-La Encargada o Encargado del Orden será electa o electo en una asamblea ciudadana en la que participarán las ciudadanas o ciudadanos que estén inscritos en la lista nominal de electores de la comunidad respectiva.
+I. Brindar asistencia psicológica a niñas y niños hijas e hijos de las Usuarias del Centro que sean víctimas de delitos;
 
-Para ser Encargada o Encargado del Orden se requiere ser mayor de edad, vecina o vecino de la respectiva circunscripción, tener un modo honesto de vivir y contar con una instrucción de por lo menos educación básica, el Ayuntamiento expedirá la convocatoria respectiva, según su reglamentación municipal.
+II. Tramitar la custodia de niñas y niños hijas e hijos de usuarias, cuando así resulte necesario, y
 
-###### Artículo 87.
+III. Brindar cuidados asistenciales a la usuaria y en su caso a su familia cuando sea necesario.
 
-La Jefas o Jefes de Tenencia, las Encargadas o Encargados del Orden y las Secretarias o Secretarios Administrativos recibirán la remuneración que marque el Presupuesto de Egresos y se pagará directamente por la Tesorería Municipal.
+###### ARTÍCULO 74.
 
-###### Artículo 56.
+En los municipios en los que el Centro cuente con instalaciones, el DIF Municipal, podrá mediante Convenio que al efecto celebre el Centro con el Ayuntamiento correspondiente, instalar su representación en el mismo, en cuyo caso le corresponderá el desarrollo de las acciones que establece el artículo 73 de esta Ley.
 
-La Comisión de Salud, Desarrollo Social, Juventud y Deporte, tendrá las siguientes funciones:
+### Capítulo XIV. Organizaciones de la Sociedad Civil
 
-I. Coadyuvar con las autoridades de los diversos niveles de gobierno en la ejecución de los programas de salud, higiene y asistencia social que deban aplicarse en el Municipio;
+###### ARTÍCULO 75.
 
-II. Establecer y aplicar en coordinación con las autoridades competentes los programas de salud pública;
+Las organizaciones de la Sociedad Civil que se asocien al Centro, podrán prestar los siguientes servicios:
 
-III. Promover la integración y aplicación de programas de asistencia social, especialmente a favor de los habitantes de las zonas marginadas de la municipalidad;
+I. Operación de refugios o canalización a refugios de las usuarias del Centro que así lo requieran;
 
-IV. Integrar una política municipal de combate al alcoholismo, la drogadicción, la prostitución y toda actividad que deteriore la dignidad de la persona humana;
+II. Coadyuvancia y representación jurídica gratuita de las mujeres usuarias;
 
-V. Vigilar la aplicación de los reglamentos de sanidad e higiene en los centros de trabajo;
+III. Tratamiento psicológico especializado para mujeres usuarias;
 
-VI. Supervisar el cumplimiento de las disposiciones sanitarias en los panteones municipales y privados;
+IV. Capacitación en perspectiva de género y derechos humanos a personas usuarias y funcionarias/os, y
 
-VII. Coadyuvar con las autoridades competentes, en la supervisión de los estándares de potabilidad y sanidad del agua para el consumo humano;
+V. Supervisión del manejo de servicios y de la transparencia del Centro.
 
-VIII. Vigilar el cumplimiento de las disposiciones municipales para la conservación de manantiales, pozos, aljibes, acueductos y otras obras que sirvan para el abastecimiento de agua para la población;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2024)</small>
 
-IX. Vigilar que el funcionamiento de los rastros municipales se realice conforme a las disposiciones sanitarias aplicables;
+### Capítulo XV. Fiscalía General del Estado
 
-X. Fomentar que la exposición, conservación y venta de alimentos al público se ajuste a las disposiciones sanitarias aplicables;
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XI. Atender los temas relacionados con la atención de las personas en situación de calle por las diversas dependencias de la Administración Pública Municipal;
+###### ARTÍCULO 76.
 
-XII. Fomentar la aplicación de programas que faciliten la incorporación de los jóvenes a la actividad productiva;
+El Fiscal General del Estado, deberá asignar al Centro, una Agente Fiscal, quien realizará sus funciones con base en lo dispuesto en, el Código Nacional de Procedimientos Penales; la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, y en su caso, el Código Penal, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia; la Ley de Prevención y Atención a la Violencia Familiar, estos tres últimos ordenamientos, del Estado de San Luis Potosí; y demás leyes que resulten aplicables.
 
-XIII. Promover las acciones necesarias para mejorar el nivel de vida de la juventud, así como sus expectativas sociales y culturales;
+###### ARTÍCULO 77.
 
-XIV. Impulsar que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte en todos sus géneros y modalidades;
+La Agente del Ministerio Público adscrita al Centro, además de las atribuciones que le otorgan las leyes, deberá atender a las usuarias bajo las siguientes consideraciones:
 
-XV. Fomentar el mejoramiento físico-intelectual de los habitantes a través del deporte;
+I. Las recibirá personalmente y recibirá la denuncia que la misma desee presentar, tratándola en todo tiempo con calidez y respeto;
 
-XVI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia;
+II. Deberá informar a la usuaria sobre el procedimiento a seguir y sobre lo que se requiere de ella para integrar la investigación y aportar las pruebas conducentes;
 
-XVII. Trabajar de forma coordinada con la instancia municipal especializada de atención a la juventud o sus equivalentes, que le corresponda. Así como, ser un posible conducto, para presentar asuntos y proyectos al Cabildo, en materia de jóvenes;
+III. Deberá evitar conciliar, mediar, carear o entrevistar a la víctima de violencia con el agresor, sin su consentimiento y sin que ésta se encuentre debidamente preparada o empoderada para hacerlo, o si su seguridad personal se encuentra en riesgo; si ello fuera indispensable o inevitable para la continuación de los procedimientos, o sea requerida su presencia por citación judicial, deberá procurar que se encuentre acompañada por personal del área jurídica, de trabajo social o psicología del Centro, por personal de seguridad pública si fuera necesario para su protección, así como por personas de su confianza;
 
-XVIII. Vigilar y coadyuvar con las medidas de prevención epidemiológicas establecidas por las autoridades sanitarias; y,
+IV. En los casos en que proceda, deberá promover las medidas de protección ante el juez u otorgarlas, conforme a las leyes vigentes, para salvaguardar la integridad de las mujeres usuarias víctimas de violencia, y la de sus hijas e hijos;
 
-XIX. Las demás que le señale esta Ley u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
-###### Artículo 57.
+V. Además de los reportes e informes que deba realizar a la Fiscalía General del Estado, deberá entregar a la Coordinación General del Centro, la información cuantitativa sobre las usuarias atendidas e informar sobre los avances cualitativos de los procedimientos iniciados, a fin de que dicha información se agregue a las estadísticas de atención del Centro, y
 
-La Comisión de Medio Ambiente, Protección Animal y Desarrollo Rural, tendrá las siguientes atribuciones:
+VI. Cuando de la denuncia presentada se infiera que la usuaria o víctima de violencia se encuentra en situación de riesgo, con su consentimiento y a través del área de trabajo social del Centro, hará las gestiones necesarias para que la misma y en su caso sus hijas e hijos menores sean ingresados al albergue temporal o a un Refugio según se requiera.
 
-I. Promover e inducir inversiones en infraestructura ambiental encaminadas a favorecer el desarrollo sustentable y sostenible del Municipio;
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
 
-II. Coadyuvar con las autoridades competentes en la preservación del derecho de toda persona a disfrutar de un ambiente sano;
+###### ARTÍCULO 78.
 
-III. Promover, en el ámbito de su competencia, la preservación y la restauración del equilibrio ecológico y la protección al ambiente y a los recursos naturales;
+La Fiscalía General del Estado brindará además en los casos en que sea necesario, la realización de dictámenes médico-legista por medio de personal de sexo femenino.
 
-IV. Fomentar la prevención de la contaminación de aguas que el municipio tenga asignadas o concesionadas;
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 2021)</small>
 
-V. Supervisar el cumplimiento de las disposiciones sobre residuos sólidos, aguas residuales, drenaje, alcantarillado y saneamiento;
+### Capítulo XVI. Poder Judicial del Estado
 
-VI. Establecer las medidas para evitar la emisión de contaminantes a la atmósfera;
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2021)</small>
 
-VII. Proponer al Ayuntamiento la protección de zonas o áreas verdes consideradas vitales para la estabilidad ambiental del municipio, decretándolas como zonas protegidas en términos de la Ley de la materia;
+###### ARTÍCULO 79.
 
-VIII. Regular, vigilar e implementar las acciones que, conforme a sus competencias, correspondan al Ayuntamiento en materia de protección de los animales conforme a lo establecido por la ley de la materia;
+El Poder Judicial del Estado integrará al Centro, cuando menos un Juzgado Familiar, el que además de las atribuciones que prevé la Ley Orgánica del Poder Judicial del Estado de San Luis Potosí, tendrá las siguientes:
 
-IX. Impulsar programas y políticas públicas que tengan como objetivo la protección, respeto y cuidado de los animales;
+I. Expedir las órdenes de protección cautelares a las que alude el artículo 41 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí;
 
-X. Promover acuerdos interinstitucionales para la creación municipal de centros de atención en materia de protección, bienestar y adopción de los animales;
+II. Conocer y resolver respecto de los asuntos relativos a los alimentos; guarda y custodia; y en su caso, de conclusión, transmisión, pérdida, o suspensión de la patria potestad;
 
-XI. Fomentar la organización de los productores agrícolas, pecuarios, ganaderos y acuícolas con la finalidad de que solventen en mejores circunstancias su problemática común;
+III. Conocer respeto de los asuntos relativos a divorcios, y disolución de concubinatos, y
 
-XII. Participar en la organización y funcionamiento de los Concejos Municipales de Desarrollo Rural;
-
-XIII. Opinar sobre la integración y aplicación del Programa Municipal de Desarrollo Rural;
-
-XIV. Coadyuvar con los Gobiernos Federal y Estatal en la ejecución de los programas municipales en la materia de su competencia; verificar el exacto cumplimiento de las normas y disposiciones que promuevan el desarrollo agropecuario en el municipio;
-
-XV. Fomentar la conservación, generación y aprovechamiento de los recursos pesqueros en la circunscripción municipal;
-
-XVI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-XVII. Las demás que le señale esta Ley u otras disposiciones aplicables.
-
-### CAPÍTULO XIX. DE LAS UNIDADES MUNICIPALES DE DESARROLLO INTEGRAL DE LA FAMILIA
-
-###### Artículo 88.
-
-En cada Municipio funcionará una unidad administrativa o entidad encargada del Desarrollo Integral de la Familia, que contará con un Patronato que coadyuve en sus funciones y oriente las acciones y programas de la unidad o entidad, la cual promoverá el bienestar social y cuyos objetivos serán:
-
-I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida de las personas y de la sociedad en general;
-
-II. Apoyar a las mujeres gestantes solteras primerizas que estén en situación de vulnerabilidad a través de programas que le permitan tener una red de apoyo durante su embarazo y los primeros seis meses;
-
-III. Realizar estudios e investigaciones sobre los problemas: de la familia, de las niñas, niños y adolescentes, de las y los adultos mayores, de las personas con discapacidad, proponer alternativas de solución y en su caso aplicarlas;
-
-IV. Proporcionar servicios sociales a las niñas, niños y adolescentes en estado de abandono, a las personas con discapacidad sin recursos y a las y los adultos mayores desamparados;
-
-V. Coadyuvar en el fomento de la educación para la integración social a través de la enseñanza preescolar y extraescolar;
-
-VI. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a las y los menores infractores con la Ley, las y los adultos mayores, las personas con discapacidad y fármaco dependientes;
-
-VII. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, dirigidas a las y los lactantes, las madres gestantes y población socialmente desprotegida;
-
-VIII. Promover el desarrollo de la comunidad en territorio municipal;
-
-IX. Prestar servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes, a las y los adultos mayores y las personas con discapacidad, sin recursos;
-
-X. Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Estado; en los términos de la ley y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que los afecten de acuerdo a la ley;
-
-XI. Fomentar el sano crecimiento físico y mental de la niñez, la orientación crítica de la población hacia una conciencia cívica y propiciar la recreación, el deporte y la cultura;
-
-XII. Procurar permanentemente la adecuación de los objetivos y programas del sistema municipal a los que lleve a cabo el sistema Estatal a través de acuerdos y/o convenios, encaminados a la orientación del bienestar social;
-
-XIII. Procurar y promover la coordinación con otras instituciones afines, cuyo objetivo sea la obtención del bienestar social;
-
-XIV. Procurar la promoción, asistencia y apoyo a la planificación familiar a través de campañas de información en materia de salud sexual y reproductiva, así como promover mecanismos para el acceso a servicios en esta materia; y,
-
-XV. Los demás que les confieran las leyes.
-
-Lo anterior apoyado con programas de formación, organización y capacitación a los sujetos sociales, orientados a erradicar paulatinamente el asistencialismo y el paternalismo.
-
-###### Artículo 89.
-
-Las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, podrán ser áreas de la administración pública centralizada, o entidades administrativas descentralizadas con un nivel estructural no superior de Director de Área, el cual se regirá por el reglamento que para ello expida el Ayuntamiento o la junta de gobierno correspondiente.
-
-###### Artículo 90.
-
-Tratándose de órganos centralizados, la o el titular de las unidades administrativas o entidades encargadas de la Dirección del Desarrollo Integral de la Familia en los municipios, será designado por la mayoría de las y los integrantes del Cabildo, de entre la propuesta presentada por la Junta de Gobierno del Patronato previamente electa por el Cabildo según el reglamento municipal respectivo, la cual deberá estar integrada al menos por la Presidenta o Presidente Municipal, la Síndica o Síndico, la Secretaria o Secretario, la Tesorera o Tesorero y la Contralora o Contralor bajo los siguientes lineamientos:
-
-I. No podrá ser familiar directo, consanguíneo o civil, hasta en segundo grado, de los miembros del Cabildo del Ayuntamiento en funciones; y,
-
-II. Recibirá la remuneración económica que marque el presupuesto de egresos, el que no será superior con los de la administración centralizada.
-
-Podrá establecerse u otorgarse el cargo de Presidenta o Presidente del Patronato del DIF, a familiares directos, consanguíneos o civiles, de las y los integrantes del Cabildo del Ayuntamiento en funciones. El cargo será honorífico, sin remuneración. La duración del cargo será la misma que la del Ayuntamiento que otorga la designación.
-
-###### Artículo 91.
-
-Tratándose de organismos descentralizados, el titular del mismo, será designado directamente por la mayoría de los integrantes de la Junta de Gobierno.
-
-###### Artículo 92.
-
-Las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, podrán ser entidades administrativas descentralizadas con un nivel estructural no superior de Director de Área, el cual se regirá por el reglamento que para ello expida el Ayuntamiento a propuesta de la Junta de Gobierno del Patronato.
-
-###### Artículo 93.
-
-Para el eficaz cumplimiento de sus objetivos, las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, celebrarán los convenios necesarios de coordinación con las instituciones análogas en el ámbito Federal, Estatal y Municipal, en base al reglamento interno del Ayuntamiento o de la Entidad.
-
-###### Artículo 58.
-
-La Comisión de Desarrollo Urbano y Obras Públicas, tendrá las siguientes atribuciones:
-
-I. Coadyuvar al cumplimiento de las disposiciones que, en materia de desarrollo urbano y asentamientos humanos, corresponden al Municipio;
-
-II. Promover la prestación puntual, oportuna y eficiente de los servicios públicos municipales, de conformidad con las disposiciones aplicables;
-
-III. Participar en la formulación y aplicación del Plan de Desarrollo Urbano Municipal;
-
-IV. Opinar sobre la declaración de usos, destinos y provisiones del suelo urbano en la jurisdicción municipal;
-
-V. Fomentar el cuidado y la conservación de los monumentos públicos;
-
-VI. Supervisar la conservación, rehabilitación y mejoramiento de los panteones, mercados, jardines y parques públicos;
-
-VII. Proponer la actualización de la nomenclatura de las calles, plazas, jardines y espacios públicos;
-
-VIII Impulsar la satisfacción de los requerimientos sociales sobre pavimentación, embanquetado, nivelación y apertura de calles, plazas y jardines; así como la conservación de las vías de comunicación municipales;
-
-IX. Opinar sobre la ejecución de la obra pública municipal;
-
-X. Vigilar el mantenimiento de los equipos y maquinaria destinada a la prestación de los servicios públicos;
-
-XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-XII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-### CAPÍTULO XX. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
-
-###### Artículo 94.
-
-Para efectos de esta Ley, se considera servicio público toda prestación que tenga por objeto satisfacer necesidades públicas, y que es realizado por la administración pública o por particulares mediante concesión otorgada por la autoridad competente.
-
-Para los municipios deberá ser prioridad la creación, recuperación mantenimiento y defensa de los espacios públicos, componentes fundamentales de la convivencia, la expresión ciudadana y la cohesión social.
-
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
-
-Artículo 94 bis. Los espacios públicos municipales destinados a actividades de desarrollo de la comunidad y de desarrollo humano, recreación, capacitación, actividades artísticas, culturales, deportivas o de esparcimiento, se regirán conforme a lo siguiente:
-
-I. Su operatividad es responsabilidad del Ayuntamiento;
-
-II. Su operatividad conlleva:
-
-a) Desarrollo, conservación y mantenimiento de las áreas verdes;
-
-b) Limpia y recolección de basura;
-
-c) Conservación y mantenimiento de la infraestructura e instalaciones;
-
-d) Disponibilidad de agua potable, así como para riego y drenaje;
-
-e) Instalación, conservación y reparación de alumbrado público;
-
-f) Seguridad, vigilancia, protección civil, primeros auxilios y prevención de riesgos; y,
-
-g) Las demás que requieran los espacios públicos para cumplir su fin social.
-
-III. Aquellos espacios públicos que no estén bajo la responsabilidad o vigilancia de una instancia municipal específica, quedarán bajo el cuidado de un equipo ciudadano encargado, conformado por tres vecinos de la colonia donde se encuentre el espacio público de que se trate, nombrados directamente por el Presidente Municipal;
-
-IV. El Ayuntamiento publicará un catálogo actualizado de los espacios públicos que se encuentren en operación dentro de su municipio que contenga información relativa a su ubicación, las actividades que se pueden desempeñar en ellos y la instancia municipal o equipo ciudadano encargado directamente del cuidado de cada uno de ellos;
-
-V. El Ayuntamiento asegurará la operatividad de los espacios públicos a través de las diferentes áreas municipales, en coordinación con la instancia municipal a cargo directo del cuidado del espacio público de que se trate o con el equipo ciudadano encargado, según corresponda;
-
-VI. Por ningún motivo podrán ser usados con fines de lucro;
-
-VII. En el caso de talleres, cursos, clases y cualquier otra actividad que allí se ofrezca, o en caso de que el espacio requiera mantenimiento constante de infraestructura e instalaciones, el Ayuntamiento asumirá los costos de éstos; y,
-
-VIII. El Ayuntamiento será en todo momento responsable de la operatividad y deberá expedir el reglamento de espacios públicos conforme a las normas oficiales mexicanas, mismo que contendrá al menos sus reglas de uso y horarios.
-
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
-
-Artículo 94 ter. El nombramiento de los vecinos encargados se regirá conforme a lo siguiente:
-
-I. En ningún caso el nombramiento de vecinos encargados deslinda al Ayuntamiento de su responsabilidad de garantizar la operatividad de los espacios públicos;
-
-II. El Presidente Municipal expedirá el nombramiento de los vecinos encargados con nombre completo, las funciones a cumplir, la fecha en que inicia dichas funciones, el espacio público que quedará a su cargo y si se trata de un cargo honorífico o remunerado, conforme a la fracción IV de este artículo;
-
-III. Cuando un ciudadano encargado sea removido por el Presidente Municipal, en el mismo acto nombrará a quien lo sustituya;
-
-IV. La función de vecino encargado será honorífica, salvo en los casos en que el espacio requiera vigilancia constante, caso en el cual podrá ser remunerado;
-
-V. Para ser ciudadano encargado se requiere:
-
-a) Residir en la colonia donde se ubique el espacio de que se trate;
-
-b) Tener al menos 18 años; y,
-
-c) No ser servidor público del municipio o autoridad auxiliar del mismo.
-
-VI. Los ciudadanos encargados tendrán las siguientes funciones:
-
-a) Vigilar que se haga un adecuado uso de las instalaciones;
-
-b) Informar al Presidente Municipal, por escrito, cualquier situación o necesidad relativa a su buena operación;
-
-c) Vigilar el buen estado, limpieza y mantenimiento de las instalaciones, y en su caso, solicitar al Ayuntamiento su intervención para tal fin;
-
-d) En su caso, tener bajo su resguardo las llaves de acceso, así como abrir y cerrar el lugar conforme los horarios establecidos por el Ayuntamiento;
-
-e) En su caso, recibir del Ayuntamiento boletaje sellado y contra recibos para el control del acceso y llevar el registro de la afluencia diaria, informar al Ayuntamiento y a la comunidad usuaria la afluencia;
-
-f) Solicitar el auxilio de seguridad pública cuando sea necesario para garantizar el uso adecuado del espacio; y,
-
-g) Organizar a los vecinos para que coadyuven en el buen estado del espacio público.
-
-###### Artículo 95.
-
-La Presidenta o Presidente Municipal y las dependencias, entidades y unidades administrativas competentes, supervisarán que la prestación de los servicios públicos municipales se realice con eficiencia, calidad y puntualidad.
-
-###### Artículo 96.
-
-Los Ayuntamientos del Estado prestarán los siguientes servicios públicos:
-
-I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
-
-II. Alumbrado público;
-
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos;
-
-IV. Mercados y centrales de abastos;
-
-V. Panteones;
-
-VI. Rastro;
-
-VII. Calles, parques y jardines y su equipamiento;
-
-VIII. Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IX. Policía preventiva municipal y tránsito;
-
-X. Los demás que determine el Congreso del Estado, según las condiciones territoriales y socioeconómicas del Municipio, así como su capacidad administrativa y financiera; y,
-
-XI. Las demás que se determinen conforme a esta Ley y otras disposiciones aplicables.
-
-El Gobierno del Estado, podrá asumir una función o la prestación de un servicio público municipal a través de la celebración del convenio respectivo o en su caso el Congreso del Estado, previa solicitud del Ayuntamiento aprobada cuando menos por las dos terceras partes de sus integrantes, declarará que éste se encuentra imposibilitado y resolverá procedente la asunción.
-
-###### Artículo 97.
-
-La o el Titular del Poder Ejecutivo Federal ejercerá el mando de la fuerza pública en los lugares en donde resida habitual o transitoriamente.
-
-###### Artículo 98.
-
-Sin perjuicio de que se presten los servicios públicos a través de las dependencias, entidades y unidades administrativas municipales, los Ayuntamientos podrán prestarlos a través de particulares mediante el otorgamiento de concesiones.
-
-###### Artículo 99.
-
-Para los efectos del artículo anterior, con base en las políticas, estrategias y prioridades establecidas en los programas municipales de desarrollo urbano de los centros de población y en los relativos a los servicios públicos, el Ayuntamiento podrá acordar para la conveniencia de la comunidad, la concesión de determinados servicios públicos.
-
-No podrán ser objeto de concesión los servicios de seguridad pública, policía preventiva y tránsito.
-
-###### Artículo 100.
-
-Con base en el Acuerdo del Ayuntamiento a que se refiere el artículo anterior, se emitirá una convocatoria, suscrita por la Presidenta o el Presidente Municipal y la Secretaria o Secretario del Ayuntamiento, que deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en uno de los periódicos de mayor circulación en el Municipio y en el Tablero de Avisos del Palacio Municipal.
-
-###### Artículo 101.
-
-La convocatoria deberá contener:
-
-I. La referencia del Acuerdo correspondiente del Ayuntamiento;
-
-II. El señalamiento del centro de población o de la región donde se requiera el servicio público que se pretenda concesionar;
-
-III. La autoridad municipal ante quien debe presentarse la solicitud;
-
-IV. La fecha límite para la presentación de la solicitud y los documentos necesarios; y,
-
-V. Los demás requisitos que deben cumplir los interesados.
-
-###### Artículo 102.
-
-No tienen derecho a solicitar la concesión de servicios públicos, las personas físicas o morales en cuyas empresas participe algún integrante del Ayuntamiento o sus cónyuges, o sus parientes consanguíneos o por afinidad hasta el segundo grado, sea como accionistas, administradores o gerentes. Tampoco tienen este derecho, las personas físicas o morales que por cualquier causa estén legalmente impedidos para ello.
-
-###### Artículo 103.
-
-Los Ayuntamientos proporcionarán a los interesados, previo el pago de los derechos correspondientes ante la Tesorería Municipal, la información que resulte necesaria respecto a las condiciones en que debe prestarse el servicio público cuya concesión pretenda otorgarse.
-
-###### Artículo 104.
-
-Concluido el período de recepción de solicitudes, los Ayuntamientos en base a los dictámenes técnicos, financieros, legales y administrativos, emitirán la resolución correspondiente dentro del término de treinta días hábiles.
-
-En dicha resolución se determinará quien reúne las condiciones técnicas, financieras, legales y administrativas otorgándosele la titularidad de la concesión a quien presente las mejores condiciones de rentabilidad para el Municipio.
-
-Esta resolución se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### Artículo 105.
-
-Emitida la resolución a que se refiere el artículo anterior, el Ayuntamiento por conducto de la Presidenta o Presidente Municipal, expedirá el documento que acredite la concesión.
-
-###### Artículo 106.
-
-La concesión de servicios públicos se otorgará por tiempo determinado.
-
-El período de su vigencia será fijado por los Ayuntamientos y podrá ser prorrogado, de conformidad con las disposiciones aplicables.
-
-La concesionaria o concesionario, previamente a la prestación del servicio público debe tramitar y obtener de las autoridades dictámenes, permisos, licencia y demás autorizaciones que se requieran.
-
-###### Artículo 107.
-
-Las concesionarias y concesionarios tienen las siguientes obligaciones:
-
-I. Cubrir a la Tesorería Municipal, la participación que sobre las concesiones le corresponda al Municipio, así como los derechos determinados por las disposiciones de la materia;
-
-II. Prestar el servicio público concesionado, atendiendo a las políticas y prioridades del Plan Municipal de Desarrollo, con sujeción a las disposiciones legales que correspondan;
-
-III. Prestar el servicio público, sujetándose estrictamente a los términos de la concesión y disponer del equipo, del personal y de las instalaciones suficientes, para atender adecuadamente las demandas del servicio;
-
-IV. Conservar en óptimas condiciones las obras e instalaciones y el equipo destinado al servicio concesionado, así como hacer las renovaciones y modernizaciones para su prestación conforme a los adelantos técnicos;
-
-V. Contratar los seguros contra riesgos, accidentes y siniestros en general, sobre personal, usuarias y usuarios, equipo e instalaciones;
-
-VI. Cumplir con los horarios establecidos por el Ayuntamiento para la prestación del servicio público;
-
-VII. Exhibir en lugar visible, en forma permanente, las tarifas o cuotas autorizadas por el Ayuntamiento y sujetarse a las mismas para el cobro del servicio concesionado;
-
-VIII. Otorgar garantías a favor del Ayuntamiento, a efecto de asegurar el cumplimiento de sus obligaciones. La clase, el monto y las condiciones de la garantía serán fijadas por el Ayuntamiento, atendiendo a la naturaleza del servicio público concesionado;
-
-IX. Realizar las obras e instalaciones que se requieran para prestar el servicio público, previa la autorización del Ayuntamiento de los estudios y proyectos respectivos.
-
-La ejecución de dichas obras e instalaciones, así como la reconstrucción de los mismos, se llevarán a cabo bajo la supervisión técnica del Ayuntamiento;
-
-X. Custodiar adecuadamente los bienes destinados al servicio público, cuando se extinga la concesión, hasta que el Ayuntamiento tome posesión real de las mismas; y,
-
-XI. Los demás que establezca el Ayuntamiento, esta Ley, los reglamentos municipales y las demás disposiciones aplicables.
-
-###### Artículo 108.
-
-La concesionaria o concesionario no podrá iniciar la prestación del servicio público, sino después de emitido un dictamen técnico favorable por el Ayuntamiento, sobre las condiciones de equipo y de las instalaciones.
-
-La concesionaria o concesionario estará obligado a iniciar la prestación del servicio público dentro de un plazo de treinta días naturales, contados a partir de la fecha en que el Ayuntamiento le notifique la aprobación aludida en el artículo anterior.
-
-###### Artículo 109.
-
-Los Ayuntamientos, en el caso de las concesiones de servicios públicos tendrán las siguientes atribuciones:
-
-I. Vigilar el cumplimiento de las obligaciones de la concesionaria o concesionario y realizar, respecto de las concesiones, las modificaciones que estime convenientes;
-
-II. Dictar las resoluciones de terminación de la concesión, de conformidad con las disposiciones aplicables; y,
-
-III. Ocupar temporalmente el servicio público e intervenir en su administración, en los casos en que la concesionaria o concesionario no lo preste eficazmente o se niegue a seguir prestándolo, para lo cual podrá utilizar, en su caso, la fuerza pública.
-
-###### Artículo 110.
-
-Las concesiones de los servicios públicos terminarán por cualquiera de las siguientes causas:
-
-I. Revocación;
-
-II. Cumplimiento del plazo; y,
-
-III. Cualquiera otra prevista en el documento en el que se haga constar la concesión.
-
-###### Artículo 111.
-
-Las concesiones de servicios públicos podrán ser revocadas por cualquiera de las siguientes causas:
-
-I. Cuando se interrumpa, en todo o en parte, el servicio público concesionado, sin causa justificada a juicio del Ayuntamiento, o sin previa autorización por escrito del mismo;
-
-II. Porque se ceda, hipoteque, enajene o de cualquier manera se grave la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o destinados de servicios públicos, sin la previa autorización por escrito del Ayuntamiento;
-
-III. Porque se modifique o se altere sustancialmente la naturaleza o condición en que se preste el servicio, las instalaciones o su ubicación, sin previa autorización por escrito del Ayuntamiento;
-
-IV. Por dejar de pagar oportunamente las participaciones o los derechos que se hayan fijado en favor del Ayuntamiento, por el otorgamiento de la concesión y refrendo anual de la misma;
-
-V. Porque no se otorguen las garantías previstas por esta Ley o en las disposiciones aplicables;
-
-VI. Por no iniciar la prestación del servicio público una vez otorgada la concesión, dentro del término señalado en esta Ley;
-
-VII. Por violaciones a las tarifas o por incumplimiento de alguna de las obligaciones de la concesionaria o concesionario; y,
-
-VIII. Por aquéllas que impidan una prestación oportuna y eficiente del servicio público concesionado.
-
-###### Artículo 112.
-
-El procedimiento de revocación de las concesiones de servicios públicos se substanciará y resolverá por el Ayuntamiento, con sujeción a las siguientes formalidades:
-
-I. Se iniciará de oficio o a petición de parte;
-
-II. Se notificará la iniciación del procedimiento a la concesionaria o concesionario en forma personal;
-
-III. Se abrirá un período probatorio por el término de quince días, contados a partir del día siguiente de la notificación a que se refiere la fracción anterior;
-
-IV. Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
-
-V. Se dictará la resolución dentro de los diez días siguientes al vencimiento del plazo para el desahogo de las pruebas; y,
-
-VI. Se notificará personalmente al interesado la resolución que se emita.
-
-###### Artículo 113.
-
-Cuando la concesión de servicios públicos termine por causa imputable al concesionario, se perderá en favor del Ayuntamiento el importe de las garantías previstas en esta Ley o en otras disposiciones aplicables.
-
-Las resoluciones de terminación de concesiones de servicios públicos, deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo menos en uno de los diarios de mayor circulación en el Municipio o en su caso, en los estrados del Palacio Municipal.
-
-Cumplido el plazo por el que se haya otorgado la concesión, y no habiendo prórroga, los bienes se revertirán en favor del Ayuntamiento.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 59.
-
-La Comisión de Acceso a la Información Pública, Transparencia y Protección de Datos Personales, tendrá las siguientes funciones:
-
-I. Vigilar el cumplimiento de la normativa en materia de Acceso a la Información Pública y Protección de Datos Personales; en particular que se difunda la información de oficio y se mantenga actualizada;
-
-II. Orientar a las personas sobre el trámite y procedimiento para solicitar información pública al Ayuntamiento;
-
-III. Proponer en su caso, la información que deba ser clasificada en los términos de la Ley de la materia;
-
-IV. Ser el vínculo de comunicación del Ayuntamiento con el órgano garante en materia de Acceso a la Información Pública y Protección de Datos en el Estado y entre los Municipios; y,
-
-V. Las demás que establezca la Ley y demás disposiciones aplicables.
-
-### CAPÍTULO XXI. DE LOS PUEBLOS INDÍGENAS
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 114.
-
-Tomando en consideración que el Estado de Michoacán tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas, en los municipios donde se encuentren asentados éstos, los Ayuntamientos protegerán y promoverán el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado y demás leyes aplicables.
-
-Asimismo, promoverán que la educación básica sea, tanto en español como en la lengua indígena originaria.
-
-Para efectos del presente artículo, el Ayuntamiento o Concejo Municipal expedirá los reglamentos que normen este aspecto, en función de las particularidades de cada municipio libre.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 115.
-
-En los planes de desarrollo municipal se establecerán los programas, proyectos y acciones tendientes al desarrollo y bienestar de los pueblos indígenas, respetando sus formas de producción, comercio, de los usos y costumbres en general, y tomando en cuenta su opinión a través de sus órganos tradicionales de representación.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 116.
-
-En las comunidades indígenas se podrán elegir a sus autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, siguiendo para ello sus normas, procedimientos y prácticas tradicionales con el propósito de fortalecer su participación y representación política. Consecuentemente, podrán ser reconocidas las autoridades indígenas, de aquellas comunidades previstas en el catálogo de pueblos y comunidades indígenas del Instituto Nacional de Pueblos Indígenas.
-
-Las comunidades indígenas en ejercicio de su derecho a la libre autodeterminación podrán organizarse con base a sus usos y costumbres, podrán participar en el presupuesto participativo en los términos previstos en la reglamentación correspondiente; en caso contrario aquellas comunidades que decidan regirse de acuerdo al régimen municipal seguirán los procedimientos ordinarios señalados por el Ayuntamiento respectivo.
-
-Para la ejecución del presupuesto, las comunidades podrán participar en la determinación del tipo de obras que habrán de realizarse en las comunidades mediante consultas públicas.
-
-En el caso de ejercer recursos presupuestales en forma directa, las autoridades de las comunidades indígenas observarán el marco regulatorio en materia de transparencia, fiscalización y responsabilidades administrativas.
-
-Las comunidades indígenas que tengan el carácter de Tenencia, tendrán el derecho a ejercer directamente los recursos presupuestales que les sean asignados por el municipio que deberá incluir la totalidad del impuesto predial recaudado en la respectiva comunidad; siempre con previa consulta libre, informada y de buena fe.
-
-Las autoridades comunales indígenas que asuman las atribuciones aquí mencionadas, tendrán la personalidad jurídica y atribuciones que el reglamento municipal respectivo les otorgue.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 117.
-
-Para hacer efectivo su derecho al autogobierno, en el caso de las comunidades que así lo deseen y cumplan con todos los requisitos que señale la reglamentación municipal y estatal respectiva; las comunidades indígenas solicitarán el ejercicio y administración directa de los recursos presupuestales, de la siguiente forma:
-
-I. Las comunidades indígenas, vía sus representantes autorizados por las respectivas asambleas, deberán presentar una solicitud ante el Instituto Electoral de Michoacán y el Ayuntamiento respectivo, en la que se especifique que por mandato de la comunidad y en ejercicio de sus derechos de autonomía y autogobierno, desean elegir, gobernarse y administrarse mediante autoridades tradicionales;
-
-II. La solicitud deberá ser acompañada por el acta de asamblea y firmada por todas las autoridades comunales; y,
-
-III. Una vez presentada la solicitud, el Instituto Electoral de Michoacán realizará en conjunto con el Ayuntamiento, en un plazo de quince días hábiles, una consulta a la comunidad en la que se especifique si es deseo de la comunidad el elegir, gobernarse y administrarse de forma autónoma.
-
-En la consulta, se deberán observar los principios y requisitos establecidos en la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán, con la finalidad de cumplir con los parámetros internacionales de derechos humanos de los pueblos y comunidades indígenas.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 118.
-
-Las comunidades indígenas que decidan ejercer su derecho al autogobierno, a través de sus autoridades o representantes, de conformidad al procedimiento de consulta que haya dado lugar al ejercicio del presupuesto directo, podrán asumir las siguientes funciones:
-
-I. Administrar libre y responsablemente los recursos presupuestales mediante aplicación directa, de conformidad con las disposiciones aplicables;
-
-II. Prestar los servicios públicos catalogados como municipales dentro de esta misma ley, pudiendo celebrar convenio de prestación de dichos servicios con el Ayuntamiento respectivo;
-
-III. Formular, aprobar y aplicar los planes de desarrollo comunal, de conformidad con sus mecanismos de gobierno interno, sus usos y costumbres, comunicando dicho plan de desarrollo al Ayuntamiento; y,
-
-IV. Organizar, estructurar y determinar las funciones de su administración comunal conforme a sus propias formas de gobierno, normas, usos y costumbres.
-
-En la misma medida en que las autoridades comunales asuman dichas atribuciones, se transferirán también las obligaciones correlativas que estuvieran a cargo de los Ayuntamientos.
-
-Dicha transferencia incluirá únicamente las obligaciones generales previstas por esta ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y demás ordenamientos jurídicos que rijan a la Administración Municipal.
-
-Los términos en que las autoridades comunales indígenas asuman obligaciones municipales, deberán ser informados a la comunidad durante el proceso de consulta que dé lugar al ejercicio del presupuesto directo.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 119.
-
-En los municipios donde existan comunidades indígenas el municipio deberá crear una Dirección de Asuntos Indígenas cuya persona titular será electa por mayoría absoluta del Cabildo a propuesta de la Comisión de Asuntos Indígenas que presentará una terna surgida de una convocatoria pública.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-###### Artículo 120.
-
-La Titular o el Titular de la Dirección de Asuntos Indígenas deberá cubrir los siguientes requisitos:
-
-I. Ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Saber leer y escribir; y,
-
-III. No haber sido condenada o condenado por delito doloso.
-
-###### Artículo 60.
-
-La Comisión de Planeación, Programación y Desarrollo Sustentable, tendrá las siguientes atribuciones:
-
-I. Organizar y ejecutar los diagnósticos necesarios para conocer y difundir las potencialidades y fortalezas productivas, económicas y sociales del Municipio y facilitar su aprovechamiento a corto, mediano y largo plazo;
-
-II. Elaborar los proyectos de los programas sectoriales, para las dependencias, entidades y unidades administrativas municipales y someterlos a consideración de la Presidenta o Presidente Municipal;
-
-III. Integrar y someter a consideración del Ayuntamiento en pleno, los proyectos de inversión que permitan racionalizar el aprovechamiento de los recursos y la generación de nuevas fuentes de ocupación y de riqueza en el municipio, privilegiando que el crecimiento económico sea compatible con la protección al ambiente y el desarrollo sustentable;
-
-IV. Vigilar que el Ayuntamiento no deseche sin fundamento los planes y programas de desarrollo municipales de mediano y largo plazo;
-
-V. Participar en la elaboración de los proyectos de Ley de Ingresos y Presupuesto de Egresos Municipales;
-
-VI. Coadyuvar en el desarrollo económico y social del Municipio;
-
-VII. Promover el fortalecimiento del Instituto Municipal de Planeación;
-
-VIII. Participar en la elaboración, ejecución y control del Plan Municipal de Desarrollo, con criterios de sustentabilidad en el uso y manejo de los recursos naturales;
-
-IX. Vigilar que el Ayuntamiento elabore planes y programas de desarrollo municipales a mediano y largo plazo, con proyección que trascienda la duración de una administración municipal;
-
-X. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-XI. Las demás que le señale el Ayuntamiento, esta Ley y otras disposiciones aplicables.
-
-###### Artículo 61.
-
-La Comisión de Asuntos Indígenas, tendrá las siguientes funciones:
-
-I. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de las zonas indígenas, con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, buscando las acciones coordinadas entre los tres niveles de Gobierno Federal, Estatal y Municipal, y con la participación de las comunidades, buscar sus justas y equitativas medidas para mejorar las condiciones de vida de las mismas;
-
-II. Vigilar que las diferentes instancias de gobierno garanticen e incrementen los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior, buscando un sistema de becas para estudiantes indígenas en todos los niveles;
-
-III. Buscar las medidas de apoyo a la nutrición de las personas de las comunidades indígenas mediante programas de alimentación, en especial para las madres en lactancia y la población infantil;
-
-IV. Participar en la organización de la creación de los mecanismos para mejorar las condiciones de las comunidades indígenas y de los espacios para la convivencia y recreación;
-
-V. Promover la incorporación de las mujeres de las comunidades indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
-
-VI. Impulsar los mecanismos adecuados para extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación;
-
-VII. Participar en la organización de las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, así como la incorporación de tecnologías para incrementar su propia capacidad productiva, procurando asegurar el acceso equitativo a los sistemas de abasto y comercialización;
-
-VIII. Buscar mecanismos de consulta a los pueblos indígenas, para que sean tomados en cuenta en la elaboración del Plan Municipal de Desarrollo, y en su caso incorporar las recomendaciones y propuestas que ellos realicen;
-
-IX. Establecer políticas para mejorar las condiciones de salud de las mujeres, apoyar los programas especiales de educación y nutrición a niñas, niños y adolescentes de las familias indígenas, velar por el respeto a los derechos humanos y promover la difusión de sus culturas;
-
-X. Supervisar y apoyar los trabajos de la Dirección o Unidad de Asuntos Indígenas del Municipio, y,
-
-XI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 62.
-
-La Comisión de Asuntos Migratorios, tendrá las siguientes funciones:
-
-I. Proponer y promover políticas públicas municipales de atención al migrante y sus familias;
-
-II. Usar mecanismos de consulta con los migrantes y sus familias, para que sus opiniones y propuestas sean tomadas en cuenta en la elaboración de los planes municipales de desarrollo;
-
-III. Vigilar el funcionamiento de los Centros Municipales de los Migrantes y el cumplimiento de los objetivos en términos de la Ley de la materia;
-
-IV. Fomentar la participación y vinculación de las asociaciones de migrantes en sus municipios y comunidades de origen; y,
-
-V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-### CAPÍTULO XXII. DE LAS DEPENDENCIAS, ENTIDADES Y UNIDADES ADMINISTRATIVAS
-
-###### Artículo 121.
-
-Para el ejercicio de sus atribuciones, el Ayuntamiento se auxiliará de las dependencias, entidades y unidades administrativas necesarias, que estarán bajo las órdenes de la Presidenta o Presidente Municipal, en las cuales se deberá observar el principio de paridad de género en los nombramientos de las y los titulares debiendo garantizar la inclusión y la no discriminación de las personas.
-
-###### Artículo 122.
-
-La Presidenta o Presidente Municipal, previo acuerdo de las dos terceras partes de las y los integrantes del Ayuntamiento, podrá crear dependencias, entidades y unidades administrativas que le estén subordinadas directamente, así como fusionar, modificar o suprimir las existentes, de acuerdo con las necesidades y la capacidad financiera del Ayuntamiento.
-
-El proyecto de acuerdo que sea sometido a consideración de las y los miembros del Ayuntamiento para la creación, fusión, modificación o supresión de dependencias, entidades y unidades administrativas deberá acompañarse de la documentación impresa y electrónica que deberá incluir los reglamentos o las modificaciones a los ya existentes para la adecuada operación de los mismos; cuando menos con 72 horas de anticipación a la sesión de aprobación, y deberá contener la situación que guardan las dependencias, entidades y unidades administrativas que se someterán a consideración, un tabulador de sueldos sobre los cargos de nueva creación, especificación de los perfiles necesarios para ocupar dichos cargos, así como las condiciones financieras que resultarían para la estructura municipal con la aplicación de dichas modificaciones.
-
-###### Artículo 123.
-
-Para el estudio, la planeación y el despacho de los diversos asuntos de la administración Municipal, el Ayuntamiento se auxiliará por lo menos con las siguientes dependencias:
-
-I. La Secretaría del Ayuntamiento;
-
-II. La Tesorería Municipal;
-
-III. La Contraloría Municipal;
-
-IV. La Dirección de Obras Públicas; y,
-
-V. El Instituto Municipal de Planeación.
-
-###### Artículo 124.
-
-Las dependencias, entidades y unidades administrativas conducirán sus acciones con base en los programas anuales y las políticas correspondientes, que para el logro de los objetivos establezca el Plan Municipal de Desarrollo.
-
-###### Artículo 125.
-
-Las dependencias, entidades y unidades administrativas, ejercerán las funciones que les asignen esta Ley y los respectivos Bandos de Gobierno Municipal y Reglamentos, en los que se establecerán las estructuras de organización y sus funciones.
-
-###### Artículo 126.
-
-Las o los titulares de cada una de las dependencias, entidades y unidades administrativas deberán ser ciudadanas o ciudadanos mexicanas, en pleno ejercicio de sus derechos, preferentemente vecinas o vecinos del municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les correspondan y acordarán directamente con la Presidenta o Presidente Municipal.
-
-###### Artículo 63.
-
-Las comisiones serán coadyuvantes de las dependencias y entidades, a quienes corresponderá originariamente el cumplimiento de las atribuciones municipales.
-
-Por su desempeño en las comisiones asignadas, las Regidoras y los Regidores recibirán una compensación económica por sus servicios, de conformidad con las disposiciones aplicables.
-
-A las comisiones se les dotará de los medios necesarios para la realización de sus funciones.
-
-Las Regidoras y los regidores están obligados a aceptar las comisiones que les sean conferidas y desempeñarlas conforme a las leyes y reglamentos municipales. En caso de no entregar los informes de comisión o no asistir, serán sujetos de las sanciones correspondientes.
-
-Las reuniones de las Comisiones del Ayuntamiento, en analogía a las sesiones a distancia de los integrantes del Cabildo o Concejo Municipal, considerando los supuestos de imposibilidad para reunirse de manera presencial, podrán realizar reuniones a distancia, con las mismas formalidades que para tal efecto se establecen en la presente Ley.
-
-### CAPÍTULO XXIII. DE LA DELEGACIÓN DE FACULTADES Y LA DESCONCENTRACIÓN ADMINISTRATIVA
-
-###### Artículo 127.
-
-Al frente de cada dependencia, entidad o unidad administrativa habrá una o un titular, con la denominación que determinen las disposiciones que correspondan, quien, para el despacho de los asuntos de su competencia, se auxiliará por las servidoras y servidores públicos que establezcan las disposiciones aplicables, conforme a la capacidad presupuestal, requerimientos administrativos y necesidades sociales del Municipio.
-
-###### Artículo 128.
-
-Corresponde originalmente a las y los titulares de las dependencias, entidades y unidades administrativas el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en las y los servidores a que se refiere el artículo anterior, cualesquiera de sus atribuciones, excepto aquellas que por disposición de esta Ley, reglamentos o resoluciones del Ayuntamiento, no sean delegables.
-
-###### Artículo 129.
-
-Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, los Ayuntamientos resolverán la creación de órganos administrativos desconcentrados que estarán jerárquicamente subordinados a la Presidenta o Presidente Municipal y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales y administrativas aplicables.
-
-###### Artículo 64.
-
-La Presidenta o Presidente Municipal tendrá a su cargo la representación del Ayuntamiento y la ejecución de las resoluciones del mismo, así como las siguientes atribuciones:
-
-I. Planear, programar, presupuestar, coordinar, controlar y evaluar el desempeño de las dependencias, entidades y unidades administrativas del Gobierno Municipal;
-
-II. Cumplir y hacer cumplir en el municipio, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y demás disposiciones del orden municipal;
-
-III. Conducir las relaciones del Ayuntamiento con los poderes del Estado y de la Federación, así como con otros Ayuntamientos;
-
-IV. Convocar y presidir las sesiones del Ayuntamiento y ejecutar sus acuerdos y decisiones;
-
-V. Ordenar la promulgación y publicación de los reglamentos, acuerdos y demás disposiciones administrativas del Ayuntamiento que deban regir en el Municipio y disponer, en su caso, la aplicación de las sanciones que corresponda;
-
-VI. Informar anualmente a la población, en sesión pública y solemne del Ayuntamiento o Concejo Municipal, durante la primera quincena del mes de agosto, a excepción del último año de gestión, que será la segunda quincena del mes de julio, sobre el estado general que guarde la administración pública municipal, del avance del plan municipal de desarrollo y sus programas operativos; después de leído el informe podrá hacer uso de la palabra una regidora o regidor representante de cada una de las fracciones de los partidos políticos representados en el Ayuntamiento, a efecto de comentar sobre el informe de labores. El Concejo Municipal podrá definir previamente qué concejero comenta el informe de labores;
-
-VII. Ejercer el mando de la policía preventiva municipal en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley, sus reglamentos y demás disposiciones del orden municipal;
-
-VIII. Proponer al Ayuntamiento las comisiones que deban integrarse y sus miembros;
-
-IX. Presentar a consideración del Ayuntamiento para su aprobación, en su caso, las propuestas de nombramientos y remociones como lo establece esta ley;
-
-X. Conducir la elaboración del Plan Municipal de Desarrollo y de sus programas operativos, así como vigilar el cumplimiento de las acciones que le correspondan a cada una de las dependencias, entidades y unidades administrativas municipales, bajo criterios de desarrollo sustentable para el municipio;
-
-XI. Fomentar la organización y participación ciudadana en los programas de desarrollo municipal y en las actividades de beneficio social que realice el Ayuntamiento;
-
-XII. Celebrar convenios, contratos y en general los instrumentos jurídicos necesarios, para el despacho de los asuntos administrativos y la atención de los servicios públicos municipales;
-
-XIII. Informar, durante las sesiones ordinarias del Ayuntamiento, sobre el estado de la administración y del avance del Plan Municipal de Desarrollo y los programas operativos;
-
-XIV. Presidir el Órgano de Gobierno del Instituto Municipal de Planeación;
-
-XV. Vigilar la correcta administración del patrimonio municipal;
-
-XVI. Nombrar y remover libremente a los funcionarios municipales que le corresponda, observando el principio de paridad de género en todos los niveles de mando de la administración municipal;
-
-XVII. Proponer la formulación, expedición, reforma, derogación y abrogación de los reglamentos municipales y demás disposiciones administrativas; y,
-
-XVIII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
-
-### CAPÍTULO XXIV. DE LA DESCENTRALIZACIÓN ADMINISTRATIVA
-
-###### Artículo 130.
-
-Los Ayuntamientos, con el objeto de llevar a cabo una oportuna toma de decisiones y una más eficaz prestación de los servicios públicos, podrá crear organismos descentralizados, con personalidad jurídica y patrimonio propios.
-
-Para los efectos de esta Ley, los organismos descentralizados, cualquiera que sea la forma o estructura que adopten, serán aquellos que se constituyan y operen, total o mayoritariamente con recursos públicos del municipio.
-
-###### Artículo 131.
-
-El Ayuntamiento designará una Comisaría o Comisario para cada uno de los organismos descentralizados que constituya y establecerá las formas para contar con una adecuada información sobre la organización y funcionamiento de dichos organismos.
-
-###### Artículo 65.
-
-Ante la ausencia de la Presidenta o Presidente Municipal de su municipio, el Ayuntamiento deberá sujetarse a las siguientes disposiciones:
-
-I. Cuando la ausencia no exceda de quince días, los asuntos de trámite y aquéllos que no admiten demora, serán atendidos por la Secretaria o Secretario del Ayuntamiento, como encargado de despacho; previa instrucción expresa de la Presidenta o Presidente Municipal;
-
-II. Cuando la ausencia sea mayor de quince días sin exceder de sesenta días, la Presidenta o Presidente Municipal deberá solicitar previamente el permiso del Cabildo y en caso de ser concedido será suplido por la Síndica o Síndico como encargado del despacho, con todas las atribuciones legales y administrativas que se dispongan para la Presidenta o Presidente Municipal;
-
-III. Cuando la ausencia sea mayor a quince días, y la Presidenta o Presidente no haya solicitado la licencia respectiva, el Ayuntamiento deberá notificar al Congreso del Estado, en tanto la Síndica o el Síndico estará como encargado de despacho, con todas las atribuciones legales y administrativas que se dispongan para la Presidenta o Presidente Municipal; y,
-
-IV. Cuando la ausencia sea mayor de sesenta días por cualquier motivo, el Ayuntamiento notificará al Congreso, quien valorará la fundamentación y motivación de la causa, en cuyo caso nombrará una Presidenta o Presidente Municipal Provisional, en caso contrario decretará la ausencia definitiva; en tanto el Congreso nombra a una Presidenta o Presidente Provisional, estará en funciones de Presidente la Síndica o Síndico Municipal.
-
-### CAPÍTULO XXV. DE LA PROFESIONALIZACIÓN DE LAS SERVIDORAS Y LOS SERVIDORES PÚBLICOS MUNICIPALES Y DEL SERVICIO CIVIL DE CARRERA
-
-###### Artículo 132.
-
-Los Ayuntamientos establecerán mecanismos administrativos y financieros que permitan la institucionalización del Servicio Civil de Carrera, el cual tendrá los siguientes propósitos:
-
-I. Garantizar la estabilidad y seguridad en el empleo;
-
-II. Fomentar la vocación de servicio mediante una motivación adecuada;
-
-III. Promover la capacitación permanente del personal;
-
-IV. Procurar la lealtad a las instituciones del Municipio;
-
-V. Promover la eficiencia de las servidoras y servidores públicos municipales;
-
-VI. Mejorar las condiciones laborales de las servidoras y servidores públicos municipales;
-
-VII. Garantizar promociones justas y otras formas de progreso laboral, tomando como base sus méritos;
-
-VIII. Garantizar a las servidoras y servidores públicos municipales el ejercicio de los derechos que les reconocen leyes y otros ordenamientos jurídicos;
-
-IX. Contribuir al bienestar de las servidoras y servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, recreativas y sociales; y,
-
-X. Garantizar la profesionalización de las servidoras y servidores públicos municipales;
-
-###### Artículo 133.
-
-Para la institucionalización del Servicio Civil de Carrera, los Ayuntamientos establecerán:
-
-I. Las normas, políticas y procedimientos administrativos, que definirán qué servidoras y servidores públicos participarán en el servicio civil de carrera;
-
-II. Un estatuto del personal;
-
-III. Un sistema de mérito para la selección, promoción y estabilidad del personal;
-
-IV. Un sistema de clasificación de puestos, con su respectivo perfil; que deberá establecer la estructura orgánica ocupacional respecto de todos las servidoras y servidores públicos municipales, e incluir su jerarquía y funciones específicas, además de identificar cuales cargos podrán ser ocupados únicamente por las servidoras y servidores públicos que participen en el servicio civil de carrera;
-
-V. Un sistema de plan de salarios y tabulador de puestos; y,
-
-VI. Un sistema de capacitación, actualización y desarrollo del personal.
-
-###### Artículo 134.
-
-El Ayuntamiento creará una Comisión del Servicio Civil de Carrera como organismo auxiliar de éste, cuyas funciones serán:
-
-I. Promover ante las dependencias y entidades de la Administración Pública Municipal, la realización de los programas específicos del Servicio Civil de Carrera;
-
-II. Promover mecanismos de coordinación entre las dependencias y entidades de la Administración Pública Municipal, para uniformar y sistematizar los métodos de administración y desarrollo del personal, encaminados a instrumentar el Servicio Civil de Carrera;
-
-III. Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del Servicio Civil de Carrera;
-
-IV. Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la Administración Municipal, así como los correspondientes a las representaciones sindicales en la instrumentación del Servicio Civil de Carrera;
-
-V. Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del Servicio Civil de Carrera, con los instrumentos del Plan de Desarrollo Municipal;
-
-VI. Evaluar periódicamente los resultados de las acciones orientadas a la instrumentación del Servicio Civil de Carrera;
-
-VII. Hacer público por los medios de comunicación social disponibles, el sistema de clasificación de puestos, el perfil requerido para ser considerado para ocupar dicho cargo, así como los resultados obtenidos a través del sistema de capacitación, actualización y desarrollo de personal; y,
-
-VIII. Las demás que señale el Ayuntamiento para el cumplimiento de su objetivo.
-
-###### Artículo 135.
-
-En la aplicación del presente capítulo se atenderá en lo conducente a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios.
-
-El Ayuntamiento deberá elaborar el reglamento que determine los procedimientos de profesionalización de las servidoras y servidores públicos Municipales.
-
-El reglamento deberá garantizar que las servidoras y servidores públicos municipales de base, tengan acceso al Servicio Civil de Carrera, sujetándose, en su caso, a los procedimientos de reclutamiento y selección, que establezcan los Ayuntamientos. Para la incorporación al Servicio Civil de Carrera de las y los trabajadores de base, será necesario contar con licencia o haberse separado de la plaza que ocupa, no pudiendo permanecer activos en ambas situaciones.
-
-El desempeño del Servicio Civil de Carrera será incompatible con el ejercicio de cualquier otro cargo, profesión o actividad que impida o menoscabe el estricto cumplimiento de los deberes de las servidoras y servidores públicos Municipales.
-
-###### Artículo 66.
-
-La Presidenta o Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de que se declare ausencia definitiva conocerá el Congreso, quien contará con un término de hasta 30 días naturales contados a partir del día en que tenga conocimiento oficial, para designar a quien deba sustituirlo, respetando el género y el origen partidista o en su caso independiente, el sustituto deberá cumplir los requisitos de elegibilidad para ser candidato a Presidenta o Presidente Municipal que señala la Constitución Local.
-
-En caso de ausencia definitiva y en tanto el Congreso nombra a una nueva Presidenta o Presidente Municipal, estará en funciones de Presidenta o Presidente, la Síndico o el Síndico Municipal, con todas las atribuciones legales y administrativas que se dispongan para la Presidenta o Presidente Municipal.
-
-###### Artículo 67.
-
-Son facultades y obligaciones la Síndica o el Síndico Municipal:
-
-I. Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos;
-
-II. Coordinar la Comisión de Hacienda, Financiamiento y Patrimonio Municipal del Ayuntamiento y vigilar la correcta recaudación y aplicación de los fondos públicos;
-
-III. Revisar y en su caso, suscribir los estados de origen y aplicación de fondos y los estados financieros municipales;
-
-IV. Desempeñar las comisiones que le encomiende el Ayuntamiento y presentar un informe anual de actividades durante la segunda quincena del mes de julio de cada año, a excepción del último año de gestión, que será la primera quincena del mes de julio;
-
-V. Vigilar que el Ayuntamiento cumpla con las disposiciones que señala la Ley y con los planes y programas establecidos;
-
-VI. Proponer la formulación, expedición, reforma, derogación y abrogación de los reglamentos municipales y demás disposiciones administrativas;
-
-VII. Participar en las ceremonias cívicas que realice el Ayuntamiento;
-
-VIII. Representar legalmente al municipio, en los litigios en que éste sea parte y delegar dicha representación, previo acuerdo del Ayuntamiento;
-
-IX. Fungir como Agente del Ministerio Público en los casos y condiciones que determine la Ley de la materia;
-
-X. Emitir en el ámbito de su competencia las órdenes de protección de emergencia, preventivas, de naturaleza civil, penal o familiar, debidamente fundadas y motivadas, ejecutándolas con el auxilio de la fuerza pública municipal;
-
-XI. Representar o designar representante del Ayuntamiento en el Subsistema Regional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres por razones de género que le corresponda;
-
-XII. Supervisar que el Ayuntamiento cuente con sus ordenamientos jurídicos publicados y actualizados;
-
-XIII. Nombrar al titular de la Dirección Jurídica, con la anuencia de la Presidenta o Presidente Municipal, área de la cual será responsable la Síndica o el Síndico;
-
-XIV. Nombrar al titular del Centro de Mediación, con la anuencia de la Presidenta o Presidente Municipal, área de la cual será responsable la Síndica o el Síndico;
-
-XV. Vigilar que los funcionarios municipales presenten oportunamente la declaración de su situación patrimonial al tomar posesión de su cargo, anualmente y al terminar su ejercicio;
-
-XVI. Procurar que en los juicios en trámite de carácter laboral se llegue a un arreglo conciliatorio, donde deberán participar todas las partes involucradas, establecerse un valor fijo, así como las formas en que se extinguirá dicha obligación, informando al Ayuntamiento del mismo;
-
-XVII. Comparecer por si o a través de representante a las audiencias de conciliación y a las audiencias de los juicios en trámite, bajo pena de responsabilidad en caso de inasistencia a las mismas; y,
-
-XVIII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
-
-### CAPÍTULO XXVI. DE LOS DERECHOS Y OBLIGACIONES DE LAS SERVIDORAS Y SERVIDORES PÚBLICOS MUNICIPALES QUE PARTICIPEN EN EL SERVICIO CIVIL DE CARRERA
-
-###### Artículo 136.
-
-Las servidoras y servidores públicos municipales de carrera, tendrán los siguientes derechos:
-
-I. Tener estabilidad y permanencia en el Servicio en los términos y bajo las condiciones que establezcan los Ayuntamientos;
-
-II. Recibir el nombramiento como Servidora Pública o Servidor Público Municipal de Carrera una vez cubiertos los requisitos establecidos y aprobados los exámenes correspondientes;
-
-III. Percibir las remuneraciones correspondientes a su cargo, además de los beneficios y estímulos que se prevean;
-
-IV. Acceder a un nivel jerárquico más elevado, cuando haya cumplido con los requisitos y procedimientos descritos en este ordenamiento;
-
-V. Recibir capacitación y actualización con carácter profesional para el mejor desempeño de sus funciones;
-
-VI. Ser evaluado con base en los principios rectores de este capítulo y conocer el resultado de los exámenes que haya sustentado, en un plazo no mayor de 60 días;
-
-VII. Ser evaluado nuevamente previa capacitación correspondiente, cuando en alguna evaluación no haya resultado aprobado; y,
-
-VIII. Las demás que se deriven de los preceptos del presente ordenamiento, de su reglamento y demás disposiciones aplicables.
-
-###### Artículo 137.
-
-Son obligaciones de las servidoras y servidores públicos Municipales de Carrera:
-
-I. Ejercer sus funciones con estricto apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, calidad, calidez y demás que rigen el Servicio;
-
-II. Desempeñar sus labores con cuidado y esmero apropiados, observando las instrucciones que reciban de sus superiores jerárquicos;
-
-III. Participar en las evaluaciones establecidas para su permanencia y desarrollo en el Servicio Civil de Carrera;
-
-IV. Aportar los elementos objetivos necesarios para la evaluación de los resultados del desempeño;
-
-V. Participar en los programas de capacitación obligatoria que comprende la actualización, especialización y educación formal, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
-
-VI. Guardar reserva de la información, documentación y en general, de los asuntos que conozca;
-
-VII. Asistir puntualmente a sus labores y respetar los horarios de actividades;
-
-VIII. Proporcionar la información y documentación necesarias a la funcionaria o funcionario que se designe para suplirle en sus ausencias temporales o definitivas;
-
-IX. Abstenerse de incurrir en actos u omisiones que pongan en riesgo la seguridad del personal, bienes y documentación u objetos del área de trabajo o de las personas que ahí se encuentren;
-
-X. Excusarse de conocer asuntos que puedan implicar conflicto de intereses con las funciones que desempeña dentro del Servicio; y,
-
-XI. Las demás que señalen las leyes y disposiciones aplicables.
-
-###### Artículo 68.
-
-En su carácter de representantes de la comunidad en el Ayuntamiento, las Regidoras y los Regidores tendrán las siguientes atribuciones:
-
-I. Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos;
-
-II. Desempeñar las comisiones que le encomiende el Ayuntamiento y deberá presentar un informe anual de actividades durante la segunda quincena del mes de julio de cada año, a excepción del último año de gestión, que será la primera quincena del mes de julio;
-
-III. Vigilar que el Ayuntamiento cumpla con las disposiciones que le establecen las disposiciones aplicables y con los planes y programas municipales;
-
-IV. Proponer la formulación, expedición, reforma, derogación y abrogación de los reglamentos municipales y demás disposiciones administrativas;
-
-V. Analizar, discutir y votar los asuntos que se sometan a acuerdo al Ayuntamiento en las sesiones;
-
-VI. Participar en las ceremonias cívicas que realice el Ayuntamiento;
-
-VII. Participar en la supervisión de los estados financiero y patrimonial del Municipio y de la situación en general del Ayuntamiento;
-
-VIII. Solicitar y recibir toda información sobre los asuntos que se tratarán en las sesiones, en un plazo mínimo de 24 horas; y,
-
-IX. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
-
-### CAPÍTULO XXVII. DE LOS PLANES MUNICIPALES DE DESARROLLO
-
-###### Artículo 138.
-
-Los Ayuntamientos deberán elaborar, aprobar, ordenar la publicación de su respectivo Plan Municipal de Desarrollo, así como presentarlo al Congreso del Estado, para su conocimiento y opinión dentro de los cuatro primeros meses de gestión administrativa. Su vigencia será por el período constitucional que corresponda. Para este efecto, los Ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado.
-
-###### Artículo 139.
-
-El Plan de cada Ayuntamiento precisará los objetivos, estrategias y prioridades del desarrollo municipal; que deberá tener criterios de sustentabilidad y una visión de largo plazo; contendrá prevenciones sobre los recursos que serán asignados a tales fines y establecerá los instrumentos, dependencias, entidades y unidades administrativas responsables de su ejecución. Sus previsiones se referirán al conjunto de las actividades económicas y sociales de los programas que se deriven del Plan.
-
-###### Artículo 140.
-
-Los programas que se deriven del Plan Municipal de Desarrollo deberán guardar congruencia entre sí y con los objetivos y prioridades generales del mismo, así como con los Planes Estatal y Nacional de Desarrollo.
-
-###### Artículo 141.
-
-Una vez aprobado el Plan por el Ayuntamiento, éste y sus programas operativos, serán obligatorios para las dependencias, entidades y unidades administrativas Municipales, en el ámbito de sus respectivas competencias.
-
-Los programas podrán modificarse o actualizarse periódicamente, previa autorización del Ayuntamiento.
-
-El Plan Municipal de Desarrollo se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-La coordinación en la ejecución del Plan y sus programas con el Gobierno del Estado se realizará a través del Comité para la Planeación del Desarrollo Municipal.
-
-###### Artículo 142.
-
-Al someter a consideración del Congreso del Estado sus iniciativas de Leyes de Ingresos y Presupuestos de Egresos, los Ayuntamientos informarán el contenido general de éstos y de su relación con los objetivos y prioridades del Plan Municipal de Desarrollo.
-
-###### Artículo 143.
-
-La revisión que lleve a cabo el Congreso del Estado de las cuentas públicas de los Ayuntamientos, deberá relacionarse con la ejecución del Plan Municipal de Desarrollo y sus programas operativos, a fin de vincular el destino de los recursos con los objetivos y prioridades del Plan.
-
-###### Artículo 69.
-
-La Secretaría del Ayuntamiento dependerá directamente de la Presidenta o Presidente Municipal y tendrá las siguientes atribuciones:
-
-I. Auxiliar a la Presidenta o Presidente Municipal en la conducción de la política interior del municipio;
-
-II. Ejecutar los programas que le correspondan en el contexto del Plan Municipal de Desarrollo y de las disposiciones municipales aplicables;
-
-III. Vigilar que todos los actos del Ayuntamiento se realicen con estricto apego a derecho;
-
-IV. Fomentar la participación ciudadana en los programas de beneficio social y en las instancias u organismos municipales que corresponda;
-
-V. Organizar, operar y actualizar el Archivo del Ayuntamiento y el Archivo Histórico Municipal;
-
-VI. Coordinar las acciones de inspección y vigilancia que realice el gobierno municipal;
-
-VII. Coordinar la acción de los delegados administrativos y demás representantes del Ayuntamiento en la división político-territorial del municipio;
-
-VIII. Expedir certificaciones sobre actos y resoluciones de competencia municipal;
-
-IX. Coordinar la elaboración de los informes anuales y/o administrativos de la Presidenta o Presidente Municipal;
-
-X. Coordinar las funciones de los titulares de las áreas administrativas de la Secretaría del Ayuntamiento;
-
-XI. Dar a las y los integrantes del Cabildo antecedentes y anexos de la información sobre los temas que se tratarán en las sesiones de Cabildo, de forma previa a la sesión. En temas como deuda municipal, contrataciones, dictámenes de protección civil, ecología, cambios de uso de suelo y cuenta pública, con antelación de cuando menos 24 horas antes;
-
-XII. Facilitar la información que le soliciten las y los integrantes del Cabildo;
-
-XIII. Presentar informes semestrales ante el Cabildo para su revisión de manera presencial, presentada por quien hace la propuesta, para verificar las fuentes de información y sustento; y,
-
-XIV. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
-
-###### Artículo 70.
-
-La Secretaria o el Secretario del Ayuntamiento será nombrado por los integrantes del Cabildo, por mayoría absoluta de votos a propuesta de la Presidenta o Presidente Municipal, en la primera sesión ordinaria posterior a la toma de posesión del Ayuntamiento entrante, solo podrá ser removida o removido por causa grave calificada como tal por la mayoría de los miembros del Cabildo.
-
-### CAPÍTULO XXVIII. DE LA COORDINACIÓN PARA EL DESARROLLO MUNICIPAL Y REGIONAL
-
-###### Artículo 144.
-
-Los Ayuntamientos podrán convenir con el Ejecutivo Federal, con el Ejecutivo del Estado, o con otros Ayuntamientos, la coordinación que se requiera a fin de impulsar su desarrollo, para coadyuvar en el ámbito de sus respectivas competencias a la consecución de objetivos comunes y para la satisfacción de las necesidades colectivas de la municipalidad.
-
-Cuando a juicio del Ayuntamiento sea necesario, podrá celebrar convenios con el Gobierno del Estado para que, éste, de manera directa o a través del organismo correspondiente se haga cargo en forma temporal de determinados servicios públicos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Ayuntamiento.
-
-Tratándose de la asociación de municipios locales con los de otro Estado se requerirá para convenir la autorización del Congreso del Estado.
-
-En la creación de organismos descentralizados, fideicomisos y empresas de participación municipal, podrán participar dos o más Ayuntamientos de Michoacán de Ocampo, constituyendo organismos intermunicipales, celebrando el convenio de asociación o coordinación respectivo, con la aprobación de dos terceras partes de quienes integren el Ayuntamiento.
-
-###### Artículo 145.
-
-Para que los municipios puedan asociarse o coordinarse, deberán cumplir con los requisitos siguientes:
-
-I. Que sea aprobado el proyecto de convenio de asociación o coordinación correspondiente, por cada Ayuntamiento;
-
-II. Si los efectos del convenio de asociación o coordinación tienen mayor alcance que el periodo del Ayuntamiento de que se trate, este convenio deberá ser aprobado por la mayoría calificada de integrantes del Ayuntamiento; solicitando también autorización al Congreso del Estado;
-
-III. El convenio de asociación o coordinación y reformas deberán constar por escrito, estar firmado por las Presidentas o los Presidentes Municipales y las representantes o los representantes legales de las partes;
-
-IV. El plazo máximo de asociación o coordinación podrá ser hasta por 25 años, con opción a prórroga por un tiempo similar;
-
-V. El convenio y sus reformas deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en las Gacetas Municipales de cada Ayuntamiento;
-
-VI. Los convenios deberán prever las causas de rescisión, terminación anticipada y efectos del incumplimiento de las partes; y,
-
-VII. Las demás que previo acuerdo de las presidentas y los presidentes de los municipios, consideren.
-
-###### Artículo 146.
-
-Los organismos descentralizados creados conforme al último párrafo del Artículo 130 de esta ley, tendrán personalidad jurídica y patrimonio propio y los convenios respectivos deberán contener por lo menos:
-
-I. La denominación, objeto y domicilio legal;
-
-II. El Órgano de Gobierno, que será la autoridad máxima del organismo descentralizado, deberá estar integrado por las Presidentas o los Presidentes Municipales de cada Ayuntamiento que hubiere suscrito el convenio; en estos órganos se podrá integrar a funcionarias y funcionarios públicos con el carácter que señalen los convenios;
-
-III. La Presidenta o el Presidente del Órgano de Gobierno y la manera de su designación;
-
-IV. Las facultades y obligaciones del Órgano de Gobierno;
-
-V. La forma de integrar e incrementar su patrimonio y la distribución de los rendimientos que en su caso genere;
-
-VI. Las atribuciones de la Directora o Director General quien tendrá la representación legal del organismo, mismo que será designado por el Órgano de Gobierno;
-
-VII. Las reglas para su operación, rescisión, terminación, desaparición y liquidación; y,
-
-VIII. Las demás que acuerden los Ayuntamientos.
-
-Los Ayuntamientos podrán aportar recursos, bienes materiales y humanos a los organismos a que se refiere este artículo.
-
-La creación de estos organismos descentralizados deberá comunicarse al Congreso del Estado, inmediatamente después de la instalación del Órgano de Gobierno y no podrán tener mayores facultades que los municipios.
-
-Estos organismos deberán rendir su cuenta pública a la Auditoría Superior de Michoacán en los términos establecidos para los Municipios y deberán informar trimestralmente a los ayuntamientos integrantes el estado de sus finanzas.
-
-###### Artículo 147.
-
-Además los Ayuntamientos podrán convenir con el Ejecutivo Estatal o el Ejecutivo Federal:
-
-I. Su participación en la planeación estatal y regional a través de la presentación de proyectos que consideran convenientes;
-
-II. Los procedimientos de coordinación para propiciar la planeación del desarrollo integral del municipio y su congruencia con la planeación estatal, así como para promover la participación de diversos grupos sociales en las actividades de planeación;
-
-III. La metodología para la realización de las actividades de planeación en el ámbito de su jurisdicción;
-
-IV. La ejecución de los programas y acciones que deben realizarse en los municipios que competan a dichos órdenes de gobierno, considerando la participación que corresponda a los sectores de la sociedad;
-
-V. La formación y el funcionamiento de órganos de colaboración; y,
-
-VI. Las demás acciones necesarias para el mejor cumplimiento de los servicios públicos a su cargo.
-
-###### Artículo 148.
-
-Un Ayuntamiento podrá celebrar convenios de coordinación administrativa con otro o varios Ayuntamientos para los siguientes fines:
-
-I. La elaboración conjunta de los planes municipales y regionales de desarrollo y sus programas. Esta Coordinación podrá realizarse entre Ayuntamientos afines por su tipología o entre Ayuntamientos que por razones de igual importancia consideren conveniente la coordinación;
-
-II. La prestación de servicios públicos;
-
-III. La coordinación en conjunto con el Ejecutivo del Estado o con el Ejecutivo Federal;
-
-IV. La atracción de inversiones detonantes del desarrollo regional;
-
-V. La planeación, programación y ejecución de obras de interés regional;
-
-VI. La planeación, programación y ejecución de proyectos productivos regionales;
-
-VII. La concertación con los sectores de la sociedad;
-
-VIII. La constitución y el funcionamiento de Consejos Intermunicipales de colaboración para la planeación y ejecución de programas y acciones de desarrollo urbano; vivienda, seguridad pública, ecología y preservación del medio ambiente, salud pública, seguridad pública, tránsito y vialidad, nomenclatura, servicios públicos, cultura, deportes, integración familiar, comunicación social y demás materias que consideren de interés mutuo;
-
-IX. La reglamentación municipal;
-
-X. La adquisición en común de materiales, equipo e instalaciones para la prestación de servicios públicos;
-
-XI. La contratación en común, de servicios de información;
-
-XII. La contratación en común, de servicios de mantenimiento;
-
-XIII. La contratación en común, de asesoría técnica especializada;
-
-XIV. La ejecución y el mantenimiento de obra pública;
-
-XV. La promoción de las actividades económicas; y,
-
-XVI. Los demás procedentes de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de éstas emanen, esta Ley y las demás disposiciones aplicables.
-
-###### Artículo 149.
-
-El Congreso del Estado expedirá las disposiciones que determinen los procedimientos para dirimir los conflictos que se presenten entre los Municipios y el Gobierno del Estado o entre aquellos sobre cumplimiento de convenios o acuerdos de coordinación en materia de asunción de la prestación de servicios públicos.
-
-###### Artículo 71.
-
-La Secretaria o Secretario del Ayuntamiento deberá cumplir con los siguientes Requisitos:
-
-I. Ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Ser profesionista o cumplir con experiencia de cuando menos dos años en responsabilidades afines; y,
-
-III. No haber sido condenada o condenado por delito doloso.
-
-###### Artículo 72.
-
-Además de las atribuciones de la dependencia a su cargo, la Secretaria o Secretario del Ayuntamiento, sin ser miembro del Cabildo, tendrá las siguientes funciones:
-
-I. Acordar directamente con la Presidenta o Presidente Municipal;
-
-II. Citar oportunamente por escrito o por los medios digitales previamente autorizados, a sesiones del Ayuntamiento, previo acuerdo de la Presidenta o Presidente Municipal y acudir a éstas con voz pero sin voto;
-
-III. Formular las Actas de Sesiones presenciales y a distancia del Ayuntamiento; y asentarlas en los libros correspondientes;
-
-IV. Vigilar el cumplimiento de los acuerdos del Ayuntamiento e informar oportunamente lo procedente a la Presidenta o Presidente Municipal;
-
-V. Auxiliar en la atención de la audiencia de la Presidenta o Presidente Municipal, previo acuerdo; y,
-
-VI. Las que establezcan esta Ley, los reglamentos municipales y las demás disposiciones aplicables.
-
-### CAPÍTULO XXIX. DE LA PARTICIPACIÓN CIUDADANA
-
-###### Artículo 150.
-
-Los Ayuntamientos fomentarán la participación ciudadana, con el propósito de fortalecer el régimen de democracia participativa, vincular permanentemente a gobernantes y gobernados y propiciar la colaboración directa y efectiva de ciudadanas y ciudadanos en el cumplimiento de sus fines, mediante el trabajo y la solidaridad en el desarrollo vecinal y cívico y para el beneficio colectivo del Municipio.
-
-###### Artículo 151.
-
-El Ayuntamiento, dentro de un período de noventa días naturales contados a partir de la fecha de instalación, convocará y participará en la constitución, organización y funcionamiento de los organismos de participación ciudadana, cuyo objeto será contribuir a la elaboración, vigilancia y cumplimiento de los planes y programas del Municipio, impulsar la colaboración y participación de sus habitantes y proponer al Ayuntamiento alternativas de solución para los problemas de sus localidades o regiones. Su ejercicio será por el periodo Constitucional del Ayuntamiento correspondiente.
-
-El procedimiento de integración, la designación de sus integrantes y sus funciones, serán determinados por el Ayuntamiento con la participación de las organizaciones sociales del Municipio y se sujetará a la Ley de la materia.
-
-###### Artículo 152.
-
-Los Ayuntamientos podrán reglamentar la participación ciudadana democrática a través del referéndum, el plebiscito y la iniciativa popular, bajo las siguientes consideraciones:
-
-I. El referéndum es el proceso por medio del cual los electores del municipio manifiestan su aceptación o rechazo de las medidas de carácter general que aprueben las autoridades municipales, o bien promueven la aprobación de iniciativas populares rechazadas por los integrantes del Cabildo. Puede ser convocado a iniciativa del Cabildo, por mayoría simple, o bien por la población local, bajo las condiciones que se establecerán en el Reglamento respectivo.
-
-Una vez cubiertos los requisitos formales, son los electores del Municipio los que, por medio del sufragio universal y secreto, resolverán sobre su aprobación o rechazo. Los resultados del Referéndum tienen carácter obligatorio para el Ayuntamiento;
-
-II. El plebiscito es el procedimiento por medio del cual los electores de un municipio aprueban o rechazan actos de Gobierno, del Ayuntamiento incluyendo los nombramientos de encargadas o encargados o responsables de un área de la administración Pública Municipal, salvo los casos de la Secretaria o Secretario, de la Tesorera o Tesorero y de la Contralora o Contralor Municipal. Puede ser convocado a iniciativa del Cabildo o bien por los integrantes de la población local bajo las condiciones que se establecerán en el Reglamento Municipal respectivo. Los resultados del Plebiscito serán obligatorios para el Ayuntamiento; y,
-
-III. La iniciativa popular es el derecho que tienen ciudadanas y ciudadanos de proponer ante la Autoridad Municipal la aprobación de Reglamentos y disposiciones administrativas de carácter general, así como la ejecución de programas específicos para el beneficio de los integrantes de la población municipal. Cubiertos los requisitos formales es el Cabildo el que por mayoría simple resuelve sobre la procedencia de la iniciativa. No podrán ser objeto de iniciativa popular la materia tributaria o fiscal, de egresos y la regulación interna de los órganos del Municipio.
-
-La reglamentación relativa a la participación ciudadana deberá sujetarse a lo dispuesto en la Ley de la materia.
-
-###### Artículo 153.
-
-Los Ayuntamientos deberán reglamentar lo relativo a la implementación y ejecución de los presupuestos participativos de conformidad con la legislación establecida; además deberán promover permanentemente la participación ciudadana de la sociedad organizada en los comités de planeación del desarrollo municipal, de obra pública, adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles, en los consejos municipales para el desarrollo agropecuario, en las comisiones municipales de ecología y en los demás organismos municipales que de conformidad con las disposiciones que regulan su integración y funcionamiento.
-
-###### Artículo 154.
-
-Las Asociaciones de Habitantes serán organismos de participación y colaboración ciudadana en la gestión de demandas y propuestas de interés general.
-
-El Ayuntamiento convocará a estas asociaciones y a la ciudadanía en general, para la organización y funcionamiento de los Organismos de Participación Ciudadana, cuyo objeto será contribuir al desarrollo municipal; así mismo se procurará que participen en la elaboración, seguimiento y evaluación de los planes y programas de desarrollo del Municipio.
-
-###### Artículo 73.
-
-La Tesorería Municipal dependerá directamente de la Presidenta o Presidente Municipal y tendrá las siguientes atribuciones:
-
-I. Recaudar los impuestos, derechos, productos, aprovechamientos y demás contribuciones municipales, así como las participaciones federal y estatal y los ingresos extraordinarios que se establecen a favor del municipio;
-
-II. Elaborar el proyecto de Ley de Ingresos de cada ejercicio fiscal y someterlo a consideración del Ayuntamiento;
-
-III. Elaborar el Presupuesto de Egresos de cada ejercicio fiscal y someterlo a consideración del Ayuntamiento;
-
-IV. Cumplir y hacer cumplir los convenios de coordinación fiscal que signe el Ayuntamiento;
-
-V. Ejercer el Presupuesto de Egresos, llevar la contabilidad general, el control del ejercicio presupuestal y efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
-
-VI. Ejecutar los programas que le corresponden, vinculados con el Plan Municipal de Desarrollo;
-
-VII. Elaborar un tabulador de sueldos y salarios de conformidad a las fuentes de ingreso y capacidad de la hacienda municipal, el cual deberá ser aprobado por el Cabildo; y,
-
-VIII. Las demás que establecen esta Ley, el Bando de Gobierno Municipal, los reglamentos municipales y las demás disposiciones aplicables.
-
-###### Artículo 74.
-
-La Tesorera o Tesorero Municipal será el responsable directo de la administración de la hacienda municipal, será nombrado por los integrantes del Ayuntamiento por mayoría absoluta de votos a propuesta de la Presidenta o Presidente Municipal, en la primera sesión ordinaria posterior a la toma de posesión del Ayuntamiento entrante, solo podrá ser removida o removido por causa grave calificada como tal por la mayoría de los integrantes del Cabildo.
-
-### CAPÍTULO XXX. DEL PATRIMONIO MUNICIPAL
-
-###### Artículo 155.
-
-El Patrimonio Municipal se constituye por:
-
-I. Los ingresos que conforman su Hacienda Pública;
-
-II. Los bienes de dominio público y del dominio privado que le correspondan; y,
-
-III. Los demás bienes, derechos y obligaciones que le sean transmitidos o que adquiera por cualquier título legal.
-
-###### Artículo 75.
-
-La Tesorera o Tesorero del Ayuntamiento deberá cumplir con los siguientes Requisitos:
-
-I. Ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Ser profesionista en las áreas contables, jurídicas, económicas o administrativas o, tener experiencia en alguna de ellas de cuando menos dos años;
-
-III. No haber sido condenado por delito doloso;
-
-IV. No ser cónyuge o concubinario, pariente consanguíneo en línea recta sin limitación de grado o colateral hasta el segundo grado, o por afinidad dentro del segundo grado, de la Presidenta o Presidente Municipal, Regidoras o Regidores, Síndica o Síndico correspondientes; y,
-
-V. Otorgar la fianza establecida por la ley para garantizar el correcto desempeño de su responsabilidad.
-
-### CAPÍTULO XXXI. DE LOS BIENES MUNICIPALES
-
-###### Artículo 156.
-
-Son los bienes de dominio público municipal, enunciativamente:
-
-I. Los de uso común;
-
-II. Los destinados por el Ayuntamiento a un servicio público;
-
-III. Los muebles municipales que por su naturaleza normalmente no sean sustituibles;
-
-IV. Los monumentos históricos, arqueológicos y artísticos, sean muebles o inmuebles de propiedad municipal; y,
-
-V. Las servidumbres, cuando el predio dominante sea uno de los indicados en este artículo.
-
-###### Artículo 157.
-
-Los bienes de dominio público municipal son inalienables e imprescriptibles y no estarán sujetos mientras no varíe su situación jurídica, a acciones reivindicatorias o de posesión definitiva o provisional sin embargo, los particulares y las instituciones de derecho público podrán adquirir sobre éstos, sin que se constituyan derechos reales, su uso, aprovechamiento y explotación mediante el otorgamiento de las concesiones respectivas.
-
-Para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período constitucional del Ayuntamiento, se requerirá el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento.
-
-Las concesiones sobre esta clase de bienes, se otorgarán, extinguirán y revocarán en la forma y términos que determine esta Ley.
-
-###### Artículo 158.
-
-Cuando un bien inmueble propiedad del Municipio vaya a incorporarse al dominio público por estar comprendido dentro de las disposiciones de esta Ley, el Ayuntamiento por conducto de su Presidenta o Presidente Municipal deberá emitir la declaratoria de incorporación correspondiente, la que se publicará por una sola vez en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y se inscribirá en el Registro Público de la Propiedad del Estado para que surta efectos contra terceros. La incorporación surtirá efectos a partir de la publicación de la declaratoria. Igual declaratoria de incorporación deberá emitirse, cuando un bien, de hecho esté destinado al uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos.
-
-###### Artículo 159.
-
-Los bienes de dominio público de los Municipios, podrán ser desincorporados, mediante acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, cuando por algún motivo dejen de ser útiles para fines de servicio público o sean solicitados para realizar un proyecto de beneficio social, plenamente justificado, de provecho comunitario y bajo criterios de desarrollo sustentable.
-
-A la solicitud que para estos efectos realicen los Ayuntamientos, deberá acompañarse:
-
-I. Un dictamen técnico que justifique la desincorporación;
-
-II. Tratándose de inmuebles, un plano de localización de los mismos, en el que se señale la superficie total del inmueble y sus medidas y colindancias; y,
-
-III. La especificación del aprovechamiento que se pretenda dar al bien. Tratándose de inmuebles, dicho aprovechamiento deberá ser compatible con las correspondientes declaratorias de previsiones, reservas, usos y destinos que señalen los planes y programas de desarrollo urbano municipales.
-
-Cuando la desincorporación tenga como finalidad la enajenación o el gravamen de los bienes a que se refiere este precepto, cumpliéndose con los requisitos que señala el artículo 163 de esta Ley, podrán presentarse las solicitudes en forma simultánea.
-
-Para el caso de que no se cumplan estos requisitos, no procederá la desincorporación, si a pesar de ello se realiza los funcionarios se sujetarán a lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, las desincorporaciones se darán con una cláusula de reversión, para que en el caso de que no se cumpla con los fines previstos el bien pueda volver al patrimonio municipal.
-
-###### Artículo 160.
-
-Son bienes del dominio privado municipal, enunciativamente:
-
-I. Los abandonados, adjudicados al Municipio por la autoridad judicial;
-
-II. Los que resulten de la liquidación o extinción de organismos o entidades municipales;
-
-III. Los muebles no comprendidos en el artículo 156 de esta Ley; y,
-
-IV. Los inmuebles o muebles que adquiera el Municipio hasta en tanto no se destinen al uso común, a la prestación de un servicio público o a alguna de las actividades que se equiparen a ésta o de hecho se utilicen para estos fines.
-
-###### Artículo 161.
-
-Los bienes de dominio privado de los municipios son inembargables e imprescriptibles.
-
-Se destinarán prioritariamente al servicio de las diversas dependencias, entidades y unidades administrativas municipales, en cuyo caso deberán de ser incorporados al dominio público.
-
-###### Artículo 162.
-
-A excepción de los bienes de comodato, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho civil con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
-
-###### Artículo 163.
-
-La enajenación o gravamen de los bienes muebles del dominio privado del Municipio, requerirá la autorización previa del Ayuntamiento, la cual deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo acompañando a la misma el avalúo del bien, fecha y hora en la que se celebrará la subasta pública. Sólo podrán enajenarse los bienes muebles, que, previo acuerdo del Ayuntamiento, ya no se consideren útiles para el servicio público por haber sido amortizados o considerados como chatarra.
-
-Para la enajenación o gravamen de los bienes inmuebles Municipales, se deberá cumplir con los siguientes requisitos:
-
-I. Que la necesidad de las enajenaciones responda a la ejecución de un programa cuyo objetivo sea la satisfacción del suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos, o bien al impulso o fomento de las actividades productivas o de desarrollo y/o asistencia social, cívica, deportiva o cultural de sus comunidades;
-
-II. Que en la solicitud respectiva se especifique el destino que se proyecte dar al producto que se obtenga con la enajenación o gravamen; y,
-
-III. Que se anexe un avalúo expedido por la Comisión Nacional de Avalúos de Bienes Nacionales, por una Institución de Crédito debidamente acreditada o por el Catastro.
-
-###### Artículo 164.
-
-Los Ayuntamientos pueden dar en arrendamiento los bienes que integren su patrimonio. Cuando el período del arrendamiento exceda de tres años será necesaria la aprobación de las dos terceras partes de sus integrantes, siempre que no se afecte con motivo de las obligaciones el interés y el patrimonio municipal.
-
-###### Artículo 165.
-
-La enajenación onerosa de bienes muebles e inmuebles de los Municipios, deberá ser en numerario o especie y se efectuará en subasta pública que garantice al Municipio las mejores condiciones posibles en cuanto a precio de venta, de conformidad con los procedimientos que establezcan las disposiciones aplicables.
-
-###### Artículo 166.
-
-El Ayuntamiento, previo el cumplimiento de los requisitos establecidos en esta Ley, podrá autorizar la enajenación directa en forma onerosa de inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda o para otro objeto de beneficio colectivo.
-
-###### Artículo 167.
-
-Todos los bienes muebles e inmuebles que constituyan el patrimonio del Municipio son inembargables. En consecuencia, no podrán emplearse en la vía de ejecución para hacer efectivas las sentencias dictadas a favor de particulares y contra la Hacienda Municipal, salvo el caso de que, con autorización del Congreso del Estado, se hubieren dado en garantía de un adeudo destinado a la prestación de un servicio público.
-
-###### Artículo 168.
-
-Los bienes de dominio público de uso común y los destinados a un servicio público, son imprescriptibles y no podrán ser objeto de gravámenes de ninguna clase ni reportar en provecho de particulares ningún derecho de uso, usufructo o habitación; tampoco podrán imponerse sobre ellos servidumbre pasiva alguna en los términos del derecho civil. Los derechos de tránsito, de vistas, de bienes y otros semejantes, se regirán por las leyes, reglamentos administrativos y los permisos o concesiones que llegue a otorgar la autoridad municipal sobre esta clase de bienes y tendrán siempre el carácter de revocables.
-
-###### Artículo 169.
-
-La compra, venta, donación, cesión o gravamen de bienes inmuebles municipales, requerirá de la aprobación de las dos terceras partes de los integrantes del Ayuntamiento. Las áreas verdes de donación que reciban los ayuntamientos, deberán ser espacios jardinados, la o el fraccionador tendrá la obligación de equiparlas para tales efectos en términos del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, deberán ser incorporadas como áreas de uso común de dominio público. El Municipio será el responsable de protegerlas evitando cualquier invasión o uso distinto al establecido
-
-Los proyectos de construcción de obras de equipamiento urbano que se pretendan realizar en áreas de donaciones Estatales o Municipales, deberán contar con la aprobación mayoritaria de vecinas y vecinos del desarrollo que generó el área de donación, en los términos de la Ley de la materia.
-
-###### Artículo 76.
-
-Además de las atribuciones de la dependencia a su cargo, la Tesorera o Tesorero Municipal, tendrá las siguientes facultades y deberes:
-
-I. Acordar directamente con la Presidenta o Presidente Municipal;
-
-II. Conducir la política fiscal del Ayuntamiento, previo acuerdo de la Presidenta o Presidente Municipal;
-
-III. Proponer al Ayuntamiento, con apego a las disposiciones aplicables, las medidas necesarias y convenientes para incrementar los ingresos y racionalizar los gastos municipales;
-
-IV. Conducir y vigilar el funcionamiento de un sistema de información y orientación fiscal para los causantes municipales;
-
-V. Someter, previo acuerdo de la Presidenta o Presidente Municipal, a la aprobación del Ayuntamiento, la glosa de las cuentas públicas del municipio; la cuenta pública anual; los estados financieros trimestrales de la administración municipal; el programa financiero de la deuda pública y los mecanismos para administrarla;
-
-VI. Llevar a cabo el procedimiento económico-coactivo que determinen las disposiciones legales y aplicar las multas y sanciones que correspondan;
-
-VII. Supervisar y controlar el funcionamiento de las oficinas de recaudación municipales; y,
-
-VIII. Las demás que establecen esta Ley, los reglamentos municipales y las demás disposiciones aplicables.
-
-###### Artículo 77.
-
-El control interno, evaluación municipal y desarrollo administrativo, estarán a cargo de la Contraloría Municipal, la o el titular se nombrará por las y los integrantes del Ayuntamiento y durará en su cargo tres años pudiendo ser reelecto; deberá reunir los siguientes requisitos:
-
-I. Ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos;
-
-II. No haber sido declarada o declarado en quiebra fraudulenta, ni haber sido sentenciada o sentenciado como defraudadora o defraudador, malversadora o malversador de fondos públicos o delitos graves;
-
-III. Ser profesionista en las áreas contables, jurídicas, económicas o administrativas y tener experiencia en alguna de ellas de cuando menos cinco años;
-
-IV. No ser cónyuge o concubinario, pariente consanguíneo en línea recta sin limitación de grado o colateral hasta el segundo grado, o por afinidad dentro del segundo grado, de la Presidenta o Presidente Municipal, Regidoras o Regidores, Síndica o Síndico correspondientes;
-
-V. No haber sido dirigente de partido político, ni candidata o candidato durante la elección del Ayuntamiento en funciones, ni haber desempeñado cargo alguno de elección popular, en todos los supuestos de esta fracción en el año próximo anterior a la designación;
-
-VI. No haber sido sancionada o sancionado por actos vinculados a una falta administrativa grave de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y/o su correlativa a nivel federal;
-
-VII. No haber sido inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-VIII. Contar con residencia efectiva en el Municipio respectivo, por más de 2 años anteriores a la designación;
-
-IX. No haber sido condenada o condenado por delito doloso; y,
-
-X. Las demás que establezcan las disposiciones legales aplicables.
-
-El nombramiento se dará durante el mes de diciembre y entrará en funciones a partir del primero de enero del año posterior al inicio de la administración.
-
-###### Artículo 78.
-
-Para la elección de la Contralora o Contralor Municipal, se observará el siguiente procedimiento:
-
-I. El Ayuntamiento durante los treinta días posteriores al tomar protesta del cargo, emitirá convocatoria pública para ocupar el cargo de Contralora o Contralor Municipal;
-
-II. De entre los concurrentes a esa convocatoria, que cumplan todos los requisitos, un Consejo Municipal integrado por las regidoras o regidores de las comisiones de Gobernación, Seguridad Pública, Protección Civil y Participación Ciudadana; y, de Acceso a la Información Pública, Transparencia y Protección de Datos Personales; así como tres ciudadanas o ciudadanos de la sociedad civil, en un plazo de treinta días después de haber sido expedida la convocatoria, elegirá un máximo de seis propuestas teniendo en cuenta el criterio de paridad de género, en una lista que enviará a la Presidenta o Presidente Municipal, en cinco días;
-
-III. La Presidenta o Presidente Municipal contará hasta con cinco días a partir de la recepción de las propuestas, para formar una terna, teniendo en cuenta el criterio de paridad de género, misma que remitirá al Cabildo;
-
-IV. El Cabildo deberá, de entre la terna propuesta elegir en un plazo no mayor a ocho días, quien será la Contralora o Contralor Municipal, por el voto de las dos terceras partes de sus integrantes;
-
-V. De no enviarse la terna por parte de la Presidenta o Presidente Municipal, dentro del plazo referido, el Cabildo integrará la terna correspondiente de entre las seis propuestas, teniendo en cuenta el criterio de paridad de género;
-
-VI. De no lograr la votación requerida para elegir de entre los propuestos integrantes de la terna hasta en dos ocasiones, se solicitará a la Presidenta o Presidente Municipal la integración de una dupla, teniendo en cuenta el criterio de paridad de género, que será integrada por personas de la lista inicial y electa por mayoría simple, en donde la Presidenta o Presidente Municipal tendrá voto de calidad;
-
-VII. En caso de quedar desierta la convocatoria, el Cabildo deberá nombrar a la encargada o encargado del despacho de la Contraloría, de entre una terna conformada a propuesta de la Presidenta o Presidente, teniendo en cuenta el criterio de paridad de género, en tanto se designe a la Contralora o Contralor en forma definitiva;
-
-VIII. Para efectos de la designación de la Contralora o Contralor bajo el supuesto de la fracción anterior la Presidenta o Presidente Municipal propondrá una terna al Cabildo, de entre la cual se elegirá al Titular por mayoría calificada de las dos terceras partes; y,
-
-IX. La Contralora o Contralor Municipal tomará protesta ante el Cabildo previo a asumir el cargo.
-
-### CAPÍTULO XXXII. COMITÉ DE OBRA PÚBLICA, ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DE BIENES MUEBLES E INMUEBLES
-
-###### Artículo 170.
-
-Para el desempeño de las funciones de la Administración Pública Municipal, el Ayuntamiento aprobará las disposiciones administrativas relativas a la obra pública, adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles del Municipio, considerando siempre el desarrollo sustentable de la comunidad.
-
-###### Artículo 171.
-
-Se creará un Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Bienes Muebles e Inmuebles, el cual se integrará con una Regidora o Regidor de cada una de las distintas fuerzas políticas que constituyan el Ayuntamiento y las servidoras o servidores públicos auxiliares que determine el Ayuntamiento, atendiendo el criterio de paridad de género, de acuerdo con las áreas de apoyo requeridas o el carácter de la operación y que se nombrará durante los primeros treinta días de la constitución del Ayuntamiento, el cual deberá observar lo dispuesto en el Código de Desarrollo Urbano del Estado de Michoacán de Ocampo.
-
-###### Artículo 172.
-
-El Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Bienes Muebles e Inmuebles, tendrá las siguientes atribuciones:
-
-I. Celebrar concursos para la adjudicación de contratos en los términos aprobados por el Ayuntamiento;
-
-II. Proponer modificaciones a las disposiciones administrativas aprobadas por el Ayuntamiento;
-
-III. Proponer al Ayuntamiento previo dictamen, la rescisión de contratos por caso fortuito o fuerza mayor, el pago de indemnización a proveedoras o proveedores que, en su caso, se consideren procedentes, así como las sanciones que correspondan a proveedoras o proveedores que hayan incurrido en incumplimiento parcial o total de contratos;
-
-IV. Publicar en el diario de mayor circulación la convocatoria del concurso sobre obra pública y adquisición de bienes, de conformidad con las bases aprobadas por el Ayuntamiento y las disposiciones aplicables de la Ley de la materia;
-
-V. Proponer acciones para la conservación de las zonas naturales protegidas y en general promover el desarrollo sustentable del Municipio; y,
-
-VI. Realizar las licitaciones públicas conducentes.
-
-###### Artículo 173.
-
-En lo no previsto en esta Ley, se aplicará supletoriamente lo establecido en la Ley Estatal de la materia.
-
-### CAPÍTULO XXXIII. DE LA HACIENDA MUNICIPAL
-
-###### Artículo 174.
-
-La Hacienda Pública Municipal se constituirá por los ingresos que señale la Ley de Hacienda Municipal y la Ley de Ingresos que apruebe el Congreso del Estado. Además, con aquellos ingresos que determinen las Leyes y Decretos Federales y Estatales y los convenios respectivos.
-
-###### Artículo 175.
-
-Las iniciativas de Ley de Ingresos Municipales deberán presentarse para su aprobación ante el Congreso del Estado, a más tardar el veinte de septiembre del año anterior al de su aplicación; exceptuando el primer año de la administración en el que tendrán una prórroga de 30 días, hasta el veinte de octubre para presentar las iniciativas de Ley de Ingresos Municipales. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
-
-###### Artículo 176.
-
-La vigilancia de la Hacienda Pública Municipal corresponde a la Presidenta o Presidente Municipal, la Síndica o Síndico, a la Comisión respectiva del Ayuntamiento, y a la Contralora o Contralor, en los términos de esta Ley y demás disposiciones de la materia. El Congreso del Estado revisará y aprobará en su caso la Cuenta Pública Municipal en los términos de la Constitución Política del Estado y otros ordenamientos.
-
-### CAPÍTULO XXXIV. DEL BANDO DE GOBIERNO MUNICIPAL, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS
-
-###### Artículo 177.
-
-El Bando de Gobierno Municipal determinará el ámbito, la organización y el funcionamiento del gobierno municipal y de su administración.
-
-El Bando de Gobierno Municipal deberá ser aprobado por el Ayuntamiento y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, así mismo será remitido al Congreso del Estado y al Titular del Poder Ejecutivo del Estado para su conocimiento.
-
-###### Artículo 178.
-
-Los Reglamentos Municipales son ordenamientos jurídicos que establecen normas de observancia obligatoria para el propio Ayuntamiento y para los habitantes del Municipio, cuyo propósito es ordenar armónicamente la convivencia social en el territorio municipal y buscar el bienestar de la comunidad.
-
-Los Gobiernos Municipales deberán expedir y contar con sus reglamentos actualizados y vigentes, ajustándose a la Ley que establezca el Congreso del Estado y vigilando que se cumpla con lo dispuesto en los ordenamientos jurídicos Federales y con las resoluciones de la Suprema Corte de Justicia de la Nación, debiendo ser publicados para su observancia, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### Artículo 179.
-
-Los Reglamentos Municipales tendrán como objeto:
-
-I. Determinar la normatividad para el adecuado funcionamiento del Ayuntamiento como máxima autoridad del Municipio y la correcta administración del patrimonio municipal;
-
-II. Establecer los ordenamientos para la más óptima división administrativa y territorial del municipio;
-
-III. Crear las disposiciones para regular el orden público, la seguridad personal y patrimonial de los habitantes del Municipio, la salud pública, la preservación del medio ambiente, la vialidad, el esparcimiento sano, la difusión de la cultura, el respeto de los derechos humanos de todas las personas y los demás aspectos fundamentales de la vida comunitaria;
-
-IV. Definir los lineamientos para el más eficiente funcionamiento de las dependencias, entidades y unidades administrativas municipales;
-
-V. Instituir las bases para garantizar, en beneficio de la sociedad, la más adecuada prestación de los servicios públicos municipales que preste el Ayuntamiento o los concesionarios;
-
-VI. Fomentar la participación ciudadana en la gestión municipal;
-
-VII. Determinar las sanciones que procedan por las infracciones a los Reglamentos Municipales; y,
-
-VIII. Los demás que sean procedentes de conformidad con las atribuciones municipales.
-
-###### Artículo 180.
-
-Los Ayuntamientos deberán difundir permanentemente el Bando de Gobierno Municipal y los Reglamentos Municipales para orientar, vigilar y garantizar su cumplimiento.
-
-El Bando de Gobierno Municipal y los Reglamentos Municipales deberán revisarse y actualizarse el primer bimestre de cada año, de conformidad con los procedimientos que establezca el Ayuntamiento, cumpliendo con las disposiciones contenidas en la presente Ley y con las formalidades que se establezcan en los mismos.
-
-###### Artículo 181.
-
-Los reglamentos municipales deberán comprender, entre otras, las siguientes materias:
-
-I. Organización Administrativa;
-
-II. Participación Ciudadana;
-
-III. Justicia Administrativa;
-
-IV. Seguridad Pública;
-
-V. Protección Civil;
-
-VI. Tránsito;
-
-VII. Obras Públicas y Desarrollo Urbano;
-
-VIII. Ecología;
-
-IX. Salud;
-
-X. Deporte y Juventud;
-
-XI. Asistencia Social;
-
-XII. Cultura;
-
-XIII. Turismo;
-
-XIV. Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos;
-
-XV. Mercados y Centrales de Abasto;
-
-XVI. Comercio en la Vía Pública;
-
-XVII. Estacionamientos Públicos;
-
-XVIII. Cementerios y Panteones;
-
-XIX. Espectáculos Públicos y Privados;
-
-XX. Horarios Comerciales;
-
-XXI. Rastros y Expendios de Carne;
-
-XXII. Anuncios y Diversiones;
-
-XXIII. Desarrollo Agropecuario;
-
-XXIV. De Acceso a la Información Pública; y,
-
-XXV. Los demás que requieran los ayuntamientos, para el cumplimiento de sus atribuciones.
-
-###### Artículo 182.
-
-Los Ayuntamientos tendrán la facultad de expedir el Bando de Gobierno Municipal, los reglamentos, acuerdos, circulares y demás disposiciones administrativas de observancia general en su circunscripción territorial, cuya aplicación redunde en beneficio de la comunidad y de la administración municipal.
-
-### CAPÍTULO XXXV. DEL CONSEJO DE LA CRÓNICA MUNICIPAL
-
-###### Artículo 183.
-
-Cada Ayuntamiento formará un Consejo de la Crónica Municipal, como un órgano consultivo y de colaboración de la Administración Pública Municipal, integrado de forma colegiada, con el objeto de conservar, promover, investigar y difundir el acervo histórico y cultural del Municipio, así como integrar y mantener actualizado el registro de los acontecimientos relevantes en todos los órdenes de la vida del mismo.
-
-Los integrantes del Consejo de la Crónica Municipal elaborarán y mantendrán actualizada la monografía de su Municipio; recopilarán las tradiciones y leyendas, los usos y costumbres del mismo y colaborarán en el registro de monumentos arqueológicos, artísticos e históricos de su Municipio.
-
-###### Artículo 184.
-
-El Consejo de la Crónica Municipal estará integrado por al menos tres personas, de conformidad con el reglamento que expida el Ayuntamiento para tal efecto, de los cuales uno fungirá como Presidenta o Presidente del Consejo.
-
-###### Artículo 185.
-
-El nombramiento del Cronista integrante del Consejo de la Crónica Municipal lo hará el Ayuntamiento, a propuesta de la Presidenta o Presidente Municipal, quien previamente escuchará el parecer de las asociaciones e instituciones educativas, culturales y sociales de mayor relevancia en el Municipio, y del titular de la Comisión de Educación, Cultura, Turismo, Ciencia, Tecnología e Innovación, del Ayuntamiento.
-
-###### Artículo 186.
-
-Para ser Cronista integrante del Consejo se requiere:
-
-I. Ser originario del Municipio o tener su domicilio permanente en él;
-
-II. Ser de reconocida solvencia moral y de amplia aceptación social; y,
-
-III. Acreditar un amplio conocimiento sobre los acontecimientos contemporáneos y trascendentales del Municipio, así como la relevancia de actividades económicas y la relación de los efectos y acciones estatales y nacionales en el Municipio.
-
-###### Artículo 187.
-
-Se pierde la calidad de Cronista integrante del Consejo de la Crónica Municipal:
-
-I. Por causa de enfermedad grave que imposibilite de manera permanente el cumplimiento de sus obligaciones;
-
-II. Por incumplimiento constante de sus obligaciones como Cronista durante seis meses, o por ausencias injustificadas durante el mismo periodo;
-
-III. Por ausencia del Municipio, de manera que le impida ser testigo directo de la vida del mismo;
-
-IV. Por renuncia en casos de extrema gravedad, aceptada por el Ayuntamiento;
-
-V. Por faltas graves a la moral pública; y,
-
-VI. Por escándalo grave relacionado con la honradez intelectual.
-
-###### Artículo 188.
-
-El nombramiento de Cronista integrante del Consejo de la Crónica Municipal será honorario por tiempo indeterminado, salvo que incurra en las causales previstas en esta ley.
-
-###### Artículo 189.
-
-El Consejo de la Crónica Municipal, tendrá las siguientes atribuciones:
-
-I. Llevar el acervo de los sucesos notables del Municipio;
-
-II. Investigar, preservar, exponer y proponer las manifestaciones de la cultura local;
-
-III. Proponer el rescate documental de la historia del Municipio;
-
-IV. Publicar y difundir trabajos e investigaciones de carácter histórico, artístico o cultural de interés para el Municipio;
-
-V. Ser órgano de consulta del Ayuntamiento para todo lo relacionado con la cultura, el turismo y el patrimonio cultural del Municipio;
-
-VI. Establecer coordinación con sus similares en reuniones estatales y nacionales;
-
-VII. Investigar y promover el conocimiento de la historia municipal y contribuir de manera decisiva en la formación de la conciencia histórica de los habitantes del Municipio, particularmente de las niñas, niños y adolescentes;
-
-VIII. Participar conjuntamente con las Comisiones Municipales correspondientes, en la promoción de las actividades culturales, turísticas y ecológicas en el Municipio; y,
-
-IX. Las demás que le señale el reglamento de esta Ley y otras disposiciones jurídicas aplicables.
-
-###### Artículo 190.
-
-Los ayuntamientos proporcionarán, con base en su Presupuesto de Egresos, los recursos necesarios al Consejo de la Crónica Municipal para el cumplimiento de su objeto y atribuciones.
-
-### CAPÍTULO XXXVI. DEL INSTITUTO MUNICIPAL DE PLANEACIÓN
-
-###### Artículo 191.
-
-El Instituto Municipal de Planeación, es un órgano profesional especializado en la planeación del desarrollo del Municipio, que procure y permita la permanencia de los planes, a corto, mediano y largo plazo, la equidad en el desarrollo y la participación social, que impulse la competitividad económica y el equilibrio ambiental de los planes, programas y proyectos del Municipio. El Instituto Municipal de Planeación estará bajo la supervisión del Consejo Directivo, que será presidido por la Presidenta o Presidente Municipal.
-
-###### Artículo 192.
-
-La creación del Instituto Municipal de Planeación, será de observancia general para los Municipios en que se divide el Estado, como un organismo público y consultivo, descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio.
-
-El Instituto Municipal de Planeación, contará con un Consejo Directivo, que será presidido por la Presidenta o Presidente Municipal, además estará integrado por lo menos por tres integrantes ciudadanos que no desempeñen algún cargo de la Administración Pública o algún cargo directivo en algún partido político, así como las funcionarias y funcionarios del Ayuntamiento designados por la Presidenta o Presidente Municipal sin que éstos sean mayor al número de ciudadanas o ciudadanos integrantes del Consejo Directivo, debiéndose observar el principio de paridad de género.
-
-La designación del Titular del Instituto Municipal de Planeación, será mediante convocatoria pública dando prioridad e inclusión a la sociedad organizada, de acuerdo con el reglamento que cada Ayuntamiento elabore para su funcionamiento, por un periodo de tres años pudiendo reelegirse hasta por un periodo más y deberá entrar en funciones el primero de diciembre del año de inicio de la administración municipal.
-
-###### Artículo 193.
-
-Para ser Titular del Instituto Municipal de Planeación se requiere:
-
-I. Ser originario del Municipio o contar con al menos dos años de residencia y tener su domicilio permanente en él;
-
-II. No desempeñar algún cargo dentro de la Administración Pública y no tener militancia en algún partido político;
-
-III. Ser de reconocida honorabilidad; y,
-
-IV. Demostrar conocimiento profesional preferentemente en las áreas contables, jurídicas, de ingenierías o de arquitectura o profesiones afines a la planeación y con conocimiento de las actividades y acontecimientos pasados y presentes que afectan la situación del Municipio.
-
-###### Artículo 194.
-
-Los cargos de los integrantes del Consejo Directivo del Instituto Municipal de Planeación serán honoríficos, con excepción del Titular.
-
-La designación de los demás integrantes ciudadanos del Consejo Directivo deberá cumplir con los mismos requisitos que se establecen para el Titular.
-
-###### Artículo 195.
-
-Se pierde la calidad de Titular del Instituto Municipal de Planeación:
-
-I. Por causa grave que imposibilite el cumplimiento de sus funciones;
-
-II. Por incumplimiento constante de sus obligaciones o por ausencias injustificadas; y,
-
-III. Por renuncia.
-
-###### Artículo 196.
-
-El Instituto Municipal de Planeación tiene los siguientes objetivos:
-
-I. Fortalecer el proceso de planeación estratégica integral para el desarrollo sustentable a corto, mediano y largo plazo del Municipio;
-
-II. Orientar el desarrollo del Municipio a través de la coordinación de los organismos de participación ciudadana;
-
-III. Promover la continuidad de los planes y los programas municipales de desarrollo;
-
-IV. Elaborar estudios y proyectos técnicos viables urbanos, semiurbanos y/o rurales, en apoyo a los programas municipales;
-
-V. Coordinarse con las dependencias, entidades y unidades administrativas para diseñar la metodología para la elaboración de planes, programas y demás instrumentos del sistema municipal de planeación, así como de los proyectos de investigación y sistemas de información, que den sustento a los mismos;
-
-VI. Crear, actualizar y dirigir el banco municipal de información estadística básica, a través de los instrumentos de investigación estadística y de actualización cartográfica, así como poner a disposición del Municipio, el sistema de información geográfica municipal;
-
-VII. Elaborar estudios e identificar las zonas prioritarias de atención, para facilitar su desarrollo económico y social;
-
-VIII. Elaborar estudios y proyectos para fortalecer el proceso de toma de decisiones del Ayuntamiento, así como impulsar el cumplimiento de los compromisos establecidos en el Plan Municipal de Desarrollo;
-
-IX. Incorporar la participación ciudadana en el proceso de planeación; y,
-
-X. Crear un modelo de articulación entre la sociedad y el Gobierno Municipal, para el apoyo técnico y normativo dentro del proceso de planeación.
-
-###### Artículo 197.
-
-El Instituto Municipal de Planeación, tendrá las siguientes atribuciones:
-
-I. Coadyuvar en la elaboración, actualización, seguimiento y cumplimiento al Plan Municipal de Desarrollo; el cual deberá ser aprobado por el Cabildo y deberá convocar al Consejo de Participación Ciudadana, para coordinar los trabajos para la elaboración del mismo;
-
-II. Elaborar según las instrucciones de la Presidenta o Presidente Municipal y en coordinación con la Tesorera o Tesorero, el Programa Operativo Anual, el cual deberá ser aprobado por el Cabildo;
-
-III. Promover la congruencia del Plan Municipal de Desarrollo con la planeación Estatal y Federal;
-
-IV. Participar en los procesos de planeación a largo plazo del desarrollo en los centros de población;
-
-V. Promover la celebración de convenios para el logro de los objetivos del desarrollo integral del Municipio;
-
-VI. Propiciar la vinculación para coadyuvar con otras estructuras de planeación para el desarrollo sustentable del Municipio;
-
-VII. Proponer al Ayuntamiento estrategias y acciones para la conservación, mejoramiento, crecimiento y zonificación de los centros de población;
-
-VIII. Proponer al Ayuntamiento las áreas naturales protegidas y las zonas sujetas a conservación ecológica de competencia Municipal;
-
-IX. Elaborar programas en materia de desarrollo sustentable en el ámbito Municipal;
-
-X. Elaborar programas que alienten el fortalecimiento de las actividades económicas y el mejoramiento de las condiciones de vida de los habitantes del Municipio, privilegiando aquellos que fortalezcan el consumo interno y la generación de mano de obra local;
-
-XI. Coadyuvar en la elaboración de los expedientes técnicos de integración de las obras, acciones y programas;
-
-XII. Participar en los comités, comisiones, subcomisiones y órganos municipales y estatales en materia de planeación, en los términos que señale la normatividad aplicable;
-
-XIII. Facilitar la celebración de acuerdos de cooperación entre la sociedad y las diferentes instancias del Gobierno Municipal, para generar mecanismos que aseguren la permanente participación ciudadana en los procesos de planeación municipal;
-
-XIV. Asegurar la participación de representantes de la sociedad organizada, a través del Instituto Municipal de Planeación; y,
-
-XV. Todas aquellas atribuciones que las Leyes, Reglamentos y el Ayuntamiento le conceden.
-
-### CAPÍTULO XXXVII. DE LOS CONSEJOS CIUDADANOS DE PLANEACIÓN DE DESARROLLO MUNICIPALES
-
-###### Artículo 198.
-
-El Instituto Municipal de Planeación, integrará un Consejo Ciudadano de Planeación de Desarrollo Municipal, que deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de su instalación.
-
-###### Artículo 199.
-
-Habrá un Consejo Ciudadano de Planeación de Desarrollo Municipal en cada Municipio y será un organismo consultivo y auxiliar del Instituto Municipal de Planeación.
-
-###### Artículo 200.
-
-Cada Consejo de Planeación de Desarrollo Municipal se integrará con la participación de representantes de la sociedad civil organizada del Municipio.
-
-###### Artículo 201.
-
-Cada Consejo de Planeación de Desarrollo Municipal se integrará por:
-
-I. La Presidenta o Presidente Municipal, quien lo presidirá;
-
-II. La o el titular del Instituto Municipal de Planeación, quien hará las funciones de la secretaria técnica;
-
-III. La Presidenta o Presidente de la Comisión de Planeación, Programación y Desarrollo Sustentable;
-
-IV. Representantes de la sociedad organizada que participen en las comisiones de trabajo, designados en los términos que señale el reglamento;
-
-V. Las y los funcionarios municipales que acuerde el Ayuntamiento; y,
-
-VI. Las y los funcionarios estatales que el Ayuntamiento invite a participar.
-
-Cuando el Municipio forme parte de un área conurbada o zona metropolitana se invitará al representante de la comisión respectiva.
-
-Los cargos de quienes integran el Consejo de Planeación de Desarrollo Municipales, serán de carácter honorífico.
-
-###### Artículo 202.
-
-Son atribuciones del Consejo de Planeación de Desarrollo Municipales las siguientes:
-
-I. Participar en el proceso de elaboración de los instrumentos municipales de planeación;
-
-II. Implementar mecanismos de consulta y participación social en los procesos de planeación;
-
-III. Dar seguimiento y evaluar el cumplimento, la ejecución y los impactos de los instrumentos municipales de planeación y difundir sus resultados;
-
-IV. Vigilar el cumplimiento de las acciones de difusión en materia de planeación;
-
-V. Realizar propuestas relativas al desarrollo del Municipio;
-
-VI. Impulsar la planeación en congruencia con los objetivos, metas y estrategias de los instrumentos del Sistema Estatal de Planeación;
-
-VII. Establecer las comisiones de trabajo necesarias para el cumplimiento de sus funciones;
-
-VIII. Promover la celebración de convenios tendientes a orientar los esfuerzos para lograr los objetivos del desarrollo integral del Municipio; y,
-
-IX. Propiciar vínculos de coordinación con otras estructuras de planeación.
-
-###### Artículo 203.
-
-Los Ayuntamientos deberán señalar la forma y los procedimientos para la integración y funcionamiento del Consejo de Planeación de Desarrollo Municipal, en el reglamento que para tal efecto emitan.
-
-### CAPÍTULO XXXVIII. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
-
-###### Artículo 204.
-
-Los ayuntamientos podrán crear los órganos necesarios, para dirimir las controversias administrativas que se susciten entre la administración pública municipal y los gobernados, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
-
-La integración, funcionamiento y atribuciones de los organismos de justicia, se determinarán en el reglamento que expida, según el caso, cada Ayuntamiento.
-
-###### Artículo 205.
-
-Los actos y resoluciones dictadas por el Ayuntamiento, por la Presidenta o Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnados mediante el recurso de revisión, cuando afecten intereses jurídicos de los particulares.
-
-###### Artículo 206.
-
-El recurso de revisión a que hace referencia el artículo anterior deberá interponerse ante el propio Ayuntamiento.
-
-En este caso la Secretaria o Secretario del Ayuntamiento, fungirá como instructor del procedimiento del recurso de revisión, integrando el expediente.
-
-###### Artículo 207.
-
-Tratándose de actos y resoluciones que emitan la Presidenta o Presidente Municipal y las dependencias y entidades de la Administración Pública Municipal, el recurso de revisión podrá interponerse ante el Tribunal de Justicia Administrativa del Estado, bajo la reglamentación correspondiente.
-
-### CAPÍTULO XXXIX. DE LAS RESPONSABILIDADES
-
-###### Artículo 208.
-
-Todas las funcionarias, funcionarios y autoridades municipales que señala esta Ley y Bandos de Gobierno, son responsables de los actos que realicen en contravención a sus preceptos. Los integrantes del Ayuntamiento, Contraloras o Contralores y las Tesoreras o Tesoreros municipales, serán responsables solidarios e ilimitadamente, por el incumplimiento de sus funciones de las irregularidades en el manejo de los fondos municipales. Se concede Acción Popular para denunciar alguna irregularidad a este respecto.
-
-###### Artículo 209.
-
-La ausencia de la Síndica o Síndico, Regidoras o Regidores, será acordada en Sesión de Cabildo de conformidad con lo siguiente:
-
-I. Se considerará ausencia temporal, cuando alguno de los integrantes del Ayuntamiento deje de desempeñar su cargo por treinta días, sin causa justificada. Cuando sea por causas de fuerza mayor y el ausente hubiere estado imposibilitado para dar cuenta de los motivos que la provocaron, la ausencia podrá extenderse hasta noventa días, siempre que sean valorados por el Ayuntamiento; caso contrario, se considerará ausencia definitiva; y,
-
-II. Se considera ausencia definitiva, si a partir de que se acordó la ausencia temporal transcurren sesenta días, debiéndose llamar de inmediato al suplente, quien sólo podrá excusarse por causa justificada que califique el propio Ayuntamiento.
-
-El Ayuntamiento deberá notificar toda ausencia en el domicilio particular del ausente dentro de las setenta y dos horas siguientes a que fue acordada. Durante el tiempo que no se ejerza el cargo, el Ayuntamiento valorará y determinará lo relativo a las percepciones económicas del ausente.
-
-Cuando no sea posible que el suplente entre en funciones, el Ayuntamiento dará vista al Congreso para los efectos correspondientes, tomando en cuenta el origen partidista y respetando la perspectiva de género.
-
-###### Artículo 210.
-
-Cuando los actos de la Secretaria o Secretario, Tesorera o Tesorero y Contralora o Contralor contravengan el interés municipal, serán revisados por la Presidenta o Presidente Municipal y turnados en su caso al Ayuntamiento para que resuelva en definitiva.
-
-###### Artículo 211.
-
-Los integrantes de los Ayuntamientos que falten a una Sesión de Cabildo o reunión de comisión sin causa justificada, serán sancionados con multa por el equivalente a cinco UMAS. En caso de tener más de cinco ausencias injustificadas a sesiones consecutivas, se les aplicará una sanción de cincuenta UMAS por cada inasistencia, mismas que serán descontadas directamente de su dieta o salario correspondiente. Se deberá incluir un apartado en el informe sobre las inasistencias de los integrantes del Cabildo a las sesiones del mismo.
-
-Las faltas reglamentarias u omisiones de las Jefas o Jefes de Tenencia, serán sancionadas con multa de una UMA y con el doble en caso de reincidencia, o decretar la destitución si fuera el caso.
-
-Las faltas u omisiones de las Encargadas o Encargados del Orden y sus auxiliares, serán sancionadas por el Ayuntamiento con multa de una UMA para los que reciban compensación o con apercibimiento, amonestaciones o destitución, según corresponda a la falta cometida, de todas las sanciones aplicadas deberá tener conocimiento la Contraloría Municipal de conformidad con la reglamentación respectiva.
-
-###### Artículo 212.
-
-De los delitos del orden común cometidos por los miembros del Ayuntamiento, conocerán los tribunales comunes y de las faltas y delitos oficiales el Congreso del Estado a través de la Auditoría Superior y la Fiscalía Especializada en Combate a la Corrupción de conformidad con las disposiciones aplicables.
-
-###### Artículo 213.
-
-Cuando a una o un integrante del Ayuntamiento se le dicte medida cautelar de prisión preventiva oficiosa, quedará suspendido en el ejercicio de sus funciones, a partir del auto de vinculación a proceso que traiga aparejada como medida cautelar la prisión preventiva oficiosa o justificada, llamándose al suplente; si no concurriere, o no lo hubiere, se dará cuenta al Congreso del Estado, para que provisionalmente designe a quien deba sucederlo.
-
-Si la sentencia es absolutoria o se sobresee la causa, se le reinstalará, corriendo el trámite que corresponda.
-
-### CAPÍTULO XL. DE LAS SANCIONES
-
-###### Artículo 214.
-
-Las sanciones y los procedimientos que deban aplicarse por infracciones a las normas contenidas en los reglamentos, acuerdos, bandos, circulares, ordenanzas y demás disposiciones administrativas de observancia general de los Ayuntamientos se establecerán en estos instrumentos, considerado la gravedad de la infracción y las circunstancias particulares o en su caso la reincidencia, sin perjuicio de la responsabilidad que resulte por la aplicación de otras disposiciones.
-
-No se podrá cobrar ningún tipo de sanción que no esté previamente estipulada en los reglamentos correspondientes, y deberá acompañarse de un recibo oficial cualquier sanción impuesta por la autoridad. Finalmente, en los informes anuales deberá incluirse un apartado con las sanciones ejecutadas y los ingresos obtenidos por las mismas.
-
-###### Artículo 215.
-
-Los Ayuntamientos, para asegurar el cumplimiento de las leyes y evitar los daños inminentes o los ya perjudiciales, podrán adoptar y ejecutar de inmediato contra los responsables, las medidas de seguridad necesarias de conformidad con las disposiciones aplicables.
-
-### CAPÍTULO XLI. DEL PROCEDIMIENTO DEL RECURSO DE REVISIÓN
-
-###### Artículo 216.
-
-El recurso de revisión, se tramitará conforme a lo establecido en esta Ley y en lo no previsto, se aplicará supletoriamente el Código de Justicia Administrativa.
-
-###### Artículo 217.
-
-El recurso de revisión, se interpondrá por escrito, dentro del término de diez días hábiles, contados a partir de la fecha en que el acto haya ocurrido o se tenga conocimiento del mismo, o bien, haya surtido efectos la notificación de la resolución que se impugna.
-
-###### Artículo 218.
-
-El escrito a través del cual se interponga el recurso de revisión, contendrá los siguientes requisitos:
-
-I. El nombre, denominación o razón social y domicilio del inconforme y en su caso, de quien promueve en su nombre;
-
-II. La autoridad o autoridades que dictaron el acto impugnado;
-
-III. La manifestación del particular, bajo protesta de decir verdad, de la fecha en que tuvo conocimiento de la resolución que impugna;
-
-IV. La descripción clara y sucinta de los hechos o razones que den motivo al recurso;
-
-V. Los conceptos de violación o en su caso, las objeciones a la resolución o acto que se reclama;
-
-VI. Las pruebas que en su caso ofrezca, señalando aquellas que obren en el expediente administrativo;
-
-VII. El lugar y fecha de la presentación del recurso de revisión;
-
-VIII. El domicilio para oír notificaciones, el cual deberá ser dentro de la ciudad de residencia de la autoridad administrativa competente para resolver el recurso o en su caso, la dirección de correo electrónico para recibir notificaciones; y,
-
-IX. Cuando no se gestione en nombre propio, el carácter con el que ocurre.
-
-###### Artículo 219.
-
-Recibido el escrito de revisión, se abrirá un término de prueba de diez días hábiles, a efecto de que se desahoguen aquellas que se hayan admitido y ofrecido.
-
-###### Artículo 220.
-
-Concluido el período de pruebas, la autoridad, dentro del término de cinco días hábiles dictará resolución.
-
-La notificación personal se hará directamente al recurrente, si acude a las oficinas de la autoridad, o en el domicilio señalado para tal efecto, o bien, por correo certificado con acuse de recibo; las demás notificaciones se harán por estrados.
-
-###### Artículo 221.
-
-Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el interés público y se garanticen suficientemente, mediante fianza o depósito fijado por la autoridad, los posibles daños o perjuicios que pudieran causarse al confirmarse la resolución impugnada.
-
-T R A N S I T O R I O S
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Segundo. Una vez que entre en vigor el presente Decreto, se abroga la «Ley Orgánica Municipal del Estado de Michoacán de Ocampo» publicada el 31 de Diciembre del 2001.
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 56/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO TERCERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO TERCERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-Tercero. El Municipio deberá adecuar lo conducente en su Bando de Gobierno en un plazo no mayor a 120 días naturales, de conformidad con lo establecido en la presente Ley. DE IGUAL FORMA EN UN PLAZO NO MAYOR A 120 DÍAS NATURALES EL MUNICIPIO DEBERÁ ACTUALIZAR TODOS SUS REGLAMENTOS, Y ESPECÍFICAMENTE DEBERÁ MODIFICAR O CREAR UN REGLAMENTO MUNICIPAL PARA DOTAR DE ATRIBUCIONES A LAS JEFAS O A LOS JEFES DE TENENCIA Y LAS AUTORIDADES AUXILIARES SEGÚN CONSIDERE CONVENIENTE Y DE ACUERDO CON LINEAMIENTOS SEÑALADOS EN LA PRESENTE LEY. Todo lo relativo a la Profesionalización de las Servidoras y los Servidores Públicos Municipales y del Servicio Civil de Carrera, establecido en los capítulos XXV y XXVI entrará en vigor hasta el primero de diciembre del 2021 y una vez que se haya realizado la reglamentación correspondiente.
-
-Cuarto. Los nombramientos de los titulares de las diversas dependencias creadas en virtud de lo estipulado en la presente Ley, se harán a la entrada en funciones de la próxima administración.
-
-Quinto. Los Ayuntamientos de conformidad con su capacidad presupuestaria harán los ajustes presupuestales necesarios o los incluirán en el siguiente ejercicio fiscal correspondiente para cumplir con lo establecido en la presente Ley.
-
-(NOTA: EL 23 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 69/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-Sexto. EL MUNICIPIO DEBERÁ ACATAR LO ESTABLECIDO EN LA LEGISLACIÓN ESPECIALIZADA EN MATERIA DE COMUNIDADES INDÍGENAS, MODIFICANDO EN SU REGLAMENTO MUNICIPAL LO NECESARIO PARA SU ADECUADA CUMPLIMENTACIÓN.
-
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
-
-DADO EN EL PALACIO DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 15 quince días del mes de febrero de 2021 dos mil veintiuno.
-
-ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. OCTAVIO OCAMPO CÓRDOVA.- PRIMER SECRETARIA.- DIP. YARABÍ ÁVILA GONZÁLEZ.- SEGUNDA SECRETARIA.- DIP. MARÍA TERESA MORA COVARRUBIAS.- TERCER SECRETARIO.- DIP. ARTURO HERNÁNDEZ VÁZQUEZ. (Firmados).
-
-En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 16 dieciséis días del mes de marzo del año 2021 dos mil veintiuno.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados)
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 4 DE JULIO DE 2022.
-
-###### Artículo 79.
-
-Son atribuciones de la Contralora o Contralor Municipal:
-
-I. Presentar al Ayuntamiento, para su aprobación, un Plan de Trabajo Anual, incluyendo la estructura operativa, conforme a la suficiencia presupuestal en el primer trimestre, contado a partir de la fecha de su nombramiento;
-
-II. Proponer y aplicar normas y criterios en materia de control y evaluación que deban observar las dependencias y entidades de la Administración Pública Municipal;
-
-III. Vigilar y verificar en tiempo y forma el cumplimiento del Plan de Desarrollo Municipal y los programas operativos anuales, por dependencia y entidad, atendiendo a su impacto social y desarrollo sustentable;
-
-IV. Realizar auditorías de forma periódica, a las dependencias y entidades de la Administración Pública Municipal;
-
-V. Vigilar y revisar la correcta captación y manejo de los ingresos y la aplicación del gasto público;
-
-VI. Presentar a la Auditoría, un informe de las actividades de la Contraloría Municipal, de acuerdo a lo establecido en la ley de la materia; señalando las irregularidades que, derivado de su función, se hayan detectado, estableciendo las sugerencias y recomendaciones correspondientes;
-
-VII. Verificar que la Administración Pública Municipal realice el registro e inventario de los bienes muebles e inmuebles del Municipio, cumpliendo con las normas para tal efecto, además de mantener dicho inventario actualizado de forma anual;
-
-VIII. Vigilar y revisar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de Servicios Públicos Municipales, se supediten a lo establecido por la normatividad en la materia, pudiendo manifestarse en relación con los mismos;
-
-IX. Vigilar y revisar que la obra pública municipal se ajuste a las disposiciones de la legislación de la materia;
-
-X. Establecer, difundir y operar sistemas para quejas, denuncias y sugerencias, accesibles y amigables con la ciudadanía;
-
-XI. Participar en la entrega-recepción de las dependencias y entidades de la Administración Pública Municipal;
-
-XII. Verificar los estados financieros de la Tesorería Municipal, revisar la integración y la remisión de la cuenta pública municipal en tiempo y forma, así como realizar las observaciones correspondientes;
-
-XIII. Vigilar lo relacionado con las declaraciones, patrimonial, de intereses y lo relativo a la fiscal, de las servidoras y servidores públicos municipales, de acuerdo a la normatividad en materia de responsabilidades;
-
-XIV. Vigilar el desarrollo de las dependencias y entidades de la Administración Pública Municipal, a fin de que en el ejercicio de sus funciones, apliquen con eficiencia los recursos humanos, financieros y patrimoniales, priorizando la aplicación, seguimiento de programas de austeridad, racionalización del gasto y simplificación administrativa;
-
-XV. Establecer y dar seguimiento a los indicadores de desempeño de las funciones de los servidores público municipales para que éstas se realicen conforme a la normatividad;
-
-XVI. Proponer al Ayuntamiento, dentro del plan de trabajo, los recursos humanos, materiales, técnicos y financieros requeridos para el desempeño de sus funciones, de acuerdo a las condiciones presupuestales del Municipio;
-
-XVII. Vigilar y revisar, bajo su estricta responsabilidad, el cumplimiento de las disposiciones de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, la presente ley y la normatividad aplicable en lo concerniente al ejercicio presupuestal en materia de servicios personales, de cuyas irregularidades habrá de dar cuenta al Sistema Estatal Anticorrupción, a través de los órganos de éste;
-
-XVIII. Presentar semestralmente a la Auditoría Superior de Michoacán los informes de sus actividades, dentro de los quince días siguientes al término del semestre, con base a su programa de trabajo aprobado y demás disposiciones que la Auditoría disponga;
-
-XIX. Presentar informe a la Auditoría Superior de Michoacán sobre cualquier irregularidad observada y reportada al Ayuntamiento que no haya sido debidamente atendida;
-
-XX. Iniciar los procedimientos de responsabilidades en términos de la legislación en la materia, como parte del Sistema Estatal Anticorrupción; y,
-
-XXI. Los demás que le confiera la normatividad.
-
-En caso de renuncia definitiva de la Contralora o Contralor, el Cabildo nombrará un encargado de despacho y se llevará a cabo de nuevo el procedimiento previsto para elegir a la nueva contralora o contralor emitiendo la convocatoria a los 15 días naturales después de haberse efectuado la renuncia.
-
-###### Artículo 80.
-
-La Contraloría Municipal deberá contar con personal técnico calificado en las áreas contable, administrativa y de obra pública, pudiendo contratar como asesoría externa, si así lo decide el Ayuntamiento, en función de la suficiencia presupuestaria.
+IV. Las demás que le otorga la ley.
 
 ## TRANSITORIOS
 
@@ -3345,37 +1287,37 @@ Alejandro Leal Tovías
 
 P.O. 5 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 158 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, INCISO A) DEL ARTÍCULO 40 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0125.- SE DEROGA EL ARTÍCULO 18 DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial (sic) Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-P.O. 24 DE NOVIEMBRE DE 2022.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 207 POR EL QUE “SE REFORMA LA FRACCIÓN V, SE ADICIONA LA FRACCIÓN VI Y SE DEROGAN SUS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 50; SE ADICIONA EL ARTÍCULO 54 BIS; Y, SE REFORMA EL ARTÍCULO 55, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+P.O. 27 DE FEBRERO DE 2020.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0591.- SE REFORMA EL ARTÍCULO 20 EN SU FRACCIÓN III; Y DEROGA DEL MISMO ARTÍCULO 20 LA FRACCIÓN II, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-SEGUNDO. Dese cuenta el presente Decreto a la Presidencia de la Mesa directiva y al Presidente de la Junta de Coordinación Política, ambos de este Congreso, para el solo efecto de su conocimiento y registro correspondiente.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
-P.O. 30 DE MARZO DE 2023.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 342 POR EL QUE “SE ADICIONA UN ARTÍCULO 94 BIS Y UN ARTÍCULO 94 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+P.O. 17 DE MARZO DE 2020.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Notifíquese a los 111 ayuntamientos del Estado de Michoacán de Ocampo, al Concejo Mayor de Cherán; y, al Concejo Municipal de Penjamillo.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0627.- SE DEROGA DEL ARTÍCULO 20 LA FRACCIÓN V, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-Segundo. Los gobiernos municipales deberán expedir la reglamentación respectiva, publicar el catálogo de espacios públicos y resolver lo conducente, conforme al presente Decreto, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
-Se deroga lo que se oponga al presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 30 DE MARZO DE 2023.
+P.O. 20 DE OCTUBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 343.- ARTÍCULO ÚNICO.- SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 50, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UN ARTÍCULO 55 BIS, A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0769.- SE REFORMA LOS ARTÍCULOS 42 Y 76, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. El Titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
-SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-TERCERO. Se exhorta a los 111 ayuntamientos del Estado de Michoacán de Ocampo, al Concejo Mayor de Cherán; y, al Concejo Municipal de Penjamillo, para que en un plazo no mayor a 90 días naturales se integre la Comisión Municipal para la Protección de los Derechos de las Niñas, Niños y Adolescentes.
+P.O. 15 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1207.- SE ADICIONA AL TÍTULO QUINTO EL CAPÍTULO XVI “PODER JUDICIAL DEL ESTADO”, Y EL ARTÍCULO 79, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
@@ -3398,5 +1340,21 @@ P.O. 12 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0994.- SE REFORMAN LOS ARTÍCULOS 3° LA FRACCIÓN XIX, 6° LA FRACCIÓN I, 9° LA FRACCIÓN II Y 77 LA FRACCIÓN V, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1023.- SE REFORMAN LOS ARTÍCULOS 9º EN SU FRACCIÓN IV EL INCISO H), 78 Y EN EL TÍTULO QUINTO LA DENOMINACIÓN DEL CAPÍTULO XV, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
