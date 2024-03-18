@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2024-03-12"
+last_updated: "2024-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1039,7 +1039,7 @@ c) Que no se le haya declarado caducidad, revocado, declarado nulidad o haya ced
 
 d) Contar con la solvencia económica necesaria a juicio de la Secretaría, para prestar el servicio público de transporte en las mejores condiciones para el usuario.
 
-e) No tener antecedentes penales.
+e) (DEROGADO, P.O. 18 DE MARZO DE 2024)
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
 
@@ -1047,7 +1047,9 @@ f) Contar con licencia para la modalidad que se trate.
 
 g) No tener reclamos pendientes de solventar por daños a terceros derivados de la prestación del servicio público de transporte.
 
-h) Aprobar examen médico y toxicológico, y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
+h) Aprobar examen médico, capacidad visual y toxicológico, así como acreditar los permisos de conducción necesarios, y
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2016)</small>
 
@@ -1359,11 +1361,15 @@ III. Relativos al operador:
 
 El operador de transporte colectivo urbano en cualquiera de sus modalidades deberá cumplir con los siguientes requisitos:
 
-a) Acreditar una escolaridad mínima de secundaria.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
 
-b) Contar con una edad mínima de veinte años de edad en caso de operadores del transporte urbano y colectivo de más de diez pasajeros; pero en los de menor número podrá ser de dieciocho años de edad.
+a) Acreditar una escolaridad mínima de secundaria, contar con los permisos de conducción necesarios y aprobar las pruebas de manejo, respectivas.
 
-c) No contar con antecedentes penales.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
+b) Para el caso de operadores de transporte urbano y colectivo de más de diez pasajeros, contar con una experiencia mínima de dos años en cualquier otra modalidad;
+
+c) (DEROGADO, D.O.F. 18 DE MARZO DE 2024)
 
 d) Estar inscrito en el Registro de Transporte Público.
 
@@ -3324,3 +3330,11 @@ P.O. 12 DE MARZO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1024.- SE REFORMAN LOS ARTÍCULOS 51 EN SU FRACCIÓN I EL INCISO H) Y 67 EN SU FRACCIÓN III LOS INCISOS A) Y B); Y DEROGA A LOS ARTÍCULOS 51 FRACCIÓN I EL INCISO E) Y 67 FRACCIÓN III EL INCISO C), DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
