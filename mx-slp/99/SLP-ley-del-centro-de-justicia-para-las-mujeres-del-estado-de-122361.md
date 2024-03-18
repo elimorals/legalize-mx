@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2024-01-03"
+last_updated: "2024-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -287,7 +287,9 @@ f) Sistema para el Desarrollo Integral de la Familia (DIF Estatal).
 
 g) Consejo Estatal de Población.
 
-h) Instituto de Atención a Migrantes.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
+h) Instituto de Migración y Enlace Internacional.
 
 i) Instituto de las Mujeres del Estado.
 
@@ -1189,7 +1191,9 @@ IV. Capacitación en perspectiva de género y derechos humanos a personas usuari
 
 V. Supervisión del manejo de servicios y de la transparencia del Centro.
 
-### Capítulo XV. Procuraduría General de Justicia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2024)</small>
+
+### Capítulo XV. Fiscalía General del Estado
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -1215,9 +1219,11 @@ V. Además de los reportes e informes que deba realizar a la Fiscalía General d
 
 VI. Cuando de la denuncia presentada se infiera que la usuaria o víctima de violencia se encuentra en situación de riesgo, con su consentimiento y a través del área de trabajo social del Centro, hará las gestiones necesarias para que la misma y en su caso sus hijas e hijos menores sean ingresados al albergue temporal o a un Refugio según se requiera.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 78.
 
-La Procuraduría brindará además en los casos en que sea necesario, la realización de dictámenes médico-legista por medio de personal de sexo femenino.
+La Fiscalía General del Estado brindará además en los casos en que sea necesario, la realización de dictámenes médico-legista por medio de personal de sexo femenino.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 2021)</small>
 
@@ -1340,6 +1346,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0994.- SE REFORMAN LOS ARTÍCULOS 3° LA FRACCIÓN XIX, 6° LA FRACCIÓN I, 9° LA FRACCIÓN II Y 77 LA FRACCIÓN V, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1023.- SE REFORMAN LOS ARTÍCULOS 9º EN SU FRACCIÓN IV EL INCISO H), 78 Y EN EL TÍTULO QUINTO LA DENOMINACIÓN DEL CAPÍTULO XV, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
