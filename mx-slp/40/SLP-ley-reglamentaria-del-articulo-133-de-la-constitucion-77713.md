@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-133-de-la-constitucion-77713"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-11"
-last_updated: "2023-07-19"
+last_updated: "2024-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 11 de noviembre de 2010.
 
@@ -97,7 +97,9 @@ a) Estatales:
 
 2. El Poder Legislativo.
 
-2.1. Y la Auditoría Superior del Estado
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
+2. 1. Y el Instituto de Fiscalización Superior del Estado.
 
 3. El Poder Judicial.
 
@@ -239,9 +241,11 @@ VI. Las políticas para la asignación de percepciones variables como, bonos, co
 
 El Manual deberá remitirse a más tardar al tercer día de concluido, a la Dirección del Periódico Oficial del Estado, para su publicación.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2024)</small>
+
 ###### ARTICULO 22.
 
-Las instituciones públicas incluirán en la cuenta pública que deben rendir anualmente ante la Auditoría Superior del Estado, un capítulo donde se exprese en forma detallada el destino de la partida asignada originalmente para el pago de las remuneraciones de los servidores públicos.
+Las instituciones públicas incluirán en la cuenta pública que deben rendir anualmente ante el Instituto de Fiscalización Superior del Estado de San Luis Potosí, un capítulo donde se exprese en forma detallada el destino de la partida signada originalmente para el pago de las remuneraciones de los servidores públicos.
 
 ### CAPITULO IV. DISPOSICIONES COMPLEMENTARIAS
 
@@ -298,5 +302,13 @@ P.O. 19 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0795.- SE REFORMA EL ARTÍCULO 24 DE LA LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1027.- SE REFORMA EL ARTÍCULO 94 EN SU FRACCIÓN XXIV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 4° EN SU FRACCIÓN V INCISO A) EL PUNTO 2.1 Y EL ARTÍCULO 22, DE LA LEY REGLAMENTARIA DEL ARTÍCULO 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIONES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
