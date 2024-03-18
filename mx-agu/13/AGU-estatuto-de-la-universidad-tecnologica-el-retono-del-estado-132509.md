@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-de-la-universidad-tecnologica-el-retono-del-estado-132
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-12-17"
-last_updated: "2018-12-17"
+last_updated: "2024-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO DE LA UNIVERSIDAD TECNOLOGICA EL RETOÑO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de diciembre de 2018.
 
@@ -974,3 +976,43 @@ Jefe de Departamento de los Organismos Públicos Descentralizados del Instituto 
 MTRO. JOSÉ ANTONIO LUGO MEDINA
 
 Asesor de la Dirección de Educación Superior del Instituto de Educación del Estado de Aguascalientes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto de la Universidad Tecnológica El Retoño entrará en vigor al día siguiente de su publicación (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Estatuto de la Universidad Tecnológica El Retoño, se abroga el Estatuto de la Universidad Tecnológica El Retoño, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, del día lunes 17 de diciembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Estatuto de la Universidad Tecnológica El Retoño, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para el caso de los asuntos y procedimientos que se lleven a cabo ante el Tribunal de Justicia Administrativa, se estará en lo dispuesto por el ARTÍTCULO (sic) SEGUNDO TRANSITORIO y ARTÍTCULO (sic) DÉCIMO CUARTO TRANSITORIO del Decreto Número 405, por el que se reforman, adicionan y derogan diversas disposiciones a la Constitución Política del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el 8 de agosto del presente año.
+
+###### ARTÍCULO QUINTO.
+
+Se ordena inscribir el presente Estatuto de la Universidad Tecnológica El Retoño, en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales, de conformidad con la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Directivo de la Universidad Tecnológica El Retoño deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable a la referida Universidad, con motivo de la entrada en vigor del presente Estatuto de la Universidad Tecnológica El Retoño.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor del presente Estatuto, deberán de ser expedidos los Manuales de Organización y Procedimientos, así como la demás normatividad interna necesaria para el funcionamiento y operación de la Universidad Tecnológica El Retoño.
+
+Se deberán llevar a cabo los procedimientos y actos administrativos correspondientes para el cumplimiento del presente Estatuto, garantizando los derechos de los trabajadores, en los términos establecidos para tal efecto.
+
+###### ARTÍCULO OCTAVO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Directivo de la Universidad Tecnológica El Retoño deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
