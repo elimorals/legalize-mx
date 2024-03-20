@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2023-09-13"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -528,6 +528,10 @@ XIV. La prevención, protección y atención para el cumplimiento de una vida li
 XV. Al acceso y plena disposición del agua para consumo personal y doméstico en forma suficiente, potable y salubre a fin de no poner en riesgo su salud y supervivencia, en condiciones de igualdad y no discriminación.
 
 La ley establecerá los mecanismos para garantizar este derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2024)</small>
+
+XVI. La atención médica y servicios de salud con enfoque humanizado, intercultural y seguro durante el embarazo, parto y puerperio de las mujeres y para los recién nacidos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4878,3 +4882,13 @@ P.O. 13 DE SEPTIEMBRE DE 2023.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE DERECHO DE LAS MUJERES Y RECIÉN NACIDOS A LA ATENCIÓN MÉDICA Y SERVICIOS DE SALUD CON ENFOQUE HUMANIZADO, INTERCULTURAL Y SEGURO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá aprobar las adecuaciones a los ordenamientos jurídicos y normativos correspondientes.
