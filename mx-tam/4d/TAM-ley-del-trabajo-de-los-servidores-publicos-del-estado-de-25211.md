@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-09-19"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE SEPTIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -253,9 +251,17 @@ I.- Normas sobre la calidad e intensidad del trabajo;
 
 II.- Medidas que deban adoptarse para prevenir la realización de riesgos profesionales;
 
-III.- Disposiciones disciplinarias y formas de aplicarlas; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-IV.- Normas para la realización de labores, horarios, licencias y demás reglas que fueren necesarias para obtener mayor seguridad y eficacia en el desarrollo de las mismas.
+III.- Disposiciones disciplinarias y formas de aplicarlas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+IV.- Normas para la realización de labores, horarios, licencias y demás reglas que fueren necesarias para obtener mayor seguridad y eficacia en el desarrollo de las mismas; y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2024)</small>
+
+V.- Normas que regulen el derecho de los trabajadores para usar los asientos o sillas con respaldo durante la jornada laboral, de conformidad con lo previsto por el artículo 33, fracción XXIII y su párrafo segundo.
 
 ### CAPITULO II. JORNADA DE TRABAJO
 
@@ -469,19 +475,29 @@ Los permisos señalados en esta fracción no podrán ser sujetos de compensació
 
 XIX.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos económicos con goce de sueldo, los que se fijarán en los respectivos Reglamentos de las Condiciones Generales de Trabajo.
 
-Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente; y
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente;
 
-XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a las madres, padres o tutores trabajadores por las horas necesarias para participar, cuando se les convoque, en las evaluaciones de desempeño y/o aspectos relacionados con la conducta de sus hijas e hijos, siempre y cuando justifiquen su participación en estas y notifiquen oportunamente a su superior jerárquico por lo menos con un día de antelación al de su ausencia.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
+XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a las madres, padres o tutores trabajadores por las horas necesarias para participar, cuando se les convoque, en las evaluaciones de desempeño y/o aspectos relacionados con la conducta de sus hijas e hijos, siempre y cuando justifiquen su participación en estas y notifiquen oportunamente a su superior jerárquico por lo menos con un día de antelación al de su ausencia;
 
-XXI.- Otorgar permiso por luto, por un plazo mínimo de 3 días con goce de sueldo a las personas trabajadoras por muerte de algún familiar dentro del primer grado por consanguinidad o afinidad. Estos días serán aquellos inmediatos al deceso.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2023)</small>
+XXI.- Otorgar permiso por luto, por un plazo mínimo de 3 días con goce de sueldo a las personas trabajadoras por muerte de algún familiar dentro del primer grado por consanguinidad o afinidad. Estos días serán aquellos inmediatos al deceso;
 
-XXII.- Otorgar incapacidad de hasta por tres días con goce íntegro de sueldo, a aquellas mujeres trabajadoras que acrediten con el debido justificante médico que el dolor ocasionado por su periodo menstrual, les impide y/o limita el desempeño de sus actividades laborales.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+XXII.- Otorgar incapacidad de hasta por tres días con goce íntegro de sueldo, a aquellas mujeres trabajadoras que acrediten con el debido justificante médico que el dolor ocasionado por su periodo menstrual, les impide y/o limita el desempeño de sus actividades laborales; y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2024)</small>
+
+XXIII.- Proveer el número suficiente de asientos o sillas con respaldo a disposición de todas las personas trabajadoras del Gobierno del Estado, tanto para la ejecución de sus funciones como para el descanso periódico durante la jornada laboral. Esta disposición solo podrá limitarse cuando la naturaleza del trabajo implique riesgos a la seguridad e integridad de los trabajadores derivados de tomar asiento durante el desarrollo de la función laboral.
+
+Está prohibido obligar a las trabajadoras y los trabajadores a permanecer de pie durante toda la jornada laboral, sea cual sea el puesto laboral.
+
+Está prohibido negar a las trabajadoras y trabajadores que tomen asiento periódicamente durante el desarrollo de sus funciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -1890,3 +1906,19 @@ Quien ostente la titularidad de la Procuraduría de la Defensa del Trabajo del S
 ###### ARTÍCULO QUINTO.
 
 Los trabajadores de la Procuraduría de la Defensa del Trabajo del Servidor Público seguirán conservando sus derechos laborales, mismos que no se verán afectados con motivo de la expedición del presente Decreto.
+
+P.O. 20 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-823 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes contarán con un plazo máximo de 90 días a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones correspondientes al Reglamento de las Condiciones Generales de Trabajo, para dar cumplimiento a lo dispuesto por el artículo 33, fracción XXIII.
+
+###### ARTÍCULO TERCERO.
+
+El Gobierno del Estado contará con un plazo máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, para la implementación del equipo e instrumentos en sus centros de trabajo que refiere el artículo 33, fracción XXIII.
