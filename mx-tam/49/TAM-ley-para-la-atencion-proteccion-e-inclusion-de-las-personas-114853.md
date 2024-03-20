@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-atencion-proteccion-e-inclusion-de-las-personas-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2023-12-11"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY PARA LA ATENCION, PROTECCION E INCLUSION DE LAS PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS (ANTES: LEY PARA LA ATENCION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS)
 
-LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS
+LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 26 de mayo de 2016.
 
@@ -39,7 +39,9 @@ D E C R E T O No. LXII-951
 
 MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS.
 
-LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2024)</small>
+
+LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -47,9 +49,11 @@ LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AU
 
 Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en el Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene por objeto impulsar la plena integración e inclusión a la sociedad de las personas con la condición del espectro autista, mediante la atención, protección de sus derechos y necesidades fundamentales que les son reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Tamaulipas, sin perjuicio de los derechos tutelados por otras leyes u ordenamientos.
+La presente Ley tiene por objeto impulsar la plena integración e inclusión a la sociedad de las personas con la condición del espectro autista o trastornos del neurodesarrollo, mediante la atención, protección de sus derechos y necesidades fundamentales que les son reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Tamaulipas, sin perjuicio de los derechos tutelados por otras leyes u ordenamientos.
 
 ###### Artículo 3.
 
@@ -73,39 +77,67 @@ VIII. Secretaría: Secretaría de Salud del Estado de Tamaulipas;
 
 IX. Sector social: Sector de la economía a que se refiere el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Sector privado: Personas físicas y jurídicas dedicadas a las actividades preponderantemente lucrativas y las de carácter civil distintas a los sectores público y social; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-XI. Transversalidad: Diversas formas de coordinación no jerárquica utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la administración pública estatal y sus correlativas de la administración pública federal y municipal.
+X. Sector privado: Personas físicas y jurídicas dedicadas a las actividades preponderantemente lucrativas y las de carácter civil distintas a los sectores público y social;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2024)</small>
+
+XI. Trastornos del Neurodesarrollo: Son un grupo de trastornos que se caracterizan por déficits en el desarrollo que provocan alteraciones en el sistema nervioso, las cuales se expresan en forma diferente en distintas etapas del crecimiento; y
+
+XII. Transversalidad: Diversas formas de coordinación no jerárquica utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la administración pública estatal y sus correlativas de la administración pública federal y municipal.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
 
 ###### Artículo 4.
 
-Corresponde al Estado asegurar el respeto y ejercicio de los derechos que les asisten a las personas con la condición del espectro autista.
+Corresponde al Estado asegurar el respeto y ejercicio de los derechos que les asisten a las personas con la condición del espectro autista o trastornos del neurodesarrollo.
 
 ###### Artículo 5.
 
 Las autoridades estatales y municipales, con el objeto de dar cumplimiento a la presente Ley, deberán implementar de manera progresiva las políticas y acciones correspondientes conforme a los programas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2024)</small>
+
 ###### Artículo 6.
 
-Los principios fundamentales que deberán contener las políticas públicas en materia del espectro autista, son:
+Los principios fundamentales que deberán tener las políticas públicas en materia de los trastornos del neurodesarrollo son:
 
-I. Autonomía: Coadyuvar a que las personas con la condición del espectro autista se puedan valer por sí mismas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-II. Dignidad: Valor que reconoce una calidad única y excepcional a todo ser humano por el simple hecho de serlo;
+I. Autonomía: Coadyuvar a que las personas con la condición del espectro autista o con trastornos del neurodesarrollo se puedan valer por sí mismas;
 
-III. Igualdad: Aplicación de derechos iguales para todas las personas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-IV. Inclusión: Actuación de los integrantes de la sociedad sin discriminación ni prejuicios, considerando que la diversidad es una condición humana;
+II. Dignidad: Valor que reconoce a las personas con la condición del espectro autista o con trastornos del neurodesarrollo como dotados de una calidad única y excepcional inherente a todo ser humano por el simple hecho de serlo;
 
-V. Inviolabilidad de los derechos: Prohibición de pleno derecho para que ninguna persona u órgano de gobierno atente, lesione o destruya los derechos humanos ni las leyes, políticas públicas y programas en favor de las personas con la condición del espectro autista;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-VI. Justicia: Dar a las personas con la condición del espectro autista la atención que responda a sus necesidades y a sus legítimos derechos humanos y civiles;
+III. Igualdad: Aplicación de los derechos iguales para todas las personas, incluidas aquellas con la condición del espectro autista o con trastornos del neurodesarrollo;
 
-VII. Libertad: Capacidad de las personas con la condición del espectro autista de elegir los medios para su desarrollo personal o, en su caso, a través de sus familiares en orden ascendente o tutores;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-VIII. Respeto: Consideración al comportamiento y forma de actuar distinta de las personas con la condición del espectro autista;
+IV. Inclusión: Habilidad social por la que las personas actúan sin discriminación ni prejuicios en relación a las personas con la condición del espectro autista o con trastornos del neurodesarrollo, considerando que la diversidad es una condición humana;
 
-IX. Transparencia: Acceso objetivo, oportuno, sistemático y veraz a la información sobre la magnitud, políticas, programas y resultados de las acciones puestas en marcha por las autoridades participantes en la gestión y resolución de la condición del espectro autista; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+V. Inviolabilidad de los Derechos: Prohibición de pleno derecho para que ninguna persona u órgano de gobierno atente, lesione o destruya los derechos humanos, ni las leyes, políticas públicas y programas en favor de las personas con la condición del espectro autista o con trastornos del neurodesarrollo;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+VI. Justicia: Habilidad social consistente en dar a cada uno lo que pertenece o le corresponde. Dar a las personas con la condición del espectro autista o con trastornos del neurodesarrollo, la atención que responda a sus necesidades y a sus legítimos derechos humanos y civiles;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+VII. Libertad: Capacidad de las personas con la condición del espectro autista o con trastornos del neurodesarrollo de elegir los medios para su desarrollo personal o, en su caso, a través de sus familiares en orden ascendente o tutores;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+VIII. Respeto: Consideración al comportamiento y forma de actuar distinta al de las personas con la condición del espectro autista o con trastornos del neurodesarrollo;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+IX. Transparencia: Acceso objetivo, oportuno, sistemático y veraz a la información sobre la magnitud, políticas, programas y resultados de las acciones puestas en marcha por las autoridades participantes en la gestión y resolución de la condición del espectro autista o con trastornos del neurodesarrollo; y
 
 X. Los demás que respondan a la interpretación de los principios rectores en materia de derechos humanos contenidos en el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, así como el artículo 16 de la Constitución Política del Estado de Tamaulipas.
 
@@ -113,9 +145,11 @@ X. Los demás que respondan a la interpretación de los principios rectores en m
 
 Para el cumplimiento de lo dispuesto en la presente Ley, las dependencias y entidades de la Administración Pública Estatal formularán, respecto de los asuntos de su competencia, las propuestas de programas, objetivos, metas, estrategias y acciones, así como sus previsiones presupuestarias.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
+
 ###### Artículo 8.
 
-Los municipios se coordinarán con el gobierno estatal, mediante la celebración de convenios de coordinación en el marco de la planeación estatal del desarrollo, con el fin de alinear los programas municipales con la política pública en materia de atención y protección a personas con la condición del espectro autista, con arreglo al sistema competencial que corresponde a cada orden de gobierno, a fin de lograr una efectiva transversalidad de las políticas públicas.
+Los Municipios en conjunto con el Gobierno Estatal, a través del Plan Estatal de Desarrollo, llevarán a cabo la celebración de convenios de coordinación en el marco de la Planeación Estatal del Desarrollo, con el fin de alinear los programas estatales con la política pública en materia de atención y protección a personas con la condición del espectro autista o con trastornos del neurodesarrollo; lo anterior con arreglo al sistema competencia¡ que corresponde a cada orden de gobierno a fin de lograr una efectiva transversalidad de las políticas públicas.
 
 ###### Artículo 9.
 
@@ -139,13 +173,17 @@ VI. El Código Civil para el Estado de Tamaulipas.
 
 #### SECCIÓN PRIMERA. DERECHOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2024)</small>
+
 ###### Artículo 10.
 
-Se reconocen como derechos fundamentales de las personas con la condición del espectro autista y de sus familias, en los términos de las disposiciones aplicables, los siguientes:
+Se reconocen como derechos fundamentales para las personas con la condición del espectro autista o con trastornos del neurodesarrollo, así como para sus familias, en los términos y las disposiciones aplicables los siguientes:
 
 I. Gozar plenamente de los derechos humanos que garantizan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Tamaulipas, las leyes aplicables y los tratados internacionales suscritos por el Estado Mexicano;
 
-II. Recibir el apoyo y la protección de sus derechos constitucionales y legales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+II. Recibir el apoyo y la protección de sus derechos constitucionales y legales por parte de todas las autoridades del Estado y de los municipios que lo integran;
 
 III. Tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo con los objetivos de los sistemas Nacional y Estatal de Salud;
 
@@ -153,7 +191,9 @@ IV. Solicitar y recibir los diagnósticos indicativos del estado en que se encue
 
 V. Recibir consultas clínicas y terapias de habilitación especializadas en la red de los servicios de Salud del Estado y sus municipios;
 
-VI. Disponer de su ficha personal en lo que concierne al área médica, psicológica, psiquiátrica y educativa;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+VI. Solicitar y recibir los diagnósticos indicativos del estado en que se encuentren las personas con la condición del espectro autista o con trastornos del neurodesarrollo;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
@@ -207,23 +247,35 @@ Con la finalidad de garantizar los derechos de las personas con la condición de
 
 Son sujetos obligados a garantizar el ejercicio de los derechos descritos en el artículo anterior, los siguientes:
 
-I. Las instituciones públicas del Estado de Tamaulipas y sus municipios, para atender y garantizar los derechos descritos en el artículo anterior en favor de las personas con la condición del espectro autista, en el ejercicio de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-II. Las instituciones privadas con servicios especializados en la atención de la condición del espectro autista, derivado de la subrogación contratada;
+I. Las instituciones públicas del Estado de Tamaulipas y sus municipios, para atender y garantizar los derechos descritos en el artículo anterior en favor de las personas con la condición del espectro autista o con trastornos del neurodesarrollo, en el ejercicio de sus respectivas competencias. Fundamentalmente, las dependencias del sector salud y de educación, para garantizar diagnósticos temprano y atención adecuada en la infancia;
 
-III. Los padres o tutores, para otorgar los alimentos y representar los intereses y los derechos de las personas con la condición del espectro autista;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-IV. Los profesionales de la medicina, educación y demás profesionistas que resulten necesarios para alcanzar la habilitación debida de las personas con la condición del espectro autista;
+II. Las instituciones privadas con servicios especializados en la atención de la condición del espectro autista o de los trastornos del neurodesarrollo, que los presten a nombre del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+III. Los padres o tutores, para otorgar los alimentos y representar los intereses y derechos de las personas con la condición del espectro autista o con trastornos del neurodesarrollo;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+IV. Los profesionales de la medicina, educación y demás profesionistas que resulten necesarios para alcanzar la habilitación debida de las personas con la condición del espectro autista o con trastornos del neurodesarrollo, fundamentalmente los profesionales del sector salud y educación para garantizar la detección temprana y la atención adecuada en la niñez;
 
 V. Los integrantes del sector social y privado; y
 
 VI. Todos aquéllos que determine la presente Ley o cualquier otro ordenamiento jurídico que resulte aplicable.
 
-### CAPÍTULO III. COMISIÓN ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2024)</small>
+
+### CAPÍTULO III. DE LA COMISIÓN INTERINSTITUCIONAL ESTATAL DE ATENCIÓN AL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
 
 ###### Artículo 12.
 
-Se constituye la Comisión Estatal para la Atención y Protección a Personas con la Condición del Espectro Autista, como una instancia de carácter permanente del Ejecutivo Estatal, que tendrá por objeto garantizar que la ejecución de los programas en materia de atención a las personas con la condición del espectro autista, se realice de manera coordinada. Los acuerdos adoptados en el seno de la Comisión serán obligatorios, por lo que las autoridades competentes deberán cumplirlos a fin de lograr los objetivos de la presente Ley.
+Se crea la Comisión Interinstitucional Estatal de Atención al Espectro Autista y Trastornos del Neurodesarrollo como una instancia de carácter permanente del Gobierno del Estado, que tendrá por objeto garantizar que la ejecución de los programas en materia de atención a las personas con la condición del espectro autista o con trastornos del neurodesarrollo se realice de manera coordinada. Los acuerdos adoptados en el seno de la Comisión serán obligatorios, por lo que las autoridades competentes deberán cumplirlos a fin de lograr los objetivos de la presente Ley.
 
 ###### Artículo 13.
 
@@ -263,7 +315,9 @@ II. Apoyar y proponer mecanismos de coordinación entre las autoridades de la fe
 
 III. Apoyar y proponer mecanismos de concertación con los sectores social y privado, en términos de la Ley Estatal de Planeación, a fin de dar cumplimiento al principio de transversalidad, así como vigilar la ejecución y resultado de los mismos;
 
-IV. Apoyar la promoción de las políticas, estrategias y acciones en la materia de la presente Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+IV. Apoyar la promoción de las políticas, estrategias y acciones en la materia de la presente Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas, considerando prioritario el diagnóstico temprano y la atención adecuada en la niñez;
 
 V. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la administración pública estatal en materia de atención de las personas con la condición del espectro autista; y
 
@@ -277,13 +331,17 @@ El titular de la Secretaría recabará del Consejo General de Salud, la opinión
 
 Corresponden a la Secretaría las siguientes acciones:
 
-I. Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista para procurar su habilitación;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+I. Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico temprano y tratamiento de las personas con la condición del espectro autista o con trastornos del neurodesarrollo para procurar su habilitación;
 
 II. Vincular las actividades de los Servicios Estatales de Salud con los centros de investigación de las universidades públicas y privadas del estado, en materia de atención y protección a personas con la condición del espectro autista;
 
 III. Realizar campañas de información a la población sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad;
 
-IV. Implementar acciones de capacitación y actualización dirigidas al personal de salud, educación y demás áreas involucradas para la detección y atención de las personas con la condición del espectro autista;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+
+IV. Implementar acciones de capacitación y actualización dirigidas al personal de salud y demás áreas involucradas para la detección y atención de las personas con la condición del espectro autista o con trastornos del neurodesarrollo. Las acciones dirigidas al personal de educación priorizarán la capacitación para la atención adecuada en la niñez;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
@@ -408,3 +466,15 @@ P.O. 11 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-826 MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, ASÍ COMO DIVERSAS DISPOSICIONES AL ORDENAMIENTO DE REFERENCIA, PARA QUEDAR COMO LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El cumplimiento del presente Decreto estará sujeto a la disponibilidad presupuestal para el presente ejercicio fiscal.
