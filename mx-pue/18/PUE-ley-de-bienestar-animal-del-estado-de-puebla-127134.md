@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-11-05"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -67,9 +67,17 @@ Son objeto de tutela de esta Ley los animales que se encuentren en forma transit
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Adopción: acto mediante el cual una institución pública o privada legalmente establecida, transfiere la propiedad o posesión, así como la responsabilidad de cuidado y protección de un animal de compañía a una persona física o moral, y mediante el cual se adquieren las obligaciones a las que la presente Ley se refiere;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-II. Animal abandonado: aquéllos que deambulen libremente sin método de identificación, así como aquéllos que habiendo estado bajo el cuidado del ser humano, queden sin el cuidado de sus propietarios o poseedores, o que estando bajo el cuidado de los mismos, éstos no les provean de las necesidades básicas que garanticen su bienestar;
+I. Adopción: Acto mediante el cual una institución pública o privada legalmente establecida, o un particular transfiere la propiedad o posesión, así como la responsabilidad de cuidado y protección de un animal a una persona física o moral, y mediante el cual se adquieren las obligaciones a las que la presente Ley se refiere;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+II. Animal: Ser vivo pluricelular, sintiente, constituido por diferentes tejidos, con un sistema nervioso especializado que le permite moverse y reaccionar de manera coordinada ante estímulos;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+II Bis. Animal abandonado: Aquéllos que deambulen libremente sin método de identificación, así como aquéllos que habiendo estado bajo el cuidado del ser humano, queden sin el cuidado de sus propietarios o poseedores, o que estando bajo el cuidado de los mismos, éstos no les provean de las necesidades básicas que garanticen su bienestar;
 
 III. Animal de abasto: aquellas especies cuyo uso directo o indirecto es la producción de alimentos o bienes para consumo del ser humano o de otros animales;
 
@@ -101,27 +109,47 @@ XV. Bienestar animal: Estado físico y mental de un animal sano en el que su cui
 
 XVI. Campañas: acción pública realizada de manera periódica para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para evitar la reproducción irracional de animales; o para difundir la concientización entre la población para el bienestar animal;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2024)</small>
 
-XVII. Centros de Atención Canina: los establecimientos de servicio público, a cargo de los Ayuntamientos, o en su caso sus proveedores o concesionarios, que lleven a cabo de manera enunciativa más no limitativa, las siguientes actividades:
+XVII. Centros de Bienestar Animal: Los establecimientos de servicio público, a cargo de los Ayuntamientos, o en su caso, sus proveedores o concesionarios, que lleven a cabo de manera enunciativa más no limitativa, las siguientes actividades:
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 a) Programas de prevención y control de la rabia en perros y gatos;
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
+
 b) Atención de reportes ciudadanos referentes a animales que representen un riesgo para la salud pública, el bienestar de las personas o de otros animales;
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 c) Captura humanitaria de perros y gatos en la calle o abandonados;
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
+
 d) Sacrificio humanitario de animales únicamente por el sufrimiento que padezca en términos de la presente Ley, y conforme a lo dispuesto en las normas oficiales mexicanas aplicables;
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 e) Jornadas permanentes de vacunación antirrábica;
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
+
 f) Recolección en vía pública de animales enfermos o lastimados para su atención y observación clínica, o en caso de que la calidad de vida del animal se vea comprometida, proporcionarle una muerte humanitaria, así como la disposición de cadáveres;
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 g) Toma de muestras de animales sospechosos de enfermedad rábica para remisión o diagnóstico de laboratorio;
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
+
 h) Esterilización quirúrgica de perros y gatos;
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
+
 i) Proporcionar primeros auxilios a personas agredidas por animales para su inmediata remisión a las unidades de salud correspondientes, y
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 j) Consultas médica veterinaria a perros y gatos.
 
@@ -131,17 +159,23 @@ XIX. Comportamiento Innato: patrón de conducta típico de las diversas especies
 
 XX. Criadero animal: establecimiento donde se realizan todo tipo de actividades encaminadas a favorecer la reproducción de los animales de compañía, mediante métodos que no impliquen maltrato o crueldad;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-XXI. Crueldad animal: todo acto intencional de violencia que produzca daño, sufrimiento, lesiones o la muerte de un animal, entre los que se encuentran, de forma enunciativa más no limitativa, los actos de zoofilia, abandono, tortura, mutilación, incendio, asfixia, ataques con ácido, con objetos punzocortantes, con armas de fuego, uso de pirotecnia o explosivos, suministro de alcohol o drogas sin fines veterinarios, vivisección, experimentación ilícita, azuzar a otros animales para atacar y la sobre explotación de su trabajo;
+XXI. Crueldad animal: Todo acto intencional de violencia que produzca daño, sufrimiento, lesiones o la muerte de un animal, entre los que se encuentran, de forma enunciativa más no limitativa, los actos sexuales, abandono, tortura, mutilación, incendio, asfixia, ataques con ácido, con objetos punzocortantes, con armas de fuego, uso de pirotecnia o explosivos, suministro de alcohol, veneno, drogas sin fines veterinarios, vivisección, experimentación ilícita, azuzar a otros animales para atacar y la sobre explotación de su trabajo;
 
 XXII. Escuela de adiestramiento: establecimiento en el que se modifican los patrones de comportamiento de los animales mediante programas que no impliquen maltrato o crueldad;
 
 XXIII. Especie: miembros de poblaciones animales no pertenecientes al género humano, que se reproducen o pueden reproducirse entre sí en la naturaleza y no de acuerdo a una apariencia similar;
 
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+XXIII Bis. Estética Canina: Lugar en donde se brinda corte, baño y demás servicios que proporcionan higiene y belleza a los perros;
+
 XXIV. Experimentación animal: cualquier acto en el que un animal vivo es usado para fines de investigación científica, diagnóstico de enfermedades, entrenamiento médico, desarrollo y seguridad de productos químicos y farmacéuticos, propósitos educativos o modificación genética de conformidad con la (sic) Normas Oficiales Mexicanas;
 
-XXV. Fauna Nociva: especies animales que por su naturaleza, número o comportamiento pongan en riesgo la salud o seguridad de los seres humanos;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+XXV. Fauna Nociva: Animales que por su naturaleza, número o comportamiento pongan en riesgo la salud o seguridad de los seres humanos;
 
 XXVI. Hospital Veterinario: establecimiento encargada (sic) del cuidado de la salud y bienestar animal, donde se realizan consultas y tratamientos médicos veterinarios avanzados, así como cirugías y procedimientos quirúrgicos;
 
@@ -235,17 +269,19 @@ II. Elaborar y proponer al Ejecutivo del Estado los ordenamientos y demás dispo
 
 III. Celebrar convenios de coordinación con las autoridades federales o municipales, organismos internacionales, así como con personas físicas o morales del sector privado, social o académico, para el cumplimiento de los objetivos de la presente Ley;
 
-IV. Promover por sí o en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado de Puebla;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+IV. Promover por sí o en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado, procurando en todo momento su bienestar;
 
 V. Vigilar el cumplimiento de las disposiciones de la presente Ley y demás disposiciones legales que de la misma emanen;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-VI. Aplicar sanciones, medidas de seguridad y medidas correctivas en casos de crueldad animal, en los términos previstos en esta Ley;
+VI. Aplicar sanciones y medidas correctivas en casos de crueldad animal, en los términos previstos en esta Ley;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
 
-VIL Sustanciar los procedimientos administrativos correspondientes en materia de crueldad animal, y
+VII. Sustanciar los procedimientos administrativos correspondientes en materia de crueldad animal, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
 
@@ -265,27 +301,37 @@ Corresponde a la Secretaría de Salud, el ejercicio de las siguientes atribucion
 
 I. Coadyuvar cuando le sea solicitado por las autoridades competentes, en la realización de visitas de inspección y vigilancia, a efecto de verificar el estado en que los animales se encuentran;
 
-II. Establecer campañas de vacunación antirrábicas, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, sin perjuicio de la competencia que corresponda a autoridades de orden federal o municipal, en términos de la normatividad aplicable, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+II. Promover campañas de vacunación antirrábicas sanitarias para el control y erradicación de enfermedades zoonóticas, de esterilización y desparasitación; sin perjuicio de la competencia que corresponda a autoridades de orden federal o municipal, en términos de la normatividad aplicable, y
 
 III. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
+
+Para la implementación y desarrollo de las campañas a las que se refiere el presente artículo se deberá, contar con personal capacitado e indispensable para resguardar a los animales durante el procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría de Educación Pública, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría de Educación el ejercicio de las siguientes atribuciones:
 
 I. Aplicar la política estatal de bienestar animal al interior de los centros educativos del Estado, para la mejor comprensión de la comunidad escolar;
 
 II. Fomentar en los centros educativos del Estado, la preservación, el cuidado y la prestación de auxilio a los animales;
 
-III. Implementar al interior de los centros educativos del Estado, campañas periódicas de educación y concientización en materia de bienestar animal, así como de respeto y trato digno a los animales, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+III. Implementar al interior de los centros educativos del Estado, campañas periódicas de educación, sensibilización y concientización en materia de bienestar animal, así como de respeto, protección, procuración y trato digno a los animales, y
 
 IV. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde a los Ayuntamientos, el ejercicio de las siguientes atribuciones:
+Corresponde a los Ayuntamientos, el ejercicio de las siguientes atribuciones y obligaciones:
 
 I. Formular y conducir la política municipal de bienestar animal, conservación y aprovechamiento de la fauna silvestre, mismas que deberán ser acordes con las políticas estatal y federal;
 
@@ -295,17 +341,17 @@ III. Celebrar convenios con otros órdenes de gobierno, así como con los sector
 
 IV. Controlar y atender los problemas asociados con animales que representen un riesgo o daño para la salud, seguridad y bienestar de las personas o sus bienes;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-V. Destinar el presupuesto suficiente para establecer y garantizar el correcto funcionamiento del o los Centros de Atención Canina que determinen; los cuales deberán contar con espacios dignos y de uso exclusivo para desarrollar sus actividades, contar con la supervisión de un médico veterinario para asegurar el bienestar de los animales que, por las causas previstas en la presente ley se encuentren dentro de los mismos; además de cumplir con las medidas de seguridad, higiene y normas oficiales que correspondan;
+V. Destinar el presupuesto suficiente, de acuerdo a su capacidad financiera para crear, instalar, administrar, regular y operar los Centros de Bienestar Animal y garantizar su debido funcionamiento; los cuales deberán de contar con espacios dignos y de uso exclusivo para desarrollar sus actividades, contar con la supervisión de médicos veterinarios con título y cédula profesional, para asegurar el bienestar de los animales que, por las causas previstas en la presente Ley, se encuentren dentro de los mismos; además de cumplir con las medidas de seguridad, higiene y Normas Oficiales Mexicanas que correspondan;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-VI. Aplicar sanciones y medidas de seguridad en casos de maltrato animal e infracciones relacionadas con tenencia responsable, cría, venta de animales, atención médica, albergues, adiestramiento, deportes y espectáculos públicos en los términos previstos en esta Ley;
+VI. Conocer, atender y aplicar sanciones y medidas de seguridad en casos de maltrato animal e infracciones relacionadas con tenencia responsable, cría, venta de animales, atención médica, albergues, deportes, espectáculos públicos, estéticas caninas o adiestramiento, y explotación comercial o doméstica;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-VII. Verificar, en coordinación con las autoridades competentes, que las actividades relacionadas con la cría, venta de animales, atención médica, albergues o adiestramiento cumplan con las disposiciones aplicables en la materia;
+VII. Verificar, en coordinación con las autoridades competentes, que las actividades relacionadas con la cría, venta de animales, atención médica, albergues, estéticas caninas o adiestramiento, cumplan con las disposiciones aplicables en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
 
@@ -315,9 +361,19 @@ VIII. Prevenir y controlar los casos relacionados con maltrato animal e infracci
 
 IX. Las demás que le correspondan en términos de los ordenamientos legales de la materia.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-Las autoridades competentes, de manera conjunta o separada y en el ámbito de sus respectivas competencias, promoverán entre la sociedad una cultura de respeto y bienestar de los animales, a través de programas y campañas de difusión, con base en las disposiciones establecidas en este ordenamiento, pudiendo contar con el apoyo de los sectores social y privado.
+Las autoridades, de manera conjunta o separada, en el ámbito de sus respectivas competencias, promoverán entre la sociedad una cultura de respeto, adopción, buen trato y bienestar de los animales.
+
+Para ello, podrán incluir la participación de los sectores social y privado, tales como personas físicas, asociaciones protectoras de animales, rescatistas y profesionales de la medicina veterinaria y zootecnia, con base en las disposiciones siguientes:
+
+I. Convocar a las organizaciones empresariales, instituciones educativas, organizaciones no gubernamentales, personas físicas y jurídicas para la realización de estudios e investigaciones, e implementar programas y acciones conjuntas de difusión en favor del bienestar animal;
+
+II. Celebrar convenios con los medios de comunicación masiva para la difusión, información, promoción del bienestar animal, y
+
+III. Establecer programas y campañas de difusión, con base en las disposiciones establecidas en este ordenamiento, pudiendo contar con el apoyo de los sectores privado y social, para que, en caso de extravío de las mascotas, se logre su pronta localización.
 
 ###### ARTÍCULO 14.
 
@@ -333,9 +389,9 @@ Las autoridades competentes, promoverán y participarán en la capacitación y a
 
 Se crea el Instituto de Bienestar Animal del Estado de Puebla, como Órgano Desconcentrado de la Secretaría, mismo que ejercerá las facultades siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-I. Fomentar y promover la cultura cívica de protección, responsabilidad, adopción, respeto, trato humanitario y bienestar animal, en coordinación con los sectores público, privado y social;
+I. Fomentar y promover la cultura cívica de protección, responsabilidad, adopción responsable, respeto, trato humanitario y bienestar animal, en coordinación con los sectores público, privado y social;
 
 II. Diseñar programas de educación y capacitación en materia de protección, trato humanitario y bienestar animal, en coordinación con las autoridades competentes, así como de programas de educación no formal con el sector social, privado y académico;
 
@@ -343,7 +399,9 @@ III. La creación y administración de los padrones siguientes:
 
 a) Padrón Estatal de Perros y Gatos;
 
-b) Padrón de Personas físicas y establecimientos comerciales dedicados a la exhibición y venta de animales de compañía;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
+b) Padrón de personas físicas y establecimientos comerciales dedicados a la exhibición y venta de animales de compañía y albergues;
 
 c) Padrón de criadores de animales de compañía;
 
@@ -379,7 +437,9 @@ X. Proponer la celebración de convenios con los hospitales veterinarios, clíni
 
 XI. Informar de forma inmediata a las autoridades competentes respecto de la realización de presentaciones de circos con animales;
 
-XII. Fomentar la creación de Centros de Atención Canina por parte de los ayuntamientos y coadyuvar para que en su funcionamiento se observe lo dispuesto por esta ley y su reglamento;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+XII. Fomentar y, en su caso, coordinar la creación de Centros de Bienestar Animal por parte de los Ayuntamientos, dando seguimiento de manera constante de la instalación y operación de los mismos; y en los municipios donde ya existan estos, promover el establecimiento de clínicas veterinarias públicas de fomento a la tenencia responsable, a través de la medicina preventiva y curativa básica;
 
 XIII. Procurar la recaudación de donaciones en dinero o en especie, a través de la organización de eventos benéficos, en coordinación con el sector privado y social, así como los diferentes niveles de Gobierno, para el cumplimiento de las disposiciones de esta Ley;
 
@@ -387,21 +447,25 @@ XIII. Procurar la recaudación de donaciones en dinero o en especie, a través d
 
 XIV. Emitir el dictamen de cumplimiento a la normatividad aplicable en materia de bienestar animal;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-XV. Brindar atención psicológica, que permita sensibilizar a las personas que lo requieran, con el objeto de mejorar y modificar su trato hacia los animales;
+XV. Brindar atención psicológica y/o pedagógica a infractores de esta Ley, que permita concientizar y sensibilizar con el objeto de modificar y mejorar su trato hacia los animales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-XVI. Prevenir y controlar los casos de crueldad animal, dando parte a la Secretaría de los asuntos en los que sea procedente;
+XVI. Prevenir, atender y controlar los casos de crueldad animal, a través de visitas de inspección y medidas de seguridad dando parte a la Secretaría de los asuntos en los que sea procedente;
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-XVII. Brindar atención veterinaria, así como albergue temporal a los animales involucrados en casos de crueldad animal, procediendo a dar en adopción en los términos de la presente Ley, y
+XVII. Brindar atención veterinaria, así como albergue temporal a los animales involucrados en casos de crueldad animal, procediendo a dar en adopción en los términos de la presente Ley;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2024)</small>
 
-XVIII. Las demás que por disposición legal le correspondan.
+XVIII. Diseñar y coordinar, con la participación de las organizaciones de la sociedad civil, acciones de difusión y promoción sobre la protección animal, así como los programas de adopción responsable de animales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2024)</small>
+
+XIX. Las demás que por disposición legal le correspondan.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES E INFRACCIONES EN MATERIA DE BIENESTAR ANIMAL
 
@@ -415,7 +479,9 @@ I. Proveer al animal con alimento y agua en la cantidad y calidad adecuadas para
 
 II. Proveer al animal un espacio adecuado para su alojamiento y resguardo de las condiciones climáticas adversas o de cualquier otro factor externo que le pudiese ocasionar algún daño, de acuerdo con las características propias de su especie y sus patrones de comportamiento innato;
 
-III. Suministrarle oportunamente al animal los tratamientos veterinarios preventivos que le permitan conservar su salud, y los tratamientos veterinarios curativos y paliativos necesarios y adecuados, de acuerdo a su padecimiento;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+III. Suministrarle oportunamente al animal los tratamientos veterinarios preventivos que le permitan conservar su salud, y los tratamientos veterinarios curativos y paliativos necesarios y adecuados, de acuerdo a su padecimiento, incluyendo el cuadro de vacunación recurrente contra enfermedades endémicas;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
 
@@ -435,9 +501,9 @@ VIII. Recoger las heces de sus animales, particularmente cuando transiten con el
 
 IX. Abstenerse de realizar cirugías estéticas que vayan en contra de (sic) naturaleza del animal y que le generen un dolor innecesario, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-X. Tener un buen trato hacia el animal, que le permita su correcto desenvolvimiento en el entorno, en la vía pública y su trato con demás personas, y
+X. Dar buen trato al animal, que le permita su correcto desenvolvimiento en el entorno, en la vía pública y su trato con demás personas y animales; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2020)</small>
 
@@ -449,13 +515,19 @@ Para los efectos de la presente Ley, se considerarán como infracciones a la mis
 
 I. Cualquier hecho, acto u omisión que cause maltrato al animal, así como crueldad;
 
-II. Someter a un animal a la realización de trabajos o actividades que sobrepasen su fuerza o capacidad, en vista de las condiciones físicas en que se encuentra;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-III. La práctica de la zoofilia;
+II. Someter a un animal a la realización de trabajos, horarios o actividades que sobrepasen su fuerza o capacidad, en vista de las condiciones físicas en que se encuentra;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+III. La práctica de conductas sexuales con animales;
 
 IV. Vender animales que se encuentren enfermos o lesionados, en cuyo caso el vendedor estará obligado a prestarles atención médica veterinaria inmediata;
 
-V. Abandonar a un animal;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+V. Abandonar a un animal, dejarlo en azoteas o encadenarlo por periodos prolongados, en términos de lo previsto por el artículo 21 de la presente Ley;
 
 VI. Entrenar animales con el objeto de desarrollar en ellos conductas agresivas, salvo los animales destinados a actividades de seguridad, protección o guardia;
 
@@ -463,11 +535,13 @@ VII. Azuzar a los animales para que se ataquen entre ellos o a las personas, o r
 
 VIII. Comprar, vender y explotar animales en la vía pública;
 
-IX. Vender animales en establecimientos que carezcan de las autorizaciones, licencias o permisos exigidos por la ley;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+IX. Vender animales en establecimientos que carezcan de las autorizaciones, licencias, permisos y condiciones exigidos por la ley;
 
-IX Bis. La venta de animales vivos a menores de dieciocho años de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por el menor, de la adecuada subsistencia, trato digno y respetuoso para el animal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE MARZO DE 2024)</small>
+
+IX Bis. La adopción o venta de animales vivos a personas menores de dieciocho años de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por la o el menor de edad, de la adecuada subsistencia, trato digno, bienestar y respeto para el animal;
 
 X. Realizar la presentación de espectáculos públicos, que impliquen el uso de animales, a excepción de los señalados en el artículo 19 de la presente Ley;
 
@@ -491,13 +565,17 @@ XVIII. Transitar en lugares públicos con animales de compañía que no estén c
 
 XIX. Realizar prácticas de vivisección y experimentación en animales con fines científicos o didácticos en los niveles de enseñanza básica, media y media superior. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-XX. Llevar a cabo pruebas en animales con el propósito de comercializar o fabricar productos cosméticos, salvo los casos previstos en la Ley General de Salud; y
+XX. Llevar a cabo pruebas en animales con el propósito de comercializar o fabricar productos cosméticos, salvo los casos previstos en la Ley General de Salud;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2024)</small>
 
-XXI. Las demás que establezca la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
+XXI. Utilizar a los animales como premios u obsequios, en ferias, concursos o cualquier actividad análoga; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2024)</small>
+
+XXII. Las demás que establezca la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -507,17 +585,41 @@ La tauromaquia, la charrería, las peleas de gallos, el establecimiento de centr
 
 En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo en el que participen animales vivos, debe garantizarse su trato digno y respetuoso durante el tiempo en que dure su utilización, así como en su traslado y en los tiempos de espera, permitiendo la presencia de las autoridades competentes, así como la presencia del personal capacitado para su cuidado y atención.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
-Ningún animal podrá permanecer encadenado, sujeto por cualquier medio o en un espacio reducido que no le permita su patrón de comportamiento natural por un tiempo tan largo que afecte nocivamente su salud, mientras se encuentra en la propiedad de su propietario o poseedor y sin que haya causa justificada.
+Ningún animal, será sometido a tratos, acciones u omisiones crueles tales como:
+
+I. Permanecer encadenado, sujeto por cualquier medio o en un espacio reducido que no le permita su patrón de comportamiento natural, por un tiempo tan largo que afecte nocivamente su salud, mientras se encuentra en la propiedad de su poseedor o propietario y sin que haya causa justificada;
+
+II. Dejarlos solos dentro de vehículos automotores, expuestos a condiciones térmicas o de cualquier índole que puedan poner su vida en peligro;
+
+III. Dejarlos en azoteas, a la intemperie o en inmuebles abandonados; y
+
+IV. Someterlos a tratamientos de entrenamiento forzados, o castigos que le provoquen sufrimiento o maltrato, o le causen estados de ansiedad o miedo.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-Las personas físicas o morales cuya actividad comercial sea la cría de animales, deberán utilizar métodos naturales o artificiales de reproducción que no causen dolor, sufrimiento, daño o desordenes de comportamiento. Las tiendas de mascotas podrán exhibir un catálogo de animales de compañía, que se encuentren bajo resguardo de alguna de las autoridades competentes o asociaciones protectoras de animales para su adopción.
+Las personas físicas o morales cuya actividad comercial sea la cría de animales, deberán administrarles alimento adecuado, suplementos alimenticios y utilizar métodos naturales o artificiales de reproducción que no causen dolor, sufrimiento, daño o desordenes de comportamiento.
+
+Tratándose de perros y gatos, de acuerdo a su edad, raza y tamaño, no podrán ser utilizados para reproducción cuando tengan más de cuatro años.
+
+Las tiendas de mascotas podrán exhibir un catálogo de animales de compañía, que se encuentren bajo resguardo de alguna de las autoridades competentes o asociaciones protectoras de animales para su adopción.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-Las instalaciones de los Centros de Atención Canina, asociaciones de protección animal, escuelas de adiestramiento, tiendas de mascotas, clínicas y hospitales veterinarios y demás establecimientos destinados al alojamiento temporal o permanente de animales, deberán contar con un médico veterinario y personal capacitado para el cuidado de los mismos.
+Las instalaciones de los Centros de Bienestar Animal, asociaciones de protección animal, escuelas de adiestramiento, tiendas de mascotas, clínicas, hospitales veterinarios, estéticas caninas, y demás establecimientos destinados al alojamiento temporal o permanente de animales, deberán:
+
+I. Contar con al menos una persona médico veterinario con título y cédula profesional, así como personal capacitado para el cuidado de los mismos;
+
+II. Contar con espacio suficiente e higiénico, de acuerdo a sus necesidades, y
+
+III. Dar un trato digno, cubrir sus necesidades alimenticias y de salud.
 
 ###### ARTÍCULO 24.
 
@@ -553,7 +655,9 @@ Toda persona que no pueda hacerse cargo del animal de compañía del cual es pro
 
 Si un animal, deambula en la vía pública, las autoridades competentes tomarán las medidas pertinentes para su captura. Si el animal cuenta con placa o cualquier otro medio para su identificación se deberá notificar a su propietario o poseedor de inmediato.
 
-Los animales capturados serán trasladados a los Centros de Atención Canina, asociaciones de protección animal y demás instituciones públicas o privadas con las cuales las autoridades competentes tengan convenio de colaboración para el albergue y atención médica veterinaria de los mismos; de acuerdo con su especie.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
+Los animales capturados serán trasladados a los Centros de Bienestar Animal, asociaciones de protección animal y demás instituciones públicas o privadas con las cuales las autoridades competentes tengan convenio de colaboración para el albergue y atención médica veterinaria de los mismos; de acuerdo con su especie.
 
 ###### ARTÍCULO 31.
 
@@ -565,23 +669,33 @@ En todo caso, la entrega del animal quedará sujeta a la aprobación de las auto
 
 Transcurrido el periodo a que se refiere el artículo 31 de la presente Ley, las instituciones públicas o privadas que hayan suscrito convenios con las autoridades competentes encargadas del albergue de animales, deberán alojar a los mismos por un periodo de al menos 30 días hábiles más, a efecto de destinarlos a la adopción.
 
-Los animales abandonados o decomisados en términos de la presente Ley, que por sus características sean aptos para realizar funciones de apoyo para personas con discapacidad y terapia asistida por animales, o para funciones de seguridad pública; podrán ser entrenados por expertos calificados en la materia y serán otorgados en adopción a las personas o instituciones públicas o privadas que requieran el servicio de estos animales.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
-Transcurridos los períodos a que se refieren los artículos 31 y 32, se deberá realizar cualquiera de las acciones encaminadas a racionalizar la utilización de recursos públicos en la atención de los animales abandonados.
+Los animales abandonados, capturados o rescatados, en términos de la presente Ley, que por sus características sean aptos para realizar funciones de apoyo para personas en situación de vulnerabilidad y terapia asistida por animales, o para funciones de seguridad pública; búsqueda o rescate, podrán ser entrenados por personas expertas calificadas en la materia y serán otorgados en adopción a las personas o instituciones públicas o privadas que requieran el servicio de estos animales.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
+Transcurridos los períodos a que se refieren los artículos 31 y 32 de la presente Ley, se deberá realizar cualquiera de las acciones encaminadas a racionalizar la utilización de recursos públicos en la atención de los animales abandonados, sin que esto implique su sacrificio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-Tratándose de perros y gatos, los Centros de Atención Canina y asociaciones de protección animal, deberán entregarlos en adopción previamente esterilizados.
+Tratándose de perros y gatos, los Centros de Bienestar Animal, y las asociaciones de protección animal, deberán entregarlos en adopción previamente esterilizados.
 
 Igual obligación deberán cumplir los establecimientos legalmente constituidos que se dediquen a la venta de perros y gatos; salvo que el comprador sea dueño de un criadero.
 
 ### CAPÍTULO VII. DE LOS ANIMALES DE TRABAJO Y ABASTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-Además de cumplir con las disposiciones establecidas en el artículo 17 de la presente Ley, el trato de animales de trabajo, de acuerdo a la capacidad de su especie, se sujetará a lo siguiente:
+Además de cumplir con las disposiciones establecidas en el artículo 17 de la presente Ley, el trato para los animales de trabajo, de acuerdo a la capacidad de su especie, raza, tamaño, edad y condiciones de salud, se sujetará al menos a lo siguiente:
 
-I. Cuando cargados caigan, deberán ser descargados de inmediato para evitar que se lastimen y de ninguna manera golpearlos para que se levanten;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+I. Cuando cargados caigan, deberán ser descargados de inmediato para evitar que se lastimen;
 
 II. La carga para animales, deberá distribuirse proporcionalmente en su lomo y retirarse al concluir el traslado de la misma;
 
@@ -589,15 +703,33 @@ III. Estar provistos de los arneses adecuados para la actividad que vayan a desa
 
 IV. Estará prohibido cualquier acto de violencia en el arreo de los animales;
 
-V. Los vehículos de tracción animal, no deberán ser cargados con un peso desproporcionado a las condiciones físicas de los animales que se utilicen, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-VI. Estar provistos de los elementos necesarios para evitar la dispersión de sus evacuaciones, cuando transiten en las áreas urbanas.
+V. Los vehículos de tracción animal, no deberán ser cargados con un peso desproporcionado a las condiciones físicas de los animales que se utilicen;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+VI. Estar provistos de los elementos necesarios para evitar la dispersión de sus evacuaciones, cuando transiten en las áreas urbanas;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+VII. Por ningún motivo podrán ser golpeados para obligarlos a levantarse, o para obligarlos a que sigan trabajando;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+VIII. Las jornadas de trabajo, no serán mayores a 8 horas, y deberán tener una hora de descanso, a la mitad de su jornada laboral, en las que se les proporcionará agua y alimento; y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+IX. Los animales enfermos, heridos, desnutridos, las hembras en el periodo próximo al parto y los impedidos para trabajar debido a su poca o avanzada edad, por ningún motivo serán utilizados para tiro y carga, y queda igualmente prohibido cabalgar sobre animales que se encuentren en estas condiciones.
 
 ###### ARTÍCULO 35.
 
 Las condiciones a que serán sometidos los animales de abasto, estarán sujetas al uso para el cual estén destinados, garantizando siempre su bienestar, no obstante lo anterior, les serán aplicables las disposiciones relativas al transporte y sacrificio humanitario.
 
-El sacrificio humanitario de animales de abasto sólo podrá practicarse en los centros de sacrificio autorizados de conformidad con la legislación aplicable en la materia.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
+El sacrificio humanitario de animales de abasto sólo podrá practicarse en los centros de sacrificio autorizados de conformidad con la legislación aplicable en la materia, minimizando cualquier dolor, estrés o sufrimiento del animal.
 
 ###### ARTÍCULO 36.
 
@@ -637,9 +769,11 @@ VI. El responsable de los animales durante su traslado deberá inspeccionar cons
 
 Ningún animal podrá ser sacrificado sin previa insensibilización, realizada por persona con los conocimientos y habilidades necesarios para llevar a cabo dicho procedimiento.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-El sacrificio humanitario de animales de compañía que no se encuentren en los supuestos del Capítulo VI de la Ley, solo podrá realizarse en razón del sufrimiento que padezca.
+El sacrificio humanitario de animales de compañía deberá realizarse en razón del sufrimiento o padecimiento que tenga.
 
 ###### ARTÍCULO 42.
 
@@ -653,9 +787,11 @@ Los tratamientos médicos y procedimientos quirúrgicos, sólo podrán ser lleva
 
 Los tratamientos veterinarios y procedimientos quirúrgicos para propósitos educativos y de entrenamiento médico que causen dolor, sufrimiento, daño o mutilación a los animales, sólo podrán llevarse a cabo en instituciones de educación superior, científicas y hospitales médicos veterinarios y cuando no existan medios alternativos para lograr el mismo propósito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 45.
 
-En las clínicas, hospitales veterinarios y Centros de Atención Canina, únicamente se dará atención médica a los animales por parte de médicos veterinarios.
+En las clínicas, hospitales veterinarios y Centros de Bienestar Animal, se dará atención médica a los animales únicamente por parte de médicos veterinarios, quienes deberán contar con título y cédula profesional para ejercer.
 
 En dichos establecimientos, los pasantes de medicina veterinaria podrán realizar la consulta, tratamiento y procedimientos quirúrgicos a animales, únicamente bajo la supervisión de un médico veterinario que será responsable de la atención que se brinde.
 
@@ -843,9 +979,29 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el 
 
 Se considera que existe reincidencia cuando se incurre en la misma conducta infractora en el periodo de un mismo año.
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
+
+ARTÍCULO 65 BIS. Para mejorar las condiciones de vida y garantizar el bienestar de los animales que no hayan sido asegurados, las autoridades competentes deberán imponer las medidas correctivas siguientes:
+
+I. Mejorar el régimen de alimentación e hidratación de los animales;
+
+II. Brindar o mejorar la higiene corporal de los animales;
+
+III. Brindar o mejorar la higiene de los espacios, recipientes y objetos con los que interactúan los animales;
+
+IV. Aplicar o complementar la medicina veterinaria preventiva y/o curativa adecuada, a través de profesionales en la materia;
+
+V. Aplicar medidas médico veterinarias para el control reproductivo de los animales; o
+
+VI. Cumplir con las obligaciones de registro, identificación, trato digno, contención y protección del animal.
+
 ###### ARTÍCULO 66.
 
 De comprobarse que los animales han sido sometidos a crueldad, la multa podrá incrementarse hasta por un doble de su importe.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
+
+La persona infractora deberá tomar atención psicológica o pedagógica enfocada a la sensibilización y concientización, con el objeto de modificar y mejorar su trato hacia los animales.
 
 ###### ARTÍCULO 67.
 
@@ -1069,7 +1225,9 @@ III. Los datos que permitan identificar al presunto infractor, y
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
 
-Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que las autoridades competentes investiguen de oficio los hechos constitutivos de la denuncia.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
+Asimismo, podrá formularse la denuncia por vía telefónica y correo electrónico en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que las autoridades competentes investiguen de oficio los hechos constitutivos de la denuncia.
 
 Si el denunciante solicita a las autoridades competentes guardar secreto respecto de su identidad, por razones de seguridad e interés particular, estas llevarán a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables les otorgan.
 
@@ -1174,3 +1332,13 @@ P.O. 5 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA; DE LA LEY ORGÁNICA MUNICIPAL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos deberán hacer las previsiones presupuestarias y adecuaciones normativas pertinentes para la creación y correcta operación de los Centros de Bienestar Animal.
