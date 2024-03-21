@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2023-11-29"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-11-01"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2024.
 
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
@@ -1683,7 +1683,7 @@ XXVIII. Formular recomendaciones específicas sobre cada caso que conozca y darl
 
 XXIX. Brindar servicios de orientación y asesoría jurídica a las personas que se consideren víctimas de violaciones a derechos humanos, violencia laboral o de género que sean de su competencia o infracciones a los Códigos de Ética o de Conducta en el Instituto;
 
-XXX. Prestar servicios de defensoría pública gratuita e independiente en procedimientos al interior del Instituto, por medio de personas autorizadas para el ejercicio de la profesión de abogado, adscritas a la Dirección de Derechos Humanos, Genero e Integridad o acreditadas por ésta, a fin de evitar su indefensión y garantizar el derecho a la defensa en materia de violaciones a derechos humanos, violencia laboral o de género, que sean de su competencia, infracciones a los Códigos de Ética o de Conducta o responsabilidades administrativas;
+XXX. (DEROGADA, D.O.F. 21 DE MARZO DE 2024)
 
 XXXI. Coadyuvar con las personas que se consideren víctimas de violaciones a derechos humanos, violencia laboral o de género, que sean de su competencia, o infracciones a los Códigos de Ética o de Conducta en el Instituto, en el ofrecimiento, preparación, gestión y desahogo de medios de prueba en los procedimientos al interior del Instituto en que sean parte;
 
@@ -2296,3 +2296,29 @@ NOVENO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 DÉCIMO. Una vez que la Dirección General de Planeación, Desempeño Institucional y Derechos Humanos haya empezado a funcionar efectivamente, ésta deberá coordinarse con el Comité de Ética, a efecto de realizar una revisión y adecuación integral del marco normativo y de actuación del Instituto en materia de ética, conducta, violencia laboral, hostigamiento y acoso sexual, con el fin de fortalecer y hacer más ágiles, efectivos y expeditos los procedimientos respectivos, en particular los relacionados con las medidas de protección y con la investigación y remediación de los actos de violencia en el Instituto en contra de las mujeres.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones en el ámbito del INAI que se opongan al presente Acuerdo.
+
+D.O.F. 21 DE MARZO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la modificación del artículo 43, fracción XXX, del Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, para quedar en los siguientes términos:
+
+[...]
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+El presente Acuerdo puede ser consultado en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-21-02-2024.09.pdf
+
+www.dof.gob.mx/2024/INAI/ACT-PUB-21-02-2024-09.pdf
+
+TERCERO. Se instruye a la Secretaria Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+CUARTO. Se instruye a la Secretaria Técnica del Pleno para que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación de este Acuerdo para agilizar su cumplimiento.
+
+QUINTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Acuerdo serán continuados y concluidos conforme a las disposiciones vigentes a su inicio.
+
+SÉPTIMO. Se derogan todas las disposiciones en el ámbito del INAI que se opongan al presente Acuerdo.
