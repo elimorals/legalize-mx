@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2024-03-13"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1507,9 +1507,13 @@ LXII.- Promover la contratación de personas en contexto de vulnerabilidad en el
 
 LXIII.- Actualizar sus marcos normativos de conformidad con sus atribuciones;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-LXIV.- Formular y conducir la política municipal sobre conservación y aprovechamiento sustentable de la vida silvestre en el Municipio, además de las atribuciones que le otorgue la Ley de Protección a los Animales para el Estado de Puebla;
+LXIV.- Formular y conducir la política municipal sobre conservación y aprovechamiento sustentable de la vida silvestre y de bienestar animal en el Municipio; que deberá incluir la creación, instalación, administración, regulación y operación de los Centros de Bienestar Animal y garantizar su debido funcionamiento; en términos de la Ley de Bienestar Animal del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+LXIV Bis.- Destinar el presupuesto suficiente, de acuerdo con su capacidad financiera, para la creación y operación de Centros de Bienestar Animal en función de las necesidades que tenga el Municipio conforme a la incidencia de casos de maltrato animal y/o sobrepoblación animal en vía pública;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
@@ -4622,3 +4626,13 @@ P.O. 13 DE MARZO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA; DE LA LEY ORGÁNICA MUNICIPAL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos deberán hacer las previsiones presupuestarias y adecuaciones normativas pertinentes para la creación y correcta operación de los Centros de Bienestar Animal.
