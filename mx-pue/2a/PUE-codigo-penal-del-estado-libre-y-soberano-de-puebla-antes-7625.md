@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2024-02-21"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -6611,47 +6611,51 @@ En las actividades que desarrollen el o los policías que ejecuten la orden, se 
 
 #### SECCIÓN ÚNICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### Artículo 470.
 
-Al que, mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de seis meses a cuatro años de prisión y multa de cincuenta a trescientas unidades de medida y actualización vigente al momento que se cometa el delito.
+Al que, mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de diez meses a cuatro años de prisión y multa de cincuenta a trescientas Unidades de Medida y Actualización vigente al momento que se cometa el delito.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+Si las lesiones ponen en peligro la vida del animal, las penas se incrementarán en una mitad.
 
-Si las lesiones ponen en peligro la vida del animal, las penas se incrementará (sic) en una mitad.
+Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrán de cinco a ocho años de prisión y multa de doscientas a quinientas Unidades de Medida y Actualización vigente al momento que se cometa el delito.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+En cualquiera de los casos anteriores, se incrementará la sanción en dos tercios más de las señaladas, cuando concurra que dichas conductas sean cometidas con armas, explosivos y medios violentos.
 
-Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrán de cuatro a ocho años de prisión y multa de doscientas a quinientas unidades de medida y actualización vigente al momento que se cometa el delito.
-
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
-
-En cualquiera de los casos anteriores, se incrementará la sanción en un tercio más de las señaladas, cuando concurra que dichas conductas sean cometidas con medios violentos como armas y explosivos.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### Artículo 471.
 
-Para efectos de esta Sección, se entenderá como animal, toda especie doméstica o silvestre, que no constituya fauna nociva, en términos de lo dispuesto en el artículo 3 de la Ley de Protección a los Animales para el Estado de Puebla.
+Para efectos de esta Sección, se entenderá como animal, toda especie doméstica, adiestrada, bruta, de compañía, de cautiverio, feral, de trabajo, de carga, de seguridad, de protección, de guardia o silvestre, que no constituya fauna nociva, en términos de lo dispuesto en el artículo 3 de la Ley de Bienestar Animal del Estado de Puebla.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
 
-###### Artículo 472.
+###### ARTÍCULO 472.
 
-Las sanciones previstas en el artículo 470 se incrementarán en una mitad en los supuestos siguientes:
+Las sanciones previstas en los artículos 470 y 474 Quinquies, se incrementarán en una mitad en los supuestos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 I. Si se prolonga innecesariamente la agonía o el sufrimiento del animal;
 
-II. Si se utilizan métodos de extrema crueldad; o
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-III. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio.
+II. Si se utilizan métodos de crueldad;
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+III. Si además de realizar los actos de maltrato, crueldad o actos sexuales en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografías o videograbación para hacerlos públicos por cualquier medio; y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+IV. Si los actos se llevan a cabo por parte de personal de Centros de Bienestar Animal o establecimientos de servicio público similares, o por cualquier persona servidora pública o ajena a estos.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### Artículo 473.
 
-Se impondrá de uno a cuatro años de prisión y multa de doscientas a cuatrocientas Unidades de Medida y Actualización a la persona que organice, promueva, difunda o realice una o varias peleas de perros, con o sin apuestas, o las permita en su propiedad.
+Se impondrá de dos a cinco años de prisión y multa de doscientas a cuatrocientas Unidades de Medida y Actualización a la persona que organice, promueva, difunda o realice una o varias peleas de perros, con o sin apuestas, o las permita en su propiedad.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -6659,29 +6663,43 @@ Se impondrá de uno a cuatro años de prisión y multa de doscientas a cuatrocie
 
 Se exceptúan de las disposiciones anteriores, los espectáculos de tauromaquia, charrería y peleas de gallos; así como los relacionados con fiestas tradicionales y usos y costumbres.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### Artículo 474 Bis.
 
-A quien se apropie de un animal de compañía sin el consentimiento de su propietario se le impondrán de seis meses a dos años de prisión y de cien a doscientas cincuenta unidades de medida y actualización.
+A quien se apropie de un animal de compañía, sin el consentimiento de la persona propietaria o cuidadora, se le impondrán de diez meses a dos años de prisión y de cien a doscientas cincuenta Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+Esta misma sanción, se impondrá a quien abandone a un animal de compañía, que se encuentre bajo su responsabilidad y cuidado.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### Artículo 474 Ter.
 
-A quien por medio de un animal de compañía extorsione solicitando a cambio de su restitución un beneficio económico o en especie se le impondrá de uno a cuatro años de prisión y de doscientas a quinientas unidades de medida y actualización.
+A quien por medio de un animal de compañía extorsione solicitando a cambio de su restitución un beneficio económico o en especie se le impondrá de dos a cuatro años de prisión y de doscientas a quinientas Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
 
 ###### Artículo 474 Quater.
 
-Se impondrá de uno a cuatro años de prisión y de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización:
+Se impondrá de dos a cuatro años de prisión y de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización:
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
 I. Al que posea o tenga en propiedad un espacio para sacrificio o faenado de uno o más animales de abasto, de forma clandestina, además de imponerle la clausura del inmueble cuyo destino sea para el sacrificio o faenado;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
 II. A quien realice el sacrificio o faenado de animales de abasto, sin realizar métodos de insensibilización que tenga como fin el consumo humano para comercialización.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+
 Se exceptúa de lo previsto en el presente artículo a quien realice la ganadería de autoconsumo.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
+
+###### Artículo 474 Quinquies.
+
+Se impondrá de uno a cuatro años de prisión y multa de cien a cuatrocientas Unidades de Medida y Actualización vigente al momento en que se cometa el delito, a quien o quienes practiquen actos sexuales con animales, tales como introducción por vía vaginal, anal o bucal del miembro viril o cualquier parte del cuerpo u objeto en un animal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -7818,3 +7836,13 @@ P.O. 21 DE FEBRERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA; DE LA LEY ORGÁNICA MUNICIPAL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos deberán hacer las previsiones presupuestarias y adecuaciones normativas pertinentes para la creación y correcta operación de los Centros de Bienestar Animal.
