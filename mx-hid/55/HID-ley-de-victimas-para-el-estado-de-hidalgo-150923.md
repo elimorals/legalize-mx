@@ -4,7 +4,7 @@ identifier: "HID-ley-de-victimas-para-el-estado-de-hidalgo-150923"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-01"
-last_updated: "2021-09-01"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
 
 Ley publicada en el Alcance Diez del Número 35 del Periódico Oficial del Estado de Hidalgo, el miércoles 1 de Septiembre de 2021.
 
@@ -155,9 +155,11 @@ IV. Universalidad: Todas las personas tienen derecho a gozar se los derechos rec
 
 DE LOS DERECHOS DE AYUDA INMEDIATA, AYUDA, ASISTENCIA Y ATENCIÓN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### Artículo 6.
 
-Las víctimas de un delito o de una violación a sus derechos humanos recibirán ayuda inmediata, ayuda, asistencia y atención inmediata y oportuna, para la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras a partir del momento de la comisión del hecho victimizante o en el momento en el que las autoridades tengan conocimiento del mismo, medidas que se brindarán garantizando siempre un enfoque transversal de género y diferencial.
+Las víctimas de un delito o de una violación a sus derechos humanos recibirán ayuda inmediata, ayuda, asistencia y atención inmediata y oportuna, para lasatisfacción (sic) de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras a partir del momento de la comisión del hecho victimizante o en el momento en el que las autoridades tengan conocimiento del mismo, medidas que se brindarán garantizandosiempre (sic) un enfoque transversal de género, diferencial y especializado.
 
 Así mismo, las víctimas tendrán derecho de acceder a la justicia, a conocer la verdad de los hechos y a ser reparadas de manera integral por el daño causado.
 
@@ -625,9 +627,11 @@ II. Un organismo público estatal, nacional o internacional de protección de lo
 
 Lo anterior sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo dispuesto por la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### Artículo 65.
 
-Las niñas, niños y adolescentes en estado de orfandad particularmente víctimas de feminicidio y/o mujeres en situación de desaparición tendrán prioridad en las medidas de reparación integral del daño, de conformidad el principio de interés superior de la niñez y los demás previstos en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
+Las niñas, niños y adolescentes tendrán prioridad en las medidas de reparación integral del daño, de conformidad con el principio de interés superior de la niñez y los demás previstos en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
 
 Los apoyos que se otorguen por reparación integral del daño, deberán garantizar servicios educativos, médicos, psicológicos, de programas sociales, de acogimiento residencial o de cualquier otro tipo, que permita el restablecimiento de su independencia física, mental, social y su inclusión y participación en la sociedad; para tal objetivo las autoridades Estatales y Municipales deberán ofrecer las facilidades necesarias, de acuerdo al Registro Estatal de Víctimas.
 
@@ -1411,9 +1415,17 @@ XVII. Adoptar o solicitar a la autoridad competente, de forma inmediata y espec�
 
 XVIII. Permitir el acceso a lugares, documentos, expedientes, conceder entrevistas y demás solicitudes que les requieran los organismos públicos de defensa de los derechos humanos, cuando éstas sean realizadas en el ámbito de su competencia y con el objeto de investigar presuntas violaciones a derechos humanos;
 
-XIX. Abstenerse de solicitar o recibir por parte de las víctimas o sus representantes, gratificaciones monetarias o en especie, dádivas, favores o ventajas de cualquier índole; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
-XX. Dar vista al Ministerio Público sobre la comisión de cualquier hecho que pudiera constituir la comisión de un delito o violación de derechos, siempre que éste se persiga de oficio. La vista en ningún caso condicionará, limitará o suspenderá la ayuda o servicios a los que la víctima tenga derecho.
+XIX. Abstenerse de solicitar o recibir por parte de las víctimas o sus representantes, gratificaciones monetarias o en especie, dádivas, favores o ventajas de cualquier índole;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+
+XX. Dar vista al Ministerio Público sobre la comisión de cualquier hecho que pudiera constituir la comisión de un delito o violación de derechos, siempre que éste se persiga de oficio. La vista en ningún caso condicionará, limitará o suspenderá la ayuda o servicios a los que la víctima tenga derecho; y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2024)</small>
+
+XXI. Verificar que la víctima u ofendidos que no se encuentran en condiciones para rendir su declaración, tengan un periodo de espera y estabilización física y psicoemocional.
 
 El incumplimiento de los deberes aquí señalados en esta Ley para los servidores públicos, será sancionado con la responsabilidad administrativa o penal correspondiente.
 
@@ -1763,9 +1775,11 @@ La Asesoría Jurídica contará con Asesores Jurídicos de Atención a Víctimas
 
 La Asesoría Jurídica Estatal de Atención a Víctimas, órgano dependiente de la Comisión Estatal, gozará de independencia técnica y operativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### Artículo 164.
 
-La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
+La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos, intérpretes o traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
 Con independencia de lo anterior, cuando no se cuente con el personal profesional necesario, la Asesoría Jurídica podrá contar, de manera excepcional, con el servicio de particulares para ejercer las funciones de asesores jurídicos, en términos de lo dispuesto en esta Ley.
 
@@ -1785,11 +1799,15 @@ V. Celebrar convenios de coordinación con todos aquellos que pueden coadyuvar e
 
 VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+
 ###### Artículo 166.
 
-Al momento del registro, la víctima tendrá derecho a solicitar a la Comisión Estatal, que le proporcione un Asesor Jurídico. En este caso, la Comisión Estatal deberá nombrarle uno a través de la Asesoría Jurídica.
+Al momento del registro, la víctima tendrá derecho a solicitar a la Comisión Estatal, que le proporcione un Asesor Jurídico. En este caso, la Comisión Estatal deberá nombrarle uno a través de la Asesoría Jurídica, así como un intérprete o traductor lingüístico cuando la víctima no comprenda el idioma español o tenga discapacidad auditiva, verbal o visual.
 
-La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
+
+La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida y de contar con un intérprete o traductor de su lengua, cuando así se requiera.
 
 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o no puedan contratar a un abogado particular y en especial a:
 
@@ -1930,3 +1948,11 @@ DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 802 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 6º, EL PÁRRAFO PRIMERO DEL ARTÍCULO 65, LAS FRACCIONES XIX Y XX DEL ARTÍCULO 123, EL PÁRRAFO PRIMERO DEL ARTÍCULO 164 Y EL PÁRRAFO PRIMERO Y SEGUNDO DEL ARTÍCULO 166; SE ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 123 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
