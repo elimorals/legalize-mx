@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2022-10-21"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -349,6 +349,10 @@ XV. Establecer y participar en las instancias de coordinación que le correspond
 
 XVI. Coordinar sus acciones con la federación, los municipios del Estado, con otras entidades federativas y sus municipios, según corresponda, para el desarrollo urbano, ordenamiento territorial y la planeación del desarrollo urbano y metropolitano; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la accesibilidad universal;
 
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XVI Bis. Coordinar acciones que contribuyan al uso más eficiente del espacio público, cumpliendo las finalidades del derecho a la movilidad, en términos de la Ley de Movilidad y Seguridad Vial del Estado de Puebla;
+
 XVII. Convenir con el Ayuntamiento, la administración y prestación total o parcial de un servicio público y la realización de obras de infraestructura, en los términos de las disposiciones jurídicas aplicables, así como, la expedición de autorizaciones, licencias, constancias del uso del suelo y de compatibilidad urbanística para construcciones, fraccionamientos, subdivisiones, fusiones, relotificaciones y condominios, de conformidad con lo dispuesto en esta Ley;
 
 XVIII. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para el desarrollo urbano y metropolitano, atendiendo a los principios de la Ley General, la presente Ley y su reglamento, y a lo establecido en las leyes en la materia;
@@ -424,6 +428,10 @@ XIV. Celebrar con la federación, el Estado, con otros municipios, o con los par
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2021)</small>
 
 XV. Coordinar sus acciones con la Federación, con otras entidades federativas, sus municipios, según corresponda, para el ordenamiento territorial de los centros de población, la planeación del desarrollo urbano y desarrollo metropolitano, así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la movilidad, la accesibilidad universal y seguridad vial;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XV Bis. Coordinar acciones que contribuyan al uso más eficiente del espacio público, cumpliendo las finalidades del derecho a la movilidad, en términos de la Ley de Movilidad y Seguridad Vial del Estado de Puebla;
 
 XVI. Prestar los servicios públicos municipales, atendiendo a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y la demás legislación aplicable;
 
@@ -3000,6 +3008,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO; POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 14 Y LA XV BIS AL ARTÍCULO 16 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
