@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-valuacion-inmobiliaria-para-el-estado-de-queretaro-12030
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-17"
-last_updated: "2021-04-16"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el viernes 17 de marzo de 2017.
 
@@ -41,79 +41,93 @@ LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de interés social y observancia obligatoria en el Estado de Querétaro, su objeto es regular las condiciones generales para la actividad de la valuación inmobiliaria que se realiza para la estimación del valor de los bienes inmuebles ubicados en el Estado, así como establecer las bases de organización y funcionamiento del Consejo de Valuadores del Estado de Querétaro.
+La presente Ley es de interés social y observancia obligatoria en el Estado de Querétaro, su objeto es regular las condiciones generales para la actividad de la valuación inmobiliaria que se realiza para la estimación del valor de los bienes inmuebles ubicados en el Estado, así como establecer las bases de organización y funcionamiento del Consejo de Tasadores del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 Es supletoria de la presente Ley, la Ley de Procedimientos Administrativos del Estado de Querétaro, la Ley de Catastro para el Estado de Querétaro y la Ley de Procedimiento Contencioso Administrativo del Estado de Querétaro.
 
-Para efectos de la presente Ley, se entendedera (sic) por "valuador" a la persona mujer u hombre que ejerza dicha actividad; de igual manera los distintos cargos que contempla la presente Ley se referirán de manera indistinta en razón de género.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Para efectos de la presente Ley, se entendedera (sic) por “tasador” a la persona mujer u hombre que ejerza dicha actividad; de igual manera los distintos cargos que contempla la presente Ley se referirán de manera indistinta en razón de género.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde al titular del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro y de la Dirección de Catastro del Estado, en el ámbito de sus respectivas competencias.
+La aplicación de la presente Ley corresponde al Titular del Poder Ejecutivo del Estado, el Instituto Registral y Catastral del Estado de Querétaro, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 3.
 
-Para los efectos de la presente Ley, se considera valuador al profesionista de las ramas de la ingeniería civil y arquitectura, quien determina el valor comercial para fines hacendarios de bienes inmuebles mediante un avalúo, y que cuenta con un nombramiento expedido en términos de la presente Ley.
+El tasador es el profesionista de las ramas de ingeniería civil y arquitectura facultado para emitir avalúos, cuyo objeto sea determinar el valor comercial para fines hacendarios de los bienes inmuebles en el Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 4.
 
-En el Estado de Querétaro, los profesionistas que pretendan obtener su registro como valuadores ante la Secretaría de Gobierno, deberán reunir los requisitos señalados en la presente Ley.
+El Gobernador del Estado emitirá los nombramientos de tasadores, a las personas que cumplan con los requisitos previstos en la presente Ley.
 
-La Secretaría de Gobierno podrá designar un valuador por cada treinta mil habitantes en el Estado.
+El Gobernador del Estado podrá designar un tasador por cada treinta mil habitantes en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 5.
 
-Corresponde a la Secretaría de Gobierno:
+Corresponde al Instituto Registral y Catastral del Estado de Querétaro:
 
-I. Supervisar la eficacia del servicio que prestan los valuadores, como auxiliares del tráfico comercial para fines hacendarios en materia inmobiliaria, vigilando siempre la seguridad jurídica de los actos en que intervengan;
+I. Supervisar la eficacia del servicio que prestan los tasadores, como auxiliares del tráfico comercial para fines hacendarios en materia inmobiliaria, vigilando siempre la seguridad jurídica de los actos en que intervengan;
 
-II. Evaluar a las personas que deseen obtener el registro de valuador para ejercer esta actividad de acuerdo a los requisitos señalados en la presente;
+II. Evaluar a las personas que deseen obtener el registro de tasador para ejercer esta actividad de acuerdo a los requisitos señalados en la presente ley;
 
-III. Expedir en su caso, el nombramiento respectivo como valuador a quienes se determine puedan llevar a cabo la actividad de valuador;
+III. Vigilar la actuación del Consejo de Tasadores del Estado de Querétaro y su Mesa Directiva;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+IV. Realizar las visitas de inspección y verificación necesarias en relación con la instalación, ejercicio y actos de los tasadores en el ejercicio de su encargo;
 
-IV. Vigilar la actuación del Consejo de Valuadores del Estado de Querétaro y su Mesa Directiva;
+V. Aplicar en su caso, las sanciones que correspondan por infracciones a la presente ley por parte de los tasadores;
 
-V. Realizar las visitas de inspección y verificación necesarias en relación con la instalación, ejercicio y actos de los valuadores en el ejercicio de su encargo;
+VI. Vigilar el desempeño de los tasadores en el ejercicio de su función;
 
-VI. Aplicar en su caso, las sanciones que correspondan por infracciones a la presente ley por parte de los valuadores; y
+VII. Expedir las normas técnicas necesarias para la elaboración de los avalúos, en términos de las disposiciones aplicables;
 
-VII. Las demás atribuciones que dispongan las leyes y reglamentos aplicables en la materia.
+VIII. Implementar el desarrollo de procesos y medios electrónicos para la elaboración y expedición de avalúos;
+
+IX. Autorizar los folios físicos o electrónicos para la elaboración de los avalúos;
+
+X. Tramitar los procedimientos que deriven en sanciones por infracciones cometidas por los tasadores; y
+
+XI. Las demás atribuciones que dispongan las leyes y reglamentos aplicables en la materia.
 
 ###### Artículo 6.
 
-Corresponde a la Dirección de Catastro:
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
-I. Vigilar el desempeño de los valuadores en el ejercicio de su función;
-
-II. Expedir las normas técnicas necesarias para la elaboración de los avalúos;
-
-III. Implementar el desarrollo de procesos y medios electrónicos para la elaboración y expedición de avalúos;
-
-IV. Autorizar los folios físicos o electrónicos para la elaboración de los avalúos; y
-
-V. Proponer a la Secretaría de Gobierno el inicio de procedimientos que deriven en sanciones por infracciones cometidas por los valuadores.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 7.
 
-La actividad profesional de valuador, es incompatible con cualquier cargo público de elección popular y todo empleo, cargo o comisión en el sector público, así como con la actividad de agentes y promotores inmobiliarios. Las personas que se dediquen a esas actividades no podrán, bajo ningún supuesto, emitir dictámenes o avalúos.
+La actividad de tasador es incompatible con cualquier cargo público de elección popular y todo empleo, cargo o comisión en el sector público, así como con la actividad de agentes y promotores inmobiliarios. Las personas que se dediquen a las actividades precisadas en el presente párrafo, no podrán emitir dictámenes o avalúos, cuyo objeto sea determinar el valor comercial para fines hacendarios de los bienes inmuebles en el Estado de Querétaro.
 
 No queda comprendido en las incompatibilidades antes señaladas, el desempeño de actividades docentes.
 
 ### Capítulo Segundo. Del Registro
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 8.
 
-La Secretaría de Gobierno, tendrá a su cargo el Registro Estatal de Valuadores, en el que se asentarán los nombres y demás datos personales y profesionales, así como la autorización respectiva de quienes están facultados para el ejercicio de esta actividad.
+El Instituto Registral y Catastral tendrá a su cargo el Registro Estatal de Tasadores, en el que se asentarán los nombres y demás datos personales y profesionales, así como la autorización de las personas facultadas para el ejercicio de la valuación inmobiliaria en la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 9.
 
-Para ser valuador y obtener el registro correspondiente por parte de la Secretaría de Gobierno, se requiere:
+Para ser tasador y obtener el registro correspondiente, se requiere cumplir con los requisitos siguientes:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
@@ -123,41 +137,75 @@ III. Tener título profesional de ingeniero civil o arquitecto;
 
 IV. Tener estudios de postgrado en materia de valuación;
 
-V. Contar con cédulas profesionales vigentes, expedidas por autoridad competente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+V. Tener cuando menos cinco años de práctica profesional en materia de valuación, posteriores a la expedición de la cédula profesional de posgrado en materia de valuación;
 
 VI. Tener cuando menos cinco años de práctica profesional en materia de valuación, posterior a la expedición del título; y
 
 VII. No haber sido condenado, mediante sentencia ejecutoriada, por delito de carácter patrimonial.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 10.
 
-La persona que pretenda obtener el registro como valuador, deberá solicitarlo mediante escrito dirigido al Secretario de Gobierno, en el que deberán acompañar copia certificada de los documentos respectivos que acrediten su perfil y trayectoria.
+La persona que pretenda obtener el nombramiento y registro de tasador, deberá solicitarlo mediante escrito dirigido al Gobernador del Estado, en el que deberá acompañar los documentos que acrediten el cumplimiento de los requisitos precisados en el artículo 9 de la presente Ley.
 
-Revisada la documentación y cumplidos los requisitos el Secretario de Gobierno señalará día y hora para la sustentación del examen para obtener el registro correspondiente como valuador.
+Revisada la documentación y cumplidos los requisitos, el Gobernador del Estado señalará día y hora para la sustentación del examen para obtener el nombramiento de tasador.
 
-La Dirección de Catastro colaborará en la preparación y aplicación de las evaluaciones que correspondan como área auxiliar técnica especializada.
+El Instituto Registral y Catastral del Estado de Querétaro colaborará en la preparación y aplicación de las evaluaciones que correspondan como área auxiliar técnica especializada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 11.
 
-El examen será sustentado ante un representante de la Secretaría de Gobierno y de la Dirección de Catastro, en los términos de lo dispuesto por la presente Ley y su reglamento.
+El examen será realizado ante un jurado integrado por:
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+I. Un representante designado por el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+II. Un representante de la Secretaría de Gobierno;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+III. La persona titular de la Dirección General del Instituto Registral y Catastral;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IV. El Presidente del Consejo de Tasadores del Estado de Querétaro; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+V. Un representante designado por el Consejo de Tasadores del Estado de Querétaro.
 
 La evaluación deberá incluir aspectos teóricos y prácticos que versen sobre la actividad valuatoria.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 12.
 
-La Secretaría de Gobierno en su caso, extenderá el nombramiento en el que conste el registro para ejercer la actividad de valuador, así como la demarcación en la que podrá desempeñar su actividad, previa toma de protesta.
+El Gobernador del Estado emitirá el nombramiento en el que conste la autorización para la valuación inmobiliaria en el Estado, previa toma de protesta de la persona que haya cumplido con los requisitos establecidos en la presente Ley.
 
-La Secretaría de Gobierno mandará publicar en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, la autorización a partir de la cual, el valuador podrá iniciar el ejercicio de sus funciones.
+El Instituto Registral y Catastral del Estado de Querétaro gestionará la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, la autorización a partir de la cual, el tasador podrá iniciar el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 13.
 
-El Poder Ejecutivo del Estado a través de su portal electrónico deberá publicar y mantener actualizado el Registro Estatal de Valuadores, expresando sus nombres, direcciones, número de registro y datos profesionales.
+El Poder Ejecutivo del Estado a través de su portal electrónico deberá publicar y mantener actualizado el Registro Estatal de Tasadores, expresando sus nombres, direcciones, número de registro y datos profesionales.
 
-### Capítulo Tercero. De los valuadores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2024)</small>
+
+### Capítulo Tercero. De los Tasadores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 14.
 
-Son obligaciones del valuador:
+Son obligaciones del tasador:
 
 I. Ejercer profesionalmente su actividad, con probidad, rectitud y eficiencia;
 
@@ -169,39 +217,55 @@ IV. Establecer domicilio en el lugar de la demarcación autorizada para el ejerc
 
 V. Emitir oportunamente y de manera personal el avalúo de bienes que le sea encomendado, en un plazo que no excederá de 30 días hábiles, sin que pueda delegar dicha función;
 
-VI. Aplicar los lineamientos, métodos, técnicas y criterios para estimar el valor comercial para fines hacendarios de bienes inmuebles, de acuerdo a normas técnicas emitidas por la Dirección de Catastro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-VII. Proporcionar a la Secretaría de Gobierno y Dirección de Catastro, la información que se le requiera en los términos de esta Ley y su reglamento;
+VI. Aplicar los lineamientos, métodos, técnicas y criterios para estimar el valor comercial para fines hacendarios de bienes inmuebles, de conformidad con las normas técnicas emitidas (sic) el Instituto Registral y Catastral del Estado de Querétaro;
 
-VIII. Participar coordinadamente con la Dirección de Catastro en la integración de las tablas de parámetros de valores catastrales aplicables en la Entidad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-IX. Proporcionar a la Secretaría de Gobierno los datos que permitan mantener actualizado el Registro Estatal de Valuadores;
+VII. Proporcionar al Instituto Registral y Catastral del Estado de Querétaro, dependencias y entidades, la información que se le requiera en los términos de esta Ley y su reglamento;
 
-X. Dar aviso a la Secretaría de Gobierno para dejar de ejercer la función hasta por seis meses;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+VIII. Participar coordinadamente con el Instituto Registral y Catastral del Estado de Querétaro, en la integración de las tablas de parámetros de valores catastrales aplicables en la entidad;
 
-XI. Solicitar licencia a la Secretaría de Gobierno para dejar de ejercer la función cuando vaya a exceder de seis meses;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+IX. Proporcionar al Instituto Registral y Catastral del Estado de Querétaro los datos que permitan mantener actualizado el Registro Estatal de Tasadores;
 
-XII. Efectuar el pago correspondiente a las cuotas del Consejo de Valuadores del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
+X. Dar aviso al Gobernador del Estado para dejar de ejercer la función hasta por seis meses;
 
-XIII. Cumplir con la cantidad de horas dispuestas por los lineamientos que emita la Mesa Directiva, de cursos de actualización con validez académica oficial, o de los cursos impartidos en coordinación con el Catastro del Estado y el Consejo de Valuadores del Estado de Querétaro, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+XI. Solicitar licencia al Gobernador del Estado para dejar de ejercer la función;
 
-XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XII. Efectuar el pago correspondiente a las cuotas del Consejo de Tasadores del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XIII. Cumplir con la cantidad de horas dispuestas por los lineamientos que emita la Mesa Directiva, de cursos de actualización con validez académica oficial, o de los cursos impartidos en coordinación con el Instituto Registral y Catastral del Estado de Querétaro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MARZO DE 2024)</small>
+
+XIV. Expedir de manera directa y personal, el comprobante fiscal por los servicios prestados en su carácter de tasador, en los términos previstos por las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MARZO DE 2024)</small>
+
+XV. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 El incumplimiento de las obligaciones previstas en este artículo podrá ser motivo para no autorizar la emisión de folios por parte de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 15.
 
-Corresponde a los valuadores:
+Corresponde a los tasadores:
 
 I. Fungir con ese carácter para estimar, cuantificar o valorar comercialmente para fines hacendarios los bienes inmuebles que se sometan a su consideración en términos de esta Ley;
 
@@ -209,19 +273,35 @@ II. Cumplir con eficiencia, legalidad y honradez el ejercicio de su actividad;
 
 III. Intervenir en los asuntos que les sean encomendados en materia de valuación inmobiliaria, ya sea por designación de los interesados o por mandato de la autoridad competente;
 
-IV. Acudir personalmente al predio e inspeccionar directamente el bien inmueble, cuyo avalúo deberá formular; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-V. Las demás funciones y requisitos señalados por esta Ley y demás disposiciones legales con respecto a esta materia.
+IV. Acudir personalmente al predio e inspeccionar directamente el bien inmueble, cuyo avalúo deberá formular;
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MARZO DE 2024)</small>
+
+V. Promover y publicitar los servicios para los que fueron autorizados, de conformidad con las disposiciones jurídicas aplicables.
+
+Aquella persona que no cuente con autorización del Poder Ejecutivo del Estado de Querétaro para ser tasador y se atribuya públicamente tal calidad y ofrezca los servicios de valuación inmobiliaria para efectos hacendarios en el Estado de Querétaro, será sancionado en términos de lo dispuesto por el artículo 235 del Código Penal para el Estado de Querétaro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MARZO DE 2024)</small>
+
+VI. Las demás funciones y requisitos señalados por esta Ley y demás disposiciones legales con respecto a esta materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 15 Bis.
 
-Los valuadores deberán llevar a cabo la integración y resguardo de un expediente catastral formado con cada uno de los avalúos que realice.
+El tasador deberá llevar a cabo la integración y resguardo de un expediente catastral formado con cada uno de los avalúos que realice.
 
-El expediente catastral deberá integrarse tanto en formato físico como digital por un periodo de 4 años. Concluido el periodo de 4 años deberá resguardar la información de manera digital por un periodo adicional no menor de 2 años.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+El expediente catastral deberá integrase (sic) tanto en formato físico como digital por un periodo de 5 años. Concluido el periodo de 5 años, el tasador deberá resguardar la información de manera digital por un periodo adicional de 10 años.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2021)</small>
 
 El expediente catastral deberá contener la siguiente información documentada:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE ABRIL DE 2021)</small>
 
 I. Datos del solicitante:
 
@@ -229,11 +309,15 @@ a) Nombre;
 
 b) Domicilio;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE ABRIL DE 2021)</small>
+
 II. Datos del propietario:
 
 a) Nombre;
 
 b) Domicilio;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE ABRIL DE 2021)</small>
 
 III. Datos del inmueble:
 
@@ -243,13 +327,19 @@ b) Reporte fotográfico de la visita;
 
 c) Datos complementarios del levantamiento físico;
 
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
+
 IV. Las referencias a la base de datos de mercado sobre la que realizó su comparativo de mercado; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
 
 V. Si las hubiera, observaciones y/o anotaciones adicionales sobre los supuestos hipotéticos para la realización de los análisis de valor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 16.
 
-A los valuadores les está prohibido ejercer su función en los siguientes casos:
+A los tasadores les está prohibido ejercer su función en los siguientes casos:
 
 I. Si el acto o hecho jurídico que se realiza en ejercicio de su actividad, o en el negocio que se le plantea, interesa directamente a su persona, a su cónyuge o alguno de sus parientes consanguíneos o afines en línea recta sin limitación de grados;
 
@@ -267,13 +357,15 @@ VII. Cuando en general exista un conflicto de intereses que le impida actuar con
 
 VIII. Las demás prohibiciones establecidas en la presente Ley y demás disposiciones legales.
 
-### Capítulo Cuarto. Del Consejo de Valuadores del Estado de Querétaro
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+### Capítulo Cuarto. Del Consejo de Tasadores del Estado de Querétaro
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 17.
 
-El Consejo de Valuadores del Estado de Querétaro es un órgano auxiliar de la función pública, con personalidad jurídica y patrimonio propio y estará integrado por los valuadores con nombramiento expedido por la Secretaría de Gobierno, en los términos de la presente Ley.
+El Consejo de Tasadores del Estado de Querétaro es un órgano auxiliar de la función pública, con personalidad jurídica y patrimonio propio y estará integrado por los tasadores con nombramiento expedido por el Gobernador del Estado, en los términos de la presente Ley.
 
 Su funcionamiento estará a lo dispuesto por esta Ley, su reglamento y demás disposiciones legales y administrativas aplicables.
 
@@ -317,33 +409,53 @@ La Mesa Directiva tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de esta Ley y su reglamento;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-II. Elaborar y proponer para su tramitación, las normas arancelarias que atenderán los valuadores para el cobro de honorarios que correspondan a sus servicios profesionales.
+II. Elaborar y proponer para su tramitación, las normas arancelarias que atenderán los tasadores para el cobro de honorarios que correspondan a sus servicios profesionales.
 
-La Dirección de Catastro tendrá la facultad de fijar el arancel, previa propuesta del Consejo de Valuadores del Estado de Querétaro.
+El Instituto Registral y Catastral del Estado de Querétaro tendrá la facultad de fijar el arancel, previa propuesta del Consejo de Tasadores del Estado de Querétaro.
 
 III. Proponer medidas para que los valores comerciales para fines hacendarios de los bienes inmuebles ubicados en el territorio del Estado, sean determinados bajo los mismos criterios profesionales, procurando la unificación metodológica de los avalúos;
 
-IV. Proponer a la Dirección de Catastro, las normas técnicas que regirán la actividad de la valuación;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-V. Promover y coordinar acciones y programas de capacitación y actualización, en coordinación con la Dirección de Catastro;
+IV. Proponer al Instituto Registral y Catastral del Estado, las normas técnicas que regirán la actividad de la valuación;
 
-VI. Coordinar con la Dirección de Catastro, los trabajos técnicos y de investigación científica relacionados con la materia de la valuación;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-VII. Solicitar a los valuadores la información adicional que requiera con relación a un avalúo en particular;
+V. Promover y coordinar acciones y programas de capacitación, en coordinación con el Instituto Registral y Catastral del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-VIII. Fungir como árbitro, cuando así se lo soliciten por escrito los interesados, en las reclamaciones que se deriven de los avalúos emitidos por los valuadores;
+VI. Coordinar con el Instituto Registral y Catastral del Estado de Querétaro, los trabajos técnicos y de investigación científica relacionados con la materia de valuación inmobiliaria;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-IX. Convocar a reuniones; y
+VII. Solicitar a los tasadores la información adicional que requiera con relación a un avalúo en particular;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-X. Las demás que establezcan otras disposiciones jurídicas aplicables.
+VIII. Fungir como árbitro, cuando así se lo soliciten por escrito los interesados, en las reclamaciones que se deriven de los avalúos emitidos por los tasadores;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IX. Convocar a reuniones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MARZO DE 2024)</small>
+
+X. Promover la implementación de procesos administrativos electrónico (sic) vinculados con el cobro de avalúos;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XI. Vigilar y regular el proceso de cobro de los avalúos elaborados por los tasadores, de conformidad con el arancel aprobado en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XII. Emitir y actualizar los lineamientos de cobro de los avalúos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MARZO DE 2024)</small>
+
+XIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ### Capítulo Quinto. De los avalúos
 
@@ -351,9 +463,13 @@ X. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 El avalúo deberá cubrir los siguientes requisitos:
 
-I. Realizarse en los folios físicos o electrónicos, autorizados por la Dirección de Catastro, a costa de los valuadores;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-II. Identificación del propietario, localización del inmueble sobre el cual se habrá de rendir el avalúo, señalando los datos catastrales, medidas y colindancias, así como los datos de identificación en el Registro Público de la Propiedad y del Comercio del Estado de Querétaro sobre el inmueble;
+I. Realizarse en los folios físicos o electrónicos, autorizados por el Instituto Registral y Catastral, a costa de los tasadores;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+II. Identificación del propietario, localización del inmueble sobre el cual se habrá de emitir el avalúo, señalando los datos catastrales, medidas y colindancias, así como los datos de identificación en el Registro Público de la Propiedad sobre el inmueble;
 
 III. Especificación del análisis del valor del terreno y las edificaciones, si las hubiese;
 
@@ -379,13 +495,17 @@ Son infracciones las siguientes:
 
 I. Excederse del plazo máximo pactado para la entrega del avalúo;
 
-II. Cambiar de domicilio sin dar el aviso correspondiente a la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+II. Cambiar de domicilio sin dar el aviso correspondiente al Instituto Registral y Catastral del Estado de Querétaro;
 
 III. Negarse sin causa justificada, al ejercicio de su actividad, cuando hubiere sido requerido para ello;
 
 IV. Cobrar una cantidad mayor a la pactada o que resulte desproporcionada en relación al servicio prestado;
 
-V. Separarse del ejercicio de sus actividades sin previo aviso a la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+V. Separarse del ejercicio de sus actividades sin previo aviso al Gobernador;
 
 VI. Establecer más de un domicilio para el ejercicio legal de su profesión;
 
@@ -395,9 +515,11 @@ VIII. Incurrir en actos u omisiones cuyo fin sea contrario a derecho, en el ejer
 
 IX. Incurrir en la comisión de un delito, con motivo de una indebida actividad de su función.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 24.
 
-El valuador que cometa alguna de las infracciones, se hará acreedor a las siguientes sanciones:
+El tasador que cometa alguna de las infracciones, se hará acreedor a las siguientes sanciones:
 
 I. Amonestación por escrito cuando se trate de alguna de las conductas descritas en las fracciones I y II del artículo anterior;
 
@@ -405,15 +527,19 @@ II. Multa hasta por el equivalente a 200 Unidades de Medida y Actualización vig
 
 III. Suspensión hasta por 6 meses para el ejercicio de la actividad cuando se realice más de una vez cualquiera de las conductas descritas por las fracciones III a VI, o se trate de alguna de las conductas previstas en las fracciones VII, VIII y IX, del artículo anterior; y
 
-IV. Cancelación definitiva de la autorización para ejercer en el Estado como valuador, cuando el responsable sea sancionado más de una vez conforme lo previsto en la fracción III del presente artículo o realice la conducta señalada en la fracción IX, del artículo anterior.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IV. Cancelación definitiva de la autorización para ejercer en el Estado como tasador, cuando el responsable sea sancionado más de una vez conforme lo previsto en la fracción III del presente artículo o realice la conducta señalada en la fracción IX, del artículo anterior.
 
 Las infracciones a la presente Ley se determinarán y resolverán conforme a la presente Ley y su reglamento, así como a las disposiciones legales que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 24 Bis.
 
-Para aplicar a los valuadores las sanciones administrativas a que se refiere el artículo 24, el Poder Ejecutivo del Estado se auxiliará de la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro, que estará integrada por tres valuadores, siendo presidida por el Presidente de la Mesa Directiva en turno y dos valuadores propuestos por la Mesa Directiva y electos en reunión de pleno del Consejo de Valuadores del Estado de Querétaro.
+Para aplicar a los tasadores las sanciones administrativas a que se refiere el artículo 24, el Poder Ejecutivo del Estado a través del Instituto Registral y Catastral del Estado de Querétaro, se auxiliará de la Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro, que estará integrada por tres tasadores, siendo presidida por el Presidente de la Mesa Directiva en turno y dos tasadores propuestos por la Mesa Directiva y electos en reunión de pleno del Consejo de Tasadores del Estado de Querétaro.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE ABRIL DE 2021)</small>
 
 Los integrantes de la Comisión de Honor y Justicia deberán cumplir con los siguientes requisitos de elegibilidad:
 
@@ -425,29 +551,51 @@ III. Observar una buena conducta, y
 
 IV. Estar al corriente en las cuotas al Consejo.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicará la persona designada expresamente para tal efecto. En todo caso se concederá el derecho de audiencia al valuador afectado y deberá escucharse la opinión de la Comisión de Honor y Justicia.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+El Poder Ejecutivo del Estado, a través del Instituto Registral y Catastral del Estado de Querétaro, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicará la persona designada expresamente para tal efecto. En todo caso se concederá el derecho de audiencia al tasador afectado y deberá escucharse la opinión de la Comisión de Honor y Justicia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 La Comisión de Honor y Justicia tendrá un plazo de 15 días hábiles para emitir su opinión, contados a partir de que reciba las constancias.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 Transcurrido el plazo para la emisión de la opinión a cargo de la Comisión de Honor y Justicia, se podrá emitir la resolución administrativa, sin que la ausencia de opinión afecte la validez o el sentido de la resolución.
 
-La resolución administrativa será emitida por el Secretario de Gobierno del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
-Para presentar una queja en los casos de responsabilidad administrativa de los valuadores, se deberá presentar ante la Secretaría de Gobierno del Estado, debiendo anexar los documentos en que se sustente.
+La resolución administrativa será emitida por el Director General del Instituto Registral y Catastral del Estado.
 
-Previo a la tramitación formal de la queja, la Secretaría de Gobierno deberá remitir copia de la misma al Presidente de la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro, para que, dentro del plazo de 10 días hábiles, realice las gestiones pertinentes para resolver la controversia.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
-Si vencido el plazo no se ha tenido la solución correspondiente, la Secretaría de Gobierno requerirá al valuador involucrado para que, dentro del plazo de 10 días hábiles, manifieste lo que a su interés convenga y, en su caso, exhiba los documentos que estime pertinentes, para lo cual le será entregada copia del escrito de queja y de sus anexos.
+Para presentar una queja en los casos de responsabilidad administrativa de los tasadores, se deberá presentar ante el Instituto Registral y Catastral del Estado de Querétaro, debiendo anexar los documentos en que se sustente.
 
-Transcurrido este plazo, con manifestación del valuador o sin ella, la Secretaría de Gobierno remitirá el expediente a la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro, la cual, dentro del plazo de 15 días hábiles contados a partir de su recepción, deberá emitir la opinión que corresponda, sugiriendo si debe o no imponerse sanción.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
-Con la opinión de la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro deberá resolver lo que proceda conforme a derecho.
+Previo a la tramitación formal de la queja, el Instituto Registral y Catastral del Estado de Querétaro deberá remitir copia de la misma al Presidente de la Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro, para que, dentro del plazo de 10 días hábiles, realice las gestiones pertinentes para resolver la controversia.
 
-Los procedimientos iniciados oficiosamente por la Secretaría de Gobierno del Poder Ejecutivo del Estado no serán considerados como una queja y previo a la emisión de la resolución que le ponga fin, se otorgará a la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro el plazo de 15 días hábiles para la emisión de opinión, contados a partir de que le sean remitidas las constancias.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Si vencido el plazo no se ha tenido la solución correspondiente, el Instituto Registral y Catastral del Estado de Querétaro requerirá al tasador involucrado para que, dentro del plazo de 10 días hábiles, manifieste lo que a su interés convenga y, en su caso, exhiba los documentos que estime pertinentes, para lo cual le será entregada copia del escrito de queja y de sus anexos.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Transcurrido este plazo, con manifestación del tasador o sin ella, el Instituto Registral y Catastral del Estado de Querétaro remitirá el expediente a la Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro, la cual, dentro del plazo de 15 días hábiles contados a partir de su recepción, deberá emitir la opinión que corresponda, sugiriendo si debe o no imponerse sanción.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Con la opinión de la Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro deberá resolver lo que proceda conforme a derecho.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Los procedimientos iniciados oficiosamente por el Instituto Registral y Catastral del Estado de Querétaro no serán considerados como una queja y previo a la emisión de la resolución que le ponga fin, se otorgará a la Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro el plazo de 15 días hábiles para la emisión de opinión, contados a partir de que le sean remitidas las constancias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 25.
 
-El valuador podrá excusarse de actuar en los siguientes casos:
+El tasador podrá excusarse de actuar en los siguientes casos:
 
 I. Cuando exista prohibición legal o reglamentaria;
 
@@ -455,9 +603,29 @@ II. Cuando se trate de días y horas inhábiles; y
 
 III. Cuando los clientes no le anticipen los honorarios y gastos necesarios pactados.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 26.
 
-En casos especiales la Secretaría de Gobierno podrá requerir a los valuadores para que coadyuven en la atención de asuntos de interés social, en cuyo caso los honorarios por sus servicios se fijarán por parte de dicha Secretaría, considerando el caso y los gastos que correspondan.
+En casos especiales el Instituto Registral y Catastral del Estado de Querétaro podrá requerir a los tasadores para que coadyuven en la atención de asuntos de interés social, en cuyo caso los honorarios por sus servicios se fijarán por el referido Instituto, considerando el caso y los gastos que correspondan.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
+
+###### Artículo 27.
+
+El Instituto Registral y Catastral del Estado de Querétaro podrá restringir temporalmente el ejercicio de la función de valuación inmobiliaria, con la finalidad de que el tasador proceda a realizar la aclaración de las diferencias e irregularidades detectadas en los avalúos para efectos hacendarios.
+
+El tasador tendrá un plazo de quince días hábiles para ofrecer pruebas y exponer las consideraciones que justifiquen la determinación del valor asentado en el avalúo. El plazo previsto en el presente párrafo, se contabilizará a partir del día siguiente de la notificación de la determinación de la restricción temporal del ejercicio de la función de valuación inmobiliaria.
+
+Al concluir el plazo previsto en el párrafo anterior, el Instituto Registral y Catastral del Estado de Querétaro tendrá un plazo de quince días hábiles para resolver y determinar si es procedente la aclaración planteada por el tasador.
+
+Si resulta procedente la aclaración planteada por el tasador, el Instituto Registral y Catastral del Estado de Querétaro, procederá a dejar sin efectos la restricción temporal del ejercicio de la función de valuación inmobiliaria.
+
+En el supuesto de que el Instituto Registral y Catastral determine que la aclaración es improcedente, procederá a dar vista a la Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro, con la finalidad de que brinden opinión sobre el alcance de la responsabilidad del tasador.
+
+La Comisión de Honor y Justicia del Consejo de Tasadores del Estado de Querétaro tendrá un plazo de cinco días hábiles para emitir la opinión precisada en el párrafo anterior.
+
+Al finalizar el plazo establecido en el párrafo anterior, el Instituto Registral y Catastral del Estado de Querétaro, emitirá la resolución en la que se imponga la sanción correspondiente a la infracción cometida por el tasador.
 
 ## TRANSITORIOS
 
@@ -530,3 +698,41 @@ Artículo Tercero. Todas las referencias hechas en otros ordenamientos jurídico
 Artículo Cuarto. Todas las referencias realizadas en los demás ordenamientos al Consejo de Valuadores del Estado de Querétaro A.C., se entenderán hechas al Consejo de Valuadores del Estado de Querétaro.
 
 Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
