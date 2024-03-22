@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2023-12-27"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -1279,9 +1277,9 @@ Tratándose de sorteos en los que los participantes obtengan dicha calidad, incl
 
 Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados, también se calculará sobre dicha cantidad.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
-En el caso de la fracción III de este artículo, cuando no sea posible fijar el valor del bien o los bienes entregados como premio, el sujeto del impuesto deberá entregar, dentro de los 5 días hábiles siguientes a la fecha de causación del impuesto, un peritaje rendido por perito valuador registrado ante las Secretarías de Gobierno y de Finanzas, del Poder Ejecutivo del Estado, en este supuesto el valor determinado por el perito será considerado como base para el cálculo del impuesto.
+En el caso de la fracción III de este artículo, cuando no sea posible fijar el valor del bien o los bienes entregados como premio, el sujeto del impuesto deberá entregar, dentro de los 5 días hábiles siguientes a la fecha de causación del impuesto, un peritaje rendido por perito tasador registrado ante el Instituto Registral y Catastral del Estado de Querétaro, en este supuesto el valor determinado por el perito será considerado como base para el cálculo del impuesto.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2167,9 +2165,9 @@ III. De la autorización o giro, la cantidad que resulte mayor entre el equivale
 
 Del cambio de otros datos informativos sobre el establecimiento o del titular de la licencia, sin costo alguno.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2024)</small>
 
-### Capítulo Segundo. Por los servicios prestados por el Registro Público de la Propiedad y del Comercio
+### Capítulo Segundo. Por los servicios prestados por el Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
@@ -3229,9 +3227,11 @@ No estarán obligadas al pago del derecho a que se refiere esta fracción, las a
 
 IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 7 UMA y por cada foja excedente, 0.13 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MARZO DE 2024)</small>
 
-V. Por la autorización de folios físicos o electrónicos para la elaboración de los avalúos para efectos hacendarios que realicen los valuadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de dichos avalúos y la supervisión de la actividad de dichos valuadores, el 1 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 3 UMA.
+V. Por la autorización de folios físicos o electrónicos para la elaboración de los avalúos para efectos hacendarios que realicen los tasadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de dichos avalúos y la supervisión de la actividad de dichos tasadores, el 1 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 3 UMA.
+
+(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021
 
 Cuando se trate de avalúos que se realicen para operaciones traslativas de dominio de vivienda de interés social o popular con crédito hipotecario de instituciones u organismos federales o estatales, se pagará por este concepto 2 UMA.
 
@@ -3239,9 +3239,9 @@ Cuando se trate de avalúos que se realicen para operaciones traslativas de domi
 
 Cuando se trate de avalúos que se realicen para la primera operación traslativa de dominio, de la subdivisión o la fusión de un predio para su regularización a través de un programa estatal, federal o municipal de regularización de la titulación de predios, se causará y pagará por este concepto 2 UMA.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
-En estos tres últimos supuestos, el valuador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente;
+En los dos últimos supuestos, el tasador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente.
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -6788,3 +6788,41 @@ XXXIX. Se faculta a la Secretaría de Gobierno para emitir y autorizar programas
 XL. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
 
 Artículo Séptimo. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO, Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
