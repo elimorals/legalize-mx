@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2024-01-24"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,6 +25,8 @@ abbreviation: "CPEUM"
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+
+> <small>[N. DE E. CONTIENE EL DECRETO PUBLICADO EN EL D.O.F. EL 22 DE MARZO DE 2024 "POR EL QUE SE DECLARA APROBADA LA INTERPRETACIÓN AL ALCANCE DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MARZO DEL AÑO 2019".]</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -8478,6 +8480,8 @@ Asimismo, expedirá las leyes nacionales que reglamenten el uso de la fuerza y d
 
 Segundo. La Guardia Nacional se constituirá a la entrada en vigor del presente Decreto con los elementos de la Policía Federal, la Policía Militar y la Policía Naval que determine en acuerdos de carácter general el Presidente de la República. En tanto se expide la ley respectiva, la Guardia Nacional asumirá los objetivos, atribuciones y obligaciones previstas en los artículos 2 y 8 de la Ley de la Policía Federal, con la gradualidad que se requiera para asegurar la continuidad de operaciones y la transferencia de recursos humanos, materiales y financieros que correspondan. De igual forma, el Ejecutivo Federal dispondrá lo necesario para la incorporación de los elementos de las policías Militar y Naval a la Guardia Nacional y designará al titular del órgano de mando superior y a los integrantes de la instancia de coordinación operativa interinstitucional formada por representantes de las secretarías del ramo de seguridad, de la Defensa Nacional y de Marina.
 
+> <small>[N. DE E. SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA APROBADA LA INTERPRETACIÓN AL ALCANCE DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MARZO DEL AÑO 2019", D.O.F. 22 DE MARZO DE 2024.]</small>
+
 Tercero. Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones; la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla, así como el reconocimiento del tiempo de servicio en la misma, para efectos de su antigüedad. Lo anterior será aplicable, en lo conducente, a los elementos de la Policía Federal que sean adscritos a la Guardia Nacional.
 
 Cuarto. Al expedir las leyes a que se refiere la fracción XXIII del artículo 73 de esta Constitución, el Congreso de la Unión estará a lo siguiente:
@@ -8907,3 +8911,33 @@ Tercero. La duración en el cargo de las y los senadores electos para las LXIV y
 Cuarto. Las y los diputados federales electos para la LXVI Legislatura, durarán en el ejercicio de su cargo 36 meses, computados a partir del 1o. de septiembre de 2024 y hasta el 31 de agosto de 2027.
 
 Quinto. Las y los senadores electos para las LXVI y LXVII Legislaturas, durarán en el ejercicio de su cargo 72 meses, computados a partir del 1o. de septiembre de 2024 y hasta el 31 de agosto de 2030.
+
+D.O.F. 22 DE MARZO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL "DECRETO POR EL QUE SE DECLARA APROBADA LA INTERPRETACIÓN AL ALCANCE DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MARZO DEL AÑO 2019", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Único.- La interpretación auténtica respecto de los alcances de lo dispuesto en el Artículo Tercero Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo del año 2019, deberá ser en el sentido de garantizar los derechos, prestaciones, pertenencia, rango, servicio y antigüedad del personal de las policías Militar y Naval asignado a la Guardia Nacional por acuerdos de carácter general emitidos por el Presidente de la República, acorde con lo siguiente:
+
+A. La frase: "Los elementos de las policías Militar y Naval, así como otros elementos de mando y servicios de apoyo de la Fuerza Armada permanente, que sean asignados a la Guardia Nacional, conservarán su rango y prestaciones".
+
+Toda vez que el citado precepto no prevé lo que para efectos del mismo debe entenderse por "asignados", los alcances del mismo se interpretarán conforme a la semántica, teniéndose así que el Diccionario de la Real Academia Española establece que el término "asignar" significa "nombrar" o "designar", permitiendo establecer que, en el presente caso, la asignación tuvo por objeto que el personal fuera separado funcionalmente de las fuerzas armadas para desempeñar funciones de seguridad pública en la Guardia Nacional sin perder sus derechos y prestaciones.
+
+El "rango" es sinónimo de "grado", conforme a la escala jerárquica en las Fuerzas Armadas, que prevé la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+
+El "grado" tiene por objeto el ejercicio de la autoridad, de mando militar, de actividad técnica o de actividad administrativa en los diferentes niveles orgánicos de las Unidades, Dependencias e Instalaciones; por lo que el personal asignado tiene que estar en condiciones de ejercerlos, para lo cual debe mantenerse apto física y profesionalmente a través de la capacitación permanente, en instituciones nacionales o en el extranjero.
+
+Lo anterior, implica conservar sus prestaciones íntegras, toda vez que se encuentra en una asignación temporal derivada del artículo transitorio de la reforma constitucional por el que se crea la Guardia Nacional, motivo que no deberá, en ningún caso, implicar una afectación a sus derechos laborales, prestaciones inherentes, así como la salvaguarda de ser reasignado a su fuerza armada de origen.
+
+B. La frase: "la ley garantizará que cuando un elemento sea reasignado a su cuerpo de origen, ello se realice respetando los derechos con que contaba al momento de ser asignado a aquélla".
+
+El referido mandato constitucional prevé que el personal asignado a la Guardia Nacional no pierde sus derechos y prestaciones. En consecuencia, la "reasignación" implica que el elemento militar o naval deje de realizar sus funciones en Seguridad Pública y sea reintegrado a su fuerza armada para continuar realizando sus actividades de índole netamente castrense con la suma de derechos y prestaciones adquiridos en dicha institución de seguridad pública.
+
+Lo anterior, genera la certeza jurídica de que la asignación tiene un carácter temporal, ya que esta situación podría concluir una vez que la mencionada institución de seguridad pública se consolide.
+
+C. La frase: "reconocimiento del tiempo de servicios de la Guardia Nacional para efectos de su antigüedad".
+
+El Constituyente Permanente previó proteger los derechos, estímulos y prestaciones de los elementos militares asignados a la Guardia Nacional, a fin de que se les reconozca y se les compute todo el tiempo de servicios que presten en la misma al momento de su reasignación, para los efectos de sumarlo a su antigüedad en las Fuerzas Armadas, lo que redunda en el derecho de participar en promoción para el ascenso al grado inmediato durante el tiempo que estén asignados y en su reasignación, así como de los demás beneficios y prestaciones antes señalados.
+
+## Transitorio
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
