@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2023-11-22"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
@@ -51,25 +51,33 @@ Las disposiciones de esta Ley son de orden público e interés social y regirán
 
 Esta ley tiene por objeto:
 
-I.- Fomentar la cultura física y el deporte como elementos fundamentales para el desarrollo integral del ser humano;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+I.- Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones como elementos fundamentales para el desarrollo integral del ser humano;
 
 II.- Regular la actividad físico-deportiva en el Estado, mediante el establecimiento de las bases de coordinación entre los sectores social y privado;
 
 III.- Determinar criterios para asegurar la congruencia y aplicación entre los programas del deporte, en general, así como la asignación de recursos para dichos fines;
 
-IV.- Definir los principios que garanticen a la población el acceso a la enseñanza y a la práctica del deporte.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IV.- Definir los principios que garanticen a la población el acceso a la enseñanza, así como a la práctica del deporte;
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
 
 V.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades, adicciones y el consumo de sustancias psicoactivas; así como en la prevención del delito;
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-VI.- Promover las medidas preventivas necesarias para que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna; y
+VI.- Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje;
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-VII.- Garantizar en materia de cultura física y deporte la igualdad de oportunidades sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil.
+VII.- Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2024)</small>
+
+VIII.- Fomentar medidas para que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna.
 
 ###### Artículo 3.
 
@@ -808,3 +816,11 @@ P.O. 22 DE NOVIEMBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 346 POR EL QUE “SE REFORMAN LAS FRACCIONES I, IV, VI Y VII Y, SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 2 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
