@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-96299
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-17"
-last_updated: "2023-03-31"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de octubre de 2013.
 
@@ -325,13 +323,17 @@ Cuando entre el valor declarado por el contribuyente y el valor catastral exista
 
 Para los efectos de la presente Ley, se entenderá por valor catastral aquél que la dependencia encargada del catastro correspondiente determine a los inmuebles, conforme a la Ley de la materia y por valor comercial el que tuviera el predio en el supuesto de que fuera objeto de una libre operación onerosa y sea declarado por el contribuyente ante la autoridad municipal, en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 35.
 
-En el caso de predios objeto de esta Ley, el valor comercial será presentado por el sujeto del Impuesto, dentro de los meses de enero y febrero, mediante avalúo efectuado por perito valuador autorizado por la Ley o por la autoridad competente.
+En el caso de predios objeto de esta Ley, el valor comercial será presentado por el sujeto del Impuesto, dentro de los meses de enero y febrero, mediante avalúo efectuado por tasador autorizado por la Ley o por la autoridad competente.
 
 En caso de traslado de dominio, el valor considerado será el que subsista para tal efecto.
 
-En caso de que el contribuyente opte porque el avalúo sea practicado por perito valuador, se observará lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MARZO DE 2024)</small>
+
+En caso de que el contribuyente opte porque el avalúo sea practicado por tasador, se observará lo siguiente:
 
 a) En el mes de enero de cada año, dará aviso a la autoridad competente sobre la opción, manifestando al valuador designado, en la inteligencia de que la práctica del avalúo será a su costa.
 
@@ -487,7 +489,9 @@ Las autoridades municipales tienen las siguientes facultades:
 
 I. Solicitar de los sujetos del Impuesto, responsables solidarios y terceros, los datos, informes o documentos para verificar el cumplimiento dado a las disposiciones de esta Ley;
 
-II. Solicitar a los peritos valuadores con registro en el Estado, la práctica de avalúos comerciales de predios, referidos al primero de enero de cada año o a la fecha en que sucedan los supuestos del artículo 42 de esta Ley, en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MARZO DE 2024)</small>
+
+II. Solicitar a los tasadores con registro en el Estado, la práctica de avalúos comerciales de predios, referidos al primero de enero de cada año o a la fecha en que sucedan los supuestos del artículo 42 de esta Ley, en los siguientes casos:
 
 a) Cuando el contribuyente lo solicite.
 
@@ -497,13 +501,19 @@ c) De inmuebles no inscritos en el Padrón Catastral, debiendo solicitar la insc
 
 d) Cuando el valor comercial declarado por el contribuyente sea menor, en más de un diez por ciento, del valor catastral;
 
-III. Fijar el valor comercial del predio mediante avalúo practicado por perito valuador con registro en el Estado, en uso de la facultad de verificación;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-IV. Fijar estimativamente el valor comercial del predio, en los casos que el propietario o poseedor impida el acceso del valuador al inmueble objeto de este Impuesto, en los supuestos de las fracciones II y III de este artículo;
+III. Fijar el valor comercial del predio mediante avalúo practicado por tasador con registro en el Estado, en uso de la facultad de verificación;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IV. Fijar estimativamente el valor comercial del predio, en los casos que el propietario o poseedor impida el acceso del tasador al inmueble objeto de este Impuesto, en los supuestos de las fracciones II y III de este artículo;
 
 V. Requerir el pago de cantidades omitidas por concepto de este Impuesto;
 
-VI. Designar a los peritos valuadores con registro en el Estado que deben practicar los avalúos de predios, conforme a lo dispuesto por las fracciones II y III de este artículo;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+VI. Designar a los tasadores con registro en el Estado que deben practicar los avalúos de predios, conforme a lo dispuesto por las fracciones II y III de este artículo;
 
 VII. Imponer las sanciones administrativas por infracciones a esta Ley y formular, ante las autoridades competentes, las denuncias o querellas por la presunta comisión de delitos fiscales; y
 
@@ -527,9 +537,11 @@ II. Registro numérico para cada predio, que contendrá: número de cuenta, nomb
 
 III. Registro alfabético, que identificará a cada predio por nombre del sujeto del Impuesto o de quien represente a dicho sujeto y contendrá, además, su domicilio, número de cuenta y la ubicación del predio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 55.
 
-Cuando el contribuyente no esté conforme con el avalúo comercial determinado por la autoridad o por quien ésta haya designado para practicarlo, deberá manifestar su inconformidad por escrito ante la misma, exhibiendo avalúo comercial realizado por perito valuador registrado en el Estado. Dicho escrito se interpondrá dentro de los veinte días hábiles del ejercicio fiscal en el que se presente la inconformidad; la autoridad confirmará el avalúo impugnado o aceptará el ofrecido por el contribuyente.
+Cuando el contribuyente no esté conforme con el avalúo comercial determinado por la autoridad o por quien ésta haya designado para practicarlo, deberá manifestar su inconformidad por escrito ante la misma, exhibiendo avalúo comercial realizado por perito tasador registrado en el Estado. Dicho escrito se interpondrá dentro de los veinte días hábiles del ejercicio fiscal en el que se presente la inconformidad; la autoridad confirmará el avalúo impugnado o aceptará el ofrecido por el contribuyente.
 
 En tanto se resuelva esta inconformidad, el contribuyente depositará previamente a la presentación de la misma, el Impuesto por el año respectivo en los términos de esta Ley, tomando como base el valor comercial determinado por la autoridad y siempre que la cantidad que resulte no sea inferior a la mínima que establece el artículo 23 de esta Ley. La resolución podrá ser sometida a la jurisdicción del Tribunal de lo Contencioso Administrativo del Estado de Querétaro y se tramitará en los términos de la Ley de la materia.
 
@@ -693,21 +705,27 @@ Dichos criterios generales serán aplicables a todos los interesados que reúnan
 
 Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, quedando sin efecto el descuento por falta de uno de ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 65.
 
-Será base gravable de este Impuesto, el valor mayor que resulte entre el valor de operación y el valor comercial del inmueble a la fecha de operación, este último determinado por el avalúo fiscal practicado por perito valuador autorizado por el Poder Ejecutivo del Estado, el cual tendrá vigencia de un año o en tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el dominio pleno, por el avalúo practicado en los términos de la Ley Agraria.
+Será base gravable de este Impuesto, el valor mayor que resulte entre el valor de operación y el valor comercial del inmueble a la fecha de operación, este último determinado por tasador autorizado por el Poder Ejecutivo del Estado, el cual tendrá vigencia de un año o tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el domicilio, por el avalúo practicado en los términos de la Ley Agraria.
 
 Cuando no se pacte precio o monto de la operación, el Impuesto se calculará tomando en cuenta el valor comercial, conforme al párrafo anterior.
 
 En la adquisición de bienes por remate, el avalúo fiscal deberá referirse a la fecha en que quede firme la aprobación del mismo.
 
-Para la adquisición de vivienda cuyo valor no exceda de trescientas setenta y cinco veces el salario mínimo mensual en el Estado, realizada con financiamiento otorgado o relacionado con algún programa de fomento de vivienda auspiciado por organismos descentralizados de la Federación o del Estado, el valor comercial podrá ser determinado por el avalúo practicado en los términos de la legislación que regula las actividades y servicios financieros para el otorgamiento de crédito garantizado y, como base del Impuesto, el formulado por perito valuador autorizado por el Poder Ejecutivo del Estado, quien será responsable del contenido del mismo, conforme a lo señalado en este Capítulo.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Para la adquisición de vivienda cuyo valor no exceda de trescientas setenta y cinco veces el salario mínimo mensual en el Estado, realizada con financiamiento otorgado o relacionado con algún programa de vivienda auspiciado por organismos descentralizados de la Federación o del Estado, el valor comercial podrá ser determinado por el avalúo practicado en términos de la legislación que regula las actividades y servicios financieros para el otorgamiento de crédito garantizado y, como base del Impuesto, el formulado por el tasador autorizado por el Poder Ejecutivo del Estado, quien será responsable del mismo, conforme a lo señalado en este Capítulo.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 66.
 
-Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda de la base gravable en los términos del artículo anterior, esta no se tomará en cuenta y el Impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias y los accesorios del Impuesto que resulten, los cuales serán siempre a cargo del perito valuador que efectuó el avalúo a que se refiere el artículo anterior.
+Las autoridades fiscales estarán facultadas para practicar, ordenar, o tomar en cuenta el avalúo referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda de la base gravable en los términos del artículo anterior, esta no se tomará en cuenta y el Impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias y los accesorios del Impuesto que resulten, los cuales serán siempre a cargo del sujeto causante y obligado al pago del Impuesto Sobre Traslado de Dominio.
 
-Cuando del avalúo practicado, ordenado o tomado en consideración por la dependencia encargada de las finanzas públicas municipales, resulte liquidación por diferencias de Impuesto, los Notarios y las partes no serán responsables solidarios por las mismas.
+Cuando del avalúo practicado, ordenado o tomado en consideración por la dependencia encargada de las finanzas públicas municipales, resulte a la liquidación por diferencias de Impuesto Sobre Traslado de Dominio, los Notarios no serán responsables solidarios por las mismas.
 
 ###### Artículo 67.
 
@@ -727,13 +745,17 @@ a) Se determinará el valor del bien a la fecha en que se practique el avalúo, 
 
 b) La cantidad obtenida conforme a la fracción anterior, se dividirá entre el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquel en que se practique el avalúo, entre el índice del mes al cual es referido el mismo; si el avalúo es referido a una fecha en que no se disponga del dato del índice nacional de precios al consumidor, dicha cantidad se dividirá entre el factor que corresponda, según el número de años transcurridos entre la fecha a la cual es referido el avalúo y la fecha en que se practique, de acuerdo a la tabla que dé a conocer para tales efectos la Secretaría de Hacienda y Crédito Público.
 
-c) El resultado que se obtenga conforme al inciso anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El valuador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+c) El resultado que se obtenga conforme al inciso anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El tasador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 70.
 
-Para lo señalado en este Capítulo, los peritos valuadores deberán estar autorizados por el Poder Ejecutivo del Estado, en los términos de la ley de la materia y, en su caso, otorgarán las garantías que para tal efecto éste les requiera.
+Para lo señalado en este Capítulo, los tasadores deberán estar autorizados por el Poder Ejecutivo del Estado, en los términos de la ley de la materia y, en su caso, otorgarán las garantías que para tal efecto éste les requiera.
 
-Los peritos así autorizados, serán los únicos responsables de la forma y contenido de los avalúos, así como de las diferencias del Impuesto omitido y sus accesorios, sin perjuicio de la aplicación de las sanciones por las demás infracciones en que incurran.
+Los tasadores autorizados, serán los únicos responsables de la forma y contenido de los avalúos, sin perjuicio de la aplicación de las sanciones por las demás infracciones en que incurran.
 
 ###### Artículo 71.
 
@@ -2370,3 +2392,41 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
