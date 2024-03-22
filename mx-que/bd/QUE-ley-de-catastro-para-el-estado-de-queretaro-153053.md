@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-catastro-para-el-estado-de-queretaro-153053"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-23"
-last_updated: "2021-12-23"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Número 109 del Periódico Oficial del Estado de Querétaro, el jueves 23 de diciembre de 2021.
 
@@ -119,7 +119,9 @@ VIII. Convenio: Es el instrumento jurídico de coordinación o colaboración en 
 
 IX. Construcción: La edificación de cualquier tipo, destino y uso, que incluya techados, adherida a un predio de manera fija, en condiciones tales que no pueda separarse del suelo sin deterioro de la misma o del predio, o aquella que considerándose provisional tenga un uso de carácter permanente, así como aquellas obras de carácter deportivo, tales como albercas, canchas de tenis, frontones, etcétera;
 
-X. Dirección: La Dirección de Catastro dependiente de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+X. Dirección: A la Dirección de Catastro adscrita al Instituto Registral y Catastral del Estado de Querétaro, organismo público descentralizado de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Querétaro.
 
 XI. Desarrollador: Persona física o moral que tiene autorización de las autoridades competentes para desarrollar, urbanizar o edificar un fraccionamiento o un condominio;
 
@@ -179,9 +181,13 @@ c) El predio urbano no edificado que ubicado dentro del perímetro urbano le cor
 
 XXXI. Proveedores de información: Las personas físicas y morales, públicas o privadas, que proporcionen datos para la integración del Sistema;
 
-XXXII. Registro Público: Al Registro Público de la Propiedad y del Comercio del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XXXIII. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
+XXXII. Registro Público: Al Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro, organismo público descentralizado de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXXIII. Instituto: Al Instituto Registral y Catastral del Estado de Querétaro, organismo público descentralizado de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Querétaro;
 
 XXXIV. Servicio de Información Catastral y Territorial: El conjunto de actividades a cargo de las autoridades competentes, tendientes al procesamiento, uso, aprovechamiento y realimentación de la información catastral y territorial, para fines de planeación, fiscales, estadísticos, socioeconómicos, jurídicos, históricos o comerciales;
 
@@ -207,23 +213,27 @@ Son autoridades en materia de catastro e información territorial:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. El Titular de la Secretaría;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+II. El Director General del Instituto Registral y Catastral del Estado de Querétaro;
 
 III. El Titular de la Dirección; y
 
-IV. Las demás que señale el Reglamento Interior de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IV. Las demás que señalen las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 4.
 
-Corresponde al Titular del Poder Ejecutivo del Estado:
+Corresponde al Titular del Poder Ejecutivo del Estado las facultades que en la materia le confiera la presente Ley y demás ordenamientos aplicables.
 
-I. Suscribir acuerdos de coordinación en materia de catastro e información territorial con las dependencias y entidades de la administración pública federal, así como con otras entidades federativas; y
-
-II. Las demás que le confieran la presente Ley y los ordenamientos aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 5.
 
-Corresponde al Titular de la Secretaría:
+Corresponde al Director General del Instituto:
 
 I. Participar en la suscripción de los convenios para el intercambio y aprovechamiento de información exclusivamente en la ejecución de acciones en materia de catastro e información territorial;
 
@@ -281,9 +291,13 @@ XXI. Delimitar los perímetros urbanos y coadyuvar en la formulación de estudio
 
 XXII. Coadyuvar con las autoridades competentes para la integración del padrón del patrimonio inmobiliario estatal y municipal, así como el padrón del patrimonio inmobiliario federal ubicado en el territorio del Estado;
 
-XXIII. Formular normas técnicas, lineamientos, procedimientos, manuales, instructivos y disposiciones administrativas en materia de catastro e información territorial para su publicación en el Periódico Oficial;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XXIV. Formular y proponer al Titular de la Secretaría los proyectos de convenios de coordinación para que los municipios asuman y realicen funciones catastrales, así como los de coordinación y colaboración en materia de catastro, información territorial y su uso multipropósito;
+XXIII. Proponer al Director General del Instituto, la formulación de normas técnicas, lineamientos, procedimientos, manuales, instructivos y disposiciones administrativas en materia de catastro e información territorial para su publicación en el Periódico Oficial, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXIV. Formular y proponer al Director General del Instituto los proyectos de convenios de coordinación para que los municipios asuman y realicen funciones catastrales, así como los de coordinación y colaboración en materia de catastro, información territorial y su uso multipropósito;
 
 XXV. Expedir en la esfera de su competencia constancias y certificaciones respecto de la información contenida en el Sistema de Catastro e Información Territorial;
 
@@ -293,17 +307,27 @@ XXVII. Emitir dictámenes sobre trabajos para la generación de cartografía, ma
 
 XXVIII. Notificar a los interesados los actos derivados del cumplimiento de la presente Ley, conforme a sus atribuciones y a los convenios que celebre con los municipios;
 
-XXIX. Tramitar y resolver en el ámbito de su competencia, las solicitudes e inconformidades que en materia de Catastro se presenten, en los términos señalados en la presente ley y notificar la resolución que se emita;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXIX. Tramitar y resolver, previo acuerdo con el Director General del Instituto, las solicitudes e inconformidades que en materia de Catastro se presenten, en los términos de las disposiciones aplicables;
 
 XXX. Practicar visitas de inspección o verificación, así como expedir en su caso la constancia de verificación correspondiente;
 
-XXXI. Llevar el registro y control de los valuadores autorizados por el Poder Ejecutivo del Estado de Querétaro, para los efectos de la Ley de Valuación Inmobiliaria para el Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XXXII. Establecer las normas y políticas para el intercambio de información catastral y del territorio en el ámbito de sus atribuciones;
+XXXI. Coadyuvar con el Instituto en el registro y control de los tasadores autorizados por el Poder Ejecutivo del Estado de Querétaro, para los efectos de la Ley de Valuación Inmobiliaria para el Estado de Querétaro;
 
-XXXIII. Llevar, con el apoyo de los valuadores y otras organizaciones relacionadas con el mercado inmobiliario, una base de datos con los precios y ofertas sobre predios, existentes en el mercado inmobiliario del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XXXIV. Formular en conjunto con el Registro Público, los lineamientos y procedimientos, para la vinculación de la información catastral y la registral;
+XXXII. Implementar las normas y políticas para el intercambio de información catastral y del territorio en el ámbito de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXXIII. Llevar, con el apoyo de los tasadores y otras organizaciones relacionadas con el mercado inmobiliario, una base de datos con los precios y ofertas sobre predios, existentes en el mercado inmobiliario del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXXIV. Proponer al Director General del Instituto, los lineamientos y procedimientos, para la vinculación de la información catastral y la registral, en términos de las disposiciones aplicables:
 
 XXXV. Vincular la información catastral con la información del Registro Público;
 
@@ -319,9 +343,11 @@ XL. Expedir la constancia de ubicación geográfica de domicilio, en un predio r
 
 XLI. Las demás que le confieran la presente Ley y los ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 7.
 
-El Titular de la Dirección deberá tener título de Ingeniero Civil o Arquitecto.
+El titular de la Dirección de Catastro deberá tener título de Ingeniero Civil o Arquitecto, y será nombrado y removido por el Consejo Directivo del Instituto, a propuesta de su Director General.
 
 ###### ARTÍCULO 8.
 
@@ -363,9 +389,11 @@ En materia de gestión catastral, los propietarios, poseedores, o cualquier pers
 
 La negativa de los propietarios, poseedores o encargados del predio para proporcionar los informes, documentos o permitir el acceso al predio, no será motivo para que se suspenda o difiera la gestión catastral, teniendo la Dirección, la facultad de registrar y elaborar el avalúo provisional con los datos que cuente o que se presuman, conforme a lo dispuesto por la fracción I del artículo 31 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-El Catastro y el Registro Público, deberán coordinarse con el propósito de diseñar y operar mecanismos que sirvan para los siguientes fines:
+La Dirección de Catastro y el Registro Público, deberán coordinarse con el propósito de diseñar y operar mecanismos que sirvan para los siguientes fines:
 
 I. Reforzar la seguridad jurídica en materia inmobiliaria;
 
@@ -375,9 +403,11 @@ III. Coadyuvar en la integración y actualización de sus bases de datos; y
 
 IV. Homologar su información.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-El Catastro y el Registro Público, procurarán que cada predio cuente con una cédula catastral y registral que contenga la información catastral y los datos registrales.
+El Instituto, procurará que cada predio cuente con una cédula catastral y registral que contenga la información catastral y los datos registrales.
 
 ### Capítulo Primero. De los Registros Catastrales
 
@@ -477,9 +507,11 @@ En caso de duplicidad de registros de un mismo predio, la Dirección determinar�
 
 La determinación y actualización del valor catastral se efectuará por la Dirección, con base en la aplicación de valores unitarios de terreno y construcción, a partir de la documentación e información proporcionada por los propietarios o poseedores de predios, o de acuerdo a los registros de información existentes en el Sistema o de acuerdo a la información que asiente la Dirección en los términos del capítulo anterior.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-La Dirección podrá actualizar los valores de los predios a partir de la información contenida en los avalúos elaborados para tal fin por valuador con nombramiento otorgado por el Ejecutivo del Estado, utilizando los manuales e instructivos que para tal efecto expida la Dirección y las Tablas de Valores Unitarios.
+La Dirección podrá actualizar los valores de los predios a partir de la información contenida en los avalúos elaborados para tal fin por tasador con nombramiento otorgado por el Ejecutivo del Estado, utilizando los manuales e instructivos que para tal efecto se expidan conforme a las disposiciones aplicables y las Tablas de Valores Unitarios.
 
 ###### ARTÍCULO 30.
 
@@ -499,7 +531,9 @@ III. Cuando por cualquier causa no le sea aplicable algún valor contenido en la
 
 En los casos de creación de nuevos fraccionamientos la Dirección formulará para la fase, etapa o sección que corresponda, un avalúo provisional una vez que sea publicada en el Periódico Oficial, la autorización provisional para la venta de lotes, conforme a lo siguiente:
 
-I. El valor unitario por metro cuadrado se obtendrá considerando la ubicación, las características de urbanización y las dimensiones del lote tipo o moda del fraccionamiento y se aplicará sobre el área enajenable en el momento de la autorización, aun cuando no constituya una sola unidad topográfica. El propietario del nuevo fraccionamiento podrá proponer el valor unitario a que se hace referencia mediante la presentación de un dictamen técnico elaborado por un perito valuador con nombramiento otorgado por el Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+I. El valor unitario por metro cuadrado se obtendrá considerando la ubicación, las características de urbanización y las dimensiones del lote tipo o moda del fraccionamiento y se aplicará sobre el área enajenable en el momento de la autorización, aun cuando no constituya una sola unidad topográfica. El propietario del nuevo fraccionamiento podrá proponer el valor unitario a que se hace referencia mediante la presentación de un dictamen técnico elaborado por un perito tasador con nombramiento otorgado por el Poder Ejecutivo del Estado;
 
 II. El valor unitario así determinado, se considerará provisional y tendrá vigencia por el ejercicio fiscal que le corresponda. Dicho valor se actualizará en los términos de esta Ley;
 
@@ -555,9 +589,11 @@ VII. Cuando el predio sufra un cambio físico que afecte su valor o sus condicio
 
 VIII. A solicitud del propietario o poseedor, cumpliendo con los lineamientos establecidos en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 37.
 
-La valuación catastral de los predios mediante la aplicación de valores unitarios de suelo y construcción, deberá ajustarse a lo establecido en las normas técnicas que al efecto expida la Dirección, las cuales contendrán, de manera enunciativa más no limitativa, lo siguiente:
+La valuación catastral de los predios mediante la aplicación de valores unitarios de suelo y construcción, deberá ajustarse a lo establecido en las normas técnicas qué al efecto expida el Instituto, las cuales contendrán, de manera enunciativa más no limitativa, lo siguiente:
 
 I. Criterios que deberán ser tomados en cuenta para la determinación de los valores unitarios de suelo y construcción aplicables a los predios, atendiendo a la localización de los mismos, la zonificación urbana que les corresponda, la infraestructura y servicios con que cuenten y su posición en relación con la manzana;
 
@@ -621,9 +657,11 @@ XIV. Los atributos de los predios, así como las características socioeconómic
 
 #### Sección Segunda. Del procedimiento de Formulación y Aprobación de las Tablas de Valores Unitarios
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 40.
 
-La Dirección formulará los proyectos de Tablas de Valores Unitarios conforme a las disposiciones de la presente Ley, considerando los plazos necesarios para su aprobación oportuna por parte de las autoridades correspondientes. Las citadas autoridades podrán auxiliarse en la formulación de los Proyectos de Tablas de Valores Unitarios, con los Valuadores con nombramiento otorgado por el Poder Ejecutivo del Estado.
+La Dirección formulará los proyectos de Tablas de Valores Unitarios conforme a las disposiciones de la presente Ley, considerando los plazos necesarios para su aprobación oportuna por parte de las autoridades correspondientes. Las citadas autoridades podrán auxiliarse en la formulación de los Proyectos de Tablas del Valores Unitarios, con los Tasadores con nombramiento otorgado por el Poder Ejecutivo del Estado.
 
 ###### ARTÍCULO 41.
 
@@ -663,9 +701,11 @@ La Dirección deberá auxiliar a los municipios que no cuenten con los recursos 
 
 ## Título Cuarto. Del Sistema de Catastro e Información Territorial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-Se declara de interés público la integración, desarrollo y mantenimiento del Sistema, cuya organización y funcionamiento estarán sujetos a los procedimientos y normas que al efecto establezca la Dirección.
+Se declara de interés público la integración, desarrollo y mantenimiento del Sistema, cuya organización y funcionamiento estarán sujetos a los procedimientos y normas que al efecto establezca el Instituto, en términos de las disposiciones aplicables. Dicho Sistema a su vez formará parte del Sistema de Información Registral y de Catastro e Información Territorial a cargo del Instituto.
 
 Las dependencias y entidades de la administración pública Estatal deberán observar los procedimientos y normas a que se refiere el párrafo anterior, en los procesos de captación, procesamiento, control, verificación de la calidad y divulgación de la información catastral y del territorio. Los municipios en el ámbito de su competencia, colaborarán en dichos procesos.
 
@@ -703,17 +743,23 @@ La Dirección solicitará a los proveedores de información la aportación, con 
 
 La Dirección podrá solicitar a las dependencias y entidades de la administración pública federal, Estatal o municipal, la información que generen relacionada con las materias objeto de esta Ley y resulte relevante para ser integrada al Sistema. Las dependencias y entidades de los gobiernos estatal y municipal estarán obligadas a proporcionar la información que les sea solicitada en los términos del presente artículo.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 55.
 
-La Dirección emitirá normas técnicas, a las que deberán sujetarse los procesos de captación, procesamiento, publicación y modalidad de presentación de la información catastral y territorial, y vigilará su cumplimiento, para asegurar la debida integración del Sistema.
+El Instituto, en términos de las disposiciones aplicables, emitirá normas técnicas, a las que deberán sujetarse los procesos de captación, procesamiento, publicación y modalidad de presentación de la información catastral y territorial, y vigilará su cumplimiento, para asegurar la debida integración del Sistema.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 56.
 
-La Secretaría, podrá celebrar acuerdos de coordinación, con personas físicas o morales, públicas o privadas, para el intercambio, e integración de información al Sistema de Catastro e Información Territorial, así como establecer la obligación recíproca de proporcionar la información a que se refiere el presente título, a través de normas y principios homogéneos.
+El Instituto, podrá celebrar acuerdos de coordinación, con personas físicas o morales, públicas o privadas, para el intercambio, e integración de información al Sistema de Catastro e Información Territorial, así como establecer la obligación recíproca de proporcionar la información a que se refiere el presente título, a través de normas y principios homogéneos.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### ARTÍCULO 57.
 
-Para efectos de esta Ley, la Secretaría, a través de la Dirección, se coordinará permanentemente con el Instituto Nacional de Estadística y Geografía, con el objeto de intercambiar la información, en el ámbito de sus respectivas competencias.
+Para efectos de esta Ley, el Instituto, a través de la Dirección de Catastro, se coordinará permanentemente con el Instituto Nacional de Estadística y Geografía, con el objeto de intercambiar la información, en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 58.
 
@@ -827,9 +873,11 @@ La Dirección de que se trate, podrán considerar y en su caso determinar cómo 
 
 Una vez efectuada la junta de avenencia descrita en el artículo precedente, la Dirección elaborará y emitirá el plano de deslinde catastral respectivo, en donde se harán constar el reconocimiento de linderos que se hubiera hecho, los cuales se considerarán autorizados, así como en su caso, precisar los linderos que se fijaron para efectos fiscales y catastrales.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 76.
 
-El interesado podrá presentar adjunto a su solicitud de plano catastral o deslinde catastral, el expediente correspondiente, incluyendo el plano de levantamiento topográfico del predio, integrado y realizado conforme a las normas técnicas que para tal efecto emita la Dirección y efectuado por el dictaminador catastral reconocido por la misma, siempre y cuando dicho dictaminador catastral realice la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público y en Catastro, así como la investigación y solicitud de constancias sobre los derechos de vía, restricciones, zonas o alineamientos por vías de comunicación, líneas de transmisión o conducción, cauces de corrientes o vasos de los depósitos de aguas, que aparentemente o físicamente afecten al predio objeto de deslinde. El dictaminador catastral que se hace referencia en este artículo, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de acuerdo al resultado del procedimiento administrativo de deslinde catastral.
+El interesado podrá presentar adjunto a su solicitud de plano catastral o deslinde catastral, el expediente correspondiente, incluyendo el plano de levantamiento topográfico del predio, integrado y realizado conforme a las normas técnicas que para tal efecto se emitan conforme a las disposiciones aplicables y efectuado por el dictaminador catastral reconocido por la misma, siempre y cuando dicho dictaminador catastral realice la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público y en Catastro, así como la investigación y solicitud de constancias sobre los derechos de vía, restricciones, zonas o alineamientos por vías de comunicación, líneas de transmisión o conducción, cauces de corrientes o vasos de los depósitos de aguas, que aparentemente o físicamente afecten al predio objeto de deslinde . El dictaminador catastral que se hace referencia en este artículo, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de acuerdo al resultado del procedimiento administrativo de deslinde catastral.
 
 ###### ARTÍCULO 77.
 
@@ -1324,3 +1372,43 @@ María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO, Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
