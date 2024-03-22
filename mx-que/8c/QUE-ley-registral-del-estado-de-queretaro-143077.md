@@ -4,7 +4,7 @@ identifier: "QUE-ley-registral-del-estado-de-queretaro-143077"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-01"
-last_updated: "2021-10-08"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY REGISTRAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de junio de 2020.
 
@@ -109,9 +107,11 @@ LEY REGISTRAL DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, tiene por objeto regular el sistema, funcionamiento y procesos del Registro Público de la Propiedad, y la administración y funcionamiento del Archivo General de Notarías, en el Estado de Querétaro.
+La presente Ley es de orden público e interés social, tiene por objeto regular el sistema, funcionamiento y procesos del Registro Púbico de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro.
 
 ###### Artículo 2.
 
@@ -123,13 +123,15 @@ II. Anotación de referencia: Es aquella que se realiza para dar continuidad a u
 
 III. Archivo: A los documentos físicos, digitales y electrónicos que obran en el Registro Público;
 
-IV. Archivo General: Al Archivo General de Notarías del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+IV. Archivo General: Al Archivo General de Notarías del Estado de Querétaro, Dirección adscrita a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro;
 
 V. Asiento: El registro en la Unidad Básica Registral de los actos jurídicos relacionados con dichas unidades, mediante inscripciones, anotaciones, notas de presentación, cancelaciones o rectificaciones por parte del Registrador;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-VI. Catastro: A la Dirección de Catastro de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro y, en su caso, al Catastro Municipal que corresponda.
+VI. Catastro: A la Dirección de Catastro adscrita al Instituto Registral y Catastral del Estado de Querétaro, organismo público descentralizado a la Jefatura de Gabinete del Poder Ejecutivo del Estado de Querétaro y, en su caso, al Catastro Municipal que corresponda;
 
 VII. Calificación Registral: A la verificación que realiza el Registrador sobre el documento que ampara un acto jurídico, para su inscripción, anotación y demás asientos, respecto del cumplimiento de los requisitos de la normatividad aplicable;
 
@@ -137,9 +139,13 @@ VIII. Código: Al Código Civil del Estado de Querétaro;
 
 IX. Datos Registrales: Los atributos para la identificación, ubicación, titularidad, características, situación jurídica, medidas y colindancias de un bien inmueble, así como los atributos de la personalidad asociados a una Unidad Básica Registral;
 
-X. Director: Al Director del Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XI. Director del Archivo: Al Director del Archivo General de Notarías;
+X. Director: Al Director del Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XI. Director General: Al Director General del Instituto Registral y Catastral del Estado de Querétaro;
 
 XII. Folio: Al expediente electrónico que contiene la información de los datos registrales y los asientos que afectan a cada Unidad Básica Registral, en el que se refieren sus antecedentes, al cual se le asignará una clave o número;
 
@@ -155,15 +161,23 @@ XVII. Ley del Notariado: A la Ley del Notariado del Estado de Querétaro;
 
 XVIII. Nota de presentación: Es el asiento practicado por el Registrador en los folios que correspondan, ordenado por la autoridad competente para asentar la interposición del recurso de revisión en contra de la negativa de inscripción, anotación y demás asientos, a fin de salvaguardar su prelación hasta en tanto sea resuelto el recurso en cuestión;
 
-XIX. Reglamento: Al Reglamento del Registro Público de la Propiedad del Estado de Querétaro;
+REFORMADA, P.O. 22 DE MARZO DE 2024)
 
-XX. Registrador: Al Director y Subdirectores del Registro Público de la Propiedad del Estado de Querétaro;
+XIX. Reglamento: Al Reglamento Interior del Instituto Registral y Catastral del Estado de Querétaro;
 
-XXI. Registro Público: Al Registro Público de la Propiedad del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XXII. Secretaría de Gobierno: A la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro;
+XX. Registrador: Al Director General, Director y Subdirectores del Registro Público;
 
-XXIII. Secretario de Gobierno: Al Secretario de Gobierno del Poder Ejecutivo del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXI. Registro Público o Registro Público de la Propiedad: A la Dirección del Registro Público de la Propiedad adscrita al Instituto Registral y Catastral del Estado de Querétaro, organismo descentralizado de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXII. Instituto: Al Instituto Registral y Catastral del Estado de Querétaro, organismo descentralizado a la Jefatura de Gabinete del Poder Ejecutivo del Estado de Querétaro;
+
+XXIII. (DEROGADA, P.O. 22 DE MARZO DE 2024)
 
 XXIV. Sistema Integral Registral: Al sistema informático mediante el cual se realizan los procesos del Registro Público; y
 
@@ -171,7 +185,7 @@ XXV. Unidad Básica Registral: Al bien inmueble, persona jurídica o en su caso 
 
 ###### Artículo 3.
 
-El Director del Registro Público será también Director del Archivo General.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 4.
 
@@ -183,13 +197,17 @@ El Registro Público y el Archivo General podrán reconocer para sus trámites c
 
 Los servidores públicos del Registro Público y el Archivo general podrán utilizar su firma electrónica en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que deban notificar.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 6.
 
-El Director podrá emitir autorizaciones a Notarios del Estado y a autoridades locales que lo soliciten, para realizar trámites electrónicos ante el Registro Público y el Archivo General.
+El Director podrá emitir autorizaciones a Notarios del Estado y a autoridades locales que lo soliciten, para realizar trámites electrónicos ante el Registro Público.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 7.
 
-El procedimiento y requisitos para los trámites electrónicos en el Registro Público y el Archivo General se sujetarán a las disposiciones administrativas que emita el Director, en los cuales se deberá incluir las medidas de seguridad necesarias.
+El procedimiento y requisitos para los trámites electrónicos en el Registro Público se sujetarán a las disposiciones administrativas que emita el Director General, en términos de las disposiciones aplicables, en los cuales se deberá incluir las medidas de seguridad necesarias.
 
 ###### Artículo 8.
 
@@ -259,9 +277,11 @@ El Registro Público y el Catastro procurarán que cada inmueble cuente con una 
 
 ### Capítulo Único. Dirección del Registro Público
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 15.
 
-El Registro Público estará a cargo de un Director que será nombrado por el titular de la Secretaría de Gobierno.
+El Registro Público estará a cargo de un Director que será nombrado y removido por el Consejo Directivo del Instituto, a propuesta de su Director General.
 
 ###### Artículo 16.
 
@@ -289,7 +309,9 @@ VII. Contar con amplia solvencia moral y reconocido prestigio profesional.
 
 Para ser Subdirector del Registro Público se deberá cumplir con los requisitos previstos en el artículo anterior, a excepción de los años de práctica profesional, que serán de tres años.
 
-Los Subdirectores del Registro Público serán designados por el Secretario de Gobierno del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Los Subdirectores del Registro Público serán designados y removidos por el Consejo Directivo del Instituto, a propuesta de su Director General.
 
 ###### Artículo 19.
 
@@ -305,7 +327,9 @@ IV. Designar y remover al personal necesario para el debido cumplimiento de las 
 
 V. Determinar, gestionar e instrumentar los recursos tecnológicos necesarios para el adecuado funcionamiento del Registro Público;
 
-VI. Informar periódicamente al Secretario de Gobierno, sobre las actividades realizadas en el Registro Público;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+VI. Informar periódicamente al Director General, sobre las actividades realizadas en el Registro Público;
 
 VII. Dictar las medidas necesarias para eficientar las actividades del Registro Público, promoviendo el desarrollo administrativo y tecnológico de los procesos registrales;
 
@@ -313,13 +337,19 @@ VIII. Administrar y supervisar la actualización permanente del Sistema Integral
 
 IX. Implementar y mantener la operación de los Sistemas de Gestión de Calidad y de Seguridad de la Información en el Registro Público;
 
-X. Expedir los acuerdos, lineamientos, manuales y demás disposiciones administrativas que se requieran para el cumplimiento eficiente de las funciones del Registro Público;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XI. Emitir las disposiciones administrativas para la inscripción y certificación electrónica;
+X. Someter a consideración del Director General la expedición de los acuerdos, lineamientos, manuales y demás disposiciones administrativas que se requieran para el cumplimiento eficiente de las funciones del Registro Público, en términos de las disposiciones aplicables;
 
-XII. Elaborar y presentar al Secretario de Gobierno, propuestas de programas institucionales para la prestación del servicio registral y favorecer la constante mejora y actualización del Registro Público, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
 
-XIII. Representar al Registro Público en los procesos judiciales, civiles, penales, mercantiles, administrativos, juicio de amparo o de cualquier otra naturaleza ante una autoridad, sin perjuicio de las facultades de representación que pudieran corresponder a otras instancias del Poder Ejecutivo del Estado;
+XI. Someter a consideración del Director General la emisión de las disposiciones administrativas para la inscripción y certificación electrónica, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XII. Elaborar y presentar al Director General, propuestas de programas institucionales para la prestación del servicio registral y favorecer la constante mejora y actualización del Registro Público, de conformidad con las disposiciones jurídicas aplicables;
+
+XIII. (DEROGADA, P.O. 22 DE MARZO DE 2024)
 
 XIV. Fomentar la modernización de la prestación de los servicios que ofrece el Registro Público, así como los trámites, requisitos y formatos para acceder a los mismos, en términos de las disposiciones aplicables;
 
@@ -351,9 +381,11 @@ Las oficinas registrales se establecerán en las poblaciones que determine el Re
 
 ### Capítulo Primero. Sistema Integral Registral
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 21.
 
-El Registro Público funcionará con un sistema informático denominado Sistema Integral Registral.
+El Registro Público funcionará con un sistema informático denominado Sistema Integral Registral, mismo que a su vez integrará el Sistema de Información Registral y de Catastro e Información Territorial, a cargo del Instituto.
 
 ###### Artículo 22.
 
@@ -1097,157 +1129,101 @@ En caso de que el Registrador rechace, tenga por no presentada la solicitud o de
 
 El interesado podrá solicitar a la autoridad competente ordene al Registrador realizar la nota de presentación, lo anterior con la finalidad de que si ésta ordena que se registre el documento, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el documento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 116.
 
-El Recurso de Revisión se interpondrá ante la Secretaría de Gobierno, dentro del plazo de diez días, contados a partir del día siguiente a aquel en que se tuvo conocimiento del acto, mismo que será substanciado por la Dirección Jurídica y Consultiva de esa Secretaría.
+El Recurso de Revisión se interpondrá ante la Dirección del Registro Público, dentro del plazo de diez días, contados a partir del día siguiente a aquel en que se tuvo conocimiento del acto, mismo que será substanciado por el Instituto. La resolución será emitida por el Director General del Instituto.
 
-La resolución será emitida por la Secretaría de Gobierno.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 117.
 
-Si la resolución del Secretario de Gobierno fuese favorable al recurrente, se remitirá al Registrador para su inmediato cumplimiento. En caso contrario, si se confirma la determinación, se hará del conocimiento del Registrador para que proceda a cancelar la nota de presentación respectiva.
+Si la resolución fuese favorable al recurrente, se remitirá al Registrador para su inmediato cumplimiento. En caso contrario, si se confirma la determinación, se hará del conocimiento del Registrador para que proceda a cancelar la nota de presentación respectiva.
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
 
 # Libro Segundo. El Archivo General de Notarías
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
+
 ## Título Primero. Disposiciones generales
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
 
 ### Capítulo Único. Naturaleza jurídica
 
 ###### Artículo 118.
 
-El Archivo General tendrá a su cargo la custodia y conservación de los protocolos de los notarios que se encuentren en guarda definitiva.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 119.
 
-La Dirección del Archivo General tendrá su sede en la capital del Estado y contará con una Subdirección para el cumplimiento de sus atribuciones.
-
-Para ser Subdirector del Archivo General se deberá cumplir con los requisitos previstos para el Director del Archivo, a excepción de los años de práctica profesional, que serán de tres años.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 120.
 
-El Archivo General no es público y sólo se expedirán reproducciones de la documentación en su resguardo, a las personas que tengan y acrediten interés jurídico, a los notarios y a las autoridades competentes.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 121.
 
-Los empleados del Archivo General no podrán divulgar, por ningún medio, información contenida en el Archivo General, a menos que ésta sea requerida por autoridad competente.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 122.
 
-El Archivo General ejercerá las atribuciones que le confiere la Ley del Notariado y regulará sus procedimientos en su propio Reglamento.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
 
 ## Título segundo. Conformación del Archivo General
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
 
 ### Capítulo Primero. Organización y atribuciones
 
 ###### Artículo 123.
 
-El Archivo General se formará con:
-
-I. Los documentos que los notarios o los que ejerzan estas funciones, deben remitir al Archivo General según las prevenciones de la Ley del Notariado;
-
-II. Los elementos del protocolo que le remitan los notarios de acuerdo a lo establecido por la Ley del Notariado;
-
-III. Los expedientes de los notarios que conforme a la normativa aplicable deba formar el Archivo General;
-
-IV. El libro de Registro de Notarios;
-
-V. Los sellos de los notarios que en el Archivo General deban depositarse, conforme a lo establecido en la Ley del Notariado; y
-
-VI. Los documentos emitidos por el Archivo General; y
-
-VII. Los demás documentos que establezcan otras disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 124.
 
-Los notarios deberán autorizar definitivamente instrumentos notariales y expedirán testimonios de los documentos que obren en Guarda definitiva en el Archivo.
-
-Para efectos del párrafo anterior, se estará a lo dispuesto por la Ley del Notariado y demás disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 125.
 
-El Director del Archivo tendrá las siguientes atribuciones:
-
-I. Guardar y custodiar definitivamente en su recinto oficial el protocolo que contenga la razón de cierre, y que tenga la antigüedad establecida en la Ley del Notariado;
-
-II. Llevar un registro de los sellos, color de tinta, firma autógrafa y firma electrónica notarial de los notarios del Estado;
-
-III. Recibir para su destrucción los sellos que se hayan deteriorado, alterado, o aparecido después de su extravió, así como los que no cumplan con los requisitos establecidos en la Ley del Notariado, levantando el acta respectiva;
-
-IV. Llevar un Registro de Notarios, en el cual se asiente la fecha de su nombramiento y aquella en que haya dejado de ejercer el cargo, así como las licencias, suspensiones o correcciones disciplinarias;
-
-V. Entregar a los notarios, los nuevos folios notariales, debidamente autorizados, siempre y cuando cumpla (sic) con los requerimientos que establece la Ley del Notariado, el Reglamento del Archivo General y demás disposiciones jurídicas aplicables;
-
-VI. Autorizar los tomos de los protocolos que le sean presentados para su revisión, siempre y cuando cumplan con las disposiciones jurídicas aplicables;
-
-VII. Actuar como representante del Poder Ejecutivo del Estado de Querétaro en las diligencias que deban realizarse en las Notarías, ordenadas por la Secretaría de Gobierno;
-
-VIII. Expedir testimonios que se soliciten respecto de los instrumentos notariales que consten en los protocolos cuyo depósito y conservación le sean encomendados;
-
-IX. Realizar, cuando proceda legalmente, anotaciones en los protocolos que se encuentren en guarda definitiva;
-
-X. Comunicar por escrito a la Secretaría de Gobierno, las irregularidades que se adviertan en los protocolos notariales que se le remitan para revisión o guarda definitiva y todo aquello que tenga relación con la actividad notarial;
-
-XI. Autorizar definitivamente los instrumentos notariales;
-
-XII. Emitir los lineamientos en coordinación con el Consejo de Notarios, por lo que respecta a la encuadernación de los tomos del protocolo y apéndices;
-
-XIII. Llevar un expediente por cada Notario con los documentos y datos que establezca esta Ley y la Ley del Notariado;
-
-XIV. Publicar por una vez en el periódico oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, cuando un Notario cese en su cargo por cualquier causa;
-
-XV. Desarrollar, implementar y operar el sistema informático previsto en la Ley del Notariado;
-
-XVI. Llevar los registros especiales denominados “Registros de Avisos de Testamentos” y “Registro de Avisos de Poderes Notariales”;
-
-XVII. Proporcionar información a las autoridades judiciales y administrativas competentes, y a los notarios con respecto a los avisos de testamentos;
-
-XVIII. Determinar en coordinación con el Consejo de Notarios, las especificaciones y medidas de seguridad que deberán de contener los folios notariales y el papel sobre el que se expidan los testimonios, mismas que deberán de ser observadas por los Notarios;
-
-XIX. Establecer mecanismos de control para la expedición y autorización de los folios notariales;
-
-XX. Autorizar la reposición de los folios notariales vigilando el cumplimiento de los procedimientos establecidos en la Ley del Notariado;
-
-XXI. Recibir de los Notarios el índice anual en el cual se establezcan los datos precisados en la Ley del Notariado, en relación a los instrumentos y folios notariales utilizados en el periodo;
-
-XXII. Representar al Archivo General en asuntos de su competencia y en aquellos en que sea parte ante cualquier otra autoridad, sin perjuicio de las facultades de representación que pudieran corresponder a otras instancias del Poder Ejecutivo del Estado;
-
-XXIII. Rendir los informes que le solicite la Secretaría de Gobierno; y
-
-XXIV. Las demás atribuciones establecidas en otras disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 126.
 
-El Subdirector del Archivo General será designado por el Secretario de Gobierno.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
-El Subdirector del Archivo General tendrá las atribuciones previstas en el Reglamento del Archivo General y demás disposiciones jurídicas aplicables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
 
 ### Capítulo Segundo. Libro de Registro de Notarios
 
 ###### Artículo 127.
 
-El Archivo General llevará un Libro de Registro de Notarías. Los requisitos para el registro de notarios se establecerán en su Reglamento.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 128.
 
-Una vez cumplidos los requisitos para la inscripción en el Libro de Registro de Notarías, el Director del Archivo autorizará su registro con su sello y firma.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 129.
 
-Cuando el nombramiento de algún notario quedare sin efecto por cualquiera de las causas establecidas en la Ley del Notariado, el Archivo General realizará la anotación correspondiente en el Libro de Registro de Notarios.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
-El acuerdo o resolución mediante la cual se deja sin efectos el nombramiento de notario, deberá integrarse al expediente de la notaría.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2024)</small>
 
 ### Capítulo Tercero. Guarda definitiva
 
 ###### Artículo 130.
 
-El Archivo General guardará y custodiará en definitiva los protocolos que contenga la razón de cierre, y que tenga la antigüedad establecida en la Ley del Notariado, sin que sea lícito extraerlos.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ###### Artículo 131.
 
-Para la guarda definitiva de los protocolos, el notario deberá avisar por escrito la relación de los libros para guarda, en los términos que se establezcan en el Reglamento del Archivo General.
-
-El Archivo General no recibirá libros para guarda definitiva, que no consten en el aviso.
+(DEROGADO, P.O. 22 DE MARZO DE 2024)
 
 ## TRANSITORIOS
 
@@ -1386,3 +1362,41 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
