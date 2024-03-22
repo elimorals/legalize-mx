@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transporte-del-estado-de-puebla-152811"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-03"
-last_updated: "2023-03-14"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. 8 DE MAYO DE 2024, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en la Edición Vespertina del Número 3 en el Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2021.
 
@@ -146,6 +148,18 @@ Competencia de la Secretaría y de Carreteras de Cuota-Puebla. En términos de l
 La Secretaría, para el cumplimiento de esta Ley y sus Reglamentos, podrá celebrar, de manera conjunta o separadamente, convenios de coordinación y colaboración, documentos previos a los contratos y demás instrumentos jurídicos con Dependencias y Entidades de las Administraciones Públicas Federal, Estatales y Municipales, así como con entes del sector público, privado y social.
 
 La Secretaría, para el ejercicio de sus atribuciones, podrá auxiliarse de las dependencias, órganos y organismos que estimen pertinentes.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
+
+ARTÍCULO 9 BIS. La Secretaría podrá celebrar convenios de coordinación y colaboración con los Ayuntamientos del Estado, para:
+
+I. La autorización en la prestación de los servicios auxiliares de arrastre, arrastre y salvamento y depósito de vehículos dentro de su demarcación territorial, previo cumplimiento de los requisitos previstos en esta Ley y su Reglamento;
+
+II. La sujeción a las políticas, programas, metodologías y sistemas que establezca la Secretaría para la asignación, control y vigilancia de los servicios auxiliares de arrastre, arrastre y salvamento y depósito de vehículos, así como para el uso y operación de las plataformas tecnológicas que se desarrollen para tal efecto;
+
+III. La estandarización de los requisitos y formalidades que deberán contener los documentos, inventarios y demás que elabore el primer respondiente cuando sea necesario trasladar un vehículo infraccionado, detenido o asegurado a un depósito, así como el procedimiento que deberá seguir; y
+
+IV. La sujeción y cumplimiento de las tarifas autorizadas por la Secretaría, respecto de los servicios auxiliares de arrastre, arrastre y salvamento y depósito de vehículos, de conformidad con la Ley de Ingresos, o en su caso, por el Tabulador que publique la Secretaría.
 
 ### CAPÍTULO II. ATRIBUCIONES
 
@@ -339,9 +353,13 @@ i) Sitios: Superficie autorizada de la infraestructura vial o de propiedad parti
 
 j) Base de servicio público: La ubicada en el punto de origen y destino de la ruta establecida, estipulándose el número de unidades que deberán estar estacionadas de acuerdo con las condiciones de operación vehicular de su ubicación.
 
-k) Servicios de arrastre y salvamento: Consiste en llevar a cabo las maniobras necesarias e indispensables para enganchar a la grúa o colocar en plataformas, vehículos o bienes muebles que deban ser trasladados por caminos y puentes de jurisdicción estatal. El servicio de arrastre y salvamento consiste en llevar a cabo aquellas maniobras mecánicas y/o manuales necesarios para rescatar y colocar sobre la superficie de rodamiento, en condiciones de poder realizar las maniobras propias de su arrastre, a los vehículos accidentados, sus partes o su carga.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
 
-l) Depósito de vehículos: Consiste en la guarda y custodia de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos de jurisdicción Estatal, vehículos de los servicios públicos, mercantil, ejecutivo de transporte y/o en su caso, remitidos por la autoridad competente.
+k) Servicios de arrastre y salvamento: Consiste en llevar a cabo las maniobras necesarias e indispensables para enganchar a la grúa o colocar en plataformas, vehículos o bienes muebles que deban ser trasladados dentro del Estado. El servicio de arrastre y salvamento consiste en llevar a cabo aquellas maniobras mecánicas y/o manuales necesarios para rescatar y colocar sobre la superficie de rodamiento, en condiciones de poder realizar las maniobras propias de su arrastre, a los vehículos accidentados, sus partes o su carga.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+l) Depósito de vehículos: Consiste en la guarda y custodia de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos, vehículos de los servicios públicos, mercantil, ejecutivo de transporte y/o en su caso, remitidos por la autoridad competente.
 
 m) Centros de Capacitación, Adiestramiento o Profesionalización: Las instituciones u organismos públicos o privados que cuenten con los permisos expedidos por la autoridad competente, destinadas a enseñar todo lo relacionado con la conducción, operación y prestación del servicio de los vehículos del servicio público de transporte, del servicio mercantil y del servicio ejecutivo, a fin de facultar a los prestadores de éstos para que lo realicen de manera eficiente y segura.
 
@@ -575,9 +593,11 @@ Los vehículos a que se refiere este artículo, deberán estar inscritos en el R
 
 #### SECCIÓN VI. DE LOS SERVICIOS AUXILIARES
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Servicios auxiliares. Permisos. Sólo se otorgará un permiso a los solicitantes para cada servicio auxiliar de que se trate, previo cumplimiento de los requisitos que determine la autoridad competente.
+Servicios auxiliares. Es facultad exclusiva de la Secretaría otorgar el permiso o concesión correspondiente para la prestación de los servicios de arrastre, arrastre y salvamento y depósito de vehículos, previo cumplimiento de los requisitos previsto (sic) en esta Ley y su Reglamento.
 
 ###### ARTÍCULO 44.
 
@@ -585,7 +605,9 @@ Servicios auxiliares. Instrumentos de control. La autoridad competente, podrá c
 
 Respecto a la regulación de los sitios, la autoridad competente otorgará los permisos correspondientes los cuales deberán expedirse con relación a las bases del servicio público de transporte, que se establecerán en el itinerario correspondiente a las concesiones.
 
-Los concesionarios o permisionarios de los servicios auxiliares deberán cumplir para el cobro de los servicios que presenten con las disposiciones legales y fiscales del Estado.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Los concesionarios o permisionarios de los servicios auxiliares deberán cumplir para el cobro de los servicios que presten, con las tarifas que se establezcan en las disposiciones legales y fiscales del Estado, o en el tabulador correspondiente.
 
 En lo relativo a los Centros de Capacitación, Adiestramiento o Profesionalización, la autoridad competente expedirá la concesión correspondiente, tanto a las instituciones públicas o privadas, para el reconocimiento como Centro de Capacitación, Adiestramiento o Profesionalización, lo anterior sin menoscabo de cumplir con los requisitos que se establezcan en otras disposiciones normativas aplicables.
 
@@ -617,15 +639,21 @@ Los interesados en operar un Centro de Capacitación, Adiestramiento o Profesion
 
 La autoridad competente, otorgará la autorización, vigilará, aprobará y supervisará el funcionamiento y la impartición de los cursos de capacitación, adiestramiento o profesionalización, reservándose la facultad de retirar dicha autorización, cuando se incumpla con las disposiciones aplicables, de conformidad con los lineamientos o disposiciones administrativas que se emitan al respecto.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-Arrastre, salvamento, y depósito. Los servicios de arrastre, salvamento, y depósito son considerados servicios auxiliares para los vehículos de servicios de transporte y también para vehículos particulares infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos de jurisdicción Estatal. Para prestar los servicios de arrastre y arrastre (sic) y salvamento se requiere un permiso emitido por la Secretaría. Para prestar los servicios de depósito de vehículos se requiere una concesión emitida por la Secretaría.
+Arrastre, salvamento, y depósito. Los servicios de arrastre, salvamento, y depósito son considerados servicios auxiliares para los vehículos de servicios de transporte y también para vehículos particulares infraccionados, abandonados, retenidos, accidentados o descompuestos dentro del Estado. Para prestar los servicios de arrastre y arrastre y salvamento se requiere un permiso emitido por la Secretaría. Para prestar los servicios de depósito de vehículos se requiere una concesión emitida por la Secretaría.
+
+La concesión que otorgue la Secretaría para prestar el servicio auxiliar de depósito de vehículos, tendrá una vigencia indeterminada, siempre y cuando se encuentre al corriente en sus obligaciones previstas en esta Ley y su Reglamento. De igual forma estarán sujetas a refrendo anual en términos de las disposiciones fiscales aplicables.
 
 ###### ARTÍCULO 50.
 
 Arrastre. Las personas físicas o morales que cuenten con el permiso correspondiente y que dispongan de vehículos con grúa para el arrastre de vehículos hacia los depósitos que opere directamente la autoridad que corresponda o los concesionados a particulares, podrán realizar este servicio siempre que cumplan con los requisitos previamente establecidos en esta Ley y su Reglamento.
 
-El permiso que la Secretaría otorgue para este servicio, será válido para todos los caminos y puentes de jurisdicción Estatal y en ningún caso autorizará a su titular a cubrir el servicio de salvamento.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+El permiso que la Secretaría otorgue para este servicio, será válido dentro del Estado y en ningún caso autorizará a su titular a cubrir el servicio de salvamento.
 
 En el servicio de arrastre en que sea indispensable utilizar caminos y puentes de cuota para la ejecución del servicio, los pagos serán a cargo del permisionario en lo que respecta a los demás costos o pagos de cualquier naturaleza relacionados con el vehículo o la grúa, serán a cargo del propietario del mismo. Los vehículos objeto del servicio, deberán circular sin personas a bordo.
 
@@ -645,7 +673,13 @@ La Secretaría publicará en el Periódico Oficial del Estado el Acuerdo en el q
 
 Sistema de asignación de servicios auxiliares. El sistema de control y vigilancia de servicios auxiliares es la plataforma a través de la cual se asignarán servicios de arrastre, salvamento y depósito en el Estado. El Reglamento establecerá las características, criterios y procedimientos. La Secretaría es la responsable de crear, gestionar y operar el sistema, por sí o a través de particulares en el marco de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal o demás disposiciones legales aplicables.
 
-Los usuarios podrán elegir al prestador del servicio de arrastre y salvamento a fin de ejecutar las maniobras correspondientes. En caso de que el usuario no esté presente o se encuentre imposibilitado para elegir a un prestador del servicio, el sistema de asignación recaerá en el primer respondiente quien asignará los servicios de arrastre, depósito y en su caso, salvamento.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Los usuarios podrán elegir al prestador del servicio de arrastre y salvamento, autorizado en el rol de servicios, a fin de ejecutar las maniobras correspondientes. En caso de que el usuario no esté presente o se encuentre imposibilitado para elegir a un prestador del servicio, el sistema de asignación recaerá en el primer respondiente que tenga conocimiento del hecho, quien tendrá la obligación de comunicarse, en su momento, con la plataforma para que ésta determine el prestador de servicios de arrastre, depósito y en su caso, salvamento, de acuerdo a lo señalado en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
+
+El incumplimiento de lo dispuesto en el párrafo anterior será sancionado de conformidad con la Ley de Seguridad Pública del Estado de Puebla y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 54.
 
@@ -1145,6 +1179,12 @@ El registro para Empresas de Redes de Transporte a que se refiere el artículo 1
 
 Para el caso de los permisos del Servicio de Transporte Mercantil de Personas en su modalidad de alquiler o Taxi locales, deberán prestar el servicio con vehículos que no excedan de siete años de antigüedad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MARZO DE 2024)</small>
+
+Los permisos que otorgue la Secretaría para prestar los servicios auxiliares de arrastre o arrastre y salvamento, tendrán una vigencia indeterminada, siempre y cuando se encuentren al corriente en sus obligaciones previstas en esta Ley y su Reglamento. De igual forma estarán sujetas a refrendo anual en términos de las disposiciones fiscales aplicables. Lo anterior no libera al permisionario de la obligación de prestar el servicio con vehículos que no excedan la antigüedad que se determine en el Reglamento de esta Ley, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Planeación y Finanzas, en términos de la Ley de Ingresos del Estado vigente.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 22 DE MARZO DE 2024)</small>
+
 Los demás vehículos que prestan los servicios de transporte mercantil a que se refiere esta Ley, contarán con la antigüedad y condiciones que señale la normatividad aplicable.
 
 ###### ARTÍCULO 106.
@@ -1248,6 +1288,10 @@ La persona que haya cedido los derechos de la concesión de la cual fue titular,
 Publicidad. Queda prohibido que se coloque publicidad o propaganda impresa y electrónica en los costados o frente de cualquier vehículo destinado al Servicio Público de Transporte, únicamente se podrá colocar publicidad en el interior del vehículo, así como en el medallón del mismo, previa autorización que otorgue la autoridad competente, de conformidad con las disposiciones legales aplicables.
 
 La publicidad o propaganda impresa y electrónica autorizada a cualquier vehículo destinado al Servicio Público de Transporte, por ningún motivo podrá incluir contenido sexista, degradante o peyorativo sobre la mujer, entendiéndose a este tipo de contenido como aquel que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Tampoco estará permitida bajo ningún medio o concepto, colocar, fijar, pintar o adherir propaganda electoral de partidos políticos y personas candidatas o precandidatas, así como aquella que contenga la imagen, nombre, símbolos, siglas o elementos que induzcan a la persona a saber que se trata de determinado candidato o candidata a un cargo de elección popular en los vehículos destinados al Servicio de Transporte Público, Mercantil o de los servicios auxiliares de arrastre y salvamento.
 
 ###### ARTÍCULO 120.
 
@@ -1756,3 +1800,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones normativas aplicables deberán emitirse en un plazo que no exceda de 180 días.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS INCISOS K) Y L) DE LA FRACCIÓN V DEL ARTÍCULO 14, EL ARTÍCULO 43, EL TERCER PÁRRAFO DEL ARTÍCULO 44, EL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 50, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53 Y EL CUARTO PÁRRAFO DEL ARTÍCULO 105, Y SE ADICIONAN EL ARTÍCULO 9 BIS, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 53, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 105 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 119, TODOS DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las adecuaciones correspondientes al Reglamento de la presente Ley y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto
