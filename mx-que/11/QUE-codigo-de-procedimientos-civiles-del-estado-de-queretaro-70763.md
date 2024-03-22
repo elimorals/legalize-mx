@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2017-06-02"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -3413,7 +3413,9 @@ La sentencia dictada podrá ser apelable sólo en efecto devolutivo.
 
 Para el remate, se tendrá como precio de la finca hipotecada el que se señale en el avaluó que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca, o en su caso, de no haberse acordado, se procederá de la forma siguiente:
 
-I. Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca, practicado por un corredor público, una institución bancaria o por perito valuador autorizado por el Consejo de la Judicatura, los cuales en ningún caso podrán tener el carácter de parte interesada;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+I. Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca, practicado por un corredor público, una institución bancaria o por perito tasador autorizado por el Consejo de la Judicatura, los cuales en ningún caso podrán tener el carácter de parte interesada;
 
 II. En el caso de que alguna de las partes no exhiba el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
 
@@ -3939,9 +3941,11 @@ II. Para recurrir el auto de aprobación del remate, en su caso; y
 
 III. Para nombrar, a su costa, dentro de los tres días siguientes de la notificación a que se refiere el artículo anterior un perito que, con los nombrados por el ejecutante y el ejecutado, practique el avalúo de la cosa. Nunca disfrutarán de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia, en su caso, ni cuando la valorización se haga por otros medios.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 586.
 
-El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores, no habrá necesidad de nombrar tercero en discordia.
+El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos tasadores, no habrá necesidad de nombrar tercero en discordia.
 
 ###### Artículo 587.
 
@@ -5193,9 +5197,11 @@ En la misma junta, una vez terminada la rectificación y graduación, los acreed
 
 Podrán también, por unanimidad y a solicitud del concursado, celebrar arreglos con éste o pedir todos los acreedores comunes, cuyos créditos hayan sido verificados, la adjudicación, en copropiedad, de los bienes del concursado, dándole carta de pago a éste y debiendo pagar, previamente, las costas y los créditos privilegiados.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 787.
 
-Después de esta junta y a falta de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el juez mandará hacer la de los muebles, conforme a lo prevenido en el artículo 616, sirviendo de base para la venta el valor que conste en inventarios, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado, si lo hubiere y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate, conforme a las reglas respectivas, nombrando el perito valuador el juez.
+Después de esta junta y a falta de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el juez mandará hacer la de los muebles, conforme a lo prevenido en el artículo 616, sirviendo de base para la venta el valor que conste en inventarios, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado, si lo hubiere y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate, conforme a las reglas respectivas, nombrando el perito tasador el juez.
 
 ###### Artículo 788.
 
@@ -5627,9 +5633,11 @@ El inventario se practicará por el secretario del juzgado o por un notario nomb
 
 Deben ser citados por correo para la formación del inventario, el cónyuge que sobrevive, los herederos, acreedores y legatarios que se hubieren presentado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
 ###### Artículo 856.
 
-Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito valuador y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
+Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito tasador y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
 
 ###### Artículo 857.
 
@@ -6906,3 +6914,41 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO, Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
