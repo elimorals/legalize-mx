@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-03-13"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -286,6 +286,40 @@ Constituye violencia laboral: la negativa ilegal a contratar a la víctima o a r
 El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
+
+###### ARTÍCULO 9 Ter.
+
+El Estado en función de sus atribuciones, tomará en consideración:
+
+I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+
+II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
+
+III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos; y
+
+IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
+
+###### ARTÍCULO 9 Quater.
+
+Para los efectos del hostigamiento sexual y del acoso sexual, los Gobiernos Estatal y Municipales deberán:
+
+I. Reivindicar la dignidad de las mujeres y las niñas en todos los ámbitos de la vida;
+
+II. Establecer mecanismos que favorezcan su erradicación en escuelas, instituciones gubernamentales y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
+
+III. Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
+
+IV. Implementar sanciones administrativas para las y los superiores jerárquicos de la persona hostigadora o acosadora cuando sean omisos en recibir y/o dar curso a una queja;
+
+V. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
+
+VI. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre la misma persona hostigadora o acosadora, guardando públicamente el anonimato de la o las quejosas; y
+
+VII. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -1338,3 +1372,11 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Por cuanto al registro a que se refiere el presente decreto, la Secretaría de Salud del Estado, deberá realizarlo de conformidad con su disponibilidad presupuestal.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 345 POR EL QUE "SE ADICIONAN LOS ARTÍCULOS 9 TER Y 9 QUATER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
