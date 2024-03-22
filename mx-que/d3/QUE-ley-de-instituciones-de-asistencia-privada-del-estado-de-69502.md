@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-instituciones-de-asistencia-privada-del-estado-de-69502"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2023-03-07"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -81,7 +81,9 @@ Son fundadores de las instituciones, las personas que disponen de todo o parte d
 
 De acuerdo a lo previsto en el Código Civil del Estado de Querétaro y lo que se establece en esta Ley, cuando los particulares deseen realizar fines de asistencia social deberán constituirse de conformidad con las normas establecidas por este ordenamiento, excepto cuando las lleven a cabo de manera ocasional, a título personal, en forma directa y con fondos propios.
 
-Los notarios públicos, jueces titulares o encargados del Registro Público de la Propiedad y del Comercio, deben abstenerse de protocolizar, autorizar, intervenir o registrar cualquier acto tendiente a la constitución o transformación de una asociación o entidad cualquiera que tenga los fines señalados en el artículo 1 de esta Ley, si no es en la forma prevenida en este ordenamiento legal.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Los notarios públicos, jueces titulares o encargados del Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro, deben abstenerse de protocolizar, autorizar, intervenir o registrar cualquier acto tendiente a la constitución o transformación de una asociación o entidad cualquiera que tenga los fines señalados en el artículo 1 de esta Ley, si no es en la forma prevenida en este ordenamiento legal.
 
 Las asociaciones que se dediquen a la asistencia social y se encuentren constituidas en forma distinta a la establecida en esta Ley, podrán transformarse como instituciones de asistencia privada.
 
@@ -169,25 +171,41 @@ En la resolución, se evaluarán las constancias aportadas por los interesados, 
 
 Dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución que autoriza la constitución de la institución y estatutos, se deberán presentar ante la Junta, la documentación en copia certificada que acredite la formalización de la constitución de la institución ante notario.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2024)</small>
 
 ###### Artículo 11.
 
-Los estatutos que hayan sido presentados en la solicitud de constitución, deberán protocolizarse ante notario y posteriormente se deberán inscribir en el Registro Público de la Propiedad y del Comercio.
+Los estatutos que hayan sido presentados en la solicitud de constitución, deberán protocolizarse ante notario y posteriormente se deberán inscribir en el Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro.
 
-Una vez inscrita la constitución de la institución en el Registro Público de la Propiedad y del Comercio, en un plazo de 15 días hábiles deberán inscribirse en el registro de las instituciones de asistencia privada que está a cargo de la Junta, mismo que deberá actualizarse de manera anual cada mes de marzo.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Una vez inscrita la constitución de la institución en citado Registro, en un plazo de 15 días hábiles deberán inscribirse en el registro de las instituciones de asistencia privada que está a cargo de la Junta, mismo que deberá actualizarse de manera anual cada mes de marzo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE OCTUBRE DE 2018)</small>
 
 Los estatutos de las Instituciones de Asistencia Privada deberán contener al menos los requisitos siguientes:
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 I. El nombre o denominación que se le pretenda dar a la institución y la clase de institución de asistencia privada que se constituye, agregándole “Asociación de Asistencia Privada” o “Fundación de Asistencia Privada” o de las siglas AAP o FAP según sea el caso.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 II. Los bienes que formarán su patrimonio, la forma en que serán aportados, así como los sistemas que se utilizarán para recaudar fondos en favor de la institución;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 III. Las actividades que habrá de realizar para proveer su autosuficiencia económica;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 IV. Los requisitos que deberán cubrir las personas que disfruten de los beneficios de la institución;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 V. La designación de las personas que integran el Patronato o Consejo de la institución, así como las condiciones que rijan su subsistencia; y
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 VI. Las bases generales de su organización y administración.
 
@@ -263,7 +281,9 @@ El Patronato y el patrono o patronos de las fundaciones constituidas en la forma
 
 Cuando por cualquier causa el Estado o los municipios tengan en posesión bienes de propiedad particular que se encuentren afectados o destinados a cualquiera de los fines señalados en el artículo 1 de esta Ley y haya fallecido el propietario de dichos bienes, habiendo formulado, respecto de los mismos, disposición testamentaria en favor de la asistencia o de los necesitados, procederá a constituirse con estos bienes una institución mediante la ley o decreto que en su caso se expida para esos efectos y en la cual se contendrán los requisitos y elementos señalados en el artículo 9 de esta Ley o a transmitirse los mismos al Sistema Estatal o a los Sistemas Municipales de Desarrollo Integral de la Familia.
 
-En estos casos, los titulares y encargados del Registro Público de la Propiedad y del Comercio que corresponda, procederán a inscribir preventivamente el destino de los bienes señalados en la ley o decreto en favor de la institución creada, dentro de los quince días siguientes a la fecha en que haya entrado en vigencia.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+En estos casos, los titulares y encargados del Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro que corresponda, procederán a inscribir preventivamente el destino de los bienes señalados en la ley o decreto en favor de la institución creada, dentro de los quince días siguientes a la fecha en que haya entrado en vigencia.
 
 ## Título Tercero. Del patrimonio de las Instituciones de Asistencia Privada
 
@@ -279,7 +299,9 @@ En estos casos, la disposición testamentaria que determine la aportación o afe
 
 Cuando la Junta resuelva crear una nueva institución, procederá a formular los estatutos con sujeción a lo que dispone el artículo 9 de la presente Ley, determinando sus fines específicos.
 
-Asimismo, la Junta nombrará al Patronato que deberá protocolizar su estructura constitutiva y la aportación o afectación de los bienes de que se trate ante el notario público que al efecto designe, inscribirlos en el Registro Público de la Propiedad y del Comercio correspondiente y, en el caso de que resulte necesario, apersonarse en el juicio testamentario en representación de la institución creada, otorgándoles la documentación y facultades necesarias para ello.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+Asimismo, la Junta nombrará al Patronato que deberá protocolizar su estructura constitutiva y la aportación o afectación de los bienes de que se trate ante el notario público que al efecto designe, inscribirlos en el Registro Público de la Propiedad adscrito al Instituto Registral y Catastral del Estado de Querétaro correspondiente y, en el caso de que resulte necesario, apersonarse en el juicio testamentario en representación de la institución creada, otorgándoles la documentación y facultades necesarias para ello.
 
 ###### Artículo 29.
 
@@ -1230,3 +1252,41 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO, Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
