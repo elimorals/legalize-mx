@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-firma-electronica-avanzada-para-el-estado-de-153642"
 country: "mx"
 rank: "ley"
 publication_date: "2022-01-07"
-last_updated: "2023-10-20"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 7 de enero de 2022.
 
@@ -67,7 +67,9 @@ I. Las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro;
 
 II. Los municipios, las dependencias y entidades de la administración pública municipal;
 
-III. Los notarios, valuadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+III. Los notarios, tasadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado de Querétaro;
 
 IV. Los servidores públicos de las dependencias y entidades que en la realización de los actos a que se refiere esta Ley, utilicen la firma electrónica avanzada; y,
 
@@ -145,7 +147,9 @@ XIX. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado de Quer
 
 XX. Sello electrónico: Los datos biográficos que en forma electrónica son consignados en un Mensaje de Datos, adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos. El sello electrónico produce los mismos efectos jurídicos que la firma autógrafa, se utilizará en los trámites y servicios que la Unidad de Firma Electrónica Avanzada determine mediante disposiciones de carácter general, y será generado mediante un Certificado;
 
-XXI. Sujeto autorizado: Todo servidor público, notario público, valuadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado de Querétaro o representante legal de una persona jurídica colectiva, autorizada para utilizar un sello electrónico;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+
+XXI. Sujeto autorizado: Todo servidor público, notario público, tasadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado de Querétaro o representante legal de una persona jurídica colectiva, autorizada para utilizar un sello electrónico;
 
 XXII. Titular: Cualquiera de los sujetos de la Ley, a cuyo favor se ha expedido un Certificado, y el único que debe tener el resguardo físico y el control sobre su llave privada, ya sea de manera personal o por conducto de los sujetos autorizados; y
 
@@ -547,7 +551,9 @@ Cuando alguna disposición legal requiera que en un procedimiento se lleve a cab
 
 Para los efectos del artículo que antecede, el Buzón Digital Estatal será un medio de comunicación oficial a través del cual se comunicará a los particulares o interesados las actuaciones electrónicas o la información materia de procedimientos electrónicos.
 
-La Unidad de Firma Electrónica Avanzada administrará e implementará en su portal de Internet un Buzón Digital Estatal, que será incorporado a los portales de Internet de las dependencias y entidades públicas del Poder Ejecutivo del Estado de Querétaro, así como por notarios, valuadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado para su uso común.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2024)</small>
+
+La Unidad de Firma Electrónica Avanzada administrará e implementará en su portal de Internet un Buzón Digital Estatal, que será incorporado a los portales de Internet de las dependencias y entidades públicas del Poder Ejecutivo del Estado de Querétaro, así como por notarios, tasadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado para su uso común.
 
 Las dependencias y entidades públicas señalados (sic) en el párrafo anterior, deberán realizar la notificación de cualquier acto, actuación electrónica o resolución administrativa que emitan en documentos electrónicos, incluyendo cualquiera que pueda ser recurrido, y podrán enviar mensajes de datos con información de interés para las personas que hagan uso del Buzón Digital Estatal.
 
@@ -706,3 +712,41 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
+
+P.O. 22 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO, Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+
+Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento del Registro Público de la Propiedad del Estado adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado y la Dirección del Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan.
+
+Artículo Cuarto. Todas las referencias en las disposiciones jurídicas y administrativas del Registro Público del Estado de Querétaro, Registro Público de la Propiedad y del Comercio, Registro Público de la Propiedad, Registro Público de la Propiedad y el Comercio del Estado de Querétaro, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, al Registro Público de la Propiedad, adscrito al Instituto.
+
+Artículo Quinto. Todas las referencias en las disposiciones jurídicas y administrativas de la Dirección de Catastro, Dirección de Catastro Estatal, Dirección de Catastro del Estado, Dirección de Catastro adscrita a la Secretaría de Finanzas, se entenderán realizadas a favor del Instituto Registral y Catastral del Estado de Querétaro, y en lo conducente, a la Dirección de Catastro, adscrita al Instituto.
+
+Artículo Sexto. Los procedimientos y trámites iniciados por la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Séptimo. Los procedimientos y trámites iniciados por el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro con anterioridad al inicio de funciones del Instituto Registral y Catastral del Estado de Querétaro, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por el citado Instituto, atendiendo a su competencia.
+
+Artículo Octavo. Los recursos materiales, humanos y financieros con los que cuentan el Registro Público de la Propiedad adscrito a la Secretaría de Gobierno del Poder Ejecutivo del Estado, así como la Dirección de Catastro adscrita a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se trasladarán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro.
+
+Los trabajadores del Registro Público de la Propiedad, así como de la Dirección de Catastro, que por virtud de la presente Ley se transferirán al organismo público descentralizado denominado Instituto Registral y Catastral del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Noveno. En tanto se emitan las disposiciones normativas, reglamentarias y administrativas que regulan la operación y funcionamiento del Instituto Registral y Catastral del Estado de Querétaro, continuarán vigentes los reglamentos, lineamientos, manuales, normas técnicas y demás normatividad del Registro Público de la Propiedad y la Dirección de Catastro.
+
+Artículo Décimo. A partir de la entrada en vigencia de la presente Ley, todas las referencias al Sistema Integral Registral y al Sistema de Catastro e Información Territorial, se entenderán hechas en lo conducente, al Sistema de Información Registral y de Catastro e Información Territorial.
+
+Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador, valuadores, perito valuador, se entenderán realizadas a tasador, tasadores o perito tasador.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
+
+Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
+
+De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de Consejo de Tasadores del Estado de Querétaro.
