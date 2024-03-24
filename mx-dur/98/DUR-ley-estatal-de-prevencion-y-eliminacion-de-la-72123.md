@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2023-03-19"
+last_updated: "2024-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -337,13 +337,21 @@ III. Promover, dentro de su ámbito de competencia, el otorgamiento de descuento
 
 IV. Diseñar, instrumentar y ejecutar programas de apoyo financiero para la construcción de casas hogar y de esparcimiento con equipo y personal especializado;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
+
 V. Procurar un nivel mínimo y decoroso de ingresos a través de programas, conforme a las reglas de operación que al efecto se establezcan:
 
 a) De apoyo financiero directo y ayudas en especie;
 
-b) De capacitación para el trabajo y de fomento a la creación de empleos; y
+b) De capacitación para el trabajo y de fomento a la creación de empleos;
 
-VI. Garantizar, conforme a la legislación aplicable, asesoría jurídica gratuita así como la asistencia de un representante legal cuando el afectado lo requiera.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
+
+VI. Garantizar, conforme a la legislación aplicable, asesoría jurídica gratuita así como la asistencia de un representante legal cuando el afectado lo requiera; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2024)</small>
+
+VII. Promover la incorporación de una perspectiva etaria en las acciones y programas a su cargo, entendiéndose como tal a los procesos implementados con la finalidad de valorar y considerar las particularidades físicas, sociales y psicológicas de las personas adultas de 60 años o más, con el objeto de promover y garantizar una vida digna.
 
 ###### Artículo 25.
 
@@ -714,6 +722,14 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en 
 P.O. 19 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 329.- REFORMA AL ARTICULO 18 DE LA LEY ESTATAL DE PREVENCION Y ELIMINACION DE LA DISCRIMINACION VIGENTE EN EL ESTADO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 24 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 558 QUE CONTIENE REFORMA AL ARTÍCULO 24 DE LA LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN EN MATERIA DE DIGNIDAD DE LOS ADULTOS MAYORES”.]
 
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
