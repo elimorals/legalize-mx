@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2024-03-07"
+last_updated: "2024-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -4857,9 +4857,9 @@ a) Niegue el otorgamiento o contratación de las operaciones a que hacen referen
 
 b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
 
-III. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
+III. El servidor público que teniendo a su cargo fondos o recursos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
 Al culpable se le impondrán las siguientes penas:
 
@@ -4869,21 +4869,21 @@ Cuando el monto de las operaciones exceda del equivalente a noventa veces la Uni
 
 Cuando no sea posible cuantificar el monto de las operaciones, se aplicará una pena de tres a doce años de prisión y multa de doscientos dieciséis a ochocientos sesenta y cuatro veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2024)</small>
 
 ###### Artículo 334 Bis.
 
-Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, adoptante o adoptado o cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se le aumentarán las penas en una tercera parte.
 
-I.- Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y,
-
-II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
-
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres a nueve años de prisión y multa de cien a trescientas veces la Unidad de Medida y Actualización
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2024)</small>
 
 ###### Artículo 335.
 
-Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, adoptante o adoptado o cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se le aumentarán las penas en una tercera parte.
+Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y,
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte. Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres a nueve años de prisión y multa de cien a trescientas veces la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IX. COHECHO
 
@@ -7046,3 +7046,11 @@ P.O. 7 DE MARZO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 24 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 560 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 334, 334 BIS Y 335 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DELITO DE CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
