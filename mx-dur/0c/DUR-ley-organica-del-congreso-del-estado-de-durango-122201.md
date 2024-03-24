@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2023-12-21"
+last_updated: "2024-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -2103,13 +2103,47 @@ XIV. Las demás que le confieran esta ley, sus reglamentos, el Pleno y la Junta 
 
 La Junta de Gobierno y Coordinación Política deberá designar dentro de la estructura orgánica de la Secretaría General y atendiendo a la disponibilidad presupuestal, una instancia responsable encargada de aplicar lo establecido en la Ley General de Mejora Regulatoria, o bien, autorizarla para coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2024)</small>
+
+### CAPÍTULO II BIS. DE LA DIRECCIÓN DE ARCHIVO LEGISLATIVO
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2024)</small>
+
+###### Artículo 159 Bis.
+
+La Dirección de Archivo Legislativo es la instancia encargada de promover y vigilar el cumplimiento de las disposiciones en materia de gestión documental y administración de archivos, y tendrá las siguientes atribuciones:
+
+a) Desempeñar sus funciones bajo el control y supervisión de la Secretaría General.
+
+b) Aprobar y vigilar la correcta instrumentación del sistema institucional de archivo, así como la custodia y seguridad jurídica y material de los acervos que conforman la memoria documental del Poder Legislativo, mediante el sistema institucional de archivo el cual está conformado del personal y de la siguiente manera:
+
+I. La Unidad de Archivo de Gestión y Trámite: a través de los enlaces de los archivos de trámite de las unidades administrativas que conforman los órganos técnicos del Poder Legislativo.
+
+II. La Unidad de Archivo de Concentración.
+
+III. La Unidad de Archivo Histórico.
+
+c) Emitir los lineamientos generales que aseguren la adecuada administración, custodia y guarda de todo documento y/o registro, ya sea en papel o medio electrónico, que implique interés público,
+
+d) Emplear los mecanismos de regulación, organización, difusión, y conservación de la documentación e información generada o bajo resguardo de los sujetos obligados, así como los documentos o información que se generen como resultado de las tareas legislativas que contengan y constituyan la información pública y el Acervo Documental Histórico y Cultural del Poder Legislativo, asegurando la integridad de los mismos.
+
+e) Participar como integrante del Comité Técnico de Administración de Documentos y Archivo.
+
+f) Establecer y desarrollar los programas institucionales y permanentes encaminados a la capacitación y asesoría archivística de las y los responsables de archivos de las diversas áreas del Congreso del Estado.
+
+g) Coordinar los procedimientos de valoración y destino final de la documentación generada por el Poder Legislativo, con el Comité Técnico de Administración de Documentos y Archivos, de acuerdo a la normatividad aplicable.
+
+h) Sistematizar con el Departamento de Tecnologías de la Información, la gestión, administración y conservación de archivos electrónicos.
+
+i) Aprobar los instrumentos de control necesarios para la regulación de los procesos archivísticos contemplados en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2024)</small>
+
+###### Artículo 159 Ter.
+
+Las personas titulares de la Dirección de Archivo Legislativo y de las Unidades de Archivo de Gestión y Trámite, de Archivo de Concentración y de Archivo Histórico, serán designadas por la Junta de Gobierno y Coordinación Política y durarán en su encargo cuatro años.
+
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 14 DE DICIEMBRE DE 2021)</small>
-
-### CAPÍTULO III. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XX A XIX FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINA 21.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS Y FINANCIEROS
 
@@ -2173,7 +2207,9 @@ XV. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le co
 
 > <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE SERVICIOS JURÍDICOS
+### CAPÍTULO III. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XX A XIX FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINA 21.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -2185,7 +2221,7 @@ I. Dirección de Apoyo al Proceso Parlamentario, la cual contará con los siguie
 
 1) Departamento de Proceso Legislativo;
 
-2) Departamento de Archivo Histórico-Legislativo;
+2) (DEROGADO, P.O. 24 DE MARZO DE 2024)
 
 3) Departamento de Actualización Legislativa; y,
 
@@ -2285,9 +2321,9 @@ El contenido de la gaceta tendrá solo efectos informativos, sin que se consider
 
 > <small>(REFORMADO [N. DE E. ANTES APARTADO C], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO V. DE LOS REQUISTOS (SIC) PARA SER SECRETARIA O SECRETARIO GENERAL, DE SERVICIOS LEGISLATIVOS; DE ADMINISTRACIÓN Y FINANZAS Y DE SERVICIOS JURÍDICOS
+### CAPÍTULO IV. DE LA SECRETARÍA DE SERVICIOS JURÍDICOS
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 162.
 
@@ -2333,7 +2369,9 @@ El titular de la Secretaría de Servicios Jurídicos, los directores y asesores 
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO VI. DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
+### CAPÍTULO V. DE LOS REQUISTOS (SIC) PARA SER SECRETARIA O SECRETARIO GENERAL, DE SERVICIOS LEGISLATIVOS; DE ADMINISTRACIÓN Y FINANZAS Y DE SERVICIOS JURÍDICOS
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 163.
 
@@ -2399,9 +2437,7 @@ Los manuales de procedimientos que al efecto se elaboren, prevendrán la mejora 
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO II], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO VII. DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO VI. DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
 ###### Artículo 166.
 
@@ -2409,9 +2445,9 @@ El Congreso del Estado, para el ejercicio de la facultad que le confiere el art�
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO VIII. DEL COMITÉ DE COORDINACIÓN DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS DEL CONGRESO
+### CAPÍTULO VII. DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 167.
 
@@ -2454,6 +2490,42 @@ XVI. Fungir como instancia de solventación de los procedimientos reglamentarios
 XVII. Las demás que se le encomienden a través del Comité respectivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VIII. DEL COMITÉ DE COORDINACIÓN DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 167 Bis.
+
+El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos estará integrado por:
+
+a) Los integrantes titulares de las (sic) Mesa Directiva
+
+b) Los integrantes de la Junta de Gobierno y Coordinación Política
+
+c) Tres especialistas en derecho legislativo.
+
+Todos los integrantes del Comité de Coordinación del Centro de Investigación y Estudios Legislativos tendrán derecho a voz y voto. En caso de empate el presidente de la Mesa directiva tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 167 Ter.
+
+El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos tendrá las siguientes funciones:
+
+a). Aprobar el programa anual de las actividades del Centro (sic) Investigaciones y Estudios Legislativos, y revisar el informe de cumplimiento del mismo al concluir el año respectivo.
+
+b). Instruir al Centro a realizar las investigaciones legislativas, proyectos y diagnósticos, que considere convenientes para la armonización legislativa con las leyes nacionales e internacionales conducentes.
+
+c). Propiciar mecanismos de capacitación y formación continua del personal del Centro.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 167 Quater.
+
+El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos se deberá de reunir cuando menos cuatro veces al año.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO VIII BIS. DE LA UNIDAD DE ESTUDIOS ECONÓMICOS Y DE FINANZAS PÚBLICAS
 
@@ -2513,41 +2585,7 @@ La persona titular durará en su encargo 4 años y podrá ser ratificada hasta p
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO IV], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 167 Bis.
-
-El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos estará integrado por:
-
-a) Los integrantes titulares de las (sic) Mesa Directiva
-
-b) Los integrantes de la Junta de Gobierno y Coordinación Política
-
-c) Tres especialistas en derecho legislativo.
-
-Todos los integrantes del Comité de Coordinación del Centro de Investigación y Estudios Legislativos tendrán derecho a voz y voto. En caso de empate el presidente de la Mesa directiva tendrá voto de calidad.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
-
-###### Artículo 167 Ter.
-
-El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos tendrá las siguientes funciones:
-
-a). Aprobar el programa anual de las actividades del Centro (sic) Investigaciones y Estudios Legislativos, y revisar el informe de cumplimiento del mismo al concluir el año respectivo.
-
-b). Instruir al Centro a realizar las investigaciones legislativas, proyectos y diagnósticos, que considere convenientes para la armonización legislativa con las leyes nacionales e internacionales conducentes.
-
-c). Propiciar mecanismos de capacitación y formación continua del personal del Centro.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
-
-###### Artículo 167 Quater.
-
-El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos se deberá de reunir cuando menos cuatro veces al año.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
-
-### CAPÍTULO X. DEL COMITÉ DE TRANSPARENCIA
 
 ###### Artículo 168.
 
@@ -2559,7 +2597,7 @@ La información que sea transmitida en forma pública a través del Sistema de T
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO V], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO XI. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO X. DEL COMITÉ DE TRANSPARENCIA
 
 ###### Artículo 169.
 
@@ -2567,7 +2605,7 @@ El Comité de Transparencia se integrará por el Titular de la Unidad de Enlace 
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VI], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO VI (SIC). DE LA GACETA PARLAMENTARIA
+### CAPÍTULO XI. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 170.
 
@@ -2618,6 +2656,14 @@ o) Vínculo a las redes sociales, que permitan la comunicación interactiva con 
 p) Buzón electrónico de quejas y sugerencia (sic), y
 
 q) Los demás elementos que resulten necesarios a la difusión de la información oficial del Congreso.
+
+### CAPITULO VI (SIC). DE LA GACETA PARLAMENTARIA
+
+###### Artículo 172.
+
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO XII. DE LA CONTRALORÍA INTERNA
 
@@ -2675,17 +2721,9 @@ V. Investigar y calificar actos u omisiones que pudieran constituir responsabili
 
 VI. Las demás que señale la legislación aplicable y el Reglamento Interno del Órgano interno de Control.
 
-###### Artículo 172.
-
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
-
-> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], P.O. 14 DE DICIEMBRE DE 2021)</small>
-
-### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
-
 ## TÍTULO CUARTO. DEL PROCESO LEGISLATIVO
 
-### CAPITULO II. DE LAS INICIATIVAS
+### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
 
 ###### Artículo 173.
 
@@ -2725,7 +2763,7 @@ Cuando se considere que un asunto sea considerado de urgente y obvia resolución
 
 La discusión y votación de los dictámenes relativos a la Constitución Política de los Estados Unidos Mexicanos se desarrollaran conforme a lo establecido en esta Ley.
 
-### CAPÍTULO III. DE LA DICTAMINACIÓN
+### CAPITULO II. DE LAS INICIATIVAS
 
 ###### Artículo 177.
 
@@ -2805,7 +2843,7 @@ Las iniciativas presentadas por los ciudadanos, se sujetarán a lo que disponga 
 
 Toda iniciativa cuyo dictamen haya sido considerado desechado por el Pleno, no podrá ser presentado nuevamente en el mismo período ordinario de sesiones.
 
-### CAPÍTULO IV. DE LA DISCUSIÓN
+### CAPÍTULO III. DE LA DICTAMINACIÓN
 
 #### SECCIÓN PRIMERA. DE LOS DICTÁMENES
 
@@ -2873,7 +2911,7 @@ Recibido el dictamen, la Mesa Directiva procederá a declarar la publicidad del 
 
 Si en el dictamen se efectúan modificaciones a la iniciativa, asunto o petición turnados para su estudio, la Comisión hará una exposición de los argumentos en que apoyó su decisión.
 
-### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
+### CAPÍTULO IV. DE LA DISCUSIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3113,7 +3151,7 @@ Cuando el Presidente lo considere conveniente, preguntará al Pleno, quien por v
 
 Declarado suficientemente debatido o agotado el registro de oradores, se hará la declaratoria de clausura, y enseguida se someterá a votación en lo general, o en lo particular, según corresponda.
 
-### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
 
 ###### Artículo 214.
 
@@ -3227,7 +3265,7 @@ Los empates en las votaciones se decidirán repitiéndolas, una sola vez, y si �
 
 La fórmula de expedición de decretos o acuerdos que contengan resoluciones relativas al ejercicio de atribuciones distintas a la creación de nuevas leyes, reformas, adiciones, derogaciones de leyes o decretos vigentes, se adecuará a la naturaleza de las mismas resoluciones.
 
-### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
+### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3309,9 +3347,7 @@ La entrada en vigor de las leyes y decretos, iniciará al día siguiente al de s
 
 ## TITULO QUINTO. DE LOS PROCEDIMENTOS (SIC) DE RESPONSABILIDAD
 
-### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
 
 ###### Artículo 240.
 
@@ -3419,7 +3455,9 @@ En relación con lo dispuesto en el artículo 82, fracción IV inciso c) de la C
 
 ## TITULO SEXTO. PROCEDIMIENTOS LEGISLATIVOS ESPECIALES
 
-### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
+### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 258.
 
@@ -3477,7 +3515,7 @@ La Comisión designada para el análisis del informe y evaluar el cumplimiento d
 
 El Centro de Investigaciones y Estudios Legislativos, será el órgano técnico de apoyo a la realización de los trabajos de análisis y evaluación del informe antes citado.
 
-### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
+### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
 
 ###### Artículo 268.
 
@@ -3493,29 +3531,7 @@ II.- El Gobernador del Estado, en el término al que alude el artículo anterior
 
 III.- Cuando a juicio del Congreso, deban formularse preguntas parlamentarias respecto de situaciones de carácter especial, derivadas de situaciones generales que hagan necesaria la colaboración entre poderes, deberá seguirse el procedimiento indicado en el presente artículo.
 
-### CAPITULO CUARTO
-
-DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
-
-ARTÍCULO 276 bis.- Las personas titulares de cada Órgano Constitucional Autónomo, deberán comparecer ante el Pleno del Congreso del Estado de Durango.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
-
-ARTÍCULO 276 ter.- La Junta de Gobierno y Coordinación Política, propondrá mediante Acuerdo la fecha de comparecencias, la cual será posterior al periodo del informe que se rindan por parte de la administración pública con motivo de la glosa.
-
-Dicho acuerdo, deberá contener, por lo menos lo siguiente:
-
-a).- Fecha de entrega en formato físico y digital al Congreso del Estado de Durango, por parte del compareciente;
-
-b).- Día y hora en que deberán comparecer;
-
-c).- Forma en que se desarrollará la comparecencia; y
-
-d).- Fecha de entrega de preguntas derivadas de la comparecencia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2022)</small>
+### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
 
 ###### Artículo 270.
 
@@ -3546,6 +3562,30 @@ Los titulares de las dependencias, entidades y organismos del Gobierno Estatal o
 La omisión de respuesta, será sancionada conforme a la ley, si al requerido le fue hecho el apremio; en todo caso, el Congreso o sus Comisiones Legislativas, se auxiliarán de cualquier medio legal o autoridad para tener acceso a la información solicitada.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+### CAPITULO CUARTO
+
+DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 276 bis.- Las personas titulares de cada Órgano Constitucional Autónomo, deberán comparecer ante el Pleno del Congreso del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 276 ter.- La Junta de Gobierno y Coordinación Política, propondrá mediante Acuerdo la fecha de comparecencias, la cual será posterior al periodo del informe que se rindan por parte de la administración pública con motivo de la glosa.
+
+Dicho acuerdo, deberá contener, por lo menos lo siguiente:
+
+a).- Fecha de entrega en formato físico y digital al Congreso del Estado de Durango, por parte del compareciente;
+
+b).- Día y hora en que deberán comparecer;
+
+c).- Forma en que se desarrollará la comparecencia; y
+
+d).- Fecha de entrega de preguntas derivadas de la comparecencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2022)</small>
 
 ### CAPÍTULO QUINTO. RATIFICACIÓN Y DESIGNACIÓN DE SERVIDORES PÚBLICOS
 
@@ -3890,3 +3930,13 @@ SEGUNDO.- La Junta de Gobierno y Coordinación Política instruirá a la Secreta
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 CUARTO.-·Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 24 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 561 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La Dirección de Archivo Histórico Legislativo, entrará en vigor al día siguiente de la iniciación de la vigencia del Decreto número 559 por el que se expide la Ley de Archivos del Estado de Durango y será publicado en Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Congreso del Estado de Durango, a través de la Dirección de Archivo Legislativo elaborará la reglamentación interna correspondiente dentro del plazo de 365 días contados a partir de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan a lo establecido en el presente Decreto.
