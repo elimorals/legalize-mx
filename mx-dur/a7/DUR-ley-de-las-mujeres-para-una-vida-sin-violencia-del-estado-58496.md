@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2023-12-10"
+last_updated: "2024-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -381,41 +381,71 @@ Constituye violencia en contra de las mujeres en el ámbito escolar todas aquell
 
 Constituye violencia política contra las mujeres en razón de género, cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2024)</small>
 
-###### Artículo 11 Ter.
+Artículo 11 ter. La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-La violencia política contra las mujeres en razón de género puede expresarse, entre otras, a través de las siguientes conductas:
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
 I. Incumplir las disposiciones jurídicas internacionales, nacionales y estatales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
 II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-III. Proporcionar, ocultar, falsear u omitir información, a quien aspira u ocupa, registro de candidatura o cualquier otro tipo de actividad político-electoral o administrativa o induzca al incorrecto ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
+
+III. Proporcionar, ocultar, falsear u omitir información, a quien aspira u ocupa un cargo de elección popular, con la intención de impedir su registro a precandidatura, candidatura o cualquier otro tipo de actividad político-electoral o administrativa o induzca al incorrecto ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
 IV. Proporcionar información incompleta, falsa o errónea a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-V. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
 
-VI. Realizar, distribuir, publicar, revelar propaganda política-electoral, información personal, o realizar cualquier expresión, imagen, mensaje en cualquier modo físico o virtual, de candidatas electas o designadas, o en el ejercicio de sus funciones públicas o políticas, con el objetivo o fin de calumniar, degradar, descalificar, difamar, injuriar, menoscabar su dignidad humana, su imagen, limitar sus derechos político-electorales o reproduzcan relaciones de dominación, desigualdad o discriminación por estereotipos de género;
+V. Obstaculizar la precampaña o campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-VII. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
+
+VI. Realizar, distribuir, publicar, revelar propaganda política-electoral, información personal o privada, o realizar cualquier expresión, imagen, mensaje en cualquier modo físico o virtual, de precandidatas, candidatas electas o designadas, o en el ejercicio de sus funciones públicas o políticas, con el objetivo o fin de calumniar, degradar, descalificar, difamar, injuriar, menoscabar su dignidad humana, su imagen, limitar sus derechos político-electorales o reproduzcan relaciones de dominación, desigualdad o discriminación por estereotipos de género;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2024)</small>
+
+VII. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la precandidatura, candidatura o al cargo para el que fue electa o designada;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
 VIII. Impedir, por cualquier medio, tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
 IX. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
 X. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial en ejercicio de sus derechos políticos;
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
 XI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
 XII. Obligar, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
 XIII. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
 XIV. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
 
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
 XV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
@@ -2516,3 +2546,11 @@ P.O. 10 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 556 QUE CONTIENE REFORMA AL ARTÍCULO 11 TER DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA VIGENTE EN EL ESTADO, EN MATERIA DE VIOLENCIA POLÍTICA".]
+
+PRIMERO.- El presente decreto entrara en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
