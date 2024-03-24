@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2022-12-08"
+last_updated: "2024-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -566,6 +566,10 @@ No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación 
 En el caso de personas que no hablen o entiendan el idioma español, de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran, o personas con discapacidad auditiva, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura, o en su caso, un intérprete de lenguaje de señas.
 
 Cuando los agraviados se encuentren privados de su libertad, recluidos en un centro de detención, sus escritos de queja deberán ser remitidos a la Comisión sin demora por los encargados de dichos centros o informar al personal de la Comisión para que se presente en el lugar a fin de entrevistarse con el quejoso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2024)</small>
+
+Para lo anterior, toda correspondencia o comunicación dirigida a la Comisión, en ningún caso podrá ser objeto de censura de ningún tipo por parte de los funcionarios y servidores públicos de los centros de detención o reclusión. En caso de conocimiento de censura o interferencia en las comunicaciones dirigidas a la Comisión por parte de dichos funcionarios o servidores públicos, esta deberá dar parte a la autoridad competente para que se finque la responsabilidad y sanción correspondiente.
 
 ###### Artículo 39.
 
@@ -1118,5 +1122,13 @@ P.O. 8 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 270.- QUE CONTIENE REFORMA AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 24 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 557 QUE CONTIENE REFORMA AL ARTÍCULO 38 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO, EN MATERIA DE DENUNCIAS PROVENIENTES DE PERSONAS PRIVADAS DE SU LIBERTAD”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
