@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2021-03-16"
+last_updated: "2024-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -456,6 +456,20 @@ En la designación de Presidente, ningún Magistrado podrá abstenerse de emitir
 Los Magistrados deberán cumplir con los requisitos a que se refiere el artículo 83 de la Constitución Política del Estado. Percibirán la remuneración asignada en el presupuesto de egresos del Poder Judicial, la cual no podrá ser disminuida durante su ejercicio.
 
 El Pleno del Tribunal podrá habilitar a Jueces para sustituir a los Magistrados que tengan impedimento legal para conocer de un asunto como consecuencia de Excusa o Recusación planteada en su contra.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2024)</small>
+
+Al finalizar su encargo, quien haya ejercido el cargo de titular de alguna Magistratura del Tribunal Superior de Justicia del Estado, tendrá derecho a un haber de retiro, tomando como referencia el salario base, así como la correspondiente percepción complementaria mensual, aguinaldo anual, prima vacacional, bono anual y bono anual especial, de acuerdo con los siguientes porcentajes:
+
+I. El primer año, recibirá el setenta por ciento de las percepciones anteriormente mencionadas, en razón de su carácter de Magistrada o Magistrado;
+
+II. El segundo año, recibirá el sesenta por ciento de las percepciones anteriormente mencionadas, en razón de su carácter de Magistrada o Magistrado, y
+
+III. El tercer año, recibirá el cincuenta por ciento de las percepciones anteriormente mencionadas, en razón de su carácter de Magistrada o Magistrado.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2024)</small>
+
+La mecánica y el procedimiento para su entrega, se realizará de conformidad con los lineamientos y acuerdos administrativos aplicables en materia de remuneraciones del Tribunal.
 
 ### Capítulo Segundo. Del Funcionamiento del Tribunal Superior de Justicia
 
@@ -4160,3 +4174,19 @@ Artículo Quinto. De conformidad con la capacidad presupuestal y recursos humano
 Artículo Sexto. Los Juzgados Laborales, iniciaran sus funciones en los términos, que para tal efecto se establezcan en la Declaratoria que realice el Congreso del Estado de Tlaxcala.
 
 Artículo Séptimo. Quedan derogadas todas las normas que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 345.- SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 15 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA, EN MATERIA DE HABER DE RETIRO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del cumplimiento de la dictada en el juicio de amparo indirecto radicado en el expediente número 1171/2022, del Juzgado Primero de Distrito, en el Estado, infórmese a ese Órgano Jurisdiccional el contenido de este Decreto, después que inicie su vigencia, para que tenga por cumplimentada la indicada resolución, en lo conducente.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
