@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2023-12-04"
+last_updated: "2024-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2024.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -75,11 +75,17 @@ III. Constitución: a la Constitución Política del Estado de Aguascalientes;
 
 IV. Ley: a la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
 
-V. Pleno: El Pleno Legislativo del Congreso del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2024)</small>
 
-VI. Reglamento: al Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
+V. Secretaría: a la Secretaría General del H. Congreso del Estado;
 
-VI (SIC). Reglamento Interior: el Reglamento Interior del Poder Legislativo del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2024)</small>
+
+VI. Instituto: al Instituto de Investigaciones Legislativas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] P.O. 25 DE MARZO DE 2024)</small>
+
+VII. Persona intérprete de Lengua de Señas Mexicana: Profesional que traduce el lenguaje hablado en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, para facilitar la comunicación entre personas con discapacidad auditiva y su entorno social.
 
 VII. Secretaría: a la Secretaría General del Congreso del Estado; e
 
@@ -1098,6 +1104,12 @@ No se publicarán las discusiones y documentos relacionados con las sesiones pri
 ###### ARTÍCULO 118.
 
 A las sesiones de instalación, apertura y clausura de los períodos ordinarios de sesiones, se invitarán a que concurran a las mismas, a los titulares de los Poderes Ejecutivo y Judicial del Estado, debiendo hacerse de manera presencial en el recinto del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2024)</small>
+
+###### ARTÍCULO 118 Bis.
+
+Las sesiones ordinarias, extraordinarias y solemnes que se celebren, contarán con una persona intérprete de Lengua de Señas Mexicana, quien estará de forma presencial en el salón de pleno y además aparecerá en un recuadro de la transmisión en vivo, con el fin de dar a conocer al público en general, los asuntos que se desahogan en las mismas.
 
 ###### ARTÍCULO 119.
 
@@ -2382,3 +2394,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE DICIEMBRE DE 2023.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 25 DE MARZO DE 2024
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 630.- SE REFORMAN LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, Y EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+El H. Congreso del Estado de Aguascalientes, contará con un plazo de 180 días naturales, para implementar lo dispuesto en el presente Decreto, contados a partir de su entrada en vigor.
