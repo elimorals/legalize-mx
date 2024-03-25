@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-12-04"
+last_updated: "2024-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -191,9 +191,9 @@ Se consideran Recintos Oficiales, todas las instalaciones, inmuebles u oficinas 
 
 El Congreso del Estado en Pleno sesionará únicamente en los Recintos Oficiales, salvo caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, y sólo provisionalmente para desahogar los asuntos concretos acordados. El Decreto que autorice la declaratoria de nuevos Recintos Oficiales, deberá publicarse en el Periódico Oficial.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2024)</small>
 
-De presentarse una situación de calamidad pública, caso fortuito o de fuerza mayor que constituya un impedimento para la reunión física de los integrantes del Pleno, previo acuerdo de la mayoría calificada, y durante el tiempo que esta condición permanezca, podrá convocarse a sesiones, para llevar a cabo su desarrollo mediante medios de comunicación digital, que permitan en tiempo real dar cuenta de la deliberación, el debate y la votación vía sistema electrónico. Las sesiones con este carácter serán revestidas con todas las formalidades del proceso legislativo, desahogarán exclusivamente asuntos previamente acordados, serán video grabadas y deberán trasmitirse en vivo por la red informática, por la página de internet y demás medios de comunicación que disponga el Poder Legislativo.
+De presentarse una situación de calamidad pública, caso fortuito o de fuerza mayor que constituya un impedimento para la reunión física de los integrantes del Pleno, previo acuerdo de la mayoría calificada, y durante el tiempo que esta condición permanezca, podrá convocarse a sesiones, para llevar a cabo su desarrollo mediante medios de comunicación digital, que permitan en tiempo real dar cuenta de la deliberación, el debate y la votación vía sistema electrónico. Las sesiones con este carácter serán revestidas con todas las formalidades del proceso legislativo, desahogarán exclusivamente asuntos previamente acordados, contarán con un intérprete en la Lengua de Señas Mexicana, serán video grabadas y deberán trasmitirse en vivo por la red informática, por la página de internet y demás medios de comunicación que disponga el Poder Legislativo, contando en todo momento con un recuadro en la transmisión en vivo, donde se enfoque a la o el intérprete, con el fin de dar a conocer al público en general los asuntos que se desahogan en las mismas.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
 
@@ -2454,3 +2454,19 @@ Se derogan las disposiciones jurídicas que se opongan al presente decreto.
 P.O. 4 DE DICIEMBRE DE 2023.
 
 > <small>[N. DE E. EL DECRETO NÚMERO 545, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 25 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 630.- SE REFORMAN LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES, Y EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+El H. Congreso del Estado de Aguascalientes, contará con un plazo de 180 días naturales, para implementar lo dispuesto en el presente Decreto, contados a partir de su entrada en vigor.
