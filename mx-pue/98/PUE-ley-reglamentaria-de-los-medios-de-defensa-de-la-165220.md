@@ -4,7 +4,7 @@ identifier: "PUE-ley-reglamentaria-de-los-medios-de-defensa-de-la-165220"
 country: "mx"
 rank: "ley"
 publication_date: "2023-03-23"
-last_updated: "2024-02-23"
+last_updated: "2024-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY REGLAMENTARIA DE LOS MEDIOS DE DEFENSA DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MARZO DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY REGLAMENTARIA DE LOS MEDIOS DE DEFENSA DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MARZO DE 2024.]</small>
 
 Ley publicada en la Tercera Sección al Número 16 del Periódico Oficial del Estado de Puebla, el jueves 23 de marzo de 2023.
 
@@ -277,9 +277,9 @@ Serán nulas las notificaciones que no se hicieren en la forma que establecen la
 
 La nulidad de la notificación podrá reclamarse dentro de los tres días hábiles siguientes a aquel en que la persona perjudicada la hubiere conocido.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(ADICIONADO, P.O. 23 DE FEBRERO DE 2024) (F. DE E., P.O. 25 DE MARZO DE 2024)
 
-Si la notificación se hubiera hecho de manera distinta a lo establecido en esta Ley o se hubiera omitido, y quien resulte perjudicado se manifestará, en cualquier forma, sabedor de la resolución notificada, se tendrá como legalmente hecha.
+Si la notificación se hubiera hecho de manera distinta a lo establecido en esta Ley o se hubiera omitido, y quien resulte perjudicado se manifestara, en cualquier forma, sabedor de la resolución notificada, se tendrá como legalmente hecha.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
