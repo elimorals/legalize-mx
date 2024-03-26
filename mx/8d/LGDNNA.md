@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2023-12-11"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -113,6 +113,10 @@ V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado a
 VI. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+VII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
 
@@ -808,11 +812,11 @@ Las autoridades federales, de las entidades federativas, municipales y de las de
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### Artículo 44.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como a quienes los tengan bajo su atención y cuidado, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 ###### Artículo 45.
 
@@ -1552,7 +1556,9 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, a través de la crianza positiva;
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
 
@@ -1658,7 +1664,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -1814,9 +1822,17 @@ XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atenci
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
 
-XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley, y
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
 
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+XXVI. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
 
 ###### Artículo 117.
 
@@ -2480,7 +2496,9 @@ En el ámbito federal, constituyen infracciones a la presente Ley:
 
 I. Respecto de servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción federal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto en el artículo 12 de esta Ley y demás ordenamientos aplicables;
 
-II. Respecto de servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción federal, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+II. Respecto de servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción federal, ejerzan, permitan, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
 
 III. Respecto de los concesionarios de radio, televisión, la difusión o transmisión de imágenes, voz o datos que afecten o impidan objetivamente el desarrollo integral de niñas, niños o adolescentes, o que hagan apología del delito, en contravención al artículo 68 de esta Ley y a las disposiciones específicas que regulen la difusión y transmisión de contenidos;
 
@@ -2743,3 +2761,13 @@ D.O.F. 11 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE CULTURA DE LA PAZ".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE CRIANZA POSITIVA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los Congresos de las Entidades Federativas tendrán un plazo de 180 días, contados a partir de la publicación del presente Decreto para realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
