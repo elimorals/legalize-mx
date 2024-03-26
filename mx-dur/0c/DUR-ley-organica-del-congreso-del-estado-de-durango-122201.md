@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2024-03-24"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -2853,6 +2853,10 @@ La dictaminación, es la etapa del proceso legislativo en la cual, la Comisión 
 
 El dictamen, es la opinión que emiten las comisiones, referente a una iniciativa o asunto que les hubiese sido turnado por el Presidente de la Mesa Directiva.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2024)</small>
+
+Para la dictaminación de iniciativas que impliquen creación o modificación de normativa que regule los derechos de las personas con discapacidad, será obligatorio realizar una consulta pública previa, libre e informada en los términos establecidos con los ordenamientos legales y criterios emitidos en la materia.
+
 Ninguna iniciativa, asunto o petición se discutirá y votará en el Pleno sin el previo estudio y dictamen en comisiones, con excepción de lo previsto en el artículo 65 en relación a los puntos de acuerdo.
 
 ###### Artículo 184.
@@ -3940,3 +3944,11 @@ PRIMERO.- La Dirección de Archivo Histórico Legislativo, entrará en vigor al 
 SEGUNDO.- El Congreso del Estado de Durango, a través de la Dirección de Archivo Legislativo elaborará la reglamentación interna correspondiente dentro del plazo de 365 días contados a partir de su publicación.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan a lo establecido en el presente Decreto.
+
+P.O. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 562 QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 183 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
