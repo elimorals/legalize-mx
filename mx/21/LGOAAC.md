@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2024-01-24"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -360,23 +360,47 @@ Los almacenes generales de depósito que operen con mercancías agropecuarias y 
 
 Los almacenes generales de depósito facultados para recibir mercancías destinadas al régimen de depósito fiscal, podrán efectuar en relación a esas mercancías, los procesos antes mencionados en los términos de la Ley Aduanera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+ARTICULO 11 BIS.- Los almacenes generales de depósito tendrán a su cargo la facultad exclusiva de expedir certificados de depósito lo cual deberá llevarse a cabo a través de un sistema criptográfico a que se refiere la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Dichos títulos de crédito se regirán por las disposiciones de esta Ley y la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los almacenes generales de depósito deberán garantizar a los tenedores legítimos acreedores prendarios, autoridades supervisoras y demás intervinientes en las operaciones con dichos títulos de crédito, el acceso al sistema criptográfico a través del cual se emitan para el ejercicio de los derechos y facultades que esta Ley y la Ley General de Títulos y Operaciones de Crédito conceden, respecto de los certificados que emitan, y en caso contrario podrán ser sujetos de responsabilidad civil, debiendo responder por los daños y perjuicios que se pudieran causar.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Dichos sistemas criptográficos deberán contar con los estándares mínimos de seguridad que garanticen la confidencialidad, disponibilidad e integridad de la información y prevención de fraudes y ataques cibernéticos, cuyo cumplimiento será responsabilidad del almacén general de depósito emisor. Para estos efectos, la Comisión Nacional Bancaria y de Valores deberá mediante reglas de carácter general determinar los requerimientos y características que en estas materias deberá cumplir el sistema que utilice el almacén general de depósito para la emisión de sus certificados.
+
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los almacenes generales de depósito están obligados a emitir los certificados de depósito por las mercancías o bienes que les fueren entregados en depósito, salvo en el caso previsto por el artículo 20 de esta Ley.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
+
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
-
-ARTICULO 11 BIS.- Los almacenes generales de depósito tendrán a su cargo la facultad exclusiva de expedir certificados de depósito y bonos de prenda. Dichos títulos se regirán por las disposiciones de esta Ley y la Ley General de Títulos y Operaciones de Crédito.
-
-Los almacenes generales de depósito están obligados a emitir los certificados que acrediten la propiedad de las mercancías o bienes que le fueren entregados en depósito, salvo en el caso previsto por el artículo 20 de esta Ley. Los certificados podrán expedirse con o sin bonos de prenda, según lo solicite el depositante, pero la expedición de dichos bonos deberá hacerse simultáneamente a la de los certificados respectivos, haciéndose constar en ellos, indefectiblemente, si se expiden con o sin bonos.
-
-El bono o bonos expedidos podrán ir adheridos al certificado o separados de él, sin embargo, si se expide un sólo bono, deberá ir adherido al certificado de depósito.
 
 En sus operaciones, los almacenes generales de depósito deberán recabar y verificar la información y documentación relativa a la identificación de sus clientes y usuarios.
 
-Los almacenes generales de depósito serán responsables frente a sus depositantes y tenedores de certificados de depósito y bonos de prenda que hayan emitido, de cualquier defecto que presenten las mercancías y bienes depositados bajo su custodia, de su existencia y de su calidad, en tanto no correspondan a los términos, montos, características y demás condiciones consignadas en los títulos que los amparen. Lo anterior con independencia de que las mercancías y bienes se encuentren depositados en bodegas propias, habilitadas o en tránsito. Salvo prueba en contrario, la deficiencia será imputable al almacén.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
-Los almacenes generales de depósito llevarán un registro de los certificados y bonos de prenda que expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo en su caso, los derivados del aviso de la entidad financiera que intervenga en la primera negociación del bono. Este registro deberá instrumentarse conforme a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores. Los almacenes generales de depósito no podrán oponer a los tenedores de certificados de depósito o bonos de prenda, la falta del registro a que se refiere este artículo o la ausencia de anotaciones en el mismo, como una excepción a la obligación de entregar las mercancías depositadas.
+Los almacenes generales de depósito serán responsables frente a sus depositantes y tenedores de certificados de depósito que hayan emitido por cualquier defecto que presenten las mercancías y bienes depositados bajo su custodia, de su existencia y de su calidad, en tanto no correspondan a los términos, montos, características y demás condiciones consignadas en el certificado de depósito. Lo anterior, con independencia de que las mercancías y bienes se encuentren depositados en bodegas propias, habilitadas o en tránsito. Salvo prueba en contrario, la deficiencia será imputable al almacén.
 
-En caso de que se emitan certificados de depósito sobre mercancías en tránsito, el almacén general de depósito será responsable de su traslado hasta la bodega de destino, en la que seguirá siendo depositario de las mercancías hasta el rescate de los certificados de depósito y, en su caso, de los bonos de prenda. Para estos efectos, las mercancías en tránsito deberán asegurarse a favor del almacén general de depósito, el cual podrá contratar directamente el seguro respectivo, designándose beneficiario de la póliza que al efecto fuere expedida por la compañía aseguradora correspondiente, o bien, tratándose de mercancías previamente aseguradas, deberá obtener el endoso correspondiente de la póliza respectiva en su favor, en términos de la Ley del Contrato de Seguro.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
 
-El almacén general de depósito podrá, bajo su responsabilidad, aceptar o utilizar cualquiera otro mecanismo distinto al seguro referido en el párrafo anterior que permita cubrir los riesgos propios de la mercancía en tránsito, siempre que resulten eficaces para garantizar su responsabilidad ante el depositante o tenedor del certificado y bono de prenda.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+En caso de que se emitan certificados de depósito sobre mercancías en tránsito, el almacén general de depósito será responsable de su traslado hasta la bodega de destino, en la que seguirá siendo depositario de las mercancías hasta la sustitución de los certificados de depósito, incluyendo todas las bodegas de tránsito. Para estos efectos, las mercancías en tránsito deberán asegurarse a favor del almacén general de depósito, el cual podrá contratar directamente el seguro respectivo, designándose beneficiario de la póliza que al efecto fuere expedida por la compañía aseguradora correspondiente, o bien, tratándose de mercancías previamente aseguradas, deberá obtener el endoso correspondiente de la póliza respectiva en su favor, en términos de la Ley del Contrato de Seguro.
+
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+El almacén general de depósito podrá, bajo su responsabilidad, aceptar o utilizar cualquiera otro mecanismo distinto al seguro referido en el párrafo anterior que permita cubrir los riesgos propios de la mercancía en tránsito, siempre que resulten eficaces para garantizar su responsabilidad ante el depositante o tenedor del certificado.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Los documentos de embarque deberán estar expedidos o endosados a favor de los almacenes generales de depósito.
 
@@ -520,9 +544,9 @@ La Secretaría de Hacienda y Crédito Público establecerá mediante disposicion
 
 Los almacenes generales de depósito deberán contar con los locales propios para bodegas, desde el inicio de sus operaciones así como con la superficie y capacidad mínima obligatorias que se fijen para cada nivel, en las reglas de carácter general que al efecto expida la Secretaría de Hacienda y Crédito Público con opinión de la Comisión Nacional Bancaria y de Valores;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
 
-II. En el otorgamiento de financiamientos con garantía de bienes o mercancías entregados en depósito al almacén de que se trate, amparados con bonos de prenda o cuando se trate de operaciones de reporto actuando como reportador, sobre certificados de depósito, en términos del artículo 11 Bis 2, fracción XI de esta Ley; en la entrega de anticipos con garantía de los bienes y mercancías entregados en depósito al almacén de que se trate, que se destinen al pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes generales de depósito; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
+II. En el otorgamiento de financiamientos con garantía de bienes o mercancías entregados en depósito al almacén de que se trate, amparados con certificados de depósito o cuando se trate de operaciones de reporto actuando como reportador, en términos del artículo 11 Bis 2, fracción XI de esta Ley; en la entrega de anticipos con garantía de los bienes y mercancías entregados en depósito al almacén de que se trate, que se destinen al pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes generales de depósito; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen, y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -546,31 +570,51 @@ El bodeguero habilitado será designado por el almacén general de depósito par
 
 Para cubrir reclamaciones en caso de faltantes de mercancías en bodegas propias, arrendadas o habilitadas, los almacenes generales de depósito deberán constituir una reserva de contingencia cuya conformación e inversión se ajustará a las reglas de carácter general que para el efecto emita la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México. Para la emisión de las referidas reglas, la Secretaría deberá considerar la capacidad financiera y de almacenamiento de los almacenes generales de depósito, si dichos almacenes operan en bodegas propias o habilitadas, así como el número de certificados de depósito que tengan en circulación y si tales certificados son negociables o no.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 17.
 
-Además de los locales que para bodegas, oficinas y demás servicios tengan los almacenes generales de depósito en propiedad, podrán tener en arrendamiento o en habilitación locales ajenos en cualquier parte de la República, en los términos que establezca la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general. Asimismo, podrán tener locales propios, en arrendamiento o en habilitación, en el extranjero de acuerdo con lo establecido en el artículo 65 de esta Ley.
+Además de los locales que para bodegas, oficinas y demás servicios tengan los almacenes generales de depósito en propiedad, podrán tener en arrendamiento, en comodato o en habilitación locales ajenos en cualquier parte de la República, en los términos que establezca la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general. Asimismo, podrán tener locales en el extranjero ya sean propios, en arrendamiento, en comodato, habilitación o bajo cualquier otra figura análoga permitida por la legislación del país anfitrión, de acuerdo con lo establecido en el artículo 65 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Los almacenes generales de depósito deberán dar aviso a la Comisión Nacional Bancaria y de Valores, con cuando menos diez días hábiles de anticipación a la fecha de inicio de operación de los locales destinados para bodegas, oficinas y demás servicios, que tengan en propiedad.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 Ningún almacén general de depósito podrá recibir en bodegas arrendadas y manejadas directamente por él, mercancías cuyo valor de certificación exceda del porcentaje del valor de los certificados que tenga en circulación, que mediante disposiciones de carácter general determine la Comisión Nacional Bancaria y de Valores.
 
-Los locales arrendados o en habilitación deberán contar con acceso directo a la vía pública y estarán independientes del resto de las construcciones que se localicen en el mismo inmueble, debiendo tener asimismo, buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la conservación de las mercancías sujetas a depósito.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los locales arrendados, recibidos en comodato o en habilitación deberán contar con acceso directo a la vía pública y estarán independientes del resto de las construcciones que se localicen en el mismo inmueble, debiendo tener, asimismo, buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la conservación de las mercancías sujetas a depósito.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Cuando existan faltantes de mercancías depositadas en las bodegas habilitadas, los almacenes generales de depósito podrán solicitar en la vía ejecutiva el embargo de los bienes inmuebles afectados por el bodeguero habilitado o su garante para el cumplimiento de sus obligaciones con el almacén, tomando como base el documento en que se constituya dicha afectación en garantía y siempre que haya sido ratificado e inscrito en los términos del siguiente párrafo.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 El documento en que se haga la afectación, deberá ser ratificado por el propietario del inmueble ante juez, notario o corredor público, y se inscribirá, a petición del almacén general de depósito, en el Registro Público de la Propiedad respectivo.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Los bodegueros habilitados deberán dar acceso a las bodegas o locales habilitados a las personas designadas por el almacén general de depósito, para realizar visitas de inspección, quienes para estos efectos, tendrán facultades de certificación incluso para el caso de faltantes de bienes o mercancías amparados con certificados de depósito y las actas circunstanciadas de hechos que al efecto se levanten harán prueba plena en caso de controversia. La Comisión Nacional Bancaria y de Valores determinará en disposiciones de carácter general la frecuencia con que dichas visitas deberán realizarse, para lo cual considerará el valor de los inventarios en cada local habilitado, la situación financiera y antecedentes crediticios de cada cliente. Asimismo, en las citadas disposiciones se determinarán los requisitos que deberán cumplir las personas encargadas de realizar las referidas visitas de inspección, quienes levantarán acta circunstanciada al efecto. Dichas actas circunstanciadas deberán estar en todo momento a disposición de la Comisión Nacional Bancaria y de Valores.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+
 La oposición a la inspección del bodeguero habilitado o sus bodegueros auxiliares o sus funcionarios o empleados, presumirá, salvo prueba en contrario, faltantes de bienes o mercancías depositados.
 
-La Comisión Nacional Bancaria y de Valores adicionalmente establecerá mediante disposiciones de carácter general los procedimientos o mecanismos que deberán adoptar los almacenes generales de depósito para determinar la procedencia de habilitaciones, así como los lineamientos para realizar la supervisión y en general, el control de las existencias, calidad, condiciones de conservación y demás características de los bienes o mercancía que le sea entregada en depósito en almacenes o locales habilitados, a fin de brindar mayor certeza y seguridad jurídica a sus depositantes.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+La Comisión Nacional Bancaria y de Valores adicionalmente establecerá mediante disposiciones de carácter general los procedimientos o mecanismos que deberán adoptar los almacenes generales de depósito para determinar la procedencia de habilitaciones, así como los lineamientos para realizar la supervisión. Asimismo, la Comisión Nacional Bancaria y de Valores establecerá mediante disposiciones de carácter general los lineamientos mínimos que deberán seguir los almacenes generales de depósito para el control de las existencias, calidad, condiciones de conservación y demás características de los bienes o mercancía que le sea entregada en depósito en almacenes o locales propios, arrendados, en comodato o habilitados, a fin de brindar mayor certeza y seguridad jurídica a sus depositantes.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Los almacenes generales de depósito podrán adquirir predios o bodegas así como construir o acondicionar locales de su propiedad, siempre que se encuentren en condiciones adecuadas de ubicación, estabilidad y adaptabilidad para el almacenamiento.
 
-Los almacenes generales de depósito podrán asimismo, tomar en arrendamiento las plantas que requieran para llevar a cabo la transformación de las mercancías depositadas, en los términos del artículo 11, primer párrafo, de esta Ley.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los almacenes generales de depósito podrán, asimismo, tomar en arrendamiento o en comodato las plantas que requieran para llevar a cabo la transformación de las mercancías depositadas, en los términos del artículo 11, primer párrafo, de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -588,49 +632,73 @@ Asimismo, se suspenderá en sus funciones al bodeguero habilitado y no podrá se
 
 Los almacenes generales de depósito podrán actuar como corresponsales de instituciones de crédito, así como de otros almacenes generales de depósito o de empresas de servicios complementarios a éstos, nacionales o extranjeros, en operaciones relacionadas con las que les son propias; también podrán conceder corresponsalías a dichas instituciones, almacenes o empresas en las operaciones antes citadas; tomar seguro por cuenta ajena por las mercancías depositadas; gestionar la negociación de bonos de prenda por cuenta de sus depositantes; efectuar el embarque de las mercancías, tramitando los documentos correspondientes y prestar todos los servicios técnicos necesarios a la conservación y salubridad de las mercancías.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 20.
 
-Los almacenes generales de depósito podrán dar en arrendamiento alguno o algunos de sus locales, cuando concurran circunstancias que lo justifiquen, previa autorización de la Comisión Nacional Bancaria y de Valores.
+Los almacenes generales de depósito podrán dar en arrendamiento o comodato alguno o algunos de sus locales, cuando concurran circunstancias que lo justifiquen, previa autorización de la Comisión Nacional Bancaria y de Valores.
 
-Asimismo, los almacenes generales de depósito podrán asignar áreas en sus bodegas propias y arrendadas para el almacenamiento exclusivo de mercancías recibidas para su custodia por un mismo depositante y, por ende, no amparadas por certificado de depósito, siempre y cuando dichas actividades no constituyan una actividad preponderante. Sólo podrán realizar estas actividades de custodia los almacenes generales de depósito que obtengan la previa autorización de la Comisión Nacional Bancaria y de Valores, para tales efectos.
+Asimismo, los almacenes generales de depósito podrán asignar áreas en sus bodegas propias, arrendadas o en comodato, para el almacenamiento exclusivo de mercancías recibidas para su custodia por un mismo depositante y, por ende, no amparadas por certificado de depósito, siempre y cuando dichas actividades no constituyan una actividad preponderante. Sólo podrán realizar estas actividades de custodia los almacenes generales de depósito que obtengan la previa autorización de la Comisión Nacional Bancaria y de Valores, para tales efectos.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 21.
 
-Salvo pacto en contrario, cuando el precio de las mercancías o bienes depositados bajare de manera que no baste a cubrir el importe de la deuda más un veinte por ciento, el tenedor del bono de prenda correspondiente al certificado de depósito expedido por las mercancías o bienes de que se trate, solicitará al almacén general de depósito que contrate los servicios de un corredor público a efecto que éste certifique el hecho y notifique al tenedor del certificado de depósito, quien contará con diez días naturales para mejorar la garantía o cubrir el adeudo. Si dentro de dicho plazo no lo hiciere se procederá a la venta en remate público en los términos que se pacten o en los términos del artículo siguiente. Los gastos que se deriven de la certificación y notificación serán con cargo al tenedor del bono de prenda.
+Salvo pacto en contrario, cuando el precio de las mercancías o bienes depositados bajare de manera que no baste a cubrir la obligación garantizada, el acreedor prendario podrá solicitar al almacén general de depósito que contrate los servicios de un corredor público a efecto que éste certifique el hecho y notifique al deudor, quien contará con diez días naturales para mejorar la garantía o cubrir el adeudo.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+Si dentro de dicho plazo no lo hiciere se procederá a la venta en remate público en los términos que se pacten o en los términos del artículo siguiente. Los gastos que se deriven de la certificación y notificación serán con cargo al acreedor prendario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 22.
 
-Los almacenes generales de depósito efectuarán el remate de las mercancías y bienes depositados en almoneda pública y al mejor postor, en el caso del artículo anterior, cuando se lo pidiere el tenedor de un bono de prenda, conforme a la ley. Los almacenes generales de depósito podrán también proceder al remate de las mercancías o bienes depositados cuando, habiéndose vencido el plazo señalado para el depósito, transcurrieren ocho días naturales o los días convenidos para este propósito, sin que éstos hubieren sido retirados del almacén, desde la fecha de la notificación en la forma prescrita en el artículo anterior.
+Los almacenes generales de depósito efectuarán el remate de las mercancías y bienes depositados en almoneda pública y al mejor postor, en el caso del artículo anterior, cuando se lo pidiere el acreedor prendario, conforme a la ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los almacenes generales de depósito podrán también proceder al remate de las mercancías o bienes depositados cuando, habiéndose vencido el plazo señalado para el depósito, transcurrieren ocho días naturales o los días convenidos para este propósito, sin que éstos hubieren sido retirados del almacén, desde la fecha de la notificación en la forma prescrita en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Salvo que se pacte otro procedimiento, los almacenes generales de depósito efectuarán el remate en los términos siguientes:
 
-I. Anunciarán el remate mediante aviso que se fijará en la entrada del edificio principal del local en que estuviere constituido el depósito y se publicará en un periódico de amplia circulación de la localidad, en cuya circunscripción se encuentre depositada la mercancía. Si no lo hubiere, la publicación se hará en un periódico de circulación nacional o regional, o bien en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+I. Se publicará el aviso de venta por medio de remate público en el RUCAM conforme al procedimiento establecido en las reglas a que hace referencia el artículo 22 Bis 7 de esta Ley, y en caso que lo solicite el acreedor prendario adicionalmente se publicará en un periódico de amplia circulación de la localidad en cuya circunscripción se encuentre depositada la mercancía;
 
 II. El aviso deberá publicarse cuando menos con ocho días naturales de anticipación a la fecha señalada para el remate. Cuando se trate del remate de mercancías o efectos que hubieren sufrido demérito, deberán mediar cuando menos tres días naturales entre la publicación del aviso y el día del remate;
 
 III. Los remates se harán en las oficinas o bodegas del almacén general de depósito en presencia del comisario, auditor externo de la sociedad o fedatario público. Las mercancías o bienes que vayan a rematarse, estarán a la vista del público desde el día en que se publique el aviso de remate;
 
-IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo que el bono o los bonos de prenda garanticen, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal, y
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo garantizado con certificados de depósito, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal, y
 
 V. Cuando no hubiere postor, ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento no mayor del cincuenta por ciento sobre el precio fijado como base para la almoneda anterior.
 
-Cuando el producto de la venta de la mercancía o bienes depositados no baste para cubrir el adeudo a favor de los almacenes generales de depósito, por el saldo insoluto, éstos tendrán acción a través de la vía ejecutiva mercantil para reclamar al depositante original, el pago del adeudo existente. El convenio de depósito correspondiente junto con el estado de cuenta certificado por el contador del almacén general de depósito de que se trate, será título ejecutivo sin necesidad de reconocimiento de firma ni de otro requisito.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
-El tenedor del bono de prenda deberá notificar al almacén general de depósito si acordó con el deudor prendario, un procedimiento de remate de mercancías distinto al previsto en este artículo. En caso de que el almacén general de depósito tenga a su cargo el procedimiento de remate o una parte del mismo, éste deberá manifestarle al tenedor del bono su consentimiento, para proceder en los términos pactados, en caso contrario se aplicará el procedimiento descrito en los párrafos precedentes y sólo podrá seguirse un procedimiento distinto, si se prevé en el certificado de depósito.
+Cuando el producto de la venta de la mercancía o bienes depositados no baste para cubrir el adeudo a favor de los almacenes generales de depósito, por el saldo insoluto, éstos tendrán acción a través de la vía ejecutiva mercantil para reclamar al depositante original, el pago del adeudo existente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+El convenio de depósito correspondiente junto con el estado de cuenta certificado por el contador del almacén general de depósito de que se trate, será título ejecutivo sin necesidad de reconocimiento de firma ni de otro requisito.
+
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+El acreedor prendario deberá notificar a través del sistema criptográfico en que conste el certificado de depósito, al almacén general de depósito si acordó con el deudor prendario, un procedimiento de remate de mercancías distinto al previsto en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+En caso de que el almacén general de depósito tenga a su cargo el procedimiento de remate o una parte del mismo, éste deberá manifestarle al acreedor prendario su consentimiento, para proceder en los términos pactados, en caso contrario se aplicará el procedimiento descrito en los párrafos precedentes y sólo podrá seguirse un procedimiento distinto, si se prevé en el certificado de depósito.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 22-A], D.O.F. 10 DE ENERO DE 2014)</small>
 
 ARTICULO 22 BIS.- Los almacenes generales de depósito, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener un capital contable por un monto no menor de la cantidad que resulte de aplicar un porcentaje que no será inferior al seis por ciento, a la suma de sus activos y en su caso de sus operaciones causantes de pasivo contingente, expuestos a riesgo significativo. La Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México, y tomando en cuenta los usos internacionales en la materia, determinará mediante disposiciones de carácter general cuáles activos y pasivos contingentes deberán considerarse dentro de la mencionada suma así como el porcentaje aplicable en los términos del presente artículo, así como señalará los conceptos que se consideren integrantes del capital contable de los almacenes generales de depósito.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
-ARTICULO 22 BIS 1.- Los almacenes generales de depósito deberán señalar en sus oficinas, bodegas propias o habilitadas, así como en la información que con fines de promoción de sus servicios utilicen, si cuentan o no con calificaciones o certificaciones relativas a la observancia de estándares técnicos, operativos o financieros y, en su caso, las calificaciones o certificaciones respectivas, así como cualquier otro dato que permita evaluar la calidad del almacén general de depósito en esas u otras materias.
+ARTICULO 22 BIS 1.- Los almacenes generales de depósito deberán señalar en sus oficinas, bodegas propias, arrendadas, recibidas en comodato o habilitadas, así como en la información que con fines de promoción de sus servicios utilicen, si cuentan o no con calificaciones o certificaciones relativas a la observancia de estándares técnicos, operativos o financieros y, en su caso, las calificaciones o certificaciones respectivas, así como cualquier otro dato que permita evaluar la calidad del almacén general de depósito en esas u otras materias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRIGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -680,29 +748,45 @@ La evaluación de la conformidad a que se refiere la Ley Federal sobre Metrolog�
 
 La Comisión Nacional Bancaria y de Valores podrá emitir reglas básicas de seguridad relativas a la operación de los almacenes generales de depósito, como la colocación de cámaras de video, detectores de movimiento, entre otros, que minimicen el riesgo de robo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+ARTICULO 22 BIS 6.- Se crea el Registro Único de Certificados, Almacenes y Mercancías, denominado por sus siglas "RUCAM", en el que los almacenes generales de depósito deberán hacer constar:
+
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+I. Los certificados de depósito que emitan, así como sus cancelaciones;
+
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+II. Las mercancías o bienes depositados amparados por los certificados de depósito emitidos;
+
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
-
-ARTICULO 22 BIS 6.- Se crea el Registro Único de Certificados, Almacenes y Mercancías, denominado por sus siglas “RUCAM”, en el que los almacenes generales de depósito deberán inscribir:
-
-I. Los certificados de depósito y bonos de prenda que emitan, así como sus cancelaciones;
-
-II. Las mercancías o bienes depositados amparados por los certificados de depósito y bonos de prenda emitidos, y
 
 III. Sus bodegas propias, arrendadas o habilitadas, con sus respectivos datos de domicilio, ubicación, superficie, capacidad de almacenamiento y clase de mercancías que permite almacenar, y en el caso de las habilitadas, nombre del propietario y del bodeguero habilitado.
 
-Los tenedores de certificados de depósito y bonos de prenda podrán exigir, al almacén, en cualquier momento, que acredite la inscripción de los títulos y de las mercancías o bienes que amparan y los demás actos que está obligado a inscribir en el RUCAM y en caso de que no se hayan efectuado dichas inscripciones, que las lleve a cabo.
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+IV. Los avisos de venta en remate público de bienes o mercancías depositadas en almacenes a los que hacen referencia esta Ley y la Ley General de Títulos y Operaciones de Crédito, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+V. Las demás anotaciones que señale ésta y demás leyes aplicables.
+
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los tenedores de certificados de depósito podrán exigir al almacén, en cualquier momento, que acredite la inscripción de los títulos y de las mercancías o bienes que amparan y los demás actos que está obligado a inscribir en el RUCAM y en caso de que no se hayan efectuado dichas inscripciones, que las lleve a cabo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 26 DE MARZO DE 2024)</small>
 
 La omisión o defecto en la inscripción de títulos en el RUCAM por parte de los almacenes generales de depósito, no afectará la validez de éstos ni los derechos de los tenedores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRIGÉSIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+ARTICULO 22 BIS 7.- El RUCAM estará a cargo de la Secretaría de Economía, será público, se llevará por medios digitales, mediante el programa informático establecido por la propia Secretaría en una base de datos nacional, y podrá permitir su interconexión con el o los sistemas criptográficos a través de los que se emitan certificados de depósito a efecto de dar cumplimiento a las obligaciones respecto de dicho Registro previstas en esta Ley. Su funcionamiento y operación se regirá por las Reglas de carácter general que para tal efecto emita la Secretaría de Economía.
 
-ARTICULO 22 BIS 7.- El RUCAM estará a cargo de la Secretaría de Economía, será público, se llevará por medios digitales, mediante el programa informático establecido por la propia Secretaría y en una base de datos nacional. Su funcionamiento y operación se regirá por las Reglas de carácter general que para tal efecto emita la Secretaría de Economía.
+Serán susceptibles de anotarse en el RUCAM, los avisos preventivos, las resoluciones judiciales o administrativas, las certificaciones públicas que se levanten con motivo del depósito de mercancías o bienes ante almacenes generales de depósito, y aquellas otras que señale esta Ley y demás leyes aplicables.
 
-Serán susceptibles de anotarse en el Registro, los avisos preventivos, las resoluciones judiciales o administrativas, las certificaciones públicas que se levanten con motivo del depósito de mercancías o bienes ante almacenes generales de depósito.
-
-Los almacenes generales de depósito responderán, para todos los efectos, de la existencia de los certificados de depósito, bonos de prenda y actos jurídicos que inscriban, así como de la debida correspondencia entre los señalados títulos y los bienes o mercancías que los mismos amparen, igualmente anotadas. Lo anterior, sin menoscabo de las responsabilidades y sanciones administrativas a que se pudieren hacer acreedores en los términos de esta Ley y de otras de naturaleza jurídica distinta. Lo establecido en este artículo es sin perjuicio de que la omisión o defecto en la inscripción de títulos en el RUCAM, no afectará la validez de estos ni los derechos de los tenedores.
+Los almacenes generales de depósito responderán, para todos los efectos, de la existencia de los certificados de depósito y actos jurídicos que realicen, así como de la debida correspondencia entre los señalados títulos y los bienes o mercancías que los mismos amparen. Lo anterior, sin menoscabo de las responsabilidades y sanciones administrativas a que se pudieren hacer acreedores en los términos de esta Ley y de otras de naturaleza jurídica distinta. Lo establecido en este artículo es sin perjuicio de que la omisión o defecto en la inscripción de títulos en el RUCAM, no afectará la validez de estos ni los derechos de los tenedores.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -712,39 +796,65 @@ I. Se abrirá un folio por almacén general de depósito;
 
 II. Será automatizado;
 
-III. Las inscripciones y anotaciones, así como la modificación y cancelación de las mismas, recibirán una clave por cada asiento y deberán realizarse a través de medios digitales, utilizando para ello la forma precodificada que al efecto se establezca en las Reglas a que se refiere el artículo 22 Bis 7 de esta Ley;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+III. Las inscripciones de los certificados de depósito, sus anotaciones, modificaciones y cancelaciones recibirán una clave por asiento y podrán realizarse a través de la interconexión con el sistema criptográfico que cumpla con los requerimientos técnicos y de seguridad requeridos por el RUCAM.
+
+En cumplimiento de la obligación de hacer constar en el RUCAM la información referida por el artículo 22 Bis 6 de esta Ley, no quedará supeditado al adecuado funcionamiento y continuidad del sistema criptográfico que contenga el certificado de depósito, por lo que en todo momento corresponderá a los almacenes generales de depósito su debida observancia;
 
 IV. Las inscripciones y anotaciones se realizarán de manera inmediata a su recepción, previo pago de los derechos correspondientes y en el folio respectivo;
 
-V. Se generará la boleta correspondiente al acto inscrito, que se entregará de manera digital a su solicitante;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
 
-VI. Estarán facultados para llevar a cabo inscripciones y anotaciones los almacenes generales de depósito, los fedatarios públicos, los jueces y las oficinas habilitadas de la Secretaria de Economía en las entidades federativas, así como los servidores públicos y otras personas que para tales propósitos autorice dicha Secretaría;
+V. Se generará la boleta correspondiente al acto inscrito, que se pondrá a disposición del solicitante de manera digital en el RUCAM;
+
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+VI. Estarán facultados para llevar a cabo inscripciones y anotaciones los almacenes generales de depósito, los fedatarios públicos, los jueces, así como los servidores públicos y otras personas que para tales propósitos autorice dicha Secretaría;
 
 VII. Las personas a que se refiere la fracción anterior, serán responsables de la existencia y veracidad de la información y documentación relativa a las inscripciones que lleven a cabo. De esta forma, responden por los daños y perjuicios que se pudieran originar. Lo anterior, sin perjuicio de las sanciones administrativas o penales a que hubiere lugar;
 
-VIII. Será responsabilidad de quien realice una inscripción, llevar a cabo la rectificación de los errores materiales o de concepto que las mismas contengan. Se entiende que se comete un error de concepto, cuando al expresar en la inscripción, alguno de los contenidos formales del documento o acto objeto a registro, se altere o varíe su sentido en virtud de un juicio equivocado de quien la lleve a cabo. Todos los demás errores se considerarán materiales;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+VIII. Será responsabilidad del emisor del certificado de depósito, llevar a cabo las rectificaciones de los errores que se hubiesen cometido en dicho registro;
 
 IX. Cualquier interesado estará facultado para solicitar de la Secretaría de Economía la expedición de certificaciones o constancias respecto de los documentos, actos o información inscrita en el Registro, previa presentación de la solicitud correspondiente y el pago de los derechos respectivos, y
 
 X. Las demás que se establezcan en las Reglas del RUCAM.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
 
-ARTICULO 22 BIS 9.- En las Reglas del Registro Único de Certificados, Almacenes y Mercancías se desarrollarán, entre otros:
+ARTICULO 22 BIS 9.- En las Reglas del RUCAM se desarrollarán, entre otros:
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 I. Los procedimientos y requisitos técnicos y operativos que se deberán satisfacer para llevar a cabo las inscripciones, anotaciones, certificaciones y consultas que se realicen;
 
-II. Las características de las formas precodificadas para la inscripción y anotación en el Registro;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+
+II. Las características de las formas precodificadas para la inscripción y anotación en el Registro y, los requisitos que permitan la interconexión de los sistemas criptográficos a través de los que se emitan certificados de depósito con el Registro;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 III. Los requisitos y el procedimiento para obtener la autorización para llevar a cabo las inscripciones y anotaciones, así como la forma en que se darán a conocer las personas autorizadas;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
 IV. El procedimiento para la renovación de inscripciones;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 V. Los procedimientos y requisitos para la rectificación, modificación o cancelación de la información del Registro;
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
 VI. Cualquier otro dato, requisito, procedimiento o condición necesarios para la adecuada operación del Registro, y
 
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+
 VII. Los procedimientos de verificación de cumplimiento de obligaciones a cargo de los almacenes generales de depósito, así como las visitas de inspección que al efecto deba practicar la Secretaría de Economía.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 La Secretaría de Economía, para efectos administrativos, estará facultada para administrar y procesar la información existente en el RUCAM, así como para compartir o intercambiar la misma para fines informativos o estadísticos con otros registros a su cargo o con otros a cargo de otras Dependencias o entidades de la Administración Pública Federal, Estatal o Municipal. Asimismo, podrá aprovechar la infraestructura y plataformas tecnológicas de otros registros a su cargo, para eficientar los costos de implementación, puesta en marcha y operación del RUCAM.
 
@@ -775,6 +885,10 @@ III. Multa adicional de 100 días de salario por cada día que persista la infra
 IV. El auxilio de la fuerza pública.
 
 Si fuere insuficiente el apremio, se podrá solicitar a la autoridad competente se proceda contra el rebelde por desobediencia a un mandato legítimo de autoridad competente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+ARTICULO 22 BIS 12.- La Secretaría de Economía deberá determinar mediante disposiciones de carácter general, los requerimientos técnicos y de seguridad necesarios para que el o los sistemas criptográficos de los almacenes generales de depósito se interconecten con el RUCAM, a fin de cumplir con sus obligaciones regístrales y de publicidad referidos por esta Ley.
 
 ###### ARTICULO 23.
 
@@ -3979,3 +4093,19 @@ Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de en
 Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
 
 Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO Y DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal contará con un plazo de 180 días hábiles a partir de la entrada en vigor de este Decreto, para ajustar los reglamentos, o cualquiera otra disposición normativa que requiera su actualización, de conformidad con el contenido del presente Decreto.
+
+Tercero.- La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días hábiles a partir de la entrada en vigor de este Decreto, para ajustar cualquier disposición normativa que requiera su actualización y emitir las Reglas conducentes, de conformidad con el contenido del presente Decreto.
+
+Cuarto.- Los almacenes generales de depósito deberán ajustar su operación para la emisión de certificados de depósito electrónicos, a más tardar a los 18 meses siguientes a la fecha de entrada en vigor del presente Decreto.
+
+Hasta en tanto se cumpla el plazo señalado en el párrafo anterior, o se adopte la emisión de certificados de depósito electrónicos previo a dicho término, los almacenes generales de depósito podrán continuar emitiendo el certificado de depósito documentado en medio físico, para garantizar la continuidad del servicio de certificación. En caso que se constituya un crédito prendario sobre las mercancías o bienes señalados en el certificado de depósito, se deberán incorporar al mismo la información a que se refiere el artículo 232 de la Ley General de Títulos y Operaciones de Crédito. Aquéllos almacenes que inicien la emisión de dichos títulos electrónicos, estarán impedidos para continuar emitiendo certificados documentados en papel, a fin de asegurar la adecuada transición del certificado de depósito a medios electrónicos.
+
+Quinto.- Los certificados de depósito y bonos de prenda que hayan sido emitidos antes de la entrada en vigor de este Decreto continuarán vigentes hasta su cancelación. A dichos bonos les será aplicable la legislación vigente al momento de su última negociación. Dichos certificados de depósito podrán ser sustituidos por títulos electrónicos en los términos indicados en la presente Ley.
