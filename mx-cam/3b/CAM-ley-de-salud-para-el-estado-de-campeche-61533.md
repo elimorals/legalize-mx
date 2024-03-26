@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2024-03-07"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -79,9 +77,9 @@ j) COPRISCAM, la Comisión para la Protección Contra Riesgos Sanitarios del Est
 
 Corresponde al Estado, en los términos de la presente ley:
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
-I. En materia de salubridad general, de manera concurrente con la Federación, el ejercicio de las atribuciones a que refieren las fracciones II, II bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXIII del artículo 3º de la Ley General;
+I. En materia de salubridad general, de manera concurrente con la Federación, el ejercicio de las atribuciones a que refieren las fracciones II, II bis, IV, IV Bis; IV Bis 1; IV Bis 2; IV Bis 3; V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXIII del artículo 3º de la Ley General;
 
 II. En materia de salubridad local el control sanitario de:
 
@@ -187,17 +185,21 @@ IX. Promover campañas que procuren el acceso y el fomento a la cultura del cons
 
 X. Proporcionar orientación a la población sobre la importancia de la alimentación nutritiva suficiente y de calidad y su relación con los beneficios a la salud;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
-XI. Impulsar el bienestar y desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades culturales, tomando en cuenta sus valores y organización social;
+XI. Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores y organización social;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
-XII. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas.
+XII. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
-XIII. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
+XIII. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2024)</small>
+
+XIV. Promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas, de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 6.
 
@@ -1211,9 +1213,9 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, actividad física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, así como en la prevención, diagnóstico y control de las enfermedades cardiovasculares.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, actividad física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades, así como en la prevención, diagnóstico y control de las enfermedades cardiovasculares.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
@@ -2866,3 +2868,11 @@ P.O. 6 DE MARZO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 347 POR EL QUE “SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2; LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 5 Y LA FRACCIÓN III DEL ARTÍCULO 116; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 5, TODOS DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
