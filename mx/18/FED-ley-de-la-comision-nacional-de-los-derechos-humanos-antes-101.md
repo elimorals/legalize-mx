@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2023-01-19"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -79,13 +79,17 @@ El personal de la Comisión Nacional deberá manejar de manera confidencial la i
 
 ### CAPITULO I. DE LA INTEGRACION Y FACULTADES DE LA COMISION NACIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### ARTICULO 5o.
 
-La Comisión Nacional se integrará con un Presidente, una Secretaría Ejecutiva, Visitadores Generales así como el número de visitadores adjuntos y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+La Comisión Nacional se integrará con una Presidencia, una Secretaría Ejecutiva, Visitadurías Generales, así como el número de visitadurías adjuntas y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
 La Comisión Nacional para el mejor desempeño de sus responsabilidades contará con un Consejo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+En la designación de las Visitadurías Generales se debe aplicar el principio de paridad de género.
 
 ###### ARTICULO 6o.
 
@@ -1144,5 +1148,11 @@ Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este De
 D.O.F. 19 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 27 DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 5o. DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
