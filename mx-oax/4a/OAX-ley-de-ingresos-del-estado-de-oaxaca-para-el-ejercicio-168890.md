@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-168890"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-16"
-last_updated: "2023-12-16"
+last_updated: "2024-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2024
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de diciembre de 2023.
 
@@ -797,13 +797,7 @@ Corresponderá a la Policía Auxiliar, Bancaria, Industrial y Comercial la valid
 
 ###### Artículo 25.
 
-El Programa de Certeza Jurídica de la Tierra para la Seguridad y Bienestar del Patrimonio, otorgará estímulos fiscales a los beneficiarios del programa, consistente en el 50 por ciento de los derechos contenidos en el artículo 25 fracciones I y II de la Ley Estatal de Derechos de Oaxaca y 50 por ciento del Impuesto para el Desarrollo Social.
-
-Así como 100 por ciento de los derechos previstos en los artículos 35 fracción I, 44 fracción I, 47 fracción X de la Ley Estatal de Derechos de Oaxaca, así como del 100 por ciento sobre las multas generadas ante el Instituto Catastral para el Estado de Oaxaca y el Instituto de la Función
-
-Registral del Estado de Oaxaca por presentación extemporánea de los trámites conducentes y 100 por ciento del Impuesto para el Desarrollo Social previsto en la Ley Estatal de Hacienda.
-
-La Comisión para la Regularización de la Tenencia de la Tierra Urbana del Estado de Oaxaca es la instancia competente para la validación del presente estímulo fiscal.
+(DEROGADO, P.O. 26 DE MARZO DE 2024)
 
 ###### Artículo 26.
 
@@ -956,3 +950,13 @@ SEGUNDO. Los ingresos que perciba el Estado que no se encuentren considerados en
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 06 de Diciembre de 2023.- Dip. Samuel Gurrión Matias, Presidente.- Dip. Juana Aguilar Espinoza, Vicepresidenta,- Dip. Rosalinda López García, Secretaria.- Dip. Lizbeth Anaid Concha Ojeda, Secretaria.- Dip. Minerva Leonor López Calderón, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 07 de Diciembre de 2023: EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. lng. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1934.- MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 25 DE LA LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2024".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Para cumplir con lo dispuesto por el artículo 53 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca, Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
