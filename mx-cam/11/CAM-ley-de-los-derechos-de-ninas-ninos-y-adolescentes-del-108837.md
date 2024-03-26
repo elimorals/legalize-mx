@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-12-05"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -705,6 +705,26 @@ En todos los casos se respetará el derecho a la intimidad de niñas, niños y a
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social, así como desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2024)</small>
+
+###### Artículo 50 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones y de conformidad con la legislación aplicable, impulsarán las acciones necesarias para garantizar los derechos sexuales y reproductivos de niñas, niños y adolescentes, estableciendo entre otras medidas las siguientes:
+
+I. Proporcionar asesoría y orientación gratuita sobre salud sexual y reproductiva;
+
+II. Prevenir embarazos de las niñas y las adolescentes;
+
+III. Proporcionar servicios gratuitos y profesionales en materia de salud sexual y reproductiva; y
+
+IV. Desarrollar campañas de comunicación para prevenir el abuso sexual de niñas, niños y adolescentes, así como para el normal desarrollo psicosexual de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2024)</small>
+
+###### Artículo 50 Ter.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, capacitarán al cuerpo médico, de enfermería, trabajo social y administrativo de clínicas, establecimientos de salud y hospitales del sector público y privado a fin de que puedan atender a niñas, niños y adolescentes, de manera integral y sensibilizada, en materia de derechos humanos y de interés superior de la niñez.
+
 ### CAPÍTULO DÉCIMO. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
 ###### Artículo 51.
@@ -748,6 +768,18 @@ IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, ac
 V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
 
 Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2024)</small>
+
+VI. Impulsar programas y proyectos con otras dependencias e instancias de la Administración Pública Estatal, así como con asociaciones civiles e iniciativa privada que busquen fomentar y promover el derecho a la accesibilidad de niñas, niños y adolescentes con discapacidad en inmuebles, espacios y transportes públicos y privados en igualdad de condiciones;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2024)</small>
+
+VII. Promover centros de información y denuncia de abuso y violación a los derechos de niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2024)</small>
+
+VIII. Establecer políticas, programas y acciones específicos que amplíen y mejoren la cobertura de servicios, la accesibilidad, la movilidad y la vida independiente de niñas, niños y adolescentes con discapacidad.
 
 ###### Artículo 54.
 
@@ -1661,7 +1693,13 @@ XIV. Supervisar la ejecución de las medidas especiales de protección de niñas
 
 XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos; y
 
-XVI. Las demás que les confieran otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2024)</small>
+
+XVI. Realizar propuestas al Sistema Estatal de Protección Integral, para que se emitan recomendaciones, expida protocolos y acuerdos de aplicación a instituciones públicas estatales y municipales, organismos e instituciones privadas, así como para la adopción de políticas públicas o acciones específicas que favorezcan los derechos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2024)</small>
+
+XVII. Las demás que les confieran otras disposiciones aplicables.
 
 ###### Artículo 118.
 
@@ -2230,3 +2268,11 @@ P.O. 5 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 348 POR EL QUE “SE REFORMA LA FRACCIÓN XVI AL ARTÍCULO 117 Y, SE ADICIONAN LOS ARTÍCULOS 50 BIS Y 50 TER; LAS FRACCIONES VI, VII Y VIII AL ARTÍCULO 53 Y LA FRACCIÓN XVII AL ARTÍCULO 117, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
