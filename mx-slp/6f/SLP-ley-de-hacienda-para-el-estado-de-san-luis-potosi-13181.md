@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2023-12-18"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -3647,8 +3647,18 @@ P.O. 18 DE DICIEMBRE DE 2023.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”; con excepción de lo establecido en el artículo segundo transitorio.
 
-SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor a partir del 01 de abril de 2024.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2024)</small>
+
+SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor a partir del 10 de junio de 2024.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 CUARTO. Se faculta a la Secretaría de Finanzas del Poder Ejecutivo del Estado para que emita las Reglas de Operación necesarias para la correcta y debida aplicación de las disposiciones establecidas en el Capítulo VI del presente Decreto.
+
+P.O. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1029.- SE REFORMA EL TRANSITORIO SEGUNDO DEL ARTÍCULO SEGUNDO, DEL DECRETO 0898 PUBLICADO EN EDICIÓN EXTRAORDINARIA DEL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL LUNES 18 DE DICIEMBRE DE 2023”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
