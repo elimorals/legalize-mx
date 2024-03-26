@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2022-04-29"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -554,7 +554,17 @@ En su caso, podrá identificarse con credencial para votar con fotografía, expe
 
 A falta de los documentos probatorios mencionados en las fracciones anteriores, para los efectos de lo dispuesto en este artículo, se podrá acreditar la nacionalidad mexicana mediante cualquier otro elemento objetivo de convicción que permita al Instituto determinar que se cumplen con los supuestos de acreditación de la nacionalidad mexicana.
 
-En los casos en que el Instituto cuente con elementos suficientes para presumir la falta de autenticidad de los documentos o de veracidad de los elementos aportados para acreditar la nacionalidad mexicana, determinará el ingreso o rechazo de la persona de que se trate, después de realizar la investigación respectiva. Este procedimiento deberá ser racional y en ningún caso excederá de 4 horas.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+En los casos en que el Instituto cuente con elementos suficientes para presumir la falta de autenticidad de los documentos o de veracidad de los elementos aportados para acreditar la nacionalidad mexicana, determinará el ingreso o rechazo de la persona de que se trate, después de realizar la investigación respectiva. Este procedimiento deberá ser racional y en ningún caso excederá de 4 horas, mismo que sólo podrá ampliarse a solicitud expresa de la persona que se ostenta como de nacionalidad mexicana. En ningún caso el plazo podrá ser mayor a veinticuatro horas.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Durante el tiempo que dure el proceso de revisión, la autoridad migratoria deberá brindar todas las facilidades de comunicación que tenga al alcance en sus instalaciones, para que las personas que al momento de solicitar su internación al territorio nacional se ostenten como mexicanos, puedan aportar elementos objetivos de convicción que permitan al Instituto determinar que se cumplen con los supuestos de acreditación de la nacionalidad mexicana.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Durante el tiempo que perduren los procedimientos de revisión, el Instituto está obligado a preservar la seguridad e integridad física de los solicitantes, mismos que pueden permanecer en las instalaciones del Instituto.
 
 De igual forma, al ingresar al país, los mexicanos estarán obligados a proporcionar la información y los datos personales que, en el ámbito de sus atribuciones, les sea solicitada por las autoridades competentes y tendrán derecho a ser informados sobre los requerimientos legales establecidos para su ingreso y salida del territorio nacional.
 
@@ -1985,3 +1995,9 @@ D.O.F. 29 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 DE LA LEY DE MIGRACIÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, para que el personal del Instituto Nacional de Migración pueda auxiliarse de herramientas tecnológicas automatizadas en la vigilancia de entrada y salida de nacionales y extranjeros.
+
+D.O.F. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 36 DE LA LEY DE MIGRACIÓN".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
