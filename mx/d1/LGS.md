@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2024-01-03"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -296,13 +296,13 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que 
 
 VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
 
-VI bis.- Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
+VI bis.- Promover el respeto, conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones dignas, incluida la partería tradicional;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
+VII.- Coadyuvar a la adopción de hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
 
 > <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
@@ -1250,9 +1250,9 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 
 III Bis.- Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de 5 años, y
 
-> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
 
-IV.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
+IV.- Acciones para respetar, garantizar y proteger el ejercicio de las parteras tradicionales, en condiciones de dignidad y acorde con sus métodos y prácticas curativas, así como el uso de sus recursos bioculturales. Para lo anterior, se les brindarán los apoyos necesarios sin condicionamientos o certificaciones, siendo suficiente el reconocimiento comunitario.
 
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
 
@@ -2512,11 +2512,11 @@ III.- Las disposiciones de esta Ley y demás normas jurídicas aplicables, y
 
 IV.- Las leyes que expidan los estados, con fundamento en los artículos 5o. y 121, fracción V, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2024)</small>
 
 ###### Artículo 79.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, partería profesional, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 > <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2015)</small>
 
@@ -7512,7 +7512,9 @@ V.- Los demás que se determinen en esta ley y sus reglamentos.
 
 El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
-El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+El certificado de nacimiento será expedido por profesionales de la medicina, parteras tradicionales y personas autorizadas para ello por la autoridad sanitaria competente.
 
 > <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2013)</small>
 
@@ -7563,6 +7565,10 @@ V.- La Secretaría de Salud podrá reconocer centros de investigación y organiz
 ###### ARTICULO 392.
 
 Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas oficiales mexicanas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2024)</small>
+
+Los que se autoricen para las parteras tradicionales, o los que ellas elaboren, serán de la mayor sencillez, con lenguaje adecuado a su cultura e identidad y contendrán los datos básicos previstos en el artículo 389 Bis.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -9901,3 +9907,15 @@ Séptimo. Los derechos laborales individuales de los trabajadores que con motivo
 Octavo. Se faculta a las Dependencias y Entidades de la Administración Pública Federal para que en los ejercicios fiscales subsecuentes realice (sic) las adecuaciones presupuestarias necesarias en términos de las disposiciones aplicables, para que los recursos que correspondan del Ramo General 33 se traspasen a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en aquellos casos en que una entidad federativa suscriba el convenio de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud con fecha posterior a la entrada en vigor del presente Decreto.
 
 Noveno. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
+
+D.O.F. 26 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, EN MATERIA DE PARTERÍA TRADICIONAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El titular del Poder Ejecutivo Federal expedirá en un plazo de 180 días las adecuaciones a la reglamentación correspondiente.
+
+Tercero. Para los efectos de lo previsto en el artículo 64, fracción IV de la Ley General de Salud la exención de certificación no será aplicable en el caso de las parteras técnicas, sin perjuicio de los derechos laborales del personal activo, de conformidad con la normatividad vigente.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado por la Cámara de Diputados para el ejercicio fiscal que corresponda.
