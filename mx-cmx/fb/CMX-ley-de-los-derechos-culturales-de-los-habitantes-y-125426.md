@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-culturales-de-los-habitantes-y-125426"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-22"
-last_updated: "2019-05-20"
+last_updated: "2024-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125426&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-01-08"
 
 LEY DE LOS DERECHOS CULTURALES DE LOS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
 
 Ley publicada en el Número 245 de la Gaceta Oficial de la Ciudad de México, el lunes 22 de enero de 2018.
 
@@ -80,7 +80,9 @@ VII.- Establecer las bases en la política cultural que estimulen la generación
 
 VIII.- Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a las expresiones culturales;
 
-IX.- Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento a la cultura;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+
+IX.- Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento a la cultura. Para ello, se deberán observar los principios de representatividad, paridad de género, igualdad sustantiva y protección a grupos de atención prioritaria.
 
 X.- Garantizar el conocimiento y el acceso al patrimonio cultural tangible e intangible de la Ciudad;
 
@@ -559,3 +561,11 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de M
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- El Gobierno de la Ciudad de México de conformidad con el principio de progresividad de los derechos, realizará las provisiones presupuestales necesarias para fortalecer las capacidades técnicas y financieras del Instituto a fin de favorecer el respeto, promoción, protección y garantía de los derechos culturales de las personas que habitan y visitan la Ciudad de México, así como la defensa de los mismos a través de los mecanismos de exigibilidad y justiciabilidad previstos por la normatividad aplicable. El Congreso de la Ciudad de México garantizará, para cada año fiscal correspondiente, proveer los recursos necesarios para el cumplimiento del presente Decreto.
+
+G.O. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE DERECHOS CULTURALES DE LOS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
