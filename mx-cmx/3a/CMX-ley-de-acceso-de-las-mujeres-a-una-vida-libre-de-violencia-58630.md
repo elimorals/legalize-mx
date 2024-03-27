@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2024-02-19"
+last_updated: "2024-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -254,9 +254,9 @@ V. Violencia Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesio
 
 La violencia sexual se sanciona de acuerdo con lo establecido en los artículos 152, 174, 175, 176, 177, 178, 179, 180, 181, 181 Bis, 181 Ter, 181 Quáter, 186, 187, 188, 188 Bis, 189 y 189 Bis del Código Penal para el Distrito Federal.
 
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE MARZO DE 2024)</small>
 
-VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
+VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos; el acceso a métodos anticonceptivos de su elección; a una maternidad elegida y segura; a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo; a servicios de atención prenatal; a servicios obstétricos de emergencia; así como la libertad de elección en cuanto a los productos e insumos para la gestión menstrual.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -648,6 +648,10 @@ XII. Brindar orientación y asesoría jurídica a mujeres víctimas de violencia
 
 XIII. Establecer mecanismos de coordinación interinstitucional con las Alcaldías para implementar acciones de prevención de la violencia contra las mujeres y niñas;
 
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+XIII Bis. Diseñar y ejecutar acciones y programas enfocados en la gestión menstrual, con el objeto de garantizar el derecho humano a una menstruación digna y eliminar estereotipos y prejuicios en la materia, y
+
 XIV. Las demás que señalen las disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
@@ -659,6 +663,10 @@ La Secretaría de Inclusión y Bienestar Social de la Ciudad de México deberá:
 I. Definir sus programas de prevención de la violencia familiar de conformidad con los principios de esta Ley;
 
 II. Realizar programas dirigidos a las mujeres en mayores condiciones de vulnerabilidad, que tiendan a fortalecer el ejercicio de su ciudadanía, su desarrollo integral y su empoderamiento;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+II Bis. Implementar las acciones afirmativas y políticas públicas pertinentes para garantizar el derecho humano a una menstruación digna de las mujeres y personas menstruantes que pertenezcan a un grupo de atención prioritaria;
 
 III. Asegurar que el servicio de localización telefónica LOCATEL oriente a las mujeres en aspectos relacionados con la presente Ley, con la finalidad de que puedan acceder a la atención integral que brinda;
 
@@ -688,7 +696,9 @@ I. Realizar estudios estadísticos e investigaciones en materia de salud públic
 
 II. Elaborar e instrumentar mecanismos, programas y acciones tendientes a identificar y disminuir los factores de riesgo que afectan la salud de las mujeres;
 
-III. Generar y difundir información sobre los derechos sexuales y reproductivos; prevención de las enfermedades de transmisión sexual, adicciones, accidentes; interrupción legal del embarazo, salud mental, así como todos aquellos tendientes a prevenir la violencia contra las mujeres;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+
+III. Generar y difundir información sobre los derechos sexuales y reproductivos; menstruación digna libre de prejuicios y discriminación; prevención de las enfermedades de transmisión sexual; adicciones; accidentes; interrupción legal del embarazo; salud mental, así como todos aquellos tendientes a prevenir la violencia contra las mujeres;
 
 IV. Ejecutar programas especializados para prevenir las afectaciones en la salud mental de las mujeres;
 
@@ -718,7 +728,9 @@ V. Elaborar y difundir materiales educativos para la prevención y atención de 
 
 VI. Establecer mecanismos de denuncia y de protección para las alumnas que sean discriminadas y violentadas en sus derechos;
 
-VII. Diseñar y difundir materiales educativos con información sobre los derechos sexuales y reproductivos y para prevenir el abuso sexual infantil;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+
+VII. Diseñar y difundir materiales educativos con información sobre los derechos sexuales y reproductivos, así como del derecho a la gestión menstrual digna, con la finalidad de prevenir el abuso sexual infantil y la violencia contra los derechos reproductivos;
 
 VIII. Promover talleres de prevención de la violencia contra las mujeres dirigidos a sus familiares;
 
@@ -748,7 +760,13 @@ III. Promover campañas de información en los centros de trabajo sobre los tipo
 
 IV. Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
 
-V. Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+
+V. Difundir, promover y garantizar el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual y/o reproductiva o su integridad física y psicológica.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2024)</small>
+
+En ese sentido, se diseñarán y ejecutarán campañas de concientización para evitar la discriminación en los centros laborales motivada por el proceso de menstruación.
 
 VI. Realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales;
 
@@ -826,9 +844,13 @@ IV. Establecer las acciones y medidas que se deberán tomar para la reeducación
 
 V. Sensibilizar y concientizar a las personas usuarias de sus servicios sobre las consecuencias y efectos de la violencia contra las mujeres y las niñas dentro del entorno familiar;
 
-> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
-VI. Desarrollar programas de intervención temprana para prevenir casos de violencia contra las mujeres en el ámbito familiar en coordinación con la Secretaría de las Mujeres y demás dependencias e instituciones competentes; y
+VI. Desarrollar programas de intervención temprana para prevenir casos de violencia contra las mujeres en el ámbito familiar en coordinación con la Secretaría de las Mujeres y demás dependencias e instituciones competentes;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+VI Bis. Diseñar y ejecutar campañas permanentes de información y concientización sobre educación sexual, reproductiva, así como de gestión y salud menstrual, y
 
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -882,9 +904,13 @@ VI. Formular acciones y programas orientados a fomentar la cultura del respeto a
 
 VI Bis. Participar en la Coordinación Interinstitucional y en las acciones de prevención y erradicación de la violencia que prevé esta Ley;
 
-> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
-VI Ter. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto; y
+VI Ter. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+VI Quater. Formular acciones y programas con el objetivo de garantizar el derecho a una menstruación digna a las mujeres privadas de su libertad en los Centros Femeniles de Readaptación Social, y
 
 VII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
@@ -1312,7 +1338,13 @@ VI. Personal femenino en las áreas de trabajo social, psicología y medicina;
 
 VII. Dormitorios con camas individuales o espacios para una familia integrada por una mujer y sus dependientes;
 
-VIII. Seguridad en el acceso a las instalaciones; y
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+
+VIII. Seguridad en el acceso a las instalaciones;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+VIII Bis. Espacios adecuados, insumos y productos necesarios para gestionar dignamente el proceso menstrual, y
 
 IX. Personal capacitado que apliquen las Normas Oficiales Mexicanas relativas y vigentes a este tipo de centros de atención.
 
@@ -2251,3 +2283,11 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERO. La Secretaría de Salud contará con un lapso no mayor a 90 días naturales a la entrada en vigor del presente Decreto para coordinarse con las autoridades correspondientes a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
 
 CUARTO. La Secretaría de las Mujeres en coordinación con la Secretaría de Seguridad Ciudadana, la Fiscalía General de Justicia de la Ciudad de México, la Secretaría de Inclusión y Bienestar Social de la Ciudad de México, la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México, la Comisión de Derechos Humanos de la Ciudad de México, el Consejo para Prevenir y Erradicar la Discriminación de la Ciudad de México, el Sistema Integral para el Desarrollo de la Familia de la Ciudad de México y la Secretaría de Salud de la Ciudad de México, formulará en un lapso de seis meses a la entrada en vigor del presente Decreto, una política pública de atención integral a las víctimas de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+G.O. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 6, LA FRACCIÓN III DEL ARTÍCULO 18, LA FRACCIÓN VII DEL ARTÍCULO 19, LA FRACCIÓN V DEL ARTÍCULO 20, LA FRACCIÓN VI DEL ARTÍCULO 24, LA FRACCIÓN VI TER DEL ARTÍCULO 25, LA FRACCIÓN VIII DEL ARTÍCULO 52; SE ADICIONA UNA FRACCIÓN XIII BIS AL ARTÍCULO 16, UNA FRACCIÓN II BIS DEL ARTÍCULO 17, UN PÁRRAFO SEGUNDO A LA FRACCIÓN V DEL ARTÍCULO 20, LA FRACCIÓN VI BIS DEL ARTÍCULO 24, LA FRACCIÓN VI QUÁTER AL ARTÍCULO 25, LA FRACCIÓN VIII BIS AL ARTÍCULO 52, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrara´ en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
