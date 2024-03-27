@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2024-03-26"
+last_updated: "2024-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -1040,9 +1040,9 @@ IX. Implementar mecanismos para la atención, canalización y seguimiento de los
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-> <small>(REFORMADA, D.O.F. 15 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2024)</small>
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia que se suscite hacia niñas, niños y adolescentes en los centros educativos del país;
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual, así como de cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o detecte en los centros educativos;
 
 XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
@@ -2771,3 +2771,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los Congresos de las Entidades Federativas tendrán un plazo de 180 días, contados a partir de la publicación del presente Decreto para realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
 
 Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 57 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; Y LA FRACCIÓN III DEL ARTÍCULO 266 BIS DEL CÓDIGO PENAL FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
