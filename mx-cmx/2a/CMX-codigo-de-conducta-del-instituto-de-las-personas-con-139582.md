@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-instituto-de-las-personas-con-139582"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-23"
-last_updated: "2019-12-23"
+last_updated: "2024-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139582&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-12-09"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL AVISO POR EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA DONDE PODRÁ SER CONSULTADO EL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 27 DE MARZO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024 (ABROGADO).
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el lunes 23 de diciembre de 2019.
 
@@ -203,3 +205,15 @@ __________________________
 Ruth Francisca López Gutiérrez
 
 Directora General
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA DONDE PODRÁ SER CONSULTADO EL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Se abroga el Código de Conducta del Instituto de las Personas con Discapacidad de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el día 23 de diciembre de 2019, y se derogan las disposiciones que se opongan al presente Código a partir del inicio de la vigencia de éste.
+
+SEGUNDO.- Publíquese el presente Aviso, en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+TERCERO.- El presente Aviso surtirá sus efectos a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
