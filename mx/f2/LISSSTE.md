@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2023-11-29"
+last_updated: "2024-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -2202,6 +2202,10 @@ II. Dejar de pagar las Cuotas y Aportaciones en los plazos a que se refiere el a
 
 III. Ingresar nuevamente al régimen obligatorio de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2024)</small>
+
+La persona trabajadora podrá solicitar por escrito su reingreso al régimen obligatorio a través de la continuación voluntaria, cuando hubiese causado baja por la falta de pago de las cuotas y aportaciones a que se refiere el artículo 200 de esta Ley. La solicitud deberá formularse dentro de los doce meses siguientes a la fecha de su baja en la continuación voluntaria.
+
 ###### Artículo 203.
 
 El registro de Familiares Derechohabientes y las demás reglas de los seguros contratados se ajustarán a las disposiciones aplicables previstas en esta Ley.
@@ -2306,7 +2310,9 @@ La Junta Directiva se compondrá de diecinueve miembros como a continuación se 
 
 I. El Director General del Instituto, el cual presidirá la Junta Directiva;
 
-II. El titular y dos subsecretarios de la Secretaría de Hacienda y Crédito Público, así como el titular de las Secretarías de Salud, de Desarrollo Social, del Trabajo y Previsión Social, de Medio Ambiente y Recursos Naturales y de la Función Pública y el Director General del IMSS, y
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2024)</small>
+
+II. La persona titular y dos subsecretarías de la Secretaría de Hacienda y Crédito Público, así como la persona titular de las Secretarías de Salud, de Bienestar, del Trabajo y Previsión Social, de Medio Ambiente y Recursos Naturales y de la Función Pública y la persona titular de la Dirección General del IMSS, y
 
 III. Nueve representantes de las organizaciones de Trabajadores.
 
@@ -2794,6 +2800,8 @@ OCTAVO. Los Trabajadores que hubieran optado por el régimen del artículo déci
 
 NOVENO. El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
 
+(VÉASE ARCHIVO ANEXO)
+
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
 RÉGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO
@@ -3094,6 +3102,8 @@ El Banco de México tendrá a su cargo las funciones de custodia, administració
 
 VIGÉSIMO PRIMERO. Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
 
+(VÉASE ARCHIVO ANEXO)
+
 Donde:
 
 t = El día en el que se evalúa el valor de redención anticipada del Bono de Pensión del ISSSTE.
@@ -3110,6 +3120,8 @@ Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determina
 
 De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
 
+(VÉASE ARCHIVO ANEXO)
+
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
 A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto en la presente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSSTE, así como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del crédito público, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobierno Federal asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a cargo del Gobierno Federal a que se refiere esta Ley.
@@ -3120,7 +3132,7 @@ El PENSIONISSSTE y, en su caso, las Administradoras, deberán incorporar en los 
 
 DEL PENSIONISSSTE
 
-VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuéstales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
+VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
 
 El Gobierno Federal deberá apoyar al Instituto, proveyendo los recursos necesarios, para el inicio de operaciones del PENSIONISSSTE.
 
@@ -3479,3 +3491,17 @@ D.O.F. 29 DE NOVIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las autoridades del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la publicación del presente Decreto.
+
+D.O.F. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 210 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, EN MATERIA DE ACTUALIZACIÓN DE LA DENOMINACIÓN DE LA SECRETARÍA DE BIENESTAR”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 202 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las personas trabajadoras que hayan sido dadas de baja dentro del año anterior a la entrada en vigor del presente Decreto, podrán solicitar su continuación voluntaria en el régimen obligatorio.
