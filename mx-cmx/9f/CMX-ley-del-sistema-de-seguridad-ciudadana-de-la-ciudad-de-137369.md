@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2023-06-15"
+last_updated: "2024-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -202,9 +202,11 @@ VIII. Preservar la convivencia y el fomento de la cohesión social.
 
 Las acciones en materia de seguridad ciudadana tendrán como eje central a la persona, asegurando en todo momento, el ejercicio de su ciudadanía, libertades y derechos fundamentales, así como propiciar condiciones durables que permitan a los habitantes de la Ciudad desarrollar sus capacidades y el fomento de una cultura de paz en democracia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2024)</small>
+
 ###### Artículo 7.
 
-La seguridad ciudadana es responsabilidad exclusiva del Gobierno de la Ciudad en colaboración con las alcaldías y sus habitantes para la prevención, investigación y persecución de los delitos; las sanciones administrativas en materia de cultura cívica; reinserción y reintegración social y familiar; el acceso a una vida libre de violencia y la protección de las personas frente a riesgos y amenazas que atenten contra sus derechos y libertades en términos de la Constitución Federal, la Constitución de la Ciudad, de la Ley General y de la presente Ley.
+La seguridad ciudadana es responsabilidad del Gobierno de la Ciudad en colaboración con las alcaldías y sus habitantes para la prevención, investigación y persecución de los delitos; las sanciones administrativas en materia de cultura cívica; reinserción y reintegración social y familiar; el acceso a una vida libre de violencia y la protección de las personas frente a riesgos y amenazas que atenten contra sus derechos y libertades en términos de la Constitución Federal, la Constitución de la Ciudad, de la Ley General y de la presente Ley.
 
 En la planeación, ejecución, control, vigilancia y disciplina de la seguridad y en la procuración e impartición de justicia en la Ciudad, regirán los derechos y principios contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano es parte y su jurisprudencia, la Constitución de la Ciudad y las leyes de la materia.
 
@@ -2559,3 +2561,13 @@ G.O. 15 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Remítase a la Jefatura de Gobierno para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA LA PORCIÓN NORMATIVA “EXCLUSIVA” DEL PRIMER PÁRRAFO DEL ARTÍCULO 7 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
