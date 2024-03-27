@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2022-06-15"
+last_updated: "2024-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-23"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -176,6 +176,10 @@ XVIII. Estigma: Una condición, atributo, rasgo o comportamiento que hace que la
 
 XIX. Expresión de género: Manifestación externa de los rasgos culturales que permiten identificar a una persona conforme a los patrones considerados propios de cada género por una determinada sociedad en un momento histórico determinado;
 
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+XIX bis. Fascismo y neofascismo: Es una ideología, un movimiento político y una forma de gobierno de carácter totalitario, antidemocrático y ultranacionalista. Se caracteriza por apoyar el supremacismo blanco, el racismo, la discriminación a las personas judías, musulmanas, migrantes y de las poblaciones LGBTTTI;
+
 > <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
 XX. Género: Categoría sociocultural referida a construcciones sociales respecto a lo que es masculino y femenino en un momento, época y contexto específico;
@@ -236,6 +240,10 @@ XXXIII. Medidas positivas: Aquellas de carácter temporal o permanente que se im
 
 XXXIV. Misoginia: Odio o aversión hacia las mujeres que puede manifestarse en conductas, acciones, comentarios, burlas, chistes, prácticas de subordinación, sometimiento, rechazo, prejuicio y/o violencia;
 
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+XXXIV bis. Nazismo y neonazismo: Ideología que incorpora un ferviente antisemitismo, racismo y la eugenesia. Es una forma de fascismo que busca emplear su ideología para promover el hostigamiento, la opresión, el odio, la discriminación y la violencia contra las minorías;
+
 > <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
 XXXV. Perspectiva de Género: La metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las personas, que se pretende justificar con base en las diferencias biológicas y culturales entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
@@ -251,6 +259,10 @@ XXXVII. Política pública: Selección y definición de problemas públicos, a p
 > <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
 XXXVIII. Prejuicio: Percepciones generalmente negativas o predisposición a adoptar algún tipo de comportamiento hacia una persona en particular o un grupo poblacional, basadas en la ignorancia y generalizaciones erróneas acerca de tales personas o grupos, que se plasman en estereotipos;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+
+XXXVIII bis. Racismo: Es una forma de opresión que se basa en la idea de raza y etnicidad como construcciones históricas que asignan valor al fenotipo, a la apariencia física, al tono de la piel, al lugar de origen, la pertenencia étnica u otros atributos relacionados con el fenotipo o la cultura de una persona o un grupo de personas. El racismo deriva en discriminación cuando con base en prejuicios, estereotipos y estigmas racistas se ponen en marcha acciones u omisiones que niegan o limitan los derechos, oportunidades y trato igualitario de personas o grupos;
 
 > <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -278,7 +290,9 @@ XLIII. Fenómeno discriminatorio: es la concurrencia permanente o temporal de ac
 
 Se prohíbe toda forma de discriminación formal o de facto, entendiendo por ésta a aquella conducta injustificada que tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, grupos y/o comunidades, motivada por su origen étnico, nacional, lengua, género, identidad de género, expresión de rol de género, preferencia sexual u orientación sexual, características sexuales, edad, discapacidades, condición jurídica, social o económica, apariencia física, tono de piel, condición de salud mental o física, incluyendo infectocontagiosa, psíquica o cualquier otra, características genéticas, embarazo, religión, condición migratoria, de refugio, repatriación, apátrida o desplazamiento interno, solicitantes de asilo, otras personas sujetas de protección internacional y en otro contexto de movilidad humana; opiniones, identidad o afiliación política, estado civil, trabajo ejercido, por tener tatuajes, perforaciones corporales u otra alteración física, por consumir sustancias psicoactivas o cualquier otra que atente contra la dignidad humana, libre desarrollo de la personalidad o tenga por objeto anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de uno o más derechos.
 
-También será considerada como discriminación la bifobia, homofobia, lesbofobia, transfobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, islamofobia y aporofobia.
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+
+También será considerada como discriminación la bifobia, homofobia, lesbofobia, transfobia, misoginia, cualquier manifestación de xenofobia, racismo, antisemitismo, nazismo, neonazismo, islamofobia y aporofobia.
 
 Asimismo, la negación de ajustes razonables proporcionales y objetivos, se considerará discriminación.
 
@@ -336,9 +350,9 @@ XIII. Utilizar o permitir usos o costumbres que atenten contra el derecho a la n
 
 XIV. Obstaculizar, restringir o impedir la libre elección de cónyuge, conviviente, concubina o concubinario;
 
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
-XV. Publicar, circular o diseminar, por cualquier forma o medio de comunicación, cualquier mensaje que promueva o incite el odio, la violencia, la discriminación, o que apruebe, defienda o justifique actos que constituyan o hayan constituido genocidio o crímenes de lesa humanidad, o promueva o incite a la realización de tales actos;
+XV. Publicar, circular, difundir o diseminar, por cualquier forma o medio de comunicación, cualquier mensaje que promueva o incite el odio, la violencia, la discriminación, el nazismo, neonazismo, fascismo y neofascismo o que apruebe, defienda o justifique actos que constituyan o hayan constituido genocidio o crímenes de lesa humanidad, o promueva o incite a la realización de tales actos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE OCTUBRE DE 2020)</small>
 
@@ -2501,3 +2515,11 @@ G.O. 15 DE JUNIO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIX BIS, XXXIV BIS Y EL XXXVIII BIS, AL ARTÍCULO 4, SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5, Y LA FRACCIÓN XV DEL ARTÍCULO 6, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
