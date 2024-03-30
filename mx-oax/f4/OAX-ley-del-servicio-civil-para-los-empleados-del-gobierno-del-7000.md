@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2023-12-16"
+last_updated: "2024-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -213,17 +213,23 @@ ARTICULO 21 TER.- Se otorgará a las y los empleados un permiso con goce de suel
 
 Para efectos de la (sic) anterior, el empleado deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2024)</small>
+
+ARTICULO 21 QUÁTER.- A las mujeres trabajadoras y personas menstruantes que presentan dismenorrea en grado incapacitante, avalado con constancia o certificado médico de institución pública de salud, se le otorgarán dos días de permiso durante su periodo menstrual.
+
+Este permiso no afectará salario, antigüedad, pago de primas, vacaciones, incentivos u otro derecho laboral adquirido.
+
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-ARTICULO 21 QUÁTER.- Se otorgará permiso de un día al año con goce de sueldo a las y los trabajadores, para realizarse estudios de mastografía, ginecología, próstata, o algún otro, con el fin de prevenir todo tipo de cáncer. Para lo cual deberán presentar comprobante médico que acredite la realización de los mismos.
+ARTICULO 21 QUINQUIES.- Se otorgará permiso de un día al año con goce de sueldo a las y los trabajadores, para realizarse estudios de mastografía, ginecología, próstata, o algún otro, con el fin de prevenir todo tipo de cáncer. Para lo cual deberán presentar comprobante médico que acredite la realización de los mismos.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-ARTICULO 21 QUINQUIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, que acudan voluntariamente y de forma altruista a donar sangre. Para tal efecto, deberán presentar constancia expedida por la institución de salud, hospital, clínica o banco de sangre, a la cual se haya acudido a realizar la donación.
+ARTICULO 21 SEXIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, que acudan voluntariamente y de forma altruista a donar sangre. Para tal efecto, deberán presentar constancia expedida por la institución de salud, hospital, clínica o banco de sangre, a la cual se haya acudido a realizar la donación.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
 
-ARTICULO 21 SEXIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, para que acudan a realizarse estudios médicos generales y de especialidad, con el fin de prevenir y evitar enfermedades crónico degenerativas. Para lo cual deberán presentar comprobante médico que acredite la realización de los mismos.
+ARTICULO 21 SEPTIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, para que acudan a realizarse estudios médicos generales y de especialidad, con el fin de prevenir y evitar enfermedades crónico degenerativas. Para lo cual deberán presentar comprobante médico que acredite la realización de los mismos.
 
 ###### ARTICULO 22.
 
@@ -1188,3 +1194,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones legales de menor jerarquía que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1933.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 QUÁTER A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
