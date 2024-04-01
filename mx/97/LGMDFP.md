@@ -4,7 +4,7 @@ identifier: "LGMDFP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-11-17"
-last_updated: "2022-05-13"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGMDFP"
 
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2017.
 
@@ -168,7 +168,9 @@ Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados, 
 
 I. Efectividad y exhaustividad: todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada se harán de manera inmediata, oportuna, transparente, con base en información útil y científica, encaminadas a la localización y, en su caso, identificación, atendiendo a todas las posibles líneas de investigación. Bajo ninguna circunstancia se podrán invocar condiciones particulares de la Persona Desaparecida o No Localizada, o la actividad que realizaba previa o al momento de la desaparición para no ser buscada de manera inmediata;
 
-II. Debida diligencia: todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en esta Ley, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Debida diligencia: todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, memoria, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en esta Ley, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
 III. Enfoque diferencial y especializado: al aplicar esta Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, preferencia u orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras y que requieran de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las Víctimas. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos materia de esta Ley;
 
@@ -1794,9 +1796,11 @@ La Fiscalía General de la República, al ejercer la facultad a la que se refier
 
 La Comisión Ejecutiva y las Comisiones de Víctimas deben proporcionar, en el ámbito de sus atribuciones, medidas de ayuda, asistencia y atención, por sí mismas o en coordinación con otras instituciones competentes, en los términos del presente Título y de la Ley General de Víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 137.
 
-Las Víctimas directas de los delitos de desaparición forzada de personas y desaparición cometida por particulares tendrán, además de los derechos a la verdad, el acceso a la justicia, la reparación del daño y las garantías de no repetición y aquellos contenidos en otros ordenamientos legales, los siguientes:
+Las Víctimas directas de los delitos de desaparición forzada de personas y desaparición cometida por particulares tendrán, además de los derechos a la verdad, memoria, el acceso a la justicia, la reparación del daño y las garantías de no repetición y aquellos contenidos en otros ordenamientos legales, los siguientes:
 
 I. A la protección de sus derechos, personalidad e intereses jurídicos;
 
@@ -2323,3 +2327,9 @@ Cuarto.- El Sistema Nacional y la Conferencia Nacional de Procuración de Justic
 Quinto.- Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
 
 Sexto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal y cualquier otro ente público en el ámbito de sus competencias, para dar cumplimiento a lo dispuesto en el presente Decreto, deberán cubrirse con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementarán sus respectivos presupuestos regularizables.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 Y 137 DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
