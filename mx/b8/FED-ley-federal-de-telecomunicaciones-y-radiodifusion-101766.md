@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2021-05-20"
+last_updated: "2024-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-07-14"
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -1213,7 +1213,9 @@ IV. Para uso social: Confiere el derecho de prestar servicios de telecomunicacio
 
 Las concesiones para uso social comunitaria, se podrán otorgar a organizaciones de la sociedad civil que no persigan ni operen con fines de lucro y que estén constituidas bajo los principios de participación ciudadana directa, convivencia social, equidad, igualdad de género y pluralidad.
 
-Las concesiones para uso social indígena, se podrán otorgar a los pueblos y comunidades indígenas del país de conformidad con los lineamientos que emita el Instituto y tendrán como fin la promoción, desarrollo y preservación de sus lenguas, su cultura, sus conocimientos promoviendo sus tradiciones, normas internas y bajo principios que respeten la igualdad de género, permitan la integración de mujeres indígenas en la participación de los objetivos para los que se solicita la concesión y demás elementos que constituyen las culturas e identidades indígenas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Las concesiones para uso social de las personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, se podrán otorgar a los pueblos y comunidades indígenas y afromexicanas del país de conformidad con los lineamientos que emita el Instituto y tendrán como fin la promoción, desarrollo y preservación de sus lenguas, conocimientos o elementos de su cultura e identidad, promoviendo sus tradiciones, normas internas y bajo principios que respeten la igualdad de género, permitan la integración de mujeres indígenas y afromexicanas en la participación de los objetivos para los que se solicita la concesión y demás elementos que constituyen las culturas e identidades indígenas y afromexicanas.
 
 ###### Artículo 68.
 
@@ -1427,7 +1429,9 @@ VII. La documentación que acredite su capacidad técnica, económica, jurídica
 
 Tratándose de solicitudes de concesión de uso social comunitarias, se deberá acreditar ante el Instituto que el solicitante se encuentra constituido en una asociación civil sin fines de lucro.
 
-El Instituto determinará mediante lineamientos de carácter general los términos en que deberán acreditarse los requisitos previstos en este artículo y, en el caso de concesiones comunitarias e indígenas, estará obligado a prestar asistencia técnica para facilitarles el cumplimiento de dichos requisitos, los cuales serán acordes a las formas de organización social y los derechos de los pueblos y comunidades indígenas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+El Instituto determinará mediante lineamientos de carácter general los términos en que deberán acreditarse los requisitos previstos en este artículo y, en el caso de concesiones comunitarias e indígenas, estará obligado a prestar asistencia técnica para facilitarles el cumplimiento de dichos requisitos, los cuales serán acordes a las formas de organización social y los derechos de los pueblos y comunidades indígenas y afromexicanas.
 
 Una vez cumplidos los requisitos señalados, el Instituto resolverá lo conducente dentro de los ciento veinte días hábiles siguientes a la presentación de la solicitud.
 
@@ -1447,15 +1451,25 @@ El Instituto verificará que los mecanismos expuestos en la solicitud sean sufic
 
 Los interesados en obtener una concesión sobre el espectro radioeléctrico para uso social para prestar el servicio de radiodifusión, deberán presentar los requisitos establecidos en el artículo 85 de esta Ley, dentro del plazo establecido en el programa anual de uso y aprovechamiento de bandas de frecuencias.
 
-Las concesiones de uso social incluyen las comunitarias y las indígenas, las que se sujetarán, de acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de la Constitución.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-El Instituto establecerá mecanismos de colaboración con la Comisión Nacional para el Desarrollo de los Pueblos Indígenas u otras organizaciones para:
+Las concesiones de uso social incluyen las comunitarias y las indígenas y afromexicanas, las que se sujetarán, de acuerdo con sus fines, a los principios establecidos en los artículos 2o., 3o., 6o. y 7o. de la Constitución.
 
-I. Promover el otorgamiento de concesiones indígenas;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-II. Facilitar el otorgamiento de concesiones a pueblos indígenas en donde tengan presencia y para que trasmitan en sus lenguas originarias, en especial, en aquellos lugares donde no existan concesiones, y
+El Instituto establecerá mecanismos de colaboración con el Instituto Nacional de los Pueblos Indígenas u otras organizaciones para:
 
-III. Promover que las concesiones de uso social indígenas, coadyuven a preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Promover el otorgamiento de concesiones indígenas y afromexicanas;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Facilitar el otorgamiento de concesiones a pueblos y comunidades indígenas y afromexicanas en donde tengan presencia y para que trasmitan en sus lenguas originarias, en especial, en aquellos lugares donde no existan concesiones, y
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. Promover que las concesiones de uso social indígenas y afromexicanas, coadyuven a preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
 
 ###### Artículo 88.
 
@@ -1519,9 +1533,13 @@ En el otorgamiento de las concesiones el Instituto favorecerá la diversidad y e
 
 Cumplidos los requisitos establecidos en la Ley y aquellos establecidos por el Instituto, se otorgará al solicitante la concesión de espectro radioeléctrico de uso social destinado para comunidades y pueblos indígenas, conforme a la disponibilidad del programa anual correspondiente.
 
-El Instituto deberá reservar para estaciones de radio FM comunitarias e indígenas el diez por ciento de la banda de radiodifusión sonora de FM, que va de los 88 a los 108 MHz. Dicho porcentaje se concesionará en la parte alta de la referida banda.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-El Instituto podrá otorgar concesiones para estaciones de radio AM, comunitarias e indígenas, en el segmento de la banda del espectro radioeléctrico ampliada que va de los 1605 a los 1705 KHz. Lo anterior, sin perjuicio de que el Instituto pueda otorgar concesiones de uso público, comercial o social, que no sean comunitarias o indígenas, en el resto del segmento de AM.
+El Instituto deberá reservar para estaciones de radio FM comunitarias, indígenas y afromexicanas el diez por ciento de la banda de radiodifusión sonora de FM, que va de los 88 a los 108 MHz. Dicho porcentaje se concesionará en la parte alta de la referida banda.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+El Instituto podrá otorgar concesiones para estaciones de radio AM, comunitarias, indígenas y afromexicanas, en el segmento de la banda del espectro radioeléctrico ampliada que va de los 1605 a los 1705 KHz. Lo anterior, sin perjuicio de que el Instituto pueda otorgar concesiones de uso público, comercial o social, que no sean comunitarias o indígenas, en el resto del segmento de AM.
 
 El Instituto deberá emitir, y en su caso, actualizar los parámetros técnicos bajo los cuales deberán operar los concesionarios a que se refiere este artículo y llevar a cabo las acciones necesarias para el cumplimiento de lo previsto.
 
@@ -3275,7 +3293,9 @@ Para efectos del cálculo correspondiente, no se considerará la publicidad cont
 
 b) Los canales dedicados exclusivamente a programación de oferta de productos, estarán exceptuados del límite señalado en el inciso anterior, y
 
-III. Para los concesionarios de uso social indígenas y comunitarias de radiodifusión:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. Para los concesionarios de uso social indígenas, afromexicanas y comunitarias de radiodifusión:
 
 a) En estaciones de televisión, el tiempo destinado a venta de publicidad para los entes públicos federales y, en su caso, los de las Entidades Federativas y Municipios, no excederá del seis por ciento del tiempo total de transmisión por cada canal de programación, y
 
@@ -4840,3 +4860,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
