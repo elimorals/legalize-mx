@@ -4,7 +4,7 @@ identifier: "LOBNCE"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2014-01-10"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOBNCE"
 
 LEY ORGÁNICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
@@ -88,9 +88,9 @@ VII. Cuando sea de interés promover las exportaciones mexicanas, podrá otorgar
 
 VIII. Propiciar acciones conjuntas de financiamiento y asistencia en materia de comercio exterior con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado;
 
-> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VIII Bis. Propiciar acciones conjuntas de financiamiento y asistencia para las personas, empresas y organizaciones productivas y de comercialización, en pueblos y comunidades indígenas, en materia de comercio exterior con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado;
+VIII Bis. Propiciar acciones conjuntas de financiamiento y asistencia para las personas, empresas y organizaciones productivas y de comercialización, en pueblos y comunidades indígenas y afromexicanas, en materia de comercio exterior con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado;
 
 IX. Podrá ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, ya sea que éstos sean otorgados por instituciones del extranjero, privadas, gubernamentales e intergubernamentales;
 
@@ -591,3 +591,9 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
