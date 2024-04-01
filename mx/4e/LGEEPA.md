@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2024-01-24"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -602,7 +602,9 @@ XI. En el ejercicio de las atribuciones que las leyes confieren al Estado, para 
 
 XII. Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades en los términos de esta y otras leyes, tomarán las medidas para garantizar ese derecho;
 
-XIII. Garantizar el derecho de las comunidades, incluyendo a los pueblos indígenas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XIII. Garantizar el derecho de las comunidades, incluyendo a los pueblos y comunidades indígenas y afromexicanas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables;
 
 XIV. La erradicación de la pobreza es necesaria para el desarrollo sustentable;
 
@@ -1332,9 +1334,9 @@ V. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradic
 
 VI. Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área; y
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos indígenas.
+VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos y comunidades indígenas y afromexicanas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1400,11 +1402,13 @@ En las áreas naturales protegidas queda prohibida la introducción de especies 
 
 En las áreas naturales protegidas no se pueden realizar obras y trabajos de exploración, explotación y beneficio de los minerales o sustancias, a que se refiere la Ley de Minería.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 47.
 
-En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, gobiernos locales, pueblos indígenas, y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, gobiernos locales, pueblos y comunidades indígenas y afromexicanas, y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Para tal efecto, la Secretaría podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
 
@@ -1654,17 +1658,17 @@ I. Los gobiernos locales en cuyas circunscripciones territoriales se localice el
 
 II. Las dependencias de la Administración Pública Federal que deban intervenir, de conformidad con sus atribuciones;
 
-III. Las organizaciones sociales públicas o privadas, pueblos indígenas, y demás personas físicas o morales interesadas, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. Las organizaciones sociales públicas o privadas, pueblos y comunidades indígenas y afromexicanas, y demás personas físicas o morales interesadas, y
 
 IV. Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de áreas naturales protegidas.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 59.
 
-Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE MAYO DE 2008)</small>
+Los pueblos y comunidades indígenas y afromexicanas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Federal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en esta Ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1738,13 +1742,11 @@ III. Establecerán los incentivos económicos y los estímulos fiscales para las
 
 IV. Promoverán ante la Secretaría de Hacienda y Crédito Público, que en las participaciones Federales a Estados o Municipios se considere como criterio, la superficie total que cada uno de éstos destine a la preservación de los ecosistemas y su biodiversidad, en términos de lo dispuesto en el artículo 46 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-ARTICULO 64 BIS 1.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas y demás personas interesadas, concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
+ARTICULO 64 BIS 1.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas y demás personas interesadas, concesiones, permisos o autorizaciones para realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-Los núcleos agrarios, pueblos indígenas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas, tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
+Los núcleos agrarios, pueblos y comunidades indígenas y afromexicanas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas, tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -1778,11 +1780,11 @@ VII. Las reglas de carácter administrativo a que se sujetarán las actividades 
 
 La Secretaría deberá publicar en el Diario Oficial de la Federación, un resumen del programa de manejo respectivo y el plano de localización del área.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 67.
 
-La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos indígenas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1858,9 +1860,11 @@ Las Dependencias de la Administración Pública Federal, los gobiernos de las en
 
 #### SECCION V. Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación
 
-> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-ARTICULO 77 BIS.- Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+ARTICULO 77 BIS.- Los pueblos y comunidades indígenas y afromexicanas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2008)</small>
 
 I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
 
@@ -1884,6 +1888,8 @@ Para la elaboración de la estrategia de manejo a que se refiere el inciso g) de
 
 En las áreas privadas y sociales destinadas voluntariamente a la conservación de competencia de la Federación, podrán establecerse todas las subzonas previstas en el artículo 47 BIS de la presente Ley, así como cualesquiera otras decididas libremente por los propietarios;
 
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2008)</small>
+
 II.- El certificado que expida la Secretaría deberá contener:
 
 a) Nombre del propietario;
@@ -1898,6 +1904,8 @@ e) Deberes del propietario, y
 
 f) Vigencia mínima de quince años;
 
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2008)</small>
+
 III.- La Secretaría podrá establecer diferentes niveles de certificación en función de las características físicas y biológicas generales y el estado de conservación de los predios, así como el plazo por el que se emite el certificado y su estrategia de manejo, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, dichos niveles serán considerados por las dependencias competentes, en la certificación de productos o servicios;
 
 > <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
@@ -1906,7 +1914,11 @@ IV.- Las áreas destinadas voluntariamente a la conservación se administrarán 
 
 Asimismo, cuando el Ejecutivo Federal, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Secretaría;
 
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2008)</small>
+
 V.- Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría conforme al procedimiento previsto en el Reglamento. Lo previsto en esta fracción no aplica para el aprovechamiento de recursos forestales cuyos productos se certificarán con base en la Ley General de Desarrollo Forestal Sustentable, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2008)</small>
 
 VI.- El Reglamento establecerá los procedimientos relativos a la modificación de superficies o estrategias de manejo, así como la transmisión, extinción o prórroga de los certificados expedidos por la Secretaría.
 
@@ -1920,7 +1932,9 @@ VI.- El Reglamento establecerá los procedimientos relativos a la modificación 
 
 En aquellas áreas que presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos, la Secretaría deberá formular y ejecutar programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban.
 
-En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales, y demás personas interesadas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales, y demás personas interesadas.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1936,7 +1950,9 @@ II. Las acciones necesarias para regenerar, recuperar o restablecer las condicio
 
 III. Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
 
-IV. Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales y demás personas interesadas, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales y demás personas interesadas, y
 
 V. Los plazos para la ejecución del programa de restauración ecológica respectivo.
 
@@ -1978,7 +1994,9 @@ VIII. El fomento del trato digno y respetuoso a las especies animales, con el pr
 
 IX. El desarrollo de actividades productivas alternativas para las comunidades rurales, y
 
-X. El conocimiento biológico tradicional y la participación de las comunidades, así como los pueblos indígenas en la elaboración de programas de biodiversidad de las áreas en que habiten.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+X. El conocimiento biológico tradicional y la participación de las comunidades, así como los pueblos y comunidades indígenas y afromexicanas en la elaboración de programas de biodiversidad de las áreas en que habiten.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3150,13 +3168,13 @@ El Gobierno Federal deberá promover la participación corresponsable de la soci
 
 Para los efectos del artículo anterior, la Secretaría:
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-I. Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos indígenas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
+I. Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-II. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos indígenas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
+II. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos y comunidades indígenas y afromexicanas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3168,9 +3186,9 @@ IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destac
 
 V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
 
-> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VI. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+VI. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos y comunidades indígenas y afromexicanas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4223,3 +4241,9 @@ Primero.- El presente Decreto entrará en vigor el día natural siguiente al de 
 Segundo.- En un plazo máximo de 180 días naturales posteriores a la entrada en vigor del presente Decreto, y para su cabal cumplimiento, los Congresos de las entidades federativas deberán hacer los ajustes que estimen necesarios en su legislación local.
 
 Tercero.- El establecimiento de Clínicas Veterinarias Públicas estará sujeto a la disponibilidad presupuestaria de las entidades federativas y los municipios en cada ejercicio fiscal.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
