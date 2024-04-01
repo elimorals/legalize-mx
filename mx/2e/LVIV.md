@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2019-05-14"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -160,9 +160,9 @@ IX. Promover medidas que proporcionen a la población información suficiente pa
 
 X. Establecer esquemas y mecanismos institucionales de coordinación intergubernamental e interestatal en las zonas urbanas para hacer viable la convivencia en esos espacios que exhiben la diversidad social, política y cultural de la nación;
 
-> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XI. Proveer esquemas que permitan la participación de las comunidades de las diversas regiones del país, principalmente las situadas en zonas en alta y muy alta marginación, de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social, con la finalidad del mejoramiento continúo de sus viviendas e infraestructura pública, y
+XI. Proveer esquemas que permitan la participación de las comunidades de diversas regiones del país, incluidos los pueblos y comunidades indígenas y afromexicanas, principalmente situadas en zonas en alta y muy alta marginación, de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social, con la finalidad del mejoramiento continuo de sus viviendas e infraestructura pública, y
 
 > <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
 
@@ -220,7 +220,9 @@ XI. La identificación de las necesidades de suelo y la estimación de los recur
 
 XII. Los instrumentos y apoyos a la producción social de vivienda, a la vivienda de construcción progresiva y a la vivienda rural;
 
-XIII. Las estrategias y líneas de acción para facilitar el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda para los pueblos y comunidades rurales e indígenas;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XIII. Las estrategias y líneas de acción para facilitar el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda para los pueblos y comunidades rurales, indígenas y afromexicanas;
 
 XIV. La tipología y modalidades de producción habitacional que oriente las acciones en la materia;
 
@@ -484,7 +486,9 @@ VI. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
 VII. Desarrollar, ejecutar y promover esquemas, mecanismos y programas de financiamiento, subsidio y ahorro previo para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población en situación de pobreza, coordinando su ejecución con las instancias correspondientes;
 
-VIII. Promover y fomentar las acciones que faciliten el acceso a los recursos y al financiamiento público y privado para la construcción y mejoramiento de vivienda de los pueblos y comunidades rurales e indígenas, así como coordinar, concertar y ejecutar los programas que permitan mejorar sus espacios de convivencia;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VIII. Promover y fomentar las acciones que faciliten el acceso a los recursos y al financiamiento público y privado para la construcción y mejoramiento de vivienda de las comunidades rurales y de los pueblos y comunidades indígenas y afromexicanas, así como coordinar, concertar y ejecutar los programas que permitan mejorar sus espacios de convivencia;
 
 IX. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
@@ -814,7 +818,9 @@ II. Aplicar recursos para la ejecución de las acciones previstas en los program
 
 III. Fomentar una oferta competitiva de suelo;
 
-IV. Fomentar y apoyar los procesos de producción social de vivienda, de vivienda rural e indígena;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. Fomentar y apoyar los procesos de producción social de vivienda, de vivienda rural, de vivienda de los pueblos y comunidades indígenas y afromexicanas;
 
 V. Organizar y promover la producción y distribución de materiales de construcción que satisfagan las normas oficiales mexicanas;
 
@@ -960,11 +966,13 @@ El Gobierno Federal, por conducto de sus dependencias y entidades competentes, e
 
 Los programas, fondos y recursos federales destinados a satisfacer las necesidades de vivienda de la población en situación de pobreza, se sujetarán a lo dispuesto en esta Ley, en la Ley General de Desarrollo Social y en las reglas de operación correspondientes.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 52.
 
-El Ejecutivo Federal, por conducto de sus dependencias y entidades competentes, se coordinará con las entidades federativas donde se ubiquen pueblos y comunidades indígenas, para orientar las acciones y los montos de inversión pública federal destinados a programas de vivienda, en los términos que establece la fracción IV del apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+El Ejecutivo Federal, por conducto de sus dependencias y entidades competentes, se coordinará con las entidades federativas donde se ubiquen pueblos y comunidades indígenas y afromexicanas, para orientar las acciones y los montos de inversión pública federal destinados a programas de vivienda, en los términos que establece la fracción IV del apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-En todos los casos, deberá considerarse la participación de los propios pueblos y comunidades indígenas, y en su caso, de los municipios, así como la concertación de acciones con los sectores privado y social.
+En todos los casos, deberá considerarse la participación de los propios pueblos y comunidades indígenas y afromexicanas, y en su caso, de los municipios, así como la concertación de acciones con los sectores privado y social.
 
 ###### ARTÍCULO 53.
 
@@ -1216,9 +1224,11 @@ I. Autoproductores y autoconstructores, individuales o colectivos, para sus dist
 
 II. Otros productores y agentes técnicos especializados que operen sin fines de lucro tales como los organismos no gubernamentales, asociaciones gremiales e instituciones de asistencia privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 87.
 
-Las políticas y programas dirigidos al estímulo y apoyo de la producción social de vivienda y a la vivienda de las comunidades rurales e indígenas deberán:
+Las políticas y programas dirigidos al estímulo y apoyo de la producción social de vivienda y a la vivienda de las comunidades rurales y de los pueblos y comunidades indígenas y afromexicanas deberán:
 
 I. Contemplar todo el proceso de producción habitacional, incluyendo los distintos tipos, modalidades y necesidades de vivienda;
 
@@ -1232,7 +1242,9 @@ V. Focalizar preferentemente a la mujer sostén de la familia, las acciones de f
 
 VI. Atender las distintas formas legales de propiedad y posesión de la tierra, así como de tenencia individual o colectiva, en propiedad privada o no, adecuando los diversos instrumentos y productos financieros al efecto.
 
-Tratándose de las comunidades rurales e indígenas deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Tratándose de las comunidades rurales, pueblos y comunidades indígenas y afromexicanas deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda, sin menoscabo de gozar los beneficios de la tecnología y el adelanto científico.
 
 ###### ARTÍCULO 88.
 
@@ -1363,3 +1375,9 @@ Segundo.- El Fideicomiso Fondo Nacional de Habitaciones Populares continuará cu
 Tercero.- En el primer año natural, posterior a la publicación del presente Decreto en el Diario Oficial de la Federación, la Comisión transferirá a la Secretaría el Sistema de Información referido en el artículo 4 de la Ley de Vivienda.
 
 Cuarto.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para el presente ejercicio fiscal a la Secretaría de Desarrollo Agrario, Territorial y Urbano, y para los ejercicios subsecuentes, se cubrirán con cargo al presupuesto que en su caso apruebe la Cámara de Diputados, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable del Ramo 15 Desarrollo Agrario, Territorial y Urbano, y en caso de que se realice alguna modificación a la estructura orgánica del citado Ramo, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el mismo Ramo a costo compensado, por lo que no se autorizarán ampliaciones al presupuesto de la Secretaría de Desarrollo Agrario, Territorial y Urbano, ni de la Comisión Nacional de Vivienda para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
