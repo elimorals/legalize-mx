@@ -4,7 +4,7 @@ identifier: "LASOC"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-02"
-last_updated: "2023-01-06"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LASOC"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -630,9 +630,11 @@ Los trabajadores del Organismo estarán incorporados al régimen de la Ley del I
 
 ### Capítulo VII. De la Coordinación, Concertación y Participación Ciudadana
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 44.
 
-Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, en los términos del Sistema Nacional de Planeación, de la Ley General de Salud, y de este Ordenamiento, El Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado; y en su caso, con las autoridades de las diferentes comunidades indígenas de las entidades federativas.
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, en los términos del Sistema Nacional de Planeación, de la Ley General de Salud, y de este Ordenamiento, El Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado; y en su caso, con las autoridades de los diferentes pueblos y comunidades indígenas y afromexicanas de las entidades federativas.
 
 ###### Artículo 45.
 
@@ -897,5 +899,11 @@ Tercero. Todas las obligaciones que se generen con la entrada en vigor del prese
 D.O.F. 6 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 Y 28 DE LA LEY DE ASISTENCIA SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
