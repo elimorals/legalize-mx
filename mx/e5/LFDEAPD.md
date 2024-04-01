@@ -4,7 +4,7 @@ identifier: "LFDEAPD"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2018-06-22"
-last_updated: "2021-05-20"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129255&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDEAPD"
 
 LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina al Número 23 del Diario Oficial de la Federación, el viernes 22 de junio de 2018.
 
@@ -94,7 +94,9 @@ Las acciones, medidas y procedimientos establecidos en esta Ley se rigen por los
 
 I. Celeridad. El procedimiento de la Declaración Especial de Ausencia deberá atender los plazos señalados por esta Ley y evitar cualquier tipo de retrasos indebidos o injustificados. El procedimiento de la Declaración Especial de Ausencia no podrá exceder los seis meses sin que exista una resolución de Declaración Especial de Ausencia por parte del Órgano Jurisdiccional.
 
-II. Enfoque Diferencial y Especializado. Las autoridades que apliquen esta Ley, están obligadas, en el respectivo ámbito de sus competencias, a brindar una atención especializada, garantías especiales y medidas de protección a los grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, discapacidad y otros; en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las Víctimas. Entre los grupos antes señalados, están considerados como expuestos a un mayor riesgo de violación de sus derechos, a las niñas, niños, adolescentes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, miembros de pueblos y comunidades indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento forzado interno.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Enfoque Diferencial y Especializado. Las autoridades que apliquen esta Ley, están obligadas, en el respectivo ámbito de sus competencias, a brindar una atención especializada, garantías especiales y medidas de protección a los grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, discapacidad y otros; en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las Víctimas. Entre los grupos antes señalados, están considerados como expuestos a un mayor riesgo de violación de sus derechos, a las niñas, niños, adolescentes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento forzado interno.
 
 III. Gratuidad. Todas las acciones, procedimientos y cualquier otro trámite que esté relacionado con la Declaración Especial de Ausencia serán gratuitos para los Familiares y demás personas previstas en esta Ley.
 
@@ -178,9 +180,11 @@ X. Cualquier otra información que el solicitante estime relevante para determin
 
 Tratándose de la fracción VIII, el Órgano Jurisdiccional no podrá interpretar que los efectos de la Declaración Especial de Ausencia que se emitan serán exclusivamente en el sentido en que fue solicitado.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 11.
 
-Cuando la persona que solicite la Declaración Especial de Ausencia pertenezca a una comunidad o pueblo indígena o sea extranjera y no hable el idioma español, se proporcionará, de oficio, una persona traductora o intérprete para todo acto en el que tenga que intervenir.
+Cuando la persona que solicite la Declaración Especial de Ausencia pertenezca a pueblos y comunidades indígenas y afromexicanas, o sea extranjera y no hable el idioma español, se proporcionará, de oficio, una persona traductora o intérprete para todo acto en el que tenga que intervenir.
 
 ###### Artículo 12.
 
@@ -429,3 +433,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
