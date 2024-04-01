@@ -4,7 +4,7 @@ identifier: "LOBNOSP"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2014-01-10"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOBNOSP"
 
 LEY ORGÁNICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
@@ -84,9 +84,9 @@ II. Promover y financiar la dotación de infraestructura, servicios públicos, e
 
 III. Financiar y proporcionar asistencia técnica a los municipios para la formulación, administración y ejecución de sus planes de desarrollo urbano y para la creación y administración de reservas territoriales y ecológicas, así como estructurar y coordinar proyectos de inversión;
 
-> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-III Bis. Promover programas de financiamiento para ampliar la cobertura de los servicios públicos y generar la infraestructura productiva necesaria para impulsar el desarrollo regional de las zonas indígenas;
+III Bis. Promover programas de financiamiento para ampliar la cobertura de los servicios públicos y generar la infraestructura productiva necesaria para impulsar el desarrollo regional de las zonas indígenas y afromexicanas;
 
 > <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
@@ -733,3 +733,9 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
