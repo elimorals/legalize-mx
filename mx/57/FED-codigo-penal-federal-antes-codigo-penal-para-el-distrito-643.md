@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2024-03-27"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -871,9 +871,9 @@ III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
 IV.- La forma y grado de intervención del agente en la comisión del delito;
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-V. La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena, se tomarán en cuenta, además, sus usos y costumbres;
+V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como de los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena o afromexicana, se tomarán en cuenta, además, sus usos y costumbres.
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2723,7 +2723,9 @@ El Ministerio Público Federal no procederá penalmente por este delito en contr
 
 I. Medicamentos que contengan narcóticos, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
 
-II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas, así reconocidos por sus autoridades propias.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas y afromexicanas, así reconocidos por sus autoridades propias.
 
 Para efectos de este capítulo se entiende por posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona.
 
@@ -8558,5 +8560,11 @@ Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del pr
 D.O.F. 27 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 57 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; Y LA FRACCIÓN III DEL ARTÍCULO 266 BIS DEL CÓDIGO PENAL FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
