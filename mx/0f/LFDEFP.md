@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "2022-05-18"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFDEFP"
 
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -300,9 +300,9 @@ III. Los trabajadores eventuales o subempleados;
 
 IV. Los que reciban, bajo cualquier concepto, ingresos mensuales inferiores a los previstos en las bases generales de organización y funcionamiento;
 
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-V. Los indígenas;
+V. Las personas pertenecientes a pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -354,11 +354,13 @@ II. La contratación se efectuará para apoyar las funciones de los defensores p
 
 III. Los abogados correspondientes, en solidaridad con las finalidades sociales del Instituto Federal de Defensoría Pública, podrán hacer donación a éste, de los honorarios que les corresponda percibir por su actuación profesional. Dichas donaciones serán deducibles de impuestos en los términos que establezcan las disposiciones fiscales.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 20 Bis.
 
-A fin de garantizar el derecho a la defensa en materia penal y a la asesoría jurídica a favor de las personas pertenecientes a los pueblos y comunidades indígenas, a través del acceso a la jurisdicción en la lengua indígena nacional en que sean hablantes, el Instituto Federal de Defensoría Pública actuará en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que aquéllos pertenezcan.
+A fin de garantizar el derecho a la defensa en materia penal y a la asesoría jurídica a favor de las personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, a través del acceso a la jurisdicción en la lengua indígena nacional en que sean hablantes, el Instituto Federal de Defensoría Pública actuará en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que aquéllos pertenezcan.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos a que se refiere el párrafo anterior, el Instituto celebrará convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines y promoverá la formación tanto de defensores públicos como de asesores jurídicos bilingües indígenas.
 
@@ -911,5 +913,11 @@ Tercero. Todas las obligaciones que se generen con la entrada en vigor del prese
 D.O.F. 18 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
