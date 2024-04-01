@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2022-06-22"
+last_updated: "2024-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-05"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -953,6 +953,10 @@ V. Coadyuvar, con las Empresas Productivas Subsidiarias de generación, en la in
 
 VI. Analizar y diagnosticar las condiciones de la infraestructura de recepción y medición de combustibles en cada una de las centrales eléctricas de las Empresas Productivas Subsidiarias de generación, con el objetivo de proponer mejoras o acciones remediales para garantizar la continuidad de la operación.
 
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VII. Vigilar y dar seguimiento a las actividades de gestión comercial de los contratos de combustibles de los que sea titular la Comisión Federal de Electricidad, realizadas por las áreas de la Comisión, sus empresas productivas subsidiarias o, sus empresas filiales según corresponda.
+
 ### CAPÍTULO VIII. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Negocios Comerciales
 
 ###### ARTÍCULO 38.
@@ -1688,3 +1692,9 @@ D.O.F. 22 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
 
 ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
