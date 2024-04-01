@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2018-01-30"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -370,7 +370,9 @@ Si, transcurrido el plazo, el comité hubiera emitido observaciones, corresponde
 
 En caso de que el consejo no apruebe el proyecto en cuestión o determine que deben realizarse modificaciones, devolverá el proyecto al secretario técnico para que realice los ajustes que correspondan.
 
-El consejo, al emitir sus decisiones, tomará en cuenta las características de los municipios con población indígena para que se contribuya al desarrollo y mejoramiento de sus condiciones. Asimismo, el consejo debe asegurarse que sus disposiciones se emitan en pleno respeto a los derechos que la constitución otorga a los pueblos y las comunidades indígenas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+El consejo, al emitir sus decisiones, tomará en cuenta las características de los municipios con personas pertenecientes a pueblos y comunidades Indígenas y afromexicanas para que se contribuya al desarrollo y mejoramiento de sus condiciones. Asimismo, el consejo debe asegurarse que sus disposiciones se emitan en pleno respeto a los derechos que la constitución otorga a los pueblos y comunidades indígenas y afromexicanas.
 
 La Secretaría de Hacienda podrá emitir, previa opinión de la Secretaría de la Función Pública, en el ámbito federal, las disposiciones correspondientes, en tanto el consejo decide en definitiva sobre la aprobación del proyecto en cuestión.
 
@@ -1471,3 +1473,9 @@ Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de
 El tercer párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor a partir del ejercicio fiscal 2019.
 
 Para efectos del cuarto párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes que a la fecha de la entrada en vigor del presente Decreto se encuentren vigentes.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
