@@ -4,7 +4,7 @@ identifier: "LFGR"
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-20"
-last_updated: "2021-05-20"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149491&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFGR"
 
 LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Número 16 del Diario Oficial de la Federación, el jueves 20 de mayo de 2021.
 
@@ -228,7 +228,9 @@ IV. A la Fiscalía Especializada en materia de Delitos Electorales, la investiga
 
 V. A la Fiscalía Especializada en materia de Combate a la Corrupción, la investigación y persecución de los delitos contenidos en el Título Décimo del Libro Segundo del Código Penal Federal;
 
-VI. A la Fiscalía Especializada en materia de Derechos Humanos, la investigación y persecución de los delitos del orden federal previstos en: la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; y de conocer de los delitos cometidos contra algún periodista, persona o instalación que dolosamente afecten, limiten o menoscaben el derecho a la información o a la libertad de expresión; de delitos derivados de asuntos de violaciones o violaciones graves a derechos humanos denunciados por la Comisión Nacional de los Derechos Humanos; de los delitos del orden federal en los que el sujeto pasivo o activo del mismo sea una persona migrante y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social, la cual deberá ejercerse obligatoriamente cuando exista una declaración de violaciones graves a derechos humanos; de los delitos del orden federal en los que se encuentren involucradas personas de algún pueblo o comunidad indígena y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social; así como de intervenir con las unidades administrativas de la Institución en el trámite y seguimiento de las Quejas, Conciliaciones y Recomendaciones de la Comisión Nacional de los Derechos Humanos. Asimismo, brindar atención a las víctimas u ofendidos del delito y facilitar el acceso de la comunidad a los servicios requeridos por ésta, en el ámbito de competencia de la Fiscalía General, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VI. A la Fiscalía Especializada en materia de Derechos Humanos, la investigación y persecución de los delitos del orden federal previstos en: la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; y de conocer de los delitos cometidos contra algún periodista, persona o instalación que dolosamente afecten, limiten o menoscaben el derecho a la información o a la libertad de expresión; de delitos derivados de asuntos de violaciones o violaciones graves a derechos humanos denunciados por la Comisión Nacional de los Derechos Humanos; de los delitos del orden federal en los que el sujeto pasivo o activo del mismo sea una persona migrante y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social, la cual deberá ejercerse obligatoriamente cuando exista una declaración de violaciones graves a derechos humanos; de los delitos del orden federal en los que se encuentren involucradas personas pertenecientes a pueblos y comunidades indígenas o afromexicanas y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social; así como de intervenir con las unidades administrativas de la Institución en el trámite y seguimiento de las Quejas, Conciliaciones y Recomendaciones de la Comisión Nacional de los Derechos Humanos. Asimismo, brindar atención a las víctimas u ofendidos del delito y facilitar el acceso de la comunidad a los servicios requeridos por ésta, en el ámbito de competencia de la Fiscalía General, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales;
 
 VII. A la Fiscalía Especializada en Delitos de Violencia Contra las Mujeres y Trata de Personas, la investigación y persecución de los delitos del orden federal previstos en: el Código Penal Federal, relativos a hechos de violencia contra las mujeres por su condición de género y a los cometidos contra niñas, niños y adolescentes que sean competencia de la Federación; y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 
@@ -1805,3 +1807,11 @@ Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este De
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
