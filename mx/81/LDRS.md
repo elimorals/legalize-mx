@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2021-06-03"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -266,7 +266,9 @@ X. Equidad de género, la protección de la familia, el impulso a los programas 
 
 XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
 
-XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo rural sustentable de la Nación;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable de la Nación;
 
 XIII. Seguridad en la tenencia y disposición de la tierra;
 
@@ -842,7 +844,9 @@ II. La aplicación de un esquema que permita el desarrollo sostenido y eficiente
 
 III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y
 
-IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de las comunidades indígenas.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 
 ### CAPÍTULO IV. De la Reconversión Productiva Sustentable
 
@@ -890,7 +894,9 @@ III. Adoptar innovaciones tecnológicas;
 
 IV. Conservar y manejar el medio ambiente;
 
-V. Buscar la transformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos indígenas y las comunidades rurales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Buscar la transformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos y comunidades indígenas y afromexicanas y las comunidades rurales;
 
 VI. Reorganizar y mejorar la eficiencia en el trabajo;
 
@@ -1644,9 +1650,11 @@ La Comisión Intersecretarial, con la participación del Consejo Mexicano, estab
 
 ### CAPÍTULO XV. Del Bienestar Social y la Atención Prioritaria a las Zonas de Marginación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 154.
 
-Los programas del Gobierno Federal, impulsarán una adecuada integración de los factores del bienestar social como son la salud, la seguridad social, la educación, la alimentación, la vivienda, la equidad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos indígenas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
+Los programas del Gobierno Federal, impulsarán una adecuada integración de los factores del bienestar social como son la salud, la seguridad social, la educación, la alimentación, la vivienda, la equidad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos y comunidades indígenas y afromexicanas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
 
 Para el desarrollo de estos programas, el Ejecutivo Federal mediante convenios con los gobiernos de las entidades federativas y a través de éstos con los municipales, fomentará el Programa Especial Concurrente, conjuntamente con la organización social, para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutualismo y la cooperación. Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
 
@@ -1790,17 +1798,21 @@ Los propietarios rurales que opten por realizar lo conducente para la reestructu
 
 En los procesos de reestructuración de las unidades productivas que se promuevan en cumplimiento de lo dispuesto en este Capítulo, deberán atenderse las determinaciones establecidas en la regulación agraria relacionada con la organización de los núcleos agrarios y los derechos de preferencia y de tanto, en la normatividad de asentamientos humanos, equilibrio ecológico y en general en todo lo que sea aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 175.
 
-Los ejidatarios, comuneros, pueblos indígenas, propietarios o poseedores de los predios y demás población que detente o habite las áreas naturales protegidas en cualesquiera de sus categorías, tendrán prioridad para obtener los permisos, autorizaciones y concesiones para desarrollar obras o actividades económicas en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de las normas oficiales mexicanas y demás ordenamientos aplicables.
+Los ejidatarios, comuneros, pueblos y comunidades indígenas y afromexicanas, propietarios o poseedores de los predios y demás población que detente o habite las áreas naturales protegidas en cualesquiera de sus categorías, tendrán prioridad para obtener los permisos, autorizaciones y concesiones para desarrollar obras o actividades económicas en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de las normas oficiales mexicanas y demás ordenamientos aplicables.
 
 El Gobierno Federal, prestará asesoría técnica y legal para que los interesados formulen sus proyectos y tengan acceso a los apoyos gubernamentales.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 176.
 
-Los núcleos agrarios, los pueblos indígenas y los propietarios podrán realizar las acciones que se admitan en los términos de la presente Ley, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Vida Silvestre y de toda la normatividad aplicable sobre el uso, extracción, aprovechamiento y apropiación de la biodiversidad y los recursos genéticos.
+Los núcleos agrarios, los pueblos y comunidades indígenas y afromexicanas y los propietarios podrán realizar las acciones que se admitan en los términos de la presente Ley, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre y de toda la normatividad aplicable sobre el uso, extracción, aprovechamiento y apropiación de la biodiversidad y los recursos genéticos.
 
-La Comisión Intersecretarial, con la participación del Consejo Mexicano, establecerá las medidas necesarias para garantizar la integridad del patrimonio de biodiversidad nacional, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores, así como la defensa de los derechos de propiedad intelectual de las comunidades indígenas y campesinos.
+La Comisión Intersecretarial, con la participación del Consejo Mexicano, establecerá las medidas necesarias para garantizar la integridad del patrimonio de biodiversidad nacional, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores, así como la defensa de los derechos de propiedad intelectual de los pueblos y comunidades indígenas y afromexicanas y campesinos.
 
 ###### Artículo 177.
 
@@ -2081,3 +2093,9 @@ D.O.F. 3 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 182 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
