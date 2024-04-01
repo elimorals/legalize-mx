@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2023-12-08"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -352,9 +352,9 @@ Artículo 15 Séptimus.- Las acciones afirmativas son las medidas especiales, es
 
 Artículo 15 Octavus.- Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afro descendientes (sic), mujeres, niñas, niños y adolescentes, personas jóvenes, personas con discapacidad y personas adultas mayores.
+Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, afro descendientes, mujeres, niñas, niños y adolescentes, personas jóvenes, personas con discapacidad y personas adultas mayores.
 
 > <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 2014)</small>
 
@@ -1619,5 +1619,11 @@ D.O.F. 4 DE DICIEMBRE DE 2023.
 D.O.F. 8 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 15 OCTAVUS DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+D.O.F. 1 DE ABRIL DE 2024.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
