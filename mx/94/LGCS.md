@@ -4,7 +4,7 @@ identifier: "LGCS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-05-11"
-last_updated: "2023-06-02"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128332&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCS"
 
 LEY GENERAL DE COMUNICACIÓN SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección al Número 8 del Diario Oficial de la Federación, el viernes 11 de mayo de 2018.
 
@@ -484,7 +484,9 @@ Se procurará que las Campañas de Comunicación Social se transmitan en version
 
 Las Campañas de Comunicación Social deberán considerar el uso de la Lengua de Señas Mexicanas por medio de un intérprete, subtitulaje, así como de textos o tecnologías que permitan el acceso a los contenidos de Comunicación Social en televisión a las personas con discapacidad auditiva.
 
-En comunidades indígenas, se procurará que las Campañas de Comunicación Social se difundan en la lengua o las lenguas correspondientes.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En pueblos y comunidades indígenas y afromexicanas, se procurará que las Campañas de Comunicación Social se difundan en la lengua o las lenguas correspondientes.
 
 ###### Artículo 13.
 
@@ -1159,5 +1161,11 @@ Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del pres
 D.O.F. 2 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 26 DE LA LEY GENERAL DE COMUNICACIÓN SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
