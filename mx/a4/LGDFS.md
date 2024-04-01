@@ -4,7 +4,7 @@ identifier: "LGDFS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-05"
-last_updated: "2022-04-28"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina al Número 5 del Diario Oficial de la Federación, el martes 5 de junio de 2018.
 
@@ -46,9 +46,11 @@ Artículo Primero.- Se expide la Ley General de Desarrollo Forestal Sustentable.
 
 ### Capítulo I. Objeto y Aplicación de la Ley
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es Reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sus disposiciones son de orden e interés público y de observancia general en todo el territorio nacional, y tiene por objeto regular y fomentar el manejo integral y sustentable de los territorios forestales, la conservación, protección, restauración, producción, ordenación, el cultivo, manejo y aprovechamiento de los ecosistemas forestales del país y sus recursos; así como distribuir las competencias que en materia forestal correspondan a la Federación, las Entidades Federativas, Municipios y Demarcaciones Territoriales de la Ciudad de México, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos, con el fin de propiciar el desarrollo forestal sustentable. Cuando se trate de recursos forestales cuya propiedad o legítima posesión corresponda a los pueblos y comunidades indígenas se observará lo dispuesto por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+La presente Ley es Reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sus disposiciones son de orden e interés público y de observancia general en todo el territorio nacional, y tiene por objeto regular y fomentar el manejo integral y sustentable de los territorios forestales, la conservación, protección, restauración, producción, ordenación, el cultivo, manejo y aprovechamiento de los ecosistemas forestales del país y sus recursos; así como distribuir las competencias que en materia forestal correspondan a la Federación, las Entidades Federativas, Municipios y Demarcaciones Territoriales de la Ciudad de México, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos, con el fin de propiciar el desarrollo forestal sustentable. Cuando se trate de recursos forestales cuya propiedad o legítima posesión corresponda a los pueblos y comunidades indígenas y afromexicanas se observará lo dispuesto por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
@@ -76,7 +78,9 @@ X. Garantizar, observar y promover el derecho al acceso a la información públi
 
 XI. Promover la prevención y el manejo integral de los agentes disruptivos que afecten a los ecosistemas forestales, mitigar sus efectos y restaurar los daños causados por estos;
 
-XII. Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, la población indígena, los jóvenes y las personas con capacidades diferentes, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XII. Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, las personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, los jóvenes y las personas con capacidades diferentes, y
 
 > <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
@@ -140,9 +144,13 @@ XXVI. Fomentar actividades que protejan la biodiversidad de los bosques producti
 
 XXVII. Promover acciones con fines de conservación y restauración de suelos;
 
-XXVIII. Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XXIX. Proteger los derechos de las comunidades indígenas, equiparables a los de las comunidades indígenas y propietarios forestales, así como los derechos humanos en lo concerniente a la aplicación de la Ley;
+XXVIII. Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas y afromexicanas, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XXIX. Proteger los derechos de los pueblos y comunidades indígenas y afromexicanas, equiparables a los de las comunidades indígenas y afromexicanas y propietarios forestales, así como los derechos humanos en lo concerniente a la aplicación de la Ley;
 
 XXX. Desarrollar y fortalecer la capacidad institucional en un esquema de descentralización, desconcentración, coordinación, concurrencia y participación social;
 
@@ -152,11 +160,17 @@ XXXII. Dotar de mecanismos de coordinación, concertación y cooperación a las 
 
 XXXIII. Mejorar la efectividad de la coordinación en materia forestal en los ámbitos nacional, regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México;
 
-XXXIV. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas, en la aplicación, evaluación y seguimiento de la política forestal;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XXXV. Promover el diseño y la aplicación de instrumentos económicos para fomentar el desarrollo forestal, la provisión de servicios ambientales, los conocimientos, innovaciones y prácticas de las comunidades indígenas y locales, acciones de restauración de cuencas y conservación de la biodiversidad, así como medidas de prevención, adaptación y mitigación ante el cambio climático;
+XXXIV. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas y afromexicanas, en la aplicación, evaluación y seguimiento de la política forestal;
 
-XXXVI. Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas y comunidades equiparables;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XXXV. Promover el diseño y la aplicación de instrumentos económicos para fomentar el desarrollo forestal, la provisión de servicios ambientales, los conocimientos, innovaciones y prácticas de los pueblos y comunidades indígenas y afromexicanas y locales, acciones de restauración de cuencas y conservación de la biodiversidad, así como medidas de prevención, adaptación y mitigación ante el cambio climático;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XXXVI. Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas y afromexicanas y comunidades equiparables;
 
 XXXVII. Impulsar y fomentar el manejo forestal sustentable como eje del desarrollo integral de las regiones rurales;
 
@@ -178,9 +192,11 @@ I. La conservación, protección y restauración de los ecosistemas forestales y
 
 II. La ejecución de obras destinadas a la conservación, restauración, protección y/o generación de bienes y servicios ambientales.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 5.
 
-La propiedad de los recursos forestales comprendidos dentro del territorio nacional corresponde a los ejidos, las comunidades, pueblos y comunidades indígenas, personas físicas o morales, la Federación, las Entidades Federativas, Municipios y Demarcaciones Territoriales de la Ciudad de México que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley no alterarán el régimen de propiedad de dichos terrenos.
+La propiedad de los recursos forestales comprendidos dentro del territorio nacional corresponde a los ejidos, las comunidades, pueblos y comunidades indígenas y afromexicanas, personas físicas o morales, la Federación, las Entidades Federativas, Municipios y Demarcaciones Territoriales de la Ciudad de México que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley no alterarán el régimen de propiedad de dichos terrenos.
 
 ###### Artículo 6.
 
@@ -292,7 +308,9 @@ XXXIII. Legítimo poseedor: El poseedor de buena fe en los términos del Código
 
 XXXIV. Manejo del Fuego en Áreas Forestales: Es el proceso que comprende el conjunto de acciones y procedimientos que tiene por objeto evaluar y manejar los riesgos planteados por el uso del fuego, su rol ecológico, los beneficios económicos, sociales y ambientales en los ecosistemas forestales en los que ocurre;
 
-XXXV. Manejo forestal comunitario: Es el que realizan, de manera colectiva, en las diversas fases de la cadena de valor, los núcleos agrarios, los pueblos indígenas, comunidades, propietarios y poseedores legítimos, bajo los principios de sustentabilidad, equidad, inclusión y respeto a las tradiciones, usos y costumbres;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XXXV. Manejo forestal comunitario: Es el que realizan, de manera colectiva, en las diversas fases de la cadena de valor, los núcleos agrarios, los pueblos y comunidades indígenas y afromexicanas, comunidades, propietarios y poseedores legítimos, bajo los principios de sustentabilidad, equidad, inclusión y respeto a las tradiciones, usos y costumbres;
 
 XXXVI. Manejo forestal sustentable: Es el proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, el cultivo, la protección, la conservación, la restauración y el aprovechamiento de los recursos y servicios ambientales de un ecosistema forestal, considerando los principios ecológicos, respetando la integralidad funcional e interdependencia de recursos y sin que disminuya o ponga en riesgo la capacidad productiva de los ecosistemas y recursos existentes en la misma;
 
@@ -442,7 +460,9 @@ III. Mecanismos para el seguimiento y control del cumplimiento de derechos y sal
 
 Los instrumentos legales y de política para regular y fomentar la conservación, mejora y desarrollo de los recursos forestales, deben garantizar el respeto a las salvaguardas reconocidas por el derecho internacional, así como lo siguiente:
 
-I. Consentimiento libre, previo e informado de ejidos, comunidades y pueblos indígenas;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Consentimiento libre, previo e informado de ejidos, comunidades y pueblos y comunidades indígenas y afromexicanas;
 
 II. Distribución equitativa de beneficios;
 
@@ -454,9 +474,13 @@ V. Pluralidad y participación social;
 
 VI. Transparencia, acceso a la información y rendición de cuentas;
 
-VII. Reconocimiento y respeto a las formas de organización interna y libre determinación de los pueblos indígenas y comunidades equiparables, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VIII. Reconocimiento y respeto de las prácticas culturales tradicionales de las comunidades locales e indígenas.
+VII. Reconocimiento y respeto a las formas de organización interna y libre determinación de los pueblos y comunidades indígenas y afromexicanas y comunidades equiparables, y
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VIII. Reconocimiento y respeto de las prácticas culturales tradicionales de las comunidades locales y de los pueblos y comunidades indígenas y afromexicanas.
 
 Los principios que guían la construcción y aplicación del Marco de Implementación y Cumplimiento de Salvaguardas son: Legalidad, acceso a la justicia, operatividad, complementariedad, integralidad, transparencia y rendición de cuentas, pluriculturalidad, participación plena y sustentabilidad.
 
@@ -610,9 +634,13 @@ XXI. Prestar asesoría y capacitación en prácticas y métodos que conlleven un
 
 XXII. Asesorar y capacitar a los propietarios y poseedores forestales en la elaboración y ejecución de programas de manejo forestal, y en la formulación de avisos para el establecimiento de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
 
-XXIII. Capacitar a los pueblos indígenas, a los ejidos y comunidades forestales, en el desarrollo de su organización, así como en la creación de empresas sociales forestales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XXIV. Brindar atención, de forma coordinada con la Federación, Municipios y Demarcaciones Territoriales de la Ciudad de México, a los asuntos relacionados con la conservación y mejoramiento de ecosistemas forestales de los pueblos y comunidades indígenas;
+XXIII. Capacitar a los pueblos y comunidades indígenas y afromexicanas, a los ejidos y comunidades forestales, en el desarrollo de su organización, así como en la creación de empresas sociales forestales;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XXIV. Brindar atención, de forma coordinada con la Federación, Municipios y Demarcaciones Territoriales de la Ciudad de México, a los asuntos relacionados con la conservación y mejoramiento de ecosistemas forestales de los pueblos y comunidades indígenas y afromexicanas;
 
 XXV. Diseñar, en coordinación con la Federación y con apego a los instrumentos de planeación de política nacional, estrategias y programas que contribuyan a la reducción de emisiones por deforestación y degradación forestal;
 
@@ -866,13 +894,17 @@ XV. Ejecutar y promover programas productivos, de restauración, de protección,
 
 XVI. Fomentar y favorecer la cadena productiva forestal y de sus recursos asociados, impulsando actividades forestales diversificadas e integradas, así como la exportación de productos forestales procesados y sus derivados;
 
-XVII. Coordinar con las autoridades de las Entidades Federativas, Municipales y Demarcaciones Territoriales de la Ciudad de México, los programas y acciones que coadyuven con los pueblos y comunidades indígenas en la conservación y mejoramiento de su territorio y a preservar la integridad de sus tierras, promoviendo el desarrollo sustentable de las mismas, con base en programas educativos de contenido forestal;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XVII. Coordinar con las autoridades de las Entidades Federativas, Municipales y Demarcaciones Territoriales de la Ciudad de México, los programas y acciones que coadyuven con los pueblos y comunidades indígenas y afromexicanas en la conservación y mejoramiento de su territorio y a preservar la integridad de sus tierras, promoviendo el desarrollo sustentable de las mismas, con base en programas educativos de contenido forestal;
 
 XVIII. Impulsar la participación directa de los propietarios y poseedores de los recursos forestales en la protección, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
 
 XIX. Constituirse en enlace con otras dependencias y entidades de la Administración Pública Federal y con los gobiernos de las Entidades Federativas, de los Municipios, y de las Demarcaciones Territoriales de la Ciudad de México para la ejecución de sus respectivos programas de manejo del fuego;
 
-XX. Brindar asesoría y capacitación a los pueblos y comunidades indígenas, respetando su diversidad cultural y patrimonio cultural inmaterial para que éstos puedan organizarse para la producción y aprovechamientos forestales en los términos previstos por esta Ley y de acuerdo con sus usos y costumbres cuando así proceda;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XX. Brindar asesoría y capacitación a los pueblos y comunidades indígenas y afromexicanas, respetando su diversidad cultural y patrimonio cultural inmaterial para que éstos puedan organizarse para la producción y aprovechamientos forestales en los términos previstos por esta Ley y de acuerdo con sus usos y costumbres cuando así proceda;
 
 XXI. Ejecutar y promover programas productivos, de restauración, de protección, de conservación y de aprovechamiento sustentable de los ecosistemas forestales y de los suelos en terrenos forestales o preferentemente forestales;
 
@@ -1048,7 +1080,9 @@ VIII. Vigilar que la capacidad de transformación de la industria forestal exist
 
 IX. Promover una cultura forestal que fomente el cuidado, preservación y aprovechamiento forestal sustentable, así como de sus bienes y servicios ambientales, su valoración económica, social y de seguridad que se proyecte en actitudes, conductas y hábitos de consumo responsable;
 
-X. La protección de los derechos de los pueblos y comunidades indígenas, así como de ejidatarios, comuneros, pequeños propietarios y los legítimos poseedores de recursos forestales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+X. La protección de los derechos de los pueblos y comunidades indígenas y afromexicanas, así como de ejidatarios, comuneros, pequeños propietarios y los legítimos poseedores de recursos forestales;
 
 XI. Un enfoque territorial y ecosistémico, que coordine acciones de los diversos agentes involucrados en los territorios forestales, y
 
@@ -1062,7 +1096,9 @@ En la planeación y realización de acciones a cargo de las dependencias y entid
 
 Son criterios obligatorios de política forestal de carácter social, los siguientes:
 
-I. El respeto a los derechos de los pueblos y comunidades indígenas y equiparables y la participación plena y efectiva de ellos y sus organizaciones en la elaboración y ejecución de los programas forestales de las áreas en que habiten, en concordancia con la Ley de Desarrollo Rural Sustentable y otros ordenamientos; así como a su conocimiento de la naturaleza, cultura y tradiciones;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. El respeto a los derechos de los pueblos y comunidades indígenas y afromexicanas y equiparables y la participación plena y efectiva de ellos y sus organizaciones en la elaboración y ejecución de los programas forestales de las áreas en que habiten, en concordancia con la Ley de Desarrollo Rural Sustentable y otros ordenamientos; así como a su conocimiento de la naturaleza, cultura y tradiciones;
 
 II. La incorporación efectiva de los propietarios forestales y sus organizaciones en la silvicultura, producción, industria y comercio de los productos forestales, la diversificación o uso múltiple y los bienes y servicios ambientales;
 
@@ -1544,9 +1580,11 @@ Los Consejos Estatales podrán acordar la constitución de grupos de trabajo par
 
 La ejecución, desarrollo y cumplimiento de los programas de manejo forestal y los estudios técnicos justificativos estarán a cargo del titular de la autorización respectiva, así como de un prestador de servicios forestales, quien será responsable solidario con el titular en los hechos que afirme y los actos que avale y las omisiones en que se incurra.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 60.
 
-La Secretaría y la Comisión establecerán los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las autorizaciones, sean traducidos a las lenguas de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades indígenas, o bien, para asegurar que les sea interpretado su contenido.
+La Secretaría y la Comisión establecerán los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las autorizaciones, sean traducidos a las lenguas de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades indígenas y afromexicanas, o bien, para asegurar que les sea interpretado su contenido.
 
 > <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
@@ -1846,11 +1884,13 @@ Cuando la colecta se realice por entidades públicas de los gobiernos Federal, d
 
 En el Reglamento se establecerán los requisitos para solicitar la autorización o presentar los avisos a que se refiere este artículo, así como, la forma en la que se realizará el transporte, almacenamiento y, en su caso, comercialización de los recursos biológicos forestales.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 87.
 
-Las colectas y usos con fines comerciales o de investigación de los recursos biológicos forestales deberán reconocer los derechos de las comunidades indígenas a la propiedad, conocimiento y uso de las variedades locales.
+Las colectas y usos con fines comerciales o de investigación de los recursos biológicos forestales deberán reconocer los derechos de los pueblos y comunidades indígenas y afromexicanas a la propiedad, conocimiento y uso de las variedades locales.
 
-Cuando además se pretenda aprovechar los conocimientos, las innovaciones y las prácticas de los pueblos y comunidades indígenas y locales sobre los recursos biológicos forestales, deberá reconocerse la propiedad del conocimiento de los pueblos indígenas y presentar un convenio celebrado entre el solicitante de la autorización a que se refiere el artículo anterior y la comunidad titular del conocimiento, en el que se acredite que se cuenta con el consentimiento previo, expreso e informado de ésta.
+Cuando además se pretenda aprovechar los conocimientos, las innovaciones y las prácticas de los pueblos y comunidades indígenas y afromexicanas y locales sobre los recursos biológicos forestales, deberá reconocerse la propiedad del conocimiento de los pueblos y comunidades indígenas y afromexicanas y presentar un convenio celebrado entre el solicitante de la autorización a que se refiere el artículo anterior y la comunidad titular del conocimiento, en el que se acredite que se cuenta con el consentimiento previo, expreso e informado de ésta.
 
 > <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
@@ -1860,9 +1900,11 @@ El aprovechamiento de recursos y materias primas forestales para uso doméstico 
 
 En su caso podrán emitirse Normas Oficiales Mexicanas en dichas materias.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 89.
 
-La Comisión promoverá el conocimiento tradicional del uso de los recursos forestales de los pueblos y comunidades indígenas y ejidos.
+La Comisión promoverá el conocimiento tradicional del uso de los recursos forestales de los pueblos y comunidades indígenas y afromexicanas y ejidos.
 
 ###### Artículo 90.
 
@@ -2454,7 +2496,9 @@ III. Establecer espacios orientados a elevar el nivel de cultura, educación y c
 
 IV. Promover la actualización de los contenidos curriculares en materia de conservación, protección, restauración y aprovechamientos forestales en el sistema educativo nacional, que fortalezcan y fomenten la cultura forestal;
 
-V. Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos y comunidades indígenas que habitan en las regiones forestales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos y comunidades indígenas y afromexicanas que habitan en las regiones forestales;
 
 VI. Contribuir al diseño, formulación, elaboración y publicación de materiales de comunicación educativa y guías técnicas actualizadas, que vinculen la relación de la sociedad y lo forestal;
 
@@ -2492,9 +2536,11 @@ Las anteriores acciones se considerarán enunciativas y no limitativas.
 
 La Secretaría y la Comisión desarrollarán mecanismos de vinculación social para fomentar el desarrollo forestal sustentable.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 147.
 
-El Ejecutivo Federal, por conducto de la Secretaría y de la Comisión, de acuerdo a sus atribuciones, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política forestal a que se refiere esta Ley, con base al Sistema Nacional de Planeación Democrática, convocando a las organizaciones de silvicultores, productores forestales, industriales, núcleos agrarios y comunidades indígenas, instituciones educativas y de investigación, agrupaciones sociales y privadas, asociaciones o individuos relacionados con los servicios forestales y demás personas interesadas para que manifiesten su opinión y propuestas respecto de los programas e instrumentos de la política forestal nacional, regional, estatal, distrital, o municipal o de las Demarcaciones Territoriales de la Ciudad de México.
+El Ejecutivo Federal, por conducto de la Secretaría y de la Comisión, de acuerdo a sus atribuciones, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política forestal a que se refiere esta Ley, con base al Sistema Nacional de Planeación Democrática, convocando a las organizaciones de silvicultores, productores forestales, industriales, núcleos agrarios, pueblos y comunidades indígenas y afromexicanas, instituciones educativas y de investigación, agrupaciones sociales y privadas, asociaciones o individuos relacionados con los servicios forestales y demás personas interesadas para que manifiesten su opinión y propuestas respecto de los programas e instrumentos de la política forestal nacional, regional, estatal, distrital, o municipal o de las Demarcaciones Territoriales de la Ciudad de México.
 
 ###### Artículo 148.
 
@@ -2534,7 +2580,9 @@ Dicho Consejo será presidido por el Titular de la Secretaría, siendo el Presid
 
 La Secretaría y la Comisión, junto con los gobiernos de las Entidades Federativas, integrarán los Consejos Estatales Forestales, mismos que fungirán como órganos de carácter consultivo y de asesoramiento en las materias de esta Ley.
 
-Para el caso de estos, se garantizará en todo momento la participación de los representantes de comunidades forestales, académicos, pueblos indígenas, profesional, industrial, sociedad civil, jóvenes, mujeres, y Gobierno Federal; siendo así de manera enunciativa más no limitativa.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Para el caso de estos, se garantizará en todo momento la participación de los representantes de comunidades forestales, académicos, pueblos y comunidades indígenas y afromexicanas, profesional, industrial, sociedad civil, jóvenes, mujeres, y Gobierno Federal; siendo así de manera enunciativa más no limitativa.
 
 En las leyes locales de la materia y sus reglamentos, se establecerá la composición y funcionamiento de estos. Asimismo, se establecerá la vinculación de los Consejos Estatales Forestales con los Consejos en materia de Medio Ambiente y Desarrollo Rural Sustentable en los ámbitos previstos en las leyes correspondientes.
 
@@ -2825,5 +2873,11 @@ Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del pres
 D.O.F. 28 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 139 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 140 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
