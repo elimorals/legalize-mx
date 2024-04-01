@@ -4,7 +4,7 @@ identifier: "LGE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2019-09-30"
-last_updated: "2023-12-20"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138312&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Número 23 del Diario Oficial de la Federación, el lunes 30 de septiembre de 2019.
 
@@ -232,7 +232,9 @@ III. Revalorizar a las maestras y los maestros como agentes fundamentales del pr
 
 IV. Dimensionar la prioridad de los planes y programas de estudio en la orientación integral del educando y la necesidad de reflejar los contextos locales y regionales, y
 
-V. Promover la participación de pueblos y comunidades indígenas en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Promover la participación de los pueblos y comunidades indígenas y afromexicanas en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación.
 
 La Secretaría, en coordinación con las autoridades educativas de los Estados y de la Ciudad México, realizarán las revisiones del Acuerdo al que se refiere este artículo, con la finalidad de adecuarlo con las realidades y contextos en los que se imparta la educación.
 
@@ -652,7 +654,9 @@ La obligatoriedad de la educación superior corresponde al Estado, el cual la ga
 
 Para tal efecto, las políticas de educación superior estarán basadas en el principio de equidad entre las personas, tendrán como objetivo disminuir las brechas de cobertura educativa entre las regiones, entidades y territorios del país, así como fomentar acciones institucionales de carácter afirmativo para compensar las desigualdades y la inequidad en el acceso y permanencia en los estudios por razones económicas, de género, origen étnico o discapacidad.
 
-En el ámbito de su competencia, las autoridades educativas federal, de las entidades federativas y de los municipios concurrirán para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En el ámbito de su competencia, las autoridades educativas federal, de las entidades federativas y de los municipios concurrirán para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos y comunidades indígenas y afromexicanas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
 
 ###### Artículo 49.
 
@@ -1190,9 +1194,11 @@ Todos los planteles educativos, públicos o privados, deben cumplir con las norm
 
 En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 147, fracción II de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 102.
 
-Las autoridades educativas atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
+Las autoridades educativas atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas y afromexicanas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
 
 En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
 
@@ -2243,3 +2249,9 @@ Segundo.- La Secretaría de Educación Pública contará con un plazo no mayor d
 Tercero.- Los Gobiernos de las Entidades Federativas y de los Municipios, deberán adecuar sus leyes, reglamentos y demás disposiciones jurídicas, en un plazo no mayor de dos años, de acuerdo con las competencias que a cada uno corresponda, para cumplir lo dispuesto en el presente Decreto.
 
 Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que de manera progresiva se otorgarán los recursos.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
