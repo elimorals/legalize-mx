@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2024-01-15"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -431,15 +431,15 @@ Cuando no se presente documento legal alguno que acredite la existencia del matr
 
 En los registros de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier registro que contenga dicha nota se testarán de las impresiones del registro y se eliminarán de la base de datos de oficio dichas palabras por quien tenga a su cargo el control de los registros.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+(NOTA: EL 20 DE MAYO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 57.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna podrá el Oficial del Registro Civil, asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+En el momento en que se lleve a cabo un registro de nacimiento, el Oficial del Registro Civil asentará la filiación de la madre desprendiéndola del certificado de nacimiento, y la del padre, con la anuencia de la progenitora, en función al reconocimiento expreso que realice el que comparezca al registro con carácter de reconocedor, lo anterior independientemente del estado civil de la madre.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
-
-En caso de infracción a lo ordenado por este artículo, se testarán las impresiones del registro y se borrará de la base de datos de oficio tal anotación cuidando que lo testado quede ilegible.
+Si se actualiza la presunción a que refiere el artículo 348 del presente Código y quien pretenda realizar el reconocimiento es alguien diverso al marido, tendrá lugar un trámite administrativo en el que el reconocedor y la madre deberán comparecer de manera personal y exhibir una declaratoria en la que manifiesten bajo protesta de decir verdad el vínculo de filiación con la persona registrada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1297,9 +1297,9 @@ V.- (DEROGADA, P.O. 7 DE MAYO DE 2018)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VII.- La incapacidad, la embriaguez habitual y el consumo indebido y persistente de drogas enervantes. Padecer esterilidad incurable, impotencia crónica para la cópula, alguna enfermedad de transmisión sexual. Alguna enfermedad crónica o incurable que sea además contagiosa ó hereditaria, así como padecer alguna otra enfermedad que haga prever algún perjuicio grave o degenerativo para los descendientes del matrimonio;
+VII.- La incapacidad, la embriaguez habitual y el consumo indebido y persistentes (sic) de drogas enervantes. Padecer esterilidad incurable, impotencia crónica para la cópula, alguna enfermedad de transmisión sexual. Alguna enfermedad crónica o incurable que sea además contagiosa o hereditaria, así como padecer alguna otra enfermedad que haga prever algún perjuicio grave o degenerativo para los descendientes del matrimonio, salvo que los contrayentes manifiesten y firmen ante el Oficial del Registro Civil, que en plenitud de sus facultades acceden de manera informada, consensuada, voluntaria y libremente a contraer matrimonio, a pesar de saber sobre cualquiera que sea el impedimento referido en la presente fracción;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2629,13 +2629,15 @@ I.- Los hijos nacidos después de ciento ochenta días contados desde la celebra
 
 II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial. En estos supuestos, cuando el cónyuge no sea el padre biológico del niño o niña, para su registro tendrá lugar un trámite administrativo en el cual la progenitora y el padre biológico, se presentarán personalmente ante la Oficialía del Registro Civil exhibiendo una declaratoria en la que manifiesten bajo protesta de decir verdad de que él es el padre biológico de la niña o niño.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 349.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+La presunción que refiere el artículo anterior podrá ser invocada al momento del registro de nacimiento o en juicio exhibiendo las actas del estado civil que corresponda, no obstante, dicha presunción es derrotable en los siguientes supuestos y por los siguientes medios:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+I. En sede administrativa ante el Oficial del Registro Civil, con la declaratoria en la que quienes se presenten al momento del registro de nacimiento o reconocimiento, manifiesten bajo protesta de decir verdad el vínculo de filiación con la persona registrada, lo anterior independientemente del estado civil de la madre.
 
-La presunción establecida en el artículo anterior no será aplicable cuando la mujer acredite que ha estado separada de su cónyuge y el hijo fuere reconocido por persona diferente al mismo.
+II. En sede jurisdiccional, con la prueba pericial genética que acredite el vínculo biológico, sin embargo, el juzgador para efecto de ordenar que se modifique un registro de nacimiento deberá atender a las circunstancias del caso y velando siempre por el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
 
@@ -2913,19 +2915,29 @@ El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el not
 
 Cualquiera de los padres podrá reconocer al hijo nacido antes del matrimonio de aquellos; y el marido podrá reconocer al habido durante éste; pero no tendrán derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento de la esposa.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 397.
 
-El hijo de una mujer casada puede ser reconocido como hijo por otro hombre distinto al marido; sin embargo, para dar trámite a una controversia de paternidad por parte de este último, el juzgador deberá privilegiar el interés superior del menor, valorando los siguientes factores:
+El hijo de una mujer casada puede ser reconocido como hijo por otro hombre distinto al marido; sin embargo, para dar trámite a una controversia de paternidad por parte de este último, el juzgador deberá privilegiar el interés superior de la niñez, valorando los siguientes factores:
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
 
 I.- La integralidad de la familia donde se ha desenvuelto el menor;
 
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
 II.- La situación general que guarda el menor;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
 
 III.- El estado en que se encuentra la relación matrimonial, y en particular de cada consorte con respecto de la niña o niño;
 
-IV.- El derecho a la identidad (sic) la niña o niño; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+IV.- El derecho a la identidad de la niña o niño; y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
 
 V.- Cualquier otro aspecto que permita determinar si la pretensión es acorde al interés superior del menor.
 
@@ -3099,7 +3111,11 @@ IV.- El Ministerio Público y el Director del Sistema para el Desarrollo Integra
 
 V.- Las instituciones de asistencia social públicas o privadas que hubieren acogido al menor o al incapaz que se pretende adoptar.
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
+
+Si la niña o niño que se va a adoptar tiene más de doce años, también se necesita su (sic)
+
+(sic) consentimiento para la adopción. En el caso de las personas incapaces, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -17702,3 +17718,27 @@ P.O. 15 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 613.-SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 614.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Director General del Registro Civil adecuará los formatos de Registro Civil para dar cumplimiento al presente Decreto, en un plazo de sesenta días naturales posteriores a partir de la vigencia de este ordenamiento legal.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 615.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
