@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2023-11-06"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -649,9 +649,17 @@ V.- Impulsar la profesionalización de los integrantes de las instituciones poli
 
 VI.- Dictar las disposiciones administrativas de las funciones operativas, para la observancia y cumplimiento de esta Ley;
 
-VII.- Hacer del conocimiento del Gobernador del Estado sobre las alteraciones graves del orden público y la tranquilidad social en sus comunidades; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VII (SIC).- Las demás que le confiera esta Ley y los ordenamientos jurídicos aplicables.
+VII.- Hacer del conocimiento de la persona titular del Poder Ejecutivo del Estado, las alteraciones graves del orden público y la tranquilidad social en sus comunidades;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+VIII.- En el ámbito de su competencia, expedir la reglamentación y demás disposiciones administrativas de carácter general necesarias para la implementación de medidas sobre la comercialización de armas que tengan características similares a cualquier arma real en su forma, dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas, y que no cumplan con la NORMA Oficial Mexicana NOM.161-SCFI-2003; así como para establecer las sanciones administrativas aplicables en caso de incumplimiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE ABRIL DE 2024)</small>
+
+IX.- Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### Artículo 27.
 
@@ -2906,3 +2914,15 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 618.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días siguientes a la publicación del presente decreto se deberán realizar las modificaciones correspondientes a la regulación interna de los Municipios del Estado de Aguascalientes.
