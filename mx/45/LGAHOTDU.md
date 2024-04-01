@@ -4,7 +4,7 @@ identifier: "LGAHOTDU"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-11-28"
-last_updated: "2021-06-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117395&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGAHOTDU"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección al Número 21 del Diario Oficial de la Federación, el lunes 28 de noviembre de 2016.
 
@@ -684,7 +684,9 @@ VIII. Las políticas generales para el ordenamiento territorial, de las zonas me
 
 IX. Los lineamientos y estrategias que orienten la inversión pública y privada a proyectos prioritarios para el Desarrollo Urbano del país;
 
-X. Las metas generales en cuanto a la calidad de vida en los Centros de Población urbanos y rurales del país, así como en las comunidades indígenas;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+X. Las metas generales en cuanto a la calidad de vida en los Centros de Población urbanos y rurales del país, así como en los pueblos y comunidades indígenas y afromexicanas;
 
 XI. Los requerimientos globales de Reservas territoriales para el Desarrollo Urbano, así como los mecanismos para satisfacer dichas necesidades;
 
@@ -932,9 +934,11 @@ Para la Fundación de Centros de Población se requiere de su declaración expre
 
 El decreto a que se refiere el párrafo anterior, contendrá las determinaciones sobre Provisión de tierras; ordenará la formulación del plan o programa de Desarrollo Urbano respectivo y asignará la categoría político administrativa al centro de población.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 50.
 
-La fundación de Centros de Población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de Asentamiento Humano rural y las comunidades indígenas.
+La fundación de Centros de Población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de Asentamiento Humano rural y los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 51.
 
@@ -1530,7 +1534,9 @@ II. La supervisión del financiamiento, construcción y operación de proyectos 
 
 III. El financiamiento y operación de proyectos estratégicos urbanos, habitacionales, industriales, comerciales, recreativos y turísticos;
 
-IV. La ejecución de acciones y obras urbanas para el Mejoramiento y Conservación de zonas populares de los Centros de Población y de las comunidades rurales e indígenas;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. La ejecución de acciones y obras urbanas para el Mejoramiento y Conservación de zonas populares de los Centros de Población, de las comunidades rurales, y de los pueblos y comunidades indígenas y afromexicanas;
 
 V. La protección del Patrimonio Natural y Cultural de los Centros de Población;
 
@@ -1831,3 +1837,9 @@ D.O.F. 1 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
