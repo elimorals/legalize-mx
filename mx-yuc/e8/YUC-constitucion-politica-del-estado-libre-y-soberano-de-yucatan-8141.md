@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2024-02-02"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2024.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -143,9 +143,9 @@ El Estado garantizará al pueblo maya el acceso a la justicia y la aplicación d
 
 El derecho a la ciudad permite garantizar el ejercicio pleno de los derechos humanos, la función social de la ciudad, su gestión democrática y asegurar la justicia territorial, la inclusión social, la movilidad y la distribución equitativa de bienes públicos y la prestación de servicios públicos considerando la participación de la ciudadanía.
 
-> <small>(ADICIONADO, D.O. 8 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-El Estado garantizará el derecho a la ciudad que consiste en el uso y el usufructo pleno y equitativo de los asentamientos humanos, fundado en principios de justicia social, democracia, participación ciudadana, igualdad, sustentabilidad, sostenibilidad, respeto a la diversidad en todas sus formas de expresión, a la naturaleza y al ambiente, de acuerdo a la legislación aplicable.
+El derecho a la ciudad consiste en que el Estado garantizará a todos los habitantes de un Asentamiento Humano o Centros de Población el acceso a la vivienda, infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia.
 
 > <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2023)</small>
 
@@ -737,7 +737,9 @@ Son facultades y atribuciones del Congreso del Estado:
 
 I.- Crear nuevos municipios dentro del territorio del Estado, siendo necesario para el efecto, que:
 
-a) Los núcleos poblacionales que soliciten erigirse en municipio, cuenten por lo menos con quince mil habitantes;
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+a) Los centros de población que soliciten erigirse en municipio cuenten por lo menos con quince mil habitantes;
 
 b) Acredite que cuenta con elementos suficientes para garantizar su permanencia;
 
@@ -751,7 +753,9 @@ e) Se tome el parecer del Ejecutivo del Estado, en los términos y condiciones d
 
 f) La creación del nuevo municipio, se acuerde con el voto de las dos terceras partes de los integrantes del Congreso.
 
-Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un núcleo poblacional a otro municipio, se estará a lo dispuesto por la ley respectiva;
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un centro de población a otro municipio, se estará a lo dispuesto por la ley respectiva;
 
 > <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -899,9 +903,9 @@ e) Notificar al Gobernador Interino de la reincorporación del Gobernador Consti
 
 f) Ratificar al Gobernador Interino, designado en términos del artículo 50, párrafo quinto, de esta Constitución, como Gobernador Sustituto en caso de ausencia absoluta del Gobernador Constitucional dentro de los últimos dos años del periodo constitucional;
 
-> <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-XXII.- Nombrar a las Magistradas y Magistrados del Poder Judicial del Estado;
+XXII.- Ratificar, por el voto de la mayoría de sus integrantes presentes en la sesión en que se trate, la designación que el Pleno del Tribunal Superior de Justicia del Estado efectúe de las personas magistradas del Poder Judicial del Estado;
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1077,13 +1081,17 @@ LI Ter.- Ratificar, por el voto favorable de la mayoría de sus integrantes pres
 
 LII.- Designar y, en su caso, remover a la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en esta Constitución;
 
-> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-LIII.- Designar y, en su caso, remover a la persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en la ley orgánica de esta última, y
+LIII.- Designar y, en su caso, remover a la persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en la ley orgánica de esta última;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+LIV.- Designar, por el voto de las dos terceras partes de sus integrantes, a la persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, en los términos establecidos en esta Constitución y en las Leyes aplicables, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-LIV.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
+LV.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -1765,11 +1773,47 @@ Las percepciones de los defensores públicos no podrán ser inferiores a las que
 
 La ley regulará la integración, funcionamiento, competencia y administración del Instituto de la Defensoría Pública del Estado, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
 
-(REUBICADO, D.O. 17 DE MAYO DE 2010)
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ### CAPITULO I. Del Poder Judicial
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 63 Bis.
+
+La Procuraduría de Justicia Ambiental y Urbana es el organismo público descentralizado del Poder Ejecutivo del Estado que tiene por objeto la protección, preservación y restauración del ambiente y el equilibrio ecológico en Yucatán, así como la defensa de los derechos de las personas en el estado a disfrutar de un ambiente sano, y la utilización adecuada del territorio y los recursos naturales, a través de la promoción y vigilancia de la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
+
+La Procuraduría de Justicia Ambiental y Urbana podrá representar legalmente el interés legítimo de las personas en el Estado de Yucatán para exigir, de manera coadyuvante, en su representación, el respeto y reparación del daño, ante violaciones a los derechos ambientales y urbanos de las yucatecas y yucatecos, sin perjuicio de que estas accionen los mecanismos de defensa en la materia por su propio derecho; así como el fomento de los mecanismos alternativos de solución de controversias en estas materias y, en su caso, presentar denuncias ante las autoridades competentes.
+
+La persona titular de la Procuraduría de Justicia Ambiental y Urbana durará en el cargo siete años, al término de los cuales podrá ser ratificado para un segundo período de la misma duración.
+
+La persona titular del Poder Ejecutivo Estatal someterá una terna a consideración del Congreso del Estado, quien designará a la persona titular de la Procuraduría de Justicia Ambiental y Urbana, mediante el voto de las dos terceras partes de los integrantes del Congreso y solo podrá ser removido, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
+
+En caso de que no se alcance la votación requerida, la persona titular del Poder Ejecutivo someterá otra terna a consideración del Congreso del Estado, para que designe a la persona Titular de la Procuraduría de Justicia Ambiental y Urbana en los términos del párrafo anterior.
+
+Si el Congreso del estado, nuevamente, no designara a la persona Titular de la Procuraduría de Justicia Ambiental y Urbana, ocupará el cargo la persona que designe la persona titular del Poder Ejecutivo.
+
+Para ser Titular de la Procuraduría de Justicia Ambiental y Urbana se requiere:
+
+I. Ser ciudadano mexicano;
+
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+III. Contar con título profesional de licenciado en derecho, urbanismo, ingeniería civil o arquitectura, biología, medio ambiente, recursos naturales o forestal, con antigüedad mínima de diez años;
+
+IV. Acreditar experiencia mínima de cinco años en las materias relacionadas con las atribuciones y objeto de la procuraduría, así como conocimiento comprobable en el marco normativo vigente en el estado de Yucatán y de la procuración o impartición de justicia;
+
+V. No estar cumpliendo sentencia firme emitida por una autoridad judicial competente, que imponga pena privativa de la libertad por la comisión de un delito de robo, fraude, falsificación, abuso de confianza, peculado, cohecho u otro hecho de corrupción;
+
+VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público al momento de la designación;
+
+VII. No ser persona deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente. y
+
+VIII. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+La persona titular de la Procuraduría de Justicia Ambiental y Urbana no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los organismos constitucionales autónomos.
+
+(REUBICADO, D.O. 17 DE MAYO DE 2010)
 
 ## TITULO SEXTO. Del Poder Judicial
 
@@ -1787,9 +1831,9 @@ El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en
 
 La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de las juezas y jueces, y los requisitos para su permanencia en el cargo. En la designación de estos deberá observarse el principio de paridad de género.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por quince Magistradas y Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes. En su conformación se observará el principio de paridad de género.
+El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial, funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes. Estará integrado cuando menos por quince personas magistradas, pudiendo aumentar o disminuir en su número mediante acuerdo del Pleno del propio Tribunal por mayoría de sus integrantes, previo estudio objetivo que motive y justifique las necesidades del trabajo y el ejercicio de su presupuesto lo permita. Dicho estudio deberá ser elaborado a solicitud del Pleno del Tribunal Superior de Justicia. En su conformación se observará el principio de paridad de género. Cada magistratura tendrá su respectivo suplente para casos de ausencias temporales mayores a tres meses.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1815,13 +1859,13 @@ Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre 
 
 La Presidenta o Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-La ley fijará los términos en que sean obligatorios los criterios que establezcan las Salas y el Pleno del Tribunal Superior de Justicia, sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, así como los requisitos para su interrupción y modificación, sin contravenir la jurisprudencia de los Tribunales de la Federación.
+Las razones que justifiquen las decisiones contenidas en las sentencias dictadas por el Pleno del Tribunal Superior de Justicia por mayoría calificada y por unanimidad en el caso de alguna de sus Salas sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, serán obligatorias para los juzgadores de primera instancia. La Ley establecerá los medios para su difusión y los requisitos para su interrupción.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-Las Magistradas y Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo quince años, contados a partir de la fecha en que rindan el Compromiso Constitucional, y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades correspondientes.
+Las Magistradas y Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo quince años, contados a partir de la fecha en que rindan el Compromiso Constitucional, y durante el ejercicio de su cargo sólo podrán ser removidos mediante el procedimiento que establece el título décimo de esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
@@ -1919,27 +1963,31 @@ Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Munici
 
 La ley establecerá las bases para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, imparcialidad, independencia, objetividad y profesionalismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 66.
 
-Las propuestas para ocupar el cargo de Magistrada y Magistrado del Poder Judicial deberán considerar a personas que hayan prestado sus servicios con eficiencia y probidad en la procuración o la impartición de justicia o en la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de conformidad con el siguiente procedimiento.
+Los Magistrados y Magistradas del Poder Judicial del Estado de Yucatán serán designados por el Pleno del Tribunal Superior de Justicia y ratificados por el Congreso, de conformidad con el procedimiento siguiente:
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+Sesenta días naturales antes de que concluya el cargo de un Magistrado o Magistrada, o inmediatamente se tenga conocimiento de una causa de retiro forzoso, falta absoluta o la existencia de una vacante por creación según lo previsto en esta Constitución, la Secretaría General de Acuerdos del Tribunal Superior de Justicia informará a las Magistradas y Magistrados en funciones.
 
-La o el titular del Poder Ejecutivo formulará una terna que enviará al Congreso del Estado para que, una vez analizadas las propuestas y dentro del plazo de treinta días naturales, proceda a designar a una Magistrada o Magistrado con el voto de la mayoría de los miembros presentes en la sesión.
+Dentro de los diez días hábiles siguientes, los Magistrados y Magistradas del Tribunal Superior de Justicia en funciones, podrán, de forma individual o conjunta, proponer a una persona para cubrir la magistratura vacante, para lo cual acompañarán la documentación que acredite que cumplen con los requisitos previstos en el artículo 65 de esta Constitución, así como cualquier otro documento que pueda demostrar que la persona propuesta cuenta con los méritos y experiencia para ocupar el cargo. Las propuestas para ocupar el cargo de Magistrada o Magistrado del Poder Judicial considerarán en un caso, personas que presten sus servicios en el Poder Judicial del Estado de Yucatán o personas que hayan destacado por su competencia, honorabilidad y antecedentes en otras ramas de la profesión jurídica, y, en otro, consideran únicamente personas que presten sus servicios en el Poder Judicial del Estado de Yucatán, de manera alternada. Esta alternancia se respetará de forma independiente tanto en el caso de vacantes en el Tribunal Superior de Justicia como en el Tribunal de los Trabajadores al Servicio del Estado y los Municipios.
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
+En ningún caso las personas magistradas podrán proponer personas con las que cuenten (sic) parentesco consanguíneo en línea recta sin limitación de grado y afín hasta el segundo grado.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
+La Secretaría General de Acuerdos dará cuenta al Pleno del Tribunal Superior de Justicia de las personas propuestas. Hecho lo anterior, la Presidencia del Tribunal Superior de Justicia convocará a una sesión del Pleno en la que se determinará quiénes cumplen con los requisitos para ser electas y señalará fecha y hora, que no podrá exceder de los cinco días hábiles siguientes, para que comparezcan ante el Pleno del Tribunal Superior de Justicia.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
+En la sesión en la que se desahoguen las comparecencias, la cual deberá ser pública, cada Magistrado y Magistrada votará por la persona que consideren deba ser electa. Para que alguna de las personas propuestas sea designada Magistrada o Magistrado deberá obtener el voto de dos terceras partes de los miembros presentes. Si ninguna obtuviera la mayoría requerida, se celebrará una nueva votación en la que sólo participarán como candidatas las dos personas que hayan obtenido el mayor número de votos, resultando electa la persona que alcance la mayoría simple.
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+Una vez designada la persona magistrada, el Pleno del Tribunal Superior de Justicia deberá de informar al Congreso del Estado para que inicie el proceso de ratificación, el cual no podrá exceder de diez días hábiles siguientes a partir de su notificación.
+
+En caso de que respecto de una misma vacante el Congreso del Estado no ratifique en dos ocasiones la designación realizada en términos de los párrafos que anteceden, ocupará el cargo la persona designada por el Tribunal Superior de Justicia quien tomará el compromiso constitucional ante el Pleno de dicho Tribunal.
+
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 67.
 
-Los Magistrados del Poder Judicial del Estado al entrar a ejercer su encargo, manifestarán ante el Congreso, o ante la Diputación Permanente, en los recesos de aquél, el compromiso Constitucional siguiente: Presidente; ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo.- Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
+Los Magistrados del Poder Judicial del Estado al entrar a ejercer el cargo, manifestarán ante el Congreso, ante la Diputación Permanente, en los recesos de aquél, o en caso del último párrafo del artículo 66 de esta Constitución ante el Pleno del Tribunal Superior de Justicia, el compromiso Constitucional siguiente: Presidente: ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo. - Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1987,9 +2035,27 @@ V.- Remitir a los poderes, Legislativo y Ejecutivo, del Estado los informes sobr
 
 VI.- Formular el proyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia, y remitirlo al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial;
 
-VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-VIII.- Las demás que le confieran esta Constitución y otras leyes.
+VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+VIII.- Designar a las Magistradas y Magistrados del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+IX.- Aprobar el aumento o disminución del número de personas magistradas que integren el Tribunal Superior de Justicia y el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+X.- Aprobar el aumento o disminución del número de Consejeras y Consejeros que integran el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XI.- Recibir el compromiso constitucional de las personas magistradas del Poder Judicial del Estado, según lo establecido en el último párrafo del artículo 66 de esta Constitución, así como de las personas consejeras designadas por el Pleno del Tribunal Superior de Justicia, y
+
+XII.- Las demás que le confieran esta Constitución y otras leyes.
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2075,9 +2141,13 @@ VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con lo que dispongan esta Constitución y la ley.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo. No podrá haber más de tres miembros del mismo género.
+El Consejo de la Judicatura se integrará cuando menos por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+En su integración deberá privilegiarse el principio de paridad de género. La integración podrá aumentar o disminuir, mediante acuerdo del Pleno del Tribunal Superior de Justicia por mayoría de sus integrantes, previo estudio objetivo presentado por la Presidencia del Consejo que motive y justifique las necesidades del servicio y el ejercicio de su presupuesto lo permita. En caso de aumentar el número de personas consejeras, los nombramientos se realizarán en el siguiente orden, los dos primeros, por el Pleno del Tribunal Superior de Justicia; el siguiente, por el titular del Poder Ejecutivo; y posteriormente, por la mayoría de los Diputados del Congreso del Estado presentes en la sesión en que se aborde el asunto, y así sucesivamente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 12 DE AGOSTO DE 2022)</small>
 
@@ -2721,11 +2791,11 @@ XII.- Ejercer las funciones que le encomienda la Ley en materia de culto públic
 
 XIII.- Las demás que le confiera esta Constitución y las leyes.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 84.
 
-Cuando dos o más centros urbanos situados en territorios de distintos municipios formen o tiendan a formar una continuidad demográfica el Estado y los municipios respectivos, en el ámbito de sus competencias planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley.
+Cuando en el territorio de uno o más municipios del estado se forme o tienda a formar una conurbación intermunicipal o una zona metropolitana intermunicipal, estos y el Estado, en su caso la Federación, en el ámbito de sus competencias, deberán crear las instancias de coordinación para planear de manera conjunta, con participación ciudadana, su desarrollo, con apego a las Leyes de la materia.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -2734,6 +2804,10 @@ Cuando dos o más centros urbanos situados en territorios de distintos municipio
 Los municipios del Estado, previo acuerdo entre los ayuntamientos, podrán coordinarse y asociarse entre sí, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
 
 Podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+La ley en la materia establecerá los mecanismos de coordinación para la creación de instancias metropolitanas y de desarrollo regional, así como de colaboración para garantizar la asociatividad intermunicipal.
 
 Tratándose de asociación con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso.
 
@@ -2763,7 +2837,9 @@ VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución
 
 IX.- (DEROGADA, D.O. 31 DE AGOSTO DE 2006)
 
-X.- El Catastro, y
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+X.- Recaudación de contribuciones municipales, y
 
 XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.
 
@@ -2793,21 +2869,31 @@ VIII.- Turismo;
 
 IX.- Protección al medio ambiente;
 
-X.- Planeación del Desarrollo Regional;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+X.- Planeación y coordinación del desarrollo metropolitano y regional;
 
 XI.- Creación y Administración de Reservas Territoriales;
 
-> <small>(REFORMADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
 XII.- Desarrollo Económico, en todas sus vertientes;
 
-> <small>(REFORMADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-XIII.- Desarrollo Social, y
+XIII.- Desarrollo Social;
 
-> <small>(ADICIONADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 1 DE ABRIL DE 2024)</small>
 
-XIV.- Igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia.
+XIV.- Asentamientos humanos, ordenamiento territorial y desarrollo urbano;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XV.- Movilidad y seguridad vial, y
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XVI.- Catastro.
 
 Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de que éstos asuman alguna de las funciones o los servicios cuya responsabilidad sea originaria del Estado, trasladándose a favor del municipio los medios para su adecuada prestación así como la contraprestación a cargo de los usuarios del servicio o función de que se trate.
 
@@ -2844,6 +2930,10 @@ II.- A ninguna persona se le puede obligar a llevar a cabo actividades que ocasi
 > <small>(REFORMADA, D.O. 26 DE JULIO DE 2013)</small>
 
 III.- Las personas en el Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la Entidad, así como a participar en las actividades destinadas a su conservación y mejoramiento.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+El Gobierno del Estado y los municipios serán responsables de la administración y gestión del suelo a fin de que se garantice la distribución equitativa de las cargas y los beneficios del desarrollo urbano.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2937,11 +3027,13 @@ La resolución de las diferencias o los conflictos que se presenten entre las pe
 
 El Centro de Conciliación Laboral del Estado de Yucatán tendrá personalidad jurídica y patrimonio propios, y contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. En el ejercicio de sus atribuciones, se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. La Ley que lo regule establecerá su integración, organización y funcionamiento, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada y para que estos sean ejecutados.
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 89.
 
-La propiedad es una institución social que el Estado adopta como medio para la satisfacción de las necesidades individuales, que concede a las personas de manera discrecional; aquella es inalienable e inatacable, cuando se tratare del lugar en donde el hogar tiene su asiento o sobre los instrumentos de trabajo.
+La propiedad es una institución social que el Estado adopta como medio para la satisfacción de las necesidades individuales o familiares, incluyendo, entre otros, el derecho de contar con una vivienda adecuada; aquella es inalienable e inembargable cuando se constituya como patrimonio de familia, en términos de la legislación aplicable.
+
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
 El Estado dictará leyes que organicen el patrimonio familiar.
 
@@ -3099,11 +3191,11 @@ h) Fomentar que todos los habitantes interesados en realizar investigación cien
 
 i) Mantener informada a la sociedad sobre los avances en ciencia y tecnología que se desarrolla en el Estado, pero sobre todo enfocándola a su disfrute y al mejoramiento de su calidad de vida.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 91.
 
-El ejercicio de las acciones inherentes al arrendamiento de predios para habitación, relaja la solidaridad entre los elementos sociales. En consecuencia, el Estado organizará el problema de la habitación humana sobre bases más convenientes.
+El Estado y los municipios organizarán los asentamientos humanos y el desarrollo urbano para garantizar el derecho a una vivienda adecuada.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -5852,3 +5944,59 @@ Artículo cuarto. Cuando se refieran a los proyectos de prestación de servicios
 Obligación normativa
 
 Artículo quinto. En un plazo que no exceda de un año contado a partir de la entrada en vigor de este decreto, la persona titular del Poder Ejecutivo del estado deberá emitir el Reglamento de la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán, así como efectuar las reformas o adecuaciones al marco normativo de su competencia que fuesen necesarias ajustar, de conformidad con las disposiciones de la Ley que Regula la Celebración de Proyectos Integrales de Inversión a Largo Plazo para los Entes Públicos del Estado de Yucatán.
+
+D.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 742/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. El Congreso del Estado de Yucatán deberá expedir las leyes correspondientes y realizar las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Obligación normativa
+
+Artículo tercero. El Poder Ejecutivo del estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones normativas y reglamentarias que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Obligación normativa
+
+Artículo cuarto. Los ayuntamientos de los municipios del estado de Yucatán deberán adecuar sus disposiciones reglamentarias en términos de lo dispuesto en este decreto dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Remisión de la terna
+
+Artículo quinto. La persona titular del Poder Ejecutivo deberá remitir al Congreso la terna para la designación de la persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán dentro de los trescientos sesenta y cinco días siguientes a la entrada en vigor de este decreto.
+
+Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+Artículo sexto. La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+Referencias
+
+Artículo séptimo. Dentro de la normatividad estatal, todo lo que haga referencia a núcleos de población será considerado como centros de población, de conformidad con lo señalado en este Decreto.
+
+Cláusula derogatoria
+
+Artículo octavo. Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico en lo que se opongan a lo señalado en este Decreto.
+
+D.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 743/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN EN MATERIA DE INDEPENDENCIA Y AUTONOMÍA JUDICIAL”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. El Poder Judicial del Estado de Yucatán deberá realizar las modificaciones pertinentes a su normativa interna para armonizarla a las disposiciones de este decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+Alternancia de propuestas en caso de magistraturas vacantes
+
+Artículo tercero. Una vez entre en vigor el presente decreto, para el caso de la primera magistratura vacante, la propuesta para cubrir el cargo de Magistrada o Magistrado que en su caso formulen de forma individual o conjunta los Magistrados y Magistradas del Tribunal Superior de Justicia en funciones, deberá considerar personas que hayan destacado por su competencia, honorabilidad y antecedentes en la profesión jurídica, pudiendo o no prestar sus servicios en el Poder Judicial; en la siguiente, únicamente podrán considerar personas que presten sus servicios en el Poder Judicial y, así de manera alternada sucesivamente. Esta alternancia se respetará de forma independiente en el caso de vacantes en el Tribunal Superior de Justicia como en el Tribunal de los Trabajadores al Servicio del Estado y los Municipios.
+
+Cláusula derogatoria
+
+Artículo cuarto. A la entrada en vigor de este decreto quedarán derogadas las disposiciones de igual o menor jerarquía en lo que se opongan al mismo.
