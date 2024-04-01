@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2023-12-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1016,9 +1016,9 @@ a) Combate efectivo a la pobreza;
 
 b) Atención específica a las necesidades de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas; y
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos indígenas y de las personas con discapacidad;
+c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos y comunidades indígenas y afromexicanas y de las personas con discapacidad;
 
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
@@ -1064,9 +1064,9 @@ XI.- Impulsar a través del Sistema Nacional de Asistencia Social Pública y Pri
 
 XII.- Promover la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo e inclusión social, en coordinación con los gobiernos de las entidades federativas y municipales y con la participación de los sectores social y privado;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XIII.- Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos indígenas;
+XIII.- Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -1530,9 +1530,9 @@ XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
 
 XXVI.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XXVII.- Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;
+XXVII.- Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas y afromexicanas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -2372,9 +2372,9 @@ VII. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elab
 
 VIII. Promover los medios para la difusión y desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos indígenas;
+IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -3941,3 +3941,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
