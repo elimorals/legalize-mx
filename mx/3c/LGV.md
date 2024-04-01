@@ -4,7 +4,7 @@ identifier: "LGV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-01-09"
-last_updated: "2023-04-25"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGV"
 
 LEY GENERAL DE VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de enero de 2013.
 
@@ -128,9 +128,9 @@ El Estado deberá remover los obstáculos que impidan el acceso real y efectivo 
 
 Enfoque diferencial y especializado.- Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad y otros, en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior del menor.
+Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior del menor.
 
 Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad.
 
@@ -338,9 +338,9 @@ XIX. A ser beneficiaria de las acciones afirmativas y programas sociales públic
 
 XX. A participar en la formulación, implementación y seguimiento de la política pública de prevención, ayuda, atención, asistencia y reparación integral;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, la población indígena y las personas en situación de desplazamiento interno;
+XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, los pueblos y comunidades indígenas y afromexicanas y las personas en situación de desplazamiento interno;
 
 XXII. A no ser discriminadas ni limitadas en sus derechos;
 
@@ -714,9 +714,9 @@ Las medidas de reparación integral previstas en el presente artículo podrán c
 
 La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -924,11 +924,11 @@ La Comisión Ejecutiva como responsable de la creación y gestión del Registro 
 
 El sistema nacional de seguridad pública recabará y concentrará información estadística sobre víctimas asistidas por las comisiones ejecutivas de las entidades federativas, por modalidades de asistencia, ayuda o reparación y por tipo de delito o violación de derechos que la motivare. La información tendrá carácter público y en ningún caso incluirá datos personales.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 45.
 
-Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secretarías, dependencias, organismos y entidades del orden federal y de las entidades federativas del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secretarías, dependencias, organismos y entidades del orden federal y de las entidades federativas del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -936,11 +936,11 @@ Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secret
 
 Todas las medidas de asistencia, atención, protección o servicios otorgados por las instituciones públicas federales, de las entidades federativas y de los municipios a las víctimas por cualquier hecho, serán gratuitos y éstas recibirán un trato digno con independencia de su capacidad socio- económica y sin exigir condición previa para su admisión a éstos que las establecidas en la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 47.
 
-Las políticas y acciones establecidas en este Capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante, particularmente niñas, niños y adolescentes, mujeres, personas con discapacidad, migrantes, indígenas y personas en situación de desplazamiento interno. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
+Las políticas y acciones establecidas en este Capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante, particularmente niñas, niños y adolescentes, mujeres, personas con discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas y personas en situación de desplazamiento interno. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1830,11 +1830,11 @@ En los casos de graves violaciones a los derechos humanos o delitos cometidos co
 
 Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta del Comisionado Ejecutivo cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 91.
 
-Los diagnósticos nacionales que elabore la Comisión Ejecutiva deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio o que enfrentan ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad, de delitos tales como feminicidio, violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
+Los diagnósticos nacionales que elabore la Comisión Ejecutiva deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio o que enfrentan ciertos grupos de víctimas tales como niños y niñas, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, migrantes, mujeres, personas con discapacidad, de delitos tales como violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2346,7 +2346,9 @@ III. Canalizar a las víctimas a las instituciones que les prestan ayuda, atenci
 
 IV. Generar, tomar, realizar e implementar las acciones que sean necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos y el respeto irrestricto de los derechos establecidos en la presente Ley;
 
-V. Implementar programas de prevención y erradicación de la violencia, especialmente la ejercida contra niñas, niños, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Implementar programas de prevención y erradicación de la violencia, especialmente la ejercida contra niñas, niños, jóvenes, mujeres, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, adultos mayores, dentro y fuera del seno familiar;
 
 VI. Participar, ejecutar y dar seguimiento activamente a las acciones del Programa que les corresponda, con la finalidad de diseñar nuevos modelos de prevención y atención a las víctimas, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
@@ -3593,3 +3595,9 @@ D.O.F. 25 DE ABRIL DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
