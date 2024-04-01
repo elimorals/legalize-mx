@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2023-12-20"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -116,11 +116,11 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 ### CAPITULO II. Procedimiento en el Juicio Político
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 9o.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7 de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5 de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales. En el caso de ciudadanos, pueblos y comunidades indígenas del país, serán asistidos por traductores para elaborar la denuncia, si así lo solicitan. Dicha denuncia podrá presentarse por escrito en la lengua indígena.
+Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7 de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5 de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales. En el caso de ciudadanos, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas del país, serán asistidos por traductores para elaborar la denuncia, si así lo solicitan. Dicha denuncia podrá presentarse por escrito en la lengua indígena.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -328,9 +328,9 @@ La Sección respectiva practicará las diligencias que no requieran la presencia
 
 El Juez de Distrito practicará las diligencias que le encomiende la Sección respectiva, con estricta sujeción a las determinaciones que aquélla le comunique.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de cualquier costo. Aquellas que involucren a un ciudadano, pueblo o comunidad indígena, podrán remitirse, a elección de éstos, en español o traducirse a lengua indígena que cuente con expresión escrita.
+Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de cualquier costo. Aquellas que involucren a un ciudadano, pueblos y comunidades indígenas y afromexicanas, podrán remitirse, a elección de éstos, en español o traducirse a lengua indígena que cuente con expresión escrita.
 
 ###### ARTICULO 34.
 
@@ -853,3 +853,9 @@ D.O.F. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
