@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2022-05-10"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -35,8 +35,6 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 
@@ -1062,11 +1060,11 @@ El premio será entregado el 19 de septiembre de cada año, por el Presidente de
 
 ### CAPITULO XVIII. Premio Nacional de Trabajo y Cultura Indígena
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 106.
 
-El Premio Nacional de Trabajo y Cultura Indígena es el reconocimiento que el Estado Mexicano confiere a las personas y comunidades que se han destacado por su empeño y dedicación al trabajo en favor de su pueblo. Con el otorgamiento de este galardón, también se reconoce la labor sobresaliente y continua que hace posible la conservación, rescate y promoción de las manifestaciones culturales propias de los pueblos y comunidades indígenas.
+El Premio Nacional de Trabajo y Cultura Indígena y Afromexicana es el reconocimiento que el Estado Mexicano confiere a las personas y comunidades pertenecientes a los pueblos y comunidades indígenas y afromexicanas que se han destacado por su empeño y dedicación al trabajo en favor de su pueblo. Con el otorgamiento de este galardón, también se reconoce la labor sobresaliente y continua que hace posible la conservación, rescate y promoción de las manifestaciones culturales propias de los pueblos y comunidades indígenas y afromexicanas.
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -1549,3 +1547,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los trámites para la entrega del Premio al Mérito Ecológico, del Premio Nacional de Preservación del Medio Ambiente y del Premio Nacional de Ciencias que se hayan iniciado antes de la entrada en vigor del presente Decreto continuarán su trámite conforme a las disposiciones jurídicas vigentes correspondientes al año que se curse.
 
 Tercero.- Quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto, en consecuencia, las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a los ejecutores de gasto responsables, por lo que no se requerirán recursos adicionales y no se incrementará el presupuesto de éstas para el presente ejercicio fiscal ni posteriores.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
