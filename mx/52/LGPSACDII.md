@@ -4,7 +4,7 @@ identifier: "LGPSACDII"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-10-24"
-last_updated: "2018-06-25"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSACDII"
 
 LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de octubre de 2011.
 
@@ -210,7 +210,9 @@ La Política Nacional a la que se refiere el presente Capítulo, deberá tener a
 
 I. Garantizar el reconocimiento de la dignidad de niñas y niños, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
 
-II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que señala esta Ley, sin importar sus condiciones físicas, intelectuales o sensoriales, acorde con los modelos de atención;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, pueblos y comunidades indígenas y afromexicanas y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que señala esta Ley, sin importar sus condiciones físicas, intelectuales o sensoriales, acorde con los modelos de atención;
 
 III. Definir criterios estandarizados de calidad y seguridad;
 
@@ -933,3 +935,9 @@ D.O.F. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 49 BIS A LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
