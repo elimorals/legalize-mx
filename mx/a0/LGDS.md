@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2022-05-11"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -92,9 +92,9 @@ VI. Sustentabilidad: Preservación del equilibrio ecológico, protección del am
 
 VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
+VIII. Libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas: Reconocimiento en el marco constitucional, según el caso, a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
@@ -154,9 +154,11 @@ Toda persona tiene derecho a participar y a beneficiarse de los programas de des
 
 Toda persona o grupo social en situación de vulnerabilidad tiene derecho a recibir acciones y apoyos tendientes a disminuir su desventaja.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 9.
 
-Los municipios, los gobiernos de las entidades federativas y el Poder Ejecutivo Federal, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así como oportunidades de desarrollo productivo e ingreso en beneficio de las personas, familias y grupos sociales en situación de vulnerabilidad, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables.
+Los municipios, los gobiernos de las entidades federativas y el Poder Ejecutivo Federal, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así con oportunidades de desarrollo productivo e ingreso en beneficio de las personas, familias, grupos sociales y, en su caso, pueblos y comunidades indígenas y afromexicanas, en situación de vulnerabilidad, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables.
 
 ###### Artículo 10.
 
@@ -352,9 +354,11 @@ Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal
 
 Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal fomentarán las actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 34.
 
-Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal estimularán la organización de personas, familias y grupos sociales, destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
+Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal estimularán la organización de personas, familias, grupos sociales y, en su caso, pueblos y comunidades indígenas y afromexicanas, destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
 
 ###### Artículo 35.
 
@@ -566,11 +570,11 @@ XIII. Las demás que le señale esta Ley.
 
 ### Capítulo IV. De la Comisión Intersecretarial de Desarrollo Social
 
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 51.
 
-La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por los titulares de las secretarías de Desarrollo Social, quien lo presidirá; Gobernación; Hacienda y Crédito Público; Educación Pública; Salud; Medio Ambiente y Recursos Naturales; Energía; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Comunicaciones y Transportes; la Función Pública; Trabajo y Previsión Social; Desarrollo Agrario, Territorial y Urbano, y Turismo. Podrán ser invitados a participar, con derecho a voz los titulares de otras dependencias y entidades de la Administración Pública Federal. El subsecretario que designe el Titular de la Secretaría será el Secretario Técnico. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
+La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por los titulares de las secretarías de Bienestar, quien lo presidirá; Gobernación; Hacienda y Crédito Público; Educación Pública; Salud; Medio Ambiente y Recursos Naturales; Energía; Economía; Agricultura y Desarrollo Rural; Infraestructura, Comunicaciones y Transportes; la Función Pública; Trabajo y Previsión Social; Desarrollo Agrario, Territorial y Urbano y Turismo, así como del Instituto Nacional de los Pueblos Indígenas. Podrán ser invitados a participar, con derecho a voz los titulares de otras dependencias y entidades de la Administración Pública Federal. El subsecretario que designe el Titular de la Secretaría será el Secretario Técnico. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
 
 ###### Artículo 52.
 
@@ -879,3 +883,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
