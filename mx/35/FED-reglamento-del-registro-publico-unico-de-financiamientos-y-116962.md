@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-publico-unico-de-financiamientos-y-1169
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-25"
-last_updated: "2017-06-30"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-24"
 
 REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de octubre de 2016.
 
@@ -35,37 +35,61 @@ REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENT
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer las disposiciones para regular la inscripción, modificación y cancelación, así como transparentar los Financiamientos y Obligaciones que contraten las Entidades Federativas y los Municipios en el Registro Público Único, así como aquéllas para la operación y funcionamiento de dicho Registro en términos del Capítulo VI del Título Tercero de la Ley.
+El presente ordenamiento tiene por objeto regular la inscripción, modificación y cancelación, así como transparentar los Financiamientos y Obligaciones que contraten las entidades federativas, los municipios y demás entes públicos señalados en la Ley, en el Registro Público Único, así como la operación y funcionamiento y transparencia de la información de dicho Registro en términos del Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
-Para efectos de este Reglamento, además de las definiciones previstas en el artículo 2 de la Ley, se entenderá por:
+Para efectos de este reglamento, en adición a las definiciones establecidas en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se entiende por:
 
 I. Afectación: la aportación, cesión o destino de un derecho o ingreso del Ente Público a través de un fideicomiso, mandato o cualquier acto jurídico que tenga ese efecto, para su aplicación al pago de un Financiamiento u Obligación;
 
-II. Carta de Aceptación: el documento suscrito por el Solicitante Autorizado, mediante el cual conoce y acepta el uso del Sistema del Registro Público Único para la presentación, substanciación y resolución de los trámites e información a que se refiere el artículo 4 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-III. Clave de Inscripción: la clave emitida por el Registro Público Único para cada uno de los Financiamientos y Obligaciones que se inscriban en dicho Registro;
+II. Carta de aceptación: el documento suscrito por la persona solicitante autorizada, mediante el cual conoce y acepta el uso del sistema del Registro Público Único para la presentación, substanciación y resolución de los trámites e información a que se refiere el artículo 4 del presente reglamento;
 
-IV. Constancia: el documento emitido por el Registro Público Único, mediante el cual se acredita que el Financiamiento u Obligación fue inscrito, modificado o cancelado, a través del Procedimiento Registral y que deberá contener la información a que se refieren los artículos 22, 23 o 24 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-V. Firma Electrónica Avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior a éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa, a que se refiere la Ley de Firma Electrónica Avanzada;
+III. Clave de inscripción: la clave emitida por el Registro Público Único para cada uno de los Financiamientos y Obligaciones que se inscriban en dicho Registro;
 
-VI. Formatos: los documentos emitidos por la Secretaría mediante disposiciones de carácter general para establecer la información que deben presentar los Entes Públicos en los trámites a cargo del Registro Público Único, en términos de la Ley y el presente Reglamento;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. Constancia: el documento emitido por el Registro Público Único, mediante el cual se acredita que el Financiamiento u Obligación fue inscrito, modificado o cancelado, a través del procedimiento registral y que debe contener la información a que se refieren los artículos 22, 23 o 24 del presente reglamento;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Firma electrónica avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior a éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa, a que se refiere la Ley de Firma Electrónica Avanzada;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VI. Formatos: los documentos emitidos por la Secretaría mediante disposiciones de carácter general para establecer la información que deben presentar los entes públicos en los trámites a cargo del Registro Público Único, en términos de la Ley y el presente reglamento;
 
 VII. Ley: la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-VIII. Procedimiento Registral: el conjunto de operaciones a cargo del Registro Público Único mediante las cuales substancia y resuelve, a través del Sistema del Registro Público Único, las solicitudes de trámite a que se refiere el artículo 4, fracción I del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-IX. Registro Estatal: los registros de empréstitos y obligaciones de las Entidades Federativas;
+VIII. Procedimiento registral: el conjunto de operaciones a cargo del Registro Público Único mediante las cuales substancia y resuelve, a través del sistema del Registro Público Único, las solicitudes de trámite a que se refiere el artículo 4, fracción I del presente reglamento;
 
-X. Sistema del Registro Público Único: el sistema electrónico de la Secretaría que permite la recepción, trámite y resolución de las solicitudes de inscripción, modificación, cancelación y cualquier otro trámite relacionado con el Registro Público Único, así como de la recepción de la información de los Financiamientos y Obligaciones de las Entidades Federativas y de los Municipios para transparentar dicha información, cálculo del Sistema de Alertas y seguimiento de convenios en términos de los artículos 43, último párrafo, 44, 51, 56, 57 y 59 de la Ley;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XI. Solicitante Autorizado: el servidor público que, en representación del Ente Público, captura, presenta y substancia los trámites e información en el Sistema del Registro Público Único, y será responsable por el uso de dicho Sistema, y
+IX. Registro estatal: los registros de empréstitos y obligaciones de las entidades federativas;
 
-XII. Tablero Electrónico: el medio electrónico que forma parte del Sistema del Registro Público Único, por medio del cual se pone a disposición del Solicitante Autorizado que utilice la Firma Electrónica Avanzada en términos de este Reglamento, las actuaciones electrónicas que emita el Registro Público Único y que genera un acuse de recibo electrónico.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+X. Sistema del Registro Público Único: el sistema electrónico de la Secretaría que permite la recepción, trámite y resolución de las solicitudes de inscripción, modificación, cancelación y cualquier otro trámite relacionado con el Registro Público Único, así como de la recepción de la información de los Financiamientos y Obligaciones de las entidades federativas y de los municipios para transparentar dicha información, cálculo del Sistema de Alertas y seguimiento de convenios en términos de los artículos 43, último párrafo, 44, 51, 56, 57 y 59 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XI. La persona solicitante autorizada: la persona servidora pública que, en representación del Ente Público, captura, presenta y substancia los trámites e información en el sistema del Registro Público Único, y será responsable por el uso de dicho Sistema, y
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XII. Tablero electrónico: el medio electrónico que forma parte del sistema del Registro Público Único, por medio del cual se pone a disposición de la persona solicitante autorizada que utilice la firma electrónica avanzada en términos de este reglamento, las actuaciones electrónicas que emita el Registro Público Único y que genera un acuse de recibo electrónico.
 
 ###### Artículo 3.
 
@@ -97,9 +121,11 @@ Los Entes Públicos, para efectos de llevar a cabo los trámites a que se refier
 
 A falta de disposición expresa en este Reglamento, en el caso del uso de la Firma Electrónica Avanzada se aplicará supletoriamente la Ley de Firma Electrónica Avanzada, su Reglamento y la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 6.
 
-El Solicitante Autorizado presentará los trámites a que se refiere el artículo 4 del presente Reglamento, a través del Sistema del Registro Público Único utilizando la Firma Electrónica Avanzada. Para el Procedimiento Registral, el Solicitante Autorizado deberá ser el Secretario de Finanzas, Tesorero Municipal o su equivalente de cada Ente Público, según corresponda.
+La persona solicitante autorizada debe presentar los trámites a que se refiere el artículo 4 del presente reglamento, a través del sistema del Registro Público Único utilizando la firma electrónica avanzada. Para ello, la persona solicitante autorizada debe ser la persona titular de la Secretaría de Finanzas, de la Tesorería Municipal o su equivalente de cada ente público, según corresponda.
 
 ###### Artículo 7.
 
@@ -145,23 +171,39 @@ Para acreditar de manera fehaciente, la fecha y hora de recepción de las solici
 
 ### CAPÍTULO III. Acceso al Sistema del Registro Público Único para el Procedimiento Registral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 13.
 
-El acceso al Sistema del Registro Público Único se llevará a cabo una vez que el Solicitante Autorizado entregue previamente a la Secretaría lo siguiente:
+El acceso al sistema del Registro Público Único se debe llevar a cabo una vez que la persona solicitante autorizada entregue en las oficinas de la Secretaría lo siguiente:
 
-I. La Carta de Aceptación suscrita con firma autógrafa, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-II. El documento original o copia certificada que acredite las facultades de representación al Ente Público de quien suscribe la Carta de Aceptación.
+I. La Carta de aceptación suscrita con firma autógrafa;
 
-Además, los Entes Públicos distintos a los gobiernos de las Entidades Federativas y Municipios, deberán presentar la documentación que acredite la personalidad jurídica del Ente Público correspondiente.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Una vez que la Secretaría otorgue el acceso al Solicitante Autorizado al Sistema del Registro Público Único quedará acreditada la personalidad jurídica de quien suscribe para realizar cualquier trámite ante el Registro Público Único.
+II. El Documento original o copia certificada que acredite las facultades de representación al ente público de quien suscribe la carta de aceptación, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. El formato de solicitud de acceso establecido por el Centro de Operaciones de Servicios y Seguridad de la Información de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Además, los entes públicos distintos a los gobiernos de las entidades federativas y municipios, deben presentar la documentación que acredite la personalidad jurídica del ente público correspondiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Una vez que la Secretaría otorgue el acceso a la persona solicitante autorizada al sistema del Registro Público Único quedará acreditada la personalidad jurídica para realizar cualquier trámite ante el Registro Público Único.
 
 ###### Artículo 14.
 
 La Secretaría, una vez revisada la documentación a que se refiere el artículo anterior, dará a conocer al Solicitante Autorizado, a través de los medios que ésta determine de conformidad con los lineamientos que para tal efecto emita, la información relativa al usuario y contraseña correspondientes a efecto de que esté en posibilidad de ingresar al Sistema del Registro Público Único.
 
-### CAPÍTULO IV. Obligaciones del Solicitante Autorizado
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IV. Obligaciones de la Persona Solicitante Autorizada
 
 ###### Artículo 15.
 
@@ -207,13 +249,25 @@ Las notificaciones al Solicitante Autorizado que resulten de las etapas del proc
 
 El Registro Público Único podrá desechar la solicitud del trámite a que se refiere el artículo anterior, en los casos siguientes:
 
-I. Cuando no se desahogue la prevención dentro del plazo señalado en la fracción III del artículo 16 del presente Reglamento, o
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-II. Cuando habiendo desahogado la prevención dentro del plazo establecido, no se subsanen las observaciones realizadas.
+I. Cuando no se desahogue la prevención dentro del plazo señalado en la fracción III del artículo 16 del presente reglamento, o
 
-En cualquiera de los supuestos señalados en este artículo, el Registro Público Único resolverá lo conducente en un plazo de veinte días hábiles contado a partir del día hábil siguiente al que venza el plazo a que refiere la fracción III del artículo 16 del presente Reglamento. La improcedencia del trámite se notificará a través del Tablero Electrónico.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-En caso de que la solicitud sea desechada, quedarán a salvo los derechos del Solicitante Autorizado para presentar una nueva solicitud.
+II. Cuando habiendo desahogado la prevención dentro del plazo establecido, no se subsanen las observaciones realizadas, o
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. Cuando exista algún juicio o procedimiento administrativo relacionado con el Financiamiento u Obligación que se pretende inscribir.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En cualquiera de los supuestos señalados en este artículo, el Registro Público Único debe resolver lo conducente en un plazo máximo de veinte días hábiles, contado a partir del día hábil siguiente al que venza el plazo a que refiere la fracción III del artículo 16 del presente reglamento. La improcedencia del trámite se notificará a través del tablero electrónico.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En caso de que la solicitud sea desechada, quedarán a salvo los derechos de la persona solicitante autorizada para presentar una nueva solicitud.
 
 ###### Artículo 18.
 
@@ -231,15 +285,17 @@ Las solicitudes de trámites presentadas en el Sistema del Registro Público Ún
 
 ### CAPÍTULO VI. Inscripciones en el Registro Público Único
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 21.
 
-La disposición o desembolso de Financiamientos o, en su caso, el inicio del servicio de construcción u operación del proyecto relacionado a Obligaciones de Asociaciones Público-Privadas a cargo de los Entes Públicos, estará condicionada a la inscripción de dichos Financiamientos y Obligaciones en el Registro Público Único, excepto tratándose de Obligaciones a Corto Plazo y emisiones de valores.
+La disposición o desembolso de Financiamientos o, en su caso, el inicio del servicio de construcción u operación del proyecto relacionado a Obligaciones de Asociaciones Público-Privadas a cargo de los entes públicos, estará condicionada a la inscripción de dichos Financiamientos y Obligaciones en el Registro Público Único, excepto tratándose de Obligaciones a corto plazo y emisiones de valores.
 
-En el caso de las Obligaciones a Corto Plazo, las mismas deberán quedar inscritas en un período no mayor a treinta días, contado a partir del día siguiente al de su contratación, siempre y cuando cumpla con los requisitos establecidos en el presente Reglamento.
+En el caso de las Obligaciones a corto plazo, la solicitud de inscripción debe presentarse ante el Registro Público Único en un periodo no mayor a 30 días naturales, contado a partir del día siguiente al de su contratación, siempre y cuando incluya en su solicitud el instrumento jurídico debidamente suscrito y cumpla con los requisitos establecidos en este reglamento.
 
-Tratándose de Obligaciones que se originen de la emisión de valores, el Solicitante Autorizado deberá presentar la documentación a que se refiere el artículo 38 de este Reglamento, y el Registro procederá a inscribir el Financiamiento. El Ente Público, en un plazo de diez días hábiles siguientes a dicha inscripción, acreditará ante el Registro la colocación o circulación de los valores, debiendo ingresar al Sistema los documentos electrónicos a que se refiere la fracción II del artículo 38 de este Reglamento, a efecto de perfeccionar la inscripción.
+Tratándose de Obligaciones que se originen de la emisión de valores, la persona solicitante autorizada debe presentar la documentación a que se refiere el artículo 38 de este reglamento, y el Registro procederá a inscribir el Financiamiento. El ente público, en un plazo de diez días hábiles siguientes a dicha inscripción, debe acreditar ante el Registro la colocación o circulación de los valores, debiendo ingresar al sistema del Registro Público Único el documento a que se refiere la fracción III del artículo 38 de este reglamento, a efecto de perfeccionar la inscripción.
 
-En caso de no cumplir con la fracción II del artículo 38 del Reglamento en el plazo señalado en el párrafo anterior, el Registro procederá a la cancelación de la inscripción realizada, notificándole dicha situación al Solicitante Autorizado a través del Tablero Electrónico.
+En caso de no cumplir con la fracción III del artículo 38 del presente reglamento en el plazo señalado en el párrafo anterior, se procederá a la cancelación de la inscripción realizada, notificándole dicha situación a la persona solicitante autorizada a través del tablero electrónico.
 
 ###### Artículo 22.
 
@@ -429,11 +485,15 @@ f) Fuente de pago.
 
 #### Sección I. Contratación de Deuda Pública y Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 25.
 
-Para la inscripción en el Registro Público Único de Financiamientos contratados a un plazo mayor de un año, el Solicitante Autorizado deberá proporcionar lo siguiente:
+Para la inscripción en el Registro Público Único de Financiamientos contratados a un plazo mayor de un año, la persona solicitante debe proporcionar lo siguiente:
 
-I. Solicitud de inscripción generada a través del Sistema del Registro Público Único, conforme a los Formatos en los que manifieste bajo protesta de decir verdad, que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Solicitud de inscripción generada a través del sistema del Registro Público Único, en la que manifieste bajo protesta de decir verdad, que:
 
 a) Se trata de Financiamientos pagaderos en México y en moneda nacional, contraídos con las Instituciones Financieras que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana a través de emisiones bursátiles;
 
@@ -447,13 +507,29 @@ En caso de que el monto contratado exceda el Techo de Financiamiento Neto, confo
 
 En caso de que el Ente Público se ubique en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, manifestar que cuenta con el convenio a que se refieren los artículos 34 y 47 de la Ley, y que establece un Techo de Financiamiento Neto distinto al señalado en el artículo 46 de la Ley;
 
-e) El Financiamiento se contrató en las mejores condiciones de mercado de conformidad con la Ley, este Reglamento y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-f) El destino de los recursos, tratándose de Inversión Pública Productiva, es para los proyectos u obras elegibles o rubro de inversión que se encuentran comprendidos dentro de la definición a que refiere la fracción XXV del artículo 2 de la Ley, y
+e) El Financiamiento se contrató en las mejores condiciones de mercado de conformidad con la Ley, este reglamento y demás disposiciones aplicables;
 
-g) Los documentos que se presentan con la solicitud en el Sistema del Registro Público Único, cumplen con los requisitos a que se refiere el artículo 16 de la Ley de Firma Electrónica Avanzada.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Asimismo, dicha solicitud deberá contener los datos principales de los Financiamientos, de acuerdo con los Formatos;
+f) El destino de los recursos, tratándose de inversión pública productiva, es para los proyectos u obras elegibles o rubro de inversión que se encuentran comprendidos dentro de la definición a que se refiere la fracción XXV del artículo 2 de la Ley;
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+g) Los documentos que se presentan con la solicitud en el sistema del Registro Público Único, cumplen con los requisitos a que se refiere el artículo 16 de la Ley de Firma Electrónica Avanzada;
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+h) El ente público se encuentra al corriente en el pago de sus Financiamientos y Obligaciones, por lo que no se ubica en el supuesto establecido en el artículo 15 del Reglamento del Sistema de Alertas, e
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+i) Se da cumplimiento a lo previsto en el artículo 27 del presente reglamento.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Asimismo, dicha solicitud debe contener los datos principales de los Financiamientos, de acuerdo con la información solicitada por el sistema del Registro Público Único.
 
 II. La autorización de los Financiamientos por parte de la Legislatura Local en la que se especifique lo siguiente:
 
@@ -465,63 +541,105 @@ c) El destino de los recursos, de acuerdo a lo siguiente:
 
 1. En el caso de Inversión Pública Productiva, que se especifiquen los proyectos u obras elegibles o rubro de inversión. Para efecto de lo dispuesto en el inciso (i) de la fracción XXV del artículo 2 de la Ley, quedan comprendidas en dicho inciso las obras públicas capitalizables, las obras de dominio público, las obras transferibles y la inversión en infraestructura de bienes sujetos al régimen de dominio público o bienes propios del Ente Público, conforme a lo dispuesto en las disposiciones emitidas por el Consejo Nacional de Armonización Contable en términos de la Ley General de Contabilidad Gubernamental, o
 
-2. En el caso de Refinanciamiento, se especifiquen los Financiamientos a liquidar;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-d) En su caso, la Fuente de Pago, la contratación de una Garantía de Pago o Instrumentos Derivados para el Financiamiento;
+2. En el caso de Refinanciamiento, se especifiquen los Financiamientos a liquidar, incluida su clave de inscripción;
 
-e) La vigencia de la autorización. En caso de autorizaciones específicas, no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en el que fue aprobada, y
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-f) Que se autorizó por el voto de las dos terceras partes de los miembros presentes de la Legislatura Local, y previo análisis del destino y capacidad de pago. Para el primer caso, se deberá adjuntar el documento emitido por la Legislatura Local mediante el cual se acredite el quórum y el sentido de la votación;
+d) En su caso, la Fuente de pago, la contratación de una garantía de pago o instrumentos derivados para el Financiamiento;
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+e) La vigencia de la autorización. En caso de autorizaciones específicas, no podrá exceder el ejercicio fiscal siguiente al de su aprobación. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en el que fue aprobada. Tratándose de autorizaciones previstas en las leyes de ingresos estatales, la vigencia será por el ejercicio en el que ésta se encuentre vigente, y
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+f) La autorización de la Legislatura local por el voto de las dos terceras partes de los integrantes presentes, previo análisis del destino y capacidad de pago. Para el primer caso, se debe adjuntar el documento emitido por la Legislatura Local mediante el cual se acredite el quórum y el sentido de la votación;
 
 III. En su caso, el acta de cabildo o sesión del órgano de gobierno facultado para autorizar la contratación, según corresponda, en donde se autoriza al Ente Público la contratación del Financiamiento;
 
-IV. El instrumento jurídico y los anexos que formen parte integrante de éste, en el que se haga constar el Financiamiento cuya inscripción se solicita. Dicho documento deberá especificar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. El instrumento jurídico y los anexos que formen parte integrante de éste, en el que se haga constar el Financiamiento cuya inscripción se solicita. Dicho documento debe especificar:
 
 a) El monto contratado;
 
-b) El destino del Financiamiento. En el caso de que el destino sea Inversión Pública Productiva, se deberán incluir los proyectos u obras elegibles o por rubro específico de inversión. Tratándose de Refinanciamientos, se deberán señalar los Financiamientos a liquidar, incluyendo su Clave de Inscripción;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-c) La tasa de interés, cuando corresponda;
+b) El destino del Financiamiento. En el caso de que el destino sea inversión pública productiva, se deben incluir los proyectos u obras elegibles o por rubro específico de inversión. Tratándose de Refinanciamientos, se debe señalar los Financiamientos a liquidar, incluyendo su clave de inscripción;
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+c) La tasa de interés, cuando corresponda, ya sea fija o variable. En caso de ser tasa variable, se debe especificar la sobretasa aplicable;
 
 d) El plazo en días y fecha de vencimiento, y
 
 e) En su caso, la Fuente de Pago y el mecanismo de pago;
 
-V. La opinión emitida y suscrita por el titular de la entidad de fiscalización superior de la Entidad Federativa correspondiente, en el que manifieste que el Ente Público cumple con la publicación de la información financiera de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VI. El documento emitido por el secretario de finanzas, tesorero municipal o su equivalente de cada Ente Público, según corresponda, en el que acredite que el Financiamiento cuya inscripción se solicita fue celebrado bajo las mejores condiciones de mercado, de conformidad con lo establecido en la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
+V. La opinión emitida y suscrita por la persona titular de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que manifieste que el ente público cumple con la publicación de la información financiera del último trimestre que haya transcurrido a la fecha de presentación de la solicitud, de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. La opinión debe indicar, al menos, los enlaces electrónicos, o bien las rutas de acceso a las páginas de Internet en las cuales se encuentra disponible la información cuya publicación fue verificada, así como el periodo al que corresponda;
 
-En los casos de licitación pública deberá presentar el acta de fallo de conformidad con lo establecido en la Ley, este Reglamentos (sic) y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Asimismo, en el documento a que se refiere el primer párrafo de esta fracción se incluirá la manifestación de dichos servidores públicos, bajo protesta de decir verdad, de que se cumple con lo previsto en el artículo 27 del presente Reglamento;
+VI. El formato suscrito por la persona titular de la Secretaría de Finanzas, Tesorería Municipal o su equivalente de cada ente público, según corresponda, de conformidad a los anexos contenidos en los Lineamientos de la Metodología para el Cálculo del Menor Costo Financiero y de los Procesos Competitivos de los Financiamientos y Obligaciones a contratar por parte de las entidades federativas, los Municipios y sus Entes Públicos, emitidos por la Secretaría, en el que acredite que el Financiamiento cuya inscripción se solicita fue celebrado bajo las mejores condiciones de mercado.
 
-VII. La constancia emitida por el responsable del Registro Estatal, en donde señale que el Financiamiento materia de la solicitud se encuentra inscrito en el mismo;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En los casos de licitación pública se debe presentar el acta de fallo de conformidad con lo establecido en la Ley, este reglamento y demás disposiciones aplicables;
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VII. La constancia emitida por el responsable del registro estatal, en donde señale que el Financiamiento materia de la solicitud se encuentra inscrito en el mismo;
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En caso de que el Financiamiento que se solicita inscribir, haya sufrido modificaciones, la persona solicitante autorizada del ente público debe presentar también la constancia emitida por el responsable del registro estatal, en la cual acredite que la modificación se encuentra inscrita;
 
 VIII. La información para la evaluación requerida en el Reglamento del Sistema de Alertas, en el caso de que los Entes Públicos que soliciten la inscripción de Financiamientos en el Registro Público Único no tengan inscripciones vigentes, de conformidad con lo establecido en el artículo 46, último párrafo de la Ley.
 
 El Ente Público podrá solicitar previamente a la solicitud de inscripción en el Registro Público Único, la evaluación a que se refiere el Reglamento del Sistema de Alertas, en cuyo caso no se requerirá la información a que se refiere esta fracción para realizar el trámite;
 
-IX. En su caso, el instrumento jurídico en el que se haga constar el mecanismo de Fuente de Pago, o cualquier otro que complemente la estructura de la operación financiera en la cual el Financiamiento forma parte. En este caso deberá observarse adicionalmente lo previsto en los artículos 30, 31 o 32 de este Reglamento, según corresponda;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-X. En su caso, el documento emitido por el secretario de finanzas o su equivalente de la Entidad Federativa, en el que acredite que los Municipios que no cuenten con la garantía del Estado, tengan ingresos suficientes para cumplir con el pago de los Financiamientos, y
+IX. El instrumento jurídico en el que se haga constar el mecanismo de Fuente de Pago y, en su caso, cualquier otro que complemente la estructura de la operación financiera en la cual el Financiamiento forma parte. En este caso debe observarse adicionalmente lo previsto en los artículos 30, 31 o 32 de este reglamento, según corresponda;
 
-XI. El documento que acredite que el monto contratado en caso de Financiamientos respaldados con Ingresos de Libre Disposición, está comprendido dentro del Techo de Financiamiento Neto, de conformidad con la información emitida por el Sistema de Alertas, anexando el documento en el cual se detalle el Techo de Financiamiento Neto, así como el saldo de todas las Obligaciones y Financiamientos vigentes a la fecha de la solicitud considerando el monto de la nueva obligación que se pretende inscribir.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-En el caso de Financiamientos que cuenten con un aval, deberá presentar un documento emitido por el secretario de finanzas, tesorero o su equivalente que acredite que el monto que avala el Ente Público se encuentra comprendido dentro de su Techo de Financiamiento Neto, de conformidad con la información emitida por el Sistema de Alertas, anexando el documento en el cual se detalle el Techo de Financiamiento Neto, así como el saldo de todas las Obligaciones y Financiamientos vigentes a la fecha de la solicitud considerando el monto de la nueva obligación que se pretende inscribir.
+X. En su caso, el documento emitido por la persona titular de la Secretaría de Finanzas o su equivalente de la entidad federativa, en el que acredite que los municipios que no cuenten con la garantía del Estado, tengan ingresos suficientes para cumplir con el pago de los Financiamientos;
 
-En caso de que el Ente Público se ubique en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, presentar el convenio a que se refieren los artículos 34 y 47 de la Ley, mismo que podrá incluir un Techo de Financiamiento Neto distinto al señalado en el artículo 46 de la Ley.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Asimismo, el Solicitante Autorizado deberá cumplir con la entrega de información para la evaluación del Sistema de Alertas.
+XI. El documento que acredite que el monto contratado en caso de Financiamientos respaldados con ingresos de libre disposición, está comprendido dentro del Techo de Financiamiento Neto, de conformidad con la información emitida por el Sistema de Alertas, anexando el documento en el cual se detalle el Techo de Financiamiento Neto, considerando, en su caso, las amortizaciones realizadas con ingresos de libre disposición de los Financiamientos de largo plazo y de las Obligaciones a corto plazo que se hayan efectuado a la fecha de presentación de la solicitud; y, las disposiciones de Financiamientos que se realicen en el ejercicio fiscal. Asimismo, debe señalar el saldo de todas las Obligaciones y Financiamientos vigentes a la fecha de la solicitud considerando el monto de la nueva obligación que se pretende inscribir.
+
+En el caso de Financiamientos que cuenten con un aval, debe presentar un documento emitido por la persona titular de la Secretaría de Finanzas, de la Tesorería o su equivalente que acredite que el monto que avala el ente público se encuentra comprendido dentro de su Techo de Financiamiento Neto, de conformidad con la información emitida por el Sistema de Alertas, anexando el documento en el cual se detalle el Techo de Financiamiento Neto, considerando, en su caso, las amortizaciones realizadas con ingresos de libre disposición de los Financiamientos de largo plazo y de las Obligaciones a corto plazo que se hayan efectuado a la fecha de presentación de la solicitud; y, las disposiciones de Financiamientos que se realicen en el ejercicio fiscal. Asimismo, deberá señalar el saldo de todas las Obligaciones y Financiamientos vigentes a la fecha de la solicitud considerando el monto de la nueva obligación que se pretende inscribir.
+
+En caso de que el ente público se ubique en un endeudamiento elevado de conformidad a la evaluación inicial del Sistema de Alertas, debe presentar el convenio a que se refieren los artículos 34 y 47 de la Ley, mismo que podrá incluir un Techo de Financiamiento Neto distinto al señalado en el artículo 46 de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XII. Tabla de pagos.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Asimismo, la persona solicitante debe cumplir con la entrega de la información que establece el artículo 48 del presente reglamento y la información para la evaluación del Sistema de Alertas que corresponda al último periodo transcurrido a la fecha de presentación de la solicitud.
 
 En los casos de los Financiamientos destinados a Refinanciamiento, sólo podrán liquidar aquellos Financiamientos previamente inscritos en el Registro Público Único.
 
 No será responsabilidad de la Secretaría, el seguimiento del destino de los Financiamientos, señalado en las fracciones II, inciso c) y IV, inciso b) de este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 26.
 
-Para la inscripción en el Registro Público Único de las Obligaciones relacionadas con Asociaciones Público-Privadas, el Solicitante Autorizado deberá proporcionar lo siguiente:
+Para la inscripción en el Registro Público Único de las Obligaciones relacionadas con Asociaciones Público-Privadas, la persona solicitante autorizada debe proporcionar lo siguiente:
 
-I. Solicitud de Inscripción generada a través del Sistema del Registro Público Único, conforme a los Formatos en los que manifieste bajo protesta de decir verdad, que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Solicitud de inscripción generada a través del sistema del Registro Público Único, en la que manifieste bajo protesta de decir verdad, que:
 
 a) Se trata de Obligaciones pagaderas en México y en moneda nacional, contraídas con el prestador de servicios o inversionista proveedor de la Asociación Público-Privada correspondiente y que éste opera en territorio nacional;
 
@@ -529,17 +647,35 @@ b) La Legislatura Local autorizó, conforme al artículo 23 de la Ley, para cont
 
 En el caso de Municipios, entidades paraestatales y paramunicipales y otros Entes Públicos, que se cuenta, además con las autorizaciones del cabildo o de sus órganos de gobierno facultados para autorizar la contratación, según corresponda;
 
-c) La Obligación se contrató en las mejores condiciones de mercado de conformidad con la Ley y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-d) El destino de la Obligación, señalado en el proyecto de inversión, deberá estar comprendido dentro de la definición a que refiere la fracción XXV del artículo 2 de la Ley;
+c) La Obligación se contrató en las mejores condiciones de mercado de conformidad con la Ley y demás disposiciones aplicables;
 
-e) En el caso que el proyecto sea financiado de manera mayoritaria con recursos federales, que se cumple con la Ley de Asociaciones Público Privadas o bien, en caso contrario con la legislación local aplicable, y
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+d) El destino de la Obligación, señalado en el proyecto de inversión, debe estar comprendido dentro de la definición a que refiere la fracción XXV del artículo 2 de la Ley;
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+e) Cumple con la Ley de Asociaciones Público Privadas o bien, con la legislación local aplicable, en el caso que el proyecto sea financiado de manera mayoritaria con recursos federales;
 
 f) Los documentos que se presentan con la solicitud en el Sistema del Registro Público Único, cumplen con los requisitos a que se refiere el artículo 16 de la Ley de Firma Electrónica Avanzada;
 
-II. La autorización de las Obligaciones por parte de la Legislatura Local en el que se especifique lo siguiente:
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-a) El monto autorizado;
+g) Se encuentra al corriente en el pago de sus Financiamientos y Obligaciones, por lo que no se ubica en el supuesto establecido en el artículo 15 del Reglamento del Sistema de Alertas, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+h) Se da cumplimiento a lo previsto en el artículo 27 del presente reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. La autorización de las Obligaciones por parte de la Legislatura local en la que se especifique lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+a) El monto autorizado del proyecto;
 
 b) El plazo máximo autorizado del proyecto;
 
@@ -547,15 +683,23 @@ c) El destino de la Obligación, especificando el proyecto;
 
 d) En su caso, la Fuente de Pago y la contratación de una Garantía de Pago para la Obligación;
 
-e) La vigencia de la autorización. En caso de autorizaciones específicas, no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en el que fue aprobada, y
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-f) Que se autorizó por el voto de las dos terceras partes de los miembros presentes de la Legislatura Local, y previo análisis del destino y capacidad de pago del Ente Público a cuyo cargo estaría la Obligación. En el caso del cumplimiento del requisito de la autorización de las dos terceras partes, se deberá adjuntar el documento emitido por la Legislatura Local mediante el cual se acredite el quórum y el sentido de la votación;
+e) La vigencia de la autorización. En caso de autorizaciones específicas, no podrá exceder el ejercicio fiscal siguiente al de su aprobación. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en el que fue aprobada. Tratándose de autorizaciones previstas en las leyes de ingresos estatales, la vigencia será por el ejercicio en el que ésta se encuentre vigente; y
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+f) La autorización de la Legislatura local por el voto de las dos terceras partes de los integrantes presentes de la Legislatura Local, y previo análisis del destino y capacidad de pago del ente público a cuyo cargo estaría la Obligación. En el caso del cumplimiento del requisito de la autorización de las dos terceras partes, se debe adjuntar el documento emitido por la Legislatura local mediante el cual se acredite el quórum y el sentido de la votación;
 
 III. En su caso, el acta de cabildo o sesión del órgano de gobierno facultado para autorizar la contratación, según corresponda, en donde se autoriza al Ente Público la contratación de la Obligación;
 
-IV. El instrumento jurídico y los anexos que formen parte integrante de éste, en el que se haga constar la Obligación cuya Inscripción se solicita. Dicho documento deberá especificar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
-a) El monto de inversión a valor presente;
+IV. El instrumento jurídico y los anexos que formen parte integrante de éste, en el que se haga constar la Obligación cuya Inscripción se solicita. Dicho documento debe especificar:
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+a) El monto de la inversión pública productiva a valor presente;
 
 b) El plazo del proyecto en días y fecha de vencimiento;
 
@@ -567,47 +711,79 @@ e) Las erogaciones pendientes de pago, y
 
 f) En su caso, la Fuente de Pago y el mecanismo de pago;
 
-V. La opinión emitida y suscrita por el titular de la entidad de fiscalización superior de la Entidad Federativa correspondiente, en el que manifieste que el Ente Público cumple con la publicación de la información financiera de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VI. El documento emitido por el secretario de finanzas, tesorero municipal o su equivalente de cada Ente Público, según corresponda, en el que acredite que la Obligación cuya inscripción se solicita fue celebrada bajo las mejores condiciones de mercado de conformidad con lo establecido en la Ley y demás disposiciones jurídicas aplicables.
+V. La opinión emitida y suscrita por el titular de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que manifieste que el ente público cumple con la publicación de la información financiera del último trimestre que haya transcurrido a la fecha de presentación de la solicitud, de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. La opinión debe indicar, al menos, los enlaces electrónicos, o bien las rutas de acceso a las páginas de Internet en las cuales se encuentra disponible la información cuya publicación fue verificada, así como el periodo al que corresponda;
 
-En los casos de licitación pública deberá presentar el acta de fallo de conformidad con lo establecido en la Ley y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Asimismo, en el documento a que se refiere el primer párrafo de esta fracción se incluirá la manifestación de dichos servidores públicos, bajo protesta de decir verdad, que se cumple con lo previsto en el artículo 27 del presente Reglamento;
+VI. El formato suscrito por la persona titular de la Secretaría de Finanzas, de la Tesorería Municipal o su equivalente de cada ente público, según corresponda, de conformidad a los anexos contenidos en los Lineamientos de la Metodología para el Cálculo del Menor Costo Financiero y de los Procesos Competitivos de los Financiamientos y Obligaciones a contratar por parte de las entidades federativas, los municipios y sus entes públicos, emitidos por la Secretaría, en el que acredite que la Obligación cuya inscripción se solicita fue celebrada bajo las mejores condiciones de mercado.
 
-VII. La constancia emitida por el responsable del Registro Estatal, en donde señale que la Obligación materia de la solicitud se encuentra inscrita en el mismo;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VIII. Los Entes Públicos que soliciten la inscripción de Obligaciones en el Registro Público Único y no tengan Inscripciones vigentes, de conformidad con lo establecido en el último párrafo del artículo 46 de la Ley, deberán proporcionar la información para la evaluación requerida en el Reglamento del Sistema de Alertas.
+En los casos de licitación pública debe presentar el acta de fallo de conformidad con lo establecido en la Ley y demás disposiciones aplicables;
 
-El Ente Público podrá solicitar previamente a la solicitud de inscripción en el Registro Público Único, la evaluación a que se refiere el Reglamento del Sistema de Alertas, en cuyo caso no se requerirá la información a que se refiere esta fracción para realizar el trámite;
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-IX. El instrumento jurídico en el que se haga constar el mecanismo de Fuente de Pago, o cualquier otro que complemente la estructura de la operación financiera en la cual la Obligación forma parte. En este caso deberá observarse adicionalmente lo previsto en los artículos 30, 31 o 32 de este Reglamento, según corresponda;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-X. En su caso, documento emitido por el secretario de finanzas o su equivalente de la Entidad Federativa, en el que acredite que los Municipios que no cuenten con la garantía del Estado, tengan ingresos suficientes para cumplir con el pago de las Obligaciones;
+VII. La constancia emitida por el responsable del registro estatal, en donde señale que la Obligación materia de la solicitud se encuentra inscrita en el mismo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En caso de que la Obligación que se solicita inscribir, haya sido modificada, la persona solicitante autorizada del ente público debe presentar también la constancia emitida por el responsable del registro estatal, en donde se acredite que la modificación se encuentra inscrita;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VIII. Los entes públicos que soliciten la inscripción de Obligaciones en el Registro Público Único y no tengan inscripciones vigentes, de conformidad con lo establecido en el último párrafo del artículo 46 de la Ley, deben proporcionar la información para la evaluación requerida en el Reglamento del Sistema de Alertas.
+
+El ente público podrá solicitar previamente a la solicitud de inscripción en el Registro Público Único, la evaluación a que se refiere el Reglamento del Sistema de Alertas, en cuyo caso no se requerirá la información a que se refiere esta fracción para realizar el trámite;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IX. El instrumento jurídico en el que se haga constar el mecanismo de Fuente de Pago, o cualquier otro que complemente la estructura de la operación financiera en la cual la Obligación forma parte. En este caso debe observarse adicionalmente lo previsto en los artículos 30, 31 o 32 de este reglamento, según corresponda;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+X. En su caso, documento emitido por la persona titular de la Secretaría de Finanzas o su equivalente de la entidad federativa, en el que acredite que los municipios que no cuenten con la garantía del Estado, tengan ingresos suficientes para cumplir con el pago de las Obligaciones;
 
 XI. El documento que acredite el análisis de conveniencia y un análisis de transferencia de riesgos al sector privado a que se refieren el artículo 13, fracción III, párrafo tercero de la Ley, y
 
 XII. La constancia del registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando el proyecto sea financiado en parte con recursos federales.
 
-Asimismo, el Solicitante Autorizado deberá cumplir con la entrega de información para la evaluación del Sistema de Alertas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Asimismo, la persona solicitante autorizada debe cumplir con la entrega de la información que establece el artículo 48 del presente reglamento y la información para la evaluación del Sistema de Alertas que corresponda al último periodo transcurrido a la fecha de presentación de la solicitud.
 
 No será responsabilidad de la Secretaría, el seguimiento del destino de la Obligación, señalado en las fracciones II, inciso c) y IV, inciso c) de este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 27.
 
-Para la inscripción en el Registro Público Único, conforme a lo dispuesto en el artículo 51, fracciones I y XI de la Ley, el Solicitante Autorizado deberá acreditar que los gastos y costos relacionados a la contratación de Financiamientos y Obligaciones, a que se refiere el artículo 22 de la Ley, no rebasen el 2.5% del monto contratado del Financiamiento u Obligación, incluyendo los Instrumentos Derivados y las Garantías de Pago. En caso de que no se incluyan los Instrumentos Derivados y las Garantías de Pago, los gastos y costos relacionados a la contratación de Financiamientos y Obligaciones no deberán rebasar el 1.5% del monto contratado del Financiamiento u Obligación.
+Para la inscripción en el Registro Público Único, de conformidad a lo dispuesto en el artículo 51, fracciones I y XI de la Ley, la persona solicitante autorizada debe acreditar que los gastos y costos relacionados con la contratación de Financiamientos y Obligaciones, a que se refieren los artículos 2, fracción XIII Bis y 22 de la Ley, no rebasen el 0.15% del monto contratado del Financiamiento u Obligación correspondiente. Para ello la persona solicitante autorizada debe adjuntar el documento en el cual desglose cada uno de los conceptos que integran los gastos y costos, donde se especifique el monto y el porcentaje que representan.
 
-En caso de que los gastos y costos a que se refiere el párrafo anterior rebasen los porcentajes señalados en el mismo, el Solicitante Autorizado deberá adjuntar la justificación correspondiente, desglosando cada uno de los conceptos que integran los gastos y costos. Dicha justificación estará disponible para consulta en el Registro Público Único, sin perjuicio de lo previsto en el artículo 3 de este Reglamento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Asimismo, las reservas que se constituyan con recursos del Financiamiento u Obligación, en caso de no ser utilizadas durante la vigencia del Financiamiento u Obligación, el Solicitante Autorizado deberá manifestar por escrito, bajo protesta de decir verdad, que se destinarán al pago del capital del Financiamiento o pago de inversión de la Obligación de que se trate. Asimismo, que en caso de Refinanciamientos, dichas reservas podrán destinarse a conformar, en su caso, las nuevas reservas del Financiamiento.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Asimismo, las reservas que se constituyan con recursos del Financiamiento u Obligación, en caso de no ser utilizadas durante la vigencia del Financiamiento u Obligación, la persona solicitante autorizada debe manifestar por escrito, bajo protesta de decir verdad, que se destinarán al pago del capital del Financiamiento o pago de inversión de la Obligación de que se trate. Asimismo, que, en caso de Refinanciamientos, dichas reservas pueden destinarse a conformar las nuevas reservas del Financiamiento.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En los supuestos en que los gastos y costos relacionados con la contratación y la constitución de reservas, no sean cubiertos con recursos del Financiamiento u Obligación, la persona solicitante autorizada debe manifestarlo expresamente, mediante el documento emitido por la persona titular de la Secretaría de Finanzas, Tesorería Municipal o su equivalente de cada ente público, según corresponda.
 
 #### Sección II. Obligaciones a Corto Plazo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 28.
 
-Para la inscripción en el Registro Público Único de las Obligaciones a Corto Plazo de las Entidades Federativas y de los Municipios que, conforme a lo previsto en el artículo 30 de la Ley, no requieren la autorización de la Legislatura Local, además de lo señalado en el artículo 25, con excepción de las fracciones I, incisos c) y f), II, III, IV, IX del presente Reglamento, el Solicitante Autorizado deberá cumplir lo siguiente:
+Para la inscripción en el Registro Público Único de las Obligaciones a corto plazo de las entidades federativas y de los municipios que, de conformidad a lo previsto en el artículo 30 de la Ley, no requieren la autorización de la Legislatura local, además de lo señalado en el artículo 25, con excepción de las fracciones I, incisos c), f), i); II; III; IV, y IX, y en el artículo 27 del presente reglamento, la persona solicitante autorizada debe cumplir lo siguiente:
 
-I. Proporcionar el instrumento jurídico que sustente la Obligación a Corto Plazo, el cual deberá señalar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Proporcionar el instrumento jurídico que sustente la Obligación a corto plazo, el cual debe señalar:
 
 a) Que la Obligación a Corto Plazo es quirografaria;
 
@@ -615,53 +791,101 @@ b) El monto contratado;
 
 c) La tasa de interés;
 
-d) Que el destino es cubrir necesidades a corto plazo en términos del artículo 31, primer párrafo de la Ley, además, que se da cumplimiento con lo previstos en el artículo 30, fracción I de la Ley, y
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-e) El plazo en días y fecha de liquidación de la Obligación a Corto Plazo, la cual no deberá exceder de un año a partir de la fecha de contratación. Asimismo, dicha Obligación a Corto Plazo deberá quedar totalmente pagada antes de los últimos tres meses del periodo de gobierno de la administración correspondiente y no podrán contratarse nuevas Obligaciones a Corto Plazo durante dichos últimos tres meses;
+d) Que el destino debe ser destinado a cubrir necesidades a corto plazo en términos del artículo 31, primer párrafo de la Ley;
 
-II. Anexar el documento suscrito por el secretario de finanzas o tesorero municipal en el que conste que el saldo insoluto total del monto principal de las Obligaciones a Corto Plazo no excede del 6 por ciento de los Ingresos Totales aprobados en su Ley de Ingresos, sin incluir el Financiamiento Neto de la Entidad Federativa o del Municipio durante el ejercicio fiscal de que se trate, de conformidad con los Formatos, y
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-III. Manifestar bajo protesta de decir verdad que se encuentran registradas todas las Obligaciones a Corto Plazo vigentes de la Entidad Federativa o Municipio correspondiente.
+e) El plazo en días y fecha de liquidación de la Obligación a Corto Plazo, la cual no debe exceder de un año a partir de la fecha de contratación. Asimismo, dicha Obligación a corto plazo debe quedar totalmente pagada antes de los últimos tres meses del periodo de gobierno de la administración correspondiente y no pueden contratarse nuevas Obligaciones a corto plazo durante dichos últimos tres meses, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+f) Que la Obligación a corto plazo no es de carácter revolvente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Anexar el documento suscrito por la persona titular de la Secretaría de Finanzas o Tesorería Municipal o su equivalente, según corresponda, en el que conste que el saldo insoluto total del monto principal de todas las Obligaciones a corto plazo vigentes no excede del 6 por ciento de los Ingresos totales aprobados en su Ley de Ingresos, sin incluir el Financiamiento Neto de la entidad federativa o del municipio durante el ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En el supuesto de que el documento indicado en la fracción anterior señale que una o varias Obligaciones a corto plazo se encuentran liquidadas o no se han dispuesto, la persona solicitante autorizada debe adjuntar el documento emitido por la institución financiera que lo acredite, mismo que deberá expedirse en términos de lo establecido en la fracción II del artículo 47 del presente reglamento;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. Manifestar bajo protesta de decir verdad que se encuentran registradas todas las Obligaciones a corto plazo que fueron celebradas con anterioridad a la obligación que se pretende inscribir, por parte de la entidad federativa o municipio correspondiente, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. Anexar el documento suscrito por la persona titular de la Secretaría de Finanzas o la persona titular de la Tesorería Municipal o su equivalente, según corresponda, en el que se haga constar el periodo de gobierno de la administración que solicita la inscripción, de conformidad a lo previsto en el artículo 30, fracción II de la Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 29.
 
-Las Obligaciones a corto plazo no podrán ser objeto de Refinanciamiento o Reestructuración a plazos mayores a un año, salvo en el caso de las Obligaciones a Corto Plazo destinadas a Inversión Pública Productiva y previamente Inscritas en el Registro, debiendo cumplir con los requisitos que le apliquen. En el caso de la autorización por parte de la Legislatura Local, se deberá especificar el destino de los recursos, correspondiente a la Inversión Pública Productiva a la que, en su caso, fue destinada la Obligación.
+Las Obligaciones a corto plazo no pueden ser objeto de Refinanciamiento o Reestructuración a plazos mayores a un año.
 
 ### CAPÍTULO II. Disposiciones Específicas para las Solicitudes de Inscripción en el Registro Público Único
 
 #### Sección I. Fuente de Pago
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 30.
 
-Para la inscripción en el Registro Público Único de Financiamientos u Obligaciones que tengan como Fuente de Pago participaciones federales, además de lo señalado en los artículos 25 o 26 del presente Reglamento, el Solicitante Autorizado de la Entidad Federativa y Municipio deberá establecer en el instrumento jurídico en el que conste el Financiamiento u Obligación, los fondos a afectar de conformidad con el artículo 9 de la Ley de Coordinación Fiscal, específicamente del Fondo General de Participaciones, del Fondo de Fomento Municipal, o bien, de los recursos a que se refiere el artículo 4o.-A, fracción I de dicho ordenamiento legal, señalando el porcentaje de Afectación a dichos fondos o recursos y, en su caso, que se realiza a través de un fideicomiso maestro, que contemple una Afectación general para el pago de los Financiamientos u Obligaciones.
+Para la inscripción en el Registro Público Único de Financiamientos u Obligaciones que tengan como Fuente de pago participaciones federales, además de lo señalado en los artículos 25 o 26 del presente reglamento, la persona solicitante autorizada de la entidad federativa y municipio debe establecer en el instrumento jurídico en el que conste el Financiamiento u Obligación, los fondos a afectar de conformidad con el artículo 9 de la Ley de Coordinación Fiscal, específicamente del Fondo General de Participaciones, del Fondo de Fomento Municipal, o bien, de los recursos a que se refiere el artículo 4o.-A, fracción I de dicho ordenamiento legal, señalando el porcentaje de afectación a dichos fondos o recursos y, en su caso, que se realiza a través de un fideicomiso maestro, que contemple una afectación general para el pago de los Financiamientos u Obligaciones.
 
-En el caso de que la Entidad Federativa o Municipio realice la Afectación a que se refiere el párrafo anterior, a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, el Solicitante Autorizado deberá presentar, debidamente suscrito por el fiduciario, el secretario de finanzas de la Entidad Federativa y, en su caso, por el tesorero municipal o sus equivalentes, el mandato de dicha Entidad Federativa, actuando en nombre propio o del Municipio, según el caso, para la entrega de las participaciones afectadas en Garantía o Fuente de Pago que correspondan, para efecto de que la Secretaría acepte el mismo. En los reportes que en términos de la Ley deban presentarse respecto de los Financiamientos y Obligaciones a que se refiere este párrafo, éstos serán consolidados con los Financiamientos y Obligaciones de la Entidad Federativa o del Municipio, según el caso.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Tratándose de Financiamientos u Obligaciones que cuenten con un aval, respaldo subsidiario o solidario, el instrumento jurídico debe especificar también el fondo a afectar de conformidad con el artículo 9 de la Ley de Coordinación Fiscal, señalando el porcentaje de afectación a dicho fondo y, en su caso, que se realiza a través de un fideicomiso maestro, que contemple una afectación general para el pago de los Financiamientos u Obligaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 31.
 
-Para la inscripción en el Registro Público Único de Financiamientos que tengan como Fuente de Pago aportaciones federales, además de lo señalado en el artículo 25, con excepción de las fracciones I, inciso d), y XI del presente Reglamento, el Solicitante Autorizado deberá cumplir con lo siguiente:
+Para la inscripción en el Registro Público Único de Financiamientos que tengan como Fuente de pago aportaciones federales, además de lo señalado en el artículo 25, con excepción de las fracciones I, inciso d), y XI del presente reglamento, la persona solicitante autorizada debe cumplir con lo siguiente:
 
 I. Señalar en el instrumento jurídico en el que conste el Financiamiento, el fondo y porcentaje a afectar, en términos de la Ley de Coordinación Fiscal, y
 
 II. Proporcionar la publicación más reciente, en el medio de difusión oficial que corresponda, que especifique la distribución de los recursos del fondo a afectar en términos de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En caso de Financiamientos que cuenten con un aval, respaldo subsidiario o solidario, el instrumento jurídico también debe especificar, el fondo y porcentaje a afectar del ente público que respalda el Financiamiento, en términos de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 32.
 
-Para la inscripción en el Registro Público Único de los Financiamientos u Obligaciones con Fuente de Pago de Ingresos Locales del Ente Público, además de lo señalado en los artículos 25 o 26 de este Reglamento, el Solicitante Autorizado deberá proporcionar un oficio en el que manifieste que el Ente Público cuenta con ingresos suficientes para cumplir con los Financiamientos u Obligaciones que tienen afectada dicha Fuente de Pago. El instrumento jurídico deberá señalar el porcentaje de Afectación del Ingreso Local.
+Para la inscripción en el Registro Público Único de los Financiamientos u Obligaciones con Fuente de pago de ingresos locales del ente público, además de lo señalado en los artículos 25 o 26 de este reglamento, la persona solicitante autorizada debe proporcionar un oficio en el que manifieste que el ente público cuenta con ingresos suficientes para cumplir con los Financiamientos u Obligaciones que tienen afectada dicha Fuente de pago. El instrumento jurídico deberá especificar el Ingreso Local que servirá de Fuente de pago y el porcentaje de afectación del mismo, así como el porcentaje que representa del total de sus ingresos locales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En los Financiamientos u Obligaciones que cuenten con un aval, respaldo subsidiario o solidario, el instrumento jurídico debe especificar también el ingreso local que servirá de Fuente de pago y el porcentaje de afectación del mismo, así como el porcentaje que representa del total de sus ingresos locales del ente público que respalda el Financiamiento u Obligación.
 
 #### Sección II. Garantías de Pago
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 33.
 
-Para inscribir en el Registro Público Único las Garantías de Pago que respaldan Financiamientos u Obligaciones de los Entes Públicos, además de lo señalado en los artículos 25, con excepción de las fracciones I, incisos d) y f), II, inciso c), IV, inciso b), y XI, 30 y 32 de este Reglamento, el Solicitante Autorizado deberá señalar en el instrumento jurídico en el cual conste la Garantía de Pago, lo siguiente:
+Para inscribir en el Registro Público Único las garantías de pago o líneas contingentes que respalden el pago de Financiamientos u Obligaciones de los entes públicos, además de lo señalado en los artículos 25, con excepción de las fracciones I, incisos d), f), i); II, inciso c); IV, inciso b), y XI, 30 o 32 según sea el caso, de este reglamento la persona solicitante autorizada debe señalar en el instrumento jurídico en el cual conste, lo siguiente:
 
-I. Los Financiamientos u Obligaciones a garantizar, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Los Financiamientos u Obligaciones a garantizar, incluida su clave de inscripción, y
 
 II. El monto o porcentaje del Financiamiento u Obligación que garantiza, en su caso.
 
-La inscripción de la Garantía de Pago estará referida al Financiamiento u Obligación principal que se garantiza y no contará con una Clave de Inscripción distinta de ésta. Las Garantías de Pago, en tanto no se hagan efectivas, no formarán parte del saldo de la Deuda Pública y Obligaciones que se deban inscribir en el Registro Público Único.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Para efectos de su inscripción, la garantía de pago o línea contingente, estarán referidos al Financiamiento u Obligación principal que se garantizan y no contarán con una clave de inscripción distinta de ésta. Las Garantías de Pago o líneas contingentes, en tanto no se hagan efectivas, no formarán parte del saldo de la deuda pública y Obligaciones que se deban inscribir en el Registro Público Único.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Las garantías de pago que compartan la Fuente de pago del Financiamiento u Obligación que respaldan, la persona solicitante autorizada no estará obligada a especificar en el instrumento jurídico los recursos otorgados como Fuente de pago ni el porcentaje de afectación de los mismos.
 
 #### Sección III. Financiamientos u Obligaciones de la Ciudad de México
 
@@ -711,9 +935,11 @@ II. El proyecto de prospecto de colocación autorizado por la Comisión Nacional
 
 III. Entregar copia certificada del título representativo de los valores colocados a más tardar diez días hábiles posteriores a su inscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 39.
 
-Para la inscripción en el Registro Público Único de contratos de Arrendamiento Financiero, además de lo establecido en los artículos 25, con excepción de las fracciones II, inciso c), numeral 2 y IV, inciso b) y, en su caso, 30, 31 o 32 de este Reglamento, el Solicitante Autorizado deberá proporcionar lo siguiente:
+Para la inscripción en el Registro Público Único de contratos de arrendamiento financiero, además de lo establecido en los artículos 25, con excepción de las fracciones II, inciso c), numeral 2 y IV, inciso b), XII y, en su caso, 30, 31 o 32 de este reglamento, la persona solicitante autorizada debe proporcionar lo siguiente:
 
 I. El instrumento jurídico que incluya:
 
@@ -723,25 +949,45 @@ b) El destino sea Inversión Pública Productiva, especificando los proyectos u 
 
 II. La tabla de pagos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 40.
 
-Para la inscripción en el Registro Público Único de contratos de operaciones de factoraje financiero o cadenas productivas, además de lo señalado en el artículo 28 del presente Reglamento, el Solicitante Autorizado de las Entidades Federativas o de los Municipios deberá proporcionar lo siguiente:
+Para la inscripción en el Registro Público Único de contratos de operaciones de factoraje financiero o cadenas productivas, además de lo señalado en el artículo 28, con excepción de lo establecido en la fracción I, inciso f), del presente reglamento, la persona solicitante autorizada de las entidades federativas o de los municipios deben proporcionar lo siguiente:
 
-I. El instrumento jurídico en el cual conste el monto de la línea del factoraje, así como la tasa de descuento y la fecha de vencimiento, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. El instrumento jurídico y, en su caso, cualquier otro que complemente la estructura de la operación financiera, en el cual conste el monto de la línea del factoraje, así como la tasa de descuento y la fecha de vencimiento, y
 
 II. En su caso, el convenio para la incorporación al Programa de Cadenas Productivas celebrado con Nacional Financiera, S.N.C. Institución de Banca de Desarrollo y documento de adhesión o el mecanismo determinado por dicha institución para la incorporación de los intermediarios financieros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 41.
 
-Para la inscripción en el Registro Público Único de Instrumentos Derivados que conlleven a una Obligación de pago mayor a un año, el Solicitante Autorizado además de lo señalado en los artículos 25, con excepción de la fracciones I, incisos d) y f), II, IV, VIII y XI, 30 o 32 del presente Reglamento, según sea el caso, deberá proporcionar el instrumento jurídico en el cual se haga constar el Instrumento Derivado en el que se especifiquen los Financiamientos u Obligaciones principales que serán cubiertos, los cuales deberán estar inscritos, señalando sus principales características. Asimismo, deberá contar con la autorización de la Legislatura Local.
+Para la inscripción en el Registro Público Único de instrumentos derivados que conlleven a una Obligación de pago mayor a un año, la persona solicitante autorizada debe cumplir lo señalado en los artículos 25, con excepción de las fracciones I, incisos d), f), i); II, inciso c); IV, inciso b); VIII, y XI, 30 o 32 del presente reglamento, según sea el caso.
 
-La inscripción de los Instrumentos Derivados estará referida a los Financiamientos u Obligaciones principales a cubrir, por lo que no contará con una Clave de Inscripción distinta a éstos.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Este tipo de Instrumentos Derivados no formarán parte del saldo de la Deuda Pública y Obligaciones.
+Adicionalmente, el instrumento jurídico en el cual conste el instrumento derivado también debe especificar:
+
+I. Los Financiamientos u Obligaciones principales que serán cubiertos, señalando sus principales características, incluida su clave de inscripción, y
+
+II. El monto o porcentaje del Financiamiento u Obligación que cubre.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+La inscripción de los instrumentos derivados estará referida a los Financiamientos u Obligaciones principales a cubrir, por lo que no contará con una clave de inscripción distinta a éstos. En caso de compartir la Fuente de pago del Financiamiento u Obligación que respaldan, la persona solicitante autorizada no estará obligado (sic) a especificar los recursos otorgados como Fuente de pago del instrumento derivado, así como el porcentaje de afectación de los mismos en el instrumento jurídico.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Este tipo de instrumentos derivados no formarán parte del saldo de la deuda pública y Obligaciones.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 42.
 
-Para la Inscripción en el Registro Público Único de Financiamientos u Obligaciones cuyo destino sea una Inversión Pública Productiva de alumbrado público nuevo, ampliación o modificación a la instalación existente, independientemente del medio por el que se instrumente, además de lo establecido en los artículos 25 y, en su caso, 30, 31 o 32 del presente Reglamento, se deberá proporcionar, la opinión técnica emitida por la Comisión Nacional para el Uso Eficiente de la Energía, con el objeto de garantizar la viabilidad técnica del proyecto a través del cumplimiento de las normas oficiales mexicanas y normas mexicanas de seguridad y eficiencia energética aplicables.
+Para la inscripción en el Registro Público Único de Financiamientos u Obligaciones cuyo destino sea una inversión pública productiva de alumbrado público nuevo, ampliación o modificación a la instalación existente, independientemente del medio por el que se instrumente, además de lo establecido en los artículos 25 o 26 y, según sea el caso, 30, 31 o 32 del presente reglamento, se debe proporcionar la opinión vinculatoria emitida por la Comisión Nacional para el Uso Eficiente de la Energía, con el objeto de garantizar la viabilidad técnica del proyecto a través del cumplimiento de las normas oficiales mexicanas y estándares de seguridad y eficiencia energética aplicables, así como su rentabilidad económica y social.
 
 ###### Artículo 43.
 
@@ -779,9 +1025,11 @@ Para efectos de este artículo, el Refinanciamiento aplicará siempre y cuando, 
 
 #### Sección I. Modificaciones que Requieren Autorización de la Legislatura Local
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 45.
 
-Para inscripción en el Registro Público Único de Reestructuras de Financiamientos o modificación de Obligaciones relacionadas con Asociaciones Público-Privadas que requieren autorización de la Legislatura Local, el Solicitante Autorizado deberá cumplir con lo siguiente:
+Para inscripción en el Registro Público Único de reestructuras de Financiamientos o modificación de Obligaciones relacionadas con Asociaciones Público-Privadas que requieren autorización de la Legislatura local, la persona solicitante autorizada debe cumplir con lo siguiente:
 
 I. Solicitud de inscripción conforme a los Formatos en los que manifieste bajo protesta de decir verdad, que:
 
@@ -789,7 +1037,9 @@ a) La Legislatura Local autorizó, conforme al artículo 23 de la Ley, que se re
 
 b) Cumple con las disposiciones jurídicas aplicables.
 
-Asimismo, dicha solicitud deberá contener los datos principales de los Financiamientos a reestructurar o de la Obligación a modificar, así como las modificaciones que se le realizan de acuerdo con los Formatos;
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Asimismo, dicha solicitud debe contener los datos principales de los Financiamientos a reestructurar o de la Obligación a modificar, así como las modificaciones que se le realizan de acuerdo con los formatos;
 
 II. La autorización por parte de la Legislatura Local en el que se especifique lo siguiente:
 
@@ -797,9 +1047,13 @@ a) El Financiamiento a ser reestructurado o la Obligación a ser modificada;
 
 b) Las modificaciones a realizar;
 
-c) La vigencia de la autorización. En caso de autorizaciones específicas, no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en el que fue aprobada, y
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-d) Que se autorizó por el voto de las dos terceras partes de los miembros presentes de la Legislatura Local, y previo análisis del destino y capacidad de pago. En el caso del cumplimiento del requisito de la autorización de las dos terceras partes, se deberá adjuntar el documento emitido por la Legislatura Local mediante el cual se acredite el quórum y el sentido de la votación.
+c) La vigencia de la autorización. En caso de autorizaciones específicas, no podrá exceder el ejercicio fiscal siguiente al de su aprobación. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en el que fue aprobada. Tratándose de autorizaciones previstas en las Leyes de Ingresos estatales, la vigencia será por el ejercicio en el que ésta se encuentre vigente, y
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+d) La autorización de la Legislatura local por el voto de las dos terceras partes de los integrantes presentes de la Legislatura Local, y previo análisis del destino y capacidad de pago. En el caso del cumplimiento del requisito de la autorización de las dos terceras partes, se debe adjuntar el documento emitido por la legislatura local mediante el cual se acredite el quórum y el sentido de la votación.
 
 Para el caso de la Ciudad de México, aplica para modificaciones de Obligaciones relacionadas con Asociaciones Público-Privadas;
 
@@ -811,11 +1065,15 @@ a) El Financiamiento a reestructurar o la Obligación a modificar, incluyendo su
 
 b) La reestructura del Financiamiento o la modificación de la Obligación a realizar;
 
-V. La opinión emitida y suscrita por el titular de la entidad de fiscalización superior de la Entidad Federativa correspondiente, en el que manifieste que el Ente Público cumple con la publicación de la información financiera de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. La opinión emitida y suscrita por el titular de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que manifieste que el ente público cumple con la publicación de la información financiera del último trimestre que haya transcurrido a la fecha de presentación de la solicitud, de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. La opinión debe indicar, al menos, los enlaces electrónicos, o bien las rutas de acceso a las páginas de Internet en las cuales se encuentra disponible la información cuya publicación fue verificada, así como el periodo al que corresponda;
 
 VI. La constancia emitida por el responsable del Registro Estatal, en donde señale que la Reestructuración del Financiamiento o la modificación de la Obligación materia de la solicitud se encuentra inscrita en el mismo. En el caso de la Ciudad de México, la inscripción de la Reestructuración del Financiamiento en el Registro de la Deuda del Sector Público Federal;
 
-VII. En caso de Financiamientos, con lo señalado en el artículo 25, fracciones I, inciso d) y XI del presente Reglamento. En el caso específico de la Ciudad de México, deberá cumplir con lo señalado en los artículos 25, fracción I, inciso d) y 34, fracción I del presente Reglamento, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VII. En caso de Financiamientos, con lo señalado en el artículo 25, fracciones I, inciso d) y XI del presente Reglamento. En el caso específico de la Ciudad de México, debe cumplir con lo señalado en los artículos 25, fracción I, inciso d) y 34, fracción I del presente reglamento, y
 
 VIII. En su caso, instrumento jurídico en el que se haga constar el mecanismo de Fuente de Pago, o cualquier otro que complemente la estructura de la operación financiera en la cual el Financiamiento forma parte.
 
@@ -835,25 +1093,39 @@ III. Proporcionar el documento emitido por el secretario de finanzas, tesorero m
 
 ### CAPÍTULO V. Cancelación de Inscripciones de Financiamientos y Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 47.
 
-Para la cancelación de una inscripción en el Registro Público Único, al efectuarse el pago total de una Obligación o no haberse dispuesto del Financiamiento inscritos en el Registro Público Único, el Solicitante Autorizado deberá informarlo a la Secretaría, a fin de proceder a su cancelación.
+Para la cancelación de una inscripción en el Registro Público Único, la persona solicitante autorizada debe informarlo a la Secretaría, a fin de proceder a su cancelación.
 
-Para realizar la cancelación en el Registro Público Único, el Solicitante Autorizado deberá proporcionar lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
-I. Señalar en la solicitud de la cancelación del registro del Financiamiento u Obligación, la Clave de Inscripción, fecha de inscripción, monto original contratado y denominación de la Institución Financiera y, en su caso, prestador de servicio o inversionista proveedor, según se trate de acuerdo a los Formatos, y
+Para realizar la cancelación en el Registro Público Único, la persona solicitante autorizada debe proporcionar lo siguiente:
 
-II. El documento suscrito por el representante legal de la Institución Financiera y prestador de servicio o inversionista proveedor, según se trate, en el que se especifique que el Financiamiento u Obligación ha sido liquidado o no ha sido dispuesto, incluyendo los datos principales que identifiquen la operación de las mismas.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Señalar en la solicitud de la cancelación del registro del Financiamiento u Obligación, la clave de inscripción, fecha de inscripción, monto original contratado y denominación de la institución financiera y, en su caso, prestador de servicio o inversionista proveedor, según se trate; y
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. El documento suscrito por el representante legal o apoderado legal de la institución financiera, prestador de servicio o inversionista proveedor, según se trate, en el que se especifique que el Financiamiento u Obligación ha sido liquidado o no ha sido dispuesto, los datos principales que identifiquen la operación, incluida su clave de inscripción.
 
 ## TÍTULO CUARTO. Información y Transparencia del Registro Público Único
 
 ### CAPÍTULO I. Transparencia del Registro Público Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 48.
 
-A fin de mantener actualizado el Registro Público Único y dar cumplimiento a los requerimientos de información de la Secretaría, de conformidad con el artículo 4, fracción II, inciso a) del presente Reglamento, cada Entidad Federativa, a través del Solicitante Autorizado, deberá entregar dentro del plazo de treinta días naturales posteriores al término de los meses de marzo, junio, septiembre y diciembre, la información correspondiente a cada Financiamiento y Obligación de la propia Entidad Federativa, de sus Municipios y de sus Entes Públicos de acuerdo a la especificación requerida por el Sistema del Registro Público Único.
+A fin de mantener actualizado el Registro Público Único y dar cumplimiento a los requerimientos de información de la Secretaría, de conformidad con el artículo 4, fracción II, inciso a) del presente reglamento, cada entidad federativa, a través de la persona solicitante autorizada, debe entregar dentro del plazo de treinta días naturales posteriores al término de los meses de marzo, junio, septiembre y diciembre, la información correspondiente a cada Financiamiento y Obligación de la propia entidad federativa, de sus municipios y de sus entes públicos de acuerdo a la especificación requerida por el sistema del Registro Público Único. Asimismo, la entidad federativa será la responsable de recopilar la información conducente tanto propia, como de sus municipios y, entes públicos de ambos órdenes de gobierno, a fin de remitirla a través del sistema del Registro Público Único.
 
 Asimismo, la Entidad Federativa será la responsable de recopilar la información conducente tanto propia, como de sus Municipios y, Entes Públicos de ambos órdenes de gobierno, a fin de remitirla a través del Sistema de acuerdo a los Formatos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Previo a la publicación señalada en el artículo 49 de este reglamento, la Secretaría podrá requerir a las entidades federativas aclaraciones con relación a la información a que se refiere el presente artículo.
 
 ###### Artículo 49.
 
@@ -865,13 +1137,17 @@ II. La información trimestral del porcentaje total de participaciones federales
 
 La Secretaría enviará trimestralmente al Comité Coordinador del Sistema Nacional Anticorrupción, la información a que se refiere el artículo 56, segundo párrafo de la Ley con el objeto de que dicho Comité acuerde las acciones necesarias para fortalecer la fiscalización de los Financiamientos y Obligaciones y, las autoridades que integran el mismo, tomen las acciones que correspondan para prevenir, investigar y sancionar los actos que contravengan las disposiciones de la Ley y este Reglamento. La Secretaría prestará el auxilio que requieran dichas autoridades para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 50.
 
-El Registro Público Único actualizará diariamente en su página de Internet, la información por cada Financiamiento y Obligación vigente, incluyendo al menos los siguientes datos: deudor u obligado, acreedor, monto contratado, fecha de contratación, tasa de interés, plazo contratado, recurso otorgado como Fuente de Pago, fecha de inscripción y fecha de última modificación en el Registro Público Único. En relación a la tasa efectiva, será aquélla que se determine bajo el proceso competitivo.
+La Secretaría debe actualizar diariamente en su página de Internet el Registro Público Único con la información de los Financiamientos y Obligaciones vigentes, incluyendo al menos los siguientes datos: deudor u obligado, acreedor, monto contratado, fecha de contratación, tasa de interés, plazo contratado, recurso otorgado como Fuente de pago, fecha de inscripción y fecha de última modificación en el Registro Público Único. En relación a la tasa efectiva, será aquélla que se determine bajo el proceso competitivo.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 51.
 
-La Secretaría llevará a cabo la comparación de la información de los Financiamientos y Obligaciones de los Entes Públicos contenida en el Registro Público Único con la información de las Instituciones Financieras, misma que será solicitada a través de la Comisión Nacional Bancaria y de Valores. En caso de detectar diferencias, éstas serán publicadas de manera trimestral en la página de Internet de la Secretaría.
+La Secretaría debe llevar a cabo la comparación de la información de los Financiamientos y Obligaciones de los entes públicos contenida en el Registro Público Único con la información de las instituciones financieras, misma que debe ser solicitada a través de la Comisión Nacional Bancaria y de Valores. Para ello, la Comisión Nacional Bancaria y de Valores debe entregar la información a la Secretaría, dentro de los 30 días naturales siguientes al cierre de cada trimestre. En caso de detectar diferencias, éstas deben ser publicadas de manera trimestral en la página de Internet de la Secretaría.
 
 ### CAPÍTULO II. Información para el Sistema de Alertas y para el Seguimiento de Convenios
 
@@ -928,3 +1204,19 @@ D.O.F. 30 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 30 DEL REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+TERCERO. Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se deben llevar a cabo de conformidad con la normatividad vigente al momento de su presentación hasta su conclusión.
+
+CUARTO. La Secretaría de Hacienda y Crédito Público tiene un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones necesarias en el sistema del Registro Público Único.
+
+QUINTO. En tanto se realicen las adecuaciones al sistema del Registro Público Único, para los requisitos de inscripción que se incorporan en el presente decreto, los entes públicos deben presentar su solicitud de inscripción capturando y adjuntando los archivos de los requisitos correspondientes en la sección “Documentación”, en el apartado “Documentos Opcionales” del referido Sistema.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto se realizarán con cargo al presupuesto aprobado para la instancia responsable de su aplicación, por lo que no requerirá recursos adicionales para tales efectos ni se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni en los subsecuentes.
