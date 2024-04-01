@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-aguascalentense-de-las-personas-adultas-16044
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2022-09-30"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Extraordinaria al Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -113,31 +113,61 @@ V. Los demás necesarios para el cumplimiento del objeto del Instituto.
 
 Para el debido cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-I. Promover la formulación de políticas públicas e impulsar las propuestas provenientes de la sociedad civil, que coadyuven a lograr que la persona adulta mayor acceda a una vida plena y digna.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-II. Impulsar y gestionar políticas públicas y su presupuesto correspondiente tendientes a lograr la no discriminación e inclusión de las personas adultas mayores en la sociedad.
+I. Promover la formulación de políticas públicas e impulsar las propuestas provenientes de la sociedad civil, que coadyuven a lograr que la persona adulta mayor acceda a una vida plena y digna;
 
-III. Promover y coordinar que en las acciones y programas de cada una de las dependencias y entidades de la Administración Pública Estatal, sean tendientes a mejorar las condiciones de vida de las personas adultas mayores.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-IV. Instituir, promover, coordinar y coadyuvar para la adecuada ejecución de los programas, proyectos y acciones a favor de las personas adultas mayores, en contra de su discriminación y exclusión, mediante la coordinación con las dependencias y entidades de la Administración Pública Estatal y Municipales, en el ámbito de sus respectivas competencias.
+II. Impulsar y gestionar políticas públicas y su presupuesto correspondiente tendientes a lograr la no discriminación e inclusión de las personas adultas mayores en la sociedad;
 
-V. Celebrar convenios de colaboración con instituciones Federales, Estatales, Municipales, organizaciones de la sociedad civil, para coordinar acciones y programas de atención preferente e integral a las personas adultas mayores.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VI. Procurar el desarrollo humano integral de las personas adultas mayores, entendiéndose por éste, el proceso tendiente a brindar a este sector de la población, actividades productivas, retribuciones justas, asistencia y las oportunidades necesarias para alcanzar niveles de bienestar y una vida digna y con calidad, orientado a reducir las desigualdades extremas y las inequidades de género, evitando su discriminación por edad, que aseguren la satisfacción de sus necesidades básicas y desarrolle su capacidad e iniciativas en un entorno social incluyente.
+III. Promover y coordinar que, en las acciones y programas de cada una de las dependencias y entidades de la Administración Pública Estatal, sean tendientes a mejorar las condiciones de vida de las personas adultas mayores;
 
-VII. Diseñar y efectuar campañas para difundir los derechos de las personas adultas mayores con arreglo a la Constitución Política de los Estados Unidos Mexicanos, Convenciones y Tratados Internacionales celebrados y ratificados por el Gobierno Mexicano, la Constitución Política del Estado de Aguascalientes y demás disposiciones normativas.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VIII. Realizar estudios e investigaciones en materia de atención integral de las personas adultas mayores que contribuyan a elevar su calidad de vida.
+IV. Instituir, promover, coordinar y coadyuvar para la adecuada ejecución de los programas, proyectos y acciones a favor de las personas adultas mayores, en contra de su discriminación y exclusión, mediante la coordinación con las dependencias y entidades de la Administración Pública Estatal y Municipales, en el ámbito de sus respectivas competencias;
 
-IX. Crear y mantener actualizado un padrón de personas adultas mayores del Estado, en el que se deberá considerar el seguimiento a la evolución de los casos de personas adultas mayores en estado de abandono, maltrato físico, psicológico sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas que limiten su desarrollo, detectadas mediante la aplicación de instrumentos estadísticos.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-X. Asesorar para la formulación de quejas, denuncias e informes sobre la violación de los derechos de las personas adultas mayores, y canalizar ante las autoridades competentes a efecto de que se ejerzan las acciones legales que conforme a derecho procedan.
+V. Celebrar convenios de colaboración con instituciones Federales, Estatales, Municipales, organizaciones de la sociedad civil, para coordinar acciones y programas de atención preferente e integral a las personas adultas mayores;
 
-XI. Generar protocolos de atención a las personas adultas mayores.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-XII. Llevar a cabo el procedimiento y sanciones establecido en la Ley para la Protección Especial de los Adultos Mayores del Estado de Aguascalientes.
+VI. Procurar el desarrollo humano integral de las personas adultas mayores, entendiéndose por éste, el proceso tendiente a brindar a este sector de la población, actividades productivas, retribuciones justas, asistencia y las oportunidades necesarias para alcanzar niveles de bienestar y una vida digna y con calidad, orientado a reducir las desigualdades extremas y las inequidades de género, evitando su discriminación por edad, que aseguren la satisfacción de sus necesidades básicas y desarrolle su capacidad e iniciativas en un entorno social incluyente;
 
-XIII. Las demás que le confieran otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+VII. Diseñar y efectuar campañas para difundir los derechos de las personas adultas mayores con arreglo a la Constitución Política de los Estados Unidos Mexicanos, Convenciones y Tratados Internacionales celebrados y ratificados por el Gobierno Mexicano, la Constitución Política del Estado de Aguascalientes y demás disposiciones normativas;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+VIII. Realizar estudios e investigaciones en materia de atención integral de las personas adultas mayores que contribuyan a elevar su calidad de vida;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+IX. Crear y mantener actualizado un padrón de personas adultas mayores del Estado, en el que se deberá considerar el seguimiento a la evolución de los casos de personas adultas mayores en estado de abandono, maltrato físico, psicológico sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas que limiten su desarrollo, detectadas mediante la aplicación de instrumentos estadísticos;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+X. Asesorar para la formulación de quejas, denuncias e informes sobre la violación de los derechos de las personas adultas mayores, y canalizar ante las autoridades competentes a efecto de que se ejerzan las acciones legales que conforme a derecho procedan;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+XI. Generar protocolos de atención a las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+XII. Llevar a cabo el procedimiento y sanciones establecido en la Ley para la Protección Especial de los Adultos Mayores del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2024)</small>
+
+XIII. En coordinación con el Instituto de Educación de Aguascalientes y el Instituto de Capacitación Para el Trabajo del Estado de Aguascalientes, promover e impulsar una independencia digital mediante el acceso y capacitación de las personas adultas mayores en el uso de las tecnologías de la información y comunicación; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII], P.O. 1 DE ABRIL DE 2024)</small>
+
+XIV. Las demás que le confieran otras disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO III. Patrimonio
 
@@ -630,3 +660,13 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de septiembre de 2022.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 623.- SE REFORMAN LA LEY DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS ADULTAS MAYORES; Y, LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
