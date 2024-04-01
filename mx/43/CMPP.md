@@ -4,7 +4,7 @@ identifier: "CMPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-16"
-last_updated: "2018-06-21"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CMPP"
 
 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Código publicado en la Edición Vespertina del Diario Oficial de la Federación, el lunes 16 de mayo de 2016.
 
@@ -1228,7 +1228,9 @@ IX. A acceder a la justicia de manera pronta, gratuita e imparcial respecto de s
 
 X. A participar en los mecanismos alternativos de solución de controversias.
 
-XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo étnico o pueblo indígena o no conozca o no comprenda el idioma español.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo étnico o pueblo o comunidad indígena o afromexicana o no conozca o no comprenda el idioma español.
 
 XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos.
 
@@ -5177,3 +5179,9 @@ D.O.F. 21 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR, DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY PARA CONSERVAR LA NEUTRALIDAD DEL PAÍS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
