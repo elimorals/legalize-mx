@@ -4,7 +4,7 @@ identifier: "LISR"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-11"
-last_updated: "2021-11-12"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96834&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2013.
 
@@ -40,7 +40,7 @@ DECRETO
 
 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS; DE LA LEY FEDERAL DE DERECHOS, SE EXPIDE LA LEY DEL IMPUESTO SOBRE LA RENTA, Y SE ABROGAN LA LEY DEL IMPUESTO EMPRESARIAL A TASA ÚNICA, Y LA LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO
 
-[…]
+[...]
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -2512,7 +2512,9 @@ IV. Colegios de profesionales y los organismos que los agrupen.
 
 V. Asociaciones civiles y sociedades de responsabilidad limitada de interés público que administren en forma descentralizada los distritos o unidades de riego, previa la concesión y permiso respectivo.
 
-VI. Instituciones de asistencia o de beneficencia, autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de esta Ley, que tengan como beneficiarios a personas, sectores, y regiones de escasos recursos; que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a las comunidades indígenas y a los grupos vulnerables por edad, sexo o problemas de discapacidad, dedicadas a las siguientes actividades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VI. Instituciones de asistencia o de beneficencia, autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de esta Ley, que tengan como beneficiarios a personas, sectores, y regiones de escasos recursos; que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a los pueblos y comunidades indígenas y afromexicanas y a los grupos vulnerables por edad, sexo o problemas de discapacidad, dedicadas a las siguientes actividades:
 
 a) La atención a requerimientos básicos de subsistencia en materia de alimentación, vestido o vivienda.
 
@@ -2526,7 +2528,9 @@ e) La ayuda para servicios funerarios.
 
 f) Orientación social, educación o capacitación para el trabajo.
 
-g) Apoyo para el desarrollo de los pueblos y comunidades indígenas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+g) Apoyo para el desarrollo de los pueblos y comunidades indígenas y afromexicanas.
 
 h) Aportación de servicios para la atención a grupos sociales con discapacidad.
 
@@ -7649,3 +7653,9 @@ XIII. El Servicio de Administración Tributaria podrá emitir las reglas de car�
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
