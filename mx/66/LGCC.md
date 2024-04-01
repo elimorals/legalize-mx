@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2023-11-15"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -700,9 +700,9 @@ XII. Compromiso con la economía y el desarrollo económico nacional, para logra
 
 XIII. Progresividad, las metas para el cumplimiento de esta Ley deberán presentar una progresión y gradualidad a lo largo del tiempo, teniendo en cuenta el principio de responsabilidades comunes pero diferenciadas y sus capacidades respectivas, a la luz de las diferentes circunstancias nacionales, y en el contexto del desarrollo sostenible y de los esfuerzos por erradicar la pobreza; asimismo, se deberá considerar la necesidad de recibir apoyos de los países desarrollados para lograr la aplicación efectiva de las medidas que se requieran para su cumplimiento; sin que represente un retroceso respecto a metas anteriores, considerando, la mejor información científica disponible y los avances tecnológicos, todo ello en el contexto del desarrollo sostenible.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos indígenas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
+Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos y comunidades indígenas y afromexicanas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
 
 ### CAPÍTULO II. ADAPTACIÓN
 
@@ -2055,5 +2055,11 @@ Tercero. Todas las obligaciones que se generen con la entrada en vigor del prese
 D.O.F. 15 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CAMBIO CLIMÁTICO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
