@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2024-03-26"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -129,15 +129,23 @@ XI.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
 
 XI Bis.- Presidir y garantizar el cumplimiento de las atribuciones conferidas al Mecanismo Nacional de Prevención, en términos de lo establecido en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XII.- Supervisar el respeto a los derechos humanos en el sistema de reinserción social del país mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden.
+XII.- Supervisar el respeto a los derechos humanos en el sistema de reinserción social y en las estancias migratorias del país mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden.
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
 En dicho diagnóstico deberán incluirse, además de las evaluaciones que la Comisión pondere, datos estadísticos sobre el número, las causas y efectos de los homicidios, así como de las riñas, motines, desórdenes, abusos y quejas documentadas que sucedan en las prisiones, centros de detención y retención federales y locales.
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
 
 El diagnóstico se hará del conocimiento de las dependencias federales y locales competentes en la materia para que éstas elaboren, considerando las opiniones de la Comisión, las políticas públicas tendientes a garantizar el respeto de los derechos humanos de los internos;
 
 XIII.- Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del territorio nacional de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XIII Bis.- Promover la cultura de la paz;
 
 XIV.- Proponer al Ejecutivo Federal, en los términos de la legislación aplicable, la suscripción de convenios o acuerdos internacionales en materia de derechos humanos;
 
@@ -569,11 +577,11 @@ Cuando los quejosos o denunciantes se encuentren recluidos en un centro de deten
 
 La Comisión Nacional designará personal de guardia para recibir y atender las reclamaciones o quejas urgentes a cualquier hora del día y de la noche.
 
-> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 29.
 
-La Comisión Nacional deberá poner a disposición de los reclamantes formularios que faciliten el trámite, y en todos los casos ejercerá la suplencia en la deficiencia de la queja, para lo cual la Comisión orientará y apoyará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan escribir o sean menores de edad. Tratándose de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran o personas con discapacidad auditiva, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura, o en su caso intérprete de lengua de señas mexicanas.
+La Comisión Nacional deberá poner a disposición de los reclamantes formularios que faciliten el trámite, y en todos los casos ejercerá la suplencia en la deficiencia de la queja, para lo cual la Comisión orientará y apoyará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan escribir o sean menores de edad. Tratándose de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos y comunidades indígenas y afromexicanas que así lo requieran o personas con discapacidad auditiva, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura, o en su caso intérprete de lengua de señas mexicanas.
 
 ###### ARTICULO 30.
 
@@ -1156,3 +1164,21 @@ D.O.F. 26 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 5o. DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 6o. DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIII BIS AL ARTÍCULO 6o. DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
