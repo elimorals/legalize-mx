@@ -4,7 +4,7 @@ identifier: "LNEP"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-16"
-last_updated: "2016-06-16"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LNEP"
 
 LEY NACIONAL DE EJECUCIÓN PENAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el jueves 16 de junio de 2016.
 
@@ -804,7 +804,9 @@ XIII. De clasificación de áreas;
 
 XIV. De visitas y entrevistas con las personas defensoras;
 
-XV. De actuación en casos que involucren personas indígenas privadas de la libertad;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XV. De actuación en casos que involucren personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad;
 
 XVI. Del tratamiento de adicciones;
 
@@ -842,13 +844,19 @@ Las intervenciones psicológicas, psiquiátricas o médicas contarán con el con
 
 Los servicios de atención psicológica o psiquiátrica se prestarán por personal certificado del Centro, o en su defecto, personal externo a los Centros Penitenciarios que dependa del Sistema Nacional de Salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 35.
 
-Personas indígenas privadas de la libertad
+Personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad.
 
-Para determinar el Centro Penitenciario en el que tendrá lugar la privación de la libertad de las personas indígenas se ponderará la importancia que para la persona tenga la pertenencia a su comunidad.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-La Autoridad Penitenciaria debe adoptar los medios necesarios para que las personas indígenas privadas de la libertad puedan conservar sus usos y costumbres, dentro de las limitaciones naturales que impone el régimen de disciplina del Centro y que no padezcan formas de asimilación forzada, se menoscabe su cultura, o se les segregue. La educación básica que reciban será bilingüe.
+Para determinar el Centro Penitenciario en el que tendrá lugar la privación de la libertad de las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas se ponderará la importancia que para la persona tenga la pertenencia a su comunidad.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+La Autoridad Penitenciaria debe adoptar los medios necesarios para que las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad puedan conservar sus usos y costumbres, dentro de las limitaciones naturales que impone el régimen de disciplina del Centro y que no padezcan formas de asimilación forzada, se menoscabe su cultura, o se les segregue. La educación básica que reciban será bilingüe.
 
 Se deberá contar con un intérprete certificado por el Instituto Nacional de Lenguas Indígenas que hable y entienda la lengua madre de la persona privada de su libertad para asegurar que entienda todo el proceso que se sigue en su contra, así como sus obligaciones y derechos.
 
@@ -1416,7 +1424,9 @@ La educación es el conjunto de actividades de orientación, enseñanza y aprend
 
 La educación que se imparta en los Centros Penitenciarios será laica, gratuita y tendrá contenidos de carácter académico, cívico, social, higiénico, artístico, físico y ético, orientados en el respeto a la ley, las instituciones y los derechos humanos. Será, en todo caso, orientada por las técnicas de la pedagogía y quedará a cargo de profesores o maestros especializados. Así mismo las personas privadas de su libertad que obtengan una certificación por la autoridad educativa correspondiente podrán realizar las labores de docencia a las que hace referencia el presente artículo.
 
-Tratándose de personas indígenas, la educación que se les imparta será bilingüe y acorde a su cultura, para conservar y enriquecer sus lenguas, y la instrucción deberá ser proporcionada por maestros o profesores que comprendan su lengua.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Tratándose de personas pertenecientes a pueblos o comunidades indígenas o afromexicanas, la educación que se les imparta será bilingüe y acorde a su cultura, para conservar y enriquecer sus lenguas, y la instrucción deberá ser proporcionada por maestros o profesores que comprendan su lengua.
 
 ###### Artículo 84.
 
@@ -2945,3 +2955,11 @@ Décimo Segundo. El Poder Judicial de la Federación y los poderes judiciales de
 Ciudad de México, a 14 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
