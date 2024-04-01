@@ -4,7 +4,7 @@ identifier: "FED-ley-de-hidrocarburos-101933"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2021-05-20"
+last_updated: "2024-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101933&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-08-11"
 ---
 # LEY DE HIDROCARBUROS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -1617,7 +1619,9 @@ Las Asignaciones, Contratos para la Exploración y Extracción, y permisos a que
 
 La contraprestación, los términos y las condiciones para el uso, goce o afectación de los terrenos, bienes o derechos necesarios para realizar las actividades de Exploración y Extracción de Hidrocarburos serán negociados y acordados entre los propietarios o titulares de dichos terrenos, bienes o derechos, incluyendo derechos reales, ejidales o comunales, y los Asignatarios o Contratistas. Tratándose de propiedad privada, además podrá convenirse la adquisición.
 
-Lo dispuesto en el presente Capítulo será aplicable respecto de los derechos que la Constitución, las leyes y los tratados internacionales suscritos por el Estado Mexicano, reconocen a las comunidades indígenas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Lo dispuesto en el presente Capítulo será aplicable respecto de los derechos que la Constitución, las leyes y los tratados internacionales suscritos por el Estado Mexicano, reconocen a los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 101.
 
@@ -1833,9 +1837,11 @@ Los resultados del estudio se pondrán a disposición del Asignatario y de los p
 
 La Secretaría de Energía deberá informar a los Asignatarios o Contratistas sobre la presencia de grupos sociales en situación de vulnerabilidad en las áreas en que se llevarán a cabo las actividades al amparo de Asignaciones y Contratos, con el fin de que se implementen las acciones necesarias para salvaguardar sus derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 120.
 
-Con la finalidad de tomar en cuenta los intereses y derechos de las comunidades y pueblos indígenas en los que se desarrollen proyectos de la industria de Hidrocarburos, la Secretaría de Energía deberá llevar a cabo los procedimientos de consulta previa, libre e informada necesarios y cualquier otra actividad necesaria para su salvaguarda, en coordinación con la Secretaría de Gobernación y las dependencias que correspondan.
+Con la finalidad de tomar en cuenta los intereses y derechos de los pueblos y comunidades indígenas y afromexicanas en los que se desarrollen proyectos de la industria de Hidrocarburos, la Secretaría de Energía deberá llevar a cabo los procedimientos de consulta previa, libre e informada necesarios y cualquier otra actividad necesaria para su salvaguarda, en coordinación con la Secretaría de Gobernación y las dependencias que correspondan.
 
 En dichos procedimientos de consulta la Secretaría de Energía podrá prever la participación de la Agencia, las empresas productivas del Estado y sus subsidiarios y empresas filiales, así como Particulares, conforme a la normatividad aplicable.
 
@@ -2440,3 +2446,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
