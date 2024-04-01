@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2023-01-19"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -542,15 +542,15 @@ Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ej
 
 Para cantar o ejecutar los himnos de otras naciones en territorio nacional, se deberá tramitar la autorización correspondiente ante la Secretaría de Gobernación, sin perjuicio de lo que señalen las disposiciones de cada país.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 39 Bis.
 
-Los pueblos y las comunidades indígenas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
+Los pueblos y comunidades indígenas y afromexicanas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
 
-Los pueblos y comunidades indígenas, a través de sus autoridades o representantes, podrán solicitar a la Secretaría de Gobernación la autorización de sus propias traducciones del Himno Nacional, previo dictamen del Instituto Nacional de Lenguas Indígenas. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
+Los pueblos y comunidades indígenas y afromexicanas, a través de sus autoridades o representantes, podrán solicitar a la Secretaría de Gobernación la autorización de sus propias traducciones del Himno Nacional, previo dictamen del Instituto Nacional de Lenguas Indígenas. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
 
-El Instituto Nacional de Lenguas Indígenas podrá asesorar a los pueblos y comunidades indígenas en las traducciones que realicen del Himno Nacional a sus lenguas.
+El Instituto Nacional de Lenguas Indígenas podrá asesorar a los pueblos y comunidades indígenas y afromexicanas en las traducciones que realicen del Himno Nacional a sus lenguas.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
@@ -995,5 +995,11 @@ D.O.F. 23 DE MARZO DE 2022.
 D.O.F. 19 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
