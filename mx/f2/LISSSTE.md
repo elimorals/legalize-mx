@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2024-03-27"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -1860,7 +1860,9 @@ III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público, 
 
 IV. Nueve vocales nombrados por las organizaciones de Trabajadores.
 
-Por cada vocal propietario se designará un suplente que actuará en caso de faltas temporales del propietario, debiendo tratarse de un funcionario con el rango inmediato inferior al del vocal propietario. En el caso de los representantes de las organizaciones de Trabajadores, la designación del suplente se hará en los términos de las disposiciones estatutarias aplicables.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Todos los nombramientos se harán observando el principio de paridad de género. Por cada vocal propietario se designará un suplente que actuará en caso de faltas temporales del propietario, debiendo tratarse de un funcionario con el rango inmediato inferior al del vocal propietario. En el caso de los representantes de las organizaciones de Trabajadores, la designación del suplente se hará en los términos de las disposiciones estatutarias aplicables.
 
 ###### Artículo 171.
 
@@ -2316,7 +2318,9 @@ II. La persona titular y dos subsecretarías de la Secretaría de Hacienda y Cr�
 
 III. Nueve representantes de las organizaciones de Trabajadores.
 
-Por cada miembro de la Junta Directiva, se nombrará un suplente que actuará en caso de faltas temporales del propietario, debiendo tratarse de un funcionario con el rango inmediato inferior al del miembro propietario.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+En todo caso, para la integración de este órgano de gobierno, deberá observarse en lo máximo posible el principio de paridad de género. Por cada miembro de la Junta Directiva, se nombrará un suplente que actuará en caso de faltas temporales del propietario, debiendo tratarse de un funcionario con el rango inmediato inferior al del miembro propietario.
 
 ###### Artículo 211.
 
@@ -3505,3 +3509,9 @@ D.O.F. 27 DE MARZO DE 2024.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las personas trabajadoras que hayan sido dadas de baja dentro del año anterior a la entrada en vigor del presente Decreto, podrán solicitar su continuación voluntaria en el régimen obligatorio.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 170 Y 210 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
