@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "2022-03-23"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -68,7 +68,9 @@ I. Promover y fomentar las condiciones que aseguren a la juventud un desarrollo 
 
 II. Definir e instrumentar una política nacional de juventud, que permita incorporar plenamente a los jóvenes al desarrollo del país;
 
-III. Proponer al Ejecutivo Federal programas especiales orientados a mejorar las condiciones de salud y educación de los jóvenes indígenas, así como los espacios para la convivencia y recreación, sin menoscabo de las atribuciones que en estos propósitos competen a otras dependencias;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III. Proponer al Ejecutivo Federal programas especiales orientados a mejorar las condiciones de salud y educación de los jóvenes pertenecientes a pueblos y comunidades indígenas y afromexicanas, así como los espacios para la convivencia y recreación, sin menoscabo de las atribuciones que en estos propósitos competen a otras dependencias;
 
 IV. Asesorar al Ejecutivo Federal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo al Plan Nacional de Desarrollo;
 
@@ -154,7 +156,9 @@ IX. Auxiliar a las dependencias y entidades de la Administración Pública Feder
 
 X. Prestar los servicios que se establezcan en los programas que formule el Instituto en aplicación de esta Ley;
 
-XI. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes mexicanos en distintos ámbitos del acontecer nacional y, en especial, aquellas que reconozcan y fomenten la herencia cultural de los pueblos y comunidades indígenas y fortalezcan el respeto y el conocimiento de las diversas culturas existentes en el país;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XI. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes mexicanos en distintos ámbitos del acontecer nacional y, en especial, aquellas que reconozcan y fomenten la herencia cultural de los pueblos y comunidades indígenas y afromexicanas y fortalezcan el respeto y el conocimiento de las diversas culturas existentes en el país;
 
 > <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -164,9 +168,9 @@ XII. Diseñar, implementar y ejecutar, con una perspectiva de transversalidad, p
 
 XIII. Elaborar, en coordinación con las dependencias y las entidades de la Administración Pública Federal, programas y cursos de orientación e información sobre adicciones, nutrición, educación sexual y sobre salud reproductiva, derechos humanos, cultura de la no violencia y no discriminación, equidad de género, medio ambiente, apoyo a jóvenes en situación de exclusión y vivienda;
 
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XIV. Proponer a la Secretaría de Educación Pública la operación de programas especiales de becas para fortalecer la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior de los estudiantes indígenas;
+XIV. Proponer a la Secretaría de Educación Pública la operación de programas especiales de becas para fortalecer la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior de las y los estudiantes pertenecientes a pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -378,13 +382,17 @@ El Órgano de Vigilancia del Instituto estará integrado por un Comisario Públi
 
 El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud es un órgano que tendrá por objeto conocer el cumplimiento dado a los programas dirigidos a los jóvenes tanto del Instituto como de las demás Secretarías y Entidades, opinar sobre los mismos, recabar la opinión de los ciudadanos interesados en políticas públicas en materia de juventud y presentar sus resultados y opiniones al Director General del Instituto, formulando, en su caso, las propuestas correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15 Bis.
 
-El Consejo ciudadano se integrará con 20 jóvenes mayores de edad y de manera equitativa en cuanto a su género, los cuales serán seleccionados por la Junta Directiva de conformidad con la convocatoria pública difundida previamente entre las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, los sectores público y privado, y los pueblos y comunidades indígenas.
+El Consejo ciudadano se integrará con 20 jóvenes mayores de edad y de manera equitativa en cuanto a su género, los cuales serán seleccionados por la Junta Directiva de conformidad con la convocatoria pública difundida previamente entre las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, los sectores público y privado, y los pueblos y comunidades indígenas y afromexicanas.
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 Los cargos de consejero son honoríficos y se desempeñarán por un período de dos años. El Consejo ciudadano se renovará por mitad cada año.
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 Los demás requisitos para la integración y renovación del Consejo ciudadano, así como las atribuciones y funcionamiento de éste, se establecerán en el Estatuto Orgánico del Instituto y la convocatoria pública correspondiente aprobada por la Junta Directiva.
 
@@ -471,3 +479,9 @@ D.O.F. 23 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 3 BIS, 8 Y 9 DE LA LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación”.]
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
