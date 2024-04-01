@@ -4,7 +4,7 @@ identifier: "LGIPE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2023-03-02"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100928&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGIPE"
 
 LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -554,13 +554,13 @@ En el registro de las candidaturas a los cargos de presidente o presidenta, alca
 
 Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
 
-> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-3. Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos. Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos en los municipios, así como el de elegir a sus autoridades, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas, garantizando el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2o. de la Constitución, de manera gradual.
+3. Los pueblos y comunidades indígenas y afromexicanas tienen derecho a elegir, en los municipios con personas pertenecientes a pueblos y comunidades indígenas o afromexicanas, según corresponda, representantes ante los Ayuntamientos. Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos en los municipios, así como el de elegir a sus autoridades, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas, garantizando el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2o. de la Constitución, de manera gradual.
 
-> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-4. Los pueblos y comunidades indígenas en las entidades federativas elegirán, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad y paridad, guardando las normas establecidas en la Constitución, las constituciones locales y las leyes aplicables.
+4. Los pueblos y comunidades indígenas y afromexicanas en las entidades federativas elegirán, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad y paridad, guardando las normas establecidas en la Constitución, las constituciones locales y las leyes aplicables.
 
 ###### Artículo 27.
 
@@ -10583,3 +10583,9 @@ Vigésimo Octavo. Las normas establecidas en los artículos 11 bis, párrafo 1, 
 Vigésimo Noveno. Se abrogan todos los acuerdos o resoluciones emitidos por la autoridad electoral que vulneren el derecho a la libertad de expresión o al libre ejercicio periodístico.
 
 Trigésimo. Para efectos de lo dispuesto en el numeral 1 del artículo 11 Bis de la Ley General de Instituciones y Procedimientos Electorales, se computará el inicio del ciclo de las postulaciones a las gubernaturas y jefatura de gobierno de las entidades federativas a partir de la elección de 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
