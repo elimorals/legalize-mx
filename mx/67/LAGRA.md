@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2023-04-25"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -1282,15 +1282,23 @@ Son juicios agrarios los que tienen por objeto sustanciar, dirimir y resolver la
 
 En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito, además observarán lo siguiente:
 
-I.- Los juicios en los que una o ambas partes sean indígenas se considerarán los usos y costumbres de los pueblos o comunidades indígenas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-II.- Las promociones que los pueblos o comunidades indígenas, o los indígenas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+I.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas se considerarán los usos y costumbres de los pueblos y comunidades indígenas y afromexicanas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
 
-III.- Los juicios en los que una o ambas partes sean indígenas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II.- Las promociones que los pueblos o comunidades indígenas y afromexicanas, o las personas pertenecientes a pueblos o comunidades indígenas y afromexicanas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+III.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
 
 En caso de existir contradicción entre la traducción y la resolución, se estará a lo dispuesto por ésta última;
 
-IV.- El tribunal asignará gratuitamente a los indígenas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV.- El tribunal asignará gratuitamente a las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
 
 Los tribunales suplirán la deficiencia de las partes en sus planteamientos de derecho cuando se trate de núcleos de población ejidales o comunales, así como ejidatarios y comuneros.
 
@@ -1709,5 +1717,11 @@ D.O.F. 25 DE ABRIL DE 2023.
 D.O.F. 25 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY AGRARIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
