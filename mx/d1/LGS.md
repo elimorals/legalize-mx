@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2024-03-26"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -112,9 +112,9 @@ III.- La coordinación, evaluación y seguimiento de los servicios de salud a lo
 
 IV.- La atención materno-infantil;
 
-> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-IV bis.- El programa de nutrición materno-infantil en los pueblos y comunidades indígenas;
+IV bis.- El programa de nutrición materno-infantil en los pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(REFORMADA [N DE E. ANTES FRACCIÓN V], D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -286,9 +286,9 @@ III.- Colaborar al bienestar social de la población mediante servicios de asist
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
-> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-IV bis.- Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores y organización social;
+IV bis.- Impulsar el bienestar y el desarrollo de las familias y pueblos y comunidades indígenas y afromexicanas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores y organización social;
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que propicien el desarrollo satisfactorio de la vida;
 
@@ -402,11 +402,11 @@ Los gobiernos de las entidades federativas coadyuvarán, en el ámbito de sus re
 
 La Secretaría de Salud coordinará la concordancia de los programas federales en la materia con el de las entidades federativas, promoviendo que la planeación sea congruente, objetiva y participativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 10.
 
-La Secretaria de Salud promoverá la participación, en el sistema nacional de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud promoverá la participación, en el sistema nacional de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de los pueblos y comunidades indígenas y afromexicanas, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
@@ -420,11 +420,11 @@ Cuando se ponga en riesgo la vida del paciente o se trate de una urgencia médic
 
 El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 11.
 
-La concertación de acciones entre la Secretaria de Salud y las autoridades de las comunidades indígenas, los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud y las autoridades de los pueblos y comunidades indígenas y afromexicanas, los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 > <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1044,9 +1044,9 @@ Los usuarios tendrán el derecho de elegir, de manera libre y voluntaria, al mé
 
 Los usuarios tendrán derecho a recibir información suficiente, clara, oportuna, y veraz, así como la orientación que sea necesaria respecto de su salud y sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se le indiquen o apliquen.
 
-> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Cuando se trate de la atención a los usuarios originarios de pueblos y comunidades indígenas, estos tendrán derecho a obtener información necesaria en su lengua.
+Cuando se trate de la atención a los usuarios originarios de pueblos y comunidades indígenas y afromexicanas, estos tendrán derecho a obtener información necesaria en su lengua.
 
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -1110,11 +1110,11 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámb
 
 Los prestadores de servicios de salud, para efectos de identificación de usuarios de los servicios de salud, incluyendo los derechohabientes de los organismos de seguridad social, podrán implementar registros biométricos y otros medios de identificación electrónica.
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 54.
 
-Las autoridades sanitarias competentes y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de las poblaciones o comunidades indígenas las autoridades sanitarias brindarán la asesoría y en su caso la orientación en español y en la lengua o lenguas en uso en la región o comunidad.
+Las autoridades sanitarias competentes y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de los pueblos y comunidades indígenas y afromexicanas, las autoridades sanitarias brindarán la asesoría y en su caso la orientación en español y en la lengua o lenguas en uso en la región o comunidad.
 
 ###### ARTICULO 55.
 
@@ -2844,11 +2844,11 @@ III.- Recursos físicos, humanos y financieros disponibles para la protección d
 
 En coordinación con la Secretaría de Hacienda y Crédito Público y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salud integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 106.
 
-Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios y las autoridades de las comunidades indígenas cuando proceda, así como las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta ley, deberán suministrarla a la Secretaría de Salud, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales para la salud.
+Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios y las autoridades de los pueblos y comunidades indígenas y afromexicanas cuando proceda, así como las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta ley, deberán suministrarla a la Secretaría de Salud, con la periodicidad y en los términos que esta señale, para la elaboración de las estadísticas nacionales para la salud.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4126,7 +4126,9 @@ II. La prevención, detección temprana, diagnóstico oportuno, derivación, tra
 
 III. El fomento de la creación de redes de apoyo de la sociedad civil, para miembros de la familia y otros miembros de la comunidad que pudieran resultar afectados directa o indirectamente por dicho uso nocivo;
 
-IV. La educación que promueva el conocimiento sobre los efectos del uso nocivo del alcohol en la salud y en las relaciones sociales, dirigida a la población en general, especialmente a la familia, niñas, niños, adolescentes, jóvenes, mujeres embarazadas, comunidades indígenas y otros grupos vulnerables;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+IV. La educación que promueva el conocimiento sobre los efectos del uso nocivo del alcohol en la salud y en las relaciones sociales, dirigida a la población en general, especialmente a la familia, niñas, niños, adolescentes, jóvenes, mujeres embarazadas, pueblos y comunidades indígenas y afromexicanas y otros grupos vulnerables;
 
 V. El establecimiento de un sistema de monitoreo interno y un programa de seguimiento y evaluación de metas y logros internos del Programa para la prevención y reducción del uso nocivo del alcohol que incluya al menos el uso nocivo del alcohol, las conductas relacionadas al uso nocivo del alcohol y su impacto en la salud; y
 
@@ -7588,9 +7590,9 @@ La distribución primaria de los certificados de nacimiento, defunción y muerte
 
 Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-La participación de las autoridades municipales y de las autoridades de las comunidades indígenas, estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
+La participación de las autoridades municipales y de las autoridades de los pueblos y comunidades indígenas y afromexicanas, estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
 
 ###### ARTICULO 394.
 
@@ -7742,9 +7744,9 @@ Se consideran medidas de seguridad las disposiciones que dicte la autoridad sani
 
 Son competentes para ordenar o ejecutar medidas de seguridad, la Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-La participación de los municipios y de las autoridades de las comunidades indígenas estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
+La participación de los municipios y de las autoridades de los pueblos y comunidades indígenas y afromexicanas estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
 
 ###### ARTICULO 404.
 
@@ -9919,3 +9921,9 @@ Segundo. El titular del Poder Ejecutivo Federal expedirá en un plazo de 180 dí
 Tercero. Para los efectos de lo previsto en el artículo 64, fracción IV de la Ley General de Salud la exención de certificación no será aplicable en el caso de las parteras técnicas, sin perjuicio de los derechos laborales del personal activo, de conformidad con la normatividad vigente.
 
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado por la Cámara de Diputados para el ejercicio fiscal que corresponda.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
