@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-industria-electrica-101927"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2022-05-11"
+last_updated: "2024-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE LA INDUSTRIA ELÉCTRICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -1023,7 +1023,9 @@ Las obras e infraestructura a que se refiere este artículo deberán cumplir con
 
 La contraprestación, los términos y las condiciones para el uso, goce o afectación de los terrenos, bienes o derechos necesarios para realizar las actividades a que se refiere el artículo 71 de esta Ley, serán negociados y acordados entre los propietarios o titulares de dichos terrenos, bienes o derechos, incluyendo derechos reales, ejidales o comunales, y los interesados en realizar dichas actividades. Tratándose de propiedad privada, además podrá convenirse la adquisición.
 
-Lo dispuesto en el presente Capítulo será aplicable respecto de los derechos que la Constitución, las leyes y los tratados internacionales suscritos por el Estado Mexicano, reconocen a las comunidades indígenas.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Lo dispuesto en el presente Capítulo será aplicable respecto de los derechos que la Constitución, las leyes y los tratados internacionales suscritos por el Estado Mexicano, reconocen a los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 74.
 
@@ -1501,9 +1503,11 @@ Los proyectos de infraestructura de los sectores público y privado en la indust
 
 La Secretaría deberá informar a los interesados en la ejecución de proyectos de infraestructura en la industria eléctrica sobre la presencia de grupos sociales en situación de vulnerabilidad en las áreas en que se llevarán a cabo las actividades para la ejecución de los proyectos, con el fin de que se implementen las acciones necesarias para salvaguardar sus derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 119.
 
-Con la finalidad de tomar en cuenta los intereses y derechos de las comunidades y pueblos indígenas en los que se desarrollen proyectos de la industria eléctrica, la Secretaría deberá llevar a cabo los procedimientos de consulta necesarios y cualquier otra actividad necesaria para su salvaguarda, en coordinación con la Secretaría de Gobernación y las dependencias que correspondan.
+Con la finalidad de tomar en cuenta los intereses y derechos de los pueblos y comunidades indígenas y afromexicanos en los que se desarrollen proyectos de la industria eléctrica, la Secretaría deberá llevar a cabo los procedimientos de consulta necesarios y cualquier otra actividad necesaria para su salvaguarda, en coordinación con la Secretaría de Gobernación y las dependencias que correspondan.
 
 En dichos procedimientos de consulta podrán participar la CRE, las empresas productivas del Estado y sus empresas subsidiarias y filiales, así como los particulares.
 
@@ -2340,3 +2344,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
