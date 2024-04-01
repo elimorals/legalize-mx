@@ -4,7 +4,7 @@ identifier: "LNMASCMP"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-29"
-last_updated: "2021-05-20"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103969&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN LOS MISMOS TÉRMINOS Y PLAZOS EN QUE ENTRARÁ EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE CONFORMIDAD CON LO PREVISTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2014.
 
@@ -276,7 +276,9 @@ Las sesiones de Mecanismos Alternativos se realizarán únicamente con la presen
 
 En caso de que se suscite alguna duda de índole jurídica que no pueda ser resuelta por los auxiliares y expertos invocados por el Facilitador, cualquiera de los Intervinientes podrá solicitar la suspensión de la sesión a fin de que pueda consultar con su abogado, si lo tuviere.
 
-Cuando los Intervinientes sean miembros de comunidades indígenas o personas que no entiendan el idioma español, deberán ser asistidos durante las sesiones por un intérprete de conformidad con la legislación procedimental penal aplicable.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Cuando los intervinientes sean personas pertenecientes a pueblos y comunidades indígenas y afromexicanas o personas que no entiendan el idioma español, deberán ser asistidos durante las sesiones por un intérprete de conformidad con la legislación procedimental penal aplicable.
 
 Al inicio de la sesión del Mecanismo Alternativo, el Facilitador hará saber a los Intervinientes las características del mecanismo, las reglas a observar, así como sus derechos y obligaciones. Se explicará que el mecanismo es confidencial en los términos que establece la fracción III del artículo 4 de esta Ley.
 
@@ -761,3 +763,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
