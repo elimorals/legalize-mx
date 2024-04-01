@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centro-de-conciliacion-laboral-del-estado-de-149152"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-19"
-last_updated: "2023-05-08"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina al Número 16 del Periódico Oficial de Aguascalientes, el lunes 19 de abril de 2021.
 
@@ -397,7 +397,9 @@ I. Ser ciudadano mexicano, y estar en pleno goce de sus derechos civiles y polí
 
 II. Tener por lo menos treinta años de edad cumplidos al día de la designación;
 
-III. Contar con título profesional de Licenciatura en Derecho;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+III. Contar con título profesional de Licenciatura en Derecho o abogado;
 
 IV. Tener capacidad y experiencia comprobable en actividades profesionales, de servicio público o administrativo, que estén sustancialmente relacionadas en materia laboral, cuando menos de tres años;
 
@@ -710,3 +712,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 616.- SE REFORMA LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
