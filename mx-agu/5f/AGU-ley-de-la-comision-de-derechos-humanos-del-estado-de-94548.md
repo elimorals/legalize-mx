@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2023-06-12"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -253,23 +253,29 @@ Quien funja como Presidente, Secretario General o Visitador General, no podrá d
 
 ### CAPÍTULO II. De la Presidencia
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-El titular de la Comisión será el Presidente, mismo que deberá reunir los siguientes requisitos:
+La persona titular de la Presidencia de la Comisión, deberá reunir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos, nacido en el Estado de Aguascalientes o con residencia en él de cinco años anteriores al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
+I. Ser de ciudadanía mexicana en pleno goce de sus derechos, nacida en el Estado de Aguascalientes o con residencia en el de cinco años anteriores al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de la persona titular de la Presidencia;
 
-> <small>(REFORMADA, 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-II. Contar, al menos, con título profesional de licenciatura o equivalente, de preferencia Licenciatura en Derecho, así como acreditar experiencia profesional y prestigio en materia de Derechos Humanos, o actividades afines reconocidas;
+II. Contar, al menos, con título profesional de licenciatura o equivalente, así como acreditar experiencia profesional y prestigio en materia de Derechos Humanos, o actividades afines reconocidas;
 
-III. Tener cuando menos treinta años cumplidos al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+III. Tener cuando menos treinta años cumplidos al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de la persona titular de la Presidencia;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 IV. No pertenecer al Estado eclesiástico o al servicio activo de las fuerzas armadas ni ser ministro de algún culto;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 V. No haber resultado responsable por violaciones a los Derechos Humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los Derechos Humanos;
 
@@ -277,13 +283,13 @@ V. No haber resultado responsable por violaciones a los Derechos Humanos en algu
 
 VI. No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VII. No haber tenido cargo de elección popular, o bien, de Secretario, Subsecretario o su equivalente en la administración pública federal, estatal o municipal, Fiscal General del Estado durante los dos años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente;
+VII. No haber tenido cargo de elección popular, o bien, titular de una Secretaría, Subsecretaría o su equivalente en la administración pública federal, estatal o municipal, titular de la Fiscalía General del Estado durante los dos años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de la persona titular de la Presidencia;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente; y
+VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de la persona titular de la Presidencia.
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -701,21 +707,23 @@ El titular del Órgano Interno de Control de la Comisión desempeñará su encar
 
 El titular del Órgano Interno de Control será designado conforme a lo dispuesto por el artículo 27 fracción XXXVIII de la Constitución Política del Estado, y con arreglo al procedimiento previsto por las secciones Primera y Segunda del Capítulo V, del Título V de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-Para ser titular del Órgano Interno de Control se requiere:
+Para ser persona titular del Órgano Interno de Control se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+I. Ser de ciudadanía mexicana en pleno ejercicio de sus derechos; * (sic)
 
 II. Tener cuando menos treinta años cumplidos el día de su nombramiento;
 
 III. Tener título profesional de Licenciado en Derecho, Contabilidad o Administración con tres años de ejercicio profesional cuando menos; y
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-IV. No haber sido condenado por algún delito previsto como tipo penal protector de la administración pública o hechos de corrupción, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
+IV. No haber sido condenada por delito de los previstos como protectores de la administración pública, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2022)</small>
 
@@ -1342,3 +1350,11 @@ P.O. 12 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 619.- SE REFORMAN LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
