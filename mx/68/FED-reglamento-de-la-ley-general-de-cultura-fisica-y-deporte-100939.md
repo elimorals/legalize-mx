@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-cultura-fisica-y-deporte-100939
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-05-23"
-last_updated: "2015-02-27"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100939&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-16"
 
 REGLAMENTO DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2015
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -49,9 +49,17 @@ II. Entrenadores: el grupo de personas físicas profesionistas, especialistas o 
 
 III. (DEROGADA, D.O.F. 27 DE FEBRERO DE 2015)
 
-IV. Programa: Programa Nacional de Cultura Física y Deporte, y
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-V. Reglas de Operación: Reglas de Operación referentes a los Programas en materia de Cultura Física y Deporte a cargo de la CONADE.
+IV. Programa: Programa Nacional de Cultura Física y Deporte;
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Reconocimiento económico vitalicio: Apoyo de tipo económico que es otorgado de forma mensual a las personas deportistas que en representación oficial obtengan o hayan obtenido una o más medallas de oro (primer lugar), plata (segundo lugar) o bronce (tercer lugar) en Juegos Olímpicos o Juegos Paralímpicos de conformidad con los criterios y bases previstos en el presente reglamento, y
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VI. Reglas de operación: Conjunto de disposiciones normativas referentes a los programas en materia de cultura física y deporte a cargo de la CONADE.
 
 ###### Artículo 3.
 
@@ -1031,21 +1039,107 @@ Las organizaciones e instituciones de los sectores social y privado que promueva
 
 ### CAPÍTULO V. Del Estímulo a la Cultura Física y al Deporte
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 82.
 
-Para apoyar el desarrollo de la Cultura Física y el Deporte, incluyendo la alta competición, la CONADE podrá constituir fideicomisos públicos sin estructura orgánica, que no tendrán la naturaleza de entidades paraestatales, en cuyos Comités Técnicos participarán servidores públicos de la Administración Pública Federal en su mayoría, así como otros representantes de los sectores público, privado y social, sujetándose a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento y demás disposiciones aplicables.
+Para apoyar el desarrollo de la cultura física y el deporte, incluyendo la alta competición, la CONADE en el ámbito de su competencia y de conformidad con la Ley, el presente reglamento, las reglas de operación y demás disposiciones aplicables llevará a cabo las acciones conducentes para el otorgamiento de los estímulos y apoyos a que se refiere el Capítulo IV del Título Quinto de la Ley.
 
 ###### Artículo 83.
 
-Dentro de las atribuciones que se establezcan en los contratos de fideicomiso para los comités técnicos, y sin perjuicio de lo dispuesto en las leyes y demás disposiciones aplicables, se preverán las siguientes:
+(DEROGADO, D.O.F. 1 DE ABRIL DE 2024)
 
-I. Aprobar las Reglas de Operación y sus modificaciones, y
-
-II. Autorizar, en su caso, la entrega de recursos fideicomitidos a los sujetos de apoyo, de conformidad con el procedimiento establecido en las Reglas de Operación.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 84.
 
-Los candidatos a obtener los estímulos y apoyos a que se refiere el Título Quinto, Capítulo IV, de la Ley, deberán cumplir con el trámite y los requisitos que se especifiquen dentro de las bases para el otorgamiento de becas, reconocimientos y premios que establezca la CONADE, o los fideicomisos públicos que para tales efectos estén constituidos.
+Las personas candidatas a obtener los estímulos y apoyos a que se refiere el Capítulo IV del Título Quinto de la Ley deben cumplir con lo establecido en el presente reglamento y con los requisitos y procedimientos previstos en las reglas de operación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+###### Artículo 84 Bis.
+
+La CONADE, con cargo a su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables, debe otorgar el reconocimiento económico vitalicio a las personas deportistas que cumplan con lo siguiente:
+
+I. Acreditar su participación oficial y tipo de medalla obtenida en los Juegos Olímpicos o Juegos Paralímpicos de acuerdo con los resultados publicados en la memoria o página electrónica del Comité Olímpico Internacional o del Comité Paralímpico Internacional, según se trate;
+
+II. Presentar la solicitud de trámite mediante un escrito libre dirigido a la CONADE, acompañada de la siguiente documentación en copia simple:
+
+a) Acta de nacimiento;
+
+b) Identificación oficial vigente con fotografía;
+
+c) Comprobante de domicilio, con una antigüedad no mayor a tres meses a la presentación, mismo que deberá actualizarse cada vez que se cambie de domicilio;
+
+d) Clave Única de Registro de Población, y
+
+e) Estado de cuenta bancaria a su nombre con Clave Bancaria Estandarizada (CLABE).
+
+III. Para acreditar que continúa con vida la persona deportista y pueda seguir recibiendo el reconocimiento económico vitalicio, debe suscribir y entregar a la CONADE el pase de lista de sobrevivencia durante los meses de enero y julio de cada año.
+
+En casos excepcionales de que se encuentre imposibilitado para comparecer al pase de lista de sobrevivencia, debe presentar a la CONADE durante los meses antes señalados, un escrito que acredite fehacientemente la imposibilidad. La resolución quedará a criterio de la propia CONADE.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+###### Artículo 84 Ter.
+
+Para la actualización del monto del reconocimiento económico vitalicio la persona deportista debe acreditar y presentar la solicitud de trámite correspondiente ante la CONADE.
+
+La actualización del monto del reconocimiento económico vitalicio, se llevará a cabo cuando las personas deportistas logren clasificar en un mejor lugar y obtengan una medalla de mayor nivel como resultado de su participación oficial en posteriores Juegos Olímpicos o Juegos Paralímpicos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+###### Artículo 84 Quáter.
+
+Para el otorgamiento del reconocimiento económico vitalicio o su actualización a las personas deportistas, la CONADE llevará a cabo el procedimiento siguiente:
+
+I. Recibir la solicitud de trámite para el reconocimiento económico vitalicio o de actualización de su monto, acompañada de la documentación anexa a la misma;
+
+II. Verificar que el nombre de la persona deportista y el tipo de medalla obtenida aparezca publicado en la memoria o página electrónica del Comité Olímpico Internacional o del Comité Paralímpico Internacional, según se trate;
+
+III. Elaborar la ficha técnica de la persona deportista y emitir el dictamen de la procedencia o no de la solicitud del otorgamiento del reconocimiento económico vitalicio o de su actualización;
+
+IV. Determinar el monto mensual del reconocimiento económico vitalicio a otorgar a las personas deportistas de acuerdo al tipo de medalla obtenida: oro, plata o bronce;
+
+V. Notificar a las personas deportistas o a la asociación deportiva nacional a la que pertenezca, la procedencia o no de la solicitud del otorgamiento del reconocimiento económico vitalicio o de su actualización y sus términos;
+
+VI. Entregar mediante transferencia electrónica a la cuenta bancaria indicada por la persona deportista, el monto mensual del reconocimiento económico vitalicio o su actualización;
+
+VII. Difundir anualmente a través de la página electrónica de la CONADE, el monto que se otorgará por el tipo de medalla obtenida;
+
+VIII. Realizar durante los meses de enero y julio de cada año, el pase de lista de sobrevivencia, o bien, recibir la documentación que acredite fehacientemente que las personas deportistas se encuentran imposibilitadas para comparecer, y
+
+IX. Resguardar la información en los expedientes de las personas deportistas, con la cual se acredita su solicitud y trámite y dar seguimiento a las constancias del pase de lista de sobrevivencia.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Artículo 84 Quintus. Previa solicitud y cumplimento de los requisitos establecidos en el artículo que antecede, el monto del reconocimiento económico vitalicio o su actualización, se empezará a cubrir desde el mes siguiente a la oficialización otorgada por el Comité Olímpico Internacional o del Comité Paralímpico Internacional, según se trate de las medallas obtenidas.
+
+En caso de obtener más de una medalla del mismo o de diferentes tipos, se otorgará un solo monto mensual, que corresponderá al más alto asignado entre los valores que le sean aplicables, ya sea que se obtengan en la misma edición o en otra de Juegos Olímpicos o Juegos Paralímpicos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Artículo 84 Sextus. La entrega del monto mensual del reconocimiento económico vitalicio o su actualización está condicionada a los siguientes criterios:
+
+I. Es un derecho personalísimo por lo que en ningún momento se heredará o adjudicará, de igual manera no podrá ser materia de transacción, cesión o transmisión a terceras personas;
+
+II. Podrá ser suspendido provisionalmente, previa notificación por escrito cuando las personas deportistas incurran en alguno de los siguientes supuestos:
+
+a) Omitir el pase de lista de sobrevivencia por dos ocasiones seguidas, o no acreditar fehacientemente que se encuentran imposibilitados para comparecer a dicho pase, y
+
+b) Estar pendiente en algún trámite o recurso relacionado con su participación en la competencia oficial de Juegos Olímpicos o Juegos Paralímpicos que pudiere derivar en la pérdida de la medalla obtenida.
+
+Para reactivar la entrega del monto correspondiente, las personas deportistas deberán presentar ante la CONADE escrito con los elementos probatorios necesarios que permitan aclarar su situación. Si de la verificación que lleve a cabo la CONADE resulta favorable a las personas deportistas, emitirá una resolución y ordenará el cese de la suspensión y la emisión del pago a partir del mes en que la suspensión se concretó.
+
+De resultar procedente la resolución de la CONADE y la persona deportista no logre acreditar satisfactoriamente su dicho, se procederá a la cancelación del reconocimiento económico vitalicio.
+
+III. Podrá ser cancelado, previa garantía de audiencia, cuando las personas deportistas se encuentren en alguno de los siguientes supuestos:
+
+a) Por muerte de la persona deportista.
+
+b) Por haber perdido la medalla obtenida por su participación en la competencia oficial de Juegos Olímpicos o Juegos Paralímpicos correspondiente, mediante resolución firme emitida por autoridad competente.
+
+De darse este último supuesto y la persona deportista cuente con otra medalla del mismo o de diferente tipo, la CONADE procederá a ajustar el monto del reconocimiento económico vitalicio conforme al tipo de medalla olímpica o paralímpica obtenida que mantengan.
 
 ### CAPÍTULO VI. Del Comité Nacional Antidopaje y del control de sustancias prohibidas y métodos no reglamentarios en el Deporte
 
@@ -1922,3 +2016,17 @@ Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a di
 D.O.F. 27 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO. A partir de la entrada en vigor del presente decreto el reconocimiento económico vitalicio y sus actualizaciones, se harán conforme a lo que se establece en el presente reglamento.
+
+Los derechos de las personas deportistas que gozan del reconocimiento económico vitalicio serán respetados por la Comisión Nacional de Cultura Física y Deporte.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado a la Comisión Nacional de Cultura Física y Deporte; para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
