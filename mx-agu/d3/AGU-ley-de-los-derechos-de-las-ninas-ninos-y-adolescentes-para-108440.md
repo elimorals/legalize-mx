@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-01-22"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -2041,37 +2041,55 @@ El Sistema Local de Protección estará conformado por:
 
 A. Poder Ejecutivo Estatal:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-II. El Presidente del Sistema DIF Estatal.
+I. La persona titular del Poder Ejecutivo del Estado, quien la presidirá;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-III. El Coordinador General de Gabinete;
+II. La persona titular del Sistema DIF Estatal;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-IV. El Secretario General de Gobierno;
+III. La persona titular de la Coordinación General Ejecutiva de Gabinete;
 
-V. El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+IV. La persona titular de la Secretaría General de Gobierno;
 
-VI. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-VII. El Secretario de Seguridad Pública;
+V. La persona titular de la Secretaría de Finanzas;
 
-VIII. El Secretario de Salud;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-IX. El Titular del Instituto de Educación;
+VI. La persona titular de la Secretaría de Desarrollo Social;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-X. El Titular de la Secretaría de la Familia;
+VII. La persona titular de la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+VIII. La persona titular de la Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+IX. La persona titular del Instituto de Educación;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+X. La persona titular de la Secretaría de la Familia; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+XI. La persona titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado de Aguascalientes.
 
 B. Municipios.
 
-I. El Presidente Municipal, del Municipio que los demás elijan para que los represente;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+I. La persona titular de la Presidencia Municipal, del Municipio que los demás elijan para que los represente;
 
 C. Delegaciones Federales
 
@@ -2081,23 +2099,33 @@ II. Instituto Nacional de Migración;
 
 D. Organismos Públicos Autónomos:
 
-I. El Fiscal General del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
 
-II. El Presidente de la Comisión Estatal de los Derechos Humanos; y
+I. La persona titular de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+II. La persona titular de la Presidencia de la Comisión Estatal de los Derechos Humanos; y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 E. Representantes de la sociedad civil que serán nombrados por el Sistema Local de Protección, en los términos de la Reglamentación que a este respecto expida el Titular del Poder Ejecutivo.
 
-Serán invitados permanentes a las sesiones del Sistema Local de Protección Integral, el Presidente de la Mesa Directiva del Congreso del Estado y un representante del Poder Judicial del Estado, quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2018)</small>
+Serán invitados permanentes a las sesiones del Sistema Local de Protección Integral, la persona titular de la Presidencia de la Mesa Directiva del Congreso del Estado y una persona representante del Poder Judicial del Estado, quienes intervendrán con voz, pero sin voto.
 
-El Gobernador del Estado, en casos excepcionales, podrá ser suplido por el Secretario General de Gobierno, de conformidad con las atribuciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
-Cada uno de los integrantes del Sistema Nacional de Protección Integral nombrará un suplente que deberá tener el nivel inmediato de aquel a quien suple.
+La persona titular del Poder Ejecutivo del Estado, en casos excepcionales, podrá ser suplido por la persona titular de la Secretaría General de Gobierno, de conformidad con las atribuciones establecidas en la Ley Orgánica de la Administración Pública Estatal de Aguascalientes.
 
-El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, o de los municipios, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
+
+Cada uno de los integrantes del Sistema Nacional de Protección Integral nombrará una persona suplente que deberá tener el nivel inmediato de aquel a quien suple.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
+
+La persona titular de la Presidencia del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, o de los municipios, según la naturaleza de los asuntos a tratar quienes intervendrán con voz, pero sin voto.
 
 En las sesiones del Sistema Local de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema.
 
@@ -3018,3 +3046,11 @@ P.O. 22 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 568 SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 621.- SE REFORMA Y ADICIONA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
