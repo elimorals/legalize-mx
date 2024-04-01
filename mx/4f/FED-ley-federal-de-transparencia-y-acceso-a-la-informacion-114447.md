@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-114447"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2016-05-09"
-last_updated: "2021-05-20"
+last_updated: "2024-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-05-06"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de mayo de 2016.
 
@@ -1575,7 +1575,9 @@ b) Los dictámenes técnicos que sustenten el establecimiento de zonas de salvag
 
 c) Los dictámenes que sustenten la instrucción para unificar campos o yacimientos nacionales de extracción de hidrocarburos;
 
-d) La información relativa a los procedimientos de consulta previa, libre e informada necesarios para tomar en cuenta los intereses y derechos de las comunidades y pueblos indígenas en los que se desarrollen proyectos de la industria eléctrica y de los hidrocarburos, así como en materia de energía geotérmica.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2024)</small>
+
+d) La información relativa a los procedimientos de consulta previa, libre e informada necesarios para tomar en cuenta los intereses y derechos de los pueblos y comunidades indígenas y afromexicanas en los que se desarrollen proyectos de la industria eléctrica y de los hidrocarburos, así como en materia de energía geotérmica.
 
 Se procurará que la anterior información sea publicada en la lengua correspondiente;
 
@@ -2822,3 +2824,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
