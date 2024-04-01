@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2023-11-06"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -604,6 +604,10 @@ Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestaci
 Tratándose de adquisiciones de madera, muebles y suministros de oficina de este material, deberán requerirse certificados otorgados por terceros, previamente registrados ante la Secretaría de Sustentabilidad, Medio Ambiente y Agua, que garanticen el manejo sustentable de los bosques de donde proviene la madera de dichas adquisiciones.
 
 En las adquisiciones de papel para uso de oficina, éste deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado, o de fibras naturales no derivadas de la madera, o de materias primas provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional, que se encuentren certificadas conforme a lo dispuesto en el párrafo anterior, o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2024)</small>
+
+Tratándose de vehículos automotores se procurará dependiendo de la viabilidad financiera, la adquisición o arrendamientos de aquellas unidades que garanticen cero o bajas emisiones de gases contaminantes
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -1690,6 +1694,14 @@ Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se enten
 P.O. 6 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 459.- SE ADICIONA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 617.- SE ADICIONA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
