@@ -4,7 +4,7 @@ identifier: "LGCDC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-19"
-last_updated: "2023-12-29"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCDC"
 
 LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección al número 14 del Diario Oficial de la Federación, el lunes 19 de junio de 2017.
 
@@ -78,11 +78,11 @@ Las manifestaciones culturales a que se refiere esta Ley son los elementos mater
 
 Para el cumplimiento de esta Ley la Secretaría de Cultura conducirá la política nacional en materia de cultura, para lo cual celebrará acuerdos de coordinación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y con los municipios y alcaldías de la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 5.
 
-La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todos aquellos que participen en las actividades culturales incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos indígenas del país, y la erradicación de estereotipos socioculturales de género que propician la violencia contra las mujeres y niñas; mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico, las tecnologías de la información y las comunicaciones y demás sectores de la sociedad.
+La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todos aquellos que participen en las actividades culturales incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos y comunidades indígenas y afromexicanas del país, y la erradicación de estereotipos socioculturales de género que propician la violencia contra las mujeres y niñas; mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico, las tecnologías de la información y las comunicaciones y demás sectores de la sociedad.
 
 ###### Artículo 6.
 
@@ -102,9 +102,9 @@ III. Reconocimiento de la diversidad cultural del país;
 
 IV. Reconocimiento de la identidad y dignidad de las personas;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-V. Libre determinación y autonomía de los pueblos indígenas y sus comunidades;
+V. Libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, y
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
@@ -258,9 +258,11 @@ IX. Formular, impulsar y fortalecer programas de educación e investigación art
 
 Los gobiernos de las entidades federativas, municipios y alcaldías de la Ciudad de México deberán coadyuvar, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con la Secretaría de Cultura, al cumplimiento de los objetivos de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 21.
 
-La Secretaría de Cultura impulsará la coordinación de acciones entre los prestadores de servicios culturales de los sectores público, social y privado, sus trabajadores y usuarios de los mismos, así como de las autoridades o representantes de las comunidades de los pueblos indígenas y se regirá conforme a los lineamientos que establezca el Reglamento de esta Ley y en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Cultura impulsará la coordinación de acciones entre los prestadores de servicios culturales de los sectores público, social y privado, sus trabajadores y usuarios de los mismos, así como de las autoridades o representantes de los pueblos y comunidades indígenas y afromexicanas y se regirá conforme a los lineamientos que establezca el Reglamento de esta Ley y en los términos de las disposiciones que al efecto se expidan.
 
 ###### Artículo 22.
 
@@ -384,9 +386,11 @@ En el marco de la Reunión Nacional de Cultura, la Secretaría de Cultura, como 
 
 ### Capítulo I. De la participación social
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 37.
 
-La Federación, las entidades federativas, los municipios y las alcaldías de la Ciudad de México promoverán la participación corresponsable de la sociedad en la planeación y evaluación de la política pública en materia cultural.
+La Federación, las entidades federativas, los municipios y las alcaldías de la Ciudad de México promoverán la participación corresponsable de la sociedad, de los pueblos y comunidades indígenas y afromexicanas, en la planeación y evaluación de la política pública en materia cultural.
 
 ###### Artículo 38.
 
@@ -461,5 +465,11 @@ D.O.F. 29 DE NOVIEMBRE DE 2023.
 D.O.F. 29 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
