@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2024-01-15"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -599,7 +599,9 @@ III. Promover entre la sociedad la cultura del envejecimiento, de respeto, aprec
 
 IV. Impulsar el empleo para las personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
-V. Llevar a cabo programas de capacitación, orientación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social y el Instituto de Educación de Aguascalientes, con la finalidad de que puedan incorporarse a la actividad económica;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+
+V. Llevar a cabo programas de capacitación, orientación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social y el Instituto de Educación de Aguascalientes, con la finalidad de que puedan incorporarse a la actividad económica y/o lograr una independencia digital mediante el acceso a las tecnologías de la información y la comunicación;
 
 VI. Propiciar la colaboración y participación de los sectores público, social y privado para que lleven a cabo acciones y programas de atención preferente e integral de las personas adultas mayores;
 
@@ -1694,3 +1696,11 @@ P.O. 15 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 623.- SE REFORMAN LA LEY DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS ADULTASMAYORES; Y, LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
