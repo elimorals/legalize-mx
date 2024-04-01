@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2023-05-03"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -96,7 +96,9 @@ XIII. Determinar las normas para la integración y operación del Registro Nacio
 
 XIV. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones, y
 
-XV. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+XV. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades, incluidos los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 3.
 
@@ -178,9 +180,9 @@ VI. Coadyuvar a la aplicación de los instrumentos de política ambiental y de c
 
 VII. Formular las bases de coordinación entre los ámbitos de gobierno, para el establecimiento, regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable;
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-VIII. Promover la infraestructura y equipamiento, que contribuyan al fomento y desarrollo de la actividad turística, en coordinación con los Estados, Municipios y la Ciudad de México, y con la participación de los sectores social y privado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos de la Federación;
+VIII. Promover la infraestructura y equipamiento, que contribuyan al fomento y desarrollo de la actividad turística, en coordinación con los Estados, Municipios y la Ciudad de México, y con la participación de los pueblos y comunidades indígenas y afromexicanas y los sectores social y privado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos de la Federación;
 
 IX. Promover acuerdos de cooperación y coordinación con el sector privado y social para el impulso, fomento y desarrollo de la actividad turística;
 
@@ -532,9 +534,9 @@ IV. Establecer de manera coordinada los lineamientos o directrices que permitan 
 
 La integración, expedición, ejecución y evaluación del ordenamiento turístico general del territorio se llevará a cabo de conformidad con lo dispuesto en esta Ley y su Reglamento, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Asentamientos Humanos y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Los Estados, los Municipios y la Ciudad de México, deberán participar en la formulación del Programa de Ordenamiento Turístico General del Territorio en los términos de esta Ley y demás disposiciones aplicables. Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas.
+Los Estados, los Municipios y la Ciudad de México, deberán participar en la formulación del Programa de Ordenamiento Turístico General del Territorio en los términos de esta Ley y demás disposiciones aplicables. Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, pueblos y comunidades indígenas y afromexicanas, y demás personas interesadas.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -1153,3 +1155,9 @@ Tercero.- La derogación de la fracción IV del artículo 43 de la Ley General d
 Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables de su aplicación, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos para el presente ejercicio fiscal ni en subsecuentes.
 
 Quinto.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
