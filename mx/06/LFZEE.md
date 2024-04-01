@@ -4,7 +4,7 @@ identifier: "LFZEE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2016-06-01"
-last_updated: "2016-06-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114899&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFZEE"
 
 LEY FEDERAL DE ZONAS ECONÓMICAS ESPECIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de junio de 2016.
 
@@ -380,9 +380,11 @@ Los resultados de la Evaluación Estratégica se deberán tomar en consideració
 
 La Secretaría deberá informar al Administrador Integral sobre la presencia de grupos sociales en situación de vulnerabilidad en la Zona, con el fin de que se implementen las acciones necesarias para salvaguardar sus derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 18.
 
-Con la finalidad de tomar en cuenta los intereses y derechos de las comunidades y pueblos indígenas en las Zonas y su Área de Influencia, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, la Secretaría de Gobernación y la Secretaría, en forma coordinada, realizarán los procedimientos de consulta previa, libre e informada necesarios y cualquier otra actividad necesaria para su salvaguarda, con la participación que corresponda a las entidades federativas y municipios involucrados.
+Con la finalidad de tomar en cuenta los intereses y derechos de los pueblos y comunidades indígenas y afromexicanas en las Zonas y su Área de Influencia, el Instituto Nacional de los Pueblos Indígenas, la Secretaría de Gobernación y la Secretaría, en forma coordinada, realizarán los procedimientos de consulta previa, libre e informada necesarios y cualquier otra actividad necesaria para su salvaguarda, con la participación que corresponda a las entidades federativas y municipios involucrados.
 
 En términos del Programa de Desarrollo se fomentarán programas de vinculación con empresas y trabajadores locales, y de responsabilidad social, con el objeto de promover el desarrollo humano y sustentable de las comunidades o localidades en las que se ubique la Zona y su Área de Influencia.
 
@@ -953,3 +955,11 @@ Cuarto.- En tanto entra en vigor la legislación secundaria a que se refiere el 
 Ciudad de México, a 27 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en Lázaro Cárdenas, Michoacán, a treinta y uno de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
