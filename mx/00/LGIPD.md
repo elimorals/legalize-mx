@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2023-01-06"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPD"
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -228,7 +228,9 @@ La Secretaría de Salud promoverá el derecho de las personas con discapacidad a
 
 I. Diseñar, ejecutar y evaluar programas de salud pública para la orientación, prevención, detección, estimulación temprana, atención integral o especializada, rehabilitación y habilitación, para las diferentes discapacidades;
 
-II. Crear o fortalecer establecimientos de salud y de asistencia social que permita ejecutar los programas señalados en la fracción anterior, los cuales se extenderán a las regiones rurales y comunidades indígenas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Crear o fortalecer establecimientos de salud y de asistencia social que permita ejecutar los programas señalados en la fracción anterior, los cuales se extenderán a las regiones rurales y pueblos y comunidades indígenas y afromexicanas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad;
 
 III. Elaborar e implementar en coordinación con la Secretaría de Educación Pública, en lo que corresponda, programas de educación, capacitación, formación y especialización para la salud en materia de discapacidad, a fin de que los profesionales de la salud proporcionen a las personas con discapacidad una atención digna y de calidad, sobre la base de un consentimiento libre e informado;
 
@@ -412,7 +414,9 @@ La Secretaría de Desarrollo Social promoverá el derecho de las personas con di
 
 I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones que les sean aplicables de la Ley General de Desarrollo Social;
 
-II. Establecer programas para la prestación de servicios de asistencia social para personas con discapacidad en situación de pobreza, abandono o marginación, incluidos servicios de capacitación, asistencia financiera y servicios de cuidados temporales, los cuales se extenderán a las regiones rurales y comunidades indígenas;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Establecer programas para la prestación de servicios de asistencia social para personas con discapacidad en situación de pobreza, abandono o marginación, incluidos servicios de capacitación, asistencia financiera y servicios de cuidados temporales, los cuales se extenderán a las regiones rurales y pueblos y comunidades indígenas y afromexicanas;
 
 III. Promover la apertura de establecimientos especializados para la asistencia, protección y albergue para personas con discapacidad en situación de pobreza, abandono o marginación, y
 
@@ -947,3 +951,9 @@ D.O.F. 6 DE ENERO DE 2023.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores del gasto responsable para el presente ejercicio fiscal y los subsecuentes.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
