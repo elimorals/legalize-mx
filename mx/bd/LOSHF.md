@@ -4,7 +4,7 @@ identifier: "LOSHF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-10-11"
-last_updated: "2014-01-10"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LOSHF"
 
 LEY ORGÁNICA DE SOCIEDAD HIPOTECARIA FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO VIGÉSIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO, PUBLICADO EN EL D.O.F. EL 10 DE ENERO DE 2014, CUANDO ÉSTE U OTROS DECRETOS, CÓDIGOS, LEYES, REGLAMENTOS O DISPOSICIONES JURÍDICAS EMITIDAS CON ANTERIORIDAD AL PRESENTE DECRETO, ASÍ COMO TODOS LOS CONTRATOS, CONVENIOS Y DEMÁS ACTOS JURÍDICOS CELEBRADOS POR LA INSTITUCIÓN, HAGAN REFERENCIA A LA FINANCIERA RURAL, SE ENTENDERÁ QUE HACEN REFERENCIA A LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de octubre de 2001.
 
@@ -56,9 +54,9 @@ Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, tendrá por objeto 
 
 Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
 
-> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-La Sociedad Hipotecaria Federal desarrollará programas que promuevan la construcción de viviendas en zonas y comunidades indígenas en el territorio nacional con los recursos que se aprueben para tal efecto en el presupuesto de egresos.
+La Sociedad Hipotecaria Federal desarrollará programas que promuevan la construcción de viviendas en zonas de pueblos y comunidades indígenas y afromexicanas en el territorio nacional con los recursos que se aprueben para tal efecto en el presupuesto de egresos.
 
 Para efectos de esta Ley, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas.
 
@@ -725,3 +723,9 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
