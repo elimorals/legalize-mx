@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2023-12-19"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2024.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -195,19 +195,25 @@ Duración del cargo
 
 Las Magistradas y los Magistrados del Tribunal Superior de Justicia durarán en el ejercicio de su cargo quince años, contados a partir de la fecha en que rindan el Compromiso Constitucional, y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan la Constitución Política del Estado y las leyes en materia de responsabilidades correspondientes.
 
-Nombramiento y requisitos para ser magistrado
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 1 DE ABRIL DE 2024)</small>
+
+Nombramiento y requisitos para ser persona magistrada
 
 ###### Artículo 17.
 
 Los magistrados del Tribunal Superior de Justicia serán nombrados en términos de la Constitución Política del Estado y demás leyes aplicables, quienes deberán cubrir los requisitos que en dichos ordenamientos se señalen al efecto.
 
-Los magistrados del Tribunal Superior de Justicia tendrán su respectivo suplente para cubrirlos en las ausencias mayores a tres meses, quienes para tomar posesión del cargo, deberán cumplir con los mismos requisitos y formalidades que los magistrados titulares.
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-Ausencias de magistrados
+Los magistrados del Tribunal Superior de Justicia tendrán su respectivo suplente para cubrirlos en las ausencias temporales mayores a tres meses, quienes, para tomar posesión del cargo, deberán cumplir con los mismos requisitos y formalidades que los magistrados titulares.
+
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+Ausencias temporales de personas magistradas
 
 ###### Artículo 18.
 
-Las licencias temporales de los magistrados del Tribunal Superior de Justicia del Estado, de hasta tres meses, serán autorizadas por el Pleno y serán cubiertas por los jueces que éste determine. Las mayores a tres meses deberán ser autorizadas por el Congreso del Estado en términos de la legislación aplicable, y serán cubiertas por los magistrados suplentes respectivos.
+Las licencias temporales de las personas magistradas del Poder Judicial del Estado serán autorizadas por el Pleno, las menores de tres meses serán cubiertas por las personas juezas que el propio Pleno determine, y las temporales mayores a tres meses deberán ser autorizadas por el Congreso del Estado en términos de la legislación aplicable y serán cubiertas por las personas magistradas suplentes respectivas.
 
 Excusa y recusación
 
@@ -271,11 +277,15 @@ El Pleno y las Salas del Tribunal Superior de Justicia podrán establecer preced
 
 Las sentencias que emita el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, constituirán precedentes obligatorios en los términos que establezca la ley de la materia.
 
-Serán obligatorios los precedentes que establezca el Pleno del Tribunal Superior de Justicia, derivados de las resoluciones que emitan en los asuntos jurisdiccionales de su competencia, siempre que se sustenten en tres sentencias ejecutorias ininterrumpidas por otra en contrario, aprobadas por mayoría. También constituirán precedentes obligatorios las resoluciones que deriven de contradicciones entre otros precedentes emitidos por las Salas.
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-En el caso de las Salas Colegiadas, los precedentes serán obligatorios siempre que se sustenten en tres sentencias ejecutorias ininterrumpidas por otra en contrario.
+La jurisprudencia por precedentes obligatorios se establece por el Tribunal Superior de Justicia, funcionando en Pleno o en Salas en todos los asuntos jurisdiccionales de su competencia. También constituirán precedentes obligatorios las resoluciones que deriven de contradicciones entre otros precedentes emitidos por las Salas.
 
-En el caso de las Salas Unitarias, los precedentes serán obligatorios siempre que se sustenten en cinco resoluciones ejecutorias ininterrumpidas por otra en contrario.
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+Cuando el Pleno del Tribunal Superior de Justicia o sus Salas establezcan un criterio relevante, la Unidad de Asuntos Jurídicos y Sistematización de Precedente recogerá las razones de la decisión, esto es, los hechos relevantes, el criterio jurídico que resuelve el problema abordado en la sentencia y una síntesis de la justificación expuesta por el tribunal para adoptar ese criterio.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O. 1 DE ABRIL DE 2024)</small>
 
 En cuanto a la contradicción de precedentes, ésta podrá ser planteada en cualquier momento por una Sala, por un magistrado de cualquier Sala o por las partes, y el precedente que prevalezca será obligatorio a partir de que se haga la declaración respectiva, sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad.
 
@@ -297,43 +307,41 @@ Los precedentes que establezcan las salas unitarias serán obligatorios para los
 
 El órgano emisor del precedente obligatorio ordenará su notificación inmediata a los diversos órganos jurisdiccionales para su conocimiento, así como su difusión en los términos que dispongan los acuerdos generales.
 
-Interrupción de la obligatoriedad de precedentes
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
-
 ###### Artículo 26.
 
-Los precedentes se interrumpen y dejan de tener carácter obligatorio, cuando se pronuncie ejecutoria en contrario de por lo menos el 70% del total de Magistradas y Magistrados que integran el Tribunal, si se trata de los sustentados por el Pleno; y por unanimidad de votos, tratándose de los que establezcan las Salas Colegiadas.
+(DEROGADO, D.O. 1 DE ABRIL DE 2024)
 
-En el caso de los precedentes que establezcan las Salas Unitarias, su obligatoriedad se interrumpirá cuando se pronuncie ejecutoria en contrario.
-
-En todo caso, en la ejecutoria respectiva deberán expresarse los motivos en que se apoye la interrupción.
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 Modificación de precedentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
-
 ###### Artículo 27.
 
-La modificación de los precedentes obligatorios deberán sustentarse en tres sentencias ejecutorias ininterrumpidas por otra en contrario, que hayan sido aprobadas por lo menos por el 70% del total de Magistradas y Magistrados que integran el tribunal, si se tratara de los emitidos por el Pleno o por unanimidad en el caso de los emitidos por Salas Colegiadas.
-
-En el caso de las Salas Unitarias, la modificación de los precedentes obligatorios se deberá sustentar en cinco resoluciones ejecutorias ininterrumpidas por otra en contrario.
+Los precedentes dejarán de tener carácter obligatorio, cuando se pronuncie ejecutoria en contrario por mayoría calificada del Pleno del Tribunal Superior de Justicia y por unanimidad de (sic) en el caso de sus Salas. Para que puedan apartarse del precedente, deberán proporcionar argumentos suficientes que justifiquen el cambio de criterio.
 
 ### CAPÍTULO II. Del Pleno del Tribunal Superior de Justicia del Estado
 
 Composición y quórum de funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 28.
 
-El Pleno del Tribunal Superior de Justicia se compondrá de quince Magistradas y Magistrados, pero bastará la presencia de, al menos, el 60% del total de las Magistradas y Magistrados que integran el Tribunal para que pueda funcionar, con excepción de los casos en los que se requiera mayoría calificada de al menos el 70% del total de Magistradas y Magistrados que integran el Tribunal. Cuando las ausencias de los titulares obedezcan a las licencias temporales contempladas en el artículo 18 de esta Ley, formarán parte del Pleno del Tribunal Superior de Justicia las Magistradas y Magistrados suplentes.
+El Pleno del Tribunal Superior de Justicia se compondrá cuando menos de quince Magistradas y Magistrados, pero bastará la presencia de la mayoría que integran el Pleno para que pueda funcionar, con excepción de los casos en los que se requiera mayoría calificada. Cuando las ausencias de los titulares obedezcan a las licencias temporales contempladas en el artículo 18 de esta Ley, formarán parte del Pleno del Tribunal Superior de Justicia las Magistradas y Magistrados suplentes.
 
 Las sesiones serán presididas por el Presidente del Tribunal y en caso de ausencias accidentales de éste, el Pleno nombrará de entre sus integrantes quien deberá presidirlas.
 
 > <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
 En los asuntos de la competencia del Pleno del Tribunal Superior de Justicia, cuando por faltas accidentales de las personas magistradas, deje de reunirse el quórum legal para sesionar, se llamará para integrarlo a las personas magistradas suplentes respectivas, y a falta o por impedimento de estas, a las personas juezas que el Pleno determine.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+La integración del Tribunal Superior de Justicia del Estado podrá aumentar o disminuir cuando las condiciones así lo requiera, siempre y cuando el número de Magistrados no sea inferior a quince, mediante acuerdo del Pleno del propio Tribunal por mayoría de sus integrantes previo un estudio objetivo realizado por la Unidad de Planeación, en coordinación con la Unidad de Asuntos Jurídicos y Sistematización de Precedentes del Tribunal Superior de Justicia motive y justifique las necesidades del trabajo. En su conformación se observará el principio de paridad de género.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+En caso de que por decisión del Pleno se apruebe el aumento del número de magistraturas que integran el Pleno del Tribunal Superior de Justicia, se informará al Congreso del Estado el inicio del procedimiento establecido en el artículo 66 de la Constitución del Estado para el nombramiento de las nuevas magistraturas vacantes.
 
 Naturaleza de las sesiones
 
@@ -357,7 +365,9 @@ IV.- Determinar las adscripciones de los magistrados a las Salas y realizar los 
 
 V.- Establecer Salas Regionales mediante acuerdos generales;
 
-VI.- Resolver sobre las licencias que presenten los magistrados, menores a tres meses;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+VI.- Resolver sobre las licencias temporales que presenten las personas magistradas, menores a tres meses;
 
 VII.- Revisar las decisiones del Consejo de la Judicatura respecto a la designación, adscripción, ratificación y remoción de jueces, para verificar si fueron acordadas conforme a la legislación y normativa aplicable, previa solicitud del juez correspondiente, y remitir el resultado debidamente fundado y motivado al Consejo de la Judicatura, para las modificaciones necesarias, según fuere el caso;
 
@@ -405,11 +415,31 @@ XXIV.- Presentar la cuenta pública, con la documentación respectiva y en los t
 
 XXV.- Designar a su representante ante la Comisión de Conflictos Laborales del Poder Judicial del Estado;
 
-> <small>(ADICIONADA, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-XXVI.- Conocer y resolver el recurso de revocación contra las resoluciones que emita la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los conflictos de trabajo suscitados entre el Tribunal Superior de Justicia del Estado y sus servidoras y servidores públicos, en términos del párrafo vigésimo del artículo 64 de la Constitución Política del Estado de Yucatán, con excepción de los conflictos relativos a las demás servidoras y servidores públicos del Poder Judicial del Estado, en los términos de los artículos 166 a 175 de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en aquello que fuere conducente. La resolución de este recurso será definitiva e inatacable, y
+XXVI.- Conocer y resolver el recurso de revocación contra las resoluciones que emita la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los conflictos de trabajo suscitados entre el Tribunal Superior de Justicia del Estado y sus servidoras y servidores públicos, en términos del párrafo vigésimo del artículo 64 de la Constitución Política del Estado de Yucatán, con excepción de los conflictos relativos a las demás servidoras y servidores públicos del Poder Judicial del Estado, en los términos de los artículos 166 a 175 de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en aquello que fuere conducente. La resolución de este recurso será definitiva e inatacable;
 
-XXVII.- Las demás que establezca la Constitución Política del Estado, esta Ley y demás ordenamientos.
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XXVII.- Designar a las Magistradas y Magistrados del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XXVIII.- Aprobar el aumento o disminución del número de Magistrados y Magistradas que integran el Pleno del Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XXIX.- Aprobar el aumento o disminución del número de Consejeras y Consejeros que integran el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XXX.- Aprobar el aumento o disminución del número de Magistrados y Magistradas que integran el Tribunal de los Trabajadores al Servicio del Estado y los Municipios;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XXXI.- Recibir el compromiso constitucional de los Magistrados y Magistradas del Poder Judicial del Estado en caso del último párrafo del artículo 66 de la Constitución, y
+
+XXXII.- Las demás que establezca la Constitución Política del Estado, esta Ley y demás ordenamientos.
 
 Sesiones del Pleno
 
@@ -547,7 +577,9 @@ XV.- Someter al Pleno los asuntos de su competencia, con la oportunidad debida;
 
 XVI.- Realizar las visitas a las unidades o áreas del Tribunal Superior de Justicia del Estado, para constatar su desempeño;
 
-XVII.- Comunicar al Ejecutivo del Estado y al Congreso, y en sus recesos, a la Diputación Permanente del Estado, las ausencias definitivas de los magistrados del Tribunal Superior de Justicia, y aquellas que deban ser suplidas mediante nombramiento del Congreso;
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XVII.- Comunicar al Congreso del Estado y, en sus recesos, a la Diputación Permanente del Estado, la designación de la persona magistrada que corresponda, para que proceda de conformidad con lo establecido en el artículo 66 de la Constitución del Estado;
 
 XVIII.- Rendir el informe anual de actividades del Poder Judicial en sesión solemne del Tribunal Superior de Justicia, en presencia de todos los Magistrados del Poder Judicial y de los Consejeros de la Judicatura;
 
@@ -717,9 +749,15 @@ IX.- Guardar bajo su responsabilidad los pliegos, documentos y expedientes que l
 
 X.- Distribuir y enviar la correspondencia de la Presidencia, las Salas y las diversas áreas del Tribunal;
 
-XI.- Formar y guardar, bajo su responsabilidad, los legajos de actas de visitas que se practiquen al interior del Tribunal Superior de Justicia del Estado, y
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-XII.- Autorizar y desempeñar las demás funciones que le confieran las Leyes, las disposiciones reglamentarias o, en su defecto, lo que determine el Tribunal en Pleno.
+XI.- Formar y guardar, bajo su responsabilidad, los legajos de actas de visitas que se practiquen al interior del Tribunal Superior de Justicia del Estado;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XII.- Informar sobre la conclusión del cargo de un Magistrado o Magistrada, de la actualización de una causa de retiro forzoso o la existencia de una magistratura vacante conforme a lo previsto en la Constitución, así como recibir y dar cuenta al Pleno de la documentación presentada de los candidatos propuestos para cubrirla, y
+
+XIII.- Autorizar y desempeñar las demás funciones que le confieran las Leyes, las disposiciones reglamentarias o, en su defecto, lo que determine el Tribunal en Pleno.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
@@ -875,13 +913,17 @@ VII quáter.- Llevar los libros de gobierno de los convenios y poderes que suscr
 
 VIII.- Elaborar el informe anual de actividades y entregarlo al Pleno del Tribunal Superior de Justicia del Estado para su análisis;
 
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+IX.- Formular el Manual de Operación de la Unidad y los demás que se requieran para su debido funcionamiento y someterlo a la consideración del Pleno del Tribunal Superior de Justicia del Estado;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+X.- Realizar, en coordinación con la Unidad de Planeación, el estudio objetivo que en su caso motive y justifique las necesidades de incrementar o disminuir el número de personas magistradas del Tribunal Superior de Justicia del Estado, de personas consejeras del Consejo de la Judicatura y personas magistradas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, y
+
 > <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
-IX.- Formular el Manual de Operación de la Unidad y los demás que se requieran para su debido funcionamiento y someterlo a la consideración del Pleno del Tribunal Superior de Justicia del Estado, y
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
-
-X.- Las demás que le confieran los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura y otras disposiciones legales aplicables.
+XI. Las demás que le confieran los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
@@ -969,9 +1011,15 @@ V.- Proveer a las áreas y órganos del Poder Judicial, que así lo soliciten, s
 
 VI.- Elaborar los programas de implementación del sistema de control interno y de administración de riesgos en el Poder Judicial, así como proponer los mecanismos y estrategias para la implementación, orientación y seguimiento de las políticas públicas de anticorrupción;
 
-VII.- Proponer la elaboración y actualización de manuales y guías, el desarrollo de acciones en materia de organización, sistemas y procedimientos; así como, participar en la implementación de lineamientos, metodologías, técnicas y esquemas novedosos de trabajo que permitan mejorar y simplificar métodos y procesos de trabajo en el Poder Judicial, y
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-VIII.- Las demás que establezca la legislación aplicable y los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura en los asuntos que les correspondan.
+VII.- Proponer la elaboración y actualización de manuales y guías, el desarrollo de acciones en materia de organización, sistemas y procedimientos; así como, participar en la implementación de lineamientos, metodologías, técnicas y esquemas novedosos de trabajo que permitan mejorar y simplificar métodos y procesos de trabajo en el Poder Judicial;
+
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+VIII.- Realizar, en coordinación con la Unidad de Asuntos Jurídicos y Sistematización de Precedentes del Tribunal Superior de Justicia, el estudio objetivo que, en su caso, motive y justifique las necesidades de incrementar o disminuir el número de personas magistradas del Tribunal Superior de Justicia del Estado, de personas consejeras del Consejo de la Judicatura y personas magistradas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, y
+
+IX.- Las demás que establezca la legislación aplicable y los Plenos del Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura en los asuntos que les correspondan.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -1061,13 +1109,19 @@ Contará con plena autonomía en el dictado de sus resoluciones, las cuales ser�
 
 Integración del tribunal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 77.
 
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios estará integrado por tres Magistradas y Magistrados y, para el cumplimiento de sus atribuciones, contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán. En la designación de las Magistradas y Magistrados de este tribunal deberá observarse el principio de paridad de género, por lo que no podrá haber más de dos del mismo sexo.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios estará integrado cuando menos por tres Magistradas y Magistrados y, para el cumplimiento de sus atribuciones, contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán. En la integración del Tribunal deberá observarse el principio de paridad de género.
 
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios contará con una Magistrada o Magistrado Presidente que, junto con su suplente, será elegida o elegido de entre sus integrantes por la votación mayoritaria de su Pleno para un periodo de cuatro años, conforme a las reglas previstas en el artículo 36 de esta ley.
 
 Las Magistradas y Magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, cuando funcione en pleno, podrán conocer y aceptar, en su caso, la renuncia de la Magistrada o Magistrado Presidente a dicho cargo, sin que esta implique la renuncia a ser Magistrada o Magistrado.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+La integración del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios solamente podrá aumentar o disminuir, no pudiendo ser menor de tres, mediante acuerdo del Pleno del Tribunal Superior de Justicia por mayoría de sus integrantes, previo un estudio objetivo solicitado por el Pleno del Tribunal Superior de Justicia y presentado por la Unidad de Planeación en coordinación con la Unidad de Asuntos Jurídicos y Sistematización de Precedentes del Tribunal Superior de Justicia, motive y justifique las necesidades del trabajo y el ejercicio de su presupuesto lo permita.
 
 > <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
@@ -1219,9 +1273,9 @@ Protesta y duración del cargo de los jueces
 
 Los jueces de primera Instancia rendirán su Compromiso Constitucional ante el Pleno del Consejo de la Judicatura, por conducto de su Presidente.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
-Las juezas y jueces de primera Instancia durarán en su cargo cuatro años contados desde el día en que tomen posesión, al término del cual podrán ser ratificados para períodos subsecuentes.
+Las personas jueces de primera Instancia durarán en su cargo seis años contados desde el día en que tomen posesión, al término de dicho periodo, podrán ser ratificados conforme a los lineamientos para la ratificación de personas jueces que para el efecto expida el Consejo de la Judicatura del Poder Judicial del Estado de Yucatán, y de serlo, lo serán por tiempo indefinido, siempre que no exista sentencia o resolución firme que lo inhabilite o lo remueva del cargo o se actualice alguno de los supuestos de causas de terminación del cargo o se incumpla con alguno de los requisitos para ser juez de primera instancia, conforme a lo previsto en los artículos 85 y 88 de esta Ley, respectivamente.
 
 Sólo podrán ser removidos por causa justificada y previo juicio de responsabilidad respectivo, no se considerará remoción, la promoción de los jueces a otro juzgado de primera instancia o a grado superior.
 
@@ -1601,11 +1655,15 @@ El Consejo de la Judicatura tendrá su sede en la ciudad de Mérida, Yucatán, y
 
 Integración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2024)</small>
 
 ###### Artículo 107.
 
-El Consejo de la Judicatura se integrará por cinco personas, de las cuales, una será Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo presidirá y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo. No podrá haber más de tres miembros del mismo género.
+El Consejo de la Judicatura se integrará cuando menos por cinco personas, de las cuales, una será Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo presidirá y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+
+La integración del Consejo de la Judicatura deberá privilegiar el principio de paridad de género y solamente podrá aumentar o disminuir, no pudiendo ser menor de cinco, mediante acuerdo del Pleno del Tribunal Superior de Justicia por mayoría de sus integrantes, previo estudio objetivo solicitado por el Pleno del Tribunal Superior de Justicia y presentado por la Unidad de Planeación, en coordinación con la Unidad de Asuntos Jurídicos y Sistematización de Precedentes del Tribunal Superior de Justicia, que motive y justifique las necesidades del trabajo y el ejercicio de su presupuesto lo permita. En caso de aumentar el número de personas consejeras, corresponderá nombrar a las siguientes dos, al Pleno del Tribunal Superior de Justicia; la siguiente al titular del Poder Ejecutivo, y, posteriormente, a la siguiente por la mayoría de los Diputados del Congreso del Estado presentes en la sesión en que se aborde el asunto y así sucesivamente.
 
 Los miembros de la carrera judicial que sean designados Consejeros de la Judicatura por el Pleno del Tribunal Superior de Justicia, serán comisionados por todo el tiempo que dure el encargo y al término del mismo serán reincorporados a sus funciones jurisdiccionales, o en un cargo que no implique la pérdida de la categoría anterior a la de Consejero.
 
@@ -1831,11 +1889,15 @@ XIV.- Designar a cuando menos dos personas Consejeras de la Judicatura y a las p
 
 XV. Llevar la firma y representación legal del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, de manera conjunta con el Titular de éste;
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
-XVI. Legalizar, por sí o por conducto de la persona titular de la Secretaría Ejecutiva, la firma de las personas servidoras públicas del Poder Judicial en los casos en que la ley exija este requisito, con excepción de quienes se encuentren adscritas al Tribunal Superior de Justicia, y
+XVI.- Legalizar, por sí o por conducto de la persona titular de la Secretaría Ejecutiva, la firma de las personas servidoras públicas del Poder Judicial en los casos en que la ley exija este requisito, con excepción de quienes se encuentren adscritas al Tribunal Superior de Justicia;
 
-XVII. Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+
+XVII.- Realizar, por conducto de las áreas que se estimen necesarias, el estudio objetivo que en su caso motive y justifique las necesidades incrementar o disminuir la integración del Consejo de la Judicatura, y en su caso remitirlo para su aprobación al Pleno del Tribunal Superior de Justicia del Estado, y
+
+XVIII.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 19 DE DICIEMBRE DE 2023)</small>
 
@@ -2435,7 +2497,7 @@ Naturaleza
 
 ###### Artículo 165.
 
-Son faltas absolutas las provenientes de muerte, renuncia o destitución. Son temporales las que sin ser absolutas, excedan de quince días; se reputarán como faltas accidentales las que no excedan de quince días.
+Son faltas absolutas, el retiro forzoso conforme a lo establecido en el artículo 68 de la Constitución del Estado, así como las provenientes de muerte, renuncia o destitución. Son temporales las que, sin ser absolutas, excedan de quince días; se reputarán como faltas accidentales las que no excedan de quince días. Las faltas absolutas darán inicio inmediato al procedimiento de designación de la persona magistrada correspondiente conforme al artículo 66 de la Constitución Política del Estado de Yucatán.
 
 Suplencia de Consejeros
 
@@ -2570,6 +2632,8 @@ DE LOS DEBERES ÉTICOS DEL PERSONAL DEL PODER JUDICIAL DEL ESTADO
 Prohibiciones
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
+
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
 
 Faltas absolutas y temporales
 
@@ -3206,3 +3270,23 @@ Artículo tercero. El Tribunal Superior de Justicia y el Consejo de la Judicatur
 Cláusula derogatoria
 
 Artículo cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+D.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 743/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN EN MATERIA DE INDEPENDENCIA Y AUTONOMÍA JUDICIAL”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. El Poder Judicial del Estado de Yucatán deberá realizar las modificaciones pertinentes a su normativa interna para armonizarla a las disposiciones de este decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+Alternancia de propuestas en caso de magistraturas vacantes
+
+Artículo tercero. Una vez entre en vigor el presente decreto, para el caso de la primera magistratura vacante, la propuesta para cubrir el cargo de Magistrada o Magistrado que en su caso formulen de forma individual o conjunta los Magistrados y Magistradas del Tribunal Superior de Justicia en funciones, deberá considerar personas que hayan destacado por su competencia, honorabilidad y antecedentes en la profesión jurídica, pudiendo o no prestar sus servicios en el Poder Judicial; en la siguiente, únicamente podrán considerar personas que presten sus servicios en el Poder Judicial y, así de manera alternada sucesivamente. Esta alternancia se respetará de forma independiente en el caso de vacantes en el Tribunal Superior de Justicia como en el Tribunal de los Trabajadores al Servicio del Estado y los Municipios.
+
+Cláusula derogatoria
+
+Artículo cuarto. A la entrada en vigor de este decreto quedarán derogadas las disposiciones de igual o menor jerarquía en lo que se opongan al mismo.
