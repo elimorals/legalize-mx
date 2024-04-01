@@ -4,7 +4,7 @@ identifier: "LNED"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-09"
-last_updated: "2020-01-22"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNED"
 
 LEY NACIONAL DE EXTINCIÓN DE DOMINIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el viernes 9 de agosto de 2019.
 
@@ -654,9 +654,11 @@ Si se trata de una persona con algún tipo de discapacidad, tiene derecho a que 
 
 Cuando a solicitud fundada de la persona con discapacidad, o a juicio de la autoridad competente, sea necesario adoptar otras medidas para salvaguardar su derecho a ser debidamente asistida, la persona con discapacidad podrá recibir asistencia en materia de estenografía proyectada, en los términos de la ley de la materia, por un intérprete de lengua de señas o a través de cualquier otro medio que permita un entendimiento cabal de todas y cada una de las actuaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 67.
 
-En el caso de los miembros de pueblos o comunidades indígenas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura, aun cuando hablen el español, si así lo solicitan.
+En el caso de las personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura indígenas, aun cuando hablen el español, si así lo solicitan.
 
 El órgano jurisdiccional garantizará el acceso a traductores e intérpretes que coadyuvarán en el proceso según se requiera.
 
@@ -1282,9 +1284,11 @@ La sentencia se dictará en la forma y términos que previene esta Ley.
 
 Las resoluciones judiciales que se dicten serán orales, excepto los casos previstos en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
 ###### Artículo 153.
 
-A fin de garantizarle a las personas indígenas el acceso pleno a la jurisdicción del Estado en los procedimientos en que sean parte, el Juez deberá considerar, al momento de dictar la resolución, sus usos, costumbres y especificidades culturales.
+A fin de garantizarles a las personas pertenecientes a pueblos y comunidades indígenas y afromexicanas el acceso pleno a la jurisdicción del Estado en los procedimientos en que sean parte, el Juez deberá considerar, al momento de dictar la resolución, sus usos, costumbres y especificidades culturales.
 
 ###### Artículo 154.
 
@@ -2195,3 +2199,9 @@ D.O.F. 22 DE ENERO DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
