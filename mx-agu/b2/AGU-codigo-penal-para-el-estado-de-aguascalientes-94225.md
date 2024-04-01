@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-01-22"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1395,9 +1395,9 @@ Si el hostigador fuese servidor público y utilizare los medios o circunstancias
 
 Atentados al pudor. Los Atentados al Pudor consisten en la ejecución de actos erótico sexuales, sin consentimiento de la víctima, sin el propósito directo e inmediato de llegar a la cópula, o que se obligue a la víctima a ejecutarlos; entendiéndose por actos erótico sexuales, cualquier acción lujuriosa como caricias, manoseos y tocamientos corporales obscenos, o sin llegar al contacto físico, representen actos explícitamente sexuales, como caricias o masturbaciones.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
-También se equipará a los Atentados al Pudor la conducta de carácter erótico sexual de quién sin llegar al contacto físico, exhiba ante la víctima, sin su consentimiento o con su consentimiento tratándose de menores de quince años, el pene, senos, glúteos o la vagina.
+También se equiparará a los Atentados al Pudor, la conduela de carácter erótico sexual de quién sin llegar al contacto físico, exhiba el pene, senos, glúteos o la vagina, ante la víctima, sin que medie consentimiento; o bien, no obstante con el consentimiento, el mismo sea otorgado por persona menor de quince años, por persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistir la conducta del sujeto activo.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -4202,3 +4202,15 @@ P.O. 22 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 612.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones legales que se opongan al mismo.
