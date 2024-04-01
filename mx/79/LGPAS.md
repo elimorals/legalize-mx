@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2023-12-04"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -66,7 +66,9 @@ III. Establecer las bases para la ordenación, conservación, la protección, la
 
 IV. Fijar las normas básicas para planear y regular el aprovechamiento de los recursos pesqueros y acuícolas, en medios o ambientes seleccionados, controlados, naturales, acondicionados o artificiales, ya sea que realicen el ciclo biológico parcial o completo, en aguas marinas, continentales o salobres, así como en terrenos del dominio público o de propiedad privada;
 
-V. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de las comunidades y pueblos indígenas, en los términos de la presente Ley, de los lugares que ocupen y habiten;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+V. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de los pueblos y comunidades indígenas y afromexicanas, en los términos de la presente Ley, de los lugares que ocupen y habiten;
 
 VI. Establecer las bases y los mecanismos de coordinación entre las autoridades de la Federación, las entidades federativas y los municipios, para el mejor cumplimiento del objeto de esta Ley;
 
@@ -550,9 +552,9 @@ XI. Los sectores pesquero y acuícola se desarrollarán desde una perspectiva so
 
 XII. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
 
-> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-XIII. Impulso regional equilibrado y equitativo, que priorice el desarrollo de las comunidades y pueblos indígenas;
+XIII. Impulso regional equilibrado y equitativo, que priorice el desarrollo de los pueblos y comunidades indígenas y afromexicanas;
 
 > <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2015)</small>
 
@@ -590,7 +592,9 @@ V. Investigación y desarrollo tecnológico para el manejo y procesamiento de re
 
 VI. Investigación científica y tecnológica orientada a incrementar la capacidad de producción pesquera;
 
-VII. Programas que fomenten la pesca de los habitantes de las comunidades indígenas, utilizando sus artes y métodos de pesca tradicionales;
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VII. Programas que fomenten la pesca de los habitantes de los pueblos y comunidades indígenas y afromexicanas, utilizando sus artes y métodos de pesca tradicionales;
 
 VIII. Estudios para identificar los cuerpos de agua susceptibles de ser restaurados para la recuperación de los ecosistemas y, por ende, el incremento de la producción;
 
@@ -620,7 +624,9 @@ XV. Apoyos a los pescadores y acuacultores que se dediquen de manera legal y sus
 
 Para las acciones de inspección y vigilancia, la Secretaría, con la participación que corresponda a la Secretaría de Marina, tendrá como función primordial la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas.
 
-La Secretaría, en coordinación con los gobiernos de las entidades federativas y con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas, los gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+La Secretaría, en coordinación con los gobiernos de las entidades federativas y con la colaboración de los productores pesqueros y acuícolas, pueblos y comunidades indígenas y afromexicanas, los gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 
 La Secretaría dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa y promoverá la participación de las demás dependencias y entidades de la Administración Pública Federal, de las entidades federativas y de los municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
@@ -962,11 +968,17 @@ Los permisos se otorgarán cuando por la cuantía de la inversión no se requier
 
 El otorgamiento de concesiones y permisos, quedará sujeto a las modalidades que dicte el interés público, condicionado siempre a la disponibilidad y preservación del recurso de que se trate. La Secretaría basará sus decisiones en criterios de equidad social y en la información científica disponible del recurso pesquero. Asimismo, se otorgarán preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
 
-En igualdad de circunstancias, tendrán preferencia las solicitudes de las comunidades indígenas. Cuando la concesión o permiso pueda afectar el hábitat de alguna comunidad indígena la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
-Con el fin de apoyar las actividades productivas de las comunidades indígenas, la Secretaría promoverá programas que favorezcan su desarrollo sustentable. Asimismo les dotará de estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
+En igualdad de circunstancias, tendrán preferencia las solicitudes de los pueblos y comunidades indígenas y afromexicanas. Cuando la concesión o permiso pueda afectar el hábitat de algún pueblo o comunidad indígena o afromexicana la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
 
-La Secretaría establecerá los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones y permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos indígenas, o bien, para asegurar que les sea interpretado su contenido.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+Con el fin de apoyar las actividades productivas de los pueblos y comunidades indígenas y afromexicanas, la Secretaría promoverá programas que favorezcan su desarrollo sustentable. Asimismo, les dotará de estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+La Secretaría establecerá los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones y permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos y comunidades indígenas y afromexicanas o bien, para asegurar que les sea interpretado su contenido.
 
 ###### ARTÍCULO 44.
 
@@ -2337,3 +2349,9 @@ D.O.F. 4 DE DICIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición respecto al Instituto Nacional de Pesca y Acuacultura, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas al Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables.
+
+D.O.F. 1 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
