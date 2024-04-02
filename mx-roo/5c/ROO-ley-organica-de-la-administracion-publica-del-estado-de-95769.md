@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2024-03-05"
+last_updated: "2024-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -583,6 +583,10 @@ VI. Promover y coordinar la formulación e integración del Plan Estatal de Desa
 
 VII. Determinar e instrumentar los procedimientos, criterios y lineamientos generales para la elaboración, integración, ejecución y evaluación de los programas de inversión a cargo de las dependencias y entidades de la Administración Pública Estatal. Concertar estos aspectos en los programas que se realicen coordinadamente con los gobiernos municipales; así como brindar a los ayuntamientos la asesoría que soliciten para la elaboración de sus programas y proyectos de gasto de inversión;
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Asimismo, deberá verificar que en el Anteproyecto de Presupuesto de Egresos del Estado, así como en la iniciativa del Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, estén incluidos en el gasto de inversión del Estado, las partidas necesarias para cubrir los proyectos de inversión en infraestructura con erogaciones plurianuales que se hubieren autorizado por la Legislatura del Estado en los Presupuestos de Egresos de ejercicios anteriores.
+
 VIII. Participar en coordinación con la Secretaría de la Gestión Pública, en la evaluación e inspección sobre el ejercicio de los recursos del Presupuesto de Egresos destinados a los programas de inversión; a fin de asegurar su congruencia y adecuada administración;
 
 IX. Regular, coordinar y conducir los aspectos técnicos del Sistema Estatal de Información, Geografía y Estadística, procurando que los diversos sectores de la Administración Pública del Estado integren, bajo las políticas del mismo, los subsistemas de información que sirvan de base para la elaboración, instrumentación y evaluación de los programas a su cargo;
@@ -599,7 +603,13 @@ XIV. Proponer al Gobernador el (sic) Estado las políticas y programas para logr
 
 XV. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Pública del Estado;
 
-XVI. Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado; asimismo, recibir, administrar y destinar conforme a las disposiciones legales e instrucciones del Ejecutivo del Estado, las contribuciones, subsidios y transferencias de fondos federales y municipales en los términos de los convenios suscritos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE ABRIL DE 2024)</small>
+
+XVI. Recaudar, recibir, administrar y aplicar los ingresos derivados de los impuestos, derechos, productos y aprovechamientos y cualesquiera otros ingresos que correspondan al Estado, para lo cual podrá utilizar los mecanismos tales como la apertura de cuentas de depósito, de inversión, fideicomisos y demás instrumentos legales, conforme a las disposiciones legales e instrucciones de la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Asimismo, recibir, administrar y destinar conforme a las disposiciones legales e instrucciones de la persona titular del Poder Ejecutivo del Estado, las contribuciones, subsidios y transferencias de fondos federales y municipales en los términos de los convenios suscritos;
 
 XVII. Vigilar el exacto cumplimiento de las leyes y disposiciones fiscales; determinar créditos fiscales e imponer las sanciones que correspondan en caso de infracciones a las disposiciones tributarias;
 
@@ -639,9 +649,15 @@ XXX. Intervenir en los juicios que se ventilen ante cualquier tribunal cuando te
 
 XXXI. Administrar, normar, conducir y supervisar los servicios catastrales en el Estado, asegurando la adecuada distribución, funcionamiento y modernización del mismo.
 
-XXXII. Fungir como fideicomitente único del Gobierno del Estado en la constitución de fideicomisos públicos y cuidar que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre bienes fideicomitidos, las limitaciones que establezca o que se derive de derechos de terceros, así como los derechos de terceros que el fideicomitente se reserve y las facultades que fije en su caso el Comité Técnico;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
 
-XXXIII. Intervenir en la autorización de contratos y convenios en los que se afecte el presupuesto de egresos, verificando la disponibilidad de recursos financieros en las partidas correspondientes, y
+XXXII. Fungir como fideicomitente único del Poder Ejecutivo del Estado en la constitución de fideicomisos y cuidar que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar a la persona fiduciaria sobre bienes fideicomitidos, las limitaciones que establezca o que se derive de derechos de terceros, así como los derechos que, en su caso, se reserve el fideicomitente y las facultades que, en su caso, correspondan al Comité Técnico;
+
+Los fideicomisos que no constituyan entidades paraestatales se regirán por sus contratos constitutivos y demás normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+XXXIII. Intervenir en la autorización de contratos y convenios en los que se afecte el presupuesto de egresos, mediante la emisión de la suficiencia presupuestaria correspondiente, verificando la disponibilidad de recursos financieros en las partidas correspondientes, y
 
 XXXIV. (DEROGADA, P.O. 19 DE JULIO DE 2017)
 
@@ -2462,3 +2478,11 @@ Cuarto. La Comisión Ejecutiva de Turismo emitirá en un plazo no mayor a 90 dí
 Quinto. Para el cumplimiento de lo previsto en la fracción XXX del artículo 6, la Secretaría dentro de un plazo de 180 días naturales, contados a partir del inicio de la vigencia de presente decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el Fondo de Apoyo para los Turistas, Visitantes y Prestadores de Servicios Turísticos en Situación de Emergencia, Desastres y Contingencias.
 
 Sexto. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 218 POR EL QUE SE POR EL QUE SE (SIC) REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LA MISMAS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
