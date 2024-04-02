@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2022-08-29"
+last_updated: "2024-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -159,6 +159,10 @@ XI.- Todos aquéllos de naturaleza análoga.
 
 El gasto de la obra pública y los servicios relacionados con la misma se sujetarán, en su caso, a las disposiciones de la Ley de Presupuesto y Gasto Público del Estado y al Presupuesto de Egresos del Gobierno del Estado de Quintana Roo aprobado para el ejercicio fiscal en que se realice, así como a los presupuestos de egresos de los municipios y entidades autónomas; y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Adicionalmente, el gasto de obra pública se sujetará a los oficios de suficiencia presupuestaria, y en el caso de contratos celebrados con base en autorizaciones de erogaciones plurianuales para proyectos de inversión en infraestructura, los entes públicos deberán verificar la inclusión de las partidas correspondientes en los presupuestos de egresos, según corresponda, de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
+
 Las obras públicas y los servicios relacionados con las mismas, que realicen las instituciones con cargo total o parcial a fondos federales, se sujetarán a las disposiciones legales federales de la materia.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
@@ -171,7 +175,9 @@ En los casos de obras públicas y servicios relacionados con las mismas financia
 
 La aplicación de esta Ley corresponde al Ejecutivo del Estado a través de sus dependencias y entidades, salvo los casos en los cuales su aplicación corresponda a las autoridades municipales en sus correspondientes jurisdicciones; lo anterior sin perjuicio de las atribuciones que conforme a su propia Ley Orgánica y otras disposiciones aplicables, le corresponden en esta materia al Órgano Superior.
 
-La interpretación y vigilancia del cumplimiento de esta Ley, será competencia del Ejecutivo por conducto del Órgano de Control del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+La interpretación y vigilancia del cumplimiento de esta Ley, será competencia del Ejecutivo del Estado por conducto del Órgano de Control del Gobierno del Estado, salvo por la interpretación de las disposiciones que regulan aspectos financieros y presupuestarios, cuya interpretación corresponderá a la Secretaría.
 
 La Secretaría y el Órgano de Control, en el ámbito de sus respectivas competencias, expedirán las disposiciones reglamentarias y las administrativas que sean estrictamente necesarias en la contratación y ejecución de la obra pública, las cuales será en debido apego a esta ley.
 
@@ -281,6 +287,10 @@ Las instancias convocantes, cuando sea el caso, previamente a la realización de
 
 Las dependencias, entidades o ayuntamientos que sean apoyadas presupuestalmente o que reciban transferencia de recursos estatales, remitirán sus programas y presupuestos de obra pública a la dependencia coordinadora de sector, en la fecha que ésta señale.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+En el caso de programas estatales basados en proyectos de inversión en infraestructura con erogaciones plurianuales, las entidades de la administración pública estatal que no sean apoyadas presupuestalmente o que no reciban transferencias, remitirán sus programas y presupuestos de obra pública plurianual a la dependencia coordinadora de sector, en la fecha que ésta señale.
+
 Las dependencias coordinadoras de sector, y en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados, en la fecha que ésta determine para su examen, aprobación e inclusión en el proyecto de presupuesto de egresos correspondiente.
 
 A más tardar el 31 de marzo de cada año, pondrán a disposición de los interesados, por escrito y a través de su página de internet o la de la Secretaría, sus programas anuales de obra pública, salvo que medie causa debidamente justificada para no hacerlo en dicho plazo.
@@ -291,11 +301,21 @@ El documento que contenga los programas será de carácter informativo; no impli
 
 En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias, entidades y ayuntamientos deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento, se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos. El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente. La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+En el caso de obras públicas y los servicios relacionados con las mismas cuya ejecución rebase un ejercicio presupuestal, pero su contratación se base en autorizaciones de erogaciones plurianuales para proyectos de inversión en infraestructura, la asignación presupuestal para los ejercicios subsecuentes se basará en el oficio de suficiencia presupuestaria otorgada inicialmente por la Secretaría para la celebración del contrato correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-Las dependencias y entidades podrán convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, solamente cuando cuenten por parte de la Secretaría con la autorización correspondiente en el presupuesto de inversión, conforme al cual deberán elaborarse los programas de ejecución y pagos correspondientes.
+Las dependencias y entidades podrán convocar, adjudicar y contratar obras públicas y servicios relacionados con éstas, solamente cuando cuenten con la autorización correspondiente en el presupuesto de inversión por parte de la Secretaría a través del oficio de suficiencia presupuestaria que ésta emita, conforme al cual deberán elaborarse los programas de ejecución y pagos correspondientes.
 
 En caso de que se trate de obras y servicios que ejecuten los ayuntamientos con sus propios recursos, la autorización arriba señalada la deberá emitir el área facultada para ello de acuerdo a su propia normatividad.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Las dependencias y entidades podrán convocar, adjudicar y contratar obras públicas y servicios relacionados con éstas, con cargo a los presupuestos de egresos de dos o más ejercicios fiscales, siempre y cuando, el proyecto de inversión en infraestructura dentro del cual se clasifica la obra esté autorizado por la Legislatura del Estado en el Presupuesto de Egresos del Estado en términos de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo como proyecto de inversión en infraestructura con erogaciones plurianuales.
 
 En casos excepcionales y previa aprobación de la Secretaría, las dependencias y entidades podrán convocar, adjudicar y formalizar contratos, cuya vigencia inicie en el ejercicio fiscal siguiente de aquel en que se formalizan. Los referidos contratos estarán sujetos a la disponibilidad presupuestaria del año en que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
 
@@ -425,7 +445,9 @@ VII.- La indicación de que ninguna de la (sic) condiciones contenidas en la (si
 
 VIII.- Moneda o monedas en que podrán presentarse las proposiciones. En los casos en que se permita hacer la cotización en moneda extranjera se deberá establecer que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio de la fecha en que se haga dicho pago, así como el mecanismo y periodos de revisión;
 
-IX.- Las condiciones de pago de acuerdo al tipo de contrato a celebrar;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+IX.- Las condiciones de pago de acuerdo con el tipo de contrato a celebrar, incluyendo, para los contratos a precio alzado, la posibilidad de pagos a plazos preestablecidos;
 
 X.- La indicación de que, en su caso, las proposiciones podrán presentarse a través de medios electrónicos, precisando los términos y condiciones para ello;
 
@@ -555,6 +577,10 @@ XI.- Tratándose de licitaciones a Precio Alzado:
 
 a) Red de actividades principales de obra, incluyéndose al menos cinco (cuando sea posible), se deberá entender como actividad principal de obra, el conjunto de acciones que deben ser ejecutadas totalmente en un periodo y por un monto establecido por el licitante en su proposición, en congruencia con las bases de licitación y determinadas por las unidades de medida general definidas en las propias bases y en el contrato. Importe total de proposición;
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+En el importe total del proyecto que proponga la persona licitante se entienden implícitos todos los conceptos a que se refiere la fracción X, inciso b) de este artículo, sin que deba detallarse su integración, por lo que, la persona licitante en caso de resultar persona licitante ganadora no podrá exigir cantidades adicionales, salvo que deriven de la mora en el pago del contrato.
+
 b) La cédula de avances y de pagos programados, la cual se representa en una tabla o matriz en la que el licitante muestra todas las actividades que le representan un costo.
 
 En la cédula el licitante deberá definir las cantidades y el importe de trabajos a ejecutar mensualmente, a efecto de reflejar el avance físico y financiero que tendrán los mismos;
@@ -605,9 +631,11 @@ En el mismo acto de fallo o adjunta a la comunicación referida, las instancias 
 
 Contra la resolución que contenga el fallo no procederá recurso alguno; sin embargo, procederá la inconformidad que se interponga por los licitantes en los términos del Título Octavo de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-Las instancias convocantes procederán a declarar desierta una licitación y deberán expedir una segunda convocatoria, cuando las propuestas presentadas no reúnan los requisitos de las bases de la licitación o sus precios de insumos no fueren aceptables.
+Las instancias convocantes procederán a declarar desierta una licitación y deberán expedir una segunda convocatoria, cuando las propuestas presentadas no reúnan los requisitos de las bases de la licitación o los precios de insumos o el importe total de la proposición, según corresponda, no fueren aceptables.
 
 Las instancias convocantes podrán cancelar una licitación por caso fortuito o fuerza mayor. De igual manera, podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad de contratar los trabajos y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia instancia convocante. La determinación de dar por cancelada la licitación, deberá precisar el acontecimiento que motiva la decisión, el cual se hará del conocimiento de los licitantes.
 
@@ -675,6 +703,10 @@ X.- Se trate de servicios de consultorías, asesorías, estudios, investigacione
 
 XI.- Se acepte la ejecución de los trabajos a título de dación en pago, en los términos de la Secretaría.
 
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+XII.- Se trate de obras o servicios relacionados con las mismas que, de realizarse bajo un procedimiento de licitación pública, pudieran afectar la seguridad del Estado o comprometer información de naturaleza reservada o confidencial para el Estado o los Municipios.
+
 ###### ARTÍCULO 40.
 
 Las dependencias, entidades y ayuntamientos bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública; mediante adjudicación directa, cuando el importe de cada operación no exceda de siete mil veces el salario mínimo general vigente en el Estado y por invitación a cuando menos tres contratistas cuando el importe de cada operación no exceda de cuarenta y siete mil quinientas veces el salario mínimo general vigente en el Estado; tratándose de servicios relacionados con la obra pública a través del procedimiento de invitación restringida por adjudicación directa, cuando el importe no exceda de dos mil quinientas veces el salario mínimo general vigente en el Estado y por invitación a cuando menos tres contratistas cuando el importe no exceda de veintiséis mil veces el salario mínimo general vigente en el Estado, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
@@ -715,13 +747,21 @@ I.- Sobre la base de precios unitarios, en cuyo caso el importe de la remuneraci
 
 II.- A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por los trabajos totalmente terminados y ejecutados en el plazo establecido;
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+En el caso de contrato de obra pública a precio alzado con pagos a plazos preestablecidos, el importe de la remuneración que deba cubrirse al contratista será de conformidad con el calendario de pagos establecido en los certificados de avance que se emitan respecto de las estimaciones periódicas sobre trabajos ejecutados, según se pacte en el contrato;
+
 Las proposiciones que presenten los contratistas para la celebración de estos contratos, tanto en sus aspectos técnicos como económicos, deberán estar desglosadas por lo menos en cinco actividades principales; y
 
 III.- Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado.
 
-Las instancias convocantes podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
 
-Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos de las leyes aplicables.
+Las instancias convocantes podrán incorporar en las bases de licitación las modalidades de contratación que deberán garantizar al Estado las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado. Dentro de dichas modalidades se puede establecer para los contratos de obra a precio alzado el pago a plazos preestablecidos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos de las leyes aplicables, salvo que se trate de contratos celebrados con base en autorizaciones de erogaciones plurianuales para proyectos de inversión en infraestructura aprobadas por la Legislatura del Estado en el Presupuesto de Egresos del Estado, en cuyo caso, una vez emitida la suficiencia presupuestaria inicial por parte de la Secretaría, no requerirán de autorizaciones presupuestarias posteriores.
 
 ###### ARTÍCULO 43.
 
@@ -775,7 +815,9 @@ Si la instancia convocante no firmare el contrato respectivo o cambia las condic
 
 El contratista a quien se adjudique el contrato, no podrá hacerlo ejecutar por otro; pero, con autorización previa del titular del área responsable de la ejecución de los trabajos en la instancia convocante de que se trate, podrá hacerlo respecto de partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la instancia convocante señale específicamente en las bases de la licitación, las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de los trabajos ante la instancia convocante.
 
-Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total a favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la instancia convocante de que se trate.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total a favor de cualquier otra persona, con excepción de los derechos de cobro derivados del contrato, en cuyo caso se deberá contar con el consentimiento de la instancia convocante de que se trate.
 
 ###### ARTÍCULO 45.
 
@@ -831,11 +873,25 @@ Las instancias convocantes establecerán la residencia de obra con anterioridad 
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la instancia convocante. Los contratos de supervisión con terceros, deberán ajustarse a los lineamientos que para tal efecto determine el Órgano de Control.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de un mes. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para el pago de las estimaciones que hubiere fijado la instancia convocante en el contrato, acompañadas de la documentación que acredite la procedencia de su pago; la residencia de obra para realizar la revisión y autorización de las estimaciones contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, éstas se resolverán e incorporarán en la siguiente estimación.
+Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de un mes, salvo en los contratos a precio alzado con pagos a plazos preestablecidos, en los que las estimaciones de los trabajos ejecutados o actividades realizadas se podrán formular con una periodicidad de 30, 60 y/o hasta 90 días naturales, según se acuerde en el contrato correspondiente. La persona contratista deberá presentar las estimaciones a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para el pago de las estimaciones que hubiere fijado la instancia convocante en el contrato, acompañadas de la documentación que acredite la procedencia de su pago; la residencia de obra para realizar la revisión y autorización de las estimaciones contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, éstas se resolverán e incorporarán en la siguiente estimación.
 
 Las estimaciones por trabajos ejecutados deberán pagarse por parte de la instancia convocante, bajo su responsabilidad, en un plazo no mayor a veinte días naturales, contados a partir de la fecha en que hayan sido autorizadas por la residencia de la obra de que se trate.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+En el caso de contratos de obra a precio alzado con pagos a plazos preestablecidos, con base en las estimaciones de obra aprobadas en términos del artículo 49 de esta Ley, la instancia convocante podrá emitir certificados de avance, los cuales constituirán obligaciones incondicionales e irrevocables de pago y serán exigibles aún en los supuestos previstos en los artículos 56, 57 y 58 de esta Ley.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL PÁRRAFO SIGUIENTE.]</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Los pagos de cada una de las estimaciones y, en su caso, de los certificados de avance por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL PÁRRAFO ANTERIOR.]</small>
 
 Los pagos de cada una de las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
 
@@ -865,15 +921,25 @@ La aplicación de los procedimientos de ajuste de costos a que se refiere el art
 
 I.- Los ajustes se calcularán a partir de la fecha en que se haya producido el incremento o decremento en el costo de los insumos, respecto de los trabajos pendientes de ejecutar, conforme al programa de ejecución pactado en el contrato o, en caso de existir atraso no imputable al contratista, con respecto al programa que se hubiere convenido. Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de costos exclusivamente para los trabajos pendientes de ejecutar conforme al programa que se hubiere convenido. Para efectos de la revisión y ajuste de los costos, la fecha de origen de los precios será la del acto de presentación y apertura de proposiciones;
 
-II.- Los incrementos o decrementos de los costos de los insumos serán calculados con base en los índices nacionales de precios productor que determine el Banco de México. Cuando los índices que requiera el contratista y la instancia convocante no se encuentren dentro de los publicados por el Banco de México, las instancias convocantes procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que expida el Banco de México;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+II.- Los incrementos o decrementos de los costos de los insumos serán calculados con base en los índices nacionales de precios productor que elabora y publica el Instituto Nacional de Estadística y Geografía o la entidad o dependencia que la sustituye en estas funciones. Cuando los índices que requiera la persona contratista y la instancia convocante no se encuentren dentro de los publicados por el Instituto Nacional de Estadística y Geografía o la entidad o dependencia que la sustituye en estas funciones, las instancias convocantes procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que expida el Instituto Nacional de Estadística y Geografía o la entidad o dependencia que la sustituye en estas funciones.
 
 III.- Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el contratista haya considerado en su propuesta; y
 
 IV.- A los demás lineamientos que para tal efecto emita el Órgano de Control.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 53
+
+BIS.- En el caso de contratos de obra pública a precio alzado con pagos a plazos preestablecidos, el ajuste de costos se podrá generar únicamente como resultado de variaciones de los costos derivados del financiamiento que la persona contratista celebre una vez formalizado el contrato, resultado de la variación en las condiciones de los mercados financieros.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 54.
 
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la instancia convocante, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Estado en los casos de prórroga para el pago de créditos fiscales.
+En caso de incumplimiento en los pagos de estimaciones, de ajustes de costos o de los certificados de avance, según corresponda, la instancia convocante, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por el Código Fiscal del Estado de Quintana Roo en los casos de prórroga para el pago de créditos fiscales.
 
 Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se ponga efectivamente las cantidades a disposición del contratista.
 
@@ -889,7 +955,9 @@ Si las modificaciones exceden el porcentaje indicado pero no varían el objeto d
 
 Los contratos a precio alzado o la parte de los mixtos de esta naturaleza no podrán ser modificados en monto o en plazo, ni estarán sujetos a ajustes de costos.
 
-Sin embargo, cuando con posterioridad a la adjudicación de un contrato a precio alzado o la parte de los mixtos de esta naturaleza, se presenten circunstancias económicas de tipo general que sean ajenas a la responsabilidad de las partes y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente; como son, entre otras: variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa originalmente pactado; las instancias convocantes deberán reconocer incrementos o requerir reducciones.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Sin embargo, cuando con posterioridad a la adjudicación de un contrato a precio alzado o la parte de los mixtos de esta naturaleza, se presenten desastres naturales, emergencias sanitarias o circunstancias económicas de tipo general que sean ajenas a la responsabilidad de las partes y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente; como son, entre otras: variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa originalmente pactado o las condiciones financieras del financiamiento a cargo de la persona contratista; las instancias convocantes deberán reconocer incrementos o requerir reducciones.
 
 Lo dispuesto en el párrafo anterior, se regirá por los lineamientos que expida la Secretaría; los cuales deberán considerar, entre otros aspectos, los mecanismos con que cuentan las partes para hacer frente a estas situaciones.
 
@@ -951,9 +1019,13 @@ De existir desacuerdo entre las partes respecto al finiquito, o bien, el contrat
 
 Determinado el saldo total, la instancia convocante pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
-###### ARTÍCULO 61.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
 
-A la conclusión de las obras públicas, las instancias convocantes, deberán registrar en las oficinas de Catastro y del Registro Público de la Propiedad y el Comercio del Estado de Quintana Roo, los títulos de propiedad correspondientes de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las obras públicas, y deberán remitir a la instancia que corresponda los títulos de propiedad para su inclusión en el patrimonio municipal o estatal, según sea el caso.
+###### ARTÍCULO 61
+
+A la conclusión y pago de las obras públicas, las instancias convocantes, deberán registrar en las oficinas de Catastro y del Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo, los títulos de propiedad correspondientes de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las obras públicas, y deberán remitir a la instancia que corresponda los títulos de propiedad para su inclusión en el patrimonio municipal o estatal, según sea el caso.
+
+En el caso de los contratos de obra a precio alzado con pagos a plazos preestablecidos, a la conclusión de la obra, la persona contratista entregará la posesión del inmueble a la instancia convocante quien, a partir de esta fecha, deberá dar mantenimiento al inmueble. Una vez que se liquiden en su totalidad las obligaciones de pago a cargo del ente convocante que se derivan del contrato y de los certificados de avance, la persona contratista otorgará el finiquito correspondiente y aplicará lo dispuesto en el primer párrafo de este artículo.
 
 ###### ARTÍCULO 62.
 
@@ -1482,3 +1554,11 @@ P.O. 29 DE AGOSTO DE 2022.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 218 POR EL QUE SE POR EL QUE SE (SIC) REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LA (SIC) MISMAS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
