@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-03-20"
+last_updated: "2024-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3871,19 +3871,35 @@ Si se tratare de un servidor público adicionalmente será destituido e inhabili
 
 ### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2024)</small>
 
 ### CAPITULO I. ALTERACION DEL ESTADO CIVIL
 
 ###### ARTICULO 277.
 
-Las penas previstas en los Artículos 268, 271, 274 y 275 se aumentarán hasta la mitad de la sanción impuesta, cuando:
+Las penas previstas en los Artículos 268, 271, 274 y 275 se aumentarán hasta la mitad en su mínimo y máximo de la sanción impuesta, cuando:
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 I.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el amasio o concubino contra los descendientes de su amasia o concubina. Además de la pena de prisión el culpable perderá el derecho de la patria potestad o de tutela que ejerciere sobre la víctima;
 
-II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerce su profesión, utilizando los medios o circunstancias que ello le proporcione. Además de las penas de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión; y
+(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO No. 65-828, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-III.- El delito fuere cometido por la persona que tiene al ofendido para su custodia, guarda o educación, o aproveche la confianza en él depositada.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerce su profesión, utilizando los medios o circunstancias que ello le proporcione. Además de las penas de prisión el sentenciado será destituido del cargo o empleo O SUSPENDIDO POR EL TÉRMINO DE CINCO AÑOS EN EL EJERCICIO DE DICHA PROFESIÓN;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+III.- El delito fuere cometido por la persona que tiene al ofendido para su custodia, guarda o educación, o aproveche la confianza en él depositada;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+IV.- El delito fuere cometido con intervención directa o inmediata de dos o más personas; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+V.- El delito fuere cometido previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad o sin su conocimiento.
 
 ###### ARTICULO 278.
 
@@ -7526,6 +7542,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-825 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 192; Y SE ADICIONA EL ARTÍCULO 193 BIS, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-828 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO Y LAS FRACCIONES II Y III, Y SE ADICIONAN LAS FRACCIONES IV Y V, AL ARTÍCULO 277 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
