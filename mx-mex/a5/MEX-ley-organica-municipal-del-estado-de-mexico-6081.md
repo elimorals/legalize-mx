@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2023-11-22"
+last_updated: "2024-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -931,9 +931,15 @@ XLV. Colaborar con las autoridades estatales y federales en el ámbito de su com
 
 XLVI. Promover la ejecución municipal de programas de dignificación, calidad y mejora permanente del servicio público de los mercados, así como del comercio semifijo, con el objeto de impulsar su rentabilidad y desarrollo digno en beneficio de las y los habitantes del Municipio, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE ABRIL DE 2024)</small>
 
-XLVII. Las demás que señalen las leyes y otras disposiciones legales.
+XLVII. Colaborar con la Comisión de Búsqueda de Personas del Estado de México y con la Fiscalía General de Justicia del Estado de México en el ámbito de su competencia, sin dilación alguna, para coadyuvar en la publicación y difusión de boletines de búsqueda de personas desaparecidas en sus páginas electrónicas, sus redes sociales oficiales, estrados y en cualquier espacio público que resulte necesario, sin distinción alguna, notificando de manera inmediata a la Comisión y a la Fiscalía cualquier dato, indicio o información que resulte de su colaboración de búsqueda.
+
+Tratándose de niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia de que han desaparecido en cualquier circunstancia, la publicación y divulgación en medios de telecomunicación y digitales se hará de conformidad con las disposiciones aplicables, salvaguardando en todo momento el interés superior de la niñez.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLVII], G.G. 2 DE ABRIL DE 2024)</small>
+
+LXVIII. Las demás que señalen las leyes y otras disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE OCTUBRE DE 2023)</small>
 
@@ -5664,3 +5670,11 @@ TERCERO.- Los Ayuntamientos expedirán el Reglamento de Justicia Cívica Municip
 CUARTO.- Los Ayuntamientos deberán dotar a los Juzgados Cívicos de espacios físicos en condiciones de uso, recursos materiales y personal para su eficaz operación.
 
 QUINTO.- La iniciativa propuesta, contemplaba referencias tanto a comunidades indígenas como a personas con discapacidad, sin embargo, se advirtió la omisión de convocar a una consulta previa. El Poder Legislativo podrá presentar una iniciativa complementaria para reformar esta Ley, una vez realizada la consulta a los pueblos originarios del Estado de México, así como a las personas afromexicanas y personas con discapacidad de la entidad.
+
+G.G. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
