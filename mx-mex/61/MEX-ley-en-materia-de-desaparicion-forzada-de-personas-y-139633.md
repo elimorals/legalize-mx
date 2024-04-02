@@ -4,7 +4,7 @@ identifier: "MEX-ley-en-materia-de-desaparicion-forzada-de-personas-y-139633"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-23"
-last_updated: "2023-06-22"
+last_updated: "2024-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de diciembre de 2019.
 
@@ -506,6 +506,10 @@ XXX. Disponer de una línea telefónica de asistencia, así como de cualquier ot
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 XXXI. Solicitar al Sistema Mexiquense de Medios Públicos, así como a los concesionarios de radiodifusión y telecomunicaciones, dentro de las transmisiones correspondientes a los tiempos del Estado, de conformidad con la legislación en la materia, por conducto de la autoridad competente y previa autorización de los Familiares, la difusión de boletines relacionados con la búsqueda de Personas Desaparecidas;
+
+> <small>(ADICIONADO, G.G. 2 DE ABRIL DE 2024)</small>
+
+Solicitar a los Ayuntamientos coadyuvar en la publicación y difusión de boletines de búsqueda de personas desaparecidas, quienes deberán de informar de manera inmediata a la Comisión de Búsqueda de Personas cualquier dato, indicio o información que resulte de su colaboración de búsqueda.
 
 XXXII. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos en coordinación con la Comisión Nacional de Búsqueda.
 
@@ -1478,3 +1482,11 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
