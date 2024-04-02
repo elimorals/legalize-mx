@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-presupuesto-y-gasto-publico-del-estado-de-quintana-16457
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "2021-07-16"
+last_updated: "2024-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial el 16 de diciembre de 1993.
 
@@ -175,6 +175,10 @@ La estructura del Presupuesto de Egresos del Gobierno del Estado, tendrá una ba
 
 El Presupuesto de Egresos del Estado de Quintana Roo será el que contenga el decreto que apruebe la H. Legislatura del Estado a iniciativa del Ejecutivo para expresar durante el período de un año a partir del 1o de Enero, las actividades, las obras y los servicios públicos en los programas a cargo de las entidades que en el propio presupuesto señalen.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Lo anterior sin perjuicio de la facultad de la Legislatura del Estado de autorizar erogaciones plurianuales para proyectos de inversión en infraestructura a que se refiere el artículo 75, fracción XXX, de la Constitución Política del Estado Libre y Soberano del Estado de Quintana Roo.
+
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 20.
@@ -196,6 +200,14 @@ II. Hacer frente a los compromisos de aportación de contrapartes de convenios y
 Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo 4 fracción IV de la Ley de Asociaciones Público Privadas.
 
 Los recursos para cubrir adeudos de ejercicios fiscales anteriores, podrá (sic) ser hasta por el dos por ciento de los ingresos totales del Estado.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+III. Hacer frente a los compromisos derivados de contratos de obra pública que impliquen erogaciones plurianuales para proyectos de inversión en infraestructura.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+IV. Hacer frente a los compromisos que el Estado haya asumido de realizar aportaciones a fideicomisos derivados de acuerdos o convenios con el sector público o privado.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -255,17 +267,43 @@ El proyecto de presupuesto de egresos incluirá acciones que promuevan la iguald
 
 El Ejecutivo del Estado seleccionará los programas que deban incluirse en el proyecto de Presupuesto de Egresos del Estado en base a su prioridad o jerarquía, su factibilidad y su beneficio económico y social.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE ABRIL DE 2024)</small>
+
+Asimismo, el Poder Ejecutivo del Estado podrá solicitar la autorización de erogaciones plurianuales para proyectos de inversión en infraestructura. En estos casos, en la iniciativa de presupuesto de egresos del Estado, se deberá indicar:
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+I. El monto total de las erogaciones plurianuales cuya autorización se solicita para proyectos de inversión en infraestructura;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+II. El número de ejercicios fiscales que abarcará la autorización de las erogaciones plurianuales, los cuales no podrán rebasar el periodo de gobierno de la administración que solicita la autorización correspondiente;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+III. Del monto total de las erogaciones plurianuales cuya autorización se solicita, el monto que se ejercerá en el ejercicio fiscal al que corresponde la iniciativa de Presupuesto de Egresos del Estado, el cual será el monto que se podrá erogar en dicho ejercicio fiscal, y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2024)</small>
+
+IV. La justificación sobre la viabilidad financiera de la autorización de las erogaciones plurianuales en relación con el número de ejercicios fiscales propuestos.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+Las disposiciones previstas en el segundo párrafo y en las fracciones I a IV de este artículo aplicarán únicamente para incluir, en el proyecto de Presupuesto de Egresos, las erogaciones plurianuales para proyectos de inversión en infraestructura.
+
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 27.
 
 La Secretaría de Finanzas y Planeación, queda facultada para formular el proyecto de presupuesto de los entes públicos cuando no se le sea presentado en los plazos que al efecto se les hubiese señalado.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 28.
 
-La Secretaría de Finanzas y Planeación incluirá en el anteproyecto de su presupuesto, las previsiones de la amortización y pago del servicio de la deuda pública en el programa específico que al efecto formule.
+La Secretaría de Finanzas y Planeación deberá incluir en el anteproyecto de su presupuesto, las previsiones de la amortización y pago del servicio de la deuda pública, de las asociaciones público-privadas y de los contratos de obra que se hubieren celebrado con base en autorizaciones de erogaciones plurianuales para proyectos de inversión en infraestructura, en los programas específicos que al efecto formule.
+
+En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de las partidas a que se refiere el párrafo anterior deberán aprobarse en el Presupuesto de Egresos, toda vez que éstas derivan de compromisos adquiridos y previamente autorizados en los Presupuestos de Egresos de ejercicios fiscales anteriores, o bien, mediante decretos específicos, en términos de la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -289,11 +327,11 @@ VI. En general toda información que se considere útil para mostrar la proposic
 
 La Ley de Ingresos y el Presupuesto de Egresos deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 30.
 
-El proyecto de Presupuesto de Egresos deberá ser presentado oportunamente al Gobernador del Estado por la Secretaría de Finanzas y Planeación, para ser enviado a la Legislatura del Estado a más tardar el 15 del mes de noviembre del año anterior al que corresponda dicho presupuesto.
+El proyecto de Presupuesto de Egresos deberá ser presentado oportunamente a la persona titular del Poder Ejecutivo del Estado por la Secretaría de Finanzas y Planeación, para ser enviado a la Legislatura del Estado a más tardar el 20 del mes de noviembre del año anterior al que corresponda dicho presupuesto.
 
 ###### ARTICULO 31.
 
@@ -417,6 +455,16 @@ Para los efectos de este apartado, se entenderá que los Entes Públicos Estatal
 
 De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará a la Legislatura del Estado al rendir la cuenta pública.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+###### ARTICULO 35
+
+BIS.- En relación con la suficiencia presupuestaria a que se refiere el artículo 35, Apartado A, fracción I, de esta Ley, la Secretaría de Finanzas y Planeación podrá emitir la suficiencia presupuestaria para la contratación de obra pública que abarque dos o más ejercicios fiscales, siempre y cuando, el oficio de suficiencia presupuestaria se base en la autorización de erogaciones plurianuales aprobadas por la Legislatura del Estado en el Presupuesto de Egresos para proyectos de inversión en infraestructura.
+
+Para efectos del párrafo anterior, los entes públicos deberán acreditar previamente a la Secretaría de Finanzas y Planeación que se cuenta con los estudios de pre inversión que se requieran para definir la factibilidad legal, técnica, económica, social y ecológica para la realización de la obra correspondiente.
+
+La Secretaría de Finanzas y Planeación solo podrá emitir el oficio de suficiencia presupuestaria cuando haya verificado que el monto de la obra respecto de la cual se solicita la suficiencia presupuestaria no exceda el monto total autorizado por la Legislatura del Estado respecto de los proyectos de inversión en infraestructura. La Secretaría de Finanzas y Planeación está facultada para determinar la distribución del monto total autorizado a los proyectos de inversión en infraestructura en el número de ejercicios fiscales autorizados, en atención a la viabilidad financiera del Estado, así como su aplicación a las obras que cumplan los requisitos a que se refiere el párrafo anterior.
+
 ###### ARTICULO 36.
 
 El Titular del Ejecutivo del Estado y los respectivos Presidentes Municipales determinarán mediante convenios que al efecto celebren, la forma en que se deberá invertir los apoyos financieros que se destinen a éstos.
@@ -495,11 +543,13 @@ Todos los entes públicos a que se refieren las fracciones de la III a la VI del
 
 Solamente podrán hacerse pagos con cargos al presupuesto de egresos del año anterior por los conceptos efectivamente devengados en este ejercicio, siempre que la Secretaría de Finanzas y Planeación tenga conocimiento oportuno y lo autorice.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 47.
 
-En casos excepcionales y debidamente justificados, la Secretaría de Finanzas y Planeación podrá autorizar que se celebren contratos de obra pública, de adquisiciones presupuestales aprobadas para el año del ejercicio respectivo, pero en esos casos, los compromisos excedentes no cubiertos quedarán sujetos para los fines de su ejecución o de pago, a la disponibilidad presupuestal de los años subsecuentes. Cuando se trate de estos programas cuyos presupuestos se incluyan en el Presupuesto de Egresos del Estado, se hará mención especial al presentar el proyecto de Presupuesto de Egresos a la Legislatura del Estado.
+La Secretaría de Finanzas y Planeación podrá autorizar que se celebren contratos de obra pública cuya ejecución o pago abarquen dos o más ejercicios fiscales, siempre y cuando, se hubieren autorizado en el presupuesto de egresos, las erogaciones plurianuales para proyectos de inversión en infraestructura, por lo que, su ejecución y pago no se encuentran condicionados a autorizaciones presupuestarias adicionales.
+
+En casos excepcionales y debidamente justificados, aún en el caso que no se trate de erogaciones plurianuales para proyectos de inversión en infraestructura en términos del Presupuesto de Egresos, la Secretaría de Finanzas y Planeación podrá autorizar que se celebren contratos de obra o de adquisiciones cuya ejecución o pago abarque dos o más ejercicios fiscales, pero en esos casos, los compromisos excedentes no cubiertos en el ejercicio fiscal de la contratación quedarán sujetos, para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes. Cuando se trate de estos programas cuyos presupuestos se incluyan en el Presupuesto de Egresos del Estado, se hará mención especial al presentar el proyecto de Presupuesto de Egresos a la Legislatura del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -634,6 +684,14 @@ En los casos en que los entes públicos no proporcionen la información solicita
 ###### ARTICULO 70.
 
 La Secretaría de Finanzas y Planeación, queda facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 68 de esta ley o cuando por conducto de la Secretaría de la Contraloría se detecten desviaciones en las metas o en el destino del gasto.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+En aquellos casos en que el programa haya resultado en la celebración de contratos o instrumentos jurídicos que impliquen obligaciones a cargo del Estado por uno o más ejercicios fiscales, la Secretaría de Finanzas y Planeación no podrá suspender la asignación o transferencia de los montos necesarios para que los entes públicos cumplan con sus obligaciones frente a terceros.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2024)</small>
+
+La omisión de la entrega de información en términos de lo dispuesto en el artículo 68 de esta Ley, sin perjuicio de lo previsto en los dos párrafos anteriores, dará lugar al fincamiento de responsabilidades a los servidores públicos que resulten aplicables en términos del Capítulo VI de esta Ley.
 
 ### CAPITULO VI. DE LAS RESPONSABILIDADES
 
@@ -802,3 +860,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 218 POR EL QUE SE POR EL QUE SE (SIC) REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
