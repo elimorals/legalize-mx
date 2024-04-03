@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2023-10-26"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -853,9 +853,9 @@ V. Incorporar y fomentar programas de educación pública y privada, destinados 
 
 VI. Promover programas de prevención destinados a concientizar a la sociedad sobre las causas y consecuencias de la violencia contra la mujer;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-VII. Diseñar programas de atención y capacitación a víctimas de violencia contra la mujer, que les permita participar plenamente en todos los ámbitos de la vida;
+VII. Diseñar programas de atención y capacitación a víctimas de violencia contra la mujer, que les permita participar plenamente en todos los ámbitos de la vida, incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1648,6 +1648,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-672 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 20 TER, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; Y SE ADICIONA LA FRACCIÓN VI BIS, AL ARTÍCULO 4°, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-831 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, DEL PÁRRAFO 2, DEL ARTÍCULO 12, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
