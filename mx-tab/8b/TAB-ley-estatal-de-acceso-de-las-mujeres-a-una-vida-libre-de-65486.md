@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2023-11-04"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -179,17 +179,39 @@ III. Violencia patrimonial.- Es el acto u omisión que afecta la supervivencia d
 
 IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto; y
+V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2024)</small>
 
-VI. Violencia Simbólica: Toda acción u omisión que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.
+VI. Violencia a través de interpósita persona.- Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
+Se manifiesta a través de diversas conductas, entre otras:
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de los seres humanos.
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos, así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+VIl. Violencia Simbólica.- Toda acción u omisión que, a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -201,25 +223,27 @@ Se considera violencia familiar al acto abusivo de poder u omisión intencional,
 
 Para los efectos de este artículo se considera una relación de hecho aquella formada por una pareja que vivan juntos, no hayan procreado hijos y que aun no cumplan el plazo establecido por el Código Civil para el Estado de Tabasco para ser considerado concubinato.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2024)</small>
+
 ###### Artículo 10.
 
-Los modelos de prevención, atención y erradicación que establezcan los gobiernos estatal y municipal, para proteger a las víctimas de violencia en el ámbito familiar, deberán contemplar:
+Los modelos de prevención, atención y erradicación que establezcan los gobiernos estatal y municipal, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
 
-I. Atención médica gratuita e inmediata a la Víctima y/o sus hijos;
+l. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dichas violencias;
 
-II. Tratamiento psicológico a la Víctima que favorezca su empoderamiento;
+II. Brindar servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
 
-III. Asesoramiento jurídico a la Víctima sobre las acciones legales que existen en contra del Agresor para ser sancionado por el Estado y obtener la reparación del daño en los términos previstos por la Ley;
+III. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-IV. Servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas, eliminar los estereotipos de supremacía de género, patrones machistas, misoginia;
+IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+V. Favorecer la separación y alejamiento del Agresor con respecto a la Víctima, y
 
-V. Evitar procedimientos de conciliación en una relación en la que hay violencia en el ámbito familiar;
+VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos.
 
-VI. Instalar refugios con ubicación secreta para las Víctimas y sus hijas e hijos, para salvaguardar su integridad física, proporcionando apoyo psicológico, médico y legal especializado y gratuito; y
+Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
 
-VIII (SIC). Las establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
+Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
 
@@ -651,9 +675,21 @@ XVII. Prohibición a la persona agresora de intimidar o molestar por si, por cua
 
 XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
 
-XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+XX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+XXI. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 8, fracción VI de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+XXII. Las demás necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Fiscal del Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -687,9 +723,25 @@ X. La obligación de la persona agresora de presentarse periódicamente ante el 
 
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 
-XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-XIII. Las demás que se requieran para brindar una protección a la víctima.
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
@@ -1273,15 +1325,33 @@ Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan
 
 ### CAPÍTULO III. DEL PODER LEGISLATIVO
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2024)</small>
+
 ###### Artículo 55.
 
-Corresponde al Congreso del Estado, a través de las Comisiones respectivas:
+Con el objeto de contribuir a la erradicación de las violencias contra las mujeres dentro de la familia, el Congreso, en el respectivo ámbito de su competencia, considerará:
 
-I. Vigilar que el marco normativo del Estado garantice el cumplimiento de la presente Ley;
+l. Tipificar el delito de violencia familiar, que incluya como elementos del tipo los contenidos en la definición prevista en la ley General y en esta Ley;
 
-II. Institucionalizar la perspectiva de género en el proceso legislativo, así como realizar estudios de género; y
+II. Tipificar el delito de violencia a través de interpósita persona conforme a lo que establece la fracción VI del artículo 8 de esta ley;
 
-III. Promover las reformas e iniciativas de Ley que tiendan a mejorar las condiciones de la mujer y su desarrollo pleno.
+III. Establecer la violencia familiar y la violencia a través de interpósita persona como causa de pérdida de la patria potestad y de restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas, niños y adolescentes;
+
+IV. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar, violencia a través de interpósita persona y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma;
+
+V. Incluir como parte de la sentencia, la condena a la persona agresora a participar en servicios reeducativos integrales, especializados, con perspectiva de género y gratuitos;
+
+VI. Prever el asesoramiento jurídico a la víctima sobre las acciones legales que existen en contra del agresor para ser sancionado por el Estado y obtener la reparación del daño en los términos previstos por la Ley;
+
+VII. Que la violencia a través de interpósita persona se sancione con independencia de los delitos en los que haya incurrido la persona agresora;
+
+VIII. Institucionalizar la perspectiva de género en el proceso legislativo, así como realizar estudios de género;
+
+IX. Prever que, a través de las Comisiones respectivas, se vigile que el marco normativo del Estado garantice el cumplimiento de la presente Ley;
+
+X. Promover las reformas e iniciativas de Ley que tiendan a mejorar las condiciones de la mujer y su desarrollo pleno; y
+
+XI. Las establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -1590,3 +1660,13 @@ P.O. 4 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 234 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 8, FRACCIONES V, VI Y VII; 10; 31 QUATER, FRACCIONES XIX Y XX; 31 QUINQUIES, FRACCIONES XII Y XIII Y 55; SE ADICIONAN: LA FRACCIÓN VIII AL ARTÍCULO 8; LAS FRACCIONES XXI Y XXII AL ARTÍCULO 31 QUATER, ASÍ COMO LAS FRACCIONES XIV, XV Y XVI AL ARTÍCULO 31 QUINQUIES, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un lapso no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones pertinentes a los Códigos y demás leyes, para armonizarlas a las disposiciones contenidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en el presente Decreto.
