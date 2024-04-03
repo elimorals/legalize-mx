@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-11-27"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -183,13 +183,17 @@ VI.- Atención preferencial: Aquella que obliga a directivos, personal de salud 
 
 VII.- La dignificación y el respeto. Que habrán de orientar y dirigir los planes y programas gubernamentales, así como las acciones que emprendan a favor de las personas adultas mayores las organizaciones sociales y privadas;
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-VIII.- Dignidad Humana. Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad; y
+VIII.- Dignidad Humana: Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad;
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-IX.- La progresividad. Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos.
+IX.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+X.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -285,9 +289,9 @@ h).- Formar parte de los diversos órganos de representación y consulta ciudada
 
 V.- Al trabajo:
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2024)</small>
 
-a).- Gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como a recibir una capacitación adecuada;
+a).- Gozar de inclusión e igualdad de oportunidades en el acceso a un trabajo digno o de otras posibilidades de obtener un ingreso propio, así como recibir capacitación adecuada;
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
 
@@ -343,7 +347,13 @@ a).- Desarrollar enfoques específicos en las políticas, planes sobre envejecim
 
 X.- Al consentimiento libre e informado en el ámbito de la salud:
 
-a).- Recibir información clara y oportuna sobre las posibles consecuencias y los riesgos de aceptar o negarse a recibir o interrumpir tratamientos médicos o quirúrgicos, incluidos los de la medicina tradicional, alternativa y complementaria, ya sean de carácter físico o psíquico. El Estado se compromete a elaborar mecanismos adecuados y eficaces para impedir abusos y fortalecer la capacidad de las personas adultas mayores de comprender plenamente las opciones de tratamiento existentes, sus riesgos y beneficios.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2024)</small>
+
+a).- Recibir información clara y oportuna sobre las posibles consecuencias y los riesgos de aceptar o negarse a recibir o interrumpir tratamientos médicos o quirúrgicos, incluidos los de la medicina tradicional, alternativa y complementaria, ya sean de carácter físico o psíquico. El Estado se compromete a elaborar mecanismos adecuados y eficaces para impedir abusos y fortalecer la capacidad de las personas adultas mayores de comprender plenamente las opciones de tratamiento existentes, sus riesgos y beneficios; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+XI.- De la información, plural, oportuna y accesible, la cual será garantizada por el Estado.
 
 ## TITULO TERCERO
 
@@ -1022,6 +1032,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-732 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-835 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, FRACCIONES VIII Y IX; Y 5°, FRACCIONES V, INCISO A) Y X, INCISO A); Y SE ADICIONAN UNA FRACCIÓN X AL ARTÍCULO 4° Y UNA FRACCIÓN XI AL ARTÍCULO 5°, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
