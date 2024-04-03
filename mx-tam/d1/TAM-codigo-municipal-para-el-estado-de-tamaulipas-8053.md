@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2024-02-21"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -549,9 +549,9 @@ I.- Organizar las oficinas y departamentos encargados de la administración y se
 
 II.- Iniciar leyes o decretos ante el Congreso del Estado para los asuntos de sus respectivas localidades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE ABRIL DE 2024)</small>
 
-III.- Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, centros de atención, cuidado infantil y del sistema anticorrupción, siempre que no sean materia de competencia de otra autoridad.
+III.- Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, centros de atención, cuidado infantil, del sistema anticorrupción, siempre que no sean materia de competencia de otra autoridad; así como de justicia cívica.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
 
@@ -7112,6 +7112,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-816 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXVII Y SE ADICIONA UNA FRACCIÓN LXVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE PARA SER LXIX DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-834 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 49 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE JUSTICIA CÍVICA".]
 
 ###### ARTÍCULO ÚNICO.
 
