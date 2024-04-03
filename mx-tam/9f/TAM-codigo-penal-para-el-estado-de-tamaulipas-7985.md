@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-04-02"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5429,13 +5429,17 @@ XVIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XIX.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-XX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado; y
+XX.- Cuando el robo se efectúe en lugar destinado a industria, comercio, almacén o bodega donde se encuentren en resguardo o se elaboren productos industriales o materias primas de origen diverso, así como durante su traslado;
 
-> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-XXI.- Cuando el robo se efectúe respecto de cualquier bien, equipo, componente o accesorio compuesto de material de fibra óptica, cobre, hierro, aluminio, o cualquier otro metal, utilizado en bienes privados o en la prestación de servicios públicos, suministro de gas, instalaciones hidráulicas, energía eléctrica, telecomunicaciones, equipamiento urbano, industrial o agrícola.
+XXI.- Cuando el robo se efectúe respecto de cualquier bien, equipo, componente o accesorio compuesto de material de fibra óptica, cobre, hierro, aluminio, o cualquier otro metal, utilizado en bienes privados o en la prestación de servicios públicos, suministro de gas, instalaciones hidráulicas, energía eléctrica, telecomunicaciones, equipamiento urbano, industrial o agrícola; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+XXII.- Cuando el robo se cometa mediante la utilización de uno o más vehículos motorizados.
 
 ###### ARTICULO 408.
 
@@ -7550,6 +7554,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 2 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-828 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO Y LAS FRACCIONES II Y III, Y SE ADICIONAN LAS FRACCIONES IV Y V, AL ARTÍCULO 277 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-830 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XX Y XXI, Y SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 407, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
