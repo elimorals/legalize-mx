@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2023-10-05"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -195,6 +195,10 @@ VIII. La violencia contra los derechos reproductivos.- Toda acción u omisión q
 
 IX. Violencia Vicaria: Aquella violencia contra la víctima que ejerce la persona que mantenga o haya mantenido una relación de hecho o de pareja con aquella, y que por si o por interpósita persona, utilice como medio a las hijas e hijos de ésta, para causarle daño, generando una consecuente afectación psicoemocional e incluso física, económica, patrimonial o de cualquier otro tipo, tanto a la víctima, como a quienes fungieren como medio.
 
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+IX Bis. Violencia Simbólica: Es cualquier acción u omisión ejercida por una persona sobre otra, a través de patrones estereotipados, mensajes, valores, íconos o signos, trasmita y reproduzca denominación, cosificación, desigualdad, y discriminación en las redes sociales, naturalizando la subordinación de la mujer en la sociedad.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
@@ -257,11 +261,11 @@ Por violencia laboral y docente se entenderá aquella que se ejerce por las pers
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
-Constituye violencia laboral la negativa ilegal a contratar a la víctima, a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado; las amenazas; la intimidación; las humillaciones; la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
+Constituye violencia laboral la negativa ilegal a contratar a la víctima, a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado; las amenazas; la intimidación; las humillaciones; la explotación y todo tipo de discriminación por condición de género. Incluyendo la exigencia o condicionante de certificado de no gravidez para la obtención del trabajo, el despido, solicitud de renuncia, licencia sin goce de sueldo, o cualquier otra figura para que abandone su trabajo en tanto subsista y esté acreditado el embarazo, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
 
 ###### ARTÍCULO 10.
 
@@ -377,11 +381,13 @@ Para efecto del presente Capítulo, se entenderá por Tecnologías de la Informa
 
 La violencia digital será sancionada en la forma y términos que establezca el Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2024)</small>
 
-ARTÍCULO 15 TER.- Por violencia mediática se entiende cualquier acto ejercido por persona física o moral, que haciendo uso de algún medio de comunicación, promueva de manera directa o indirecta estereotipos sexistas, discriminación, haga apología de la violencia contra las niñas, adolescentes y mujeres, produzca y difunda discursos de odio sexista, de género o desigualdad entre mujeres y hombres, que cause daño a las niñas adolescentes y mujeres de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+###### ARTÍCULO 15 Ter.
 
-La violencia mediática se ejerce mediante cualquier medio de comunicación que produzca o difunda, contenidos escritos, visuales o audiovisuales, y que menoscaben el autoestima, salud, integridad, libertad y seguridad de las niñas, adolescentes y mujeres que impiden su desarrollo y que atenta contra la igualdad.
+Violencia mediática es todo acto ejercido por persona física o moral, que haciendo uso de algún medio de comunicación, promueva de manera directa o indirecta estereotipos sexistas, discriminación, haga apología de la violencia contra las niñas, adolescentes y mujeres, transmitan y reproduzcan dominación, cosificación, desigualdad, naturalizando la subordinación de las niñas, adolescentes y mujeres, produzca o permita la producción y difunda discursos de odio sexista, de género o desigualdad entre mujeres y hombres, que cause daño a las niñas adolescentes y mujeres de tipo simbólico, psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice cualquier medio de comunicación que produzca o difunda, contenidos escritos, visuales o audiovisuales, y que menoscaben la autoestima, salud integral, libertad y seguridad de las niñas, adolescentes y mujeres, que impiden su desarrollo y que atenten contra la dignidad y la igualdad.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
 
@@ -2112,3 +2118,11 @@ P.O. 5 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 209 POR LA QUE SE REFORMAN EL ARTÍCULO 9 Y EL ARTÍCULO 15 TER; Y SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 5, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
