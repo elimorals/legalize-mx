@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2023-12-22"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -102,6 +102,10 @@ VI. Certificado de Idoneidad: El documento expedido por el Sistema DIF Estatal, 
 VII. Constitución Estatal: Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
 VIII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+VIII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos físicos ni a tratos crueles y humillantes, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
 
 IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
@@ -496,6 +500,18 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 35.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2024)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2024)</small>
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2024)</small>
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, así como cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 ###### Artículo 36.
 
@@ -991,9 +1007,17 @@ V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armo
 
 VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación, tratándolos con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas a través de la crianza positiva;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
+
+Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1071,7 +1095,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -1171,11 +1197,15 @@ XIII. Implementar, en coordinación con las instancias competentes, las medidas 
 
 XIV. Las demás que le confiera esta Ley y otros ordenamientos jurídicos aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2024)</small>
 
 ###### Artículo 98.
 
-La Secretaría de Educación y Cultura tendrá las siguientes atribuciones:
+La Secretaría de Educación tendrá las siguientes atribuciones:
 
 I. Establecer los mecanismos que garanticen el derecho de niñas, niños y adolescentes a recibir educación integral y de calidad, orientada hacia el desarrollo de sus potencialidades a fin de prepararlos para una vida adulta responsable, con un espíritu cívico, de solidaridad, fraternidad, tolerancia y respeto hacia los demás;
 
@@ -1199,9 +1229,17 @@ X. Impulsar la enseñanza y el respeto de los derechos humanos;
 
 XI. Garantizar la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma;
 
-XII. Implementar acciones a fin de evitar la deserción escolar, y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2024)</small>
 
-XIII. Las demás que le confiera esta Ley y otros ordenamientos jurídicos.
+XII. Implementar acciones a fin de evitar la deserción escolar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+XIII. Impulsar acciones para fomentar la crianza positiva a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en la crianza y/o cuidado de niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2024)</small>
+
+XIV. Las demás que le confiera esta Ley y otros ordenamientos jurídicos.
 
 ### CAPÍTULO TERCERO. DE LA SECRETARÍA DE SALUD
 
@@ -1918,3 +1956,9 @@ P.O. 22 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 208 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 89, LA FRACCIÓN VII DEL ARTÍCULO 94, EL NOMBRE DEL CAPÍTULO SEGUNDO DENOMINADO "DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA" PERTENECIENTE AL TÍTULO CUARTO DENOMINADO "DE LAS AUTORIDADES" PARA ESTABLECERSE "DE LA SECRETARÍA DE EDUCACIÓN" EL PRIMER PÁRRAFO Y LAS FRACCIONES XII Y XIII DEL ARTÍCULO 98; Y SE ADICIONAN LA FRACCIÓN VIII BIS AL ARTÍCULO 4, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 35, LA FRACCIÓN XIV AL ARTÍCULO 98; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
