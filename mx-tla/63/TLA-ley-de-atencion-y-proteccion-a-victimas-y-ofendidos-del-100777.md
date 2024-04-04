@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-atencion-y-proteccion-a-victimas-y-ofendidos-del-100777"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2023-04-26"
+last_updated: "2024-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TLA"
 ---
 # LEY DE ATENCION Y PROTECCION A VICTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VÍCTIMAS DEL ESTADO DE TLAXCALA, PUBLICADA EN EL P.O. DE 4 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024 (ABROGADA).
 
 Ley publicada en el No. Extraordinario del Periódico Oficial del Estado de Tlaxcala, el sábado 3 de mayo del 2014.
 
@@ -1988,3 +1990,57 @@ Dentro del plazo de noventa días naturales posteriores a la entrada en vigor de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 346.- SE EXPIDE LA LEY DE VÍCTIMAS DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el (sic) siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Atención y Protección a Víctimas y Ofendidos del Delito para el Estado de Tlaxcala, contenida en el Decreto número 15, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala el día tres de mayo del año dos mil catorce, en el Tomo XCIII, Segunda Época, número extraordinario.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo, por única ocasión, deberá designar o ratificar a la persona titular de la Comisión Ejecutiva de Atención a Víctimas del Estado de Tlaxcala, en el entendido de que esa designación o ratificación se otorgará por el lapso comprendido entre el día hábil siguiente a la fecha en que se efectúe y el treinta de agosto del año dos mil veintisiete.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Ejecutiva de Atención a Víctimas a que se refiere la presente Ley deberá llevar a cabo su primera sesión de instalación dentro de los treinta días naturales posteriores (sic) la entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Reglamento de la presente Ley deberá expedirse dentro de los ciento ochenta días hábiles a partir de la entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+El Sistema Estatal de Atención a Víctimas a que se refiere la presente Ley deberá instalarse dentro de los treinta días naturales posteriores a la entrada en vigor del Reglamento de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos humanos, materiales, técnicos, financieros, bienes muebles e inmuebles que actualmente administra el Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos serán transferidos a la Comisión Ejecutiva de Atención a Víctimas para su administración, operación, uso y labores.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos financieros con los que cuenta el Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos destinado a brindar los recursos económicos para hacer efectivas las medidas de ayuda, asistencia y reparación integral del daño a víctimas y ofendidos en los términos previstos en la ley, serán administrados por la persona designada como Comisionada Ejecutiva.
+
+La Comisión Ejecutiva en coordinación con la Secretaría de Finanzas llevaran a cabo las adecuaciones necesarias para la debida operación del Fondo.
+
+###### ARTÍCULO NOVENO.
+
+Todos los convenios y acuerdos celebrados por la Comisión Ejecutiva de Atención a Víctimas y Ofendidos y por el Fondo de Ayuda, Asistencia y Reparación de Daño a las Víctimas y Ofendidos previamente a la entrada en vigor de la presente Ley, conservarán su vigencia, en sus términos.
+
+###### ARTÍCULO DÉCIMO.
+
+En materia de paridad entre géneros se deberá observar el principio de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Comisión Ejecutiva, en un plazo no mayor de ciento ochenta días hábiles, posteriores al inicio de la vigencia de esta Ley, emitirá los lineamientos a los que se refiere este Ordenamiento Legal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
