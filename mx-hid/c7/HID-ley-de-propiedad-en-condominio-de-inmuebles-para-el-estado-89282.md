@@ -4,7 +4,7 @@ identifier: "HID-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8928
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -35,7 +35,9 @@ QUE CONTIENE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HI
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -591,6 +593,10 @@ IV.- Recabar y conservar los libros y la documentación relacionada con el condo
 
 V.- Atender la operación adecuada y eficiente de las instalaciones y servicios generales;
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+V Bis.- Revisar de manera periódica la situación de riesgo del condominio e informar de ellos (sic) a los condóminos a efecto de tomar las medidas conducentes;
+
 VI.- Realizar todos los actos de administración y conservación que el condominio requiera en sus áreas comunes; así como contratar el suministro de la energía eléctrica, agua y otros bienes necesarios para los servicios, instalaciones y áreas comunes, dividiendo el importe del consumo de acuerdo a lo establecido en esta Ley;
 
 VII.- Realizar las obras necesarias en los términos del Artículo 30 de esta Ley;
@@ -767,9 +773,15 @@ XVI.- La determinación de criterios para asuntos que requieran una mayoría esp
 
 XVII.- Las bases para la integración del programa interno de protección civil. Así como la conformación de comités de protección civil y de seguridad pública estableciendo las bases de coordinación con las autoridades competentes;
 
-XVIII.- La tabla de valores e indivisos del condominio; cuando dichos valores o indivisos se modifiquen por reformas a la escritura constitutiva, la mencionada tabla deberá actualizarse; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XIX.- Las demás que le reserven la escritura constitutiva y la presente Ley.
+XVIII.- La tabla de valores e indivisos del condominio; cuando dichos valores o indivisos se modifiquen por reformas a la escritura constitutiva, la mencionada tabla deberá actualizarse;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XIX.- La obligación de los condóminos de notificar a la persona titular de la administración del condominio sobre la existencia de alguna situación de riesgo en su propiedad, y
+
+XX.- Las demás que le reserven la escritura constitutiva y la presente Ley.
 
 ###### Artículo 54.
 
@@ -1068,5 +1080,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 620 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 825 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
