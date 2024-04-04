@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2024-01-24"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -15532,9 +15532,9 @@ I. De 50 a 250 Unidades de Medida y Actualización, al patrón que no cumpla las
 
 II. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;
 
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2024)</small>
 
-III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
+III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;
 
 > <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -16365,3 +16365,9 @@ D.O.F. 24 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE DERECHOS LABORALES DE LAS PERSONAS TRABAJADORAS DEL CAMPO".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 994 DE LA LEY FEDERAL DEL TRABAJO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
