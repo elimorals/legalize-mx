@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -474,6 +474,10 @@ XI.- La Secretaría, en coordinación y con base en los lineamientos que determi
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2020)</small>
 
 XII.- Coadyuvar con la Secretaría de Salud de Hidalgo, en el fomento de programas y medidas para la protección contra riesgos sanitarios y prevención de enfermedades, así como en la promoción de las normas de higiene y control sanitario en las instalaciones y servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XII Bis.- En coordinación con la Secretaría de Salud, y en el ámbito de competencia de cada dependencia, promover el diseño de estrategias preventivas para la protección del sector turístico estatal en caso de contingencias sanitarias, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -1384,3 +1388,9 @@ P.O. 19 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Para dar cumplimiento a los artículos 46 Bis, 46 Ter y 46 Quater, el Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 813 POR EL QUE SE ADICIONA LA FRACCIÓN XII BIS AL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
