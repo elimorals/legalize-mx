@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -593,15 +595,15 @@ Compete al Gobierno del Estado, a través de la Secretaría de Salud, y a los Mu
 
 ### CAPITULO I BIS. PROFESIONALES, TÉCNICOS Y AUXILIARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
 
-###### Artículo 12 Bis.
+###### ARTÍCULO 12 Bis.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, gerontología, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, gerontología, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, ozonoterapia, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, atención médica prehospitalaria, gerontología, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, podología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los documentos que los acrediten, hayan sido legalmente expedidos y registrados por las autoridades competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, atención médica prehospitalaria, gerontología, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, ozonoterapia, prótesis y órtesis, trabajo social, nutrición, citotecnología, podología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los documentos que los acrediten, hayan sido legalmente expedidos y registrados por las autoridades competentes.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -1853,6 +1855,10 @@ Se podrá otorgar estimulación temprana a las niñas y niños menores de 6 año
 
 IV. La aplicación de las pruebas de, tamiz neonatal ampliado y, tamiz cardiológico neonatal por oximetría de pulso;
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+IV BIS. La revisión de la retina y tamiz auditivo al infante recién nacido, debiendo realizarse antes de dar de alta al menor, y de no ser posible, debe citarse antes de los siete días siguientes a la fecha en la que fue dado de alta el o la menor de edad para su realización;
+
 V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera; y,
 
 VI. La atención de la salud visual, bucal, auditiva y mental.
@@ -1868,6 +1874,10 @@ Para garantizar el derecho a la protección de la salud en condiciones de iguald
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
 Artículo 142 Undecies 8.- En los Servicios de Salud se promoverá la organización institucional de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Para garantizar los derechos, la atención integral y ética a mujeres y hombres que viven la pérdida por muerte gestacional, perinatal o neonatal de una hija o hijo, las autoridades sanitarias procurarán garantizar como mínimo un enfoque humanizado, intercultural de atención integral y ética, procurando establecer protocolos claros, servicios de apoyo emocional y medidas para preservar la salud mental y física de las y los afectados.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
@@ -2658,3 +2668,21 @@ P.O. 19 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Las autoridades competentes deberán expedir la reglamentación sobre baños familiares en un plazo no mayor de ciento ochenta días, contados a partir de la entrada de vigor de este Decreto.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 821 QUE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 142 UNDECIES 6 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 826 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 142 UNDECIES 8 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 829 POR EL QUE SE REFORMAN EL PRIMER Y EL SEGUNDO PÁRRAFOS DEL ARTÍCULO 12 BIS DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
