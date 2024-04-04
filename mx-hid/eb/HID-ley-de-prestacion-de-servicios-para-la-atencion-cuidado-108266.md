@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-108266"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-25"
-last_updated: "2021-09-13"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de mayo de 2015.
 
@@ -173,9 +173,15 @@ IX. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
 
 X. Enseñanza del lenguaje y comunicación;
 
-XI. Información y apoyo a los padres, tutores o a quienes tengan la responsabilidad del cuidado o crianza, de niñas y niños, para fortalecer la comprensión de sus funciones en la educación; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XII. Las demás que se deriven de ordenamientos legales aplicables.
+XI. Información y apoyo a los padres, tutores o a quienes tengan la responsabilidad del cuidado o crianza, de niñas y niños, para fortalecer la comprensión de sus funciones en la educación;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XII. Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención; y
+
+XIII. Las demás que se deriven de ordenamientos legales aplicables.
 
 ###### Artículo 13.
 
@@ -219,9 +225,17 @@ V. Contribuir al mejoramiento progresivo y al fortalecimiento de los servicios p
 
 VI. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños;
 
-VII. Fomentar la igualdad de género; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-VIII. Garantizar los criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención.
+VII. Fomentar la igualdad de género;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+VIII. Garantizar los criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención; e
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+IX. Implementar mecanismos de participación de padres de familia y de quienes ejercen la tutela de niñas y niños, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención.
 
 ###### Artículo 20.
 
@@ -253,7 +267,13 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-XIV. La accesibilidad;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XIV. La accesibilidad; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XV. El desarrollo de niñas y niños en todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales.
 
 ### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -416,6 +436,18 @@ XII. Promover la participación de las familias, la sociedad civil y la niñez, 
 XIII. Aprobar sus reglas internas de operación; y
 
 XIV. Otorgar las autorizaciones respectivas a los Centros de Atención, cuando los interesados cumplan con las disposiciones que señala esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+###### Artículo 30 Bis.
+
+El Consejo tendrá los siguientes objetivos específicos:
+
+I. Diseñar políticas públicas, estrategias y acciones coordinadas para asegurar la atención integral a niñas y niños;
+
+II. Coordinar esfuerzos de las dependencias y entidades que conforman el Consejo, para promover mecanismos que permitan mejorar la calidad de los servicios para la atención, cuidado y desarrollo integral infantil: e
+
+III. Impulsar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios.
 
 ###### Artículo 31.
 
@@ -852,5 +884,11 @@ TERCERO.- El valor de la Unidad de Medida y Actualización será determinado con
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 747 QUE ADICIONA EL ARTÍCULO 47 BIS A LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 814 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
