@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2022-07-27"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -11511,6 +11511,10 @@ Si el valor de los muebles excede de doscientos pesos, pero no de un mil pesos, 
 
 La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Cuando la persona donante tenga sesenta años o más, y el bien inmueble donado sea el único dentro de su patrimonio, tendrá respecto de éste, el derecho al usufructo vitalicio.
+
 ###### Art. 2328.
 
 La aceptación de las donaciones se hará en la misma forma en que éstas deban hacerse; pero no surtirá efecto si no se hiciere en vida del donante.
@@ -16040,3 +16044,9 @@ IV.- Sus estatutos sociales determinan quórum de instalación mayor y quórum d
 V.- Pretenden desahogar orden del día en materia de Gobierno Corporativo y/o rendición de cuentas y/o información financiera. Previa certificación que al efecto se levante se podrá convocar por cuarta ocasión a Asamblea bajo el mismo orden del día, con el único propósito de dotarla de representantes legales y/o recursos económicos-materiales para continuar operando y desarrollando su objeto social.
 
 Sexto. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 817 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2327 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
