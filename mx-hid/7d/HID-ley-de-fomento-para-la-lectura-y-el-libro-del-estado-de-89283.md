@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -76,6 +76,10 @@ I.- Fomentar y promover la lectura, la escritura y el libro, como medios para al
 La lectura es un derecho cultural para mejorar los niveles educativos, técnicos y científicos de la población, apoyar la creación y transmisión de conocimientos, y la circulación de información en el marco de una sociedad democrática, diversa, equitativa y próspera.
 
 El Estado garantizará el fomento de la lectura y la escritura, y facilitará su acceso a toda la población;
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Para el cumplimiento de lo dispuesto en el segundo párrafo de esta fracción, el Congreso del Estado podrá coadyuvar con la organización y ejecución a su cargo de exposiciones, seminarios o festivales del libro y la lectura; así mismo, llevará a cabo la Feria del Libro del Congreso, preferentemente de forma anual en el recinto del Poder Legislativo del Estado;
 
 II.- Contribuir a erradicar los distintos grados de analfabetismo presentes en diversos grupos poblacionales del Estado de Hidalgo;
 
@@ -201,9 +205,17 @@ A. La Secretaría de Cultura del Estado de Hidalgo;
 
 B. La Secretaría de Educación Pública del Estado de Hidalgo;
 
-C. El Consejo Estatal para el Fomento de la Lectura y el Libro; y
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
-D. Los Ayuntamientos.
+C. El Consejo Estatal para el Fomento de la Lectura y el Libro;
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+D. Los Ayuntamientos, y
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+E. El congreso del Estado, por lo que se refiere a la promoción de la lectura y del libro.
 
 ###### Artículo 7.
 
@@ -264,6 +276,12 @@ XIV.- Propiciar que los hablantes de lenguas indígenas participen en la creaci�
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
 
 XV.- Promover la formación de intérpretes y traductores de lenguas indígenas.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+###### Artículo 8 Bis.
+
+El Congreso del Estado contribuirá con los fines de la presente ley, mediante la realización de las actividades a que se refiere la fracción VII del artículo 8 de esta Ley.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -688,3 +706,11 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 615 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 815 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado Libre y Soberano de Hidalgo adoptará las medidas necesarias para procurar que, dentro de un plazo no mayor de noventa días, contados a partir de la entrada en vigor de este Decreto, se realice la Primera Edición de la Feria del Libro del Congreso del Estado de Hidalgo.
