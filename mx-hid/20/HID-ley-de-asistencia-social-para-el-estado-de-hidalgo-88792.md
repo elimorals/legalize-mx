@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -269,7 +269,9 @@ b. Sobrepeso y obesidad;
 
 c. Trastorno de la conducta alimentaria;
 
-d. Deficiencias en su desarrollo físico, mental, psicológico, y social o cuando este sea afectado por condiciones familiares adversas;
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+d. Deficiencias en su desarrollo físico, mental, psicológico, social, cuando este sea afectado por condiciones familiares adversas o por violencia familiar;
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -1640,3 +1642,9 @@ P.O. 19 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. La implementación de la fracción XXIII Bis del artículo 26 que se aprueba en este Decreto estará sujeta a la disponibilidad presupuestal del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 816 POR EL QUE SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
