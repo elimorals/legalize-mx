@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -125,9 +125,9 @@ XIII.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisc
 
 XIV.- Envejecimiento.- Proceso gradual que se desarrolla durante el curso de vida y que conlleva cambios biológicos, fisiológicos, psico-sociales y funcionales de variadas consecuencias, las cuales se asocian con interacciones dinámicas y permanentes entre el sujeto y su medio;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XIV Bis.- Envejecimiento Saludable. Proceso de fomentar la capacidad funcional que permite el bienestar en la vejez.
+XIV Bis. Envejecimiento Activo y Saludable.- Proceso por el cual se optimizan, permiten y garantizan las oportunidades de bienestar físico, mental y social, la participación en actividades sociales, económicas, culturales, espirituales y cívicas, así como la protección, seguridad y atención de las personas adultas mayores, con el objetivo de ampliar la esperanza de vida saludable y el bienestar de todos los individuos en la vejez;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -141,13 +141,21 @@ XVI.- Maltrato.- Acción u omisión, única o repetida, contra una persona adult
 
 XVII.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XVIII.- Violencia Contra las Personas Adultas Mayores.- Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público; y
+XVIII.- Violencia Contra las Personas Adultas Mayores.- Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XIX.- Enfoque interseccional.- Categoría de análisis para referir los componentes que confluyen en un mismo caso, multiplicando las desventajas y discriminaciones.
+XIX.- Enfoque interseccional.- Categoría de análisis para referir los componentes que confluyen en un mismo caso, multiplicando las desventajas y discriminaciones;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XX.- Discriminación.- Cualquier distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga como objetivo o efecto anular, obstaculizar, impedir, menoscabar o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales de la persona adulta mayor, en la esfera política, económica, social, cultural, o en cualquier otra esfera de la vida pública o privada;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XXI.- Vejez.- Construcción social de la última etapa del curso de la vida.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -283,13 +291,29 @@ XVI.- Derecho a la educación.- La persona adulta mayor tiene derecho a recibir 
 
 XVII.- Derechos políticos.- La persona adulta mayor tiene derecho a la participación en la vida política y pública en igualdad de condiciones con los demás y a no ser discriminados por motivo de edad;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XVIII.- Derecho a la información: La persona adulta mayor tiene derecho a la información, plural, oportuna y accesible, la cual será garantizada por el Estado; y
+XVIII.- Derecho a la información: La persona adulta mayor tiene derecho a la información, plural, oportuna y accesible, la cual será garantizada por el Estado;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-XIX.- Derecho a la participación en programas de activación física: La persona adulta mayor tiene derecho a la participación y a gozar de los programas de activación física adecuada, teniendo en cuenta los intereses y las necesidades de la persona adulta mayor, en partícular de aquellas que reciben servicios de cuidado a largo plazo, con el objetivo de mejorar su salud y calidad de vida en todas sus dimensiones y promover su autorrealización, independencia, autonomía e inclusión en la comunidad.
+XIX.- Derecho a la participación en programas de activación física: La persona adulta mayor tiene derecho a la participación y a gozar de los programas de activación física adecuada, teniendo en cuenta los intereses y las necesidades de la persona adulta mayor, en partícular de aquellas que reciben servicios de cuidado a largo plazo, con el objetivo de mejorar su salud y calidad de vida en todas sus dimensiones y promover su autorrealización, independencia, autonomía e inclusión en la comunidad;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XX.- Derecho a la independencia y a la autonomía.- La persona adulta mayor tiene derecho a desarrollar una vida autónoma e independiente, tomar decisiones con plena libertad, a la definición de su plan de vida y a la autorrealización, conforme a sus tradiciones y creencias, en igualdad de condiciones;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XXI.- Derecho de acceso a la cultura.- La persona adulta mayor tiene derecho a participar en la vida cultural del Estado, al disfrute de los bienes y servicios culturales, así como a una identidad cultural; a transmitir sus conocimientos, habilidades y experiencias en el ámbito cultural y artístico, en cualquiera de los contextos que se desarrolle;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XXII.- Derecho a un medio ambiente sano.- La persona adulta mayor tiene derecho a vivir en un medio ambiente sano para su desarrollo y bienestar; a contar con servicios públicos básicos de agua potable y saneamiento en forma suficiente, saludable y asequible, entre otros; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XXIII.- Derecho a la accesibilidad.- La persona adulta mayor tiene derecho a la accesibilidad al entorno físico, social, económico y cultural, así como a la movilidad personal en igualdad de condiciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1086,3 +1110,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 599 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 6 Y LA FRACCIÓN IX DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
