@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2024-01-17"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -142,6 +142,12 @@ III.- Expresar su voluntad de unirse en matrimonio y manifestar bajo protesta de
 ###### Artículo 12 Bis.
 
 Las pláticas prematrimoniales serán diseñadas por el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, en conjunto con el Instituto Hidalguense de las Mujeres, y se impartirán de forma gratuita por los Sistemas Municipales o Juntas Municipales para el Desarrollo Integral de la Familia. Estas últimas autoridades emitirán las constancias correspondientes a las personas participantes.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+###### Artículo 12 Ter.
+
+En el proceso de las solicitudes para contraer matrimonio, el o la Oficial del Registro del Estado Familiar hará del conocimiento de los contrayentes, si alguno o alguna de ellos se encuentra inscrito en el Registro Nacional de Obligaciones Alimentarias, mencionando la situación que guardan respecto de dichas obligaciones. Esta previsión será únicamente de carácter informativo, y el resultado de la misma no constituirá un impedimento para la celebración del matrimonio.
 
 ###### Artículo 13.
 
@@ -3560,5 +3566,11 @@ P.O. 15 DE JUNIO DE 2023.
 P.O. 17 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 594 POR EL QUE SE REFORMA EL ARTÍCULO 8 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 828 POR EL QUE SE ADICIONA EL ARTÍCULO 12 TER A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
