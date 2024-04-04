@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-servicio-fiscalizador-de-carrera-de-la-130912"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-04"
-last_updated: "2021-02-25"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Estatuto publicado en la Segunda Parte al Número 199 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de octubre de 2018.
 
@@ -49,15 +51,21 @@ El presente Estatuto tiene por objeto establecer las normas, lineamientos, mecan
 
 El Servicio Fiscalizador de Carrera tiene como finalidad dotar a la Auditoría Superior de Servidores Públicos calificados, profesionales y especializados, que contribuyan al cumplimiento del ejercicio de las funciones y autonomía técnica de la Auditoría Superior; asegura que el desempeño de sus integrantes se apegue a los principios de legalidad, honradez, objetividad, imparcialidad y profesionalismo, y otorga permanencia, estabilidad y certeza jurídica a sus Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
 Pertenecen al Servicio Fiscalizador de Carrera, los Servidores Públicos que prestan sus servicios de manera continua, permanente, regular y profesional a la Auditoría Superior del Estado de Guanajuato, de acuerdo con lo establecido en el presente Estatuto.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2021)</small>
+Quedan exceptuados del Servicio Fiscalizador de Carrera, los siguientes servidores públicos:
 
-Quedan exceptuados del Servicio Fiscalizador de Carrera, los titulares de las unidades administrativas señaladas en las fracciones e incisos del artículo 3 del Reglamento Interior de la Auditoría Superior del Estado de Guanajuato, los que se consideran de libre designación.
+I. Los Auditores Especiales, Directores Generales y Secretario Técnico señalados en el artículo 3 del Reglamento Interior de la Auditoría Superior del Estado de Guanajuato;
 
-El personal de libre designación podrá gozar de los beneficios y prestaciones que establece este Estatuto.
+II. Quienes ocupen plazas institucionales entre los niveles tabulares 11 al 15, así como del 1 al 4, conforme al tabulador de sueldos del Poder Legislativo; Por lo que se refiere a niveles 11 y 12, quedaran exceptuados únicamente en cuanto a su ingreso y
+
+III. Todos aquellos que de acuerdo a la naturaleza de sus actividades requieran de alguna especialización no sustantiva de la función de fiscalización, entre ellas servicio de cocina, taller mecánico y servicio médico.
+
+Los servidores públicos señalados en las fracciones anteriores gozarán de los beneficios y prestaciones que establece el presente Estatuto.
 
 ###### Artículo 4.
 
@@ -95,9 +103,11 @@ VIII. Servidor Público: Los Servidores Públicos de la Auditoría Superior adsc
 
 ### Capítulo Segundo. Autoridades del Servicio
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### Artículo 8.
 
-Son autoridades en materia del Servicio, el Auditor Superior y la Dirección General de Administración, en los términos establecidos en el presente Estatuto y demás disposiciones aplicables.
+Son autoridades en materia del Servicio, el Auditor Superior, la Dirección General de Administración y el Comité de Selección en los términos establecidos en el presente Estatuto y demás disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -107,11 +117,11 @@ I. Nombrar y remover libremente a los titulares de las Unidades Administrativas,
 
 II. Expedir los nombramientos de los titulares de las Auditorías Especiales y Direcciones Generales de la Auditoría Superior;
 
-III. Autorizar la designación del personal temporal y de libre designación;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
+III. Aprobar el nombramiento del personal temporal y por selección de competencia;
 
-IV. Aprobar el programa anual de capacitación, en el que se deberán incluir los cursos generales que se impartirán a los Servidores Públicos;
+IV. (DEROGADA, P.O. 4 DE ABRIL DE 2024)
 
 V. Aprobar el Estatuto y sus reformas; y
 
@@ -131,6 +141,10 @@ II. Planear, programar y presupuestar, en el ámbito de su competencia, los recu
 
 III. Emitir la normativa complementaría al presente Estatuto que estime pertinente para el adecuado desarrollo del Servicio;
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+III Bis. Aprobar el programa anual de capacitación, en el que estará integrado por los cursos generales que se impartirán al personal de la Auditoría Superior;
+
 IV. Expedir los nombramientos de los Servidores Públicos de la Auditoría Superior cuya expedición no corresponda al Auditor Superior;
 
 V. Interpretar las disposiciones de este Estatuto y su normativa complementaria;
@@ -141,9 +155,9 @@ VI. Presentar los informes que solicite el Auditor Superior con la periodicidad 
 
 VII. Controlar y evaluar la correcta instrumentación y operación del Servicio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-VIII. Suscribir los contratos del personal temporal, una vez autorizada su designación; y
+VIII. Suscribir los instrumentos jurídicos del personal temporal, así como del personal contratado bajo la modalidad de honorarios asimilados a salarios, una vez autorizado su ingreso;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE FEBRERO DE 2019)</small>
 
@@ -205,15 +219,23 @@ VII. Las que señalen las leyes y demás disposiciones aplicables.
 
 ###### Artículo 16.
 
-El catálogo de puestos contendrá los elementos suficientes para establecer la descripción y el perfil de éstos y los requisitos específicos para su ocupación.
+(DEROGADO, P.O. 4 DE ABRIL DE 2024)
 
 ###### Artículo 17.
 
-El catálogo contendrá, además, la referencia al nivel que corresponde a cada puesto dentro del tabulador general de sueldos del Poder Legislativo.
+(DEROGADO, P.O. 4 DE ABRIL DE 2024)
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
 ###### Artículo 18.
 
-La elaboración del catálogo, así como su actualización permanente, observará los principios de racionalidad, austeridad y disciplina presupuestal, y estará bajo la responsabilidad de la Dirección General de Administración, la que tomará en consideración la opinión de los titulares de las unidades administrativas de la Auditoría Superior, a efecto de presentar el catálogo y sus propuestas de modificación al Auditor Superior para su aprobación.
+La elaboración del Catálogo de Puesto, así como su actualización permanente estará a cargo de la Dirección de Desarrollo Institucional en coordinación con los titulares de las Unidades Administrativas, debiendo contener lo siguiente:
+
+I. Los elementos suficientes para establecer la descripción y el perfil del puesto;
+
+II. Los requisitos específicos para su ocupación; y
+
+III. La referencia al nivel que corresponde a cada puesto dentro del tabulador general de sueldos del Poder Legislativo.
 
 #### Sección Segunda. Selección, Ingreso y Ascenso al Servicio
 
@@ -223,17 +245,21 @@ El ingreso al Servicio comprende el reclutamiento y la selección de aspirantes,
 
 Excepcionalmente, se podrá ocupar una plaza vacante o puesto de nueva creación mediante la selección de personal temporal en los términos del presente Estatuto, el cual, durante el plazo que dure su nombramiento estará sujeto al Servicio, en lo conducente.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
-Cuando los titulares de las unidades a que se refiere el artículo 3, segundo párrafo, de este Estatuto, deban ocupar una plaza vacante o de nueva creación sujeta al Servicio Fiscalizador de Carrera, lo harán con carácter definitivo, sin sujeción a los procedimientos relativos el ingreso al Servicio, siempre que cumplan con el perfil del puesto respectivo.
+Cuando el personal a que refiere el artículo 3, fracción II, del presente Estatuto, ocupe una plaza vacante o de nueva creación, lo hará con carácter definitivo, previa propuesta del titular de la Unidad Administrativa respectiva y aprobación del Auditor Superior, sin sujeción a los procedimientos relativos al ingreso del Servicio, siempre que cumplan con el perfil del puesto respectivo.
 
 ###### Artículo 20.
 
 Para cubrir cualquier puesto perteneciente al Servicio se deberá atender a la clasificación y perfiles del puesto, por lo que se evaluarán aspectos de conocimientos, curriculares y demás pertinentes a fin de determinar que se cumple con los requerimientos de aptitudes y habilidades que el puesto de que se trate requiere, así como los requisitos mínimos de ingreso al Servicio por parte de los aspirantes.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### Artículo 21.
 
-El acceso al Servicio será el concurso de oposición, mismo que podrá ser, según determine la Dirección General de Administración, de carácter interno con la participación de quienes cuentan con la calidad de Servidor Público o de carácter mixto con la participación, además, de aspirantes externos.
+El acceso al Servicio será el concurso de oposición, conforme el proceso establecido por la Dirección General de Administración.
+
+Dicho proceso se realizará por la Dirección de Desarrollo Institucional en coordinación del titular de la Unidad Administrativa que corresponda.
 
 ###### Artículo 22.
 
@@ -269,13 +295,25 @@ III. Calendario de actividades para:
 
 a) Verificación de requisitos;
 
-b) Aplicación de evaluación técnica, a la que le corresponderá al menos un 55 por ciento del total de la ponderación y la (sic) su calificación mínima aprobatoria será de 70 sobre 100:
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+b) Aplicación de evaluación técnica, a la que le corresponderá al menos un 40 por ciento del total de la ponderación y la calificación mínima aprobatoria será de 80 sobre 100;
 
 c) Análisis curricular, al que le corresponderá hasta un 15 por ciento del total de la ponderación;
 
-d) Entrevista, a la que le corresponderá hasta un 30 por ciento del total de la ponderación; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2024)</small>
 
-e) Notificación de resultados.
+d) Análisis de evaluación al desempeño de los últimos 3 periodos previos, al que le corresponderá al menos un 15 por ciento del total de ponderación.
+
+En los casos de no contar con el número de evaluaciones referidas en el párrafo anterior, por haber ingresado al servicio en fecha posterior, corresponderá la parte proporcional de la ponderación al número de evaluaciones.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 4 DE ABRIL DE 2024)</small>
+
+e) Entrevista, a la que le corresponderá hasta un 30 por ciento del total de la ponderación; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 4 DE ABRIL DE 2024)</small>
+
+f) Notificación de resultados.
 
 IV. Mecanismos para considerar la evaluación del desempeño, en su caso;
 
@@ -285,9 +323,19 @@ VI. Mecanismos para garantizar la confidencialidad, integridad y seguridad de lo
 
 La convocatoria deberá publicarse en los medios idóneos por lo menos con tres días hábiles de anticipación a la fecha en que inicie la etapa de registro o inscripción al proceso de selección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### Artículo 25.
 
-Efectuada la evaluación técnica y obtenidos los resultados, la Dirección General de Administración convocará al Comité de Selección para el análisis curricular y posterior entrevista de los aspirantes que aprobaron la evaluación técnica.
+Efectuada la evaluación técnica y obtenidos los resultados, la Dirección de Desarrollo Institucional convocará al Comité de Selección para la evaluación curricular y posterior entrevista a los 3 mejores resultados que hayan aprobado la evaluación técnica.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+En los casos en que una sola convocatoria se concurse más de una plaza, el Comité de Selección determinará el número de participantes que continuarán en el proceso.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+En caso de empate en la calificación, pasarán todos los candidatos que hayan obtenido la misma calificación.
 
 El aspirante que obtenga el mayor puntaje de las ponderaciones que se refieren en el artículo 24 será el que ocupará la plaza vacante.
 
@@ -297,13 +345,15 @@ El Comité de Selección emitirá el fallo correspondiente.
 
 En caso de empate, el resultado del concurso de oposición se decidirá por el Comité de Selección, conforme a lo siguiente:
 
-I. Entre candidatos internos, se optará por quien tenga mayor antigüedad en la Auditoría Superior.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-De persistir el empate, se optará por quien tenga un mayor nivel académico en áreas relacionadas con las funciones de la Auditoría Superior;
+I. Entre los candidatos se optará por quien tenga mayor experiencia laboral;
 
-II. Entre un candidato interno y uno externo, se optará por el interno; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-III. Entre candidatos externos, se optará por quien tenga mayor experiencia laboral en áreas relacionadas con la actividad de la Auditoría Superior.
+II. Entre los candidatos se optará por quien tenga mayor antigüedad en la Auditoría Superior;
+
+III. (DEROGADA, P.O. 4 DE ABRIL DE 2024)
 
 De persistir el empate, se optará por quien tenga un mayor nivel académico en áreas relacionadas con las funciones de la Auditoría Superior.
 
@@ -351,19 +401,23 @@ Cuando de entre la reserva estratégica no se reúnan la cantidad de aspirantes 
 
 La temporalidad del personal designado no podrá ser mayor de doce meses, sin posibilidad de prórroga.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
 ###### Artículo 31.
 
-De ser pertinente la definitividad de la plaza ocupada temporalmente de conformidad con el proceso que se determine en las Disposiciones para la Administración, Ejercicio y Control de los Recursos de la Auditoría Superior del Estado de Guanajuato, la Dirección General de Administración realizará la convocatoria y el concurso de oposición respectivo.
+De ser pertinente la definitividad de la plaza ocupada temporalmente de conformidad con lo establecido en el presente Estatuto, la Dirección General de Administración realizará la convocatoria y el concurso de oposición respectivo.
 
-### Capítulo Quinto. Personal de Libre Designación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2024)</small>
+
+### Capítulo Quinto. Designación de Personal por Selección de Competencia
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
 ###### Artículo 32.
 
-Son requisitos para la selección del personal de libre designación con cargo de director de área o titular de unidad:
+Son requisitos para la selección de personal por competencia con cargo de director de área, titular de unidad o coordinador:
 
-I. La acreditación del nivel curricular y experiencia profesional del aspirante, así como la justificación por parte del Auditor Especial, Director General o Secretario Técnico, para la selección de aquél;
+I. La acreditación del nivel curricular y experiencia profesional del aspirante, así como la justificación por parte del Auditor Especial, Director General o Secretario Técnico, para la selección;
 
 II. La comprobación curricular que, en su caso, realice la Dirección General de Administración;
 
@@ -371,7 +425,13 @@ III. La práctica de un examen psicométrico; y
 
 IV. La autorización del Auditor Superior.
 
-Tratándose de los Auditores Especiales, Directores Generales, del Secretario Técnico y del Secretario Particular, su designación se efectuará directamente por el Auditor Superior, previa realización, si así lo estima conveniente, del examen a que se refiere la fracción III de este artículo.
+Tratándose de los Auditores Especiales, Directores Generales, Secretario Técnico y Secretario Particular, su designación se efectuará directamente por el Auditor Superior.
+
+Se exceptuará la consideración establecida en la fracción III del presente artículo, cuando se trate de plazas institucionales entre los niveles tabulares del 1 al 4, así como los señalados en la fracción III del artículo 3 del presente Estatuto.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Artículo 32 BIS. Efectuada la evaluación de las fracciones establecidas en el artículo anterior y obtenidos los resultados, el titular de la Unidad Administrativa de que se trate, presentará una propuesta al Auditor Superior para su aprobación.
 
 ### Capítulo Sexto. Nombramiento
 
@@ -471,13 +531,11 @@ III. La presentación de sus superiores jerárquicos y, en su caso, subordinados
 
 IV. En general, toda aquella información que requiera para el inicio de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
 ###### Artículo 44.
 
-Los Servidores Públicos deberán cumplir con los cursos que, con carácter general, sean señalados dentro del programa de capacitación respectivo en términos de las Disposiciones para la Administración, Ejercicio y Control de los Recursos de la Auditoría Superior del Estado de Guanajuato aplicables.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+Los Servidores Públicos deberán cumplir con los cursos que, con carácter general, sean señalados dentro del programa anual de capacitación respectivo en términos de las Disposiciones en Materia de Recursos Humanos de la Auditoría Superior del Estado de Guanajuato.
 
 ###### Artículo 45.
 
@@ -525,11 +583,15 @@ VI. Obtener resultados no aprobatorios en la evaluación al desempeño por más 
 
 IV (SIC). Las demás que se establezcan en las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### Artículo 51.
 
-Los Servidores Públicos tienen derecho a una prima de antigüedad que consistirá en el importe de por lo menos quince días de salario tabular por cada año de prestación de servicio, en el supuesto de no haber cumplido el año, la parte proporcional que le corresponda siempre y cuando hayan cumplido cinco años de servicio.
+Los Servidores Públicos de la Auditoría Superior independientemente del nivel tabular que ocupen al momento de la separación del cargo, tendrán derecho a una prima de antigüedad que consistirá en el importe de por lo menos quince días de salario tabular por cada año de prestación de servicio. En el supuesto de no haber cumplido el año, la parte proporcional que le corresponda.
 
 La prima de antigüedad se pagará en los siguientes supuestos:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE ABRIL DE 2024)</small>
 
 I. En los casos de retiro voluntario;
 
@@ -549,29 +611,51 @@ I. Participar en eventos y festejos generales que se organicen para los Servidor
 
 II. Participar, como instructores, en cursos generales y específicos de conformidad con el plan anual de capacitación, y
 
-III. Participar en los procesos para cubrir interinatos que se generen en la Auditoría Superior, teniendo en igualdad de circunstancias, preferencia sobre los aspirantes externos.
+III. (DEROGADA, P.O. 4 DE ABRIL DE 2024)
 
 ### Capítulo Décimo Segundo. Otorgamiento de Licencias y Permisos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### Artículo 53.
 
-Los Servidores Públicos, personal temporal y de libre designación podrán solicitar licencia con goce de sueldo a su Plaza, conservando los derechos con que cuenten a la fecha del otorgamiento, en los términos que señalen las disposiciones legales o administrativas aplicables.
+Los Servidores Públicos y personal temporal y (sic) podrán solicitar licencia con goce de sueldo a su Plaza, conservando los derechos con que cuenten a la fecha del otorgamiento, en los términos que señalen las disposiciones legales o administrativas aplicables
 
 Son licencias, las siguientes:
 
-I. Por razones personales;
+I. (DEROGADA, P.O. 4 DE ABRIL DE 2024)
 
 II. Por nacimiento de hijo;
 
 III. Por matrimonio; y
 
-IV. Por defunción de algún familiar.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+I (SIC). Por defunción de algún familiar, hasta el cuarto grado de parentesco.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
 ###### Artículo 54.
 
-La licencia por nacimiento de hijo se otorgará al padre por cinco días a partir de la fecha de alumbramiento; la licencia por matrimonio será de cinco días y la licencia por defunción de familiar, por tres días. En el caso de licencias por matrimonio, deberán solicitarse con por lo menos, quince días de anticipación a la fecha en que se pretenda contraer matrimonio. Las Licencias comprendidas en las fracciones II, III y IV del artículo anterior serán con goce de sueldo.
+Las licencias se otorgarán por 5 días en los siguientes supuestos:
 
-Los días referidos en el presente artículo se entienden como días laborables.
+I. Nacimiento de hijo, se otorgará al padre la licencia a partir de la fecha de alumbramiento;
+
+II. Matrimonio; y
+
+III. Defunción de familiar. hasta el cuarto grado de parentesco.
+
+En el caso de licencias por matrimonio, deberán solicitarse con (sic) por lo menos, con quince días de anticipación a la fecha en que se pretenda contraer matrimonio.
+
+Las licencias referidas en el artículo anterior serán con goce de sueldo, y se entenderán como días laborables.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Artículo 54 BIS. Las madres trabajadoras, en el supuesto de maternidad, tendrán derecho a las licencias relativas en los términos que establece el artículo 23 de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Artículo 54 TER. Los Servidores Públicos tendrán derecho a ausentarse de sus labores, hasta por 4 días no consecutivos al año, con goce de sueldo, para la atención de asuntos particulares, en términos de las Disposiciones en Materia de Recursos Humanos de la Auditoría Superior del Estado de Guanajuato aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -726,3 +810,11 @@ P.O. 25 DE FEBRERO DE 2021.
 Artículo Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Lo previsto en el artículo 19 que se reforma se aplicará retroactivamente a aquellos movimientos que se hubieren efectuado durante 2021 hasta antes de la emisión del presente Acuerdo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Acuerdo entrará en vigor el día de su firma y deberá publicarse en la página institucional de la Auditoría Superior.
+
+Artículo Segundo. Las plazas que, a la fecha de entrada en vigor de la presente reforma, se encuentren ocupadas de manera temporal, les será aplicable lo establecido en la fracción II del artículo 3, previo trámite administrativo correspondiente.
