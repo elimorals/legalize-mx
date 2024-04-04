@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-superior-del-estado-de-hidalgo-167195"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-03"
-last_updated: "2023-08-03"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance Catorce del Número 31 del Periódico Oficial del Estado de Hidalgo, el jueves 3 de agosto de 2023.
 
@@ -43,11 +43,11 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -206,6 +206,10 @@ VI. La igualdad de oportunidades que garantice a las personas acceder a la educa
 VII. El reconocimiento de la diversidad;
 
 VIII. La interculturalidad en el desarrollo de las funciones de las instituciones de educación superior y el respeto a los derechos lingüísticos y culturales de los pueblos y comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+VIII BIS. La cultura de la vejez, envejecimiento activo y saludable, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 
 IX. La excelencia educativa que coloque al estudiante al centro del proceso de enseñanza y de aprendizaje, además de su mejoramiento integral constante que promueva el máximo logro de aprendizaje para el desarrollo de su formación profesional, pensamiento crítico y el fortalecimiento de los lazos entre escuela, familia y comunidad con identidad nacional;
 
@@ -1430,3 +1434,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. JULIO RAMÓN MENCHACA SALAZAR
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 827 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
