@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2021-09-13"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -365,13 +365,17 @@ II.- Promover un desarrollo económico con sentido social que propicie y conserv
 
 III.- Fortalecer el desarrollo regional equilibrado;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-IV.- Garantizar formas de participación social, en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales; y
+IV.- Garantizar formas de participación social, en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-V.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
+V.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales, y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+VI.- Otorgar, de manera prioritaria, atención a los municipios del estado que cuenten con mayor porcentaje de población en pobreza extrema.
 
 ###### Artículo 14.
 
@@ -1362,3 +1366,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 766 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del primero de enero de 2022.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 822 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 13 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
