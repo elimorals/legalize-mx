@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1579,9 +1579,9 @@ IX.- Cumplir con las funciones inherentes a sus comisiones e informar al Ayuntam
 
 X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuestas de la comunidad;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
 
-X Bis. Presentar por escrito un informe anual de actividades y de gestión durante el mes de agosto, al Ayuntamiento;
+X Bis. Presentar por escrito un informe anual de actividades y de gestión durante el mes de agosto, al Ayuntamiento, haciéndolo del conocimiento a la ciudadanía, a quien se invitará a la presentación de este documento;
 
 XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
 
@@ -3345,6 +3345,10 @@ Cada municipio procurará destinar un área específica para la Secretaría Ejec
 
 ARTÍCULO 145 DUODÉCIMUS.- En cada municipio, deberá existir una Instancia Municipal para la Prevención de las Adicciones, que tendrá por objeto prevenir y atender las problemáticas relacionadas al uso de drogas licitas e ilícitas, entre otros tipos de adicciones.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+La persona titular de la Instancia Municipal para la Prevención de las Adicciones, además de los requisitos establecidos en el artículo 114, deberá contar con título profesional en disciplina correspondiente al área de ciencias de la salud, trabajo social o psicología, así como tener experiencia en el ámbito clínico o en algún cargo de la administración pública relacionado con la materia; la cual habrá de ser mínima de un año al momento de su designación.
+
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ARTÍCULO 145 TERTIUSDÉCIMUS.- La Instancia Municipal para la Prevención de las Adicciones tendrá las siguientes atribuciones:
@@ -4033,6 +4037,8 @@ Los bandos de policía y gobierno, los reglamentos, circulares y disposiciones a
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 192.
 
 El Poder Ejecutivo del Estado a solicitud de los Ayuntamientos, les dará asesoría que les permita realizar las finalidades de su exclusiva competencia. Así mismo, los auxiliará en la realización de los planes y Programas Municipales.
@@ -4043,7 +4049,7 @@ Las distintas dependencias con acuerdo del Titular del Ejecutivo Estatal, en su 
 
 ###### ARTÍCULO 194.
 
-Se prevé la creación de un enlace institucional con la Comisión de Derechos Humanos, preferentemente un regidor, que actuará como vínculo con facultades de fomentar e impulsar la cultura de este tipo de derechos y que tendrá, entre otras funciones:
+Se prevé la creación de un enlace institucional con la Comisión de Derechos Humanos del Estado, estando dicha función preferentemente a cargo del regidor o regidora que funja como titular de la Comisión de Derechos Humanos y Atención de las Personas con Discapacidad del Ayuntamiento; quien actuará como vínculo con facultades de fomentar e impulsar la cultura de este tipo de derechos y que tendrá, entre otras funciones:
 
 I.- Diseñar las políticas Municipales para la defensa y promoción de los derechos humanos;
 
@@ -4572,5 +4578,17 @@ TERCERO. Los Ayuntamientos de los municipios del Estado contarán con un plazo d
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 621 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 819 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 824 POR EL QUE SE REFORMA LA FRACCIÓN X BIS DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
