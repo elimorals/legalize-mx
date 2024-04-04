@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -142,6 +142,10 @@ XIV. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de ori
 XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 XVI. Informe de Adoptabilidad: El documento expedido por el Sistema DIF Hidalgo que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+
+XVI Bis. Lactancia materna: La alimentación con leche del seno materno;
 
 XVII. Órgano Jurisdiccional: Los juzgados o tribunales estatales;
 
@@ -1092,6 +1096,20 @@ Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a ed
 El Sistema Estatal de Salud deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+###### Artículo 49 Bis.
+
+La lactancia materna constituye un derecho fundamental, universal, imprescriptible e inalienable de las niñas y los niños. El Estado y los sectores público, privado y social, tienen la obligación de proveer su protección, apoyo y promoción, a efecto de garantizar la alimentación adecuada, la salud, el crecimiento y el desarrollo integral de las y los lactantes.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+###### Artículo 49 Ter.
+
+Los lactarios o salas de lactancia son los espacios privados, dignos, higiénicos, cálidos y con el equipamiento mínimo adecuado, en los cuales las madres pueden amamantar, extraer su leche y conservarla, en términos de la normatividad expedida para tal efecto.
+
+Las salas de lactancia tienen como finalidad garantizar que las madres en periodo de lactancia cuenten con un espacio adecuado, contribuyendo a que las y los lactantes accedan a la leche maternal para su óptimo desarrollo.
 
 ###### Artículo 50.
 
@@ -2704,5 +2722,11 @@ P.O. 17 DE ENERO DE 2024.
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 621 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 820 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
