@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-01-19"
+last_updated: "2024-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -717,7 +719,17 @@ II. Evitar el maltrato y la crueldad hacia los animales tanto por parte de los c
 
 III. Asegurar que los animales estén resguardados, previo a su venta, en lugares que cuenten con áreas e infraestructura necesaria para su manejo;
 
-IV. Prestar, sin costo alguno, por lo menos dos espacios físicos dentro de su establecimiento, para la exhibición de animales en adopción que se encuentren en custodia de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados, así como publicarlo a través de medios remotos o la utilización de herramientas tecnológicas; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE ABRIL DE 2024)</small>
+
+IV. Prestar, sin costo alguno, por lo menos dos espacios físicos dentro de su establecimiento, para la exhibición de animales en adopción que se encuentren en custodia de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados, así como publicarlo a través de medios remotos o la utilización de herramientas tecnológicas.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+Cuando se trate de adopción de animales de compañía, los poseedores y/o propietarios, así como los establecimientos o las asociaciones protectoras de animales, deberán avisar a la autoridad municipal con la finalidad de que ésta realice el registro de adopción y proceda a actualizar el Padrón Municipal de Animales.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+
+La autoridad municipal podrá realizar el seguimiento de la adopción para verificar que se les otorgue un trato digno y respetuoso;
 
 V. Quienes lleven a cabo la reproducción, selección, crianza o la comercialización de animales de compañía, deberán acreditar que cuentan con la capacidad técnica y operativa suficiente.
 
@@ -1534,3 +1546,9 @@ P.O. 19 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Para la actualización de los datos de registro de personas prestadoras de servicio, guarderías, hoteles para animales de compañía, pensiones, refugios y escuelas de adiestramiento o entrenamiento en el Padrón Municipal de Animales, los municipios contarán con un término de sesenta días naturales contados a partir de la entrada en vigor de este Decreto.
+
+P.O. 4 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 823 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN IV DEL ARTÍCULO 25 TER DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
