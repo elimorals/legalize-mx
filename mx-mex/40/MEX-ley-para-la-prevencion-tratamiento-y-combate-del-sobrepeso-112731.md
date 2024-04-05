@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-tratamiento-y-combate-del-sobrepeso-1127
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-17"
-last_updated: "2023-09-29"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
-Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de febrero de 2016,
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de febrero de 2016.
 
 ERUVIEL ÁVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
@@ -83,13 +83,19 @@ V. Trastornos Alimentarios: a las perturbaciones externas e internas del individ
 
 Son autoridades competentes para prevenir, tratar y combatir el sobrepeso, la obesidad y trastornos alimentarios en el Estado de México y sus municipios:
 
-I. El Gobernador del Estado.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. La persona titular del Poder Ejecutivo del Estado.
 
 II. La Secretaría.
 
-III. La Secretaría de Educación.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. La Secretaría de Desarrollo Social.
+III. La Secretaría de Educación, Ciencia, Tecnología e Innovación.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. La Secretaría de Bienestar.
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -111,11 +117,13 @@ El Consejo Estatal será la instancia colegiada permanente de diseño, consulta,
 
 El Consejo Estatal estará integrado por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un Presidente, que será el Titular de la Secretaría de Salud.
+I. Una Presidencia, que estará a cargo de la persona Titular de la Secretaría de Salud.
 
-II. Un Secretario Técnico, que será el titular de la Subdirección de Prevención y Control de Enfermedades del Instituto de Salud del Estado de México.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. Una Secretaría Técnica, que estará a cargo de la persona titular de la Subdirección de Prevención y Control de Enfermedades del Instituto de Salud del Estado de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2023)</small>
 
@@ -125,35 +133,49 @@ III. Ocho vocales, que serán los siguientes:
 
 a) La persona titular de la Secretaría de las Mujeres;
 
-b) El titular de la Secretaría de Educación.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-c) El titular de la Secretaría de Desarrollo Social.
+b) La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+c) La persona titular de la Secretaría de Bienestar.
 
 > <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 d) La persona titular de la Secretaría de Cultura y Turismo.
 
-e) La Directora General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2023)</small>
+e) La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-f) Las Diputadas o los Diputados Presidentes de las Comisiones Legislativas de Salud, Asistencia y Bienestar Social; de Educación, Cultura, Ciencia y Tecnología; y de Familia y Desarrollo Humano, del Poder Legislativo del Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Invitados, que serán:
+f) La Diputada o Diputado que presida la Comisión Legislativa de Salud, Asistencia y Bienestar Social del Poder Legislativo del Estado de México.
 
-a) Tres representantes del sector social.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Personas Invitadas, que serán:
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a) Tres personas representantes del sector social.
 
 b) Tres del sector privado.
 
 c) Tres del sector académico.
 
-El Presidente determinará a los invitados, considerando a las organizaciones de la sociedad civil, organismos empresariales, empresas con responsabilidad social y/o micro pequeñas y medianas empresas mexicanas (MIPYMES) con causa y centros universitarios, cuya trayectoria profesional los vincule con los objetivos del Consejo Estatal.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los integrantes del Consejo Estatal tendrán carácter honorífico y derecho a voz y voto, con excepción del secretario y los invitados, quienes sólo tendrán derecho a voz.
+La Presidencia determinará a los invitados, considerando a las organizaciones de la sociedad civil, organismos empresariales, empresas con responsabilidad social y/o micro pequeñas y medianas empresas mexicanas (MIPYMES) con causa y centros universitarios, cuya trayectoria profesional los vincule con los objetivos del Consejo Estatal.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Las determinaciones del Consejo Estatal se tomarán por mayoría de votos. Los integrantes designarán un suplente con excepción del Secretario Técnico.
+Las personas integrantes del Consejo Estatal tendrán carácter honorífico y derecho a voz y voto, con excepción de quien ocupe el cargo de Secretaría e invitados, quienes sólo tendrán derecho a voz.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las determinaciones del Consejo Estatal se tomarán por mayoría de votos. Los integrantes designarán un suplente con excepción de quien ocupe el cargo de Secretaría Técnica.
 
 ###### Artículo 7.
 
@@ -207,9 +229,9 @@ V. Difundir la información sobre la prevención, tratamiento y combate del sobr
 
 VI. Estimular trabajos científicos, investigación, desarrollo del conocimiento y divulgación en materia de sobrepeso, obesidad y trastornos alimentarios en el Estado de México y municipios.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VII. Diseñar, instrumentar y llevar a cabo en coordinación con las secretarías de Educación, Desarrollo Social, y Cultura y Turismo, campañas de promoción sobre nutrición y alimentación sana, difundiendo en los centros de salud, hospitales, planteles escolares y espacios públicos, las causas que provocan el sobrepeso, la obesidad y los trastornos alimentarios, así como las formas de prevenirlas y atenderlas.
+VII. Diseñar, instrumentar y llevar a cabo en coordinación con las secretarías de Educación, Ciencia, Tecnología e Innovación, de Bienestar, y de Cultura y Turismo, campañas de promoción sobre nutrición y alimentación sana, difundiendo en los centros de salud, hospitales, planteles escolares y espacios públicos, las causas que provocan el sobrepeso, la obesidad y los trastornos alimentarios, así como las formas de prevenirlas y atenderlas.
 
 VIII. Proporcionar atención personalizada, interdisciplinaria e integral en el tratamiento del sobrepeso, la obesidad y los trastornos alimentarios, así como la canalización oportuna a la institución especializada correspondiente.
 
@@ -219,9 +241,11 @@ X. Realizar visitas para supervisar las condiciones de higiene y seguridad en la
 
 XI. Las demás que le confiera esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Secretaría de Educación:
+Corresponde a la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 I. Fomentar el consumo de comida saludable al interior de los planteles educativos del Estado de México y establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas, conforme a las disposiciones jurídicas que para tales efectos emita la autoridad federal competente.
 
@@ -249,11 +273,19 @@ XII. Aplicar y vigilar el cumplimiento de las disposiciones jurídicas relativas
 
 XIII. Generar una base de datos, desagregadas por grupos de edad, sexo y ubicación geográfica donde se registre la incidencia de trastornos alimentarios en la población, indicando peso, talla y masa corporal, con especial énfasis en los planteles de educación básica. Las autoridades educativas del plantel informarán a los padres de familia o tutores de los alumnos de la prevalencia de sobrepeso, obesidad y trastornos alimenticios para su conocimiento, orientación, prevención y atención.
 
-XIV. Las demás que le confiera la presente Ley y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE ABRIL DE 2024)</small>
+
+XIV. Fomentar por conducto de los organismos auxiliares competentes, las actividades deportivas y recreativas dirigidas a la población para contrarrestar el sedentarismo como causa de sobrepeso, la obesidad y los trastornos alimentarios.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE ABRIL DE 2024)</small>
+
+XV. Las demás que le confiera la presente Ley y otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 14.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar:
 
 I. Realizar campañas de información dirigidas a la población sobre la importancia de una alimentación adecuada, hábitos de vida saludable, beneficios de activación física, valoración de cultura de auto cuidado de la imagen.
 
@@ -271,7 +303,7 @@ V. Las demás que le confiera la presente Ley y otras disposiciones legales.
 
 Corresponde a la Secretaría de Cultura y Turismo:
 
-I. Fomentar actividades deportivas y recreativas dirigidas a la población para contrarrestar el sedentarismo como causa de sobrepeso, la obesidad y los trastornos alimentarios.
+I. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
 II. Impulsar actividades artísticas y culturales en museos, teatros y demás espacios dirigidas a la población para contrarrestar el sedentarismo como causa del sobrepeso y obesidad.
 
@@ -642,3 +674,39 @@ G.G. 29 DE SEPTIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
