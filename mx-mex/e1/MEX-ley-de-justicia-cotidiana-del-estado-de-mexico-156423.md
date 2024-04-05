@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-cotidiana-del-estado-de-mexico-156423"
 country: "mx"
 rank: "ley"
 publication_date: "2022-03-10"
-last_updated: "2022-03-10"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Primera del Número 46 de la Gaceta del Gobierno del Estado de México, el jueves 10 de marzo del 2022.
 
@@ -51,9 +51,11 @@ Esta Ley es de interés público y tiene por objeto promover en el Estado de Mé
 
 Así como, establecer las bases para la coordinación entre autoridades, instituciones públicas y privadas para acercar los servicios administrativos o jurídicos a las comunidades alejadas o de difícil acceso, a través de políticas públicas que fomenten e impulsen de manera permanente la justicia itinerante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-El Estado, a través de la Secretaría de Justicia y Derechos Humanos, fomentará la participación de las instituciones de gobierno, así como de la ciudadanía en la planeación e implementación y evaluación de acciones, políticas, programas y proyectos orientados a otorgar un auténtico acceso a la justicia cotidiana para abatir los conflictos jurídicos de las personas.
+El Estado, a través de la Consejería Jurídica, fomentará la participación de las instituciones de gobierno, así como de la ciudadanía en la planeación e implementación y evaluación de acciones, políticas, programas y proyectos orientados a otorgar un auténtico acceso a la justicia cotidiana para abatir los conflictos jurídicos de las personas.
 
 Asimismo, promoverá el uso de mecanismos alternativos de solución de controversias para la atención y resolución de conflictos cotidianos entre vecinos y miembros de las comunidades del Estado de México.
 
@@ -101,11 +103,15 @@ V. Mediación y Conciliación: A los mecanismos alternativos de solución de con
 
 VI. Mediación Vecinal: A los procedimientos de Mediación y Conciliación a que hace referencia la Ley de Mediación Conciliación y Promoción de la Paz Social para el Estado de México, enfocados a resolver conflictos que surgen en una comunidad de vecinos o entre Colonos, y
 
-VII. Secretaría: A la Secretaría de Justicia y Derechos Humanos.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+VII. Consejería: A la Consejería Jurídica del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 6.
 
-La aplicación e interpretación en el ámbito administrativo de la presente Ley corresponde al Ejecutivo Estatal, por conducto de la Secretaría.
+La aplicación e interpretación en el ámbito administrativo de la presente Ley corresponde al Ejecutivo Estatal, por conducto de la Consejería.
 
 ### CAPÍTULO SEGUNDO. DE LA ASISTENCIA JURÍDICA TEMPRANA
 
@@ -137,13 +143,17 @@ La justicia itinerante tiene por objeto acercar trámites y servicios a las comu
 
 Para efectos de lo dispuesto en el párrafo anterior, se deberá de considerar que la atención, trámites, servicios, materiales e insumos estén traducidos a los dialectos de los pueblos originarios de la entidad y comunidades indígenas en un lenguaje claro.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 13.
 
-La Secretaría establecerá de manera permanente programas de justicia itinerante, fomentando la participación de los Poderes Ejecutivo, Legislativo y Judicial del Estado, Órganos Constitucionales Autónomos, Municipios, y los sectores privado, académico y social.
+La Consejería establecerá de manera permanente programas de justicia itinerante, fomentando la participación de los Poderes Ejecutivo, Legislativo y Judicial del Estado, Órganos Constitucionales Autónomos, Municipios, y los sectores privado, académico y social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 14.
 
-La Secretaría será la instancia encargada de la coordinación de los programas, políticas y acciones de justicia itinerante en la entidad.
+La Consejería será la instancia encargada de la coordinación de los programas, políticas y acciones de justicia itinerante en la entidad.
 
 Las autoridades de la Administración Pública Estatal deberán alinear sus respectivos programas itinerantes a los criterios para tal efecto se establezcan en la presente Ley, así como las directrices y disposiciones normativas que al efecto emita la Secretaría.
 
@@ -151,9 +161,11 @@ Las autoridades de la Administración Pública Estatal deberán alinear sus resp
 
 Los entes públicos promoverán el acceso a la justicia itinerante con base en los principios de celeridad, inmediatez, publicidad, eficacia, expeditez, gratuidad, imparcialidad e igualdad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 16.
 
-La Secretaría podrá celebrar convenios con las diversas dependencias del Ejecutivo Estatal, de los poderes Legislativo y Judicial, órganos constitucionales autónomos y organismos internacionales, así como con instituciones privadas, académicas y sociales, a fin de implementar programas y acciones en materia de justicia itinerante.
+La Consejería podrá celebrar convenios con las diversas dependencias del Ejecutivo Estatal, de los poderes Legislativo y Judicial, órganos constitucionales autónomos y organismos internacionales, así como con instituciones privadas, académicas y sociales, a fin de implementar programas y acciones en materia de justicia itinerante.
 
 Asimismo, podrá convenir con las autoridades de los órdenes de Gobierno Federal y Municipal en la implementación de programas y políticas públicas que, de manera conjunta y coordinada, permitan acercar trámites y servicios a los sujetos a que hace referencia el artículo 12 de la presente Ley.
 
@@ -243,15 +255,19 @@ Los convenios que deriven de las mediaciones y conciliaciones realizadas ante la
 
 ### CAPÍTULO QUINTO. DE LA PROTECCIÓN Y DEFENSA DEL COLONO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 25.
 
-La Secretaría y los Ayuntamientos deberán promover y fomentar la protección y defensa de particulares y las agrupaciones, asociaciones u organizaciones de colonos en materia del régimen de propiedad en condominio, gestión social, y lo relacionado con los actos u omisiones que deriven de la inobservancia cotidiana de las disposiciones jurídicas que regulan los asentamientos humanos.
+La Consejería y los Ayuntamientos deberán promover y fomentar la protección y defensa de particulares y las agrupaciones, asociaciones u organizaciones de colonos en materia del régimen de propiedad en condominio, gestión social, y lo relacionado con los actos u omisiones que deriven de la inobservancia cotidiana de las disposiciones jurídicas que regulan los asentamientos humanos.
 
 Asimismo, llevará un registro de las referidas agrupaciones, asociaciones y organizaciones de colonos, observando que la integración de sus mesas directivas y representantes sea acorde con las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 26.
 
-En materia del régimen de propiedad en condominio, la Secretaría, en coordinación con los Ayuntamientos, tendrá las siguientes atribuciones:
+En materia del régimen de propiedad en condominio, la Consejería, en coordinación con los Ayuntamientos, tendrá las siguientes atribuciones:
 
 I. Llevar un registro de condominios, así como de sus respectivos comités de administración;
 
@@ -259,27 +275,35 @@ II. Brindar asesoría jurídica sobre las decisiones de las asambleas de condóm
 
 III. Otorgar cursos de capacitación en materia de atención, prevención y resolución de conflictos condominales, y en su caso, emitir las constancias de acreditación de los mismos.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 27.
 
-La Secretaría y los Ayuntamientos brindarán asesoría jurídica sobre la resolución de conflictos de colonos, los cuales podrán ser resueltos mediante los procedimientos de Mediación y Conciliación vecinal en términos de la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México.
+La Consejería y los Ayuntamientos brindarán asesoría jurídica sobre la resolución de conflictos de colonos, los cuales podrán ser resueltos mediante los procedimientos de mediación y conciliación vecinal en términos de la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 28.
 
-Los conflictos cotidianos entre vecinos, miembros de conjuntos urbanos, unidades habitacionales o condominios, así como en los asentamientos irregulares, podrán ser resueltos a través de la Mediación Vecinal ante la Secretaría o los Ayuntamientos.
+Los conflictos cotidianos entre vecinos, miembros de conjuntos urbanos, unidades habitacionales o condominios, así como en los asentamientos irregulares, podrán ser resueltos a través de la Mediación Vecinal ante la Consejería o los Ayuntamientos.
 
-Las autoridades administrativas y jurisdiccionales estatales y municipales propondrán a las partes la utilización de la mediación y la conciliación para que los lleven a cabo ante la Secretaría explicándoles su naturaleza y beneficios.
+Las autoridades administrativas y jurisdiccionales estatales y municipales propondrán a las partes la utilización de la mediación y la conciliación para que los lleven a cabo ante la Consejería explicándoles su naturaleza y beneficios.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 29.
 
-Los procedimientos de Mediación Vecinal que se desahoguen ante la Secretaría o los Ayuntamientos, se llevarán a cabo por personal certificado de conformidad con los principios, etapas, requisitos y efectos previstos en la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y su reglamento.
+Los procedimientos de Mediación Vecinal que se desahoguen ante la Consejería o los Ayuntamientos se llevarán a cabo por personal certificado de conformidad con los principios, etapas, requisitos y efectos previstos en la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y su reglamento.
 
 ###### Artículo 30.
 
 Los convenios suscritos en vía de Mediación Vecinal autorizados en términos de la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y su reglamento, surtirán los efectos y se podrán ejecutar en los términos previstos por dicha ley.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 31.
 
-En los procedimientos de Mediación Vecinal, en los que las partes no llegaren a un acuerdo, la Secretaría dejará a salvo los derechos de los particulares para que acudan ante la instancia administrativa o jurisdiccional que convenga a sus intereses.
+En los procedimientos de Mediación Vecinal, en los que las partes no llegaren a un acuerdo, la Consejería dejará a salvo los derechos de los particulares para que acudan ante la instancia administrativa o jurisdiccional que convenga a sus intereses.
 
 ## TRANSITORIOS
 
@@ -300,3 +324,41 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 8 de marzo de 2022.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, MTRO. ERNESTO NEMER ALVAREZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
