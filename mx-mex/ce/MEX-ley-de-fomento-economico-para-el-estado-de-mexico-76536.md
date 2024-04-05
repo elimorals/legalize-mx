@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2022-12-09"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -343,23 +343,27 @@ El Consejo es un órgano de gobierno, cuyo objeto es el diseño de políticas, e
 
 El Consejo se integrará por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un Presidente, que será el Secretario de Desarrollo Económico;
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Vicepresidente General, que será designado por el Secretario de Desarrollo Económico y presidirá el Consejo en ausencia del Presidente;
+II. Una Vicepresidencia General, que será designada por la persona titular de la Secretaría y presidirá el Consejo en ausencia de la Presidencia;
 
-III. Un Vicepresidente de Instrumentación Financiera, que será el Secretario de Finanzas;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Los titulares de:
+III. Una Vicepresidencia de Instrumentación Financiera, que estará a cargo de la persona titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Las personas titulares de:
 
 a). La Secretaría del Trabajo;
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-b). Secretaría de Desarrollo Urbano y Obra;
+b). La Secretaría de Desarrollo Urbano e Infraestructura;
 
 c). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -375,7 +379,9 @@ f). (DEROGADO, G.G. 27 DE JULIO DE 2015)
 
 g). La Secretaría de Movilidad;
 
-h). La Secretaría del Medio Ambiente;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+h). La Secretaría del Medio Ambiente y Desarrollo Sostenible;
 
 i). La Secretaría de Salud; y
 
@@ -383,35 +389,53 @@ i). La Secretaría de Salud; y
 
 j). La Secretaría de Cultura y Turismo.
 
-V. El Director General del Consejo Mexiquense de Ciencia y Tecnología;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VI. El Vocal Ejecutivo del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas;
+V. La persona titular de la Dirección General del Consejo Mexiquense de Ciencia y Tecnología;
 
-VII. Doce presidentes municipales, cuya incorporación al Consejo se definirá en el Reglamento;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2014)</small>
+VI. La persona titular de la Vocalía Ejecutiva del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas;
 
-VIII. Tres Diputados representantes del Poder Legislativo;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IX. Representantes de los organismos empresariales formalmente constituidos con alcance estatal, agrupados en las principales ramas de actividad económica, así como de los organismos patronales. Dicha representación estará definida en el Reglamento;
+VII. Doce presidentes o presidentas municipales, cuya incorporación al Consejo se definirá en el Reglamento;
 
-X. Un representante de la Universidad Autónoma del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XI. Un representante del Colegio de Notarios del Estado de México;
+VIII. Tres Diputados o Diputadas representantes del Poder Legislativo;
 
-XII. Un representante del Congreso del Trabajo en el Estado de México; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XIII. Un representante de las incubadoras del Sistema Estatal.
+IX. Personas representantes de los organismos empresariales formalmente constituidos con alcance estatal, agrupados en las principales ramas de actividad económica, así como de los organismos patronales. Dicha representación estará definida en el Reglamento;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Una persona representante de la Universidad Autónoma del Estado de México;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. Una persona representante del Colegio de Notarios del Estado de México;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XII. Una persona representante del Congreso del Trabajo en el Estado de México; y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIII. Una persona representante de las incubadoras del Sistema Estatal.
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 Los cargos dentro del Consejo son honoríficos. Los integrantes señalados en las fracciones VIII a la XIII, tendrán derecho a voz, pero no a voto.
 
-Podrán concurrir al Consejo, los titulares de las dependencias que determine el Presidente del Consejo, quien podrá invitar, además, a las personas u organizaciones que considere pertinente cuando deban discutirse asuntos que eventualmente los involucren, mismos que tendrán derecho a voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+Podrán concurrir al Consejo, las personas titulares de las dependencias que determine la persona titular de la Presidencia del Consejo, quien podrá invitar, además, a las personas u organizaciones que considere pertinente cuando deban discutirse asuntos que eventualmente los involucren, mismos que tendrán derecho a voz.
 
-El Consejo tendrá un Secretario Técnico, que será designado por el Presidente, quien será responsable de prestar los auxilios necesarios para que el Consejo pueda cumplir con las funciones que tiene asignadas.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El Consejo tendrá una Secretaría Técnica, a cargo de la persona que designe la persona titular de la Presidencia, quien será responsable de prestar los auxilios necesarios para que el Consejo pueda cumplir con las funciones que tiene asignadas.
 
 ###### Artículo 11.
 
@@ -547,7 +571,9 @@ En sus procedimientos de licitación para adquisiciones y contrataciones, las de
 
 Tratándose de la adquisición de bienes y servicios que no excedan de ocho mil veces el valor diario de la UMA vigente, se procurará que en ellas participen preferentemente las MIPYMES mexiquenses.
 
-La Secretaría de Finanzas establecerá las medidas necesarias para asegurar el cumplimiento de ambas disposiciones.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Oficialía Mayor establecerá las medidas necesarias para asegurar el cumplimiento de ambas disposiciones.
 
 ###### Artículo 20.
 
@@ -663,43 +689,69 @@ La organización y el funcionamiento del Instituto se regularán por el Reglamen
 
 El Consejo Directivo, estará integrado por:
 
-I. Un Presidente, quien será el Secretario de Desarrollo Económico;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Secretario, quien será el Director General del Instituto;
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría;
 
-III. Un Comisario, quien será el representante de la Secretaría de la Contraloría; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. Una Secretaría, que estará a cargo de la persona titular de la Dirección General del Instituto;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría; y
 
 IV. Once vocales, quienes serán:
 
-a). Un representante de la Secretaría de Finanzas;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+a). Una persona representante de la Secretaría de Finanzas;
 
-b) Un representante de la Secretaría del Trabajo;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-c). Un representante de la Secretaría de Desarrollo Social;
+b). Una persona representante de la Secretaría del Trabajo;
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-d). Un representante de la Secretaría del Campo;
+c). Una persona representante de la Secretaría de Bienestar;
 
-e). El Director General de Atención Empresarial;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-f). Un representante de la Universidad Autónoma del Estado de México.
+d). Una persona representante de la Secretaría del Campo;
 
-A invitación del Presidente del Consejo Directivo:
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-g). Un representante de la Legislatura;
+e). La persona titular de la Dirección General de Atención Empresarial;
 
-h). El Director Estatal de Nacional Financiera, S.N.C., Estado de México;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-i). El Delegado Federal de la Secretaría de Economía en el Estado de México; y
+f). Una persona representante de la Universidad Autónoma del Estado de México.
 
-j). Tres representantes de las organizaciones empresariales reconocidas en el Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+A invitación de la persona titular de la Presidencia del Consejo Directivo:
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+g). Una persona representante de la Legislatura;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+h). La persona titular de la Dirección Estatal de Nacional Financiera, S.N.C., Estado de México;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+i). El Delegado o Delegada Federal de la Secretaría de Economía en el Estado de México; y
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+j). Tres personas representantes de las organizaciones empresariales reconocidas en el Estado de México.
 
 Podrá invitarse a representantes de los sectores público y privado vinculados con proyectos específicos del Instituto, quienes tendrán únicamente voz. Por cada integrante del Consejo Directivo se nombrará a un suplente a propuesta del Titular. El cargo de los miembros del Consejo Directivo será honorífico.
 
-Los miembros del Consejo Directivo tendrán voz y voto, excepto el Secretario y el Comisario, y los que tengan el carácter de invitados, quienes sólo tendrán voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes del Consejo Directivo tendrán voz y voto, excepto las personas titulares de la Secretaría y Comisaría, y los que tengan el carácter de invitados, quienes sólo tendrán voz.
 
 ###### Artículo 26.
 
@@ -731,7 +783,9 @@ IX. Analizar y aprobar el informe anual de actividades que rinda el Director Gen
 
 X. Solicitar en cualquier tiempo al Director General del Instituto informes del estado que guardan los programas y presupuestos a cargo del Instituto;
 
-XI. Promover ante la Secretaría las acciones correspondientes, a fin de que ésta pueda acordar con la Secretaría de Finanzas la asignación de los recursos necesarios, para la instrumentación de las acciones comprendidas en el artículo 23 de esta Ley, cuando se precise de la dotación de recursos públicos para su instrumentación; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. Promover ante la Secretaría las acciones correspondientes, a fin de que ésta pueda acordar con la Secretaría de Finanzas o la Oficialía Mayor, según sea el caso, la asignación de los recursos necesarios, para la instrumentación de las acciones comprendidas en el artículo 23 de esta Ley, cuando se precise de la dotación de recursos públicos para su instrumentación; y
 
 XII. Las demás que le confiere esta Ley y otras disposiciones legales.
 
@@ -883,15 +937,21 @@ XV. Crear los programas específicos de formación técnica y profesional de rec
 
 XVI. Las demás que establezca la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 36.
 
-La dirección y administración del IIFAEM está a cargo de un Consejo Directivo y un Director General.
+La dirección y administración del IIFAEM está a cargo de un Consejo Directivo y una Dirección General.
 
-El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, y de la Contraloría.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, Ciencia, Tecnología e Innovación, y de la Contraloría.
 
 Son invitados permanentes del Consejo Directivo, un representante de los artesanos por cada región de desarrollo artesanal.
 
-El Director General será nombrado por el Gobernador del Estado, a propuesta del Presidente del Consejo Directivo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado, a propuesta de la Presidencia del Consejo Directivo.
 
 La organización y funcionamiento del IIFAEM se regirá en términos del Reglamento Interno que al efecto expida el Consejo Directivo.
 
@@ -933,21 +993,27 @@ V. Apoyar a las dependencias y organismos auxiliares de la administración públ
 
 VI. Coadyuvar con la autoridad federal para mantener actualizado el padrón de concesionarios mineros; y
 
-VII. Participar con la Secretaría del Medio Ambiente y los municipios, en su caso, en la elaboración y desarrollo de programas de mitigación de impacto ambiental provocado por la actividad minera, disposición de residuos sólidos municipales, contaminación de mantos acuíferos y otros en los que se involucre el entorno geológico.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VII. Participar con la Secretaría del Medio Ambiente y Desarrollo Sostenible y los municipios, en su caso, en la elaboración y desarrollo de programas de mitigación de impacto ambiental provocado por la actividad minera, disposición de residuos sólidos municipales, contaminación de mantos acuíferos y otros en los que se involucre el entorno geológico.
 
 Para la instrumentación y desarrollo de los proyectos comprendidos en la fracción I de este artículo y con el objeto de promover la dotación oportuna y suficiente de los recursos que se precisen para tal objeto, el IFOMEGEM promoverá ante la Secretaría las acciones necesarias para que ésta pueda acordar con la Secretaría de Finanzas la asignación de los recursos necesarios, de conformidad con las previsiones y prioridades presupuestales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 39.
 
-La dirección y administración del IFOMEGEM está a cargo de un Consejo Directivo y un Director General.
+La dirección y administración del IFOMEGEM está a cargo de un Consejo Directivo y una Dirección General.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales, que son los representantes de las secretarías de Finanzas, de la Contraloría, de Desarrollo Urbano y Obra, y del Medio Ambiente; el Vocal Ejecutivo de la Comisión del Agua del Estado de México y el Coordinador General de Protección Civil.
+El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales, que son los representantes de las secretarías de Finanzas, de la Contraloría, de Desarrollo Urbano e Infraestructura, del Medio Ambiente y Desarrollo Sostenible; del Agua y la persona titular de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
 Son invitados permanentes del Consejo Directivo, los delegados en el Estado, de la Secretaría de Economía del Gobierno Federal y de la Procuraduría Federal de Protección al Ambiente; el Director General del Instituto de Información e Investigación Geográfica Estadística y Catastral del Estado de México; el Director de la Facultad de Geografía de la Universidad Autónoma del Estado de México y el Director General de Promoción Minera, de la Coordinación General de Minería, de la Secretaría de Economía.
 
-El Director General será nombrado por el Gobernador del Estado, a propuesta del presidente del Consejo Directivo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado, a propuesta del presidente del Consejo Directivo.
 
 La organización y funcionamiento del IFOMEGEM se regirá por el Reglamento Interno que al efecto expida el Consejo Directivo.
 
@@ -1253,35 +1319,47 @@ La Comisión es un órgano de coordinación interinstitucional responsable de da
 
 La Comisión se integra por:
 
-I. Un Presidente, que será el Titular de la Secretaría;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Secretario Técnico, que será el Director General de Atención Empresarial de la Secretaría; y
+I. Una Presidencia, que estará a cargo de la persona Titular de la Secretaría;
 
-III. Un vocal por cada una de las unidades administrativas (sic) dependencias siguientes:
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+II. Una Secretaría Técnica, que estará a cargo de la persona titular de la Dirección General de Atención Empresarial de la Secretaría; y
 
-a). Secretaría General de Gobierno: Coordinación General de Protección Civil;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+III. Una vocalía por cada una de las dependencias siguientes:
 
-b). Secretaría de Desarrollo Urbano y Obra: Dirección General de Operación Urbana;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a). Secretaría General de Gobierno: Coordinación General de Protección Civil y Gestión Integral del Riesgo;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b). Secretaría de Desarrollo Urbano e Infraestructura: Dirección General de la Comisión de Impacto Estatal;
 
 c). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-d). Secretaría del Medio Ambiente: Direcciones Generales de Ordenamiento e Impacto Ambiental, y de Prevención y Control de la Contaminación Atmosférica;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-e). Comisión del Agua del Estado de México;
+d). Secretaría del Medio Ambiente y Desarrollo Sostenible: Direcciones Generales para el Territorio Sostenible, y de Protección y Restauración del Medio Ambiente;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+e). Secretaría del Agua: Comisión del Agua del Estado de México;
 
 > <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 f) Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
-> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-g). Secretaría de Justicia y Derechos Humanos: Instituto de la Función Registral.
+g). Consejería Jurídica: Instituto de la Función Registral.
 
-En ausencia del Presidente en las sesiones de la Comisión, corresponderá al Secretario Técnico cumplir sus funciones.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En ausencia de la persona titular de la Presidencia en las sesiones de la Comisión, corresponderá a la persona titular de la Secretaría Técnica cumplir sus funciones.
 
 ###### Artículo 62.
 
@@ -1363,13 +1441,17 @@ En el caso de incentivos fiscales, la Secretaría de Finanzas podrá requerir al
 
 ### CAPITULO SEGUNDO. De las Infracciones y Sanciones
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 71.
 
-Las infracciones administrativas que se generen por el incumplimiento al contenido de esta Ley, se sancionarán de conformidad con lo previsto en el Código de Procedimientos Administrativos del Estado de México y la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+Las infracciones administrativas que se generen por el incumplimiento al contenido de esta Ley, se sancionarán de conformidad con lo previsto en el Código de Procedimientos Administrativos del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 72.
 
-Para los efectos de esta Ley y su Reglamento, sin perjuicio de las infracciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios, constituyen infracciones las conductas realizadas por servidores públicos que provoquen o puedan provocar la obstrucción de la gestión empresarial, las cuales pueden consistir en:
+Para los efectos de esta Ley y su Reglamento, sin perjuicio de las infracciones previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, constituyen infracciones las conductas realizadas por servidores públicos que provoquen o puedan provocar la obstrucción de la gestión empresarial, las cuales pueden consistir en:
 
 I. Alteración de reglas y procedimientos;
 
@@ -1389,7 +1471,9 @@ VIII. Solicitud de donaciones en dinero o en especie, para fines distintos a los
 
 IX. Cualquiera otra que pueda generar, intencionalmente, perjuicios o atrasos para la instalación, apertura, operación y/o ampliación de las empresas.
 
-Los servidores públicos que incurran en los supuestos previstos en el presente artículo, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los servidores públicos que incurran en los supuestos previstos en el presente artículo serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 73.
 
@@ -1978,3 +2062,39 @@ G.G. 9 DE DICIEMBRE DE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
