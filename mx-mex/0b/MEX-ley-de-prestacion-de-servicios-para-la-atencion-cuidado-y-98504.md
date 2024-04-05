@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-98504
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-05"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera en la Gaceta del Gobierno del Estado de México, el miércoles 5 de febrero de 2014.
 
@@ -219,13 +219,19 @@ b) Promover la participación y coordinación con los sistemas municipales del D
 
 c) Difundir entre los sistemas municipales del DIF las normas y lineamientos que regirán el desarrollo del servicio.
 
-d) Proporcionar la capacitación necesaria que requieren las auxiliares educativas y docentes que operen el Programa de Estimulación Temprana, en coordinación con los sistemas municipales del DIF.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-e) Promover en coordinación con los sistemas municipales del DIF que docentes y auxiliares cuenten con el perfil profesional requerido en la normatividad aplicable.
+d) Proporcionar la capacitación necesaria que requieren las personas auxiliares educativas y docentes que operen el Programa de Estimulación Temprana, en coordinación con los sistemas municipales del DIF.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+e) Promover en coordinación con los sistemas municipales del DIF que personal docente y auxiliar cuenten con el perfil profesional requerido en la normatividad aplicable.
 
 f) Garantizar que los insumos alimentarios que integren las raciones y dotaciones, cumplan con las especificaciones técnicas y normas vigentes.
 
-g) Coordinarse con la Secretaría de Educación para el seguimiento y vigilancia educativa.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+g) Coordinarse con la Secretaría de Educación, Ciencia, Tecnología e Innovación para el seguimiento y vigilancia educativa.
 
 h) Realizar visitas de supervisión periódicas a los centros de atención operadas por el Sistema para el Desarrollo Integral de la Familia y los sistemas municipales del DIF.
 
@@ -255,7 +261,9 @@ f) Establecer programas de formación, actualización y capacitación para el pe
 
 g) Las demás necesarias para el cumplimiento del modelo de atención con enfoque integral para la educación inicial.
 
-III. A la Secretaría de Educación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRFAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+III. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 a) Expedir los lineamientos para la aplicación del modelo de atención con enfoque integral para la educación inicial.
 
@@ -301,7 +309,9 @@ j) Realizar visitas de verificación en coordinación con las autoridades munici
 
 k) Las demás que le confieran otros ordenamientos jurídicos.
 
-V. Secretaría de Desarrollo Social:
+> <small>(REFORMADO [N. DE E. ESTE PÁRFAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Secretaría de Bienestar:
 
 a) Coadyuvar en la elaboración del Programa Estatal de Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil del Estado de México.
 
@@ -319,7 +329,9 @@ VI. A la Comisión de Derechos Humanos del Estado de México:
 
 a) Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos humanos de niñas y niños.
 
-b) Coordinar acciones con la Secretaría de Educación con el fin de promover y fomentar la cultura del reconocimiento y respeto de los derechos humanos.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b) Coordinar acciones con la Secretaría de Educación, Ciencia, Tecnología e Innovación con el fin de promover y fomentar la cultura del reconocimiento y respeto de los derechos humanos.
 
 c) Proporcionar orientación y asesoría jurídica a las personas que lo soliciten.
 
@@ -391,9 +403,9 @@ III. Celebrar convenios de coordinación en la materia con los demás órdenes d
 
 IV. Coadyuvar con el Consejo Nacional;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Establecer y operar el Registro Estatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, en coordinación con las secretarías de Educación, Desarrollo Social, Salud y los ayuntamientos;
+V. Establecer y operar el Registro Estatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, en coordinación con las secretarías de Educación, Ciencia, Tecnología e Innovación, de Bienestar, de Salud y los ayuntamientos;
 
 VI. Decretar las medidas cautelares necesarias a los Centros de Atención;
 
@@ -559,9 +571,11 @@ II. Diseñar políticas públicas, estrategias y acciones coordinadas para asegu
 
 III. Generar y ejecutar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 29.
 
-El Consejo se integrará con los titulares de las siguientes dependencias:
+El Consejo se integrará con las personas titulares de las siguientes dependencias:
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -571,13 +585,17 @@ l. Del Sistema para el Desarrollo Integral de la Familia del Estado de México, 
 
 II. De la Secretaría de Salud;
 
-III. De la Secretaría de Educación;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. De la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
 IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 V. De la Secretaría General de Gobierno;
 
-VI. De la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VI. De la Secretaría de Bienestar;
 
 VII. De la Comisión de Derechos Humanos del Estado de México.
 
@@ -837,11 +855,11 @@ El personal que labore en los Centros de Atención garantizará un ambiente de r
 
 ### CAPÍTULO XII. De las visitas de verificación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 64.
 
-Las Secretarías de Educación, de Salud y de Seguridad y los ayuntamientos, en el ámbito de sus respectivas competencias y conforme lo determine su reglamentación, deberán efectuar, cuando menos cada seis meses, visitas de verificación a los Centros de Atención y aplicarán, cuando proceda, las sanciones correspondientes, sin perjuicio de la supervisión y seguimiento que realicen las autoridades federales en el ámbito de su competencia.
+Las Secretarías de Educación, Ciencia, Tecnología e Innovación, de Salud y de Seguridad y los ayuntamientos, en el ámbito de sus respectivas competencias y conforme lo determine su reglamentación, deberán efectuar, cuando menos cada seis meses, visitas de verificación a los Centros de Atención y aplicarán, cuando proceda, las sanciones correspondientes, sin perjuicio de la supervisión y seguimiento que realicen las autoridades federales en el ámbito de su competencia.
 
 Estas verificaciones deben ser realizadas garantizando la seguridad, atención y cuidados necesarios hacia las niñas y los niños de los Centro de Atención.
 
@@ -1110,3 +1128,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
