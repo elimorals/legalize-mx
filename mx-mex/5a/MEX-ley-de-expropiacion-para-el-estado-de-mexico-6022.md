@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-expropiacion-para-el-estado-de-mexico-6022"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-17"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 1996.
 
@@ -149,11 +149,11 @@ II. Los ayuntamientos y sus organismos auxiliares en el ámbito de su competenci
 
 III. Las organizaciones de ciudadanos constituidas en términos de ley, a través del ayuntamiento del municipio respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 7.
 
-El escrito por el que se solicite la expropiación, deberá dirigirse al Gobernador del Estado por conducto de la Secretaría de Justicia y Derechos Humanos y contendrá los siguientes requisitos:
+El escrito por el que se solicite la expropiación, deberá dirigirse a la persona titular del Poder Ejecutivo del Estado por conducto de la Consejería Jurídica y contendrá los siguientes requisitos:
 
 I. Nombre y domicilio del solicitante;
 
@@ -175,11 +175,11 @@ VIII. El plazo máximo en el que se deberá destinar el bien expropiado a la cau
 
 Cuando la solicitud de expropiación recaiga en bienes de ausentes, menores o incapacitados, el procedimiento administrativo se entenderá con los representantes que se designen en términos de las disposiciones legales respectivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 9.
 
-La Secretaría de Justicia y Derechos Humanos sustanciará el trámite respectivo y pedirá a las dependencias u organismos auxiliares competentes los informes, dictámenes, peritajes y demás elementos para acreditar la idoneidad material y técnica del bien de que se trate o la existencia del valor histórico, artístico o cultural, así como la causa de utilidad pública en que se sustente.
+La Consejería Jurídica sustanciará el trámite respectivo y pedirá a las dependencias u organismos auxiliares competentes los informes, dictámenes, peritajes y demás elementos para acreditar la idoneidad material y técnica del bien de que se trate o la existencia del valor histórico, artístico o cultural, así como la causa de utilidad pública en que se sustente.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -237,11 +237,11 @@ Los Tribunales Judiciales y Administrativos del Estado auxiliarán a las autorid
 
 ### CAPITULO III. DE LA EJECUCION DEL DECRETO EXPROPIATORIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 14.
 
-Decretada la expropiación, la Secretaría General de Gobierno, por conducto de la Dirección General de Gobierno que corresponda, en coordinación con la Secretaría de Justicia y Derechos Humanos, procederá a la ejecución, conforme al siguiente procedimiento:
+Decretada la expropiación, la Secretaría General de Gobierno, por conducto de la unidad administrativa que corresponda, en coordinación con la Consejería Jurídica, procederá a la ejecución, conforme al siguiente procedimiento:
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -315,11 +315,11 @@ Si el titular de la propiedad expropiada está de acuerdo con el monto de la ind
 
 Cuando el titular del bien expropiado se rehúse a recibir el importe del pago de la indemnización, se le notificará que ésta queda a su disposición en la Secretaría de Finanzas donde podrá ser reclamada en un plazo de 5 años a partir de ser notificado. Si en este plazo no es reclamada ésta pasará a beneficio del Estado y éste podrá disponer de la misma libremente y sin responsabilidad.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 20.
 
-Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Secretaría de Justicia y Derechos Humanos, la que representará al Ejecutivo ante el Tribunal de Justicia Administrativa del Estado de México en el juicio pericial en que se determine el valor definitivo.
+Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Consejería Jurídica, la que representará al Ejecutivo ante el Tribunal de Justicia Administrativa del Estado de México en el juicio pericial en que se determine el valor definitivo.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -361,9 +361,9 @@ a) El bien expropiado no es destinado a la causa de utilidad pública dentro del
 
 b) Se le dé un uso distinto al bien expropiado.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Aprobada la reversión del bien, el afectado deberá reintegrar a la Secretaría de Finanzas del Gobierno del Estado el monto pagado como indemnización, a valor actualizado. La Secretaría de Justicia y Derechos Humanos ordenará la devolución del bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México, y en el Registro Administrativo de la Propiedad Pública.
+Aprobada la reversión del bien, el afectado deberá reintegrar a la Secretaría de Finanzas del Gobierno del Estado el monto pagado como indemnización, a valor actualizado. La Consejería Jurídica ordenará la devolución del bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México y en el Registro Administrativo de la Propiedad Pública.
 
 ###### Artículo 28.
 
@@ -620,3 +620,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos. materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
