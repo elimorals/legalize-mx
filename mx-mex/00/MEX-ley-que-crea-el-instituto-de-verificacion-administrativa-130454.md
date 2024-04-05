@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-verificacion-administrativa-130454
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2021-01-05"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta al Número 52 de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -45,11 +45,11 @@ Ley que crea el Instituto de Verificación Administrativa del Estado de México
 
 ### Capítulo I. Naturaleza jurídica y objeto
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto crear el Instituto de Verificación Administrativa del Estado de México, como órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos, con autonomía técnica y operativa en el ejercicio de sus atribuciones, responsable de la función de verificación en el Estado de México.
+La presente Ley es de orden público e interés general y tiene por objeto crear el Instituto de Verificación Administrativa del Estado de México, como órgano desconcentrado de la Consejería Jurídica, con autonomía técnica y operativa en el ejercicio de sus atribuciones, responsable de la función de verificación en el Estado de México.
 
 Las disposiciones de la presente Ley son de observancia general en el territorio del Estado de México. Corresponde al instituto de Verificación Administrativa del Estado de México vigilar su debida observancia.
 
@@ -75,9 +75,9 @@ IV. Ley: A la Ley que crea el Instituto de Verificación Administrativa del Esta
 
 V. Reglamento Interior: Al Reglamento Interior del Instituto de Verificación Administrativa del Estado de México;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VI. Secretaría: a la Secretaría de Justicia y Derechos Humanos;
+VI. Consejería Jurídica: a la Consejería Jurídica del Poder Ejecutivo del Estado de México;
 
 VII. Sistema: Al Sistema de Verificaciones y Estadísticas del Instituto de Verificación Administrativa del Estado de México;
 
@@ -163,11 +163,13 @@ A falta de disposición expresa en la presente Ley, se aplicará de manera suple
 
 ### Capítulo I. De la Dirección General
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 6.
 
-La administración del Instituto estará a cargo de un Director General, quien será nombrado y removido por la o el titular de la Secretaría y será la máxima autoridad responsable del cumplimiento de las disposiciones jurídicas en materia de verificación administrativa, dentro del ámbito de competencia del Instituto.
+La administración del Instituto estará a cargo de una persona titular de la Dirección General, quien será nombrada y removida por la o el titular de la Consejería Jurídica y será la máxima autoridad responsable del cumplimiento de las disposiciones jurídicas en materia de verificación administrativa, dentro del ámbito de competencia del Instituto.
 
-La o el titular del Director General será suplido en sus ausencias temporales, menores de quince días hábiles, por la o el servidor público de la jerarquía inmediata inferior que designe. En las mayores de quince días hábiles, por la o el servidos (sic) público que designe la o el titular de la Secretaría.
+La persona titular de la Dirección General será suplida en sus ausencias temporales, menores de quince días hábiles, por la o el servidor público de la jerarquía inmediata inferior que designe. En las mayores de quince días hábiles, por la persona servidora pública que designe la persona titular de la Consejería Jurídica.
 
 ###### Artículo 7.
 
@@ -193,29 +195,47 @@ III. Implementar, coordinar y operar el Sistema y mantenerlo actualizado;
 
 IV. Autorizar, coordinar y ejecutar la práctica de las visitas de verificación en las materias competencia del Instituto, para corroborar la permanencia de las condiciones bajo las cuales fue emitida la Evaluación de Impacto Estatal y las evaluaciones técnicas de impacto emitidas por las dependencias y organismo auxiliares estatales competentes;
 
-V. Atender los reportes o inconformidades que por escrito presenten las y los ciudadanos respecto de la ejecución de visitas de verificación, así como de cualquier otro asunto competencia del Instituto, dando vista en su caso, al órgano de control interno correspondiente;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Atender los reportes o inconformidades que por escrito presenten las y los ciudadanos respecto de la ejecución de visitas de verificación, así como de cualquier otro asunto competencia del Instituto, dando vista en su caso, al órgano interno de control correspondiente;
 
 VI. Requerir a las autoridades competentes copias simples o certificadas de cualquier documento o información que resulte necesaria, así como las determinaciones, estados procesales y procedimentales ventilados ante dichas dependencias, relativos a las visitas practicadas, para el ejercicio de las atribuciones del Instituto;
 
 VII. Establecer los lineamientos y criterios para el ejercicio de la actividad verificadora;
 
-VIII. Nombrar y remover a las y los servidores públicos del instituto, previo acuerdo de la o el titular de la Secretaría;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IX. Someter a la aprobación de la o el titular de la Secretaría el programa de estímulos al personal del Instituto;
+VIII. Nombrar y remover a las personas servidoras públicas del instituto, previo acuerdo de la o el titular de la Consejería Jurídica;
 
-X. Someter a la consideración de la o el titular de la Secretaría el programa anual de trabajo y las políticas de actuación del Instituto;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IX. Someter a la aprobación de la persona titular de la Consejería Jurídica el programa de estímulos al personal del Instituto;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Someter a la consideración de la persona titular de la Consejería Jurídica el programa anual de trabajo y las políticas de actuación del Instituto;
 
 XI. Establecer y mantener un sistema de estadística que permita determinar los indicadores de gestión e impacto del Instituto;
 
-XII. Someter a la autorización de la o el titular de la Secretaría los proyectos del presupuesto anual de ingresos y de egresos del Instituto;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XIII. Informar a la o el titular de la Secretaría de las actividades del Instituto;
+XII. Someter a la autorización de la persona titular de la Consejería Jurídica los proyectos del presupuesto anual de ingresos y de egresos del Instituto;
 
-XIV. Proponer a la o el titular de la Secretaria proyectos de iniciativas de decreto para expedir y reformar disposiciones legales orientadas a mejorar el funcionamiento del Instituto, así como a hacer más eficiente la función de verificación administrativa;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XV. Proponer a la o el titular de la Secretaría proyectos de reglamento interior, estructura orgánica, manuales administrativos que rijan la organización y el funcionamiento del Instituto;
+XIII. Informar a la persona titular de la Consejería Jurídica de las actividades del Instituto:
 
-XVI. Proponer a la o el titular de la Secretaría los programas y proyectos del Instituto, así como sus modificaciones;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIV. Proponer a la persona titular de la Consejería Jurídica proyectos de iniciativas de decreto para expedir y reformar disposiciones legales orientadas a mejorar el funcionamiento del Instituto, así como a hacer más eficiente la función de verificación administrativa;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XV. Proponer a la persona titular de la Consejería Jurídica proyectos de reglamento interior, estructura orgánica, manuales administrativos que rijan la organización y el funcionamiento del Instituto;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVI. Proponer a la persona titular de la Consejería Jurídica los programas y proyectos del Instituto, así como sus modificaciones;
 
 XVII. Dar seguimiento a las acciones que se implementen en las diversas áreas del Instituto para la mejora en sus procesos;
 
@@ -227,17 +247,25 @@ XVIII. Coordinar y ejecutar la práctica de visitas colegiadas solicitadas por l
 
 XIX. Remitir a la Comisión las constancias o informes derivados de las visitas colegiadas y de las visitas de verificación realizadas, en las materias competencia del Instituto;
 
-XX. Someter a la autorización de la o el titular de la Secretaría la delegación de sus facultades en servidores públicos subalternos del Instituto en los juicios, procedimientos y demás actos en los que éste sea parte;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XX. Someter a la autorización de la persona titular de la Consejería Jurídica la delegación de sus facultades en servidores públicos subalternos del Instituto en los juicios, procedimientos y demás actos en los que éste sea parte;
 
 XXI. Resolver los recursos, medios de impugnación y demás procedimientos que le correspondan, de conformidad con los ordenamientos legales aplicables, que serán tramitados, substanciados y puestos en estado de resolución;
 
-XXII. Ejecutar los acuerdos y disposiciones que dicte la o el titular de la Secretaría, proveyendo las medidas necesarias para su cumplimiento;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XXIII. Proponer la o el titular de la Secretaría las políticas y lineamientos generales del Instituto;
+XXII. Ejecutar los acuerdos y disposiciones que dicte la persona titular de la Consejería Jurídica, proveyendo las medidas necesarias para su cumplimiento;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXIII. Proponer la persona titular de la Consejería Jurídica las políticas y lineamientos generales del Instituto;
 
 XXIV. Impulsar la unificación de criterios en el desarrollo de las actividades del Instituto;
 
-XXV. Celebrar convenios, contratos, acuerdos, instrumentos, declaraciones, certificaciones y demás instrumentos y documentos jurídicos, con los sectores público, privado y social en representación y en las materias competencia del Instituto, previa autorización de la o el titular de la Secretaría;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXV. Celebrar convenios, contratos, acuerdos, instrumentos, declaraciones, certificaciones y demás instrumentos y documentos jurídicos, con los sectores público, privado y social en representación y en las materias competencia del Instituto, previa autorización de la persona titular de la Consejería Jurídica;
 
 XXVI. Promover, coordinar y vigilar la ejecución de los programas y acciones orientadas a modernizar la función de verificación administrativa y hacer más eficiente la prestación de los servicios;
 
@@ -249,7 +277,9 @@ XXIX. Impulsar la actualización, capacitación y profesionalización de los ser
 
 XXX. Solicitar a las autoridades competentes la plantilla de las y los servidores públicos con funciones de verificación, supervisión e inspección en materias competencia del Instituto a efecto de mantener actualizado el Sistema; y
 
-XXXI. Las demás que le confieran esta Ley y otras disposiciones jurídicas, así como las que le encomiende la o el titular de la Secretaria.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXXI. Las demás que le confieran esta Ley y otras disposiciones jurídicas, así como las que le encomiende la persona titular de la Consejería Jurídica.
 
 ### Capítulo II. De la Organización y Funcionamiento
 
@@ -492,3 +522,39 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
