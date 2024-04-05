@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-victimas-del-estado-de-mexico-109519"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-17"
-last_updated: "2023-05-11"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 17 de agosto de 2015.
 
@@ -89,11 +89,13 @@ Son sujetos protegidos por la presente Ley, las víctimas y ofendidos del delito
 
 Son autoridades encargadas de la aplicación de esta Ley:
 
-I. El Gobernador.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+I. La persona titular del Poder Ejecutivo del Estado.
 
-II. La Secretaría de Justicia y Derechos Humanos.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. La Consejería Jurídica.
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -189,9 +191,9 @@ XVII. Fiscalía: A la Fiscalía General del Estado de México.
 
 XVIII. Registro: Al Registro Estatal de Víctimas.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XIX. Secretaría: A la Secretaría de Justicia y Derechos Humanos.
+XIX. Consejería Jurídica: A la Consejería Jurídica del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -619,11 +621,11 @@ Las medidas procedentes de atención, protección, apoyo o servicios otorgados p
 
 Las dependencias y órganos competentes para la aplicación de esta Ley están obligadas a proporcionar atención a las víctimas y ofendidos, respetando siempre los principios establecidos en la presente Ley, y en particular el enfoque diferencial para las mujeres, niñas, niños y adolescentes, personas con discapacidad, adultos mayores y población indígena, en sus respectivos ámbitos de competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15.
 
-La Secretaría, en materia de atención a las víctimas y ofendidos, ejercerá las atribuciones siguientes:
+La Consejería Jurídica, en materia de atención a las víctimas y ofendidos, ejercerá las atribuciones siguientes:
 
 > <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -795,9 +797,11 @@ En cada una de las entidades públicas que brinden servicios, asistencia y atenc
 
 En caso de que la institución médica a la que acude o es enviada la víctima u ofendido, no cumpla con lo señalado en los artículos anteriores y sus costos hayan sido cubiertos por la víctima u ofendido, el Fondo se los reembolsará de manera completa previa solicitud y procedencia que determine la Comisión Ejecutiva, sometiéndose dichas autoridades al procedimiento para solicitar el reembolso a que se refiere este artículo y conforme a lo establecido en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Educación, en materia de atención a las víctimas y ofendidos del delito ejercerá las atribuciones siguientes:
+La Secretaría de Educación, Ciencia, Tecnología e Innovación, en materia de atención a las víctimas y ofendidos del delito, ejercerá las atribuciones siguientes:
 
 > <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -833,9 +837,11 @@ VIII. Establecer los procesos de selección, admisión y matrícula que permitan
 
 IX. Las demás que les confieren la Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 26.
 
-La Secretaría de Desarrollo Social del Estado de México, en materia de atención a las víctimas y ofendidos del delito, ejercerá las atribuciones siguientes:
+La Secretaría de Bienestar del Estado de México, en materia de atención a las víctimas y ofendidos del delito, ejercerá las atribuciones siguientes:
 
 I. Desarrollar políticas, programas y acciones de desarrollo social encaminadas al abatimiento de la pobreza, la marginación y la exclusión social como factores de origen de las conductas delictivas.
 
@@ -1079,7 +1085,9 @@ VI. Capacitarse en lo que se refiere al estudio de la victimología y sus caract
 
 VII. Establecer los sistemas necesarios de vigilancia y verificación por parte de los órganos de control interno.
 
-VIII. Las demás señaladas en la Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y otros ordenamientos aplicables.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VIII. Las demás señaladas en la Ley, la Ley de Responsabilidades Administrativas del Estado de México y Municipios y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -1111,19 +1119,25 @@ El Sistema se integra por las siguientes instituciones:
 
 I. Poder Ejecutivo
 
-a) El Gobernador.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+a) La persona titular del Poder Ejecutivo del Estado.
 
-b) La Secretaría de Justicia y Derechos Humanos
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b) Consejería Jurídica.
 
 c) Secretaría de Finanzas.
 
 d) Secretaría de Salud.
 
-e) Secretaría de Educación.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-f) Secretaría de Desarrollo Social.
+e) Secretaría de Educación, Ciencia, Tecnología e Innovación.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+f) Secretaría de Bienestar.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1147,9 +1161,13 @@ m) Las demás que el Ejecutivo requiera dependiendo de la problemática que se a
 
 II. Poder Legislativo.
 
-a) El Presidente de la Comisión Legislativa de Procuración y Administración de Justicia.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-b) El Presidente de la Comisión Legislativa de Derechos Humanos.
+a) El Presidente o Presidenta de la Comisión Legislativa de Procuración y Administración de Justicia.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b) El Presidente o Presidenta de la Comisión Legislativa de Derechos Humanos.
 
 III. Poder Judicial.
 
@@ -1163,9 +1181,9 @@ b) Universidad Autónoma del Estado de México.
 
 c) Fiscalía General de Justicia del Estado de México
 
-> <small>(REFORMADA, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Dos organizaciones de la sociedad civil especializadas en la defensa de víctimas y ofendidos de delito y de violaciones de derechos humanos, a invitación del Presidente, quienes tendrán derecho a voz pero no a voto.
+V. Dos organizaciones de la sociedad civil especializadas en la defensa de víctimas y ofendidos de delito y de violaciones de derechos humanos, a invitación de la persona titular de la Presidencia, quienes tendrán derecho a voz pero no a voto.
 
 ###### Artículo 37.
 
@@ -1193,11 +1211,13 @@ La Comisión Ejecutiva es un órgano desconcentrado de la Secretaría, con auton
 
 El Consejo Consultivo se integra por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. La Secretaría de Justicia y Derechos Humanos, quien fungirá como Presidente.
+I. La Consejería Jurídica, que estará (sic) cargo de la Presidencia.
 
-II. La Comisión Ejecutiva, quien fungirá como Secretario Técnico.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. La Comisión Ejecutiva, que estará (sic) cargo de la Secretaría Técnica.
 
 III. La Secretaría de la Contraloría.
 
@@ -1227,11 +1247,11 @@ La organización y funcionamiento del Consejo Consultivo se establecerá en el R
 
 La Comisión Ejecutiva tiene por objeto permitir la representación y participación directa de las víctimas y ofendidos del delito en todas las instituciones del Sistema, propiciando su intervención en la gestión y la construcción de políticas gubernamentales, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema; con la finalidad de garantizar un ejercicio transparente de sus atribuciones, así como la prestación del servicio de asesoría jurídica.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 40.
 
-La administración y representación legal de la Comisión Ejecutiva estará a cargo de un Comisionado, que será nombrado y removido por el Gobernador, a propuesta del Secretario de Justicia y Derechos Humanos.
+La administración y representación legal de la Comisión Ejecutiva estará a cargo de una persona Comisionada, que será nombrada y removida por la persona titular del Poder Ejecutivo del Estado, a propuesta de la persona titular de la Consejería Jurídica.
 
 ###### Artículo 41.
 
@@ -2663,11 +2683,11 @@ La organización y funcionamiento del Centro de Atención e Información para V�
 
 Las causas de responsabilidad de los servidores públicos de la Comisión Ejecutiva estarán reguladas en el Reglamento.
 
-> <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 110.
 
-Todos los servidores públicos de la Comisión Ejecutiva en caso, de incurrir en responsabilidad administrativa, serán sujetos a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+Todas las personas servidoras públicas de la Comisión Ejecutiva en caso, de incurrir en responsabilidad administrativa, serán sujetas a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ## TRANSITORIOS
 
@@ -2902,3 +2922,39 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustas necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
