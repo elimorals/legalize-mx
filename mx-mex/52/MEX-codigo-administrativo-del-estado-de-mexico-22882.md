@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2023-12-28"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -467,9 +467,9 @@ V. Contendrán las demás estipulaciones que las partes consideren necesarias pa
 
 41.- Toda persona tiene derecho a que las autoridades, en las materias reguladas en este código le proporcionen información en términos de la ley de la materia.
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Para facilitar el acceso a la información, las autoridades implementarán un sistema electrónico para recibir y contestar solicitudes de acceso y recursos de revisión conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+Para facilitar el acceso a la información, las autoridades implementarán un sistema electrónico para recibir y contestar solicitudes de acceso y recursos de revisión conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -543,11 +543,11 @@ El Testigo deberá presentar copia de su testimonio a la Secretaría de la Contr
 
 En los casos de los Ayuntamientos, sus organismos auxiliares, y los Tribunales Administrativos; dicho control de resultados será llevado por sus respectivos Órganos de Control.
 
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 1.
 
-48.- La aplicación, supervisión e interpretación de este Título corresponde a la Secretaría de Finanzas y a la de Contraloría en sus respectivos ámbitos de competencia.
+48.- La aplicación, supervisión e interpretación de este Título corresponde a la Secretaría de la Contraloría, y a la Oficialía Mayor, en sus respectivos ámbitos de competencia.
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1021,33 +1021,53 @@ El ejercicio de la regulación, control y fomento sanitarios, con funciones de a
 
 5. Bis.- (DEROGADO, G.G. 10 DE JULIO DE 2015)
 
-> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
-6.- La dirección y administración del Instituto de Salud del Estado de México estará a cargo de un Consejo Interno y de un Director General.
+6.- La dirección y administración del Instituto de Salud del Estado de México estará a cargo de un Consejo Interno y de una Dirección General.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE NOVIEMBRE DE 2017)</small>
 
 El Consejo Interno del Instituto de Salud del Estado de México estará integrado por:
 
-I. Un Presidente, quien será la o el Titular de la Secretaría de Salud.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Secretario, quien será designado por el Consejo Interno a propuesta de su Presidente.
+I. Una Presidencia, que estará a cargo de la persona Titular de la Secretaría de Salud.
 
-III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+II. Una Secretaría, que estará a cargo de la persona designada por el Consejo Interno a propuesta de la Presidencia.
 
-IV. Ocho vocales que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, de Desarrollo Urbano y Obra, del Campo, del Medio Ambiente, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Ocho vocales que serán las personas representantes de las secretarías de Finanzas, del Trabajo, de Educación, Ciencia, Tecnología e Innovación, de Desarrollo Urbano e Infraestructura, del Campo, del Medio Ambiente y Desarrollo Sostenible, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+
+> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
 
 Por cada uno de los integrantes, el Consejo Interno aprobará el nombramiento de un suplente quien será propuesto por el propietario.
 
-Los miembros del Consejo Interno tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Secretario y Comisario quienes sólo tendrán derecho de voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes del Consejo Interno tendrán derecho a voz y voto en las sesiones que celebren, con excepción de la Secretaría y Comisaría quienes sólo tendrán derecho de voz.
+
+> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
 
 El desempeño de los miembros del Consejo Interno será honorífico.
 
-El director general será nombrado por el Gobernador del Estado y deberá ser preferentemente ciudadano mexiquense y con experiencia en materias de salud pública y administración de servicios de salud; médico cirujano; de reconocida calidad moral, buena conducta, y honorabilidad manifiesta.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El nombramiento del director general podrá recaer en la o el Titular de la Secretaría de Salud, sin que exista doble remuneración.
+La persona titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado y deberá ser preferentemente ciudadano mexiquense y con experiencia en materias de salud pública y administración de servicios de salud; médico cirujano; de reconocida calidad moral, buena conducta, y honorabilidad manifiesta.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El nombramiento de titular de la Dirección General podrá recaer en la o el Titular de la Secretaría de Salud, sin que exista doble remuneración.
+
+> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
 
 La organización y funcionamiento del Instituto se regirá por el Reglamento Interno que expida el Consejo Interno.
 
@@ -1083,13 +1103,15 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 8.- El Consejo de Salud del Estado de México es una instancia permanente de coordinación, consulta y apoyo para la planeación, programación y evaluación de los servicios de salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
-9.- El Consejo se integra por el Secretario de Salud, quien fungirá como presidente, los secretarios de Educación y de Medio Ambiente, el Secretario Técnico del Consejo Estatal de Población, los directores generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México, el Director de la Facultad de Medicina de la Universidad Autónoma del Estado de México, el Coordinador General de Protección Civil, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social y un representante de los municipios de la Entidad.
+9.- El Consejo se integra por la persona titular de la Secretaría de Salud, quien fungirá como presidente, las personas titulares de las Secretarías de Educación, Ciencia, Tecnología e Innovación y de Medio Ambiente y Desarrollo Sostenible, la persona titular de la Secretaría Técnica del Consejo Estatal de Población, las personas titulares de las direcciones generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México, de la Facultad de Medicina de la Universidad Autónoma del Estado de México, de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social y un representante de los municipios de la Entidad.
 
-A invitación del Presidente, tres representantes de los sectores social y privado.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+A invitación de la persona titular de la Presidencia, tres personas representantes de los sectores social y privado.
 
 El Consejo contará con un secretario técnico nombrado por su presidente, así como con las comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en términos de su reglamento interno.
 
@@ -1283,9 +1305,9 @@ XIV. Prevención de la discapacidad y la rehabilitación de las personas con dis
 
 XV. Asistencia social e instalación de unidades de hemodiálisis en los hospitales regionales pertenecientes al ISEM y capacitación al familiar o a quien acompañe al paciente.
 
-> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XVI. Programas para prevenir y erradicar las adicciones, la discriminación o desigualdades, dando prioridad a niñas, niños y adolescentes, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez. Para la puesta en marcha de estos programas, se hará en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado;
+XVI. Programas para prevenir y erradicar las adicciones con una visión de perspectiva de género, dando prioridad a niñas, niños y adolescentes, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez. Para la puesta en marcha de estos programas, se hará en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -1467,7 +1489,9 @@ II. Participar en el Consejo Nacional de Trasplantes;
 
 III. Proporcionar al Registro Nacional de Trasplantes la información correspondiente a la entidad y su actualización;
 
-IV. Promover el diseño, instrumentación y operación del sistema estatal de trasplantes;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Promover el diseño, instrumentación y operación del Sistema Estatal de Donación de Órganos Humanos para Trasplante;
 
 V. Proponer políticas, estrategias y acciones para la elaboración y aplicación de los programas en materia de trasplantes;
 
@@ -1663,11 +1687,11 @@ IV. La promoción de la participación comunitaria, en la prevención de las cau
 
 V. El tratamiento, rehabilitación y reinserción social de los adictos, mediante el establecimiento de centros especializados, públicos y privados, los cuales deberán apegarse a las directrices de la Ley General de Salud y la Norma Oficial Mexicana.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
-35.- La Secretaría de Salud a través del Instituto Mexiquense Contra las Adicciones, con la participación de las dependencias y organismos auxiliares de la administración pública, de los sectores social y privado, en especial del Consejo de Participación Social de la Educación, elaborará el programa respectivo para establecer acciones contra las adicciones; dicho programa será evaluado anualmente.
+35.- La Secretaría de Salud a través del Instituto Mexiquense de Salud Mental y Adicciones, con la participación de las dependencias y organismos auxiliares de la administración pública, de los sectores social y privado, en especial del Consejo de Participación Social de la Educación, elaborará el programa respectivo para establecer acciones contra las adicciones; dicho programa será evaluado anualmente.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1703,7 +1727,9 @@ I. El Ejecutivo del Estado;
 
 II. La Secretaría de Salud;
 
-III. La Secretaría de Educación;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. La Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1765,7 +1791,9 @@ VIII. Crear y actualizar el registro de establecimientos mercantiles que cuenten
 
 IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación;
 
-X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Llevar a cabo, a través del Instituto Mexiquense de Salud Mental y Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
 
 > <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
 
@@ -1777,27 +1805,43 @@ XII. (DEROGADA, G.G. 27 DE JUNIO DE 2014)
 
 XIII. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
-40.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Educación:
+40.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Educación, Ciencia, Tecnología e Innovación:
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 I. Diseñar y conducir campañas y acciones para la prevención de la salud, con el propósito de generar en los estudiantes, el desarrollo de competencias sociales y aptitudes de resistencia y rechazo a las adicciones;
 
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 II. Garantizar ambientes escolares sin adicciones, en coordinación con las autoridades de Salud, de Seguridad Pública y de Procuración de Justicia;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 III. Promover, fomentar e impulsar la participación del personal docente, de los padres de familia y los alumnos en la aplicación, ejecución y desarrollo de las campañas y acciones contra las adicciones;
 
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 IV. Enriquecer los contenidos de los programas con acciones específicas de orientación, a fin de prevenir el consumo de sustancias psicoactivas entre los escolares;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 V. Participar en el diseño de programas de investigación científica y tecnológica, que contribuyan a la prevención del consumo de sustancias psicoactivas, en coordinación con instituciones de educación superior;
 
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 VI. Promover la participación de las asociaciones de padres de familia en la instrumentación de acciones para la formación de una cultura de prevención y atención de las adicciones;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 VII. Formar a los alumnos e informar a los padres de familia para que desde el seno familiar y en su ámbito vecinal, identifiquen la problemática de las adicciones y aprendan a manejar la influencia negativa que dicho fenómeno social genera en su salud e integridad; y
 
-VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense contra las Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense de Salud Mental y Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1843,7 +1887,9 @@ V. Impulsar la difusión de programas que concienticen, orienten y prevengan a l
 
 VI. Implementar programas específicos que concienticen, orienten y prevengan a la población, de los efectos y consecuencias del consumo de sustancias adictivas, en el entorno familiar;
 
-VII. Participar en coordinación con las Secretarías de Salud y de Educación, en el diseño de campañas y acciones de educación para la salud, con la finalidad de fomentar en los padres y tutores, el desarrollo de habilidades psicosociales, para la prevención y atención de las adicciones; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VII. Participar en coordinación con las Secretarías de Salud y de Educación, Ciencia, Tecnología e Innovación en el diseño de campañas y acciones de educación para la salud, con la finalidad de fomentar en los padres y tutores, el desarrollo de habilidades psicosociales, para la prevención y atención de las adicciones; y
 
 VIII. Implementar en coordinación con las instituciones públicas y de las organizaciones de la sociedad civil, campañas dirigidas a la población mexiquense para desalentar el consumo de sustancias psicoactivas, particularmente entre los sujetos de asistencia social.
 
@@ -1931,11 +1977,11 @@ X. Realizar periódicamente las visitas de inspección que permitan vigilar el c
 
 XI. Promover el apoyo para la formación y capacitación de los recursos humanos, el financiamiento para la operación y funcionamiento, la atención médica general de las personas que se atiendan por parte de las Instituciones de Asistencia Privada del Estado de México, organismos públicos y sociales estatales, nacionales e internacionales y los particulares, atendiendo las disposiciones legales respectivas.
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
-46.- La Secretaría de Salud, por conducto del Instituto Mexiquense contra las Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
+46.- La Secretaría de Salud, por conducto del Instituto Mexiquense de Salud Mental y Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
 
 ###### Artículo 2.
 
@@ -2681,11 +2727,9 @@ Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cual
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
-# LIBRO TERCERO
-
-De la educación, ejercicio profesional, investigación científica y tecnológica, juventud, instalaciones educativas y mérito civil.
+# LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, instalaciones educativas y mérito civil
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -2743,21 +2787,17 @@ VII. La ciudadanía en general, tratándose de los reconocimientos públicos.
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-4.- Son autoridades para la aplicación de este Libro la Secretaría de Educación, los municipios y sus organismos públicos descentralizados.
+4.- Son autoridades para la aplicación de este Libro la Secretaría de Educación, Ciencia, Tecnología e Innovación los municipios y sus organismos públicos descentralizados.
 
-En materia de educación, corresponde a las autoridades a que se refiere el párrafo anterior, el ejercicio de las atribuciones señaladas a favor del Estado y de los municipios, respectivamente, en las leyes General de Educación y para la Coordinación de la Educación Superior, así como las previstas en este Libro.
+En materia de Educación, corresponde a las autoridades a que se refiere el párrafo anterior, el ejercicio de las atribuciones señaladas a favor del Estado y de los municipios, respectivamente, en las leyes General de Educación y de Educación Superior, así como las previstas en este Libro.
 
-> <small>(REFORMADO, G.G. 18 DE JUNIO DE 2007)</small>
+La Secretaría de Educación, Ciencia, Tecnología e Innovación verificará a través de auditorías, revisiones e inspecciones, que los servicios educativos que presten los particulares en la entidad, cuenten con autorización o con reconocimiento de validez de estudios, asimismo que den cumplimiento a las disposiciones jurídicas, políticas y planes del sector, y en su caso, procederá a imponer las sanciones correspondientes, en términos de este Libro.
 
-La Secretaría de Educación verificará a través de auditorías, revisiones e inspecciones, que los servicios educativos que presten los particulares en la entidad, cuenten con autorización o con reconocimiento de validez de estudios, asimismo que den cumplimiento a las disposiciones jurídicas, políticas y planes del sector, y en su caso, procederá a imponer las sanciones correspondientes, en términos de este Libro.
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
-
-Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
+Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación, Ciencia, Tecnología e Innovación y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
 ## TITULO SEGUNDO. De la educación
 
@@ -2779,15 +2819,17 @@ El Estado establecerá planes y programas específicos para tratar y erradicar e
 
 Asimismo, deberá promover y apoyar la educación media superior y superior en todas sus modalidades.
 
-###### Artículo 3.
-
-7.- En materia de educación, será aplicable lo dispuesto en las leyes General de Educación y para la Coordinación de la Educación Superior, y en este Libro.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-8.- Son atribuciones de la Secretaría de Educación:
+7.- En materia de educación, será aplicable lo dispuesto en las leyes General de Educación y de Educación Superior, y en este Libro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 3.
+
+8.- Son atribuciones de la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 I. Fortalecer la educación pública;
 
@@ -2907,11 +2949,11 @@ V. Las instituciones de los particulares con autorización o reconocimiento de v
 
 VI. Las instituciones de educación superior a las que la ley otorga autonomía.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-11.- La Secretaría de Educación contará con un Consejo Técnico de Educación que estará a cargo de la evaluación del sistema educativo estatal.
+11.- La Secretaría de Educación, Ciencia, Tecnología e Innovación contará con un Consejo Técnico de Educación que estará a cargo de la evaluación del sistema educativo estatal.
 
 La evaluación será permanente y sistemática. Sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
 
@@ -2967,11 +3009,11 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 21.- En cada institución o establecimiento educativo de los diferentes niveles se podrá establecer una asociación de padres de familia en términos de lo que dispone la Ley General de Educación.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-22.- La Secretaría de Educación promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
+22.- La Secretaría de Educación, Ciencia, Tecnología e Innovación promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
 
 ### CAPITULO SEXTO. De las recompensas y estímulos
 
@@ -2983,17 +3025,17 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 24.- La presea de "Honor Estado de México" se otorga a los profesionistas al servicio de la educación que se distingan en grado eminente por su eficiencia, constancia y méritos profesionales en el servicio de la educación pública y sus diversos tipos, modalidades y niveles educativos, tanto del subsistema educativo estatal como del federalizado. La presea se otorgará anualmente.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Para su otorgamiento la Secretaría de Educación contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
+Para su otorgamiento la Secretaría de Educación, Ciencia, Tecnología e Innovación contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
 
 ### CAPITULO SEPTIMO. De los particulares que imparten educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-25.- Los particulares podrán impartir educación en todos sus tipos y modalidades mediante autorización o reconocimiento de validez oficial de estudios expedidos por la Secretaría de Educación.
+25.- Los particulares podrán impartir Educación en todos sus tipos y modalidades mediante autorización o reconocimiento de validez oficial de estudios expedidos por la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
 La autorización o el reconocimiento se otorgarán cuando se satisfagan los requisitos que se establecen en la Ley General de Educación.
 
@@ -3007,11 +3049,11 @@ En los demás casos podrán obtener el reconocimiento de validez oficial de estu
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-27.- Son atribuciones de la Secretaría de Educación, en materia de profesiones:
+27.- Son atribuciones de la Secretaría de Educación, Ciencia, Tecnología e Innovación, en materia de profesiones:
 
 I. Fortalecer el ejercicio profesional de excelencia, ético y competitivo;
 
@@ -3035,11 +3077,11 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 29.- Los títulos expedidos en el extranjero podrán obtener la revalidación con apego a lo establecido en la reglamentación correspondiente.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
+30.- La persona titular del Poder Ejecutivo del Estado, previo dictamen de la Secretaría de Educación. Ciencia, Tecnología e Innovación, y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
 
 ### CAPITULO SEGUNDO. De los profesionistas
 
@@ -3081,13 +3123,13 @@ III. Cuando exista orden judicial escrita, salvo las excepciones que contemplen 
 
 ### CAPITULO TERCERO. De las asociaciones de profesionistas
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-38.- Los profesionistas de una misma rama podrán constituir en el Estado de México colegios, entendiéndose por éstos a las asociaciones de profesionistas que obtengan su registro ante la Secretaría de Educación.
+38.- Los profesionistas de una misma rama podrán constituir en el Estado de México colegios, entendiéndose por éstos a las asociaciones de profesionistas que obtengan su registro ante la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
-Los colegios de profesionistas para su reconocimiento, deberán contar con registro de la Secretaría de Educación.
+Los colegios de profesionistas para su reconocimiento, deberán contar con registro de la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
 ###### Artículo 3.
 
@@ -3123,9 +3165,9 @@ VII. Prestar la más amplia colaboración al poder público como cuerpos consult
 
 VIII. Formular propuestas a las dependencias y organismos auxiliares de la administración pública estatal y municipal, para desarrollar y ejecutar programas y acciones en materias relacionadas con su ámbito profesional;
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IX. Participar en el diseño, elaboración y ejecución de los programas de evaluación y acreditación de las instituciones de educación superior en las materias de sus respectivos campos profesionales, a invitación de la Secretaría de Educación;
+IX. Participar en el diseño, elaboración y ejecución de los programas de evaluación y acreditación de las instituciones de educación superior en las materias de sus respectivos campos profesionales, a invitación de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
 X. Elaborar propuestas para mejorar y actualizar los planes de estudios profesionales;
 
@@ -3141,11 +3183,11 @@ XIII. Cumplir con lo establecido en el presente Título y la reglamentación que
 
 ### CAPITULO CUARTO. Del Registro Estatal de Educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-44.- La Secretaría de Educación establecerá y operará el Registro Estatal de Educación que contendrá:
+44.- La Secretaría de Educación, Ciencia, Tecnología e Innovación deberá integrar, administrar y operar el Registro Estatal de Educación que contendrá:
 
 I. Planes y programas de estudio de educación media superior y superior;
 
@@ -3165,17 +3207,19 @@ VIII. Certificados de profesionistas expedidos por los colegios de profesionista
 
 El Registro Estatal de Educación será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
+45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación, Ciencia, Tecnología e Innovación, las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
 ## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-46.- El Consejo Mexiquense de Ciencia y Tecnología es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto promover y apoyar el avance científico y tecnológico a través de una vinculación estrecha entre los sectores productivos y sociales con los centros de investigación científica y desarrollo tecnológico de la entidad.
+46.- El Consejo Mexiquense de Ciencia y Tecnología es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación, Ciencia, Tecnología e Innovación, que tiene por objeto promover y apoyar el avance científico y tecnológico a través de una vinculación estrecha entre los sectores productivos y sociales con los centros de investigación científica y desarrollo tecnológico de la entidad.
 
 El Consejo, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
@@ -3211,15 +3255,19 @@ XIII. Impulsar un Sistema Estatal para el uso de Internet inalámbrico fomentand
 
 XIV. Las demás que se establezcan en otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-47.- La dirección y administración del Consejo está a cargo de una junta directiva y un director general.
+47.- La dirección y administración del Consejo está a cargo de una Junta Directiva y una Dirección General.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con doce vocales, que son los representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano y Obra, del Campo, de Desarrollo Económico, del Medio Ambiente, y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
+La Junta Directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con doce vocales, que son las personas representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano e Infraestructura, del Campo, de Desarrollo Económico, del Medio Ambiente y Desarrollo Sostenible, y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
 
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona titular de la Dirección General será nombrada por la persona Titular del Poder Ejecutivo del Estado, a propuesta de la persona que presida la junta.
 
 La organización y funcionamiento del Consejo se regirá por el reglamento interno que expida la junta directiva.
 
@@ -3291,19 +3339,29 @@ Los ingresos del Consejo, así como los productos e instrumentos financieros aut
 
 ## TÍTULO OCTAVO. Del Instituto Mexiquense de la Infraestructura Física Educativa
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-58.- El Instituto Mexiquense de la Infraestructura Física Educativa es un organismo público descentralizado, de carácter estatal con personalidad jurídica y patrimonio propios, que tiene por objeto normar el desarrollo de la infraestructura física educativa en todos sus niveles y modalidades, así como planear, programar y ejecutar su construcción, reparación, rehabilitación, mantenimiento y equipamiento.
+58.- El Instituto Mexiquense de la Infraestructura Física Educativa es un organismo público descentralizado de carácter estatal con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación, Ciencia, Tecnología e Innovación, que tiene por objeto normar el desarrollo de la infraestructura física educativa en todos sus niveles y modalidades, así como planear, programar y ejecutar su construcción, reparación, rehabilitación, mantenimiento y equipamiento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
-I. Generar y promover normas y políticas que regulen el desarrollo de la infraestructura física educativa en el Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. Generar y promover, en conjunto con la Secretaría de Educación, Ciencia, Tecnología e Innovación, normas y políticas que regulen el desarrollo de la infraestructura física educativa en el Estado de México;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 II. Programar, administrar y ejercer por si o a través de terceros los recursos destinados a la construcción, reparación, rehabilitación, mantenimiento y equipamiento de la infraestructura física educativa;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 III. Promover la participación de las administraciones municipales para que asuman gradualmente su responsabilidad en la planeación, programación, ejecución y supervisión de la construcción de los espacios educativos;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 IV. Alentar la participación social de las comunidades en la supervisión de la construcción de espacios educativos, así como de su conservación y mantenimiento;
 
@@ -3311,45 +3369,81 @@ IV. Alentar la participación social de las comunidades en la supervisión de la
 
 V. Realizar estudios y proyectos que permitan definir las políticas y acciones para el desarrollo de programas de construcción, reparación, rehabilitación, mantenimiento y equipamiento de espacios educativos, considerando en estos, la disponibilidad de espacios privados adecuados y seguros, para limpieza y cambio de productos para la gestión menstrual;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 VI. Establecer los criterios técnicos para la evaluación del estado físico de la infraestructura física educativa;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 VII. Evaluar las condiciones de la infraestructura física educativa en el Estado de México;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 VIII. Vigilar que las obras de infraestructura física educativa se ejecuten conforme a las especificaciones, proyectos, precios unitarios y programas aprobados y, en su caso, conforme a lo estipulado en los contratos de obra;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 IX. Proporcionar asesoría, apoyo técnico y administrativo especializado, a los municipios del Estado de México, dependencias del gobierno estatal, así como a los particulares que lo soliciten, para mejorar sus capacidades en el desarrollo de la infraestructura física educativa;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 X. Realizar la supervisión en materia de ejecución de obra de la infraestructura física educativa en instituciones de control federal, con base en los convenios que, en su caso, se suscriban con el Instituto Nacional de la Infraestructura Física Educativa u otras instancias federales;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 XI. Dictaminar los proyectos ejecutivos de la infraestructura física educativa conforme a la normatividad aplicable;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 XII. Elaborar diagnósticos y, en su caso, dictámenes relativos a la infraestructura física educativa, en materia estructural y de mantenimiento;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 XIII. Analizar y dictaminar los proyectos ejecutivos para la construcción de la infraestructura física educativa así como las condiciones físicas de las instalaciones de las escuelas particulares que estén en trámite de incorporación a través del Reconocimiento de Validez Oficial de Estudios o de la autorización correspondiente;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 XIV. Certificar la calidad de la infraestructura física educativa en la entidad conforme a las normas y especificaciones que para tal efecto se establezcan;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 XV. Establecer los precios y tarifas por los bienes y servicios que el instituto preste;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 XVI. Determinar las previsiones presupuestales y financieras para la atención de daños en la infraestructura física educativa;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 XVII. Convenir con instancias federales, estatales y municipales, la construcción, reparación, rehabilitación, mantenimiento y equipamiento de obras inherentes al desarrollo educativo, social, cultural y deportivo;
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 XVIII. Expedir las normas internas necesarias para el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 XIX. Las demás que se establezcan en otras disposiciones legales.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-59.- La dirección y administración del Instituto estará a cargo de una junta directiva y un director general.
+59.- La dirección y administración del Instituto estará a cargo de una Junta Directiva y una Dirección General.
 
-La junta directiva estará integrada por un presidente, que será el Secretario de Educación del Gobierno del Estado de México, un secretario designado por el propio cuerpo colegiado a propuesta del presidente, un comisario, que será el representante de la Secretaría de la Contraloría, y cinco vocales, que serán el representante de la Secretaría de Finanzas, el Subsecretario de Educación Básica y Normal, el Subsecretario de Educación Media Superior y Superior, el Subsecretario de Planeación y Administración de la Secretaría de Educación y el Director General de los Servicios Educativos integrados al Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Junta Directiva estará integrada por una Presidencia, que será la persona Titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado de México, una Secretaría que estará a cargo de una persona designada por el propio cuerpo colegiado a propuesta de la Presidencia, una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría, y cinco vocales, que serán las personas representantes de la Secretaría de Finanzas, de las Subsecretarías de Educación Básica, de Educación Media Superior, Educación Superior y Normal, y de Administración y Finanzas de la Secretarla de Educación, Ciencia, Tecnología e Innovación, así como de la Dirección General de los Servicios Educativos integrados al Estado de México.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 Se podrán considerar invitados a propuesta de los propios integrantes.
 
-El Director General será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta directiva.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona Titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado, a propuesta de la persona que presida la junta directiva.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida la junta directiva.
 
@@ -3499,9 +3593,9 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 69.- Para efectos de este Libro, se consideran como infracciones de quienes presten servicios educativos, adicionalmente a aquellas previstas en la Ley General de Educación, las siguientes:
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Desatender las auditorías y revisiones que la Secretaría de Educación ordene practicar a los archivos de los planteles con autorización o reconocimiento de validez oficial;
+I. Desatender las auditorías y revisiones que la Secretaría de Educación, Ciencia, Tecnología e Innovación ordene practicar a los archivos de los planteles con autorización o reconocimiento de validez oficial;
 
 II. Discriminar a los educandos, a sus padres o tutores por su situación económica, de raza, de religión, de sexo o de ideología política;
 
@@ -3527,17 +3621,17 @@ Cuando la revocación se dicte durante un ejercicio lectivo la institución podr
 
 71.- El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados en el lapso en que la institución contaba con reconocimiento, mantendrán su validez oficial.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-La Secretaría de Educación adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-72.- Las infracciones previstas en la Ley General de Educación y en el artículo 3.69 serán sancionadas por la Secretaría de Educación con arreglo a la Ley General.
+72.- Las infracciones previstas en la Ley General de Educación y en el artículo 3.69 serán sancionadas por la Secretaría de Educación, Ciencia, Tecnología e Innovación con arreglo a la Ley General.
 
-Para asegurar el cumplimiento de las disposiciones de este Libro, así como para imponer sanciones a los particulares que prestan servicios educativos, la Secretaría de Educación podrá actuar de oficio o a petición de parte.
+Para asegurar el cumplimiento de las disposiciones de este Libro, así como para imponer sanciones a los particulares que prestan servicios educativos, la Secretaría de Educación, Ciencia, Tecnología e Innovación podrá actuar de oficio o a petición de parte.
 
 ###### Artículo 3.
 
@@ -3553,11 +3647,11 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 75.- Los profesionistas que ejerzan sin contar con registro, en ningún caso podrán cobrar honorarios.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-###### Articulo 3.
+###### Artículo 3.
 
-76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, serán sancionadas con multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
+76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, Ciencia, Tecnología e Innovación serán sancionadas con multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
 > <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
@@ -4037,9 +4131,9 @@ XLI. Reservas: A las áreas urbanizables previstas en los planes de desarrollo u
 
 XLII. Resiliencia: A la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr mejorar su protección futura y las medidas de reducción de riesgos.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XLIII. Secretaría: A la Secretaría de Desarrollo Urbano y Obra.
+XLIII. Secretaría: A la Secretaría de Desarrollo Urbano e Infraestructura.
 
 XLIV. Sistema Estatal: Al Sistema Estatal de Información del Desarrollo Urbano.
 
@@ -4171,11 +4265,11 @@ No surtirán efectos los permisos, licencias o autorizaciones que contravengan l
 
 ### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 5.
 
-7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y Obra, la Secretaría de Movilidad y los municipios.
+7.- Son autoridades para la aplicación de este Libro, la persona titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Urbano e Infraestructura, la Secretaría de Movilidad y los Municipios.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4967,9 +5061,9 @@ La organización y funcionamiento de estas instancias, se contendrá como corres
 
 I. La localización, extensión y delimitación del polígono que comprenda zona metropolitana, considerando sus áreas de crecimiento e influencia.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, que se denominará Comisión Metropolitana, seguido del nombre que identifique la zona de que se trate, en el que participarán el Estado y los municipios respectivos y que será presidida por el titular de la Secretaría de Desarrollo Urbano y Obra.
+II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, que se denominará Comisión Metropolitana, seguido del nombre que identifique la zona de que se trate, en el que participarán el Estado y los municipios respectivos y que será presidida por el titular de la Secretaría de Desarrollo Urbano e Infraestructura.
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -6119,7 +6213,9 @@ VIII. Constituirse en sesión permanente en los casos de riesgo o desastre para 
 
 IX. Coadyuvar en la vigilancia de la aplicación de los recursos que se destinen a los programas y acciones de protección civil;
 
-X. Convocar, coordinar y convenir con los Ayuntamientos del Estado y la Secretaría del Medio Ambiente la integración de un Programa para atender las emergencias y contingencias provocadas por desastres y fenómenos perturbadores de origen natural, cuyo objetivo principal es la protección de la vida y la salud de la población afectada, apoyando el restablecimiento de los servicios públicos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Convocar, coordinar y convenir con los Ayuntamientos del Estado y la Secretaría del Medio Ambiente y Desarrollo Sostenible la integración de un Programa para atender las emergencias y contingencias provocadas por desastres y fenómenos perturbadores de origen natural, cuyo objetivo principal es la protección de la vida y la salud de la población afectada, apoyando el restablecimiento de los servicios públicos;
 
 XI. Las demás que se prevean en la reglamentación de este Libro.
 
@@ -6749,11 +6845,11 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 6.- La Secretaría de Movilidad expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro, incluyendo la eficiencia y sustentabilidad del transporte, y podrá así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-La Secretaría de Movilidad en coordinación con la del Medio Ambiente, establecerá un programa de reducción de contaminantes que incluirá los indicadores que sean necesarios.
+La Secretaría de Movilidad en coordinación con la Secretaría del Medio Ambiente y Desarrollo Sostenible, establecerá un programa de reducción de contaminantes que incluirá los indicadores que sean necesarios.
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.G. 5 DE ABRIL DE 2024)</small>
 
 Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo, individual y mixto, deberán contar con sistemas moderadores de velocidad, denominados gobernadores de velocidad y con sistemas de videograbación que deberán almacenar su contenido en dispositivos de almacenamiento extraíbles, los que deberán colocarse en zonas de difícil acceso para las personas.
 
@@ -8043,9 +8139,9 @@ En caso de vehículos que hayan sido abandonados en la infraestructura vial y en
 
 Tratándose de tráileres, autobuses y cualquier tipo de remolques, el Estado a través de la Secretaría de Finanzas determinará su destino final.
 
-> <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-La Secretaría del Medio Ambiente podrá diseñar programas para el reciclaje de autopartes o sustancias obtenidas de las unidades declaradas en abandono, conforme a las reglas de carácter general que al efecto se emitan.
+La Secretaría del Medio Ambiente y Desarrollo Sostenible podrá diseñar programas para el reciclaje de autopartes o sustancias obtenidas de las unidades declaradas en abandono, conforme a las reglas de carácter general que al efecto se emitan.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -9107,9 +9203,9 @@ XII. Las demás que le asigne el Gobernador del Estado.
 
 11. La dirección y administración del Instituto está a cargo de un Consejo Directivo y una Dirección General.
 
-> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son las personas representantes de las Secretarías de Finanzas, del Campo y del Medio Ambiente.
+El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son las personas representantes de las Secretarías de Finanzas, del Campo y del Medio Ambiente y Desarrollo Sostenible.
 
 > <small>(REFORMADO, G.G. 2 DE JUNIO DE 2023)</small>
 
@@ -9829,9 +9925,9 @@ III. Secretaría, a la Secretaría de Finanzas.
 
 IV. Contraloría, a la Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades estatales y de los municipios;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Secretaría del Ramo, a la Secretaría de Desarrollo Urbano y Obra;
+V. Secretaría del Ramo, a la Secretaría de Desarrollo Urbano e Infraestructura;
 
 VI. Licitante, a la persona que participe en un procedimiento de licitación de obra pública o de servicios relacionados con la misma;
 
@@ -9949,7 +10045,9 @@ Lo anterior será sin perjuicio de las facultades que en materia de inventarios,
 
 11.- Los contratos y convenios que se realicen en contravención a lo dispuesto por este Libro, serán nulos.
 
-La invalidez podrá ser declarada de oficio en sede administrativa por la dependencia, entidad o ayuntamiento. Los particulares afectados podrán ocurrir a demandar la invalidez ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La invalidez podrá ser declarada de oficio en sede administrativa por la dependencia, entidad o ayuntamiento. Los particulares afectados podrán ocurrir a demandar la invalidez ante el Tribunal de Justicia Administrativa del Estado de México.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -11233,7 +11331,9 @@ I. Las políticas para la producción de la información e investigación geogr�
 
 II. El funcionamiento de los sistemas estatal y municipales de información e investigación geográfica, estadística y catastral;
 
-III. Los procesos de captación, integración, generación y organización de la información geográfica, estadística y catastral, y su divulgación acorde con lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Los procesos de captación, integración, generación y organización de la información geográfica, estadística y catastral, y su divulgación acorde con lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
 IV. La realización de las investigaciones en materia geográfica, estadística y catastral en el Estado de México;
 
@@ -11939,43 +12039,65 @@ II. Un Director General.
 
 48.- El Consejo Directivo será la máxima autoridad del IGECEM y estará integrado por:
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un presidente, que será el Secretario de Finanzas;
+I. Una Presidencia, que será la persona titular de la Secretaría de Finanzas;
 
 II. Catorce Vocales, que serán:
 
-a. El Secretario General de Gobierno;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+a. La persona titular de la Secretaría General de Gobierno;
 
-b. El Secretario de Desarrollo Urbano y Obra;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-c. El Secretario del Medio Ambiente;
+b. La persona titular de la Secretaría de Desarrollo Urbano e Infraestructura;
 
-d. El Secretario de Desarrollo Social;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+c. La persona titular de la Secretaría del Medio Ambiente y Desarrollo Sostenible;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+d. La persona titular de la Secretaría de Bienestar;
 
 e. (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-f. El Secretario del Campo;
+f. La persona titular de la Secretaría del Campo;
 
-g. El Secretario de Desarrollo Económico;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-h. El Secretario Técnico del Consejo Estatal de Población;
+g. La persona titular de la Secretaría de Desarrollo Económico;
 
-i. Dos presidentes municipales, que designará el Presidente del Consejo;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-j. El Rector de la Universidad Autónoma del Estado de México;
+h. La persona titular de la Secretaría Técnica del Consejo Estatal de Población;
 
-k. El Rector del Instituto Tecnológico de Estudios Superiores de Monterrey Campus Estado de México;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-l. El Presidente de la Asociación de Industriales del Estado de México;
+i. Dos presidentes municipales, que designará la Presidencia del Consejo;
 
-m. El Presidente del Colegio de Profesionistas que el Presidente del Consejo designe.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Un Comisario, que será designado por el Secretario de la Contraloría.
+j. La persona titular de la Rectoría de la Universidad Autónoma del Estado de México;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+k. La persona titular de la Rectoría del Instituto Tecnológico de Estudios Superiores de Monterrey Campus Estado de México;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+l. La persona titular de la Presidencia de la Asociación de Industriales del Estado de México;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+m. La persona titular de la Presidencia del Colegio de Profesionistas que la Presidencia del Consejo designe.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una Comisaría, que será designada por la persona Titular de la Secretaría de la Contraloría.
 
 Cada uno de los integrantes titulares del Consejo Directivo designará un suplente para que asista en su representación en casos de ausencia.
 
@@ -12841,11 +12963,13 @@ Las autoridades a que se refiere el presente artículo sólo podrán emitir y ej
 
 La intervención durará mientras subsista la causa que la motivó, para el sólo efecto de que no se interrumpa el servicio o la explotación del bien.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 17.
 
-7.- La Secretaría o la Secretaría del Medio Ambiente en el ámbito de sus respectivas atribuciones determinarán mediante disposiciones de carácter general, por causas de fuerza mayor o interés público, restricciones al uso de la infraestructura vial.
+7.- La Secretaría o la Secretaría del Medio Ambiente y Desarrollo Sostenible en el ámbito de sus respectivas atribuciones determinarán mediante disposiciones de carácter general, por causas de fuerza mayor o interés público, restricciones al uso de la infraestructura vial.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 Para los efectos de este artículo la Secretaría contará con un registro de vías y en él se indicarán aquellas en las que el tránsito se restringirá.
 
@@ -13791,11 +13915,11 @@ XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Progr
 
 La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 17.
 
-67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con seis vocales, que son: El Secretario de Movilidad quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano y Obra, del Medio Ambiente y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+67.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con seis vocales, que son: la persona Titular de la Secretaría de Movilidad quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano e Infraestructura, del Medio Ambiente y Desarrollo Sostenible y las personas titulares de las Direcciones Generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13895,11 +14019,11 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 17.
 
-73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales, que son: el Secretario de Movilidad quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano y Obra, del Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
+73.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales, que son: el Secretario de Movilidad quien lo preside, las personas representantes de las secretarías de Finanzas, de Desarrollo Urbano e Infraestructura, del Medio Ambiente y Desarrollo Sostenible, y las personas titulares de las direcciones generales de Vialidad y de la Junta de Caminos del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14013,11 +14137,11 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el Reglamento Interno expedido por el Consejo Directivo.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 17.
 
-79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: el Secretario de Movilidad, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano y Obra y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: la persona Titular de la Secretaría de Movilidad, quien lo preside, las personas representantes de las Secretarías de Finanzas, de Desarrollo Urbano e Infraestructura y del Medio Ambiente y Desarrollo Sostenible, y las personas titulares de las direcciones generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14069,9 +14193,9 @@ III. Estatutos y representación de concesionarios y permisionarios; y
 
 IV. Las demás que señale el reglamento correspondiente.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Registro Estatal de Comunicaciones será público, deberá estar disponible en el portal de internet de la Secretaría de Infraestructura y tendrá efectos declarativos.
+El Registro Estatal de Comunicaciones será público, deberá estar disponible en el portal de internet de la Secretaría de Movilidad y tendrá efectos declarativos.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14221,9 +14345,9 @@ III. Construcciones: a toda obra, edificación o instalación de carácter priva
 
 IV. Normas Técnicas: a las Normas Técnicas Complementarias de Construcción, en materia de diseño urbano y arquitectónico, procesos constructivos, estructuras e instalaciones;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Secretaría: A la Secretaría de Desarrollo Urbano y Obra, y
+V. Secretaría: A la Secretaría de Desarrollo Urbano e Infraestructura, y
 
 VI. Vía pública: a la infraestructura vial primaria y local definidas en el Libro Séptimo del Código, que tiene por objeto el libre tránsito de personas, bienes y servicios; el alojamiento de redes de infraestructura; así como el dar acceso, iluminación, ventilación y asoleamiento a los inmuebles que la delimitan.
 
@@ -14339,23 +14463,35 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 9.- El Comité se integra por:
 
-I. El titular de la Secretaría, quien fungirá como Presidente;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+I. La persona titular de la Secretaría, quien fungirá como Presidente;
 
-II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente, de Desarrollo Económico, y de Salud;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Las instituciones académicas de educación superior, de ciencia y tecnología, las asociaciones de profesionistas en la materia y las cámaras y asociaciones de industriales y de la construcción, que determine el Presidente del Comité, quienes deberán designar como representantes a especialistas en la materia; y
+II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente y Desarrollo Sostenible, de Desarrollo Económico, y de Salud;
 
-IV. Los especialistas independientes que determine el Presidente del Comité.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los integrantes del Comité podrán designar un suplente, quien deberá ser especialista en la materia.
+III. Las instituciones académicas de educación superior, de ciencia y tecnología, las asociaciones de profesionistas en la materia y las cámaras y asociaciones de industriales y de la construcción, que determine la Presidencia del Comité, quienes deberán designar como representantes a especialistas en la materia; y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Las personas especialistas independientes que determine la Presidencia del Comité.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes del Comité podrán designar un suplente, quien deberá ser especialista en la materia.
 
 Los Ayuntamientos de la entidad podrán participar en las sesiones del Comité, a través de un representante especialista en la materia previamente registrado ante el mismo órgano.
 
-Asimismo, podrá invitarse a participar en las sesiones del Comité a representantes de autoridades de carácter federal y estatal, así como a otros especialistas cuando se traten temas de su competencia, especialidad o interés. Será invitado permanente, con derecho a voz, el Presidente de la Comisión de Desarrollo Urbano de la Legislatura del Estado.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Para el desempeño de sus funciones, el Comité contará con un secretariado técnico, cuyo titular será designado por el Presidente del Comité.
+Asimismo, podrá invitarse a participar en las sesiones del Comité a personas representantes de autoridades de carácter federal y estatal, así como a otros especialistas cuando se traten temas de su competencia, especialidad o interés. Será invitado permanente, con derecho a voz, la Presidencia de la Comisión de Desarrollo Urbano de la Legislatura del Estado.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Para el desempeño de sus funciones, el Comité contará con un secretariado técnico, cuyo titular será designado por la Presidencia del Comité.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14745,9 +14881,9 @@ III. De acuerdo al tipo de licencia de construcción que se solicite, adicionalm
 
 A). Para obra nueva, así como para la ampliación, modificación o reparación que afecte elementos estructurales de una obra existente:
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano y Obra.
+1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano e Infraestructura.
 
 2. Constancia de alineamiento y número oficial;
 
@@ -14759,13 +14895,13 @@ A). Para obra nueva, así como para la ampliación, modificación o reparación 
 
 4. Planos arquitectónicos del proyecto en los que se indiquen los pisos, departamentos, viviendas o locales que serán áreas privativas o del dominio exclusivo de los condóminos, los elementos comunes de la construcción y las áreas de uso común del inmueble, así como tabla de indivisos, firmados por el Director Responsable de Obra y/o Corresponsable de Obra, en el caso de construcciones en régimen de propiedad en condominio.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-5. Planos estructurales, firmados por el Director Responsable de Obra y/o Corresponsable de Obra.
+5. Planos estructurales, firmados por el Director o Directora Responsable de Obra y/o Corresponsable de Obra.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-6. Planos de instalaciones hidráulicas, sanitarias, eléctricas y especiales, firmados por el Director Responsable de Obra y/o Corresponsable de Obra.
+6. Planos de instalaciones hidráulicas, sanitarias, eléctricas y especiales, firmados por el Director o Directora Responsable de Obra y/o Corresponsable de Obra.
 
 7. Constancia de terminación de obra, en los casos de ampliación, modificación o reparación de la obra existente.
 
@@ -14773,9 +14909,9 @@ A). Para obra nueva, así como para la ampliación, modificación o reparación 
 
 8. Evaluación técnica de impacto en materia de agua, drenaje, alcantarillado y tratamiento de aguas residuales o documento que acredite la existencia y dotación de agua potable para el desarrollo que se pretende, así como incorporación a los sistemas de agua potable y alcantarillado, el cual será emitido por la Comisión del Agua del Estado de México o autoridad competente, en su caso.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-9. Tratándose de conjuntos urbanos, condominios y lotificaciones de vivienda, industriales, comerciales, de servicios y mixtos, la evaluación técnica de impacto en materia de agua, drenaje, alcantarillado y tratamiento de aguas residuales será exigible para la asignación de obligaciones en materia de infraestructura, vinculantes a la autorización que emita la Secretaría de Desarrollo Urbano y Obra, conforme a lo dispuesto por el Libro Quinto del presente Código y su Reglamento, así como la Ley del Agua para el Estado de México y Municipios.
+9. Tratándose de conjuntos urbanos, condominios y lotificaciones de vivienda, industriales, comerciales, de servicios y mixtos, la evaluación técnica de impacto en materia de agua, drenaje, alcantarillado y tratamiento de aguas residuales será exigible para la asignación de obligaciones en materia de infraestructura, vinculantes a la autorización que emita la Secretaría de Desarrollo Urbano e Infraestructura, conforme a lo dispuesto por el Libro Quinto del presente Código y su Reglamento, así como la Ley del Agua para el Estado de México y Municipios.
 
 B). Para modalidades de obra nueva, de ampliación, modificación o reparación de la construcción existente, que no afecte elementos estructurales e impliquen la construcción de entre veinte y sesenta metros cuadrados:
 
@@ -16105,31 +16241,47 @@ IV. Proponer a la Secretaría, el proyecto de Reglamento del presente Libro.
 
 V. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 19.
 
 23.- La Comisión está integrada por:
 
-I. El Secretario de Desarrollo Económico, quien fungirá como Presidente.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+I. La persona titular de la Secretaría de Desarrollo Económico, quien fungirá como Presidencia.
 
-II. El Secretario de Desarrollo Urbano y Obra.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. El Director General del Instituto de la Función Registral del Estado de México.
+II. La persona titular de la Secretaría de Desarrollo Urbano e Infraestructura.
 
-IV. El Presidente del Colegio de Notarios del Estado de México.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. El titular del Registro.
+III. La persona titular de la Dirección General del Instituto de la Función Registral del Estado de México.
 
-VI. Un representante de las asociaciones de prestadores de servicios inmobiliarios del Estado de México que se encuentre inscrita en el Registro, con voz, pero sin voto.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los integrantes de la Comisión podrán nombrar un suplente.
+IV. La persona que presida del (sic) Colegio de Notarios del Estado de México.
 
-Para su funcionamiento, la Comisión contará con un Secretario Técnico, que será designado por el Presidente de la Comisión, el que participará en las sesiones de la Comisión con derecho a voz, pero no a voto.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los nombramientos de los integrantes de la Comisión, así como el del Secretario Técnico, son de carácter honorífico.
+V. La persona titular del Registro.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VI. Una persona representante de las asociaciones de prestadores de servicios inmobiliarios del Estado de México que se encuentre inscrita en el Registro, con voz, pero sin voto.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes de la Comisión podrán nombrar un suplente.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Para su funcionamiento, la Comisión contará con una Secretaría Técnica, cuya persona titular será designado por la Presidencia de la Comisión, el que participará en las sesiones de la Comisión con derecho a voz, pero no a voto.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los nombramientos de las personas integrantes de la Comisión, así como el de la Secretaría Técnica, son de carácter honorífico.
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -19108,3 +19260,39 @@ SEXTO.- Lo previsto en las Secciones Novena denominada “Del Impuesto Ecológic
 SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
 
 OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
