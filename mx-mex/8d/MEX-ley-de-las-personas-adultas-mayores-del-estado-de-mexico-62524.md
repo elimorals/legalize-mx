@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-06"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
 
@@ -79,7 +79,9 @@ XI. Geriatría: Rama de la medicina que se dedica al estudio de las enfermedades
 
 XII. Gerontología: Ciencia que trata del envejecimiento del organismo humano y a los fenómenos que la caracterizan;
 
-XIII. SEDESEM: Secretaría de Desarrollo Social del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIII. Secretaría: Secretaría de Bienestar del Estado de México;
 
 XIV. Tanatología: Conjunto de conocimiento (sic) médicos relativos a la muerte; y
 
@@ -91,9 +93,9 @@ XV. Vulnerabilidad: Condición de indefensión jurídica, social, económica o f
 
 La aplicación, seguimiento y observancia de las disposiciones de esta Ley corresponde:
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y el Órgano Rector; y
+I. Al Ejecutivo Estatal a través de la Secretaría de Bienestar y el Órgano Rector;
 
 II. A los Gobiernos Municipales, en el ámbito de sus respectivas competencias, por conducto de los SMDIF.
 
@@ -295,9 +297,11 @@ XV. Promover la difusión de los derechos y valores en beneficio de los adultos 
 
 ### CAPÍTULO II. DE LAS INSTANCIAS RESPONSABLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 8.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría:
 
 I. Fomentar la participación de los sectores público, social y privado en la promoción, seguimiento y financiamiento de los programas de atención a los adultos mayores;
 
@@ -513,9 +517,11 @@ VII. Brindar capacitación y financiamiento para el autoempleo de los adultos ma
 
 VIII. Promover el establecimiento de convenios de colaboración con los sectores público, social y privado, que fomenten y propicien la integración laboral de los adultos mayores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 15.
 
-Corresponde a la Secretaría de Educación:
+Corresponde a la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 > <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
@@ -539,7 +545,35 @@ VI. Fomentar el acceso gratuito o con descuentos especiales, a eventos culturale
 
 VII. Promover, en coordinación con las autoridades correspondientes, el establecimiento de programas permanentes de educación para la alfabetización de los adultos mayores, en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VIII. Instituir programas de educación física acordes para las personas adultas mayores, a efecto de constituir y fomentar en ellos, el hábito del ejercicio o cultura deportiva en beneficio de su salud física y psicológica;
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IX. Promover la participación de las personas adultas mayores en actividades deportivas, así como la adaptación, desarrollo y reglamentación de las diversas disciplinas y modalidades del deporte de acuerdo con las necesidades y características de su estado físico;
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Impulsar el desarrollo de competencias en las diferentes modalidades o disciplinas deportivas a nivel regional, estatal e interestatal en las que se fomente la participación y el reconocimiento de las personas adultas mayores;
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo con las necesidades y requerimientos de las personas adultas mayores;
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XII. Instituir acciones y programas, en coordinación con las instancias correspondientes, que le permitan a las personas adultas mayores el mantenimiento físico natural, progresivo y sistemático;
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIII. Promover el acceso gratuito de las personas adultas mayores o en su caso con descuentos especiales a centros de entrenamiento y acondicionamiento físico, así como instalaciones deportivas, y
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIV. Brindar asesoría e información a las organizaciones públicas o privadas, e instituciones que así lo requieran, sobre las actividades físicas que puedan realizar las personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO I. DE LA FAMILIA
 
@@ -547,7 +581,7 @@ VII. Promover, en coordinación con las autoridades correspondientes, el estable
 
 ###### Artículo 16.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Obra:
+Corresponde a la Secretaría de Desarrollo Urbano e Infraestructura:
 
 I. Verificar que los desarrollos urbanos cuenten con las características que satisfagan las necesidades de los adultos mayores y que les permitan un libre desplazamiento;
 
@@ -595,25 +629,9 @@ II. Brindar a las víctimas que sean adultos mayores la información integral so
 
 III. Garantizar la seguridad jurídica, la integridad física, la protección de datos personales y la salvaguarda de los bienes de las víctimas que sean adultos mayores.
 
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
-
 ###### Artículo 19 Bis.
 
-Corresponde al Instituto Mexiquense de Cultura Física y Deporte en el ámbito de sus atribuciones:
-
-I. Instituir programas de educación física para los adultos mayores, a efecto de constituir y fomentar en ellos, el hábito del ejercicio o cultura deportiva en beneficio de su salud física y psicológica;
-
-II. Promover la participación de los adultos mayores en actividades deportivas, así como la adaptación, desarrollo y reglamentación de las diversas disciplinas y modalidades del deporte de acuerdo a las necesidades y características de su estado físico;
-
-III. Impulsar el desarrollo de competencias en las diferentes modalidades o disciplinas deportivas a nivel regional, estatal e interestatal en las que se fomente la participación y el reconocimiento de los adultos mayores;
-
-IV. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las necesidades y requerimientos de los adultos mayores;
-
-V. Instituir acciones y programas, en coordinación con las instancias correspondientes, que le permitan al adulto mayor el mantenimiento físico natural, progresivo y sistemático;
-
-VI. Promover el acceso gratuito de los adultos mayores o en su caso con descuentos especiales a centros de entrenamiento y acondicionamiento físico, así como instalaciones deportivas;
-
-VII. Brindar asesoría e información a las organizaciones públicas o privadas, e instituciones que así lo requieran, sobre las actividades físicas que puedan realizar los adultos mayores.
+(DEROGADO, G.G. 5 DE ABRIL DE 2024)
 
 > <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
 
@@ -693,13 +711,13 @@ XIV. Elaborar un informe anual que se remitirá a las Comisiones correspondiente
 
 El Comité Estatal para la Atención del Adulto Mayor estará integrado por:
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Una Presidencia, que será la persona titular de la Secretaría de Desarrollo Social;
+I. Una Presidencia, que estará (sic) cargo de la persona titular de la Secretaría;
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Una Secretaría Técnica, que será la persona que designe el titular de la SEDESEM;
+II. Una Secretaría Técnica, que estará (sic) cargo de la persona que designe la persona titular de la Secretaría;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -713,7 +731,9 @@ b) De la Secretaría de Salud;
 
 c) De la Secretaría del Trabajo;
 
-d) De la Secretaría de Educación;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+d) De la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
 > <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -729,9 +749,9 @@ h) Del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del
 
 i) De la Secretaría de Finanzas;
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-j) De la Secretaría de Desarrollo Urbano y Obra;
+j) De la Secretaría de Desarrollo Urbano e Infraestructura;
 
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -897,11 +917,11 @@ IX. Denunciar a la autoridad competente los casos que sean de su conocimiento so
 
 Cuando una institución otorgue atención a un Adulto Mayor, examinará, en primer término, la posibilidad de su reintegración familiar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 46.
 
-La creación de la Estancia del Adulto Mayor será impulsada por organizaciones civiles y el Municipio; deberán funcionar de acuerdo con el Reglamento y el Programa Estatal. SEDESEM propondrá el Modelo de Atención y se encargará de su ejecución.
+La creación de la Estancia del Adulto Mayor será impulsada por organizaciones civiles y el Municipio; deberán funcionar de acuerdo con el Reglamento y el Programa Estatal. La Secretaría propondrá el Modelo de Atención y se encargará de su ejecución.
 
 El Gobierno Estatal y los Gobiernos Municipales se coordinarán con los diversos sectores social y privado para impulsar la creación de estancias para la atención a los Adultos Mayores. Corresponde a las Estancias municipales del Adulto Mayor:
 
@@ -1182,3 +1202,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
