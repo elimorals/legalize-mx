@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-del-articulo-88-bis-de-la-constitucion-40969"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-09"
-last_updated: "2016-12-20"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DEL ARTÍCULO 88 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 9 de septiembre de 2004.
 
@@ -77,9 +77,11 @@ II. Se contabilizarán solamente los días y horas hábiles; salvo que expresame
 
 III. Durante los periodos de receso y en los días en que sean suspendidas las labores del Tribunal, no correrá plazo alguno.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 7.
 
-Las notificaciones al Gobernador del Estado de México, se entenderán con el Secretario del ramo correspondiente o con el responsable del Área Jurídica del Gobierno Estatal.
+Las notificaciones a la persona Titular del Poder Ejecutivo del Estado de México, se entenderán con la persona titular de la Dependencia correspondiente o con la Consejería Jurídica del Gobierno Estatal.
 
 ###### Artículo 8.
 
@@ -123,7 +125,9 @@ III. Tercero Interesado: estado, poder o municipio que sin tener el carácter de
 
 Las partes a que se refiere el artículo anterior, comparecerán a juicio, en su caso, por conducto de las personas que hubieren designado para representarlos, de acuerdo a las disposiciones que los rigen. Asimismo, podrán mediante oficio acreditar delegados para que concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan el recurso previsto en este ordenamiento, así como para recibir notificaciones.
 
-En el caso del Gobernador del Estado, quien lo representará en juicio será el Secretario del ramo que corresponda, o el responsable del área jurídica del Gobierno Estatal correspondiente.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En el caso de la persona Titular del Poder Ejecutivo del Estado, quien la representará en juicio será la persona titular de la Dependencia correspondiente o la Consejería Jurídica del Gobierno Estatal.
 
 ### CAPITULO SEGUNDO. DE LA DEMANDA Y SU CONTESTACION
 
@@ -401,7 +405,9 @@ Este título tiene por objeto regular el procedimiento, relativo a las Acciones 
 
 Pueden interponer las Acciones de Inconstitucionalidad, en términos de la presente ley:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. La persona Titular del Poder Ejecutivo;
 
 II. Los diputados integrantes de la Legislatura Estatal, cuando estén de acuerdo con ello al menos el treinta y tres por ciento de los miembros de la Legislatura;
 
@@ -441,9 +447,11 @@ VII. Los conceptos de invalidez.
 
 La parte actora deberá designar representante común, quien actuará durante todo el procedimiento. En caso de que no se designare, lo hará de oficio el Magistrado Instructor. Los representantes comunes podrán acreditar delegados para que hagan promociones, asistan a audiencias, rindan pruebas y ofrezcan alegatos, así como para que promuevan el recurso previsto en esta Ley.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 55.
 
-El Gobernador del Estado será representado por el Secretario del ramo correspondiente o por el responsable del Area Jurídica del Gobierno Estatal y considerando para tales efectos las competencias establecidas por las disposiciones legales.
+La persona Titular del Poder Ejecutivo será representada por la persona titular de la Dependencia correspondiente o la Consejería Jurídica del Gobierno Estatal, considerando para tales efectos las competencias establecidas por las disposiciones legales.
 
 ###### Artículo 56.
 
@@ -556,3 +564,39 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
