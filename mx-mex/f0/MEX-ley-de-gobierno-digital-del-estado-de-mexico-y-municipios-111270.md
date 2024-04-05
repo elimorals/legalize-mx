@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-gobierno-digital-del-estado-de-mexico-y-municipios-11127
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -91,9 +91,11 @@ Los sujetos de la Ley deberán realizar las acciones de fomento, planeación, re
 
 Para el cumplimiento de las disposiciones de esta Ley, los sujetos podrán suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales, de otros estados o municipios así como con los sectores social y privado, en materia de uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-Corresponde a la Secretaría de Finanzas vigilar el cumplimiento de las disposiciones de la presente Ley, para lo cual deberá coordinarse con los sujetos de la presente Ley.
+Corresponde a la Presidencia del Consejo y a la Agencia Digital del Estado de México, en sus respectivos ámbitos de competencia, vigilar el cumplimiento de las disposiciones de la presente Ley, para lo cual deberá coordinarse con los sujetos de la presente Ley.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -105,7 +107,13 @@ Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para lo
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Autenticación: al proceso por el cual se constata que un titular es quien dice ser y que tal situación es demostrable.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. Agencia Digital: a la Agencia Digital del Estado de México.
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I Bis. Autenticación: al proceso por el cual se constata que un titular es quien dice ser y que tal situación es demostrable.
 
 II. Autenticidad: a la certeza que un documento digital electrónico determinado fue emitido por el titular y que, por lo tanto el contenido y las consecuencias jurídicas que del mismo deriven, le son atribuibles a éste, en tanto se consideran expresión de su voluntad.
 
@@ -125,7 +133,7 @@ VII. CUTS: a la Clave Única de Trámites y Servicios, por la cual se reconoce l
 
 VIII. Datos Abiertos: a los datos digitales de carácter público accesibles en línea que pueden ser reutilizados y redistribuidos por cualquier interesado y que son accesibles, integrales, gratuitos, no discriminatorios, oportunos, permanentes, primarios, legibles por maquinas, en formatos abiertos y de libre uso, en términos de las disposiciones jurídicas de la materia.
 
-IX. Dirección: a la Dirección General del Sistema Estatal de Informática.
+IX. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -183,7 +191,7 @@ XXIII. RETyS: al Registro Estatal de Trámites y Servicios.
 
 XXIV. RUPAEMEX: al Registro Único de Personas Acreditadas en el Estado de México.
 
-XXV. Secretaría: la Secretaría de Finanzas del Gobierno del Estado de México.
+XXV. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
 XXVI. SEITS: al Sistema Electrónico de Información, Trámites y Servicios del Estado de México.
 
@@ -195,11 +203,13 @@ XXVIII. Tecnologías de la información y comunicación: al conjunto de elemento
 
 XXIX. Titular: a la persona que posee un dispositivo de creación de Sello Electrónico y que actúa por su propio derecho o en representación de una persona física o jurídica colectiva.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XXX. Unidad Certificadora: a la unidad administrativa, adscrita a la Dirección, que tiene a su cargo la emisión del sello electrónico y firma electrónica, administra la parte tecnológica del procedimiento y emite los certificados del mismo.
+XXX. Unidad Certificadora: a la unidad administrativa, adscrita a la Agencia Digital, que tiene a su cargo la emisión del sello electrónico y firma electrónica, administra la parte tecnológica del procedimiento y emite los certificados del mismo.
 
-XXXI. Unidad Registradora: a la Unidad Administrativa dependiente de la Dirección encargada de generar la CUTS para el acceso al SEITS.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXXI. Unidad Registradora: a la Unidad Administrativa dependiente de la Agencia Digital encargada de generar la CUTS para el acceso al SEITS.
 
 ### CAPÍTULO SEGUNDO. DE LAS INSTANCIAS PARA LA CONDUCCIÓN Y COORDINACIÓN DE LA POLÍTICA DE GOBIERNO DIGITAL
 
@@ -215,87 +225,77 @@ Se crea el Consejo, como órgano colegiado y autoridad en materia de Tecnología
 
 El Consejo estará integrado por:
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-1. Un presidente quien será el titular de la Secretaría General de Gobierno.
+1. Una Presidencia que estará a cargo de la persona titular de la Secretaría General de Gobierno.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-2. Un vicepresidente quien será designado por el titular de la Secretaría General de Gobierno.
+2. Una Vicepresidencia que estará a cargo de la persona designada por la persona titular de la Secretaría General de Gobierno.
 
-3. Un secretario ejecutivo quien será el titular de la Secretaría de Desarrollo Económico.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-4. Un secretario técnico quien será el titular de la Secretaría.
+3. Una Secretaría Ejecutiva que estará a cargo de la persona titular de la Secretaría de Desarrollo Económico.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+4. Una Secretaría Técnica que estará a cargo de la persona titular de la Agencia Digital.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 5. Vocales, que serán:
 
-I. El titular de la Secretaría de Salud.
+I. La persona titular de la Secretaría de Finanzas.
 
-II. El titular de la Secretaría del Trabajo.
+II. La persona titular de la Oficialía Mayor.
 
-III. El titular de la Secretaría de Educación.
+III. La persona titular de la Secretaría de Salud.
 
-IV. El titular de la Secretaría de Desarrollo Social.
+IV. La persona titular de la Secretaría del Trabajo.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+V. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
-V. La persona titular de la Secretaría de Desarrollo Urbano y Obra.
+VI. La persona titular de la Secretaría de Bienestar.
 
-> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+VII. La persona titular de la Secretaría de Desarrollo Urbano e Infraestructura.
 
-VI. La persona titular de la Secretaría de las Mujeres;
+VIII. La persona titular de la Secretaría de las Mujeres.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+IX. La persona titular de la Secretaría del Campo.
 
-VII. La persona titular de la Secretaría del Campo.
+X. La persona titular de la Secretaría de Cultura y Turismo.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+XI. La persona titular de la Secretaría de Seguridad.
 
-VIII. La persona titular de la Secretaría de Cultura y Turismo.
+XII. La persona titular de la Secretaría de la Contraloría.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+XIII. La persona titular de la Secretaría de Movilidad.
 
-IX. La persona titular de la Secretaría de Seguridad.
+XIV. La persona titular de la Secretaría del Medio Ambiente y Desarrollo Sostenible.
 
-X. El titular de la Secretaría de la Contraloría.
+XV. La persona titular de la Secretaría del Agua.
 
-XI. El titular de la Secretaría de Movilidad.
+XVI. La persona titular de la Consejería Jurídica.
 
-XII. El titular de la Secretaría del Medio Ambiente.
+XVII. La persona titular de la Fiscalía General de Justicia del Estado de México.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XVIII. Cuatro presidentes o presidentas municipales.
 
-XIII. El titular de la Secretaría de Justicia y Derechos Humanos.
+XIX. La persona titular de la Comisión de Derechos Humanos del Estado de México.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XX. Una persona representante del Tribunal Electoral del Estado de México.
 
-XIV. El titular de la Fiscalía General de Justicia del Estado de México.
+XXI. Una persona representante del Instituto Electoral del Estado de México.
 
-XV. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
+XXII. Una persona representante del Instituto de Transparencia y Acceso a la Información y Protección de Datos Personales del Estado de México y Municipios.
 
-XVI. (DEROGADA, G.G. 4 DE SEPTIEMBRE DE 2017)
+XXIII. Una persona representante del Tribunal de Justicia Administrativa del Estado de México.
 
-XVII. Cuatro presidentes municipales.
+XXIV. Una persona representante de la Universidad Autónoma del Estado de México.
 
-XVIII. El titular de la Comisión de Derechos Humanos del Estado de México.
+XXV. Una persona representante del Tribunal Estatal de Conciliación y Arbitraje del Estado de México.
 
-XIX. Un representante del Tribunal Electoral del Estado de México.
-
-XX. Un representante del Instituto Electoral del Estado de México.
-
-XXI. Un representante del Instituto de Transparencia y Acceso a la Información y Protección de Datos Personales del Estado de México y Municipios.
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
-
-XXII. Una persona representante del Tribunal de Justicia Administrativa del Estado de México.
-
-XXIII. Un representante de la Universidad Autónoma del Estado de México.
-
-XXIV. Un representante del Tribunal Estatal de Conciliación y Arbitraje del Estado de México.
-
-XXV. (DEROGADA, G.G. 16 DE DICIEMBRE DE 2019)
-
-XXVI. Un representante del Colegio de Notarios del Estado de México.
+XXVI. Una persona representante del Colegio de Notarios del Estado de México.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -333,7 +333,9 @@ I. Aprobar la implementación de la política pública de Gobierno Digital, a tr
 
 II. Promover la creación de los instrumentos que garanticen a las personas el derecho permanente de realizar trámites y servicios digitales
 
-III. Presentar a la Secretaría la partida presupuestal para los rubros relacionados con el Gobierno Digital.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Presentar a la Agencia Digital la partida presupuestal para los rubros relacionados con el Gobierno Digital.
 
 IV. Aprobar la Agenda Digital.
 
@@ -373,97 +375,115 @@ Cada Sujeto de la Ley integrará un Comité Interno de Gobierno Digital, con la 
 
 La organización y funcionamiento de los Comités Internos deberá apegarse a lo dispuesto en el Reglamento de la presente Ley.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DEL SISTEMA ESTATAL DE INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. DE LA AGENCIA DIGITAL DEL ESTADO DE MÉXICO
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 11.
 
-La Dirección tendrá las atribuciones siguientes:
+Se crea la Agencia Digital como una unidad administrativa técnica dependiente directamente de la persona titular del Poder Ejecutivo Estatal, y tiene a su cargo las atribuciones previstas en la presente Ley, en su Reglamento y en las demás disposiciones jurídicas aplicables. La Agencia Digital deberá coordinar sus trabajos con la Presidencia del Consejo.
 
-> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+La persona titular de la Agencia Digital será nombrada y removida por la persona titular del Poder Ejecutivo Estatal, a propuesta de la Presidencia del Consejo, y contará con las unidades administrativas y el personal autorizado que se establezcan en su Reglamento Interior de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
-I. Almacenar y custodiar por cinco años en el repositorio del SEITS los documentos y datos otorgados por las Personas Acreditadas a través de los portales que se establezcan por parte de los sujetos de la presente Ley, conforme a lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Implementar, operar, administrar, mantener y actualizar el RUPAEMEX, aplicando las políticas establecidas en la presente Ley, así como las disposiciones reglamentarias que surjan de esta.
+###### Artículo 11 Bis.
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+La Agencia Digital tiene por objeto diseñar, coordinar, controlar, supervisar y evaluar los programas, procesos y atribuciones relativos a la aplicación de las tecnologías de la información y comunicación, gestión digital y de datos, gobernanza tecnológica, digital y de la conectividad en la entidad, observando las políticas, agenda digital, estándares, criterios, lineamientos, normas, procedimientos, instrumentos y plataforma que señale el Consejo; así como proporcionar soporte, asesoría y asistencia técnica a las dependencias y organismos auxiliares de la Administración Pública Estatal, órganos autónomos, ayuntamientos y notarías públicas, a efecto de contribuir a la simplificación de la gestión gubernamental y la prestación de servicios.
 
-III. Formular el proyecto de estándares de Tecnologías de la Información y Comunicación y someterlo a consideración del Consejo.
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Otorgar el CUTS a las personas que soliciten su inscripción en el RUPAEMEX.
+###### Artículo 11 Ter.
 
-> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+La Agencia Digital coordinará con la Presidencia del Consejo la implementación, desarrollo y fomento de las políticas de Gobierno Digital y uso estratégico de las tecnologías de la información en el ejercicio de la gestión pública, así como participarán en la emisión de los lineamientos técnicos y brindarán asesoría a los sujetos de la presente Ley.
 
-IV Bis. Coadyuvar con la CEMER en el diseño e implementación del Expediente para Trámites y Servicios.
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Planear, operar, administrar y proporcionar el soporte técnico del SEITS, aplicando las políticas establecidas en la presente Ley y en los ordenamientos jurídicos aplicables en la materia.
+###### Artículo 11 Quater.
 
-VI. Integrar el RUPAEMEX, con el fin de interconectar las redes digitales de información y comunicación entre los sujetos de la Ley, que permita el intercambio de información y servicios entre estos.
+La Agencia Digital tendrá las atribuciones siguientes:
 
-VII. Integrar y administrar el SEITS, conforme a la información que otorguen los sujetos de la Ley.
+I. Elaborar y proponer a la persona titular del Poder Ejecutivo Estatal las políticas en materia de gobierno digital, gobernanza tecnológica, de la conectividad y de las tecnologías de la información y comunicación que rijan su uso y aprovechamiento en la Administración Pública Estatal, así como conducir, supervisar, vigilar y evaluar su cumplimiento, en coordinación con las instancias competentes;
 
-VIII. Adoptar las medidas necesarias para que el almacenamiento y custodia de los documentos y datos esté protegida durante el tiempo que permanezcan bajo su tutela.
+II. Diseñar, coordinar, gestionar, implementar y actualizar programas, mecanismos, plataformas o acciones para atender las necesidades digitales e informáticas de la entidad, en coordinación con la Presidencia del Consejo;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+III. Proponer y aplicar políticas y procedimientos para asegurar la integridad y seguridad de los datos de la información que se procese a través de las tecnologías de la información y comunicación generadas en el Poder Ejecutivo del Gobierno del Estado;
 
-IX. Difundir el uso de las tecnologías de la información y comunicación en la gestión pública y de los instrumentos de Gobierno Digital.
+IV. Realizar el seguimiento de la evolución de las tecnologías de información y comunicación para mantener actualizado el conocimiento y la infraestructura que en la materia sea aplicable a las dependencias y los organismos auxiliares de la Administración Pública Estatal;
 
-X. Asesorar a los sujetos de la presente Ley, acerca de las características, aplicaciones y utilidad de los instrumentos de Gobierno Digital.
+V. Proponer a la persona titular del Poder Ejecutivo Estatal la actualización de la normativa en materia de tecnologías de información y comunicación en la Administración Pública Estatal;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+VI. Desarrollar, operar e impulsar los sistemas automatizados y la automatización de los procesos de trabajo de la Administración Pública Estatal, mediante la aplicación adecuada y estandarizada de las tecnologías de la información y comunicación;
 
-XI. Emitir las políticas de uso de las tecnologías de la información y comunicación que habrán de observar los sujetos de la presente Ley, para el cumplimiento de las mismas.
+VII. Coordinar la planeación del desarrollo en materia de tecnologías de la información y comunicación en la Administración Pública Estatal, y las acciones necesarias para su elaboración, ejecución, control y evaluación, así como establecer los lineamientos para su óptimo funcionamiento;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+VIII. Administrar la operación de la Red Estatal de Telecomunicaciones, la Red Privada de voz del Gobierno del Estado de México y el servicio de videoconferencia de la Agencia Digital, así como implementar esquemas, políticas y lineamientos para su seguridad;
 
-XII. Establecer y mantener relaciones, en materia de tecnologías de la información y comunicación, con los sujetos de la presente Ley, así como con las dependencias y entidades federales y de otras entidades que tengan competencia en la misma materia.
+IX. Proponer y aplicar las políticas y los lineamientos para la creación, integración y el funcionamiento de centros de datos, nube pública, nube privada y bases de datos de nómina en la Administración Pública Estatal;
 
-XIII. Validar la formulación de los programas de trabajo de los sujetos de la Ley.
+X. Establecer y supervisar el cumplimiento de los lineamientos para la implementación, administración y uso de los certificados digitales;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XI. Determinar los estándares, lineamientos y procesos en materia de tecnologías de la información y comunicación que deban observar e implementar las dependencias y los organismos auxiliares que conforman la administración pública estatal;
 
-XIV. Emitir los certificados de sello electrónico que le soliciten y emitir la firma electrónica para los casos de excepción.
+XII. Administrar el Portal del Poder Ejecutivo del Gobierno del Estado, y establecer lineamientos para el desarrollo y actualización de sitios web de la Administración Pública Estatal, así como promover la difusión de información gubernamental por medio de las tecnologías de la información y comunicación;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XIII. Proporcionar asesoría y asistencia técnica en materia de tecnologías de la información y comunicación a las dependencias y a los organismos auxiliares que conforman la Administración Pública Estatal, y a los Ayuntamientos que lo soliciten;
 
-XIV Bis. Establecer los requisitos necesarios para obtener el dictamen técnico.
+XIV. Establecer los requisitos, determinar la estructura y emitir los dictámenes técnicos para la adquisición, arrendamiento o prestación de bienes y servicios, incluido el mantenimiento o actualización, en materia de tecnologías de la información y comunicación por parte de las dependencias y de los organismos auxiliares que conforman la Administración Pública Estatal, en el ámbito de su competencia y en coordinación con las unidades administrativas competentes;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XV. Suscribir convenios y acuerdos en materia de tecnologías de la información y comunicación, gobierno digital, gestión de datos, y gobernanza tecnológica y de la conectividad, previa autorización de la persona titular del Poder Ejecutivo Estatal, con los sectores público, social y privado, en términos de los ordenamientos vigentes en la materia;
 
-XIV. Ter. Determinar la estructura que debe contener el dictamen técnico.
+XVI. Brindar asesoría a las dependencias y a los organismos auxiliares que conforman la Administración Pública Estatal acerca de las características, aplicaciones y utilidad de los instrumentos de Gobierno Digital, así como para la elaboración de los programas y la ejecución de las acciones relativos a las tecnologías de la información y comunicación, con base en la planeación del desarrollo en esta materia;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XVII. Coordinar los proyectos en materia de tecnologías de la información y comunicación de la Administración Pública Estatal, así como participar en los proyectos prioritarios que requieran del uso de tecnologías de la información y comunicación, a solicitud de las dependencias o de los organismos auxiliares;
 
-XIV. Quáter. Emitir el dictamen técnico a los sujetos de la Ley de su competencia.
+XVIII. Promover la instalación, operación y ampliación de las redes de telecomunicaciones y la conectividad en la entidad;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XIX. Coordinar con la Presidencia del Consejo, la implementación, desarrollo, fomento de la política de gobierno digital, la estrategia digital, el uso estratégico de tecnologías, y el desarrollo de innovación tecnológica, así como la emisión de los lineamientos técnicos en materia de gobierno digital;
 
-XV. Coordinar las acciones necesarias para la elaboración, ejecución., control y evaluación de las tecnologías de la información y comunicación.
+XX. Implementar, integrar, operar, administrar, mantener y actualizar el RUPAEMEX y el SEITS aplicando las políticas establecidas en la presente Ley, así como las disposiciones reglamentarias que surjan de esta, con el fin de interconectar las redes digitales de información y comunicación entre los sujetos de la Ley, que permita el intercambio de información y servicios entre estos;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XXI. Implementar y promover mecanismos de participación ciudadana para el diseño, coordinación, inclusión, supervisión y evaluación de las políticas en materia de gobierno digital, tecnologías de la información y comunicación, y el gobierno abierto;
 
-XVI. Desarrollar soluciones innovadoras que conduzcan al establecimiento y optimización de trámites y servicios digitales de los sujetos de la Ley.
+XXII. Almacenar y custodiar por cinco años en el repositorio del SEITS los documentos y datos otorgados por las Personas Acreditadas a través de los portales que se establezcan por parte de los sujetos de la presente Ley, conforme a lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios;
 
-XVII. Facilitar la incorporación de las mejores prácticas del sector tecnológico, por medio de capacitaciones u otros esquemas aplicables a los sujetos de la Ley.
+XXIII. Formular el proyecto de estándares de Tecnologías de la Información y Comunicación y someterlo a consideración del Consejo;
 
-XVIII. Proponer acciones de mejora que permitan el cumplimiento de la Agenda Digital.
+XXIV. Otorgar el CUTS a las personas que soliciten su inscripción en el RUPAEMEX;
 
-XIX. Diseñar instrumentos de orientación, dirigidos a las personas, sobre los derechos y obligaciones que les otorga esta Ley y otros ordenamientos en materia de Gobierno Digital.
+XXV. Coadyuvar con la CEMER en el diseño e implementación del Expediente para Trámites y Servicios, y asesorarla en las posibles mejoras al RETyS, para efecto de facilitar el acceso de las personas físicas y jurídicas colectivas a los diferentes trámites y servicios que ofrecen los sujetos de la Ley;
 
-XX. Participar en el desarrollo e implementación del SEITS y el RUPAEMEX.
+XXVI. Planear, operar, administrar y proporcionar el soporte técnico del SEITS, aplicando las políticas establecidas en la presente Ley y en los ordenamientos jurídicos aplicables en la materia;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XXVII. Adoptar las medidas necesarias para que el almacenamiento y custodia de los documentos y datos esté protegida durante el tiempo que permanezcan bajo su tutela;
 
-XXI. Asesorar a la CEMER en las mejoras al RETyS, para efecto de facilitar el acceso de las personas físicas y jurídicas colectivas a los diferentes trámites y servicios que ofrecen los sujetos de la Ley.
+XXVIII. Difundir el uso de las tecnologías de la información y comunicación en la gestión pública y de los instrumentos de Gobierno Digital;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XXIX. Establecer y mantener relaciones, en materia de tecnologías de la información y comunicación, con los sujetos de la presente Ley, así como con las dependencias y entidades federales y de otras entidades que tengan competencia en la misma materia;
 
-XXII. Proponer la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios digitales.
+XXX. Validar la formulación de los programas de trabajo de los sujetos de la Ley;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XXXI. Emitir los certificados de sello electrónico que le soliciten y emitir la firma electrónica para los casos de excepción;
 
-XXIII. Integrar el Programa Estatal de Tecnologías de la Información y Comunicación.
+XXXII. Desarrollar soluciones innovadoras que conduzcan al establecimiento y optimización de trámites y servicios digitales de los sujetos de la Ley;
 
-XXIV. Las demás que le confieran la presente Ley y demás disposiciones jurídicas.
+XXXIII. Facilitar la incorporación de las mejores prácticas del sector tecnológico, por medio de capacitaciones u otros esquemas aplicables a los sujetos de la Ley;
+
+XXXIV. Proponer acciones de mejora que permitan el cumplimiento de la Agenda Digital;
+
+XXXV. Diseñar instrumentos de orientación, dirigidos a las personas, sobre los derechos y obligaciones que les otorga esta Ley y otros ordenamientos en materia de Gobierno Digital;
+
+XXXVI. Proponer la plataforma tecnológica que garantice controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios digitales;
+
+XXXVII. Integrar el Programa Estatal de Tecnologías de la información y comunicación;
+
+XXXVIII. Desarrollar acciones para abatir de manera especial la brecha digital entre los jóvenes, y
+
+XXXIX. Las demás que le confieran la presente Ley, su Reglamento y las demás disposiciones jurídicas.
+
+Las dependencias y organismos auxiliares de la Administración Pública Estatal proporcionarán oportunamente a la Agencia Digital la información, datos y documentación, así como el apoyo que ésta les solicite para el cumplimiento de sus funciones.
 
 ### CAPÍTULO TERCERO. DE LOS INSTRUMENTOS DEL GOBIERNO DIGITAL
 
@@ -647,9 +667,11 @@ Para la transformación de los portales informativos a portales transaccionales,
 
 El RUPAEMEX es la base de datos que se conforma con la información entregada de personas físicas, jurídicas colectivas, notarios y servidores públicos en ejercicio de sus funciones, para efecto de realizar trámites y solicitar servicios en línea.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 27.
 
-La Dirección tendrá a su cargo:
+La Agencia Digital tendrá a su cargo:
 
 I. La planeación, diseño, control, coordinación, mantenimiento y actualización del RUPAEMEX.
 
@@ -683,7 +705,9 @@ Se crea el SEITS como un servicio público de consulta y gestión de trámites y
 
 Lo anterior, sin perjuicio de la realización de dichos trámites y servicios directamente ante las instancias correspondientes.
 
-La operación y administración del SEITS estará a cargo de la Dirección, en términos del Reglamento de la presente Ley.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La operación y administración del SEITS estará a cargo de la Agencia Digital, en términos del Reglamento de la presente Ley.
 
 ###### Artículo 32.
 
@@ -729,9 +753,11 @@ Las personas jurídicas colectivas, notarios y servidores públicos en ejercicio
 
 El Reglamento de la presente Ley establecerá las bases para atender la gestión de trámites y servicios en ventanilla, a través de la utilización del SEITS.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 37.
 
-Los sujetos de la presente Ley podrán solicitar a la Dirección la validación de determinada información contenida en el RUPAEMEX, a efecto de informar su criterio respecto de la respuesta y/o resolución de trámites y gestión de servicios en el ámbito de su competencia.
+Los sujetos de la presente Ley podrán solicitar a la Agencia Digital la validación de determinada información contenida en el RUPAEMEX, a efecto de informar su criterio respecto de la respuesta y/o resolución de trámites y gestión de servicios en el ámbito de su competencia
 
 ### CAPÍTULO OCTAVO. DEL PADRÓN DE CERTIFICADOS ELECTRÓNICOS DE SERVIDORES PÚBLICOS
 
@@ -891,17 +917,17 @@ III. Fomentar la celebración de convenios de coordinación, colaboración y con
 
 IV. Implementar el Gobierno Digital y el uso del Expediente para Trámites y Servicios para hacer eficiente la prestación de los trámites y servicios que la Administración Pública Municipal ofrece a las personas;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Proponer la regulación necesaria en materia de uso y aprovechamiento estratégico de tecnologías de la información y comunicación, tomando en cuenta las disposiciones emitidas por el Consejo y la Dirección, con el fin de establecer los requerimientos tecnológicos para la introducción de conectividad en los edificios públicos.
+V. Proponer la regulación necesaria en materia de uso y aprovechamiento estratégico de tecnologías de la información y comunicación, tomando en cuenta las disposiciones emitidas por el Consejo y la Agencia Digital, con el fin de establecer los requerimientos tecnológicos para la introducción de conectividad en los edificios públicos.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V Bis. Solicitar el dictamen técnico a la Dirección, previo a la adquisición, arrendamiento y/o contratación de bienes y servicios en materia de tecnologías de la información y comunicación.
+V Bis. Solicitar el dictamen técnico a la Agencia Digital, previo a la adquisición, arrendamiento y/o contratación de bienes y servicios en materia de tecnologías de la información y comunicación.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V Ter. Con independencia del cambio de administración dar continuidad a los programas relacionados con la aplicación de las tecnologías de información y comunicación, elaborando el acta respectiva en la que se establezca el estado y el funcionamiento que guardan respecto del dictamen emitido por la Dirección.
+V Ter. Con independencia del cambio de administración dar continuidad a los programas relacionados con la aplicación de las tecnologías de información y comunicación, elaborando el acta respectiva en la que se establezca el estado y el funcionamiento que guardan respecto del dictamen emitido por la Agencia Digital.
 
 VI. Las demás que le otorgue esta Ley u otros ordenamientos jurídicos.
 
@@ -1089,13 +1115,17 @@ Los convenios de portabilidad tienen por objeto la colaboración entre diversas 
 
 Para el supuesto que los sujetos de la presente Ley deban prestarse trámites y servicios, suscribirán convenios de colaboración para efecto de facilitar la operación.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 64.
 
-La Dirección mantendrá estrecho contacto con quien haya suscrito un convenio de portabilidad, a efecto de compartir la información relacionada con la vigencia de los certificados digitales para los efectos legales a que haya lugar.
+La Agencia Digital mantendrá estrecho contacto con quien haya suscrito un convenio de portabilidad, a efecto de compartir la información relacionada con la vigencia de los certificados digitales para los efectos legales a que haya lugar.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 65.
 
-La Dirección podrá suscribir convenios para el reconocimiento de certificados digitales homologados en términos de lo previsto en la presente Ley y de acuerdo a las especificaciones técnicas que esta misma establezca.
+La Agencia Digital podrá suscribir convenios para el reconocimiento de certificados digitales homologados en términos de lo previsto en la presente Ley y de acuerdo a las especificaciones técnicas que esta misma establezca.
 
 ###### Artículo 66.
 
@@ -1183,13 +1213,13 @@ Las disposiciones establecidas en este capítulo se regirán de conformidad con 
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LAS HERRAMIENTAS TECNOLÓGICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 73.
 
-Los Sujetos de la Ley que con motivo de sus funciones requieran el uso del correo electrónico institucional para la comunicación interna y externa como medio de comunicación oficial, deberán tramitar una cuenta para el uso del mismo ante la Dirección, previo cumplimiento de los requisitos que esta señale.
+Los Sujetos de la Ley que con motivo de sus funciones requieran el uso del correo electrónico institucional para la comunicación interna y externa como medio de comunicación oficial, deberán tramitar una cuenta para el uso del mismo ante la Agencia Digital, previo cumplimiento de los requisitos que esta señale.
 
-Los dominios que usen para sus portales informativos y transaccionales, así como aplicaciones web deberán ser autorizados por la Dirección a efecto de mantener armonizados e identificables los mismos, de acuerdo a los lineamientos que emita el Consejo.
+Los dominios que usen para sus portales informativos y transaccionales, así como aplicaciones web deberán ser autorizados por la Agencia Digital a efecto de mantener armonizados e identificables los mismos, de acuerdo a los lineamientos que emita el Consejo.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1662,3 +1692,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
