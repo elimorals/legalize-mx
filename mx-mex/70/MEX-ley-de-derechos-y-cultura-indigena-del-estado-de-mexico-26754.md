@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-derechos-y-cultura-indigena-del-estado-de-mexico-26754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2022-05-06"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el martes 10 de septiembre del 2002.
 
@@ -389,9 +389,11 @@ Para la aplicación de los beneficios preliberatorios a que tengan derechos los 
 
 Los testigos de escasos recursos económicos que necesiten para su defensa los indígenas que se encuentren sujetos a un proceso penal, que residan en comunidades alejadas al lugar del proceso, podrán desahogar su testimonio ante el juzgado más cercano a su domicilio, el que estará facultado, sin importar su jerarquía y en auxilio del juez de la causa, para recepcionar el desahogo de las declaraciones y enviarlas al juez que conozca del asunto.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 37.
 
-La Dirección General de Defensoría de Oficio instrumentará programas para capacitar a defensores de oficio bilingües y con conocimientos suficientes sobre la cultura, usos y costumbres de los pueblos indígenas, a fin de mejorar el servicio de defensa jurídica que éstos proporcionan.
+El Instituto de la Defensoría Pública del Estado de México instrumentará programas para capacitar a defensores de oficio bilingües y con conocimientos suficientes sobre la cultura, usos y costumbres de los pueblos indígenas, a fin de mejorar el servicio de defensa jurídica que éstos proporcionan.
 
 ## TITULO TERCERO. Desarrollo y Bienestar Social para los Pueblos
 
@@ -429,11 +431,11 @@ Los pueblos y comunidades indígenas asentadas en territorios regionales, munici
 
 Tienen derecho social a conservar, proteger, mantener y desarrollar sus propias identidades; así como todas sus manifestaciones culturales; por tanto las autoridades tienen el deber de proteger y conservar los sitios arqueológicos y sagrados, centros ceremoniales y monumentos históricos, además de sus artesanías, vestidos regionales y expresiones musicales, con arreglo a las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 41.
 
-Corresponde a la Secretaría de Educación:
+Corresponde a la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 I. En el ámbito de sus atribuciones y presupuestos, apoyar a los pueblos y comunidades indígenas en el mantenimiento, protección y desarrollo de sus manifestaciones culturales actuales y en el cuidado de las de sus ancestros que aún se conservan, promoviendo la instalación, conservación y desarrollo de museos comunitarios, tecnologías, artes, expresiones musicales, literatura oral y escrita;
 
@@ -525,11 +527,11 @@ Los pueblos y comunidades indígenas tendrán acceso a los recursos naturales de
 
 El Estado, en coordinación con las autoridades federales competentes y las autoridades tradicionales, en los términos de la legislación aplicable, establecerá mecanismos y programas para el aprovechamiento sustentable de los recursos naturales de los territorios regionales, municipales o en las localidades y comunidades indígenas. Para ese efecto, impulsará la constitución de fondos o fideicomisos regionales cuyo objetivo sea otorgar financiamiento y asesoría técnica a los pobladores de las localidades y comunidades indígenas.
 
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 51.
 
-Los pueblos, localidades y comunidades indígenas y el Estado, a través de la Secretaría de Medio Ambiente, conforme a la normatividad aplicable, convendrán las acciones y medidas necesarias para conservar el medio ambiente y proteger los recursos naturales comprendidos en sus territorios, de tal modo que éstas sean ecológicamente sustentables, técnicamente apropiadas y adecuadas para mantener el equilibrio ecológico, así como compatibles con la libre determinación de los pueblos, localidades y comunidades para la preservación y usufructo de los recursos naturales.
+Los pueblos, localidades y comunidades indígenas y el Estado, a través de la Secretaría de Medio Ambiente y Desarrollo Sostenible, conforme a la normatividad aplicable, convendrán las acciones y medidas necesarias para conservar el medio ambiente y proteger los recursos naturales comprendidos en sus territorios, de tal modo que éstas sean ecológicamente sustentables, técnicamente apropiadas y adecuadas para mantener el equilibrio ecológico, así como compatibles con la libre determinación de los pueblos, localidades y comunidades para la preservación y usufructo de los recursos naturales.
 
 ###### Artículo 52.
 
@@ -717,13 +719,17 @@ La Secretaría de las Mujeres, en el marco de sus atribuciones, establecerá pro
 
 El Instituto Mexiquense de la Juventud gestionará ante las autoridades correspondientes, el otorgamiento de becas para los jóvenes indígenas, con el propósito de contribuir a su formación profesional y desarrollo integral.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 80.
 
-El Instituto Mexiquense de Cultura estimulará la participación de los jóvenes indígenas en los programas artísticos y culturales.
+La Secretaría de Cultura y Turismo estimulará la participación de los jóvenes indígenas en los programas artísticos y culturales.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 81.
 
-El Instituto Mexiquense de Cultura Física y Deporte establecerá programas específicos para promover el desarrollo y práctica del deporte entre la juventud indígena, así como la preservación de los deportes tradicionales de los pueblos.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación establecerá programas específicos para promover el desarrollo y práctica del deporte entre la juventud indígena, así como la preservación de los deportes tradicionales de los pueblos.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -884,3 +890,39 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ABRIL DE 2024.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
