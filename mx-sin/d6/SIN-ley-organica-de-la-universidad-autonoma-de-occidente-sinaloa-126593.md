@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-autonoma-de-occidente-sinaloa-12
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-02-21"
-last_updated: "2018-02-21"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE OCCIDENTE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Primera al Número 024 del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de febrero de 2018.
 
@@ -43,11 +43,17 @@ LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE OCCIDENTE
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 1.
 
-La Universidad Autónoma de Occidente es una institución de educación pública descentralizada del Estado con personalidad jurídica y patrimonio propios, creada para prestar servicios de educación superior en sus distintos niveles y modalidades y contribuir al desarrollo del Estado de Sinaloa.
+La Universidad Autónoma de Occidente es un organismo descentralizado del Estado, con personalidad jurídica y patrimonio propio, y autonomía en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el artículo 91 de la Constitución Política del Estado de Sinaloa y las leyes generales en la materia, creado para prestar servicios de educación superior en sus distintos niveles y modalidades y contribuir al desarrollo del Estado de Sinaloa.
 
-Ejercerá su autonomía en términos de lo dispuesto por los artículos 3, fracción VII de la Constitución Política de los Estados Unidos Mexicanos y 92 de la Constitución Política del Estado de Sinaloa.
+Su régimen de autonomía está basado en los principios de la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, que le otorga la facultad y la responsabilidad de gobernarse a sí misma; realizar sus fines de educación, de investigación y difusión de la cultura, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas.
+
+Tiene como facultad determinar sus planes y programas, fijar los términos de ingreso, promoción y permanencia de su personal académico y administrativo, normados por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación, establecidos en el artículo 3o. fracción VII, de la Constitución Federal; así como la obligatoriedad en la observancia y aplicación en materia de igualdad de género, normado por el artículo 4o. de la Carta Magna.
+
+La autonomía universitaria a que se refiere el presente artículo no significa su disgregación de la estructura estatal, ni extraterritorialidad, ésta debe ejercerse en un marco de principios y reglas predeterminadas por el propio Estado, siempre restringida a sus fines.
 
 ###### Artículo 2.
 
@@ -55,11 +61,21 @@ La Universidad tiene como objeto:
 
 I. Impartir educación superior, en los niveles técnico, licenciatura, especialidad, maestría, doctorado y opciones terminales previas a la conclusión de la licenciatura, en sus diversas modalidades escolar y extraescolar, así como cursos de actualización y especialización, para formar técnicos, técnicos superiores universitarios, profesionales asociados, profesionales, especialistas, maestros y doctores altamente capacitados;
 
-II. Realizar investigación científica, humanística y tecnológica en el más alto nivel, adecuada principalmente a los problemas y necesidades del Estado de Sinaloa y del país;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-III. Promover toda clase de actividades tendientes a la preservación e incremento del acervo cultural de nuestro pueblo, sus monumentos arqueológicos y lenguas autóctonas, así como todas aquellas expresiones de vida comunitaria que conforman nuestra nacionalidad; y
+II. Realizar investigación científica, humanística y tecnológica en el más alto nivel, adecuada principalmente a los problemas y necesidades del Estado de Sinaloa y del país, difundiendo al pueblo sus beneficios con elevado propósito de servicio social y compromiso histórico, con la premisa de internacionalización de la universidad pública;
 
-IV. Promover la vinculación con los diferentes sectores de la sociedad.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+III. Promover toda clase de actividades tendientes a la preservación e incremento del acervo cultural de nuestro pueblo, sus monumentos arqueológicos y lenguas autóctonas, así como todas aquellas expresiones de vida comunitaria que conforman nuestra nacionalidad;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+IV. Promover la vinculación con los diferentes sectores de la sociedad; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+V. Otorgar la educación de manera obligatoria y gratuita, dándose dicha gratuidad de forma gradual, de conformidad con la suficiencia presupuestaria.
 
 ###### Artículo 3.
 
@@ -67,9 +83,11 @@ La Universidad tendrá su domicilio legal en la Ciudad de Los Mochis, Sinaloa. P
 
 Podrá establecer otras dependencias académicas y administrativas en el país o en el extranjero.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 4.
 
-La autonomía universitaria garantiza el ejercicio pleno de la libertad de cátedra e investigación y de libre examen y discusión de las ideas a los miembros del personal académico que presten sus servicios en la Universidad, en cumplimiento de sus planes y programas aprobados.
+La autonomía universitaria garantiza el ejercicio pleno de la libertad de cátedra e investigación y de libre examen y discusión de las ideas a los miembros del personal académico que presten sus servicios en la Universidad, en cumplimiento de sus planes y programas aprobados; es institucional, promotora de la transparencia y la rendición de cuentas, igualdad social, creativa, eficiente y consecuente de la regulación democrática. Promueve un modelo de educación basado en el respeto, tolerancia e igualdad de acceso, donde la comunidad universitaria participa de modo diverso en la orientación, planeación, desarrollo y evaluación de los procesos educativos y culturales.
 
 ###### Artículo 5.
 
@@ -77,9 +95,17 @@ La Universidad tiene los siguientes fines:
 
 I. Contribuir a fortalecer mediante una sólida educación superior, la independencia económica, científica, tecnológica, cultural y política del Estado de Sinaloa y del país;
 
-II. Crear condiciones que propicien un adecuado desarrollo social con base en los objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-III. Fomentar los principios de respeto a la dignidad humana dentro de un marco de paz, justicia, libertad y solidaridad social.
+II. Crear condiciones que propicien un adecuado desarrollo social con base en los objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+III. Garantizar los principios de respeto a la dignidad humana dentro de un marco de paz, justicia, libertad, igualdad, inclusión, paridad de género tanto en los cargos de elección como de designación, paridad universitaria, transparencia, rendición de cuentas y solidaridad social; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+IV. Reconocer y respetar la inclusión de la diversidad y pluralidad de la Comunidad Universitaria, sin discriminación alguna, indistintamente de la orientación sexual, identidad o expresión de género de sus integrantes.
 
 ### CAPÍTULO II. DE LAS FACULTADES
 
@@ -87,33 +113,55 @@ III. Fomentar los principios de respeto a la dignidad humana dentro de un marco 
 
 La Universidad para el debido cumplimiento de su objeto, tendrá las siguientes facultades:
 
-I. Crear, modificar y suprimir la organización académica y administrativa que estime conveniente para el cumplimiento de su objeto;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+I. Organizarse académica y administrativamente como lo estime más conveniente para el cumplimiento de su objeto, dentro de los lineamientos generales establecidos en la fracción VII del Artículo 3o. de la Constitución Política de los Estado Unidos Mexicanos, la Ley General de Educación Superior, la Ley de Educación Superior del Estado de Sinaloa y los de la presente Ley;
 
 II. Expedir las normas y disposiciones reglamentarias de aplicación general;
 
-III. Planear, programar, desarrollar, controlar y evaluar los resultados de las actividades de docencia, investigación, extensión universitaria y difusión de la cultura, así como las de apoyo administrativo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-IV. Expedir constancias y certificados de estudios y otorgar diplomas, títulos y grados académicos conforme a los planes y programas de estudio y requisitos establecidos por la Universidad;
+III. Planear, programar, desarrollar, controlar y evaluar los resultados de las actividades de docencia, investigación, extensión universitaria y difusión de la cultura, así como las de apoyo administrativo; promoviendo en la comunidad universitaria el amor a la patria, la democracia y la conciencia de la solidaridad y la justicia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+IV. Expedir constancias y certificados de estudios y otorgar diplomas, títulos y grados académicos conforme a los planes y programas de estudio y requisitos establecidos por la Universidad, con base al lenguaje inclusivo, atendiendo la perspectiva de género;
 
 V. Incorporar estudios y otorgar o retirar reconocimiento de validez oficial para fines académicos, a los realizados en planteles particulares que impartan el mismo tipo de estudios con planes y programas equivalentes;
 
 VI. Establecer equivalencias y, en su caso, otorgar revalidaciones a los estudios de tipo superior realizados en instituciones nacionales o extranjeras;
 
-VII. Fijar en forma exclusiva los términos de ingreso, promoción, y permanencia de su personal académico;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+VII. Fijar en observancia a los principios de paridad de género e idoneidad para el cargo, los términos de ingreso, promoción de su personal académico, administrativo, Consejo Técnico y Consejo Universitario;
 
 VIII. Respetar el libre examen y discusión de las ideas dentro de los planes y programas de estudio vigentes y propiciar un ambiente de participación plural y democrático;
 
 IX. Evaluar, adecuar, ampliar y mejorar periódicamente los servicios educativos;
 
-X. Extender los servicios educativos a quienes demuestren carecer de recursos económicos suficientes, pero posean capacidad y aptitudes para cursar estudios del tipo superior, incorporando al efecto, un sistema de evaluación y de créditos educativos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+X. Otorgar de manera gratuita los servicios educativos; dicha gratuidad se implementará de manera gradual;
 
 XI. Determinar sus planes y programas de estudio y exigir al personal académico y administrativo su eficiente cumplimiento;
 
 XII. Fijar los términos para la selección, admisión, permanencia y egreso de sus alumnos;
 
-XIII. Administrar libremente su patrimonio; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-XIV. Las demás que le señalen el Estatuto Orgánico y otras normas y disposiciones reglamentarias de la Universidad.
+XIII. Administrar libremente su patrimonio, en plena observancia y cumplimiento de las leyes en materia de presupuesto y responsabilidad hacendaria, fiscalización, transparencia y rendición de cuentas, orientando su aplicación a los fines de la educación superior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+XIV. Garantizar el derecho constitucional a la educación con igualdad de oportunidades, mediante procesos transparentes y públicos para la admisión de estudiantes;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+XV. Garantizar que los procesos de admisión y promoción docente se desarrollen bajo el principio de máxima publicidad y transparencia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+XVI. Las demás que señale esta Ley, el Estatuto Orgánico y demás disposiciones reglamentarias de la Universidad.
 
 ### CAPÍTULO III. DEL PATRIMONIO UNIVERSITARIO
 
@@ -139,11 +187,15 @@ VII. Los bienes, derechos y demás ingresos que adquiera por cualquier título l
 
 Los bienes que integren el patrimonio de la Universidad tendrán el carácter de imprescriptibles e inembargables, por lo que sobre ellos no podrá establecerse ningún gravamen y sólo podrán ser utilizados para el cumplimiento de sus fines.
 
-El Consejo Universitario, a propuesta del Rector, podrá autorizar la enajenación de los bienes mencionados, una vez que se determine que ya no son indispensables para el cumplimiento de las funciones universitarias.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+El Consejo Universitario, a propuesta de la persona titular de la Rectoría, podrá autorizar la enajenación de los bienes mencionados, una vez que se determine que ya no son indispensables para el cumplimiento de las funciones universitarias.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 9.
 
-El Consejo Universitario, a propuesta del Rector, podrá crear las instancias o mecanismos que considere convenientes para el incremento y la preservación del patrimonio de la Universidad.
+El Consejo Universitario, a propuesta de la persona titular de la Rectoría, podrá crear las instancias o mecanismos que considere convenientes para el incremento y la preservación del patrimonio de la Universidad.
 
 ###### Artículo 10.
 
@@ -163,207 +215,255 @@ La Universidad se organizará en departamentos académicos agrupados en áreas d
 
 ### CAPÍTULO V. DE LOS ÓRGANOS DE LA UNIVERSIDAD
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 13.
 
 Los órganos colegiados y personales de la Universidad serán:
 
-I. La Junta de Gobierno;
+I. El Consejo Universitario;
 
-II. El Consejo Universitario;
+II. La Rectoría;
 
-III. El Rector;
+III. Las Direcciones de las Unidades Regionales;
 
-IV. Los Directores de las Unidades Regionales;
+IV. Los Consejos Técnicos de las Unidades;
 
-V. Los Consejos Técnicos de las Unidades Regionales;
+V. Las Direcciones de las Unidades de Investigación;
 
-VI. Los Directores de las Unidades de Investigación;
+VI. La Defensoría de Derechos Universitarios;
 
-VII. Los Jefes de los Departamentos Académicos; y
+VII. Las Jefaturas de los Departamentos Académicos; y
 
 VIII. Los demás que con tal carácter apruebe el Consejo Universitario y se establezcan en el Estatuto Orgánico.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE ABRIL DE 2024)</small>
 
 #### SECCIÓN I. DE LA JUNTA DE GOBIERNO
 
 ###### Artículo 14.
 
-La Junta de Gobierno estará integrada por siete miembros electos por mayoría de votos en el Consejo Universitario, de los cuales tres deberán pertenecer al personal académico de la Universidad.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 ###### Artículo 15.
 
-El Consejo Universitario elegirá anualmente a un miembro de la Junta de Gobierno que reemplazará al de más antigua designación, conforme al orden que se haya fijado inicialmente y designará a quienes deban ocupar las vacantes que se presenten por ausencia definitiva, renuncia o muerte, dentro de los 30 días hábiles siguientes a aquél en que el Rector comunique que ha ocurrido la vacante.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 ###### Artículo 16.
 
-Para ser miembro de la Junta de Gobierno se requiere:
-
-I. Ser mexicano por nacimiento;
-
-II. Tener más de treinta y cinco años de edad al momento de su designación;
-
-III. Poseer como mínimo grado académico de maestría y preferentemente, grado de doctor;
-
-IV. Poseer reconocidos méritos académicos y una sólida trayectoria en el ámbito de la educación superior;
-
-V. Ser persona honorable, de reconocido prestigio y competencia profesional;
-
-VI. No ser funcionario o servidor público de la Federación, del Estado o del Municipio, al momento de la designación;
-
-VII. No ser dirigente de partido político alguno, ni desempeñar cargos de elección popular al momento de su designación;
-
-VIII. No ser ministro de algún culto religioso; y
-
-IX. No haber sido sancionado por faltas graves, en el caso de pertenecer al personal académico de la Universidad.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 ###### Artículo 17.
 
-El cargo de miembro de la Junta de Gobierno será honorífico y quien lo desempeñe sólo podrá, dentro de la Universidad, realizar además, tareas docentes o de investigación.
-
-No podrá ocupar además, cargos de autoridad o de dirección dentro de la Universidad, sino hasta que hayan transcurrido, como mínimo, dos años de la separación de dicho cargo.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 ###### Artículo 18.
 
-La Junta de Gobierno tendrá las siguientes atribuciones:
-
-I. Designar, resolver sobre su renuncia y remover al Rector por causa justificada, así como resolver en los casos de ausencia del titular, cuando exceda de dos meses;
-
-II. Conocer y resolver de los conflictos que surjan entre los demás órganos de la Universidad;
-
-III. Ejercer el derecho de iniciativa ante el Consejo Universitario en materias de la competencia del mismo;
-
-IV. Resolver en definitiva cuando el Rector vete algún acuerdo del Consejo Universitario o de los consejos técnicos; y
-
-V. Proponer su reglamento al Consejo Universitario.
-
-Para el ejercicio de la atribución a que se refiere la fracción I del presente artículo, la Junta de Gobierno auscultará la opinión de la comunidad universitaria, en la forma que establezca el Estatuto Orgánico.
-
-En el caso de la remoción siempre se dará al afectado el derecho de ser oído.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 ###### Artículo 19.
 
-La Junta de Gobierno celebrará sesiones ordinarias y extraordinarias. La periodicidad con la que se celebren, así como el funcionamiento de dicha Junta se determinarán en su Reglamento.
-
-Cada sesión será presidida por uno de sus miembros, en orden alfabético de apellidos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 ###### Artículo 20.
 
-Los acuerdos de la Junta de Gobierno serán válidos con el voto aprobatorio de cuatro de los miembros presentes, excepto cuando se trate de la designación y remoción del Rector, en el que se requerirá de cuando menos cinco votos. El presidente de la Junta de Gobierno convocará a las sesiones y tendrá voto de calidad para los casos de empate.
-
-Las decisiones de la Junta de Gobierno serán definitivas e inapelables.
+(DEROGADO, P.O. 5 DE ABRIL DE 2024)
 
 #### SECCIÓN II. DEL CONSEJO UNIVERSITARIO
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 21.
 
 El Consejo Universitario estará integrado por:
 
-I. El Rector, quien será su Presidente;
+I. La persona titular de la Rectoría, quien lo presidirá;
 
-II. Los Directores de las Unidades Regionales;
+II. Las personas titulares de las Direcciones de las Unidades Regionales;
 
-III. Los Directores de las Unidades de Investigación;
+III. Un representante de cada una de las Unidades de Investigación, electo de entre sus integrantes;
 
-IV. Los Jefes de los Departamentos Académicos; y
+IV. Un representante, por cada tres Jefaturas de Departamentos o fracción de dos, de cada unidad regional, electo entre los Jefes de Departamento de la Unidad respectiva;
 
-V. Dos representantes del personal académico y dos representantes de los alumnos de cada unidad regional, electos de entre los departamentos académicos que la integran.
+V. Dos representantes del personal docente, por cada Unidad Regional y Extensión, electos de entre las maestras y maestros que pertenecen a dichas unidades y extensiones;
 
-El Vicerrector Académico fungirá como Secretario del Consejo Universitario, en el cual tendrá voz pero no voto.
+VI. Dos representantes del personal administrativo, electos entre los trabajadores de la Universidad; y
+
+VII. El número de representantes de alumnas y alumnos necesarios para igualar la suma de los integrantes a que se refieren las fracciones anteriores, a efecto de que la representación de los primeros sea siempre del cincuenta por ciento del Consejo.
+
+Los representantes de alumnas y alumnos, serán electos entre la comunidad estudiantil, bajo el principio de proporcionalidad, de acuerdo a su cantidad por Unidad Regional y Extensión.
+
+Los integrantes del Consejo Universitario a que se refieren las fracciones III, IV, V, VI y VII, serán electos mediante el voto universal, libre, secreto y directo, atendiendo el principio de paridad de género.
+
+La persona titular de la Vicerrectoría Académica tendrá a su cargo la Secretaría del Consejo Universitario, en el cual tendrá voz pero no voto.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+El Consejo Universitario es la máxima autoridad de la Universidad, sus acuerdos son de observancia obligatoria para la comunidad universitaria, siempre y cuando no contravengan lo establecido en la Constitución Política de los Estados Unidos Mexicanos, y las leyes aplicables en la materia; y sólo pueden ser abrogados o modificados por el propio Consejo.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 22.
 
-El Consejo Universitario tendrá las atribuciones siguientes:
+Son atribuciones del Consejo Universitario:
 
-I. Expedir las normas y disposiciones reglamentarias de aplicación general para la organización y funcionamiento de la Universidad;
+I. Formular, aprobar y modificar el Estatuto Orgánico de la Universidad y expedir las normas y disposiciones reglamentarias de aplicación general para la mejor organización y funcionamiento de la Universidad;
 
-II. Crear, modificar o suprimir a propuesta del Rector la organización académica, que se requiera para el cumplimiento del objeto de la Universidad;
+II. Aprobar a propuesta de la persona titular de la Rectoría la creación, modificación o supresión de las entidades que conforman la organización académica y administrativa de la Universidad;
 
-III. Aprobar a propuesta del Rector la creación, modificación o supresión de los planes y programas de estudio;
+III. Definir, aprobar y modificar las políticas generales de desarrollo institucional;
 
-IV. Aprobar a propuesta del Rector, el calendario escolar;
+IV. Convocar a la elección para la integración y renovación general del Consejo Universitario y de los Consejos Técnicos de las Unidades Regionales;
 
-V. Otorgar a propuesta del Rector reconocimientos, conferir grados honoríficos y distinciones;
+V. Convocar en los términos de los artículos 31, 33, 36 Bis de esta Ley, al proceso de elección de la persona titular de la Rectoría y las personas titulares de las Direcciones de las Unidades Regionales y Jefaturas de Departamento Académico;
 
-VI. Aprobar el presupuesto anual de ingresos y egresos de la Universidad, así como las ampliaciones al mismo y las transferencias de partidas que se requieran;
+VI. Expedir el nombramiento y recibir la protesta de Ley del Titular de la Rectoría que elija la comunidad universitaria, conforme a los procesos establecidos en esta Ley;
 
-VII. Designar al Auditor Externo;
+VII. Ratificar a las personas titulares de las Vicerrectorías;
 
-VIII. Aprobar los estados financieros que con el dictamen del Auditor Externo, someta a su consideración el Rector;
+VIII. Expedir el nombramiento y recibir la protesta de Ley de la persona Titular de la Dirección de las Unidades Regionales que elija la comunidad universitaria, conforme a los procesos establecidos en esta Ley;
 
-IX. Designar a los miembros de la Junta de Gobierno;
+IX. Aprobar el presupuesto anual de ingresos y egresos de la Universidad, así como las ampliaciones y/o modificaciones al mismo y las transferencias de partidas que se requieran;
 
-X. Designar al Defensor de los Derechos Universitarios;
+X. Recibir el informe anual de labores de la persona titular de la Rectoría;
 
-XI. Autorizar la enajenación de bienes inmuebles;
+XI. Recibir y, en su caso, aprobar el informe del ejercicio anual del presupuesto de egresos, así como designar el despacho contable que realizará la auditoría externa anual de la institución, en caso de requerirse; sin menoscabo de la fiscalización que practiquen los órganos superiores de fiscalización del Estado y la Federación;
 
-XII. Conocer y resolver los casos que no sean competencia de ningún otro órgano de la Universidad; y
+XII. Aprobar, modificar y suprimir los planes y programas de estudio;
 
-XIII. Las demás que señalen otras normas y disposiciones reglamentarias de la Universidad.
+XIII. Aprobar la incorporación y fusión de enseñanzas;
+
+XIV. Otorgar distinciones, reconocimientos y grados honoríficos a miembros de la comunidad universitaria que se hagan merecedores a ello, así como a los hombres y mujeres de ciencia o benefactores de la cultura, nacionales o extranjeros;
+
+XV. Aprobar anualmente el calendario escolar general y los calendarios especiales;
+
+XVI. Designar al Defensor de los Derechos Universitarios;
+
+XVII. Conocer y resolver cualquier otro asunto que no sea competencia de otra autoridad universitaria; y
+
+XVIII. Las demás que le otorguen la presente Ley y otras normas y disposiciones reglamentarias de la Universidad.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 23.
 
-Los representantes del personal académico y de los alumnos ante el Consejo Universitario serán electos en los términos del Estatuto Orgánico de la Universidad.
+El proceso para la elección de los integrantes del Consejo Universitario se establecerá en el Estatuto Orgánico de la Universidad, atendiendo las reglas generales establecidas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 24.
 
-Para ser representante del personal académico y de los alumnos ante el Consejo Universitario, se deberán satisfacer los requisitos que señale el Estatuto Orgánico de la Universidad.
+La integración y renovación del Consejo Universitario y de los Consejos Técnicos deberá cumplir con la paridad de género y paridad universitaria.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 25.
 
-Los representantes del personal académico y de los alumnos ante el Consejo Universitario, durarán en su cargo dos años y no podrán ser reelectos para el periodo inmediato. Tampoco podrán ser designados como integrantes de los Consejos Técnicos.
+A excepción de la persona titular de la Rectoría y de las Direcciones de Unidad Regional, el resto de los integrantes del Consejo Universitario, durarán en su cargo dos años y no podrán ser reelectos para el periodo inmediato. Tampoco podrán ser designados como integrantes de los Consejos Técnicos.
 
-#### SECCIÓN III. DEL RECTOR
+En caso de que se dé alguna vacante en la integración del Consejo Universitario, éste deberá convocar a elección en los términos que se establezcan en el estatuto orgánico.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 25 Bis.
+
+Para ser integrante del Consejo Universitario, en representación del personal docente, se requiere:
+
+I. Poseer la nacionalidad mexicana;
+
+II. Ser docente activo en ejercicio de sus derechos;
+
+III. Ser integrante de la Unidad Regional que lo elija; y
+
+IV. No desempeñar, en el momento de la elección ni durante sus funciones en el Consejo, cargo administrativo alguno dentro de la Universidad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+Artículo 25 Bis A. Para ser integrante del Consejo Universitario, en representación de las y los estudiantes se requiere:
+
+I. Poseer la nacionalidad mexicana;
+
+II. Estar inscrito en la Unidad Regional que lo elija; y
+
+III. No desempeñar, al momento de la elección ni durante sus funciones en el Consejo Universitario, cargo administrativo alguno dentro de la Universidad, ni ser integrante del personal docente y/o de investigación de la misma.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+Artículo 25 Bis B. Para ser integrante del Consejo Universitario, en representación de las Unidades de Investigación se requiere:
+
+I. Poseer la nacionalidad mexicana;
+
+II. Formar parte del personal académico que realice investigación en la Universidad Autónoma de Occidente; y
+
+III. No desempeñar, en el momento de la elección ni durante sus funciones en el Consejo, cargo administrativo alguno dentro de la Universidad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+Artículo 25 Bis C. Los Consejeros Universitarios a que se refieren las fracciones III, IV y V del artículo 21 de esta Ley, perderán la calidad de integrantes del H. Consejo Universitario, en los siguientes casos:
+
+I. Por dejar de formar parte de la comunidad universitaria;
+
+II. Por no informar oportunamente, en el ámbito de su representación, de los acuerdos del Consejo Universitario; y
+
+III. Por emitir votos en el Consejo Universitario contrario a la voluntad mayoritaria obtenida en consulta realizada a la respectiva unidad académica.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2024)</small>
+
+#### SECCIÓN III. DE LA RECTORÍA
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 26.
 
-El Rector será el representante legal de la Universidad y presidente del Consejo Universitario. Durará en su cargo cuatro años y sólo podrá ser designado para otro periodo igual.
+La persona titular de la Rectoría es la máxima autoridad ejecutiva de la Universidad, preside el Consejo Universitario y ocupa la representación legal de la misma.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 27.
 
-Para ser Rector se requiere:
+La persona titular de la Rectoría durará en su encargo cuatro años y podrá participar, por una sola vez, para un período consecutivo con las condiciones previstas en el artículo 31 de esta Ley.
 
-I. Ser mexicano por nacimiento;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-II. Tener más de treinta y cinco años de edad al momento de su designación;
+###### Artículo 28.
+
+Para ser titular de la Rectoría se requiere:
+
+I. Poseer la nacionalidad mexicana;
+
+II. Tener más de treinta y cinco años de edad al momento de su elección;
 
 III. Poseer como mínimo grado académico de maestría y preferentemente, grado de doctor;
 
 IV. Poseer reconocidos méritos académicos y una sólida trayectoria en el ámbito de la educación superior;
 
-V. Ser miembro de la comunidad universitaria durante un período no menor de tres años;
+V. Ser miembro de la comunidad universitaria durante un período no menor de diez años;
 
 VI. Ser persona honorable, de reconocido prestigio y competencia profesional;
 
-VII. No ser funcionario o servidor público de la Federación, del Estado o del Municipio, al momento de la designación;
+VII. No ser funcionario o servidor público de la Federación, del Estado o del Municipio, al momento de la elección;
 
-VIII. No ser dirigente de partido político alguno, ni estar desempeñando cargos de elección popular al momento de su designación;
+VIII. No ser dirigente de partido político alguno, ni estar desempeñando cargos de elección popular al momento de su elección;
 
 IX. No ser ministro de algún culto religioso; y
 
 X. No haber sido sancionado por faltas graves, en el caso de pertenecer al personal académico de la Universidad.
 
-###### Artículo 28.
-
-En asuntos contenciosos y judiciales, la representación legal de los órganos de la Universidad, a que se refiere el artículo 13 de la presente Ley, corresponderá al Abogado General.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 29.
 
-El Rector será sustituido en sus ausencias temporales no mayores de dos meses por el Vicerrector Académico.
-
-###### Artículo 30.
-
-Cuando una ausencia del Rector se prolongue por más de dos meses, la Junta de Gobierno analizará los motivos de la misma, la calificará y lo dará a conocer a la comunidad universitaria. Si la considera temporal, designará un Rector Interino. Si la considera definitiva, procederá a designar un nuevo Rector, en los términos de esta Ley.
-
-###### Artículo 31.
-
-El Rector tendrá las facultades y obligaciones siguientes:
+Son facultades y obligaciones de la persona titular de la Rectoría:
 
 I. Cumplir y hacer cumplir lo dispuesto por la presente Ley y demás disposiciones reglamentarias que expida el Consejo Universitario;
 
 II. Conducir las labores generales de planeación de la Universidad;
 
-III. Ejecutar los acuerdos y resoluciones que emanen del Consejo Universitario y de la Junta de Gobierno;
+III. Ejecutar los acuerdos y resoluciones que emanen del Consejo Universitario;
 
-IV. Designar y remover libremente a los Vicerrectores, a los Directores de las Unidades Regionales, al Abogado General, al Contralor Universitario y a los titulares de las dependencias administrativas; y designar a los Directores de las Unidades de Investigación y a los Jefes de Departamento Académico, de acuerdo con las ternas que envíe la comunidad universitaria y removerlos por causa justificada, previa opinión de la misma;
+IV. Designar y remover libremente a los Vicerrectores, al Abogado General, al Contralor Universitario y a los titulares de las dependencias administrativas; y designar a los Directores de las Unidades de Investigación y de acuerdo con las ternas que envíe la comunidad universitaria y removerlos por causa justificada, previa opinión de la misma;
 
 V. Expedir los nombramientos del personal académico y administrativo;
 
@@ -373,21 +473,39 @@ VII. Ejercer el presupuesto universitario;
 
 VIII. Presentar ante el Consejo Universitario un informe anual de las actividades de la Universidad realizadas durante el año anterior;
 
-IX. Firmar en unión del Vicerrector Académico las constancias, certificados, diplomas, títulos y grados académicos que se otorguen;
+IX. Firmar en unión del Vicerrector Académico las constancias, certificados, diplomas, títulos y grados académicos que se otorguen; y
 
-X. Proponer al Consejo Universitario, al miembro de la Junta de Gobierno que reemplazará al que, según el orden establecido, le corresponda ser sustituido cada año y a quienes cubrirán las vacantes que se presenten;
+X. Las demás que le señalen el Estatuto Orgánico y otras normas y disposiciones reglamentarias de la Universidad.
 
-XI. Gozar del derecho de veto respecto de los acuerdos del Consejo Universitario o los consejos técnicos de las unidades regionales; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-XII. Las demás que le señalen el Estatuto Orgánico y otras normas y disposiciones reglamentarias de la Universidad.
+###### Artículo 30.
+
+En el caso de las faltas temporales o definitivas de la persona titular de la Rectoría, se resolverán mediante el siguiente procedimiento:
+
+I. Las faltas que no excedan de sesenta días naturales serán cubiertas por la persona titular de la Vicerrectoría Académica; y
+
+II. En el caso de las ausencias mayores a sesenta días naturales, el Consejo Universitario designará un rector interino y convocará a elecciones en un término improrrogable de sesenta días.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 31.
+
+Las personas titulares de la Rectoría y de las Direcciones de las Unidades Regionales, serán electas por el voto universal, libre, directo y secreto de la comunidad universitaria.
 
 ###### Artículo 32.
 
 El ejercicio de la administración general de la Universidad corresponde al Rector, quien para el desempeño de sus facultades y obligaciones podrá crear, modificar o suprimir las dependencias administrativas que considere necesarias, de acuerdo con el presupuesto.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 33.
 
-Los Vicerrectores serán instancias de apoyo del Rector para la planeación, conducción y evaluación de las funciones académicas que constituyen el objeto de la Universidad y las administrativas que sustentan a las primeras.
+Quienes aspiren a la titularidad de la Rectoría deberán registrar su candidatura ante el Consejo Universitario, el cual revisará cumplan con los requisitos de elegibilidad establecidos en la presente Ley.
+
+Las campañas de proselitismo están prohibidas y quien las realice perderá por ese solo hecho su registro como aspirante.
+
+El Consejo Universitario, para la elección de la persona titular de la Rectoría, organizará comparecencias por cada Unidad Regional, en las que los aspirantes den a conocer su plan de trabajo ante la Comunidad Universitaria, pudiendo hacer uso de las tecnologías y medios digitales correspondientes.
 
 ###### Artículo 34.
 
@@ -403,23 +521,55 @@ Los Directores de las Unidades Regionales tendrán a su cuidado la atención de 
 
 Para ser Director de Unidad Regional se exigirán los mismos requisitos que para ser Rector y los que establezca el Estatuto Orgánico.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+Quienes aspiren a la titularidad de las direcciones de las Unidades Regionales deberán registrar su candidatura ante el Consejo Técnico de su respectiva Unidad Regional, el cual revisará cumplan con los requisitos de elegibilidad. Para ser Director de Unidad Regional se exigirán los mismos requisitos que para ser Rector.
+
+Las campañas de proselitismo están prohibidas y quien las realice perderá por ese solo hecho su registro como aspirante.
+
+Para la elección de la persona titular de la dirección de la Unidad Regional, el Consejo Técnico respectivo, organizará comparecencias, en las que los aspirantes den a conocer su plan de trabajo ante la comunidad universitaria de dicha unidad, pudiendo hacer uso de las tecnologías y medios digitales correspondientes.
+
 #### SECCIÓN V. DE LOS CONSEJOS TÉCNICOS DE LAS UNIDADES REGIONALES
 
 ###### Artículo 37.
 
 En cada Unidad Regional habrá un Consejo Técnico integrado por:
 
-I. El Director de la Unidad Regional quien lo presidirá;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-II. Los Jefes de Departamento Académico de la Unidad Regional; y
+I. La persona titular de la Dirección de la Unidad Regional, quien lo presidirá;
 
-III. Dos representantes del personal académico y dos de los alumnos de la respectiva Unidad Regional, electos de entre los departamentos académicos que la integran.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-El Subdirector Académico fungirá como Secretario del Consejo Técnico, en el cual tendrá voz pero no voto.
+II. Un representante, por cada tres Departamentos o fracción de dos, electo entre los integrantes de la Comunidad Universitaria de la Unidad Regional y extensión respectiva;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+III. Dos representantes del personal docente de la respectiva Unidad Regional y Extensión, electos de entre las maestras y maestros que pertenecen a dichas unidades y extensiones;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+IV. El número de representantes de alumnas y alumnos necesarios para igualar la suma de los integrantes a que se refiere en las fracciones anteriores, a efecto de que la representación de los primeros sea siempre del cincuenta por ciento del Consejo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 5 DE ABRIL DE 2024.]</small>
+
+Los representantes de alumnas y alumnos, serán electos entre la comunidad estudiantil de la Unidad Regional y Extensión que corresponda.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+La persona titular de la Subdirección Académica fungirá como Secretario del Consejo Técnico, en el cual tendrá voz pero no voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ABRIL DE 2024)</small>
+
+Los consejeros representantes del personal docente y de los alumnos ante los consejos técnicos de las unidades regionales, deberán cumplir los mismos requisitos que se establece (sic) en la presente Ley para los consejeros representantes ante el Consejo Universitario.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 38.
 
-Para ser representante del personal académico y de los alumnos ante los consejos técnicos, se deberán satisfacer los requisitos que señale el Estatuto Orgánico de la Universidad.
+Todas las controversias que se susciten en los procesos electorales de representantes de Jefes de Departamento ante el Consejo Universitario, serán resueltas por (sic) Consejo Técnico de la Unidad Regional que corresponda.
 
 ###### Artículo 39.
 
@@ -442,6 +592,10 @@ Para ser Director de Unidad de Investigación se exigirán los mismos requisitos
 ###### Artículo 42.
 
 Para ser Jefe de Departamento Académico se exigirán los mismos requisitos que para ser Rector, con excepción de la edad que será de veintiocho años y la escolaridad que deberá ser mínima de grado académico de maestría y los que, en su caso, establezca el Estatuto Orgánico.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+Serán electos mediante el voto universal, libre, secreto y directo de los integrantes de la comunidad universitaria del departamento al que pertenezca (sic). Para esta elección serán aplicables las reglas establecidas en el artículo 36 Bis de la presente Ley.
 
 ###### Artículo 43.
 
@@ -515,6 +669,28 @@ El personal de la Universidad Autónoma de Occidente quedará incorporado para l
 
 Las sociedades y federaciones de alumnos serán independientes de los órganos de la Universidad y se organizarán democráticamente en la forma que los mismos estudiantes determinen. Los alumnos y sus asociaciones respetarán el objeto de la Universidad Autónoma de Occidente, establecido en el artículo 2 de esta Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IX. DE LOS DERECHOS DE LOS ESTUDIANTES
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 57.
+
+Los estudiantes tendrán derecho a recibir una educación de calidad y acorde con los requerimientos de la vida contemporánea, que los capacite para el ejercicio de su profesión y para contribuir al desarrollo general del estado y del país.
+
+Los estudiantes tienen derecho a un trato humanista, elevadamente pedagógico, con creatividad intelectual, en plena expresión de ideas, con un ambiente de libertad y un trato cortés, justo y respetuoso de parte de la planta laboral y docente de la Universidad y a que los servicios educativos les sean proporcionados con calidad, igualdad, regularidad y eficiencia.
+
+La Universidad procurará crear los órganos y mecanismos necesarios para apoyar a los estudiantes en su aprovechamiento escolar, con especial atención hacia quienes carezcan de recursos económicos, sin que esa situación sea obstáculo para su ingreso o permanencia.
+
+Las y los estudiantes tendrán pleno derecho a elegir libremente a sus representantes y autoridades, así como a ser electos representantes o integrantes de los órganos de gobierno, en los términos dispuestos en esta Ley y en las demás disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 58.
+
+Las sociedades y asociaciones de alumnas y alumnos serán independientes de los órganos de la Universidad y se organizarán libre y democráticamente en la forma que las y los mismos determinen, respetando el objeto de la Universidad establecido en el artículo 2 de esta Ley.
+
 ## ARTÍCULOS TRANSITORIOS
 
 Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
@@ -564,3 +740,19 @@ GONZALO GÓMEZ FLORES
 Secretario de Educación Pública
 
 JOSÉ ENRIQUE VILLA RIVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 715 ARTÍCULO ÚNICO. SE REFORMAN LOS ARTÍCULOS 1; 2, FRACCIONES II, III Y IV; 4; 5, FRACCIONES II Y III; 6, FRACCIONES I, III, IV, VII, X, XIII Y XIV; 8, PÁRRAFO SEGUNDO; 9; 13; 21; 22; 23; 24; 25; LA DENOMINACIÓN DE LA SECCIÓN III, DEL CAPÍTULO V PARA QUEDAR "DE LA RECTORÍA", 26; 27; 28; 29; 30; 31; 33; 37 Y 38; SE ADICIONAN AL ARTÍCULO 2, LA FRACCIÓN V; AL ARTÍCULO 5, LA FRACCIÓN IV; AL ARTÍCULO 6, LAS FRACCIONES XV Y XVI; LOS ARTÍCULOS 21 BIS; 25 BIS; 25 BIS A; 25 BIS B; 25 BIS C; 36 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 42; Y EL CAPÍTULO IX DENOMINADO "DE LOS DERECHOS DE LOS ESTUDIANTES" CON LOS ARTÍCULOS 57 Y 58; Y SE DEROGA DEL CAPÍTULO V, LA DENOMINACIÓN DE LA SECCIÓN I "DE LA JUNTA DE GOBIERNO", CON LOS ARTÍCULOS 14; 15; 16; 17; 18; 19 Y 20, TODOS A LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE OCCIDENTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Consejo Universitario, dentro de los treinta días naturales siguientes a la fecha de entrada en vigor del presente Decreto, realizará las modificaciones necesarias al Estatuto Orgánico de la Universidad y demás reglamentos vigentes.
+
+TERCERO. En un plazo de treinta días naturales, a partir de la armonización del estatuto orgánico a que se refiere el artículo anterior, con la excepción de la persona titular de la Rectoría, el Consejo Universitario convocará a la renovación del mismo, de los Consejos Técnicos, de las Direcciones de las Unidades Regionales y Jefaturas de Departamento Académico, conforme a las reglas establecidas en el presente Decreto.
+
+Dicha renovación se llevará a cabo en un día hábil comprendido entre el 19 de agosto y el 04 de septiembre del presente año.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
