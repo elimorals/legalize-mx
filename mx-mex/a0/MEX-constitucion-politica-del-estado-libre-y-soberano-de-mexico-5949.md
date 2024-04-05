@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2024-02-23"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -983,13 +983,17 @@ La ciudad de Toluca de Lerdo es la sede de los poderes públicos del Estado y ca
 
 #### SECCION PRIMERA. De la Legislatura
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 38.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea denominada Legislatura del Estado, integrada por diputadas y diputados electos en su totalidad cada tres años, conforme a los principios de mayoría relativa y representación proporcional, mediante sufragio universal, libre, secreto y directo.
+El ejercicio del Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado Libre y Soberano de México, integrada por diputadas y diputados electos en su totalidad cada tres años, conforme a los principios de mayoría relativa y de representación proporcional, mediante sufragio universal, libre, secreto y directo. Los congresos constitucionales electos mediante los principios democráticos se denominan legislaturas precedidas por su numeración cronológica.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 Por cada diputada propietaria y diputado propietario se elegirá un suplente del mismo género.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 La o las diputadas y el o los diputados electos en elecciones extraordinarias concluirán el periodo de la Legislatura respectiva.
 
@@ -5246,3 +5250,13 @@ G.G. 23 DE FEBRERO DE 2024.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA DE APROBACIÓN DE LA MINUTA CON PROYECTO DE DECRETO NÚMERO 249.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 38 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- En la sesión del Pleno de la Legislatura o de la Diputación Permanente al momento de efectuarse la Declaratoria de Aprobación de la Minuta de este Decreto se develará en el Salón de Sesiones "José María Morelos y Pavón" una inscripción con letra (sic) doradas que diga lo siguiente: Honorable Congreso del Estado Libre y Soberano de México.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
