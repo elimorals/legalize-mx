@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2023-12-04"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -233,13 +233,13 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 35.
 
-En el Estado de Baja California, la coordinación del Registro Civil estará a cargo del Director del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia, de las personas mexicanas y extranjeras residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Estado de Baja California, la coordinación del Registro Civil estará a cargo de la Dirección del Registro Civil. Las personas Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijas e hijos, adopción, matrimonio, divorcio, defunción, el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia, de las personas mexicanas y extranjeras residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-La expedición de nuevas actas de nacimiento para el reconocimiento de identidad de género, únicamente podrán ser tramitadas por los ciudadanos mexicanos residentes dentro del perímetro de la población en donde los Oficiales del Registro Civil ejerzan su encargo.
+La expedición de nuevas actas de nacimiento para el reconocimiento de identidad de género, únicamente podrán ser tramitadas por las y los ciudadanos mexicanos residentes dentro del perímetro de la población en donde los Oficiales del Registro Civil ejerzan su encargo.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -749,19 +749,31 @@ Extendida el acta de tutela, se anotará la del nacimiento de la persona menor d
 
 ### CAPITULO VII. DE LAS ACTAS DE MATRIMONIO
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 94.
 
-Las personas que pretendan contraer matrimonio presentarán una solicitud al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+Las personas que pretendan contraer matrimonio presentarán una solicitud a la persona Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si estos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de las personas pretendientes como de sus madres y/o padres, si estos fueren conocidos. Cuando alguna de las personas pretendientes o ambas hayan sido casadas, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 II.- Que no tienen impedimento legal para casarse, y
 
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 III.- Que es su voluntad unirse en matrimonio.
 
-Esta solicitud deberá ser firmada por los interesados, y si alguno no pudiere o no supiere escribir, lo hará a su ruego otra persona conocida, mayor de edad y vecina del lugar. Los interesados imprimirán en todo caso su huella digital.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+Esta solicitud deberá ser firmada por las personas interesadas, y si alguna no pudiere o no supiere escribir, lo hará a su ruego otra persona conocida, mayor de edad y vecina del lugar. Las personas interesadas imprimirán en todo caso su huella digital.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ABRIL DE 2024)</small>
+
+La persona Oficial del Registro Civil previa consulta en el portal oficial público del Registro Nacional de Obligaciones Alimentarias hará del conocimiento de las personas pretendientes inmediatamente después de la presentación de la solicitud, si alguna de ellas se encuentra inscrita en dicho registro, asimismo, señalará el monto de la deuda y el número de personas acreedoras.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -2053,7 +2065,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero si por otros nuevos, aunque sean de la misma especie.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 279.
 
@@ -2065,19 +2077,25 @@ I.- (DEROGADA, P.O. 20 DE JUNIO DE 1975)
 
 II.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
 
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+III.- Señalar y asegurar los alimentos que debe dar la persona deudora alimentaria al cónyuge acreedor y a las hijas e hijos de forma prioritaria e inmediata;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
 
 IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
 
-V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a la mujer que queda encinta;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
+V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a la mujer que queda encinta o persona gestante;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-El Juez, tratándose de determinaciones provisionales sobre guarda, cuidado y custodia, ponderará el derecho de convivencia de la niña, niño y adolescente con ambos progenitores, atendiendo al principio de interés superior, tomando en consideración lo establecido en el artículo 420 Bis de éste Código.
+VI.- Poner a las hijas e hijos en cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos.
+
+La Jueza o Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+
+La Jueza o Juez, tratándose de determinaciones provisionales sobre guarda, cuidado y custodia, ponderará el derecho de convivencia de la niña, niño y adolescente con ambos progenitores, atendiendo al principio de interés superior, tomando en consideración lo establecido en el artículo 420 Bis de este Código.
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -2283,13 +2301,21 @@ En la adopción, se aplicará lo dispuesto por las reglas relativas al parentesc
 
 Los alimentos comprenden la comida, el vestido, la habitación y los gastos correspondientes a la asistencia en caso de enfermedad. Los alimentos para el concebido no nacido comprenden también los gastos de atención médica tanto para él como para la mujer embarazada, incluyendo los del parto. Respecto de las personas menores de dieciocho años de edad, se comprenden por alimentos, además, los gastos necesarios para la educación básica y la media superior obligatoria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo, capacidades, potencialidades y circunstancias personales. También comprende, la atención a las necesidades resultantes de algún tipo de trastorno del desarrollo, discapacidad y de sano esparcimiento.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 306.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+La persona obligada a dar alimentos cumple la obligación asignando una pensión competente a la persona acreedora alimentaria, o incorporándola a la familia. Si la persona acreedora se opone a ser incorporada, compete a la Jueza o Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de treinta días se constituirá en persona deudora alimentaria morosa. La Jueza o Juez de lo Familiar ordenará la inscripción en el Registro Nacional de Obligaciones Alimentarias, proporcionando los datos de identificación de la persona deudora alimentaria conforme a la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias y las leyes locales.
+
+La persona deudora alimentaria morosa que acredite ante la Jueza o Juez que han sido pegados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 307.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+La persona deudora alimentista no podrá pedir que se incorpore a su familia la o el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación, tampoco lo podrá hacer cuando resulte del diagnóstico psicológico que es un entorno y/o presenta una personalidad violenta y que ponga en riesgo a las personas acreedoras, y/o cuente con denuncias previas por agresiones y violencia.
 
 ###### ARTICULO 308.
 
@@ -2345,11 +2371,15 @@ El tutor interino dará garantía por el importe anual de los alimentos. Si admi
 
 En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 317.
 
 Cesa la obligación de dar alimentos:
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+I.- Cuando la persona que la tiene haya sido declarada incapaz y/o imposibilitada para cumplirla por declaración judicial;
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
@@ -2357,35 +2387,53 @@ III.- En caso de injuria, falta o daños graves inferidos por el alimentista con
 
 IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
 
-V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+V.- Si la persona alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
 ###### ARTICULO 318.
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 319.
 
-El deudor alimentario será responsable del pago de los alimentos que dejo de proporcionar a partir de la fecha en que comenzó a incumplir con esa obligación.
+La persona deudora alimentaria será responsable del pago de los alimentos que dejo de proporcionar a partir de la fecha en que comenzó a incumplir con esa obligación.
 
-En caso de que no estuviere presente o estándolo se haya rehusado a cumplir con sus obligaciones alimentarias, se entenderá por cumplida dicha obligación cubriendo las deudas que los acreedores alimentarios contraigan para proporcionar los alimentos correspondientes al periodo de su ausencia o negativa, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+En caso de que no estuviere presente o estándole se haya rehusado a cumplir con sus obligaciones alimentarias, se entenderá por cumplida dicha obligación cubriendo las deudas que las personas acreedoras alimentarias contraigan para proporcionar los alimentos correspondientes al periodo de su ausencia o negativa, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+La Jueza o Juez de lo Familiar resolverá respecto al monto de la deuda, en atención a lo dispuesto en los artículos 305 y 308.
+
+Si la persona obligada mediante resolución judicial al pago de la pensión alimentaria, provisional o definitiva, dejará de cubrirla sin causa justificada por un periodo mayor a treinta días, la Autoridad competente de inmediato, deberá dar aviso a las autoridades migratorias y demás competentes de conformidad con el artículo 48, fracción VI, de la Ley de Migración, a fin de restringir la salida del país de la persona deudora alimentaria, siempre que esta sea una medida idónea para el cumplimiento de la obligación alimentaria.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 320.
 
-El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de lo Familiar, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+La o el cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir a la Jueza o Juez de Primera Instancia de lo Familiar, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, la Jueza o Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-ARTICULO 320 BIS.- Toda aquella persona a quien, por la naturaleza de su responsabilidad laboral corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a proporcionar datos fidedignos que les sean solicitados por el Juez de lo Familiar, de no hacerlo incurrirá en las faltas o sanciones que prevea la ley, además, responderá por los daños y perjuicios que cause.
+ARTICULO 320 BIS.- Toda aquella persona a quien, por la naturaleza de su responsabilidad laboral corresponda proporcionar informes sobre la capacidad económica de las personas deudoras alimentarias, están obligadas a proporcionar datos fidedignos que les sean solicitados por la Jueza o Juez de lo Familiar, de no hacerlo incurrirá en las faltas o sanciones que prevea la ley, además, responderá por los daños y perjuicios que cause.
 
-Las personas que se resistan injustificadamente a acatar las órdenes judiciales de descuento o auxilien al deudor a ocultar o simular sus bienes o a eludir el cumplimiento de las obligaciones alimentarias, serán responsables en los términos que fijen las leyes aplicables.
+Las personas que se resistan injustificadamente a acatar las órdenes judiciales de descuento o auxilien al deudor a ocultar o simular sus bienes o a eludir el cumplimiento de las obligaciones alimentarías, serán responsables en los términos que fijen las leyes aplicables.
 
-El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo o fuente de ingreso, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta, así como el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia establecida y no incurrir en responsabilidad alguna.
+La persona deudora alimentaria deberá informar de inmediato a la Jueza o Juez de lo Familiar y a la persona acreedora alimentista cualquier cambio de empleo, o fuente de ingreso, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta, así como el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia establecida y no incurrir en responsabilidad alguna.
 
-En caso de rescisión o de terminación de la relación laboral con el obligado alimentario, la fuente patronal deberá retenerle de su liquidación o del finiquito respectivo, el importe o porcentaje que fije el Juez Familiar, debiendo consignarlo al Juez de lo Familiar dentro del término de tres días posteriores a la conclusión de la relación laboral, para que el Juez lo entregue al acreedor alimentista en la forma y términos que se venía realizando.
+En caso de rescisión o de terminación de la relación laboral con la persona obligada alimentaria, la fuente patronal deberá retenerle de su liquidación o del finiquito respectivo, el importe o porcentaje que fije la Jueza o Juez Familiar, debiendo consignarlo al Juzgado de lo Familiar dentro del término de tres días posteriores a la conclusión de la relación laboral, para que la Jueza o Juez lo entregue a la persona acreedora alimentista en la forma y términos que se venía realizando.
+
+La empresa, persona moral civil o mercantil o negociación en donde labore la persona deudora alimentaria realizará los descuentos respectivos directo de su nómina para cubrir las pensiones alimentarias adeudadas. Aquellas empresas que no cumplan con esta disposición responderán solidariamente para el pago de daños y perjuicios que cause la persona acreedora alimentaria por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales, en términos del artículo 135 Ter de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Las disposiciones previstas por el párrafo anterior serán aplicables a las personas físicas que funjan como patronales o que su relación laboral sea la fuente de trabajo e ingreso de la persona deudora alimentaria.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+ARTICULO 320 TER.- Cuando no sean comprobables el salario o los ingresos de la persona deudora alimentaria, la Jueza o Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que las personas acreedoras alimentarias y la persona deudora hayan llevado en el último año, así como del estado de necesidad de las hijas e hijos considerando como principio su calidad de vida y dignidad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+ARTICULO 320 QUATER.- En tanto no se cumpla con el pago de la pensión alimentaria correspondiente, la persona deudora no podrá solicitar cambio de guarda y custodia ni la pérdida de la patria potestad de la otra madre o padre, salvo en aquellos casos en los que corra peligro la integridad física y mental de las hijas e hijos.
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
@@ -3091,6 +3139,10 @@ IV.- Cuando quienes ejerzan la patria potestad hayan aceptado ante la autoridad 
 
 V.- Cuando se exponga sin causa justificada por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+VI.- Cuando quien la ejerza, reciba condena por delito de feminicidio consumado o en grado de tentativa en contra de la madre de niñas, niños y adolescentes sujetos a su patria potestad.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2023)</small>
 
 Se considera expósito a la persona cuyo origen se desconoce menor de dieciocho años de edad o persona que no tengan capacidad para comprender el significado del hecho y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos, esta causal solo procede por Resolución Judicial.
@@ -3103,19 +3155,19 @@ El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la
 
 La patria potestad se pierde:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando haya sido condenado por delito grave;
+I.- Cuando quien la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando haya sido condenado por delito grave;
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 280;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-III.- Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o abandono de sus deberes, uso de algún tipo de enervante, alcoholismo, prostitución, que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal;
+III.- Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o abandono de sus deberes, uso de algún tipo de enervante, alcoholismo, prostitución, que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de las niñas, niños y adolescentes o personas que no tengan capacidad para comprender el significado del hecho, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras personas atenten contra la seguridad e integridad física, emocional y sexual de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
+IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras personas atenten contra la seguridad e integridad física, emocional y sexual de las niñas, niños y adolescentes o personas que no tengan capacidad para comprender el significado del hecho;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3135,9 +3187,9 @@ Se reputa abandonada la persona menor de dieciocho años de edad cuyo origen se 
 
 El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato sin causa justificada, el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, podrá promover la pérdida de patria potestad de las personas menores de dieciocho años de edad abandonados y tendrá atribuciones para promover, en su carácter de tutor o tutora, la reintegración inmediata y oportuna de estos a un ambiente familiar con integrantes de la familia extensa en primer término, y a falta de esta o de no resultar idóneos, a través de hogares adoptivos o substitutos.
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, podrá promover la pérdida de patria potestad de las niñas, niños y adolescentes, abandonados y tendrá atribuciones para promover, en su carácter de tutora o tutor la reintegración inmediata y oportuna de estos a un ambiente familiar con integrantes de la familia extensa en primer término, y a falta de esta o de no resultar idóneos, a través de hogares adoptivos o substitutos.
 
 ###### ARTICULO 442.
 
@@ -3156,6 +3208,10 @@ I.- Por incapacidad declarada judicialmente;
 II.- Por la ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+IV.- Por auto de vinculación a proceso dictado por delito de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a su patria potestad.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -16788,3 +16844,17 @@ P.O. 4 DE DICIEMBRE DE 2023.
 Primero.- Las presentes reformas entraran en vigor el día en que entre en vigor en el Estado el Código Nacional de Procedimientos Civiles y Familiares, de conformidad con la declaratoria que para tal efecto, emita el Congreso del Estado.
 
 Segundo.- Los asuntos que se presenten con anterioridad a la entrada en vigor de las presentes reformas, se seguirán sustanciando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 405 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 235 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El registro e inscripción en el Registro Nacional de Obligaciones Alimentarias, estará sujeta al inicio de su funcionamiento en términos de la Ley General de los Derechos de las Niñas, Niños y Adolescentes.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 407 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 440, 441 Y 444 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
