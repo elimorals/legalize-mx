@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-lectura-y-el-libro-del-estado-de-baja-90002
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-19"
-last_updated: "2018-03-02"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2012.
 
@@ -297,9 +297,11 @@ Las decisiones de los Consejos Municipales podrán tomarse por acuerdo de la may
 
 ### CAPÍTULO VI. DE LOS PROGRAMAS ESTATAL Y MUNICIPALES DE FOMENTO A LA LECTURA Y EL LIBRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 20.
 
-Para el cumplimiento de sus funciones y demás disposiciones contenidas en la presente Ley, el Consejo Estatal y los Consejos Municipales elaborarán y aprobarán en sesión ordinaria, en el ámbito de su competencia y jurisdicción respectivas, los programas estatal y municipal correspondientes, los cuales deberán conformarse por lo menos de las siguientes partes:
+Para el cumplimiento de sus funciones y demás disposiciones contenidas en la presente Ley, el Consejo Estatal y los Consejos Municipales elaborarán y aprobarán en sesión ordinaria, en el ámbito de su competencia y jurisdicción respectiva, los programas estatal y municipal correspondientes, los cuales deberán conformarse por lo menos de las siguientes partes:
 
 l. Introducción;
 
@@ -334,6 +336,10 @@ g) Buscar financiamiento para la compra de libros, materiales de lectura y equip
 h) Llevar a cabo campañas de donación de libros, materiales de lectura a las salas de lectura, bibliotecas estatales, municipales y demás instituciones que promuevan el fomento de la lectura y la producción literaria;
 
 i) Promover la participación de la sociedad y de las instituciones públicas de manera corresponsable con el Consejo Estatal y los Consejos Municipales en beneficio del fomento a la lectura y el libro entre la población;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+j) Impulsar y promover la creación de puntos de lectura, en las colonias y fraccionamientos en donde existan comités de vecinos.
 
 IX. Integrar y administrar el fondo económico estatal y municipal, en su caso, para el financiamiento de las acciones de fomento a la lectura y el libro;
 
@@ -406,5 +412,11 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 2 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 189 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 400 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL INCISO J) A LA FRACCIÓN VIII DEL ARTÍCULO 20 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
