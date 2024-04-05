@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INDULTO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
 
@@ -47,11 +47,11 @@ LEY DE INDULTO DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, por conducto de las Secretarías de Justicia y Derechos Humanos, y de Seguridad, al Instituto de la Defensoría Pública y de la Subsecretaría de Control Penitenciario, a través de la Dirección General de Prevención y Reinserción Social.
+Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde a la persona titular del Poder Ejecutivo, por conducto de la Consejería Jurídica, la Secretaría de Seguridad, al Instituto de la Defensoría Pública y de la Subsecretaría de Control Penitenciario, a través de la Dirección General de Prevención y Reinserción Social.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -67,15 +67,15 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Secretaría: a la Secretaría de Seguridad.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Secretario: al titular de la Secretaría de Seguridad.
+II. Secretario o Secretaria: a la persona titular de la Secretaría de Seguridad.
 
 III. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por los titulares o representantes de la Secretaría de Justicia y Derechos Humanos, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral; al Gobernador respecto de la viabilidad para otorgar el indulto.
+IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por las personas titulares o representantes de la Consejería Jurídica, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral a la persona titular del Poder Ejecutivo respecto de la viabilidad para otorgar el indulto.
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -87,15 +87,21 @@ VII. Delincuente primario: el que corneta (sic) por primera vez un delito.
 
 VIII. Delincuente reincidente: el que cometa nuevamente algún delito después de haber sido condenado por sentencia ejecutoriada.
 
-IX. Director: al servidor público titular de la institución penitenciaria respectiva.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IX. Director o Directora: a la persona servidora pública titular de la institución penitenciaria respectiva.
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 X. Dirección General: a la Dirección General de Prevención y Reinserción Social del Estado de México.
 
-XI. Director General: al titular de la Dirección General.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XII. Gobernador: al Gobernador Constitucional del Estado de México.
+XI. Director o Directora General: a la persona titular de la Dirección General.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XII. Gobernador o Gobernadora: a la persona titular del Poder Ejecutivo Estatal.
 
 XIII. Institución Penitenciaria: a los centros o establecimientos penitenciarios.
 
@@ -243,11 +249,11 @@ Tratándose de solicitudes de las o los sentenciados integrantes de pueblos ind�
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15.
 
-Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito al Gobernador, quien por conducto de la Secretaría de Justicia y Derechos Humanos, lo turnará, a la Secretaría de Seguridad.
+Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito a la persona titular del Poder Ejecutivo, quien por conducto de la Consejería Jurídica, lo turnará a la Secretaría de Seguridad.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -287,9 +293,9 @@ En las solicitudes de indulto de las o los sentenciados de pueblos indígenas, s
 
 Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Comité Técnico para que éste dictamine lo procedente.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-En caso positivo, se enviará por conducto de la Secretaría de Justicia y Derechos Humanos al Gobernador del Estado para que valore la viabilidad del indulto.
+En caso positivo, se enviará por conducto de la Consejería Jurídica escrito a la persona titular del Poder Ejecutivo del Estado para que valore la viabilidad del indulto.
 
 Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
@@ -299,11 +305,11 @@ Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
 Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 22.
 
-El Gobernador del Estado remitirá el expediente por conducto de la Secretaría de Justicia y Derechos Humanos al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
+La persona titular del Poder Ejecutivo del Estado remitirá el expediente por conducto de la Consejería Jurídica al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -488,3 +494,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
