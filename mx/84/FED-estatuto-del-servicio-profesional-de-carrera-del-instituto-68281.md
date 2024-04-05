@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2020-12-24"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2024.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -57,7 +57,7 @@ El presente Estatuto tiene por objeto establecer las bases para la organización
 
 El objetivo del Servicio Profesional de Carrera es el de seleccionar y reclutar a los mejores aspirantes a ocupar las plazas vacantes y de nueva creación, conforme al marco normativo, procedimientos y herramientas que se determinen en el mismo, para los subprocesos: ingreso, capacitación, evaluación al desempeño, estímulos y separación; lo que permitirá contar con personal profesionalizado para atender las atribuciones del INEGI, y coadyuvar a que el personal esté en condiciones de cumplir con las funciones encomendadas.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
@@ -65,23 +65,25 @@ Para efectos del Estatuto se entenderá como:
 
 I. Aspirante.- a la persona que cumpla con el perfil y los requisitos necesarios para participar en los procedimientos de reclutamiento y selección con la finalidad de ocupar una plaza de nueva creación o una plaza vacante del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía, en los términos previstos en el presente Estatuto;
 
-II. Catálogo Institucional de Puestos o Catálogo.- documento que deberá reunir, clasificar y sistematizar la información de los puestos existentes en el Instituto. Define las funciones de los puestos, así como, sus principales responsabilidades. Incluye la rama que les corresponde y los requisitos a cubrir para ser ocupados; y precisa el tipo de puesto de que se trate: de base o de confianza;
+II. Candidata o Candidato.- a la persona que ingresa al Sistema, mediante concurso público y abierto y que se encuentra dentro del periodo de los seis meses del nombramiento por tiempo fijo;
 
-III. Comisión.- la Comisión del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
+III. Catálogo Institucional de Puestos o Catálogo.- documento que deberá reunir, clasificar y sistematizar la información de los puestos existentes en el Instituto. Define las funciones de los puestos, así como, sus principales responsabilidades. Incluye la rama que les corresponde y los requisitos a cubrir para ser ocupados; y precisa el tipo de puesto de que se trate: de base o de confianza;
 
-IV. DGA.- la Dirección General de Administración;
+IV. Comisión.- la Comisión del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
 
-V. DGARH.- la Dirección General Adjunta de Recursos Humanos;
+V. DGA.- la Dirección General de Administración;
 
-VI. Disposiciones Normativas.- a las normas administrativas que expida el Instituto para la operación del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía con base en este Estatuto;
+VI. DGARH.- la Dirección General Adjunta de Recursos Humanos;
 
-VII. Estatuto.- el Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
+VII. Disposiciones Normativas.- a las normas administrativas que expida el Instituto para la operación del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía con base en este Estatuto;
 
-VIII. Instituto.- el Instituto Nacional de Estadística y Geografía;
+VIII. Estatuto.- el Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
 
-IX. Ley.- la Ley del Sistema Nacional de Información Estadística y Geográfica, y
+IX. Instituto.- el Instituto Nacional de Estadística y Geografía;
 
-X. Sistema.- el Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía.
+X. Ley.- la Ley del Sistema Nacional de Información Estadística y Geográfica, y
+
+XI. Sistema.- el Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía.
 
 ###### Artículo 3.
 
@@ -121,11 +123,11 @@ DE LA ESTRUCTURA ORGANICA DEL SISTEMA.
 
 De la Comisión del Servicio Profesional de Carrera.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 5.
 
-La Comisión es el órgano de planeación, coordinación, supervisión y ejecución del Sistema y estará integrada por el Titular de la DGA, quien la presidirá; por los titulares de las Direcciones Generales de Coordinación del SNIEG; de Estadísticas Sociodemográficas; de Estadísticas Económicas; de Geografía y Medio Ambiente; de Vinculación y Servicio Público de Información; de Integración, Análisis e Investigación; Estadísticas de Gobierno, Seguridad Pública y Justicia y las Coordinaciones Generales de Operación Regional; de Informática, y de Asuntos Jurídicos, como vocales; el Titular del Órgano Interno de Control y el Titular de la Dirección de Capacitación, como invitados y el Titular de la Dirección General Adjunta de Recursos Humanos en la Secretaría Técnica.
+La Comisión es el órgano de planeación, coordinación, supervisión y ejecución del Sistema y estará integrada por el Titular de la DGA, quien la presidirá; por los titulares de las Unidades Administrativas a que hace referencia el artículo 3 del Reglamento Interior del Instituto Nacional de Estadística y Geografía, como vocales; el Titular del Órgano Interno de Control y el Titular de la Dirección de Capacitación, como invitados y el Titular de la Dirección General Adjunta de Recursos Humanos en la Secretaría Técnica.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
@@ -345,15 +347,21 @@ El Titular de la DGARH, establecerá los mecanismos de evaluación específicos 
 
 En igualdad de calificaciones, tendrán preferencia los servidores públicos del Instituto.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 22.
 
-El Aspirante determinado ganador del concurso por la DGARH, se hará acreedor al nombramiento, por tiempo determinado, como Candidata o Candidato a Servidor Público Profesional de Carrera en el cargo que corresponda, con una vigencia de un año. Cumplidos los diez meses de haber ingresado, se realizará la evaluación por el superior jerárquico de la plaza, de acuerdo con los mecanismos o lineamientos de evaluación de desempeño establecidos para tal efecto. Al cumplirse el año, los efectos de dicho nombramiento cesarán ya sea que se haya obtenido un desempeño satisfactorio o no.
+El Aspirante determinado ganador del concurso por la DGARH, se hará acreedor al nombramiento, por tiempo fijo, como Candidata o Candidato a Servidor Público Profesional de Carrera en el cargo que corresponda, con una vigencia de seis meses. Al término de los cuatro meses posteriores a su ingreso, se realizará la evaluación del desempeño por el superior jerárquico de la plaza, de acuerdo con los mecanismos o lineamientos de evaluación de desempeño establecidos para tal efecto. Al cumplirse los seis meses, los efectos de dicho nombramiento cesarán independientemente de que se haya obtenido un desempeño satisfactorio o no.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 En caso de haber obtenido un desempeño satisfactorio o superior, se le otorgará el nombramiento en el cargo que corresponda como Servidor Público Profesional de Carrera.
 
-En el supuesto que se haya obtenido un resultado no satisfactorio, el superior jerárquico de la plaza, con un mes de anticipación al vencimiento del nombramiento a que se refiere el primer párrafo, le notificará por escrito dicho resultado y que no se le otorgará el nombramiento como servidor público profesional de carrera y que en consecuencia se dará por concluida la relación laboral con el INEGI, sin responsabilidad alguna para éste.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+En el supuesto que se haya obtenido un resultado no satisfactorio, el superior jerárquico de la plaza, con al menos un mes de anticipación al vencimiento del nombramiento a que se refiere el primer párrafo de este artículo, le notificará por escrito dicho resultado y que no se le otorgará el nombramiento como servidor público profesional de carrera y que en consecuencia se dará por concluida la relación laboral con el INEGI, sin responsabilidad alguna para éste.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 El servidor público que se desempeñó provisionalmente tendrá únicamente derecho a interponer el recurso de reconsideración que prevé este Estatuto, el cual no tendrá efecto alguno respecto de la conclusión de la designación provisional del Candidato o Candidata de que se trate.
 
@@ -369,19 +377,13 @@ Durante ese lapso, la DGARH, llevará los procedimientos de reclutamiento y sele
 
 La Capacitación.
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 24.
 
-La Capacitación es el proceso mediante el cual los Servidores Públicos Profesionales de Carrera son actualizados para desempeñar un cargo en el Instituto, con el propósito de mejorar su actuación en el puesto asignado y estar en condiciones de participar en concursos por plazas vacantes o de nueva creación.
+La Capacitación es el proceso mediante el cual los Servidores Públicos Profesionales de Carrera adquieren la posibilidad de superarse profesional y personalmente dentro del Instituto. La misma es proporcionada con el propósito de mejorar su actuación en el puesto asignado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
-
-El Titular de la DGARH, emitirá las normas que regularán el proceso de capacitación, con base en lo establecido en este Estatuto, en sus disposiciones normativas, y tomando en consideración:
-
-I. Los conocimientos básicos requeridos por los Servidores Públicos Profesionales de Carrera sobre el marco jurídico de actuación del Instituto y de las Unidades del Estado establecidas en la Ley;
-
-II. La especialización, actualización y educación formal que estén relacionadas con el cargo desempeñado, y
-
-III. La posibilidad de superarse institucional, profesional y personalmente dentro del Instituto.
+La capacitación será impartida a los servidores públicos del INEGI considerando las atribuciones, funciones, programa de trabajo y conocimientos requeridos de los equipos de trabajo.
 
 > <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
@@ -397,21 +399,17 @@ I. Desarrollar, complementar, actualizar o perfeccionar los conocimientos y habi
 
 II. Preparar a los Servidores Públicos Profesionales de Carrera en funciones que demanden un mayor conocimiento en materias competencia del Instituto.
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 27.
 
-Los programas de capacitación tendrán como propósito que los Servidores Públicos Profesionales de Carrera dominen los conocimientos y competencias necesarios para el desarrollo de sus funciones.
+La capacitación se integrará con cursos vinculados a las funciones y a las necesidades de desarrollo de los Servidores Públicos Profesionales de Carrera en el puesto.
 
-La capacitación se integrará con cursos obligatorios y optativos que deberán estar vinculados a las funciones o necesidades de desarrollo del puesto. Los cursos deberán ser aprobados por los Servidores Públicos Profesionales de Carrera y su calificación formará parte de la evaluación para su permanencia en el Sistema.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 28.
 
-Los Servidores Públicos Profesionales de Carrera para su inscripción en los programas de capacitación optativos con el fin de desarrollar su perfil profesional, deberán contar con la autorización del Titular de la Unidad Administrativa y Coordinación Estatal de su adscripción.
-
-> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
-
-La Comisión establecerá el valor que se dará a los cursos optativos que se incluyan en el Programa de Capacitación respectivo.
+Para su inscripción en los programas de capacitación que permitan desarrollar su perfil profesional, los Servidores Públicos Profesionales de Carrera deberán contar con la autorización del Titular de la Unidad Administrativa o de la Coordinación Estatal de su adscripción.
 
 ###### Artículo 29.
 
@@ -439,27 +437,29 @@ En caso de separación imputable al Servidor Público Profesional de Carrera, an
 
 De la Evaluación del Desempeño.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 31.
 
-Los Servidores Públicos Profesionales de Carrera serán evaluados en su desempeño y en los cursos de capacitación que participen conforme a los términos que determine el Titular DGARH, por lo menos una vez cada tres años.
+Los Servidores Públicos Profesionales de Carrera serán evaluados en su desempeño de manera anual, conforme a los lineamientos que determine la Comisión.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 32.
 
-La evaluación del desempeño de los Servidores Públicos Profesionales de Carrera calificará los aspectos cuantitativos y cualitativos del cumplimiento de sus funciones y, en su caso, de sus metas y de su capacitación.
+La evaluación del desempeño de los Servidores Públicos Profesionales de Carrera calificará los aspectos relacionados con la obtención de resultados, así como calidad, oportunidad y factores de desempeño en el cumplimiento de sus funciones.
 
 ###### Artículo 33.
 
 La evaluación del desempeño tiene como principales objetivos, los siguientes:
 
-> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-I. Evaluar a los Servidores Públicos Profesionales de Carrera en el cumplimiento de sus funciones y, en su caso, de sus metas y de su capacitación.
+I. Evaluar a los Servidores Públicos Profesionales de Carrera en el cumplimiento de sus funciones, con base en los resultados de sus actividades y/o entregables;
 
-II. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado de los Servidores Públicos Profesionales de Carrera;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+II. Determinar, en su caso, el otorgamiento de estímulos a los Servidores Públicos Profesionales de Carrera;
 
 III. Detectar las necesidades de capacitación de los Servidores Públicos Profesionales de Carrera, e
 
@@ -475,33 +475,49 @@ La aprobación de las evaluaciones del desempeño de manera satisfactoria o supe
 
 Los Estímulos.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 35.
 
-Para el otorgamiento de Estímulos a los Servidores Públicos Profesionales de Carrera, derivados de un desempeño destacado, la Comisión atendiendo el cumplimiento de las funciones y metas del Instituto, establecerá el tipo de evaluación y criterios que se requieran de acuerdo con el perfil del puesto, los métodos y procedimientos necesarios para ello, y fijará la periodicidad de la evaluación de acuerdo al cargo de los Servidores Públicos Profesionales de Carrera, sin menoscabo de la operación de las Unidades Administrativas o Coordinaciones Estatales.
+Para el otorgamiento de Estímulos a los Servidores Públicos Profesionales de Carrera, la Comisión atendiendo el cumplimiento de las funciones del Instituto, establecerá el método y la periodicidad para definir a los Servidores Públicos Profesionales de Carrera acreedores del estímulo, sin menoscabo de la operación de las Unidades Administrativas o Coordinaciones Estatales.
+
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 36.
 
-La Comisión establecerá las bases para determinar el valor y mecanismo de evaluación que se requerirá para que se considere que los Servidores Públicos Profesionales de Carrera han tenido un desempeño destacado.
+La Comisión establecerá las bases para determinar el valor y mecanismo de evaluación que se requerirá para que se considere que los Servidores Públicos Profesionales de Carrera son acreedores de Estímulos.
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 37.
 
-Los Estímulos al desempeño destacado consisten en el reconocimiento económico y/o público que se entrega al Servidor Público Profesional de Carrera de manera extraordinaria con motivo de la evaluación de su desempeño.
+Los Estímulos consistirán en el reconocimiento económico y/o público que se entregue al Servidor Público Profesional de Carrera de manera extraordinaria con motivo de los resultados obtenidos en la evaluación del desempeño.
 
-En el caso de reconocimientos económicos, éstos deberán ser considerados como una percepción extraordinaria en términos del Manual que Regula las Percepciones de las y los Servidores Públicos del Instituto Nacional de Estadística y Geografía para el ejercicio fiscal correspondiente, en ningún caso estos reconocimientos se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los sueldos y compensaciones que perciben en forma ordinaria los servidores públicos.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+En el caso de reconocimientos económicos, estos deberán ser considerados como una percepción extraordinaria en términos del Manual que Regula las Percepciones de las Personas Servidoras Públicas del Instituto Nacional de Estadística y Geografía para el ejercicio fiscal correspondiente, en ningún caso estos reconocimientos se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los sueldos y compensaciones que perciben en forma ordinaria los servidores públicos.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 La Comisión determinará el mecanismo y procedimiento para la entrega de los reconocimientos públicos, así como los criterios y el monto de los reconocimientos económicos, conforme a lo siguiente:
 
-Los Servidores Públicos Profesionales de Carrera que presten sus servicios como personal operativo de confianza serán sujetos al otorgamiento de estímulos en términos de lo establecido en el Capítulo XVI, de la Ley de Premios, Estímulos y Recompensas Civiles.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+Los Servidores Públicos Profesionales de Carrera que presten sus servicios como personal operativo de confianza serán sujetos al otorgamiento de estímulos en términos de lo establecido en el artículo 20 de los Lineamientos para el otorgamiento de prestaciones extraordinarias al personal del Instituto Nacional de Estadística y Geografía.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 Para el otorgamiento de estímulos para los Servidores Públicos Profesionales de Carrera de enlace y mando, en cada periodo de evaluación se establecerá un Fondo de recursos a distribuir de acuerdo a la disponibilidad presupuestal para tal efecto.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 El monto máximo de recursos del Fondo será publicado mediante acuerdo de la Comisión del Servicio Profesional de Carrera al final de cada periodo de Evaluación del Desempeño, siempre que se cuente con recursos presupuestales autorizados para tal efecto en el Instituto para el periodo de evaluación correspondiente.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 Los recursos del Fondo se distribuirán de acuerdo a lo que establezca la Comisión del Servicio Profesional de Carrera, en un plazo no mayor a 30 días naturales a partir de la publicación de las calificaciones respectivas. Los montos en dinero deberán ser entregados a quienes se hagan acreedores al estímulo a más tardar el 1 de marzo del año inmediato posterior a la terminación del periodo de evaluación correspondiente.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 Independientemente de los recursos en dinero, los Servidores Públicos Profesionales de Carrera que obtengan un nivel de desempeño sobresaliente podrán ser acreedores a cinco días hábiles de vacaciones y los Servidores Públicos Profesionales de Carrera que obtengan un nivel de desempeño muy bueno podrán ser acreedores a 3 días hábiles de vacaciones, conforme a los criterios que para tal efecto determine la Comisión. Los días de vacaciones otorgados como estímulo serán adicionales a los que Los Servidores Públicos Profesionales de Carrera tengan derecho de acuerdo a la normatividad administrativa vigente y podrán gozarse en un periodo no mayor a un año a partir de la fecha de la publicación de los resultados de la evaluación.
 
@@ -715,7 +731,7 @@ III. Participar y aprobar las evaluaciones conforme a los términos establecidos
 
 IV. Aportar los elementos necesarios para la evaluación de su desempeño;
 
-V. Participar en los programas de capacitación obligatoria que comprende la actualización, especialización y educación formal, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
+V. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
 VI. Guardar los principios de confidencialidad y reserva que la Ley establece respecto de los datos que los informantes del Sistema proporcionen para fines estadísticos al Instituto, así como, respecto de la información de carácter confidencial que provenga de registros administrativos de las Unidades del Estado previstas en la Ley;
 
@@ -1006,3 +1022,13 @@ D.O.F. 24 DE DICIEMBRE DE 2020.
 PRIMERO.- Las reformas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Quedarán a salvo los derechos laborales del personal adscrito al Órgano Interno de Control del Instituto que a la entrada en vigor del presente Acuerdo sea parte del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía, por lo que continuarán siendo parte del mismo.
+
+D.O.F. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- La reforma al presente Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas Candidatas que ingresaron previo a la aprobación del presente Estatuto les aplicarán las disposiciones vigentes al momento de su ingreso, solo por lo que hace a su carácter como Candidata, por lo que, en su caso, el nombramiento como SPPC será en términos de las presentes reformas al Estatuto.
+
+TERCERO.- Las personas SPPC que obtuvieron un resultado no aprobatorio en la evaluación del desempeño 2021-2022 conforme a los Lineamientos que establecen los periodos para la evaluación del desempeño de las y los Servidores Públicos Profesionales de Carrera del Instituto Nacional de Estadística y Geografía para el 2021-2022, y aquellas personas SPPC que se encuentren sujetas a evaluación del desempeño en los años 2023 y 2024, serán evaluadas una vez que la Comisión apruebe las disposiciones normativas correspondientes, con posterioridad a la entrada en vigor las presentes reformas a este Estatuto, así como cuando se cuente con los sistemas de evaluación actualizados.
