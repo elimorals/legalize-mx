@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-58347"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-03"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el lunes 3 de diciembre de 2007.
 
@@ -45,11 +45,11 @@ LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FU
 
 ### CAPÍTULO PRIMERO. NATURALEZA Y OBJETO
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 1.
 
-Se crea el Instituto de la Función Registral del Estado de México como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Justicia y Derechos Humanos, el cual se regirá por lo dispuesto en la presente Ley y en su reglamento interior; así como en los demás ordenamientos legales aplicables.
+Se crea el Instituto de la Función Registral del Estado de México como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Consejería Jurídica, el cual se regirá por lo dispuesto en la presente Ley y en su reglamento interior; así como en los demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -169,23 +169,29 @@ El órgano de gobierno del Instituto de la Función Registral del Estado de Méx
 
 El Consejo Directivo será la máxima autoridad del Instituto de la Función Registral del Estado de México y estará integrado por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-l. Un Presidente, quien será el Secretario de Justicia y Derechos Humanos;
+I. Una Presidencia, que estará a cargo de la persona titular de la Consejería Jurídica;
 
-II. Un Secretario, quien será designado por el Consejo Directivo a propuesta de su Presidente, pudiendo recaer dicho cargo en el Director General del Instituto de la Función Registral del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-En caso de que el Director General no desempeñe el cargo de Secretario del Consejo Directivo, éste podrá asistir a las sesiones del Consejo Directivo con voz pero sin voto y sin que dicha participación le dé el carácter de miembro del Consejo Directivo;
+II. Una Secretaría, que estará a cargo de la persona designada por el Consejo Directivo a propuesta de la Presidencia, pudiendo recaer dicho cargo en la persona titular de la Dirección General del Instituto de la Función Registral del Estado de México;
 
-III. Un Comisario, quien será el representante de la Secretaría de la Contraloría; y
+En caso de que la persona titular de la Dirección General no desempeñe el cargo de titular de la Secretaría del Consejo Directivo, ésta podrá asistir a las sesiones del Consejo Directivo con voz pero sin voto y sin que dicha participación le dé el carácter de miembro del Consejo Directivo;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Seis vocales, que serán nombrados y removidos por el Gobernador del Estado, entre los que deberán estar dos representantes de la Secretaría de Finanzas, así como uno de la Secretaría de Desarrollo Económico y uno de la Secretaría de Desarrollo Urbano y Obra. Los dos vocales restantes de libre designación deberán ser especialistas en materia registral, su designación se hará considerando su experiencia, honradez y prestigio y durarán tres años en su encargo pudiendo ser designados por periodos subsecuentes de tres años cada uno a elección del Gobernador del Estado. Los vocales especialistas antes mencionados podrán ser removidos por causa grave o justificada.
+III. Una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría; y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Seis vocales, que serán nombrados y removidos por la persona titular del Poder Ejecutivo del Estado, entre los que deberán estar dos representantes de la Secretaría de Finanzas, así como uno de la Secretaría de Desarrollo Económico y uno de la Secretaría de Desarrollo Urbano e Infraestructura. Los dos vocales restantes de libre designación deberán ser especialistas en materia registral, su designación se hará considerando su experiencia, honradez y prestigio y durarán tres años en su encargo pudiendo ser designados por periodos subsecuentes de tres años cada uno a elección de la persona titular del Poder Ejecutivo del Estado. Los vocales especialistas antes mencionados podrán ser removidos por causa grave o justificada.
 
 Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente quien será propuesto por el propietario.
 
-Los miembros del Consejo Directivo tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Secretario y Comisario quienes sólo tendrán derecho de voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes del Consejo Directivo tendrán derecho a voz y voto en las sesiones que celebren, con excepción de quien ocupe la Secretaría Técnica y la Comisaría quienes sólo tendrán derecho de voz.
 
 El desempeño de los miembros del Consejo Directivo será honorífico.
 
@@ -748,3 +754,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
