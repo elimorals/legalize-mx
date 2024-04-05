@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-24414"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-04"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de septiembre de 1996.
 
@@ -123,13 +123,13 @@ El Tecnológico podrá contar con órganos auxiliares.
 
 La junta directiva será la máxima autoridad del Tecnológico y estará integrada por:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Dos representantes del Gobierno del Estado, designados por el Ejecutivo Estatal que serán:
+I. Dos personas representantes del Gobierno del Estado, designados por la persona titular del Poder Ejecutivo que serán:
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-a). La persona titular de la Secretaría de Educación, quien la presidirá, y
+a). La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, quien la presidirá, y
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -137,19 +137,29 @@ b). La persona titular de la Secretaría de Finanzas.
 
 c). (DEROGADO, G.G. 22 DE JUNIO DE 2023)
 
-II. Tres representantes del gobierno federal, designados por el Secretario de Educación Pública:
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-A invitación del Ejecutivo Estatal;
+II. Tres personas representantes del Gobierno Federal, designadas por la persona titular de la Secretaría de Educación Pública:
 
-III. Un representante del Gobierno Municipal de Coacalco y un representante del sector social de la comunidad, designados por el ayuntamiento;
+A invitación del Ejecutivo Estatal:
 
-IV. Dos representantes del sector productivo de la región, que participen en el financiamiento del tecnológico, a través del patronato a que se refiere esta ley. Estos representantes serán designados por el patronato conforme a sus estatutos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una persona representante del Gobierno Municipal de Coacalco y una del sector social de la comunidad, designados por el ayuntamiento;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Dos personas representantes del sector productivo de la región, que participen en el financiamiento del tecnológico, a través del patronato a que se refiere esta ley. Estos representantes serán designados por el patronato conforme a sus estatutos;
 
 También formarán parte de la junta directiva:
 
-V. Un Secretario, quien será designado por el órgano de Gobierno a propuesta del Presidente; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VI. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
+V. Una Secretaría, quien será designada por el órgano de Gobierno a propuesta de la Presidencia; y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VI. Una Comisaría, quien estará a cargo de la persona representante de la Secretaría de la Contraloría.
 
 Los miembros de la junta directiva serán removidos de su cargo por quien los designe.
 
@@ -227,13 +237,13 @@ XVII. Las demás que se deriven de esta ley o sus reglamentos.
 
 Para el cumplimiento de su objeto, el Tecnológico contará con el apoyo de un consejo consultivo académico que será integrado por subdirectores, jefes de división y de departamento, personal académico del Tecnológico y por especialistas de alto reconocimiento profesional. El número de miembros, organización y forma de trabajo estarán establecidos en las normas reglamentarias.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15.
 
-La persona Titular de la Dirección del Tecnológico de Estudios Superiores de Coacalco será nombrado y removido por la persona titular del Ejecutivo del Estado, a propuesta de la persona Titular de la Secretaría de Educación; durará en su cargo cuatro años y sólo podrá ser ratificado por otro período.
+La persona Titular de la Dirección del Tecnológico de Estudios Superiores de Coacalco será nombrada y removida por la persona titular del Poder Ejecutivo del Estado, a propuesta de la persona Titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación; durará en su cargo cuatro años y sólo podrá ser ratificada por otro período.
 
-En los casos de ausencias temporales será sustituido por quien designe la Junta Directiva, y en la definitiva por quien designe la persona titular del Ejecutivo del Estado, en los términos del párrafo anterior.
+En los casos de ausencias temporales será sustituida por quien designe la Junta Directiva, y en la definitiva por quien designe la persona titular del Poder Ejecutivo del Estado, en los términos del párrafo anterior.
 
 ###### Artículo 16.
 
@@ -460,3 +470,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
