@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-periodico-oficial-gaceta-del-gobierno-del-estado-de-111
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -53,17 +53,15 @@ La presente Ley es de orden público y de observancia obligatoria en el Estado d
 
 Para efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Secretaría: A la Secretaría de Justicia y Derechos Humanos.
+I. Consejería Jurídica: A la Consejería Jurídica del Ejecutivo Estatal.
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+II. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
-II. Director: A la persona titular de la Dirección General de Legalización y del Periódico Oficial "Gaceta del Gobierno".
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
-
-III. Dirección: A la Dirección General de Legalización y del Periódico Oficial "Gaceta del Gobierno".
+III. Dirección: A la Dirección General de Legislación y del Periódico Oficial "Gaceta del Gobierno''.
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -73,11 +71,11 @@ V. Periódico Oficial: Al Periódico Oficial "Gaceta del Gobierno".
 
 ### CAPÍTULO II. DEL PERIÓDICO OFICIAL
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-El periódico oficial es un medio de difusión de carácter permanente e interés público dependiente de la Secretaría y órgano informativo del Gobierno del Estado de México cuyo objeto es publicar las leyes, decretos, reglamentos, acuerdos, notificaciones, avisos, manuales y demás disposiciones de carácter general de los poderes del Estado, organismos autónomos, organismos auxiliares, ayuntamientos y de particulares.
+El periódico oficial es un medio de difusión de carácter permanente e interés público dependiente de la Consejería Jurídica y órgano informativo del Gobierno del Estado de México cuyo objeto es publicar las leyes, decretos, reglamentos, acuerdos, notificaciones, avisos, manuales y demás disposiciones de carácter general de los poderes del Estado, organismos autónomos, organismos auxiliares, ayuntamientos y de particulares.
 
 ###### Artículo 4.
 
@@ -101,11 +99,11 @@ VI. Las actas, documentos o avisos de los organismos auxiliares de la administra
 
 VII. Los demás actos y resoluciones que establezcan las leyes u otras disposiciones jurídicas.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 6.
 
-El periódico oficial será publicado en días hábiles de lunes a viernes, sin embargo, podrá ordenarse su publicación cualquier otro día cuando las necesidades del servicio lo requieran y así lo determine la o el Titular de la Secretaría.
+El periódico oficial será publicado en días hábiles de lunes a viernes, sin embargo, podrá ordenarse su publicación cualquier otro día cuando las necesidades del servicio lo requieran y asilo determine la persona titular de la Consejería Jurídica.
 
 ###### Artículo 7.
 
@@ -161,17 +159,17 @@ El periódico oficial deberá proveerse con recursos tecnológicos y humanos ade
 
 ### CAPÍTULO III. DE LA DIRECCIÓN
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 11.
 
-La Dirección es la unidad administrativa adscrita a la Secretaría, encargada de ordenar la organización, administración, edición, publicación y circulación del periódico oficial.
+La Dirección es la unidad administrativa adscrita a la Consejería Jurídica, encargada de ordenar la organización, administración, edición, publicación y circulación del periódico oficial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 12.
 
-La o el Director será nombrado por la o el Titular de la Secretaría y tendrá las siguientes atribuciones:
+La persona titular de la Dirección será nombrada por la persona titular de la Consejería Jurídica y tendrá las siguientes atribuciones:
 
 I. Editar, imprimir y publicar el periódico oficial en tiempo y forma.
 
@@ -193,21 +191,25 @@ VIII. Administrar y vigilar la página electrónica del periódico oficial.
 
 IX. Emitir ejemplares del periódico oficial con firma y sello electrónico, garantizando la integridad y autenticidad.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-X. Las demás que establezcan otras disposiciones jurídicas aplicables y las que le instruya la o el titular de la Secretaría.
+X. Las demás que establezcan otras disposiciones jurídicas aplicables y las que le instruya la o el titular de la Consejería Jurídica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 13.
 
-La o el Director deberá instrumentar los registros de las publicaciones del periódico oficial, entre los cuales deberá contemplar cuando menos los siguientes:
+La persona titular de la Dirección deberá instrumentar los registros de las publicaciones del periódico oficial, entre los cuales deberá contemplar cuando menos los siguientes:
 
 I. Tipo de documento publicado, clasificado por materia.
 
 II. Suscripciones electrónicas.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
-La o el Director archivará y mantendrá en custodia los documentos originales que presente el Ejecutivo para su publicación, archivo que resguardará durante un término de cinco años.
+La persona titular de la Dirección archivará y mantendrá en custodia los documentos originales que presente el Ejecutivo para su publicación, archivo que resguardará durante un término de cinco años.
 
 ### CAPÍTULO IV. DE LOS COSTOS DE INSERCIÓN
 
@@ -223,17 +225,17 @@ En caso de que el documento presentado no se publique, el pago efectuado se cons
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO DE PUBLICACIÓN Y CIRCULACIÓN
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 17.
 
-La Secretaría, por sí o por conducto de la Dirección o la Subdirección, recibirá los documentos cuya publicación se solicite acusará el recibo correspondiente, en el que conste el día y hora de su recepción.
+La Consejería Jurídica, por sí o por conducto de la Dirección o la Subdirección, recibirá los documentos cuya publicación se solicite acusará el recibo correspondiente, en el que conste el día y hora de su recepción.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 18.
 
-La solicitud de publicación se dirige a la persona titular de la Secretaría y se presenta en original, en un horario de 9:00 a 18:00 horas en días hábiles, para su revisión, cotización y, en su caso, entrega de la orden de pago correspondiente.
+La solicitud de publicación se dirige a la persona titular de la Consejería Jurídica y se presenta en original, en un horario de 9:00 a 18:00 horas en días hábiles, para su revisión, cotización y, en su caso, entrega de la orden de pago correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -297,21 +299,21 @@ Para los efectos del presente artículo se entiende que el periódico oficial se
 
 ### CAPÍTULO VI. DIFUSIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 27.
 
-Para su consulta gratuita en internet, el periódico oficial será difundido en el portal informativo que al efecto determine la Secretaría.
+Para su consulta gratuita en internet, el periódico oficial será difundido en el portal informativo que al efecto determine la Consejería Jurídica.
 
 ###### Artículo 28.
 
 La publicación electrónica tiene la finalidad de divulgar mediante el libre acceso, el contenido de las ediciones del periódico oficial.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 29.
 
-La alteración de la información contenida en el portal informativo que al efecto determine la Secretaría será sancionada por las disposiciones jurídicas aplicables.
+La alteración de la información contenida en el portal informativo que al efecto determine la Consejería Jurídica será sancionada por las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. DE LA FE DE ERRATAS Y LA NOTA ACLARATORIA
 
@@ -502,3 +504,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
