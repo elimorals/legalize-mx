@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -285,7 +285,9 @@ h) Realizar las visitas de verificación correspondientes conforme a lo establec
 
 i) Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
-III. A la Secretaría de Educación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+III. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 a) Coadyuvar para que los Centros de Asistencia Social que presten servicios educativos cuenten con programas y sistemas que permitan contribuir al aprendizaje de niñas, niños y adolescentes albergados.
 
@@ -295,7 +297,9 @@ c) Proporcionar, en el interior de los Centros de Asistencia Social, educación 
 
 d) Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
-IV. A la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. A la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo:
 
 a) Expedir todas las autorizaciones necesarias en materia de protección civil.
 
@@ -307,7 +311,9 @@ d) Aplicar las medidas de seguridad sobre la materia, establecidas en el Código
 
 e) Imponer las sanciones por las infracciones cometidas, de conformidad con lo establecido en el Código Administrativo del Estado de México.
 
-f) Asesorar en la elaboración de los programas internos de protección civil de los Centros de Asistencia Social.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+f) Asesorar en la elaboración de los programas internos de protección civil y gestión integral del riesgo de los Centros de Asistencia Social.
 
 g) Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
@@ -319,11 +325,15 @@ I. Estar inscritos en el Registro Estatal.
 
 II. Contar con la autorización sanitaria expedida por la Secretaría de Salud, en la que se precise que las instalaciones cuentan con las condiciones de salubridad e higiene, que como mínimo, se deben observar para prestar el servicio.
 
-III. Contar con la autorización en materia de protección civil expedida por la Secretaría General de Gobierno, a través de la Coordinación Estatal de Protección Civil, en el cual se precise que las instalaciones, para operar, cuentan con todas las medidas de seguridad previstas en la presente Ley y en las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Contar con la autorización en materia de protección civil expedida por la Secretaría General de Gobierno, a través de la Coordinación Estatal de Protección Civil y Gestión Integral del Riesgo, en el cual se precise que las instalaciones, para operar, cuentan con todas las medidas de seguridad previstas en la presente Ley y en las demás disposiciones jurídicas aplicables.
 
 IV. Nombramiento del Titular del Centro de Asistencia Social emitido por la autoridad competente.
 
-V. Contar con el Certificado de no antecedentes penales expedido por la Procuraduría General de Justicia del Estado de México del Titular del Centro de Asistencia Social, así como de todos los servidores públicos que laboren en el mismo.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Contar con el Certificado de no antecedentes penales expedido por la Fiscalía General de Justicia del Estado de México del Titular del Centro de Asistencia Social, así como de todos los servidores públicos que laboren en el mismo.
 
 > <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
 
@@ -343,13 +353,17 @@ I. Llenar el formato expedido por el DIFEM, en el que se especificará el nombre
 
 II. Autorización sanitaria expedida por la Secretaría de Salud, en la que se precise que las instalaciones cuentan con las condiciones de salubridad e higiene, que como mínimo, se deben observar para prestar el servicio.
 
-III. Autorización en materia de protección civil, expedida por la Secretaría General de Gobierno, a través de la Coordinación Estatal de Protección Civil, en la cual se precise que las instalaciones, para operar, cuentan con todas las medidas de seguridad previstas en la presente Ley y en las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Autorización en materia de protección civil, expedida por la Secretaría General de Gobierno, a través de la Coordinación Estatal de Protección Civil y Gestión Integral del Riesgo, en la cual se precise que las instalaciones, para operar, cuentan con todas las medidas de seguridad previstas en la presente Ley y en las demás disposiciones jurídicas aplicables.
 
 IV. Identificación oficial o, en su caso, acta constitutiva y los documentos que acrediten la representación legal del interesado.
 
 V. Presentar documentación relativa a la constitución de los Centros de Asistencia Social.
 
-VI. Documento de no antecedentes penales expedido por la Procuraduría General de Justicia del Estado de México de la persona física y, en su caso, de todos los asociados de la persona jurídica colectiva. Dicho documento deberá presentarse anualmente.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VI. Documento de no antecedentes penales expedido por la Fiscalía General de Justicia del Estado de México de la persona física y, en su caso, de todos los asociados de la persona jurídica colectiva. Dicho documento deberá presentarse anualmente.
 
 VII. El Programa Interno de Protección Civil.
 
@@ -501,7 +515,9 @@ La reintegración de las niñas, niños y adolescentes tiene como propósito fav
 
 En todos los casos en que sean puestos a disposición del Ministerio Público niñas, niños y adolescentes que requieran del cuidado y asistencia del Estado, a través de los Centros de Asistencia Social, el Ministerio Público deberá practicar las diligencias de investigación legalmente procedentes.
 
-Al efecto, el Ministerio Público elaborará la ficha de identificación de la niña, niño o adolescente que difundirá en la página de internet de la Procuraduría General de Justicia del Estado de México y ordenará su publicación cuando menos en un periódico de los de mayor circulación a nivel estatal y solicitará, vía colaboración, a la Procuraduría General de la República su difusión a nivel nacional, a efecto de posibilitar que, en su caso, pueda ser reconocido por sus familiares para una posible reintegración.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Al efecto, el Ministerio Público elaborará la ficha de identificación de la niña, niño o adolescente que difundirá en la página de internet de la Fiscalía General de Justicia del Estado de México y ordenará su publicación cuando menos en un periódico de los de mayor circulación a nivel estatal y solicitará, vía colaboración, a la Procuraduría General de la República su difusión a nivel nacional, a efecto de posibilitar que, en su caso, pueda ser reconocido por sus familiares para una posible reintegración.
 
 ###### Artículo 22.
 
@@ -1015,13 +1031,13 @@ El Comité Interinstitucional es un cuerpo colegiado cuyo objetivo es revisar, a
 
 Para efectos de lo previsto en el presente Título, el Comité Interinstitucional estará integrado de la manera siguiente:
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un Presidente, que será el Director General del DIFEM.
+I. Una Presidencia, que estará a cargo de la persona titular de la Dirección General del DIFEM.
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Secretario quien será el titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, y
+II. Una Secretaría que estará a cargo de la persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, y
 
 > <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
 
@@ -1031,9 +1047,9 @@ III. Un representante del Órgano Interno de Control del DIFEM.
 
 IV. Vocales:
 
-> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-a) Una persona representante de la Secretaría de Justicia y Derechos Humanos;
+a) Una persona representante de la Consejería Jurídica;
 
 > <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
@@ -1099,17 +1115,17 @@ g) Una persona representante del área de trabajo social de los Centros de Asist
 
 h) Una persona representante jurídico de la Procuraduría de Protección.
 
-> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Presidente, y el Secretario Técnico tendrán la facultad de nombrar a su suplente, quien actuará en su representación y en el caso del primero, presidirá las sesiones.
+Las personas titulares de la Presidencia, y de la Secretaría Técnica tendrán la facultad de nombrar a su suplente, quien actuará en su representación y en el caso del primero, presidirá las sesiones.
 
 > <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
 
 Cuando las Procuradurías de Protección de Niñas, Niños y Adolescentes o los Centros de Asistencia Social presenten ante el Comité Interinstitucional un caso, deberán de comparecer acompañados de sus respectivos representantes del área médica, psicológica, de trabajo social y jurídica.
 
-> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los representantes de las instituciones de asistencia privada y sociedad civil, previa su integración al Comité Interinstitucional, deberán firmar un convenio de confidencialidad respecto de toda la información que obtengan con motivo de su participación.
+Las personas representantes de las instituciones de asistencia privada y sociedad civil, previa su integración al Comité Interinstitucional, deberán firmar un convenio de confidencialidad respecto de toda la información que obtengan con motivo de su participación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
 
@@ -1519,9 +1535,9 @@ II. La Unidad de Asuntos Internos de la Secretaría de Seguridad.
 
 III. La Secretaría de la Contraloría del Estado de México y/o el órgano interno de control del DIFEM.
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. El órgano interno de control de la Secretaría de Justicia y Derechos Humanos.
+IV. El órgano interno de control de la Consejería Jurídica.
 
 V. Los ayuntamientos y los presidentes municipales.
 
@@ -1800,3 +1816,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
