@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2023-05-11"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -105,9 +105,11 @@ Si el infractor fuese jornalero u obrero no podrá ser sancionado con multa mayo
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES ESTATALES Y MUNICIPALES
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 1.
 
-5. La aplicación del presente Código corresponde al Poder Ejecutivo, a los Ayuntamientos y al Tribunal de lo Contencioso Administrativo del Estado de México en sus respectivas competencias, quienes actuarán directamente o a través de sus dependencias, organismos auxiliares del sector, salas regionales y secciones correspondientes en los términos de este Código, la Ley Orgánica de la Administración Pública del Estado de México, la Ley Orgánica Municipal del Estado de México y los reglamentos correspondientes.
+5. La aplicación del presente Código corresponde al Poder Ejecutivo, a los Ayuntamientos y al Tribunal de Justicia Administrativa del Estado de México en sus respectivas competencias, quienes actuarán directamente o a través de sus dependencias, organismos auxiliares del sector, salas regionales y secciones correspondientes en los términos de este Código, la Ley Orgánica de la Administración Pública del Estado de México, la Ley Orgánica Municipal del Estado de México y los reglamentos correspondientes.
 
 ###### Artículo 1.
 
@@ -151,9 +153,11 @@ Para dar curso a la acción ciudadana basta el señalamiento de los hechos que c
 
 Se reconoce el derecho de toda persona física o jurídica colectiva para ejercitar las acciones previstas por este Código.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 1.
 
-9. A falta de disposiciones en este ordenamiento serán aplicables de manera supletoria: la Ley Orgánica de la Administración Pública del Estado de México, el Libro Primero del Código Administrativo del Estado de México, la Ley Orgánica Municipal del Estado de México, el Código de Procedimientos Administrativos del Estado de México, la Ley de Transparencia y Acceso a la Información Pública del Estado de México y la legislación que resulte aplicable.
+9. A falta de disposiciones en este ordenamiento serán aplicables de manera supletoria: la Ley Orgánica de la Administración Pública del Estado de México, el Libro Primero del Código Administrativo del Estado de México, la Ley Orgánica Municipal del Estado de México, el Código de Procedimientos Administrativos del Estado de México, la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la legislación que resulte aplicable.
 
 # LIBRO SEGUNDO. DEL EQUILIBRIO ECOLOGICO, LA PROTECCION AL AMBIENTE Y EL FOMENTO AL DESARROLLO SOSTENIBLE
 
@@ -297,7 +301,9 @@ h) Actividades pesqueras, acuícolas o agropecuarias en zonas donde el Estado ej
 
 i) Las obras y proyectos a que se refiere este Libro y que están sujetas a evaluación de impacto ambiental.
 
-j) Cualquier otra actividad que produzca o pueda producir daño o deterioro ambiental a criterio de la Secretaría del Medio Ambiente del Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+j) Cualquier otra actividad que produzca o pueda producir daño o deterioro ambiental a criterio de la Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México.
 
 II. Afectación ambiental: La pérdida, menoscabo o modificación de las condiciones químicas, físicas o biológicas de la flora y fauna silvestres, del paisaje, suelo, subsuelo, agua, aire o de la estructura y funcionamiento de los ecosistemas y la afectación a la integridad de la persona es la introducción no consentida en el organismo humano de uno o más contaminantes, la combinación o derivación de ellos que resulte directa o indirectamente de la exposición a materiales o residuos y de la liberación, descarga, desecho, infiltración o incorporación ilícita de dichos materiales o residuos en la atmósfera, en el agua, en el suelo, en el subsuelo y en los mantos freáticos o en cualquier medio o elemento natural.
 
@@ -347,7 +353,9 @@ XXI. Ecosistema: La unidad natural funcional básica de interacción dinámica d
 
 XXI Bis. Educación Ambiental: Es un proceso que comprende la presentación sistemática de información que favorezca la asimilación de conocimientos dirigido a toda la sociedad, a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente;
 
-XXII. Ejecutivo Estatal: El Gobernador del Estado de México y las dependencias de la administración pública estatal en materia ambiental;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXII. Ejecutivo Estatal: La persona titular del Poder Ejecutivo del Estado de México y las dependencias de la administración pública estatal en materia ambiental;
 
 XXIII. Elementos naturales: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados sin la inducción del ser humano. Se consideran recursos naturales los elementos naturales susceptibles de ser aprovechados en beneficio del ser humano y se denominan bienes ambientales al beneficio tangible como madera, plantas, agua y otros similares de su transformación de insumos mediante un proceso determinado se les denomina bienes ambientales;
 
@@ -389,7 +397,9 @@ XL. Monitoreo ambiental: Determinación sistemática, continua o periódica de l
 
 XLI. Norma oficial mexicana: La regulación técnica de observancia obligatoria que debe aplicar el Gobierno del Estado expedidas por las dependencias competentes conforme a las finalidades establecidas en el artículo 40 de la Ley Federal sobre Metrología y Normalización que establecen reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente y que además permitan uniformar los principios, criterios y políticas en la materia, así como aquellas relativas a la terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
-XLII. Normas técnicas estatales: El conjunto de reglas, parámetros científicos o tecnológicos emitidos por la Secretaría del Medio Ambiente o cualquier otra dependencia del Estado que establezcan los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente, y que además permitan uniformar los principios, criterios, políticas y estrategias en la materia;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XLII. Normas técnicas estatales: El conjunto de reglas, parámetros científicos o tecnológicos emitidos por la Secretaría del Medio Ambiente y Desarrollo Sostenible o cualquier otra dependencia del Estado que establezcan los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente, y que además permitan uniformar los principios, criterios, políticas y estrategias en la materia;
 
 XLIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sostenible de los elementos y recursos naturales a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
@@ -425,7 +435,9 @@ LVII. Riesgo: La probabilidad de que al liberar al medio ambiente o exponerse a 
 
 LVIII. Riesgo ambiental: El daño potencial a la población, sus bienes y al medio ambiente derivado de actividades humanas o fenómenos naturales en caso de presentarse un accidente o un evento extraordinario;
 
-LIX. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+LIX. Secretaría: La Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México;
 
 LX. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equilibrio en el Estado; y
 
@@ -441,9 +453,13 @@ LXII. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o ref
 
 6. Son autoridades responsables para la aplicación del presente Libro:
 
-I. El titular del Poder Ejecutivo del Estado a través de sus dependencias, entidades y organismos auxiliares en el ámbito de su competencia;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. La Secretaría del Medio Ambiente del Estado de México;
+I. La persona Titular del Poder Ejecutivo del Estado a través de sus dependencias, entidades y organismos auxiliares en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. La Secretaría;
 
 III. Los Ayuntamientos a quienes compete el ejercicio de las atribuciones señaladas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás ordenamientos aplicables en la materia;
 
@@ -509,7 +525,9 @@ IX. Diseñar e implementar políticas públicas que coadyuven a disminuir los ef
 
 X. Las demás acciones que le confieran otras disposiciones aplicables.
 
-### CAPITULO III. DE LAS FACULTADES DEL EJECUTIVO ESTATAL A TRAVES DE LA SECRETARIA DEL MEDIO AMBIENTE
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
+
+### CAPITULO III. DE LAS FACULTADES DEL EJECUTIVO ESTATAL A TRAVES DE LA SECRETARIA DEL MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE
 
 ###### Artículo 2.
 
@@ -763,9 +781,11 @@ VII. La integración y ejecución de investigaciones científicas y sociales, ad
 
 VIII. Establecer campañas para la correcta clasificación de los residuos sólidos urbanos, y la promoción de la economía circular.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-19. La Secretaría proveerá a la Secretaría de Educación, Cultura y Bienestar Social, material relativo a temas de cultura ambiental para su inclusión en las currículas formales de la educación preescolar, primaria y secundaria del Sistema Estatal de Educación.
+19. La Secretaría proveerá a la Secretaría de Educación, Ciencia, Tecnología e Innovación, material relativo a temas de cultura ambiental para su inclusión en las currículas formales de la educación preescolar, primaria y secundaria del Sistema Estatal de Educación.
 
 ###### Artículo 2.
 
@@ -1027,9 +1047,11 @@ VI. Los lineamientos para su ejecución, evaluación, seguimiento y modificació
 
 ### CAPITULO III. DE LA POLITICA AMBIENTAL EN EL ESTADO
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-51. La Secretaría del Medio Ambiente y los Ayuntamientos observaran y aplicaran los principios, medidas y fines de su política ambiental, los cuales serán acordes con la Ley General del Equilibrio Ecológico y Protección al Ambiente.
+51. La Secretaría del Medio Ambiente y Desarrollo Sostenible, y los Ayuntamientos observaran y aplicaran los principios, medidas y fines de su política ambiental, los cuales serán acordes con la Ley General del Equilibrio Ecológico y Protección al Ambiente.
 
 ###### Artículo 2.
 
@@ -1279,7 +1301,9 @@ VI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 VII. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
 
-Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento previo a su realización a la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en este Libro. Asimismo, si después de obtenida la autorización en materia de impacto ambiental, el titular o responsable de la obra o actividad deciden no ejercerla, deberán comunicarlo por escrito a la Secretaría de Ecología.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento previo a su realización a la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en este Libro. Asimismo, si después de obtenida la autorización en materia de impacto ambiental, el titular o responsable de la obra o actividad deciden no ejercerla, deberán comunicarlo por escrito a la Secretaría del Medio Ambiente y Desarrollo Sostenible.
 
 Una vez que la autoridad competente reciba un informe previo, manifiesto de impacto o estudio de riesgo ambiental, integrará, dentro de los cinco días hábiles siguientes, el expediente respectivo que pondrá a disposición del público, con el fin de que pueda ser consultado por cualquier persona, la cual deberá acreditar el interés jurídico respectivo.
 
@@ -1345,9 +1369,11 @@ Descripción de los materiales o productos que vayan a emplearse en la ejecució
 
 En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe previo, pretendiendo se aplique la afirmativa ficta, se entenderá que el ingreso del procedimiento para la autorización del informe previo es inexistente, independientemente de las sanciones previstas en este Libro.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-76. Las autorizaciones, licencias o permisos otorgados en contravención a lo dispuesto en este Libro, serán nulos de pleno derecho y los servidores públicos que los hayan otorgado serán sancionados de conformidad con la Ley de Responsabilidades de los Servidores Públicos, para cuyo efecto la Secretaría informará el hecho de inmediato a la autoridad competente, lo anterior sin perjuicio de otras sanciones que pudieran aplicarse.
+76. Las autorizaciones, licencias o permisos otorgados en contravención a lo dispuesto en este Libro, serán nulos de pleno derecho y los servidores públicos que los hayan otorgado serán sancionados de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios, para cuyo efecto la Secretaría informará el hecho de inmediato a la autoridad competente, lo anterior sin perjuicio de otras sanciones que pudieran aplicarse.
 
 ###### Artículo 2.
 
@@ -2033,7 +2059,9 @@ IV. El Fomento del tratamiento, colección, reutilización y separación de dep�
 
 155. La prevención y control de la contaminación del agua le corresponderá:
 
-I. Al titular del Poder Ejecutivo del Estado a través de la Secretaría para lo cual deberá:
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. A la persona titular del Poder Ejecutivo del Estado a través de la Secretaría del Agua, para lo cual deberá:
 
 a) Llevar el control, con el apoyo de las dependencias, entidades federales y los Ayuntamientos de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado que operen en la Entidad.
 
@@ -2045,19 +2073,21 @@ d) Promover y regular la aplicación de tecnologías apropiadas para el reciclad
 
 II. A los Ayuntamientos les corresponderá:
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-a) Llevar y actualizar el registro de las descargas en las redes de drenaje y alcantarillado que administren debiendo proporcionarlo semestralmente a la Secretaría y a las dependencias federales competentes para que sea integrado al Registro Nacional de Descargas.
+a) Llevar y actualizar el registro de las descargas en las redes de drenaje y alcantarillado que administren debiendo proporcionarlo semestralmente a la Secretaría del Agua y a las dependencias federales competentes para que sea integrado al Registro Nacional de Descargas.
 
 b) Observar el cumplimiento de las condiciones generales de descarga que fijen las dependencias federales que corresponda a las aguas residuales vertidas por los sistemas de drenaje y alcantarillado en cuerpos y corrientes de agua de propiedad federal.
 
 c) Promover el reuso en la industria o en la agricultura de aguas residuales tratadas, derivadas de aguas federales asignadas o concesionadas para la prestación de servicios públicos, así como las que provengan de los sistemas de drenaje y alcantarillado siempre que cumplan con las normas técnicas de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ### CAPITULO V. DE LA PROTECCION Y CONTROL DE LA CONTAMINACION DEL SUELO
 
 ###### Artículo 2.
 
-156. Para evitar la contaminación del agua el Gobierno del Estado a través de la Secretaría y los Ayuntamientos regulará:
+156. Para evitar la contaminación del agua el Gobierno del Estado a través de la Secretaría del Agua y los Ayuntamientos regulará:
 
 I. Las descargas de origen industrial y agropecuario que se viertan en los sistemas de alcantarillado de los centros de población o en los cuerpos de agua de jurisdicción estatal y las industrias que sean abastecidas mediante la red de agua potable;
 
@@ -2101,9 +2131,11 @@ Para autorizar la construcción de obras, instalaciones de aguas residuales, gen
 
 162. El otorgamiento de asignaciones, autorizaciones, concesiones, permisos para la explotación, uso o aprovechamiento de aguas de jurisdicción estatal o las asignadas o concesionadas para la prestación de servicios públicos en actividades que puedan contaminar dicho recurso estará condicionado al tratamiento previo necesario de las aguas residuales que se produzcan o descarguen de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-163. La Secretaría, con la participación que corresponda a las dependencias, entidades federales y estatales competentes con el apoyo de los Ayuntamientos, realizará un monitoreo permanente y sistemático de la calidad de las aguas de jurisdicción estatal para detectar la presencia de contaminantes o exceso de desechos orgánicos aplicando las medidas correspondientes en el ámbito de su competencia.
+163. La Secretaría del Agua, con la participación que corresponda a las dependencias, entidades federales y estatales competentes con el apoyo de los Ayuntamientos, realizará un monitoreo permanente y sistemático de la calidad de las aguas de jurisdicción estatal para detectar la presencia de contaminantes o exceso de desechos orgánicos aplicando las medidas correspondientes en el ámbito de su competencia.
 
 ###### Artículo 2.
 
@@ -2255,7 +2287,9 @@ La Secretaría otorgará permanentemente información, capacitación y orientaci
 
 184. La Secretaría llevará en el Sistema Estatal de Información Pública Ambiental un registro de almacenes, sistemas de tratamiento y transformación comprobados de disposición final, rellenos sanitarios, centros de acopio, plantas de separación, plantas de reciclado, transportistas o permisionarios, entre otros que en territorio del Estado se relacionen con residuos sólidos urbanos y de manejo especial, así como el de las fuentes generadoras. Estos datos serán aportados al Sistema Nacional de Información Ambiental y Recursos Naturales de la Secretaría ambiental del sector en el ámbito federal.
 
-Para los efectos del párrafo anterior, las autoridades municipales aportarán a la Secretaría del Medio Ambiente del Estado la información correspondiente.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Para los efectos del párrafo anterior, las autoridades municipales aportarán a la Secretaría del Medio Ambiente y Desarrollo Sostenible la información correspondiente.
 
 ###### Artículo 2.
 
@@ -2297,13 +2331,15 @@ VI. La infraestructura para la dotación de servicios básicos.
 
 ###### Artículo 2.
 
-191. Sin perjuicio de lo dispuesto en el presente Libro, las personas que realicen actividades no riesgosas deberán internalizar en sus costos de producción la variable ambiental, así como observar las medidas preventivas, correctivas y de control establecidas en las normas oficiales mexicanas o determinadas por las autoridades competentes conforme a la Ley de Protección Civil para el Estado de México y las demás disposiciones aplicables para prevenir y controlar accidentes que puedan afectar la integridad de las personas o al medio ambiente.
+191. Sin perjuicio de lo dispuesto en el presente Libro, las personas que realicen actividades no riesgosas deberán internalizar en sus costos de producción la variable ambiental, así como observar las medidas preventivas, correctivas y de control establecidas en las normas oficiales mexicanas o determinadas por las autoridades competentes conforme al Libro Sexto del Código Administrativo del Estado de México y las demás disposiciones aplicables para prevenir y controlar accidentes que puedan afectar la integridad de las personas o al medio ambiente.
 
 ###### Artículo 2.
 
 192. Las dependencias del Ejecutivo Estatal que resulten competentes, publicarán en la Gaceta del Gobierno las medidas señaladas en el artículo precedente y las difundirán a través de los medios conducentes.
 
 ### CAPITULO IX. DE LAS ACTIVIDADES NO RIESGOSAS
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
@@ -2603,13 +2639,15 @@ Tendrán prioridad para acceder a dicho fondo los proyectos productivos presenta
 
 ###### Artículo 2.
 
-229. Las disposiciones de este Libro, se aplicarán en la realización de actos de inspección, vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas, de comisión de delitos, sanciones, procedimientos, recursos administrativos; cuando se trate de asuntos de competencia del Estado y de los Municipios regulados por el presente Código, sin perjuicio de lo establecido de manera específica en los Libros que lo conforman. En las materias anteriormente señaladas se aplicarán supletoriamente las disposiciones del Código de Procedimientos Administrativos del Estado de México y Ley Federal sobre Metrología y Normalización. Tratándose de materias referidas en este Libro que se encuentran reguladas por los otros Libros que conforman el Código, éste será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
+229. Las disposiciones de este Libro, se aplicarán en la realización de actos de inspección, vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas, de comisión de delitos, sanciones, procedimientos, recursos administrativos; cuando se trate de asuntos de competencia del Estado y de los Municipios regulados por el presente Código, sin perjuicio de lo establecido de manera específica en los Libros que lo conforman. En las materias anteriormente señaladas se aplicarán supletoriamente las disposiciones del Código de Procedimientos Administrativos del Estado de México y Ley de Infraestructura de la Calidad. Tratándose de materias referidas en este Libro que se encuentran reguladas por los otros Libros que conforman el Código, éste será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
 
 ###### Artículo 2.
 
 230. La Secretaría y los Ayuntamientos en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Ordenamiento, así como de las que del mismo se deriven.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
@@ -3369,9 +3407,11 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 303. En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo el presente Código serán nulas y no producirán efecto legal alguno y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-304. En aquellos casos en que como resultado del ejercicio de sus atribuciones la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable formulará ante el Ministerio Público competente la denuncia correspondiente. Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en los ordenamientos aplicables. La Secretaría proporcionará en las materias de su competencia los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales con motivo de las denuncias presentadas por la comisión de delitos ambientales. La Secretaría será coadyuvante del Ministerio Público competente en los términos del Código de Procedimientos Penales para el Estado de México, lo anterior sin perjuicio de la coadyuvancia que pueda hacer la victima o el ofendido directo del ilícito por sí mismo o a través de su representante legal.
+304. En aquellos casos en que como resultado del ejercicio de sus atribuciones la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable formulará ante el Ministerio Público competente la denuncia correspondiente. Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en los ordenamientos aplicables. La Secretaría proporcionará en las materias de su competencia los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales con motivo de las denuncias presentadas por la comisión de delitos ambientales. La Secretaría será coadyuvante del Ministerio Público competente en los términos del Código Nacional de Procedimientos Penales, lo anterior sin perjuicio de la coadyuvancia que pueda hacer la victima o el ofendido directo del ilícito por sí mismo o a través de su representante legal.
 
 ###### Artículo 2.
 
@@ -3829,15 +3869,19 @@ XV. Capacitar y acreditar a las personas que pretendan realizar cualquier tipo d
 
 XVI. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-18. La dirección y administración de PROBOSQUE estará a cargo de un consejo directivo y un director general.
+18. La dirección y administración de PROBOSQUE estará a cargo de un Consejo Directivo y una Dirección General.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales que son los representantes de la Secretaría y de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano y Obra, Movilidad y del Medio Ambiente; así como un Comisario, que será el representante de la Secretaría de la Contraloría.
+El Consejo Directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales que son las personas representantes de la Secretaría y de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano e Infraestructura, Movilidad y del Medio Ambiente y Desarrollo Sostenible; así como una Comisaría, que será la representante de la Secretaría de la Contraloría.
 
-El director general será nombrado por el Gobernador del Estado a propuesta del presidente del consejo directivo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado a propuesta de la Presidencia del Consejo Directivo.
 
 La organización y funcionamiento del organismo se rige por el reglamento interno que expida el consejo directivo.
 
@@ -3919,9 +3963,11 @@ El Programa Estratégico Forestal Estatal de largo plazo deberá ser elaborado p
 
 #### SECCION SEGUNDA. DEL SISTEMA ESTATAL DE INFORMACION FORESTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-27. El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sostenible y la cual estará disponible al público para su consulta, con las restricciones establecidas por la Ley de Transparencia y Acceso a la Información Pública Gubernamental del Estado de México.
+27. El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sostenible y la cual estará disponible al público para su consulta, con las restricciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 La Secretaría y PROBOSQUE integrarán el Sistema Estatal de Información Forestal conforme a las normas, criterios, procedimientos y metodología seguidos para la integración del Sistema Nacional de Información Forestal.
 
@@ -3953,9 +3999,11 @@ IX. Organizaciones e instituciones de los sectores social y privado y organismos
 
 X. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sostenible.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-30. Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, con las restricciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+30. Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, con las restricciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 #### SECCION TERCERA. DEL INVENTARIO ESTATAL FORESTAL
 
@@ -4239,9 +4287,11 @@ Para tal efecto el Gobierno del Estado y los Municipios podrán celebrar conveni
 
 70. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad forestal deberán sujetarse a las disposiciones de la Ley de Ingresos y Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda y deberán asegurar su eficacia, selectividad y transparencia y podrán considerar el establecimiento y vinculación de cualquier mecanismo normativo o administrativo de carácter fiscal, financiero y de mercado establecidos en otras leyes incluyendo los estímulos fiscales, los créditos, las fianzas, los seguros, los fondos y los fideicomisos, así como las autorizaciones en materia forestal cuando atiendan o posibiliten la realización de los propósitos y objetivos prioritarios de promoción y desarrollo forestal. En todo caso los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades forestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-71. La Secretaría de Finanzas, Planeación y Administración diseñará, propondrá y aplicará medidas para asegurar que el Estado, los Municipios, la sociedad y los particulares coadyuven financieramente para la realización, de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sostenible de los ecosistemas forestales.
+71. La Secretaría de Finanzas diseñará, propondrá y aplicará medidas para asegurar que el Estado, los Municipios, la sociedad y los particulares coadyuven financieramente para la realización, de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sostenible de los ecosistemas forestales.
 
 El Estado promoverá estímulos económico-fiscales y gestionará los instrumentos crediticios adecuados para el financiamiento de la actividad forestal incluyendo tasas de interés preferencial.
 
@@ -4315,9 +4365,11 @@ VII. Promover los criterios de política forestal previstos en el presente Códi
 
 VIII. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-79. En materia de educación y capacitación la Secretaría y PROBOSQUE en coordinación con la Comisión Nacional Forestal, la Secretaría de Educación, Cultura y Bienestar Social y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado realizarán las siguientes acciones:
+79. En materia de educación y capacitación la Secretaría y PROBOSQUE en coordinación con la Comisión Nacional Forestal, la Secretaría de Educación, Ciencia, Tecnología e Innovación y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado realizarán las siguientes acciones:
 
 I. Promover la formación, capacitación y certificación de competencia laboral de técnicos y profesionistas forestales;
 
@@ -4589,7 +4641,9 @@ XVI. Residuos sólidos: El material, producto o subproducto que sin ser consider
 
 XVII. Reutilizar: El empleo de un producto usado para el mismo fin para el que fue diseñado originariamente o destinada para otro fin útil;
 
-XVIII. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVIII. Secretaría: La Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México;
 
 XIX. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización con el objetivo de minimizar su impacto negativo al ambiente mediante el ahorro y consumo eficiente de agua, energía y materiales que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
 
@@ -5737,9 +5791,11 @@ V. Los antecedentes, circunstancias y situación socioeconómica del infractor.
 
 En los casos en que se imponga como sanción la clausura temporal la autoridad deberá indicar al infractor las medidas de mitigación y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción los plazos para su realización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 4.
 
-110. En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo el presente Libro serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de México.
+110. En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo el presente Libro serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 En todo lo no previsto en el presente Título la autoridad correspondiente se sujetará a lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de México y demás ordenamientos aplicables.
 
@@ -5825,7 +5881,9 @@ XIX. Ejemplares o poblaciones que se tornen perjudiciales: Las pertenecientes a 
 
 XX. Especies y poblaciones prioritarias para la conservación: Aquellas determinadas por la Secretaría de acuerdo con los criterios establecidos en el presente Libro para canalizar y optimizar esfuerzos de conservación y recuperación. Las especies endémicas se consideran dentro de esta categoría que son las que habitan exclusivamente en una determinada área geográfica;
 
-XXI. Especies y poblaciones en riesgo: Las identificadas por la Secretaria de Medio Ambiente y Recursos Naturales, por la Secretaría del Medio Ambiente del Estado o por la Comisión Estatal de Parques Naturales y de la Fauna como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial materia del presente Libro;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXI. Especies y poblaciones en riesgo: Las identificadas por la Secretaría de Medio Ambiente y Recursos Naturales, por la Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado o por la Comisión Estatal de Parques Naturales y de la Fauna como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial materia del presente Libro;
 
 XXII. Especies y poblaciones migratorias: Aquellas que se desplazan latitudinal, longitudinal o altitudinalmente de manera periódica como parte de su ciclo biológico;
 
@@ -5875,7 +5933,9 @@ XLIV. Reproducción asistida: La forma de reproducción de ejemplares de la vida
 
 XLV. Reproducción controlada: El manejo planificado de ejemplares, poblaciones o hábitats de la vida silvestre para asegurar el incremento en el número de individuos que se realiza bajo condiciones de protección y de seguimiento sistemático permanente o de reproducción asistida;
 
-XLVI. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XLVI. Secretaría: La Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México;
 
 XLVII. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas y la degradación de desechos orgánicos;
 
@@ -6047,6 +6107,8 @@ La Secretaría deberá considerar en el ejercicio de sus facultades sobre la mat
 
 ### CAPITULO II. DE LA FORMACION, CAPACITACION, INVESTIGACION Y DIVULGACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 5.
 
 18. Los propietarios y legítimos poseedores de predios en donde se distribuye la vida silvestre tendrán el derecho a realizar su aprovechamiento sostenible y la obligación de contribuir a conservar el hábitat conforme a lo establecido en el presente Libro y podrán transferir esta prerrogativa a terceros conservando el derecho a participar de los beneficios que se deriven de dicho aprovechamiento.
@@ -6057,11 +6119,13 @@ Los propietarios y legítimos poseedores de dichos predios y los terceros que re
 
 19. Las autoridades que en el ejercicio de sus atribuciones deban intervenir en las actividades relacionadas con la utilización del suelo, agua y demás elementos y recursos naturales con fines agrícolas, ganaderos, piscícolas, forestales y otros, observarán las disposiciones de este Libro y las que de éste se deriven y adoptarán las medidas que sean necesarias para que dichas actividades se realicen de modo que se eviten, prevengan, reparen, compensen o minimicen los efectos negativos de las mismas sobre la vida silvestre y su hábitat.
 
-###### Articulo 5.
+###### Artículo 5.
 
 20. La Secretaría diseñará y promoverá en las disposiciones que se deriven del presente Libro el desarrollo de criterios, metodologías y procedimientos que permitan identificar los valores de la biodiversidad y de los servicios ambientales que provee a efecto de armonizar la conservación de la vida silvestre y su hábitat con la utilización sostenible de bienes y servicios, así como de incorporar éstos al análisis y planeación económica de conformidad con el presente Ordenamiento y otras disposiciones aplicables mediante:
 
-I. Sistemas de certificación para la producción de bienes y servicios ambientales;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. Crear y regular el Sistema de Certificación y Acreditación Ambiental para la producción de bienes y servicios ambientales;
 
 II. Estudios para la ponderación de los diversos valores culturales, sociales, económicos y ecológicos de la biodiversidad;
 
@@ -6075,11 +6139,13 @@ V. La utilización de mecanismos de compensación y otros instrumentos internaci
 
 ###### Artículo 5.
 
-21. La Secretaría promoverá en coordinación con la Secretaría de Educación, Cultura y Bienestar Social y las demás autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como las organizaciones no gubernamentales desarrollen programas de educación ambiental, capacitación, formación profesional e investigación científica y tecnológica para apoyar las actividades de conservación, preservación, restauración, rehabilitación, remediación y aprovechamiento sostenible de la vida silvestre y su hábitat.
+21. La Secretaría promoverá en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación y las demás autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como las organizaciones no gubernamentales desarrollen programas de educación ambiental, capacitación, formación profesional e investigación científica y tecnológica para apoyar las actividades de conservación, preservación, restauración, rehabilitación, remediación y aprovechamiento sostenible de la vida silvestre y su hábitat.
 
 La Secretaría participará en dichos programas en los términos que se convengan.
 
-La Secretaría promoverá en coordinación con la Secretaría de Educación, Cultura y Bienestar Social y las demás autoridades competentes que las instituciones de educación media, superior y de investigación, así como las organizaciones no gubernamentales desarrollen proyectos de aprovechamiento sostenible que contribuyan a la conservación, preservación, remediación, recuperación, rehabilitación y restauración de la vida silvestre y sus hábitats por parte de las comunidades rurales.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Secretaría promoverá en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación y las demás autoridades competentes que las instituciones de educación media, superior y de investigación, así como las organizaciones no gubernamentales desarrollen proyectos de aprovechamiento sostenible que contribuyan a la conservación, preservación, remediación, recuperación, rehabilitación y restauración de la vida silvestre y sus hábitats por parte de las comunidades rurales.
 
 Las autoridades en materia forestal, de agricultura, ganadería y desarrollo rural en coordinación con la Secretaría prestarán oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para participar en la conservación y sostenibilidad en el aprovechamiento de la vida silvestre y su hábitat.
 
@@ -7007,9 +7073,11 @@ XII. Los desechos de los animales vivos como heces fecales y de las especies mue
 
 XIII. Por ningún motivo podrá ser obligada o coaccionada ninguna persona, para provocar daño, lesión o la muerte de algún animal y podrá invocar el presente Libro en su defensa.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 6.
 
-5. Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales por lo que el procedimiento se sujetará a lo previsto en éste Código y en lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México relativo al derecho a la información. Asimismo toda persona física o jurídica colectiva que tenga trato o maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
+5. Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales por lo que el procedimiento se sujetará a lo previsto en este Código y en lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios relativo al derecho a la información. Asimismo, toda persona física o jurídica colectiva que tenga trato o maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
 
 ### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
@@ -7031,9 +7099,11 @@ IV. Crear los instrumentos económicos adecuados para incentivar a las organizac
 
 V. Las demás que le confiera este Libro, su Reglamento y los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 6.
 
-8. Corresponde a la Secretaría del Medio Ambiente del Estado de México, en el ámbito de su competencia el ejercicio de las siguientes facultades:
+8. Corresponde a la Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México, en el ámbito de su competencia el ejercicio de las siguientes facultades:
 
 I. La promoción de información y difusión que genere una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales:
 
@@ -7103,6 +7173,8 @@ XI. Las demás que el presente Libro y demás ordenamientos jurídicos aplicable
 
 ### CAPITULO IV. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 6.
 
 12. Los particulares y las asociaciones protectoras de animales, las federaciones y asociaciones relacionadas con la materia de este Libro y los colegios de médicos veterinarios zootecnistas prestarán su cooperación para alcanzar los fines del presente Ordenamiento.
@@ -7127,7 +7199,7 @@ El Reglamento del presente Libro establecerá los requisitos y las condiciones p
 
 ###### Artículo 6.
 
-16. Se crea el Fondo para la Protección a los Animales del Estado de México que dependerá de la Secretaría del Medio Ambiente cuyos recursos se destinarán a:
+16. Se crea el Fondo para la Protección a los Animales del Estado de México que dependerá de la Secretaría del Medio Ambiente y Desarrollo Sostenible cuyos recursos se destinarán a:
 
 I. El fomento de estudios e investigaciones para mejorar los mecanismos de la protección a los animales;
 
@@ -7265,7 +7337,9 @@ Quedan exceptuadas de sanción las charreadas, lidia de toros, novillos o becerr
 
 26. Toda persona física o jurídica colectiva que se dedique a la cría, venta o adiestramiento de animales está obligada a contar con la autorización correspondiente, a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios a fin de que los animales en su desarrollo reciban un trato digno y respetuoso de acuerdo con los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie y cumplir con las normas oficiales mexicanas y las normas técnicas estatales correspondientes. La propiedad o posesión de cualquier animal obliga al poseedor a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico graves propias de la especie. Asimismo deberán tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y malos olores.
 
-Toda persona física o jurídica colectiva, federación, asociación o empresa que se dedique al adiestramiento de perros de seguridad o detectores y en las demás disciplinas deberán contar con un certificado expedido por los Municipios, y en el caso de las unidades caninas de los Ayuntamientos y de la Dirección de Seguridad Pública Estatal deberán adquirirlo por conducto de la Secretaría del Medio Ambiente en los términos establecidos en el Reglamento del presente Libro.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Toda persona física o jurídica colectiva, federación, asociación o empresa que se dedique al adiestramiento de perros de seguridad o detectores y en las demás disciplinas deberán contar con un certificado expedido por los Municipios, y en el caso de las unidades caninas de los Ayuntamientos y de la Dirección de Seguridad Pública Estatal deberán adquirirlo por conducto de la Secretaría del Medio Ambiente y Desarrollo Sostenible en los términos establecidos en el Reglamento del presente Libro.
 
 ###### Artículo 6.
 
@@ -7545,6 +7619,8 @@ III. Por cualquier otro método científico autorizado por las autoridades sanit
 
 ### CAPITULO XIX. DE LA DENUNCIA Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 6.
 
 73. El sacrificio de los animales destinados al consumo se realizará de acuerdo a las autorizaciones que expidan las autoridades sanitarias por una parte y por otra la oficina de protección a los animales del Estado o Municipio.
@@ -7617,11 +7693,13 @@ VII. Sacrificar animales en presencia de menores de edad.
 
 ###### Artículo 6.
 
-85. Toda persona podrá denunciar ante los Municipios o ante la Secretaría todo hecho, acto u omisión que contravenga a las disposiciones del presente Libro y demás ordenamientos jurídicos aplicables.
+85. Toda persona podrá denunciar ante los Municipios o ante la Secretaría del Medio Ambiente y Desarrollo Sostenible todo hecho, acto u omisión que contravenga a las disposiciones del presente Libro y demás ordenamientos jurídicos aplicables.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra Entidad Federativa las autoridades deberán turnarla a la autoridad competente.
 
-Sin perjuicio de lo anterior los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Estado de México si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Sin perjuicio de lo anterior los interesados podrán presentar su denuncia directamente ante la Fiscalía General de Justicia del Estado de México si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito en cuyo caso deberá sujetarse a lo dispuesto por el Código Nacional de Procedimientos Penales.
 
 ### CAPITULO XX. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -8338,3 +8416,39 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
