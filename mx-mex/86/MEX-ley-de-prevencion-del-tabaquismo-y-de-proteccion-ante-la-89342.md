@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -91,9 +91,11 @@ III. Los propietarios, administradores o encargados de los espacios 100% libres 
 
 IV. Las personas que consuman cualquier producto del tabaco, los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libres de humo de tabaco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 4.
 
-La aplicación de esta Ley, corresponde al Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Salud; al Instituto de Salud del Estado de México; al Instituto Mexiquense contra las Adicciones y a los Ayuntamientos, en sus respectivos ámbitos de competencia; y a las demás autoridades competentes.
+La aplicación de esta Ley, corresponde a la persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Salud; al Instituto de Salud del Estado de México; al Instituto Mexiquense de Salud Mental y Adicciones y a los Ayuntamientos, en sus respectivos ámbitos de competencia; y a las demás autoridades competentes.
 
 Las instituciones policiales aplicarán también en el ámbito de su competencia las disposiciones de esta Ley.
 
@@ -199,7 +201,9 @@ V. Promover con los Ayuntamientos, la creación de comités municipales contra l
 
 VI. Fomentar campañas permanentes de información, concientización y difusión para prevenir el consumo de tabaco;
 
-VII. Coordinar los programas de prevención del tabaquismo con la Secretaría de Educación del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VII. Coordinar los programas de prevención del tabaquismo con la Secretaría de Educación, Ciencia, Tecnología e Innovación del Estado de México;
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -689,16 +693,38 @@ Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Preve
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DE (SIC) PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASÍ MISMO REFORMA LA FRACCIÓN VIII Y SUS INCISOS B) Y C) DEL ARTÍCULO 48, Y SE ADICIONA EL INCISO D) A LA FRACCIÓN VIII DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+G.G. 5 DE ABRIL DE 2024.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO. La Comisión General de Transportes y Movilidad estará conformada por los mismos integrantes de la Comisión de Transportes que cambia de denominación.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Transportes, pasaran a ser competencia de la Comisión General de Transportes y Movilidad.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-CUARTO. Todos los actos suscritos por la Comisión General de Transportes y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Transportes y Movilidad.
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
 
-QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
 
-P.O. 29 DE MARZO DE 2017.
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
