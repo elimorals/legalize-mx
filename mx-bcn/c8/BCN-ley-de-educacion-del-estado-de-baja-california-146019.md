@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2024-03-15"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -887,17 +887,27 @@ El incumplimiento o inobservancia a las disposiciones contenidas en el presente 
 
 ### Capítulo III. De la Cultura de la Paz, Convivencia Democrática en las Escuelas y Entornos Escolares Libres de Violencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 73.
 
-En la impartición de educación para menores de dieciocho años, las autoridades educativas estatal y municipal, y los organismos descentralizados que imparten educación en el Estado, en coordinación con otras áreas de gobierno competentes, tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
+En la impartición de educación para menores de dieciocho años, las autoridades educativas estatal y municipal, y los organismos descentralizados que imparten educación en el Estado, en coordinación con otras áreas de gobierno competentes, tomarán medidas que aseguren a las y los educandos la protección y el cuidado necesario para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad y sexo, de conformidad con los lineamientos y protocolos de seguridad que para tal efecto se establezcan.
 
-Para tal efecto, las autoridades escolares entregarán un Protocolo de Actuación para la entrega y salida de los alumnos, así como las medidas a tomar ante cualquier eventualidad que pudiere poner en riesgo la vida, integridad y dignidad del educando.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-Los docentes y el personal que labora en los planteles educativos de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata, explotación sexual o laboral y drogas.
+Para tal efecto, las autoridades escolares entregarán un Protocolo de Actuación para la entrega y salida de las y los alumnos, así como las medidas a tomar ante cualquier eventualidad que pudiere poner en riesgo la vida, integridad y dignidad de las y los educandos. Además, se sujetarán las escuelas públicas y privadas a las disposiciones de esta ley e indicaciones que, en cumplimiento a la misma, ordene la autoridad Educativa Estatal.
 
-En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas del Estado, tengan conocimiento de la comisión de algún hecho que la Ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y particulares con reconocimiento de validez oficial de estudios del tipo básico informarán a las autoridades educativas estatal y municipal, la cual emitirá una Alerta Temprana y será remitida a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado para los efectos correspondientes.
+El personal docente y el personal que labora en los planteles educativos de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de las y los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protección contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata, explotación sexual o laboral y drogas, para cuyo efecto, deberán siempre dar cumplimiento a todas las disposiciones legales que en la presente ley se estipulan, así como en la Ley General de Educación, respetando siempre los derechos fundamentales y constitucionales de las y los educandos.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+En caso de que el personal docente, el personal que labora en los planteles educativos, así como las autoridades educativas del Estado, tengan conocimiento de la comisión de algún hecho que la Ley señale como delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente, para que sea esta la que acuda, y conforme a los procedimientos de ley actúe en consecuencia del hecho suscitado.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+Cuando exista ausentismo de las y los educandos por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y particulares con reconocimiento de validez oficial de estudios del tipo básico informarán primeramente y de manera inmediata a las autoridades educativas estatal y municipal, la cual emitirá una Alerta Temprana y será remitida a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado para los efectos correspondientes. Una vez hecho lo anterior, podrán contactar a la madre, padre o tutor como medida de seguimiento.
 
 Por cada tres zonas que comprenden las escuelas que se encuentren en estado de vulnerabilidad, pertenecientes a la educación básica y educación media superior en el Sistema Educativo Estatal, deberá existir un área especializada en psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencié problemas de aprendizaje, maltrato físico, psicoemocional, o presentan conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o stress postraumático. De igual manera en el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestras y maestros, madres y padres de familia o tutores para la oportuna y acertada atención a los educandos dentro de los planteles educativos regulares de una manera colegiada o integral.
 
@@ -917,9 +927,13 @@ Con la finalidad de preservar la salud mental de niñas, niños, adolescentes y 
 
 Con la finalidad de promover la salud y estabilidad psicoemocional de niñas y adolescentes en nivel básico y media superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a potenciar acciones para dignificar y normalizar el proceso de menstruación de niñas, mujeres y personas menstruantes, tendiente a evitar ausentismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 74.
 
-Las autoridades educativas estatal y municipal, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+Las autoridades educativas estatal y municipal, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática en los centros escolares basada en el respeto a la dignidad de las personas y de los derechos humanos, tanto de las y los educandos, como del personal administrativo y académico. Realizarán acciones que favorezcan el sentido de comunidad, solidaridad y protección, donde se involucren las y los educandos, el personal docente, personal administrativo, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE ABRIL DE 2024)</small>
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
@@ -937,9 +951,17 @@ VI. Celebrar convenios de cooperación, coordinación y concertación con los se
 
 VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
 
-VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital o televisivo, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital o televisivo, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+IX. Establecerá reglas básicas a efecto de crear protocolos, con el objeto (sic) fortalecer la cultura de la paz y la no violencia dentro de los centros escolares de nivel básico, medio y superior, garantizando el respeto a las garantías y derechos fundamentales tanto de las y los educandos como del personal administrativo y académico; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+X. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
 
 ###### Artículo 75.
 
@@ -1870,3 +1892,9 @@ P.O. 15 DE MARZO DE 2024.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La aplicación del presente Decreto, estará sujeto a la disponibilidad presupuestaria.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 399 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 73 Y 74 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
