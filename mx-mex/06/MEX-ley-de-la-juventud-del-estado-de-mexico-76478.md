@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -485,43 +485,69 @@ El Consejo Estatal de la Juventud es una instancia de colaboración, concurrenci
 
 El Consejo estará integrado por:
 
-I.- Un Presidente, que será el titular de la Secretaría de Desarrollo Social del Gobierno del Estado de México
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I.- Una Presidencia, que estará a cargo de la persona titular de la Secretaría de Bienestar del Gobierno del Estado de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE DICIEMBRE DE 2019)</small>
 
 II.- Los vocales siguientes:
 
-a) Un representante de la Secretaría General de Gobierno;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-b) Un representante de la Secretaría de Finanzas;
+a) Una persona representante de la Secretaría General de Gobierno;
 
-c) Un representante de la Secretaría de Educación;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-d) Un representante de la Secretaria del Trabajo;
+b) Una persona representante de la Secretaría de Finanzas;
 
-e) Un representante de la Secretaría de Salud;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-f) Un representante de la Secretaría de Desarrollo Económico;
+c) Un representante de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-g) Un representante de la Secretaría de Cultura y Turismo;
+d) Una persona representante de la Secretaría del Trabajo;
 
-> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-h) Un representante de la Secretaría de las Mujeres;
+e) Una persona representante de la Secretaría de Salud;
 
-i) El titular del Instituto Mexiquense contra las Adicciones;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-j) El titular del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
+f) Una persona representante de la Secretaría de Desarrollo Económico;
 
-k) Dos Diputados, integrante de la Comisión Legislativa de la Juventud y el Deporte de la H. Legislatura del Estado de México;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-I) El Rector de la Universidad Autónoma del Estado de México o un representante;
+g) Una persona representante de la Secretaría de Cultura y Turismo;
 
-m) Dos representantes de organizaciones de la sociedad civil, cuyo objeto sea el desarrollo y apoyo de la juventud, electos de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley; y
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-III.- Un Secretario Técnico, que será el Director General del Instituto.
+h) Una persona representante de la Secretaría de las Mujeres;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+i) La persona titular del Instituto Mexiquense de Salud Mental y Adicciones;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+j) La persona titular del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+k) Dos Diputados o Diputadas, integrante (sic) de la Comisión Legislativa de la Juventud y el Deporte de la H. Legislatura del Estado de México;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+l) El Rector o Rectora de la Universidad Autónoma del Estado de México o un representante;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+m) Dos personas representantes de organizaciones de la sociedad civil, cuyo objeto sea el desarrollo y apoyo de la juventud, electos de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley, y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III.- Una Secretaría Técnica, que estará a cargo de la persona titular de la Dirección General del Instituto.
 
 ###### Artículo 27.
 
@@ -579,7 +605,9 @@ Para el cumplimiento de sus funciones, el Consejo podrá designar la instalació
 
 Para el cumplimiento de su objeto, los miembros del Consejo tendrán las siguientes atribuciones específicas:
 
-I. A la Secretaría de Desarrollo Social le corresponde:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+I. A la Secretaría de Bienestar le corresponde:
 
 a) Generar programas que alienten su desarrollo integral, que busquen disminuir el número de jóvenes en situación de pobreza alimenticia, de capacidades y patrimonial;
 
@@ -597,21 +625,33 @@ d) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimie
 
 III. A la Secretaría de Finanzas le corresponde:
 
-a) Proponer alternativas que incentiven a los empresarios para que contraten jóvenes;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-b) Desarrollar acciones para abatir de manera especial la brecha digital entre los jóvenes; y
+a) Proponer alternativas que incentiven a los empresarios para que contraten personas jóvenes;
+
+b) (DEROGADO, G.G. 5 DE ABRIL DE 2024)
 
 c) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
-IV. A la Secretaría de Educación le corresponde:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. A la Secretaría de Educación, Ciencia, Tecnología e Innovación le corresponde:
 
 a) Desarrollar programas de estudio de horarios flexibles para los jóvenes que estudian y trabajan;
 
 b) Generar incentivos especiales que procuren el acceso y permanencia en el sistema educativo hasta el nivel superior de jóvenes discapacitados, indígenas, mujeres embarazadas, con alto grado de marginación y pobreza, huérfanos residentes en albergues del DIF del Estado de México y Sistemas Municipales para el Desarrollo Integral de la Familia de los municipios, y aquellos que se encuentran recluidos en alguna Institución especializada;
 
-c) Promover la realización de actividades escolares y extra escolares que busquen disminuir la violencia en las relaciones personales de los jóvenes y promuevan los valores de respeto, tolerancia y equidad; y
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-d) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
+c) Promover la realización de actividades escolares y extra escolares que busquen disminuir la violencia en las relaciones personales de los jóvenes y promuevan los valores de respeto, tolerancia y equidad;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 5 DE ABRIL DE 2024)</small>
+
+d) Impulsar campañas que promuevan la activación física y el deporte entre los jóvenes; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 5 DE ABRIL DE 2024)</small>
+
+e) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
 V. A la Secretaría del Trabajo le corresponde:
 
@@ -643,9 +683,7 @@ a) Desarrollar incentivos para que los jóvenes acudan a museos y a cualquier ti
 
 b) Desarrollar un programa especial que abra espacios en museos para la exposición de obras y trabajos de jóvenes artistas y creadores; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE DICIEMBRE DE 2019)</small>
-
-c) Impulsar de manera anual una campaña que promueva la activación física y el deporte entre los jóvenes; y
+c) (DEROGADO, G.G. 5 DE ABRIL DE 2024)
 
 d) Las demás necesarias dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
@@ -661,15 +699,21 @@ a) Desarrollar acciones para fomentar y promover la igualdad de género entre lo
 
 b) Proponer medidas e impulsar acciones para erradicar la violencia de género contra las mujeres.
 
-X. Al Instituto Mexiquense contra las Adicciones le corresponde:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-a) Desarrollar acciones informativas sobre los efectos y riesgos de las adicciones a los jóvenes; y
+X. Al Instituto Mexiquense de Salud Mental y Adicciones le corresponde:
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a) Desarrollar acciones informativas sobre los efectos y riesgos de las adicciones a las personas jóvenes; y
 
 b) Las demás necesarias dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
 XI. Al Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México le corresponde:
 
-a) Promover entre los jóvenes indígenas la importancia de preservar su cultura y tradiciones;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a) Promover entre las personas jóvenes indígenas la importancia de preservar su cultura y tradiciones;
 
 b) Realizar acciones que difundan y sensibilicen a los jóvenes sobre la riqueza cultural y las tradiciones indígenas; y
 
@@ -679,11 +723,15 @@ XII. A la Universidad Autónoma del Estado de México le corresponde:
 
 a) Coadyuvar en la investigación sobre temas de juventud;
 
-b) Desarrollar programas de estudio de horarios flexibles para los jóvenes que estudian y trabajan;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b) Desarrollar programas de estudio de horarios flexibles para las personas jóvenes que estudian y trabajan;
 
 c) Generar incentivos especiales que procuren su acceso y permanencia en el sistema educativo hasta el nivel superior de jóvenes discapacitados, indígenas, mujeres embarazadas, con alto grado de marginación y pobreza, huérfanos residentes en los albergues del DIF del Estado de México y Sistemas Municipales para el Desarrollo Integral de la Familia de los municipios, y aquellos que se encuentren recluidos en alguna institución especializada;
 
-d) Promover la realización de actividades escolares y extra escolares que busquen disminuir la violencia en las relaciones personal de los jóvenes y promuevan los valores de respeto, tolerancia y equidad; y
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+d) Promover la realización de actividades escolares y extra escolares que busquen disminuir la violencia en las relaciones personales de la juventud y promuevan los valores de respeto, tolerancia y equidad; y
 
 e) Generar programas de prevención en la comisión del delito y para evitar ser objeto de los mismos.
 
@@ -882,3 +930,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
