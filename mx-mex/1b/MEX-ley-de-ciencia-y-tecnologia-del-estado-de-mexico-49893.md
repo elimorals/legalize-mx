@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2023-12-28"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -283,9 +283,9 @@ III. En su integración se observarán los criterios de pluralidad, de renovaci�
 
 IV. Tendrá una organización basada en comités de trabajo especializados por disciplinas y áreas de la ciencia y la tecnología;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Contará con una mesa directiva formada por: el Presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología de la Legislatura Local; un representante de la Secretaría de Educación; un representante de un centro de investigación público; un representante de un centro de investigación o desarrollo tecnológico privado; seis representantes del sector productivo; tres rectores o directores de instituciones de educación superior públicas del Estado de México; un rector o director de institución de educación superior privada del Estado de México; seis investigadores de prestigio académico de la entidad, y los demás que considere la Junta Directiva del COMECYT. De igual forma se invitará a un representante de la Secretaría de Educación Pública y uno del Consejo Nacional de Ciencia y Tecnología.
+V. Contará con una mesa directiva formada por: la persona titular de la Presidencia de la Comisión de Educación, Cultura, Ciencia y Tecnología de la Legislatura Local; la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación; una persona representante de un centro de investigación público y una persona representante de un centro de investigación o desarrollo tecnológico privado; seis personas representantes del sector productivo; tres personas rectoras o directoras de instituciones de educación superior públicas del Estado de México; una persona rectora o directora de institución de educación superior privada del Estado de México; seis personas investigadoras de prestigio académico de la entidad, y los demás que considere la Junta Directiva del COMECYT. De igual forma se invitará a una persona representante de la Secretaría de Educación Pública y una del Consejo Nacional de Ciencia y Tecnología.
 
 La mesa directiva será coordinada por quien (sic) elijan sus propios integrantes, renovándose la presidencia cada dos años. En sus sesiones de trabajo y de acuerdo a la naturaleza de los asuntos a tratar, la mesa directiva podrá invitar a participar a los especialistas de áreas, disciplinas o sectores relacionados con los asuntos que estime pertinente;
 
@@ -451,9 +451,11 @@ Lo anterior, sin perjuicio de aquellas que le confiere el Código Administrativo
 
 La Junta Directiva del COMECYT, dictará las medidas necesarias a efecto de dar cumplimiento a lo que dispone la presente Ley.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 33.
 
-A las sesiones de la Junta Directiva del COMECYT, se invitará permanentemente a: un representante de los campi de la Universidad Nacional Autónoma de México, el Instituto Nacional de Investigaciones Nucleares, el Centro Internacional de Mejoramiento de Maíz y Trigo, el Colegio de Posgraduados de Chapingo, A. C., y el Presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología del Poder Legislativo.
+A las sesiones de la Junta Directiva del COMECYT, se invitará permanentemente a: un representante de los Campus de la Universidad Nacional Autónoma de México, el Instituto Nacional de Investigaciones Nucleares, el Centro Internacional de Mejoramiento de Maíz y Trigo, el Colegio de Posgraduados de Chapingo, A. C., y la Presidencia de la Comisión de Educación, Cultura, Ciencia y Tecnología del Poder Legislativo.
 
 ###### ARTICULO 34.
 
@@ -611,9 +613,9 @@ Con la finalidad de promover la descentralización de la investigación científ
 
 La investigación científica y desarrollo tecnológico que el Ejecutivo del Estado apoye, tendrá como finalidad contribuir al desarrollo de la educación y a la formación y consolidación de recursos humanos de alta calidad académica en la entidad.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-La Secretaría de Educación y el COMECYT, establecerán los mecanismos de coordinación y colaboración necesarios para apoyar en forma conjunta los estudios de posgrado, poniendo atención especial al incremento de su calidad, la formación y consolidación de grupos académicos de investigación y la investigación científica y el desarrollo tecnológico en todas las áreas del conocimiento.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación y el COMECYT, establecerán los mecanismos de coordinación y colaboración necesarios para apoyar en forma conjunta los estudios de posgrado, poniendo atención especial al incremento de su calidad, la formación y consolidación de grupos académicos de investigación y la investigación científica y el desarrollo tecnológico en todas las áreas del conocimiento.
 
 ###### ARTICULO 59.
 
@@ -728,3 +730,39 @@ G.G. 28 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
