@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,21 @@ state: "MEX"
 ---
 # LEY DE INDULTO DEL ESTADO DE MEXICO -ANTES LEY DE INDULTO Y CONMUTACION DE PENAS DEL ESTADO DE MEXICO-
 
-LEY DE INGRESOS DEL MUNICIPIO DE SAN LORENZO VICTORIA, DISTRITO DE SILACAYOÁPAM, OAXACA, PARA EL EJERCICIO FISCAL 2022
+LEY DE INDULTO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE ABRIL DE 2024.
 
-Ley publicada en la Octava Sección del Número 7 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de febrero de 2022.
+Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+ERUVIEL ÁVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NÚMERO 78
+
+LA H. "LIX" LEGISLATURA DEL ESTADO DE MÉXICO
+
+DECRETA:
 
 ###### ARTÍCULO ÚNICO.
 
@@ -41,11 +47,11 @@ LEY DE INDULTO DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, por conducto de las Secretarías de Justicia y Derechos Humanos, y de Seguridad, al Instituto de la Defensoría Pública y de la Dirección General de Prevención y Reinserción Social.
+Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde a la persona titular del Poder Ejecutivo, por conducto de la Consejería Jurídica, la Secretaría de Seguridad, al Instituto de la Defensoría Pública y de la Subsecretaría de Control Penitenciario, a través de la Dirección General de Prevención y Reinserción Social.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -59,19 +65,21 @@ Para los efectos de esta Ley, se entenderá por:
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-l. Secretaría: a la Secretaría de Seguridad.
+I. Secretaría: a la Secretaría de Seguridad.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Secretario: al titular de la Secretaría de Seguridad.
+II. Secretario o Secretaria: a la persona titular de la Secretaría de Seguridad.
 
 III. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por los titulares o representantes de la Secretaría de Justicia y Derechos Humanos, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral; al Gobernador respecto de la viabilidad para otorgar el indulto.
+IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por las personas titulares o representantes de la Consejería Jurídica, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral a la persona titular del Poder Ejecutivo respecto de la viabilidad para otorgar el indulto.
 
-V. Consejo Técnico: al Consejo Técnico Interdisciplinario que es el órgano colegiado consultivo de la Dirección General de Prevención y Readaptación Social del Estado de México, integrado por los titulares o representantes de las áreas directivas, laboral, técnica y de seguridad de la misma, además de las correspondientes a la institución penitenciaria.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+V. Comité Técnico: al órgano colegiado consultivo de la Subsecretaría de Control Penitenciario y de la Dirección General de Prevención y Reinserción Social, únicamente en cuestión de la Ley, en aquellos asuntos que le corresponda resolver, integrado por los titulares o representantes de las áreas directivas, laboral, técnica y de seguridad de la misma, además de las correspondientes a la institución penitenciaria.
 
 VI. Delincuente habitual: al reincidente que cometa un nuevo delito, siempre que los tres o más delitos anteriores se hayan llevado a cabo en un periodo que no exceda de quince años.
 
@@ -79,13 +87,21 @@ VII. Delincuente primario: el que corneta (sic) por primera vez un delito.
 
 VIII. Delincuente reincidente: el que cometa nuevamente algún delito después de haber sido condenado por sentencia ejecutoriada.
 
-IX. Director: al servidor público titular de la institución penitenciaria respectiva.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-X. Dirección General: a la Dirección General de Prevención y Readaptación Social del Estado de México.
+IX. Director o Directora: a la persona servidora pública titular de la institución penitenciaria respectiva.
 
-XI. Director General: al titular de la Dirección General.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-XII. Gobernador: al Gobernador Constitucional del Estado de México.
+X. Dirección General: a la Dirección General de Prevención y Reinserción Social del Estado de México.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. Director o Directora General: a la persona titular de la Dirección General.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XII. Gobernador o Gobernadora: a la persona titular del Poder Ejecutivo Estatal.
 
 XIII. Institución Penitenciaria: a los centros o establecimientos penitenciarios.
 
@@ -125,11 +141,9 @@ c) Tratándose de un integrante de alguna comunidad indígena, se analizarán lo
 
 d) Que la conducta observada durante la prisión sea una base para inferir sobre la reinserción a la sociedad del sentenciado.
 
-(NOTA: EL 20 DE FEBRERO DE 2020 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 17/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL APARTADO B DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE FEBRERO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 192, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
-
-B. En el supuesto de MUJERES que tengan uno o más hijos y/o hijas menores DE DOCE AÑOS que se les haya impuesto una pena privativa de libertad que no exceda de 15 años y haya cumplido una quinta parte. No gozarán de este beneficio cuando existan datos de abandono o violencia en contra de sus hijas o hijos.
+B. En el supuesto que tengan uno o más hijos y/o hijas menores que se les haya impuesto una pena privativa de libertad que no exceda de 15 años y haya cumplido una quinta parte. No gozarán de este beneficio cuando existan datos de abandono o violencia en contra de sus hijas o hijos.
 
 C. En el caso de personas mayores de 70 años y que hayan cumplido con una quinta parte de la pena privativa de libertad impuesta, independientemente del tiempo de su duración.
 
@@ -139,13 +153,19 @@ E. Por padecer alguna enfermedad en fase terminal, dictaminados por médico espe
 
 F. Por razones humanitarias o sociales, por acciones destacadas en beneficio de la comunidad, siempre y cuando se hayan realizado de manera lícita.
 
-G. A los internos que por la conducta observada en prisión y por su constante dedicación al trabajo, sean ejemplares en el desarrollo armónico del establecimiento penitenciario.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+G. A las personas privadas de su libertad que, por la conducta observada y su constante dedicación al trabajo, sean ejemplares en el desarrollo armónico de los Centros Penitenciarios.
 
 II. Indulto necesario:
 
-A. En cualquier delito, previo dictamen del Consejo Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública, existan indicios de violaciones graves al proceso o a sus derechos humanos.
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
-B. En delitos no considerados como graves, salvo los casos establecidos en la presente ley, previo dictamen multidisciplinario del Consejo Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública y que existan vicios de fondo o violaciones graves a sus derechos humanos.
+A. En cualquier delito, previo dictamen del Comité Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública, existan indicios de violaciones graves al proceso o a sus derechos humanos.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+B. En delitos no considerados como graves, salvo los casos establecidos en la presente ley, previo dictamen multidisciplinario del Comité Técnico en el que se demuestre que el sentenciado no representa un peligro para la tranquilidad y seguridad pública y que existan vicios de fondo o violaciones graves a sus derechos humanos.
 
 Tratándose de algún integrante de un pueblo indígena y una vez que de la revisión de oficio al procedimiento penal por el cual fue sentenciado, se advierten violaciones de fondo en el procedimiento penal, al no haberse observado los derechos de los pueblos indígenas en cuanto a las autoridades propias inherentes a sus usos, costumbres y cultura o respeto a los derechos humanos.
 
@@ -187,15 +207,21 @@ II. Los que hayan sido condenados penalmente mediante diversas sentencias ejecut
 
 III. Los que por ser procedente la acumulación que establece la legislación penal correspondiente, hayan sido condenados ejecutoriamente en una por (sic) dos o más delitos, ejecutados en actos distintos.
 
-IV. Los que de acuerdo con el dictamen emitido por el Consejo Técnico, consideren que por su peligrosidad no sean aptos para los beneficios de esta ley.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-V. Los internos que, de acuerdo con el dictamen emitido por el Consejo Técnico, sean considerados de alto riesgo o riesgo medio significativo.
+IV. Los que, de acuerdo con el dictamen emitido por el Comité Técnico, consideren que por su peligrosidad no sean aptos para los beneficios de esta ley.
 
-> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-VI. Las internas y los internos que cuenten con reporte disciplinario de mala conducta y sanción impuesta el año anterior a la solicitud del indulto.
+V. Las personas privadas de su libertad que, de acuerdo con el dictamen emitido por el Comité Técnico, sean considerados de alto riesgo.
 
-Para efectos del cumplimiento de la ley, el Director deberá emitir y notificar a los internos, cuando lo soliciten, un informe que contenga los reportes de conducta y sanciones.
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+
+VI. Las personas privadas de su libertad que cuenten con reporte disciplinario de mala conducta y sanción impuesta el año anterior a la solicitud del indulto.
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
+Para efectos del cumplimiento de la ley, el Director deberá emitir y notificar a las personas privadas de su libertad, cuando lo soliciten, un informe que contenga los reportes de conducta y sanciones.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -209,11 +235,11 @@ No se tramitará el indulto a las personas que tengan pendiente otro proceso, si
 
 Las autoridades penitenciarias darán a esta Ley amplia publicidad y auxiliarán a las y los sentenciados en los trámites correspondientes, para en su caso obtener el indulto.
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 13.
 
-El Instituto de la Defensoría Pública del Estado de México, a solicitud de la o el interno, tendrá la obligación de asesorar y gestionar, gratuitamente, las solicitudes de indulto.
+El Instituto de la Defensoría Pública del Estado de México, a solicitud de la persona privada de su libertad, tendrá la obligación de asesorar y gestionar, gratuitamente, las solicitudes de indulto.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -223,11 +249,11 @@ Tratándose de solicitudes de las o los sentenciados integrantes de pueblos ind�
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15.
 
-Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito al Gobernador, quien por conducto de la Secretaría de Justicia y Derechos Humanos, lo turnará, a la Secretaría de Seguridad.
+Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito a la persona titular del Poder Ejecutivo, quien por conducto de la Consejería Jurídica, lo turnará a la Secretaría de Seguridad.
 
 > <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
@@ -253,33 +279,37 @@ IV. El informe sobre antecedentes penales.
 
 ###### Artículo 18.
 
-Servirá de base para el cálculo de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado; y, sólo para el caso de que no se publiquen estás, la tasa aplicable será del 8% para las tarifas 01, 1 A, IB, IC, 02, 03 Y 07 y 4% para las tarifas 08, 8A, 12, y 12 A.
+La Dirección General procederá a analizar, formular y calificar, las solicitudes de indulto y, en caso de que no cumplan con los requisitos establecidos en la presente Ley, se lo comunicará alas (sic) o los promoventes, dando por terminado el procedimiento respectivo.
+
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 19.
 
 En las solicitudes de indulto de las o los sentenciados de pueblos indígenas, se deberán ponderar, además, de los requisitos contemplados en la ley, sus usos, costumbres, tradiciones, cultura y circunstancias inherentes a dicha unidad social, en pleno respeto a los derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 20.
 
-Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Consejo Técnico para que éste dictamine lo procedente.
+Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Comité Técnico para que éste dictamine lo procedente.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-En caso positivo, se enviará por conducto de la Secretaría de Justicia y Derechos Humanos al Gobernador del Estado para que valore la viabilidad del indulto.
+En caso positivo, se enviará por conducto de la Consejería Jurídica escrito a la persona titular del Poder Ejecutivo del Estado para que valore la viabilidad del indulto.
 
 Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+
 ###### Artículo 21.
 
-Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
+Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 22.
 
-El Gobernador del Estado remitirá el expediente por conducto de la Secretaría de Justicia y Derechos Humanos al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
+La persona titular del Poder Ejecutivo del Estado remitirá el expediente por conducto de la Consejería Jurídica al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -297,23 +327,7 @@ El Gobernador resolverá revocar el indulto concedido, cuando se demuestre que e
 
 ###### Artículo 25.
 
-El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
-
-Concepto Cuota en Pesos
-
-(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-I. COPIAS DE DOCUMENTOS EXISTENTES EN
-
-LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES. 20.00
-
-II. Expedición de certificados de residencia, origen,
-
-dependencia económica, de situación fiscal actual o
-
-pasada, de contribuyentes inscritos en la Tesorería,
-
-de morada conyugal. 30.00
+La víctima u ofendido del hecho ilícito será notificado desde el inicio del trámite para ser escuchado en garantía de audiencia. Del mismo modo, deberá notificarse la determinación de libertad por indulto en su domicilio legal, para su conocimiento y efectos legales conducentes.
 
 ###### Artículo 26.
 
@@ -464,3 +478,55 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA".]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial "Gaceta del Gobierno" el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
