@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cambio-climatico-del-estado-de-mexico-97015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-19"
-last_updated: "2022-05-06"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el jueves 19 de diciembre de 2013.
 
@@ -107,7 +107,9 @@ XIV. Registro Nacional: El Registro Nacional de Emisiones;
 
 XV. Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático;
 
-XVI. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVI. Secretaria: La Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México;
 
 XVII. Sistema Preventivo: El Sistema para la prevención de fenómenos meteorológicos extremos; y
 
@@ -155,7 +157,9 @@ Corresponde a la Secretaría el ejercicio de las atribuciones siguientes:
 
 I. Proponer y evaluar la política estatal en materia de cambio climático, en concordancia con la política nacional, y emitir recomendaciones a los Ayuntamientos respecto a su política en la materia;
 
-II. Representar al titular del Poder Ejecutivo del Estado ante el Sistema Nacional de Cambio Climático;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. Representar a la persona titular del Poder Ejecutivo del Estado ante el Sistema Nacional de Cambio Climático;
 
 III. Fungir como Secretario Técnico de la Comisión;
 
@@ -277,7 +281,9 @@ VIII. Integrar el Subsistema de Información, y presentarlo a la Secretaría par
 
 IX. Coordinar el Sistema Preventivo, con la participación de la Secretaría del Campo;
 
-X. Apoyar a la Secretaría de Educación en el diseño de acciones para difundir la importancia de la adaptación al cambio climático, la mitigación de las emisiones de gases de efecto invernadero, así como en la elaboración de propuestas de contenidos sobre los efectos adversos del cambio climático en el Estado de México, que hayan de incluirse en los programas de los distintos niveles educativos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Apoyar a la Secretaría de Educación, Ciencia, Tecnología e Innovación en el diseño de acciones para difundir la importancia de la adaptación al cambio climático, la mitigación de las emisiones de gases de efecto invernadero, así como en la elaboración de propuestas de contenidos sobre los efectos adversos del cambio climático en el Estado de México, que hayan de incluirse en los programas de los distintos niveles educativos;
 
 XI. Apoyar a los Ayuntamientos en la realización de campañas de educación e información sobre los efectos adversos del cambio climático, así como en el desarrollo de investigación científica y tecnológica relacionados con el cambio climático, la eficiencia energética y las energías renovables;
 
@@ -295,21 +301,29 @@ XVII. Elaborar y difundir entre las dependencias y entidades de la Administraci�
 
 XVIII. Las demás que determinen otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 11.
 
-La dirección y administración del Instituto estará a cargo de un Consejo Directivo y de un Director General.
+La dirección y administración del Instituto estará a cargo de un Consejo Directivo y de una Dirección General.
 
 El Consejo Directivo será la máxima autoridad del Instituto y estará integrado por:
 
-I. Un Presidente, que será el titular de la Secretaría;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Secretario Técnico, que será el Director General;
+l. Una Presidencia, que estará a cargo de la persona Titular de la Secretaría;
 
-III. Un Comisario, designado por la Secretaría de la Contraloría; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+II. Una Secretaría Técnica, que estará a cargo de la persona Titular de la Dirección General;
 
-IV. Siete vocales, representantes de las dependencias siguientes:
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una Comisaría, designada por la persona Titular de la Secretaría de la Contraloría; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Siete vocales, personas representantes de las dependencias siguientes:
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -319,11 +333,13 @@ b) De la Secretaría de Finanzas;
 
 c) De la Secretaría de Salud;
 
-d) De la Secretaría de Educación;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+d) De la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-e) De la Secretaría de Desarrollo Urbano y Obra, y;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+e) De la Secretaría de Desarrollo Urbano e Infraestructura;
 
 f) De la Secretaría de Desarrollo Económico;
 
@@ -335,13 +351,19 @@ h) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 i) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-Los representantes de las dependencias citadas no podrán tener un nivel inferior a Director General.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Director General del Instituto será nombrado por el titular del Poder Ejecutivo del Estado, a propuesta del presidente del Consejo Directivo.
+Las personas representantes de las dependencias citadas no podrán tener un nivel inferior a Director o Directora General.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona Titular de la Dirección General del Instituto será nombrada por la persona titular del Poder Ejecutivo del Estado, a propuesta de la Presidencia del Consejo Directivo.
 
 La organización y funcionamiento del Instituto se regirá por el Reglamento Interno que expida el Consejo Directivo.
 
-Salvo el Director General los demás cargos previstos en el presente Artículo serán ejercidos de manera honoraria.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Salvo la persona titular de la Dirección General los demás cargos previstos en el presente Artículo serán ejercidos de manera honoraria.
 
 ###### Artículo 12.
 
@@ -401,13 +423,21 @@ VI. Las utilidades, intereses, dividendos, rendimiento de bienes, derechos y dem
 
 Se crea la Comisión Intersecretarial de Cambio Climático, la cual estará integrada por:
 
-I. El titular del Poder Ejecutivo del Estado, que la presidirá;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Los titulares de las dependencias siguientes:
+l. La persona Titular del Poder Ejecutivo del Estado, que la presidirá;
 
-a) De la Secretaría General de Gobierno, que fungirá como su Coordinador General;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-b) De la Secretaría, que fungirá como su Secretario Técnico;
+II. Las personas titulares de las dependencias siguientes:
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a) De la Secretaría General de Gobierno, que fungirá como su Coordinación General;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b) De la Secretaría, que fungirá como su Secretaría Técnica;
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -419,13 +449,17 @@ e) De la Secretaría de Salud;
 
 f) De la Secretaría del Trabajo;
 
-g) De la Secretaría de Educación;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-h) De la Secretaría de Desarrollo Social;
+g) De la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-i) De la Secretaría de Desarrollo Urbano y Obra;
+h) De la Secretaría de Bienestar;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+i) De la Secretaría de Desarrollo Urbano e Infraestructura;
 
 j) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -449,9 +483,9 @@ o) De la Secretaría de Movilidad;
 
 p) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-q) Secretaría de Justicia y Derechos Humanos
+q) De la Consejería Jurídica.
 
 ###### Artículo 16.
 
@@ -741,9 +775,9 @@ II. La Secretaría de Seguridad;
 
 III. La Secretaría de Finanzas;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. La Secretaría de Desarrollo Urbano y Obra;
+IV. Secretaría de Desarrollo Urbano e Infraestructura;
 
 V. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -757,11 +791,15 @@ VII. La Secretaría de Movilidad;
 
 VIII. El organismo público descentralizado denominado Protectora de Bosques del Estado de México;
 
-IX. El Instituto, cuyo Director General fungirá como su Secretario Técnico;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IX. El Instituto, cuya persona titular de la Dirección General fungirá como Secretaría Técnica;
 
 X. La Secretaría de la Contraloría; y
 
-XI. Dos representantes no gubernamentales que se integrarán a invitación de su Presidente, provenientes de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. Dos personas representantes no gubernamentales que se integrarán a invitación de la Presidencia, provenientes de:
 
 a) Instituciones académicas y centros de investigación relacionadas con la materia de adaptación al cambio climático, así como a la mitigación de las emisiones de gases de efecto invernadero; y
 
@@ -837,9 +875,9 @@ La Secretaría emitirá los lineamientos que establezcan los criterios, reglas y
 
 El Instituto coordinará el Sistema Preventivo, el cual tiene por objeto anticipar períodos en los que se presenten fenómenos meteorológicos extremos, mediante los pronósticos del clima en el corto plazo, proyecciones de largo plazo y caracterización de la variabilidad climática en el Estado de México, a efecto de prevenir o, en su caso, mitigar sus efectos sobre los ecosistemas, la biodiversidad, la agricultura, la ganadería, el sector forestal, la disponibilidad de agua y los asentamientos humanos.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Instituto se apoyará en el sistema meteorológico del Estado de México, a cargo de la Secretaría del Campo.
+El Instituto se apoyará en el sistema meteorológico del Estado de México.
 
 ###### Artículo 40.
 
@@ -855,9 +893,11 @@ Las autorizaciones, concesiones, licencias o permisos que expidan u otorguen las
 
 ### Capítulo I. Educación, Información y Transparencia
 
+> <small>(REFORMADO PRIMER PÁRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 42.
 
-La Secretaría de Educación realizará acciones para difundir la importancia de la adaptación al cambio climático, así como la mitigación de las emisiones de gases de efecto invernadero. Propondrá a la autoridad educativa federal los contenidos sobre los efectos adversos del cambio climático en el Estado de México, que hayan de incluirse en los programas de los distintos niveles educativos.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación realizará acciones para difundir la importancia de la adaptación al cambio climático, así como la mitigación de las emisiones de gases de efecto invernadero. Propondrá a la autoridad educativa federal los contenidos sobre los efectos adversos del cambio climático en el Estado de México, que hayan de incluirse en los programas de los distintos niveles educativos.
 
 Los Ayuntamientos realizarán campañas de educación e información para sensibilizar a la población sobre dicho tema.
 
@@ -1302,3 +1342,39 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Titular del Ejecutivo del Estado y los Titulares de los Ayuntamientos, por conducto de los órganos competentes, adecuarán las disposiciones jurídicas reglamentarias correspondientes en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
