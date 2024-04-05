@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2023-10-30"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 30 DE OCTUBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -3275,19 +3273,33 @@ El órgano de gobierno de la Unidad de Asuntos Internos será el Consejo Directi
 
 El Consejo Directivo será la máxima autoridad de la Unidad de Asuntos Internos y estará integrado por:
 
-I. Un Presidente, que será el Secretario;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Secretario, que será el Titular de la Unidad de Asuntos Internos;
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría;
 
-III. Un Comisario, que será el Contralor Interno de la Secretaría; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Cuatro vocales, que serán un representante de las Secretarías de Finanzas, de Salud, de Justicia y Derechos Humanos y del Centro.
+II. Una Secretaría, que estará a cargo de la persona titular de la Unidad de Asuntos Internos;
 
-Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente, quien será propuesto por el propietario. Los representantes deberán tener como mínimo el nivel de Director General o su equivalente, para el caso del Director General del Centro de Control de Confianza, el suplente será el servidor público de la jerarquía inmediata inferior.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los integrantes del Consejo Directivo tendrán derecho a voz y voto, con excepción del Secretario y del Comisario quienes sólo tendrán derecho de voz. Sus Integrantes no tendrán retribución adicional a su salario por el desempeño de estas actividades.
+III. Una Comisaría, que estará a cargo de la persona titular del Órgano Interno de Control de la Secretaría; y
 
-Los acuerdos del Consejo Directivo se tomarán por unanimidad o mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Cuatro vocales, que serán representante (sic) de la Secretaría de Finanzas, de la Secretaría de Salud, de la Consejería Jurídica y del Centro.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Por cada uno de las personas integrantes, el Consejo Directivo aprobará el nombramiento de una suplente, a propuesta del propietario. Los representantes deberán tener como mínimo el nivel de titular de Dirección General o su equivalente, para el caso de la persona titular de la Dirección General del Centro de Control de Confianza, la suplente será la persona servidora pública de la jerarquía inmediata inferior.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los integrantes del Consejo Directivo tendrán derecho a voz y voto, con excepción de las personas a cargo de la Secretaría y la Comisaría quienes sólo tendrán derecho de voz. Sus integrantes no tendrán retribución adicional a su salario por el desempeño de estas actividades.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los acuerdos del Consejo Directivo se tomarán por unanimidad o mayoría de votos y en caso de empate, la Presidencia tendrá voto de calidad.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3621,31 +3633,51 @@ El Órgano de Gobierno del Centro será el Consejo Directivo.
 
 El Consejo Directivo, será la máxima autoridad del Centro y estará integrado por:
 
-I. Un presidente, quien será el titular de la Secretaría;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un representante de la Fiscalía;
+I. Una presidencia, que estará a cargo de la persona titular de la Secretaría;
 
-III. Un Secretario Técnico, quien será designado por el Consejo Directivo, a propuesta del Presidente, pudiendo recaer el cargo en la o el Director General del Centro.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-En caso de que el Director General no desempeñe el cargo de Secretario del Consejo Directivo, este podrá asistir a las sesiones del Consejo Directivo con voz, pero sin voto y sin que dicha participación le dé el carácter de miembro del Consejo Directivo;
+II. Una persona representante de la Fiscalía;
 
-IV. Un Comisario, quien será el representante de la Secretaría de la Contraloría; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Vocales, que serán nombrados y removidos por la o el Gobernador del Estado, y son:
+III. Una Secretaría Técnica, que estará a cargo de la persona designada por el Consejo Directivo, a propuesta de la Presidencia, pudiendo recaer el cargo en la persona titular de la Dirección General del Centro.
 
-a) Un representante de la Secretaría de Finanzas;
+En caso de que la persona titular de la Dirección General no desempeñe el cargo de Secretaría del Consejo Directivo, esta podrá asistir a las sesiones del Consejo Directivo con voz, pero sin voto y sin que dicha participación le dé el carácter de miembro del Consejo Directivo;
 
-b) Un representante de la Secretaría de Justicia y Derechos Humanos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-c) Cuatro Presidentes Municipales, que serán los representantes de los Presidentes Municipales del Estado de México que serán nombrados a propuesta del Gobernador; y
+IV. Una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Vocales, que serán nombrados y removidos por la persona titular del Poder Ejecutivo del Estado, y son:
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a) Una persona representante de la Secretaría de Finanzas;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+b) Una persona representante de la Consejería Jurídica;
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+c) Cuatro Presidentes Municipales, que serán los representantes de los Presidentes Municipales del Estado de México que serán nombrados a propuesta de la persona titular del Poder Ejecutivo; y
 
 d) Dos vocales especialistas en la materia; durarán tres años en su cargo pudiendo ser designados por periodos subsecuentes de tres años cada uno.
 
-VI. Dos observadores ciudadanos, quienes serán nombrados y removidos por el Gobernador del Estado; uno será integrante de la sociedad civil y otro del sector empresarial, ambos con calidad moral, experiencia y conocimiento de la materia y durarán tres años en su encargo pudiendo ser designados por periodos subsecuentes de tres años cada uno.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VI. Dos observadores ciudadanos, quienes serán nombrados y removidos por la persona titular del Poder Ejecutivo del Estado; uno será integrante de la sociedad civil y otro del sector empresarial, ambos con calidad moral, experiencia y conocimiento de la materia y durarán tres años en su encargo pudiendo ser designados por periodos subsecuentes de tres años cada uno.
 
 Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente, quien será propuesto por el propietario.
 
-Los integrantes del Consejo Directivo, tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Secretario Técnico y Comisario quienes sólo tendrán derecho a voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los integrantes del Consejo Directivo, tendrán derecho a voz y voto en las sesiones que celebren, con excepción de las personas a cargo de la Secretaría y la Comisaría quienes sólo tendrán derecho a voz.
 
 El desempeño de los integrantes del Consejo Directivo será honorífico.
 
@@ -4007,17 +4039,29 @@ Serán órganos de administración de la Universidad, la Junta de Gobierno, el C
 
 La Junta de Gobierno se integrará por:
 
-I. El titular de la Secretaría, quien la presidirá;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. El titular de la Rectoría, quien será el Secretario Técnico;
+I. La persona titular de la Secretaría, quien la presidirá;
 
-III. El Fiscal;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Un representante de la Secretaría de Educación; y
+II. La persona titular de la Rectoría, que estará a cargo de la Secretaría Técnica;
 
-V. Un representante de la Secretaría de Finanzas.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-La Junta de Gobierno, a través de su Presidente, podrá invitar a sus sesiones a instituciones académicas, organizaciones y especialistas en la materia, quienes tendrán derecho a voz.
+III. La persona titular de la Fiscalía;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Una persona representante de la Secretaría de Educación. Ciencia, Tecnología e Innovación, y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Una persona representante de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Junta de Gobierno, a través de su Presidencia, podrá invitar a sus sesiones a instituciones académicas, organizaciones y especialistas en la materia, quienes tendrán derecho a voz.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4768,3 +4812,39 @@ SEGUNDO. El presente Decreto entrará en vigor a los 30 días hábiles de la pub
 TERCERO. La Secretaría de Educación, Ciencia, Tecnología e Innovación y la Secretaría de Seguridad en coordinación con la Comisión de Derechos Humanos del Estado de México contarán con cuarenta y cinco días hábiles posteriores a la entrada en vigor de este Decreto, para la expedición del Protocolo de operativos o programas que impliquen la revisión o inspección de mochilas o bolsos de niñas, niños y adolescentes.
 
 CUARTO. Las autoridades educativas, deberán contar con carta firmada por los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos, en la cual manifiestan su autorización para la revisión de mochilas o bolsos. Así mismo, se llevarán a cabo reuniones informativas y de participación con los educandos respecto de los objetivos del Protocolo, a efecto de ejecutar las acciones y medidas en términos de lo establecido en el artículo 2 de la Ley General de los Derechos de Niñas, Niños y Adolescentes para salvaguardar los derechos y principios contenidos en la misma.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
