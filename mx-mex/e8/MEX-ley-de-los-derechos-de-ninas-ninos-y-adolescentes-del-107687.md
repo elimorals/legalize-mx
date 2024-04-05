@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-12-01"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1071,7 +1071,9 @@ En aquellos casos en que el Ministerio Público o cualquier otra autoridad tenga
 
 Toda medida que se adopte será susceptible de revisión por el órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
-En el caso en que un adolescente se encuentre en el contexto de la comisión de un delito se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección, para llevar a cabo el procedimiento de conformidad con la Ley de Justicia para Adolescentes del Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En el caso en que un adolescente se encuentre en el contexto de la comisión de un delito se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección, para llevar a cabo el procedimiento de conformidad con la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 60.
 
@@ -1209,9 +1211,13 @@ Para efectos de esta Ley se entienden por niñas, niños y adolescentes en situa
 
 I. Niñas, niños y adolescentes cuyos padres se encuentren en situación de encarcelamiento.
 
-II. Niñas, niños y adolescentes víctimas de los delitos en materia de trata de personas establecidos en la Ley para Prevenir, Atender, Combatir y Erradicar la Trata de Personas del Estado de México y Ley General de la materia.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Aquellos adolescentes sujetos a los procedimientos establecidos en la Ley de Justicia para adolescentes del Estado de México.
+II. Niñas, niños y adolescentes víctimas de los delitos en materia de trata de personas establecidos en la Ley para Prevenir, Atender, Combatir y Erradicar la Trata de Personas y para la Protección y Asistencia a las Víctimas en el Estado de México y Ley General de la materia.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Aquellos adolescentes sujetos a los procedimientos establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 IV. Niñas, niños y adolescentes en situación de calle, de acuerdo con la legislación y políticas aplicables en el Estado de México.
 
@@ -1867,9 +1873,13 @@ El Sistema Estatal de Protección Integral estará conformado por:
 
 A. Poder Ejecutivo Estatal:
 
-I. El titular del Ejecutivo Estatal.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. El titular de la Secretaría General de Gobierno.
+I. La persona titular del Ejecutivo Estatal.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. La persona titular de la Secretaría General de Gobierno.
 
 > <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
@@ -1877,27 +1887,37 @@ II Bis. La persona titular de la Secretaría de las Mujeres;
 
 III. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-IV. El titular de la Secretaría de Finanzas.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. El titular de la Secretaría de Desarrollo Social.
+IV. La persona titular de la Secretaría de Finanzas.
 
-VI. El titular de la Secretaría de Educación.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+V. La persona titular de la Secretaría de Bienestar.
 
-VII. El titular de la Secretaría de Cultura y Turismo.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VIII. El titular de la Secretaría de Salud.
+VI. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
-IX. El titular de la Secretaría del Trabajo.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+VII. La persona titular de la Secretaría de Cultura y Turismo.
 
-X. El titular de la Secretaría de Justicia y Derechos Humanos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+VIII. La persona titular de la Secretaría de Salud.
 
-XI. El titular de la Dirección General del Sistema Estatal DIF;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IX. La persona titular de la Secretaría del Trabajo.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. La persona titular de la Consejería Jurídica.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. La persona titular de la Dirección General del Sistema Estatal DIF.
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -1933,7 +1953,9 @@ V. Fiscalía General de Justicia del Estado de México.
 
 G. Dos representantes de la sociedad civil organizada que serán nombrados por el Sistema Estatal de Protección Integral, en los términos del reglamento de esta Ley.
 
-Para efectos de lo previsto en el apartado G, el Presidente del Sistema Estatal de Protección Integral emitirá una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus requisitos, fechas límites y plazos.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Para efectos de lo previsto en el apartado G, la persona que presida el Sistema Estatal de Protección Integral emitirá una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus requisitos, fechas límites y plazos.
 
 Serán invitados permanentes a las sesiones del Sistema Estatal de Protección Integral, cuatro representantes de la Red Estatal de Difusores Infantiles, en el que participarán una niña, un niño, una adolescente y un adolescente, cuyas opiniones serán tomadas en cuenta en los asuntos de su interés conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, así como los demás que sean determinados, quienes intervendrán con voz pero sin voto.
 
@@ -1943,9 +1965,11 @@ La persona Titular del Ejecutivo Estatal podrá ser suplida por la persona titul
 
 Los integrantes del Sistema Estatal de Protección Integral nombrarán un suplente que deberá tener un nivel jerárquico inmediatamente inferior.
 
-El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+REFORMADO, G.G. 5 DE ABRIL DE 2024)
 
-Se podrá invitar a personas o instituciones, estatales, nacionales o internacionales, especializadas en la materia.
+La persona que presida el Sistema podrá invitar a las sesiones respectivas a personas representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+
+Se podrá invitar a personas o instituciones, estatales, nacionales o internacionales, especializadas en la materia
 
 ###### Artículo 98.
 
@@ -2454,3 +2478,39 @@ PRIMERO. Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobiern
 SEGUNDO. Este Decreto entrará (sic) el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Poder Legislativo del Estado de México asignara recursos públicos en los ejercicios fiscales correspondientes, para cumplir con la presente reforma.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
