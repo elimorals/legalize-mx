@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-el-acoso-escolar-para-el-102656"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2022-11-01"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -57,6 +57,8 @@ V. Impulsar programas estatales de coordinación interinstitucional para preveni
 
 VI. Fomentar la corresponsabilidad social y la cohesión comunitaria para garantizar un ambiente libre de violencia en el entorno escolar del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
 Los principios rectores de esta Ley, son:
@@ -77,9 +79,25 @@ V. Igualdad de género;
 
 VI. Cultura de la Paz;
 
-VII. Justicia; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-VIII. Tolerancia.
+VII. Justicia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+VIII. Tolerancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+IX. Respeto a la dignidad humana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+X. Armonía; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+XI. Solución pacífica de conflictos.
 
 Las políticas públicas que realicen las autoridades del gobierno estatal y de los gobiernos municipales, así como todas las acciones que lleven a cabo los sectores privado y social, tendrán como base los principios de esta Ley.
 
@@ -309,6 +327,8 @@ I. Presencia de comportamiento intencional, dañino y persistente, provocando pr
 
 II. Predominio de un desequilibrio de poder entre las o los alumnos que participan, lo cual deriva en que, a través del abuso, un alumno o alumna, domine e intimide a otra u otro estudiante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
 Las modalidades en que se identificará el acoso escolar son las siguientes:
@@ -328,6 +348,14 @@ IV. Se entiende por acoso verbal toda acción no corporal en la que se emplea el
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
 V. Se entiende por acoso escolar cibernético el que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del o la menor hacia otras personas con la finalidad de propinar un daño.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+VI. Se entiende por acoso sexual toda aquella discriminación o violencia contra integrantes de la comunidad escolar relacionada con su sexualidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+VII. Se entiende por acoso de exclusión social cuando el integrante de la comunidad escolar es notoriamente excluido y aislado, o amenazado con serlo, de la convivencia escolar por razones de discriminación de cualquier tipo.
 
 ###### Artículo 15.
 
@@ -385,11 +413,15 @@ g) Ofrecer a los alumnos una formación basada en el respeto y fomento de los va
 
 h) Capacitar al personal que tiene contacto directo con las y los alumnos para identificar algún trastorno emocional previo a sufrir o realizar acciones constitutivas de acoso escolar;
 
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
 II. Detección.-
 
-a) Denuncia directa; y
+a) Denuncias directas;
 
-b) Observación en la práctica docente, entendiéndose esta como la participación del docente, del directivo y cualquier autoridad educativa que intervenga en las actividades del centro escolar.
+b) Denuncias anónimas; y,
+
+c) Observación en la práctica docente, entendiéndose esta como la participación de las y los docentes, de la o el directivo y cualquier autoridad educativa que intervenga en las actividades del centro escolar.
 
 III. Atención.-
 
@@ -488,6 +520,20 @@ A su vez, el Consejo Escolar hará del conocimiento del Directivo del centro esc
 ###### Artículo 28.
 
 En cada centro escolar existirá un responsable, dependiente del Consejo Escolar, para la recepción de denuncias. En la dirección del centro escolar deberá de exhibirse el nombre del responsable y el horario de atención.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+En cada centro escolar, con apoyo del Consejo Escolar, se colocarán en lugares visibles buzones de denuncia anónima, específicamente para actos de acoso y violencia escolar, por lo que la o las personas responsables deberán darles seguimiento inmediato.
+
+Como una herramienta que facilite la denuncia de actos de acoso y violencia escolar, para que la autoridad escolar atienda de manera inmediata este tipo de casos e identifique a la persona agresora, los buzones de denuncia anónima serán implementados de forma:
+
+I.- Física;
+
+II.- Digital; y,
+
+III.- Telefónica.
 
 ### Capítulo VII. Infracciones y Sanciones
 
@@ -610,3 +656,9 @@ P.O. 1 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 153 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 402 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 14, 17 Y LA ADICIÓN DEL ARTICULO 28 BIS DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
