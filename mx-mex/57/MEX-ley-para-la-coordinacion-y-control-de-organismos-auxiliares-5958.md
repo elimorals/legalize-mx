@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2023-12-28"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -49,15 +49,17 @@ LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO
 
 Esta Ley tiene por objeto fijar las bases conforme a las cuales el Ejecutivo del Estado, ejercerá la planeación, vigilancia, control y evaluación de las actividades de sus Organismos Auxiliares, en los términos de lo dispuesto por la Constitución Política del Estado, la Ley Orgánica de la Administración Pública y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-Para efectos de esta Ley se entiende por Organismos Auxiliares, las entidades a que se refiere el artículo 45 de la Ley Orgánica de la Administración Pública del Estado.
+Para efectos de esta Ley se entiende por Organismos Auxiliares, las entidades a que se refiere el artículo 64 de la Ley Orgánica de la Administración Pública del Estado de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-Quedan sujetos al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley, los organismos auxiliares a que se refiere el artículo 45 de la Ley Orgánica de la Administración Pública del Estado de México.
+Quedan sujetos al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley, los organismos auxiliares a que se refiere el artículo 64 de la Ley Orgánica de la Administración Pública del Estado de México.
 
 La Universidad Autónoma del Estado de México, y las demás instituciones docentes y culturales que gocen de autonomía conforme al ordenamiento o acto de su creación, quedan exceptuadas de lo dispuesto por esta Ley.
 
@@ -73,9 +75,11 @@ Organismos Auxiliares
 
 Los procedimientos para la creación y modificación de la estructura y bases de organización de los organismos auxiliares a que se refiere esta Ley, así como los relativos a su fusión, liquidación o extinción se ajustarán a lo que dispone este capítulo, sin perjuicio de lo establecido en otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 5.
 
-Además de lo señalado en el Artículo 47 de la Ley Orgánica de la Administración Pública, los organismos descentralizados deberán reunir los siguientes requisitos:
+Además de lo señalado en el artículo 66 de la Ley Orgánica de la Administración Pública del Estado de México, los organismos descentralizados deberán reunir los siguientes requisitos:
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
@@ -85,19 +89,23 @@ II. Que su patrimonio se constituya total o parcialmente con bienes, fondos y as
 
 III. Que su finalidad u objetivo sean la prestación de servicios públicos, la explotación de bienes o recursos propiedad del Estado, la investigación científica, difusión de la cultura, impartición de educación, obtención de recursos destinados a la asistencia o seguridad social o en general para colaborar operativamente con el Ejecutivo del Estado, mediante la realización de acciones sean de interés general o de beneficio colectivo.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 6.
 
-Para efectos de esta Ley, se consideran como empresas de participación estatal, aquellas que satisfagan, además de lo señalado en el Artículo 48 de la Ley Orgánica de la Administración Pública, alguno de los siguientes requisitos:
+Para efectos de esta Ley, se consideran como empresas de participación estatal, aquellas que satisfagan, además de lo señalado en el Artículo 67 de la Ley Orgánica de la Administración Pública del Estado de México, alguno de los siguientes requisitos:
+
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
 I. Que el Gobierno del Estado sea su administrador y haya suscrito una proporción mayoritaria de su capital social, directamente, o a través de otros organismos auxiliares, y fideicomisos; y
 
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+
 II. Que el Gobierno del Estado sea su administrador y en la constitución de su capital figuren acciones de serie especial que sólo puedan ser suscritas por éste.
 
-> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Gobernador del Estado, por conducto de la dependencia coordinadora de sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+La persona titular del Poder Ejecutivo del Estado, por conducto de la dependencia coordinadora de sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
@@ -179,11 +187,11 @@ Las facultades atribuidas al Ejecutivo Estatal, en el párrafo anterior, serán 
 
 Las atribuciones señaladas se entienden sin perjuicio de las que otorga al Poder Legislativo, la Constitución Política del Estado y demás leyes aplicables.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 13.
 
-Las Secretarías de Finanzas y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
+Las Secretarías de Finanzas y de la Contraloría, y la Oficialía Mayor, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -193,7 +201,9 @@ La Secretaría de Finanzas tendrá, respecto de los organismos auxiliares las si
 
 I. Fijar los lineamientos y políticas, así como aprobar las condiciones generales de los financiamientos.
 
-II. Autorizar la contratación de financiamientos de conformidad con las políticas que al efecto se establezcan por el Gobernador del Estado.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. Autorizar la contratación de financiamientos de conformidad con las políticas que al efecto se establezcan por la persona titular del Poder Ejecutivo del Estado;
 
 III. Aprobar los montos y llevar el registro y control de su deuda pública de acuerdo a lo que disponga la Ley de la materia.
 
@@ -241,29 +251,59 @@ XIV. Autorizar los catálogos de cuentas para el registro de sus operaciones;
 
 XV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inversiones se ajuste a los lineamientos y políticas emitidas en el marco de su competencia; y
 
-> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XVI. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico-funcionales y vigilar su cumplimiento;
+XVI. Las demás que le determine la persona titular del Poder Ejecutivo del Estado conforme a la legislación aplicable.
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+XVII. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
-XVII. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la ley de la materia;
+XVIII. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+XIX. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
-XVIII. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
+XX. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-XIX. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos; y
+Artículo 14 A.- La Oficialía Mayor tendrá, respecto de los organismos auxiliares, las siguientes atribuciones:
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+I. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico-funcionales y vigilar su cumplimiento;
 
-XX. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
+II. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la ley de la materia;
 
-###### Artículo 14-A.
+III. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
 
-(DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
+IV. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos;
+
+V. Revisar y dictaminar su proyecto de reglamento interior o acuerdos modificatorios al mismo, antes de ser aprobados por el órgano de gobierno respectivo;
+
+VI. Analizar y aprobar sus manuales de organización, conforme a las guías y a los lineamientos que emita la Oficialía Mayor, así como dictaminar las solicitudes de cambios de estructura organizativa;
+
+VII. Dictar las políticas y determinar los objetivos y técnicas específicas para la elaboración de los manuales de procedimientos, así como llevar a cabo su dictaminación;
+
+VIII. Llevar un registro de los Organismos Auxiliares;
+
+IX. Opinar sobre las solicitudes de adquisición de equipo de informática o contratación de servicios técnicos de cómputo y acordar lo que se integre a los planes generales y sectoriales en la materia;
+
+X. Dictar lineamientos para la capacitación del personal de servicio público;
+
+XI. Consolidar los programas anuales de adquisiciones y proponer las compras y contratos que deban realizarse de manera consolidada con el sector central;
+
+XII. Opinar sobre las solicitudes de adquisición de bienes muebles e inmuebles y acordar las que procedan, sugiriendo en su caso, alternativas para satisfacer los requerimientos;
+
+XIII. Comprobar que la enajenación de bienes muebles e inmuebles se efectúe en términos establecidos de las disposiciones jurídicas aplicables;
+
+XIV. Verificar que las adquisiciones de inmuebles se realicen en los términos de las disposiciones jurídicas aplicables;
+
+XV. Emitir normas para la realización y actualización valorada de los inventarios de bienes muebles e inmuebles;
+
+XVI. Dictar lineamientos sobre el control de almacenes;
+
+XVII. Verificar que en los Organismos Auxiliares y Fideicomisos se cumpla con lo dispuesto en la legislación laboral y demás ordenamientos aplicables;
+
+XVIII. Vigilar que en los Organismos Auxiliares y Fideicomisos se cumplan las condiciones generales de trabajo de acuerdo con la legislación laboral;
+
+XIX. Las demás que le determine la persona titular del Poder Ejecutivo del Estado conforme a la legislación aplicable.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -335,9 +375,9 @@ Corresponde al Ejecutivo del Estado la determinación de las facultades que, con
 
 La Legislatura del Estado a solicitud de cuando menos la tercera parte de sus miembros, podrá integrar Comisiones de su seno para que, en cualquier momento, realicen visitas o inspecciones a los organismos auxiliares con el objeto de investigar sus operaciones y funcionamiento. La Comisión informará a la Legislatura y una vez aprobado el dictamen correspondiente por ésta lo enviará al Ejecutivo para su conocimiento y efectos.
 
-### CAPITULO IV
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
-Del Control y Vigilancia por parte de los Órganos de Gobierno.
+### CAPÍTULO IV. Del Control y Vigilancia por parte de los Órganos de Gobierno
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -367,25 +407,29 @@ Las facultades otorgadas en el artículo anterior a los órganos de gobierno, se
 
 Los órganos de gobierno de los organismos auxiliares se integran, salvo las excepciones previstas en la ley, con:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un presidente, quien será el coordinador del sector al que esté adscrita la entidad;
+I. Una Presidencia, que estará a cargo de la persona coordinadora del sector al que esté adscrita la entidad;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un secretario, quien será designado por el órgano de gobierno a propuesta de su presidente;
+II. Una Secretaría Técnica, que estará a cargo de la persona designada por el órgano de gobierno a propuesta de la Presidencia;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Un comisario, quien será el representante de la Secretaría de la Contraloría; y
+III. Una comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría; y
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. El número de vocales que dispongan los actos jurídicos de creación. En todo caso habrá un vocal designado por la Secretaría de Finanzas.
+IV. El número de vocales que dispongan los actos jurídicos de creación. En todo caso habrá un vocal designado por la Secretaría de Finanzas y otro por la Oficialía Mayor.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Cuando las entidades no estén sectorizadas, el Gobernador del Estado designará al secretario que deba presidir el órgano de gobierno.
+Será invitada permanente a las sesiones del Órgano de Gobierno una persona representante de la Consejería Jurídica, la cual contará con voz, pero sin voto.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Cuando las entidades no estén sectorizadas, la persona titular del Poder Ejecutivo del Estado designará al secretario que deba presidir el órgano de gobierno.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -752,3 +796,37 @@ SEXTO.- Lo previsto en las Secciones Novena denominada "Del Impuesto Ecológico 
 SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
 
 OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.] PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
