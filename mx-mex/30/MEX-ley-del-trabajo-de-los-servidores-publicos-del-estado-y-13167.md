@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2023-09-29"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -239,11 +239,11 @@ Cuando en esta ley se enuncie el término institución pública, con respecto a 
 
 Los servidores públicos docentes o profesores del Subsistema Educativo Estatal son los servidores públicos generales que prestan servicios de docencia, investigación o difusión, o bien aquéllos que desempeñan funciones directivas o de supervisión en los planteles del propio Subsistema.
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 25.
 
-Este capítulo regula las relaciones de trabajo entre la dependencia denominada Secretaría de Educación y los servidores públicos a que se refiere el artículo anterior.
+Este capítulo regula las relaciones de trabajo entre la dependencia denominada Secretaría de Educación, Ciencia, Tecnología e Innovación y los servidores públicos a que se refiere el artículo anterior.
 
 ###### Artículo 26.
 
@@ -807,9 +807,11 @@ V. Obtener licencias para desempeñar comisiones sindicales o para ocupar cargos
 
 VI. Recibir los reglamentos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 88.
 
-Son obligaciones de los servidores públicos:
+Son obligaciones de las personas servidoras públicas:
 
 I. Rendir la protesta de ley al tomar posesión de su cargo;
 
@@ -839,7 +841,9 @@ XIII. Utilizar el tiempo laborable sólo en actividades propias del servicio enc
 
 XIV. Atender las disposiciones relativas a la prevención de los riesgos de trabajo;
 
-XV. Presentar, en su caso, la manifestación de bienes a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XV. Presentar, en su caso, la manifestación de bienes a que se refiere la Ley de Responsabilidades Administrativas del Estado de México y Municipios; y
 
 XVI. Las demás que les impongan los ordenamientos legales aplicables.
 
@@ -3606,3 +3610,39 @@ G.G. 29 DE SEPTIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
