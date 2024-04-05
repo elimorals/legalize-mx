@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2024-01-26"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -765,9 +765,13 @@ Las licencias de conducir a que se refiere este artículo, serán válidas para 
 
 Tratándose de licencias de chofer para manejar camiones urbanos y vehículos de alquiler, para el transporte de pasajeros, se requerirá que el interesado haya terminado por lo menos la instrucción primaria, así mismo los portadores de la licencia tipo B y que este dentro de su vigencia, podrán conducir vehículos de alquiler o taxi que ampare la licencia tipo D.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-Para que la Secretaría a través de sus Oficinas Recaudadoras expida las licencias de conducir, los interesados deberán acreditar los requisitos establecidos en esta Ley de acuerdo a la modalidad que corresponda.
+Para que la Secretaría a través de sus Oficinas Recaudadoras expida las licencias de conducir, las personas interesadas deberán acreditar los requisitos establecidos en esta Ley de acuerdo con la modalidad que corresponda.
+
+En todas las modalidades de solicitud de licencia o su revalidación se requerirá a la persona solicitante el presentar su certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias al que se refiere la Ley General de los Derechos de las Niñas, Niños y Adolescentes. Mientras no se presente dicho certificado de no inscripción, no se podrá autorizar la licencia o revalidarla.
 
 ###### ARTÍCULO 37.
 
@@ -1138,3 +1142,11 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente a su publicaci�
 SEGUNDO. El Poder Ejecutivo del Estado deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
 
 TERCERO. Para la implementación de la presente reforma, el Poder Ejecutivo del Estado, preverá de manera progresiva, en el ejercicio fiscal subsecuente a la entrada en vigor de la presente reforma los recursos pertinentes.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 405 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 235 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- No se requerirá la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias al que se refiere la Ley General de los Derechos de las Niñas, Niños y Adolescentes para la realización del trámite sino hasta que inicie su funcionamiento.
