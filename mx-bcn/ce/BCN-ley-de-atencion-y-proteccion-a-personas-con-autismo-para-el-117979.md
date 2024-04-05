@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-personas-con-autismo-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-21"
-last_updated: "2016-10-21"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Baja California, el viernes 21 de octubre de 2016.
 
@@ -187,31 +187,49 @@ Se constituye la Comisión como una instancia de carácter permanente del Poder 
 
 Los acuerdos adoptados en el seno de la Comisión serán obligatorios, por lo que las autoridades competentes deberán cumplirlos a fin de lograr los objetivos de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 11.
 
-La Comisión estará integrada por los titulares de las siguientes dependencias de la Administración Pública Estatal:
+La Comisión estará integrada por las personas titulares de las siguientes dependencias de la Administración Pública Estatal:
 
 I. La Secretaría, quien presidirá la Comisión;
 
-II. La Secretaría de Educación y Bienestar Social;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+II. La Secretaría de Educación;
 
 III. La Secretaría del Trabajo y Previsión Social;
 
-IV. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+IV. La Secretaría de Bienestar;
 
 V. La Secretaría General de Gobierno y
 
-VI. La Secretaría de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+VI. La Secretaría de Hacienda.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE ABRIL DE 2024)</small>
 
 El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California será invitado permanente de la Comisión.
 
-Los integrantes de la Comisión podrán designar a sus respectivos suplentes.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-La Comisión, a través de su Presidente, podrá convocar a las sesiones a otras dependencias del Poder Ejecutivo Estatal y a entidades del sector público, con objeto de que informen de los asuntos de su competencia, relacionados con la atención de las personas con la condición del espectro autista.
+Las y los integrantes de la Comisión podrán designar a sus respectivos suplentes.
 
-La Comisión aprovechará las capacidades institucionales de las estructuras administrativas de sus integrantes para el desarrollo de sus funciones. La participación de los integrantes e invitados a la Comisión será de carácter honorífico.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
-La Comisión contará con una Secretaría Técnica, misma que estará a cargo de un funcionario de la Secretaría.
+Quien presida la Comisión, podrá convocar a las sesiones a otras dependencias del Poder Ejecutivo Estatal, a entidades del sector público, con objeto de que participen o informen de los asuntos de su competencia, relacionados con la atención de las personas con la condición del espectro autista.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+La Comisión aprovechará las capacidades institucionales de las estructuras administrativas de sus integrantes para el desarrollo de sus funciones. La participación de las y los integrantes y personas invitadas a la Comisión será de carácter honorífico.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
+La Comisión contará con una Secretaría Técnica, misma que estará a cargo de una persona funcionaria de la Secretaría.
 
 ###### Artículo 12.
 
@@ -292,3 +310,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 403 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. - La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
