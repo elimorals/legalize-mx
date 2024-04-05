@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2024-03-15"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3221,31 +3221,53 @@ b) Metales fundidos o que hayan sido alterados de su forma comercial, sin que la
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 235.
 
-Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de dos a cinco años, la suspensión o privación de la patria potestad en relación con la víctima o el ofendido y de veinte a sesenta días multa. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de dos a cinco años, la suspensión o privación de la patria potestad y uno o más derechos de familia en relación con la víctima o la persona ofendida y de veinte a sesenta días de multa. El concubinato queda comprendido en las disposiciones de este párrafo.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
+Para efectos de este artículo, los derechos de familia comprenden:
 
-Igual pena se impondrá a las personas que no proporcionen atención geriátrica a los adultos mayores de sesenta años con las que tengan ese deber legal, en relación con el artículo 301 del Código Civil para el Estado de Baja California.
+I. Adopción;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+II. Compensación por la administración de los bienes entre concubinas;
+
+III. Convivencia;
+
+IV. Guarda y custodia de las hijas y/o hijos;
+
+V. Derecho a heredar en sucesión legítima;
+
+VI. Derecho de representación de las hijas y/o hijos menores de edad;
+
+VII. Exigir judicialmente la constitución del patrimonio familiar;
+
+VIII. Filiación y los derechos pecuniarios que se deducen de ella;
+
+IX. Habitar el domicilio familiar;
+
+X. Patria potestad y tutela; y,
+
+XI. Usufructo de los bienes que constituyen el patrimonio familiar.
+
+Si el adeudo excede de treinta días de adeudo, la Jueza o Juez ordenará el registro de la persona sentenciada en el Registro Nacional de Obligaciones Alimentarias.
+
+Igual pena se impondrá a las personas que no proporcionen atención geriátrica a las personas adultas mayores de sesenta años con las que tengan ese deber legal, en relación con el artículo 301 del Código Civil para el Estado de Baja California.
+
+Asimismo, se impondrá igual pena a la prevista en el primer párrafo de este artículo a quien no proporcione los gastos de atención médica a la mujer embarazada o persona gestante, incluyendo el gasto del parto cuando tenga el deber legal en términos del artículo 305 del Código Civil para el Estado de Baja California.
 
 El delito se perseguirá por querella de la parte ofendida o de su legítimo representante y, a falta de éste, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando la persona obligada a proporcionar los alimentos pague todas las cantidades que hubiere dejado de ministrar por dicho concepto, o se someta al régimen de pago que la Jueza o Juez de Control o Tribunal de Enjuiciamiento o la autoridad ejecutora en su caso, determinen. En ambos casos, se deberá garantizar el pago de las cantidades que en el futuro le corresponda satisfacer, por un periodo de seis meses.
 
-No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el obligado a proporcionar los alimentos pague todas las cantidades que hubiere dejado de ministrar por dicho concepto, o se someta al régimen de pago que el Juez de Control o Tribunal de Enjuiciamiento o la autoridad ejecutora en su caso, determinen. En ambos casos, se deberá garantizar el pago de las cantidades que en el futuro le corresponda satisfacer, por un periodo de seis meses.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
-
-Se tendrá por consumado el delito previsto en este artículo, con independencia de si el o los acreedores alimentarios con motivo del incumplimiento del deudor alimentista, obtiene por cualquier medio sus alimentos, los reciben de un tercero o se ven obligados a allegarse de recursos para satisfacer sus requerimientos indispensables, independientemente de que exista o no una determinación o sanción judicial de un juez civil.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+Se tendrá por consumado el delito previsto en este artículo, con independencia de si la o las personas acreedoras alimentarias con motivo del incumplimiento de la persona deudora alimentista, obtiene por cualquier medio sus alimentos, los reciben de un tercero o se ven obligados a allegarse de recursos para satisfacer sus requerimientos indispensables, independientemente de que exista o no una determinación o sanción judicial de una jueza o juez civil o familiar.
 
 Cuando se trate de casos de reincidencia, la pena señalada en el presente artículo se incrementará hasta en una mitad.
+
+Cuando no sean comprobables el salario o los ingresos de la persona deudora alimentaria, para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que la persona deudora y sus acreedores alimentarios hayan llevado en el último año.
+
+Una vez que la persona sentenciada cumpla con la reparación del daño, la Jueza o el Juez a petición de parte deberá ordenar la cancelación de la inscripción en Registro Nacional de Obligaciones Alimentarias.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6605,11 +6627,13 @@ P.O. 15 DE MARZO DE 2024.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1102 POR EL QUE SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 145 OCTAVUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+P.O. 5 DE ABRIL DE 2024.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 405 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 235 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 17 DE SEPTIEMBRE DE 2024.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El registro e inscripción en el Registro Nacional de Obligaciones Alimentarias, estará sujeta al inicio de su funcionamiento en términos de la Ley General de los Derechos de las Niñas, Niños y Adolescentes.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1116 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA DERECHOS CULTURALES DEL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
