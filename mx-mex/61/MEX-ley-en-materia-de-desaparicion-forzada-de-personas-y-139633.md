@@ -4,7 +4,7 @@ identifier: "MEX-ley-en-materia-de-desaparicion-forzada-de-personas-y-139633"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-23"
-last_updated: "2024-04-02"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de diciembre de 2019.
 
@@ -217,6 +217,8 @@ Los tipos penales en materia de desaparición forzada de personas, desaparición
 
 ### CAPÍTULO SEGUNDO. De la Comisión de Búsqueda de Personas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
 Las personas servidoras públicas que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley o en la Ley General y que no constituyan un delito, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás disposiciones jurídicas aplicables.
@@ -237,7 +239,9 @@ El Mecanismo Estatal tiene por objeto coordinar los esfuerzos de vinculación, o
 
 El Mecanismo Estatal se integra por:
 
-I. La persona titular de la Secretaría de Justicia y Derechos Humanos, quien lo presidirá;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. La persona titular de la Consejería Jurídica, quien lo presidirá;
 
 II. La persona titular de la Fiscalía General;
 
@@ -261,7 +265,9 @@ XI. Una persona representante de la Legislatura del Estado;
 
 XII. Una persona representante del Poder Judicial del Estado;
 
-XIII. El o la Comisionada Ejecutiva de Atención a Víctimas del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIII. La persona titular de la Comisión Ejecutiva de Atención a Víctimas del Estado de México;
 
 XIV. La persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México;
 
@@ -271,7 +277,9 @@ XV. La persona titular de la Secretaría Ejecutiva del Sistema Integral de Prote
 
 XVI. La persona titular de la Secretaría de las Mujeres, y
 
-XVII. El o la Vocal Ejecutiva del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVII. La persona titular de la Vocalía Ejecutiva del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
 
 Las personas integrantes del Mecanismo Estatal deben nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico inmediato inferior.
 
@@ -383,17 +391,21 @@ Las autoridades municipales conformarán sus Células de Búsqueda y deberán co
 
 ###### Artículo 24.
 
-La Comisión de Búsqueda de Personas es un órgano administrativo desconcentrado de la Secretaría de Justicia y Derechos Humanos, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas, en el territorio del Estado de México, en coordinación con la Comisión Nacional, las instituciones que integran el Sistema Nacional, el Mecanismo Estatal, las instituciones de Seguridad Pública, las Fiscalías Especializadas de la Fiscalía General, de la Fiscalía Estatal y de las Procuradurías o Fiscalías Locales y las demás autoridades competentes en la materia, de conformidad con lo establecido en la Ley General y las demás disposiciones jurídicas aplicables.
+La Comisión de Búsqueda de Personas es un órgano administrativo desconcentrado de la Consejería Jurídica, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas, en el territorio del Estado de México, en coordinación con la Comisión Nacional, las instituciones que integran el Sistema Nacional, el Mecanismo Estatal, las instituciones de Seguridad Pública, las Fiscalías Especializadas de la Fiscalía General, de la Fiscalía Estatal y de las Procuradurías o Fiscalías Locales y las demás autoridades competentes en la materia, de conformidad con lo establecido en la Ley General y las demás disposiciones jurídicas aplicables.
 
 Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
 
 Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión de Búsqueda de Personas para el cumplimiento de esta Ley y la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 25.
 
-La Comisión de Búsqueda de Personas estará a cargo de una persona titular nombrada y removida por el Gobernador del Estado de México, a propuesta de la persona titular de la Secretaria de Justicia y Derechos Humanos.
+La Comisión de Búsqueda de Personas estará a cargo de una persona titular nombrada y removida por la persona titular del Poder Ejecutivo del Estado de México, a propuesta de la persona titular de la Consejería Jurídica.
 
-Para el nombramiento, a que se refiere el párrafo anterior, la Secretaría de Justicia y Derechos Humanos realizará una consulta pública previa, a los colectivos de Víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Para el nombramiento, a que se refiere el párrafo anterior, la Consejería Jurídica realizará una consulta pública previa, a los colectivos de Víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
 
 Para ser titular se requiere:
 
@@ -413,15 +425,21 @@ En el nombramiento de la persona titular de la Comisión de Búsqueda de Persona
 
 La persona titular de la Comisión de Búsqueda de Personas no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 26.
 
-Para la selección de la persona titular de la Comisión de Búsqueda de Personas, la Secretaría de Justicia y Derechos Humanos deberá emitir una convocatoria pública y abierta en la que se incluyan los requisitos y criterios de selección de conformidad con ésta Ley y la Ley General, así como los documentos que deban entregar las personas postulantes.
+Para la selección de la persona titular de la Comisión de Búsqueda de Personas, la Consejería Jurídica deberá emitir una convocatoria pública y abierta en la que se incluyan los requisitos y criterios de selección de conformidad con ésta Ley y la Ley General, así como los documentos que deban entregar las personas postulantes.
 
 Tendrá que existir un mecanismo a través del cual la sociedad civil presente candidatos.
 
-Para la consulta pública a la que se hace referencia en el artículo anterior, la Secretaría de Justicia y Derechos Humanos deberá observar como mínimo, lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Conformar un órgano técnico de consulta que deberá estar integrado por una persona representante de la Secretaría de Justicia y Derechos Humanos, una persona representante de la Fiscalía Estatal, una persona representante de la academia experto, tres personas representantes de la sociedad civil provenientes de los colectivos y familiares y una persona representante de la Comisión de Derechos Humanos del Estado de México;
+Para la consulta pública a la que se hace referencia en el artículo anterior, la Consejería Jurídica deberá observar como mínimo, lo siguiente:
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. Conformar un órgano técnico de consulta que deberá estar integrado por una persona representante de la Consejería Jurídica, una persona representante de la Fiscalía Estatal, una persona representante de la academia experto, tres personas representantes de la sociedad civil provenientes de los colectivos y familiares y una persona representante de la Comisión de Derechos Humanos del Estado de México;
 
 II. El órgano técnico de consulta integrará un expediente público por cada persona postulante;
 
@@ -433,11 +451,15 @@ V. El órgano técnico de consulta realizará una evaluación objetiva a las per
 
 VI. El órgano técnico de consulta organizará las comparecencias de las personas candidatas ante los familiares y colectivos ciudadanos vinculados en la materia de desaparición para la presentación de sus propuestas de plan de trabajo. Se garantizará el dialogo directo;
 
-VII. El órgano técnico de consulta elaborará un informe con los resultados de las evaluaciones y comparecencias, el cual será entregado a la persona titular de la Secretaría de Justicia y Derechos Humanos, quien lo anexará cuando haga la propuesta correspondiente al Gobernador del Estado. Dicho informe deberá ser público.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+VII. El órgano técnico de consulta elaborará un informe con los resultados de las evaluaciones y comparecencias, el cual será entregado a la persona titular de la Consejería Jurídica, quien lo anexará cuando haga la propuesta correspondiente a la persona titular del Poder Ejecutivo del Estado. Dicho informe deberá ser público.
 
 El órgano técnico de consulta se disolverá luego de la publicación del informe, y
 
-VIII. La persona titular de la Secretaría de Justicia y Derechos Humanos hará público el nombramiento de quien obtenga la titularidad de la Comisión de Búsqueda de Personas, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido y la preferencia de su elección frente al resto de las personas candidatas.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VIII. La persona titular de la Consejería Jurídica hará público el nombramiento de quien obtenga la titularidad de la Comisión de Búsqueda de Personas, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido y la preferencia de su elección frente al resto de las personas candidatas.
 
 ###### Artículo 27.
 
@@ -675,7 +697,9 @@ El Consejo Estatal Ciudadano emitirá sus reglas de funcionamiento en las que de
 
 Las recomendaciones, propuestas y opiniones del Consejo Estatal Ciudadano deberán ser comunicadas a la Comisión de Búsqueda de Personas y a las autoridades del Mecanismo Estatal en su caso y deberán ser consideradas para la toma de decisiones. La autoridad que determine no adoptar las recomendaciones que formule el Consejo ciudadano, deberá exponer las razones para ello.
 
-La Secretaría de Justicia y Derechos Humanos proveerá al Consejo Estatal Ciudadano de los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones. La Legislatura del Estado de México garantizará la suficiencia presupuestal para tal efecto.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Consejería Jurídica proveerá al Consejo Estatal Ciudadano de los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones. La Legislatura del Estado de México garantizará la suficiencia presupuestal para tal efecto.
 
 ###### Artículo 36.
 
@@ -1163,6 +1187,8 @@ Los Familiares, otras personas legitimadas por la ley y el Ministerio Público p
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 88.
 
 Las Víctimas de los delitos establecidos en la Ley General tienen derecho a ser reparadas integralmente conforme a las medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica, en términos de la Ley de Víctimas.
@@ -1225,7 +1251,7 @@ La información y documentación relacionada con las personas protegidas debe se
 
 ###### Artículo 96.
 
-La Secretaría de Justicia y Derechos Humanos, la Fiscalía Estatal y las Instituciones de Seguridad Pública deberán coordinarse para implementar las medidas de prevención previstas en esta Ley.
+La Consejería Jurídica, la Fiscalía Estatal y las Instituciones de Seguridad Pública deberán coordinarse para implementar las medidas de prevención previstas en esta Ley.
 
 ###### Artículo 97.
 
@@ -1235,9 +1261,11 @@ Todo establecimiento, instalación o cualquier sitio en control de las autoridad
 
 La Fiscalía Estatal debe administrar bases de datos estadísticas relativas a la incidencia de los delitos previstos en la Ley General, garantizando que los datos estén desagregados, al menos, por género, edad, nacionalidad, municipio, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 99.
 
-El Mecanismo Estatal, a través de la Comisión de Búsqueda de Personas, la Secretaría de Justicia y Derechos Humanos, la Fiscalía Estatal y las Instituciones de Seguridad Pública, deben respecto de los delitos previstos en la Ley General:
+El Mecanismo Estatal, a través de la Comisión de Búsqueda de Personas, la Consejería Jurídica, la Fiscalía Estatal y las Instituciones de Seguridad Pública, deben respecto de los delitos previstos en la Ley General:
 
 I. Llevar a cabo campañas informativas dirigidas a fomentar la Denuncia de los delitos y sobre instituciones de atención y servicios que brindan;
 
@@ -1269,9 +1297,11 @@ La Fiscalía Especializada debe intercambiar la información que favorezca la in
 
 La Fiscalía Estatal debe diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley y en la Ley General.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 102.
 
-El Mecanismo Estatal, a través de la Secretaría de Justicia y Derechos Humanos y con la participación de la Comisión de Búsqueda de Personas, debe coordinar el diseño y aplicación de programas que permitan combatir las causas que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos previstos en esta Ley, con especial referencia a la marginación, la condición de pobreza, la violencia comunitaria, la presencia de grupos delictivos, la operación de redes de trata de personas, los antecedentes de otros delitos conexos y la desigualdad social.
+El Mecanismo Estatal, a través de la Consejería Jurídica y con la participación de la Comisión de Búsqueda de Personas, debe coordinar el diseño y aplicación de programas que permitan combatir las causas que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos previstos en esta Ley, con especial referencia a la marginación, la condición de pobreza, la violencia comunitaria, la presencia de grupos delictivos, la operación de redes de trata de personas, los antecedentes de otros delitos conexos y la desigualdad social.
 
 ###### Artículo 103.
 
@@ -1490,3 +1520,39 @@ G.G. 2 DE ABRIL DE 2024.
 PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
