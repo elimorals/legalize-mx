@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-contratacion-publica-del-estado-de-mexico-y-94106"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -101,7 +101,9 @@ VII. Ley de Gobierno Digital: A la Ley de Gobierno Digital del Estado de México
 
 VIII. Ofertas subsecuentes de descuentos: A la presentación dinámica de descuentos que realizan los postores para mejorar el precio ofertado inicialmente.
 
-IX. Secretaría: A la Secretaría de Finanzas.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IX. Oficialía Mayor: A la Oficialía Mayor del Poder Ejecutivo del Estado.
 
 X. Subasta inversa electrónica: A la modalidad con base en la cual la administración pública estatal y municipal puede desahogar los procedimientos para la adquisición de bienes y la contratación de servicios a que se refiere la presente Ley, por conducto del COMPRAMEX, a efecto de adjudicarlos a los postores que presenten la oferta económica más favorable, mediante la presentación de ofertas subsecuentes de descuentos.
 
@@ -143,31 +145,43 @@ La contratación de seguros de garantía financiera, así como de servicios prof
 
 Tampoco aplicará esta ley a la contratación de servicios financieros relacionados con la apertura de cuentas bancarias para la recepción y manejo, inversión y pago de recursos públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 5.
 
-La Secretaría llevará a cabo los procedimientos de adquisición de bienes o servicios que requieran las dependencias, conforme a sus respectivos programas de adquisiciones.
+La Oficialía Mayor llevará a cabo los procedimientos de adquisición de bienes o servicios que requieran las dependencias, conforme a sus respectivos programas de adquisiciones.
 
 Las entidades, tribunales administrativos y ayuntamientos, en el ámbito de su respectiva competencia, tendrán a su cargo el trámite de los procedimientos de adquisición de bienes, contratación de servicios, arrendamientos y enajenaciones de bienes muebles e inmuebles.
 
-En el ámbito de la administración pública estatal central, corresponde a la Secretaría el trámite de los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles, observando al respecto las medidas de austeridad señaladas en el Presupuesto de Egresos.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En el ámbito de la administración pública estatal central, corresponde a la Oficialía Mayor el trámite a los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles, observando al respecto las medidas de austeridad señaladas en el Presupuesto de Egresos.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 6.
 
-Las secretarías de Finanzas y de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y, en general, aquellas para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
+La Oficialía Mayor y la Secretaría de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y, en general, aquellas para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
 
-Las secretarías de Finanzas y de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
+La Oficialía Mayor y la Secretaría de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
 
 ###### Artículo 7.
 
 Los contratos, los convenios y las modificaciones a los mismos que se realicen en contravención a lo dispuesto por esta Ley, serán nulos.
 
-La invalidez podrá ser declarada, administrativamente, por las contratantes. Los particulares afectados podrán ocurrir a demandar la invalidez de los contratos y de los convenios al Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La invalidez podrá ser declarada, administrativamente, por las contratantes. Los particulares afectados podrán ocurrir a demandar la invalidez de los contratos y de los convenios al Tribunal de Justicia Administrativa del Estado de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 8.
 
-Corresponde al Ejecutivo del Estado, a través de la Secretaría, la interpretación, para efectos administrativos, de la presente Ley, y a la Secretaría de la Contraloría la vigilancia de su aplicación para su debida observancia.
+Corresponde al Ejecutivo del Estado, a través de la Oficialía Mayor, la interpretación, para efectos administrativos, de la presente Ley, y a la Secretaría de la Contraloría la vigilancia de su aplicación para su debida observancia.
 
-La Secretaría establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula la presente Ley.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Oficialía Mayor establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula la presente Ley.
 
 Las políticas y normas administrativas a que se refiere el párrafo anterior serán aplicables a los actos, contratos y convenios regulados por esta Ley, que realicen los ayuntamientos con cargo a recursos estatales, total o parcialmente.
 
@@ -199,21 +213,27 @@ II. Los recursos financieros y materiales, y los servicios con los que se cuente
 
 III. Los plazos estimados en los que se requerirán los bienes, arrendamientos y servicios.
 
-IV. Las políticas y normas administrativas que establezcan la Secretaría y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Las políticas y normas administrativas que establezcan la Oficialía Mayor y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios.
 
 V. Las demás previsiones que sean necesarias para la adecuada planeación, operación y ejecución de los programas y acciones correspondientes.
 
 Las dependencias, entidades estatales, ayuntamientos y tribunales administrativos, formularán sus programas de adquisiciones, arrendamientos y servicios, simultáneamente con sus programas anuales y proyectos de presupuestos de egresos.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 12.
 
-La Secretaría tendrá a su cargo la ejecución de los programas anuales de adquisiciones de bienes y servicios de las dependencias.
+La Oficialía Mayor tendrá a su cargo la ejecución de los programas anuales de adquisiciones de bienes y servicios de las dependencias.
 
-Las entidades podrán solicitar a la Secretaría la realización de los procedimientos para la adquisición de los bienes o servicios que requieran, quedando sujetos a la autorización expresa de ésta.
+Las entidades podrán solicitar a la Oficialía Mayor la realización de los procedimientos para la adquisición de los bienes o servicios que requieran, quedando sujetos a la autorización expresa de ésta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 13.
 
-Las dependencias y entidades deberán presentar a la Secretaría sus requerimientos de adquisiciones y servicios, a más tardar el 31 de enero del ejercicio fiscal respectivo, con base en el anteproyecto de presupuesto correspondiente.
+Las dependencias y entidades deberán presentar a la Oficialía Mayor sus requerimientos de adquisiciones y servicios, a más tardar el 31 de enero del ejercicio fiscal respectivo, con base en el anteproyecto de presupuesto correspondiente.
 
 No obstante lo anterior, previo al inicio del procedimiento adquisitivo, las dependencias y entidades deberán contar con la suficiencia presupuestal respectiva.
 
@@ -263,19 +283,25 @@ II. Controlar el gasto público.
 
 III. Lograr mayor eficiencia y transparencia.
 
-El sistema informático que autoricen la Secretaría, los tribunales administrativos y los ayuntamientos para llevar a cabo sus procedimientos adquisitivos deberá estar vinculado con el sistema contable y presupuestal, a fin de cuidar la programación y la calendarización de recursos, con la ejecución y el cumplimiento de objetivos y metas.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El sistema informático que autoricen la Oficialía Mayor, los tribunales administrativos y los ayuntamientos para llevar a cabo sus procedimientos adquisitivos deberá estar vinculado con el sistema contable y presupuestal, a fin de cuidar la programación y la calendarización de recursos, con la ejecución y el cumplimiento de objetivos y metas.
 
 ### CAPÍTULO CUARTO. DE LOS CATÁLOGOS
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 20.
 
-La Secretaría y los ayuntamientos establecerán y operarán el catálogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
+La Oficialía Mayor y los ayuntamientos establecerán y operarán el catálogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
 
-Establecerán y operarán también el catálogo de bienes y servicios específicos que sean susceptibles de ser adquiridos o contratados bajo la modalidad de subasta inversa, los cuales deberán describirse genéricamente y determinarse sus especificaciones técnicas comerciales, y en su caso, sus equivalentes. Dicho catálogo deberá publicarse en el COMPRAMEX y en el portal de internet de la propia Secretaría y, en su caso, en el de los ayuntamientos.
+Establecerán y operarán también el catálogo de bienes y servicios específicos que sean susceptibles de ser adquiridos o contratados bajo la modalidad de subasta inversa, los cuales deberán describirse genéricamente y determinarse sus especificaciones técnicas comerciales, y en su caso, sus equivalentes. Dicho catálogo deberá publicarse en el COMPRAMEX y en el portal de internet de la Oficialía Mayor y, en su caso, en el de los ayuntamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 21.
 
-A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría y los ayuntamientos integrarán un catálogo de proveedores y de prestadores de servicios.
+A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Oficialía Mayor y los ayuntamientos integrarán un catálogo de proveedores y de prestadores de servicios.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -285,13 +311,15 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 ### CAPÍTULO QUINTO. DE LA INTEGRACIÓN Y FUNCIONES DE LOS COMITÉS
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 22.
 
-Los comités son órganos colegiados con facultades de opinión, que tienen por objeto auxiliar a la Secretaría, entidades, tribunales administrativos y ayuntamientos, en la substanciación de los procedimientos de adquisiciones y de servicios, de conformidad con el Reglamento y los manuales de operación.
+Los comités son órganos colegiados con facultades de opinión, que tienen por objeto auxiliar a la Oficialía Mayor, entidades, tribunales administrativos y ayuntamientos, en la substanciación de los procedimientos de adquisiciones y de servicios, de conformidad con el Reglamento y los manuales de operación.
 
-En la Secretaría, en cada entidad, tribunal administrativo y ayuntamiento se constituirá un comité de adquisiciones y servicios.
+En la Oficialía Mayor, en cada entidad, tribunal administrativo y ayuntamiento se constituirá un comité de adquisiciones y servicios.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos se auxiliarán de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos se auxiliarán de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
 
 ###### Artículo 23.
 
@@ -331,9 +359,11 @@ La integración y el funcionamiento de los comités a que se refiere el presente
 
 Las adquisiciones, arrendamientos y servicios se adjudicarán a través de licitaciones públicas, mediante convocatoria pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 27.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos podrán adjudicar adquisiciones, arrendamientos y servicios, mediante las excepciones al procedimiento de licitación que a continuación se señalan:
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos podrán adjudicar adquisiciones, arrendamientos y servicios, mediante las excepciones al procedimiento de licitación que a continuación se señalan:
 
 I. Invitación restringida.
 
@@ -347,7 +377,9 @@ I. Presencial, en la cual los licitantes exclusivamente podrán presentar sus pr
 
 Bajo esta modalidad, la o las juntas de aclaraciones, el acto de presentación y la apertura de propuestas se realizarán de manera presencial, a los cuales podrán asistir los licitantes.
 
-II. Electrónica, en la cual exclusivamente se permitirá la participación de los licitantes a través de COMPRAMEX, se utilizarán medios de identificación electrónica, las comunicaciones producirán los efectos que señala la Ley para el Uso de Medios Electrónicos del Estado de México.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+II. Electrónica, en la cual exclusivamente se permitirá la participación de los licitantes a través de COMPRAMEX, se utilizarán medios de identificación electrónica, las comunicaciones producirán los efectos que señala la Ley de Gobierno Digital del Estado de México y Municipios.
 
 Bajo esta modalidad, la o las juntas de aclaraciones, el acto de presentación, la apertura de propuestas y el acto de fallo sólo se realizarán a través de COMPRAMEX y sin la presencia de los licitantes en dichos actos, y
 
@@ -377,9 +409,11 @@ Previa investigación de mercado que realice la convocante, no exista el bien o 
 
 Resulte obligatorio por los tratados internacionales en que México sea parte o por convenios celebrados por el Gobierno del Estado.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 32.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos, en términos de esta Ley, serán los responsables de llevar a cabo el procedimiento de licitación pública.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos, en términos de esta Ley, serán los responsables de llevar a cabo el procedimiento de licitación pública.
 
 ###### Artículo 33.
 
@@ -495,9 +529,11 @@ La convocante procederá a adjudicar el contrato al licitante que presente la pr
 
 Lo establecido en este artículo será aplicable en el procedimiento de invitación restringida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 41.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos procederán a declarar desierta la licitación en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos procederán a declarar desierta la licitación en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
 
 Podrá declararse desierta una licitación parcialmente, cuando no se hubiese recibido propuesta alguna o las presentadas no reúnan los requisitos, respecto de una o varias partidas o conceptos.
 
@@ -511,23 +547,29 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 #### SECCIÓN TERCERA. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 43.
 
-La Secretaría, las entidades, tribunales administrativos y los ayuntamientos, bajo su responsabilidad, podrán llevar a cabo procedimientos de adquisición de bienes o servicios a través de las modalidades de invitación restringida y adjudicación directa.
+La Oficialía Mayor, las entidades, tribunales administrativos y los ayuntamientos, bajo su responsabilidad, podrán llevar a cabo procedimientos de adquisición de bienes o servicios a través de las modalidades de invitación restringida y adjudicación directa.
 
 En todo caso, se invitará, o adjudicará de manera directa, a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características y magnitud de las adquisiciones.
 
 #### SECCIÓN CUARTA. DE LA INVITACIÓN RESTRINGIDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 44.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos podrán adquirir y contratar servicios mediante invitación restringida, cuando:
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos podrán adquirir y contratar servicios mediante invitación restringida, cuando:
 
 I. Se hubiere declarado desierto un procedimiento de licitación, o
 
 II. El importe de la operación no exceda de los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado de México del ejercicio correspondiente.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos se abstendrán de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos se abstendrán de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
 
 En la invitación deberá especificarse si en el proceso de asignación aplicará la modalidad de subasta inversa.
 
@@ -545,9 +587,11 @@ El procedimiento de invitación restringida se declarará desierto, cuando no se
 
 #### SECCIÓN QUINTA. DE LA ADJUDICACIÓN DIRECTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 48.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos podrán adquirir bienes, arrendar bienes muebles e inmuebles y contratar servicios, mediante adjudicación directa, cuando:
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos podrán adquirir bienes, arrendar bienes muebles e inmuebles y contratar servicios, mediante adjudicación directa, cuando:
 
 I. La adquisición o el servicio sólo puedan realizarse con una determinada persona, por tratarse de obras de arte, titularidad de patentes, registros, marcas específicas, derechos de autor u otros derechos exclusivos.
 
@@ -565,7 +609,9 @@ VII. Existan circunstancias extraordinarias o imprevisibles derivadas de riesgo 
 
 VIII. Se hubiere rescindido un contrato, por causas imputables al proveedor o que la persona que habiendo resultado ganadora en una licitación, no concurra a la suscripción del contrato dentro del plazo establecido en esta Ley.
 
-En estos supuestos, la Secretaría, la entidad, el tribunal administrativo o el ayuntamiento podrá adjudicar el contrato al licitante que haya presentado la propuesta solvente más cercana a la ganadora y así, sucesivamente. En todo caso, la diferencia de precio no deberá de ser superior al diez por ciento, respecto de la propuesta ganadora.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En estos supuestos, la Oficialía Mayor, la entidad, el tribunal administrativo o el ayuntamiento podrá adjudicar el contrato al licitante que haya presentado la propuesta solvente más cercana a la ganadora y así, sucesivamente. En todo caso, la diferencia de precio no deberá de ser superior al diez por ciento, respecto de la propuesta ganadora.
 
 IX. Se hubiere declarado desierto un procedimiento de invitación restringida.
 
@@ -645,11 +691,15 @@ XIII. Las demás que señalen otras disposiciones legales.
 
 En el procedimiento de subasta pública de bienes muebles e inmuebles deberán establecerse los mismos requisitos y condiciones para todos los participantes.
 
-Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública tendrá derecho a presentar posturas. La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública tendrá derecho a presentar posturas. La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 57.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos tendrán a su cargo el trámite de los procedimientos de subasta pública.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos tendrán a su cargo el trámite de los procedimientos de subasta pública.
 
 ###### Artículo 58.
 
@@ -707,9 +757,11 @@ IX. El acta de presentación, apertura y evaluación de posturas, dictamen y fal
 
 X. La falta de firma de cualquiera de los asistentes no invalidará el contenido y efectos del acta.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 62.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
 
 ###### Artículo 63.
 
@@ -719,9 +771,11 @@ Las convocantes deberán comunicar la cancelación a los interesados mediante es
 
 En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para las convocantes.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 64.
 
-La Secretaría, las entidades, los tribunales administrativos y los ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos del reglamento de esta Ley, cuando se hubiere declarado desierto un procedimiento de subasta pública.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos del reglamento de esta Ley, cuando se hubiere declarado desierto un procedimiento de subasta pública.
 
 ### CAPÍTULO OCTAVO. DE LOS CONTRATOS
 
@@ -747,13 +801,17 @@ El proveedor o prestador de servicios estará obligado a responder de los defect
 
 En los contratos se estipularán las diversas consecuencias de la cancelación, de la terminación anticipada o de la rescisión por causas imputables al proveedor o prestador de servicios.
 
-Los contratos contendrán los elementos que establezca el reglamento de esta Ley y se elaborarán conforme con los modelos que establezca la Secretaría o los ayuntamientos, en su caso.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los contratos contendrán los elementos que establezca el reglamento de esta Ley y se elaborarán conforme con los modelos que establezca la Oficialía Mayor o los ayuntamientos, en su caso.
 
 ###### Artículo 69.
 
 En los contratos deberá pactarse la condición de precio fijo.
 
-Cuando con posterioridad a la celebración de los contratos, se presenten circunstancias económicas de tipo general ajenas a la responsabilidad de las partes y que incidan en las condiciones pactadas, la Secretaría, las entidades, los tribunales administrativos y los ayuntamientos podrán, dentro de su presupuesto autorizado, reconocer incrementos o exigir reducciones en monto o plazo, la convocante podrá acordar incrementos en la cantidad de bienes adquiridos mediante modificación a sus contratos vigentes, dentro de los doce meses posteriores a su suscripción, siempre que el monto total de la modificación no rebase en conjunto el treinta por ciento del importe original y el precio de los bienes sea igual al pactado inicialmente.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Cuando con posterioridad a la celebración de los contratos, se presenten circunstancias económicas de tipo general ajenas a la responsabilidad de las partes y que incidan en las condiciones pactadas, la Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos podrán, dentro de su presupuesto autorizado, reconocer incrementos o exigir reducciones en monto o plazo, la convocante podrá acordar incrementos en la cantidad de bienes adquiridos mediante modificación a sus contratos vigentes, dentro de los doce meses posteriores a su suscripción, siempre que el monto total de la modificación no rebase en conjunto el treinta por ciento del importe original y el precio de los bienes sea igual al pactado inicialmente.
 
 En los contratos abiertos podrán pactarse ajustes al importe de los bienes o de los servicios contratados, en caso de aumento o decremento en los precios, dentro del presupuesto autorizado.
 
@@ -771,11 +829,15 @@ II. Sin responsabilidad para el proveedor o prestador de servicios, cuando la co
 
 En el caso de la fracción I, la contratante estará facultada para rescindir el contrato en forma administrativa, otorgando garantía de previa audiencia al proveedor o prestador de servicios en términos del Código de Procedimientos Administrativos del Estado de México.
 
-En el supuesto de la fracción II, el proveedor o prestador de servicios afectado podrá demandar la rescisión del contrato ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En el supuesto de la fracción II, el proveedor o prestador de servicios afectado podrá demandar la rescisión del contrato ante el Tribunal de Justicia Administrativa del Estado de México.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 72.
 
-La Secretaría, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos podrán dar por terminados, anticipadamente, los contratos cuando concurran razones de interés general o bien, cuando por causas justificadas, se extinga la necesidad de requerir los bienes o los servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas se ocasionará algún daño o perjuicio al Estado, o se determine la nulidad de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad.
+La Oficialía Mayor, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos podrán dar por terminados, anticipadamente, los contratos cuando concurran razones de interés general o bien, cuando por causas justificadas, se extinga la necesidad de requerir los bienes o los servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas se ocasionará algún daño o perjuicio al Estado, o se determine la nulidad de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad.
 
 ###### Artículo 73.
 
@@ -783,11 +845,11 @@ En los casos de rescisión o terminación anticipada del contrato, el saldo por 
 
 Si el proveedor o prestador de servicios no reintegra el saldo por amortizar en el plazo señalado en el párrafo anterior, deberá pagar gastos financieros, conforme a una tasa que será igual a la establecida anualmente en la Ley de Ingresos del Estado de México o en la Ley de Ingresos de los Municipios del Estado de México, para los casos de prórroga en el pago de créditos fiscales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 74.
 
-La Secretaría, las dependencias, las entidades, los Órganos Autónomos Constitucionales, los Tribunales Administrativos, los Ayuntamientos y los Organismos Auxiliares, se abstendrán de recibir propuestas o de celebrar contratos con las personas siguientes:
+La Oficialía Mayor, las dependencias, las entidades, los Órganos Autónomos Constitucionales, los Tribunales Administrativos, los Ayuntamientos y los Organismos Auxiliares, se abstendrán de recibir propuestas o de celebrar contratos con las personas siguientes:
 
 I. Aquellas con las que el servidor público, que intervenga en cualquier etapa del procedimiento de adquisición o de la contratación, tenga interés personal, familiar o de negocios, incluyendo las que pueda obtener algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o terceros con los que tenga relaciones profesionales, laborales o de negocios, o socios o sociedades de las que las personas antes referidas formen parte, durante los dos años previos a la fecha de la celebración del procedimiento de que se trate.
 
@@ -837,9 +899,11 @@ Los ayuntamientos podrán establecer en su reglamentación, el registro a que se
 
 Es aplicable a las enajenaciones, lo dispuesto en las fracciones I, III, IV, V, VI, IX y X de este artículo. Asimismo, será aplicable lo señalado en la fracción VIII, cuando se pacte a plazos la obligación de pago.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 75.
 
-En las adquisiciones y arrendamientos de los bienes inmuebles y en la enajenación de bienes muebles e inmuebles, el otorgamiento del contrato se sujetará a las normas, políticas o lineamientos que expida la Secretaría y, supletoriamente, a las disposiciones del Código Civil del Estado de México.
+En las adquisiciones y arrendamientos de los bienes inmuebles y en la enajenación de bienes muebles e inmuebles, el otorgamiento del contrato se sujetará a las normas, políticas o lineamientos que expida la Oficialía Mayor y, supletoriamente, a las disposiciones del Código Civil del Estado de México.
 
 ### CAPÍTULO NOVENO. DE LAS GARANTÍAS
 
@@ -867,17 +931,21 @@ Las clases, constitución, reajustes y devolución de las garantías a que se re
 
 Las contratantes podrán exceptuar a los proveedores o prestadores de servicios de otorgar la garantía de cumplimiento del contrato, siempre que suministren antes de la suscripción del contrato la totalidad de los bienes o de los servicios, y el monto del contrato no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 78.
 
-En caso de que el cumplimiento de las obligaciones a cargo de los proveedores o prestadores de servicios, derivadas de defectos o vicios ocultos, rebasen el importe de la garantía, la Secretaría, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos, además de hacer efectiva la garantía otorgada, podrán exigir el pago de la diferencia que resulte.
+En caso de que el cumplimiento de las obligaciones a cargo de los proveedores o prestadores de servicios, derivadas de defectos o vicios ocultos, rebasen el importe de la garantía, la Oficialía Mayor, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos, además de hacer efectiva la garantía otorgada, podrán exigir el pago de la diferencia que resulte.
 
 Las diferencias que resulten a favor de las contratantes tendrán el carácter de créditos fiscales, por lo que su cumplimiento podrá hacerse efectivo a través del procedimiento administrativo de ejecución.
 
 ### CAPÍTULO DÉCIMO. DE LOS CONTRATOS ABIERTOS, ACUERDOS DE COORDINACIÓN Y CONTRATOS PEDIDO
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 79.
 
-La Secretaría podrá celebrar acuerdos de coordinación con las entidades y, en su caso, con los ayuntamientos que así lo soliciten, para la realización de procedimientos adquisitivos en los términos de esta Ley y de su Reglamento.
+La Oficialía Mayor podrá celebrar acuerdos de coordinación con las entidades y, en su caso, con los ayuntamientos que así lo soliciten, para la realización de procedimientos adquisitivos en los términos de esta Ley y de su Reglamento.
 
 ###### Artículo 80.
 
@@ -905,9 +973,11 @@ V. El proveedor suministrará los bienes y los servicios en las cantidades y en 
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 83.
 
-La Secretaría, las dependencias y las entidades estatales, así como los tribunales administrativos, proporcionarán a:
+La Oficialía Mayor, las dependencias y las entidades estatales, así como los tribunales administrativos, proporcionarán a:
 
 I. La Secretaría de la Contraloría, la información relacionada con los procedimientos de adjudicación que realicen, a través de los medios que establezca la propia dependencia.
 
@@ -915,9 +985,11 @@ II. La Secretaría de la Contraloría, la información a que se refieren las fra
 
 III. La Secretaría de la Contraloría y a los órganos de control interno, la información que les soliciten relacionada con los actos, los procedimientos y los contratos regulados por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 84.
 
-La Secretaría, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos conservarán en sus archivos, en forma ordenada, la documentación comprobatoria de los actos, procedimientos y contratos materia de esta Ley, cuando menos por el lapso de cinco años, contado a partir de la fecha de su celebración.
+La Oficialía Mayor, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos conservarán en sus archivos, en forma ordenada, la documentación comprobatoria de los actos, procedimientos y contratos materia de esta Ley, cuando menos por el lapso de cinco años, contado a partir de la fecha de su celebración.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -957,9 +1029,9 @@ VII. Promueva o use su influencia, poder económico o político, reales o fictic
 
 VIII. Presente documentación o información falsa o alterada con el propósito de lograr un beneficio o ventaja.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Serán sancionados por la Secretaría, por las dependencias, las entidades, los ayuntamientos y los tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de trescientas a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción.
+Serán sancionados por la Oficialía Mayor, por las dependencias, las entidades, los ayuntamientos y los tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de trescientas a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción.
 
 Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos.
 
@@ -1041,7 +1113,9 @@ La inconformidad administrativa en lo no previsto por esta Ley, se substanciará
 
 En las materias reguladas en la presente Ley no procederá el recurso administrativo de inconformidad, previsto en el Código de Procedimientos Administrativos del Estado de México.
 
-En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones que se dicten durante la contratación y la vigencia de los contratos regulados por esta Ley, procede juicio ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones que se dicten durante la contratación y la vigencia de los contratos regulados por esta Ley, procede juicio ante el Tribunal de Justicia Administrativa del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -1150,3 +1224,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
