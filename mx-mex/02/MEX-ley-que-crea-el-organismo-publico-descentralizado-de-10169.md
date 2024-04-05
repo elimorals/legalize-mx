@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10169"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA DE TECAMAC
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -135,41 +135,37 @@ VI. Los directores de centro.
 
 También podrá contar con órganos auxiliares.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 7.
 
-El consejo directivo, será la máxima autoridad de la universidad, y estará integrada por:
+El Consejo Directivo será la máxima autoridad de la universidad, y estará integrado por:
 
-I. Tres representantes del Gobierno del Estado, designados por el Ejecutivo Estatal, que serán:
+I. Tres representantes del Gobierno del Estado, designados por la persona titular del Poder Ejecutivo, que serán:
 
-> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+a) La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
-a) El Secretario de Educación.
+b) La persona titular de la Secretaría de Finanzas.
 
-> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+c) La persona titular de la Secretaría de Desarrollo Económico.
 
-b) El Secretario de Finanzas.
-
-> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
-
-c) El Secretario de Desarrollo Económico.
-
-II. Tres representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
+II. Tres representantes del Gobierno Federal, designados por la persona titular de la Secretaría de Educación Pública;
 
 A invitación del Ejecutivo Estatal:
 
-III. Un representante del Gobierno Municipal de Tecámac, que será designado por el ayuntamiento;
+III. Una persona representante del Gobierno Municipal de Tecámac, designada por el ayuntamiento;
 
-IV. Tres representantes del sector productivo de la región;
+IV. Tres personas representantes del sector productivo de la región;
 
-También integrarán este órgano de gobierno;
+También integrarán este órgano de gobierno:
 
-V. Un Secretario, quien será designado por el órgano de gobierno a propuesta de su presidente; y
+V. Una Secretaría, designada por el órgano de gobierno a propuesta de la Presidencia; y
 
-VI. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
+VI. Una Comisaría, quien será la persona representante de la Secretaría de la Contraloría.
 
-Los miembros del consejo directivo serán removidos en su cargo por quien los designe, a excepción de los referidos en las fracciones I y IV, estos últimos durarán dos años pudiendo ser confirmados por un período igual.
+Las personas integrantes del Consejo Directivo serán removidas en su cargo por quien los designe, a excepción de los referidos en las fracciones I y IV, estos últimos durarán dos años pudiendo ser confirmados por un período igual.
 
-Por cada miembro propietario se nombrará un suplente, quien en ausencia de aquél fungirá con voz y voto, a excepción de aquellos a que se refieren las fracciones V y VI de este artículo, quienes sólo tendrán voz.
+Por cada integrante propietario se nombrará un suplente, quien en ausencia de aquél fungirá con voz y voto, a excepción de aquellos a que se refieren las fracciones V y VI de este artículo, quienes sólo tendrán voz.
 
 ###### Artículo 8.
 
@@ -245,13 +241,13 @@ XVIII. Las demás que se deriven de esta ley o sus reglamentos.
 
 Para el cumplimiento de sus atribuciones, el consejo directivo contará con el apoyo de comisiones que estarán integradas por directores, personal académico de la universidad y por especialistas de alto reconocimiento profesional. El número de miembros, organización y forma de trabajo estarán establecidos en las normas reglamentarias.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15.
 
-La persona titular de la Rectoría de la Universidad será designado y removido por la persona Titular del Ejecutivo del Estado, a propuesta de la Titular de la Secretaría de Educación y durará en su cargo cuatro años, pudiendo ser ratificado por un solo período igual.
+La persona titular de la Rectoría de la Universidad será designada y removido (sic) por la persona titular del Ejecutivo del Estado, a propuesta de la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación y durará en su cargo cuatro años, pudiendo ser ratificada por un solo período igual.
 
-En los casos de ausencias temporales será sustituido por quien designe el Consejo Directivo, y en las ausencias definitivas, será sustituido por quien designe la persona Titular del Ejecutivo del Estado, en los términos del párrafo anterior.
+En los casos de ausencias temporales será sustituida por quien designe el Consejo Directivo, y en las ausencias definitivas, será sustituida por quien designe la persona titular del Poder Ejecutivo del Estado, en los términos del párrafo anterior.
 
 ###### Artículo 16.
 
@@ -524,3 +520,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
