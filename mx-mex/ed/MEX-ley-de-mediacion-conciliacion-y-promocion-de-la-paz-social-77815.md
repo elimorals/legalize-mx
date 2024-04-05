@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-mediacion-conciliacion-y-promocion-de-la-paz-social-7781
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-22"
-last_updated: "2022-03-10"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 22 de diciembre de 2010.
 
@@ -79,17 +79,15 @@ Todas las personas tienen derecho a una educación para la paz en las institucio
 
 Todos los habitantes del Estado de México tienen derecho de recurrir al diálogo, negociación, mediación, conciliación y justicia restaurativa para la solución de sus conflictos. Tratándose de Pueblos Indígenas, las instancias competentes deberán proveer lo necesario para garantizar a este sector de la población, dichos medios y derechos, en respeto a sus usos y costumbres.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 4.
 
-El Poder Ejecutivo a través de la Secretaría de Educación del Gobierno del Estado de México, debe incluir en los programas educativos oficiales, métodos que fomenten la utilización del diálogo, la negociación, la mediación, la conciliación y los programas de justicia restaurativa.
+El Poder Ejecutivo a través de la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado de México, debe incluir en los programas educativos oficiales, métodos que fomenten la utilización del diálogo, la negociación, la mediación, la conciliación y los programas de justicia restaurativa.
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+La Secretaría de Educación, Ciencia, Tecnología e Innovación se podrá coordinar con el Centro Estatal con la finalidad de implementar en las instituciones educativas, la mediación escolar, cuando sea solicitado por la autoridad escolar.
 
-La Secretaría de Educación se podrá coordinar con el Centro Estatal con la finalidad de implementar en las instituciones educativas, la mediación escolar, cuando sea solicitado por la autoridad escolar.
-
-> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
-
-Asimismo, la Secretaría de Justicia y Derechos Humanos llevará a cabo la Mediación y Conciliación vecinal en la atención y resolución de conflictos cotidianos entre particulares, vecinos, organizaciones, agrupaciones o asociaciones de colonos de manera permanente.
+Asimismo, la Consejería Jurídica llevará a cabo la Mediación y Conciliación vecinal en la atención y resolución de conflictos cotidianos entre particulares, vecinos, organizaciones, agrupaciones o asociaciones de colonos de manera permanente.
 
 ###### Artículo 5.
 
@@ -103,7 +101,9 @@ III. Centro Estatal: Al Centro de Mediación, Conciliación y de Justicia Restau
 
 IV. Centros Públicos de Mediación, Conciliación y de Justicia Restaurativa: A las instituciones creadas por el Poder Ejecutivo, organismos descentralizados, o los Ayuntamientos para la solución de los conflictos en los términos de esta Ley y su Reglamento;
 
-V. Unidades de Mediación, Conciliación y de Justicia Restaurativa: A las Unidades de la Procuraduría General de Justicia del Estado, que tengan por objeto la solución de los conflictos de su competencia a través de la mediación, conciliación o de los procesos restaurativos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Unidades de Mediación, Conciliación y de Justicia Restaurativa: A las Unidades de la Fiscalía General de Justicia del Estado, que tengan por objeto la solución de los conflictos de su competencia a través de la mediación, conciliación o de los procesos restaurativos;
 
 VI. Mediadores-conciliadores privados: A las personas físicas o jurídicas colectivas, que tengan como fin la prevención o solución de los conflictos, en términos de esta Ley y su reglamento;
 
@@ -191,9 +191,11 @@ XIV. Rendir mensualmente un informe estadístico al Consejo de la Judicatura en 
 
 XV. Las demás que establezca esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 10.
 
-Las Unidades de Mediación, Conciliación y de Justicia Restaurativas de la Procuraduría General de Justicia, los centros públicos creados por el Poder Ejecutivo, los organismos descentralizados y los ayuntamientos, prestarán en forma gratuita los servicios de información, orientación, mediación, conciliación y de justicia restaurativa, en los términos de esta Ley, su reglamento y demás disposiciones legales.
+Las Unidades de Mediación, Conciliación y de Justicia Restaurativas de la Fiscalía General de Justicia, los centros públicos creados por el Poder Ejecutivo, los organismos descentralizados y los ayuntamientos, prestarán en forma gratuita los servicios de información, orientación, mediación, conciliación y de justicia restaurativa, en los términos de esta Ley, su reglamento y demás disposiciones legales.
 
 ###### Artículo 11.
 
@@ -465,7 +467,9 @@ El plazo de prescripción de la acción para la ejecución de los convenios de m
 
 Los mediadores-conciliadores y facilitadores que presten sus servicios en términos de esta Ley, serán responsables civil y penalmente por las faltas en que incurran en el ejercicio de sus funciones, de conformidad con las leyes de la materia.
 
-Además, tratándose de servidores públicos, serán sujetos de responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Además, tratándose de servidores públicos, serán sujetos de responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 T R A N S I T O R I O S
 
@@ -548,3 +552,39 @@ TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos
 Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
 
 CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Decreto realizarán las adecuaciones presupuestales correspondientes.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
