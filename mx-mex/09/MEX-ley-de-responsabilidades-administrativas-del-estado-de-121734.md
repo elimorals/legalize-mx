@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-administrativas-del-estado-de-121734"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2020-09-24"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el martes 30 de mayo de 2017.
 
@@ -687,15 +687,37 @@ Incurrirá en abuso de funciones la persona servidora o servidor público que ej
 
 #### SECCIÓN SEXTA. DEL HOSTIGAMIENTO Y ACOSO SEXUAL
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 59.
 
-Comete hostigamiento sexual un servidor público que realice en forma indebida, por cualquier medio, requerimientos de carácter sexual no consentidos por la persona requerida, y que amenacen o perjudiquen su situación laboral o sus oportunidades en el servicio público.
+Comete hostigamiento sexual la persona servidora pública que, con fines de lujuria, asedie a otra, valiéndose de la posición derivada de su empleo, cargo o comisión, o de sus relaciones laborales, familiares, de negocios, docentes, domésticas, o cualquier otra que implique situación de ventaja o vulnerabilidad, a través de ejercer el poder en una subordinación de la víctima frente a quien agrede y que amenacen o perjudiquen su situación laboral o sus oportunidades en el servicio público.
+
+Se incrementará en una mitad, las conductas que lleve a cabo la persona servidora pública que:
+
+I. Permita, tolere o facilite la realización de conductas de hostigamiento sexual, así como cualquiera de las referidas en el presente artículo.
+
+II. Perteneciendo a una institución educativa pública y teniendo el carácter de personal docente o administrativo, sea cual sea la naturaleza de su función, realice o pretenda realizar actos que impliquen violencia sexual hacia otra persona, haciendo uso de su posición jerárquica.
+
+III. Las faltas previstas en las fracciones I y II, también serán cometidas por persona servidora pública perteneciente a institución educativa pública, teniendo el carácter de personal docente o administrativo sea cual sea la naturaleza de su función.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 60.
 
-Comete acoso sexual, quien con fines de lujuria asedie reiteradamente a un servidor público, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para el servidor público. De igual forma, comete acoso sexual, el servidor público que, sin consentimiento y con propósitos de lujuria o erótico sexual, grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de un servidor público, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio.
+Comete acoso sexual, quien con fines de lujuria asedie reiteradamente a una persona servidora pública, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la persona servidora pública.
 
-Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
+Se equiparán a la falta administrativa de acoso sexual, independientemente de que exista o no reiteración, las conductas que lleve a cabo la persona servidora pública que:
+
+I. Realice o pretenda realizar actos que impliquen violencia sexual hacia otra persona servidora pública.
+
+II. Valiéndose de su empleo, cargo o comisión en la administración pública, realice o pretenda realizar actos de violencia sexual hacia otra persona que no sea servidora pública.
+
+III. Permita, tolere o facilite la realización de conductas de acoso sexual, así como cualquiera de las referidas en el presente artículo.
+
+IV. Sin consentimiento y con propósitos de lujuria o erótico sexuales, grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de una persona sea servidora pública o no, en forma directa, informática, audiovisual, virtual o por cualquier otro medio.
+
+Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en la presente fracción.
 
 #### SECCIÓN SÉPTIMA. DE LA ACTUACIÓN BAJO CONFLICTO DE INTERÉS
 
@@ -931,13 +953,21 @@ b) En ningún caso la sanción económica que se imponga podrá ser menor o igua
 
 IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas:
 
-a) Por un periodo no menor de un año ni mayor a diez años, si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la unidad de medida y actualización.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+a) Por un periodo no menor de un año ni mayor a diez años, si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la unidad de medida y actualización, o cuando se trate de la comisión de las faltas administrativas previstas en los artículos 59 y 60 de la presente Ley.
+
+En el último supuesto, la sanción prevista en el presente inciso, podrá incrementarse hasta veinte años, cuando la falta administrativa afecte a personas menores de edad.
 
 b) Por un periodo no menor a diez años ni mayor a veinte años, si el monto de la afectación excede de doscientas veces el valor diario de la unidad de medida y actualización.
 
 Cuando no se causen daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
 
 A juicio del Tribunal de Justicia Administrativa, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta administrativa.
+
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El Tribunal de Justicia Administrativa, cuando lo considere procedente, podrá imponer a las instituciones públicas medidas de no repetición con las que se busque evitar futuras violaciones a derechos humanos.
 
 ###### Artículo 83.
 
@@ -1120,6 +1150,26 @@ Dicha denuncia podrá ser presentada por escrito ante las autoridades investigad
 Las autoridades investigadoras llevarán de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia.
 
 Lo anterior sin menoscabo de las investigaciones que se deriven de las denuncias a que se hace referencia en el Capítulo anterior.
+
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 98 Bis.
+
+Para la atención de las denuncias y el trámite de las investigaciones, las autoridades investigadoras deberán:
+
+I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida.
+
+II. Actuar con perspectiva de género y mediante la aplicación de los protocolos e instrumentos normativos para juzgar con perspectiva de género, así como de derechos humanos.
+
+III. Evitar la revictimización de las personas afectadas.
+
+IV. Recabar de oficio, todas y cada una de las pruebas directas e Indirectas que sean aptas para el conocimiento de la verdad.
+
+V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual.
+
+VI. Implementar sanciones administrativas para los superiores jerárquicos de la persona hostigadora o acosadora cuando sean omisos en recibir y/o dar curso a una queja; así como a las personas titulares de dar trámite o seguimiento a la queja.
+
+La obligación a que se refiere el presente artículo será ejecutada, sobre todo, cuando los hechos se relacionen con actos de hostigamiento y acoso sexuales.
 
 ###### Artículo 99.
 
@@ -1416,6 +1466,16 @@ Las autoridades resolutoras recibirán por sí mismas las declaraciones de testi
 Las documentales emitidas por las autoridades en ejercicio de sus funciones tendrán valor probatorio pleno por lo que respecta a su autenticidad o a la veracidad de los hechos a los que se refieran, salvo prueba en contrario.
 
 Las documentales privadas, las testimoniales, las inspecciones y las periciales y demás medios de prueba lícitos que se ofrezcan por las partes, solo harán prueba plena cuando a juicio de la autoridad resolutora, resulten fiables y coherentes, de acuerdo con la verdad conocida y el recto raciocinio de la relación que guarden entre sí, de forma tal que generen convicción sobre la veracidad de los hechos.
+
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 132 Bis.
+
+En el caso de que el material probatorio sea insuficiente para aclarar una situación de violencia, vulnerabilidad o discriminación por razones de género, las autoridades sustanciadoras y resolutoras deberán ordenar el desahogo de las pruebas necesarias para lograr la mayor proximidad a la verdad.
+
+Todas las personas servidoras públicas estarán obligadas a permitir y colaborar en la práctica de las diligencias y pruebas a las que se refiere el presente artículo.
+
+La omisión, retraso, falsedad, ocultamiento o cualquier otra conducta tendente a obstaculizar el desahogo de las pruebas referidas en los párrafos anteriores, será sancionada en términos de la presente ley.
 
 ###### Artículo 133.
 
@@ -1818,6 +1878,14 @@ V. Sentencias definitivas, las que resuelven el fondo del procedimiento de respo
 ###### Artículo 189.
 
 Las resoluciones deben ser firmadas de forma autógrafa por la autoridad que la emita y de ser el caso, por el secretario correspondiente, en términos de lo que disponen las leyes de la materia.
+
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 189 Bis.
+
+En todas las actuaciones, diligencias, resoluciones o sentencias del procedimiento, es obligación de las autoridades substanciadoras y resolutoras actuar de oficio.
+
+Adicionalmente deberán de juzgar con perspectiva de género y mediante la aplicación de los protocolos e instrumentos normativos para juzgar con perspectiva de género, así como de derechos humanos.
 
 ###### Artículo 190.
 
@@ -2460,3 +2528,39 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
 
 CUARTO. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
