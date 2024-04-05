@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2023-07-19"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -113,15 +113,17 @@ De la representación legal del Municipio.- En representación del Municipio y p
 
 El reglamento mediante el cual se otorguen facultades de representación legal y poderes, o el acuerdo del Ayuntamiento que las contenga, debidamente certificado por el Secretario Fedatario Municipal y publicado en el Periódico Oficial del Estado, tendrá en todo caso la naturaleza de documento público en los procedimientos administrativos y judiciales.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 7.
 
-Del órgano Ejecutivo del Ayuntamiento.- El Presidente Municipal, en su calidad de alcalde de la comuna, es el órgano Ejecutivo del Ayuntamiento y ostenta, en todo caso, las siguientes atribuciones:
+Del Órgano Ejecutivo del Ayuntamiento.- La persona titular de la Presidencia Municipal, en su calidad de Alcaldesa o Alcalde de la comuna, es el Órgano Ejecutivo del Ayuntamiento y ostenta, en todo caso, las siguientes atribuciones:
 
 I.- Dirigir el gobierno y la administración pública municipal, centralizada y paramunicipal;
 
-II.- Desempeñar la jefatura superior y de mando de la policía municipal así como de todo el personal adscrito al Municipio. Para el ejercicio de sus facultades, el Presidente Municipal se auxiliará de los órganos administrativos que establezca el reglamento correspondiente y tendrá la facultad de nombrar y remover a sus titulares, al personal administrativo y demás servidores públicos, salvo las excepciones que marque esta Ley;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+II.- Desempeñar la jefatura superior y de mando de la policía municipal, así como de todo el personal adscrito al Municipio. Para el ejercicio de sus facultades, la persona titular de la Presidencia Municipal se auxiliará de los órganos administrativos que establezca el reglamento correspondiente y tendrá la facultad de nombrar en Observancia del Principio de Paridad de Género y remover a las personas titulares, al personal administrativo y demás servidoras y servidores públicos, salvo las excepciones que marque esta Ley;
 
 III.- Convocar y presidir las sesiones de Cabildo, ejerciendo el voto de calidad en los casos que determine su reglamentación interior;
 
@@ -1170,3 +1172,9 @@ P.O. 23 DE JUNIO DE 2023.
 P.O. 19 DE JULIO DE 2023.
 
 ÚNICO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 406 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
