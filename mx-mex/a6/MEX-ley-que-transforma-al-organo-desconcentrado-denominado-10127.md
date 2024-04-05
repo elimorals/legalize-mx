@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-transforma-al-organo-desconcentrado-denominado-10127"
 country: "mx"
 rank: "ley"
 publication_date: "1992-08-19"
-last_updated: "1994-12-29"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE TRANSFORMA AL ORGANO DESCONCENTRADO DENOMINADO INSTITUTO DE CAPACITACION Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL (I.C.A.T.I.), EN ORGANISMO DESCENTRALIZADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 1994
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 1992.
 
@@ -45,9 +45,11 @@ LEY QUE TRANSFORMA AL ORGANO DESCONCENTRADO DENOMINADO INSTITUTO DE CAPACITACION
 
 Se transforma al Organo Desconcentrado denominado «Instituto de Capacitación y Adiestramiento para el Trabajo Industrial», identificado con las siglas I.C.A.T.I., en un Organismo Público Descentralizado, con personalidad Jurídica y patrimonio propios.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-El Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, quedará adscrito para su control sectorial a la Secretaría del Trabajo y de la Previsión Social.
+El Instituto de Capacitación y Adiestramiento para el Trabajo Industrial quedará adscrito para su control sectorial a la Secretaría del Trabajo.
 
 ###### Artículo 3.
 
@@ -65,7 +67,9 @@ IV. Incidir en la productividad de las empresas mediantes (sic) la capacitación
 
 Para el cumplimiento de sus objetivos, el Instituto de Capacitación y Adiestramiento, tendrá las siguientes facultades:
 
-I. Operar programas de capacitación y adiestramiento para el trabajo y en el trabajo, conforme a las características socio-económicas de las regiones del Estado, a las necesidades del aparato productivo y a los lineamientos que para tal efecto dicta la Secretaría del Trabajo y de la Previsión Social del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. Operar programas de capacitación y adiestramiento para el trabajo y en el trabajo, conforme a las características socio-económicas de las regiones del Estado, a las necesidades del aparato productivo y a los lineamientos que para tal efecto dicta la Secretaría del Trabajo del Gobierno del Estado.
 
 II. Prestar a las empresas servicios de asesoría en materia de capacitación y adiestramiento, para que cumplan con sus obligaciones legales en esta materia.
 
@@ -95,17 +99,29 @@ II. Un Director General.
 
 El Consejo de Administración será el órgano de gobierno del Instituto y estará integrado por:
 
-I. Un Presidente, que será el Secretario del Trabajo y de la Previsión Social;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un Vicepresidente, que será designado por el Gobernador a propuesta del Presidente;
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría del Trabajo;
 
-III. Un Secretario designado por el Gobernador a propuesta del titular de la Secretaría del Trabajo y de la Previsión Social;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IV. Seis vocales designados por el Gobernador a propuesta del titular de la Secretaría del Trabajo y de la Previsión Social.
+II. Una Vicepresidencia, que estará a cargo de la persona designada por la persona Titular del Poder Ejecutivo a propuesta de la Presidencia;
 
-V. Un Comisario designado por el Gobernador a propuesta del Secretario de la Contraloría;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VI. Dos representantes del Gobierno Federal designados por el Secretario de Educación Pública;
+III. Una Secretaría designada por la persona titular del Poder Ejecutivo a propuesta de la persona titular de la Secretaría del Trabajo;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Seis vocales designados por la persona titular del Poder Ejecutivo a propuesta de la persona titular de la Secretaría del Trabajo.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Una Comisaría que estará a cargo de la persona titular del Poder Ejecutivo a propuesta de la persona titular de la Secretaría de la Contraloría;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VI. Dos personas representantes del Gobierno Federal designadas por la persona titular de la Secretaría de Educación Pública;
 
 VII. Dos representantes empresariales a propuesta del sector industrial privado; y
 
@@ -149,11 +165,11 @@ VII. Delegar facultades generales y específicas en sus Directivos y apoderados.
 
 VIII. Las demás que se deriven de la presente ley y de los Ordenamientos Jurídicos correlativos.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 11.
 
-El Director General del ICATI será nombrado por el Consejo de Administración, a propuesta del Secretario del Trabajo y de la Previsión Social, quien tendrá las facultades que le otorga la presente Ley y el Reglamento Interior del Organismo.
+La persona titular de la Dirección General del ICATI será nombrada por el Consejo de Administración, a propuesta de la persona titular de la Secretaría del Trabajo, quien tendrá las facultades que le otorga la presente Ley y el Reglamento Interior del Organismo.
 
 ###### Artículo 12.
 
@@ -199,9 +215,11 @@ V. Las contribuciones que aparte el Sector Privado, a través de un patronato, c
 
 ### CAPITULO QUINTO. Generalidades
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
-El Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, estará sujeto a la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y sus respectivos Reglamentos.
+El Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, estará sujeto a la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y su respectivo reglamento.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -250,3 +268,39 @@ G.G. 29 DE DICIEMBRE DE 1994.
 PRIMERO.- Publíquese este decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
