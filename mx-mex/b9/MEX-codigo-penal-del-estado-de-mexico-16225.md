@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2023-12-28"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4215,6 +4215,10 @@ Comete el delito de hostigamiento sexual, quien con fines de lujuria asedie a pe
 
 Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
 
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Tratándose de una persona servidora pública de institución educativa pública o personal que se desempeñe en institución educativa privada y utilizare los medios o circunstancias que el cargo le proporciona, la pena señalada en el primer párrafo se incrementará en una mitad, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a diez años.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
@@ -4238,6 +4242,10 @@ En estos casos se impondrán penas de un año a cuatro años de prisión y de ci
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 Si el sujeto activo del delito es servidor público, además de las penas previstas se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
+
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Tratándose de una persona servidora pública de institución educativa pública o personal que se desempeñe en institución educativa privada y utilizare los medios o circunstancias que el cargo le proporciona, la pena señalada en el primer párrafo se incrementará en una mitad, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a diez años.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -7748,3 +7756,15 @@ G.G. 28 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 251.- POR EL QUE SE REFORMA EL ARTÍCULO 59, EL ARTÍCULO 60, EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 82; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 82, EL ARTÍCULO 98 BIS, EL ARTÍCULO 132 BIS Y EL ARTÍCULO 189 BIS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 269 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 269 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
