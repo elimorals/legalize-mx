@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-social-de-la-violencia-y-la-95190"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de julio de 2013.
 
@@ -323,9 +323,9 @@ La Comisión Interinstitucional para la Prevención Social de la Violencia y la 
 
 I. Secretaría General de Gobierno y Presidente de la Comisión.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Secretaría de Seguridad
+II. Secretaría de Seguridad.
 
 III. Secretaría de Finanzas.
 
@@ -333,13 +333,17 @@ IV. Secretaría de Salud.
 
 V. Secretaría del Trabajo.
 
-VI. Secretaría de Educación.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VII. Secretaría de Desarrollo Social.
+VI. Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VIII. Secretaría de Desarrollo Urbano y Obra.
+VII. Secretaría de Bienestar.
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+VIII. Secretaría de Desarrollo Urbano e Infraestructura.
 
 > <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
@@ -365,7 +369,9 @@ XV. (DEROGADA, G.G. 27 DE JULIO DE 2015)
 
 XVI. Secretaría del (sic) Movilidad.
 
-XVII. Secretaría del Medio Ambiente.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVII. Secretaría del Medio Ambiente y Desarrollo Sostenible.
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -373,7 +379,9 @@ XVIII. Fiscalía General de Justicia del Estado de México.
 
 XIX. Coordinación General de Comunicación Social.
 
-XX. Sistema de Radio y Televisión Mexiquense.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XX. Sistema Mexiquense de Medios Públicos.
 
 XXI. Sistema para el Desarrollo Integral de la Familia.
 
@@ -381,7 +389,9 @@ XXII. Comisión de Derechos Humanos del Estado de México.
 
 XXIII. Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
-Las dependencias integrantes de la Comisión Interinstitucional estarán representadas por su titular, quien podrá designar un suplente.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las dependencias, organismos auxiliares, unidades administrativas y organismos constitucionalmente autónomos que integran la Comisión, estarán representadas por su titular, quien podrá designar a una persona suplente.
 
 En los casos que así lo requiera la naturaleza de los asuntos a tratar, la Comisión Interinstitucional podrá invitar a participar en las sesiones, con voz pero sin voto, a autoridades de los tres órdenes de gobierno y organismos constitucionales autónomos, así como a representantes de organizaciones de la sociedad civil o personas de reconocido prestigio en la materia de que se trate.
 
@@ -880,3 +890,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
