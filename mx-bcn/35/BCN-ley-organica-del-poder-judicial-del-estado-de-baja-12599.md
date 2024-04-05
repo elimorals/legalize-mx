@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2024-02-09"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -407,9 +407,13 @@ XII.- Ejercer las demás atribuciones que le señale la Constitución Política 
 
 XIII.- Iniciar Leyes de Decretos ante al Congreso del Estado, en asuntos relacionados con la organización y funcionamiento de la Administración de Justicia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
 
-XIV.- Las demás que se establezcan en la Constitución local, esta Ley y demás ordenamientos.
+XIV.- Instrumentar y reglamentar como es que el Poder Judicial y sus órganos jurisdiccionales suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional DIF para integrar el Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 5 DE ABRIL DE 2024)</small>
+
+XV.- Las demás que se establezcan en la Constitución local, esta Ley y demás ordenamientos.
 
 ###### ARTICULO 30.
 
@@ -4034,3 +4038,9 @@ P.O. 9 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULO 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NÚMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 405 MEDIANTE EL CUAL “SE APRUEBA LA REFORMA EL ARTÍCULO 29 (SIC) LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
