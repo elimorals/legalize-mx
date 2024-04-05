@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-sus-13045
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2022-03-10"
+last_updated: "2024-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -171,7 +171,9 @@ XXIV. Registro Municipal: Al Registro Municipal de Trámites y Servicios que cor
 
 XXV. Regulaciones: Disposiciones de carácter general denominados reglamentos, decretos, normas técnicas, bandos, acuerdos, circulares, reglas de operación, manuales, leyes, lineamientos y demás disposiciones administrativas que afecten la esfera jurídica de los particulares;
 
-XXVI. Secretaría: A la Secretaría de Justicia y Derechos Humanos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXVI. Secretaría: A la Secretaría de Desarrollo Económico;
 
 XXVII. Servicio: A la actividad que realizan los sujetos obligados en acatamiento de algún ordenamiento jurídico, tendente a satisfacer las necesidades de los ciudadanos, mediante el cumplimento por parte de éstos de los requisitos que el ordenamiento respectivo establece;
 
@@ -279,7 +281,9 @@ XIII. Presentar al Consejo un informe anual del avance programático de Mejora R
 
 XIV. Brindar la asesoría que requieran las dependencias estatales, organismos públicos descentralizados y las Comisiones Municipales, en la materia regulada por la Ley;
 
-XV. Vigilar el funcionamiento del Sistema de Protesta Ciudadana e informar por escrito al órgano de control interno que corresponda, de los casos que tenga conocimiento sobre el presunto incumplimiento a lo previsto en esta Ley y su Reglamento; y
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XV. Vigilar el funcionamiento del Sistema de Protesta Ciudadana e informar por escrito al órgano interno de control que corresponda, de los casos que tenga conocimiento sobre el presunto incumplimiento a lo previsto en esta Ley y su Reglamento; y
 
 XVI. Las demás que establezcan las disposiciones jurídicas aplicables.
 
@@ -337,11 +341,15 @@ XIX. Las demás que le confiera el Consejo y otras disposiciones jurídicas apli
 
 El Consejo es un órgano consultivo de análisis en la materia, y de vinculación con los sujetos obligados y con los diversos sectores de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 15.
 
-El Consejo estará integrado por los titulares de:
+El Consejo estará integrado por las personas titulares de:
 
-I. El Ejecutivo Estatal, quien lo presidirá;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. Del Poder Ejecutivo, quien lo presidirá;
 
 II. La Secretaría;
 
@@ -349,25 +357,45 @@ III. La Secretaría de Finanzas;
 
 IV. La Secretaría de la Contraloría;
 
-V. La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. La Consejería Jurídica;
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V Bis. La Oficialía Mayor;
 
 VI. La Secretaría General de Gobierno;
 
-VII. Tres Presidentes Municipales designados por sus homólogos;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-VIII. Un representante de los organismos empresariales legalmente constituidos y asentados en el Estado, de acuerdo con las actividades que realizan sus agremiados: industriales, comerciales y de servicios, así como de los organismos patronales;
+VII. Tres Presidentes o Presidentas Municipales designados por sus homólogos;
 
-IX. Un representante de la Universidad Autónoma del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-X. Un representante del Colegio de Notarios del Estado de México; y
+VIII. Una persona representante de los organismos empresariales legalmente constituidos y asentados en el Estado, de acuerdo con las actividades que realizan sus agremiados: industriales, comerciales y de servicios, así como de los organismos patronales;
 
-XI. El Titular de la Comisión, quien fungirá como Secretario Técnico.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Presidente del Consejo será suplido en sus ausencias por el titular de la Secretaría.
+IX. Una persona representante de la Universidad Autónoma del Estado de México;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+X. Una persona representante del Colegio de Notarios del Estado de México; y
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XI. La persona titular de la Comisión, que estará a cargo de la Secretaría Técnica.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona que presida del Consejo será suplida en sus ausencias por la persona titular de la Secretaría.
 
 Los cargos dentro del Consejo serán de carácter honorífico. Los integrantes señalados en las fracciones VIII a la XI tendrán derecho a voz pero no a voto.
 
-El Presidente del Consejo podrá invitar a las personas o representantes de dependencias u organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán derecho a voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona que presida del (sic) Consejo podrá invitar a las personas o representantes de dependencias u organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán derecho a voz.
 
 ###### Artículo 16.
 
@@ -801,9 +829,11 @@ Cuando el dictamen final contenga opiniones relacionadas con la creación, modif
 
 En caso de discrepancia entre el Sujeto Obligado y la Comisión o las Comisiones Municipales, éstas últimas resolverán, en definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 48.
 
-La Secretaría o la autoridad homologa a nivel municipal únicamente publicarán en el Periódico Oficial “Gaceta del Gobierno” del Estado de México o en la Gaceta Municipal, según corresponda, las regulaciones que expidan los Sujetos Obligados cuando éstos acrediten contar con una resolución definitiva de la comisión o las Comisiones Municipales, respectivas. La versión que publiquen los Sujetos Obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite el Titular del Ejecutivo Estatal u homólogos en el ámbito municipal, en cuyo caso la Secretaría u homólogos en los municipios resolverán el contenido definitivo.
+La Consejería Jurídica o la autoridad homologa a nivel municipal únicamente publicarán en el Periódico Oficial “Gaceta del Gobierno” del Estado de México o en la Gaceta Municipal, según corresponda, las regulaciones que expidan los Sujetos Obligados cuando éstos acrediten contar con una resolución definitiva de la comisión o las Comisiones Municipales, respectivas. La versión que publiquen los Sujetos Obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite la persona Titular del Poder Ejecutivo Estatal u homólogos en el ámbito municipal, en cuyo caso la Consejería Jurídica u homólogos en los municipios resolverán el contenido definitivo.
 
 La Secretaria y sus homólogos a nivel municipal publicarán en el Periódico Oficial "Gaceta del Gobierno" del Estado de México o Gaceta Municipal que corresponda, dentro de los siete primeros días de cada mes, la lista que le proporcione la Comisión o las Comisiones Municipales de !os (sic) títulos de las regulaciones y los documentos a que se refiere el artículo 45.
 
@@ -1081,9 +1111,11 @@ e) Cualquier otra que pueda generar intencionalmente perjuicios o atrasos en las
 
 VIII. Incumplimiento a lo dispuesto en la fracción V del artículo 2 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 66.
 
-Las infracciones administrativas a las que se refiere el artículo anterior serán imputables al servidor público estatal o municipal que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas por el órgano de control interno competente y sancionadas con:
+Las infracciones administrativas a las que se refiere el artículo anterior serán imputables al servidor público estatal o municipal que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas por el órgano interno de control competente y sancionadas con:
 
 I. Amonestación;
 
@@ -1095,7 +1127,9 @@ IV. Destitución del empleo, cargo o comisión; y/o
 
 V. Inhabilitación de 1 a 10 años en el servicio público estatal y municipal.
 
-La Comisión dará vista a la Contraloría o al órgano de control interno que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Comisión dará vista a la Secretaría de la Contraloría o al órgano interno de control que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
 
 ###### Artículo 67.
 
@@ -1232,3 +1266,39 @@ SEXTO. El presente Decreto, no genera gasto adicional al Presupuesto del Poder E
 SÉPTIMO. La Comisión Estatal de Mejora Regulatoria emitirá el manual de funcionamiento del Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 OCTAVO. La Dirección General del Sistema Estatal de Informáitca emitirá los Lineamientos correspondientes al mantenimiento, almacenamiento, manejo y resguardo de la información y documentación contenida en el Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
