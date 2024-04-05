@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-recuperacion-y-aprovechamiento-de-alimentos-del-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-12"
-last_updated: "2019-06-12"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA RECUPERACIÓN Y APROVECHAMIENTO DE ALIMENTOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección al número 105 de la Gaceta del Gobierno del Estado de México, el miércoles 12 de junio de 2019.
 
@@ -57,9 +57,11 @@ VI. Atender prioritariamente las necesidades alimentarias de la población en si
 
 VII. Prohibir acciones que impidan el acceso a los alimentos que aún se encuentren en condiciones de ser consumidos.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
-La distribución de alimentos recuperados compete a las instituciones de gobierno; asimismo, podrán coadyuvar la sociedad civil y establecimientos comerciales en los términos que establezca la SEDESEM.
+La distribución de alimentos recuperados compete a las instituciones de gobierno; asimismo, podrán coadyuvar la sociedad civil y establecimientos comerciales en los términos que establezca la Secretaría de Bienestar.
 
 ###### Artículo 3.
 
@@ -87,7 +89,9 @@ X. Norma Oficial Mexicana: NOM-014-SSA3-2013, para la asistencia social alimenta
 
 XI. NOM-051-SCFI/SSA1-2010: Especificaciones generales de etiquetado para alimentos y bebidas no alcohólicas preenvasados-Información comercial y sanitaria;
 
-XII. SEDESEM: Secretaría de Desarrollo Social del Gobierno del Estado de México.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XII. Secretaría: Secretaría de Bienestar del Gobierno del Estado de México.
 
 ### CAPÍTULO SEGUNDO. Distribución de Competencias
 
@@ -111,9 +115,11 @@ VII. La promoción y difusión de actividades permanentes para que organismos de
 
 VIII. Las demás que esta y otras leyes le atribuyan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 5.
 
-Corresponde a la SEDESEM las siguientes atribuciones:
+Corresponde a la Secretaría las siguientes atribuciones:
 
 I. Integrar el comité de conformidad con lo establecido en el artículo 10 de la presente Ley;
 
@@ -141,17 +147,21 @@ IV. Las demás que le sean atribuidas en su ley orgánica y demás disposiciones
 
 ### CAPÍTULO TERCERO. Del Comité
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 7.
 
-El Estado deberá contar con un Comité integrado por un representante designado por el Gobierno del Estado, el titular o representante de la SEDESEM, un representante de los ayuntamientos con zonas de alta marginación, y representantes de organismos de la sociedad civil y establecimientos comerciales, quienes serán elegidos en los términos que señale el Reglamento.
+El Estado deberá contar con un Comité integrado por un representante designado por el Gobierno del Estado, el titular o representante de la Secretaría, un representante de los ayuntamientos con zonas de alta marginación, y representantes de organismos de la sociedad civil y establecimientos comerciales, quienes serán elegidos en los términos que señale el Reglamento.
 
 ###### Artículo 8.
 
 Las decisiones del Comité deberán ser públicas, así como los informes derivados de la operación de los centros de acopio o Bancos de Alimentos, ya sea que se encuentren administrados por las autoridades estatales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 9.
 
-Para el diseño de las reglas de operación, la SEDESEM tomará en consideración la Norma Oficial Mexicana, lo dispuesto en el Reglamento y las disposiciones jurídicas aplicables.
+Para el diseño de las reglas de operación, la Secretaría tomará en consideración la Norma Oficial Mexicana, lo dispuesto en el Reglamento y las disposiciones jurídicas aplicables.
 
 Asimismo, deberá considerarse la información emitida por el Comité y los siguientes lineamientos generales:
 
@@ -173,19 +183,27 @@ III. Entrega en instalaciones del donante.
 
 a) Centrales de abasto, mercados y tiendas de autoservicio podrán tener una sección de alimentos que no puedan ser comercializados pero que todavía sean aptos para consumo humano o animal, de conformidad con las disposiciones jurídicas aplicables.
 
-b) Para ser sujetos de beneficio de la donación de alimentos, deberán cubrir los requisitos que en coordinación con los municipios establecerá la SEDESEM.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-c) Los beneficiarios recibirán del donante, los lineamientos de distribución de alimentos en cuanto a cantidad, variedad y periodicidad, acorde con la disponibilidad. Estas acciones las llevarán coordinadamente la SEDESEM, los municipios y los Donatarios.
+b) Para ser sujetos de beneficio de la donación de alimentos, deberán cubrir los requisitos que en coordinación con los municipios establecerá la Secretaría.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+c) Los beneficiarios recibirán del donante, los lineamientos de distribución de alimentos en cuanto a cantidad, variedad y periodicidad, acorde con la disponibilidad. Estas acciones las llevarán coordinadamente la Secretaría, los municipios y los Donatarios.
 
 ### CAPÍTULO CUARTO. Del Acopio y Distribución de Alimentos Recuperados
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 10.
 
-La SEDESEM deberá coordinarse con la instancia correspondiente para la catalogación de las zonas de más alta marginación, así como para el desarrollo y distribución de alimentos, en los términos previstos por la presente Ley.
+La Secretaría deberá coordinarse con la instancia correspondiente para la catalogación de las zonas de más alta marginación, así como para el desarrollo y distribución de alimentos, en los términos previstos por la presente Ley.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 11.
 
-Las actividades de acopio, preservación, traslado y distribución de alimentos realizadas por las organizaciones civiles y autoridades gubernamentales deberán circunscribirse al diseño de las reglas de operación determinadas por la SEDESEM.
+Las actividades de acopio, preservación, traslado y distribución de alimentos realizadas por las organizaciones civiles y autoridades gubernamentales deberán circunscribirse al diseño de las reglas de operación determinadas por la Secretaría.
 
 ###### Artículo 12.
 
@@ -195,9 +213,11 @@ Los establecimientos comerciales que se integren al comité, podrán acceder a l
 
 En las localidades donde ya se encuentren operando organismos de la sociedad civil que realicen actividades de apoyo para la alimentación de la población no se afectarán sus esquemas de acción, ni se les obligará a formar parte del Comité. Serán notificados de su integración en el mapeo correspondiente y tendrán preferencia en el diseño para la ampliación de las acciones de acopio y distribución de alimentos.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
-La SEDESEM, en coordinación con el Comité, promoverá la participación de los centros comerciales para establecer lineamientos que permitan la recuperación de los productos perecederos, enlatados y envasados, a efecto de que éstos sean entregados a los beneficiarios dentro de un periodo razonable de tiempo para su óptimo consumo, de conformidad con la Norma Oficial Mexicana, y las disposiciones jurídicas aplicables.
+La Secretaría, en coordinación con el Comité, promoverá la participación de los centros comerciales para establecer lineamientos que permitan la recuperación de los productos perecederos, enlatados y envasados, a efecto de que éstos sean entregados a los beneficiarios dentro de un periodo razonable de tiempo para su óptimo consumo, de conformidad con la Norma Oficial Mexicana, y las disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
@@ -280,3 +300,41 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
