@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2024-02-09"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -1391,9 +1391,9 @@ VI. Crear unidades especializadas de acuerdo al tipo de victimización de la muj
 
 VII. Celebrar convenios de cooperación, coordinación y concertación en la materia,
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-VIII. Crear un registro público sistemático de las denuncias de los delitos cometidos en contra de mujeres, los índices de incidencia y reincidencia, consignación, sanción y reparación del daño, las órdenes de protección emitidas y aplicadas, sin inclusión de datos personales. Este registro se remitirá a la Base Estatal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+VIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, estado procesal, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, el cual deberá actualizarse y ser accesible en el portal electrónico de la Fiscalía. El registro deberá contener también los efectos que los hechos violentos produjeron en las víctimas, el fallecimiento o, en su caso, la discapacidad permanente;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1503,21 +1503,37 @@ Artículo 44 QUATER. Corresponde a la Secretaría de Seguridad Ciudadana, en el 
 
 I. Intervenir en la atención y prevención de la violencia contra la mujer, debiendo atender los llamados de auxilio que tenga conocimiento de los actos de violencia, canalizando a las víctimas, víctimas indirectas y agresores de violencia contra la mujer;
 
-II. Establecer programas de capacitación continua para el personal de las corporaciones que atiendan los hechos derivados de la violencia contra la mujer;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+II. Establecer programas de capacitación continua para el personal de las corporaciones que atiendan los hechos derivados de la violencia contra la mujer, desde las perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 III. Monitorear en coordinación de las Instituciones, dependencias y entidades estatales y municipales de Seguridad el cumplimiento de las órdenes de protección que son emitidas por dichas instituciones;
 
 IV. Crear mecanismos de coordinación y colaboración con las dependencias encargadas de la seguridad pública en los municipios del Estado que coadyuven en la ejecución de las medidas que garanticen la seguridad de las víctimas;
 
-V. Elaborar e instrumentar en coordinación con la Fiscalía General del Estado, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro y en la Base Estatal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+V. Elaborar e instrumentar en coordinación con la Fiscalía General del Estado, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, cometidos en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro y en la Base Estatal;
 
 VI. Recibir de las organizaciones no gubernamentales, civiles y sociales, propuestas y recomendaciones sobre la prevención, atención, sanción y erradicación de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación.
 
 La Secretaría de Seguridad Ciudadana, analizará en conjunto con el Instituto de la Mujer para el Estado, la información proporcionada, para su debida remisión a la Base Estatal.
 
-VII. Diseñar y establecer, un modelo de seguridad, basado en igualdad con perspectiva de género, para atender a víctimas, así como las estrategias de proximidad policial a que haya lugar; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
 
-VIII. Las demás que le atribuyan otros ordenamientos legales en materia.
+VII. Diseñar y establecer, un modelo de seguridad, basado en igualdad con perspectiva de género, para atender a víctimas, así como las estrategias de proximidad policial a que haya lugar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+VIII. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+
+IX. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 5 DE ABRIL DE 2024)</small>
+
+X. Las demás que le atribuyan otros ordenamientos legales en materia.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -1952,3 +1968,9 @@ P.O. 9 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 377 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 43, 114, 119, 129, 142 BIS, 293 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA ADICIÓN DE LOS NUMERALES 129 BIS, 129 TER Y 143 TER AL MISMO ORDENAMIENTO; SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 408 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 42 Y 44 QUATER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día el día siguiente al de su publicación en el Periódico Oficial de Baja California.
