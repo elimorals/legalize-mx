@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -87,17 +87,25 @@ XI. El establecimiento de un régimen sancionatorio que castigue la contaminaci�
 
 La aplicación de esta Ley corresponde, en el ámbito competencial respectivo, a las siguientes autoridades:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+I. La persona titular de Poder Ejecutivo del Estado;
 
-II. El Secretario de Desarrollo Urbano y Obra;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. El Vocal Ejecutivo de la Comisión;
+II. La persona titular de la Secretaría del Agua;
 
-IV. El Comisionado Presidente de la Comisión Técnica;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Los Presidentes Municipales; y
+III. La persona titular de la Vocalía Ejecutiva de la Comisión;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. La persona Comisionada Presidenta de la Comisión Técnica;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Los Presidentes o Presidentas Municipales; y
 
 VI. Los organismos operadores.
 
@@ -107,7 +115,9 @@ Los grupos organizados de usuarios, así como los concesionarios y permisionario
 
 Son sujetos de las disposiciones de esta Ley:
 
-I. Las dependencias estatales y municipales vinculadas con la materia de la presente Ley;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. La Secretaría del Agua, y las dependencias estatales y municipales vinculadas con la materia de la presente Ley;
 
 II. La Comisión;
 
@@ -229,7 +239,9 @@ XXXVIII. Gestión financiera: El ciclo del ejercicio presupuestal anual que es d
 
 XXXIX. Gestión integral del agua: Procesos asociados a la prestación de los servicios relacionados con los recursos hídricos, considerando su calidad, disponibilidad y los usos a los que se destinan, así como los costos del servicio del agua, y que, sin comprometer la sustentabilidad de los ecosistemas, deben orientarse a maximizar el bienestar social y económico de la población;
 
-XL. Gobernador del Estado: El titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XL. Gobernador o Gobernadora: A la persona titular del Poder Ejecutivo del Estado;
 
 XLI. Grupos organizados de usuarios: Conjunto de ciudadanos, constituidos o no bajo una figura jurídica determinada, diferentes de los prestadores de los servicios, que prestan el servicio de agua potable;
 
@@ -285,9 +297,9 @@ LX. Reúso: La utilización de aguas tratadas;
 
 LXI. Saneamiento: La conducción, alejamiento, descarga y, en su caso, tratamiento de las aguas residuales y la disposición final de sus productos resultantes;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-LXII. Secretaría: A la Secretaría de Desarrollo Urbano y Obra;
+LXII. Secretaría: A la Secretaría del Agua;
 
 LXIII. Seguridad hidráulica: La preservación, conservación y mantenimiento de las obras hidráulicas estatales y municipales, incluyendo sus zonas de protección, para su debido resguardo y adecuado funcionamiento, así como los criterios para construir y operar obras hidráulicas para el control de avenidas y protección contra inundaciones;
 
@@ -541,9 +553,9 @@ VI. Decretar la intervención de servicios de jurisdicción estatal concesionado
 
 VII. Las demás que le otorguen esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRA
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DEL AGUA
 
 ###### Artículo 16.
 
@@ -599,7 +611,9 @@ XXIII. Representar al Estado de México en todo lo relacionado con la materia de
 
 XXIV. Fomentar la participación de la sociedad en la planeación y ejecución de la política hídrica estatal; y
 
-XXV. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXV. Las demás que le señalen esta ley y otras disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
 
 #### SECCIÓN TERCERA. DE LA COMISIÓN DEL AGUA DEL ESTADO DE MÉXICO
 
@@ -709,13 +723,17 @@ La dirección de la Comisión estará a cargo de un Consejo Directivo y un Vocal
 
 El Consejo Directivo será la máxima autoridad de la Comisión y estará integrado por:
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un presidente, quien será la persona titular de la Secretaría;
+I. Una Presidencia, que estará cargo de la persona titular de la Secretaría;
 
-II. Un secretario técnico, que será el Vocal Ejecutivo;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Un comisario, nombrado por la Secretaría de la Contraloría; y
+II. Una Secretaría Técnica, que estará cargo de la persona titular de la Vocalía Ejecutiva;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una Comisaría, que estará cargo de la persona nombrada por la persona titular de la Secretaría de la Contraloría; y
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -729,15 +747,23 @@ b) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 c) Secretaría del Campo;
 
-d) Secretaría del Medio Ambiente;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+d) Secretaría del Medio Ambiente y Desarrollo Sostenible;
 
 e) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-f) Un representante de la Comisión Técnica; y
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-g) Dos representantes de los organismos operadores, invitados por el Gobernador del Estado.
+f) Una persona representante de la Comisión Técnica; y
 
-Los integrantes del consejo directivo tendrán derecho a voz y voto, con excepción del secretario técnico y el comisario. El cargo de integrante del consejo directivo será honorífico.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+g) Dos personas representantes de los organismos operadores, invitadas por la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes del Consejo Directivo tendrán derecho a voz y voto, con excepción de la Secretaría Técnica y la Comisaría. El cargo de integrante del consejo directivo será honorífico.
 
 La organización y funcionamiento de la Comisión se regirá por su Reglamento Interior.
 
@@ -887,33 +913,55 @@ XXVIII. Las demás que le otorgue la presente Ley, su Reglamento y otras disposi
 
 La Comisión Técnica tendrá un consejo directivo integrado de la siguiente manera:
 
-I. El Presidente, que será propuesto por el Gobernador del Estado a la aprobación de la Legislatura del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-II. Un secretario técnico, que será nombrado por el Presidente de la Comisión Técnica;
+I. La Presidencia, que estará cargo de la persona propuesta por la persona titular del Poder Ejecutivo del Estado a la aprobación de la Legislatura del Estado de México;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+II. Una Secretaría Técnica, que estará cargo de la persona nombrada por la Presidencia de la Comisión Técnica;
 
 III. Trece vocales:
 
-a) El Secretario de Medio Ambiente;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+a) La persona titular de la Secretaría del Medio Ambiente y Desarrollo Sostenible;
 
-b) El Secretario del Campo;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-c) El Secretario de Salud;
+b) La persona titular de la Secretaría del Campo;
 
-d) El Secretario de Educación;
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-e) El Vocal Ejecutivo de la Comisión;
+c) La persona titular de la Secretaría de Salud;
 
-f) Cuatro Presidentes Municipales, electos conforme al procedimiento previsto por el Reglamento; y
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-g) Cuatro representantes de sector social, propuestos por los organismos operadores y electos conforme a las bases previstas en el Reglamento;
+d) La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-IV. Un comisario, designado por la Secretaría de la Contraloría.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los integrantes del consejo directivo tendrán derecho a voz y voto, con excepción del secretario técnico y del comisario, quien sólo tendrá derecho a voz. En caso de empate, el Presidente tendrá voto de calidad.
+e) La persona titular de la Vocalía Ejecutiva de la Comisión;
 
-El Presidente del consejo directivo y los vocales tendrán un suplente, propuesto por su propietario. En el caso de los vocales representantes del Gobierno del Estado y de los municipios, el servidor público propuesto deberá ser del nivel inmediato inferior al titular.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+f) Cuatro Presidentes o Presidentas Municipales, electos conforme al procedimiento previsto por el Reglamento; y
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+g) Cuatro personas representantes del sector social, propuestos por los organismos operadores y electos conforme a las bases previstas en el Reglamento;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. Una comisaría, que estará cargo de la persona designada por la Secretaría de la Contraloría.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Los integrantes del consejo directivo tendrán derecho a voz y voto, con excepción del secretario técnico y del comisario, quien sólo tendrá derecho a voz. En caso de empate, la persona que presida el Consejo tendrá voto de calidad.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona que presida el Consejo Directivo y los vocales tendrán una persona suplente, propuesta por su propietario. En el caso de los vocales representantes del Gobierno del Estado y de los municipios, la persona servidora pública propuesta deberá ser del nivel inmediato inferior al titular.
 
 El cargo de miembro del consejo directivo será honorífico.
 
@@ -1855,11 +1903,11 @@ Son objeto de concesión la construcción, operación, conservación y/o manteni
 
 Las concesiones se otorgarán mediante concurso público, en el que se establecerán los mismos requisitos y condiciones para todos los participantes, a personas físicas o jurídicas colectivas, en los términos que se establezcan en la presente Ley, su Reglamento y las bases que al efecto se emitan.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 112.
 
-El único facultado para firmar el título de concesión es el Secretario de Desarrollo Urbano y Obra, quien podrá encomendar a la Comisión la tramitación del concurso. Tratándose de jurisdicción municipal, el otorgamiento de concesiones es facultad del Municipio, en términos de la legislación aplicable.
+La única facultada para firmar el título de concesión es la persona titular de la Secretaría, quien podrá encomendar a la Comisión la tramitación del concurso. Tratándose de jurisdicción municipal, el otorgamiento de concesiones es facultad del Municipio, en términos de la legislación aplicable.
 
 ###### Artículo 113.
 
@@ -3114,3 +3162,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
