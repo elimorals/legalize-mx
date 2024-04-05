@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -49,9 +49,13 @@ La presente Ley es de orden público e interés social, tiene por objeto regular
 
 Para los efectos de esta Ley se entiende por:
 
-I. Consejo Técnico: al Consejo Técnico del Instituto de la Defensoría Pública del Estado de México;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE ABRIL DE 2024)</small>
 
-I Bis. (DEROGADA, G.G. 19 DE ABRIL DE 2021)
+I. Consejería Jurídica: a la Consejería Jurídica del Gobierno del Estado de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 5 DE ABRIL DE 2024)</small>
+
+I Bis. Consejo Técnico: al Consejo Técnico del Instituto de la Defensoría Pública del Estado de México;
 
 > <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
@@ -65,9 +69,9 @@ III. Defensor Público Especializado: a la persona del servicio público que pre
 
 IV. Defensores Públicos: a las personas que presten servicios como Defensores Públicos y Defensores Públicos Especializados del Instituto;
 
-> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Director: a la persona titular de la Dirección General del Instituto de la Defensoría Pública del Estado de México;
+V. Director o Directora: a la persona titular de la Dirección General del Instituto de la Defensoría Pública del Estado de México;
 
 VI. Instituto: al Instituto de la Defensoría Pública del Estado de México;
 
@@ -77,9 +81,7 @@ VII. Ley: a la Ley de Defensoría Pública del Estado de México;
 
 VIII. Reglamento: al Reglamento Interior del Instituto de la Defensoría de (sic) Pública del Estado de México;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
-
-IX. Secretario: a la persona titular de la Secretaría de Justicia y Derechos Humanos;
+IX. (DEROGADA, G.G. 5 DE ABRIL DE 2024)
 
 > <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
@@ -89,11 +91,11 @@ X. Unidad de Medida y Actualización: a la Unidad de cuenta, índice, medida o r
 
 XI. Usuario: a la persona destinataria del servicio público que presta el Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-El Instituto es un órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en las materias penal, y especializada en el Sistema Integral de Justicia Penal para Adolescentes; asistencia jurídica en procedimientos de responsabilidades administrativas, en términos de las disposiciones jurídicas aplicables, así como patrocinio civil, familiar, mercantil y de amparo en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
+El Instituto es un órgano desconcentrado de la Consejería Jurídica, con autonomía técnica y operativa, cuyo objeto es operar, coordinar y dirigir la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en las materias penal, y especializada en el Sistema Integral de Justicia Penal para Adolescentes; asistencia jurídica en procedimientos de responsabilidades administrativas, en términos de las disposiciones jurídicas aplicables, así como patrocinio civil, familiar, mercantil y de amparo en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
 
 Los servidores públicos del Instituto deberán regirse bajo los siguientes principios:
 
@@ -207,13 +209,15 @@ Los servidores públicos del Instituto no percibirán retribución alguna de los
 
 El Instituto estará integrado por un Director General, las unidades administrativas, la plantilla de defensores públicos, peritos y trabajadores sociales que se requieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 12.
 
-El Instituto estará a cargo de un Director, nombrado por el Secretario.
+El Instituto estará a cargo de una persona titular de la Dirección General, nombrada por la persona titular de la Consejería Jurídica.
 
-El Director del Instituto deberá reunir para su designación, los requisitos siguientes:
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La persona titular de la Dirección General deberá reunir para su designación, los requisitos siguientes:
 
 I. Ser mexicano por nacimiento y vecino del Estado con residencia efectiva de cinco años anteriores a la fecha de su nombramiento, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -343,23 +347,25 @@ XIV. Observar de manera obligatoria y con especialización en la materia, lo dis
 
 XV. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, esta Ley y otras disposiciones jurídicas señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
-El Director, además de las que se señalen en otros ordenamientos, tendrá las siguientes atribuciones y facultades:
+La persona titular de la Dirección General, además de las que se señalen en otros ordenamientos, tendrá las siguientes atribuciones y facultades:
 
 I. Considerar los acuerdos del Consejo Técnico, dictando las medidas necesarias para su cumplimiento;
 
 II. Autorizar con su firma los actos de autoridad que el Instituto ordene, pudiendo delegar esta facultad en subalternos servidores públicos;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Designar y remover, previo acuerdo con el Secretario, a los servidores públicos del Instituto y expedir, en su caso, los nombramientos respectivos;
+III. Designar y remover, previo acuerdo con la persona titular de la Consejería Jurídica, a las personas servidoras públicas del Instituto y expedir, en su caso, los nombramientos respectivos;
 
 IV. Administrar, dirigir, organizar, planear, controlar y evaluar los servicios del Instituto, así como el funcionamiento del mismo;
 
-> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-V. Asignar el número de Defensores Públicos que se requieran en las áreas de asesoría del Instituto, en las agencias del Ministerio Público, juzgados, tribunales, área de asesorías, y salas del Tribunal Superior de Justicia, contralorías y órganos de control interno;
+V. Asignar el número de Defensores Públicos que se requieran en las áreas de asesoría del Instituto, en las agencias del Ministerio Público, juzgados, tribunales, área de asesorías, y salas del Tribunal Superior de Justicia, contralorías y órganos internos de control;
 
 VI. Asignar el número de defensores públicos especializados que se requieran en las agencias del Ministerio Público de adolescentes, juzgados de adolescentes y salas especializadas de adolescentes;
 
@@ -369,13 +375,13 @@ VII. Determinar la circunscripción y organización de las coordinaciones region
 
 VIII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles, de responsabilidades administrativas y en materia de amparo, así como las excusas de los Defensores Públicos;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-IX. Suscribir, previo acuerdo con el Secretario, los convenios, contratos o acuerdos con dependencias o entidades de la Administración Pública Federal, Estatal, Municipal y con organismos del sector público, privado y social;
+IX. Suscribir, previo acuerdo con la persona titular de la Consejería Jurídica, los convenios, contratos o acuerdos con dependencias o entidades de la Administración Pública Federal, Estatal, Municipal y con organismos del sector público, privado y social;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-X. Presentar al Secretario, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
+X. Presentar a la persona titular de la Consejería Jurídica, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
 
 > <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
@@ -383,9 +389,9 @@ XI. Establecer los sistemas necesarios para supervisar, vigilar y controlar a lo
 
 XII. Propugnar en todo momento porque los defensores públicos tengan los espacios necesarios en sus adscripciones para el desempeño de sus funciones y donde atiendan con respeto y dignidad a los usuarios;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XIII. Proponer al Secretario el otorgamiento de estímulos y recompensas a los servidores públicos del Instituto y la aplicación de sanciones disciplinarias;
+XIII. Proponer a la persona titular de la Consejería Jurídica el otorgamiento de estímulos y recompensas a los servidores públicos del Instituto y la aplicación de sanciones disciplinarias;
 
 XIV. Conceder licencias a los servidores públicos del Instituto para separarse temporalmente de sus funciones, en términos de las disposiciones legales;
 
@@ -413,9 +419,9 @@ XX. Vigilar y controlar de manera periódica el número de procesos activos a ca
 
 XXI. Fijar un número promedio de tres Defensores Públicos por juzgado, y ministerio público, distribuidos de acuerdo con las necesidades de cada materia y distrito, como dos peritos por distrito judicial, y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], G.G. 27 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XXII. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
+XXII. Las demás que le señalen las disposiciones legales aplicables y la persona titular de la Consejería Jurídica.
 
 ### CAPÍTULO IV. DEL CONSEJO TÉCNICO
 
@@ -902,3 +908,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
