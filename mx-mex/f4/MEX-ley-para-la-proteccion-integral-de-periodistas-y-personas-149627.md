@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integral-de-periodistas-y-personas-14962
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-31"
-last_updated: "2023-06-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Segunda del Número 100 de la Gaceta del Gobierno del Estado de México, el lunes 31 de mayo de 2021.
 
@@ -115,7 +115,9 @@ Las resoluciones que emita la Junta de Gobierno serán obligatorias para las aut
 
 La Junta de Gobierno se integra por:
 
-I. La persona titular de la Secretaría de Justicia y Derechos Humanos, quien lo presidirá;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I. La persona titular de la Consejería Jurídica, quien lo presidirá;
 
 II. La persona titular de la Fiscalía General de Justicia del Estado de México;
 
@@ -125,7 +127,9 @@ IV. La persona titular de la Coordinación Ejecutiva del Mecanismo, quien fungir
 
 V. Cuatro representantes del Consejo Consultivo elegidos de entre sus miembros.
 
-Las personas integrantes de la Junta de Gobierno deberán nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico de Director General o equivalente.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Las personas integrantes de la Junta de Gobierno deberán nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico de Director o Directora General o equivalente.
 
 Para el caso de la fracción V las personas suplentes serán designadas por el propio órgano al que se refiere la fracción.
 
@@ -241,15 +245,19 @@ X. Presentar a la Junta de Gobierno un informe anual de actividades.
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN EJECUTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 17.
 
-La Coordinación Ejecutiva es el órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos encargado de proteger, promover y garantizar la seguridad de Periodistas y las Personas Defensoras de Derechos Humanos; así como fomentar las políticas públicas de capacitación y de coordinación interinstitucional en la materia para prevenir acciones que vulneren o amenacen la integridad de dichas personas.
+La Coordinación Ejecutiva es el órgano desconcentrado de la Consejería Jurídica encargado de proteger, promover y garantizar la seguridad de Periodistas y las Personas Defensoras de Derechos Humanos; así como fomentar las políticas públicas de capacitación y de coordinación interinstitucional en la materia para prevenir acciones que vulneren o amenacen la integridad de dichas personas.
 
 La Coordinación Ejecutiva será la instancia responsable de operar el Mecanismo y de coordinar su funcionamiento con las Dependencias y Organismos Auxiliares de la Administración Pública Estatal, los Poderes Legislativo y Judicial, los municipios y los organismos constitucionales autónomos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 18.
 
-La Coordinación Ejecutiva estará a cargo de quien designe la persona titular de la Secretaría de Justicia y Derechos Humanos.
+La Coordinación Ejecutiva estará a cargo de quien designe la persona titular de la Consejería Jurídica.
 
 Los requisitos para ser titular serán los siguientes:
 
@@ -337,9 +345,11 @@ VIII. Auxiliar a la Persona Peticionaria o Beneficiaria en la presentación de q
 
 IX. Las demás que le encomiende la persona titular de la Coordinación Ejecutiva o el Mecanismo.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 22.
 
-La Unidad de Recepción de Casos y Reacción Rápida se integra por al menos cinco personas expertas en materia de evaluación de riesgo y protección. Una de ellas deberá serlo en la defensa de derechos humanos y otra del ejercicio del periodismo y la libertad de expresión. Asimismo, se conforma por un representante de la Secretaría de Justicia y Derechos Humanos y de la Secretaría de Seguridad, quienes tendrán atribuciones para la implementación de las Medidas Urgentes de Protección.
+La Unidad de Recepción de Casos y Reacción Rápida se integra por al menos cinco personas expertas en materia de evaluación de riesgo y protección. Una de ellas deberá serlo en la defensa de derechos humanos y otra del ejercicio del periodismo y la libertad de expresión. Asimismo, se conforma por un representante de la Consejería Jurídica y de la Secretaría de Seguridad, quienes tendrán atribuciones para la implementación de las Medidas Urgentes de Protección.
 
 ###### Artículo 23.
 
@@ -892,3 +902,39 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
