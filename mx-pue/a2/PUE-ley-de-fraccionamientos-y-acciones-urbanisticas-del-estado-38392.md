@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fraccionamientos-y-acciones-urbanisticas-del-estado-3839
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2022-12-22"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 25 de febrero de 2004.
 
@@ -277,7 +277,9 @@ LV. Relotificación.- La modificación total o parcial de la lotificación origi
 
 LVI. Revaluación.- La revisión de los valores catastrales tendiente a determinar su monto actualizado, de conformidad con los procedimientos catastrales vigentes;
 
-LVII. Secretaría.- La Secretaría de Desarrollo Urbano, Ecología y Obras Públicas;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+LVII. Secretaría.- La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 LVIII. Servicio público.- La actividad organizada, pública o concesionada, que se realice conforme a las leyes vigentes en el Estado, con el fin de satisfacer necesidades de interés general en forma obligatoria, regular, continua, uniforme y en igualdad de condiciones;
 
@@ -1662,3 +1664,11 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN LVII DEL ARTÍCULO 3 DE LA LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
