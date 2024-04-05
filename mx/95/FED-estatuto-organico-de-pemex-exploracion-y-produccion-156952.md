@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-156952"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-03-31"
-last_updated: "2022-03-31"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156952&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-03-28"
 ---
 # ESTATUTO ORGANICO DE PEMEX EXPLORACION Y PRODUCCION
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopep_202403.pdf Y www.dof.gob.mx/2024/PEMEX/mod_eopep_202403.pdf]</small>
+
 ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el jueves 31 de marzo de 2022.
 
@@ -979,6 +981,10 @@ b) Gerencia de Medición y Balances
 
 c) Gerencia de Comercialización de Hidrocarburos
 
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+d) Gerencia de Acondicionamiento de Hidrocarburos Marinas
+
 9. Subdirección Técnica de Exploración y Producción
 
 a) Gerencia de Planes de Explotación
@@ -993,9 +999,11 @@ e) Gerencia de Recursos Técnicos Especializados
 
 f) Gerencia de Innovación e Inteligencia Tecnológica
 
-g) Gerencia de Aseguramiento Técnico de Exploración
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-h) Gerencia de Aseguramiento Técnico de Explotación
+g) Gerencia de Aseguramiento Técnico de Exploración y Explotación
+
+h) (DEROGADO, D.O.F. 5 DE ABRIL DE 2024)
 
 i) Gerencia de Certificación de Reservas de Hidrocarburos
 
@@ -1037,9 +1045,9 @@ d) Gerencia de Caracterización y Evaluación Dinámica de Campos Estratégicos
 
 e) Gerencia de Ejecución y Seguimiento de Pozos de Desarrollo
 
-f) Gerencia de Diseño de Proyectos de Infraestructura Estratégica
+f) (DEROGADO, D.O.F. 5 DE ABRIL DE 2024)
 
-g) Gerencia de Ingeniería de Proyectos de Infraestructura Estratégica
+g) (DEROGADO, D.O.F. 5 DE ABRIL DE 2024)
 
 h) Gerencia de Supervisión de Proyectos de Infraestructura Estratégica
 
@@ -1058,6 +1066,16 @@ e) Gerencia de Perforación y Reparación de Pozos Marina
 f) Gerencia de Servicios a Pozos
 
 g) Gerencia de Servicios de Perforación e Intervenciones a Pozos
+
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+14. Subdirección de Diseño e Ingeniería de Infraestructura y Obras de Explotación
+
+a) Gerencia de Diseño de Proyectos Industriales
+
+b) Gerencia de Ingeniería de Infraestructura Terrestre
+
+c) Gerencia de Ingeniería de Infraestructura Marina
 
 ### CAPÍTULO SEGUNDO. DE LA SUBDIRECCIÓN DE EXPLORACIÓN
 
@@ -1403,7 +1421,9 @@ VII. Coordinar, con los Activos de Producción, la actualización y control del 
 
 VIII. Vigilar y promover que el manejo, transporte y disposición final de residuos peligrosos que genere el área productiva sea acorde a los lineamientos en materia ambiental, y
 
-IX. Proporcionar y coordinar la ejecución de los trabajos y/o servicios de ingeniería, construcción de obras y mantenimiento a ductos e instalaciones por terceros.
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IX. Proporcionar y coordinar la ejecución de los trabajos de construcción de obras y mantenimiento a ductos e instalaciones por terceros.
 
 ###### Artículo 57.
 
@@ -1533,7 +1553,9 @@ VII. Coordinar, con los Activos de Producción, la actualización y control del 
 
 VIII. Vigilar y promover que el manejo, transporte y disposición final de residuos peligrosos que genere el área productiva sea acorde a los lineamientos en materia ambiental, y
 
-IX. Proporcionar y coordinar la ejecución de los trabajos y/o servicios de ingeniería, construcción de obras y mantenimiento a ductos e instalaciones por terceros.
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IX. Proporcionar y coordinar la ejecución de los trabajos de construcción de obras y mantenimiento a ductos e instalaciones por terceros.
 
 ###### Artículo 62.
 
@@ -1663,7 +1685,9 @@ VII. Coordinar, con los Activos de Producción, la actualización y control del 
 
 VIII. Vigilar y promover que el manejo, transporte y disposición final de residuos peligrosos que genere el área productiva sea acorde a los lineamientos en materia ambiental;
 
-IX. Proporcionar y coordinar la ejecución de los trabajos y/o servicios de ingeniería, construcción de obras y mantenimiento a ductos e instalaciones, por terceros;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IX. Proporcionar y coordinar la ejecución de los trabajos de construcción de obras y mantenimiento a ductos e instalaciones por terceros;
 
 X. Atender a las áreas en situaciones de emergencia en el ámbito de su competencia, y
 
@@ -1797,7 +1821,9 @@ VII. Coordinar, con los Activos de Producción, la actualización y control del 
 
 VIII. Coordinar que el manejo, transporte y disposición final de residuos peligrosos que genere el área productiva sea acorde a los lineamientos emitidos en materia ambiental;
 
-IX. Proporcionar y coordinar la ejecución de los trabajos y/o servicios de ingeniería, construcción de obras y mantenimiento a ductos e instalaciones, por terceros;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IX. Proporcionar y coordinar la ejecución de los trabajos de construcción de obras y mantenimiento a ductos e instalaciones por terceros;
 
 X. Atender a las áreas en situaciones de emergencia en el ámbito de su competencia, y
 
@@ -1873,25 +1899,39 @@ XVI. Gestionar con las áreas correspondientes el manejo y disposición final de
 
 La Subdirección de Mantenimiento, Logística e Infraestructura Complementaria tendrá las funciones siguientes:
 
-I. Proveer servicios de ingeniería y construcción de obras complementarias a las áreas de Pemex Exploración y Producción;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+I. Proveer servicios de construcción de obras complementarias a las áreas de Pemex Exploración y Producción;
 
 II. Proveer servicios de logística, de contingencias por derrame y/o fugas, y de construcción, mantenimiento y/o reparación de vías de acceso a las áreas de Pemex Exploración y Producción;
 
 III. Proveer servicios de mantenimiento estático y confiabilidad proporcionados por terceros;
 
-IV. Identificar e implementar las acciones correctivas en caso de potenciales retrasos, incumplimientos o desviaciones en la prestación de servicios de ingeniería y construcción de obras complementarias, servicios de logística, servicios de mantenimiento estático y confiabilidad;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Identificar e implementar las acciones correctivas en caso de potenciales retrasos, incumplimientos o desviaciones en la prestación de servicios de construcción de obras complementarias, servicios de logística, servicios de mantenimiento estático y confiabilidad;
 
 V. Participar o, en su caso, atender las consultas, los reclamos y proporcionar información para la resolución de controversias y conciliaciones derivados de aspectos técnicos y administrativos relacionados con la ejecución de los contratos de los proyectos de inversión y aquellos otros en los que intervenga;
 
-VI. Coordinar la elaboración de programas de ejecución de servicios de ingeniería y obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios logísticos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-VII. Gestionar ante el área competente de Pemex la contratación de servicios de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+VI. Coordinar la elaboración de programas de ejecución de servicios de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios logísticos;
 
-VIII. Coordinar la entrega de servicios de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y de servicios de logística;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-IX. Administrar y supervisar los contratos de servicios de ingeniería y obras complementarias, servicios de mantenimiento estático y confiabilidad y servicios de logística;
+VII. Gestionar ante el área competente de Pemex la contratación de servicios de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
 
-X. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los contratos de servicios de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad y servicios de logística;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+VIII. Coordinar la entrega de servicios de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IX. Administrar y supervisar los contratos de servicios de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+X. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los contratos de servicios de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
 
 XI. Vigilar y evaluar el desempeño en la administración y manejo de los residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios;
 
@@ -1905,17 +1945,29 @@ XIV. Dirigir la gestión, administración, seguimiento y control de los bienes y
 
 La Gerencia de Programación y Evaluación tendrá las funciones siguientes:
 
-I. Integrar los programas de ejecución de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística alineados a los proyectos de inversión;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-II. Dar seguimiento, evaluar y controlar los costos asociados a la ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+I. Integrar los programas de ejecución de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística alineados a los proyectos de inversión;
 
-III. Dar seguimiento y controlar la prestación de servicios en materia de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-IV. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los contratos de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+II. Dar seguimiento, evaluar y controlar los costos asociados a la construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
 
-V. Integrar los requerimientos de inversión de servicios de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística para su programación;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-VI. Coordinar la identificación e implementación de acciones de mejora en la prestación de servicios de ingeniería y construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y de servicios de logística;
+III. Dar seguimiento y controlar la prestación de servicios en materia de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los contratos de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+V. Integrar los requerimientos de inversión de servicios de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y servicios de logística para su programación;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+VI. Coordinar la identificación e implementación de acciones de mejora en la prestación de servicios de construcción de obras complementarias, servicios de mantenimiento estático y confiabilidad, y de servicios de logística;
 
 VII. Integrar y documentar los requerimientos de información en su ámbito de competencia, y
 
@@ -1925,17 +1977,29 @@ VIII. Coordinar la gestión, administración, seguimiento y control de los biene
 
 La Gerencia de Mantenimiento e Infraestructura Complementaria Marina tendrá las funciones siguientes:
 
-I. Proveer servicios de mantenimiento estático, confiabilidad, ingeniería, obras de infraestructura complementaria por contrato para ductos e instalaciones marinas, y terrestres en las regiones marinas;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-II. Integrar y gestionar ante la Gerencia de Programación y Evaluación la contratación de los servicios de mantenimiento estático, confiabilidad, ingeniería, obras de infraestructura complementaria marina, y terrestre en las regiones marinas;
+I. Proveer servicios de mantenimiento estático, confiabilidad, obras de infraestructura complementaria por contrato para ductos e instalaciones marinas y terrestres en las regiones marinas;
 
-III. Elaborar los aspectos técnicos de los modelos de contratación y las bases de concurso respecto de servicios de mantenimiento estático, confiabilidad, ingeniería, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-IV. Administrar y supervisar contratos de servicios de mantenimiento estático, confiabilidad, ingeniería, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+II. Integrar y gestionar ante las áreas competentes de Pemex la contratación de los servicios de mantenimiento estático, confiabilidad, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
 
-V. Programar la prestación de servicios con base en los requerimientos de mantenimiento estático, confiabilidad, ingeniería, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-VI. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los servicios de mantenimiento estático, confiabilidad, ingeniera, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+III. Elaborar los aspectos técnicos de los modelos de contratación y las bases de concurso respecto de servicios de mantenimiento estático, confiabilidad, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Administrar y supervisar contratos de servicios de mantenimiento estático, confiabilidad, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+V. Programar la prestación de servicios con base en los requerimientos de mantenimiento estático, confiabilidad, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+VI. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los servicios de mantenimiento estático, confiabilidad, obras de infraestructura complementaria marina y terrestre en las regiones marinas;
 
 VII. Inspeccionar la integridad mecánica y confiabilidad de ductos e instalaciones marinas y terrestres en las regiones marinas, por terceros;
 
@@ -1947,13 +2011,17 @@ X. Coordinar la implementación y el proceso de entrega de los servicios de mant
 
 XI. Atender a las áreas en situaciones de emergencia, y
 
-XII. Desarrollar ingeniería y obras de infraestructura complementaria en instalaciones marinas y terrestres en las regiones marinas, por terceros.
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XII. Desarrollar obras de Infraestructura complementaria en instalaciones marinas y terrestres en las regiones marinas, por terceros.
 
 ###### Artículo 77.
 
 La Gerencia de Servicios de Logística Marina tendrá las funciones siguientes:
 
-I. Integrar y gestionar ante la Gerencia de Programación y Evaluación la contratación de servicios logísticos a la operación marina de Exploración y Producción;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+I. Integrar y gestionar ante las áreas competentes de Pemex la contratación de servicios logísticos a la operación marina de Exploración y Producción;
 
 II. Elaborar los aspectos técnicos de los modelos de contratación y las bases de concurso para los servicios logísticos a la operación marina de Exploración y Producción;
 
@@ -1979,7 +2047,9 @@ XI. Asistir a las áreas de Pemex Exploración y Producción y, en su caso a ter
 
 La Gerencia de Servicios de Logística Terrestre tendrá las funciones siguientes:
 
-I. Integrar y gestionar ante la Gerencia de Programación y Evaluación la contratación de servicios terrestres de logística, de contingencias por derrame y/o fugas, y de mantenimiento y/o reparación de vías de acceso, de Exploración y Producción;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+I. Integrar y gestionar ante las áreas competentes de Pemex la contratación de servicios terrestres de logística, de contingencias por derrame y/o fugas, y de mantenimiento y/o reparación de vías de acceso, de Exploración y Producción;
 
 II. Elaborar los aspectos técnicos de los modelos de contratación y las bases de concurso para los servicios terrestres de logística, de contingencias por derrame y/o fugas, y de mantenimiento y/o reparación de vías de acceso, de Exploración y Producción;
 
@@ -2005,15 +2075,25 @@ La Gerencia de Mantenimiento e Infraestructura Complementaria Terrestre tendrá 
 
 I. Proveer servicios de mantenimiento estático y confiabilidad por contrato para ductos e instalaciones terrestres;
 
-II. Integrar y gestionar ante la Gerencia de Programación y Evaluación la contratación de servicios de mantenimiento estático, confiabilidad, ingeniería y obras complementarias;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-III. Elaborar los aspectos técnicos de los modelos de contratación y las bases de concurso respecto de servicios de mantenimiento estático, confiabilidad, contratación de ingeniería y construcción de infraestructura complementaria terrestre;
+II. Integrar y gestionar ante las áreas competentes de Pemex la contratación de servicios de mantenimiento estático, confiabilidad y obras complementarias;
 
-IV. Administrar y supervisar contratos de servicios de mantenimiento estático, confiabilidad, ingeniería y construcción de infraestructura complementaria terrestre;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-V. Programar la prestación de servicios con base en los requerimientos de mantenimiento estático, confiabilidad, ingeniería y construcción de infraestructura complementaria terrestre;
+III. Elaborar los aspectos técnicos de los modelos de contratación y las bases de concurso respecto de servicios de mantenimiento estático, confiabilidad y construcción de infraestructura complementaria terrestre;
 
-VI. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los servicios de mantenimiento estático, confiabilidad y de los contratos de ingeniera y construcción de infraestructura complementaria terrestre;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Administrar y supervisar contratos de servicios de mantenimiento estático, confiabilidad y construcción de infraestructura complementaria terrestre;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+V. Programar la prestación de servicios con base en los requerimientos de mantenimiento estático, confiabilidad y construcción de infraestructura complementaria terrestre;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+VI. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los servicios de mantenimiento estático, confiabilidad y de los contratos de construcción de infraestructura complementaria terrestre;
 
 VII. Inspeccionar la integridad mecánica y confiabilidad de ductos e instalaciones terrestres por terceros;
 
@@ -2037,37 +2117,59 @@ II. Coordinar el acceso, disponibilidad y el desempeño de los servicios contrat
 
 III. Coordinar la entrega de Hidrocarburos a terceros en los términos y condiciones contratados, en coordinación con las áreas correspondientes;
 
-IV. Coordinar la administración de las ventas de primera mano y compra de Hidrocarburos y de los servicios asociados a su comercialización;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Coordinar la administración de los procesos de ventas nacionales, ventas de exportación, ventas de primera mano y compra de Hidrocarburos y de los servicios asociados a la comercialización;
 
 V. Aprobar e implementar las estrategias operativas y comerciales para la compra y venta de Hidrocarburos;
 
 VI. Implementar las estrategias operativas y de mantenimiento que garanticen la confiabilidad de las instalaciones en los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y comercialización de los Hidrocarburos en las instalaciones a su cargo;
 
-VII. Operar y mantener los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de los Hidrocarburos en las instalaciones a su cargo;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+VII. Coordinar la operación y el mantenimiento de los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de los Hidrocarburos en las instalaciones a su cargo;
 
 VIII. Implementar los proyectos de optimización de infraestructura en los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de los Hidrocarburos en las instalaciones a su cargo;
 
 IX. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios en las instalaciones a su cargo;
 
-X. Aprobar e implementar el plan rector de medición en los puntos de venta y de transferencia de custodia;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+X. Coordinar la aplicación de la normatividad vigente en materia de medición en los puntos de venta y transferencia de custodia;
 
 XI. Coordinar la integración de la información de la producción, manejo, compras y ventas de Hidrocarburos a nivel nacional;
 
-XII. Coordinar la distribución interna de diésel entre las áreas operativas de Pemex Exploración y Producción en las zonas marinas a través de coordinar el suministro, transporte, recepción, control, guarda y despacho, y
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-XIII. Dirigir la gestión, administración, seguimiento y control de los bienes y servicios requeridos y ejecutados mediante contratos con terceros en los procesos de recolección, Tratamiento - Acondicionamiento, Manejo, comercialización, medición y entrega de Hidrocarburos; así como de los sistemas de recepción, Manejo y distribución de diésel.
+XII. Coordinar la distribución interna de diésel entre las áreas operativas de Pemex Exploración y Producción en las zonas marinas;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XIII. Dirigir la gestión, administración, seguimiento y control de los bienes y servicios requeridos y ejecutados mediante contratos con terceros en los procesos de recolección, Tratamiento - Acondicionamiento, Manejo, comercialización, medición y entrega de Hidrocarburos; así como de los sistemas de recepción, Manejo y distribución de diésel, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XIV. Coordinar el suministro, transporte e inyección de producto químico en instalaciones marinas y terrestres para cumplir con los parámetros de calidad contractuales; (sic)
 
 ###### Artículo 81.
 
 La Gerencia de Coordinación de Operaciones tendrá las funciones siguientes:
 
-I. Coordinar la integración y evaluar el cumplimiento de los planes y programas mensuales de disponibilidad de Hidrocarburos producidos por Pemex Exploración y Producción, y su manejo a puntos de entrega y venta;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-II. Programar la distribución de Hidrocarburos y coordinar la recolección, Tratamiento - Acondicionamiento, Manejo y entrega de los mismos;
+I. Coordinar la integración y evaluar el cumplimiento de los planes y programas mensuales de disponibilidad de Hidrocarburos producidos y adquiridos por Pemex Exploración y Producción, y su manejo a puntos de entrega y venta;
 
-III. Coordinar la operación con las áreas responsables de los servicios de Tratamiento, transporte, mezclado y entrega de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-IV. Integrar las especificaciones técnicas de los contratos y supervisar la ejecución de los servicios para operar y mantener los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos;
+II. Programar la distribución de Hidrocarburos y coordinar la recolección , Tratamiento - Acondicionamiento, Manejo, almacenamiento, transporte y entrega de estos;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+III. Coordinar la operación con las áreas responsables de los servicios de Tratamiento, transporte, mezclado, almacenamiento y entrega de Hidrocarburos;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Integrar las especificaciones técnicas de los contratos y supervisar la ejecución de los servicios para operar y mantener los procesos de recolección, Tratamiento - Acondicionamiento, Manejo, almacenamiento y entrega de Hidrocarburos;
 
 V. Coordinar las acciones necesarias con las áreas responsables de cumplir con la entrega del crudo en calidad para cumplir o mitigar el impacto en la calidad de los Hidrocarburos pactados con los clientes;
 
@@ -2075,53 +2177,79 @@ VI. Validar volúmenes de compraventa de Hidrocarburos en los puntos de entrega-
 
 VII. Generar el sustento operativo para la atención de reclamos por demoras, volumen y calidad;
 
-VIII. Coordinar e implementar las estrategias operativas de mantenimiento y proyectos de optimización de infraestructura que garanticen la confiabilidad de las instalaciones en los procesos de recolección, acondicionamiento, manejo y comercialización de los Hidrocarburos en las instalaciones a su cargo;
+VIII. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
-IX. Operar, mantener y administrar la infraestructura, dirigiendo, evaluando y verificando la confiabilidad operativa de los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos en las instalaciones a su cargo;
+IX. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
 X. Participar en la aplicación de planes de respuesta a contingencias operativas en el manejo de la producción, la recolección, transporte y entrega de Hidrocarburos;
 
-XI. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios en las instalaciones a su cargo;
+XI. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
-XII. Participar en la definición de cláusulas, términos y condiciones en los contratos de compraventa relacionados con aspectos operativos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XII. Participar en la definición de cláusulas, términos y condiciones de los contratos de compraventa de Hidrocarburos con clientes internos y externos, relacionados con aspectos operativos;
 
 XIII. Coordinar conjuntamente con las demás subsidiarias la planeación estratégica, para lograr la integración de programas operativos, apuntalando la rentabilidad de Pemex Exploración y Producción;
 
-XIV. Aplicar acciones de respuesta a contingencias operativas en el almacenamiento de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-XV. Programar la distribución interna de diésel a las áreas operativas de Pemex Exploración y Producción en las zonas marinas a través de coordinar el suministro, transporte, recepción, control, guarda y despacho, y
+XIV. Coordinar la aplicación de acciones de respuesta a contingencias operativas en el almacenamiento y Manejo de Hidrocarburos;
 
-XVI. Proporcionar la información y documentación para obtener y modificar los permisos, atender los requerimientos de la autoridad y el cumplimiento regulatorio de los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos en las instalaciones a su cargo.
+XV. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
+
+XVI. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
 ###### Artículo 82.
 
 La Gerencia de Medición y Balances tendrá las funciones siguientes:
 
-I. Establecer la estrategia de medición y balances de Hidrocarburos, en función de las mejores prácticas de ingeniería;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-II. Asegurar la implementación de los sistemas de medición de flujo, calidad y control automatizado de los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos en las instalaciones de Pemex Exploración y Producción; con base en el plan rector de medición y en coordinación con los entes rectores internos y externos;
+I. Establecer la estrategia de medición y balances de Hidrocarburos en toda la Cadena de Valor;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+II. Asegurar la implementación de los sistemas de medición de flujo, calidad y control automatizado de los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos en las instalaciones a cargo de Pemex Exploración y Producción para dar cumplimiento a la normatividad vigente;
 
 III. Coordinar el diseño y operación de los sistemas de información de producción, calidad, medición y balances de Hidrocarburos;
 
-IV. Establecer y coordinar la implantación del cumplimento de los lineamientos técnicos en materia de medición y balances de Hidrocarburos, así como la eficiencia en el aprovechamiento de gas;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-V. Establecer los parámetros operativos para la recepción/entrega de Hidrocarburos en las instalaciones de Pemex Exploración y Producción; con base en el plan rector de medición y en coordinación con los entes rectores internos y externos;
+IV. Establecer, coordinar y vigilar el cumplimiento de los lineamientos técnicos en materia de medición y balances de Hidrocarburos, así como la eficiencia en el aprovechamiento de gas;
+
+V. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
 VI. Asegurar en coordinación con las áreas operativas los balances de Hidrocarburos de Pemex Exploración y Producción en forma homologada y automatizada, mediante la integración de la información de producción, calidad, distribución y disponibilidad, así como los balances de manejo del diésel en Pemex Exploración y Producción;
 
-VII. Generar e implementar los documentos rectores, procedimientos, guías, planes y programas, en materia de medición y balances de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+VII. Generar e implementar los documentos rectores, procedimientos, guías, planes y programas, en materia de medición y balances de Hidrocarburos para instalaciones a cargo de Pemex Exploración y Producción;
 
 VIII. Coordinar y dar seguimiento a la producción, distribución y disponibilidad de volumen de Hidrocarburos; así como los diversos acuerdos de medición y balances por asignación;
 
-IX. Participar en la aplicación de planes de respuesta a contingencias operativas en la recolección, transporte y entrega de Hidrocarburos;
+IX. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
-X. Establecer y realizar el diagnóstico de los sistemas de medición, así como las acciones de mejora resultantes;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+X. Coordinar con las áreas operativas la realización de diagnósticos de los sistemas de medición y calidad, así como las acciones de mejora resultantes en instalaciones e infraestructura a cargo de Pemex Exploración y Producción;
 
 XI. Evaluar el desempeño de los sistemas de medición fiscal, operacional, de referencia y de transferencia, bajo el esquema normativo correspondiente;
 
-XII. Establecer la estrategia de medición y balances de la distribución interna de diésel a las áreas operativas de Pemex Exploración y Producción en las zonas marinas en base al suministro, transporte, recepción, control, guarda y despacho, y
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-XIII. Integrar las especificaciones técnicas de los contratos y supervisar la ejecución de los servicios por terceros en los sistemas de medición de los procesos de recolección, Tratamiento - Acondicionamiento, manejo y entrega de Hidrocarburos; así como los sistemas de recepción, Manejo y distribución de diésel.
+XII. Establecer la estrategia de medición y balances de la distribución interna de diésel a las áreas operativas de Pemex Exploración y Producción en las zonas marinas en base al suministro, transporte, recepción, control, guarda y despacho;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XIII. Participar en coordinación con las áreas operativas, en la elaboración de las especificaciones técnicas de los contratos de servicios por terceros en los sistemas de medición de los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos; así como los sistemas de recepción, Manejo y distribución de diésel;
+
+> <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XIV. Validar los mecanismos de medición de Hidrocarburos y el programa de aprovechamiento de gas para los planes de desarrollo, programas de evaluación, programa piloto y/o, programas de transición para la autorización de la extracción de Hidrocarburos, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XV. Asesorar a las áreas operativas en la elaboración de los acuerdos de medición y calidad requeridos para la suscripción de contratos de compraventa de Hidrocarburos entre operadores terceros y Pemex Exploración y Producción, así como los convenios de medición para la venta o transferencia de Hidrocarburos en los sistemas de medición propiedad de Pemex Exploración y Producción.
 
 ###### Artículo 83.
 
@@ -2133,17 +2261,23 @@ II. Realizar inteligencia de mercados de comercialización de Hidrocarburos;
 
 III. Identificar nuevas oportunidades de negocio para la comercialización de Hidrocarburos;
 
-IV. Elaborar los escenarios de venta de Hidrocarburos de corto, mediano y largo plazo;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-V. Diseñar las metodologías y modelos de precios de Hidrocarburos;
+IV. Elaborar los escenarios de venta y calidad de Hidrocarburos de corto, mediano y largo plazo;
+
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+V. Diseñar las metodologías y modelos de precios de Hidrocarburos, tarifas de recolección y uso de infraestructura;
 
 VI. Realizar el plan integral de comercialización de Hidrocarburos e identificar los requerimientos en infraestructura;
 
 VII. Desarrollar, actualizar y aplicar metodologías para la valoración de Hidrocarburos;
 
-VIII. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de compraventa de Hidrocarburos con terceros;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
 
-IX. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de servicios asociados a la comercialización de Hidrocarburos;
+VIII. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de compraventa y de servicios asociados a la comercialización de Hidrocarburos;
+
+IX. (DEROGADA, D.O.F. 5 DE ABRIL DE 2024)
 
 X. Mantener actualizados los sistemas institucionales relacionados con las transacciones de compra y venta de Hidrocarburos y servicios asociados a la comercialización;
 
@@ -2159,13 +2293,41 @@ XV. Participar en la aplicación de planes de respuesta a contingencias operativ
 
 XVI. Atender los reclamos por demoras, volumen y calidad;
 
-XVII. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de compra de diésel a distribuir al interior de las áreas operativas en las zonas marinas de Pemex Exploración y Producción en base al suministro, transporte, recepción, control, guarda y despacho;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+XVII. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de compra de diésel a distribuir al interior de las áreas operativas en las zonas marinas de Pemex Exploración y Producción;
 
 XVIII. Elaborar e integrar los casos de negocio para el desarrollo de proyectos de optimización de infraestructura en los procesos de recolección, Tratamiento - Acondicionamiento, Manejo y entrega de Hidrocarburos en las instalaciones a su cargo;
 
 XIX. Integrar las especificaciones técnicas de los contratos y supervisar la ejecución de los servicios por terceros para las actividades de comercialización de Hidrocarburos, y
 
 XX. Coordinar la gestión, administración, seguimiento y control de los bienes y servicios requeridos y ejecutados mediante contratos con terceros en el ámbito de la Subdirección de Coordinación Operativa y Comercial.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 83 Bis.
+
+La Gerencia de Acondicionamiento de Hidrocarburos Marinas tendrá las funciones siguientes:
+
+I. Administrar y controlar la operación de las instalaciones e infraestructura a su cargo para el Tratamiento - Acondicionamiento, distribución y Manejo de Hidrocarburos, así como de los sistemas de recepción, Manejo y distribución de diésel;
+
+II. Implementar las estrategias de mantenimiento para garantizar la confiabilidad de los ductos e instalaciones a su cargo en los procesos de Tratamiento - Acondicionamiento, distribución, Manejo de los Hidrocarburos y de los sistemas de Recepción, Manejo y distribución de diésel;
+
+III. Coordinar el suministro, transporte e inyección de producto químico en instalaciones marinas y terrestres para cumplir con los parámetros de calidad contractuales;
+
+IV. Planear y coordinar la distribución interna de diésel a las áreas a cargo de Pemex Exploración y Producción en las zonas marinas e instalaciones terrestres;
+
+V. Coordinar la operación de los sistemas de medición y calidad, monitoreo, automatización y control en instalaciones, despacho de diésel y sistemas de exportación de crudo;
+
+VI. Administrar y coordinar la operación de los residuos peligrosos y de Manejo especial que se generen dentro de las instalaciones a su cargo, acorde a los lineamientos emitidos en materia ambiental;
+
+VII. Administrar el tratamiento y disposición del agua congénita como residuo de los procesos de almacenamiento, deshidratación y desalado dentro de las instalaciones a su cargo, acorde a los lineamientos emitidos en materia ambiental;
+
+VIII. Supervisar la ejecución de los servicios para operar y mantener los procesos de Tratamiento - Acondicionamiento, distribución y Manejo de Hidrocarburos y despacho de diésel;
+
+IX. Coadyuvar en la coordinación de las acciones para cumplir con la entrega de los Hidrocarburos en calidad conforme a lo pactado con los clientes, y
+
+X. Coordinar la operación de los laboratorios de control de calidad para efectuar análisis y cumplir con los parámetros contractuales de entrega y envío de los Hidrocarburos al Sistema Nacional de Refinación y exportación.
 
 ### CAPÍTULO DÉCIMO. DE LA SUBDIRECCIÓN TÉCNICA DE EXPLORACIÓN Y PRODUCCIÓN
 
@@ -2359,45 +2521,31 @@ X. Integrar los requerimientos y homologar las soluciones al interior de Pemex E
 
 XI. Gestionar con las áreas corporativas, la prestación de los servicios relacionados con las Tecnologías de la Información aplicadas a los procesos de Exploración y Producción.
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 91.
 
-La Gerencia de Aseguramiento Técnico de Exploración tendrá las funciones siguientes:
+La Gerencia de Aseguramiento Técnico de Exploración y Explotación tendrá las funciones siguientes:
 
-I. Coordinar el proceso de validación y aprobación técnica de los proyectos/asignaciones de Exploración en colaboración con las autoridades técnicas y líderes de disciplina;
+I. Coordinar el proceso de validación y aprobación técnica de los proyectos/asignaciones de exploración y explotación en colaboración con las autoridades técnicas y líderes de disciplina;
 
-II. Coordinar y dar seguimiento al marco normativo técnico aplicable a la actividad de exploración;
+II. Coordinar y dar seguimiento al marco normativo técnico aplicable a las actividades de exploración y explotación;
 
-III. Proponer y actualizar las guías, procedimientos e instructivos técnicos para los proyectos/asignaciones y actividades de la Cadena de Valor de Evaluación de Áreas, Evaluación de Prospectos y Transferencia de Descubrimientos;
+III. Proponer y actualizar las guías y procedimientos para los proyectos/asignaciones y actividades de la cadena de valor de exploración y explotación;
 
-IV. Definir y vigilar la aplicación de las metodologías a seguir durante el proceso de diseño, ejecución y evaluación de proyectos/asignaciones de Exploración;
+IV. Definir y vigilar la aplicación de las metodologías a seguir durante el proceso de diseño, ejecución y evaluación de proyectos/asignaciones de exploración y explotación;
 
-V. Administrar el resguardo de documentación y de la validación técnica de los proyectos/asignaciones de Exploración debiendo proporcionar dicha información cuando le sea requerida por las áreas de Pemex que dan seguimiento a los proyectos/asignaciones de Exploración y sus obras;
+V. Administrar el resguardo de documentación y de la validación técnica de los proyectos/asignaciones de exploración y explotación debiendo proporcionar dicha información cuando le sea requerida por las áreas de Pemex que dan seguimiento a los proyectos/asignaciones y sus obras;
 
-VI. Revisar y validar que el planteamiento técnico y económico de los proyectos de Exploración estén alineados con los objetivos estratégicos de Pemex Exploración y Producción;
+VI. Revisar y validar que el planteamiento técnico y económico de los proyectos de exploración y de explotación, estén alineados con los objetivos estratégicos de Pemex Exploración y Producción;
 
-VII. Determinar e integrar en coordinación con los líderes de disciplina y autoridades técnicas los retos técnicos de los proyectos de Exploración, y
+VII. Determinar e integrar en coordinación con los líderes de disciplina y autoridades técnicas los retos técnicos de los proyectos de exploración y explotación, y
 
-VIII. Evaluar el desempeño de la aplicación de los procesos, técnicas, metodologías, Software Técnico especializado, mejores prácticas, lecciones aprendidas, tecnologías y guías técnicas en materia de la Cadena de Valor de Evaluación de Áreas, Evaluación de Prospectos y Transferencia de Descubrimientos.
+VIII. Evaluar el desempeño de la aplicación de los procesos, técnicas, metodologías, Software Técnico especializado, mejores prácticas, lecciones aprendidas, tecnologías y guías técnicas en materia de la cadena de valor de exploración y explotación.
 
 ###### Artículo 92.
 
-La Gerencia de Aseguramiento Técnico de Explotación tendrá las funciones siguientes:
-
-I. Coordinar el proceso de validación y aprobación técnica de los proyectos/asignaciones de explotación en colaboración con las autoridades técnicas y líderes de disciplina;
-
-II. Coordinar y dar seguimiento al marco normativo técnico aplicable a la actividad de explotación;
-
-III. Proponer y actualizar las guías, procedimientos e instructivos técnicos para los proyectos/asignaciones y actividades de la Cadena de Valor de desarrollo de campos y optimización y explotación de yacimientos;
-
-IV. Definir y vigilar la aplicación de las metodologías a seguir durante el proceso de diseño, ejecución y evaluación de proyectos/asignaciones de explotación;
-
-V. Administrar el resguardo de documentación y de la validación técnica de los proyectos/asignaciones de explotación, debiendo proporcionar dicha información cuando le sea requerida por las áreas de Pemex que dan seguimiento a los proyectos/asignaciones de explotación y sus obras;
-
-VI. Revisar y validar que el planteamiento técnico y económico de los proyectos de explotación estén alineados con los objetivos estratégicos de Pemex Exploración y Producción;
-
-VII. Determinar e integrar en coordinación con los líderes de disciplina y Autoridades Técnicas los retos técnicos de los proyectos de explotación, y
-
-VIII. Evaluar el desempeño de la aplicación de los procesos, técnicas, metodologías, Software Técnico especializado, mejores prácticas, lecciones aprendidas, tecnologías y guías técnicas en materia de la Cadena de Valor de Desarrollo de Campos y Optimización y Explotación de Yacimientos.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2024)
 
 ###### Artículo 93.
 
@@ -2717,11 +2865,15 @@ La Subdirección de Proyectos de Explotación Estratégicos tendrá las funcione
 
 I. Diseñar, implementar y evaluar la estrategia del desarrollo de campos nuevos y proyectos estratégicos de conformidad con las indicaciones de la Dirección General;
 
-II. Diseñar, ejecutar y evaluar la aplicación de la estrategia de ingeniería y construcción de obras para los campos nuevos y proyectos estratégicos, de conformidad con las indicaciones de la Dirección General;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+II. Ejecutar y evaluar la aplicación de la estrategia de construcción de obras para los campos nuevos y proyectos estratégicos, de conformidad con las indicaciones de la Dirección General;
 
 III. Definir los escenarios técnicos para las áreas de oportunidad estratégicas detectadas;
 
-IV. Verificar la calidad técnica y la aplicación de normas y metodologías en el diseño y ejecución de proyectos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Verificar la calidad técnica y la aplicación de normas y metodologías en la ejecución de proyectos;
 
 V. Gestionar la custodia de la información, estudios, modelos, pozos e infraestructura de los campos, de conformidad con las indicaciones de la Dirección General;
 
@@ -2829,35 +2981,11 @@ VIII. Coordinar la elaboración de la documentación requerida para los trámite
 
 ###### Artículo 110.
 
-La Gerencia de Diseño de Proyectos de Infraestructura Estratégica tendrá las funciones siguientes:
-
-I. Diseñar esquemas de infraestructura de producción para la explotación de los campos nuevos y proyectos estratégicos, identificando su factibilidad técnica;
-
-II. Estimar los costos iniciales y alcances de la construcción, comisionamiento, pruebas y puesta en operación de infraestructura de producción en campos nuevos y proyectos estratégicos;
-
-III. Dimensionar la infraestructura requerida para los procesos de recuperación secundaria y/o mejorada en campos nuevos y proyectos estratégicos;
-
-IV. Definir la filosofía para el Manejo, proceso, Acondicionamiento y medición de los Hidrocarburos en campos nuevos y proyectos estratégicos;
-
-V. Coordinar la elaboración de hojas de datos técnicas de infraestructura, así como participar en la revisión de ingenierías y análisis de riesgo de proceso en campos nuevos y proyectos estratégicos, y
-
-VI. Diseñar y realizar estudios que fortalezcan la calidad del proyecto, incorporando tecnologías relevantes en campos nuevos y proyectos estratégicos.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2024)
 
 ###### Artículo 111.
 
-La Gerencia de Ingeniería de Proyectos de Infraestructura Estratégica tendrá las funciones siguientes:
-
-I. Desarrollar y supervisar la ingeniería conceptual, básica y de detalle y estudios especiales para el desarrollo de los proyectos en campos nuevos, estratégicos y de recuperación secundaria y/o mejorada;
-
-II. Elaborar los anexos técnicos para la construcción de las obras y servicios en campos nuevos y proyectos estratégicos, así como participar en la evaluación técnica de ofertas durante el proceso licitatorio de ingeniería, estudios especiales y obras;
-
-III. Realizar el seguimiento físico de la ingeniería y estudios especiales de los proyectos asignados a la Subdirección en campos nuevos, estratégicos y de recuperación secundaria y/o mejorada;
-
-IV. Implementar nuevas tecnologías y mejores prácticas para la ingeniería y estudios especiales en campos nuevos y proyectos estratégicos;
-
-V. Dar seguimiento al cumplimiento de las Gestiones Ambientales de las obras, así como, integrar la documentación para la gestión de los permisos gubernamentales para campos nuevos y proyectos estratégicos, y
-
-VI. Administrar la normatividad técnica en materia de construcción de obras.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2024)
 
 ###### Artículo 112.
 
@@ -2865,11 +2993,15 @@ La Gerencia de Supervisión de Proyectos de Infraestructura Estratégica tendrá
 
 I. Dar seguimiento y actualizar los programas de construcción de infraestructura de producción, asegurando su cumplimiento y optimización en campos nuevos y proyectos estratégicos, así como de la componente de recuperación secundaria y/o mejorada de los mismos;
 
-II. Participar en la elaboración de los anexos técnicos para la contratación y realizar la evaluación técnica de ofertas durante el proceso de contratación con la Gerencia de Ingeniería de Proyectos de Infraestructura en campos nuevos y estratégicos, así como de la componente de recuperación secundaria y/o mejorada de los mismos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+II. Participar en la elaboración de los anexos técnicos para la contratación y realizar la evaluación técnica de ofertas durante el procedimiento de contratación con las gerencias de la Subdirección de Diseño e Ingeniería de Infraestructura y Obras de Explotación, en campos nuevos y estratégicos, así como de la componente de recuperación secundaria y/o mejorada de los mismos;
 
 III. Coordinar la supervisión técnica de la construcción, comisionamiento y pruebas en los contratos para infraestructura de producción, así como de los materiales y componentes utilizados en el desarrollo de campos nuevos y proyectos estratégicos, así como de la componente de recuperación secundaria y/o mejorada de los mismos;
 
-IV. Gestionar ante la Gerencia de Ingeniería de Proyectos de Infraestructura Estratégica los cambios en la ingeniería de detalle respecto al diseño original en campos nuevos y proyectos estratégicos, así como de la componente de recuperación secundaria y/o mejorada de los mismos;
+> <small>(REFORMADA, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+IV. Gestionar ante las gerencias de la Subdirección de Diseño e Ingeniería de Infraestructura y Obras de Explotación los cambios en la ingeniería de detalle respecto al diseño original en campos nuevos y proyectos estratégicos, así como de la componente de recuperación secundaria y/o mejorada de los mismos;
 
 V. Programar y coordinar con el área usuaria el precomisionamiento, comisionamiento, pruebas y arranque de infraestructura de producción, así como los libros de proyecto, y
 
@@ -3025,6 +3157,104 @@ VI. Coordinar la contratación, implementación y el proceso de entrega de equip
 
 VII. Supervisar el cumplimiento de los contratos asignados, de equipos, materiales y servicios para la perforación, así como para el mantenimiento de pozos, equipos, unidades de servicios a pozos e instalaciones asociadas a la perforación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DE LA SUBDIRECCIÓN DE DISEÑO E INGENIERÍA DE INFRAESTRUCTURA Y OBRAS DE EXPLOTACIÓN
+
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 118 Bis.
+
+La Subdirección de Diseño e Ingeniería de Infraestructura y Obras de Explotación, tendrá las funciones siguientes:
+
+I. Coordinar el diseño de infraestructura en campos nuevos, maduros y proyectos estratégicos para las áreas de Pemex Exploración y Producción, mediante el uso de Software Técnico de conformidad con las indicaciones de la Dirección General;
+
+II. Coordinar la ingeniería de infraestructura para campos nuevos, maduros, proyectos estratégicos y obras complementarias, mediante el uso de Software Técnico de conformidad con las indicaciones de la Dirección General;
+
+III. Coordinar el desarrollo de la estrategia de ingeniería para la construcción de obras de campos nuevos, campos maduros y proyectos estratégicos;
+
+IV. Coordinar la gestión, ante el área competente de Pemex, de la contratación de servicios de ingeniería y estudios especializados para proyectos de ingeniería a cargo de Pemex Exploración y Producción;
+
+V. Coordinar la asistencia técnica a las áreas de Pemex Exploración y Producción, para el diseño e ingeniería de infraestructura en campos nuevos, maduros y proyectos estratégicos;
+
+VI. Coordinar la verificación de la calidad técnica y la aplicación de normas y metodologías en el diseño e ingeniería de infraestructura en campos nuevos, maduros y proyectos estratégicos;
+
+VII. Coordinar la integración de la documentación para el cumplimiento de las gestiones ambientales de las obras previo al inicio de la construcción, así como, gestionar los permisos gubernamentales para campos nuevos, maduros y proyectos estratégicos a cargo de Pemex Exploración y Producción;
+
+VIII. Coordinar la atención del cumplimiento regulatorio de los proyectos durante la etapa de diseño e ingeniería;
+
+IX. Coordinar la gestión, administración, seguimiento y control de los servicios requeridos y ejecutados mediante contratos con terceros;
+
+X. Coordinar la entrega de ingeniería correspondiente a proyectos de infraestructura en campos nuevos, maduros y proyectos estratégicos;
+
+XI. Coordinar la estimación de los costos iniciales y alcances de la construcción, para conceptos de selección de infraestructura, así como para la autorización y control, en campos nuevos, maduros y proyectos estratégicos, y
+
+XII. Coordinar el seguimiento de los costos asociados a la ingeniería y estudios especializados, así como la integración de los requerimientos de inversión de servicios de ingeniería de los proyectos de infraestructura en campos nuevos, maduros y proyectos estratégicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 118 Ter.
+
+La Gerencia de Diseño de Proyectos Industriales tendrá las funciones siguientes:
+
+I. Diseñar esquemas de infraestructura de producción para la explotación de campos nuevos, campos maduros y proyectos estratégicos, identificando su factibilidad técnica;
+
+II. Dimensionar la infraestructura requerida para los procesos de recuperación secundaria y/o mejorada en campos nuevos, campos maduros y proyectos estratégicos;
+
+III. Definir la filosofía para el Manejo, proceso, Acondicionamiento y medición de los Hidrocarburos en campos nuevos, campos maduros y proyectos estratégicos;
+
+IV. Coordinar la elaboración de las hojas de datos técnicos y/o bases de infraestructura, así como participar en la revisión de ingenierías y análisis de riesgo de proceso en campos nuevos, campos maduros y proyectos estratégicos;
+
+V. Diseñar y realizar estudios que fortalezcan la calidad de los proyectos, incorporando tecnologías relevantes en campos nuevos, campos maduros y proyectos estratégicos;
+
+VI. Implementar, en conjunto con las gerencias de ingeniería, nuevas tecnologías y mejores prácticas en el diseño de infraestructura para campos nuevos, campos maduros y proyectos estratégicos, y
+
+VII. Diseñar y generar modelos de simulación estática, dinámica y de proceso con uso de Software Técnico en recolección, Manejo y Acondicionamiento de Hidrocarburos, así como aquellas simulaciones relevantes y oportunas para campos nuevos, maduros y proyectos estratégicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 118 Quáter.
+
+La Gerencia de Ingeniería de Infraestructura Terrestre tendrá las funciones siguientes:
+
+I. Desarrollar y supervisar la ingeniería conceptual, básica y de detalle y estudios especiales para el desarrollo de los proyectos terrestres en campos maduros, nuevos, proyectos estratégicos, exploratorios y de recuperación secundaria y/o mejorada, incluyendo obras complementarias;
+
+II. Elaborar los anexos técnicos para la construcción de obras y servicios en campos terrestres maduros, nuevos, proyectos estratégicos y exploratorios; así como la evaluación técnica en los procesos licitatorios de ingeniería y estudios especiales y participar en la evaluación técnica de ofertas durante el proceso licitatorio de obras;
+
+III. Realizar el seguimiento físico de la ingeniería y estudios especiales terrestres para los proyectos de Pemex Exploración y Producción;
+
+IV. Integrar la información técnica para las gestiones de permisos ante las dependencias gubernamentales y con propietarios;
+
+V. Realizar seguimiento técnico y aclaraciones de ingeniería durante el desarrollo de las obras hasta la entrega al usuario final de los proyectos terrestres en campos maduros, nuevos, proyectos estratégicos y exploratorios, incluyendo obras complementarias;
+
+VI. Implementar nuevas tecnologías y mejores prácticas para la ingeniería y estudios especiales para proyectos terrestres en campos maduros, nuevos y proyectos estratégicos;
+
+VII. Administrar los contratos de servicios de ingeniería y servicios especializados para infraestructura terrestre, así como supervisar los mismos, y
+
+VIII. Evaluar y dar seguimiento a los indicadores de desempeño de los servicios de ingeniería para infraestructura terrestre.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 118 Quinquies.
+
+La Gerencia de Ingeniería de Infraestructura Marina tendrá las funciones siguientes:
+
+I. Desarrollar y supervisar la ingeniería conceptual, básica y de detalle y estudios especiales para el desarrollo de los proyectos marinos en campos maduros, nuevos, proyectos estratégicos, exploratorios y de recuperación secundaria y/o mejorada, incluyendo obras complementarias;
+
+II. Elaborar los anexos técnicos para la contratación de ingeniería, estudios especiales y de construcción de obras, en campos marinos maduros, nuevos, proyectos estratégicos y exploratorios; así como la evaluación técnica en los procesos licitatorios de ingeniería y estudios especiales y participar en la evaluación técnica de ofertas durante el proceso licitatorio de obras;
+
+III. Realizar el seguimiento físico de la ingeniería y estudios especiales para los proyectos marinos de Pemex Exploración y Producción;
+
+IV. Integrar la información técnica para las gestiones de permisos ante las dependencias gubernamentales;
+
+V. Realizar seguimiento técnico y aclaraciones de ingeniería durante el desarrollo de las obras hasta la entrega al usuario final de los proyectos marinos en campos maduros, nuevos, proyectos estratégicos y exploratorios, incluyendo obras complementarias;
+
+VI. Implementar nuevas tecnologías y mejores prácticas para la ingeniería y estudios especiales para proyectos marinos en campos maduros, nuevos y proyectos estratégicos;
+
+VII. Administrar los contratos de servicios de ingeniería y servicios especializados para infraestructura marina, así como supervisar los mismos, y
+
+VIII. Evaluar y dar seguimiento a los indicadores de desempeño de ingeniería y servicios especializados para infraestructura marina.
+
 ## TÍTULO QUINTO. DE LA NORMATIVIDAD TÉCNICA DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
 ###### Artículo 119.
@@ -3132,3 +3362,33 @@ DÉCIMO PRIMERO. El Director General de Pemex Exploración y Producción promove
 DÉCIMO SEGUNDO. El Director General de Pemex Exploración y Producción deberá establecer las condiciones e impartir las instrucciones que permitan la continuidad operativa de todas las áreas de Pemex Exploración y Producción a la entrada en vigor del presente Estatuto.
 
 El presente Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, fue aprobado por el Consejo de Administración de Pemex Exploración y Producción, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, en sesión 73 Extraordinaria celebrada el día 28 de marzo de 2022, mediante acuerdo número CAEPS-PEP-019/2022.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE ABRIL DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN:
+
+https://www.pemex.com/Documents/dof/mod_eopep_202403.pdf
+
+www.dof.gob.mx/2024/PEMEX/mod_eopep_202403.pdf
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN”.]
+
+PRIMERO. La presente modificación al Estatuto Orgánico de Pemex Exploración y Producción entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La modificación a la estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
+
+TERCERO. Para efectos de la integración de los grupos de trabajo de Pemex Exploración y Producción por las áreas que desaparecen o cambian de denominación por la entrada en vigor del presente Estatuto, la asumirán aquéllas a las que se les atribuyen las funciones por virtud de este Estatuto, sin perjuicio de que, con posterioridad, se realicen los nombramientos o designaciones respectivos y se modifique la normatividad aplicable en cada caso.
+
+CUARTO. Las referencias que se hagan en otros instrumentos a las áreas que desaparecen o cuya denominación se modifica, se entenderán hechas a las áreas a las que se atribuyen las funciones conforme al presente Estatuto.
+
+Las áreas de Pemex Exploración y Producción, en su caso, realizarán y/o formalizarán, según corresponda, cualquier tipo de acto, actividad o documento necesarios para los traspasos, transferencias, sustituciones y demás aspectos que correspondan.
+
+Lo anterior sin perjuicio de que, en todo momento, los titulares de las áreas de Pemex Exploración y Producción establezcan la colaboración y coordinación que corresponda con las áreas que resulten competentes, para garantizar, en aquellos casos que lo ameriten, la continuidad en la operación y la atención o resolución de los asuntos o servicios a su cargo.
+
+QUINTO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que desaparecen o cambian de denominación, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
+
+SEXTO. Los titulares de las áreas de Pemex Exploración y Producción deberán atender en su caso, a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la reestructura organizacional de las áreas de la estructura orgánica básica de Pemex Exploración y Producción conforme a la normatividad aplicable, así como participar en los actos de entrega y recepción, que procedan, con motivo de la entrada en vigor del presente Estatuto.
