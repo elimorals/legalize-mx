@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-33324"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-15"
-last_updated: "2020-09-29"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de julio del 2003.
 
@@ -141,77 +141,99 @@ II. Al Director.
 
 El Consejo Directivo será el órgano máximo del Instituto y estará integrado por:
 
-> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-I. Un Presidente, que será el Secretario General de Gobierno.
+I. Una Presidencia, que será la persona titular de la Secretaría General de Gobierno.
 
-II. Un Secretario, que será el Director del Instituto Mexiquense de la Pirotecnia;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-III. Un Comisario, que será el representante de la Secretaría de la Contraloría;
+II. Una Secretaría, que será la persona titular de la Dirección del Instituto Mexiquense de la Pirotecnia;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+III. Una Comisaría, que será la persona representante de la Secretaría de la Contraloría;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
 IV. Dieciocho vocales, que serán:
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-a) Un representante de la Secretaría de Finanzas.
+a) Una persona representante de la Secretaría de Finanzas.
 
 b) (DEROGADO, G.G. 14 DE MAYO DE 2014)
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-c) Un representante de la Secretaría del Trabajo.
+c) Una persona representante de la Secretaría del Trabajo.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-d) Un representante de la Secretaría de Desarrollo Urbano y Obra.
+d) Una persona representante de la Secretaría de Desarrollo Urbano e Infraestructura.
 
-e) Un representante de la Secretaría de Desarrollo Económico.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+e) Una persona representante de la Secretaría de Desarrollo Económico.
 
-f) Un representante de la Fiscalía General de Justicia del Estado de México
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+f) Una persona representante de la Fiscalía General de Justicia del Estado de México.
 
-g) Un representante de la Secretaría de Seguridad.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+g) Una persona representante de la Secretaría de Seguridad.
 
-h) El Coordinador General de Protección Civil del Estado de México.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-i) El Director General de Seguridad Pública y Tránsito.
+h) La persona titular de la Coordinación General de Protección Civil y Gestión Integral del Riesgo del Estado de México.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+i) La persona titular de la Dirección General de Seguridad Pública y Tránsito.
 
 j) (DEROGADO, G.G. 9 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-A invitación del Presidente.
+A invitación de la Presidencia:
 
-k) Un representante de la Secretaría de la Defensa Nacional.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-l) Dos representantes de los sectores social y privado dedicados a la pirotecnia.
+k) Una persona representante de la Secretaría de la Defensa Nacional.
 
-m) Cuatro presidentes municipales, en cuyo territorio se desarrolle la actividad de la pirotecnia.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+l) Dos personas representantes de los sectores social y privado dedicados a la pirotecnia.
 
-n) Un representante de la Fiscalía General de la República.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+m) Cuatro presidentes o presidentas municipales, en cuyo territorio se desarrolle la actividad de la pirotecnia.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+n) Una persona representante de la Fiscalía General de la República.
 
 ñ) (DEROGADO, G.G. 9 DE DICIEMBRE DE 2015)
 
-o) Un representante del Centro de Investigaciones de Seguridad Nacional.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-p) Un representante de la Legislatura del Estado.
+o) Una persona representante del Centro de Investigaciones de Seguridad Nacional.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+p) Una persona representante de la Legislatura del Estado.
 
 Por cada uno de los integrantes del Consejo, se nombrará un suplente.
 
 Los cargos de los miembros del Consejo, serán honoríficos.
 
-Los integrantes del Consejo tendrán voz y voto, a excepción del Secretario y el Comisario quienes sólo tendrán voz.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Consejo tomará sus acuerdos por mayoría de votos o por unanimidad, el Presidente del Consejo, en caso de empate, tendrá voto de calidad.
+Los integrantes del Consejo tendrán voz y voto, a excepción de la Secretaría y la Comisaría quienes sólo tendrán voz.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El Consejo tomará sus acuerdos por mayoría de votos o por unanimidad, la Presidencia del Consejo, en caso de empate, tendrá voto de calidad.
 
 ###### Artículo 6.
 
@@ -219,17 +241,21 @@ El Presidente del Consejo, podrá invitar a las sesiones del Consejo Directivo, 
 
 El Presidente del Consejo, propondrá al Gobernador, el nombramiento del Director del Instituto Mexiquense de la Pirotecnia, que deberá ser preferentemente un profesionista de reconocida honorabilidad y conocer del arte de la pirotecnia.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 7.
 
-El Consejo Directivo, celebrará sus sesiones, de acuerdo a lo establecido en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, y su Reglamento.
+El Consejo Directivo, celebrará sus sesiones, de acuerdo a lo establecido en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y su Reglamento.
 
 ###### Artículo 8.
 
 Las sesiones serán válidas cuando se constituyan con la mayoría de sus integrantes y la asistencia del Presidente o quien lo sustituya.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 9.
 
-El Consejo Directivo, tendrá además de las atribuciones genéricas previstas en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su Reglamento, las siguientes:
+El Consejo Directivo, tendrá además de las atribuciones genéricas previstas en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, las siguientes:
 
 I. Dictar las normas generales y los criterios que deban orientar las actividades del Instituto Mexiquense de la Pirotecnia;
 
@@ -357,17 +383,25 @@ V. Nivel de riesgo.
 
 VI. Cursos de capacitación.
 
-> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 21.
 
-Las personas físicas o jurídicas que pretendan establecer un polvorín, un local temporal o permanente, o transportar artificios pirotécnicos, deberán obtener la opinión favorable del Instituto Mexiquense de la Pirotecnia, para lo que deberán presentar ante el Instituto la siguiente documentación:
+Las personas físicas o jurídicas colectivas que pretendan establecer un polvorín, un local temporal o permanente, o transportar artificios pirotécnicos, deberán obtener la opinión favorable del Instituto Mexiquense de la Pirotecnia, para lo que deberán presentar ante el Instituto la siguiente documentación:
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
 I. Certificado de conformidad de Seguridad Municipal, debidamente autorizado por el Presidente Municipal o autoridad administrativa designada por el cabildo, para tal efecto.
 
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
 II. Tratándose de personas físicas, acta de nacimiento e identificación oficial, para personas jurídicas colectivas, acta constitutiva y acreditación de su representante legal, dichos documentos deberán presentarse en original y copia para su cotejo.
 
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
 III. Para los polvorines pirotécnicos, también denominados talleres, dos cartas de recomendación avaladas por especialistas inscritos en el padrón del Registro Estatal de Pirotecnia, planos de ubicación y construcción a escala de 1:4000, considerando núcleos de población, industrias o vías de comunicación, así como las fotografías correspondientes.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
 IV. Croquis para el caso de los locales permanentes o temporales.
 
@@ -375,7 +409,11 @@ En caso de tianguis o mercados pirotécnicos, deberán presentar los planos de c
 
 Dichos documentos deberán acompañarse de fotografías.
 
-V. Dictamen de seguridad, otorgado por la Coordinación General de Protección Civil.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+V. Dictamen de seguridad, otorgado por la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
 VI. Título de propiedad, sesión de derechos o instrumento legal que demuestra la posesión legal del inmueble.
 
@@ -584,3 +622,39 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
