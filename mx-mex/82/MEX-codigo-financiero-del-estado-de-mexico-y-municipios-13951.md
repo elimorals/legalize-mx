@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2023-12-28"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -167,7 +167,9 @@ XIX. Gasto de Inversión. A las erogaciones realizadas por los Poderes del Estad
 
 XX. Gasto irreductible. Son las erogaciones mínimas indispensables para que pueda ejercer sus funciones una dependencia o entidad, principalmente asociados a las remuneraciones salariales, retenciones de seguridad social y fiscales, así como los bienes y servicios básicos.
 
-XXI. Gobernador. Al Gobernador del Estado de México.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XXI. Gobernador o Gobernadora. A la persona titular del Poder Ejecutivo del Estado de México.
 
 XXII. Hacienda Pública. A la obtención, administración y aplicación de los ingresos públicos del gobierno, en el ámbito de su competencia, que se conforma por las contribuciones, productos, aprovechamientos, bienes, propiedades y derechos que al gobierno, estatal o municipal le pertenecen y forman parte de su patrimonio.
 
@@ -539,9 +541,9 @@ Son autoridades fiscales, el Gobernador, los ayuntamientos, los presidentes, sí
 
 El Estado, los Municipios, las Entidades Públicas y los Organismos Autónomos podrán celebrar convenios para la concurrencia en materia de recaudación y administración de contribuciones, aprovechamientos e ingresos propios, con la finalidad de fortalecer la administración y recaudación de los ingresos y en este caso, se considerarán autoridades fiscales, quienes asuman la función en los términos de los convenios que suscriban.
 
-> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-El Gobernador, por conducto del titular de la Secretaría, podrá celebrar convenios de colaboración administrativa con otros Estados y el Distrito Federal, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
+La persona titular del Poder Ejecutivo del Estado, por conducto de la persona titular de la Secretaría, podrá celebrar convenios de colaboración administrativa con otros Estados y la Ciudad de México, en las materias de verificación, de terminación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
 
 > <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -649,11 +651,11 @@ El pago de los créditos fiscales determinados conforme al presente artículo, n
 
 Cuando la declaración y/o pago referido en el párrafo anterior se realice con posterioridad al pago que haya efectuado del crédito fiscal determinado por la autoridad conforme a este artículo, este último pago se disminuirá del importe que tenga que pagar por la contribución a su cargo. En caso de que en la declaración y/o pago resultare una cantidad menor a la determinada por la autoridad fiscal, la diferencia únicamente podrá ser compensada en las declaraciones y/o pagos subsecuentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 20-A.
 
-Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica del autor, en los términos de la Ley de Medios Electrónicos, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general podrán autorizar el uso de otras firmas electrónicas.
+Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica del autor, en los términos de la Ley de Gobierno Digital, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general podrán autorizar el uso de otras firmas electrónicas.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -5153,11 +5155,9 @@ Los servicios previstos en las fracciones I inciso F) y XI inciso F), únicament
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE EDUCACION
+#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE EDUCACION, CIENCIA, TECNOLOGIA E INNOVACION
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINAS DE LA 12 A LA 15.]</small>
-
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 78.
 
@@ -5205,21 +5205,21 @@ V. Por la expedición de documentos que integren el expediente clínico, se apli
 
 VI. Por la expedición de resumen clínico, se aplicarán los supuestos y tarifas establecidas en el artículo 73 de este Código.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
-#### SECCIÓN QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO URBANO Y OBRA
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO E INFRAESTRUCTURA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINAS DE LA 16 A LA 17.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 79.
 
-Por los servicios prestados por la Secretaría de Educación, se pagarán derechos conforme a la siguiente:
+Por los servicios prestados por la Secretaría de Educación, Ciencia, Tecnología e Innovación se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 I. Por solicitud, estudio, revisión y resolución del trámite de autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
 
@@ -5231,9 +5231,15 @@ C). Secundaria. $6,564
 
 D). Normal. $9,877
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 II. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios, por plan de estudios, a escuelas particulares de educación media superior. $8,533
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 III. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios, por plan de estudios o carrera a escuelas particulares de educación superior. $10,667
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 IV. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios por turno y por modalidad, a escuelas particulares:
 
@@ -5241,17 +5247,23 @@ A). Educación Media Superior. $8,533
 
 B). Educación Superior. $10,669
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 V. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación media superior:
 
 A). Por plan de estudio o carrera. $7,467
 
 B). Por modalidad y turno. $7,467
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 VI. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación superior:
 
 A). Por plan de estudio o carrera. $9,336
 
 B). Por modalidad y turno. $9,336
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 VII. Por vigencia anual de derechos, por autorización de plan de estudios, modalidad y turno a escuelas particulares:
 
@@ -5263,7 +5275,11 @@ C). Secundaria. $6,506
 
 D). Normal. $10,422
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 VIII. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior, por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez, independientemente del grado o ciclo que curse. $79
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 IX. Por cambios diversos:
 
@@ -5297,6 +5313,8 @@ E). Por cambio de plantilla de personal docente:
 
 No se causarán los derechos a que hace referencia el inciso D) de esta fracción, respecto del cambio de personal, cuando el particular acredite que el director o docente sustituido goza de incapacidad otorgada por la institución de seguridad social correspondiente.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 X. Por expedición de certificados o de duplicados de certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
 
 A). Por expedición de certificado:
@@ -5312,6 +5330,8 @@ B). Por duplicado de certificado:
 2. Educación Media Superior. $168
 
 3. Educación Superior. $238
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 XI. Por resolución de revalidación de estudios o expedición de duplicados:
 
@@ -5335,6 +5355,8 @@ C). Por modificación o enmienda:
 
 2. Educación Superior. $248
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 XII. Por resolución de equivalencia de estudios o expedición de duplicado:
 
 A). Por resolución:
@@ -5357,9 +5379,15 @@ C). Por modificación o enmienda:
 
 2. Educación Superior. $340
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 XIII. Por expedición de cédula de pasante para el ejercicio profesional. $1,066
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 XIV. Por expedición de duplicado de cédula de pasante para el ejercicio profesional. $533
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 XV. Por inscripción de:
 
@@ -5371,13 +5399,23 @@ A). Títulos profesionales con timbre holograma:
 
 B). Certificado, constancia o diplomas de especialidad con timbre holograma. $658
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 XVI. Por registro de colegios de profesionistas. $7,569
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 XVII. Por enmienda al registro de los colegios de profesionistas. $1,068
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 XVIII. Refrendo de registro de colegios de profesionistas. $1,068
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 XIX. Autorización temporal para ejercer la actividad de perito. $1,068
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 XX. Refrendo y expedición de duplicado a la autorización para ejercer la actividad de perito. $1,068
 
@@ -5396,6 +5434,8 @@ XXII. Por expedición de duplicado de cédula para el ejercicio profesional de t
 A). Superior. $600
 
 B). Medio Superior. $250
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 XXIII. Por solicitud, estudio, revisión y resolución del trámite de aprobación del reglamento académico o de titulación, o de la actualización del mismo, a planteles particulares de tipo superior. $1,058
 
@@ -5473,17 +5513,17 @@ B). Educación Media Superior. $1,068
 
 C). Educación Superior. $1,068
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
-#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE OBRA PUBLICA
+#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL AGUA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINA 17.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINAS DE LA 17 A LA 20.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 81.
 
-Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obra se pagarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Desarrollo Urbano e Infraestructura se pagarán los siguientes derechos:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE ENERO DE 2021)</small>
 
@@ -5589,11 +5629,11 @@ IV. Por la emisión de la evaluación técnica de impacto en materia de distribu
 
 No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de Microindustria.
 
-> <small>(DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 82.
 
-Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obra se pagarán los derechos siguientes
+Por los servicios prestados por la Secretaría de Desarrollo Urbano e Infraestructura se pagarán los derechos siguientes:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -5607,9 +5647,7 @@ II. Por el refrendo, el 50% de la tarifa establecida.
 
 III. Por la reposición de la credencial, el 50% de la tarifa establecida.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINAS DE LA 17 A LA 20.]</small>
-
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
 #### SECCION SEXTA BIS. DE LOS DERECHOS PRESTADOS POR LA SECRETARIA DE OBRA PUBLICA
 
@@ -5695,9 +5733,9 @@ Uso a cargo del municipio $2.20
 
 Otros usos $5.12
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría de Desarrollo Urbano y Obra y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
+Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría del Agua y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
 
 E). Conexión, tratamiento y manejo ecológico de aguas residuales:
 
@@ -5765,11 +5803,9 @@ Los estudios técnicos que con motivo de la auditoria técnica sean necesarios p
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-#### SECCION DECIMA (SIC). DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
+#### SECCION DECIMA (SIC). DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINA 32.]</small>
-
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 85.
 
@@ -6611,7 +6647,9 @@ A). De registro de licencia o permiso para conducir vehículos automotores. $59
 
 B). (DEROGADO, G.G. 21 DE DICIEMBRE DE 2022)
 
-XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas jurídicas colectivas, unidades o empresas económicas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno de la Ciudad de México; personas físicas o personas jurídicas colectivas, unidades o empresas económicas:
 
 A). Autorización. $11,234
 
@@ -6619,31 +6657,33 @@ B). Refrendo. $225
 
 Los derechos por refrendo previstos en esta fracción, se pagarán anualmente dentro de los tres primeros meses de cada año.
 
-XV. Por la realización de estudios técnicos y económicos para el establecimiento de bases o concesionarios del Gobierno del Distrito Federal; personas físicas o jurídicas colectivas, unidades o empresas económicas. $4,304
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-XVI. Expedición del permiso para el establecimiento de bases a concesionarios del Gobierno del Distrito Federal, que hayan sido autorizados para prestar el servicio público de autotransporte colectivo de pasajeros, en rutas fijas dentro del territorio del Estado. $480
+XV. Por la realización de estudios técnicos y económicos para el establecimiento de bases o concesionarios del Gobierno de la Ciudad de México; personas físicas o jurídicas colectivas, unidades o empresas económicas. $4,304
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVI. Expedición del permiso para el establecimiento de bases a concesionarios del Gobierno de la Ciudad de México, que hayan sido autorizados para prestar el servicio público de autotransporte colectivo de pasajeros, en rutas fijas dentro del territorio del Estado. $480
 
 ###### Artículo 87 Bis.
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE JUSTICIA Y DERECHOS HUMANOS
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA CONSEJERIA JURIDICA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE ENERO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
 SUBSECCION PRIMERA
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE LEGALIZACION Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE LEGISLACION Y DEL PERIODICO OFICIAL “GACETA DEL GOBIERNO”
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINAS DE LA 33 A LA 34.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 88.
 
-Por los servicios prestados por la Secretaría del Medio Ambiente que a continuación se mencionan, se pagarán los siguientes derechos:
+Por los servicios prestados por la Secretaría del Medio Ambiente y Desarrollo Sostenible que a continuación se mencionan, se pagarán los siguientes derechos:
 
 TARIFA
 
@@ -7415,7 +7455,7 @@ b) Riesgo $4,300
 
 Por la expedición del oficio que determine que una obra y/o actividad no requiere someterse al procedimiento de evaluación en materia de impacto ambiental: $506
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
 #### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL TRABAJO
 
@@ -7425,7 +7465,7 @@ Por la expedición del oficio que determine que una obra y/o actividad no requie
 
 ###### Artículo 94.
 
-Por los servicios prestados por la Dirección General de Legalización y del Periódico Oficial “Gaceta del Gobierno” se pagarán derechos conforme a la siguiente:
+Por los servicios prestados por la Dirección General de Legislación y del Periódico Oficial “Gaceta del Gobierno” se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -8969,13 +9009,11 @@ Taller autorizado en el Programa Integral de Reducción
 
 de Emisiones Contaminantes (PIREC). $4,979
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2022, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 8 DE FEBRERO DE 2022, PÁGINA 41.]</small>
-
-> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 103.
 
-Los notarios públicos deberán, efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo el documento a través del cual se acredite haber hecho del conocimiento al contribuyente la liquidación respectiva, de acuerdo con los formatos que autorice el Instituto y la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán, efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Gobierno Digital y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo el documento a través del cual se acredite haber hecho del conocimiento al contribuyente la liquidación respectiva, de acuerdo con los formatos que autorice el Instituto y la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -13933,11 +13971,13 @@ I. La Secretaría del Campo;
 
 II. La Secretaría de Finanzas;
 
-III. La Secretaría del Medio Ambiente;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+III. La Secretaría del Medio Ambiente y Desarrollo Sostenible;
 
-IV. La Secretaría de Desarrollo Urbano y Obra;
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+IV. La Secretaría del Agua;
 
 V. El organismo público descentralizado de carácter estatal denominado Protectora de Bosques del Estado de México;
 
@@ -16627,7 +16667,9 @@ IV. Solo procederá hacer pagos con base en el Presupuesto de Egresos autorizado
 
 V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
 
-La Secretaría o la Tesorería en el ámbito de sus respectivas competencias, contarán con un sistema de registro y control de las erogaciones de servicios personales.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+La Secretaría o la Tesorería, en coordinación con la Oficialía Mayor, en el ámbito de sus respectivas competencias, contarán con un sistema de registro y control de las erogaciones de servicios personales.
 
 VI. Deberán tomar medidas para racionalizar el gasto corriente.
 
@@ -17409,6 +17451,10 @@ X. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, li
 
 XI. No pagar en forma total o parcial las contribuciones dentro de los plazos señalados por este Código o lo señalado por las autoridades fiscales, en el ejercicio de sus facultades, por cualquier causa imputable al contribuyente y se sancionará con una multa del 40% al 70% de la contribución omitida.
 
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Cuando exista incumplimiento derivado de la omisión de la persona titular o servidora pública responsable de enterar las cuotas de seguridad social retenidas a los trabajadores de instituciones públicas, se aplicará a esta, una multa de un 20% al 40% de la contribución correspondiente;
+
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
@@ -17501,9 +17547,9 @@ IX. Resistirse por cualquier medio a las visitas de verificación; no proporcion
 
 X. No verificar la presentación del aviso de dictamen y del dictamen sobre la determinación de la base del Impuesto Predial en las enajenaciones de inmuebles objeto de dictaminación, de conformidad con el artículo 47 Bis-1, cuarto párrafo de este Código, lo cual se sancionará con una multa de cien y hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Cuando en el ejercicio de sus facultades las autoridades fiscales impongan sanciones a los notarios públicos, deberán informarlo a la Secretaría de Justicia y Derechos Humanos.
+Cuando en el ejercicio de sus facultades las autoridades fiscales impongan sanciones a los notarios públicos, deberán informarlo a la Consejería Jurídica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2021)</small>
 
@@ -17691,6 +17737,10 @@ III. Con prisión de tres a cinco años, cuando el monto de lo defraudado sea ma
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a tres años de prisión.
 
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Cuando el delito sea cometido por persona servidora pública que en ejercicio de sus funciones, omita total o parcialmente el entero de las cuotas o aportaciones de seguridad social, siendo responsable de ello; la pena que resulte aplicable en términos de este artículo, se aumentará hasta en una mitad más, según corresponda.
+
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 367.
@@ -17748,6 +17798,12 @@ Igual pena se aplicará al depositario que los oculte, no los ponga a disposici�
 Para proceder penalmente por los delitos fiscales previstos en este Código, será necesario que:
 
 I. Se formule la querella correspondiente por la autoridad facultada para ello.
+
+> <small>(ADICIONADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+I Bis. Cuando el delito de defraudación fiscal sea cometido por persona servidora pública que, en ejercicio de sus funciones, omita total o parcialmente el entero de las cuotas o aportaciones de seguridad social, siendo responsable de ello; presentará la querella correspondiente, la persona servidora pública del Instituto de Seguridad del Estado de México y Municipios facultada para ello. En caso de incumplimiento de dicha obligación, será sancionada en términos de las disposiciones jurídicas aplicables.
+
+El Órgano Superior de Fiscalización del Estado de México, podrá formular la querella correspondiente, respecto de los hechos u omisiones a que se refiere esta fracción y que conozca con motivo del ejercicio de sus funciones, en términos de las disposiciones jurídicas aplicables.
 
 II. La autoridad fiscal facultada para ello declare que la Hacienda Pública Estatal o Municipal ha sufrido o pudo sufrir daño o perjuicio, mediante la declaratoria correspondiente, misma que podrá cuantificar o no el monto de la defraudación, según las circunstancias que prevalezcan sobre la contribución omitida.
 
@@ -18433,9 +18489,9 @@ El importe del depósito que se constituya de acuerdo con lo que establece el pr
 
 Si la devolución no se efectúa en el plazo referido en el párrafo anterior, la autoridad fiscal pagará intereses que se calcularán por cada mes o fracción que transcurra a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-En el supuesto de que el remate se efectúe por conducto del SEITS, las posturas deberán enviarse en documento digital en los términos que señale la convocatoria para el remate, debiendo la autoridad informar a los postores, por el mismo conducto, sobre la recepción de las posturas. Dichos mensajes tendrán las características que se establezcan en la convocatoria de remate. Para participar en una subasta será necesario que el postor, antes de enviar su postura, realice el depósito de cuando menos el 20% a que se refiere el párrafo anterior, el cual podrá realizar por vía electrónica, en los términos de la Ley de Medios Electrónicos y su Reglamento.
+En el supuesto de que el remate se efectúe por conducto del SEITS, las posturas deberán enviarse en documento digital en los términos que señale la convocatoria para el remate, debiendo la autoridad informar a los postores, por el mismo conducto, sobre la recepción de las posturas. Dichos mensajes tendrán las características que se establezcan en la convocatoria de remate. Para participar en una subasta será necesario que el postor, antes de enviar su postura, realice el depósito de cuando menos el 20% a que se refiere el párrafo anterior, el cual podrá realizar por vía electrónica, en los términos de la Ley de Gobierno Digital y su Reglamento.
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -18463,15 +18519,21 @@ II. Las cantidades que se ofrezcan; y
 
 III. Los que atendiendo al caso concreto, se señalen en la convocatoria.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
+
+Si la subasta o el remate se realizan por conducto del SEITS, las posturas deberán firmarse electrónicamente en los términos de la Ley de Gobierno Digital y su Reglamento, el documento digital en el que se presente la postura deberá contener los siguientes datos:
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+1. Mención de la Clave Única de Trámites y Servicios, en los términos de la Ley de Gobierno Digital, de la persona física o de la jurídica colectiva que presente la postura y, en su caso, la clave de su Registro Federal de Contribuyentes.
+
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-Si la subasta o el remate se realizan por conducto del SEITS, las posturas deberán firmarse electrónicamente en los términos de la Ley de Medios Electrónicos y su Reglamento, el documento digital en el que se presente la postura deberá contener los siguientes datos:
-
-1. Mención de la Clave Única de Trámites y Servicios, en los términos de la Ley de Medios Electrónicos, de la persona física o de la jurídica colectiva que presente la postura y, en su caso, la clave de su Registro Federal de Contribuyentes.
 
 2. La cantidad que se ofrezca en precio cierto y determinado.
 
 3. (DEROGADO, G.G. 3 DE SEPTIEMBRE DE 2010)
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 4. El monto y número de la transferencia electrónica de fondos que haya realizado.
 
@@ -20338,3 +20400,51 @@ SEXTO.- Lo previsto en las Secciones Novena denominada "Del Impuesto Ecológico 
 SÉPTIMO.- Lo dispuesto en el artículo 221 del Código Financiero del Estado de México y Municipios, entrará en vigor a partir del 1º de abril de 2024.
 
 OCTAVO.- A efecto de dar cumplimiento a lo dispuesto por el artículo 349 del Código Financiero del Estado de México y Municipios, las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su naturaleza jurídica y según corresponda, remitirán a la Secretaría de Finanzas, en un lapso de 90 días naturales, a partir de la entrada en vigor de su reforma, los convenios, contratos, acuerdos y demás instrumentos jurídicos que impliquen un impacto presupuestario y se encuentren vigentes; asimismo, deberán armonizar, en el mismo plazo, sus disposiciones reglamentarias, a efecto de garantizar el cumplimiento de dicha obligación. El incumplimiento será sancionado en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250.- POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XI DEL ARTÍCULO 361, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 366 Y LA FRACCIÓN I BIS AL ARTÍCULO 371 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
