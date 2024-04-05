@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-02-27"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1351,7 +1351,9 @@ Siempre que se encuentre una niña, niño o adolescente en el contexto de la com
 
 Sin perjuicio de lo anterior, en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas de delitos o testigos, de conformidad con su edad, desarrollo cognoscitivo y grado de madurez, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán garantizar al menos lo siguiente:
 
-I. Que se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2024)</small>
+
+I. Que se les informe, con lenguaje claro, sencillo, accesible, conciso y comprensible sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
 
 II. Que su participación en un procedimiento se lleve a cabo de manera expedita, y asistidos por un profesional en derecho;
 
@@ -2514,6 +2516,14 @@ TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de c
 P.O. 27 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL ARTÍCULO 60 BIS A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 87 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
