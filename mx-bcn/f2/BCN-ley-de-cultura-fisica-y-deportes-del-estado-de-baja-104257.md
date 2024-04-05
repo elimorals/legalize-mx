@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2024-03-15"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -889,25 +889,29 @@ VI. Atender y dar seguimiento, en el ámbito de su competencia, a las recomendac
 
 VII. Las demás que le otorgue esta Ley, su reglamento u otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 58.
 
 El Consejo Estatal se integrará de la siguiente manera:
 
-I. Un presidente que será el Director del INDE;
+I. Una presidencia que encabezará la persona titular de la Dirección del INDE;
 
-II. Un representante de cada Consejo Municipal, que serán los titulares de los Órganos Municipales de Cultura Física y Deporte;
+II. Una persona representante de cada Consejo Municipal, que serán las personas titulares de los Órganos Municipales de Cultura Física y Deporte;
 
-III. Cinco representantes electos por las asociaciones deportivas estatales;
+III. Cinco personas representantes electos por las asociaciones deportivas estatales;
 
-IV. Un representante de los Consejos Estatales del Deporte Estudiantil;
+IV. Una persona representante de los Consejos Estatales del Deporte Estudiantil;
 
-V. Un representante de los medios masivos de comunicación del área deportiva;
+V. Una persona representante de los medios masivos de comunicación del área deportiva;
 
-VI. Un representante titular del área deportiva de las instituciones de educación de nivel superior en el estado; y
+VI. Una persona representante titular del área deportiva de las instituciones de educación de nivel superior en el Estado;
 
-VII. Un representante titular de la iniciativa privada.
+VII. Una persona representante titular de la iniciativa privada; y,
 
-A las sesiones del Consejo Estatal serán invitados permanentes, previa convocatoria, los representantes de Instituciones u organismos que fomenten la cultura física y el deporte, cuando así lo considere necesario el Consejo, quienes tendrán voz para opinar sobre los temas que se aborden.
+VIII. Una persona representante de los organismos para personas deportistas con discapacidad y en situación de vulnerabilidad.
+
+A las sesiones del Consejo Estatal serán invitados permanentes, previa convocatoria, las personas representantes de Instituciones u organismos que fomenten la cultura física y el deporte, cuando así lo considere necesario el Consejo, quienes tendrán voz para opinar sobre los temas que se aborden.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
@@ -2206,3 +2210,9 @@ P.O. 15 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 397 MEDIANTE EL CUAL SE APRUEBA LA REFORMA EL (SIC) ARTÍCULO 183 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La reforma contenida en el presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 396 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 58 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presenta (sic) reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
