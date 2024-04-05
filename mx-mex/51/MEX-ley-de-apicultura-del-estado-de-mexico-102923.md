@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apicultura-del-estado-de-mexico-102923"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-21"
-last_updated: "2023-09-29"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE APICULTURA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 21 de octubre de 2014.
 
@@ -97,7 +97,9 @@ XV. Panal: A la estructura formada por celdas de cera, al interior de una oqueda
 
 XVI. Secretaría: A la Secretaría del Campo.
 
-XVII. SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XVII. SADER: A la Secretaría de Agricultura y Desarrollo Rural;
 
 XVIII. Servicio de polinización: Al servicio técnico especializado que prestan los apicultores a través de la acción polinizadora de sus colonias de abejas, permitiendo mejores rendimientos de la actividad agrícola.
 
@@ -151,11 +153,15 @@ X. Coordinarse con autoridades federales, estatales y municipales para el contro
 
 XI. Resolver las consultas técnicas que le formulen los apicultores o asociaciones apícolas.
 
-XII. Coordinarse con la SAGARPA para la aplicación de las disposiciones que permitan el control de las movilizaciones de colonias y para la inspección de las colmenas y sus productos.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XII. Coordinarse con la SADER para la aplicación de las disposiciones que permitan el control de las movilizaciones de colonias y para la inspección de las colmenas y sus productos.
 
 XIII. Expedir las guías de tránsito de los productos de los establecimientos que extracten, manejen, acopien, procesen, industrialicen o envasen miel u otros productos de abeja en el Estado.
 
-XIV. Reportar a la SAGARPA, para que, en su caso, se establezcan las cuarentenas en zonas infestadas o infectadas, prohibiendo el traslado de colmenas que se consideren portadoras de enfermedades a zonas libres.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+
+XIV. Reportar a la SADER, para que, en su caso, se establezcan las cuarentenas en zonas infestadas o infectadas, prohibiendo el traslado de colmenas que se consideren portadoras de enfermedades a zonas libres.
 
 XV. Autorizar y registrar las marcas y señales que identifiquen la propiedad de las colonias de abejas de cada apicultor.
 
@@ -191,7 +197,9 @@ Se crea el Consejo Apícola del Estado de México con el objeto de apoyar la eje
 
 El Consejo Apícola estará integrado por el titular de la Secretaría, quien lo presidirá, el presidente de las asociaciones de apicultores de las zonas apícolas y representantes de los industriales de la miel y otros productos de la colmena.
 
-Se podrá invitar a un representante de la delegación en el Estado de México de la Sagarpa.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+Se podrá invitar a un representante de la delegación en el Estado de México de la SADER.
 
 El Consejo Apícola podrá invitar a investigadores destacados en materia apícola.
 
@@ -277,9 +285,11 @@ XI. Las demás que les confiera esta Ley y su reglamento.
 
 ### CAPÍTULO VI. MOVILIZACIÓN DE COLMENAS Y SUS PRODUCTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 13.
 
-Para la movilización y transportación de colmenas y sus productos deberá constarse con las guías de tránsito, la constancia de origen para la movilización de los productos del campo, expedidas por la Secretaría, el certificado zoosanitario expedido por las instancias oficialmente autorizadas por la SAGARPA así como los siguientes requerimientos:
+Para la movilización y transportación de colmenas y sus productos deberá constarse con las guías de tránsito, la constancia de origen para la movilización de los productos del campo, expedidas por la Secretaría, el certificado zoosanitario expedido por las instancias oficialmente autorizadas por la SADER, así como los siguientes requerimientos:
 
 I. Presentar una solicitud de ingreso ante la Secretaría, misma que debe contener los siguientes datos:
 
@@ -291,7 +301,9 @@ c) Raza, variedad o tipo de abeja.
 
 d) Municipio, comunidad y sitio a donde se trasladará, el o los apiarios.
 
-e) Constancia de la SAGARPA en donde se certifica que las reinas son europeas y están marcadas.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+e) Constancia de la SADER en donde se certifica que las reinas son europeas y están marcadas.
 
 f) Croquis de macro y micro localización y/o georefencia del lugar en donde se colocará el apiario.
 
@@ -305,7 +317,9 @@ a) Copia del aviso por escrito a la organización local de apicultores para esta
 
 b) Permiso del propietario del terreno, donde se ubicará el apiario.
 
-c) Certificado zoosanitario suscrito por la SAGARPA del estado de procedencia.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+c) Certificado zoosanitario suscrito por la SADER del estado de procedencia.
 
 d) Guía de tránsito.
 
@@ -313,9 +327,11 @@ d) Guía de tránsito.
 
 Las colmenas o núcleos deben movilizarse perfectamente cubiertas con mallas o cualquier otro material con la finalidad de proteger a la población civil de una posible salida de abejas. El vehículo deberá portar una leyenda claramente visible que señale que en su interior se transportan colonias de abejas para su fácil identificación.
 
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 15.
 
-Para la movilización y transportación de colmenas y sus productos deberá contarse con la guía de tránsito y certificado zoosanitario, expedida la primera por la Secretaria y la segunda por la SAGARPA.
+Para la movilización y transportación de colmenas y sus productos deberá contarse con la guía de tránsito y certificado zoosanitario, expedida la primera por la Secretaría y la segunda por la SADER.
 
 ### CAPÍTULO VII. DE LA INSTALACIÓN DE LOS APIARIOS
 
@@ -483,7 +499,9 @@ II. Coaccionar a los apicultores o a quienes se dediquen a esta actividad para q
 
 III. Extralimitarse en las facultades señaladas en el artículo anterior.
 
-El incumplimiento de estas fracciones provocará que el inspector se haga acreedor a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+El incumplimiento de estas fracciones provocará que el inspector se haga acreedor a las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ### CAPÍTULO XII. DE LOS SERVICIOS DE POLINIZACIÓN
 
@@ -764,3 +782,39 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. La Secretaría del Campo, en un periodo de 90 días naturales posteriores a la publicación del presente Decreto elaborará y publicará los lineamientos técnicos para creación de los Espacios Polinizadores.
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
