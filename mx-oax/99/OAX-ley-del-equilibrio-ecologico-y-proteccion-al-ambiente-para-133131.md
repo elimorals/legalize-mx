@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2024-02-24"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -213,7 +213,9 @@ LVI. Restauración: Conjunto de actividades tendientes a la recuperación y rest
 
 LVII. Ruido: Todo sonido que, por su timbre, intensidad o duración, moleste o perjudique a las personas.
 
-LVIII. Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+LVIII. Secretaría: Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad.
 
 LIX. Servicios ambientales: Los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano;
 
@@ -397,47 +399,37 @@ Los Convenios o Acuerdos suscritos para los fines del presente artículo deberá
 
 ### CAPÍTULO III. DE LA POLÍTICA AMBIENTAL
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
+
 ###### Artículo 9.
 
-Para formular y conducir la política ambiental estatal, así como, expedir y aplicar los instrumentos previstos en esta Ley, en materia de aprovechamiento sustentable de los recursos naturales, preservación y restauración del equilibrio ecológico y la protección al ambiente las autoridades tendrán en cuenta los siguientes principios:
+La formulación y conducción de la política ambiental en el Estado, así como la expedición, aplicación e interpretación de los instrumentos previstos en esta ley, estará sujeta al cumplimiento de los siguientes principios:
 
-I. Toda persona tiene derecho a vivir en un ambiente sano para su desarrollo, salud y bienestar. Las autoridades, en los términos de ésta y otras Leyes, garantizarán y tomarán las medidas para cumplir ese derecho;
+I. Principio de Prevención: las causas y las fuentes de los problemas ambientales se atenderán en forma prioritaria e integrada, tratando de prevenir los efectos negativos que sobre el ambiente se pueden producir tratándose de posibles daños o de riesgos, en los que mediante la evaluación de impacto ambiental, es posible conocer las consecuencias derivadas del desarrollo de determinado proyecto, obra o actividad, se deberá adoptar decisiones a favor del medio ambiente antes de que el riesgo o el daño se produzcan; con el fin de reducir sus repercusiones o de evitarlas;
 
-II. Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure la sustentabilidad, compatible con su equilibrio e integridad;
+II. Principio de precaución e in dubio pro natura: cuando haya un probable peligro de daño grave e irreversible, la falta de certeza científica absoluta no deberá utilizarse como razón para postergar la adopción de medidas eficaces en función de los costos para impedir la degradación del medio ambiente siempre que en un proceso haya una colisión entre el medio ambiente y otros intereses, y ante la duda, deberá resolverse en favor de la naturaleza;
 
-III. Asumir la responsabilidad de la preservación y restauración del equilibrio ecológico y de la protección al ambiente, en forma conjunta con los particulares y con la sociedad organizada;
+III. Principio de progresividad: los objetivos ambientales deberán ser logrados en forma creciente, a través de acciones y medidas que permitan y garanticen el alcance de esos objetivos: una conquista ambiental, como la consecución de un objetivo ambiental, en consecuencia, no podrá ser limitada, restringida o sacrificada salvo que esté absoluta y debidamente justificado;
 
-IV. Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente, promueva o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales;
+IV. Principio de reparación: el causante de la degradación del ambiente y de sus componentes, sea una persona natural o jurídica, pública o privada, está obligado a adoptar inexcusablemente las medidas para restauración, rehabilitación o reparación según corresponda o, cuando lo anterior no fuera posible, a compensar en términos ambientales los daños generados, sin perjuicio de otras responsabilidades administrativas, civiles o penales a que hubiera lugar.
 
-V. La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de la vida de las futuras generaciones;
+El Estado y los Municipios serán responsables de los efectos ambientales adversos de su propio accionar, así como de la minimización de los riesgos ambientales sobre los sistemas ecológicos compartidos.
 
-VI. La prevención de las causas que los generan, es el medio más eficaz para evitar los desequilibrios ecológicos;
+V. Principio de restauración: en los casos de impacto ambiental grave, permanente, o sistemático, incluidos los ocasionados por la explotación de los recursos naturales no renovables, el Estado establecerá los mecanismos más eficaces para alcanzar la restauración (sic) los sistemas naturales afectados, y adoptará las medidas adecuadas para eliminar o mitigar las consecuencias ambientales. Esta restauración será independiente de la obligación que tienen el causante de la degradación ambiental;
 
-VII. La coordinación entre las dependencias y entidades de la administración pública y entre los niveles de gobierno federal y municipal, son indispensables para la eficacia de las acciones ecológicas;
+VI. Principio de desarrollo sostenible y equidad intergeneracional: el desarrollo económico y social y el aprovechamiento de los recursos naturales deberán realizarse a través de una gestión apropiada del ambiente, de manera tal, que no comprometa las posibilidades de las generaciones presentes y futuras; en todo proyecto, obra o actividad, se deberá considerar, el impacto sobre el derecho a un ambiente sano para el desarrollo y bienestar de las generaciones futuras.
 
-VIII. Los sujetos de la concertación ecológica son los individuos, los grupos y organizaciones sociales. El propósito de la concertación de acciones en materia de gestión ambiental es reorientar la relación entre la sociedad y la naturaleza;
+El Estado promoverá en todo el territorio, que el ordenamiento ecológico identifique la aptitud del territorio y, con ello, el mejor uso del mismo y regule las actividades productivas y de servicios, de manera que se asegure la conservación de los recursos naturales y la prosperidad de los oaxaqueños;
 
-IX. En el ejercicio de las atribuciones que las leyes confieren al Estado, para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación y restauración del equilibrio ecológico;
+VII. Principio de participación: el mejor modo de tratar las cuestiones ambientales es con la participación y concertación de todos los ciudadanos interesados, en el nivel que corresponda.
 
-X. Que las normas y los derechos ambientales se tomen en cuenta de manera fundamental en los planes y programas de Gobierno y en las actividades de otros sectores de la sociedad oaxaqueña;
+Toda persona deberá tener acceso adecuado a la información que sobre el medio ambiente dispongan las autoridades, así como la oportunidad de participar en los procesos de adopción de decisiones que puedan generar un impacto en el medio ambiente. La coordinación entre las dependencias y entidades de la administración pública y entre los niveles de gobierno federal, estatal y municipal, son indispensables para la eficacia de las acciones ecológicas.
 
-XI. Que se procure la capacidad técnica, financiera y humana para realizar actividades de investigación, planeación y administración encaminadas al desarrollo sustentable del Estado;
+Los sujetos de la concertación ecológica son los individuos, los grupos, organizaciones sociales y pueblos indígenas o afromexicanos. El propósito de la concertación de acciones en materia de gestión ambiental es reorientar la relación entre la sociedad y la naturaleza.
 
-XII. Promover en todo el territorio del Estado, que el ordenamiento ecológico identifique la aptitud del territorio y, con ello, el mejor uso del mismo y regule las actividades productivas y de servicios, de manera que se asegure la conservación de los recursos naturales y la prosperidad de los oaxaqueños;
+Las comunidades indígenas y afromexicanas tienen el derecho a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo con lo que determine la presente Ley y demás ordenamientos aplicables; cualquier acto que sea susceptible de afectar el ambiente en su territorio se regirá inexcusable bajo el principio de participación, el cual será garantizado a través del derecho a la consulta.
 
-XIII. Restaurar las áreas degradadas y promover la forestación o reforestación con especies nativas, de acuerdo con las condiciones climáticas locales y la vegetación original;
-
-XIV. Garantizar el derecho de las comunidades, incluyendo a los (sic) comunidades indígenas y afromexicanas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo con lo que determine la presente Ley y demás ordenamientos aplicables;
-
-XV. La erradicación de la pobreza es necesaria para el desarrollo sustentable;
-
-XVI. Las mujeres cumplen una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su completa participación es esencial para lograr el desarrollo sustentable;
-
-XVII. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los recursos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población;
-
-XVIII. La educación ambiental constituye un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales, y;
-
-XIX. La participación de la ciudadanía es estratégica en la protección del medio ambiente, por lo cual incentivar su participación responsable debe ser necesario para que las políticas puedan ser adoptadas.
+VIII. Principio de educación ambiental: es indispensable una educación en labores ambientales, para ensanchar las bases de una opinión pública bien informada y de una conducta de los individuos, de las empresas y de las colectividades, inspirada en el sentido de responsabilidad en cuanto a la protección y mejoramiento del medio en toda su dimensión humana. Es también esencial que los medios de comunicación de masas eviten contribuir al deterioro del medio humano y difundan, por el contrario, información de carácter educativo sobre la necesidad de protegerlo y mejorarlo, a fin de que las personas puedan desarrollarse en todos los aspectos.
 
 ### CAPÍTULO IV. DE LOS INSTRUMENTOS DE LA POLÍTICA AMBIENTAL
 
@@ -677,9 +669,11 @@ d) El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
 
 e) En general, aquellas actividades relacionadas con la preservación y restauración de equilibrio ecológico y del ambiente.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
+
 ###### Artículo 26.
 
-La Secretaría en coordinación con la Secretaría de Economía y demás instancias competentes, promoverán el desarrollo de la capacitación y adiestramiento para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece ésta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
+La Secretaría en coordinación con la Secretaría de Desarrollo Económico y demás instancias competentes, promoverán el desarrollo de la capacitación y adiestramiento para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
 
 #### SECCIÓN VI. DE LA REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
@@ -2281,9 +2275,11 @@ La Secretaría promoverá directamente o en coordinación con las dependencias f
 
 ### CAPÍTULO IV. ACTIVIDADES QUE NO SEAN CONSIDERADAS ALTAMENTE RIESGOSAS
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
+
 ###### Artículo 170.
 
-El Gobernador del Estado, a propuesta de la Secretaría y previa opinión de las Secretarías de Salud; de las Infraestructuras y Ordenamiento Territorial Sustentable; de Desarrollo Agropecuario, Pesca y Acuacultura; y de Economía, así como a la Coordinación Estatal de Protección Civil, determinará y publicará en el Periódico Oficial del Gobierno del Estado los criterios para considerar una actividad no altamente riesgosa.
+El Gobernador del Estado, a propuesta de la Secretaría y previa opinión de las Secretarías de Salud; de la Secretaría de Infraestructuras y Comunicaciones; de Fomento Agroalimentario y Desarrollo Rural; y de Desarrollo Económico, así como a la Coordinación Estatal de Protección Civil, determinará y publicará en el Periódico Oficial del Gobierno del Estado los criterios para considerar una actividad no altamente riesgosa.
 
 ###### Artículo 171.
 
@@ -3262,3 +3258,19 @@ P.O. 24 DE FEBRERO DE 2024.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2074.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 9 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2077.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LVIII DEL ARTÍCULO 4, EL ARTÍCULO 26 Y EL ARTÍCULO 170 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
