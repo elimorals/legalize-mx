@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2024-03-08"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -1903,6 +1903,22 @@ III. Por la exposición que el que, o los que, ejerzan la patria potestad hicier
 
 IV. Por incumplimiento de la obligación alimentaria por más de 90 días sin causa justificada.
 
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+V. Cuando el Titular de ella sea condenado por el delito de feminicidio o de feminicidio en grado de tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a la patria potestad.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VI. Por la negativa injustificada y reiterada de cumplir con la convivencia decretada por autoridad competente o en virtud de convenio aprobado judicialmente.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VII. La embriaguez habitual, el uso ilegal y persistente de drogas, estupefacientes o sustancias psicotrópicas sin prescripción médica.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VIII. Cuando el que la ejerza, sea condenado por la comisión de un delito doloso en el que la víctima sea el menor.
+
 ###### Artículo 299.
 
 Los nuevos cónyuges no ejercerán la patria potestad sobre los hijos del matrimonio o relación anterior de su cónyuge.
@@ -1918,6 +1934,14 @@ II. Por ausencia, declarada en forma;
 III. Por sentencia condenatoria que imponga como pena esta suspensión; o
 
 IV. Por no permitir que se lleven a cabo las convivencias decretadas por la autoridad judicial o por convenio aprobado judicialmente.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+V. Por auto de vinculación a proceso dictado por delito de feminicidio o tentativa de feminicidio cometido por quien ejerza la patria potestad en contra de la madre de la niña o niño sujeto a patria potestad.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VI. Por auto de vinculación a proceso penal por actos que atenten contra la integridad física, la salud, la libertad y la libertad sexual de la mujer, cometido por quien ejerza la patria potestad en contra de la madre de la niña o niño sujeto a la patria potestad.
 
 ###### Artículo 301.
 
@@ -5738,3 +5762,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2073.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V, VI, VII Y VIII AL ARTÍCULO 298, Y LAS FRACCIONES V Y VI AL ARTÍCULO 300 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
