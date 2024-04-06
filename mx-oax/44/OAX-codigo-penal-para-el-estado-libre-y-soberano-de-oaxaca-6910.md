@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-03-08"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4597,17 +4597,33 @@ Cuando el daño se cometa en bienes de dominio privado, este delito se perseguir
 
 Encubrimiento.
 
-390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientos pesos, al que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
+
+390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientas veces la unidad de medida y actualización vigente, al que:
 
 I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
 
 Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
 
-II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la Fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste debe respeto, gratitud o amistad;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
+II.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o pariente del requerido o de personas a quienes este debe respeto gratitud o amistad;
 
-IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+III.- Impida o dificulte la investigación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este artículo, o
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV.- Preste auxilio o cooperación de cualquier especie al autor del delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito, salvo las personas exceptuadas en la fracción II de este artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+Las excusas absolutorias contenidas en las fracciones I, III y IV no serán aplicables cuando se trate de delitos de feminicidio u homicidio doloso de mujeres, la excusa absolutoria prevista en la fracción II no será aplicable en los mismos casos a los parientes por consanguinidad en línea recta ascendente o descendente después del cuarto grado y en la colateral por consanguinidad después del segundo grado, ni a las personas que deben respeto, gratitud o amistad al sujeto activo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+390 Bis.- La o el Juez teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 74, podrán imponer en los casos de encubrimiento de delitos de feminicidio u homicidio doloso de mujeres, en lugar de las sanciones señaladas, hasta las dos terceras partes de las penas que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
@@ -6350,3 +6366,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2006.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO, LAS FRACCIONES II Y III DEL ARTÍCULO 390; SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 390, Y EL ARTÍCULO 390 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
