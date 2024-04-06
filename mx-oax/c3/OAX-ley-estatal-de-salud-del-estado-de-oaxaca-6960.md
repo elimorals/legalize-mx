@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-01-22"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 22 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1191,13 +1189,29 @@ ARTICULO 65 DECIES. Las autoridades sanitarias, educativas y laborales, en sus r
 
 ### CAPITULO VI. SALUD MENTAL
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 66.
 
-La prevención de las enfermedades mentales tienen carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La salud mental y la prevención de las adicciones tendrán carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental. El Estado garantizará el acceso universal, igualitario y equitativo a la atención de la salud mental y de las adicciones a las personas en el territorio estatal.
 
-Se prestará especial atención a la prevención del abandono y la violencia intrafamiliar como factores que inciden en los desequilibrios de la salud mental y emocional de mujeres, menores y otros miembros de la familia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+Para los efectos de esta Ley, se entiende por salud mental al estado de bienestar físico, mental, emocional y social, determinado por la interacción del individuo con la sociedad y vinculado al ejercicio pleno de los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+ARTICULO 66 BIS.- La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 33 de esta Ley.
+
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de las personas usuarias de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, con perspectiva de género y participación social.
+
+Las acciones, programas y servicios de prevención y atención de las adicciones se establecen en la Ley de Prevención, Tratamiento y Control de las Adicciones para el Estado de Oaxaca.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1209,9 +1223,113 @@ I.- El desarrollo de actividades educativas, socioculturales y recreativas que c
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III:- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV.- La realización y difusión de programas específicos y profesionales para prevenir y atender el suicidio y la autolesión, preferentemente de niñas, niños, adolescentes y personas jóvenes;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+V.- La recopilación de información accesible que coadyuve a detectar los síntomas y conductas que presenten las personas ante algún tipo de trastorno, conducta o factor de afectación a la salud mental para eliminar los prejuicios hacia las personas con algún padecimiento o afectación a la salud mental, a fin de concientizar a la población sobre la atención que debe darse, así como los lugares a donde puede acudir;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VI.- Acciones de prevención y promoción en materia de salud mental, dirigidas a todas las familias, en especial de las comunidades rurales, con el fin de fortalecer el bienestar de las mismas, especialmente de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VII.- Programas y acciones de prevención y promoción en materia de salud mental en centros laborales, con el fin de fortalecer el bienestar laboral, personal y familiar de las mujeres y hombres trabajadores;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VIII.- La realización de acciones específicas de prevención de problemas prioritarios de salud mental en el Estado, tales como: violencia de género, familiar y escolar, maltrato infantil, abuso de sustancias, suicidio, entre otras; así como las acciones específicas de fortalecimiento a los grupos vulnerables asociados o resultantes de las problemáticas antes citadas;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IX.- El fortalecimiento del trabajo conjunto de organizaciones de la sociedad civil, grupos de autoayuda y organismos no gubernamentales similares, cuyas acciones inciden en el fortalecimiento del bienestar y la salud mental de la población;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+X.- Robustecer las acciones comunitarias que permitan el reconocimiento y la promoción de factores de protección y disminuyan los factores de riesgo;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XI.- Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo que pudieran conducir a un suicidio o intento de suicidio y colaborar en el desarrollo de las mismas, cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XII.- Implementar programas y estrategias de atención para beneficio de la salud mental en instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XIII.- Establecer alianzas estratégicas con los diversos medios de comunicación para cubrir las necesidades de atención y la difusión de las actividades en pro de la salud mental;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XIV.- Realizar acciones de capacitación, a través de la implementación de talleres psicoeducativos y de sensibilización para el manejo de los temas de salud mental con responsabilidad social y para que éstos sean abordados de manera profesional e informada, evitando contenidos que puedan generar confusión en la sociedad respecto a este tema;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XV.- Desarrollar y establecer acciones de difusión en los medios de comunicación sobre la salud mental, encaminadas a reducir el estigma de los trastornos mentales y expresar información veraz y objetiva para fomentar los valores que contribuyan en la prevención y atención del suicidio; y
+
+XVI.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+ARTICULO 67 BIS.- La Secretaría de Salud del Estado elaborará un programa de prevención, detección, atención y canalización de la conducta suicida, con base a las siguientes acciones:
+
+I. El programa de prevención y atención requiere corresponsabilidad y compromiso interinstitucional, con la participación de los poderes Ejecutivo, Legislativo y Judicial del Estado, así como con los Ayuntamientos y los sectores social y privado, para reforzar el objetivo común de prevenir la conducta suicida en la población;
+
+II. Coordinar a todas sus unidades administrativas y organismos sectorizados de forma sinérgica, armónica y congruente, con la finalidad de prevenir, detectar e intervenir conductas que de forma directa o indirecta estén asociadas a disminuir el suicidio;
+
+III. En coordinación con las Dependencias y Entidades de la Administración Pública Estatal realizar acciones de prevención, capacitación y una oportuna canalización de casos en riesgos psicosociales y conductas suicidas;
+
+IV. Generar estrategias de capacitación para los tres niveles de atención, las cuales preferentemente incluirán todo lo establecido en los tratados e instrumentos internacionales de los que es parte el Estado Mexicano, enfocados a la prevención y atención de la conducta suicida, con la finalidad de que en los tres niveles de atención se pueda detectar, prevenir, tratar, referir y rehabilitar a la población en riesgo de suicidio, para los siguientes fines:
+
+a) Mejorar los servicios médicos de las Instituciones de Salud Pública del Estado, en todas las especialidades y niveles de atención;
+
+b) Optimizar las estrategias de asistencia social, apoyo y rehabilitación en los pacientes vulnerables por factores de riesgo suicida;
+
+c) Instaurar líneas de acción preventiva y de atención comunitaria, grupos minoritarios y vulnerables;
+
+d) Realizar programas para medir, evaluar, investigar e instrumentar medidas de acción para la prevención del suicidio.
+
+V. Promover factores ambientales favorables y protectores que se establecerán como prioritarios en los programas de prevención y atención, los cuales deberán incluir:
+
+a) La promoción de la inteligencia emocional;
+
+b) El manejo de la ansiedad y la depresión;
+
+c) El fortalecimiento de la autoestima;
+
+d) La promoción de habilidades para la resolución de problemas; y
+
+e) Promover la resiliencia.
+
+VI. Realizar estrategias específicas de detección, atención y referencia de las personas de alto riesgo suicida o que presentan conductas de riesgo que incluyan:
+
+a) El establecimiento de una línea telefónica de ayuda, en materia de atención psicoafectiva abierta para la población, con el objeto de detectar oportunamente riesgos para la salud mental y de conductas suicidas, intervenir para el logro del restablecimiento de la salud mental y el equilibrio interno, así como con el fin de lograr una canalización adecuada y oportuna;
+
+b) Dar atención y seguimiento a las familias donde se intentó o consumó un acto suicida;
+
+c) Implementar programas de atención, contención y rehabilitación para personas que han sobrevivido a intentos suicidas y sus familias;
+
+VII. Promover líneas de investigación relacionados con la identificación detallada de riesgos psicosociales y factores de riesgo suicida;
+
+VIII. Establecer estrategias de corresponsabilidad con la Secretaría de Educación Pública en materia de prevención del suicidio, con la finalidad de:
+
+a) Involucrar en todos los niveles académicos una cultura de prevención del suicidio;
+
+b) Establecer redes de captación de referencia y contra referencia de casos de alto riesgo como lo son alcohol, drogas, violencia, trastornos mentales y enfermedades médicas;
+
+c) Capacitar en el desarrollo de empatía a las personas educadoras para la intervención en estudiantes en riesgo; y
+
+d) Desarrollar un modelo escolar implementando la integración de padres, estudiantes y autoridades sobre la atención de salud mental y prevención del suicidio; así como el aviso a familiares después de una crisis emocional o conductual y de riesgo suicida.
+
+IX. Generar estrategias con los medios de comunicación, para que, como parte de su política de responsabilidad social, contribuyan a sensibilizar, concientizar e informar a la población, desde un enfoque de prevención, sobre factores de riesgo psicosocial que de forma directa o indirecta están asociados con el pensamiento suicida, sobre la sintomatología asociada a las ideas o conducta suicida, y sobre otras manifestaciones que evidencien un trastorno emocional y/o conductual que pueda convertirse en un factor predisponente, precipitante o que incremente la probabilidad de que se presente en la persona una conducta suicida. De igual forma, contribuir a promover mensajes que induzcan a eliminar estigmas relacionados con los trastornos mentales y la conducta suicida.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1219,9 +1337,29 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 La atención de las enfermedades mentales comprende:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-II.- La organización, operación, y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+I.- La atención de personas con padecimientos o trastornos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+II.- La organización, operación, y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de personas con trastornos mentales, debiendo contar con protocolos que salvaguarden los derechos humanos de sus pacientes;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+III.- La atención de personas con trastornos mentales y del comportamiento, la evaluación diagnóstica integral y tratamientos integrales, así como la rehabilitación psiquiátrica de enfermos mentales crónicos, con discapacidad intelectual y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV.- La organización, operación y supervisión de establecimientos dedicados al tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+V.- La reintegración de la persona con trastornos mentales y del comportamiento a su entorno familiar y a la comunidad, a través de su incorporación a programas sociales, asistenciales y talleres protegidos existentes, en coordinación con otros sectores, para la debida atención de estos pacientes; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV (SIC).- La atención de personas con trastornos depresivos y de ansiedad con tendencias al suicidio, brindándoles tratamientos integrales a través de un diagnóstico oportuno y de seguimiento para su recuperación.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1229,15 +1367,21 @@ II.- La organización, operación, y supervisión de instituciones dedicadas al 
 
 Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento, especialmente tratándose de niñas, niños, adolescentes y personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento y que se requiera el internamiento de la niña, niño o adolescente, deberá respetarse lo dispuesto por el artículo 75 de la Ley General de Salud y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de aquéllos. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado y demás legislación aplicable.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 70.
 
-La Secretaría de Salud del Estado, conforme a las disposiciones legales y normativas aplicables, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud.
+La Secretaría de Salud del Estado, conforme a las disposiciones legales y normativas aplicables, prestará atención a las personas con trastornos mentales y del comportamiento que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud.
 
-A estos efectos, se establecerá la coordinación necesarias entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+A este efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ABRIL DE 2022)</small>
 
@@ -4290,3 +4434,13 @@ P.O. 28 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2008.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 66, LA FRACCIÓN III DEL ARTÍCULO 67, LAS FRACCIONES I Y II DEL ARTÍCULO 68, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 69 Y EL ARTÍCULO 70; SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 66; EL ARTÍCULO 66 BIS; LAS FRACCIONES IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV Y XV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE PARA SER XVI DEL ARTÍCULO 67; EL ARTÍCULO 67 BIS; LAS FRACCIONES III, IV, V Y VI DEL ARTÍCULO 68 Y UN TERCER PÁRRAFO AL ARTÍCULO 69; SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66, TODOS DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO: Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+TERCERO: Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado a los ejecutores del gasto correspondiente, y en caso de que se realice alguna modificación a la estructura orgánica de los mismos, esta deberá realizarse conforme a las disposiciones jurídicas aplicables.
