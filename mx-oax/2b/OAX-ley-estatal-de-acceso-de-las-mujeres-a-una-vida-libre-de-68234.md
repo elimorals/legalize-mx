@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-03-08"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -131,47 +131,53 @@ VI. Violencia Contra las Mujeres: Cualquier acción u omisión, que por razón d
 
 VII. Perspectiva de Género: Es la visión científica, analítica, política y social de mujeres y hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-VIII. Acciones: Los mecanismos llevados a cabo por autoridades federales, estatales, municipales y organizaciones públicas y privadas, tendientes a promover la igualdad y evitar la discriminación, orientados a prevenir y erradicar la violencia contra las mujeres;
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VIII. Perspectiva Intercultural: visión que toma como punto de partida la constatación de una realidad social y cultural diversa, que busca contribuir al cambio de las dinámicas de exclusión, invisibilización y desigualdad que enfrentan determinados grupos sociales que pertenecen a una cultura históricamente marginados y discriminados;
+
+IX. Acciones: Los mecanismos llevados a cabo por autoridades federales, estatales, municipales y organizaciones públicas y privadas, tendientes a promover la igualdad y evitar la discriminación, orientados a prevenir y erradicar la violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IX. Víctima: mujer que individual o colectivamente haya sufrido daños, inclusive lesiones físicas, mentales, sufrimiento emocional, pérdida financiera, menoscabo sustancial de sus derechos fundamentales como consecuencia de acciones u omisiones que violen la legislación vigente, incluida la que proscribe el abuso de poder o a quien se inflige cualquier tipo de violencia.
+X. Víctima: mujer que individual o colectivamente haya sufrido daños, inclusive lesiones físicas, mentales, sufrimiento emocional, pérdida financiera, menoscabo sustancial de sus derechos fundamentales como consecuencia de acciones u omisiones que violen la legislación vigente, incluida la que proscribe el abuso de poder o a quien se inflige cualquier tipo de violencia.
 
 Se entiende como víctima también a los familiares, personas a cargo que tengan relación inmediata con la víctima directa y a las personas que hayan sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
-X. Agresor: La persona que inflige cualquier tipo y modalidad de violencia contra las mujeres;
+XI. Agresor: La persona que inflige cualquier tipo y modalidad de violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XI. Tipos de Violencia: Psicológica, física, patrimonial, económica, sexual, feminicida, cibernética, política, simbólica, digital y análogas que lesionen o sean susceptibles de dañar la dignidad e integridad o libertad de las mujeres, descritas en la presente Ley;
+XII. Tipos de Violencia: Psicológica, física, patrimonial, económica, sexual, feminicida, cibernética, política, simbólica, digital y análogas que lesionen o sean susceptibles de dañar la dignidad e integridad o libertad de las mujeres, descritas en la presente Ley;
 
-XII. Modalidades de la Violencia: Son los contextos, espacios, lugares o ámbitos en que se presenta la violencia contra las mujeres;
+XIII. Modalidades de la Violencia: Son los contextos, espacios, lugares o ámbitos en que se presenta la violencia contra las mujeres;
 
-XIII. Discriminación: Exclusión o restricción hacia las mujeres, que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio de sus derechos humanos y libertades fundamentales en las esferas política, económica, social, cultural, civil u otras;
+XIV. Discriminación: Exclusión o restricción hacia las mujeres, que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio de sus derechos humanos y libertades fundamentales en las esferas política, económica, social, cultural, civil u otras;
 
-XIV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en caso de enfermedad;
+XV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en caso de enfermedad;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+XVI. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVI. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
+XVII. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
+XVIII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVIII. Protocolo Alba: Es el mecanismo institucional que permite la coordinación inmediata de los ámbitos de competencia y responsabilidades de los tres órdenes de gobierno en la promoción y ejecución de actividades conducentes para la localización de mujeres con denuncia o reporte de desaparición, extravío o no localización.
+XIX. Protocolo Alba: Es el mecanismo institucional que permite la coordinación inmediata de los ámbitos de competencia y responsabilidades de los tres órdenes de gobierno en la promoción y ejecución de actividades conducentes para la localización de mujeres con denuncia o reporte de desaparición, extravío o no localización.
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de manera individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican, y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades; a través de programas integrales y gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres, con el objeto de la reinserción social del agresor. Este proceso deberá basarse y orientarse a la prevención de la violencia contra las mujeres, a través de procesos educativos y socioculturales, orientados a erradicar y garantizar la no repetición de la violencia contra las mujeres.
+XX. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de manera individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican, y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades; a través de programas integrales y gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres, con el objeto de la reinserción social del agresor. Este proceso deberá basarse y orientarse a la prevención de la violencia contra las mujeres, a través de procesos educativos y socioculturales, orientados a erradicar y garantizar la no repetición de la violencia contra las mujeres.
 
 ###### Artículo 7.
 
@@ -250,6 +256,10 @@ XII. Cualesquiera otras formas análogas de violencia que lesione o sean suscept
 ###### Artículo 8.
 
 Violencia en el ámbito familiar, es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o mantenga o haya mantenido una relación análoga con la víctima.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga relación de parentesco.
 
 ###### Artículo 9.
 
@@ -827,9 +837,15 @@ XX. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a
 
 XXI. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de Oaxaca;
 
-XXII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia; y
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-XXIII. Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+XXII. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XXIII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o las niñas en situación de violencia; y
+
+XXIV. Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -869,9 +885,15 @@ XV. Suspensión temporal al agresor del régimen de visitas y convivencia con su
 
 XVI. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate de domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal (sic) ; que deberá informarse al Instituto de la Función Registral del Estado de Oaxaca para realizar la anotación marginal;
 
-XVII. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de Oaxaca, a efecto de garantizar las obligaciones alimentarias; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-XVIII. Las demás que se requieran para brindar una protección a la víctima.
+XVII. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de Oaxaca, a efecto de garantizar las obligaciones alimentarias;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XVIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima; y
+
+XIX. Las demás que se requieran para brindar una protección a la víctima.
 
 ###### Artículo 27 Bis.
 
@@ -1161,9 +1183,9 @@ XXI. Los organismos o dependencias instituidos en el ámbito municipal por acuer
 
 El desempeño de estas funciones será de manera honoraria y gratuita.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
 
-A las sesiones del Sistema podrá ser invitado cualquier servidor público estatal o municipal, así como investigadores especialistas en la materia y personas de la sociedad en general, cuando por la naturaleza del asunto a tratar y a consideración de la Presidencia, sea necesario su punto de vista para la toma de decisiones. En este caso los invitados participarán con derecho a voz únicamente.
+A las sesiones del Sistema podrá ser invitado cualquier servidor público federal, estatal o municipal, así como investigadores especialistas en la materia y personas de la sociedad en general, cuando por la naturaleza del asunto a tratar y a consideración de la Presidencia, sea necesario su punto de vista para la toma de decisiones. En este caso los invitados participarán con derecho a voz únicamente.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1667,7 +1689,9 @@ d) El diseño de las campañas de prevención de la violencia contra las mujeres
 
 e) La guía de recomendaciones dirigida a los medios de comunicación, para el manejo adecuado de la información sobre la violencia contra las mujeres;
 
-IV. Capacitar con perspectiva de género a las diferentes instancias de los sectores público, privado o social, incluido el personal a su cargo, para el desempeño de su labor;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV. Capacitar con perspectiva de género, derechos humanos, diferencial, interseccionalidad e interculturalidad a las diferentes instancias de los sectores público, privado o social, incluido el personal a su cargo, para el desempeño de su labor;
 
 V. Instalar módulos de información en sus unidades administrativas, sobre las causas y efectos de la violencia contra las mujeres y su relación con la violencia social;
 
@@ -1805,11 +1829,15 @@ XII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" e
 
 XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
+
 ###### Artículo 61.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad y Protección Ciudada (sic):
 
-I. Capacitar al personal de las diferentes corporaciones policiales del Estado para atender los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+I. Capacitar al personal de las diferentes corporaciones policiales del estado para atender los casos de violencia contra las mujeres, desde la perspectiva de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 II. Tomar medidas y realizar las acciones necesarias en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
@@ -1847,9 +1875,13 @@ XII. Coordinar el diseño, la creación, implementación, evaluación y mejora d
 
 XIII. Establecer áreas especializadas con personal capacitado y perspectiva de género para la atención de las mujeres víctimas de violencia de género, y;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-IX (SIC). Las demás previstas para el cumplimiento de la presente Ley.
+XIV. Difundir por medíos electrónicos, los datos generales de las mujeres, adolescentes y niñas reportadas como desaparecidas, para que la población en general pueda aportar información sobre su paradero.
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 62.
 
@@ -2403,9 +2435,13 @@ IV. Proporcionar talleres de formación laboral, educativos y de dignificación 
 
 V. Contar con la información necesaria para la prevención de la violencia contra las mujeres;
 
-VI. Contar con el personal debidamente capacitado y especializado en las materias relacionadas con la atención a víctimas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-VII. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+VI. Contar con el personal debidamente capacitado y especializado, en derechos humanos, diferencial, interseccionalidad e interculturalidad;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VII. Dar información a las víctimas en folletos accesibles sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
 
 VIII. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
@@ -2916,3 +2952,33 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2009.- MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 39, DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas las disposiciones jurídicas de igual o menor jerarquía normativa que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1863.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VIII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 6 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico en lo que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1864.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 8; SE ADICIONA LA FRACCIÓN XXII Y SE RECORREN EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 26; SE REFORMA LA FRACCIÓN XVII Y SE ADICIONA LA FRACCIÓN XVIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 27; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 58; SE REFORMA EL PÁRRAFO PRIMERO, LA FRACCIÓN I Y SE ADICIONA LA FRACCIÓN XIV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 61; Y SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 87, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico en lo que se opongan al presente Decreto.
