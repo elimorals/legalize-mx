@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2022-10-22"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -207,39 +207,57 @@ Para el desarrollo transversal y vertical de los objetivos de esta Ley, se imple
 
 La CICC será presidida por el Gobernador del Estado y estará integrada por los titulares de las dependencias y entidades siguientes:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-I.- La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
+I.- La Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad;
 
-II.- La Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+II.- La Secretaría de Gobierno;
 
 III.- La Secretaría de Salud;
 
-IV.- La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV.- La Secretaría de Infraestructuras y Comunicaciones;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 V.- La Secretaría de Turismo;
 
-VI.- La Secretaría de Vialidad y Transporte;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-VII.- La Secretaría de Desarrollo Social y Humano;
+VI.- La Secretaría de Movilidad;
 
-VIII.- La Secretaría de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+VII.- La Secretaría de Bienestar, Tequio e Inclusión;
 
-IX.- La Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+VIII.- Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IX.- La Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
 X.- La Secretaría de Finanzas;
 
-XI.- El Instituto Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-XII.- El Instituto de la Mujer Oaxaqueña; y
+XI.- Coordinación Estatal de Protección Civil y Gestión de Riesgos;
 
-XIII.- La Coordinación General de Asuntos Internacionales de la Gubernatura del Estado.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Oaxaca, fungirá como Secretaría Técnica de la CICC y suplirá en sus ausencias al Gobernador del Estado.
+XII.- La Secretaría de las Mujeres; y
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XIII.- La Coordinación General de Asuntos Internacionales.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+La Secretaría de Medio Ambiente y Biodiversidad, Energías y Sostenibilidad, fungirá como Secretaría Técnica de la CICC y suplirá en sus ausencias al Gobernador del Estado.
 
 La CICC funcionará con base en las atribuciones especificadas que le confiere esta Ley en el artículo 10 y en el Reglamento. Sus integrantes ejercerán su labor de manera honorífica.
 
@@ -307,9 +325,13 @@ XXIII.- Diseñar y promover políticas públicas para la preservación del medio
 
 XXIV.- Diseñar políticas públicas para la construcción de edificaciones sustentables públicas del Estado y Municipios, el uso de materiales ecológicos e instalaciones que permitan la eficiencia y sustentabilidad energética y contribuyan al ahorro en el consumo de agua, la mitigación de emisiones y la captura de carbono, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
 
-XXV.- Las demás que sean necesarias para el cumplimiento de sus fines, conforme a las bases y disposiciones de esta Ley y su Reglamento.
+XXV.- Implementar estrategias, acciones y programas integrales basados en evidencias científicas para mitigar las emisiones de contaminantes mediante el impulso de la movilidad no motorizada, la electromovilidad y el transporte eficiente y sustentable, público y privado.
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+XXVI.- Las demás que sean necesarias para el cumplimiento de sus fines, conforme a las bases y disposiciones de esta ley y su Reglamento.
 
 ###### Artículo 11.
 
@@ -1118,3 +1140,19 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2075.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXV Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 10 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2077.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LVIII DEL ARTÍCULO 4, EL ARTÍCULO 26 Y EL ARTÍCULO 170 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
