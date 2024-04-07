@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-archivos-para-el-estado-de-durango-134559"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-27"
-last_updated: "2019-05-30"
+last_updated: "2024-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "DUR"
 ---
 # LEY DE ARCHIVOS PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ARCHIVOS DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 7 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ARCHIVOS PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2024 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de diciembre de 2018.
 
@@ -1540,3 +1544,43 @@ P.O. 30 DE MAYO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 2024.
+
+> <small>[N. DE E. TRANSITOROS DE LA “LEY DE ARCHIVOS DEL ESTADO DE DURANGO”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Archivos para el Estado de Durango, aprobada mediante Decreto 63, emitido por la LXVIII legislatura, y publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 103 Bis de fecha 27 de diciembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, financieros y materiales de la Dirección de Archivo Histórico del Estado de Durango dependiente de la Secretaria General de Gobierno, serán transferidos al Organismo Público Descentralizado Denominado Archivo General del Estado en los términos establecidos en la Ley para la Entrega Recepción de las Administraciones Públicas del Estado y Municipios de Durango.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos y trámites de la Dirección de Archivo Histórico del Estado de Durango dependiente de la Secretaría General de Gobierno, serán transferidos en los términos del artículo anterior y serán resueltos por el Organismo Público Descentralizado Denominado Archivo General del Estado.
+
+###### ARTÍCULO QUINTO.
+
+La persona Titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración, efectuará las reasignaciones presupuestales conducentes.
+
+###### ARTÍCULO SEXTO.
+
+La instalación de la Junta deberá realizarse dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento veinte días hábiles siguientes a la entrada en vigor del presente Decreto, se deberá emitir el Reglamento Interior del Organismo Público Descentralizado denominado Archivo General del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Consejo Estatal, deberá ser instalado dentro de los sesenta días hábiles siguientes a la entrada en función del Archivo General del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas aquellas disposiciones administrativas y legales que se opongan al presente Decreto.
