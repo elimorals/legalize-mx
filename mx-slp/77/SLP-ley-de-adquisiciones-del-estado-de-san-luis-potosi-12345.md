@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2022-05-13"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -213,9 +213,19 @@ Las instituciones llevarán un estricto control de los bienes que adquieran, man
 
 Asimismo, tomarán todas las providencias necesarias para el aseguramiento, protección, custodia y buen uso de sus bienes, debiendo cuidar que se encuentren en condiciones óptimas de uso, para lo cual les darán el mantenimiento apropiado para su conservación, y asumirán responsabilidad a la vez, en vigilar que los mismos se destinen al cumplimiento de los fines y programas establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 10.
 
-Las instituciones deberán verificar que los bienes o servicios que en su contratación se adjudiquen a los proveedores o licitantes, al entregarse y recibirse, cumplan con las normas de calidad establecidas.
+Las autoridades y demás entes públicos estatales y municipales, deberán verificar que los bienes o servicios que en su contratación se adjudiquen a los proveedores o licitantes, al entregarse y recibirse, cumplan con las Normas Oficiales Mexicanas vigentes, que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+En caso de que existan dudas sobre la aplicación e interpretación de las Normas Oficiales Mexicanas, relativo a los bienes y servicios, las autoridades y demás entes públicos estatales o municipales, podrán realizar la consulta correspondiente ante la Secretaría de Economía o las Autoridades Normalizadoras en términos de lo que dispone la Ley de Infraestructura y Calidad, y su resultado será obligatorio.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+El incumplimiento a lo anterior, generará responsabilidades administrativas en contra del servicio público, esto independientemente de las sanciones penales que procedan conforme a derecho.
 
 ###### ARTICULO 11.
 
@@ -946,5 +956,13 @@ P.O. 13 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0317.- SE ADICIONA LOS PÁRRAFOS SEGUNDO A SEXTO DEL ARTÍCULO 11, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1032.- SE REFORMA EL ARTÍCULO 10 EN SU PRIMER PÁRRAFO; Y ADICIONA AL MISMO ARTÍCULO DOS PÁRRAFOS ESTE COMO PENÚLTIMO Y ÚLTIMO DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
