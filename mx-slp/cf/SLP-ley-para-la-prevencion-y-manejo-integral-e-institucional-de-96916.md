@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-y-manejo-integral-e-institucional-de-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2022-09-09"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de diciembre de 2013.
 
@@ -165,31 +165,35 @@ De conformidad con lo dispuesto en el artículo 122 de la Ley General de Desarro
 
 ### Capítulo I. De las Autoridades
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 6°.
 
-Son autoridades en materia de prevención y manejo de incendios forestales en el Estado:
+Son autoridades en materia de prevención y manejo de incendios forestales en el Estado las personas titulares de las siguientes áreas:
 
-I. El titular del Poder Ejecutivo del Estado;
+I. Poder Ejecutivo del Estado;
 
-II. El Secretario General de Gobierno;
+II. Secretaría General de Gobierno;
 
-III. El titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
+III. Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
 
-IV. El titular de la Secretaría de Gestión Ambiental, y
+IV. Secretaría de Ecología y Gestión Ambiental, y
 
-V. El Director General de la Coordinación Estatal de Protección Civil.
+V. Dirección General de la Coordinación Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 7°.
 
-Son autoridades municipales de prevención y manejo de incendios:
+Son autoridades municipales de prevención y manejo de incendios quienes ostenten la titularidad de las siguientes áreas:
 
-I. El presidente municipal;
+I. Presidencia municipal;
 
-II. El titular del área de protección Civil;
+II. Protección Civil;
 
-III. El titular de área de ecología, o su equivalente, y
+III. Ecología, o su equivalente, y
 
-IV. El titular del área de desarrollo rural, o su equivalente.
+IV. Desarrollo rural, o su equivalente.
 
 ###### ARTÍCULO 8°.
 
@@ -197,9 +201,11 @@ Se consideran organismos auxiliares, el Comité y las asociaciones civiles de bo
 
 ### Capítulo II. De las Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 9°.
 
-Le compete al titular del Poder Ejecutivo:
+Le compete al Poder Ejecutivo:
 
 I. Establecer y diseñar la política forestal del Estado, atendiendo la prevención, detección, control y combate de incendios forestales;
 
@@ -217,15 +223,19 @@ Compete a la Secretaría General de Gobierno, en coordinación con la Dirección
 
 Coordinará las acciones en el Estado en materia de prevención, capacitación y combate de incendios forestales, en congruencia con los programas respectivos en los términos de la Ley del Sistema de Protección Civil del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-El Secretario General de Gobierno, por conducto de la Dirección General Protección Civil Estatal, y en coordinación con la SEDARH, y la CONAFOR, promoverá la celebración de convenios y acuerdos de colaboración con los ayuntamientos, organizaciones y asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal, que tendrán como objeto planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
+La Secretaría General de Gobierno, por conducto de la Dirección General (sic) Protección Civil Estatal, y en coordinación con la SEDARH, y la CONAFOR, promoverá la celebración de convenios y acuerdos de colaboración con los ayuntamientos, organizaciones y asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal, que tendrán como objeto planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
 
 Las organizaciones de defensa forestal se organizarán conforme a lo establecido en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-Le compete al titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos:
+Le compete a la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos:
 
 I. Impulsar programas y mecanismos que eviten el uso inadecuado del fuego en actividades agrícolas y forestales;
 
@@ -245,9 +255,11 @@ VIII. Procurar la coordinación con protección civil estatal, los ayuntamientos
 
 IX. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-Le compete al titular de la Secretaría de Ecología y Gestión Ambiental:
+Le compete a la Secretaría de Ecología y Gestión Ambiental:
 
 I. Elaborar estudios para que en caso de que se afecten los ecosistemas forestales por el uso del fuego, solicitar a la federación el establecimiento de restricciones para evitar una mayor deforestación en su territorio;
 
@@ -273,9 +285,11 @@ III. Promover, en coordinación con la CONAFOR y la SEDARH, la celebración de c
 
 IV. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-Los presidentes municipales, además de las atribuciones que les confiere la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, tendrán las siguientes:
+Las presidencias municipales, además de las atribuciones que les confiere la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, tendrán las siguientes:
 
 I. Participar y coadyuvar en los programas integrales de prevención y combate de incendios forestales;
 
@@ -291,9 +305,11 @@ VI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comuni
 
 VII. Las demás facultades que le confieren esta Ley, y los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Los titulares de las áreas de desarrollo rural, ecología y protección civil municipales, tendrán las atribuciones que señalen los ordenamientos legales aplicables; y serán los encargados de ejecutar las disposiciones que en uso de sus facultades dicten los ayuntamientos, en los términos de sus reglamentos de la materia.
+Las personas titulares de las áreas de desarrollo rural, ecología y protección civil municipales, tendrán las atribuciones que señalen los ordenamientos legales aplicables; y serán los encargados de ejecutar las disposiciones que en uso de sus facultades dicten los ayuntamientos, en los términos de sus reglamentos de la materia.
 
 ###### ARTÍCULO 17.
 
@@ -628,6 +644,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0385.- SE REFORMAN LOS ARTÍCULOS 34 EN SU PÁRRAFO PRIMERO Y 36, DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1030.- SE REFORMAN LOS ARTÍCULOS 6º, 7º, 9º EN SU PRIMER PÁRRAFO, 11 EN SU PRIMER PÁRRAFO, 12 EN SU PRIMER PÁRRAFO, 13 EN SU PRIMER PÁRRAFO, 15 EN SU PRIMER PÁRRAFO Y 16, DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
