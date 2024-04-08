@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2024-03-01"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -659,11 +659,9 @@ XLVI. Normar las medidas adecuadas para expedir con sujeción a esta Ley las aut
 
 XLVII. Expedir, revalidar, reponer, suspender, cancelar y llevar registro de las licencias de manejo, placas, calcomanías, signos de identificación y autorizaciones para la conducción, circulación y uso de vehículos;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-XLVII BIS. Realizar a solicitud del IPLANAY la evaluación técnica de impacto vial y movilidad, de conformidad con los requisitos que para sus efectos determine y con la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit y su Reglamento.
-
-Medidas de mejora en la operación de la movilidad, la Secretaría normará y coordinará lo concerniente a:
+XLVII. Bis. Previa solicitud de la Secretaría de Desarrollo Sustentable, emitir opinión técnica de impacto de movilidad en los términos previstos por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit y la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit; de conformidad con su ámbito competencial establecido en la presente Ley y en la Ley General de Movilidad y Seguridad Vial;
 
 XLVIII. La determinación los dispositivos de vialidad para agilizar la circulación de peatones y vehículos;
 
@@ -1036,6 +1034,10 @@ Para el caso de los convenios o acuerdos a que se refiere este artículo, se deb
 ###### Artículo 56.
 
 El estudio de Evaluación de la Movilidad tiene por objeto que la Secretaría evalúe y dictamine las posibles influencias o alteraciones generadas por la realización de obras y actividades privadas y públicas dentro del territorio del Estado de Nayarit, sobre los desplazamientos de personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida y la competitividad, propiciar el desarrollo sustentable del Estado, así como asegurar su congruencia con el Programa Integral de Movilidad, el Programa Integral de Seguridad Vial, el Gran Plan Estatal de Desarrollo y los principios establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+En materia. de asentamientos humanos, ordenamiento territorial, desarrollo urbano y fraccionamientos, la evaluación y dictaminación de impacto de movilidad se estará a lo dispuesto, además de lo previsto por la presente Ley y la Ley General de Movilidad; por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit y la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit.
 
 ###### Artículo 57.
 
@@ -4904,3 +4906,11 @@ SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efe
 TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
 
 CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE IMPACTO URBANO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Notifíquese el presente Decreto para sus efectos conducentes, a las personas titulares de la Secretaría de Desarrollo Sustentable y de la Secretaría de Movilidad.
