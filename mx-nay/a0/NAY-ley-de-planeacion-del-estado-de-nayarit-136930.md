@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2023-10-09"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -309,23 +309,15 @@ XXI. Analizar y proponer al Gobernador del Estado los proyectos de Leyes, Decret
 
 XXII. Participar en la elaboración de la Agenda Digital;
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+XXIII. A petición de la Secretaría, emitir opinión técnica en materia de impacto urbano;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-XXIII. EMITIR EN SU CASO EL DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTOS, Y
+XXIV. Las demás que le otorgue la Junta de Gobierno, las Leyes, los Reglamentos y demás disposiciones aplicables, y
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-XXIV. LAS DEMÁS QUE LE OTORGUE LA JUNTA DE GOBIERNO, LAS LEYES, LOS REGLAMENTOS Y DEMÁS DISPOSICIONES APLICABLES.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE OCTUBRE DE 2023)</small>
-
-XXV. Las demás que le otorgue la Junta de Gobierno, las Leyes, los Reglamentos y demás disposiciones aplicables.
+XXV. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
 ###### Artículo 16.
 
@@ -593,7 +585,7 @@ La Secretaría de Administración y Finanzas, en materia de planeación, tendrá
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
-I. Participar en la elaboración del Plan Estatal de Desarrollo, Plan Estratégico y Programas de Gobierno, con el objeto de definir las líneas de la política financiera , fiscal y crediticia;
+I. Participar en la elaboración del Plan Estatal de Desarrollo, Plan Estratégico y Programas de Gobierno, con el objeto de definir las líneas de la política financiera, fiscal y crediticia;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2023)</small>
 
@@ -998,3 +990,11 @@ a. El Instituto de Planeación de Nayarit IPLANAY emitirá convocatoria pública
 b. La Convocatoria deberá ser publicada en medios electrónicos y establecerá las etapas correspondientes con los plazos siguientes: diez días hábiles para recibir propuestas, cinco días hábiles para realizar la evaluación y cinco días hábiles para emitir resultados.
 
 SEXTO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal, al Instituto de Planeación de Nayarit y a los veinte Ayuntamientos del Estado, para los efectos conducentes.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ATRIBUCIONES DEL IPLANAY".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Notifíquese el presente Decreto para sus efectos conducentes, a las personas titulares de la Secretaría de Desarrollo Sustentable y del IPLANAY.
