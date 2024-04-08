@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2024-01-22"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -2776,6 +2776,32 @@ XXI. Las demás que designen las leyes aplicables en la materia y las que encomi
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 XXII. En caso de ausencia del Director de Servicios Públicos y Ecología, el Subdirector de Servicios Públicos y ecología podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+ARTICULO 114 C.- Departamento de Control y Bienestar Animal.
+
+I. Realizar la observación de animales agresores y sospechosos de rabia.
+
+II Reportar inmediatamente a la autoridad competente los casos de rabia confirmados, para orientar y canalizar adecuadamente a los posibles contactos, pacientes o personas involucradas en el caso, a las instituciones de salud para su atención y valoración clínica correspondiente.
+
+III. Promover la aplicación de la vacuna antirrábica entre caninos y felinos de manera gratuita; entregando el certificado de vacunación, el cual el propietario responsable se encuentra obligado en presentar las veces que la autoridad responsable en la materia le requiera.
+
+IV. Mantener actualizado el padrón municipal de mascotas.
+
+V. Coordinar la donación y adopción de mascotas.
+
+VI. Realizar el programa de difusión de concientización de control y cuidado de mascotas.
+
+VII. Realizar la recolección o captura de caninos y felinos en situación de calle para su esterilización, registro, identificación, actualización de base de datos y expedientes para su posterior liberación.
+
+VIII. Coordinar las campañas en las que se promoverá la esterilización, revisión, vacunación y desparasitación.
+
+IX. Promover la suscripción de convenios de colaboración con instituciones médicas, académicas y organizaciones de la sociedad civil, a fin de procurar el cuidado y bienestar animal.
+
+X. Atender reportes de la ciudadanía, realizando la canalización a la autoridad competente en el caso de detectar maltrato y/o agresión animal.
+
+XI. Coordinarse con las autoridades federales, estatales y municipales en todos aquellos asuntos inherentes a su competencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
 
@@ -23596,6 +23622,14 @@ P.O. 17 DE JULIO DE 2023.
 P.O. 22 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DE LA "REFORMA, ADICIÓN Y/O MODIFICACIÓN AL ARTÍCULO 99 FRACCIÓN XIII, CORRESPONDIENTE A LA DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DE “ADICIÓN DEL ARTÍCULO 114 C AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
