@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2024-03-12"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -979,11 +979,25 @@ X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
 XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en esta Ley y en las demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-XII. Informar por escrito a la CEGAIP, de forma mensual, sobre las solicitudes de información recibidas, el trámite y respuesta correspondiente en cada caso, y
+XII. Informar por escrito a la CEGAIP, de forma mensual, sobre las solicitudes de información recibidas, el trámite y respuesta correspondiente en cada caso;
 
-XIII. Las demás que se desprendan de la normatividad aplicable.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 8 DE ABRIL DE 2024)</small>
+
+XIII. Rendir un informe anual de actividades en el mes de enero, ante el cabildo del municipio, o ante la junta u órgano de gobierno de la institución a la que pertenezca. El informe deberá contener al menos, lo siguiente:
+
+a) Acciones llevadas a cabo en el periodo, destacando las implementadas para fortalecer la cultura de transparencia, el ejercicio de los derechos de acceso a la información, y protección de datos personales.
+
+b) Indicadores de desempeño relativos a la gestión de solicitudes de acceso a la información.
+
+c) Mecanismos implementados para asegurar que los datos personales solo se entreguen a su titular o representante.
+
+d) Acciones en materia de transparencia proactiva.
+
+e) Procesos implementados para garantizar el cumplimiento de las obligaciones de transparencia comunes y específicas, así como la protección de datos personales, y
+
+XIV. Las demás que se desprendan de la normatividad aplicable.
 
 Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
@@ -3406,6 +3420,14 @@ CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1015.- SE REFORMA EL ARTÍCULO 42 EN SUS PÁRRAFOS PRIMERO, TERCERO, CUARTO, QUINTO Y SEXTO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1033.- SE REFORMA EL ARTÍCULO 54 EN SU FRACCIÓN XII Y ADICIONA AL MISMO ARTÍCULO 54 LA FRACCIÓN XIII, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
