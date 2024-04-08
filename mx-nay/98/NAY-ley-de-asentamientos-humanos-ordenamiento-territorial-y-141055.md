@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-ordenamiento-territorial-y-141055"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2023-04-04"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Décima Octava del Periódico Oficial del Estado de Nayarit, el lunes 30 de diciembre de 2019.
 
@@ -151,6 +151,10 @@ XIV. Consejo Estatal: el Consejo Estatal de Ordenamiento Territorial y Desarroll
 
 XV. Comisiones de Ordenamiento Metropolitano o de Conurbación: las comisiones de zonas metropolitanas o de conurbación que se establezcan en el Estado;
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XV Bis. Compatibilidad urbanística: evaluación que realiza el IPLANAY previa solicitud del Ayuntamiento, únicamente en aquellos municipios donde se carezca de planes o programas municipales de ordenamiento territorial y desarrollo urbano; a efecto de analizar y verificar que las obras o proyectos tengan afinidad o congruencia y vinculación , con cualquier uso y destino de suelo, de acuerdo con lo establecido en la planeación del ordenamiento territorial y desarrollo urbano, la cual se realizará de conformidad con la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit;
+
 XVI. Consejo Municipal: el Consejo Municipal de Ordenamiento Territorial, Desarrollo Urbano y Vivienda correspondiente;
 
 XVII. Conservación: conjunto de acciones y medidas necesarias de carácter científico, técnico y jurídico para proteger y mantener el equilibrio ecológico en las zonas de servicios ambientales, así como la integridad de los bienes y áreas de protección al patrimonio natural y cultural edificado del Estado y sus Municipios frente a los distintos agentes de deterioro y alteración que pueden poner en riesgo sus valores históricos, artísticos y/o científicos; así como para preservar en buen estado la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población;
@@ -183,7 +187,11 @@ XXX. Dictamen de Congruencia de Bienes y/o Áreas de Protección al Patrimonio N
 
 XXXI. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
-XXXII. Dictamen de Impacto Urbano: El documento expedido por la Secretaría, a solicitud de una persona física o moral, pública o privada, en el cual se certifica que la acción, obra de infraestructura o de equipamiento urbano, vivienda, inversión o servicio que se pretenda realizar en la entidad y que sean de impacto urbano significativo en zona (sic) metropolitanas, en los casos previstos en esta Ley y demás disposiciones jurídicas aplicables, son congruentes con la legislación y la planeación del desarrollo urbano y el ordenamiento del territorio del Estado;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XXXII. Dictamen de Impacto Urbano, Ambiental y de Movilidad: documento que tendrá por objeto evaluar y dictaminar las posibles influencias o alteraciones causadas al entorno urbano, ambiental y de movilidad por algún proyecto público o privado en el área donde se pretenda realizar, con el fin de establecer las medidas adecuadas para la prevención, mitigación y/o compensación, permitiendo una evaluación integral de los impactos negativos generados por un proyecto determinado y el establecimiento de medidas de mitigación y/o compensación articuladas entre las materias urbana, ambiental y de movilidad.
+
+Tratándose de la evaluación de impacto urbano, ambiental y de movilidad , la opinión técnica o el dictamen correspondiente emitido, según sea el caso, por la Secretaría, la Secretaría de Movilidad y el PLANAY (sic), será vinculante y obligatorio para las otras;
 
 XXXIII. Equipamiento urbano: Edificios y áreas, predominantemente de uso público, en donde se realizan actividades complementarias a las de habitación y comercio, que proporcionan a la población servicios de bienestar social y de apoyo a las actividades económicas, sociales, culturales y recreativas, dentro de un predio o inmueble, clasificándose en atención a su cobertura en regional, urbano y barrial o local;
 
@@ -203,6 +211,10 @@ XL. Imagen urbana: Representación de los escenarios urbanos donde los habitante
 
 XLI. IMPLAN: Instituto Municipal de Planeación;
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XLI Bis. Impacto Urbano: Posibles influencias o alteraciones causadas en el entorno urbano, a las características de la estructura vial , hidráulica, sanitaria, social y económica, así como de imagen urbana existentes; por la inserción de algún proyecto público o privado, analizando sus etapas preliminares, construcción, operación y mantenimiento;
+
 XLII. Infraestructura: Obras, sistemas y redes de organización que dan soporte funcional a las redes básicas de conducción y distribución para otorgar bienes y servicios óptimos para el funcionamiento y satisfacción de un centro de población;
 
 XLIII. Intervención: Cualquier alteración o modificación que se haga al bien considerado patrimonio natural o cultural edificado, incluso aquellas que tienen como objetivo su conservación;
@@ -218,6 +230,10 @@ XLVII. Monumento: Expresión natural y/o cultural edificada que tiene un valor h
 XLVIII. Movilidad: Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad y los medios no motorizados;
 
 XLIX. Ordenamiento territorial de los asentamientos humanos: Es una política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias de desarrollo socioeconómico y la preservación ambiental;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XLIX Bis. Opinión técnica en materia urbana o de movilidad: a la que, conforme a su competencia u objeto, emita la Secretaría de Movilidad o el IPLANAY, previa solicitud de la Secretaría, para determinar la procedencia del dictamen de impacto urbano, ambiental y de movilidad;
 
 L. Paisaje urbano: Interacción de elementos ambientales entre lo urbano y lo natural que define simbólicamente el entorno de un asentamiento humano y el sentido de identidad de sus habitantes;
 
@@ -431,15 +447,25 @@ XVIII. Promover ante el Ejecutivo Federal la expropiación de terrenos ejidales,
 
 XIX. Promover en la constitución y administración, en coordinación con los Ayuntamientos, las reservas territoriales, la dotación de infraestructura, equipamiento y servicios urbanos, para el desarrollo sustentable y resiliente, así como en la protección del patrimonio natural y cultural edificado del Estado;
 
-XX. Fomentar la participación social, democrática y trasparencia en la elaboración, ejecución, evaluación y conducción de la política estatal de ordenamiento territorial y desarrollo urbano, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-XXI. Aplicar y hacer cumplir en el territorio de la Entidad el presente ordenamiento y las demás disposiciones que regulen la materia.
+XX. Fomentar la participación social, democrática y trasparencia en la elaboración, ejecución, evaluación y conducción de la política estatal de ordenamiento territorial y desarrollo urbano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2024)</small>
+
+XXI. Evaluar y dar seguimiento, por conducto de la Secretaría, en términos de las Leyes Generales y locales en la materia, en el ámbito de su competencia, al impacto urbano, ambiental y de movilidad de acciones urbanísticas que generen efectos en el territorio de uno o más municipios del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2024)</small>
+
+XXII. Aplicar y hacer cumplir en el territorio de la Entidad el presente ordenamiento y las demás disposiciones que regulen la materia.
 
 ###### Artículo 14.
 
 Para el cumplimiento de las atribuciones que esta Ley le otorga al Ejecutivo, se auxiliará del IPLANAY, que será el encargado de formular y conducir la política general en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad, a través del Sistema Estatal de Planeación y los demás instrumentos aplicables al presente ordenamiento.
 
-La Secretaría tendrá las atribuciones que en materia de Ordenamiento Territorial y Desarrollo Urbano le otorga la Ley Orgánica del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+La Secretaría tendrá las atribuciones que en materia de Ordenamiento Territorial y Desarrollo Urbano le otorga la presente Ley, la Ley Orgánica del Poder Ejecutivo del Estado y la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit.
 
 ###### Artículo 15.
 
@@ -471,9 +497,29 @@ XII. Proponer los criterios y acciones ante las autoridades competentes para el 
 
 XIII. Fijar las normas básicas para regular los asentamientos humanos, y la conservación del patrimonio inmobiliario, natural y cultural edificado del Estado;
 
-XIV. Vigilar el cumplimiento y aplicar las disposiciones legales en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano que sean de su competencia, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-XV. Presentar denuncia de las violaciones a las disposiciones de esta ley ante las autoridades competentes, especificando con ella las infracciones y proponiendo las medidas de seguridad y sanciones que de acuerdo a esta ley pudieran llegar a ser acreedores los que la quebranten.
+XIV. Vigilar el cumplimiento y aplicar las disposiciones legales en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano que sean de su competencia;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XV. Presentar denuncia de las violaciones a las disposiciones de esta ley ante las autoridades competentes, especificando con ella las infracciones y proponiendo las medidas de seguridad y sanciones que de acuerdo a esta ley pudieran llegar a ser acreedores los que la quebranten, y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XVI. A petición de la Secretaría, emitir opinión técnica en materia de impacto urbano.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 15 Bis.
+
+La Secretaría, previa opinión técnica del IPLANAY y/o de la Secretaría de Movilidad, emitirá el dictamen de impacto urbano, ambiental y de movilidad, en términos de lo previsto por las Leyes Generales y locales en la materia y de conformidad con su ámbito competencial.
+
+El estudio de impacto urbano, ambiental y de movilidad que deberán presentar los promoventes ante la Secretaría, deberá observar los Lineamientos Técnicos que emitan conjuntamente la Secretaría , la Secretaría de Movilidad y el IPLANAY, los cuales se deberán publicar en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Una vez que la Secretaría hubiese recibido la solicitud de estudio de impacto urbano, ambiental y de movilidad por parte del Promovente, en un plazo no mayor a cinco días hábiles a partir del día siguiente al de su recepción; deberá remitirlo a través de medios digitales a la Secretaría de Movilidad y al IPLANAY, a efecto de que, en un plazo no mayor a quince días hábiles, emitan su respectiva opinión técnica.
+
+La Secretaría emitirá el Dictamen de Impacto Urbano, Ambiental y de Movilidad correspondiente, en un plazo no mayor a cuarenta y cinco días naturales, a partir del día siguiente en el que hubiese recibido las opiniones técnicas señaladas en el párrafo anterior. Si el último día de emisión del Dictamen fuere en día inhábil, se emitirá en el primer día hábil siguiente.
 
 ###### Artículo 16.
 
@@ -1481,9 +1527,11 @@ IV. Las demás que se consideren necesarias para el mejor efecto de las polític
 
 V. La prevención, vigilancia y control de los procesos de ocupación irregular de las tierras.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### Artículo 81.
 
-La fundación de centros de población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas.
+La fundación de centros de población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto urbano, ambiental y de movilidad, y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas.
 
 ###### Artículo 82.
 
@@ -1717,29 +1765,29 @@ VII. Controlar que toda acción, obra, servicio o inversión en materia de desar
 
 Los Ayuntamientos a través de la autoridad municipal en materia de desarrollo urbano, expedirán las constancias de compatibilidad urbanística en los casos siguientes:
 
-I. Para el fraccionamiento y relotificación de terrenos y/o subdivisión de ellos con superficie mayor de 10,000 M2;
+I. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
 II. La constitución o modificación del régimen de propiedad en condominio;
 
 III. La modificación, demolición o ampliación de inmuebles del patrimonio cultural edificado;
 
-IV. Los proyectos de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura;
+IV. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
 V. La elaboración de proyectos de equipamiento e infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal;
 
-VI. Los proyectos de centros comerciales y centrales de abasto de cualquier tipo;
+VI. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
 VII. Los proyectos de hospitales y centros médicos;
 
 VIII. El diseño de centrales camioneras y de abasto;
 
-IX. Los proyectos de instalaciones y fraccionamientos industriales, campestres, turísticos y mixtos;
+IX. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
-X. Los proyectos de edificios de oficinas, escuelas, centros de espectáculos o lugares que generen grandes concentraciones de personas o vehículos;
+X. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
-XI. Los megaproyectos, y
+XI. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
-XII. Los proyectos de instalaciones o edificios en los que se prevea manejar, almacenar y expender sustancias peligrosas.
+XII. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
 ###### Artículo 107.
 
@@ -1761,9 +1809,41 @@ V. Cementerios y crematorios;
 
 VI. Rastros, granjas y empacadoras;
 
-VII. Edificios para estacionamiento de vehículos, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-VIII. Industrias medianas.
+VII. Edificios para estacionamiento de vehículos;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+VIII. Industrias medianas y pesadas;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+IX. Fraccionamiento y relotificación de terrenos y/o subdivisión de ellos con superficie mayor de 10,000 m2;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+X. Proyectos de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XI. Proyectos de centros comerciales y centrales de abasto de cualquier tipo;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XII. Proyectos de instalaciones y fraccionamientos industriales, campestres y mixtos;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XIII. Proyectos de edificios, oficinas, escuelas, centros de espectáculos o lugares que generen grandes concentraciones de personas o vehículos;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XIV. Megaproyectos, y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XV. Proyectos de instalaciones o edificios en los que se prevea manejar, almacenar y expender sustancias peligrosas.
 
 La Secretaría emitirá el dictamen correspondiente en un periodo no mayor a diez días hábiles a partir de la solicitud.
 
@@ -2789,9 +2869,17 @@ V. Las obligaciones a cargo del Gobierno del Estado, del Ayuntamiento, de los us
 
 VI. Los plazos de iniciación, revisión y terminación de las obras;
 
-VII. Constancia de compatibilidad urbanística y licencia de uso de suelo, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-VIII. Las autorizaciones de fraccionamientos o condominios, en su caso.
+VII. Constancia de compatibilidad urbanística y licencia de uso de suelo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2024)</small>
+
+VIII. Dictamen de Impacto Urbano, Ambiental y de Movilidad con resolución favorable, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2024)</small>
+
+IX. Las autorizaciones de fraccionamientos o condominios, en su caso.
 
 ###### Artículo 263.
 
@@ -2929,11 +3017,83 @@ Las instalaciones aéreas o subterráneas para los servicios públicos de teléf
 
 Toda persona que sin autorización ocupe la vía pública con construcciones e instalaciones superficiales, aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que el Ayuntamiento señale. De no hacerlo dentro del referido plazo, el Ayuntamiento realizará dichos trabajos a costa del dueño.
 
-### CAPÍTULO PRIMERO. DE LA IDENTIFICACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO QUINTO. DEL IMPACTO URBANO, AMBIENTAL Y DE MOVILIDAD
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 284 Bis.
+
+El Dictamen de Impacto Urbano, Ambiental y de Movilidad establecerá las condiciones o requisitos que tendrán que cumplirse para autorizar el proyecto u obra de que se trate, en particular aquellos que aseguren que los impactos negativos se impidan, mitiguen o compensen, así como los costos que la obra pueda generar sobre las redes de infraestructura, equipamiento o servicios públicos, al medio ambiente, en la movilidad y seguridad vial, que sean sufragados por el promovente.
+
+Las condicionantes o requisitos que se establezcan, podrán ser, económicos , ambientales o funcionales. El promovente deberá garantizar las obligaciones que resulten a su cargo, como resultado del Dictamen de Impacto Urbano, Ambiental y de Movilidad.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 284 Ter.
+
+Se requerirá de Dictamen de Impacto Urbano, Ambiental y de Movilidad emitido por la Secretaría, previa opinión técnica del IPLANAY y/o de la Secretaría de Movilidad, en los siguientes supuestos:
+
+I. Edificios con habitaciones colectivas, hoteles, moteles, campamentos turísticos, albergues y centros vacacionales, cuando superen las 20 unidades;
+
+II. Clínicas, maternidades y puestos de socorro;
+
+III. Plazas, parques, centros deportivos y balnearios;
+
+IV. Museos, galerías de arte, centros de exposición, salas de conferencia y bibliotecas;
+
+V. Cementerios y crematorios;
+
+VI. Rastros, granjas y empacadoras;
+
+VII. Edificios para estacionamiento de vehículos;
+
+VIII. Industrias medianas y pesadas;
+
+IX. Fraccionamiento y relotificación de terrenos y/o subdivisión de ellos con superficie mayor de 10,000 m2;
+
+X. Proyectos de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura;
+
+XI. Proyectos de centros comerciales y centrales de abasto de cualquier tipo;
+
+XII. Proyectos de instalaciones y fraccionamientos industriales, campestres y mixtos;
+
+XIII. Proyectos de edificios, oficinas, escuelas, centros de espectáculos o lugares que generen grandes concentraciones de personas o vehículos;
+
+XIV. Megaproyectos;
+
+XV. Proyectos de instalaciones o edificios en los que se prevea manejar, almacenar y expender sustancias peligrosas, y
+
+XVI. Los demás que determine la Ley General de Asentamientos Humanos Ordenamiento Territorial y Desarrollo Urbano, esta Ley, la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit y sus respectivos reglamentos.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 284 Quater.
+
+Los propietarios o promoventes de las acciones urbanísticas referidas en la presente Ley, previo pago de derechos establecidos en la Ley de Ingresos respectiva, deberán solicitar la emisión del Dictamen de Impacto Urbano, Ambiental y de Movilidad, a fin de gestionar adecuadamente las autorizaciones emitidas por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 284 Quinquies.
+
+Una vez concluida la evaluación de impacto urbano, ambiental y de movilidad, la Secretaría, en el ámbito de sus competencias, de manera fundada y motivada podrá:
+
+I. Emitir dictamen favorable sobre la realización de la acción urbanística, en los términos y condiciones manifestados;
+
+II. Emitir dictamen favorable de manera condicionada respecto de la acción urbanística de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos urbanos, ambientales y/o de movilidad adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deban observarse en la realización de la acción urbanística prevista, o
+
+III. Emitir dictamen en sentido negativo, cuando:
+
+a) Se contravenga lo establecido en esta Ley, su reglamento y demás disposiciones aplicables, o
+
+b) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos urbanos, ambientales y/o de movilidad de la acción urbanística de que se trate.
+
+El dictamen de la Secretaría sólo se referirá a los aspectos en materia urbana, ambiental y/o de movilidad de las acciones urbanísticas de que se trate.
 
 ## TÍTULO OCTAVO. DEL PATRIMONIO NATURAL Y CULTURAL EDIFICADO DEL ESTADO
 
-### CAPÍTULO SEGUNDO. DE LA COMPETENCIA Y CONSERVACIÓN
+### CAPÍTULO PRIMERO. DE LA IDENTIFICACIÓN
 
 ###### Artículo 285.
 
@@ -2977,7 +3137,7 @@ VI. Aquellos referentes simbólicos que integran la imagen urbana y rural donde 
 
 En los programas de ordenamiento territorial y desarrollo urbano se identificarán los sitios, zonas y los bienes inmuebles declarados o considerados como patrimonio cultural del Estado, así como los protegidos por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-### CAPÍTULO PRIMERO. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO SEGUNDO. DE LA COMPETENCIA Y CONSERVACIÓN
 
 ###### Artículo 290.
 
@@ -3025,7 +3185,7 @@ Los servidores públicos estatales o municipales que autoricen o ejecuten accion
 
 ## TÍTULO NOVENO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES, NULIDADES, SANCIONES, RECURSOS Y DE LA DENUNCIA CIUDADANA
 
-### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO PRIMERO. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 298.
 
@@ -3077,7 +3237,7 @@ Cuando por infracción a las disposiciones de esta Ley, las normas oficiales mex
 
 De no resolverse la denuncia se entenderá que se emite una resolución negativa contra la cual podrá interponerse el recurso de inconformidad previsto en esta ley o la demanda en juicio contencioso administrativo.
 
-### CAPÍTULO TERCERO. DE LAS NULIDADES
+### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 304.
 
@@ -3185,7 +3345,7 @@ Las autoridades competentes iniciarán los procedimientos para sancionar a las a
 
 En los casos en que se presuma la existencia de algún delito, la Comisión Estatal, los Consejos Municipales, los Consejos Consultivos Ciudadanos, y las Comisiones de Ordenamiento Metropolitano o de Conurbación podrán formular la denuncia correspondiente ante el ministerio público.
 
-### CAPÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO TERCERO. DE LAS NULIDADES
 
 ###### Artículo 317.
 
@@ -3230,6 +3390,8 @@ En el supuesto de que no se atiendan las recomendaciones a que se refiere esta L
 ###### Artículo 325.
 
 El Estado y los Ayuntamientos tendrán la obligación de resguardar los expedientes de las autorizaciones y procedimientos administrativos donde intervengan en materia del desarrollo urbano, así como proporcionar la información correspondiente a cualquier solicitante, con las reglas y salvaguardas de la legislación de transparencia y acceso a la información pública gubernamental.
+
+### CAPÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 326.
 
@@ -3432,3 +3594,19 @@ P.O. 4 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT, EN MATERIA DE IMPACTO URBANO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. Notifíquese el presente Decreto para sus efectos conducentes, a las personas titulares de la Secretaría de Desarrollo Sustentable, la Secretaría de Movilidad y del IPLANAY.
+
+CUARTO. En un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones reglamentarias y normativas de conformidad con lo dispuesto en el presente Decreto.
+
+QUINTO. Se establece un plazo de ciento ochenta días naturales contados a partir de la entrada en vigencia del presente Decreto, a efecto de que la Secretaría, la Secretaría de Movilidad y el IPLANAY emitan de manera conjunta, los Lineamientos Técnicos que se refieren en el presente.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para el presente ejercicio fiscal.
