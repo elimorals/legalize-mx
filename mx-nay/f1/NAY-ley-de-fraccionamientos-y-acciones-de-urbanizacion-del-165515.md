@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fraccionamientos-y-acciones-de-urbanizacion-del-165515"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-04"
-last_updated: "2023-04-04"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FRACCIONAMIENTOS Y ACCIONES DE URBANIZACIÓN DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera del Número 62 del Periódico Oficial del Estado de Nayarit, el martes 4 de abril de 2023.
 
@@ -51,7 +51,9 @@ I. Establecer las normas para la regulación, control, vigilancia, autorización
 
 II. Definir sus características y las especificaciones generales para las obras y acciones de urbanización de los mismos;
 
-III. Determinar las bases conforme a las cuales el Gobierno del Estado y los Ayuntamientos ejercerán sus atribuciones en esas materias, así como los mecanismos necesarios de concertación y coordinación;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+III. Determinar las bases conforme al Sistema Constitucional Concurrente de Asentamientos Humanos y Urbanización, las atribuciones que, en su ámbito competencial correspondan al Titular del Poder Ejecutivo Estatal y a los Ayuntamientos, así como definir los mecanismos necesarios de concertación y coordinación;
 
 IV. Fijar los procedimientos y requisitos a que se sujetará la solicitud y autorización de las diversas acciones (sic) urbanización materia de esta ley, y
 
@@ -85,13 +87,13 @@ La ubicación de los nuevos fraccionamientos, su zonificación interna, destino 
 
 La autorización específica para cada caso se sujetará a los usos, destinos, reservas y previsiones derivadas de los programas municipales de ordenamiento territorial y desarrollo urbano aplicables.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 4.
 
-Ningún fraccionamiento podrá llevarse a cabo dentro de los límites del Estado, sin la autorización previa expedida por el Titular del Poder Ejecutivo por conducto del Instituto de Planeación del Estado de Nayarit, de conformidad con lo dispuesto en esta Ley y su Reglamento, y después de haberse cumplido los requisitos que, para cada caso, establezca el presente ordenamiento.
+Los propietarios o promoventes de las acciones urbanísticas referidas en la presente Ley, previo pago de derechos establecidos en la Ley de Ingresos respectiva, deberán solicitar la emisión del Dictamen de Impacto Urbano, Ambiental y de Movilidad, a fin de gestionar adecuadamente las autorizaciones emitidas por las autoridades competentes.
+
+Para la autorización de fraccionamiento, se requerirá que se hayan cumplido los requisitos que, para cada caso, establezca la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; la presente Ley y su Reglamento.
 
 ###### Artículo 5.
 
@@ -107,7 +109,9 @@ IV. Áreas de donación: la superficie de terreno que se entrega a la autoridad 
 
 V. Ayuntamiento: el gobierno municipal, integrado por un cuerpo colegiado, que para estos efectos son los 20 ayuntamientos del Estado;
 
-VI. Compatibilidad urbanística: la Evaluación donde se proponen las acciones para mitigar los impactos a la estructura urbana, únicamente en aquellos Municipios donde se carezca de planes o programas de desarrollo urbano, la cual se realizará de conformidad con la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+VI. Compatibilidad urbanística: evaluación que realiza el IPLANAY previa solicitud del Ayuntamiento, únicamente en aquellos municipios donde se carezca de planes o programas municipales de ordenamiento territorial y desarrollo urbano; a efecto de analizar y verificar que las obras o proyectos tengan afinidad o congruencia y vinculación, con cualquier uso y destino de suelo, de acuerdo con lo establecido en la planeación del ordenamiento territorial y desarrollo urbano, la cual se realizará de conformidad con la Ley de Asentamientos Humanos;
 
 VII. Destinos del suelo: Los fines públicos a que se prevea dedicar determinada zona o predio de un centro de población;
 
@@ -119,11 +123,11 @@ a) Densidad bruta: Es la resultante de dividir el número de habitantes estimado
 
 b) Densidad neta: Es la resultante de dividir el número de habitantes estimados entre la superficie vendible del fraccionamiento;
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+X. Dictamen de Impacto Urbano, Ambiental y de Movilidad: documento que tendrá por objeto evaluar y dictaminar las posibles influencias o alteraciones causadas al entorno urbano, ambiental y de movilidad por algún proyecto público o privado en el área donde se pretenda realizar, con el fin de establecer las medidas adecuadas para la prevención, mitigación y/o compensación, permitiendo una evaluación integral de los impactos negativos generados por un proyecto determinado y el establecimiento de medidas de mitigación y/o compensación articuladas entre las materias urbana, ambiental y de movilidad.
 
-X. DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTO: EL DOCUMENTO EXPEDIDO POR EL INSTITUTO DE PLANEACIÓN DEL ESTADO DE NAYARIT, A UNA PERSONA FÍSICA O MORAL, PÚBLICA O PRIVADA, EN EL CUAL SE OTORGA O NO LA AUTORIZACIÓN PARA LLEVAR A CABO ACTOS RELACIONADOS CON FRACCIONAMIENTO, DIVISIÓN, SUBDIVISIÓN, LOTIFICACIÓN DE TERRENOS O REALIZA ALGUNA MODIFICACIÓN, OBRA, DESARROLLO EN CONDOMINIO O CONJUNTOS URBANOS;
+Tratándose de la evaluación de impacto urbano, ambiental y de movilidad, la opinión técnica o el dictamen correspondiente emitido, según sea el caso, por la Secretaría, la Secretaría de Movilidad y el IPLANAY, será vinculante y obligatorio para las otras;
 
 XI. Dimensiones del lote tipo: la Superficie de terreno que satisface las necesidades mínimas de área construida, según el tipo de fraccionamiento y a la cual se le ha aumentado la superficie de restricción;
 
@@ -138,6 +142,10 @@ XV. Fraccionador: la Persona física o jurídica, que lleva a cabo actos relacio
 XVI. Fraccionamiento: La división de un terreno, cualquiera que sea su régimen de propiedad, que requiera del trazo de una o más vías públicas para generar lotes, áreas privativas y manzanas, así como de la ejecución de obras de urbanización, infraestructura y equipamiento urbano;
 
 XVII. Fusión: la unión en un solo predio de dos o más predios colindantes, para constituir una unidad de mayor extensión;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XVII Bis. Impacto Urbano: posibles influencias o alteraciones causadas en el entorno urbano, a las características de la estructura vial, hidráulica, sanitaria, social y económica, así como de imagen urbana existentes; por la inserción de algún proyecto público o privado, analizando sus etapas preliminares, construcción, operación y mantenimiento;
 
 XVIII. Infractor: para efectos del procedimiento administrativo se denominará al fraccionador o propietario de un predio, que incurre en infracciones a esta Ley;
 
@@ -165,6 +173,10 @@ XXIX. Multa: a la sanción administrativa, impuesta al desarrollador que consist
 
 XXX. Obras de urbanización: las construcciones de vialidades, redes de agua, drenaje, energía o alumbrado, espacio público, equipamiento urbano y los elementos para la movilidad no motorizada de las personas que un promotor o propietario realiza, al interior de un predio para habilitar, acondicionar y proveer de conexión, servicios e integración urbana a los nuevos desarrollos, teniendo como centralidad la humanización de los espacios y la salvaguarda de la dignidad de sus habitantes, así como el respeto al medio ambiente;
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XXX Bis. Opinión técnica en materia urbana o de movilidad: a la que, conforme a su competencia u objeto, emita la Secretaría de Movilidad o el IPLANAY, previa solicitud de la Secretaría, para determinar la procedencia del dictamen de impacto urbano, ambiental y de movilidad;
+
 XXXI. Procuraduría: la Procuraduría (sic) Protección al Ambiente y Ordenamiento Territorial del Estado de Nayarit;
 
 XXXII. Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano: el Documento técnico donde se expone la necesidad de contar con un ordenamiento territorial en el que se expresen las previsiones para la organización y el desarrollo futuro de los asentamientos humanos, instrumentando e implementando las normas necesarias;
@@ -182,6 +194,10 @@ XXXVII. Relotificación: la modificación de las dimensiones, de uno o más lote
 XXXVIII. Restricción de alineamiento: la separación que debe existir libre de construcción habitable entre el alineamiento y la construcción en todo predio, pudiendo ocuparse con áreas no habitables o jardinadas. La superficie de restricción responde a la previsión de posible afectación por causa de interés público;
 
 XXXIX. Sanciones: las que se imponen a los infractores que transgreden las disposiciones previstas en esta Ley;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+XXXIX Bis. Secretaría: A la Secretaría de Desarrollo Sustentable del Estado de Nayarit;
 
 XL. Planta de tratamiento de aguas residuales: conjunto de equipos y sistemas que con elementos químicos o biológicos, degradan los contaminantes orgánicos de las aguas residuales y que permiten su disposición final sin afectar el entorno;
 
@@ -223,13 +239,11 @@ IV. El IPLANAY, y
 
 V. Los Ayuntamientos y las autoridades ejecutoras en materia de la Ley que de ellos dependen.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 10.
 
-Las atribuciones que en materia de fraccionamientos, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, relotificaciones y modificaciones de inmuebles, otorgue esta Ley al Titular del Poder Ejecutivo serán ejercidas a través de IPLANAY, salvo las que deba ejercer directamente el Ejecutivo por disposición expresa de éste u otros ordenamientos jurídicos.
+De conformidad con el Sistema Constitucional Concurrente de Asentamientos Humanos y Urbanización, las atribuciones que en su ámbito competencial correspondan al Titular del Poder Ejecutivo en materia de fraccionamientos, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, relotificaciones y modificaciones de inmuebles, serán ejercidas a través del IPLANAY y por la Secretaría en el ámbito de sus competencias, salvo las que deba ejercer directamente el Ejecutivo por disposición expresa de éste u otros ordenamientos jurídicos.
 
 ###### Artículo 11.
 
@@ -239,11 +253,9 @@ I. Formular políticas públicas en materia de desarrollo urbano;
 
 II. Celebrar convenios con los Ayuntamiento del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Nayarit, la Ley Municipal para el Estado de Nayarit y demás disposiciones jurídicas aplicables;
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-III. EXPEDIR POR CONDUCTO DEL IPLANAY LA AUTORIZACIÓN DE FRACCIONAMIENTO CUANDO LA DICTAMINACIÓN DE ESTE INSTITUTO RESULTE FAVORABLE;
+III. Evaluar y dar seguimiento, por conducto de la Secretaría, en términos de las Leyes Generales y locales en la materia, en el ámbito de su competencia, al impacto urbano, ambiental y de movilidad de acciones urbanísticas que generen efectos en el territorio de uno o más municipios del Estado;
 
 IV. Ejercer y aplicar los mecanismos de verificación y sanción administrativa en su ámbito de competencia;
 
@@ -255,19 +267,19 @@ VII. Celebrar acuerdos de coordinación con la Federación, los estados y los mu
 
 VIII. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 12.
 
-La Secretaría de Infraestructura tendrá facultades para supervisar la ejecución de las obras y acciones de urbanización que se lleven a cabo en el Estado, cuya construcción se rija por esta Ley, y en su caso suspenderlas en los casos siguientes:
+La Secretaría, previa opinión técnica del IPLANAY y/o de la Secretaría de Movilidad, emitirá el dictamen de impacto urbano, ambiental y de movilidad, en términos de lo previsto por las Leyes Generales y locales en la materia y de conformidad con su ámbito competencial.
 
-I. Cuando se carezca de permiso o autorización correspondiente en los términos de esta Ley;
+El estudio de impacto urbano, ambiental y de movilidad que deberán presentar los promoventes ante la Secretaría, deberá observar los Lineamientos Técnicos que emitan conjuntamente la Secretaría, la Secretaría de Movilidad y el IPLANAY, los cuales se deberán publicar en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-II. En el caso de que las obras ejecutadas no se ajusten a los términos o especificaciones del permiso o autorización;
+Una vez que la Secretaría hubiese recibido la solicitud del estudio de impacto urbano, ambiental y de movilidad por parte del Promovente, en un plazo no mayor a cinco días hábiles a partir del día siguiente al de su recepción; deberá remitirlo a través de medios digitales a la Secretaría de Movilidad y al IPLANAY, a efecto de que, en un plazo no mayor a quince días hábiles, emitan su respectiva opinión técnica.
 
-III. Cuando se lleven a cabo habiendo concluido el plazo señalado en el permiso para su ejecución.
+La Secretaría emitirá el Dictamen de Impacto Urbano, Ambiental y de Movilidad correspondiente, en un plazo no mayor a cuarenta y cinco días naturales, a partir del día siguiente en el que hubiese recibido las opiniones técnicas señaladas en el párrafo anterior.
+
+Si el último día de emisión del Dictamen fuere en día inhábil, se emitirá en el primer día hábil siguiente.
 
 ###### Artículo 13.
 
@@ -275,17 +287,11 @@ Son atribuciones del IPLANAY, además de las contenidas en la Ley de Asentamient
 
 I. Coordinar con las áreas municipales que correspondan, sobre la provisión, uso, reservas y destinos de áreas y predios, en la materia de su competencia;
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. (DEROGADA, P.O. 8 DE ABRIL DE 2024)
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-II. INFORMAR A LOS AYUNTAMIENTOS LA AUTORIZACIÓN A LA QUE SE REFIERE LA PRESENTE LEY EN MATERIA DE FRACCIONAMIENTOS;
-
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-III. ELABORAR EL DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTO;
+III. A petición de la Secretaría, emitir opinión técnica en materia de impacto urbano;
 
 IV. Coordinar y cooperar con las autoridades competentes en la elaboración y ejecución de planes de desarrollo urbano, y
 
@@ -295,17 +301,19 @@ V. Las demás que se le señalen en esta Ley y demás disposiciones relativas.
 
 El Estado y los Ayuntamientos por conducto de las áreas correspondientes, ejercerán sus atribuciones de conformidad con la distribución de competencias prevista en esta Ley y demás ordenamientos legales.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+Los Municipios son competentes para expedir las autorizaciones, licencias o permisos en materia de divisiones, subdivisiones, fusiones, segregaciones, lotificaciones y relotificaciones cualquiera que sea su extensión, de conformidad con la distribución de competencias prevista en la Constitución General, la Constitución del Estado, la Ley General de Asentamientos Humanos. Ordenamiento Territorial y Desarrollo Urbano, la Ley de Asentamientos Humanos, esta Ley y demás ordenamientos legales.
+
 ###### Artículo 15.
 
 Los Ayuntamientos tendrán las siguientes atribuciones y obligaciones:
 
 I. Fijar en la esfera administrativa de su competencia criterios en la aplicación de lo previsto en esta Ley;
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-II. RECIBIR LAS AUTORIZACIONES DE FRACCIONAMIENTOS, SUBDIVISIONES, LOTIFICACIONES, RELOTIFICACIONES Y FUSIONES DE PREDIOS E INTEGRAR EL EXPEDIENTE CORRESPONDIENTE;
+II. Expedir las autorizaciones relativas a fraccionamientos, subdivisiones, lotificaciones, relotificaciones y fusiones de predios;
 
 III. Analizar los expedientes relativos a la autorización de fraccionamientos de bajo impacto, subdivisiones, lotificaciones, relotificaciones y fusiones de predios previo los dictámenes que al efecto emitan las autoridades competentes y verificar que se reúnan los requisitos;
 
@@ -342,6 +350,18 @@ XVIII. Denunciar ante las autoridades competentes al fraccionador que sin contar
 XIX. Promover las acciones judiciales o administrativas que procedan en contra de quienes participen en cualquier forma en la ocupación ilícita de predios o impidan la solución legal de colonias o núcleos de población irregulares, y
 
 XX. Las demás que les señale esta Ley y demás ordenamientos aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 15 Bis.
+
+Los Ayuntamientos tendrán facultades para supervisar la ejecución de las obras y acciones de urbanización que se lleven a cabo en el Estado, cuya construcción se rija por esta Ley, y en su caso suspenderlas en los casos siguientes:
+
+I. Cuando se carezca de permiso o autorización correspondiente en los términos de esta Ley;
+
+II. En el caso de que las obras ejecutadas no se ajusten a los términos o especificaciones del permiso o autorización, y
+
+III. Cuando se lleven a cabo habiendo concluido el plazo señalado.
 
 ###### Artículo 16.
 
@@ -389,13 +409,11 @@ Siendo los Ayuntamientos por conducto de las autoridades ejecutoras en materia d
 
 Además de la normativa municipal aplicable deberán considerar lo establecido en la presente Ley y su Reglamento, así como en la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit, la Ley de Asentamientos Humanos, y los Programas de Desarrollo Urbano y/o Ambiental vigentes en el área motivo de la solicitud, para establecer los lineamientos a que deberán sujetarse, considerando la dimensión resultante del predio, el uso al que se destinará y los servicios específicos existentes. Asimismo, se requerirá de la factibilidad correspondiente en relación a la dotación de servicios públicos.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 21.
 
-Las solicitudes de divisiones, subdivisiones, fusiones, segregaciones, lotificaciones y relotificaciones de predios que superen los criterios de bajo impacto definidos en el artículo anterior, serán manejadas como fraccionamientos Y EN VIRTUD DE LA CONCURRENCIA QUE EXISTE EN LA MATERIA DE DESARROLLO URBANO, LOS AYUNTAMIENTOS GESTIONARÁN ANTE EL IPLANAY EL DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTO.
+Las solicitudes de divisiones, subdivisiones, fusiones, segregaciones, lotificaciones y relotificaciones de predios que superen los criterios de bajo impacto definidos en el artículo anterior, serán manejadas como fraccionamientos.
 
 ###### Artículo 22.
 
@@ -439,9 +457,17 @@ IX. Fotografías del predio y en su caso de la infraestructura existente;
 
 X. Dictamen expedido por el Instituto Nacional de Antropología e Historia, en su caso;
 
-XI. Dictamen de Riesgos expedido por la Dirección General de Protección Ciudadana y Bomberos del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-XII. Pago de los derechos correspondientes.
+XI. Dictamen de Riesgos expedido por la Dirección General de Protección Ciudadana y Bomberos del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2024)</small>
+
+XII. Dictamen de Impacto Urbano, Ambiental y de Movilidad con resolución favorable, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2024)</small>
+
+XIII. Pago de los derechos correspondientes.
 
 ###### Artículo 24.
 
@@ -483,19 +509,45 @@ En caso de no cumplirse con los requisitos establecidos, se concederá al intere
 
 ### CAPÍTULO SEGUNDO. DE LOS FRACCIONAMIENTOS
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 28.
 
-Ningún fraccionamiento podrá llevarse a efecto, sin que previamente se solicite la autorización correspondiente al Ejecutivo del Estado y este la otorgue, por conducto del IPLANAY.
+Ningún fraccionamiento podrá llevarse a cabo, sin que previamente se cuente con Dictamen de Impacto Urbano, Ambiental y de Movilidad expedido por la Secretaría, conforme al ámbito competencial establecido en las Leyes Generales y locales en la materia.
 
-La autorización señalada en el párrafo anterior, se llevará a cabo mediante el procedimiento que establece la presente Ley.
+El Dictamen señalado en el párrafo anterior, se llevará a cabo mediante el procedimiento que al efecto se señale en el Reglamento de la presente Ley y en los Lineamientos Técnicos que emitan conjuntamente la Secretaría, la Secretaría de Movilidad y el IPLANAY.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+El Dictamen de Impacto Urbano, Ambiental y de Movilidad establecerá las condiciones o requisitos que tendrán que cumplirse para autorizar el proyecto u obra de que se trate, en particular aquellos que aseguren que los impactos negativos se impidan, mitiguen o compensen, así como los costos que la obra pueda generar sobre las redes de infraestructura, equipamiento o servicios públicos, al medio ambiente, en la movilidad y seguridad vial, que sean sufragados por el promovente.
+
+Las condicionantes o requisitos que se establezcan, podrán ser, económicos, ambientales o funcionales. El promovente deberá garantizar las obligaciones que resulten a su cargo, como resultado del Dictamen de Impacto Urbano, Ambiental y de Movilidad.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+###### Artículo 28 Ter.
+
+Una vez concluida la evaluación de impacto urbano, ambiental y de movilidad, la Secretaría, en el ámbito de sus competencias, de manera fundada y motivada podrá:
+
+I. Emitir dictamen favorable sobre la realización de la acción urbanística, en los términos y condiciones manifestados;
+
+II. Emitir dictamen favorable de manera condicionada respecto de la acción urbanística de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos urbanos, ambientales y/o de movilidad adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deban observarse en la realización de la acción urbanística prevista, o
+
+III. Emitir dictamen en sentido negativo, cuando:
+
+a) Se contravenga lo establecido en esta Ley, su reglamento y demás disposiciones aplicables, o
+
+b) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos urbanos, ambientales y/o de movilidad de la acción urbanística de que se trate.
+
+El dictamen de la Secretaría sólo se referirá a los aspectos en materia urbana, ambiental y/o de movilidad de las acciones urbanísticas de que se trate.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 29.
 
-Las especificaciones técnicas del proyecto, las acciones de urbanización y las construcciones en los fraccionamientos, deberán ajustarse a lo dispuesto en esta Ley, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit, en los programas de desarrollo urbano, Normas Oficiales Mexicanas, reglamento en materia de construcción, Reglamento de la Ley, Lineamientos expedidos por el IPLANAY, reglamentos aplicables, y demás leyes relativas a la materia.
+Las especificaciones técnicas del proyecto, las acciones de urbanización y las construcciones en los fraccionamientos, deberán ajustarse a lo dispuesto en esta Ley y su Reglamento, la Ley de Asentamientos Humanos, en los programas de desarrollo urbano, Normas Oficiales Mexicanas, reglamento en materia de construcción, Lineamientos Técnicos, reglamentos aplicables, y demás leyes relativas a la materia.
 
 ###### Artículo 30.
 
@@ -641,11 +693,9 @@ IV. La ocupación del lote, resultante de la proyección de la superficie constr
 
 El fraccionamiento habitacional popular será promovido exclusivamente por el IPROVINAY y únicamente por instrucciones del titular del Poder Ejecutivo, en estricto apego a las áreas previstas en el Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-Para ese efecto el Titular del Poder Ejecutivo del Estado podrá convenir o asociarse con organismos públicos estatales y federales, cuya finalidad sea la construcción o financiamiento de vivienda, para la adquisición de terrenos o en cualquier otra operación necesaria para llevar a cabo el fraccionamiento popular. EN TODOS LOS CASOS EL TITULAR DEL EJECUTIVO DEL ESTADO A TRAVÉS DE LA SECRETARÍA DE INFRAESTRUCTURA Y DE LA PROCURADURÍA TENDRÁ LA FACULTAD DE SUPERVISAR Y VIGILAR SU REALIZACIÓN.
+Para ese efecto el Titular del Poder Ejecutivo del Estado podrá convenir o asociarse con organismos públicos estatales y federales, cuya finalidad sea la construcción o financiamiento de vivienda, para la adquisición de terrenos o en cualquier otra operación necesaria para llevar a cabo el fraccionamiento popular.
 
 ###### Artículo 44.
 
@@ -739,13 +789,11 @@ Los Programas de ordenamiento territorial y desarrollo urbano pueden definir sec
 
 ### CAPÍTULO QUINTO. DE LAS ÁREAS DE DONACIÓN, SERVICIOS Y DE USO COMÚN
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 54.
 
-El fraccionador tendrá la obligación de ceder a título de donación al municipio, las superficies que se destinarán exclusivamente para jardines, parques, plazas públicas y equipamiento básico o cualquier fin público, que así lo determine la autoridad municipal. Por lo que, dichos terrenos, tendrán el carácter de INALIENABLES, inembargables e imprescriptibles, teniendo en lo sucesivo únicamente el destino para servicios públicos.
+El fraccionador tendrá la obligación de ceder a título de donación al municipio, las superficies que se destinarán exclusivamente para jardines, parques, plazas públicas y equipamiento básico o cualquier fin público, que así lo determine la autoridad municipal. Por lo que, dichos terrenos, tendrán el carácter de inembargables e imprescriptibles, teniendo en lo sucesivo únicamente el destino para servicios públicos.
 
 ###### Artículo 55.
 
@@ -1081,10 +1129,6 @@ Tratándose de lo establecido en la fracción IX, de este artículo, podrán rea
 
 ### CAPÍTULO ÚNICO
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 ###### Artículo 81.
 
 En los actos, trámites, servicios, comunicaciones y procedimientos a que se refiere esta ley, podrán aplicarse y hacer uso (sic) medios electrónicos, mensajes de datos, la firma electrónica avanzada, el reconocimiento de su eficacia jurídica y la prestación al público de servicios de certificación en los términos establecidos en la Ley de Firma Electrónica Avanzada para el Estado (sic) Nayarit.
@@ -1093,31 +1137,27 @@ La certificación de los procedimientos de autorización podrá realizarse media
 
 Las certificaciones serán elaboradas por la persona responsable expresamente para emitir tales certificaciones, garantizando que otorguen plena seguridad jurídica en la expedición de las mismas.
 
-El IPLANAY y los Municipios crearan y mantendrán un archivo donde resguardaran y almacenaran todos los documentos físicos o electrónicos de la documentación relacionada con las autorizaciones urbanísticas a que se refiere este ordenamiento, pudiendo hacer uso de respaldos y medios electrónicos debidamente autorizados.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las autoridades competentes para aplicar esta Ley, de conformidad con sus atribuciones; crearán y mantendrán un archivo donde resguardarán y almacenarán todos los documentos físicos o electrónicos de la documentación relacionada con las opiniones técnicas, estudios, dictámenes y autorizaciones urbanísticas a que se refiere este ordenamiento, pudiendo hacer uso de respaldos y medios electrónicos debidamente autorizados.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 82.
 
-La autorización de fraccionamiento a que se refiere el presente Título sólo podrá ser otorgada por el Titular del Ejecutivo, por conducto del IPLANAY.
+La autorización de fraccionamiento a que se refiere la presente Ley, sólo podrá ser otorgada por los Ayuntamientos por conducto de las áreas correspondientes, previa verificación de los requisitos previstos en los artículos 23 y 84 de la presente Ley, según sea el caso.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 83.
 
-Para obtener la autorización a que se refiere el artículo anterior, el promovente deberá aportar toda la documentación y demás requisitos que para tal fin establece la presente Ley y su Reglamento.
+Para obtener la autorización a que se refiere el artículo anterior, el promovente deberá aportar toda la documentación y demás requisitos que para tal fin establece la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la presente Ley y su Reglamento.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 84.
 
-La solicitud se formulará por escrito ante el Ayuntamiento correspondiente, deberá de acompañarse de los siguientes documentos:
+La solicitud para obtener autorización de fraccionamiento se formulará por escrito ante el Ayuntamiento correspondiente y deberá de acompañarse de los siguientes documentos:
 
 I. Carta poder simple y copia de identificación oficial del propietario y del fraccionador y/o apoderado o representante legal, en el caso de que no sea el propietario quien realice los trámites;
 
@@ -1135,7 +1175,13 @@ VII. Original y copia del comprobante de pago indicado en la Ley de Ingresos del
 
 VIII. Constancia de compatibilidad urbanística;
 
-IX. Dictamen de factibilidad de dotación de los servicios de agua potable y de drenaje sanitario, expedido por la Comisión Estatal de Agua Potable y Alcantarillado;
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+VIII Bis. Dictamen de Impacto Urbano, Ambiental y de Movilidad;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+IX. Dictamen de factibilidad de dotación de los servicios de agua potable y de drenaje sanitario, expedido por la Comisión Estatal de Agua Potable y Alcantarillado o por el Organismo Municipal, de acuerdo al ámbito de sus respectivas competencias;
 
 X. Dictamen de Factibilidad de dotación del servicio de energía eléctrica, expedido por la Comisión Federal de Electricidad;
 
@@ -1149,79 +1195,57 @@ XIV. Copia certificada del acta constitutiva, tratándose de persona moral, debi
 
 XV. Las demás que establezca el Reglamento.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 85.
 
-Recibida la solicitud y los documentos respectivos, la autoridad municipal revisará si han sido entregados todos los documentos correspondientes, requiriendo al promovente, en su caso en un plazo que no será superior a diez días hábiles. El promovente contará con treinta días para proveer la información faltante, durante el cual no se dará trámite a la solicitud. En caso de no presentarla, la solicitud se tendrá por retirada.
-
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+Recibida la solicitud y los documentos respectivos, la autoridad municipal competente revisará si han sido entregados todos los documentos correspondientes, requiriendo al promovente, en su caso en un plazo que no será superior a diez días hábiles. El promovente contará con treinta días para proveer la información faltante, durante el cual no se dará trámite a la solicitud. En caso de no presentarla, la solicitud se tendrá por no presentada.
 
 ###### Artículo 86.
 
-La solicitud y sus anexos, los dictámenes señalados en el artículo 84 de esta Ley, serán enviados por los Ayuntamientos correspondientes al IPLANAY para que dentro de un plazo de 10 (sic) hábiles realice la revisión correspondiente.
-
-El IPLANAY una vez que haya cerciorado que han sido entregados todos los documentos señalados en esta Ley y su Reglamento, podrá requerir al Ayuntamiento para que en su caso provea la información faltante, en un plazo que no exceda de quince días hábiles, durante el cual no se dará trámite a la solicitud. En caso de no presentarla, la solicitud se tendrá por no realizada.
-
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(DEROGADO, P.O. 8 DE ABRIL DE 2024)
 
 ###### Artículo 87.
 
-Una vez integrado el expediente, el IPLANAY solicitará vía oficio a la Secretaría de Movilidad y a la Secretaría de Desarrollo Sustentable, los dictámenes de Movilidad y Medio Ambiente, respectivamente, los cuales deberán de ser remitidos por las secretarías en un plazo que no exceda de 15 días hábiles a partir de la fecha de la recepción de la solicitud.
+(DEROGADO, P.O. 8 DE ABRIL DE 2024)
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 88.
 
-El IPLANAY, una vez analizada la información señalada en los artículos 86 y 87 de esta Ley, dará inicio al procedimiento para la elaboración del dictamen de procedencia de fraccionamiento previo pago de derechos establecido en la Ley de Ingresos del Estado Libre y Soberano de Nayarit del ejercicio fiscal que corresponda, en un plazo que no exceda de 45 días hábiles, de conformidad con el Reglamento.
+La autoridad municipal competente, una vez analizada la información y cumplidos los requisitos establecidos en los artículos 23 y 84 de esta Ley, dará inicio a la revisión y estudio del expediente relativo a la autorización de fraccionamiento, previo pago de derechos establecido en la Ley de Ingresos respectiva para el ejercicio fiscal que corresponda, debiendo emitir el sentido de la autorización en un plazo que no exceda de 45 días hábiles, de conformidad con el reglamento municipal respectivo.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 89.
 
-El dictamen de procedencia de fraccionamiento, se hará saber al Ayuntamiento mediante oficio que indique si el proyecto cuya autorización fue solicitada, es aprobado en sus términos, o su autorización ha sido denegada, y texto que fundamente la resolución.
+La autorización de fraccionamiento, se hará saber al promovente indicándole, de manera fundada y motivada, si el proyecto cuya autorización fue solicitada, es aprobado en sus términos, o su autorización ha sido denegada.
 
-El Ayuntamiento correspondiente, hará saber al promovente el dictamen de procedencia de fraccionamiento, quedando el promovente en publicar la notificación aprobatoria en su caso, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, en un término no mayor a 30 días hábiles posteriores a la fecha de notificación.
-
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 90.
 
-La autorización de fraccionamientos otorgada por el Ejecutivo del Estado, tendrá una vigencia de 3 años a partir de la fecha de expedición.
+La autorización de fraccionamientos tendrá una vigencia de tres años a partir de la fecha de expedición.
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 91.
 
-Queda estrictamente prohibido y será causa de responsabilidad de los servidores públicos que tengan a su cargo la recepción y revisión de expedientes relativos a fraccionamientos, recibir expedientes incompletos o solicitudes condicionadas al cumplimiento posterior de requisitos por parte del promovente.
+Queda estrictamente prohibido y será causa de responsabilidad de los servidores públicos que tengan a su cargo la recepción y revisión de expedientes relativos a fraccionamientos en su ámbito de competencias, recibir expedientes incompletos o solicitudes condicionadas al cumplimiento posterior de requisitos por parte del promovente.
 
 ## TÍTULO QUINTO. DE LAS LICENCIAS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### Artículo 92.
 
-Para la obtención de la licencia de construcción de un fraccionamiento, el promovente deberá presentar ante el Ayuntamiento en que estén situados los terrenos que se pretenden urbanizar, la solicitud por escrito en la que se expresará el tipo de fraccionamiento proyectado y deberá acompañar los siguientes documentos:
+Para la autorización de un fraccionamiento, el promovente deberá presentar ante el Ayuntamiento en que estén situados los terrenos que se pretenden urbanizar, la solicitud por escrito en la que se expresará el tipo de fraccionamiento proyectado y deberá acompañar los siguientes documentos:
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-I. EN SU CASO, DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTO EXPEDIDO POR EL IPLANAY;
+I. El Dictamen de Impacto Urbano, Ambiental y de Movilidad con resolución favorable;
 
 II. Proyecto ejecutivo:
 
@@ -1301,19 +1325,21 @@ IV. Alcances y, en su caso, restricciones del proyecto ejecutivo de lotificació
 
 V. Relación de planos y proyectos, así como memoria descriptiva de la lotificación, aprobados y que forman parte de la autorización, los cuales deberán estar debidamente firmados y sellados de autorizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### Artículo 95.
 
-La autoridad municipal mandará a publicar en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los sesenta días siguientes a la autorización de un fraccionamiento, la licencia definitiva de éste en versión abreviada.
+La autoridad municipal publicará la autorización en la gaceta municipal respectiva, asimismo mandará a publicar en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los sesenta días siguientes a la autorización de un fraccionamiento, la licencia definitiva de éste en versión abreviada.
 
-La publicación de esta autorización corre por cuenta del fraccionador, quien además estará obligado a difundirla dos veces, con un intervalo de cinco días, en cualquiera de los periódicos de mayor circulación en el Estado.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+El costo de la publicación de esta autorización correrá por cuenta del fraccionador, quien además estará obligado a difundirla dos veces, con un intervalo de cinco días, en cualquiera de los periódicos de mayor circulación en el Estado.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 96.
 
-La autoridad municipal para los efectos correspondientes hará del conocimiento DEL IPLANAY, de la Dirección General de Catastro y Registro Público, y de las direcciones de catastro municipal, las licencias de fraccionamiento definitivas que autorice.
+La autoridad municipal para los efectos correspondientes hará del conocimiento de la Secretaría, de la Dirección General de Catastro y Registro Público, y de las direcciones de catastro municipal, las licencias de fraccionamiento definitivas que autorice.
 
 ## TÍTULO SEXTO. DE LAS GARANTÍAS
 
@@ -1577,13 +1603,11 @@ Será obligación del propietario o comprador de un terreno en fraccionamiento i
 
 ### CAPÍTULO TERCERO. DEL MUNICIPIO
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 130.
 
-El Municipio tomará las medidas necesarias para el aprovechamiento del terreno donado por el fraccionador, programando la construcción de obras para servicios públicos y sociales que hubieren sido previstos, respetando la característica jurídica de que tales predios son INALIENABLES, inembargables e imprescriptibles.
+El Municipio tomará las medidas necesarias para el aprovechamiento del terreno donado por el fraccionador, programando la construcción de obras para servicios públicos y sociales que hubieren sido previstos, respetando la característica jurídica de que tales predios son inembargables e imprescriptibles.
 
 ###### Artículo 131.
 
@@ -1601,13 +1625,11 @@ El Municipio deberá observar y respetar, las disposiciones señaladas en la pre
 
 ### CAPÍTULO ÚNICO
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 134.
 
-LA SECRETARÍA DE INFRAESTRUCTURA Y las autoridades municipales dentro del ámbito de sus competencias, tendrán la facultad de ordenar visitas de verificación a las obras o construcciones que se realicen en inmuebles resultantes de una subdivisión, fusión o relotificación y en fraccionamientos, con la finalidad de verificar que se cumplan con las disposiciones previstas en esta Ley y su Reglamento.
+Las autoridades competentes para aplicar esta Ley, de conformidad con sus atribuciones; tendrán la facultad de ordenar visitas de verificación a las obras, mejoras y a las condicionantes que al efecto se hubieran establecido en la autorización del Dictamen de Impacto Urbano, Ambiental y de Movilidad correspondiente, con la finalidad de verificar que se cumplan con las disposiciones previstas en esta Ley y su Reglamento.
 
 ###### Artículo 135.
 
@@ -1619,15 +1641,17 @@ Las autoridades competentes podrán solicitar el auxilio de la fuerza pública p
 
 ###### Artículo 137.
 
-El Gobierno del Estado, a través de la Secretaría de Infraestructura, y los Ayuntamientos, podrán celebrar entre ellos, convenios de coordinación para realizar conjuntamente visitas de verificación para el cumplimiento de las disposiciones legales de la materia.
+(DEROGADO, P.O. 8 DE ABRIL DE 2024)
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2024)</small>
+
 ###### Artículo 138.
 
-Para los efectos de esta Ley se considerarán como medidas de seguridad:
+Para los efectos de esta Ley, las autoridades competentes para aplicar esta Ley, de conformidad con sus atribuciones, podrán ejecutar las siguientes medidas de seguridad:
 
 I. La suspensión de obras, servicios y actividades;
 
@@ -1705,13 +1729,11 @@ Las resoluciones que dicten las Autoridades competentes con base en lo dispuesto
 
 ### CAPÍTULO ÚNICO
 
-(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2024)</small>
 
 ###### Artículo 148.
 
-Los acuerdos o resoluciones dictadas por el municipio Y/O EL IPLANAY, en materia de fraccionamientos, subdivisión, fusión, relotificación, o cualquier otro tipo de desarrollo inmobiliario, podrán ser impugnados, por quien o quienes consideren haber sido afectados en sus intereses, mediante el recurso de inconformidad que establece la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
+Los acuerdos o resoluciones dictadas por el Estado o los Ayuntamientos por conducto de sus áreas correspondientes en su ámbito competencial, en materia de fraccionamientos, subdivisión, fusión, relotificación, o cualquier otro tipo de desarrollo inmobiliario, podrán ser impugnados, por quien o quienes consideren haber sido afectados en sus intereses, mediante el recurso de inconformidad que establece la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
 ## TRANSITORIOS
 
@@ -1742,3 +1764,19 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.- Dip. Tania Montenegro Ibarra, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los tres días del mes de abril de dos mil veintitrés.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Mtro. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE FRACCIONAMIENTOS Y ACCIONES DE URBANIZACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE IMPACTO URBANO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. Notifíquese el presente Decreto para sus efectos conducentes, a las personas titulares de la Secretaría de Desarrollo Sustentable, la Secretaría de Movilidad y del IPLANAY.
+
+CUARTO. En un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones reglamentarias y normativas de conformidad con lo dispuesto en el presente Decreto.
+
+QUINTO. Se establece un plazo de ciento ochenta días naturales contados a partir de la entrada en vigencia del presente Decreto, a efecto de que la Secretaría, la Secretaría de Movilidad y el IPLANAY emitan de manera conjunta, los Lineamientos Técnicos que se refieren en el presente.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para el presente ejercicio fiscal.
