@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2023-12-20"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -1037,7 +1037,9 @@ VIII.- Vías Generales de comunicación Estatal y obra pública local que compre
 
 IX.- Zonas y parques industriales, centrales de abasto y comerciales;
 
-X.- Conjuntos habitacionales y nuevos centros de población;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+X.- Fraccionamientos, conjuntos habitacionales y nuevos centros de población;
 
 XI.- Actividades consideradas riesgosas en los términos de esta Ley;
 
@@ -1070,6 +1072,10 @@ Una vez recibida la solicitud, la Secretaría emitirá la resolución dentro de 
 ###### Artículo 41.
 
 La Secretaría evaluará y en su caso expedirá la autorización de impacto ambiental en asuntos no reservados a la Federación, sujetándose a esta Ley, al ordenamiento ecológico, a las normas oficiales y, en su caso, al programa de manejo del área natural protegida respectiva.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2024)</small>
+
+En materia de asentamientos humanos, ordenamiento territorial, desarrollo urbano y fraccionamientos, la evaluación de impacto ambiental se estará a lo dispuesto, además de lo previsto por la presente Ley y la Ley General; por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit y la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit.
 
 #### SECCIÓN VI. Del procedimiento de evaluación de Impacto ambiental
 
@@ -4238,3 +4244,11 @@ P.O. 20 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Comuníquese el presente Decreto, a los Ayuntamientos de la Entidad, para los efectos conducentes.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE IMPACTO URBANO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Notifíquese el presente Decreto para sus efectos conducentes, a la persona titular de la Secretaría de Desarrollo Sustentable.
