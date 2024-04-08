@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122721
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2023-03-14"
+last_updated: "2024-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el miércoles 19 de julio de 2017.
 
@@ -95,7 +95,9 @@ VII. Consentimiento: manifestación de la voluntad libre, específica e informad
 
 VIII. Datos personales: cualquier información concerniente a una persona física identificada o identificable expresada en forma numérica, alfabética, alfanumérica, gráfica, fotográfica, acústica o en cualquier otro formato. Se considera que una persona es identificable cuando su identidad puede determinarse directa o indirectamente a través de cualquier información, siempre y cuando esto no requiera plazos, medios o actividades desproporcionadas;
 
-IX. Datos personales sensibles: aquellos que se refieran a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. Se consideran sensibles, de manera enunciativa más no limitativa, los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud pasado, presente o futuro, creencias religiosas, filosóficas y morales, opiniones políticas, datos genéticos o datos biométricos;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+IX. Datos personales sensibles: aquellos que se refieran a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. Se consideran sensibles, de manera enunciativa más no limitativa, los datos personales que hagan identificables a niñas, niños y adolescentes, así como los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud pasado, presente o futuro, creencias religiosas, filosóficas y morales, opiniones políticas, datos genéticos o datos biométricos;
 
 X. Derechos ARCO: los derechos de acceso, rectificación y cancelación de datos personales, así como la oposición al tratamiento de los mismos;
 
@@ -215,7 +217,9 @@ I. Los mismos sean estrictamente necesarios para el ejercicio y cumplimiento de 
 
 II. Se dé cumplimiento a un mandato legal;
 
-III. Se cuente con el consentimiento expreso y por escrito del titular, o
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2024)</small>
+
+III. Se cuente con el consentimiento expreso y por escrito del titular, o de quien ejerza la patria potestad, o tutela cuando se trate de datos de niñas, niños y adolescentes, o
 
 IV. Sean necesarios por razones de seguridad pública, orden público, salud pública o salvaguarda de derechos de terceros.
 
@@ -2524,6 +2528,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 14 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0718.- SE REFORMAN LOS ARTÍCULOS 9°, 26 Y 70, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1034.- SE REFORMAN LOS ARTÍCULOS 3° EN SU FRACCIÓN IX Y 8° EN SU FRACCIÓN III, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
