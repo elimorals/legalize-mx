@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-consultiva-cientifica-125187
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-01-15"
-last_updated: "2018-01-15"
+last_updated: "2024-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-12-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA CIENTIFICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LAS NORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN CONSULTIVA CIENTÍFICA, PUBLICADAS EN EL D.O.F. DE 9 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA CIENTÍFICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2024 (ABROGADO).
 
 Reglamento publicado en la Primera Sección al Número 10 del Diario Oficial de la Federación, el lunes 15 de enero de 2018.
 
@@ -276,3 +278,17 @@ TRANSITORIOS (SIC)
 ÚNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Ciudad de México, a los 14 días del mes de diciembre de 2017.- El Secretario de Salud y Presidente del Consejo de Salubridad General, José Ramón Narro Robles.- Rúbrica.- El Secretario del Consejo de Salubridad General, Jesús Ancer Rodríguez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS "NORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN CONSULTIVA CIENTÍFICA”.]
+
+PRIMERO. Las presentes Normas de Organización y Funcionamiento entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Comisión Consultiva Científica, publicado en el Diario Oficial de la Federación el 15 de enero de 2018.
+
+TERCERO. Las solicitudes que se encuentren en trámite a la entrada en vigor de las presentes Normas de Organización y Funcionamiento, se resolverán por la Comisión de conformidad con las disposiciones vigentes en la fecha de su presentación.
+
+CUARTO. La Comisión deberá celebrar una sesión con su nueva integración dentro de los veinte días hábiles posteriores a la entrada en vigor de las presentes Normas de Organización y Funcionamiento.
