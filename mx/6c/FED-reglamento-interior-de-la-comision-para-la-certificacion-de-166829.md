@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-para-la-certificacion-de-166
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-06-29"
-last_updated: "2023-06-29"
+last_updated: "2024-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-06-15"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA LA CERTIFICACION DE ESTABLECIMIENTOS DE ATENCION MEDICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LAS NORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN PARA LA CERTIFICACIÓN DE ESTABLECIMIENTOS DE ATENCIÓN MÉDICA, PUBLICADAS EN EL D.O.F. 9 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN PARA LA CERTIFICACIÓN DE ESTABLECIMIENTOS DE ATENCIÓN MÉDICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2024 (ABROGADO).
 
 Reglamento publicado en el Número 31 del Diario Oficial de la Federación, el jueves 29 de junio de 2023.
 
@@ -340,3 +342,17 @@ TERCERO. La Comisión deberá celebrar una sesión con su nueva integración den
 CUARTO. La Comisión emitirá y difundirá en el portal de internet del Consejo, el Catálogo a que se refiere el artículo 6, fracción III de este Reglamento, en un plazo no mayor a 60 días hábiles a partir de la entrada en vigor de este Reglamento.
 
 Aprobado por la Comisión para la Certificación de Establecimientos de Atención Médica, el jueves 15 de junio de 2023.- El Secretario del Consejo de Salubridad General y Presidente de la Comisión para la Certificación de Establecimientos de Atención Médica, Marcos Cantero Cortés.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS “NORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN PARA LA CERTIFICACIÓN DE ESTABLECIMIENTOS DE ATENCIÓN MÉDICA”.]
+
+PRIMERO. Las presentes Normas entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las solicitudes que se encuentren en trámite a la entrada en vigor de las presentes Normas de Organización y Funcionamiento, se resolverán por la Comisión de conformidad con las disposiciones vigentes en la fecha de su presentación.
+
+TERCERO. Se abroga el Reglamento Interior de la Comisión para la Certificación de Establecimientos de Atención Médica, publicado en el Diario Oficial de la Federación el 29 de junio de 2023.
+
+CUARTO. La Comisión para la Certificación de Establecimientos de Atención Médica deberá aprobar y difundir los formatos a que se refieren el artículo 17, fracciones III y IV de las presentes Normas de Organización y Funcionamiento, en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor de este ordenamiento.
