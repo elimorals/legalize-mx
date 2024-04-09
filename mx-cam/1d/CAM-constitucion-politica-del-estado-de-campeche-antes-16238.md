@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-02-23"
+last_updated: "2024-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -745,15 +745,15 @@ Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones 
 
 El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 41.
 
-Por cada año de ejercicio constitucional de una Legislatura, el Congreso se reunirá en tres periodos ordinarios de sesiones para estudiar, discutir, y votar toda clase de resoluciones a las que se refiere el artículo 44 de esta Constitución, con la duración que resulte necesaria para tratar todos los asuntos en este mencionados.
+Por cada año de ejercicio constitucional de una Legislatura, el Congreso se reunirá en tres periodos ordinarios de sesiones para estudiar, discutir, y votar toda clase de resoluciones a las que se refiere el artículo 44 de esta Constitución.
 
-Para tal efecto, el primer periodo iniciará el primer martes del mes de octubre, concluyendo el último viernes del mes de diciembre; el segundo iniciará el primer martes del mes de febrero y concluirá el último viernes del mes de marzo; mientras que el tercero iniciará el primer martes del mes de junio y concluirá el último viernes del mes de julio.
+Para tal efecto, el primer periodo ordinario iniciará el día 1° de octubre y concluirá el 20 de diciembre del mismo año; el segundo periodo ordinario iniciará el día 1° de febrero y concluirá el 31 de marzo; y el tercer periodo ordinario iniciará el día 1° de mayo y concluirá el 31 de julio.
 
-En caso de que el despacho de los negocios por resolver lo exija, los periodos de sesiones podrán prorrogarse agotados los meses de cierre de cada uno, hasta por 15 días.
+En caso de que el despacho de los negocios por resolver lo exija, los periodos ordinarios de sesiones podrán prorrogarse hasta por 15 días.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -3352,3 +3352,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Lo previsto en el presente decreto, entendido como regla electoral, será aplicable para la renovación de los HH. Ayuntamientos en el proceso electoral del 2027.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 9 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 351 POR EL QUE “SE REFORMA EL ARTÍCULO 41 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
