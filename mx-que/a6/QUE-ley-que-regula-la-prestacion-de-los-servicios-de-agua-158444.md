@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-la-prestacion-de-los-servicios-de-agua-158444"
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-21"
-last_updated: "2022-05-21"
+last_updated: "2024-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MAYO DE 2025 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE REGULA LA PRESTACIÓN DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
 
 Ley publicada en el Número 38 del Periódico Oficial del Estado de Querétaro, el sábado 21 de mayo de 2022.
 
@@ -159,7 +157,9 @@ XX. Drenaje: La red o sistema de conductos y dispositivos para recolectar, condu
 
 XXI. Deposito o vaso: La depresión natural o artificial de captación o almacenamiento de los escurrimientos de agua de la cuenca aportadora;
 
-XXII. Factibilidad o factibilidades: La opinión técnica vinculante y obligatoria que emite la Comisión y los organismos operadores, concesionarios, relativa a la dotación de los servicios a que se refiere esta Ley, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+XXII. Factibilidad o factibilidades: La opinión técnica vinculante y obligatoria que emite la Comisión y el prestador de los servicios, relativa a la dotación de los servicios a que se refiere esta Ley, en términos de las disposiciones aplicables;
 
 XXIII. Hidrante o Hidrante Colectivo: Instalación para el abasto de agua potable, de acceso público, cuyo uso y aprovechamiento es normado por los criterios establecidos por la Comisión y los organismos operadores o concesionarios;
 
@@ -173,7 +173,9 @@ XXVII. Normas Técnicas: Regulaciones técnicas de observancia obligatoria en el
 
 XXVIII. Permiso de Descarga: Autorización temporal y sujeta a determinadas condiciones que otorga el Prestador (sic) los Servicios en una determinada zona geográfica, para que una persona, física o moral, de derecho privado o de derecho público, realice descargas de aguas residuales, siempre que las mismas sean distintas al uso doméstico;
 
-XXIX. Porteo: Acción de trasladar, en el territorio estatal aguas de un lugar a otro para distribuirlas, para fines comerciales en los términos establecidos por el Reglamento y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+XXIX. Porteo: Acción de trasladar en el territorio estatal, aguas de un lugar a otro para distribuirlas, en los términos de la normatividad aplicable;
 
 XXX. Potabilización: Conjunto de operaciones y procesos, físicos y/o químicos, que se aplican al agua a fin de mejorar su calidad y hacerla apta para uso y consumo humano;
 
@@ -265,17 +267,25 @@ II. La gestión financiera a través del ejercicio presupuestal anual destinado 
 
 ### Capítulo II. De la Planificación Hídrica
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 11.
 
-La planificación hídrica en el Estado es de carácter obligatorio para la gestión integrada de los recursos hídricos e incluirá la programación y su evaluación, que comprenderá:
+La planificación y programación hídrica en el Estado es de carácter obligatorio para la gestión integrada de los recursos hídricos e incluirá su control y evaluación, que comprenderá:
 
-I. La aprobación del Programa Hídrico Estatal, cuya formulación será responsabilidad de la Comisión en coordinación con los municipios, en los términos de esta Ley y la Ley de Planeación del Estado de Querétaro;
+I. El Programa Hídrico Estatal, cuya elaboración será responsabilidad de la Comisión en coordinación con los municipios. La aprobación, seguimiento, control y evaluación, será con la participación abierta e inclusiva de los sectores social y privado en la entidad, en los términos de esta Ley y la Ley de Planeación del Estado de Querétaro.
 
-II. La adopción y promoción de los mecanismos de concertación y participación ciudadana para la ejecución de programas y su financiamiento;
+El Programa Hídrico Estatal será diseñado con la integración del análisis de las condiciones particulares de las zonas, cobertura, población e infraestructura requerida en la Entidad, para brindar los servicios regulados por esta Ley.
 
-III. La implementación de un sistema para el desarrollo hidráulico del Estado; y
+El Programa Hídrico Estatal tendrá una vigencia de cinco años, y deberá estar alineado al Plan Estatal de Desarrollo y al Programa Nacional Hídrico, sin que pueda exceder del período de la administración estatal. El Programa podrá ser sujeto a revisión planteada por la Comisión, cuando se presente alguna situación contingente, de caso fortuito o fuerza mayor, que impacte en las previsiones, estrategias y acciones previstas en dicho instrumento;
 
-IV. La evaluación del Programa Hídrico Estatal.
+II. Promover la participación efectiva de los sectores social, privado y grupos en situación de vulnerabilidad en la entidad, para lo cual, la Comisión convocará desde las etapas iniciales del proceso de construcción del Programa a mesas, grupos de trabajo, comités técnicos especializados y regionales con los diferentes sectores, instituciones académicas y especialistas, así como fomentar el apoyo en la conformación, consolidación, y operación, de grupos intersectoriales; quienes podrán formular propuestas y opiniones para construir políticas y directrices en la planificación y programación hídrica, y en su caso, emitir análisis en la materia.
+
+La promoción de la participación precisada en el párrafo anterior, se ejecutará a través de la Comisión en coordinación con el Centro Estatal de Participación Ciudadana de Querétaro, quienes de manera conjunta emitirán las convocatorias correspondientes en términos de las disposiciones aplicables;
+
+III. La adopción y promoción de los mecanismos de concertación y participación ciudadana para la ejecución de programas; y
+
+IV. La implementación de un sistema para el desarrollo hidráulico del Estado.
 
 ###### Artículo 12.
 
@@ -414,6 +424,10 @@ Corresponde originalmente a los Municipios la prestación de los servicios de ag
 Los Municipios, previo acuerdo de sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, a través de la Comisión, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el Municipio.
 
 Cuando los Municipios ejerzan sus facultades a través de su organismo operador, los mismos tendrán las atribuciones que se establezcan en las disposiciones que se expidan para tal fin, así como las señaladas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+Por lo que ve a la prestación del servicio de alcantarillado y drenaje, la Comisión y los Municipios serán corresponsables de la infraestructura hidráulica pluvial, siendo receptores de ésta los Municipios del Estado donde se localice dicha infraestructura.
 
 ###### Artículo 25.
 
@@ -905,29 +919,11 @@ El presente Título tiene por objeto establecer las disposiciones generales que 
 
 Los propietarios o poseedores legítimos de inmuebles podrán realizar la contratación de los servicios de suministro de agua potable de forma individualizada, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 51.
 
-La prestación de los servicios públicos de agua potable, potabilización, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales, incluyendo la recirculación y reutilización de dichas aguas, estará sujeta a la siguiente prelación de usos:
-
-I. Doméstico;
-
-II. Público urbano;
-
-III. Comercial;
-
-IV. Industrial;
-
-V. Público Oficial;
-
-VI. Público Concesionado;
-
-VII. Escuelas y centros de enseñanza;
-
-VIII. Hidrantes colectivos;
-
-IX. Beneficencias; y
-
-X. Aquellos que, a juicio del prestador de los servicios se consideren prioritarios en una localidad.
+En la prestación de los servicios públicos de agua potable, el destinado al consumo personal, el uso doméstico y el público urbano del agua son preferentes respecto de cualquier otro uso para satisfacer las necesidades básicas, en forma suficiente, salubre, aceptable y asequible, conforme a las disposiciones aplicables. Las actividades con fines sociales prevalecerán sobre aquellas con fines comerciales o industriales.
 
 ###### Artículo 52.
 
@@ -1103,11 +1099,17 @@ En tanto no se cumpla con la obligación a que se refieren los artículos que an
 
 Será objeto de sanción, en los términos que esta Ley establezca, el abastecimiento de agua mediante fuentes alternas, en cualquiera de los casos en que exista obligación de contratar el servicio.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 74.
 
-El Prestador de los Servicios podrá limitar el suministro de los servicios de agua potable, potabilización, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales, incluyendo la recirculación y reutilización de dichas aguas, cuando el usuario de los mismos no realice el pago correspondiente al precio por los servicios suministrados; lo anterior, siempre que se haya hecho del conocimiento del usuario el importe del adeudo y su fecha de vencimiento a través del recibo correspondiente o mediante cualquier medio impreso.
+El Prestador de Servicios podrá limitar el servicio de suministro de agua potable y drenaje, tratándose de usuarios industriales y comerciales, cuando el usuario omita realizar el pago de dos periodos o dos meses consecutivos, según corresponda al cobro de la prestación del servicio.
 
-El Prestador de los Servicios cobrará los costos administrativos de la reconexión de los servicios, así como los materiales empleados para tal efecto, los que serán reflejados en el recibo correspondiente, reinstalando el suministro de los servicios; salvo que fundada y motivadamente se le haga saber al Prestador de los Servicios que se trata de causas graves imputables al usuario, supuesto en el cual no se reinstalarán los mismos.
+Respecto de los usuarios con uso doméstico, cuando éstos omitan realizar el pago de dos periodos o dos meses consecutivos, según corresponda al cobro de la prestación del servicio, previa notificación del prestador de los servicios, éste podrá limitar el suministro de agua a la cantidad necesaria para satisfacer los requerimientos básicos de consumo humano, de conformidad con el párrafo siguiente. La notificación se podrá realizar a través del recibo correspondiente o cualquier medio impreso y se deberá comunicar el importe del adeudo y su fecha de vencimiento.
+
+En el caso de limitación del servicio de agua potable a los usuarios domésticos, se garantizará el servicio de suministro continuo para necesidades básicas, considerando por lo menos 50 litros al día por persona, cuya dotación será proporcionada por el prestador de los servicios, mediante porteo y demás mecanismos conforme a la capacidad técnica y operativa que permita garantizar el suministro de agua en forma suficiente, salubre, aceptable y asequible.
+
+En el supuesto de que la limitación del servicio sea por causas imputables al usuario, se podrán cobrar los costos administrativos de reconexión del servicio.
 
 ###### Artículo 75.
 
@@ -1130,6 +1132,10 @@ VII. Por fugas internas;
 VIII. Se requiera hacer alguna reparación o dar mantenimiento a la infraestructura; y
 
 IX. A solicitud del titular del contrato o usuario legítimo de los servicios, para hacer trabajos de remodelación, construcción o cualquier otra actividad que implique la necesidad justificada de limitar el servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+En el caso de limitación del servicio de agua potable a los usuarios domésticos, se garantizará el servicio de suministro continuo para necesidades básicas, considerando por lo menos 50 litros al día por persona, cuya dotación será proporcionada por el prestador de los servicios.
 
 ###### Artículo 76.
 
@@ -1161,11 +1167,7 @@ Al efecto determinará, aprobará y supervisará, en los términos de la present
 
 ###### Artículo 79.
 
-La venta de agua potable, agua residual o agua tratada por metro cúbico a vehículos cisterna para su distribución y porteo, en los lugares en donde la Comisión no cuente con infraestructura, se llevará a cabo de acuerdo con la disponibilidad del recurso y se realizará únicamente por quienes cuenten con permiso de distribución y porteo de aguas expedido por la Comisión, con apego al Reglamento correspondiente y las demás disposiciones aplicables.
-
-La Comisión podrá verificar si los vehículos cisterna cuentan con el permiso correspondiente, pudiendo solicitar el auxilio y colaboración de las autoridades competentes.
-
-Las personas que cuenten con el permiso para distribución y porteo, deberán llevar consigo, el permiso correspondiente vigente y acreditar la procedencia de las aguas, mediante documento idóneo en los términos establecidos por el Reglamento y demás normatividad aplicable.
+(DEROGADO, P.O. 9 DE ABRIL DE 2024)
 
 ### Capítulo III. Del servicio de drenaje y alcantarillado
 
@@ -1277,6 +1279,24 @@ La contravención al presente artículo será sancionada conforme a lo dispuesto
 
 Los permisos se otorgarán con una vigencia mínima de seis meses y máxima de tres años y podrán prorrogarse siempre y cuando el permisionario lo solicite dos meses antes de su vencimiento y durante la vigencia de este haya dado cumplimiento a todas y cada una de las obligaciones a su cargo.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE ABRIL DE 2024)</small>
+
+Los permisionarios están obligados a:
+
+I. Responder por los daños y deterioro que cause a la infraestructura de los sistemas de alcantarillado y tratamiento;
+
+II. Dar mantenimiento a las obras que ejecuten, para el cumplimiento del permiso de descargas, garantizando que dichas obras se encuentren en buenas condiciones de funcionamiento y apariencia exterior, conservando la seguridad de las mismas;
+
+III. Permitir la práctica de las inspecciones, supervisiones o verificaciones que ordene el prestador de los servicios en los términos previstos en la ley y demás disposiciones legales aplicables;
+
+IV. Realizar un monitoreo constante de la calidad de las aguas residuales descargadas según los periodos y condiciones establecidas en los permisos de Descargas;
+
+V. Realizar las obras necesarias para cumplir con las condiciones particulares de Descarga que le sean requeridas por el prestador de los servicios;
+
+VI. Informar previamente al prestador de los servicios, cualquier cambio en sus procesos, cuando ellos ocasionen modificaciones en las concentraciones de contaminantes, o bien, en los volúmenes autorizados de descarga de acuerdo con el permiso, la factibilidad o autorizado por la autoridad competente; y
+
+VII. Cumplir con lo dispuesto en la Ley, las Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
 ###### Artículo 92.
 
 Al término del permiso, con independencia de la causa generadora de ello, todas las obras e infraestructura existente que no se encuentren en propiedad privada, pasarán a formar parte del patrimonio del prestador de los servicios sin perjuicio de que se realice la entrega-recepción de los mismos.
@@ -1285,21 +1305,33 @@ Al término del permiso, con independencia de la causa generadora de ello, todas
 
 Los usuarios del sistema de alcantarillado, están obligados a cumplir con la normatividad aplicable y las condiciones particulares de descarga fijadas por las autoridades competentes, así como con el pago del precio por los servicios recibidos.
 
-### Capítulo IV. Del servicio de tratamiento y disposición de las aguas residuales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2024)</small>
+
+### Capítulo IV. Del servicio de saneamiento y disposición de las aguas residuales
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
 
 ###### Artículo 94.
 
-Corresponde al Prestador de los Servicios realizar el tratamiento y disposición de sus aguas residuales.
+Corresponde al prestador de los servicios y los concesionarios realizar el saneamiento y disposición de sus aguas residuales.
+
+Serán materia de saneamiento, las aguas residuales y las aguas pluviales que transporten en suspensión materia orgánica e inorgánica, con el fin de sanearlas y realizar su aprovechamiento.
 
 ###### Artículo 95.
 
 Queda prohibido que los desechos tóxicos sólidos o líquidos productos de procesos industriales u otros clasificados como peligrosos conforme a las disposiciones aplicables, se eliminen por las redes de alcantarillado y/o drenaje o sean vertidos en ríos, manantiales, arroyos, corrientes o canales localizados en el territorio del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 96.
 
-El Prestador de los Servicios deberá establecer los procedimientos para cumplir con los parámetros mínimos permisibles, para poder descargar al sistema de drenaje y alcantarillado, en los términos de las disposiciones aplicables.
+El prestador de los servicios y los concesionarios están obligados a brindar, el acceso, disposición y saneamiento de agua para consumo personal y doméstico dentro de la delimitación geográfica que le corresponda, en forma suficiente, salubre, aceptable y asequible.
 
-En caso de que alguna población no cuente con sistema de alcantarillado y/o drenaje, se podrán fijar otros parámetros y proceder a su tratamiento debiendo cubrir el usuario los costos de dichos servicios bajo la forma que para tal efecto se determine.
+Los prestadores de los servicios y concesionarios deberán cumplir la regulación técnica de observancia obligatoria expedida por las autoridades normalizadoras competentes, en materia de control de calidad de agua para uso y consumo humano, regulación de descargas residuales y demás que resulten obligatorias en los términos de las disposiciones aplicables.
+
+El incumplimiento a lo establecido en el párrafo anterior, podrá ser causa de revocación de la concesión.
+
+Los prestadores de los servicios y concesionarios deberán tratar sus aguas residuales antes de descargarlas en un cuerpo receptor conforme a las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
 ###### Artículo 97.
 
@@ -1313,21 +1345,65 @@ III. Revisar los proyectos de obra de los sistemas de tratamiento que se pretend
 
 IV. Las demás que señale expresamente esta Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 98.
 
-El Prestador de los Servicios instrumentará lo necesario para que los usuarios no domésticos que descarguen aguas residuales cumplan con las disposiciones aplicables.
+Los usuarios no domésticos que descarguen aguas residuales de manera permanente, intermitente o fortuita al alcantarillado, sistemas de tratamiento o cualquier infraestructura hidráulica, deberán contar con permisos de descarga en términos de la presente ley y demás ordenamientos aplicables.
 
 Tratándose de usuarios domésticos, el Prestador de los Servicios, procederá a fijar los precios que resulten necesarios para el diseño, construcción, operación y mantenimiento de los sistemas públicos de tratamiento y disposición, a efecto de cumplir con las disposiciones aplicables en la materia.
 
-La construcción de las obras y el costo de la operación de los sistemas correrán a cargo del obligado a tratar esas aguas residuales.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+La construcción de las obras y el costo de la operación de los sistemas de conducción y tratamiento, correrán a cargo del obligado a tratar esas aguas residuales.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+Cuando se cuente con infraestructura de alcantarillado, queda prohibido a los usuarios no domésticos realizar descargas a drenes, canales y depósitos a cielo abierto o cualquier otra infraestructura utilizada para el manejo de las aguas pluviales, salvo en los casos, términos y condiciones que el permiso de descargas autorice y que previamente sea expedido por el prestador de los servicios.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
 
 ###### Artículo 99.
 
-Corresponde a los usuarios no domésticos que efectúen descargas de aguas residuales a los sistemas de drenaje y alcantarillado, reintegrarlas cumpliendo con la normatividad aplicable y el pago de los precios aplicables.
+Corresponde a los usuarios no domésticos que efectúen descargas reintegrarlas cumpliendo con la normatividad aplicable y el pago de los precios aplicables.
+
+Los usuarios no domésticos que realicen descargas de manera permanente, intermitente, fortuita o accidental, estarán obligados a instalar los elementos necesarios para la prevención y control de la contaminación de las aguas en el alcantarillado, tales como, de manera enunciativa más no limitativa, trampas de grasas y aceites, trampas de sólidos y de ser necesario sistemas de tratamiento, de acuerdo a la naturaleza y tipo de descarga.
+
+Los usuarios no domésticos deberán de cumplir con las instalaciones necesarias establecidas en las disposiciones jurídicas aplicables, a efecto de incorporar las aguas en condiciones susceptibles de tratarse en los sistemas públicos o a cargo del prestador de los servicios.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+###### Artículo 99 Bis.
+
+Los prestadores de los servicios, en el ámbito de sus respectivas competencias, se encuentran facultados para:
+
+I. Establecer criterios técnicos para el control y la prevención de la contaminación por las descargas al alcantarillado, con base en las Normas Oficiales Mexicanas y las normas ambientales del Estado;
+
+II. Determinar los usuarios obligados a construir y operar plantas de tratamiento y pretratamiento de aguas residuales, manejo y disposición de lodos, en términos de la presente ley y demás normatividad aplicable, así como fomentar la operación de dichas plantas que puedan dar servicio a diversos usuarios;
+
+III. Ejercer las atribuciones de inspección de la calidad física, química y biológica, para verificar el cumplimiento de las Normas Oficiales Mexicanas y de las diversas disposiciones legales aplicables, por parte de los sistemas de tratamiento de cualquiera que vierta agua a su infraestructura;
+
+IV. Revisar y aprobar los proyectos de los sistemas de tratamiento;
+
+V. Establecer las condiciones específicas de pretratamiento de las descargas no domésticas que lo requieran para la remoción o reducción de concentraciones de determinados contaminantes;
+
+VI. Supervisar que los proyectos y obras realizadas por los usuarios no domésticos para el tratamiento que se descarguen en el drenaje, cumplan con las disposiciones en materia de calidad de las aguas residuales;
+
+VII. Otorgar los permisos de descarga;
+
+VIII. Registrar, monitorear y vigilar el cumplimiento de las disposiciones de las Normas Oficiales Mexicanas y las disposiciones legales aplicables de la calidad de las descargas;
+
+IX. Aplicar las sanciones y las multas que deberán cubrir los usuarios que realizan actividades susceptibles de crear contaminación del agua o generar aguas residuales al hacer descargas sin el permiso de descarga o sin realizar el tratamiento de las mismas;
+
+X. Revisar los proyectos de las obras de los sistemas de tratamiento que se pretendan construir por parte de los particulares, que descarguen al Alcantarillado y, en su caso, recomendar las modificaciones que estime convenientes, y
+
+XI. Las demás que expresamente les otorgue la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2024)</small>
 
 ###### Artículo 100.
 
-Para efectos de lo dispuesto en el artículo anterior, el Prestador de los Servicios y en coordinación con las autoridades competentes, deberá:
+Para efectos de lo dispuesto en el artículo 99 de la presente Ley, el prestador de los servicios y en coordinación con las autoridades competentes, deberá:
 
 I. Aplicar las disposiciones que correspondan para la prevención y el control de la contaminación proveniente de las aguas residuales que se descarguen a los sistemas de drenaje de las poblaciones del Estado; y
 
@@ -1336,6 +1412,32 @@ II. Llevar a cabo acciones de verificación e inspección en materia de control,
 ###### Artículo 101.
 
 Cuando los usuarios no domésticos estén imposibilitados en cumplir con lo dispuesto en el artículo anterior, o efectúen descargas de aguas residuales a los sistemas de drenaje y alcantarillado, sin cumplir con lo estipulado en esta Ley, en las Normas Oficiales Mexicanas, normas técnicas y estándares técnicos correspondientes o condiciones particulares de descarga, podrán optar por un tratamiento en conjunto con el Prestador de los Servicios con cargo al usuario quien debe cubrir los costos que deriven de ello hasta en tanto los usuarios instalen el sistema de tratamiento para el cumplimiento de las disposiciones aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE ABRIL DE 2024)</small>
+
+El prestador de los servicios podrá ordenar al usuario no doméstico la instalación de sistemas de tratamiento previo en los siguientes casos:
+
+I. Cuando los sistemas de tratamiento no cuenten con la capacidad para remover determinados tipos de contaminantes encontrados en la descarga;
+
+II. Cuando las descargas contengan mayores concentraciones de contaminantes que los señalados en los parámetros máximos permisibles correspondientes al sistema de tratamiento en términos de la normatividad aplicable; o
+
+III. Cuando las concentraciones de contaminantes puedan inhibir el proceso de tratamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+Cuando el prestador de los servicios detecte el incremento de la concentración de ciertos contaminantes ordenará la instalación de sistemas de tratamiento previo.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+Cuando exista riesgo de daño o peligro para la población o los ecosistemas, los prestadores de los servicios, llevarán a cabo las acciones y obras necesarias para evitar el riesgo o daño, con cargo a los usuarios o responsables.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+Los prestadores de servicios comunicarán de inmediato a la autoridad competente, cuando la descarga afecte o pueda afectar fuentes de abastecimiento de agua potable o a la salud pública. Asimismo, cuando la descarga que afecte, sea vertida en los cuerpos receptores o de drenaje a su cargo, los prestadores de servicios suspenderán el suministro de agua que da origen a la descarga.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+La contravención al presente capítulo será sancionada conforme a lo dispuesto en la presente Ley, su Reglamento y demás normatividad que resulte aplicable.
 
 ###### Artículo 102.
 
@@ -1415,9 +1517,61 @@ En los lugares en donde no haya medidores o mientras éstos no se instalen, los 
 
 Las autoridades competentes serán responsables de vigilar el cumplimiento de las disposiciones de esta Ley y sus reglamentos, al autorizar la construcción, rehabilitación, ampliación, remodelación o demolición de obras.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 117.
 
-En épocas de escasez de agua, determinada o previsible, la Comisión, podrá determinar condiciones de limitación de la prestación de los servicios a que se refiere esta Ley en las zonas y durante el lapso que sea necesario, avisando a los usuarios a través de los medios de comunicación disponibles o en su caso suspender la contratación de servicios.
+Cuando exista escasez extrema de agua o emergencia en el Estado, decretada por la autoridad competente, se adoptarán las medidas necesarias, de carácter transitorio, para la prestación de los servicios objeto de esta Ley y garantizar el suministro de agua potable continuo para la satisfacción de las necesidades básicas del uso doméstico; a través de la expedición de los acuerdos de carácter general emitidos por la Comisión, con el objeto de que la población tenga conocimiento de las medidas.
+
+En los casos de limitación de los servicios, deberá garantizarse el suministro de agua potable para satisfacer las necesidades básicas del uso doméstico, considerando por lo menos 50 litros al día por persona, así como el uso público urbano u oficial, cuya dotación será proporcionada por el prestador de los servicios, teniendo como alternativa el porteo y demás mecanismos de distribución conforme a las capacidades técnicas y operativas del prestador de servicio que permita garantizar el suministro de agua en forma suficiente, salubre, aceptable y asequible.
+
+La Comisión podrá integrar comités técnicos científicos y especializados para atender la escasez del agua e identificar las causas y crear los estudios correspondientes respecto al estrés hídrico en la Entidad.
+
+La Comisión elaborará estudios técnicos y especializados para identificar, conocer, dar seguimiento a las causas y factores que originan la escasez y estrés hídrico en la entidad, los cuales serán publicados en los medios correspondientes.
+
+Los prestadores de servicios deberán implementar acciones y programas, tendientes a:
+
+I. Promover e instrumentar los mecanismos, programas especiales o de emergencia que den contención a la situación de emergencia hídrica, para el uso eficiente de los recursos hídricos en todos los sectores y asegurar la sostenibilidad de la extracción y el abastecimiento de agua para hacer frente a la escasez de agua;
+
+II. Fomentar la reutilización de agua;
+
+III. Capacitar y realizar actividades y programas relativos al cuidado del agua y el saneamiento, como los de captación de agua, uso eficiente de los recursos hídricos, tratamiento de aguas residuales, reúso y tecnologías de reutilización;
+
+IV. Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento;
+
+V. Asegurar el suministro de agua potable continuo para la satisfacción de las necesidades básicas del uso doméstico, considerando por lo menos 50 litros al día por persona;
+
+VI. Mejorar la infraestructura y la gestión del agua; y
+
+VII. Promover la inversión para la innovación en materia de reúso de agua e instalaciones de saneamiento.
+
+Los concesionarios deberán sujetarse a las medidas, programas, acciones, mecanismos, acuerdos, lineamientos y recomendaciones determinadas por la Comisión, emitidas en los términos de las fracciones anteriores.
+
+La prestación de los servicios objeto de la presente Ley debe realizarse con eficiencia y promover el aprovechamiento sustentable, recirculación y reutilización del agua, por lo que se deberá potencializar la utilización de agua residual tratada donde exista la infraestructura necesaria y la calidad del agua se encuentre dentro de los límites establecidos por las Normas Oficiales Mexicanas aplicables.
+
+Para prevenir un escenario de escasez de agua en la entidad, las personas preferentemente deberán utilizar agua tratada, en los siguientes casos:
+
+a) Servicios públicos: riego de áreas verdes, llenado de canales y de lagos recreativos;
+
+b) Abrevaderos y vida silvestre;
+
+c) Acuacultura;
+
+d) Giros mercantiles;
+
+e) Riego de terrenos de cultivo de forrajes y pastura;
+
+f) Riego de terrenos particulares;
+
+g) Industrial, con fines de equipamiento, enfriamiento de motores calderas, limpieza de áreas de servicio y empleo en manufactura;
+
+h) Limpieza en edificios y utilización en sanitarios;
+
+i) Lavado de vehículos automotores;
+
+j) En todos aquellos procesos y giros industriales y comerciales que no requieran el uso de agua potable; y
+
+k) En los demás casos en que el uso de agua potable no resulte necesario para la producción o mantenimiento de insumos, bienes o servicios.
 
 ## Título Quinto. De la prevención de la contaminación del agua
 
@@ -1595,7 +1749,7 @@ I. Disponer de la concesión otorgada en los términos establecidos en la presen
 
 II. Realizar el cobro a los Usuarios por el suministro de los servicios públicos principales y accesorios que establece la presente Ley y las aplicables, tales como, de agua potable, potabilización, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales, incluyendo la recirculación y reutilización de dichas aguas;
 
-III. Expedir certificados de conexión, cobrar y otorgar las factibilidades y los precios por concepto del uso de infraestructura a los desarrolladores y constructores para el establecimiento de centros de población, desarrollos inmobiliarios subdivisión y lotificación de predios e inmuebles en general, para la prestación de los servicios públicos concesionados. Asimismo, autorizar y avalar los proyectos hidráulicos de agua potable, potabilización, drenaje, alcantarillado, tratamiento, disposición de las aguas residuales, incluyendo la recirculación y reutilización de dichas aguas, mecanismos para su distribución y porteo;
+III. (DEROGADA, P.O. 9 DE ABRIL DE 2024)
 
 IV. Solicitar la prórroga de la concesión otorgada, siempre y cuando la misma se encuentre vigente y estén cubiertos todos los montos, contraprestaciones o cualquier otro pago inherente al título de concesión otorgado por el Prestador de Servicios y estén cumplidas las obligaciones del Título de Concesión por el concesionario; y
 
@@ -1671,13 +1825,19 @@ XXXII. Realizar el pago de los precios que le corresponda por mandato de las dis
 
 XXXIII. Mantener vigentes las fianzas y garantías exigidas por la concesión;
 
-XXXIV. Otorgar factibilidades de los servicios públicos, para el desarrollo de nuevos fraccionamientos, condominios, industrias, comercios, viviendas y construcciones en general, en términos de la presente Ley;
+XXXIV. (DEROGADA, P.O. 9 DE ABRIL DE 2024)
 
-XXXV. Cobrar los precios y gasto por la expedición de factibilidades señaladas en el inciso inmediato anterior, las cuales serán iguales a las que aplica la Comisión;
+XXXV. (DEROGADA, P.O. 9 DE ABRIL DE 2024)
 
-XXXVI. Revisar, supervisar y aprobar las obras de infraestructura, planos y requisitos técnicos para la construcción de las redes de agua potable y alcantarillado, así como de los sistemas de potabilización del agua y tratamiento de aguas residuales, para el desarrollo de los fraccionamientos, condominios, viviendas y construcciones en general; y
+XXXVI. (DEROGADA, P.O. 9 DE ABRIL DE 2024)
 
-XXXVII. Las demás que le señalen esta Ley y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2024)</small>
+
+XXXVII. Comunicar de inmediato a la autoridad competente, cuando la descarga afecte o pueda afectar fuentes de abastecimiento de agua potable o a la salud pública. Asimismo, cuando la descarga que afecte, sea vertida en los cuerpos receptores o de drenaje a su cargo, los prestadores de los servicios suspenderán el suministro de agua que da origen a la descarga.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE ABRIL DE 2024)</small>
+
+XXXVIII. Las demás que le señalen esta Ley y las disposiciones aplicables.
 
 ###### Artículo 136.
 
@@ -1943,6 +2103,10 @@ v) Por la construcción de obras hidráulicas.
 
 w) Por infraestructura para la prestación de los servicios a nuevos usuarios o de aquellos usuarios existentes sujetos a un procedimiento de regularización por uso diferente al autorizado de acuerdo a los registros históricos con que cuente el Prestador de los Servicios, quién podrá exigir el pago de este derecho.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2024)</small>
+
+x) De Aguas Servidas a entes públicos.
+
 Lo dispuesto en las fracciones anteriores, conforme a la siguiente clasificación de usuarios:
 
 a) Industriales Individuales o constituidos como Condominios.
@@ -1963,9 +2127,9 @@ h) Hidrantes.
 
 IV. De permisos:
 
-a) Para la venta de agua a través de vehículos cisterna.
+a) (DEROGADO, P.O. 9 DE ABRIL DE 2024)
 
-b) Para la venta y porteo de agua en bloque, conforme a lo establecido en el precio correspondiente.
+b) (DEROGADO, P.O. 9 DE ABRIL DE 2024)
 
 c) Por el otorgamiento de Permiso de Descarga.
 
@@ -2492,3 +2656,15 @@ María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
