@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-mental-para-el-estado-de-campeche-131976"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-16"
-last_updated: "2023-03-15"
+last_updated: "2024-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 16 de octubre de 2018.
 
@@ -191,9 +193,31 @@ V. A que el tratamiento que reciba la persona esté basado en un plan prescrito 
 
 VI. A no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
 
-VII. A ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o personas que se harán responsables de ella; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2024)</small>
 
-VIII. A la confidencialidad de la información psiquiátrica sobre su persona.
+VII. A ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o personas que se harán responsables de ella;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+VIII. A la confidencialidad de la información psiquiátrica sobre su persona;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+IX. A la rehabilitación que le permita la reinserción en los ámbitos familiar, laboral, educativo y comunitario;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+X. A que se informe de manera pronta y expedita al padre, madre o tutor con veracidad de la condición y el posible efecto del programa, campaña o tratamiento médico que reciba la persona usuaria, en caso de que sea menor de edad o sujeto de toma de decisiones con apoyo.
+
+Lo anterior aplica a toda la población del Estado, incluidos aquellos y aquellas que se encuentran en unidades médicas de reclusorios y comunidades para adolescentes, así como los grupos vulnerables.
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+XI. A acceder y mantener el vínculo con el sistema educativo y el empleo, y no ser excluido por causa de trastorno mental; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2024)</small>
+
+XII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2023)</small>
 
@@ -752,3 +776,11 @@ P.O. 15 DE MARZO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 349 POR EL QUE “SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONAN LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 6 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
