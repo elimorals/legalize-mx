@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg590-2023-del-consejo-general-del-instituto-168576
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-11-27"
-last_updated: "2023-11-27"
+last_updated: "2024-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-10-20"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL "MODELO DE OPERACIÓN DEL VOTO DE LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO EN MODALIDAD PRESENCIAL EN MÓDULOS RECEPTORES DE VOTACIÓN EN EL EXTRANJERO, PARA LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2023-2024"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 27 de noviembre de 2023.
 
@@ -242,3 +242,25 @@ El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebr
 La Consejera Presidenta del Consejo General, Lic. Guadalupe Taddei Zavala.- Rúbrica.- La Encargada del Despacho de la Secretaría del Consejo General, Lic. María Elena Cornejo Esparza.- Rúbrica.
 
 > <small>[N. DE E. VÉASE ANEXO DEL ACUERDO INE/CG590/2023 EN EL D.O.F. DE 27 DE NOVIEMBRE DE 2023, PÁGINAS DE LA 485 A LA 498.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO DEL ACUERDO INE/CG590/2023 “MODELO DE OPERACIÓN DEL VOTO DE LAS MEXICANAS Y LOS MEXICANOS EN EL EXTRANJERO EN MODALIDAD PRESENCIAL EN MÓDULOS RECEPTORES DE VOTACIÓN EN EL EXTRANJERO, PARA LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2023-2024” EN EL D.O.F. DE 9 DE ABRIL DE 2024, PÁGINAS DE LA 393 A LA 394.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE ABRIL DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES A LOS LINEAMIENTOS PARA LA CONFORMACIÓN DE LA LISTA NOMINAL DEL ELECTORADO EN EL EXTRANJERO PARA LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2023-2024 APROBADOS MEDIANTE DIVERSO INE/CG519/2023” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las modificaciones a los “Lineamientos para la conformación de la Lista Nominal del Electorado en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024”, aprobados mediante Acuerdo INE/CG519/2023, de conformidad con el anexo que acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores a informar semanalmente a las personas integrantes de la Comisión Nacional de Vigilancia y de la Comisión del Registro Federal de Electores, acerca del avance de la incorporación a la Lista Nominal del Electorado en el Extranjero de las personas ciudadanas que se encuentren bajo el supuesto previsto en el numeral 47, fracción II de los “Lineamientos para la conformación de la Lista Nominal del Electorado en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024”.
+
+TERCERO. Se aprueban las modificaciones al “Plan Integral de Trabajo del Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024” y al “Modelo de operación del Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero en modalidad presencial en módulos receptores de votación en el extranjero, para los Procesos Electorales Federal y Locales 2023-2024”, de conformidad con lo señalado en el numeral 16 del considerando tercero del presente acuerdo.
+
+CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores a informar a las personas integrantes de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+QUINTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a notificar el presente acuerdo y su anexo al Instituto de Elecciones y Participación Ciudadana de Chiapas, el Instituto Electoral de la Ciudad de México, el Instituto Electoral del Estado de Guanajuato, el Instituto Electoral del Estado de México, el Instituto Electoral y de Participación Ciudadana de Jalisco, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, el Instituto Electoral del Estado de Puebla y el Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+SEXTO. El presente acuerdo y su anexo entrarán en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+SÉPTIMO. Publíquense el presente acuerdo y su anexo en la Gaceta Electoral, en NormaINE, en el portal electrónico del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
