@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg519-2023-del-consejo-general-del-instituto-168029
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-10-02"
-last_updated: "2023-10-02"
+last_updated: "2024-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168029&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-08-25"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA CONFORMACIÓN DE LA LISTA NOMINAL DEL ELECTORADO EN EL EXTRANJERO PARA LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2023-2024 Y SUS ANEXOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2024.
 
 Acuerdo publicado en el Número 1 del Diario Oficial de la Federación, el lunes 2 de octubre de 2023.
 
@@ -377,7 +377,9 @@ Para efectos de los presentes Lineamientos, la DERFE elaborará los siguientes t
 
 i. LNE-Extranjero para Revisión: Lista(s) Nominal(es) del Electorado en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024, que la DERFE elabora y pone a disposición de los partidos políticos para efectos de su verificación, en términos del artículo 337, párrafo 1 de la LGIPE;
 
-ii. LNE-Extranjero Definitiva: Lista(s) Nominal(es) del Electorado en el Extranjero que se utilizará(n) en la jornada electoral de los Procesos Electorales Federal y Locales 2023-2024, consistentes en la relación de las personas ciudadanas cuya Solicitud Individual de Inscripción a la LNE-Extranjero fue determinada como procedente por la DERFE, al haber cumplido con los requisitos legales, así como de aquellos casos procedentes de las observaciones efectuadas por los partidos políticos, por las instancias administrativas derivadas de la(s) solicitud(es) de expedición de credencial o rectificación a la LNE-Extranjero y por las resoluciones emitidas por el TEPJF en las que se haya ordenado su inclusión. En caso de la modalidad de votación presencial en sedes en el extranjero, la LNE-Extranjero Definitiva también se integrará por las personas ciudadanas que cuenten con una CPVE tramitada al 20 de febrero de 2024 o CPV, y que no hayan solicitado votar por otra modalidad de votación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+ii. LNE-Extranjero Definitiva: Lista(s) Nominal(es) del Electorado en el Extranjero que se utilizará(n) en la jornada electoral de los Procesos Electorales Federal y Locales 2023-2024, consistentes en la relación de las personas ciudadanas cuya Solicitud Individual de Inscripción a la LNE-Extranjero fue determinada como procedente por la DERFE, al haber cumplido con los requisitos legales, así como de aquellos casos procedentes de las observaciones efectuadas por los partidos políticos, por las instancias administrativas derivadas de la(s) solicitud(es) de expedición de credencial o rectificación a la LNE-Extranjero y por las resoluciones emitidas por el TEPJF en las que se haya ordenado su inclusión. En caso de la modalidad de votación presencial en sedes en el extranjero, la LNE-Extranjero Definitiva también se integrará por las personas ciudadanas que cuenten con una CPVE tramitada al 25 de febrero de 2024 o CPV, y que no hayan solicitado votar por otra modalidad de votación.
 
 l) OCR: Reconocimiento Óptico de Caracteres (Optical Character Recognition, por sus siglas en inglés). Elemento compuesto de la CPV y de la CPVE, integrado por los dígitos que corresponden a la clave de la sección electoral de residencia de las personas ciudadanas, así como el número consecutivo que se asigna al momento del registro de cada persona ciudadana cuando se crea la Clave de Elector correspondiente;
 
@@ -439,7 +441,9 @@ IV. Establecer los procedimientos, requisitos y plazos que debe cumplir la ciuda
 
 ### Capítulo Primero. Requisitos para la inscripción de las personas ciudadanas en las LNE-Extranjero y para manifestar su decisión de votar desde el país en el que residen
 
-10. Las personas ciudadanas interesadas en inscribirse en la LNE-Extranjero para poder votar desde el extranjero en el PEF y los PEL 2023-2024, además de cumplir con los requisitos que establecen expresamente los artículos 34 de la CPEUM; 9, párrafo 1 y 330 de la LGIPE; del 1º de septiembre de 2023 al 20 de febrero de 2024, deberán manifestar su decisión de votar desde el país en el que residen y elegir una de las modalidades de votación disponibles, de conformidad con los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+10. Las personas ciudadanas interesadas en inscribirse en la LNE-Extranjero para poder votar desde el extranjero en el PEF y los PEL 2023-2024, además de cumplir con los requisitos que establecen expresamente los artículos 34 de la CPEUM; 9, párrafo 1 y 330 de la LGIPE; del 1º de septiembre de 2023 al 25 de febrero de 2024, deberán manifestar su decisión de votar desde el país en el que residen y elegir una de las modalidades de votación disponibles, de conformidad con los siguientes requisitos:
 
 I. Personas ciudadanas que cuentan con una CPVE vigente. Con el fin de garantizar su inclusión en la LNE-Extranjero, las personas ciudadanas con CPVE vigente, que elijan votar a través de la modalidad postal, electrónica por internet o presencial en sedes en el extranjero en los términos que determine el Consejo General, deberán observar lo siguiente:
 
@@ -593,7 +597,9 @@ La DERFE llevará registro de esta actividad, con el propósito de determinar la
 
 12. Las personas ciudadanas podrán consultar el estatus de su Solicitud de Inscripción, a través de la Clave de Elector y el folio que la DERFE asigne a su solicitud, el cual le será notificado a través del SRVE o bien, a través de INETEL.
 
-13. Durante el periodo comprendido del 1º de septiembre de 2023 al 20 de febrero de 2024, las personas ciudadanas que hayan solicitado su inscripción a la LNE-Extranjero podrán realizar, a través del SRVE, la actualización de la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+13. Durante el periodo comprendido del 1º de septiembre de 2023 al 25 de febrero de 2024, las personas ciudadanas que hayan solicitado su inscripción a la LNE-Extranjero podrán realizar, a través del SRVE, la actualización de la siguiente información:
 
 I. Elección de la modalidad de votación postal, electrónica a través de internet o presencial en sedes en el extranjero.
 
@@ -649,9 +655,13 @@ VII. Datos de contacto, de acuerdo con la modalidad de votación que se elija.
 
 VIII. Dato verificador.
 
-X (SIC). Elección de la modalidad de votación postal, electrónica a través de internet o presencial en sedes en el extranjero. Además, en el caso de la modalidad presencial, elección de la sede en el extranjero en la que se ejercerá el voto.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2024)</small>
 
-IX (SIC). Cargo(s) de elección popular por el(los) que tiene derecho a votar desde el extranjero.
+IX. Elección de la modalidad de votación postal, electrónica a través de internet o presencial en sedes en el extranjero. Además, en el caso de la modalidad presencial, elección de la sede en el extranjero en la que se ejercerá el voto.
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+X. Cargo(s) de elección popular por el(los) que tiene derecho a votar desde el extranjero.
 
 18. El formato de Solicitud de Inscripción deberá contener los manifiestos, autorizaciones y solicitudes establecidas en los artículos 330, párrafo 1, inciso b) y 332 de la LGIPE.
 
@@ -733,7 +743,9 @@ III. Número de Solicitudes de Inscripción que fueron determinadas procedentes.
 
 IV. Número de Solicitudes de Inscripción que fueron determinadas improcedentes, así como las causas de improcedencia.
 
-V. En el caso del voto presencial en sedes en el extranjero, número de personas con CPVE tramitada al 20 de febrero de 2024 y CPV, que fueron integradas en la LNE-Extranjero en términos del numeral 47 de los Lineamientos.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+V. En el caso del voto presencial en sedes en el extranjero, número de personas con CPVE tramitada al 25 de febrero de 2024 y CPV, que fueron integradas en la LNE-Extranjero en términos del numeral 47 de los Lineamientos.
 
 ### Capítulo Tercero. Aclaración de inconsistencias
 
@@ -741,17 +753,23 @@ V. En el caso del voto presencial en sedes en el extranjero, número de personas
 
 33. En el supuesto que no sea posible subsanar las inconsistencias a que se refiere el numeral anterior de los presentes Lineamientos, la DERFE lo comunicará a la brevedad a las personas ciudadanas, a través del SRVE y de los datos de contacto proporcionados, para que subsanen dichas inconsistencias. En todo momento se otorgarán las facilidades a las personas ciudadanas para que subsanen las inconsistencias con oportunidad mediante el SRVE.
 
-La DERFE comunicará a las personas ciudadanas las inconsistencias detectadas en su Solicitud de Inscripción, a más tardar, el 23 de febrero de 2024.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
 
-34. Las personas ciudadanas podrán subsanar las inconsistencias que les sean notificadas por la DERFE, a más tardar, el 26 de febrero de 2024 (Tiempo del Centro de México). La información y/o documentación que se remita para tal efecto, servirá como elemento adicional para la determinación de procedencia o improcedencia de la Solicitud de Inscripción.
+La DERFE comunicará a las personas ciudadanas las inconsistencias detectadas en su Solicitud de Inscripción, a más tardar, el 28 de febrero de 2024.
 
-En caso de que el subsane o aclaración de inconsistencia respectiva sea recibida por la DERFE después del 26 de febrero de 2024, ésta se tendrá por no recibida y se notificará la determinación sobre la improcedencia de su inscripción en la LNE-Extranjero a través del SRVE y de los datos de contacto proporcionados. Dicha notificación deberá ser conforme a lo establecido en el Capítulo Quinto del Título III de los presentes Lineamientos.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+34. Las personas ciudadanas podrán subsanar las inconsistencias que les sean notificadas por la DERFE, a más tardar, el 2 de marzo de 2024 (Tiempo del Centro de México). La información y/o documentación que se remita para tal efecto, servirá como elemento adicional para la determinación de procedencia o improcedencia de la Solicitud de Inscripción.
+
+En caso de que el subsane o aclaración de inconsistencia respectiva sea recibida por la DERFE después del 2 de marzo de 2024, ésta se tendrá por no recibida y se notificará la determinación sobre la improcedencia de su inscripción en la LNE-Extranjero a través del SRVE y de los datos de contacto proporcionados. Dicha notificación deberá ser conforme a lo establecido en el Capítulo Quinto del Título III de los presentes Lineamientos.
 
 35. La persona ciudadana deberá enviar la documentación para subsanar cualquier inconsistencia a través del SRVE. La fecha de envío se considerará como la fecha de recepción de la aclaración respectiva.
 
 ### Capítulo Cuarto. Determinación de procedencia o improcedencia de la Solicitud de Inscripción
 
-36. La DERFE determinará la procedencia o improcedencia de la Solicitud de Inscripción como resultado del cumplimiento de los requisitos establecidos en la LGIPE y los presentes Lineamientos, y de conformidad con los criterios establecidos en el Anexo 2 de los presentes Lineamientos, a más tardar el 2 de marzo de 2024.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+36. La DERFE determinará la procedencia o improcedencia de la Solicitud de Inscripción como resultado del cumplimiento de los requisitos establecidos en la LGIPE y los presentes Lineamientos, y de conformidad con los criterios establecidos en el Anexo 2 de los presentes Lineamientos, a más tardar el 5 de marzo de 2024.
 
 37. En las determinaciones sobre la procedencia o improcedencia de la Solicitud de Inscripción, la DERFE deberá garantizar, cuando menos, lo siguiente:
 
@@ -799,11 +817,39 @@ IV. Derivado de un análisis de su situación registral, debido a un movimiento 
 
 ### Capítulo Único. Disposiciones Generales
 
-47. En el caso de personas ciudadanas que cuenten con CPVE tramitada al 20 de febrero de 2024 o con CPV, y que no soliciten su inscripción en la LNE-Extranjero en los términos del numeral 10 de estos Lineamientos, quedarán incorporadas en dicho listado nominal bajo la modalidad de votación presencial en sedes en el extranjero. Para ello, se dispondrá lo necesario a fin de que, en cada una de las sedes en el extranjero, hasta un máximo de mil personas ciudadanas bajo este supuesto puedan ejercer su sufragio de manera presencial, en los términos y conforme a los procedimientos que para tal efecto determine el Consejo General.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+47. La DERFE aplicará los siguientes procedimientos para la incorporación a la LNE-Extranjero de la ciudadanía que se encuentra en esta situación:
+
+I. En el caso de personas ciudadanas que cuenten con CPVE tramitada al 25 de febrero de 2024 o con CPV, y que no soliciten su inscripción en la LNE-Extranjero en los términos del numeral 10 de estos Lineamientos, quedarán incorporadas en dicho listado nominal bajo la modalidad de votación presencial en sedes en el extranjero. Para ello, se dispondrá lo necesario a fin de que, en cada una de las sedes en el extranjero, pueda votar de manera presencial hasta un máximo de mil quinientas personas electoras que no hayan realizado un registro previo, de conformidad con los procedimientos que para tal efecto determine el Consejo General.
+
+II. Serán incorporadas, de manera precautoria a la LNE-Extranjero para votar bajo la modalidad postal, todas aquellas personas ciudadanas que cumplan las siguientes condiciones:
+
+a) Haber solicitado su CPVE dentro del periodo comprendido del 1º de septiembre de 2023 al 25 de febrero de 2024;
+
+b) No contar con una solicitud previa de registro para votar en el PEF y los PEL 2023-2024 bajo cualquier modalidad, y
+
+c) No residir en alguna de las circunscripciones consulares en la que se implementará el voto presencial en sedes en el extranjero.
+
+Hasta el 26 de marzo de 2024, la DERFE contactará a las personas ciudadanas que se incluyeron bajo este supuesto, para informarles que fueron incorporadas en la lista nominal para votar en la modalidad postal.
+
+En este caso, la ciudadanía podrá aceptar la inscripción, cambiar su modalidad de votación o rechazar su inclusión en la LNE-Extranjero.
+
+Con el fin de asegurar la certeza en cuanto a las personas que se les enviará un Paquete Electoral Postal, la DERFE excluirá del listado de la modalidad postal a la ciudadanía que se encuentre en los siguientes supuestos:
+
+a) No pudieron ser contactadas por el INETEL;
+
+b) Siendo contactadas, modificaron su modalidad de voto o rechazaron su inclusión en la lista nominal para votar de manera postal, y
+
+c) No recibieron su credencial, a más tardar el 26 de marzo de 2024.
+
+En estos casos y siempre y cuando reciban su credencial antes de la jornada electoral del 2 de junio de 2024 y no hayan optado por la modalidad electrónica por internet, la ciudadanía sólo podrá participar en la modalidad presencial, de conformidad con la fracción I de este numeral.
 
 Adicionalmente, se fortalecerá la capacitación a las personas ciudadanas que funjan como funcionarias de Mesa Directiva de Casilla que se ubiquen en territorio nacional, particularmente en la franja fronteriza, así como a quienes reciban la votación presencial en sedes en el extranjero, sobre los mecanismos de seguridad relativas al marcado del dedo pulgar con tinta indeleble y el marcaje de la CPVE o CPV, según se trate, garantizando en todo momento que solo una persona pueda emitir un voto.
 
-48. Las CPVE tramitadas posterior al 20 de febrero de 2024, quedarán bajo el resguardo de la DERFE hasta la conclusión de la jornada electoral, por lo que, estas serán enviadas a sus titulares a partir del 3 de junio de 2024.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+48. Las CPVE tramitadas posterior al 25 de febrero de 2024, quedarán bajo el resguardo de la DERFE hasta la conclusión de la jornada electoral, por lo que, estas serán enviadas a sus titulares a partir del 3 de junio de 2024.
 
 ## TÍTULO V. LNE-EXTRANJERO PARA REVISIÓN
 
@@ -811,7 +857,9 @@ Adicionalmente, se fortalecerá la capacitación a las personas ciudadanas que f
 
 49. El INE, a través de la DERFE, conformará la LNE-Extranjero para Revisión, misma que entregará a las representaciones de los partidos políticos acreditadas ante la CNV para su revisión, en términos de lo establecido en la LGIPE, el RE y los LAVE.
 
-La fecha de corte de la LNE-Extranjero para Revisión será el 2 de marzo de 2024, misma que se pondrá a disposición de los partidos políticos, a través de sus representaciones acreditadas ante la CNV, a más tardar el 12 de marzo de 2024.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+La fecha de corte de la LNE-Extranjero para Revisión será el 5 de marzo de 2024, misma que se pondrá a disposición de los partidos políticos, a través de sus representaciones acreditadas ante la CNV, a más tardar el 12 de marzo de 2024.
 
 A las personas representantes propietarias de los partidos políticos acreditadas ante la CNV, se les entregará un tanto de la LNE-Extranjero para Revisión, en los términos de los LAVE y el Anexo 19.2 del RE. Para tal efecto, y con el fin de disponer oportunamente de este instrumento electoral, la DERFE solicitará por escrito a las representaciones partidistas acreditadas ante la CNV que confirmen la solicitud de la LNE-Extranjero para Revisión a más tardar el 9 de febrero de 2024, conforme al procedimiento de entrega establecido. Las representaciones partidistas deberán contestar a la DERFE precisando el nombre y cargo de las personas que designen para recibir la LNE-Extranjero para Revisión.
 
@@ -851,7 +899,9 @@ Adicionalmente, la LNE-Extranjero para Revisión se pondrá a disposición de lo
 
 I. Las personas ciudadanas que cuentan con CPVE y cuya Solicitud de Inscripción fue determinada como procedente.
 
-En el caso de la LNE-Extranjero bajo la modalidad de voto presencial en sedes en el extranjero, se integrará también por las personas ciudadanas con CPVE tramitada al 20 de febrero de 2024, que no hayan elegido alguna otra modalidad de votación en términos de los numerales 10, fracción I y 47 de los presentes Lineamientos.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2024)</small>
+
+En el caso de la LNE-Extranjero, se integrará también por las personas ciudadanas con CPVE tramitada al 25 de febrero de 2024, en términos de los numerales 10, fracción I y 47, fracciones I y II de los presentes Lineamientos.
 
 II. Las personas ciudadanas que cuentan con CPV vigente y cuya Solicitud de Inscripción fue determinada como procedente.
 
@@ -1028,3 +1078,23 @@ IV. Las demás que establezca la normatividad electoral aplicable.
 > <small>[N. DE E. VÉASE ANEXO 1B EN EL DIARIO OFICIAL DEL 2 DE OCTUBRE DE 2023, PÁGINA 478.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL DIARIO OFICIAL DEL 2 DE OCTUBRE DE 2023, PÁGINAS DE LA 479 A LA 481.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE ABRIL DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES A LOS LINEAMIENTOS PARA LA CONFORMACIÓN DE LA LISTA NOMINAL DEL ELECTORADO EN EL EXTRANJERO PARA LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2023-2024 APROBADOS MEDIANTE DIVERSO INE/CG519/2023, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las modificaciones a los “Lineamientos para la conformación de la Lista Nominal del Electorado en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024”, aprobados mediante Acuerdo INE/CG519/2023, de conformidad con el anexo que acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores a informar semanalmente a las personas integrantes de la Comisión Nacional de Vigilancia y de la Comisión del Registro Federal de Electores, acerca del avance de la incorporación a la Lista Nominal del Electorado en el Extranjero de las personas ciudadanas que se encuentren bajo el supuesto previsto en el numeral 47, fracción II de los “Lineamientos para la conformación de la Lista Nominal del Electorado en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024”.
+
+TERCERO. Se aprueban las modificaciones al “Plan Integral de Trabajo del Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero para los Procesos Electorales Federal y Locales 2023-2024” y al “Modelo de operación del Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero en modalidad presencial en módulos receptores de votación en el extranjero, para los Procesos Electorales Federal y Locales 2023-2024”, de conformidad con lo señalado en el numeral 16 del considerando tercero del presente acuerdo.
+
+CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores a informar a las personas integrantes de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+QUINTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a notificar el presente acuerdo y su anexo al Instituto de Elecciones y Participación Ciudadana de Chiapas, el Instituto Electoral de la Ciudad de México, el Instituto Electoral del Estado de Guanajuato, el Instituto Electoral del Estado de México, el Instituto Electoral y de Participación Ciudadana de Jalisco, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, el Instituto Electoral del Estado de Puebla y el Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+SEXTO. El presente acuerdo y su anexo entrarán en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+SÉPTIMO. Publíquense el presente acuerdo y su anexo en la Gaceta Electoral, en NormaINE, en el portal electrónico del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
