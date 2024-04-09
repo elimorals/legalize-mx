@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2024-03-26"
+last_updated: "2024-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -767,9 +767,25 @@ La recuperación varía de persona a persona, de acuerdo con las preferencias in
 
 La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2024)</small>
+
 ###### Artículo 69.
 
-(DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
+Para la promoción de la salud mental, la Secretaría Estatal y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+
+I. El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, de preferencia a grupos en situación de vulnerabilidad;
+
+II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones;
+
+III. La realización de programas para la prevención y control del uso de sustancias psicoactivas y de adicciones;
+
+IV. Las acciones y campañas de promoción de los derechos de la población, sobre salud mental y adicciones, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
+
+V. La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo de sustancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia, preferentemente a niñas, niños y adolescentes y miembros de grupos vulnerables;
+
+VI. El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio; y,
+
+VII. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### Artículo 70.
 
@@ -2876,3 +2892,13 @@ P.O. 26 DE MARZO DE 2024.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 9 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 350.- SE REFORMA EL ARTÍCULO 69 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
