@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2024-03-20"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1131,7 +1131,9 @@ Estas facultades serán ejercidas por el pleno del congreso en los términos de 
 
 Entre el 1 y el 15 de diciembre de cada año, el Gobernador del Estado presentará al Congreso del Estado, en sesión solemne, un informe por escrito acerca de la situación que guarden los diversos ramos de la Administración Pública Estatal, pudiendo presentarlo de manera personal. Una vez entregado, quien ocupe la Presidencia del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
 
-En el último año de ejercicio constitucional, el Gobernador del Estado podrá presentar el informe a partir del 15 de noviembre del año que corresponda, en la fecha que determine, notificando al Congreso del Estado cuando menos con quince días de anticipación.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2024)</small>
+
+En el último año de ejercicio constitucional, el Gobernador del Estado podrá presentar el informe del 1 de septiembre al 15 de noviembre, en la fecha que determine, notificando al Congreso del Estado, cuando menos con quince días de anticipación.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1445,7 +1447,9 @@ XVIII. Presentar al Congreso del Estado, en términos del artículo 46 de esta C
 
 XIX. Presentar al Congreso del Estado y, en sus recesos, a la Comisión Permanente, la cuenta pública correspondiente al año anterior, a más tardar el día 30 de abril de cada año.
 
-El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemplen los tres primeros trimestres del año, podrá ser presentada a más tardar el día 7 de diciembre de ese mismo año, encargándose la siguiente administración de entregar la correspondiente al último trimestre.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2024)</small>
+
+El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemple los dos primeros trimestres del año, podrá ser presentada a más tardar el día 31 de agosto de ese mismo año; el tercer trimestre será entregado, a más tardar el día 7 de diciembre de ese mismo año; encargándose la siguiente administración de entregar la correspondiente al último trimestre.
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JULIO DE 2022)</small>
 
@@ -2451,9 +2455,7 @@ La Universidad Autónoma de Chiapas, desde su fundación está orientada a la fo
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-## Título Décimo
-
-De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupción del Estado de Chiapas.
+## Título Décimo. De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupción del Estado de Chiapas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4892,3 +4894,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- El Congreso del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá aprobar las adecuaciones a los ordenamientos jurídicos y normativos correspondientes.
+
+P.O. 10 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 301 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que contravengan el presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a la legislación aplicable, de conformidad con lo previsto en el presente Decreto.
