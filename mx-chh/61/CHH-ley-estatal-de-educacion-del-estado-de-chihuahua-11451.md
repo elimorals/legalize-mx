@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2023-04-19"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -2311,13 +2311,17 @@ XVI. Presentar quejas ante las Autoridades Educativas correspondientes, sobre el
 
 ARTÍCULO 130 BIS.- Las Asociaciones de Padres de Familia tendrán por objeto, además de las ya previstas en la presente Ley y disposiciones reglamentarias aplicables, participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 131.
 
-Son obligaciones de quienes ejercen la patria potestad o la tutela:
+Son obligaciones de las madres, padres o de quienes ejerzan la tutela, guarda y custodia:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 I. Garantizar que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria y secundaria, procurando que accedan a la educación media superior y superior;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 II. Apoyar de manera permanente el proceso educativo de sus hijas, hijos o pupilos;
 
@@ -2325,9 +2329,15 @@ II. Apoyar de manera permanente el proceso educativo de sus hijas, hijos o pupil
 
 III. Colaborar con las autoridades escolares y las organizaciones de padres de familia, en las actividades que se realicen en los planteles tendientes a mejorar la calidad educativa;
 
-IV. Asistir a las reuniones deliberativas convocadas en la escuela;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2024)</small>
+
+IV. Asistir a las reuniones convocadas por la Autoridad Educativa Estatal, relativas al Programa Escuela para Madres, Padres o Quienes Ejerzan la Tutela, Guarda y Custodia, así como participar en el mismo.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades extraescolares y extracurriculares definidas por el personal docente de la escuela; y
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 VI. Proporcionar a sus hijas, hijos o pupilos los útiles y materiales escolares necesarios para el mejor desempeño de sus actividades;
 
@@ -4632,3 +4642,27 @@ P.O. 19 DE ABRIL DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/EXLEY/0811/2023 I P.O.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular del Poder Ejecutivo del Estado, deberá emitir el Reglamento de la Ley contenida en el Artículo Primero del presente Decreto, dentro de los ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días hábiles, contados a partir de la entrada en vigor del Reglamento de la Ley contenida en el Artículo Primero del presente Decreto, la persona titular del Poder Ejecutivo del Estado, deberá emitir el Protocolo correspondiente en la materia.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades competentes de la Administración Pública Estatal, deberán realizar las modificaciones y adecuaciones pertinentes a sus programas, de acuerdo a lo establecido en la Ley contenida en el Artículo Primero del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones y demás recursos financieros en los presupuestos anuales de egresos, a fin de cumplir con la Ley contenida en el Artículo Primero del presente Decreto.
