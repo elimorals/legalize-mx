@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-144091"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-09-11"
-last_updated: "2020-09-11"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-09-07"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ABRIL DE 2024.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el viernes 11 de septiembre de 2020.
 
@@ -175,6 +175,14 @@ La Junta de Gobierno tendrá las atribuciones que expresamente le confieren la L
 ###### Artículo 9.
 
 Para el ejercicio de sus funciones la Junta de Gobierno sesionará de manera ordinaria trimestralmente y de manera extraordinaria cuando las necesidades de ésta así lo requieran.
+
+> <small>(ADICIONADO, G.O. 10 DE ABRIL DE 2024)</small>
+
+Cuando por caso fortuito o causas de fuerza mayor no sea posible celebrar la sesión que corresponda o continuar con la misma, esta será reprogramada.
+
+> <small>(ADICIONADO, G.O. 10 DE ABRIL DE 2024)</small>
+
+La sesión que corresponda podrá cancelarse cuando no existan casos a tratar, situación que el Presidente hará de conocimiento de los miembros e invitados con cinco días hábiles previos a su celebración.
 
 Cada miembro propietario, podrá designar por escrito, un representante suplente con nivel no menor a Director de Área.
 
@@ -594,7 +602,9 @@ XVI. Coordinar la actualización de los registros, padrones, plataformas, sistem
 
 XVII. Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México y Federal, la práctica de visitas de verificación administrativa o inspección en materias de su competencia;
 
-XVIII. Supervisar la entrega del material de videofilmación de las visitas de verificación administrativa o de cualquier otra diligencia que ejecute el Personal Especializado a su cargo;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+XVIII. Supervisar la entrega del material de videograbación de las visitas de verificación administrativa o de cualquier otra diligencia que ejecute el Personal Especializado a su cargo;
 
 XIX. Remitir a la Dirección Ejecutiva de Substanciación y Calificación las constancias de los actos de ejecución que realice con motivo de la tramitación y seguimiento a los procedimientos de verificación administrativa de su competencia, o en su caso, a la Dirección Ejecutiva de Asuntos Jurídicos y Servicios Legales;
 
@@ -614,7 +624,9 @@ II. Supervisar y suscribir las órdenes y los documentos necesarios para la impl
 
 III. Requerir a las autoridades competentes información, documentación y copias certificadas; así como la ejecución de las acciones que resulten necesarias para el ejercicio de sus atribuciones;
 
-IV. Supervisar el cumplimiento de los procedimientos de actuación del Personal Especializado asignado al Ámbito Central y de su videofilmación;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+IV. Supervisar el cumplimiento de los procedimientos de actuación del Personal Especializado asignado al Ámbito Central y de su videograbación;
 
 V. Remitir la documentación que resulte de la ejecución de las diligencias derivadas del procedimiento de verificación administrativa a las áreas competentes del Instituto, para su substanciación y calificación;
 
@@ -654,7 +666,9 @@ II. Elaborar las órdenes y los documentos necesarios para la implementación de
 
 III. Procesar los requerimientos que se realizarán a las autoridades competentes para que proporcionen información, documentación y copias certificadas; así como la ejecución de las acciones que resulten necesarias para el ejercicio de sus atribuciones;
 
-IV. Coadyuvar en la supervisión del cumplimiento de los procedimientos de actuación del Personal Especializado asignado al Ámbito Central y de su videofilmación;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+IV. Coadyuvar en la supervisión del cumplimiento de los procedimientos de actuación del Personal Especializado asignado al Ámbito Central y de su videograbación;
 
 V. Integrar la documentación que resulte de la ejecución de las diligencias derivadas del procedimiento de verificación administrativa a las áreas competentes del Instituto, para su substanciación y calificación;
 
@@ -690,11 +704,15 @@ I. Ejecutar y supervisar las acciones tendientes al cumplimiento de los programa
 
 II. Colaborar en coordinación con la persona titular de la Dirección de Verificación, Seguridad y Clausuras del Ámbito Central, en el proceso de selección, así como en la evaluación y permanencia del Personal Especializado asignado al Ámbito Central y a las Alcaldías;
 
-III. Supervisar al Personal Especializado asignado en las Alcaldías;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+III. Supervisar al Personal Especializado asignado en las Alcaldías y Ámbito Central;
 
 IV. Requerir a las autoridades competentes información y documentación en copias certificadas, así como la ejecución de acciones, que resulten necesarias para el ejercicio de sus atribuciones;
 
-V. Supervisar la ejecución de las visitas de verificación administrativa en las materias competencia de las Alcaldías;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+V. Supervisar la ejecución de las visitas de verificación administrativa en las materias competencia de las Alcaldías y Ámbito Central;
 
 VI. Proponer acciones para el desarrollo y capacitación del Personal Especializado;
 
@@ -708,17 +726,31 @@ X. Planear, organizar y ejecutar las campañas de información y prevención par
 
 XI. Integrar y actualizar el Padrón Único de Verificadores del Sistema Unificado de Verificación;
 
-XII. Supervisar los procedimientos de actuación del Personal Especializado asignado en las Alcaldías, y de su videofilmación, que para tal efecto emita la persona titular de la Dirección General;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
 
-XIII. Supervisar que el material de videofilmación producto de la verificación y de cualquier diligencia del Personal Especializado asignado en las Alcaldías, sea entregado a la unidad administrativa o unidad administrativa de apoyo técnico-operativo competente de este Instituto para su debido resguardo, en los formatos y plazos que para tal efecto se establezcan.
+XII. Supervisar los procedimientos de actuación del Personal Especializado asignado en las Alcaldías, y de su videograbación, que para tal efecto emita la persona titular de la Dirección General;
+
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+XIII. Supervisar que el material de videograbación producto de la verificación y de cualquier diligencia del Personal Especializado asignado en las Alcaldías, sea entregado a la unidad administrativa o unidad administrativa de apoyo técnico- operativo competente de este Instituto para su debido resguardo, en los formatos y plazos que para tal efecto se establezcan;
 
 XIV. Realizar y supervisar el registro de las actuaciones realizadas por el Personal Especializado asignado en las Alcaldías;
 
-XV. Supervisar que las videofilmaciones de la actividad verificadora de las Alcaldías, sea custodiada para su guarda, inviolabilidad e inalterabilidad hasta en tanto se entregue la misma al área administrativa o unidad administrativa de apoyo técnico-operativo competente de este Instituto;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
 
-XVI. Analizar las videofilmaciones, a efecto de detectar áreas de oportunidad y establecer e implementar las acciones que fortalezcan las visitas de verificación administrativa y en su caso, realizar los apercibimientos que correspondan al Personal Especializado, y
+XV. Supervisar que las videograbaciones de la actividad verificadora de las Alcaldías, sea custodiada para su guarda, inviolabilidad e inalterabilidad hasta en tanto se entregue la misma al área administrativa o unidad administrativa de apoyo técnico operativo competente de este Instituto;
 
-XVII. Las demás que señalen otras disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+XVI. Analizar las videograbaciones, a efecto de detectar áreas de oportunidad y establecer e implementar las acciones que fortalezcan las visitas de verificación administrativa y en su caso, realizar los apercibimientos que correspondan al Personal Especializado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE ABRIL DE 2024)</small>
+
+XVII. Comisionar al personal que llevará a cabo la supervisión del Personal Especializado en las Alcaldías y en el Ámbito Central; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE ABRIL DE 2024)</small>
+
+XVIII. Las demás que señalen otras disposiciones jurídicas y administrativas aplicables.
 
 APARTADO E. Corresponde a la Dirección Ejecutiva de Verificación al Transporte lo siguiente:
 
@@ -752,7 +784,9 @@ XIII. Coordinar campañas de información, prevención y acciones encaminadas al
 
 XIV. Coordinar la actualización de los registros, padrones, plataformas, sistemas o cualquier otro análogo del personal y la actividad verificadora a su cargo, atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
-XV. Supervisar la entrega del material de videofilmación de las visitas de verificación administrativa o de cualquier otra diligencia que ejecute el Personal Especializado a su cargo;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+XV. Supervisar la entrega del material de videograbación de las visitas de verificación administrativa o de cualquier otra diligencia que ejecute el Personal Especializado a su cargo;
 
 XVI. Remitir a la Dirección Ejecutiva de Substanciación y Calificación las constancias de los actos de ejecución que realice con motivo de la tramitación y seguimiento a los procedimientos de verificación administrativa de su competencia, o en su caso, a la Dirección Ejecutiva de Asuntos Jurídicos y Servicios Legales;
 
@@ -788,7 +822,13 @@ VII. Realizar las acciones procedentes para cumplir los requerimientos formulado
 
 VIII. Comisionar al Personal Especializado a su cargo para identificar, revisar y en su caso, suspender o remitir las unidades o vehículos de transporte a corralón, encierro o deposito vehicular, en todas sus modalidades que contravengan la normatividad aplicable, y
 
-IX. Las demás que señalen otras disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE ABRIL DE 2024)</small>
+
+IX. Supervisar las notificaciones de acuerdos, resoluciones y demás documentos, que le remitan para tales efectos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE ABRIL DE 2024)</small>
+
+X. Las demás que señalen otras disposiciones jurídicas y administrativas aplicables.
 
 #### SECCIÓN SEGUNDA: La Subdirección Operativa de Verificación al Transporte es competente para:
 
@@ -798,7 +838,9 @@ II. Ejecutar el programa de visitas de verificación administrativa en materia d
 
 III. Instrumentar la comisión, rotación y asignación del Personal Especializado en Funciones de Verificación a su cargo, atendiendo a las necesidades del servicio, cargas de trabajo o cualquier otra justificación;
 
-IV. Ejecutar los acuerdos y las órdenes relativas a las medidas cautelares y de seguridad; así como las determinaciones dictadas en las Resoluciones Administrativas en materia de transporte emitidas por la Dirección Ejecutiva de Substanciación y Calificación y de sus unidades administrativas de apoyo técnico-operativo facultadas para tal efecto; y las que requieran las autoridades jurisdiccionales o cualquier otra competente; y en el caso de ser necesario, solicitar la colaboración de otras personas físicas o morales, públicas o privadas;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+IV. Realizar las acciones necesarias para la ejecución de las inspecciones oculares, medidas cautelares o de seguridad, de los acuerdos o resoluciones emitidas en el procedimiento en materia de transporte, y en su caso, solicitar la colaboración de cualquier ente público cuando así lo requiera;
 
 V. Realizar las acciones necesarias para la participación del Personal Especializado a su cargo, en los operativos que así se requiera atendiendo a las necesidades del servicio del Instituto, en su caso, en coordinación con la Dirección Ejecutiva de Verificación Administrativa;
 
@@ -806,7 +848,13 @@ VI. Supervisar la remisión de las unidades o vehículos de transporte que contr
 
 VII. Controlar e inventariar los documentos y placas que se aseguren como resultado de la implementación de medidas cautelares y de seguridad, sanción o de cualquier otra determinación dictada por las unidades administrativas del Instituto o por autoridad competente, y
 
-VIII. Las demás que señalen otras disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE ABRIL DE 2024)</small>
+
+VIII. Realizar acciones de coordinación interinstitucional con las autoridades locales o federales que inciden en el ejercicio de las atribuciones de la Dirección Ejecutiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE ABRIL DE 2024)</small>
+
+IX. Las demás que señalen otras disposiciones jurídicas y administrativas aplicables.
 
 #### SECCIÓN TERCERA: La Subdirección de Programación y Seguimiento a la Verificación al Transporte es competente para:
 
@@ -824,7 +872,9 @@ VI. Proponer y realizar las campañas de información, prevención y acciones en
 
 VII. Actualizar los registros, padrones, plataformas, sistemas o cualquier otro análogo del personal y la actividad verificadora a su cargo, atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
-VIII. Supervisar la entrega del material de videofilmación de las visitas de verificación administrativa o de cualquier otra diligencia que ejecute el Personal Especializado a su cargo;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+VIII. Supervisar la entrega del material de videograbación de las visitas de verificación administrativa o de cualquier otra diligencia que ejecute el Personal Especializado a su cargo;
 
 IX. Diseñar un sistema de promoción del Personal Especializado atendiendo a su desempeño y a las disposiciones aplicables, y
 
@@ -1147,3 +1197,13 @@ Ciudad de México, a 07 de septiembre de 2020
 LICENCIADA TERESA MONROY RAMÍREZ
 
 DIRECTORA GENERAL DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL CUAL SE DAN A CONOCER LAS REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México, para su debida difusión, observancia y aplicación.
+
+SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
