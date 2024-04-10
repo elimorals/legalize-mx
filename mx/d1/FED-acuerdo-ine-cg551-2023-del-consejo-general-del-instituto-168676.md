@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg551-2023-del-consejo-general-del-instituto-168676
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-12-01"
-last_updated: "2023-12-01"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168676&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-09-28"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA NOTIFICACIÓN ELECTRÓNICA PREVISTA EN EL REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-149/2023 Y ACUMULADOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2024.
 
 Acuerdo publicado en el número 1 del Diario Oficial de la Federación, el viernes 1 de diciembre de 2023.
 
@@ -151,6 +151,14 @@ Cuando no esté en curso algún proceso electoral federal y/o local los plazos s
 
 Dada la naturaleza urgente de las medidas cautelares, su notificación electrónica se realizará considerando que la Comisión de Quejas y Denuncias del Instituto Nacional Electoral podrá sesionar en cualquier día u hora, dentro o fuera de los procesos electorales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ABRIL DE 2024)</small>
+
+Al efecto, se deberá considerar que, si la notificación en casos de medidas cautelares se ordena en un horario posterior a las dieciocho horas (18:00), entonces la autoridad administrativa electoral nacional estará obligada a remitir un citatorio electrónico previo a la persona destinataria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ABRIL DE 2024)</small>
+
+El citatorio electrónico deberá contener de forma clara y precisa que el propósito de la mencionada comunicación es hacer del conocimiento de la persona destinataria que, a las nueve horas (09:00), del día siguiente, le será remitida una notificación formal y que, en términos de los Lineamientos surtirá efectos desde el momento en que se genere el acuse de recibo.
+
 ### CAPITULO II. Procedimiento de alta y modificación de dirección de correo electrónico
 
 Artículo 5
@@ -229,6 +237,10 @@ La falta de entrega de una notificación hecha a una cuenta accesoria no le rest
 
 En el caso de que, durante período ordinario, el acuse de recibo electrónico de notificación sea emitido en días y horas inhábiles, se tendrá por notificado a partir de la hora hábil siguiente; en proceso electoral, federal, local o extraordinario, se tendrá por recibido en el momento en que se obtenga el acuse de recibo electrónico de notificación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ABRIL DE 2024)</small>
+
+En cuestiones vinculadas con medidas cautelares deberá atenderse a lo dispuesto en el artículo 4, particularmente, a los dos últimos párrafos que prevén el citatorio electrónico para el caso de notificaciones ordenadas después de las dieciocho horas (18:00) como comunicación previa a la notificación formal por correo electrónico de los actos y determinaciones de la autoridad administrativa electoral nacional.
+
 La carga de la prueba respecto del acuse electrónico de notificación siempre recaerá en la DEPPP.
 
 ### CAPITULO V. De la reforma a los Lineamientos
@@ -254,3 +266,19 @@ SÉPTIMO. Se instruye a la Dirección Ejecutiva de Prerrogativas y Partidos Pol�
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 28 de septiembre de 2023, por votación unánime de las y los Consejeros Electorales, Maestro Arturo Castillo Loza, Norma Irene De La Cruz Magaña, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordan, Maestra Rita Bell López Vences, Maestro Jorge Montaño Ventura, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y de la Consejera Presidenta, Licenciada Guadalupe Taddei Zavala, no estando presente durante la votación el Consejero Electoral, Doctor Uuc-kib Espadas Ancona.
 
 La Consejera Presidenta del Consejo General, Lic. Guadalupe Taddei Zavala.- Rúbrica.- La Encargada del Despacho de la Secretaría del Consejo General, Lic. María Elena Cornejo Esparza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE ABRIL DE 2024.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL ACUERDO INE/CG/551/2023 Y LOS LINEAMIENTOS PARA LA NOTIFICACIÓN ELECTRÓNICA PREVISTA EN EL REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-230/2023 Y ACUMULADOS, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. El Instituto Nacional Electoral, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, podrá implementar una solución tecnológica que fortalezca el mecanismo de la notificación electrónica. Lo anterior, considerando los avances tecnológicos y recursos presupuestales de que disponga.
+
+TERCERO. Se ordena la publicación del presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral.
+
+CUARTO. Los presentes Lineamientos entrarán en vigor el día de su aprobación por este Consejo General del Instituto Nacional Electoral.
+
+QUINTO. Se instruye a la Dirección Jurídica para que informe, dentro de las veinticuatro horas siguientes a la aprobación de este Acuerdo, a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, el cumplimiento dado al punto resolutivo CUARTO de la sentencia dictada en el expediente SUP-RAP-230/2023 y acumulados.
+
+SEXTO. Se instruye a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a que notifique electrónicamente el presente Acuerdo a los partidos políticos nacionales y locales, autoridades electorales federales y locales, concesionarios de radio y la televisión radiodifundida y restringida, así como a la Secretaría de Gobernación.
