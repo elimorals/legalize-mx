@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2023-09-09"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -696,6 +696,10 @@ XII.- Otorgar horarios flexibles, reubicación temporal, o bien, autorizar la re
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
 XIII. Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, previa entrega de la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2024)</small>
+
+XIV. Conceder permiso a las personas trabajadoras, cuyas niñas, niños y adolescentes se encuentren cursando estudios, para que puedan acudir a las citas a que sean convocados por la Autoridad Educativa, presentando ante el patrón y con razonable anticipación, el citatorio o justificación respectiva.
 
 (ADICIONADO, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
@@ -11152,3 +11156,27 @@ P.O. 9 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/EXLEY/0811/2023 I P.O., MEDIANTE EL CUAL SE EXPIDE LA LEY DEL PROGRAMA ESCUELA PARA MADRES, PADRES O QUIENES EJERZAN LA TUTELA, GUARDA Y CUSTODIA PARA EL ESTADO DE CHIHUAHUA, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular del Poder Ejecutivo del Estado, deberá emitir el Reglamento de la Ley contenida en el Artículo Primero del presente Decreto, dentro de los ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días hábiles, contados a partir de la entrada en vigor del Reglamento de la Ley contenida en el Artículo Primero del presente Decreto, la persona titular del Poder Ejecutivo del Estado, deberá emitir el Protocolo correspondiente en la materia.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades competentes de la Administración Pública Estatal, deberán realizar las modificaciones y adecuaciones pertinentes a sus programas, de acuerdo a lo establecido en la Ley contenida en el Artículo Primero del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones y demás recursos financieros en los presupuestos anuales de egresos, a fin de cumplir con la Ley contenida en el Artículo Primero del presente Decreto.
