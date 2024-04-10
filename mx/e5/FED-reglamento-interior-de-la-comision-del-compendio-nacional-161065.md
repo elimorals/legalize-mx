@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-del-compendio-nacional-16106
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-11-22"
-last_updated: "2023-06-30"
+last_updated: "2024-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161065&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-11-11"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SALUD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LAS NORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SALUD, PUBLICADO EN EL D.O.F. DE 10 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2024 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 22 de noviembre de 2022.
 
@@ -888,3 +890,13 @@ D.O.F. 30 DE JUNIO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las solicitudes de actualización que se encuentren en trámite a la entrada en vigor del presente Reglamento, se resolverán por la Comisión de conformidad con las disposiciones vigentes en la fecha de su presentación.
+
+D.O.F. DE 10 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS “NORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN DEL COMPENDIO NACIONAL DE INSUMOS PARA LA SALUD”.]
+
+PRIMERO. Las presentes Normas entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las solicitudes de actualización que se encuentren en trámite a la entrada en vigor de las presentes Normas de Organización y Funcionamiento, se resolverán por la Comisión de conformidad con las disposiciones vigentes en la fecha de su presentación.
+
+TERCERO. Se abroga el Reglamento Interior de la Comisión de Compendio Nacional de Insumos para la Salud, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2022.
