@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-profesional-de-carrera-de-la-145005"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-11-18"
-last_updated: "2022-12-01"
+last_updated: "2024-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145005&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-11-13"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ABRIL DE 2024.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 18 de noviembre de 2020.
 
@@ -388,9 +388,9 @@ C. En la Policía Bancaria e Industrial, por:
 
 I. Presidencia: la Persona Titular de la Secretaría de Seguridad Ciudadana.
 
-> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
 
-II. Secretaría Técnica: persona titular de la Jefatura de Departamento de Carrera Policial, quien participará en las sesiones con voz, pero sin voto.
+II. Secretaría Técnica: Persona Titular de la Subdirección de Carrera Policial, quien participará en las sesiones con voz, pero sin voto.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
 
@@ -596,7 +596,9 @@ En la Policía Bancaria e Industrial, por:
 
 I. Presidencia: que será la Persona Titular de la Secretaría de Seguridad Ciudadana.
 
-II. Secretaría Técnica: que será la Persona Titular de la Coordinación de Supervisión y Evaluación Operativa.
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2024)</small>
+
+II. Secretaría Técnica: que será la persona titular de la Subdirección del Centro de Formación y Desarrollo Policial.
 
 III. Seis Vocalías, con voz y voto que serán:
 
@@ -610,7 +612,11 @@ d. La Persona Titular de la Dirección General de Carrera Policial de la Secreta
 
 e. La Persona Titular de la Dirección Operativa.
 
-IV. La Persona Titular de la Dirección Administrativa.
+> <small>(ADICIONADO, G.O. 10 DE ABRIL DE 2024)</small>
+
+f. La Persona Titular de la Dirección Administrativa.
+
+IV. (DEROGADA, G.O. 10 DE ABRIL DE 2024)
 
 V. Dos personas asesoras, con derecho a voz, pero sin voto:
 
@@ -1925,3 +1931,11 @@ CUARTO. Se instruye a la Secretaría de Administración y Finanzas de la Ciudad 
 QUINTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México, a través de la Subsecretaría de Desarrollo Institucional, será la encargada de realizar las gestiones para que el personal de Seguridad y Custodia transferido se incorpore al Servicio Profesional de Carrera Penitenciaria.
 
 SEXTO. Los trámites y procedimientos administrativos de la Carrera Penitenciaria que fueron iniciados con anterioridad a la entrada en vigor del presente Reglamento, continuarán hasta su total conclusión conforme a la normativa vigente al momento de su inicio, por el Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario establecido en el Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de México; mismo caso con relación a los asuntos y procedimientos relacionados con la aplicación de sanciones derivadas de faltas.
+
+G.O. 10 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO, EN RELACIÓN A LA POLICÍA BANCARIA E INDUSTRIAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
