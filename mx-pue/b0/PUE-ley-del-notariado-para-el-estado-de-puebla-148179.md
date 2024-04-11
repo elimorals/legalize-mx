@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-para-el-estado-de-puebla-148179"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-05"
-last_updated: "2024-02-16"
+last_updated: "2024-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Ley publicada en la Cuarta Sección al Número 5 del Periódico Oficial del Estado de Puebla, el viernes 5 de mayo de 2021.
 
@@ -927,7 +927,9 @@ ARTÍCULO 58 BIS. Cada Notaría será atendida por un Notario Titular, quien pod
 
 Salvo la excepción referida en los artículos 84 y 85, el Notario Auxiliar tendrá las mismas facultades que el Titular, actuando indistintamente en el mismo protocolo y con el sello del Titular, pero el Auxiliar deberá hacer constar en los instrumentos el carácter con el que actúa.
 
-El Suplente del Notario Titular desempeñará sus funciones temporalmente y sólo en las ausencias temporales del Notario Titular, previo aviso que al efecto darán ambos a la Dirección General de Archivos y Notarías, salvo el caso de impedimento físico del Titular, en cuyo caso lo dará el Suplente expresando la causa.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
+
+El Suplente del Notario Titular desempeñará sus funciones temporalmente y sólo en las ausencias temporales del Notario Titular, previo aviso que al efecto darán ambos a la Dirección General del Notariado, salvo el caso de impedimento físico del Titular, en cuyo caso lo dará el Suplente expresando la causa.
 
 El Suplente ejercerá las mismas funciones que el Notario Titular al que suple, actuando en el protocolo y con el sello del Titular. El Suplente deberá hacer constar en los instrumentos el carácter con el que actúa.
 
@@ -1071,11 +1073,13 @@ X. A continuación el Presidente del Jurado, examinará al sustentante. Las preg
 
 XI. Concluido el examen, el Jurado procederá, a puerta cerrada y en escrutinio secreto, a calificar al sustentante con notas de cero al diez. Cada miembro del Jurado podrá asignar hasta dos puntos para ambas pruebas y para su evaluación tomará en cuenta los conocimientos jurídicos, coherencia y cohesión de la redacción, la claridad y precisión en el uso del lenguaje y aptitudes de expresión oral. Las calificaciones de cada prueba se sumarán.
 
-Para obtener la patente de Titular de Notaría, se requiere resultar triunfador en el examen de oposición, con una calificación mínima de ocho puntos;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE ABRIL DE 2024)</small>
 
 XII. La persona Secretaria del Jurado redactará por triplicado el acta relativa al examen, la que deberá ser firmada por todos los integrantes del Jurado y por el sustentante. La persona Secretaria del Jurado enviará un ejemplar del acta del examen a la Dirección General del Notariado para que se integre al expediente respectivo. El sustentante se quedará con un ejemplar del acta y el otro quedará en poder del Colegio, y
 
-XIII. Concluido el procedimiento mencionado, en su caso se someterá a la potestad de la persona Titular del Poder Ejecutivo del Estado el otorgamiento de la patente respectiva.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+XIII. Concluido el procedimiento anterior y aprobado el examen con una calificación mínima de ocho puntos, se someterá a la potestad de la persona Titular del Poder Ejecutivo del Estado el otorgamiento de la patente respectiva.
 
 Contra las decisiones de la persona Titular del Poder Ejecutivo del Estado y del Jurado no procederá recurso alguno.
 
@@ -1123,11 +1127,11 @@ c) Notario Suplente; o,
 
 d) Titular de la Notaría.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 68.
 
-La persona Titular del Poder Ejecutivo expedirá las patentes a que se refiere el artículo anterior, y tomará la protesta del fiel desempeño de las funciones que desempeñen los Notarios mencionados en los incisos b), c) y d) del artículo 67 a quien o quienes hayan resultado triunfadores en el examen, en un plazo que no excederá de treinta días hábiles, contados a partir de la fecha de celebración del mismo.
+La persona Titular del Poder Ejecutivo expedirá las patentes a que se refiere el artículo anterior, y tomará la protesta del fiel desempeño de las funciones que desempeñen los Notarios mencionados en los incisos c) y d) del artículo 67 a quien o quienes hayan resultado triunfadores en el examen, en un plazo que no excederá de treinta días hábiles, contados a partir de la fecha de celebración del mismo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -1169,7 +1173,9 @@ Para que los Notarios que hayan obtenido las patentes a las que se refieren los 
 
 Para que Notarios Auxiliares puedan actuar en el ejercicio del notariado, deben:
 
-I. Obtener de compañía legalmente autorizada, el documento que acredite la constitución de póliza o fianza a favor de las Autoridades Notariales por al menos once mil cientos (sic) once Unidades de Medida y Actualización, para cubrir las responsabilidades derivadas del ejercicio de la función notarial con motivo de actos, hechos u omisiones imputados a su ejercicio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2024)</small>
+
+I. Obtener de compañía legalmente autorizada, el documento que acredite la constitución de póliza o fianza a favor de las Autoridades Notariales por al menos once mil ciento once Unidades de Medida y Actualización, para cubrir las responsabilidades derivadas del ejercicio de la función notarial con motivo de actos, hechos u omisiones imputados a su ejercicio.
 
 La póliza o fianza cubrirá los daños y perjuicios que se ocasionen en términos de lo señalado en el párrafo anterior y, de no ser suficiente, el Notario cubrirá la cantidad faltante con su patrimonio.
 
@@ -1941,7 +1947,9 @@ b) El Sistema del Registro Nacional de Poderes Notariales;
 
 II. Corroborar fehacientemente su existencia en el libro en que fueron asentados y acreditar cómo se realizó esa corroboración.
 
-III. Comprobar que estos se encuentren debidamente legalizados ante la autoridad competente de la demarcación territorial en la que fueron otorgados.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+III. Comprobar mediante comunicación oficial o electrónica con la Notaria ante la que se haya otorgado el mandato o poder, la autenticidad del mismo.
 
 ###### ARTÍCULO 133.
 
@@ -3830,3 +3838,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones administrativas y legales contrarias o que se opongan al presente Decreto.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado, realizará las adecuaciones correspondientes al Reglamento de la presente Ley y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 58 BIS, LA FRACCIÓN XIII DEL ARTÍCULO 64, EL ARTÍCULO 68, EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 72 Y LA FRACCIÓN III DEL ARTÍCULO 132 BIS, Y DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XI DEL ARTÍCULO 64, TODOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones contrarias o que se opongan al presente Decreto.
