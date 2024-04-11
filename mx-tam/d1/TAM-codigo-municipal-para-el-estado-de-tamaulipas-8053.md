@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2024-04-03"
+last_updated: "2024-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1205,7 +1205,11 @@ XVIII.- De Agua.
 
 XIX.- De Anticorrupción.
 
-XX.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+XX.- Comisión de Movilidad.
+
+XXI.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -1839,13 +1843,19 @@ IV.- El lugar, fecha y número de publicación; y
 
 V.- Sumario o índice del contenido.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+### CAPÍTULO XVI. PRINCIPIOS RECTORES
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2024)</small>
+
+ARTICULO 92 QUINQUIES.- Las personas titulares de las presidencias municipales, sindicaturas, regidurías y demás integrantes de la administración pública de los Ayuntamientos se sujetarán a los principios de profesionalismo, buena administración, buen gobierno y gobierno abierto con plena accesibilidad, basado en la honestidad, ética, cultura de la paz, transparencia, austeridad, rendición de cuentas, integridad pública, sustentabilidad, inclusión, atención y participación ciudadana.
 
 ## TITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
-### CAPITULO II. DE LOS IMPUESTOS
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 93.
 
@@ -1899,7 +1909,7 @@ Los productos y aprovechamientos municipales sólo podrán condonarse por acuerd
 
 La Federación, el Estado y los Municipios están exentos de los impuestos y derechos comprendidos en este Título por sus propiedades y actividades que ejerzan con motivo de funciones de gobierno y administración.
 
-### CAPITULO III. DE LOS DERECHOS
+### CAPITULO II. DE LOS IMPUESTOS
 
 ###### ARTICULO 100.
 
@@ -2461,7 +2471,7 @@ La aplicación y recaudación del impuesto sobre el aumento de valor y mejoría 
 
 En lo no previsto para este impuesto, serán de aplicación supletoria la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Tamaulipas y las demás que existan sobre la materia. No se causará el impuesto sobre la Plusvalía y Mejoría de la Propiedad Particular, cuando las obras respectivas se realicen bajo el sistema de pago de Derechos de Cooperación.
 
-### CAPITULO IV. LOS PRODUCTOS
+### CAPITULO III. DE LOS DERECHOS
 
 ###### ARTICULO 139.
 
@@ -2513,9 +2523,7 @@ Los pagos por concepto de derechos de estacionamiento exclusivo serán liquidado
 
 Los Derechos de Cooperación para la Ejecución de Obras de Interés Público, se causarán de conformidad a lo señalado en la Ley de Ingresos Municipales y a lo preceptuado en el Decreto 406 publicado en el Periódico Oficial del 28 de diciembre de 1977.
 
-### CAPITULO V. DE LAS PARTICIPACIONES
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+### CAPITULO IV. LOS PRODUCTOS
 
 ###### ARTICULO 145.
 
@@ -2535,13 +2543,15 @@ II.- En todos los casos, se exigirá a los arrendatarios el otorgamiento de una 
 
 La enajenación de bienes muebles pertenecientes al Municipio deberá hacerse en subasta pública.
 
-### CAPITULO VI. DE LOS APROVECHAMIENTOS Y LOS INGRESOS COMPARTIDOS
+### CAPITULO V. DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 148.
 
 Los Municipios, por conducto del Ejecutivo, percibirán las participaciones, incentivos y aportaciones que determinen las Leyes del Estado y los convenios respectivos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VI. DE LOS APROVECHAMIENTOS Y LOS INGRESOS COMPARTIDOS
 
 ###### ARTICULO 149.
 
@@ -2551,9 +2561,7 @@ Por ingresos compartidos deben entenderse todos aquellos a los que tenga derecho
 
 ## TITULO TERCERO. DEL PRESUPUESTO Y GASTO PUBLICO MUNICIPAL
 
-### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 150.
 
@@ -2593,7 +2601,9 @@ Para los efectos del artículo anterior se podrá ordenar la práctica de visita
 
 Los Ayuntamientos sólo podrán concertar créditos destinados a inversiones públicas productivas o de desarrollo social, consideradas en los planes y programas de desarrollo municipal previa aprobación del Congreso.
 
-### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
+### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 156.
 
@@ -2675,11 +2685,7 @@ VII.- La calendarización del gasto público de conformidad con las clasificacio
 
 VIII.- Las demás previsiones que se estimen necesarias.
 
-### CAPITULO IV. DE LA CONTABILIDAD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
 
 ###### ARTICULO 160.
 
@@ -2731,9 +2737,11 @@ Los Ayuntamientos estarán obligados a proporcionar al órgano de control del ga
 
 El Congreso del Estado revisará la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado de Tamaulipas, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
-### CAPITULO UNICO. DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y LA RESPONSABILIDAD HACENDARIA DE LOS MUNICIPIOS
+### CAPITULO IV. DE LA CONTABILIDAD
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168.
 
@@ -2765,9 +2773,9 @@ El registro contable de las operaciones y la emisión de información financiera
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-### CAPITULO I. DE LOS SERVICIOS PUBLICOS
+### CAPITULO UNICO. DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y LA RESPONSABILIDAD HACENDARIA DE LOS MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 169 Bis.
 
@@ -2835,9 +2843,9 @@ Los actos u omisiones que impliquen el incumplimiento a los preceptos establecid
 
 ## TITULO CUARTO. DE LOS SERVICIOS PUBLICOS Y DESARROLLO MUNICIPAL
 
-### CAPITULO II. DE LA PLANEACION MUNICIPAL
+### CAPITULO I. DE LOS SERVICIOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 170.
 
@@ -3015,7 +3023,9 @@ Para resolver la cancelación o la caducidad de cualquiera de los actos señalad
 
 Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de las concesiones, contratos de obra pública y suministros, así como de prestación de servicios de cualquier naturaleza que otorgue el Municipio a los particulares, podrán ser impugnadas en los términos del procedimiento fijado en el Capítulo II del Título Sexto de este Código.
 
-### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
+### CAPITULO II. DE LA PLANEACION MUNICIPAL
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 182.
 
@@ -3089,7 +3099,7 @@ El titular del área responsable de la planeación municipal vigilará que se cu
 
 Se observará que siempre se cumpla con la igualdad entre mujeres y hombres a través de la incorporación con perspectiva de género.
 
-### CAPITULO IV. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO MUNICIPAL
+### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
 
 ###### ARTICULO 189.
 
@@ -3121,7 +3131,7 @@ Los servidores públicos del Municipio que en el ejercicio de sus funciones cont
 
 De las controversias que surjan con motivo de convenios que celebren los municipios con el Estado o entre sí, conocerá en única instancia el Supremo Tribunal de Justicia conforme a las normas del juicio ordinario civil.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO MUNICIPAL
 
 ###### ARTICULO 195.
 
@@ -3273,9 +3283,7 @@ El Instituto Municipal de las Mujeres establecerá las atribuciones, funciones y
 
 ## TITULO QUINTO. DE LAS RELACIONES LABORALES ENTRE LOS AYUNTAMIENTOS Y SUS TRABAJADORES
 
-### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 199.
 
@@ -3417,7 +3425,9 @@ En todo lo no previsto en el presente Título que regula las relaciones laborale
 
 ARTICULO 205 BIS.- En observancia a lo establecido por la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, los Ayuntamientos deberán designar al menos el tres por ciento de su base laboral a la contratación de personas con discapacidad, misma que estará determinada por la certificación de sus competencias respectivas.
 
-### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
+### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 206.
 
@@ -3493,7 +3503,7 @@ El nombramiento aceptado obliga a cumplir con los deberes inherentes al mismo y 
 
 En ningún caso la sustitución o el relevo de los servidores públicos del Ayuntamiento deberá afectar los derechos de los trabajadores de base.
 
-### CAPITULO IV. DE LOS SALARIOS
+### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
 
 ###### ARTICULO 212.
 
@@ -3537,9 +3547,7 @@ Los trabajadores que tengan más de seis meses consecutivos de servicio, disfrut
 
 Durante las horas de jornada legal, los trabajadores tendrán obligación de desarrollar las actividades cívicas que fueran compatibles con su edad y condición de salud, cuando así lo disponga el Ayuntamiento.
 
-### CAPITULO V
-
-DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
+### CAPITULO IV. DE LOS SALARIOS
 
 ###### ARTICULO 222.
 
@@ -3577,7 +3585,9 @@ Fuera de lo establecido en el artículo que antecede, el salario no es susceptib
 
 Las horas extras de trabajo se pagarán con un cien por ciento más del salario asignado a las horas de jornada ordinaria.
 
-### CAPITULO VI. DE LAS OBLIGACIONES DE LOS TRABAJADORES
+### CAPITULO V
+
+DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
 
 ###### ARTICULO 228.
 
@@ -3627,7 +3637,7 @@ IX.- Adecuar las instalaciones municipales para que las mujeres puedan alimentar
 
 X.- Otorgar a las y los trabajadores al servicio del Ayuntamiento, un día laborable al año, con goce íntegro de su sueldo para someterse a la realización de exámenes médicos preventivos del cáncer de mama, cervicouterino y próstata según sea el caso, para lo cual deberán presentar la constancia o certificado médico, correspondiente a la realización de dichos exámenes, expedido por una institución pública o privada de salud.
 
-### CAPITULO VII. LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DEL TRABAJADOR
+### CAPITULO VI. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
 ###### ARTICULO 229.
 
@@ -3649,9 +3659,7 @@ VII.- Evitar toda clase de propaganda durante las horas de trabajo.
 
 VIII.- Asistir a cursos de capacitación, para mejorar su preparación y eficiencia, cuando sean requeridos para ello.
 
-### CAPITULO VIII. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+### CAPITULO VII. LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DEL TRABAJADOR
 
 ###### ARTICULO 230.
 
@@ -3665,9 +3673,9 @@ III.- La existencia de alguna irregularidad en su gestión cuando el trabajador 
 
 IV.- Con motivo de la suspensión no se prestará el servicio y en el caso de las tres últimas fracciones no se pagará sueldo.
 
-### CAPITULO IX. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO
+### CAPITULO VIII. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 231.
 
@@ -3731,7 +3739,9 @@ Cuando el trabajador incurra en alguna de las causales de recisión previstas en
 
 En el supuesto de que por causa justificada no se efectúe la notificación referida, deberá hacerse la constancia relativa y comunicarse dentro del plazo de 5 días hábiles al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, para que éste le notifique personalmente al trabajador en el domicilio señalado, produciendo dicha notificación efectos plenos, aún cuando no se le localice.
 
-### CAPITULO X. DE LA HUELGA
+### CAPITULO IX. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 232.
 
@@ -3853,7 +3863,7 @@ En los casos de violación a lo dispuesto en el artículo 242 y previo el proced
 
 Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
 
-### CAPITULO XI. DE LAS PRESCRIPCIONES
+### CAPITULO X. DE LA HUELGA
 
 ###### ARTICULO 248.
 
@@ -3939,7 +3949,7 @@ V.- Por laudo del Tribunal.
 
 Al resolverse que una declaración de huelga es legal, el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de su labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las oficinas, talleres y demás instalaciones, o signifique un peligro para la salud pública; en caso de negativa, el Ayuntamiento designará al personal que pueda desempeñarlos.
 
-### CAPITULO XII. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DE LOS MUNICIPIOS
+### CAPITULO XI. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 263.
 
@@ -3973,7 +3983,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO XIII. DEL PROCEDIMIENTO
+### CAPITULO XII. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DE LOS MUNICIPIOS
 
 ###### ARTICULO 268.
 
@@ -4009,9 +4019,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+### CAPITULO XIII. DEL PROCEDIMIENTO
 
 ###### ARTICULO 276.
 
@@ -4095,7 +4103,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPITULO II. DE SU PATRIMONIO DOCUMENTAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -4127,7 +4135,7 @@ VII.- Los demás que se desprendan de los ordenamientos legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
+### CAPITULO II. DE SU PATRIMONIO DOCUMENTAL
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -4187,7 +4195,7 @@ La clasificación y catalogación de los acervos documentales con valor históri
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPITULO IV. DEL CONSEJO CONSULTIVO
+### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -4277,7 +4285,7 @@ El Archivo General del Municipio podrá formar parte del sistema estatal o nacio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPITULO V. DEL SERVICIO AL PUBLICO
+### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -4295,9 +4303,9 @@ Las declaratorias deducidas del Capítulo II de este Título serán emitidas por
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO V. DEL SERVICIO AL PUBLICO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 295], P.O. 20 DE ABRIL DE 2004)
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 314.
 
@@ -4335,9 +4343,9 @@ En la prestación de los servicios al público del Archivo General del Municipio
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 295], P.O. 20 DE ABRIL DE 2004)
 
 ###### ARTICULO 318.
 
@@ -4375,9 +4383,9 @@ VIII.- Trabajo en favor de la comunidad.
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 319.
 
@@ -4433,7 +4441,7 @@ V.- Que no se causen daños o perjuicios a terceros, o que se garanticen éstos 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -4471,9 +4479,9 @@ Todas las sesiones del Tribunal de Justicia Administrativa municipal serán púb
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO TERCERO. DEL JUICIO DE NULIDAD
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 329.
 
@@ -4617,9 +4625,9 @@ XII.- Las demás que le atribuyan las disposiciones legales o le ordene el Juez.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO SUMARIO
+### CAPÍTULO TERCERO. DEL JUICIO DE NULIDAD
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 #### SECCIÓN PRIMERA. DE LA COMPETENCIA DEL TRIBUNAL
 
@@ -5806,6 +5814,10 @@ La jurisprudencia deberá ser publicada en los medios de consulta pública que p
 En todo lo no previsto se aplicarán supletoriamente las disposiciones del Código de Procedimientos Civiles para el Estado de Tamaulipas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO SUMARIO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 428.
 
@@ -7120,6 +7132,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-834 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 49 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE JUSTICIA CÍVICA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-836 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO XVI, DENOMINADO "PRINCIPIOS RECTORES", Y EL ARTÍCULO 92 QUINQUIES, AL TÍTULO PRIMERO DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-837 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XX, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
