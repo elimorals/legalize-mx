@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2023-06-19"
+last_updated: "2024-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -175,9 +175,33 @@ Los titulares de las dependencias y entidades comparecerán ante el Congreso cua
 
 ### CAPÍTULO II. DE LOS ÓRGANOS AUXILIARES DEL GOBERNADOR
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-El Gobernador contará con una Secretaría Particular que dependerá directamente de él y coordinará la agenda diaria, la agenda de relaciones públicas y asuntos nacionales e internacionales, el calendario de giras, el protocolo, el control de la documentación y, en general, le brindará el auxilio necesario para el desempeño de sus actividades.
+El Gobernador contará con una Secretaría Particular que dependerá directamente de él y tendrá las unidades administrativas y estructura que se determinen de conformidad con los instrumentos jurídicos de creación, en su caso, y las demás disposiciones que al efecto se emitan o resulten aplicables; las atribuciones de estas unidades se especificarán en los ordenamientos reglamentarios respectivos.
+
+El Gobernador designará a la Persona Titular de la Secretaría Particular, quien contará con las atribuciones siguientes:
+
+I. Coordinar el calendario de giras;
+
+II. Coordinar y concentrar el Control de la documentación;
+
+III. Elaborar sus manuales administrativos, así como de las unidades administrativas que dependan directamente del Gobernador;
+
+IV. Autorizar el anteproyecto de presupuesto de egresos de los órganos auxiliares y unidades administrativas que dependan directamente del Gobernador;
+
+V. Aprobar la política de administración interna de los órganos auxiliares y unidades administrativas que dependan directamente del Gobernador. en materia de Recursos Humanos, Financieros, Materiales y Servicios Generales;
+
+VI. Aprobar los nombramientos, licencias, remociones o cambios de adscripción de los Titulares de los órganos auxiliares y unidades administrativas que dependan directamente del Gobernador;
+
+VII. Validar los contratos y convenios que afecten al presupuesto de los órganos auxiliares y unidades administrativas que dependan directamente del Gobernador;
+
+VIII. Designar a la persona servidora pública que fungirá como Enlace de archivo para llevar a cabo las acciones de gestión documental y administración del mismo, en términos de la normatividad aplicable, y
+
+IX. Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado
+
+Lo dispuesto en las fracciones III, IV, V, VI y VII no será aplicable a la Consejería Jurídica del Gobierno del Estado de Puebla de conformidad con el artículo 22 de esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 21.
 
@@ -199,7 +223,9 @@ VI. Coordinar la asesoría técnica al Gobernador en las materias requeridas;
 
 VII. Coordinar la representación del Gobernador en instancias nacionales, federales y estatales que así lo requieran, así como los programas y mecanismos relacionados con el sector privado;
 
-VIII. Coordinar las funciones de la oficina de representación del Gobierno del Estado en la Ciudad de México, así como de la representación en general del Gobierno;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+VIII. Coordinar las funciones de la oficina de representación del Gobierno del Estado en los Estados de la República, en su caso; así como de la representación en general del Gobierno;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -209,11 +235,13 @@ IX. Constituir la unidad de transparencia del Gobernador y sus órganos auxiliar
 
 X. Coadyuvar con la Coordinación General de Comunicación y Agenda Digital, en la definición y desarrollo de las políticas, estrategias y campañas de comunicación social de la Gubernatura y sus órganos auxiliares;
 
-XI. Autorizar los lineamientos generales que emita la Coordinación General para la Innovación Gubernamental y la Estrategia Digital, tanto del Gobernador como de las dependencias y entidades de la Administración Pública;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+XI. Autorizar los lineamientos generales que emita la Coordinación respectiva, para la Innovación Gubernamental tanto del Gobernador como de las dependencias y entidades de la Administración Pública;
 
-XII. A través de la Coordinación respectiva, intervenir en la definición y seguimiento de las políticas de participación ciudadana, supervisar la recepción y trámite de las peticiones que la ciudadanía haga al Gobernador, realizar la vinculación interinstitucional necesaria a fin de que sean debidamente atendidas e informar al Gobernador periódicamente de sus avances;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+XII. A través de la Coordinación respectiva, intervenir en la definición y seguimiento de las políticas de atención ciudadana, supervisar la recepción y trámite de las peticiones que la ciudadanía haga al Gobernador, a fin de que sean debidamente atendidas e informar al Gobernador periódicamente de sus avances;
 
 XIII. Auxiliar al Gobernador en la comunicación y seguimiento de sus instrucciones y de las prioridades que establezca, y
 
@@ -617,9 +645,9 @@ LIII. Intervenir a través de la Procuraduría Fiscal en toda clase de procedimi
 
 LIV. Analizar el impacto presupuestal de las propuestas de modificación de las estructuras orgánicas, con el fin de verificar que el número de personal solicitado esté dentro del presupuesto de plazas autorizado y no genere desequilibrio presupuestario o faltas a la disciplina financiera;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
 
-LV. Establecer, integrar, administrar, controlar y mantener actualizado el Registro Estatal Vehicular, de conformidad con sus respectivas atribuciones; asignar, expedir, entregar y sustituir las placas, calcomanías de identificación vehicular, tarjetas de circulación y demás documentos relativos a vehículos del servicio particular, así como licencias de conducir que correspondan a los diversos tipos de vehículos y servicios de que se trate conforme a la ley, previa revisión, verificación y autorización de la documentación del solicitante y cobro de los derechos correspondientes, haciendo constar electrónicamente en el respectivo sistema de control vehicular, todos los movimientos relacionados, en coordinación con las Secretarías de Administración y de Movilidad y Transporte y de conformidad con las disposiciones aplicables;
+LV. Establecer, integrar, administrar, controlar y mantener actualizado el Registro Estatal Vehicular, de conformidad con sus respectivas atribuciones; asignar, expedir, entregar y sustituir las placas, calcomanías de identificación vehicular, tarjetas de circulación y demás documentos relativos a vehículos del servicio particular, previa revisión, verificación y autorización de la documentación de la persona solicitante y cobro de los derechos correspondientes, haciendo constar electrónicamente en el respectivo sistema de control vehicular, todos los movimientos relacionados, en coordinación con las Secretarías de Administración y de Movilidad y Transporte y de conformidad con las disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1247,13 +1275,13 @@ IX. Promover, organizar y evaluar, con la participación de las autoridades y se
 
 X. Establecer las políticas públicas en materia de seguridad vial, desde una perspectiva de salud pública, promover la cultura de seguridad y elaborar e implementar los programas respectivos, prestando especial atención a las necesidades de las personas en situación de vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
 
-XI. Asignar, expedir y entregar las placas, tarjetas de circulación, calcomanías de identificación vehicular y demás documentos relativos a conductores y vehículos registrados de los servicios de transporte en el estado, previa revisión, verificación y autorización de la documentación del solicitante y pago de los derechos correspondientes, en caso de que sea procedente de conformidad con las disposiciones aplicables;
+XI. Asignar, expedir y entregar las placas, tarjetas de circulación, calcomanías de identificación vehicular, y demás documentos relativos a conductores y vehículos registrados de los servicios de transporte en el Estado; así como las licencias de conducir que correspondan a conductores y vehículos de los servicios particular y de transporte en el Estado, previa revisión, verificación y autorización de la documentación de la persona solicitante y pago de los derechos correspondientes, en caso de que sea procedente de conformidad con las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
 
-XII. Establecer, integrar, administrar, controlar y mantener actualizados los Registros de Concesiones y Permisos, y de Empresas de Redes de Transporte, en coordinación con las Secretarías de Planeación y Finanzas y de Administración, con el objeto de hacer constar electrónicamente en los sistemas respectivos y controlar todos los movimientos relacionados con la asignación, reasignación, expedición, sustitución, revocación, cancelación, abandono, baja, regulación y pago de derechos, de placas, tarjetas de circulación, calcomanías de identificación vehicular, concesiones, permisos, autorizaciones y demás documentos relativos a vehículos de transporte público y mercantil, de conformidad con las disposiciones aplicables;
+XII. Establecer, integrar, administrar, controlar y mantener actualizados los Registros de Concesiones y Permisos, y de Empresas de Redes de Transporte y de Licencias para Conducir, en coordinación con las Secretarías de Planeación y Finanzas y de Administración, con el objeto de hacer constar electrónicamente en los sistemas respectivos y controlar todos los movimientos relacionados con la asignación, reasignación, expedición, sustitución, revocación, cancelación, abandono, baja, regulación y pago de derechos, de placas, tarjetas de circulación, calcomanías de identificación vehicular, concesiones, permisos, autorizaciones, y demás documentos relativos a vehículos de transporte público y mercantil; así como de las licencias de conducir relativas a vehículos de transporte público, mercantil y particulares, de conformidad con las disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1715,6 +1743,10 @@ V. Garantizar la difusión y el acceso de la población, a la información relat
 
 VI. Impulsar estrategias de comunicación, difusión y capacitación con énfasis en la transversalización e institucionalización de la perspectiva de género, con un enfoque interseccional y de igualdad sustantiva, para que los sectores público, privado y social de la entidad, incorporen estos elementos en el desempeño de sus funciones; así como supervisar su cumplimiento y avance;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+VI Bis. Implementar capacitaciones permanentes a través del Centro de Estudios Virtuales de Igualdad Sustantiva, con temas actualizados tendentes a sensibilizar, formar y profesionalizar a las personas servidoras públicas, así como a personas pertenecientes a los sectores privado y social, en materia de Igualdad Sustantiva, Perspectiva de Género y Prevención de la Violencia y Discriminación contra las Mujeres;
+
 VII. Propiciar cambios culturales para la eliminación de estereotipos y la erradicación de prácticas discriminatorias, mediante estrategias de comunicación, difusión y educación, con todos los sectores de la sociedad;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
@@ -1744,6 +1776,10 @@ XII Bis. Diseñar, instrumentar e implementar con enfoque interseccional y persp
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 XII Ter. Coordinar y dar seguimiento a las políticas, programas, mecanismos, y acciones realizadas por dependencias y entidades estatales competentes, que tengan como objeto dar cumplimiento a las medidas relativas a las declaraciones de alerta de violencia de género de la entidad.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2024)</small>
+
+XII Quáter. Operar y administrar albergues y refugios destinados para la atención de mujeres víctimas de violencia y sus menores hijas e hijos;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2184,3 +2220,31 @@ P.O. 19 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 20, LAS FRACCIONES VIII, XI Y XII DEL ARTÍCULO 21, LA FRACCIÓN LV DEL ARTÍCULO 33 Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 42, Y ADICIONA LAS FRACCIONES VI BIS Y XII QUÁTER AL ARTÍCULO 48, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para el cumplimiento de este Decreto, el Gobernador del Estado de Puebla, a través de las instancias competentes, podrá reorganizar la estructura de las dependencias involucradas, creando, fusionando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias; asimismo, podrá trasladar o crear las nuevas unidades administrativas y oficinas que resulten necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+CUARTO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Planeación y Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, coordinarán el proceso de transferencia de atribuciones, asuntos y recursos humanos, materiales y financieros existentes, entre las dependencias reorganizadas, representadas por sus titulares o el personal que éstos designen, bajo la vigilancia de la Secretaría de la Función Pública y el cumplimiento de las disposiciones generales y especiales emitidas por ésta, para su entrega-recepción.
+
+Los asuntos y recursos con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente Decreto, serán transferidos a su nueva dependencia de adscripción, en un plazo máximo de noventa días naturales a partir de la entrada en vigor del mismo.
+
+Los titulares de las dependencias y unidades administrativas de origen y de nueva creación o aquellas a las que se transfieran las facultades aludidas en el presente Instrumento, con el apoyo de las dependencias coordinadoras del proceso de transferencia, proveerán y acordarán lo necesario para cumplir oportunamente el mismo.
+
+Las Secretarías de Planeación y Finanzas, de Administración y de la Función Pública, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente Decreto, escuchando previamente la opinión de la dependencia involucrada.
+
+QUINTO. Cuando alguna unidad administrativa deba pasar de una dependencia a otra, la transferencia se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa utilice para la atención de los asuntos de su conocimiento.
+
+SEXTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a la nueva dependencia o, en su caso, se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
+
+SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material que, a la entrada del presente Decreto, se refiera a la dependencia que deja de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la dependencia a que se refiere el presente Decreto y a la que se asignen las facultades específicas que en cada caso se relacionen.
+
+OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado, así como de los lineamientos para el Servicio Civil de Carrera vigentes.
+
+NOVENO. El Gobernador del Estado de Puebla, dentro los noventa días naturales a partir de la entrada en vigor del presente Decreto, expedirá las reformas a los reglamentos interiores correspondientes y en tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
