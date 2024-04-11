@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2023-12-06"
+last_updated: "2024-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -335,13 +335,17 @@ II. Vigilar el cumplimiento de la presente ley, las Normas Oficiales Mexicanas y
 
 III. Asesorar a las instituciones sobre el diseño, implementación y evaluación de métodos adecuados para la protección, bienestar y manejo de los animales no humanos.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
+
 ###### Artículo 14.
 
-Aquellos municipios que no cuenten con establecimientos destinados para cumplir con las funciones de Rastro Municipal y Centro de Atención Animal, deberán en medida de sus necesidades y posibilidades instituir el establecimiento de los mismos, garantizando la protección y bienestar de los animales no humanos bajo su resguardo.
+Es obligación de cada municipio contar con establecimientos destinados para cumplir con las funciones de Rastro Municipal y Centro de Atención Animal, quienes deberán en la medida de sus necesidades y posibilidades instituir el establecimiento de los mismos, garantizando la protección y bienestar de los animales no humanos bajo su resguardo.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
 
 ###### Artículo 15.
 
-El Centro, es un organismo municipal de servicio público cuya responsabilidad será velar por el bienestar de los animales no humanos.
+El Centro, es un organismo municipal de servicio público cuya responsabilidad será velar por el bienestar de los animales no humanos y dentro de sus responsabilidades está el contar con instalaciones adecuadas, conforme a lo que está establecido en esta ley.
 
 ###### Artículo 16.
 
@@ -1002,3 +1006,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría del Medio Ambiente (SECMA), contará con un máximo de ciento veinte días naturales a partir de la publicación del presente Decreto, para actualizar el padrón de los criaderos caninos y felinos domésticos en el Estado de Michoacán de Ocampo, con toda la información requerida y estipulada en el mismo. Los criaderos de animales domésticos debidamente constituidos y enlistados ante el padrón renovarán su licencia municipal anualmente a partir de la publicación del presente Decreto.
 
 TERCERO. Los 111 Ayuntamientos, el Concejo Mayor de Cherán y el Concejo Municipal de Penjamillo, contarán con un máximo de ciento ochenta días naturales a partir de la publicación del presente Decreto, para publicar su registro de criaderos con licencia anual vigente y actualizar su Reglamento de bienestar animal, conforme a la presente Ley.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 611 POR EL QUE “SE REFORMAN LOS ARTÍCULO 14 Y 15 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
