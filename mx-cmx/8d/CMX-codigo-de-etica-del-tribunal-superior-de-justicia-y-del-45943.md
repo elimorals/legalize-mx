@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-etica-del-tribunal-superior-de-justicia-y-del-45943"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-01"
-last_updated: "2004-12-01"
+last_updated: "2024-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2004-11-10"
 ---
 # CODIGO DE ETICA DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
+NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+NOTA 2: INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Codigodeeticadelpjcdmx.pdf
+
 CODIGO DE ETICA DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 2024 (ABROGADO).
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el miércoles 1 de diciembre de 2004.
 
@@ -343,3 +347,57 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en elBoletín (sic) Judicial del Poder Judicial de la Ciudad de México y para su mayor difusión, serápublicado (sic) en los Portales de Internet e Intranet del Poder Judicial y en la Gaceta Oficial,ambos (sic) de la Ciudad de México.
+
+SEGUNDO. Se abroga el Acuerdo General 24-53/2004, por el que se aprobó el Código de Ética del Tribunal Superior de Justicia y del Consejo de la Judicatura del entonces Distrito Federal, emitido por el Pleno del Consejo en sesión de fecha diez de noviembre de dos mil cuatro y publicado en la Gaceta Oficial del Distrito Federal el primero de diciembre de dos mil cuatro; así como cualquier disposición de índole administrativo quese (sic) contraponga al presente Código.
+
+TERCERO. El Consejo de la Judicatura de la Ciudad de México autorizará el Código deConducta (sic) para la aplicación del presente Código de Ética.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada envigor (sic) del presente Código de Ética, ante la Comisión de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL "AVISO PARA PUBLICACIÓN DE LIGA DE CONSULTA, PUBLICADO EL 11 DE ABRIL DE 2024" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO PARA PUBLICACIÓN DE LIGA DE CONSULTA.
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en el Acuerdo General 27-08/2024 emitido en sesión ordinaria celebrada el día cinco de marzo del año dos mil veinticuatro; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación del acuerdo de mérito, que se indica a continuación:
+
+- Acuerdo General 27-08/2024, de fecha cinco de marzo de dos mil veinticuatro, mediante el cual, se autorizaron los siguientes documentos:
+
+Autoriza el documento denominado “Código de Ética del Poder Judicial de la Ciudad de México”.
+
+CIRCULAR CJCDMX-10/2024, de fecha once de marzo de dos mil veinticuatro.
+
+El cual puede ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Codigodeeticadelpjcdmx.pdf
+
+Autoriza el documento denominado “Código de Conducta del Poder Judicial de la Ciudad de México”.
+
+CIRCULAR CJCDMX-11/2024, de fecha once de marzo de dos mil veinticuatro.
+
+El cual puede ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Codigodeconductadelpjcdmx.pdf
+
+Autoriza el documento denominado “Lineamientos Generales de Integración y Operación del Comité de Ética del Poder Judicial de la Ciudad de México”.
+
+CIRCULAR CJCDMX-12/2024, de fecha once de marzo de dos mil veinticuatro.
+
+El cual puede ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Lineamientoscomitedeeticadelpjcdmx.pdf
+
+(Firma)
+
+Lic. Minerva Mas Mendoza.
+
+Líder Coordinador de Proyectos “C”, adscrita a la Dirección Ejecutiva de Gestión Tecnológica del Tribunal Superior de Justicia de la Ciudad de México.
+
+Número telefónico: 5591564997 ext. 511055.
