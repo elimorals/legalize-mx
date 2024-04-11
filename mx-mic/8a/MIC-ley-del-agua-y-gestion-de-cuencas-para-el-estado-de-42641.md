@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2023-07-05"
+last_updated: "2024-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -1651,6 +1651,42 @@ Cuando el vertido o descarga de las aguas residuales afecten o puedan afectar fu
 
 Corresponde a los organismos operadores municipales, administrar las aguas residuales de origen público urbano hasta antes de su descarga en cuerpos o corrientes de propiedad nacional, pudiendo promover su reutilización en los términos y condiciones de la presente Ley y su Reglamento y otras disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2024)</small>
+
+Artículo 110 bis. Las instituciones públicas o privadas y los usuarios de agua de primer uso, deberán promover la reutilización de agua residual tratada, de manera gradual en diversos niveles. Teniendo un lapso no mayor de tres años para la realización de acciones que les permitan cumplir la meta mínima del 30% del volumen usado.
+
+Se podrá utilizar agua residual tratada en sus diversos niveles, en los siguientes casos:
+
+I. Servicios públicos: para el riego de áreas verdes, llenado de canales y de lagos recreativos;
+
+II. Abrevaderos y vida silvestre;
+
+III. Acuacultura;
+
+IV. Giros mercantiles;
+
+V. Riego de terrenos de cultivo de forrajes y pastura;
+
+VI. Riego de terrenos de productos agrícolas, con base al método de riego necesario, correspondiente al tipo de cultivo, se podrá utilizar el agua residual cuando se presente libre de contaminantes tóxicos y de organismos patógenos;
+
+VII. Recarga de acuíferos mediante pozos de inyección o estanques de infiltración, previo cumplimiento de las normas federales y locales de calidad de agua potable y especificaciones que fije la autoridad competente en función del origen de las aguas residuales y del uso potencial del acuífero subterráneo;
+
+VIII. Riego de terrenos particulares;
+
+IX. Industrial, con fines de equipamiento, enfriamiento de motores calderas, limpieza de áreas de servicio y utilización en mingitorios y muebles sanitarios;
+
+X. Limpieza en edificios corporativos y utilización en mingitorios y muebles sanitarios;
+
+XI. Lavado de vehículos automotores;
+
+XII. En todos aquellos procesos y giros industriales y comerciales que no requieran el uso de agua potable;
+
+XIII. Limpieza de animales, como caballos, vacas, puercos y las áreas destinadas a su habitación;
+
+XIV. En la industria, en edificios corporativos, escuelas públicas y privadas y en oficinas públicas y privadas y giros mercantiles: se deberá utilizar agua residual tratada para la limpieza y aseo de áreas de servicios, en mingitorios y muebles sanitarios; y,
+
+XV. En los demás casos previstos en este y en otros ordenamientos.
+
 ###### Artículo 111.
 
 Los Ayuntamientos o la Comisión promoverán ante la autoridad federal competente, el resguardo de zonas para su preservación, conservación y mantenimiento.
@@ -2114,3 +2150,9 @@ P.O. 5 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE REFORMA EL ARTÍCULO 55 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de la toma de protesta de los Ayuntamientos electos durante el proceso electoral 2023-2024.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 610 POR EL QUE “SE ADICIONA EL ARTÍCULO 110 BIS A LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
