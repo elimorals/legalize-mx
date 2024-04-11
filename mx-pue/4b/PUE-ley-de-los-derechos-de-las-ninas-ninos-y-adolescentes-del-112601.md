@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-04-05"
+last_updated: "2024-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -771,9 +771,11 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, vigilarán el cumplimiento del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Se establece como edad mínima para contraer matrimonio, la de 18 años en los términos del Código Civil para el Estado de Puebla.
+Se establece como edad mínima para contraer matrimonio, la de 18 años en los términos del Código Civil para el Estado Libre y Soberano de Puebla.
 
 ### CAPÍTULO VII. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -1065,11 +1067,11 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Asimismo, quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal y humillante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 62.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, investigar, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -1083,9 +1085,9 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2024)</small>
 
-VI. El trabajo en adolescentes mayores de quince años que puedan (sic) perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, el trabajo forzoso o el trabajo en el hogar, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Trabajo y en las demás disposiciones aplicables.
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso o el trabajo en el hogar y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Trabajo y en las demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
@@ -2524,6 +2526,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 87 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 43, EL PÁRRAFO PRIMERO Y LA FRACCIÓN VI DEL 62, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
