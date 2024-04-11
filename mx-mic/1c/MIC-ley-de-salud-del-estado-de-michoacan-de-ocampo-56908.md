@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2024-01-03"
+last_updated: "2024-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -1655,11 +1655,11 @@ Las secciones destinadas a la custodia en aislamiento, deberán observar las nor
 
 Los centros de readaptación social o de reclusión contarán con programas específicos para la detección y tratamiento de enfermedades transmisibles. Para ello contarán con la asesoría de la Secretaría.
 
-(REUBICADO, P.O. 28 DE ENERO DE 2013)
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 121.
 
-Los centros de readaptación social o de reclusión deberán contar con servicios médicos generales, psiquiátricos, psicológicos, de enfermería y servicios de odontología.
+Los centros de readaptación social o de reclusión deberán contar con servicios médicos generales, psiquiátricos, psicológicos, de salud sexual y reproductiva, de enfermería y servicios de odontología.
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -3254,3 +3254,11 @@ Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 613 POR EL QUE "SE REFORMA EL ARTÍCULO 121 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
