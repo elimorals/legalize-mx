@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-defensoria-publica-del-estado-de-baja-68773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-22"
-last_updated: "2019-02-01"
+last_updated: "2024-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de mayo de 2009.
 
@@ -487,6 +487,28 @@ El Servicio Profesional de Carrera de la Defensoría garantizará la igualdad de
 
 Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, adscripción, rotación, reingreso, estímulos, reconocimientos y retiro de los Defensores, serán regulados por las disposiciones normativas aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO NOVENO. DE LA CAPACITACIÓN
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 40.
+
+Las defensoras y defensores públicos contarán con cursos de capacitación, que tengan relación con sus funciones y según lo permitan las necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 41.
+
+Los cursos de capacitaciones se desarrollarán bajo:
+
+I. Programas académicos.
+
+II. Cursos-Talleres de formación de competencias en defensa y representación legal.
+
+III. Seminarios de actualización.
+
 ## ARTÍCULOS TRANSITORIOS
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2010)</small>
@@ -550,3 +572,11 @@ P.O. 1 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 296 MEDIANTE EL CUAL SE APRUEBA EL PROYECTO DE DECRETO POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XVI, Y EL RECORRIDO DE LAS SUBSECUENTES FRACCIONES DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 412 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL CAPÍTULO NOVENO “DE LA CAPACITACIÓN”, ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 40 Y 41 DE LA LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Las erogaciones que se generen a la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestal que se apruebe para tal fin, en el ejercicio correspondiente.
