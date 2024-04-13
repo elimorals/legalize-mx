@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-conducta-de-los-centros-de-justicia-para-las-148384"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-25"
-last_updated: "2020-09-25"
+last_updated: "2024-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE CONDUCTA DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES DE LA FISCALIA GENERAL DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE ÉTICA PARA EL PERSONAL DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE CONDUCTA DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES DE LA FISCALIA GENERAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2024 (ABROGADO).
 
 Código publicado en Extra del Periódico Oficial del Estado de Oaxaca, el viernes 25 de septiembre del 2020.
 
@@ -294,3 +296,23 @@ San Bartolo Coyotepec, Oaxaca, a 10 de septiembre de 2020.
 EL FISCAL GENERAL DEL ESTADO DE OAXACA.
 
 RUBÉN VASCONCELOS MÉNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA PARA EL PERSONAL DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Se ordena la publicación del presente acuerdo en el Periódico Oficial, del Gobierno del Estado de Oaxaca para que surta los efectos legales correspondientes.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se abrogan el Código de ética para los servidores públicos de la Institución del Ministerio Público del Estado de Oaxaca, publicado el día 30 de mayo del año 2009, en el periódico Oficial del Gobierno del Estado de Oaxaca, los Acuerdos No. FGEO/0006/2020, en el cual se expide el Código de Conducta para los Centros de Justicia para las Mujeres de la Fiscalía General del Estado de Oaxaca, y el Acuerdo No. FGEO/007/2020, en el que se expide el Código de Ética para los Centros de Justicia para las Mujeres de la Fiscalía General del Estado de Oaxaca, estos últimos publicados el día 25 de septiembre del año 2020, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+CUARTO El Comité de Ética se instalará dentro de los noventa días naturales, después de la publicación del presente acuerdo.
+
+En tanto se lleva a cabo la instalación del Comité de Ética, las disposiciones jurídicas por las que se confiera atribuciones a este, se entenderán referidas a la Contraloría Interna de la Fiscalía General.
+
+QUINTO. La Fiscalía General del Estado de Oaxaca, deberá poner a disposición una vez instalado el Comité de Ética, el sistema informático de promoción, seguimiento, evaluación y control de actuación ética, a cargo del Comité de Ética.
+
+SEXTO. El Comité de Ética de la Fiscalía General del Estado de Oaxaca realizará las acciones necesarias para dar la máxima publicidad al presente Acuerdo.
