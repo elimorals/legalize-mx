@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-etica-para-los-servidores-publicos-de-la-68946"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-05-30"
-last_updated: "2009-05-30"
+last_updated: "2024-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "OAX"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA INSTITUCION DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA
 
-CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA INSTITUCION DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA PARA EL PERSONAL DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2024 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 30 de mayo de 2009.
 
 DOCTOR EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ, PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE OAXACA, CON FUNDAMENTO EN LO DISPUESTO EN EL ARTÍCULO 102 APARTADO "A" y 113 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 21 DE LA PARTICULAR DEL ESTADO LIBRE Y SOBERANO DE OAXACA, y 1, 2, 8, 20 FRACCIONES II, III Y IV Y 62 DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE OAXACA;
 
-CONSIDERANDO:.
+CONSIDERANDO:
+
+[...]
 
 En razón a lo anterior, se expide el siguiente:
 
@@ -240,3 +244,23 @@ PRIMERO.- El presente Código entrará en vigor, al día siguiente de su publica
 SEGUNDO.- El Consejo de Ética deberá quedar integrado a más tardar dentro de los treinta días siguientes a la entrada en vigor de este Código.
 
 Dado en la sede de la Procuraduría General de Justicia del Estado de Oaxaca, la Experimental, San Antonio del la Cal, Oaxaca a los dieciocho días del mes de mayo del año dos mil nueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NO. FGEO/DAJ/NORM/008/2024.- MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Se ordena la publicación del presente acuerdo en el Periódico Oficial del Gobierno del Estado de Oaxaca para que surta los efetos legales correspondientes.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se abrogan el Código de ética para los servidores públicos de la Institución del Ministerio Público del Estado de Oaxaca, publicado el día 30 de mayo del año 2009, en el periódico Oficial del Gobierno del Estado de Oaxaca, los Acuerdos No. FGEO/0006/2020, en el cual se expide el Código de Conducta para los Centros de Justicia para las Mujeres de la Fiscalía General del Estado de Oaxaca, y el Acuerdo No. FGEO/007/2020, en el que se expide el Código de Ética para los Centros de Justicia para las Mujeres de la Fiscalía General del Estado de Oaxaca, estos últimos publicados el día 25 de septiembre del año 2020, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+CUARTO. El Comité de Ética se instalará dentro de los noventa días naturales, después de la publicación del presente acuerdo.
+
+En tanto se lleva a cabo la instalación del Comité de Ética, las disposiciones jurídicas por las que se confiera atribuciones a este, se entenderán referidas a la Contraloría Interna de la Fiscalía General.
+
+QUINTO. La Fiscalía General del Estado de Oaxaca, deberá poner a disposición una vez instalado el Comité de Ética, el sistema informático de promoción, seguimiento, evaluación y control de actuación ética, a cargo del Comité de Ética.
+
+SEXTO. El Comité de Ética de la Fiscalía General del Estado de Oaxaca realizará las acciones necesarias para dar la máxima publicidad al presente Acuerdo.
