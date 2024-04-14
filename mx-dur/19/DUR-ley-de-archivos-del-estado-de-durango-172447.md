@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-archivos-del-estado-de-durango-172447"
 country: "mx"
 rank: "ley"
 publication_date: "2024-04-07"
-last_updated: "2024-04-07"
+last_updated: "2024-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ARCHIVOS DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 14 DE ABRIL DE 2024.]</small>
 
 Ley publicada en el Número 28 Bis del Periódico Oficial del Estado de Durango, el domingo 7 de abril de 2024.
 
@@ -1027,9 +1027,11 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN
 
+> <small>(F. DE E., P.O. 14 DE ABRIL DE 2024)</small>
+
 ###### Artículo 91.
 
-Se crea organismo público descentralizado sectorizado a la Secretaría General de Gobierno, denominado Archivo General del Estado con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines, con domicilio legal en la Ciudad de Durango, Dgo.
+Se crea organismo público descentralizado denominado Archivo General del Estado, no sectorizado con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines, con domicilio legal en la Ciudad de Durango, Dgo.
 
 ###### Artículo 92.
 
