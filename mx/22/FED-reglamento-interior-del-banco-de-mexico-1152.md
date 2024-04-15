@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2021-12-27"
+last_updated: "2024-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -465,11 +465,13 @@ La Dirección General de Estabilidad Financiera tendrá las atribuciones que se 
 
 A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2024)</small>
 
-ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que se señalan en los artículos 17, 17 Bis y 28, además de las que se establecen en otros preceptos del presente Reglamento.
+###### ARTICULO 14.
 
-A esta Dirección General estarán adscritas las Direcciones de Autorizaciones y Sanciones de Banca Central, de Disposiciones de Banca Central y Jurídica.
+La Dirección General de Estabilidad Financiera tendrá las atribuciones que se señalan en los artículos 15 Ter, 25, 25 Bis, 25 Bis 4 y 25 Bis 5 de este Reglamento.
+
+A esta Dirección General estarán adscritas las Direcciones de Análisis y Políticas de Riesgos Ambientales y Sociales, de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
 
 > <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
@@ -481,7 +483,7 @@ A esta Dirección General estarán adscritas la Dirección de Regulación y Supe
 
 Adicionalmente, corresponderá a esta Dirección General, por conducto de su titular, como responsable oficial de mejora regulatoria, coordinar, articular y vigilar, al interior del Banco, el cumplimiento de la política de mejora regulatoria y la Estrategia Nacional de Mejora Regulatoria, conforme a lo establecido en las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 14 Bis 1.
 
@@ -493,9 +495,9 @@ A esta Dirección General estará adscrita la Dirección de Intermediarios Finan
 
 ###### ARTICULO 15.
 
-La Dirección General de Administración tendrá las atribuciones que se señalan en los artículos 26, 27 y 27 Bis de este Reglamento.
+La Dirección General de Administración tendrá las atribuciones que se señalan en los artículos 26, 27, 27 Bis y 28 Bis de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, de Recursos Materiales y de Contabilidad, Planeación y Presupuesto.
+A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, de Contabilidad, Planeación y Presupuesto, de Recursos Materiales, y de Seguridad.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
@@ -567,17 +569,21 @@ V. Analizar, desarrollar y promover, con la participación de las unidades admin
 
 VI. Colaborar con las unidades administrativas competentes en el análisis, desarrollo, promoción y divulgación de mejores prácticas y aspectos de educación financiera especializada en materia de desarrollo sostenible, con la participación que corresponda de instituciones nacionales e internacionales y expertos en finanzas sostenibles.
 
-VII. Auxiliar al Gobernador en el desempeño de las demás funciones que este le encomiende y que no estén conferidas a las unidades administrativas conforme al presente Reglamento.
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
+VII. Desarrollar y divulgar estudios sobre la interconexión de las entidades financieras, los roles de apalancamiento, la transformación de vencimientos y riesgos sistémicos que puedan impactar en el sistema financiero.
+
+> <small>(ADICIONADA, D.O.F. 15 DE ABRIL DE 2024)</small>
+
+VIII. Recabar, procesar y divulgar información sobre el impacto que tienen las entidades financieras y los mercados sobre la provisión de crédito, la estabilidad financiera y otros servicios financieros.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 16.
 
-La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1, 16 Bis 2 y 28 Bis de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para su manejo y determinar si las mismas son falsas o hubieren sido alteradas.
+La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1 y 16 Bis 2 de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para su manejo y determinar si las mismas son falsas o hubieren sido alteradas.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
-
-A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivo, de Fabricación de Billetes, de Administración de Emisión y de Seguridad.
+A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivo, de Fabricación de Billetes, y de Administración de Emisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
@@ -3288,3 +3294,13 @@ D.O.F. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 15 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias a las unidades administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan cambiado de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las unidades administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
