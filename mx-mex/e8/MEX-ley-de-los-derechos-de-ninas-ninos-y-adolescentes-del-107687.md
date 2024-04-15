@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2024-04-05"
+last_updated: "2024-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -162,6 +162,10 @@ XX. Familia Extensa: Aquella compuesta por los ascendientes de niñas, niños y 
 XXI. Igualdad Sustantiva: Al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 XXII. Interés superior de la niñez: Al máximo beneficio que ha de otorgarse de conformidad con los derechos de las niñas, niños y adolescentes respecto de cualquier otro beneficio o derecho y que tiene como propósito alcanzar su desarrollo integral, así como la plenitud de sus aptitudes y capacidades hasta el máximo de sus posibilidades, tomando en consideración que cada uno de ellos es una universalidad y una individualidad en la que la familia, la comunidad y el propio estado garantizarán ese pleno desarrollo.
+
+> <small>(ADICIONADA, G.G. 15 DE ABRIL DE 2024)</small>
+
+XXII Bis. Justicia adaptada a las infancias y adolescencias: Aquella que garantiza el respeto y efectivo cumplimiento de todos los derechos de los niños al máximo nivel posible, sin olvidar los principios de participación, interés superior, dignidad y protección frente a la discriminación y teniendo en cuenta el nivel de madurez y entendimiento del niño y las circunstancias del caso, centrada en el derecho a participar y a entender el procedimiento, el derecho al respeto de la vida privada y familiar y el derecho a la integridad y a la dignidad.
 
 XXIII. Ley General: A la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
@@ -1037,7 +1041,13 @@ I. Garantizar la protección y prevalencia del interés superior de la niñez.
 
 II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes.
 
-III. Proporcionar información clara, sencilla y comprensible para niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad.
+> <small>(ADICIONADA, G.G. 15 DE ABRIL DE 2024)</small>
+
+II Bis. Establecer las acciones necesarias para que, en el marco de las disposiciones Constitucionales y legales en la materia, niñas, niños y adolescentes tengan acceso a la justicia en el marco de la justicia adaptada a las infancias y adolescencias.
+
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2024)</small>
+
+III. Proporcionar información clara, sencilla y comprensible para niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo formatos accesibles, apoyos ordinarios o extraordinarios, atendiendo a su edad, nivel de madurez y discapacidad según sea el caso.
 
 IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial, proporcionar la asistencia de un traductor o intérprete o de profesionales especializados cuando la naturaleza del procedimiento lo requiera.
 
@@ -1045,11 +1055,19 @@ V. Garantizar el derecho de niñas, niños y adolescentes a ser representados de
 
 VI. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario.
 
-VII. Garantizar el derecho de audiencia de niñas, niños y adolescentes en los procedimientos a los que sean sometidos.
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2024)</small>
 
-VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica.
+VII. Garantizar el derecho de audiencia de niñas, niños y adolescentes en los procedimientos a los que sean sometidos, cuidando que las decisiones que se emitan sobre sus derechos estén construidas garantizando el pleno acceso a la impartición de justicia sin dañar o poner en riesgo su integridad y desarrollo; basando en los principios de participación, interés superior, dignidad y protección frente a la discriminación, debiendo tener en cuenta el nivel de madurez y entendimiento de la niña, el niño y adolescente, así como las circunstancias del caso.
 
-En todo momento, se deberá mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir negativamente en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva.
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2024)</small>
+
+VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de esta, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica que les revictimice y atente contra su dignidad; por lo que se deberá considerar hacer uso de la testimonial única y la prueba anticipada; así como, la adecuación del lenguaje al contexto de las infancias y el empleo de materiales de apoyo sustentado en métodos psicológicos y didácticos acordes con sus características cognitivas y emocionales.
+
+En todo momento, se deberá mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir negativamente en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva; así como recibir acompañamiento de especialistas en psicología, pedagogía y trabajo social.
+
+> <small>(ADICIONADA, G.G. 15 DE ABRIL DE 2024)</small>
+
+VIII Bis. Deberán habilitar salas de espera que propicien un ambiente tranquilo; así como adecuar salas de enjuiciamiento o de escucha; contar con material didáctico para que puedan expresarse o narrar lo ocurrido a través de otras herramientas diversas al lenguaje verbal; establecer mecanismos de videograbación o circuitos cerrados de televisión que permitan mantener sus testimonios u opiniones para evitar repeticiones de pruebas innecesarias.
 
 IX. Destinar espacios lúdicos, de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir.
 
@@ -2514,3 +2532,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 15 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254.- POR EL QUE SE REFORMAN LAS FRACCIONES III, VII Y VIII DEL ARTÍCULO 58, Y SE ADICIONA LA FRACCIÓN XXII BIS AL ARTÍCULO 5 Y LAS FRACCIONES II BIS Y VIII BIS AL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
