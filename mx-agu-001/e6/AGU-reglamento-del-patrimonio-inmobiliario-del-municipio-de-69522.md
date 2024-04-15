@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-patrimonio-inmobiliario-del-municipio-de-69522"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-27"
-last_updated: "2021-03-15"
+last_updated: "2024-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2024.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 27 de julio de 2009.
 
@@ -337,33 +337,37 @@ e) El Regidor Titular de la Comisión de Educación y Cultura.
 
 f) El Regidor Titular de la Comisión de Ecología.
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-g) El Secretario del H. Ayuntamiento y Director General de Gobierno.
+g) El Regidor Titular de la Comisión Permanente de Hacienda
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-h) El Secretario de Finanzas Públicas Municipales.
+h) El Secretario del H. Ayuntamiento y Director General de Gobierno.
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-i) El Secretario de Administración Municipal.
+i) El Secretario de Finanzas Públicas Municipales.
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-j) El Contralor Municipal.
+j) El Secretario de Administración Municipal.
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-k) El Director de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento.
+k) El Contralor Municipal.
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-l) El Director del Instituto Municipal de Planeación; y
+l) El Director de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento.
 
-> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
 
-m) El Director del Instituto Municipal de Vivienda.
+m) El Director del Instituto Municipal de Planeación; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2024)</small>
+
+n) El Director del Instituto Municipal de Vivienda.
 
 Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo a excepción del Contralor Municipal y Secretario Ejecutivo quienes únicamente tendrán voz.
 
@@ -684,3 +688,9 @@ P.O. 15 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DICTAMEN QUE EXPIDE PROYECTO DE REFORMA AL REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
