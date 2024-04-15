@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2024-04-05"
+last_updated: "2024-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 15 DE ABRIL DE 2024.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -1007,9 +1007,11 @@ Cualquier persona podrá denunciar ante la Contraloría Social por escrito los h
 
 Las autoridades que tengan conocimiento de las denuncias presentadas deberán turnarlas de manera inmediata a los órganos de control interno competentes de conformidad con los procedimientos establecidos en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE ABRIL DE 2024)</small>
+
 ###### Artículo 67.
 
-La denuncia popular se deberá presentar por escrito y contener:
+La denuncia popular podrá presentarse por escrito, vía telefónica o por medios electrónicos y contener:
 
 I. Nombre o razón social y domicilio del denunciante o en su caso del representante legal;
 
@@ -1020,6 +1022,10 @@ II. La descripción de los actos, hechos u omisiones denunciados;
 III. Los datos que permitan identificar a la presunta autoridad, funcionario infractor o responsable; y
 
 IV. Las pruebas que ofrezca el denunciante.
+
+> <small>(ADICIONADO, G.G. 15 DE ABRIL DE 2024)</small>
+
+La misma podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 
 ### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1240,3 +1246,15 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 15 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 67 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
