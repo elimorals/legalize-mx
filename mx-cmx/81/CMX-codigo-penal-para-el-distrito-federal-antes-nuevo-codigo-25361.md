@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2024-02-19"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3942,13 +3942,23 @@ III. Si el beneficio otorgado u obtenido en contravención de las disposiciones 
 
 IV. Si el beneficio otorgado u obtenido en contravención de las disposiciones de esta Ley excede el equivalente a tres mil veces el salario mínimo diario vigente en la Ciudad de México en el momento de cometerse el delito, se impondrán de cinco a catorce años de prisión y multa de quinientas a tres mil veces el salario mínimo diario vigente en la Ciudad de México en el momento de cometerse el delito. Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 16 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 270.
 
 (DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
-### CAPÍTULO I. PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
+### CAPÍTULO XV. CORRUPCIÓN INMOBILIARIA
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 276 QUATER. Comete el delito de corrupción inmobiliaria el servidor público que por acción u omisión permita o tolere la construcción de inmuebles o la edificación de pisos adicionales a los autorizados, sin el cumplimiento de los requisitos establecidos en la Ley.
+
+Por las conductas descritas en este artículo, se impondrá una pena de diez a veinte años de prisión, con independencia de las otras sanciones que procedan por la comisión de otro tipo de delitos.
+
+La pena establecida en el párrafo anterior se incrementará en una mitad cuando las conductas previstas en este artículo produzcan beneficios económicos, ya sea en efectivo o en especie, al propio servidor público, su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, pareja permanente, adoptante o adoptado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, o a socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 271.
 
@@ -3956,33 +3966,33 @@ Al servidor público que por sí o por interpósita persona, promueva o gestione
 
 Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad.
 
-### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO I. PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
 
 ###### ARTÍCULO 272.
 
 (DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
-### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
+### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTÍCULO 273.
 
 (DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
-### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
-
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
 
 ###### ARTÍCULO 274.
 
 Al servidor público que con tal carácter exija por sí o por interpósita persona a título de impuesto o contribución, recargo, renta rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley, se le impondrán de tres meses a dos años de prisión, de treinta a trescientos días multa e inhabilitación de tres meses a dos años para desempeñar cargo, empleo o comisión en el servicio público, cuando el valor de lo exigido no exceda de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, o no sea valuable. Si el valor de lo exigido excede de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se le impondrán de dos a doce años de prisión, de trescientos a quinientos días multa e inhabilitación de dos a doce años para desempeñar cargo, empleo o comisión en el servicio público.
 
-### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 275.
 
 (DEROGADO, G.O. 7 DE JUNIO DE 2021)
 
-### CAPÍTULO VI. EJERCICIO ILEGAL DEL PROPIO DERECHO
+### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
 ###### ARTÍCULO 276.
 
@@ -3990,7 +4000,11 @@ Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de la
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
+### CAPÍTULO VI. EJERCICIO ILEGAL DEL PROPIO DERECHO
+
 ### CAPÍTULO VII. REGLAS COMUNES PARA LOS DELITOS CONTRA EL EJERCICIO LEGÍTIMO DE LA AUTORIDAD
+
+## TÍTULO DÉCIMO NOVENO. HECHOS DE CORRUPCIÓN Y DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
 ### CAPÍTULO VIII. FABRICACIÓN, COMERCIALIZACIÓN Y USO INDEBIDO DE INSIGNIAS Y UNIFORMES
 
@@ -4017,10 +4031,6 @@ También se entiende por instituciones de seguridad pública, exclusivamente par
 Las sanciones previstas en este capítulo se impondrán, con independencia de las que correspondan por otros delitos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-## TÍTULO DÉCIMO NOVENO. HECHOS DE CORRUPCIÓN Y DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
-
-### CAPÍTULO I. DENEGACIÓN O RETARDO DE JUSTICIA Y PREVARICACIÓN
 
 ###### ARTÍCULO 277.
 
@@ -4052,9 +4062,7 @@ Al particular que estando obligado legalmente a la custodia, depósito, administ
 
 Se le impondrán las sanciones previstas para el enriquecimiento ilícito, al que haga figurar como suyos, bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la legislación sobre responsabilidades de los servidores públicos.
 
-### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
-
-> <small>(REFORMADO [N. DE. REPUBLICADO PRIMER PÁRRAFO], G.O. 7 DE JUNIO DE 2021)</small>
+### CAPÍTULO I. DENEGACIÓN O RETARDO DE JUSTICIA Y PREVARICACIÓN
 
 ###### ARTÍCULO 281.
 
@@ -4078,7 +4086,9 @@ La pena será de uno a cinco años de prisión, cuando la desobediencia o resist
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medidas de apremio.
 
-### CAPÍTULO III
+### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
+
+> <small>(REFORMADO [N. DE. REPUBLICADO PRIMER PÁRRAFO], G.O. 7 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 285.
 
@@ -4086,7 +4096,7 @@ Al que con actos materiales trate de impedir la ejecución de una obra o un trab
 
 Cuando el delito se cometa por varias personas de común acuerdo, se impondrá de tres meses a un año de prisión, si sólo se hiciere una simple oposición material sin violencia. En caso de existir violencia, la pena será de tres meses a dos años de prisión, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
-### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO III
 
 ###### Artículo 286.
 
@@ -4106,7 +4116,7 @@ II. Se trate de un establecimiento dedicado al almacenaje de productos, o
 
 III. Se trate de obras de construcción que requiriendo dictamen de impacto urbano no cuenten con el mismo.
 
-### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICO FORENSES
+### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 287.
 
@@ -4114,7 +4124,7 @@ III. Se trate de obras de construcción que requiriendo dictamen de impacto urba
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
-### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
+### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICO FORENSES
 
 ###### ARTÍCULO 288.
 
@@ -4122,7 +4132,7 @@ Al que para hacer efectivo un derecho o pretendido derecho, que deba ejercitar, 
 
 En estos casos, sólo se procederá por querella de la parte ofendida.
 
-### CAPÍTULO VII. EVASIÓN DE PRESOS
+### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
 ###### ARTÍCULO 289.
 
@@ -4130,11 +4140,11 @@ Al que cometa un delito en contra de un servidor o agente de la autoridad en el 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 25 DE JULIO DE 2012)</small>
 
-### CAPÍTULO I. FRAUDE PROCESAL
+### CAPÍTULO VII. EVASIÓN DE PRESOS
 
 ## TÍTULO VIGÉSIMO. HECHOS DE CORRUPCIÓN Y DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
+### CAPÍTULO I. FRAUDE PROCESAL
 
 ###### ARTÍCULO 290.
 
@@ -4184,7 +4194,7 @@ IV. Bajo cualquier pretexto, se niegue injustificadamente a despachar, dentro de
 
 ARTÍCULO 292 BIS. Al servidor público que retarde o entorpezca indebidamente la procuración o administración de justicia, se le impondrá pena de prisión de tres a ocho años y de trescientas a mil unidades de medida y actualización, además, será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos
 
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE O DOMICILIO
+### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
 ###### ARTÍCULO 293.
 
@@ -4256,9 +4266,7 @@ III. Sea de las circunstancias de su muerte, de las lesiones o del estado de sal
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 6 DE JUNIO DE 2012)</small>
 
-### CAPÍTULO IV. SIMULACIÓN DE ELEMENTOS DE PRUEBA
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO III. VARIACIÓN DEL NOMBRE O DOMICILIO
 
 ###### ARTÍCULO 294.
 
@@ -4280,7 +4288,9 @@ III. Sea de las circunstancias de su muerte, de las lesiones o del estado de sal
 
 (DEROGADO, G.O. 6 DE JUNIO DE 2012)
 
-### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS, LITIGANTES Y ASESORES JURÍDICOS
+### CAPÍTULO IV. SIMULACIÓN DE ELEMENTOS DE PRUEBA
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 299.
 
@@ -4332,7 +4342,7 @@ La sanción prevista en el párrafo anterior podrá triplicarse cuando se trate 
 
 ARTÍCULO 300 Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días multa, al servidor público que durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte datos, medios de prueba o se desahoguen éstos últimos, todos relativos a la comisión de un delito.
 
-### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS, LITIGANTES Y ASESORES JURÍDICOS
 
 ###### ARTÍCULO 301.
 
@@ -4362,7 +4372,7 @@ d) El certificado definitivo con la indicación del tiempo que tardó la curaci�
 
 e) El certificado de defunción, en su caso.
 
-### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
+### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTÍCULO 303.
 
@@ -4374,9 +4384,7 @@ II. Otorgue indebidamente privilegios a los internos; o
 
 III. Permita ilegalmente la salida de personas privadas de su libertad como procesadas o sentenciadas.
 
-### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
-
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
 ###### ARTÍCULO 304.
 
@@ -4416,6 +4424,22 @@ Cuando un particular cometa o participe en alguno de los delitos previsto en est
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS COMETIDOS POR PARTICULARES ANTE EL MINISTERIO PÚBLICO, AUTORIDAD JUDICIAL O ADMINISTRATIVA
 
+### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 310.
+
+Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error a la autoridad judicial o administrativa, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley, se le impondrán de seis meses a seis años de prisión y de cincuenta a doscientos cincuenta días multa. Si el beneficio es de carácter económico, se impondrán las penas previstas para el delito de fraude.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+
+Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente, al momento de realizarse el hecho.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 310 BIS Al que para obtener un beneficio indebido para sí o para otro, altere antecedentes, medios o datos de prueba y los presente en la audiencia intermedia o de debate, o realice cualquier otro acto tendente a inducir a error al órgano jurisdiccional o administrativo, con el fin que se señala en el artículo anterior, se le impondrá la sanción prevista en el artículo anterior. Este delito se perseguirá por querella, en los términos del artículo anterior.
+
 ### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
@@ -4437,22 +4461,6 @@ ARTÍCULO 325 Al médico que habiéndose hecho cargo de la atención de un lesio
 Si la víctima u ofendido de este delito es una niña, niño, menor de edad, adolescente o persona inimputable, incapaz, adulto mayor o integrante o miembro de una comunidad o pueblo indígena, las sanciones previstas en este artículo se triplicarán.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### ARTÍCULO 310.
-
-Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error a la autoridad judicial o administrativa, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley, se le impondrán de seis meses a seis años de prisión y de cincuenta a doscientos cincuenta días multa. Si el beneficio es de carácter económico, se impondrán las penas previstas para el delito de fraude.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente, al momento de realizarse el hecho.
-
-> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 310 BIS Al que para obtener un beneficio indebido para sí o para otro, altere antecedentes, medios o datos de prueba y los presente en la audiencia intermedia o de debate, o realice cualquier otro acto tendente a inducir a error al órgano jurisdiccional o administrativo, con el fin que se señala en el artículo anterior, se le impondrá la sanción prevista en el artículo anterior. Este delito se perseguirá por querella, en los términos del artículo anterior.
-
-### CAPÍTULO IV
-
-RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS, POR REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACIÓN
 
 ###### ARTÍCULO 311.
 
@@ -4484,11 +4492,21 @@ Al que aporte testigos falsos conociendo esta circunstancia, o logre que un test
 
 Además de las penas a que se refieren los artículos anteriores, se suspenderá hasta por tres años en el ejercicio de profesión, ciencia, arte u oficio al perito, intérprete o traductor, que se conduzca falsamente u oculte la verdad, al desempeñar sus funciones.
 
-### CAPÍTULO V. SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
+### CAPÍTULO IV
+
+RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS, POR REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACIÓN
 
 ###### ARTÍCULO 317.
 
 Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta días de trabajo en favor de la comunidad, al que ante una autoridad judicial o administrativa en ejercicio de sus funciones, oculte o niegue su nombre o apellido o se atribuya uno distinto del verdadero, u oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO V. SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
+
+###### ARTÍCULO 318.
+
+Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de antecedentes, datos, medios de prueba o pruebas materiales que hagan presumir su responsabilidad, se le impondrán de uno a cinco años de prisión y de cien a trescientos días multa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4499,14 +4517,6 @@ Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta 
 ARTÍCULO 329 BIS. Al Director Responsable de Obra o Corresponsable de Obra que autorice o permita el desarrollo de una construcción, de la que otorgó su responsiva, sin apego a la licencia, autorización, permiso, registro o la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Distrito Federal, se le impondrá de cuatro a seis años seis meses de prisión y de mil a diez mil días multa, así como suspensión para desempeñar profesión u oficio hasta por un periodo igual a la pena de prisión impuesta.
 
 La misma sanción se impondrá al propietario del inmueble donde se desarrolla la construcción, su representante legal o el constructor, que teniendo conocimiento permita la edificación sin apego a la licencia, autorización, permiso, registro o la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Distrito Federal, con relación a la altura, número de niveles y área libre permitidas, siempre que no lo denuncie a la autoridad competente.
-
-###### ARTÍCULO 318.
-
-Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de antecedentes, datos, medios de prueba o pruebas materiales que hagan presumir su responsabilidad, se le impondrán de uno a cinco años de prisión y de cien a trescientos días multa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
 ###### ARTÍCULO 319.
 
@@ -4538,7 +4548,7 @@ VII. Como representante o asesor jurídico de la víctima o el ofendido, se conc
 
 Si el responsable de los delitos previstos en este artículo es un defensor o asesor jurídico particular, se le impondrá, además, la suspensión prevista en el primer párrafo de este artículo. Si es defensor público o asesor jurídico público, se le inhabilitará de seis meses a cuatro años para desempeñar otro empleo, cargo o comisión.
 
-### CAPÍTULO II. DELITOS CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
+### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
 ###### ARTÍCULO 320.
 
@@ -4566,7 +4576,7 @@ No comete el delito a que se refiere al artículo anterior, quien oculte al resp
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
-### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO II. DELITOS CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
 
 ###### ARTÍCULO 322.
 
@@ -4574,13 +4584,13 @@ Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables d
 
 Además de las sanciones fijadas para los delitos que resulten consumados, se les impondrá suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reiteración y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos.
 
-### CAPÍTULO IV. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
+### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### ARTÍCULO 323.
 
 Al que se atribuya públicamente el carácter de profesionista sin tener título profesional, u ofrezca o desempeñe públicamente sus servicios, sin tener autorización para ejercerla en términos de la legislación aplicable, se le impondrá de dos a seis años de prisión y de doscientos a quinientos días multa.
 
-### CAPÍTULO I. PRODUCCIÓN, IMPRESIÓN, ENAJENACIÓN, DISTRIBUCIÓN, ALTERACIÓN O FALSIFICACIÓN DE TÍTULOS AL PORTADOR, DOCUMENTOS DE CRÉDITO PÚBLICOS O VALES DE CANJE
+### CAPÍTULO IV. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 ###### ARTÍCULO 326.
 
@@ -4598,7 +4608,7 @@ III. Sin autorización del paciente o de la persona que ante la imposibilidad o 
 
 Si la víctima u ofendido de este delito es una niña, niño, menor de edad, adolescente o persona inimputable, incapaz, adulto mayor o integrante o miembro de una comunidad o pueblo indígena, las sanciones previstas en este artículo se triplicarán.
 
-### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. PRODUCCIÓN, IMPRESIÓN, ENAJENACIÓN, DISTRIBUCIÓN, ALTERACIÓN O FALSIFICACIÓN DE TÍTULOS AL PORTADOR, DOCUMENTOS DE CRÉDITO PÚBLICOS O VALES DE CANJE
 
 ###### ARTÍCULO 327.
 
@@ -4612,7 +4622,7 @@ III. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera or
 
 La misma sanción se impondrá a los directores, encargados, administradores o empleados de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 ###### ARTÍCULO 328.
 
@@ -4624,13 +4634,11 @@ A los encargados, empleados o dependientes de una farmacia, que al surtir una re
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
-### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### ARTÍCULO 330.
 
@@ -4650,9 +4658,9 @@ Si alguno de los hechos a que se refiere este artículo, se ejecuta por medio de
 
 Estas sanciones se impondrán con independencia de las que procedan si se ocasiona algún otro ilícito.
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 332.
 
@@ -4662,7 +4670,7 @@ I. Altere o destruya las señales indicadoras de peligro, de forma que no puedan
 
 II. Derrame sustancias deslizantes o inflamables.
 
-### CAPÍTULO III. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN EL PRESENTE TÍTULO
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -4674,9 +4682,9 @@ No se sancionará a quien, en ejercicio de la patria potestad, tutela o custodia
 
 Los delitos previstos en este artículo se perseguirán por querella.
 
-### CAPÍTULO IV. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
+### CAPÍTULO III. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN EL PRESENTE TÍTULO
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 334.
 
@@ -4690,11 +4698,9 @@ A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, informac
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO IV. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
 
-(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 335.
 
@@ -4728,7 +4734,11 @@ VIII. Produzca, imprima, enajene, distribuya, altere, o falsifique vales utiliza
 
 Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+
+(NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 337.
 
@@ -4740,9 +4750,7 @@ II. Use los objetos falsificados o alterados señalados en la fracción anterior
 
 Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado sea oficial.
 
-### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO I. REBELIÓN
 
 ###### ARTÍCULO 338.
 
@@ -4750,7 +4758,9 @@ Al que elabore o altere sin permiso de la autoridad competente una placa, el eng
 
 Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
 
-### CAPÍTULO III. SABOTAJE
+### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 339.
 
@@ -4794,7 +4804,7 @@ Se impondrán de uno a tres años de prisión y de cincuenta a mil días multa a
 
 > <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SABOTAJE
 
 ###### ARTÍCULO 343.
 
@@ -5034,7 +5044,7 @@ Además de las sanciones previstas en el presente artículo, quien cometa éste 
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
-### CAPÍTULO V. SEDICIÓN
+### CAPÍTULO IV. MOTÍN
 
 ###### ARTÍCULO 347.
 
@@ -5079,6 +5089,8 @@ ARTÍCULO 347 QUINTUS. Se les impondrán de seis meses a tres años de prisión 
 Las penas previstas en este artículo se impondrán siempre que la autoridad ambiental haya otorgado el permiso, autorización o licencia de que se trate.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+### CAPÍTULO V. SEDICIÓN
 
 ###### ARTÍCULO 348.
 
@@ -6749,3 +6761,11 @@ SEGUNDO. El presente Decreto entrara´ en vigor el día siguiente al de su publi
 TERCERO. La Secretaría de Salud contará con un lapso no mayor a 90 días naturales a la entrada en vigor del presente Decreto para coordinarse con las autoridades correspondientes a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
 
 CUARTO. La Secretaría de las Mujeres en coordinación con la Secretaría de Seguridad Ciudadana, la Fiscalía General de Justicia de la Ciudad de México, la Secretaría de Inclusión y Bienestar Social de la Ciudad de México, la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México, la Comisión de Derechos Humanos de la Ciudad de México, el Consejo para Prevenir y Erradicar la Discriminación de la Ciudad de México, el Sistema Integral para el Desarrollo de la Familia de la Ciudad de México y la Secretaría de Salud de la Ciudad de México, formulará en un lapso de seis meses a la entrada en vigor del presente Decreto, una política pública de atención integral a las víctimas de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+G.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE CREA EL CAPÍTULO XV Y EL ARTÍCULO 276 QUATER AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
