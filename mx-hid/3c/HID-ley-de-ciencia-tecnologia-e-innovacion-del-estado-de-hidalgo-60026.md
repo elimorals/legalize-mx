@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-06-15"
+last_updated: "2024-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -39,7 +39,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de la facultades que 
 
 ANTECEDENTES
 
-...
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -79,9 +79,17 @@ VI.- Apoyar la capacidad y el fortalecimiento de los grupos de investigación ci
 
 VII. Establecer las bases y lineamientos, conforme a las cuales el Consejo de Ciencia, Tecnología e Innovación de Hidalgo, deba celebrar Convenios de Coordinación o Colaboración con los sectores público, social y privado con el propósito de configurar el Sistema Estatal de Ciencia, Tecnología e Innovación;
 
-VIII.- Regular la aplicación de recursos destinados para el financiamiento de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado, la divulgación científica, así como la formación y el estímulo de investigadores tecnólogos en el Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-IX.- Establecer las acciones y programas que propicien el acercamiento de la sociedad a la actividad científica y tecnológica, así como promover la generación de espacios, donde puedan desarrollar su capacidad innovadora.
+VIII.- Regular la aplicación de recursos destinados para el financiamiento de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado, la divulgación científica, así como la formación y el estímulo de investigadores tecnólogos en el Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+IX.- Establecer las acciones y programas que propicien el acercamiento de la sociedad a la actividad científica y tecnológica, así como promover la generación de espacios, donde puedan desarrollar su capacidad innovadora, y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+X.- Divulgar y garantizar el acceso abierto a la información científica, tecnológica y de innovación en el Estado.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -139,9 +147,17 @@ XIX.- Agrupaciones cluster: Los sistemas de empresas e instituciones interrelaci
 
 XX.- Cadenas productivas: Los sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
 
-XXI.- Sectores prioritarios: Las ramas industriales, industrias y empresas organizadas que se encuentran alrededor de una aplicación científica o tecnológica específica, conglomerados locales y regionales de empresas, cadenas productivas o actividades económicas; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXII.- Consorcio: Fórmula de cooperación en la que una serie de instituciones o empresas buscan desarrollar una actividad conjunta, mediante la creación de una nueva sociedad encargada de estudiar nuevos mercados, así como promocionar, financiar y comercializar al conjunto de instituciones o empresas. En esta agrupación cada socio mantiene su independencia jurídica.
+XXI.- Sectores prioritarios: Las ramas industriales, industrias y empresas organizadas que se encuentran alrededor de una aplicación científica o tecnológica específica, conglomerados locales y regionales de empresas, cadenas productivas o actividades económicas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXII.- Consorcio: Fórmula de cooperación en la que una serie de instituciones o empresas buscan desarrollar una actividad conjunta, mediante la creación de una nueva sociedad encargada de estudiar nuevos mercados, así como promocionar, financiar y comercializar al conjunto de instituciones o empresas. En esta agrupación cada socio mantiene su independencia jurídica, y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXIII.- Acceso abierto: El acceso mediante una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras; así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
 
 #### SECCIÓN I. DEL SISTEMA ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
@@ -462,6 +478,10 @@ XI.- La formulación de programas educativos, estímulos fiscales, financieros y
 XII.- La vinculación interinstitucional y entre programas, a nivel Estatal, Nacional e Internacional; y
 
 XIII.- La asistencia con asesoría, espacio y, en su caso, financiamiento, a las iniciativas juveniles, en materia de ciencia y tecnología.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 13 BIS.- Las personas investigadoras, expertas en tecnología o que pertenecen a las comunidades académica, científica y/o tecnológica, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública estatal en su realización, por decisión personal podrán autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso abierto, previo cumplimiento de los procedimientos, condiciones y términos que para tal efecto establezca el CITNOVA, siempre y cuando no se contravengan derechos de terceros.
 
 #### SECCIÓN I. DEL SISTEMA ESTATAL DE INFORMACIÓN CIENTIFICA, TECNOLÓGICA Y DE POSGRADO
 
@@ -1128,3 +1148,9 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones contrarias al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 832 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
