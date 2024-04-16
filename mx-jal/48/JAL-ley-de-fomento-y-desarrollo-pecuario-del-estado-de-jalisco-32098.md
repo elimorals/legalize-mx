@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2019-10-12"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -53,9 +53,17 @@ II. El Código Civil del Estado de Jalisco;
 
 III. El Código de Procedimientos Civiles del Estado de Jalisco;
 
-IV. La Ley Agraria, y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-V. Las costumbres del lugar.
+IV. La Ley Agraria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
+
+V. La Ley Agroalimentaria del Estado de Jalisco, y
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+VI. Usos y costumbres del lugar.
 
 ###### Artículo 3.
 
@@ -93,41 +101,63 @@ Las disposiciones de esta ley son de orden público y obligatorio para toda pers
 
 Para los efectos de esta ley, se entiende por:
 
-I. Ganado mayor:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-a) Bovinos;
+I. Agencia: Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria del Estado de Jalisco.
 
-b) Equinos;
+La Agencia ejercerá actos de autoridad en el ámbito de su competencia, de conformidad con las facultades y atribuciones legales y reglamentarias respectivas.
 
-c) Mular y asnal; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-d) Otras especies mayores domésticas;
+II. Destinatario: Es el propietario del animal doméstico al arribo a su destino.
 
-II. Ganado menor:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-a) Caprinos;
+III. Establecimientos: Las instalaciones ubicadas en territorio estatal en donde se desarrollan actividades de sanidad animal, que prestan servicios veterinarios; así como aquellas instalaciones en las que se sacrifican animales o procesan productos y subproductos de origen animal, incluidos aquellos donde se producen, procesan, manejan, acopian, comercializan, envasan, empacan, refrigeran o industrializan bienes de origen animal, sujetos a regulación zoosanitaria o de buenas prácticas pecuarias.
 
-b) Ovinos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-c) Porcinos;
+IV. Mercancía regulada: Animales, bienes de origen animal, productos para uso o consumo animal, equipo pecuario usado, artículos y cualesquier otros bienes relacionados con los animales, cuando éstos presenten riesgo zoosanitario; en los términos de la Ley Agroalimentaria del Estado de Jalisco.
 
-d) Aves;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-e) Conejos;
+V. Personal Oficial: Profesionista designado por la Secretaría o la Agencia que está facultado y reconocido para desempeñar funciones de verificación, inspección y vigilancia de establecimientos; así como realizar acciones de verificación e inspección en la movilización de mercancías reguladas en los puntos de verificación e inspección interna, puntos itinerantes y sitios de inspección.
 
-f) Abejas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-g) Otras especies menores domésticas;
+VI. Prestador de Servicios Ganaderos (PSG): Persona física o moral de carácter público o privado, que presta servicios orientados al apoyo de la actividad pecuaria y registrado en el Padrón Ganadero Nacional (PGN).
 
-III. Productor pecuario en general: toda persona física o jurídica que, siendo propietario de cualquiera de las especies productivas domésticas, realice funciones de reproducción, producción, dirección y administración pecuaria; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-IV. Productos: se consideran los resultados de la producción primaria de las especies domésticas productivas, tales como: carne, leche, huevo, miel, entre otros;
+VII. Productor pecuario en general: Toda persona física o jurídica que, siendo propietario o poseedor de cualquiera de las especies productivas domésticas, realicé funciones de reproducción, producción, dirección y administración pecuaria.
 
-V. Subproductos: es el resultado de la producción primaria de las especies domésticas productivas que han sufrido un proceso de transformación e industrialización destinados al consumo humano, tales como: queso, crema, fórmulas lácteas y sus derivados, huevo procesado, carne procesada en jamones y embutidos, excretas, así como los esquilmos agrícolas que contengan excretas y que fueran utilizados como camas o suplemento de alimento para las especies domésticas productivas, entre otros;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+VIII. Productos: Se consideran los resultados de la producción primaria de las especies domésticas productivas, tales como: carne, leche, huevo, miel, entre otros.
 
-VI. Secretaría: a la Secretaría de Agricultura y Desarrollo Rural del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+IX. Subproductos: Los derivados de la producción primaria de las especies domésticas productivas que han sufrido un proceso de transformación e industrialización destinados al consumo humano, tales como: queso, crema, fórmulas lácteas y sus derivados, huevo procesado, carne procesada en jamones y embutidos, excretas, así como los esquilmos agrícolas que contengan excretas y que fueran utilizados como camas o suplemento de alimento para las especies domésticas productivas, entre otros.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+X. Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Jalisco.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
+
+XI. Unidad de Producción Pecuaria (UPP): Superficie definida y delimitada en la que el productor del sector primario efectúa actividades ganaderas.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 5
+
+Bis.- Para los efectos de esta Ley, las especies pecuarias se clasifican en:
+
+I. Especies mayores: ganado bovino, caballar, mular y asnal;
+
+II. Especies menores: Son los caprinos, ovinos y porcinos, incluyendo en esta categoría a las aves, conejos, liebres, abejas y otras con fines zootécnicos; y
+
+III. Especies diversificadas: La fauna que el hombre ha modificado en algún grado su libertad, reproducción o alimentación para ser usado con fines de explotación, ya sea en el ámbito productivo, cinegético, deportivo o recreativo; actividad considerada también como ganadería diversificada.
 
 ###### Artículo 6.
 
@@ -153,7 +183,9 @@ Son autoridades auxiliares para la aplicación de esta ley y su reglamento, en e
 
 I. La Fiscalía Estatal;
 
-II. (DEROGADA, P.O. 22 DE FEBRERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2024)</small>
+
+II. La Agencia;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
@@ -195,6 +227,8 @@ IX. Decretar y establecer, en apoyo a las campañas que se lleven a cabo en el E
 
 X. Las demás que le otorguen la presente ley, los reglamentos y demás normatividad aplicable en la materia.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 29527/LXIII/24 PUBLICADO EN EL P.O. DE 16 DE ABRIL DE 2024, DE LA PÁGINA 23 A LA 27.]</small>
+
 ###### Artículo 10.
 
 Compete a la Secretaría, en lo concerniente a la actividad pecuaria, las siguientes atribuciones:
@@ -203,97 +237,157 @@ I. Elaborar, ejecutar, evaluar y revisar el Programa Estatal de Desarrollo Pecua
 
 II. Controlar y coordinar las actividades pecuarias, conforme las disposiciones de esta ley y las previsiones del Programa Estatal;
 
-III. A fin de garantizar la operatividad de los puntos de verificación zoosanitarios, proponer al Ejecutivo del Estado, que en el Presupuesto anual de Egresos del Estado se destine, recursos suficientes para cubrir sus gastos de administración y operación para los puntos de verificación zoosanitarios que se encuentren funcionando dentro del estado y que operen bajo convenio con la autoridad federal y estatal;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-IV. Establecer el control y registro estatal de las organizaciones pecuarias que estén reconocidas y regularizadas por la autoridad federal, de sus integrantes, así como de sus inventarios y producción, además de apoyarlas en el cumplimiento de sus atribuciones;
+III. Establecer el control y registro estatal de las organizaciones pecuarias que estén reconocidas y regularizadas por la autoridad federal, de sus integrantes, así como de sus inventarios y producción, además de apoyarlas en el cumplimiento de sus atribuciones;
 
-V. Coadyuvar con la Federación, en la aplicación al ámbito estatal, de las leyes, reglamentos, normas oficiales mexicanas y normas mexicanas del sector pecuario;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-VI. Coadyuvar con la Federación, auxiliándose de las organizaciones pecuarias y organismos auxiliares de cooperación, en la promoción de esquemas de certificación de productos y subproductos pecuarios;
+IV. Conocer, aplicar, promover, aprovechar y difundir los conocimientos científicos, tecnológicos de innovación y educativos del ramo pecuario, con auxilio de las universidades, instituciones y organismos estatales, nacionales e internacionales afines dedicados a este propósito, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
-VII. Vigilar, con apoyo de las organizaciones pecuarias y organismos auxiliares de cooperación, que en los centros de acopio de los productos y subproductos pecuarios se mantenga la calidad de los mismos, a fin de evitar su adulteración, particularmente en lo referente a su composición físico-química;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+V. Participar con los diversos organismos en la promoción y desarrollo de tecnología e infraestructura productiva, para mejorar y fortalecer las actividades pecuarias en el Estado;
 
-VIII. Conocer, aplicar, promover, aprovechar y difundir los conocimientos científicos, tecnológicos de innovación y educativos del ramo pecuario, con auxilio de las universidades, instituciones y organismos estatales, nacionales e internacionales afines dedicados a este propósito, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-IX. Participar con los diversos organismos en la promoción y desarrollo de tecnología e infraestructura productiva, para mejorar y fortalecer las actividades pecuarias en el Estado;
+VI. Llevar las estadísticas de la producción pecuaria, de sus explotaciones, el inventario de las especies domésticas susceptibles de reproducción y producción, así como el registro de patentes de productores pecuarios y toda aquella información necesaria para la planeación pecuaria en la entidad;
 
-X. Llevar las estadísticas de la producción pecuaria, de sus explotaciones, el inventario de las especies domésticas susceptibles de reproducción y producción, así como el registro de patentes de productores pecuarios y toda aquella información necesaria para la planeación pecuaria en la entidad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XI. Promover la formación de industrias y rastros Tipo Inspección Federal, la transformación de productos y subproductos pecuarios, así como el fomento de su consumo, mediante campañas de difusión constante y permanente, con el apoyo de las organizaciones pecuarias y organismos auxiliares de cooperación;
+VII. Promover la formación de industrias y rastros Tipo Inspección Federal, la transformación de productos y subproductos pecuarios, así como el fomento de su consumo, mediante campañas de difusión constante y permanente, con el apoyo de las organizaciones pecuarias y organismos auxiliares de cooperación;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XII. Proponer al Titular del Poder Ejecutivo del Estado, la celebración de convenios con la federación, los municipios y otras entidades federativas, así como con las organizaciones pecuarias y organismos auxiliares de cooperación, para el mejor cumplimiento de las actividades a que se refiere la presente ley;
+VIII. Proponer al Titular del Poder Ejecutivo del Estado, la celebración de convenios con la federación, los municipios y otras entidades federativas, así como con las organizaciones pecuarias y organismos auxiliares de cooperación, para el mejor cumplimiento de las actividades a que se refiere la presente ley;
 
-XIII. Designar a los supervisores regionales pecuarios;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XIV. Designar a los inspectores de ganadería municipales, a propuesta de cada Ayuntamiento y de las asociaciones ganaderas locales legalmente constituidas en el municipio; cargo que preferentemente deberá recaer en un médico veterinario zootecnista y quien dependerá laboralmente del Ayuntamiento que lo propuso;
+IX. Designar a los supervisores regionales pecuarios;
 
-XV. Designar a los expeditores adscritos a las organizaciones pecuarias locales, generales y especializadas, a propuesta de éstas y previa comprobación de la capacidad, calidad moral y honorabilidad de los propuestos, procurando nombrar, por lo menos, uno por especie productiva de las que se refiere la ley, si existe la organización pecuaria respectiva dentro del municipio o localidad.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+X. Designar a los inspectores de ganadería municipales, a propuesta de cada Ayuntamiento y de las asociaciones ganaderas locales legalmente constituidas en el municipio; cargo que preferentemente deberá recaer en un médico veterinario zootecnista y quien dependerá laboralmente del Ayuntamiento que lo propuso;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XI. Designar a los expeditores adscritos a las organizaciones pecuarias locales, generales y especializadas, a propuesta de éstas y previa comprobación de la capacidad, calidad moral y honorabilidad de los propuestos, procurando nombrar, por lo menos, uno por especie productiva de las que se refiere la ley, si existe la organización pecuaria respectiva dentro del municipio o localidad.
 
 Los expeditores dependerán laboralmente de las organizaciones pecuarias a las que estén adscritos y tendrán las facultades que se establezcan en la ley y su reglamento;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XVI. Establecer el registro estatal de productores pecuarios e identificarlos a través de la expedición de su Credencial Única Agroalimentaria, con el fin de ejecutar las acciones reguladas a que se refiere la Ley;
+XII. Establecer el registro estatal de productores pecuarios e identificarlos a través de la expedición de su Credencial Única Agroalimentaria, con el fin de ejecutar las acciones reguladas a que se refiere la Ley;
 
-XVII. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de las especies domésticas productivas, productos y subproductos;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+XIII. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de las especies domésticas productivas, productos y subproductos;
 
-XVIII. Autorizar y expedir las órdenes de realeo de ganado, las que serán ejecutadas por los supervisores regionales pecuarios, de manera conjunta con los inspectores de ganadería y las autoridades del Ayuntamiento, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XIX. Expedir, a través de los expeditores adscritos a las organizaciones pecuarias generales, locales y especializadas, un solo tipo de guía de tránsito, así como el documento de transmisión de propiedad para controlar la movilización y comercialización de las especies domésticas productivas, productos y subproductos, dentro y fuera del estado;
+XIV. Autorizar y expedir las órdenes de realeo (sic) de ganado, las que serán ejecutadas por los supervisores regionales pecuarios, de manera conjunta con los inspectores de ganadería y las autoridades del Ayuntamiento, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
 
-XX. Llevar el registro y control de la documentación emitida por los expeditores;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXI. Otorgar los permisos para el establecimiento de expendios de productos y subproductos, previa autorización de la Secretaría de Salud;
+XV. Expedir, a través de los expeditores adscritos a las organizaciones pecuarias generales, locales y especializadas, un solo tipo de guía de tránsito, así como el documento de transmisión de propiedad para controlar la movilización y comercialización de las especies domésticas productivas, productos y subproductos, dentro y fuera del estado;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXII. Aplicar, a través del supervisor regional pecuario o inspector de ganadería, las sanciones establecidas en la presente ley, sus reglamentos y demás normatividad vigente, comunicando las mismas a la Secretaría de la Hacienda Pública para que, a través de sus recaudadoras municipales, aplique la sanción económica que se determine, efectuando, de ser necesario, el procedimiento de ejecución;
+XVI. Llevar el registro y control de la documentación emitida por los expeditores;
 
-XXIII. Admitir y resolver el recurso administrativo previsto en esta ley y su reglamento;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXIV. Auxiliar al Ministerio Público en la persecución del delito de abigeato;
+XVII. Otorgar los permisos para el establecimiento de expendios de productos y subproductos, previa autorización de la Secretaría de Salud;
 
-XXV. Coordinar con las autoridades federales, estatales y municipales, el retiro del derecho de vía al ganado que paste o transite sin vigilancia de sus propietarios;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXVI. Fortalecer y promover el mejoramiento genético animal a través de los programas específicos de la Secretaría y de la autoridad federal competente, así como llevar el registro genealógico de razas puras en coordinación con las organizaciones pecuarias, fomentando el establecimiento de estaciones regionales de cría, bancos de semen y de embriones de reconocida calidad genética;
+XVIII. Admitir y resolver el recurso administrativo previsto en esta ley y su reglamento;
 
-XXVII. Atender, a través de los supervisores regionales pecuarios e inspectores de ganadería, las denuncias ciudadanas por violaciones a las disposiciones de la presente ley, su reglamento y demás normatividad aplicable, orientando al denunciante para la interposición de su queja y, en su caso, turnándola a la instancia correspondiente para su resolución;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXVIII. Atender las denuncias ciudadanas que se presenten por violaciones a las disposiciones de la presente Ley y de la demás reglamentación en materia pecuaria, orientando al denunciante para la interposición de su queja y en su caso, turnándola a la instancia correspondiente para su resolución;
+XIX. Auxiliar al Ministerio Público en la persecución del delito de abigeato;
 
-XXIX. Promover la realización de ferias y exposiciones pecuarias a nivel nacional, estatal, regional o municipal, otorgando de manera conjunta con las organizaciones pecuarias, reconocimientos y premios que estimulen a los productores en el avance genético de sus especies, la sanidad y alimentación adecuada de los animales en pie, así como la transformación, industrialización y comercialización de sus productos y subproductos, atendiendo a la normatividad sanitaria establecida para esos eventos;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXX. Otorgar, a través del inspector de ganadería, las órdenes de sacrificio de las especies domésticas productivas;
+XX. Coordinar con las autoridades federales, estatales y municipales, el retiro del derecho de vía al ganado que paste o transite sin vigilancia de sus propietarios;
 
-XXXI. Gestionar ante las instituciones de crédito oficiales y privadas, el acceso y otorgamiento de financiamiento a los productores pecuarios;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXXII. Reglamentar el sistema de clasificación y selección de canales, cortes y procesados de las especies domesticas productivas, en concordancia con las normas oficiales mexicanas y normas mexicanas respectivas;
+XXI. Fortalecer y promover el mejoramiento genético animal a través de los programas específicos de la Secretaría y de la autoridad federal competente, así como llevar el registro genealógico de razas puras en coordinación con las organizaciones pecuarias, fomentando el establecimiento de estaciones regionales de cría, bancos de semen y de embriones de reconocida calidad genética;
 
-XXXIII. Vigilar y aplicar, en coordinación con la Secretaría de Salud, las disposiciones relacionadas con la inocuidad de los alimentos de origen animal, la selección y clasificación de los elementos o ingredientes que se utilicen para el consumo animal, así como la aplicación de prácticas de registro y etiquetado en todos los productos y subproductos;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXXIV. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies domésticas productivas, para verificar el estricto apego a las normas de la materia;
+XXII. Atender, a través de los supervisores regionales pecuarios e inspectores de ganadería, las denuncias ciudadanas por violaciones a las disposiciones de la presente ley, su reglamento y demás normatividad aplicable, orientando al denunciante para la interposición de su queja y, en su caso, turnándola a la instancia correspondiente para su resolución;
 
-XXXV. Autorizar el ingreso o restricción al Estado de animales, productos y subproductos provenientes de otras entidades o del extranjero, una vez comprobado el cumplimiento de los requisitos legales de propiedad y en materia zoosanitaria,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+XXIII. Atender las denuncias ciudadanas que se presenten por violaciones a las disposiciones de la presente Ley y de la demás reglamentación en materia pecuaria, orientando al denunciante para la interposición de su queja y en su caso, turnándola a la instancia correspondiente para su resolución;
 
-XXXVI. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de la Hacienda Pública para que, por conducto de sus recaudadoras municipales, se hagan efectivas;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+XXIV. Promover la realización de ferias y exposiciones pecuarias a nivel nacional, estatal, regional o municipal, otorgando de manera conjunta con las organizaciones pecuarias, reconocimientos y premios que estimulen a los productores en el avance genético de sus especies, la sanidad y alimentación adecuada de los animales en pie, así como la transformación, industrialización y comercialización de sus productos y subproductos, atendiendo a la normatividad sanitaria establecida para esos eventos;
 
-XXXVII. Resolver el recurso administrativo previsto en la presente ley y su reglamento;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2004)</small>
+XXV. Otorgar, a través del inspector de ganadería, las órdenes de sacrificio de las especies domésticas productivas;
 
-XXXVIII. Promover la constitución de sociedades cooperativas; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XXXIX. Las demás que establezca la presente ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
+XXVI. Gestionar ante las instituciones de crédito oficiales y privadas, el acceso y otorgamiento de financiamiento a los productores pecuarios;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXVII. Reglamentar el sistema de clasificación y selección de canales, cortes y procesados de las especies domesticas productivas, en concordancia con las normas oficiales mexicanas y normas mexicanas respectivas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXVIII. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies domésticas productivas, para verificar el estricto apego a las normas de la materia;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXIX. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de la Hacienda Pública para que, por conducto de sus recaudadoras municipales, se hagan efectivas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXX. Promover la constitución de sociedades cooperativas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXXI. Celebrar convenios de coordinación y colaboración con la Secretaría de Agricultura y Desarrollo Rural, el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (Senasica), para que la información trazable con la que ésta cuente se integre al sistema informático de trazabilidad de las mercancías agropecuarias, acuícolas y pesqueras (SITMA);
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXXII. Coadyuvar en el control y seguimiento del Sistema oficial de identificación animal que el Gobierno Federal opere o implemente, con la finalidad de preservar y mejorar el estatus zoosanitario, prevenir riesgos epizootiológicos, combatir el abigeato y generar una base de datos para la planeación y evaluación del sector pecuario en el Estado; y
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XXXIII. Las demás que establezca la presente ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 10
+
+Bis.- La Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria tendrá las siguientes obligaciones y atribuciones:
+
+I. Proponer al Ejecutivo del Estado, que en el Presupuesto anual de Egresos del Estado se destine, recursos suficientes para cubrir sus gastos de administración y operación para los puntos de verificación e inspección interna, sitios de inspección e itinerantes, que se encuentren funcionando dentro del estado y que operen bajo convenio con la autoridad federal y estatal;
+
+II. Coadyuvar con la Federación, en la aplicación al ámbito estatal, de las leyes, reglamentos, normas oficiales mexicanas y normas mexicanas del sector pecuario;
+
+III. Coadyuvar con la Federación, auxiliándose de las organizaciones pecuarias y organismos auxiliares de cooperación, en la promoción de esquemas de certificación de productos y subproductos pecuarios; así como, la implementación de las campañas zoosanitarias oficiales y que por su importancia en la salud pública y económica convengan;
+
+IV. Vigilar, con apoyo de las organizaciones pecuarias y organismos auxiliares de cooperación, que en los centros de acopio de los productos y subproductos pecuarios se mantenga la calidad de los mismos, a fin de evitar su adulteración, particularmente en lo referente a su composición físico-química;
+
+V. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies domesticas productivas, para verificar el estricto apego a las normas en materia de sanidad y bienestar animal;
+
+VI. Vigilar que los rastros y centros de sacrificio lleven libros de registro que amparen la legal procedencia y trazabilidad de los animales que se sacrifican, así como trabajar en la vigilancia epidemiológica;
+
+VII. Vigilar y aplicar, en coordinación con la Secretaría de Salud, las disposiciones relacionadas con la inocuidad de los alimentos de origen animal, la selección y clasificación de los elementos o ingredientes que se utilicen para el consumo animal, así como la aplicación de prácticas de registro y etiquetado en todos los productos y subproductos;
+
+VIII. Autorizar el ingreso al Estado de Jalisco de animales, productos y subproductos provenientes de otras entidades o del extranjero, una vez comprobado el cumplimiento de los requisitos legales de propiedad y en materia zoosanitaria;
+
+IX. Aplicar, a través del personal del Servicio Oficial de Inspección las sanciones establecidas en la presente ley, sus reglamentos y demás normatividad vigente, comunicando las mismas a la Secretaría de la Hacienda Pública para que, a través de sus recaudadoras municipales, aplique la sanción económica que se determine, efectuando, de ser necesario, el procedimiento de ejecución; y
+
+X. Las demás que le otorguen la presente ley, los reglamentos y demás normatividad aplicable en la materia.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
@@ -315,11 +409,11 @@ II. Expedir a través de sus oficinas de recaudación municipales a las organiza
 
 III. Hacer efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su reglamento, a través de las oficinas de recaudación municipal.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
 
 ###### Artículo 13.
 
-La Fiscalía Estatal, a petición de la Secretaría, prestará apoyo y auxilio a los supervisores regionales pecuarios, inspectores de ganadería y al personal adscrito a los puntos de verificación zoosanitarios ubicados en el interior del Estado, proporcionando elementos de seguridad en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
+La Fiscalía Estatal, a petición de la Secretaría o la Agencia, prestará apoyo y auxilio a los supervisores regionales pecuarios, inspectores de ganadería y al personal adscrito a los puntos de verificación zoosanitarios ubicados en el interior del Estado, proporcionando elementos de seguridad en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
 
 ###### Artículo 14.
 
@@ -423,13 +517,25 @@ XIII. Coadyuvar en el control de la movilización, comercialización o sacrifici
 
 XIV. Vigilar que los rastros municipales y centros de sacrificio verifiquen y retengan la documentación que ampare la legal procedencia de los animales, previo a la autorización del sacrificio, velando por la aplicación de métodos científicos y tecnológicos adecuados para este fin;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XV. Asegurar el ganado mayor que se encuentre en las vías de comunicación estatal, sin pastoreo y representen un riesgo; y
+XV. Asegurar el ganado mayor que se encuentre en las vías de comunicación estatal, sin pastoreo y representen un riesgo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XVI. Las demás que determine el reglamento de la ley y demás normatividad aplicable.
+XVI. Exigir la identificación del ganado bovino con identificadores oficiales autorizados por el Gobierno Federal, el uso de documentos con carácter legal y fiscal para acreditar la propiedad, la compraventa y la movilización del ganado en su jurisdicción;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XVII. Establecer la revisión del ganado en lugares de cría, engorda, embarque, en tránsito, transporte y centros de sacrificio, verificando la legal propiedad y procedencia;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XVIII. Autorizar el sacrificio de semovientes con el estricto cumplimiento de esta Ley, que acrediten la legal propiedad con guías de movilización correspondientes a la especie, facturas o documentos de transmisión de propiedad y certificados zoosanitarios que establezcan la procedencia y que cubran los requisitos de sanidad para el consumo humano, velando por la aplicación de métodos científicos y tecnológicos adecuados para este fin; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2024)</small>
+
+XIX. Las demás que determine el reglamento de la ley y demás normatividad aplicable.
 
 ###### Artículo 18.
 
@@ -547,15 +653,17 @@ La clasificación de las explotaciones pecuarias será aquella que se establezca
 
 Se considera medio de identificación del criador de cualquiera de las especies domésticas productivas, productos y subproductos, la figura de herrar, marcas, aretes, tatuajes, anillos, pulseras, medios electrónicos, señales o cualquier otro registrado ante la Secretaría y que tenga como fin acreditar la propiedad del animal, su explotación, productos y subproductos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2024)</small>
 
 ###### Artículo 29.
 
-Todo propietario de cualquiera de las especies domésticas productivas a que se refiere la presente ley, tiene la obligación de registrar su explotación y acreditar su propiedad. Además deberán marcar sus animales, en los términos que señala la ley cumpliendo con los requisitos establecidos que a continuación se indican:
+Es obligatorio para los propietarios de ganado registrar su explotación, marcar e identificar sus animales para acreditar su propiedad en los términos que señale la presente Ley; con los medios que a continuación se señalan:
 
-I. Ganado bovino, equino, mular y asnal deberá ser marcado con el medio de identificación del criador debidamente registrado, conforme lo establece el reglamento de la presente ley; en forma optativa en frío, tratándose de especies de sangre pura y con registro genealógico y para los animales destinados a actividades deportivas.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-El marcaje podrá hacerse también a fuego, con aretes, tatuajes, medios electrónicos o por cualquier otro medio de identificación registrado ante la Secretaría;
+I. El Ganado bovino, caballar, mular y asnal deberá ser marcado con la figura de herrar (con hierro candente o en frío), marcas, aretes, tatuajes, anillos, pulseras, medios electrónicos; y en su caso con cualquier otro sistema de identificación de los animales o acreditación de su propiedad registrado ante la Secretaría.
+
+El marcaje deberá hacerse con técnica de marcado permanente y bien definido.
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -631,6 +739,24 @@ V. Si por error, dolo u otras circunstancias llegaran a registrarse ante la Secr
 
 A los registros posteriores procede su cancelación y la sanción que corresponda de acuerdo a lo señalado por la presente ley.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 32
+
+Bis.- El productor pecuario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la patente, para lo cual bastará que formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento.
+
+La designación del beneficiario o beneficiarios de su patente, podrá hacerse de acuerdo con el siguiente orden de preferencia:
+
+I. Al cónyuge;
+
+II. A la concubina o concubinario;
+
+III. A una de las hijas o hijos;
+
+IV. A uno de sus ascendientes; y
+
+V. A cualquier otra persona de las que dependan económicamente de él.
+
 ###### Artículo 33.
 
 La Secretaría no autorizará más de un medio de identificación para una sola persona dentro de una misma actividad pecuaria en el mismo municipio.
@@ -674,6 +800,18 @@ El documento de transmisión de propiedad de las especies domésticas productiva
 II. La resolución oficial o de autoridad administrativa de adjudicación, o la sentencia firme, cuando la adquisición se derive de sucesiones u otro tipo de juicio; y
 
 III. Para animales, productos y subproductos provenientes de otros estados o países, con la documentación autorizada en la legislación respectiva y acreditada por las autoridades competentes para dichas importaciones, debiendo estar validada o visada por los puntos de verificación zoosanitarios ubicados en el interior o zonas limítrofes del Estado.
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+IV. Con los medios que la autoridad establezca, con base en la disponibilidad de innovaciones tecnológicas de identificación de ganado.
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+V. Con la patente de ganadería, del Registro Estatal de la Propiedad Ganadera, para el ganadero criador.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V, P.O. 16 DE ABRIL DE 2024]</small>
+
+La Patente de ganadería, es para uso exclusivo de su propietario, contendrá los datos del propietario, de las características de identificación del ganado, de la unidad de producción y del inventario del ganado. Se refrendará y actualizará el inventario ganadero cada año en los meses de enero y febrero, en las oficinas del SINIIGA.
 
 ###### Artículo 37.
 
@@ -795,15 +933,19 @@ La Secretaría elaborará un registro de animales mostrencos, en donde se asenta
 
 Los animales mostrencos que sufran una enfermedad contagiosa o que, por alguna circunstancia, no puedan conservarse vivos, se sacrificarán, previa certificación de un médico veterinario oficial o aprobado y con la autorización del supervisor regional pecuario, cumpliendo para tal efecto, con las normas que establezca la legislación en materia de sanidad animal.
 
-### CAPÍTULO IV. De la Movilización, Control y Vigilancia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IV. De la Movilización, Control y Vigilancia de las especies pecuarias, sus productos y subproductos
 
 ###### Artículo 50.
 
 Toda persona que pretenda movilizar cualquiera de las especies domésticas productivas, productos y subproductos, dentro del Estado o hacia otras entidades, deberá observar lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO MEDIANTE DECRETO NO. 29541/LXIII/24 PUBLICADO EL 16 DE ABRIL DE 2024 Y SESIONADO POR EL CONGRESO DEL ESTADO EL 28 DE FEBRERO DE 2024. DE IGUAL MODO SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO POR EL DECRETO NO. 29527/LXIII/24 PUBLICADO EL 16 DE ABRIL DE 2024 Y SESIONADO POR EL CONGRESO DEL ESTADO EL 17 DE FEBRERO DE 2024, QUE A LA LETRA ESTABLECE: “I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas o en la Asociación especializada en la que este registrado el productor, el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la asociación ganadera local correspondiente, su Credencial Única Agroalimentaria vigente; dicho formato contendrá los siguientes datos:…” BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS]</small>
 
-I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas, el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la asociación ganadera local correspondiente, su Credencial Única Agroalimentaria; dicho formato contendrá los siguientes datos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2024)</small>
+
+I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la asociación ganadera local correspondiente, su Credencial Única Agroalimentaria vigente; dicho formato contendrá los siguientes datos:
 
 a) Nombre, domicilio y teléfono particular, código postal, número y figura de la patente y firma del criador o propietario del ganado;
 
@@ -833,9 +975,9 @@ k) Nombre, firma y sello del emisor que avala la expedición de la documentació
 
 l) Número del folio del certificado zoosanitario emitido por la autoridad sanitaria;
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-II. Todos los animales que se introduzcan vivos al Estado, sus productos y subproductos, deberán cumplir con los requisitos sanitarios que establece la normatividad federal y comprobar, mediante la presentación de los certificados correspondientes, que se encuentran libres de enfermedades, en proceso de erradicación o las declaradas como libres dentro del Estado;
+II. Todos los animales que se introduzcan vivos al Estado, sus productos y subproductos, deberán cumplir con los requisitos sanitarios que establece la normatividad federal y comprobar, mediante la presentación de los certificados correspondientes, que se encuentran libres de enfermedades, en proceso de erradicación o las declaradas como libres dentro del Estado; los bovinos, ovinos y caprinos deberán venir acompañados del permiso de internación con base en el protocolo que para tal efecto emita la Agencia.
 
 III. Todos los productos y subproductos, ya sea que se encuentren en canal, en piezas, empacados en cajas, en pastas o procesados, deberán pasar por los puntos de verificación zoosanitarios que se encuentran localizados en el interior y zonas limítrofes del Estado, no se podrán movilizar o comercializar sin la comprobación correspondiente, y;
 
@@ -855,13 +997,71 @@ En caso de movilizarse fuera del estado de Jalisco, deberá acatarse lo dispuest
 
 La Secretaría podrá restringir lo dispuesto en el presente artículo por el tiempo que considere conveniente únicamente por motivos de sanidad, dictando el acuerdo correspondiente, en el que funde y motive la causa temporal de la medida y divulgándola públicamente.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 50
+
+Ter.- El identificador del ganado bovino, el herrado o marcaje y la clave de la Unidad de Producción Pecuaria (UPP) o Prestador de Servicios Ganaderos (PSG), del Sistema Nacional de Identificación Oficial, las guías de movilización correspondientes a la especie serán la base metodológica del control de movilización del ganado bovino, la rastreabilidad y trazabilidad, para la preservación y mejoramiento del estatus zoosanitario, prevención de epizootias, combatir el abigeato y la integración de un banco de datos que permita control estadístico, para la programación y evaluación del sector pecuario.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 50
+
+Quáter.- La Secretaría, la Agencia, las autoridades municipales y las organizaciones ganaderas, implementarán un programa de vigilancia en carreteras, caminos, puntos de verificación e inspección, en casetas, volantas, rastros y demás lugares en donde se críe, engorde, acopie, sacrifique o beneficie el ganado.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 50
+
+Quinquies.- Toda especie de ganado bovino deberá estar debidamente herrado y aretado con identificadores oficiales, y con la documentación oficial se deberá acreditar la propiedad y la autorización de movilización de origen; aquellos que carezcan de identificador o no cumplan con las normas de esta Ley, podrán ser acreedores a sanciones o retención según lo dispuesto en el Reglamento.
+
+El herrado sólo será obligatorio para el ganado bovino a partir de los siete meses de nacido.
+
+En los casos en que los productores realicen el trasherrado de ganado, deberán notificarlo a la Secretaría y al inspector de ganadería por escrito, asentando el dibujo del herrado dentro de los quince días posteriores.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 50
+
+Sexies.- De conformidad a las disposiciones de sanidad animal aplicables a la mercancía regulada, se verificará e inspeccionara la movilización del ganado bovino, provenientes de otras entidades y en las diferentes regiones del Estado, para cuidar la conservación del estatus zoosanitario y su posicionamiento como zonas libres de enfermedades, lo que permite la comercialización y movilización hacia otros Estados o el extranjero; con base en el protocolo que para tal efecto emita la Agencia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 50
+
+Septies.- El Titular del Poder Ejecutivo, en el Presupuesto Anual de Egresos del Estado deberá destinar recursos suficientes para cubrir gastos de implementación, administración y operación del programa de control de movilización pecuaria y combate del delito de abigeato en el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 50
+
+Octies.- El transporte y movilización de animales por urgente y obvia necesidad derivada de una eventualidad o incidencia será considerada como movilidad ganadera emergente, por tal motivo se dispensará la Guía REEMO, siempre y cuando no sea con fines de comercialización y se realice en los casos y condiciones siguientes:
+
+Las movilizaciones de ganado de cualquier edad, cuando se realicen entre predios que pertenezcan a la misma Unidad de Producción Pecuaria (UPP) de un mismo propietario; que estén ubicados dentro del mismo municipio; permitiéndose un máximo de cuatro cabezas de ganado bovino en cualquier modalidad de transporte.
+
+El productor pecuario podrá movilizar el ganado bovino de su propiedad, sin necesidad de obtener el formato único de guía REEMO; siempre y cuando cumpla con los siguientes requisitos:
+
+I. Portar la Credencial Única Agroalimentaria vigente;
+
+II. Contar con al menos uno de los identificadores individuales SINIIGA (arete o botón);
+
+III. Presentar la relación o concentrado de identificadores oficiales de UPP de origen donde aparezca el identificador del animal o animales a movilizar, expedido por la ventanilla oficial de la autoridad competente, sellado y firmado en original;
+
+IV. Marcado permanente con la figura de herrar que ampare la propiedad cotejada con la Credencial Única Agroalimentaria vigente;
+
+V. Para animales con otras figuras de herrar deberá presentar la factura original o el documento de transmisión de propiedad;
+
+VI. En caso de no ser propietario del o los animales, presentar poder especial otorgado ante Notario Público conferido por el propietario.
+
 ###### Artículo 51.
 
 Cualquier persona que movilice animales de las especies domésticas productivas, sus productos y subproductos, con fines manifiestos de comercialización, sin ampararlos con las guías de tránsito, facturas o documentos de transmisión de propiedad y permisos respectivos, será sancionado de conformidad a lo que se establece esta ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 52.
 
-Todo animal, productos o subproductos que vengan de otra entidad federativa o del extranjero, deberá acompañarse con la documentación de origen que acredite la propiedad, de acuerdo a los requisitos que para acreditar ésta se establezca en el lugar de procedencia, así como la evidencia del cumplimiento con disposiciones zoosanitarias, de clasificación e información comercial establecidas por la autoridad en la materia.
+Todo animal, productos o subproductos que vengan de otra entidad federativa o del extranjero, deberá acompañarse con la documentación de origen que acredite la propiedad, de acuerdo a los requisitos que para acreditar ésta se establezca en el lugar de procedencia, así como la evidencia del cumplimiento con disposiciones zoosanitarias, de clasificación e información comercial establecidas por la autoridad en la materia, los bovinos, ovinos y caprinos deberán venir acompañados del permiso de internación con base en el protocolo que para tal efecto emita la Agencia.
 
 ###### Artículo 53.
 
@@ -873,9 +1073,17 @@ II. Cuando la movilización sea por arreo de animales, se tomarán las siguiente
 
 a) Separar inmediatamente los animales extraños, que se junten a la partida que conducen y dejarlos en los lugares en que se encontraban;
 
-b) Dejar cerradas las puertas de los potreros por donde atraviesa el ganado y reparar los daños que ocasionen los animales que conducen; y
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
 
-c) Prever la colocación de señalamientos de seguridad cuando crucen o circulen por vías de comunicación federales, estatales o municipales.
+b) Dejar cerradas las puertas de los potreros por donde atraviesa el ganado y reparar los daños que ocasionen los animales que conducen;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE ABRIL DE 2024)</small>
+
+c) Prever la colocación de señalamientos de seguridad cuando crucen o circulen por vías de comunicación federales, estatales o municipales; y
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+d) El contingente se podrá auxiliar de vehículos o remolques para traslado de animales bovinos imposibilitados para caminar durante el trayecto.
 
 ###### Artículo 54.
 
@@ -1045,9 +1253,11 @@ VIII. Las demás que, a juicio de la Secretaría, sean necesarias para el fortal
 
 ### CAPÍTULO III. Del Mejoramiento Genético
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 76.
 
-Se declara de utilidad pública el mejoramiento genético de las especies bovino, equino, caprino, ovino, porcino, aves, conejos, abejas y otras especies domésticas productivas no mencionadas pero no limitadas.
+Se declara de utilidad pública el mejoramiento genético de las especies bovino, caballar, caprino, ovino, porcino, aves, conejos, abejas y otras especies domésticas productivas no mencionadas, pero no limitadas.
 
 ###### Artículo 77.
 
@@ -1153,9 +1363,11 @@ IV. Transportar por los caminos del Estado semovientes destinados a la reproducc
 
 V. Comprar, vender, trasladar o realizar cualquier operación con animales o sus despojos cuando éste haya sido atacado por enfermedad infectocontagiosa o cualquier otro elemento dañino para la salud humana.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 88.
 
-La Secretaría, en coordinación con las organizaciones pecuarias y los organismos auxiliares de cooperación, promoverá la implementación de sistemas de desnaturalización y procesamiento de despojos de animales, productos y subproductos que representen un riesgo sanitario e implementará acciones para fomentar la sanidad e inocuidad de las especies domésticas productivas, apegándose a lo establecido por las normas mexicanas y normas oficiales mexicanas en esta materia.
+La Secretaría y la Agencia en coordinación con las organizaciones pecuarias y los organismos auxiliares de cooperación, promoverá la implementación de sistemas de desnaturalización y procesamiento de despojos de animales, productos y subproductos que representen un riesgo sanitario e implementará acciones para fomentar la sanidad e inocuidad de las especies domésticas productivas, apegándose a lo establecido por las normas mexicanas y normas oficiales mexicanas en esta materia.
 
 ###### Artículo 89.
 
@@ -1167,9 +1379,11 @@ Con el fin de atender de forma oportuna las emergencias zoosanitarias se promove
 
 Se declara obligatoria la aplicación de las medidas contempladas en las normas oficiales mexicanas, normas mexicanas y otras disposiciones que regulen la declaración de campañas zoosanitarias para el diagnóstico, control y erradicación de enfermedades y las relativas a la protección de la salud animal y pública.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 91.
 
-El Gobierno del Estado, a través de la Secretaría y en coordinación con la Secretaría Federal del ramo, implementará las estrategias que requieran las campañas zoosanitarias en el territorio del Estado, en caso de un diagnostico o bajo sospecha de la presencia de alguna enfermedad que ponga en riesgo la salud animal o pública, lo anterior en apoyo de la normatividad federal aplicable.
+El Gobierno del Estado, a través de la Secretaría y la Agencia en coordinación con la Secretaría Federal del ramo, implementará las estrategias que requieran las campañas zoosanitarias en el territorio del Estado, en caso de un diagnostico o bajo sospecha de la presencia de alguna enfermedad que ponga en riesgo la salud animal o pública, lo anterior en apoyo de la normatividad federal aplicable.
 
 ###### Artículo 92.
 
@@ -1325,7 +1539,9 @@ XII. Apoyar en el decomiso que considere necesario al médico veterinario zootec
 
 XIII. Establecer, en coordinación con el medico veterinario zootecnista responsable, el orden en la matanza, el programa de lavado, higienización, desinfectación, desinfestación, despoblación y mantenimiento de los corrales, instalaciones y equipo del rastro, conforme se señala en el reglamento de esta Ley, y de Sanidad Animal;
 
-XIV. Colaborar con las autoridades zoosanitarias federales y con los médicos veterinarios zootecnistas oficiales y aprobados en la toma de muestras biológicas de los animales sacrificados, proporcionándoles información acerca del origen de los mismos, a fin de integrar la estadística epizootiológica estatal;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XIV. Colaborar con las autoridades zoosanitarias estatales, federales y con los médicos veterinarios zootecnistas oficiales y aprobados en la toma de muestras biológicas de los animales sacrificados, proporcionándoles información acerca del origen de los mismos, a fin de integrar la estadística epizootiológica estatal;
 
 (F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -1405,9 +1621,11 @@ Las denuncias, serán presentadas ante el Órgano Interno de Control de la Secre
 
 ### CAPÍTULO II. De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 128.
 
-Las sanciones por las violaciones a esta ley, serán determinadas en base a la misma, por la Secretaría.
+Las sanciones por las violaciones a esta ley, serán determinadas en base a la misma, por la Secretaría y la Agencia, en sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
@@ -1425,9 +1643,9 @@ Se consideran sanciones pecuniarias:
 
 I. Al que no manifestare el ejercicio de la explotación pecuaria en los términos de la ley, se le impondrá multa equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-II. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
+II. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito, guía de movilización correspondientes a la especie u orden de sacrificio, se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1445,7 +1663,9 @@ V. A quien se le detenga con animales orejanos o mostrencos sin la autorización
 
 VI. Quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cinco a diez veces el valor diario de la Unidad de Medida y Actualización por cabeza de ganado bovino, de acuerdo con las equivalencias señaladas en el artículo 31 de la presente ley.
 
-En caso de movilización de ganado mayor sin la correspondiente tarjeta de tránsito pecuario individual o guía de tránsito respectiva, dicha multa será de diez a veinte veces el valor diario de la Unidad de Medida y Actualización por cabeza;
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+En caso de movilización de ganado mayor sin la correspondiente tarjeta de tránsito pecuario individual, guía de tránsito respectiva, o guías de movilización correspondientes a la especie, dicha multa será de diez a veinte veces el valor diario de la Unidad de Medida y Actualización por cabeza;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1467,19 +1687,35 @@ X. Al que llevare a cabo cualquier compra-venta con animales atacados por enferm
 
 XI. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XII. A los inspectores de ganadería al incurrir en otorgamiento ilícito de permisos de sacrificio para animales irregulares se les cesará definitivamente de sus funciones;
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XIII. A los expeditores que otorguen guías, facturas y demás documentos a que se refiere la presente ley y su reglamento, sin cumplir con los requisitos enunciados en la misma, serán suspendidos de sus funciones mientras tanto no sea comprobada la responsabilidad incurrida; y
+XII. A quien haga mal uso de los dispositivos de identificación oficial o deje los identificadores oficiales en las unidades pecuarias sin aplicar, así como aplicar o reutilizar los aretes que no correspondan al ganado, fierro y Unidad de Producción Pecuaria (UPP) asignados originalmente; se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2024)</small>
 
-XIV. Los casos no previstos en las fracciones anteriores serán sancionados con una multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización, tomando en consideración la falta en que se incurra.
+XIII. A los inspectores de ganadería al incurrir en otorgamiento ilícito de permisos de sacrificio para animales irregulares se les cesará definitivamente de sus funciones;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2024)</small>
+
+XIV. A los expeditores que otorguen guías, facturas y demás documentos a que se refiere la presente ley y su reglamento, sin cumplir con los requisitos enunciados en la misma, serán suspendidos de sus funciones mientras tanto no sea comprobada la responsabilidad incurrida; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2024)</small>
+
+XV. Los casos no previstos en las fracciones anteriores serán sancionados con una multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización, tomando en consideración la falta en que se incurra.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 Para los efectos de lo dispuesto en el presente artículo, por valor diario de la Unidad de Medida y Actualización, deberá entenderse la vigente al momento de cometerse la infracción.
 
 En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria será aumentada en un cien por ciento.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+###### Artículo 129
+
+Bis.- Las multas determinadas e impuestas por la Secretaría o la Agencia serán notificadas a la oficina fiscal correspondiente para su cobro y a la autoridad municipal para su conocimiento.
+
+La falta de pago de las multas impuestas dará lugar a la aplicación del procedimiento económico coactivo que establece el Código Fiscal del Estado de Jalisco.
 
 ###### Artículo 130.
 
@@ -1678,3 +1914,21 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27363/LXII/19 MEDIANTE EL CUAL SE MODIFICA LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29541/LXIII/24 QUE REFORMA EL ARTÍCULO 50, FRACCIÓN I DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para el debido cumplimiento del presente Decreto.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29527/LXIII/24 QUE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO SEGUNDO Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS Y FRACCIONES DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. - El Titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para el debido cumplimiento del presente Decreto.
+
+TERCERO. - La Secretaría de Agricultura y Desarrollo Rural, dentro de un plazo que no excederán de 60 días, contados a partir de la entrada en vigor de la presente reforma, realizara las adecuaciones administrativas y/o reglamentarias pertinentes a efecto de implementar la presente reforma.
