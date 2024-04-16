@@ -4,7 +4,7 @@ identifier: "HID-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8928
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-04-04"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -851,9 +851,11 @@ Las cuotas para gastos comunes que se generen a cargo de cada unidad de propieda
 
 Trae aparejada ejecución en la vía ejecutiva civil, el estado de liquidación de adeudos, intereses moratorios, pena convencional que se haya estipulado en asamblea o en el reglamento, si va suscrita por el administrador y el presidente del comité de vigilancia, acompañada de los correspondientes recibos de pago, así como de copia certificada por fedatario público o por el acta de asamblea general relativa o del reglamento en su caso en que se hayan determinado las cuotas a cargo de los condóminos para los fondos de mantenimiento y administración y de reserva. Esta acción sólo podrá ejercerse cuando existan dos cuotas ordinarias o una extraordinaria pendiente de pago.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 63.
 
-Cuando se celebre un contrato traslativo de dominio con relación a una unidad de propiedad exclusiva, el vendedor deberá entregar al comprador una constancia de no adeudo, entre otros, del pago de cuotas de mantenimiento y administración y el de reserva, así como de cuotas extraordinarias en su caso, expedida por el administrador del condominio.
+Cuando se celebre un contrato traslativo de dominio con relación a una unidad de propiedad exclusiva, la o el notario público que elabore la escritura respectiva deberá exigir a la parte vendedora una constancia de no adeudo, entre otros, del pago de cuotas de mantenimiento y administración y el de reserva, así como de cuotas extraordinarias en su caso, expedida y debidamente firmada por el administrador del condominio.
 
 ###### Artículo 64.
 
@@ -1086,5 +1088,11 @@ P.O. 19 DE ENERO DE 2024.
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 825 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 835 POR EL QUE SE REFORMA EL ARTÍCULO 63 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
