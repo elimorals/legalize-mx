@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-01-19"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -426,6 +426,10 @@ El Programa de Desarrollo Agrícola Sustentable, deberá contener:
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 I.- Los objetivos a corto, mediano y largo plazo de la política agrícola;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+I BIS.- El diagnóstico actualizado del sector agrícola local, así como la identificación clara y objetiva de las problemáticas a resolver;
 
 II.- Las metas específicas y reales de producción y comercialización, así como las de organización, capacitación y rescate de la cultura agrícola, entre otros;
 
@@ -1444,3 +1448,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 606 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO Y DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 831 POR EL QUE SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 15 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
