@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-04-04"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1559,9 +1559,17 @@ f).- Los proyectos de acuerdo para convenir con el Estado, el cobro de determina
 
 g).- Los proyectos de acuerdo para la Municipalización de servicios públicos, o para concesionarlos;
 
-h).- Las propuestas de modificación de categorías correspondientes a los poblados y localidades del Municipio; y
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
 
-i).- Las propuestas para el nombramiento de los titulares de las unidades técnicas de las dependencias de la Administración Pública Municipal.
+h).- Las propuestas de modificación de categorías correspondientes a los poblados y localidades del Municipio;
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+i).- Las propuestas para el nombramiento de los titulares de las unidades técnicas de las dependencias de la Administración Pública Municipal; y
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+j).- Establecer, en conjunto o coordinación con las autoridades estatales competentes, políticas públicas municipales enfocadas a promover la agrupación de pequeños productores agrícolas, con el objeto de potenciar la producción agrícola y generar condiciones que permitan comercializar su producción con mejores condiciones de precio de mercado.
 
 IV.- Solicitar al Presidente Municipal, información sobre los proyectos de desarrollo regional y metropolitano de las zonas conurbadas, convenidos con el Estado, o los que, a través de él, se convengan con la Federación y los que se realicen por coordinación o asociación con otros Municipios;
 
@@ -4590,5 +4598,11 @@ P.O. 4 DE ABRIL DE 2024.
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 824 POR EL QUE SE REFORMA LA FRACCIÓN X BIS DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 833 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS INCISOS DE LA FRACCIÓN III DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
