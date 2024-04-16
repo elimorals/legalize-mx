@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-04-04"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE EDUCACION DEL ESTADO HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.xxx
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -161,9 +163,13 @@ Las acciones que realicen tendrán como objetivos el desarrollo humano integral 
 
 La Secretaría y autoridades educativas municipales, en coordinación con la Secretaría de Salud, implementarán programas de capacitación dirigidos al personal docente, en materia de detección de situaciones o factores de riesgo relacionados con la salud mental de los educandos. Los docentes deben informar de inmediato a las autoridades correspondientes si detectan algún caso de riesgo.
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
 
-Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual y fomentar el uso de métodos anticonceptivos.
+Los planteles educativos del nivel básico y medio superior del Sistema Educativo Estatal, en coadyuvancia con la Secretaría y las autoridades educativas municipales, podrán crear áreas especializadas en atención psicológica con el objetivo de cuidar, atender y orientar a los educandos, a fin de permitirles el pleno desarrollo de su vida emocional, socioemocional e intelectual.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual y fomentar el uso de métodos anticonceptivos
 
 ###### Artículo 11.
 
@@ -263,13 +269,17 @@ IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar
 
 X. Propiciar el crecimiento y desarrollo en las regiones, municipios, comunidades, y en general del Estado de Hidalgo;
 
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XI. Fomentar la enseñanza y aprendizaje integral del idioma inglés, sin menoscabo de la enseñanza del español y de lenguas indígenas; y
+XI. Fomentar la enseñanza y aprendizaje integral del idioma inglés, sin menoscabo de la enseñanza del español y de lenguas indígenas;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo.
+XII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo, y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XIII. Desarrollar habilidades emocionales y socioemocionales que permitan al alumnado y al profesorado, adquirir conocimientos, prácticas y competencias emocionales que contribuyan a un desarrollo integral de la personalidad.
 
 ###### Artículo 15.
 
@@ -715,6 +725,10 @@ X. La apreciación y creación artística, a través de conocimientos conceptual
 
 XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base en una educación cívica, inclusiva e intercultural.
 
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+XIII (SIC). La educación emocional; la cual se entiende como el proceso educativo, continuo y permanente que pretende potenciar el desarrollo como complemento indispensable del crecimiento cognitivo, constituyendo ambos elementos esenciales del desarrollo de la personalidad.
+
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 61.
@@ -783,7 +797,9 @@ VI. El aprendizaje de las lenguas extranjeras;
 
 VII. El fomento de la activación física, la práctica del deporte y la educación física;
 
-VIII. La promoción de estilos y hábitos de vida saludables y la educación para la salud;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+VIII. La promoción de estilos y hábitos de vida saludables, la educación para la salud, así como la importancia de la cultura de donación de órganos, tejidos y sangre;
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad inclusiva, justa e igualitaria;
 
@@ -2266,5 +2282,17 @@ P.O. 18 DE AGOSTO DE 2023.
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 827 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 830 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 834 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
