@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2024-01-18"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -1691,9 +1691,11 @@ Las Instituciones de Seguridad Pública serán responsables de la administració
 
 Las instancias integrantes del Sistema serán responsables de integrar y actualizar el Sistema Único de Información Criminal, con la información que generen éstas y que coadyuven a salvaguardar la integridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social del sentenciado y del adolescente sujeto a medida de internamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2024)</small>
+
 ###### Artículo 107.
 
-Las instancias integrantes del Sistema, inscribirán y mantendrán actualizados permanentemente en el Registro Nacional de Personal de Seguridad Pública, los datos relativos a las personas integrantes de las Instituciones de Seguridad Pública en los términos de esta Ley.
+Las instancias integrantes del Sistema, inscribirán y mantendrán actualizados permanentemente en el Registro Nacional de Personal de Seguridad Pública, los datos relativos a las personas integrantes de las Instituciones de Seguridad Pública en los términos de esta Ley, incluyendo los autos de procesamiento, sentencias condenatorias o absolutorias, sanciones administrativas o resoluciones que modifiquen, confirmen o revoquen dichos actos, y que guarden relación con aquellas.
 
 Para efectos de esta Ley, se considerarán como personas integrantes de las Instituciones de Seguridad Pública, a quienes tengan un nombramiento o condición jurídica equivalente otorgado por autoridad competente.
 
@@ -2452,6 +2454,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al contenido del pres
 P.O. 18 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMA LAS FRACCIONES I Y IV DEL ARTÍCULO 22, Y ADICIONA LA FRACCIÓN V AL ARTÍCULO 22 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 107 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
