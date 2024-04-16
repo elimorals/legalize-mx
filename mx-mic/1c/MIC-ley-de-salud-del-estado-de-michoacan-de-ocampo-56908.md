@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2024-04-11"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -524,6 +524,10 @@ ARTÍCULO 15 BIS. Los usuarios tendrán derecho a acceder oportuna y libremente 
 De igual manera, tendrán derecho a recibir información y orientación suficiente, comprensible, veraz, oportuna, eficaz y apropiada a su edad, género e identidad cultural, respecto de su estado de salud, historial médico y sobre los riesgos y alternativas de los procedimientos, tratamientos y diagnósticos terapéuticos y quirúrgicos que se le indiquen o apliquen, la cual será confidencial y protegida.
 
 Tratándose de usuarios originarios de pueblos y comunidades indígenas y con discapacidad, estos tendrán derecho a contar con un intérprete o traductor que facilite la comunicación con el personal de salud, con el fin de dar una atención adecuada, pudiendo apoyarse para tal efecto en la Comisión Estatal para el Desarrollo de los Pueblos Indígenas y en la Secretaría de Educación, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
+
+A los usuarios adultos mayores y mujeres embarazadas, se les deberá dar acceso preferente en las ventanillas y consultorios para su atención médica y ministración de medicamentos.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -3258,6 +3262,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 613 POR EL QUE "SE REFORMA EL ARTÍCULO 121 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 614 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15 BIS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
