@@ -4,7 +4,7 @@ identifier: "HID-ley-que-crea-el-centro-estatal-de-trasplantes-de-organos-77397"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-22"
-last_updated: "2016-07-25"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de noviembre de 2010.
 
@@ -77,7 +77,9 @@ V.- CENATRA: Centro Nacional de Trasplantes;
 
 VI.- COMITÉ INTERNO DE TRASPLANTES: Grupo colegiado que cuenta con un alto nivel de conocimientos médicos académicos y profesionales, responsable de la toma de decisiones en todo lo concerniente a la asignación y distribución de órganos y tejidos en el hospital en cuestión;
 
-VII.- CONSENTIMIENTO PARA LA DONACIÓN DE ÓRGANOS: Manifestación escrita de la voluntad realizada en los términos que se prevén en la presente Ley y demás ordenamientos legales. De presentarse algún caso de oposición manifiesta entre los familiares del donante, igualmente se estará a lo previsto en esta Ley;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+
+VII.- CONSENTIMIENTO PARA LA DONACIÓN DE ÓRGANOS: Manifestación tácita o escrita de la voluntad realizada en los términos que se prevén en la presente Ley y demás ordenamientos legales. De presentarse algún caso de oposición manifiesta entre los familiares del donante, igualmente se estará a lo previsto en esta Ley;
 
 VIII.- COPRISEH: Comisión para la Protección contra Riesgos Sanitarios del Estado de Hidalgo;
 
@@ -602,3 +604,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se extingue el Organismo Descentralizado denominado Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 830 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
