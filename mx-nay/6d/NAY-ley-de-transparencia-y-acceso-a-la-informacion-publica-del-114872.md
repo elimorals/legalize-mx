@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2023-12-14"
+last_updated: "2024-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -1365,9 +1365,11 @@ La información que se publique, como resultado de las políticas de transparenc
 
 ### Capítulo II. Gobierno Abierto
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
+
 ###### Artículo 96.
 
-El Instituto, en el ámbito de sus atribuciones coadyuvará, con los sujetos obligados y representantes de la sociedad civil en la implementación de estrategias de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental.
+El Instituto, en el ámbito de sus atribuciones coadyuvará, con los sujetos obligados y representantes de la sociedad civil en la implementación de estrategias de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental, priorizando el uso de las tecnologías de la información y comunicación, así como de medios digitales.
 
 ### Capítulo III. Archivos Administrativos
 
@@ -1731,11 +1733,15 @@ Los integrantes del Comité de Transparencia no podrán depender jerárquicament
 
 Los integrantes del Comité de Transparencia tendrán acceso a la información para determinar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)</small>
+
 ###### Artículo 122.
 
-El titular de la Unidad de Transparencia deberá remitir bimestralmente por escrito ante el Instituto, dentro de los primeros diez días posteriores al vencimiento, informe que contenga los datos de transparencia y acceso a la información que el Instituto requiera.
+El titular de la Unidad de Transparencia deberá remitir bimestralmente por escrito o por medios digitales ante el Instituto, dentro de los primeros diez días posteriores al vencimiento, un informe que contenga los datos de transparencia y acceso a la información que el Instituto requiera.
 
-Los Comités de Transparencia remitirán al Instituto por escrito dentro de los primeros veinte días de cada año, la información que posean relativa a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE ABRIL DE 2024)</small>
+
+Los Comités de Transparencia remitirán al Instituto por escrito o por medios digitales dentro de los primeros veinte días de cada año, la información que posean relativa a:
 
 1. El número y tipo de solicitudes de información presentadas y sus resultados, incluidas aquéllas en las que no fue posible localizar la información en los archivos;
 
@@ -2672,3 +2678,13 @@ P.O. 14 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LOS ARTÍCULOS 96 Y 122 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT, EN MATERIA DE USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y MEDIOS DIGITALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para sus efectos conducentes, comuníquese el presente Decreto al Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, así como para que, a través de este, se informe a los Sujetos Obligados en materia de transparencia de la entidad.
+
+TERCERO. Se establece un lapso máximo de ciento ochenta días naturales a partir de la fecha de entrada en vigor del presente Decreto, para que el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit implemente de ser el caso, las medidas técnicas y operativas a fin de que los Sujetos Obligados en materia de transparencia de la entidad, estén en condiciones de realizar la entrega de informes de manera digital.
