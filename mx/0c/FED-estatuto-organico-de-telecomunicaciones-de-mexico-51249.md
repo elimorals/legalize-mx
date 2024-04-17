@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-51249"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-14"
-last_updated: "2018-02-14"
+last_updated: "2024-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2006-07-06"
 ---
 # ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EN EL D.O.F. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EN EL D.O.F. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; REPUBLICADO POR EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR, EN EL D.O.F. DE 17 DE ABRIL DE 2024.]</small>
 
 ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -1034,3 +1034,33 @@ II. El Titular de la anterior Dirección de Operaciones Telegráficas realizará
 III. El Titular de la anterior Dirección Técnica de Telecomunicaciones y Mexsat realizará las funciones que le competen a la Dirección de la Red de Telecomunicaciones y Mexsat, asimismo, para realizar las funciones de comercialización, tendrá a su cargo a la Subdirección Comercial de Telecomunicaciones y a la Gerencia de Administración de Ventas de Servicios de Telecomunicaciones.
 
 QUINTO.- El Organismo formalizará los nombramientos de los Titulares de las Unidades Administrativas ante la Junta Directiva y gestionará ante las Secretarías de Hacienda y Crédito Público y de la Función Pública, las modificaciones en la Estructura Orgánica que correspondan, en términos de la normatividad aplicable.
+
+D.O.F. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Telecomunicaciones de México publicado en el Diario Oficial de la Federación el 14 de agosto de 2006 y, sus reformas publicadas en el mismo medio oficial del 12 de noviembre de 2008, 8 de abril de 2010, 9 de diciembre de 2011, 20 de mayo de 2014, 14 de febrero de 2018 y 29 de marzo de 2023.
+
+TERCERO.- A partir de la entrada en vigor de este Estatuto Orgánico, las Unidades Administrativas asumirán el ejercicio de las facultades, atribuciones y funciones que les correspondan, conforme a lo establecido en la normatividad vigente.
+
+CUARTO.- Hasta en tanto se autorice la Estructura Orgánica de Financiera para el Bienestar, las direcciones que a continuación se enlistan operarán conforme lo siguiente:
+
+I. Las funciones, facultades, atribuciones y menciones, establecidas en el presente Estatuto Orgánico para la Dirección Ejecutiva de Administración, serán realizadas por la Dirección de Administración, que se encuentra autorizada en la Estructura Orgánica vigente, quien se auxiliará en el ámbito de sus competencias de la Dirección de Recursos Humanos, así como el personal que las conforman;
+
+II. Las funciones, facultades, atribuciones y menciones, establecidas en el presente Estatuto Orgánico para la Dirección Ejecutiva de Operación, serán realizadas por la Dirección de la Red de Sucursales, que se encuentra autorizada en la Estructura Orgánica vigente;
+
+III. Las funciones, facultades, atribuciones y menciones, establecidas en el presente Estatuto Orgánico para la Dirección de Financiamiento y de Planeación, serán realizadas por la Dirección de Planeación, Evaluación e Información Institucional, que se encuentra autorizada en la Estructura Orgánica vigente, y
+
+IV. Las funciones, facultades, atribuciones y menciones, establecidas en el presente Estatuto Orgánico para la Dirección de Cumplimiento e Inteligencia, serán realizadas por la Dirección de la Unidad de Estrategia e Inteligencia, que se encuentra autorizada en la Estructura Orgánica vigente.
+
+El Organismo propondrá los nombramientos de los titulares de las Unidades Administrativas que así corresponda, ante la Junta Directiva. Y gestionará ante la Secretaría de Hacienda y Crédito Público y Secretaría de la Función Pública, la aprobación y registro de la Estructura Orgánica, en términos de la normatividad aplicable.
+
+Las funciones que se establecen en los manuales y hagan referencia a Unidades Administrativas que se modifican o desaparecen, se entenderán hechas a las áreas señaladas en el presente Transitorio.
+
+A partir de la entrada en vigor de este Estatuto Orgánico, las Unidades Administrativas que transfieren funciones a otra u otras, deberán entregar un informe pormenorizado del estado que guardan las mismas, en su caso, mediante acta circunstanciada; incluyendo los recursos humanos, materiales, tecnológicos, financieros y de transparencia vinculados al cumplimiento de estas, con el objeto de que los asuntos pendientes de iniciar o en trámite continúen hasta su conclusión, debiendo observar las disposiciones en materia de rendición de cuentas que resulten aplicables.
+
+QUINTO.- El Organismo emitirá el Manual de Organización Institucional en un plazo no mayor a 100 días hábiles posteriores a la aprobación y registro de la Estructura Orgánica.
+
+SEXTO.- La persona Titular de la Dirección General designará a la persona servidora pública que consolidará y realizará el Acta Entrega Recepción de la Dirección de la Red Troncal a la Dirección de la Red de Telecomunicaciones y Mexsat.
