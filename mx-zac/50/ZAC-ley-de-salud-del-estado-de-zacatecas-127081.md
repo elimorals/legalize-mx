@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2023-09-30"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -690,6 +690,16 @@ Para los efectos de la eficaz prestación del servicio social de pasantes de las
 La prestación del servicio social de los pasantes, se llevará a cabo mediante su participación en las unidades aplicativas del primer nivel de atención prioritaria en áreas urbanas y rurales de menor desarrollo económico y social del Estado o en las unidades aplicativas de segundo nivel de atención que cumplan con los estándares e indicadores correspondientes.
 
 Para los efectos del párrafo anterior, la Secretaría de Salud definirá los mecanismos para que los pasantes participen en la organización y operación de los comités de salud.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 52 BIS. Los profesionales, técnicos, auxiliares y prestadores de servicio social que forman parte del Sistema Estatal de Salud, podrán hacer valer la objeción de conciencia, con la obligación de referir de inmediato y por escrito al paciente con un médico no objetor e informará de ello a su superior inmediato.
+
+Cuando la negativa del objetor de conciencia implique poner en riesgo la salud o vida del paciente, sin que éste pueda ser derivado a otros integrantes del Sistema Estatal de Salud que lo atiendan debidamente, el objetor no podrá hacer valer su derecho y deberá aplicar las medidas médicas necesarias para proteger y garantizar la salud del paciente; en caso de no hacerlo, incurrirá en causal de responsabilidad profesional.
+
+En la prestación de los servicios de salud queda prohibida toda forma de discriminación.
+
+El Sistema Estatal de Salud deberá garantizar la permanente disponibilidad y oportuna prestación de los servicios del personal de salud no objetor de conciencia.
 
 ### CAPÍTULO I. La Investigación para la Salud
 
@@ -2588,3 +2598,13 @@ Artículo primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo segundo. En el ejercicio fiscal que corresponda, deberán autorizarse las asignaciones presupuestales para los efectos del presente Decreto.
 
 Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 447.- SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO. La Secretaría de Salud deberá modificar su normatividad interna en los términos del presente decreto, en un plazo que no deberá exceder de 60 días naturales contados a partir de su entrada en vigor.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
