@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2024-03-12"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ABRIL DE 2024.]</small>
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3831,11 +3831,11 @@ XIV. La situación de vulnerabilidad en la que se encontraba la víctima al mome
 
 XV. El delito sea cometido en contra de una mujer trans o de una persona cuya expresión de género se encuentre dentro del espectro del género femenino.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022) (F. DE E., P.O. 17 DE ABRIL DE 2024)
 
 Quien intente dolosamente privar de la vida a una mujer por las razones de género establecidas en este artículo y no lo lograse por cualquier circunstancia, se le considerará como tentativa de feminicidio.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 17 DE ABRIL DE 2024)
 
 En caso que no se acredite el feminicidio se aplicarán las reglas del homicidio.
 
