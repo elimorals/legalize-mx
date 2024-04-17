@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2023-03-28"
+last_updated: "2024-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -100,6 +100,10 @@ VI. Estado de Indefensión: La imposibilidad aprendida o adquirida de defensa de
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 VII. Empoderamiento: Es un proceso por medio del cual, las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado de conciencia, igualdad, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos humanos y libertades;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+VII Bis. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -425,9 +429,17 @@ La violencia política contra las mujeres en razón de género se sancionará en
 
 La violencia en la comunidad es toda acción u omisión que se realiza de manera colectiva o individual por actores sociales o comunitarios que genera degradación, discriminación, marginación, o exclusión en la esfera pública, limitando consecuentemente la autonomía física o sexual de las mujeres favoreciendo su estado de riesgo e indefensión.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2024)</small>
+
+###### Artículo 20 Bis.
+
+Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)</small>
+
 ###### Artículo 21.
 
-El Estado y los Municipios, para la eliminación de la violencia de género realizarán las siguientes acciones;
+El Estado y los Municipios, para la eliminación de la violencia de género realizarán las siguientes acciones:
 
 I. La percepción individual y como grupo de las mujeres del posible estado de riesgo en que se encuentran;
 
@@ -439,9 +451,17 @@ IV. El registro de las órdenes de protección que se emitan por las autoridades
 
 V. La medida razonable de seguridad a las mujeres, en materia de seguridad pública.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE ABRIL DE 2024)</small>
+
 Se entenderá por medida razonable de seguridad, la que se toma, cuando se tengan registrados dos o más eventos delictivos de la misma especie en un lapso no mayor a dos meses, respecto de una mujer en particular, comunidad o zona específica;
 
-VI. El adiestramiento para el debido manejo de evidencias de violencia familiar, tanto para los servidores públicos como para quien vive cualquiera de los tipos de victimización señalados.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+VI. El adiestramiento para el debido manejo de evidencias de violencia familiar, tanto para los servidores públicos como para quien vive cualquiera de los tipos de victimización señalados, y
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+VII. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 2021)</small>
 
@@ -517,7 +537,9 @@ I. Violencia psicológica.- La acción u omisión de negligencia, abandono, inti
 
 II. Violencia física.- El acto intencional para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener el sometimiento y control;
 
-III. Violencia sexual.- La Acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño y limita el ejercicio de la sexualidad;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+III. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -767,7 +789,9 @@ Por Alerta de Género se entiende al conjunto de acciones gubernamentales de eme
 
 Con motivo de la emisión de la alerta de género, sobre una zona o Municipio determinado, el Sistema Estatal, al ser notificado tomará las siguientes medidas:
 
-I.- Valorará su procedencia y aceptará o rechazará la misma;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+I.- Valorará su procedencia y aceptará o rechazará la misma, siendo rechazada siempre y cuando sea notoriamente improcedente;
 
 II.- Se conformará un grupo de trabajo estratégico para analizar y determinar las acciones procedentes para la alerta de género, y
 
@@ -799,11 +823,15 @@ I. Los delitos del orden común contra la vida, la libertad, la integridad y la 
 
 II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y
 
-III. Los organismos de derechos humanos a nivel nacional, estatal, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+III. Los organismos de derechos humanos a nivel nacional, estatal, municipal, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
 
 ###### Artículo 40.
 
-Para los efectos anticipados de cualquier agravio comparado, la Secretaría General de Gobierno conformará, integrará y presidirá la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencia de Género, conjuntamente con el Instituto para la Mujer Nayarita, la Comisión de Equidad, Género y Familia, y de Justicia y Derechos Humanos del Congreso del Estado, con el objeto de revisar semestralmente los avances legislativos y judicial en el país en la materia, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado.
+Para los efectos anticipados de cualquier agravio comparado, la Secretaría General de Gobierno conformará, integrará y presidirá la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencia de Género, conjuntamente con el Instituto para la Mujer Nayarita, las Comisiones de Equidad, Genero y Familia, y de Justicia y Derechos Humanos del Congreso del Estado y del Tribunal Superior de Justicia del Estado, con el objeto de revisar semestralmente los avances legislativos y judicial en el país en la materia, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado.
 
 ###### Artículo 41.
 
@@ -833,9 +861,11 @@ Las órdenes de protección, emergentes y preventivas que consagra la Ley Genera
 
 La negativa a acordar el otorgamiento o no de las medidas emergentes o preventivas de protección, será considerada violencia institucional en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
+
 ###### Artículo 45.
 
-La aplicación de las órdenes de protección que para tales efectos emita el juez competente, deberán expedirse de conformidad a lo dispuesto por el Código de Procedimientos Civiles, contando para su ejecución con el auxilio de la policía estatal investigadora y policía municipal, conforme lo determine el reglamento de la presente Ley.
+La aplicación de las órdenes de protección que para tales efectos emita el juez competente, deberán expedirse de manera inmediata y de conformidad a lo dispuesto por la legislación en materia procesal civil aplicable, contando para su ejecución con el auxilio de la policía estatal y policía municipal, conforme lo determine el reglamento de la presente Ley.
 
 ###### Artículo 46.
 
@@ -851,9 +881,11 @@ La intervención de la policía estatal y municipal en materia de violencia de g
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)</small>
+
 ###### Artículo 48.
 
-El Sistema Estatal es el conjunto de Dependencias y Entidades de la Administración Pública Estatal en interacción y vinculación permanente entre sí, y con las Dependencias Municipales para el desarrollo de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+El Sistema Estatal es el conjunto de Dependencias y Entidades de la Administración Pública Estatal y del Poder Judicial en interacción y vinculación permanente entre sí, con las Dependencias Municipales, con Organismos Autónomos competentes en la materia y entes públicos federales para el desarrollo de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 El Sistema Estatal, tendrá por objeto la instrumentación de una coordinación única cuyo mecanismo facilite la articulación de los ejes de acción y sus principios rectores, sus instrumentos, servicios y políticas públicas, de conformidad con el programa estatal, que para tal efecto se apruebe.
 
@@ -897,21 +929,21 @@ V.- El Instituto para la Mujer Nayarita;
 
 VI.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-VII.- La Dirección General de Seguridad Pública;
+VII.- La Secretaría de Seguridad y Protección Ciudadana, a través de la Dirección General de la Policía Estatal;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
 VIII.- Los Ayuntamientos;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-IX.- La Delegación del estado de Nayarit de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+IX. La Oficina de Representación en el Estado de Nayarit del Instituto Nacional de los Pueblos Indígenas;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-X.- Los mecanismos para el adelanto de las mujeres en el estado de Nayarit, y
+X. Los Mecanismos para el Adelanto de la Mujer en el Estado de Nayarit, y
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
 
@@ -1337,9 +1369,17 @@ VI. Promover en coordinación con el Estado, cursos anuales de capacitación a s
 
 VII. Celebrar convenios con el Gobierno del Estado para la creación, operación y/o el fortalecimiento de refugios para las víctimas de acuerdo con las condiciones establecidas en la Ley General y en la presente Ley;
 
-VIII. Celebrar convenios de cooperación, coordinación, concertación y adherirse a protocolos y acuerdos sobre discriminación y violencia de género; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-IX. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales.
+VIII. Celebrar convenios de cooperación, coordinación, concertación y adherirse a protocolos y acuerdos sobre discriminación y violencia de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2024)</small>
+
+IX. Promover espacios y transportes públicos, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ABRIL DE 2024)</small>
+
+X. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales.
 
 ## TRANSITORIOS
 
@@ -1440,3 +1480,11 @@ P.O. 28 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POR EXTENSIÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE ALERTA DE VIOLENCIA DE GÉNERO, ÓRDENES DE PROTECCIÓN Y ACOSO SEXUAL EN ESPACIOS PÚBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con la disponibilidad presupuestal del Estado y sus municipios para el presente ejercicio fiscal y subsecuentes.
