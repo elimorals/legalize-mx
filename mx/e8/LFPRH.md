@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2023-11-13"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -646,6 +646,12 @@ IV. El monto de recursos que, conforme a esta Ley, su Reglamento, las respectiva
 
 V. Los recursos de los Fondos, en tanto no sean utilizados, deberán permanecer depositados en cuentas y, en su caso, subcuentas establecidas por la institución fiduciaria, de acuerdo con las instrucciones que para tal efecto realice la Secretaría y lo estipulado en el fideicomiso, según corresponda;
 
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+V Bis. Tratándose del Fondo de Estabilización de los Ingresos Presupuestarios, la Secretaría podrá realizar aportaciones adicionales de activos financieros o títulos de crédito, del Gobierno Federal, siempre y cuando se cumpla con lo señalado en el artículo 17 de esta Ley.
+
+Para efectos de lo dispuesto en el párrafo anterior, y en términos de las disposiciones jurídicas aplicables, los recursos de los Fondos establecidos para la administración, manejo y uso de las aportaciones de seguridad social de las y los trabajadores, no serán considerados activos financieros del Gobierno Federal;
+
 VI. La política de inversión de los recursos que integran los fondos y, en su caso, los medios para la protección de los mismos, incluyendo la adquisición de coberturas, deberán determinarse por la Secretaría, de acuerdo con las reglas de operación correspondientes;
 
 VII. La Secretaría, conforme a las disposiciones aplicables, reportará al Congreso de la Unión acerca de los ingresos, egresos y reservas de los fondos, en los Informes Trimestrales, y
@@ -687,6 +693,10 @@ La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizado
 La Secretaría reportará en los informes trimestrales a la Cámara de Diputados los saldos en líneas globales por dependencia o entidad, por unidad responsable y por programa, para evitar acumulación de saldos o subejercicios presupuestarios.
 
 Los subejercicios de los presupuestos de las dependencias y entidades que resulten, deberán subsanarse en un plazo máximo de 90 días naturales. En caso contrario dichos recursos se reasignarán a los programas sociales y de inversión en infraestructura que la Cámara de Diputados haya previsto en el Presupuesto de Egresos. La Secretaría estará obligada a reportar al respecto oportunamente a la Cámara, así como hacerle llegar la información necesaria.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+En caso de que durante el ejercicio fiscal correspondiente se presente un ahorro o economías presupuestarias en el costo financiero de la deuda del Gobierno Federal, se podrán efectuar las adecuaciones presupuestarias correspondientes para destinar dicho ahorro o economías al Fondo de Estabilización de los Ingresos Presupuestarios, conforme lo determine la Secretaría.
 
 ## TÍTULO SEGUNDO. De la Programación, Presupuestación y Aprobación
 
@@ -2839,3 +2849,13 @@ D.O.F. 13 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, CON EL FIN DE INCLUIR EL ANEXO TRANSVERSAL ANTICORRUPCIÓN”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria de conformidad con lo previsto en este Decreto, dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Tercero.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, deberá realizar las modificaciones necesarias a las reglas de operación del Fondo de Estabilización de los Ingresos Presupuestarios y al contrato de Fideicomiso constituido para la administración de los recursos aportados a dicho Fondo, dentro de los 90 días naturales posteriores a la entrada en vigor de las reformas al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria a que se refiere el Transitorio Segundo del presente Decreto.
