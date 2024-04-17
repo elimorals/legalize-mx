@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2024-03-27"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -138,37 +138,45 @@ XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el recono
 
 XVI. Informe de Adoptabilidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XVII. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-XVIII. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
+XVII. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
 
-XIX. Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-XX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XVIII. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: Implica que en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
 
-XXI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+XIX. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
 
-XXII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XX. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
 
-XXIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXI. Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
 
-XXIV. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-XXV. Sistemas de las Entidades: Los Sistemas para el Desarrollo Integral de la Familia de cada entidad federativa;
+XXIII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXVI. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
+XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVII. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
+XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+XXVII. Sistemas de las Entidades: Los Sistemas para el Desarrollo Integral de la Familia de cada entidad federativa;
+
+XXVIII. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
+
+XXIX. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-XXVIII. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
+XXX. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
 
-XXIX. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
-XXXI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
@@ -210,13 +218,21 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-XIV. La accesibilidad, y
+XIV. La accesibilidad;
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-XV. El derecho al adecuado desarrollo evolutivo de la personalidad.
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+XVII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 ###### Artículo 7.
 
@@ -2775,5 +2791,11 @@ Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 D.O.F. 27 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 57 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; Y LA FRACCIÓN III DEL ARTÍCULO 266 BIS DEL CÓDIGO PENAL FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 4 Y 6 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
