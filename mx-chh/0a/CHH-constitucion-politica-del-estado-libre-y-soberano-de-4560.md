@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2024-02-17"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2219,9 +2219,9 @@ Las personas titulares de las magistraturas, de las consejerías de la Judicatur
 
 El personal del Poder Judicial que se encuentre en funciones o disfrutando de licencia con goce de sueldo, no podrá desempeñar otro cargo, empleo o comisión, que fuere retribuido, salvo los de docencia y fuera del horario del despacho de los asuntos del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
 
-Las personas titulares de las magistraturas y de las consejerías de la Judicatura, designadas por el Tribunal Superior de Justicia, no podrán, durante el tiempo que gocen de un haber de retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+Las personas titulares de las magistraturas y de las consejerías de la Judicatura, designadas por el Tribunal Superior de Justicia, no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, durante dos años después de haber concluido su encargo. Transcurrido ese lapso, tampoco podrán hacerlo en aquellos asuntos que hubieren conocido con motivo de dicho cargo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
@@ -2233,11 +2233,11 @@ En la integración del Tribunal Superior de Justicia, del Consejo de la Judicatu
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
 
 ###### Art. 100.
 
-El Tribunal Superior de Justicia funciona en Pleno o en Salas, el cual se integrará con un mínimo de quince Magistradas y Magistrados, y se deberá garantizar la paridad de género. Su integración podrá aumentar o disminuir, mediante acuerdo del Consejo de la Judicatura por mayoría de sus integrantes, cuando un estudio objetivo, motive y justifique las necesidades del trabajo jurisdiccional y las condiciones presupuestales del Estado lo permitan.
+El Tribunal Superior de Justicia funciona en Pleno o en Salas, el cual se integrará con un mínimo de quince Magistradas y Magistrados, y se deberá garantizar la paridad de género. Su integración podrá aumentar o disminuir, mediante acuerdo aprobado por la mayoría de las y los integrantes presentes del Pleno del Tribunal Superior, previo estudio objetivo emitido por el Consejo de la Judicatura, que motive y justifique las necesidades del trabajo jurisdiccional y las condiciones presupuestales del Estado lo permitan.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2245,51 +2245,35 @@ El Tribunal Superior de Justicia funciona en Pleno o en Salas, el cual se integr
 
 El procedimiento para nombrar Magistradas y Magistrados se llevará en la forma y términos que señale la Ley Orgánica del Poder Judicial, conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-I. En casos de faltas definitivas de Magistradas y Magistrados o la creación de otras Salas, el Pleno del Consejo de la Judicatura convocará a la Comisión Especial para seleccionar a quienes deban cubrir las plazas vacantes o las creadas.
+I. En casos de faltas definitivas de Magistradas y Magistrados o la creación de otras Salas, el Pleno del Consejo de la Judicatura emitirá convocatoria pública para el concurso de oposición, en el que puedan participar, tanto personas que presten sus servicios en el Poder Judicial, como personas externas al mismo, bajo el principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-La Comisión Especial se integrará por una persona representante del Poder Legislativo, la cual será una Diputada o Diputado, cuya designación se efectuará por el Pleno del Congreso; una persona representante del Poder Judicial, la cual será una Magistrada o Magistrado, cuya designación se hará por el Pleno del Tribunal Superior de Justicia del Estado, y una persona representante del Poder Ejecutivo, designada por quien sea titular del mismo.
+II. El Consejo de la Judicatura analizará la idoneidad de los perfiles de las personas aspirantes mediante las evaluaciones que determine, bajo los principios de excelencia, transparencia, objetividad, exhaustividad, independencia, imparcialidad y profesionalismo, y designará a las personas o instituciones que elaboren y apliquen el examen o los exámenes que determinen.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-II. La Comisión Especial enviará al Congreso del Estado una terna de personas aspirantes, quienes deberán cumplir con los requisitos establecidos en el artículo 104 de esta Constitución.
+III. Concluidas las evaluaciones, el Consejo de la Judicatura, en un plazo no mayor a quince días hábiles, enviará a quien ocupe la titularidad del Poder Ejecutivo Estatal una lista de cinco personas por cada Sala o vacancia.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
+En la conformación de la lista, el Consejo de la Judicatura velará por el cumplimiento de los requisitos y principios establecidos en esta Constitución, así como la paridad de género, prefiriendo a aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas del ejercicio de la profesión jurídica.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-III. La Comisión Especial integrará una terna para ocupar las vacantes, en un caso, únicamente con personas que presten sus servicios en el Poder Judicial y, en otro, solo con personas externas a dicho Poder, de manera alternada.
+IV. Quien ocupe la titularidad del Poder Ejecutivo Estatal, una vez recibida las listas a que se refiere la fracción anterior, integrará una terna por cada Sala o vacancia y la enviará al Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. CON SUS PÁRRAFOS], P.O. 17 DE ABRIL DE 2024)</small>
 
-La terna conformada con personas que presten sus servicios en el Poder Judicial, será compuesta por aquellas que sean merecedoras por su eficiencia y probidad en la administración de justicia.
-
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
-
-La terna conformada por personas externas al Poder Judicial, será compuesta por aquellas que sean merecedoras por su honorabilidad, competencia y antecedentes en la profesión jurídica.
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
-
-IV. La Comisión Especial, en el proceso de selección de ternas de personas aspirantes, se regirá por los principios de excelencia, transparencia, objetividad, exhaustividad, imparcialidad, profesionalismo, independencia y paridad de género respecto de la materia de la magistratura que eligen y en otras relacionadas con aquella.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2022)</small>
-
-V. Previa comparecencia pública de las personas integrantes de la terna ante la Junta de Coordinación Política, el Pleno del Congreso del Estado nombrará a quien deba ocupar la Magistratura, por el voto de las dos terceras partes de sus integrantes presentes en la sesión respectiva, dentro de un plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta y se deberá aplicar el principio de paridad de género.
-
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+V. Previa comparecencia pública, ante la Junta de Coordinación Política, de las personas integrantes de la terna, el Pleno del Congreso del Estado nombrará a quien deba ocupar la Magistratura, por el voto de las dos terceras partes de sus integrantes presentes en la sesión respectiva, dentro de un plazo improrrogable de treinta días hábiles a partir de la presentación de la propuesta, y se deberá aplicar el principio de paridad de género.
 
 Durante la comparecencia se deberá garantizar la transparencia, objetividad, publicidad y acceso a los perfiles de las personas aspirantes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO ANTES PÁRRAFO SEGUNDO DE ESTA FRACCIÓN, P.O. 1 DE JUNIO DE 2022)</small>
+Cuando el Pleno del Congreso del Estado rechace la totalidad de la terna propuesta, quien ocupe la titularidad del Poder Ejecutivo Estatal presentará una nueva terna, conformada con personas distintas a la anterior, en un plazo de quince días hábiles, reiniciándose el plazo para que el Congreso haga el nombramiento.
 
-Cuando el Pleno del Congreso rechace la totalidad de la terna propuesta, la Comisión Especial presentará una nueva terna, conformada con personas distintas a la anterior.
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V, P.O. 17 DE ABRIL DE 2024 ]</small>
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
-
-Si en la insaculación de la nueva terna no se alcanza la votación requerida para nombrar a quien debiera ocupar la magistratura, se hará una nueva votación, y será designada en la magistratura la persona que haya obtenido mayor número de votos.
+Si con la integración de la nueva terna no se alcanza la votación requerida para nombrar a quien debiera ocupar la Magistratura, se hará una nueva votación, y será designada en la Magistratura la persona que haya obtenido mayor número de votos.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2297,11 +2281,11 @@ Si en la insaculación de la nueva terna no se alcanza la votación requerida pa
 
 El nombramiento de Magistrada o Magistrado no podrá recaer en persona que tenga la calidad de cónyuge, parentesco por consanguinidad en línea recta, colateral dentro del cuarto grado, y segundo por afinidad en ambas líneas, de otra que desempeñe dicho cargo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
 
 ###### Art. 103.
 
-Las y los Magistrados del Tribunal Superior de Justicia serán nombrados para un único periodo de quince años, durante el cual serán inamovibles. Sin embargo, concluirán su encargo y cesarán sus funciones, las y los Magistrados que satisfagan los requisitos que exigen las leyes atinentes para gozar de la jubilación y además hayan desempeñado el cargo de magistratura cuando menos por un periodo de cinco años.
+Las y los Magistrados del Tribunal Superior de Justicia serán nombrados para un único periodo de quince años, durante el cual serán inamovibles. Sin embargo, podrán concluir su encargo, las y los Magistrados que satisfagan los requisitos que exigen las leyes atinentes para gozar de la jubilación y además hayan desempeñado el cargo de magistratura cuando menos por un periodo de cinco años, caso en que recibirán las percepciones que señalen dichas leyes.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2323,9 +2307,9 @@ VI.- No ser Ministra o Ministro de algún culto religioso.
 
 VII.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en el servicio del Estado o de la República, por un tiempo menor de seis meses.
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-VIII. No estar inscritas o inscritos en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
+VIII.- No estar inscrita o inscrito en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua, de conformidad con la legislación aplicable.
 
 Los nombramientos de las y los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
@@ -2347,7 +2331,9 @@ IV.- Nombrar a su Presidente de entre sus integrantes, mediante el voto de las d
 
 La persona que presida el Tribunal Superior de Justicia deberá contar, al día de la elección, con una antigüedad mínima de siete años en el ejercicio de la magistratura. Durará tres años y podrá ser reelecta, por única ocasión, para el período inmediato siguiente y solo podrá ser removida mediante la misma votación requerida para su nombramiento.
 
-La o el designado rendirá informe, en el mes de agosto, de la situación que guarda la administración de justicia.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
+
+La o el designado rendirá informe, en el mes de febrero, de la situación que guarda la administración de justicia.
 
 V.- Expedir los reglamentos que señale su Ley Orgánica y no sean competencia del Consejo de la Judicatura.
 
@@ -2363,7 +2349,17 @@ X.- Proponer al Congreso del Estado la creación de organismos descentralizados 
 
 XI.- Conocer sobre las violaciones a los derechos de las y los gobernados en los términos del artículo 200 de esta Constitución.
 
-XII.- Ejercer las demás atribuciones que le señalan las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2024)</small>
+
+XII.- Crear las Salas del Tribunal, así como establecer su competencia y residencia cuando un estudio objetivo del Consejo de la Judicatura, motive y justifique las necesidades del trabajo jurisdiccional y las condiciones presupuestales del Estado lo permitan; previa la realización del mismo tipo de estudio por el Consejo de la Judicatura, tratándose de una Sala vacante, suprimirla. Además, cambiar la adscripción de magistradas y magistrados.
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+XIII.- Aprobar el proyecto de Presupuesto de Egresos del Poder Judicial, a partir de los anteproyectos que elaboren, la Presidencia, por lo que hace al Tribunal Superior, y por el Consejo de la Judicatura, por el resto del Poder Judicial; el cual deberá ser enviado al Poder Ejecutivo, en términos de la Ley atinente, que no podrá ser inferior al aprobado en el ejercicio fiscal anterior, ni menor al dos por ciento del Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ABRIL DE 2024)</small>
+
+XIV.- Ejercer las demás atribuciones que le señalan las leyes.
 
 Art. 105 bis.- (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
@@ -2387,9 +2383,9 @@ Es facultad exclusiva del Consejo de la Judicatura evaluar el desempeño de las 
 
 El Consejo en Pleno estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal Superior de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2024)</small>
 
-Las resoluciones del Consejo de la Judicatura serán recurribles ante el Pleno del Tribunal Superior de Justicia, en los términos de la Ley Orgánica del Poder Judicial del Estado. En contra de dichas decisiones del Pleno no cabrá recurso alguno.
+Las resoluciones del Consejo de la Judicatura serán recurribles ante el Pleno del Tribunal Superior de Justicia, en los términos de la Ley Orgánica del Poder Judicial del Estado, con excepción de las relativas a rescisión o terminación de una relación laboral o que deriven de un conflicto de esa naturaleza. En contra de dichas decisiones del Pleno no cabrá recurso alguno.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
@@ -2421,15 +2417,19 @@ Las personas integrantes del Consejo ejercerán su función con independencia e 
 
 Asimismo, las y los cónyuges y parientes en línea recta de las personas que integren el Consejo, así como sus parientes colaterales dentro del cuarto grado de consanguinidad o segundo de afinidad, no podrán ser simultáneamente integrantes del mismo o de sus órganos auxiliares y unidades administrativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2024)</small>
 
 ###### Art. 109.
 
-El Consejo funcionará en Pleno y ejercerá sus atribuciones a través de los órganos y unidades administrativas creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el propio Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen.
+El Consejo funcionará en Pleno y ejercerá sus atribuciones a través de los órganos, ponencias y unidades administrativas creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el propio Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ABRIL DE 2024)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
+Las ponencias y comités deberán integrarse en los términos de la ley o como lo determine el Pleno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ABRIL DE 2024)</small>
+
+Quienes integren el Consejo deberán velar por el orden y la disciplina dentro y fuera de las ponencias, comités y órganos que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2437,21 +2437,29 @@ El Consejo funcionará en Pleno y ejercerá sus atribuciones a través de los ó
 
 Son atribuciones del Consejo de la Judicatura:
 
-I.- (DEROGADA, P.O. 1 DE JUNIO DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2024)</small>
+
+I. Establecer las ponencias, así como los comités que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura, y designar a las y los Consejeros que deban integrarlas.
 
 II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones.
 
-(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III.- (DEROGADA, P.O. 17 DE ABRIL DE 2024)
 
-III.- DETERMINAR EL NÚMERO Y, EN SU CASO, ESPECIALIZACIÓN POR MATERIA DE LAS SALAS, ASÍ COMO SU JURISDICCIÓN.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
+IV.- Determinar el número y materia de los juzgados menores y de primera instancia en cada uno de los distritos judiciales, conforme a la legislación aplicable.
 
-IV.- Determinar el número y materia de los juzgados menores y de primera instancia en cada uno de los distritos judiciales. Para ello tomará en consideración que los juzgados de primera instancia deberán conocer, al menos, de las materias familiar, civil, penal, laboral, de extinción de dominio, mixtos y mixtos especializados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 17 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
+V.- Convocar al concurso de oposición para conformar las listas que deban remitir al Poder Ejecutivo para la integración de las ternas que se enviarán al Congreso del Estado, a fin de nombrar magistradas y magistrados definitivos.
 
-V.- Convocar a la Comisión Especial que habrá de elegir la terna que se enviará al Congreso del Estado para cubrir las ausencias absolutas o temporales de las Magistradas y Magistrados.
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2024)</small>
+
+Asimismo, será facultad del Consejo de la Judicatura elegir la terna que se enviará al Congreso del Estado para designar magistradas y magistrados provisionales, conformada con personas que presten sus servicios en el Poder Judicial, en los términos y para los casos que establece la ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2024)</small>
+
+El Pleno del Congreso del Estado nombrará, de entre las y los integrantes de la terna, a quien deba ocupar la magistratura provisional, por el voto de la mayoría de diputadas y diputados presentes en la sesión respectiva, dentro de un plazo improrrogable de treinta días hábiles a partir de la presentación de la propuesta, previa comparecencia pública de quienes integren la terna ante la Junta de Coordinación Política. El nombramiento provisional será por una ocasión y hasta un máximo de veinticuatro meses.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
@@ -2469,23 +2477,25 @@ VIII.- Acordar el retiro forzoso de las Magistradas y Magistrados.
 
 IX.- Suspender en sus cargos a las Magistradas y Magistrados, así como a juezas y jueces de primera instancia y menores, en los casos que proceda.
 
-(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-X.- APROBAR EL PROYECTO DEL PRESUPUESTO ANUAL DE EGRESOS DEL PODER JUDICIAL, EL CUAL SE REMITIRÁ AL TITULAR DEL PODER EJECUTIVO.
+X.- Elaborar el anteproyecto de presupuesto del Poder Judicial, con excepción del que corresponda al Tribunal Superior.
 
 XI.- Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares.
 
-XII.- Cambiar la residencia de las salas, juzgados de primera instancia y menores.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+XII.- Cambiar la residencia de los juzgados de primera instancia y menores.
 
 XIII.- Conceder licencias en los términos previstos en esta Ley.
 
-(NOTA: EL 9 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 179/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-XIV.- EJERCER EL PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL.
+XIV.- Administrar el presupuesto de egresos del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
-XV. Nombrar al personal de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias.
+XV.- Nombrar al personal de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias.
 
 XVI.- Administrar los bienes muebles e inmuebles del Poder, cuidando su mantenimiento, conservación y acondicionamiento.
 
@@ -2493,9 +2503,9 @@ XVII.- Realizar visitas administrativas ordinarias por lo menos una vez cada añ
 
 XVIII.- Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura.
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-XIX.- Determinar y modificar la conformación de los distritos judiciales.
+XIX.- Determinar y modificar la conformación de los distritos judiciales, conforme a la legislación aplicable.
 
 El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
 
@@ -2523,9 +2533,13 @@ VI.- Las demás que establezca la Ley, el Pleno mediante acuerdos generales y ot
 
 Serán atribuciones de las y los Consejeros, cuando menos las siguientes:
 
-I.- Integrar el Pleno y al menos una de las comisiones permanentes del Consejo, así como las comisiones transitorias y los comités, conforme lo determine el Pleno.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-II.- Velar por el orden y la disciplina dentro y fuera de sus comisiones.
+I.- Integrar el Pleno del Consejo, las ponencias, así como los comités, en los términos que lo establezca la ley o lo determine el Pleno.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+II.- Velar por el orden y la disciplina dentro y fuera de sus ponencias u órganos que integren.
 
 III.- Despachar la correspondencia de sus oficinas.
 
@@ -2535,9 +2549,9 @@ V.- Dar cuenta al Pleno de los asuntos trascendentes.
 
 VI.- Convocar a sesión extraordinaria del Pleno cuando la trascendencia del caso lo amerite y lo soliciten cuando menos tres Consejeras o Consejeros.
 
-VII.- Presidir cualquiera de las comisiones permanentes del Consejo, y participar, en términos de las disposiciones aplicables, en la designación de la o el Presidente de cada una de las comisiones y comités que integren.
+VII.- (DEROGADA, P.O. 17 DE ABRIL DE 2024)
 
-VIII.- Nombrar y remover al personal adscrito a su comisión, con excepción de los nombramientos realizados expresamente por el Pleno.
+VIII.- (DEROGADA, P.O. 17 DE ABRIL DE 2024)
 
 IX.- Las demás que establezcan la ley, el Pleno mediante acuerdos generales y otras disposiciones administrativas.
 
@@ -5497,7 +5511,7 @@ Las Magistraturas del Tribunal Estatal Electoral que actualmente se encuentran e
 
 P.O. 1 DE JUNIO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/DRFCT/0259/2022 II P.O., MEDIANTE EL CUAL SE DECLARAN APROBADAS LAS REFORMAS, ADICIONES Y DEROGACIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA, CONTENIDAS EN EL DECRETO NO. LXVII/ RFCNT/0249/2022 II P.O.”]
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFCNT/0249/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES PREVISTAS EN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.”]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5513,7 +5527,7 @@ La reforma constitucional contenida en el presente Decreto, entrará en vigor al
 
 ###### ARTÍCULO CUARTO.
 
-La Comisión Especial integrará la primera terna para ocupar la plaza de la magistratura correspondiente, con personas externas al Poder Judicial, de acuerdo a los parámetros establecidos en el presente Decreto.
+(DEROGADO, P.O. 17 DE ABRIL DE 2024)
 
 P.O. 25 DE MARZO DE 2023.
 
@@ -5578,3 +5592,23 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto, todas las menciones administrativas, financieras, jurídicas y de cualquier índole que se hagan al Municipio de Rosario, se entenderán referidas al Municipio de Valle del Rosario.
+
+P.O. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFCNT/0852/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; Y SE DEROGA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO N° LXVII/RFCNT/0249/2022 II P.O.”]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado de Chihuahua, envíese copia de la Iniciativa, del Dictamen y del Diario de los Debates del Congreso del Estado, a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al artículo 103, a que se refiere el presente Decreto, será aplicable únicamente respecto a las magistradas y magistrados designados a partir de la aplicación de la reforma realizada mediante Decreto No. 579/2014 I P.O., publicado en el Periódico Oficial del Estado No. 84, del 18 de octubre de 2014.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo de la Judicatura contará con 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir los reglamentos, lineamientos y demás instrumentos necesarios para regular su funcionamiento interno para efectos de las reformas a las fracciones del artículo 112 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
