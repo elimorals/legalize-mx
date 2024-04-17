@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-del-colegio-de-educacion-profesional-162285"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-11-23"
-last_updated: "2022-11-23"
+last_updated: "2024-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE CAMPECHE (CONALEP CAMPECHE), PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADO EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024 (ABROGADO).
 
 Código publicado en el Número 1810 del Periódico Oficial del Estado de Campeche, el miércoles 23 de noviembre de 2022.
 
@@ -333,3 +335,13 @@ Cargo: _______________________________________
 Unidad administrativa: ___________________________
 
 Firma: _______________________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE CAMPECHE (CONALEP CAMPECHE)”.]
+
+PRIMERO. - El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO. - El presente Código de Conducta abroga el Código de Conducta del Colegio de Educación Profesional Técnica del Estado de Campeche, publicado en el Periódico Oficial del Estado con fecha 23 de noviembre del 2022.
