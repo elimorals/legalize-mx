@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2024-04-01"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2024.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4723,6 +4723,10 @@ A quien cometa el delito de abuso sexual en una persona menor de dieciocho años
 
 Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+Las penas previstas en este artículo se aumentarán conforme a lo dispuesto en el artículo 266 Bis.
+
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
 ###### ARTICULO 262.
@@ -5478,6 +5482,10 @@ Comete el delito de violencia familiar quien lleve a cabo actos o conductas de d
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
 A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+Cuando las conductas descritas en el presente artículo se cometan en contra de una mujer embarazada, una persona adulta mayor o una persona con discapacidad, la pena se aumentará hasta en una mitad, en su mínimo y en su máximo.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -8566,5 +8574,17 @@ D.O.F. 27 DE MARZO DE 2024.
 D.O.F. 1 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 261 DEL CÓDIGO PENAL FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 343 BIS DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE VIOLENCIA FAMILIAR”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
