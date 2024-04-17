@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-inclusion-de-las-personas-en-situacion-de-149005"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-14"
-last_updated: "2022-06-10"
+last_updated: "2024-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY PARA LA INCLUSION DE LAS PERSONAS EN SITUACION DE DISCAPACIDAD DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 17 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY PARA LA INCLUSION DE LAS PERSONAS EN SITUACION DE DISCAPACIDAD DEL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2024 (ABROGADA).
 
 Ley publicada en la Sección Primera del Número 68 de la Gaceta del Gobierno del Estado de México, el miércoles 14 de abril de 2021.
 
@@ -904,3 +906,13 @@ G.G. 10 DE JUNIO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley para la Inclusión de las Personas en Situación de Discapacidad del Estado de México, expedida mediante Decreto 258, publicado en el Periódico Oficial “Gaceta del Gobierno” el 14 de abril de 2021.
