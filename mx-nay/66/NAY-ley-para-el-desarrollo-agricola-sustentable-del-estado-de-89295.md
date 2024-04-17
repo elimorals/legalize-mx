@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2023-04-05"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -65,15 +65,29 @@ VI.- Impulsar la organización económica y capacitación de los productores par
 
 VII.- Promover la adopción de nuevas tecnologías, así como esquemas exitosos de comercialización, bodegas para almacenaje y la adopción de sistemas adecuados de administración;
 
-VIII.- Ampliar, rehabilitar, conservar y mejorar la infraestructura hidráulica disponible y promover su aprovechamiento sustentable, impulsando el drenaje parcelario y el riego tecnificado que permitan la siembra y cosecha de dos o más cultivos por año agrícola, y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
 
-IX.- Determinar los mecanismos de coordinación entre las tres instancias de gobierno e instituciones públicas y privadas que inciden en el sector agrícola, con la participación de las organizaciones de productores en los procesos de planeación, regulación, fomento y promoción del desarrollo agrícola e industrial en el Estado y todas aquellas acciones tendientes a elevar la calidad de vida de los productores agrícolas.
+VIII.- Ampliar, rehabilitar, conservar y mejorar la infraestructura hidráulica disponible y promover su aprovechamiento sustentable, impulsando el drenaje parcelario y el riego tecnificado que permitan la siembra y cosecha de dos o más cultivos por año agrícola;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+IX.- Determinar los mecanismos de coordinación entre las tres instancias de gobierno e instituciones públicas y privadas que inciden en el sector agrícola, con la participación de las organizaciones de productores en los procesos de planeación, regulación, fomento y promoción del desarrollo agrícola e industrial en el Estado y todas aquellas acciones tendientes a elevar la calidad de vida de los productores agrícolas, y
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+X.- Promover la adopción de prácticas agroecológicas.
 
 ###### Artículo 3.
 
 Para efectos de esta Ley, se entenderá por:
 
-I.- Agroindustria: Empresa destinada a procesar y transformar los productos agrícolas primarios agregándoles valor adicional;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+I. Agroecología: Ciencia que consiste en aplicar conceptos y principios ecológicos para favorecer las interacciones entre las plantas, los animales, los seres humanos y el medio ambiente en pos de la seguridad alimentaria y la nutrición.
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2024)</small>
+
+I Bis.- Agroindustria: Empresa destinada a procesar y transformar los productos agrícolas primarios agregándoles valor adicional;
 
 II.- Asistencia Técnica: Conjunto de actividades tendientes a mejorar los niveles de producción y productividad mediante acciones continuadas, programadas y actualizadas, basadas en la experiencia y la investigación, a través de la capacitación, establecimiento de parcelas demostrativas, inspección y supervisión efectuada por prestadores de servicios profesionales a las empresas agrícolas;
 
@@ -1318,3 +1332,9 @@ P.O. 5 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 109 Y DEROGAR (SIC) LA FRACCIÓN I DEL PRIMER PÁRRAFO DEL ARTÍCULO 109 DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT, EN MATERIA DE ROBO AGRÍCOLA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DE “DECRETO QUE REFORMA Y ADICIONA DISPOSICIONES A LOS ARTÍCULOS 2 Y 3 DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT, EN MATERIA DE AGROECOLOGÍA”.]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
