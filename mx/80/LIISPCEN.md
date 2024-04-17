@@ -4,7 +4,7 @@ identifier: "LIISPCEN"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-06"
-last_updated: "2017-05-17"
+last_updated: "2024-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107634&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIISPCEN"
 
 LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el miércoles 6 de mayo de 2015.
 
@@ -208,11 +208,15 @@ I. Analizar y concertar visiones, objetivos, estrategias, decisiones y acciones 
 
 II. Proponer y concertar objetivos, estrategias, metas, compromisos, acciones e indicadores de desempeño tendientes a incrementar la productividad y la competitividad del país, en especial, de los sectores y regiones económicas seleccionadas;
 
-III. Analizar, cuando se estime conveniente o a solicitud del Titular del Ejecutivo Federal, las políticas, los programas, las reglas de operación, proyectos y cambios regulatorios, para estimular eficazmente el incremento sostenido de la productividad y la competitividad, así como el desarrollo industrial sustentable de la economía nacional, de un sector económico específico, o bien, de una región determinada del país, y emitir las recomendaciones que estime pertinentes;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+III. Analizar, cuando se estime conveniente o a solicitud de la persona Titular del Ejecutivo Federal, las políticas, los programas, las reglas de operación, proyectos y cambios regulatorios, para estimular eficazmente el incremento sostenido de la productividad y la competitividad, así como el desarrollo industrial sustentable de la economía nacional, de un sector económico específico, o bien, de una región determinada del país, y emitir las recomendaciones que estime pertinentes;
 
 IV. Opinar sobre el Programa Especial para la Productividad y la Competitividad, previamente a su aprobación;
 
-V. Identificar sectores económicos y regiones específicas del territorio nacional que, en su consideración, deban recibir prioridad en la formulación e implementación de políticas, programas, proyectos y cambios regulatorios para potenciar su desarrollo en materia del incremento sostenido de la productividad y competitividad;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+V. Identificar sectores económicos y regiones específicas del territorio nacional que, en su consideración, deban recibir prioridad en la formulación e implementación de políticas, programas, proyectos y cambios regulatorios para potenciar su desarrollo en materia del incremento sostenido de la productividad y competitividad, utilizando el enfoque de derechos humanos, de género, de interseccionalidad e interculturalidad;
 
 VI. Proponer mecanismos para la coordinación de acciones y esfuerzos de los sectores público, privado y social en materia de información, inversiones, producción y demás factores que promuevan el cambio estructural de la economía nacional;
 
@@ -236,7 +240,13 @@ XIV. Promover una relación estrecha y constante entre las instituciones de educ
 
 XV. Aprobar sus lineamientos de operación, así como sus programas de trabajo;
 
-XVI. Promover la certificación de competencias de los trabajadores, y
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+XVI. Promover la certificación de competencias de las personas trabajadoras;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+XVI Bis. Impulsar la participación laboral de las mujeres y personas jóvenes, en términos del Programa Especial para la Productividad y la Competitividad, y
 
 XVII. Las demás que le confieran las disposiciones jurídicas aplicables.
 
@@ -244,17 +254,37 @@ XVII. Las demás que le confieran las disposiciones jurídicas aplicables.
 
 El Comité Nacional de Productividad estará integrado, cuando menos, por las personas siguientes:
 
-I. El Titular del Ejecutivo Federal, en calidad de presidente honorario;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-II. El Secretario de Hacienda y Crédito Público, quien lo presidirá;
+I. La persona Titular del Ejecutivo Federal, en calidad de presidente o presidenta honoraria
 
-III. El Secretario de Economía;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-IV. El Secretario de Educación Pública;
+II. La persona titular de la Secretaría de Hacienda y Crédito Público, quien lo presidirá;
 
-V. El Secretario del Trabajo y Previsión Social;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-VI. El Director General del Consejo Nacional de Ciencia y Tecnología;
+III. La persona titular de la Secretaría de Economía;
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+IV. La persona titular de la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+V. La persona titular de la Secretaría del Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+V Bis. La persona titular del Instituto Mexicano de la Juventud;
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+V Ter. La persona titular del Instituto Nacional de las Mujeres;
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+VI. La persona titular de la Dirección General del Consejo Nacional de Humanidades, Ciencias y Tecnologías;
 
 VII. Representantes de organizaciones empresariales;
 
@@ -262,11 +292,17 @@ VIII. Representantes de organizaciones sindicales de trabajadores, y
 
 IX. Representantes de instituciones académicas y de capacitación para el trabajo.
 
-El Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de los miembros del Comité a que se refieren las fracciones VII a IX, sujetándose a los principios de representatividad e inclusión en su integración.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2024)</small>
 
-Los miembros titulares podrán designar a sus respectivos suplentes. En el caso de las fracciones I a VI, el suplente deberá contar con nivel jerárquico inmediato inferior al del titular.
+La persona Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de las personas integrantes del Comité a que se refieren las fracciones VII a IX, sujetándose a los principios de representatividad, paridad de género e inclusión en su integración.
 
-La participación de los miembros en el Comité será honorífica.
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+Las personas integrantes titulares podrán designar a sus respectivos suplentes. En el caso de las fracciones I a VI, el suplente deberá contar con nivel jerárquico inmediato inferior al de la persona titular.
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2024)</small>
+
+La participación de las personas integrantes en el Comité será honorífica.
 
 ###### Artículo 13.
 
@@ -391,3 +427,9 @@ D.O.F. 17 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 3, 11 Y 14 DE LA LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA ECONOMÍA NACIONAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
