@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-04-16"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.xxx
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -269,17 +269,21 @@ IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar
 
 X. Propiciar el crecimiento y desarrollo en las regiones, municipios, comunidades, y en general del Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE ABRIL DE 2024)</small>
 
 XI. Fomentar la enseñanza y aprendizaje integral del idioma inglés, sin menoscabo de la enseñanza del español y de lenguas indígenas;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
-XII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo, y
+XII. Fomentar e inculcar la enseñanza y aprendizaje de (sic) educación financiera, de la cultura del ahorro y del emprendimiento; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
+
+XIII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo.
 
 > <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
 
-XIII. Desarrollar habilidades emocionales y socioemocionales que permitan al alumnado y al profesorado, adquirir conocimientos, prácticas y competencias emocionales que contribuyan a un desarrollo integral de la personalidad.
+XIV. Desarrollar habilidades emocionales y socioemocionales que permitan al alumnado y al profesorado, adquirir conocimientos, prácticas y competencias emocionales que contribuyan a un desarrollo integral de la personalidad.
 
 ###### Artículo 15.
 
@@ -711,9 +715,9 @@ IV. El conocimiento científico, a través de la apropiación de principios, mod
 
 V. El pensamiento filosófico, histórico y humanístico, para generar consciencia de sí y del mundo;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
-VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización; la autorregulación, autoconciencia y motivación;
+VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la inteligencia emocional, la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización; la autorregulación, autoconciencia y motivación;
 
 VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
 
@@ -2296,3 +2300,15 @@ P.O. 16 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 834 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 854 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 60 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 856 POR EL QUE SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII, RECORRIENDO LA SUBSECUENTE, DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
