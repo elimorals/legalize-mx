@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-04-16"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -45,7 +45,7 @@ SEGUNDO.- El asunto de mérito se registró en el Libro de Gobierno de la Comisi
 
 Por lo que en mérito de lo anteriormente expuesto; y
 
-.
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -607,11 +607,11 @@ Toda persona física o moral que por medio de engaños, dolo o mala fe, venda, d
 
 ### CAPITULO III. DE LA PRODUCCION SUSTENTABLE
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 28.
+###### ARTICULO 28.
 
-La Secretaría, en coordinación con los Gobiernos Municipales, los productores rurales y sus organizaciones, determinará, basados en el diagnóstico de la actividad agrícola, las zonas económicas prioritarias donde sea posible la producción más eficiente y el aprovechamiento sustentable de los recursos, procurando la eficiencia, integralidad, diversidad y uso múltiple.
+La Secretaría, en coordinación con los Gobiernos Municipales, los productores rurales y sus organizaciones, determinará (sic), basados en el diagnóstico de la actividad agrícola, las zonas económicas prioritarias donde sea posible la producción más eficiente y el aprovechamiento sustentable de los recursos, mediante prácticas agroecológicas, procurando la eficiencia, integralidad, diversidad y uso múltiple.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -625,9 +625,9 @@ Los programas de fomento a la producción atenderán prioritariamente el criteri
 
 Para conseguir lo expuesto en este capítulo, la Secretaría, en coordinación con Dependencias Federales, Estatales y Municipales, así como con la participación de las organizaciones de productores, realizará las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
-I.- Promover y apoyar entre los productores agrícolas, el empleo de prácticas sustentables, que incrementen la eficiencia, la productividad, la competitividad y rentabilidad de sus actividades, respetando el medio ambiente;
+I.- Promover y apoyar entre los productores agrícolas, el empleo de prácticas sustentables y agroecológicas, que incrementen la eficiencia, la productividad, la competitividad y rentabilidad de sus actividades, respetando el medio ambiente;
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -1454,3 +1454,9 @@ P.O. 16 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 831 POR EL QUE SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 15 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 853 POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
