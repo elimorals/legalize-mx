@@ -4,7 +4,7 @@ identifier: "HID-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8928
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-04-16"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -843,9 +843,11 @@ Ambos fondos, en tanto no se utilicen, deberán invertirse en valores de inversi
 
 La asamblea general determinará anualmente el porcentaje de los frutos o utilidades obtenidas por el arrendamiento de los bienes de uso común que deberán aplicarse a cada uno de los fondos del condominio.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2024)</small>
+
 ###### Artículo 61.
 
-Las cuotas para gastos comunes que se generen a cargo de cada unidad de propiedad exclusiva y que los condóminos no cubran oportunamente en las fechas y bajo las formalidades establecidas en asamblea general o en el reglamento del condominio que se trate, causarán intereses al tipo que se hayan fijado en asamblea o en el reglamento correspondiente. Lo anterior, independientemente de las sanciones a que se hagan acreedores los condóminos por motivo de su incumplimiento en el pago.
+Las cuotas para gastos comunes que se generen a cargo de cada unidad de propiedad exclusiva y que los condóminos no cubran oportunamente en las fechas y bajo las formalidades establecidas en asamblea general o en el reglamento del condominio que se trate, causarán intereses al tipo que se hayan fijado en asamblea o en el reglamento correspondiente. Cuando los servicios que se disfrutan en áreas privativas sean pagados con recursos del Fondo de Mantenimiento y Administración o del Fondo de Reserva del Condominio, la persona administradora podrá suspender los mismos al condómino que no cumpla oportunamente con el pago de las cuotas de mantenimiento y administración o el de reserva, excepto cuando se trate del servicio de agua; lo cual siempre se realizará previa autorización del Comité de Vigilancia y de la acreditación por parte de la persona administradora de haber concluido un procedimiento interno de mediación o conciliación, y haber realizado requerimientos, pláticas, notificaciones, exhortos, invitaciones y/o propuestas de convenio. Lo anterior, independientemente de las sanciones a que se hagan acreedores los condóminos por motivo de su incumplimiento en el pago.
 
 ###### Artículo 62.
 
@@ -1096,3 +1098,9 @@ P.O. 16 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 835 POR EL QUE SE REFORMA EL ARTÍCULO 63 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 858 POR EL QUE SE REFORMA EL ARTÍCULO 61 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
