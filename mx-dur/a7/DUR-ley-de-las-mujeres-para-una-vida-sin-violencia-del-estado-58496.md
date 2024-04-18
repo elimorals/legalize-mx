@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2024-03-24"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -154,6 +154,10 @@ XV. Programa Municipal: Programa Municipal para Prevenir, Atender, Sancionar y E
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
 
 XV BIS. Protocolo Alba: Mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+
+XV TER. Puntos Violeta: Programa creado por el Instituto Estatal de las Mujeres y las Instancias Municipales de la (sic) Mujeres, a través del cual se ofrece atención de primer contacto con la víctima, así como información relativa a identificar la violencia de género contra las mujeres.
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
 
@@ -317,9 +321,13 @@ Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o
 
 Se entiende por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+
+XIV. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-XIV. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
+XV. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -884,6 +892,20 @@ IX. Capacitación, para que puedan adquirir conocimientos para el desempeño de 
 X. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten; y
 
 XI. Gestión de vivienda.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
+
+###### Artículo 22 Bis.
+
+Los puntos violeta tendrán como propósito recibir a las mujeres víctimas de violencia de género en situación de vulnerabilidad, sin importar su condición, así como sus hijas e hijos de minoría de edad.
+
+Los Puntos Violeta brindaran los siguientes servicios:
+
+I. Atención psicológica, jurídica y de trabajo social;
+
+II. Acceso a servicios de atención especializada para contención de personas en estado de crisis o enlaces permanentes para canalización a dependencias especializadas de servicios sociales, jurídicos, médicos y de psicología que pueden ser otorgados por instituciones públicas; y
+
+III. Capacitación para que las mujeres desarrollen habilidades para el empleo, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2554,3 +2576,21 @@ P.O. 24 DE MARZO DE 2024.
 PRIMERO.- El presente decreto entrara en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 563 POR EL CUAL SE ADICIONA UNA FRACCIÓN XIV, Y SE RECORRE LA ANTERIOR DE MANERA SUBSECUENTE PARA PASAR A SER LA FRACCIÓN XV DEL ARTÍCULO 6, DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 564 POR EL CUAL SE ADICIONA UNA FRACCIÓN XV TER AL ARTÍCULO 4 Y SE ADICIONA UN ARTÍCULO 22 BIS AL CAPÍTULO V "DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA" A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Para la creación del Programa "puntos violeta" al que hace referencia el artículo 22 BIS del presente dictamen, se ejercerán los recursos del Programa de Apoyo a Instancias de Mujeres de las Entidades Federativas y el Poder Ejecutivo estatal de acuerdo a su disponibilidad presupuestaria que para tal efecto se asigne en el Presupuesto de Egresos del año correspondiente.
