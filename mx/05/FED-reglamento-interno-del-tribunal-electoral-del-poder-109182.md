@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2022-09-15"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -2247,8 +2247,6 @@ XIII. Las demás que les confieran las disposiciones aplicables.
 
 ### CAPÍTULO III. De los Órganos Auxiliares de la Comisión de Administración
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
-
 ###### Artículo 173.
 
 De conformidad con el artículo 166 de este Reglamento, para el correcto desempeño de sus facultades, la Comisión de Administración contará con los siguientes órganos auxiliares:
@@ -2261,9 +2259,17 @@ III. Dirección General de Investigación de Responsabilidades Administrativas;
 
 IV. Escuela Judicial Electoral;
 
-V. Delegaciones Administrativas; y
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-VI. Defensoría Electoral.
+V. Delegaciones Administrativas;
+
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+VI. Defensoría Electoral; y
+
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+VII. Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género.
 
 Los órganos auxiliares contarán con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto autorizado.
 
@@ -2617,17 +2623,21 @@ De las Delegaciones Administrativas
 
 ###### Artículo 187.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
-
 En cada Sala Regional habrá una Delegación Administrativa, cuya persona titular será designada por la Comisión de Administración, a propuesta de su Presidencia.
 
 Las Delegaciones contarán con la estructura y el personal que sea necesario para el cumplimiento de sus funciones y será independiente del personal jurisdiccional de la Sala Regional correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-La coordinación y autorización de las actividades y el funcionamiento de las Delegaciones Administrativas estará a cargo de la Dirección General de Administración Regional.
+La coordinación y autorización de las actividades y el funcionamiento de las Delegaciones Administrativas estará a cargo de la Secretaría Administrativa.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Las Delegaciones Administrativas dependerán funcionalmente de la Secretaría Administrativa.
 
 ###### Artículo 188.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 18 DE ABRIL DE 2024)</small>
 
 Las personas titulares de las Delegaciones Administrativas tendrán las facultades siguientes:
 
@@ -2655,7 +2665,13 @@ XI. Atender los requerimientos necesarios en materia de Transparencia, acceso a 
 
 XII. Supervisar que la administración de los recursos humanos y materiales a su cargo se lleve a cabo en los términos de la Política Institucional de la tutela al derecho de la no discriminación de conformidad con la normativa aplicable; y
 
-XIII. Las demás que les confieran las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 18 DE ABRIL DE 2024)</small>
+
+XIII. Coordinarse con la Secretaría Administrativa y sus áreas de apoyo para el cumplimiento de sus atribuciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 18 DE ABRIL DE 2024)</small>
+
+XIV. Las demás que les confieran las disposiciones aplicables.
 
 > <small>(REFORMADA SU NUMERACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -2693,33 +2709,31 @@ IV. Orientación, en aquellas consultas que no requieran de los otros servicios.
 
 La Defensoría Electoral prestará sus servicios con perspectiva de género, interseccional e intercultural.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 Artículo 188 Quintus.
 
 Los servicios se prestarán tratándose de los derechos político-electorales de las personas que pertenezcan a algunos de los siguientes grupos en situación de vulnerabilidad o desventaja histórica, en procesos electorales y mecanismos de democracia directa:
 
-I. Mujeres en casos de paridad y de violencia política de género;
+I. Personas, comunidades y pueblos indígenas y equiparables;
 
-II. Personas, comunidades y pueblos indígenas y equiparables;
+II. Residentes en el extranjero;
 
-III. Residentes en el extranjero;
+III. Afromexicanas;
 
-IV. Afromexicanas;
+IV. Con discapacidad;
 
-V. Con discapacidad;
+V. Niñas, niños y adolescentes;
 
-VI. Niñas, niños y adolescentes;
+VI. Juventudes;
 
-VII. Juventudes;
+VII. Personas adultas mayores;
 
-VIII. Personas adultas mayores;
+VIII. De la diversidad sexual y de género;
 
-IX. De la diversidad sexual y de género;
+IX. Personas en prisión preventiva; u
 
-X. Personas en prisión preventiva; u
-
-XI. Otras que lo justifiquen al solicitar los servicios de la Defensoría Pública Electoral.
+X. Otras que lo justifiquen al solicitar los servicios de la Defensoría Pública Electoral.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
 
@@ -2733,7 +2747,7 @@ II. La solicitud se entregue en alguno de los canales institucionales que se hab
 
 III. La materia de la controversia, respecto a la que se dará alguno de los servicios, se circunscriba a la competencia de la Defensoría Electoral.
 
-> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 Artículo 188 Septimus.
 
@@ -2741,7 +2755,7 @@ La Defensoría Electoral se abstendrá de proporcionar sus servicios cuando esto
 
 I. No se encuentren dentro de sus facultades;
 
-II. Sean solicitados por una persona que tenga el carácter de servidor público, excepto en casos de violencia política de género y comunidades indígenas, entendiéndose por persona servidora pública quienes desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal o local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;
+II. Sean solicitados por una persona que tenga el carácter de servidor público, excepto en casos de comunidades indígenas, entendiéndose por persona servidora pública quienes desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal o local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Sean solicitados por autoridades responsables;
 
@@ -2916,6 +2930,126 @@ En la integración de la Defensoría Electoral se observará el principio de par
 Artículo 188 Sextus decimus.
 
 La organización y funcionamiento de la Defensoría Electoral estará regulada por el presente Reglamento, los protocolos, los Acuerdos Generales e instrumentos normativos que emita la Comisión de Administración.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Septimus decimus.
+
+La Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género es el órgano auxiliar de la Comisión de Administración, encargado de prestar los servicios de orientación, asesoría y representación jurídica en materia de paridad y violencia política en razón de género.
+
+Para el desempeño de sus funciones contará con autonomía técnica y operativa, cuya ejecución será bajo los principios de imparcialidad, independencia, legitimidad, profesionalismo, calidad, eficiencia eficacia, economía, transparencia y honradez.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Duodevicesimus.
+
+Los servicios de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género serán gratuitos y se proporcionarán a petición de parte. La solicitud de servicio se deberá presentar en alguno de los canales institucionales que para tal efecto se establezcan en el protocolo de actuación respectivo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Undevicesimus.
+
+Los servicios de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género para la atención de las personas solicitantes son los siguientes:
+
+I. Representación jurídica, en aquellos asuntos de paridad y violencia política que sean competencia exclusiva de las Salas del Tribunal Electoral;
+
+II. Asesoría jurídica, en aquellos asuntos en materia de paridad y violencia política, que sean competencia de las autoridades jurisdiccionales locales y de las autoridades administrativas;
+
+III. Orientación, en aquellas consultas que no requieran de los otros servicios.
+
+La Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género prestará sus servicios con perspectiva de género, interseccional e intercultural.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Vicesimus.
+
+La Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género se abstendrá de proporcionar sus servicios cuando estos:
+
+I. No se encuentren dentro de sus facultades;
+
+II. Sean solicitados por una persona que tenga el carácter de servidor público, excepto en casos de paridad y violencia política de género;
+
+III. Sean solicitados por autoridades responsables;
+
+IV. El solicitante cuente con representación legal al momento de solicitar el servicio, y
+
+V. Los servicios se le estén brindado a la contraparte en una controversia.
+
+Para los efectos de la fracción segunda, se entenderá por personas servidoras públicas, quienes desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal o local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Vicesimus primus.
+
+La persona titular de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género, además de los requisitos establecidos en el artículo 174 del presente Reglamento, deberá cumplir con los siguientes requisitos:
+
+I. Contar con título y cédula profesionales de Licenciatura en Derecho, expedidos legalmente con una antigüedad de cinco años y tener, preferentemente, algún grado académico de especialista, maestría o doctorado en área afín a los derechos humanos; y
+
+II. Comprobar tener las competencias para el desempeño del cargo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Vicesimus secundas.
+
+Las personas a ocupar el puesto de Defensoras de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género, deberán cumplir con los siguientes requisitos:
+
+I. Tener pleno ejercicio de sus derechos políticos y civiles;
+
+II. No haber sido condenada o condenado por un delito que amerite pena corporal de más de un año de prisión; si se tratare de robo, fraude, falsificación o abuso de confianza, no podrá desempeñar el cargo, cualquiera que haya sido la pena; así como no haber sido sancionado con inhabilitación temporal para desempeñar algún empleo o cargo público o haber sido destituido del mismo, como consecuencia de una sanción administrativa por conductas graves;
+
+III. Contar con título y cédula profesionales de Licenciatura en Derecho, expedidos legalmente con una antigüedad de tres años y tener experiencia profesional en áreas afines a los derechos humanos; y
+
+IV. Comprobar tener las competencias para el desempeño del cargo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+Artículo 188 Vicesimus tertius.
+
+La persona titular de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género tendrá las facultades siguientes:
+
+I. Administrar, coordinar, dirigir, vigilar y dar seguimiento a los asuntos y servicios de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género;
+
+II. Emitir los protocolos para proporcionar cada uno de los servicios que otorga;
+
+III. Emitir dictámenes fundados y motivados en los que se justifique la prestación o no de los servicios;
+
+IV. Emitir opiniones para áreas internas del Tribunal e instituciones, públicas o privadas, cuyo objeto se relacione con el ámbito de su competencia;
+
+V. Autorizar las adscripciones y readscripciones del personal, de acuerdo con las necesidades del servicio en los términos de los acuerdos generales aplicables;
+
+VI. Generar mecanismos de acceso a la justicia a disposición y de uso fácil para las personas que sean víctimas de violencia política en razón de género.
+
+VII. Gestionar y solicitar a otras autoridades y organizaciones nacionales o internacionales colaboración para el desarrollo de sus funciones;
+
+VIII. Gestionar, coordinar e impulsar con otras áreas del Tribunal Electoral la elaboración de análisis, diagnósticos, estudios especializados, artículos de difusión y publicaciones, con la finalidad de aprovechar los recursos humanos, materiales y presupuestales con los que cuenta el Tribunal Electoral, observando las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del PJF para el ejercicio fiscal de que se trate;
+
+IX. Gestionar la colaboración necesaria con otras áreas del Tribunal Electoral para el cumplimiento de sus funciones, objetivos y metas institucionales;
+
+X. Coordinar con la Dirección General de Comunicación Social el diseño e implementación del programa anual de comunicación para la difusión de sus servicios;
+
+XI. Brindar el apoyo que corresponda a la Escuela Judicial Electoral y las instancias responsables de coordinar el servicio profesional de carrera en la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género, para desahogar los procesos de reclutamiento, ingreso y promoción, así como en los programas de formación, capacitación y sensibilización dirigidos al personal de su adscripción, de conformidad con el presente Reglamento y los acuerdos generales aplicables;
+
+XII. Organizar y participar en foros académicos, conferencias, seminarios y reuniones, con la finalidad de difundir las funciones y trabajos realizados por la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género;
+
+XIII. Proponer a la Comisión de Administración las medidas que estime convenientes para lograr el cumplimiento y mejoramiento de las funciones de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género;
+
+XIV. Proponer ante las instancias competentes la creación o modificación de instrumentos normativos relacionados con las atribuciones de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género;
+
+XV. Suscribir convenios de colaboración con instituciones electorales jurisdiccionales y administrativas, asociaciones y con organismos afines, nacionales e internacionales, relacionados con funciones de defensoría de derechos en beneficio de personas que han sido víctimas de violencia política en razón de género;
+
+En los convenios que impliquen acciones de colaboración para brindar atención a las personas usuarias de los servicios de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género, se establecerán las actividades de monitoreo que permitan garantizar la calidad del servicio, el cumplimiento del Código de Ética, la perspectiva de género, interseccional e intercultural.
+
+En el caso de que tales convenios impliquen erogación de recursos, se requerirá la autorización de la Comisión de Administración para su formalización, de no ser así, únicamente se informará a ese órgano colegiado de su suscripción;
+
+XVI. Rendir un informe anual en el mes de enero siguiente al ejercicio del que se trate, ante la Comisión de Administración sobre el funcionamiento, resultados y servicios que presta la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género;
+
+XVII. Denunciar inmediatamente ante el Ministerio Público los hechos que la ley señale como delito, de los que haya tenido conocimiento en el ejercicio de sus funciones;
+
+XVIII. Gestionar y solicitar el apoyo de peritos, que contribuyan al cumplimiento de las funciones de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género;
+
+XIX. Realizar visitas a la población beneficiaria de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género para llevar a cabo análisis y diagnósticos con relación a esta temática, previa autorización de la Comisión de Administración; y
+
+XX. Las demás inherentes a las actividades propias del cargo, así como las que le confieran otras disposiciones legales o le encomiende la Comisión de Administración.
 
 ### CAPÍTULO IV. De los Comités de la Comisión de Administración
 
@@ -3437,7 +3571,7 @@ La persona titular de la Secretaría Administrativa deberá cumplir con los requ
 
 ###### Artículo 208.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 18 DE ABRIL DE 2024)</small>
 
 La persona titular de la Secretaría Administrativa tendrá las facultades siguientes:
 
@@ -3535,17 +3669,25 @@ XXXVI. Elaborar y presentar los informes de actividades con la periodicidad que 
 
 XXXVII. Coordinar la participación de las y los actores involucrados en la implementación y operación del Servicio Civil de Carrera Administrativa del Tribunal Electoral;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 18 DE ABRIL DE 2024)</small>
 
-XXXVIII. Las demás que le confieran las disposiciones aplicables, este Reglamento, la Presidencia del Tribunal y la Comisión de Administración.
+XXXVIII. Ser el enlace permanente entre las Salas Regionales y las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral, a efecto de orientar, coordinar y autorizar las actividades y el funcionamiento de las Delegaciones Administrativas en el cumplimiento de sus facultades, y
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 18 DE ABRIL DE 2024)</small>
+
+XXXIX. Las demás que le confieran las disposiciones aplicables, este Reglamento, la Presidencia del Tribunal y la Comisión de Administración.
 
 ###### Artículo 209.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 18 DE ABRIL DE 2024)</small>
+
 Para el eficaz desempeño de sus funciones, la Secretaría Administrativa contará con las siguientes áreas de apoyo:
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 I. Dirección General de Recursos Humanos;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Dirección General de Recursos Financieros;
 
@@ -3553,17 +3695,27 @@ II. Dirección General de Recursos Financieros;
 
 III. Dirección General de Adquisiciones, Servicios y Obra pública;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 IV. Dirección General de Protección Institucional;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 V. Dirección General de Sistemas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 VI. Dirección General de Planeación y Evaluación Institucional;
 
 VII. (DEROGADA, D.O.F. 5 DE FEBRERO DE 2019)
 
-VIII. Dirección General de Administración Regional; y
+VIII. (DEROGADA, D.O.F. 18 DE ABRIL DE 2024)
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 IX. Dirección General de Mantenimiento y Servicios Generales.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 Las áreas de apoyo, de conformidad con el presupuesto autorizado, contarán con la estructura que autorice la Comisión de Administración y se orientarán por el principio de paridad de género. Las funciones de cada una de estas áreas se establecerán en los manuales de organización específicos que apruebe la citada Comisión.
 
@@ -3901,33 +4053,13 @@ VII. Coordinar la elaboración de la estructura orgánica del Tribunal Electoral
 
 ### CAPÍTULO VIII. De la Dirección General de Administración Regional
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 226.
 
-La Dirección General de Administración Regional se encarga del enlace permanente entre las Salas Regionales y las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral, a efecto de orientar, coordinar y autorizar las actividades y el funcionamiento de las Delegaciones Administrativas en el cumplimiento de sus facultades.
+(DEROGADO, D.O.F. 18 DE ABRIL DE 2024)
 
 ###### Artículo 227.
 
-La persona titular de la Dirección General de Administración Regional tendrá las facultades siguientes:
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
-
-I. Asegurar el enlace permanente de las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral con las Delegaciones Administrativas, y entre éstas, así como coordinar y autorizar las actividades y el funcionamiento de las Delegaciones Administrativas;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
-
-II. Apoyar y orientar en el ámbito de su competencia, a las Delegaciones Administrativas, para el adecuado funcionamiento de éstas en el cumplimiento de sus facultades;
-
-III. Gestionar y dar seguimiento a los requerimientos de las Delegaciones Administrativas respecto de información y trámites administrativos, de servicios o financieros, así como al presupuesto asignado a las mismas, que por su complejidad, alcance, monto o tiempo de autorización requiera de atención específica e inmediata ante la Secretaría Administrativa;
-
-IV. Coordinar la instrumentación de políticas y procedimientos administrativos relacionados con los recursos humanos, materiales, financieros, tecnológicos, de seguridad, protección civil y de servicios en las Delegaciones Administrativas, bajo criterios de mejora continua de simplificación administrativa y transparencia de las facultades y actividades;
-
-V. Elaborar los Programas Anuales de Trabajo, de Adquisiciones y de Ejecución de su propia competencia y coordinar los citados programas de las Delegaciones Administrativas, con apego a la normativa aplicable y a los procedimientos emitidos por la Comisión de Administración;
-
-VI. Asesorar a las personas titulares de las Delegaciones Administrativas de las Salas Regionales en la elaboración y presentación de los Puntos de Acuerdo que se sometan a consideración de la Comisión de Administración y del Comité de Adquisiciones Arrendamientos, Prestación de Servicios y Obra Pública; y
-
-VII. Coordinar la elaboración y, en su caso, actualización del Manual de Organización Específico de las Delegaciones Administrativas de las Salas Regionales, así como de los lineamientos y procedimientos que regulen el funcionamiento de éstas.
+(DEROGADO, D.O.F. 18 DE ABRIL DE 2024)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4290,3 +4422,25 @@ TERCERO. En una próxima sesión de la Comisión de Administración, la Secretar
 CUARTO. Las erogaciones que se requieran para la implementación del Servicio Civil de Carrera Administrativa deberán limitarse al mínimo indispensable y realizarse con cargo a los recursos aprobados en el Presupuesto del Tribunal.
 
 QUINTO. Una vez que se apruebe el catálogo de puestos del Servicio Civil de Carrera Administrativa, con sus respectivas cédulas y perfiles, el personal que a la entrada en vigor de la presente reforma ocupe los puestos autorizados en dicho Catálogo podrá optar por agotar el proceso para su ingreso formal al Sistema del Servicio Civil de Carrera Administrativa, mismo que establecerá las condiciones y reglas para la continuidad y estabilidad laboral de sus integrantes. Este proceso consistirá, en primer término, en una verificación del cumplimiento del perfil del puesto de que se trate y, posteriormente, en acreditar la capacitación y, en su caso, las evaluaciones que la Comisión de Administración determine.
+
+D.O.F. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA A LA CREACIÓN DE LA DEFENSORÍA PÚBLICA ELECTORAL ESPECIALIZADA EN LA ATENCIÓN DE ASUNTOS DE VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO".]
+
+PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese la presente reforma en el Diario Oficial de la Federación y en las páginas de internet e intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se derogan las disposiciones que se opongan a la presente reforma.
+
+CUARTO. Una vez publicada en el Diario Oficial de la Federación, se tendrá por autorizada la estructura orgánica propuesta, consistente en la creación de la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género.
+
+QUINTO. Se instruye a la Defensoría Pública Electoral Especializada en la Atención de Asuntos de Violencia Política en Razón de Género, a la Defensoría Pública Electoral y a la Dirección General de Asuntos Jurídicos lleven a cabo la actualización de los instrumentos internos que correspondan conforme a la normatividad aplicable, en un plazo no mayor a 30 días naturales.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACTA DE DECISIÓN COLEGIADA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, MEDIANTE LA QUE SE ACORDÓ LA REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA A LA CREACIÓN DE LA DEFENSORÍA PÚBLICA ELECTORAL ESPECIALIZADA EN LA ATENCIÓN DE ASUNTOS DE VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO".]</small>
+
+PRIMERO. Aprobar la reforma de los artículos 173, 187, 188, 188 quintus, 188 septimus, 208, 209, 226 y 227, así como la adición de los artículos 188 Septimus decimus, 188 Duodevicesimus, 188 Undevicesimus, 188 Vicesimus, 188 Vicesimus primus, 188 Vicesimus secundas y 188 Vicesimus tertius, del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, la cual entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Derogar todas aquellas disposiciones que contravengan la presente reforma.
+
+TERCERO. Publicar la reforma al Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación en el Diario Oficial de la Federación.
