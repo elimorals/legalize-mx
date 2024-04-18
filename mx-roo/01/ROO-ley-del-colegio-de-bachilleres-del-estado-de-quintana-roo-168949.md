@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-colegio-de-bachilleres-del-estado-de-quintana-roo-16894
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-22"
-last_updated: "2023-12-22"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Número 208 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 22 de diciembre de 2023.
 
@@ -447,7 +447,9 @@ III. Dirección Administrativa y de Archivos;
 
 IV. Dirección de Planeación y Mejora Regulatoria;
 
-V. Dirección Jurídica y Unidad de Transparencia y Acceso a la Información Pública y Datos Personales, y Coordinaciones de Zona, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
+
+V. Dirección Jurídica y Unidad de Transparencia y Acceso a la Información Pública y Datos Personales, y
 
 VI. Coordinaciones de zona.
 
@@ -578,3 +580,13 @@ DIPUTADA SECRETARIA:
 DRA. YOHANET TEODULA TORRES MUÑOZ.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 197 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal, Quintana Roo, a 22 de diciembre de 2023.- Lic. María Elena H. Lezama Espinosa, Gobernadora del Estado.- Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 216 POR EL QUE SE ADICIONA EL ARTÍCULO 54 A LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 32 DE LA LEY DEL COLEGIO DE BACHILLERES, AMBAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan la (sic) presente Decreto.
