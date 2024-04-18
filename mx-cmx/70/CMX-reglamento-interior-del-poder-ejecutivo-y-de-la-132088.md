@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2024-01-31"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ABRIL DE 2024.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -5956,7 +5956,13 @@ VII. Generar programas de fomento con el sector empresarial, cooperativas, secto
 
 VIII. Concertar proyectos estratégicos que impacten en el desarrollo económico de la Ciudad;
 
-IX. Promover la celebración de convenios y acciones con la Administración Pública Federal, Local, y entes privados, tanto nacionales como internacionales; con el propósito de fomentar proyectos de desarrollo económico para la Ciudad;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+IX. Promover la celebración de convenios y acciones con la Administración Pública Federal, Local y entes privados, tanto nacionales como internacionales, con el propósito de fomentar proyectos de desarrollo económico para la Ciudad, así como de implementar acciones relacionadas con los servicios inmobiliarios en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+IX Bis. Supervisar la atención de los trámites relacionados con los servicios inmobiliarios en la Ciudad de México, así como verificar la atención de quejas y denuncias relacionadas con los servicios prestados por los profesionales Inmobiliarios y la substanciación de los procedimientos administrativos previstos en la Ley de Prestación de Servicios Inmobiliarios y su Reglamento;
 
 X. Coordinar la realización de ferias, exposiciones, talleres y congresos locales, nacionales e internacionales, vinculados a la promoción de actividades industriales, comerciales y económicas en general y aplicar estrategias para su promoción nacional e internacional;
 
@@ -5982,11 +5988,11 @@ XX. Opinar sobre el estado que guardan los diferentes rubros de la economía de 
 
 XXI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuye este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2024)</small>
 
 ###### Artículo 145.
 
-Corresponde a la Dirección Ejecutiva de Apertura de Negocios y Desarrollo Empresarial:
+Corresponde a la Dirección Ejecutiva de Apertura de Negocios, Desarrollo Empresarial y Servicios Inmobiliarios:
 
 I. Proporcionar asesoría y apoyo técnico a las Alcaldías y el sector social de la Ciudad de México, para la ejecución de los proyectos de fomento al emprendimiento, desarrollo económico y empresarial.
 
@@ -6011,6 +6017,34 @@ X. Orientar respecto a programas de ayuda para la obtención de créditos públi
 XI. Proporcionar apoyo técnico a las distintas cámaras, asociaciones, colegios y banca de desarrollo y entidades públicas en la aplicación del marco regulatorio en el ámbito de competencia de la Secretaría.
 
 XII. Coordinarse con las diferentes Unidades Administrativas de las Dependencias y Entidades de la Administración Pública de la Ciudad de México, y con el sector privado, para impulsar acciones y proyectos, tendientes a impulsar el desarrollo empresarial, así como la inversión en sus diversas manifestaciones.
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XIII. Operar el Registro Único de Profesionales Inmobiliarios, el Padrón de Profesionales Inmobiliarios, así como el Padrón de Capacitadores Inmobiliarios;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XIV. Impartir por sí, o a través de terceros autorizados, los Programas de capacitación, actualización y profesionalización de los Profesionales Inmobiliarios;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XV. Evaluar por sí, o por terceros autorizados, a los Profesionales Inmobiliarios y, en su caso, emitir la certificación correspondiente y su revalidación;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XVI. Atender el sistema de quejas y denuncias presentadas por usuarios de los servicios prestados por los Profesionales Inmobiliarios, así como brindarles asesoría;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XVII. En los casos que las partes involucradas lo soliciten, actuar como árbitro en controversias que deriven de la Ley de Prestación de Servicios Inmobiliarios y su Reglamento;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XVIII. Substanciar los procedimientos administrativos previstos en la Ley de Prestación de Servicios Inmobiliarios y su Reglamento, así como imponer sanciones por infracciones a dichas disposiciones;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XIX. Las demás que le atribuya (sic) expresamente los demás ordenamientos jurídicos y administrativos correspondientes.
 
 ###### Artículo 146.
 
@@ -7772,13 +7806,21 @@ XIX. Impulsar la creación de instrumentos económicos de carácter ambiental;
 
 XX. Coordinar y promover la participación y transformación de los habitantes de la Ciudad de México hacia una cultura de la sustentabilidad;
 
-XXI. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que bajo los conceptos de uso y aprovechamiento se perciban en el Museo de Historia Natural, Centros de Educación y de Cultura Ambiental;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
 
-XXII. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento y conservación del Museo de Historia Natural;
+XXI. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que, bajo los conceptos de uso, aprovechamiento y/o explotación se perciban en el Museo de Historia Natural y Cultura Ambiental, así como en los Centros de Cultura Ambiental u otros espacios asignados en función a sus atribuciones;
 
-XXIII. Resguardar e incrementar el acervo del Museo de Historia Natural;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
 
-XXIV. Formular y aplicar las políticas de administración del Museo de Historia Natural, así como de cultura ambiental;
+XXII. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento, administración y conservación en el Museo de Historia Natural y Cultura Ambiental, así como en los Centros de Cultura Ambiental u otros espacios asignados en función a sus atribuciones;
+
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXIII. Resguardar e incrementar el acervo del Museo de Historia Natural y Cultura Ambiental, de conformidad con la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXIV. Emitir, aplicar y vigilar el cumplimiento de las políticas de administración del Museo de Historia Natural y Cultura Ambiental, así como en los Centros de Cultura Ambiental u otros espacios asignados en función a sus atribuciones;
 
 XXV. Coordinar la elaboración de campañas de comunicación que incidan en el cambio de hábitos de la población, por medio de la difusión de programas y eventos en favor de un ambiente sustentable;
 
@@ -7808,9 +7850,13 @@ XXXII. Generar, sistematizar y aprobar conforme a la normativa aplicable, la dif
 
 XXXIII. Emitir boletines, comunicados y notas informativas, conforme a las disposiciones aplicables, con el propósito de transmitir a la opinión pública, los proyectos, programas y actividades que realiza la Secretaría del Medio Ambiente;
 
-> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
 
-XXXIV. Proponer a la persona titular de la Secretaría del Medio Ambiente, la celebración de convenios y demás instrumentos jurídicos, en materia de cultura y educación ambiental, con instituciones públicas y privadas; y
+XXXIV. Proponer a la persona titular de la Secretaría del Medio Ambiente, la celebración de convenios y demás instrumentos jurídicos, en materia de cultura y educación ambiental, con instituciones públicas y privadas; así como la expedición de permisos, autorizaciones y otros instrumentos jurídicos para el uso, aprovechamiento y/o explotación en los espacios e infraestructura del Museo de Historia Natural y Cultura Ambiental, así como en los Centros de Cultura Ambiental u otras áreas asignadas en función a sus atribuciones; y
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXXIV Bis. Proponer a la persona Titular de la Secretaría, la expedición de permisos, autorizaciones y otros instrumentos jurídicos para el uso, aprovechamiento y/o explotación en los espacios e infraestructura del Museo de Historia Natural y Cultura Ambiental, así como en los Centros de Cultura Ambiental u otras áreas asignadas en función a sus atribuciones; y
 
 > <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
 
@@ -10158,13 +10204,17 @@ Corresponde a la Dirección General Jurídica y de Estudios Legislativos:
 
 I. Formular y revisar los anteproyectos de iniciativa de leyes y decretos que la persona Titular de la Jefatura de Gobierno presente al Congreso Local, con excepción de los de materia fiscal;
 
-II. Formular y revisar reglamentos, decretos, acuerdos, órdenes, circulares y demás ordenamientos jurídicos que sean competencia de la Administración Pública, para someterlos a la consideración y en su caso, firma de la persona Titular de la Jefatura de Gobierno, con excepción de los de materia fiscal;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
 
-III. Formular y revisar los proyectos de reglamentos sobre leyes expedidas por el Congreso de la Unión, relativas a la Ciudad de México, para someterlos a la consideración de la persona Titular de la Jefatura de Gobierno;
+II. Formular y revisar reglamentos, decretos, acuerdos, órdenes, circulares y demás ordenamientos jurídicos que sean competencia de la persona titular de la Jefatura de Gobierno, para someterlos a su consideración y, en su caso, firma, con excepción de aquellos que versen sobre materia fiscal;
+
+III. (DEROGADA, G.O. 18 DE ABRIL DE 2024)
 
 IV. Participar en la elaboración del proyecto de agenda legislativa de la persona Titular de la Jefatura de Gobierno;
 
-V. Llevar a cabo la publicación, difusión y distribución de todos aquellos ordenamientos jurídicos y administrativos que deban regir en el ámbito local, en la Gaceta Oficial de la Ciudad de México;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+V. Llevar a cabo la publicación, difusión y distribución de todos aquellos ordenamientos jurídicos y administrativos que deban regir en el ámbito local, mediante la Gaceta Oficial de la Ciudad de México, la cual, bastará con que sea difundida electrónicamente en el sitio oficial de internet de la Consejería Jurídica y de Servicios Legales para su validez oficial;
 
 VI. Llevar a cabo los estudios jurídicos y emitir opinión respecto de las consultas que le encomienden las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades por conducto de la Dependencia a que se encuentren adscritos o sectorizados, y Alcaldías;
 
@@ -10188,7 +10238,9 @@ XIV. Substanciar y emitir el dictamen correspondiente a las solicitudes de pago 
 
 XV. Supervisar la elaboración, trámite y seguimiento de las solicitudes de expropiación de bienes ejidales o comunales en favor de la Ciudad de México;
 
-XVI. Aplicar las disposiciones que regulan la función notarial, vigilar su cumplimiento y resolver los procedimientos administrativos que deriven de ello y las quejas que sean presentadas contra los notarios públicos de la Ciudad de México, así como instrumentar dichos procedimientos y quejas, por sí o a través de la Dirección Consultiva y de Asuntos Notariales y de la Subdirección de Notariado;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XVI. Aplicar las disposiciones que regulan la función notarial, vigilar su cumplimiento y resolver los procedimientos administrativos que deriven de ello y las quejas que sean presentadas contra los notarios públicos de la Ciudad de México, así como instrumentar dichos procedimientos y quejas, por sí o a través de la Dirección de Consultas Jurídicas y Asuntos Notariales, así como de la Subdirección de Asuntos Notariales;
 
 XVII. Conservar, administrar y vigilar el funcionamiento del Archivo General de Notarias así como vigilar el cumplimiento de las disposiciones en materia de protocolos y apéndices que se remitan para su custodia al mismo;
 
@@ -10198,15 +10250,37 @@ XIX. Intervenir en el trámite de legalización de firmas de las personas servid
 
 XX. Mantener actualizado el índice y padrón de la constitución, modificación, adición y avisos de terminación de sociedades de convivencia; y custodiar en el Archivo General de Notarías, los expedientes respectivos remitidos por las Alcaldías;
 
-XXI. Aplicar las disposiciones jurídicas en materia de trámites funerarios y cementerios en la Ciudad de México y vigilar su cumplimiento;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXI. Aplicar las disposiciones jurídico-administrativas en materia de trámites funerarios y cementerios en la Ciudad de México, así como vigilar su cumplimiento y sustanciar el procedimiento administrativo derivado de las visitas de supervisión que lleve a cabo.
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXI Bis. Solicitar la información necesaria a las autoridades involucradas en la prestación del servicio público de cementerios, así como de servicios funerarios. Respecto a los prestadores del servicio público de cementerios, podrá solicitar los informes, datos y documentos que se requieran para conocer y evaluar las condiciones en las que se presta este servicio público;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXI Ter. Resolver, por conducto de la Dirección de Estudios Legislativos y Trámites Inmobiliarios sobre las cuestiones no previstas en el Programa de Regularización de Títulos de Fosas a Perpetuidad en cementerios civiles de la Ciudad de México así como las controversias suscitadas con motivo de la aplicación del mismo, y establecer coordinación con las Alcaldías para tratar temas relacionados con las fosas a perpetuidad, contempladas en el referido Programa y demás asuntos relacionados con los cementerios civiles y comunitarios;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXI Quáter. Coordinar el procedimiento para la prestación de servicios funerarios gratuitos, de acuerdo con lo establecido en los Lineamientos que para tal efecto emita;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXI Quinquies. Autorizar la operación o prestación del servicio público de cementerios en cualquiera de sus modalidades, una vez que las Alcaldías o concesionarios, según corresponda, acrediten el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
 
 XXII. Proponer los lineamientos generales y criterios de interpretación de las disposiciones jurídicas y administrativas que normen el funcionamiento de la Administración Pública y de la función notarial en la Ciudad de México, así como sistematizar y difundir los criterios establecidos;
 
-XXIII. Sistematizar y difundir las normas jurídicas aplicables en la Ciudad de México, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico-administrativo que incida en la esfera de los particulares;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXIII. Sistematizar y difundir en el portal oficial de la Consejería Jurídica y de Servicios Legales las normas jurídicas aplicables en la Ciudad de México, mediante la permanente actualización y compilación;
 
 XXIV. Revisar, y en su caso, opinar sobre las modificaciones jurídicas de las Condiciones Generales de Trabajo y de los contratos colectivos en que sea parte la Administración Pública de la Ciudad de México que le sean presentadas; y
 
-XXV. Certificar, por sí o a través de las Direcciones (sic) Consultas Jurídicas y Asuntos Notariales y de Legislación y Trámites Inmobiliarios, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo.
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XXV. Certificar, por sí o a través de la Dirección de Consultas Jurídicas y Asuntos Notariales, y la Dirección de Estudios Legislativos y Trámites Inmobiliarios, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo.
 
 ###### Artículo 230.
 
@@ -15135,3 +15209,15 @@ SEGUNDO. El presente Decreto entrará en vigor el 01 de febrero de 2024.
 TERCERO. Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite ante la Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable, serán atendidos y resueltos por la Dirección de Hidrometría y Gestión de la Operación.
 
 CUARTO. Las referencias hechas a la Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable en el presente Reglamento, en otros decretos, acuerdos, contratos, convenios, normativa y demás disposiciones e instrumentos jurídicos, se entenderán hechas a la Dirección de Hidrometría y Gestión de la Operación.
+
+G.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 144 BIS, 145, 185 Y 229 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La Consejería Jurídica y de Servicios Legales deberá expedir el Programa de Regularización de Títulos de Fosas a Perpetuidad en Cementerios Civiles de la Ciudad de México, dentro de los 90 días hábiles posteriores a la publicación del presente Decreto. En tanto sea expedido dicho programa seguirán aplicándose las disposiciones del Programa de Regularización de Títulos de Fosas a Perpetuidad en Cementerios Públicos en el Distrito Federal.
+
+CUARTO. Las reformas previstas en el presente Reglamento no deberán implicar cambios en la estructura de las Dependencias involucradas, ni presupuesto adicional al aprobado; por lo que su implementación será a costos compensados.
