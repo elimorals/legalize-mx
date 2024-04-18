@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-humanidades-ciencias-tecnologias-e-innovacion-del-171927
 country: "mx"
 rank: "ley"
 publication_date: "2024-03-05"
-last_updated: "2024-03-05"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Número 44 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de marzo de 2024.
 
@@ -763,9 +763,63 @@ IV. Preferentemente haber realizado destacadas aportaciones teóricas y de incid
 
 V. Los demás requisitos previstos en la Ley de las Entidades de la Administración Pública Paraestatal del Estado.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
+
+###### Artículo 54.
+
+Además de las facultades y obligaciones que le confieren la Ley de las Entidades de la Administración Pública Paraestatal del Estado, la persona titular de la Dirección General tendrá las siguientes atribuciones:
+
+I. Representar legalmente al Consejo Estatal;
+
+II. Celebrar y otorgar toda clase de actos y documentos relativos al objeto del Consejo Estatal;
+
+III. Ejercer actos de dominio, administración, pleitos y cobranzas, aun aquéllas que requieran cláusula especial. La Junta de Gobierno deberá autorizar el ejercicio de actos de dominio;
+
+IV. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial;
+
+V. Formular denuncias y querellas, y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como comparecer por oficio, al igual que las personas servidoras públicas que ocupen cargos en la jerarquía administrativa inmediata inferior, a absolver posiciones en términos de la ley procesal que corresponda;
+
+VI. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
+
+VII. Celebrar transacciones en materia judicial y comprometer asuntos en arbitraje;
+
+VIII. Ejecutar y dar seguimiento a los acuerdos de la Junta de Gobierno;
+
+IX. En su caso, representar a la Junta de Gobierno y al Consejo Estatal en los órganos de gobierno y de administración de los Centros Públicos y de otras entidades paraestatales en los cuales el Consejo Estatal deba participar, así como en comités, comisiones y consejos de la Administración Pública Estatal de los cuales el Consejo Estatal forme parte;
+
+X. Formular los programas institucionales y los presupuestos del Consejo Estatal y presentarlos para su aprobación a la Junta de Gobierno;
+
+XI. Ejercer el presupuesto del Consejo Estatal con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+XII. Elaborar y presentar los proyectos de reglamentos, estatutos y estructura orgánica, y de su modificación, para la aprobación de la Junta de Gobierno;
+
+XIII. Contratar al personal técnico y administrativo especializado que requiera el Consejo Estatal para el cumplimiento de su objeto;
+
+XIV. Presentar a la Junta de Gobierno un informe trimestral del estado que guardan los asuntos encomendados a la Dirección General y los que sean solicitados por el mismo;
+
+XV. Presentar a la Junta de Gobierno la propuesta de canalización de fondos, así como las condiciones a que la misma se sujetará para la realización de proyectos, estudios, investigaciones específicas, otorgamiento de becas y cualquier otro proyecto que se considere necesario;
+
+XVI. Establecer programas que propicien la permanencia de personas académicas, investigadoras, tecnólogas e innovadoras en el Estado, así como su incorporación al sector privado de la entidad;
+
+XVII. Suscribir y negociar títulos de crédito, así como tramitar y obtener cartas de crédito, previa autorización de la Junta de Gobierno;
+
+XVIII. Expedir los manuales de organización, de procedimientos y de servicios del Consejo Estatal;
+
+XIX. Formular, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, acuerdos y órdenes de la persona titular del Ejecutivo del Estado;
+
+XX. Proporcionar la información que le soliciten los comisarios públicos;
+
+XXI. Ejercer las atribuciones del Consejo Estatal que en la presente Ley no se encuentren expresamente atribuidas a otro órgano;
+
+XXII. Informar a la Junta de Gobierno sobre el ejercicio de las facultades que este artículo le concede, y
+
+XXIII. Las que le confieran los ordenamientos aplicables y las demás que con fundamento en esta Ley le delegue la Junta de Gobierno.
+
 #### Sección Quinta. Del Órgano Interno Consultivo
 
-Artículo 55 (sic). El Consejo Estatal contará con un Órgano Interno Consultivo, que lo auxiliará en el cumplimiento de sus atribuciones de asesoría y consulta especializada.
+###### Artículo 55.
+
+El Consejo Estatal contará con un Órgano Interno Consultivo, que lo auxiliará en el cumplimiento de sus atribuciones de asesoría y consulta especializada.
 
 Asimismo, el Órgano Interno Consultivo fungirá como espacio de expresión de la comunidad, así como de los sectores social y privado, para la formulación de propuestas relacionadas con políticas y programas en materia de humanidades, ciencias, tecnologías e innovación.
 
@@ -1190,3 +1244,13 @@ DIPUTADA SECRETARIA:
 PROFA. MILDRED CONCEPCIÓN ÁVILA VERA.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 205 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal, Quintana Roo, a 22 de febrero de 2024.- Lic. María Elena H. Lezama Espinosa, Gobernadora del Estado. Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 216 POR EL QUE SE ADICIONA EL ARTÍCULO 54 A LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 32 DE LA LEY DEL COLEGIO DE BACHILLERES, AMBAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan la presente Decreto.
