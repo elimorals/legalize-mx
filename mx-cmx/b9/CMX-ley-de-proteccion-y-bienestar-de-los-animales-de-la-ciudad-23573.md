@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2024-03-27"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -42,7 +42,7 @@ II LEGISLATURA
 
 DECRETA:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], G.O. 18 DE ABRIL DE 2024)</small>
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
@@ -176,17 +176,17 @@ Queda expresamente prohibida la caza y captura de cualquier especie de fauna sil
 
 Las autoridades de la Ciudad de México deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2024)</small>
 
-###### Artículo 4°.
+###### Artículo 4.
 
-Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de Protección a la Tierra en la Ciudad de México, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección y bienestar animal en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
+Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de Protección a la Tierra en la Ciudad de México, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección a los animales en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
 
 > <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
 I. Acuario: Una instalación, espacio o recipiente fijo abierto al público capaz de contener agua y dotado de los componentes mecánicos que hacen posible la recreación de ambientes subacuáticos de agua dulce, marina o salobre y alberga flora y fauna correspondiente a esos ambientes, como peces, invertebrados y plantas.
 
-> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 18 DE ABRIL DE 2024)</small>
 
 I Bis. Alcaldías: Los órganos político-administrativos en cada una de las demarcaciones territoriales de la Ciudad de México;
 
@@ -336,7 +336,7 @@ XXII BIS. Criador: La persona física o moral que realiza las actividades de rep
 
 XXII BIS 1. Criadero: Lugar destinado a la reproducción y crianza con fines de venta, cuya actividad se encuentra regulada por esta Ley y demás legislación aplicable;
 
-XXIII. (DEROGADA, G.O. 27 DE MARZO DE 2024)
+XXIII. (DEROGADA [N. DE E. REPUBLICADA SU DEROGACIÓN], G.O. 18 DE ABRIL DE 2024)
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -902,7 +902,7 @@ VI. En los casos en que no sea de su competencia, canalizar a la autoridad compe
 
 VII. Las demás que esta Ley y ordenamientos jurídicos aplicables les confieren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 18 DE ABRIL DE 2024)</small>
 
 ###### Artículo 12.
 
@@ -962,6 +962,10 @@ En el caso de incumplir con los requisitos establecidos en el artículo 28 y 28 
 
 IX. Supervisar, verificar y sancionar en materia de la presente ley a los criaderos, establecimientos, pensiones, escuelas de adiestramiento, refugios, asilos, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales;
 
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+IX Bis. De conformidad (sic) el artículo 134 Bis de Ley Orgánica de Alcaldías de la Ciudad de México, destinar en su programa operativo anual y anteproyecto de presupuesto de egresos de cada año, de acuerdo con los criterios presupuestales, un porcentaje de recursos para la realización de campañas permanentes de esterilización gratuita para animales en situación de calle, tomando en consideración la situación de cada colonia, barrio o comunidad dentro de su demarcación territorial;
+
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
 
 X. Impulsar en coordinación con la Agencia campañas masivas de concientización para la protección y el trato digno y respetuoso a los animales y la desincentivación de la compraventa de especies silvestres, así como campañas masivas de fomento a la adopción de animales;
@@ -974,9 +978,21 @@ XI. Establecer campañas masivas de vacunación antirrábica, sanitarias para el
 
 XII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
 
-XIII. Coordinarse con la Secretaría de Salud y con la Agencia para el cumplimiento de los programas establecidos en la presente Ley; y
+XII Bis. Vigilar, en el ámbito de sus competencias, el cumplimiento de las disposiciones de la presente Ley en mercados públicos, bazares, complementarios y demás instalados en la vía pública;
+
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XIII. Coordinarse con la Secretaría de Salud y con la Agencia para el cumplimiento de los programas establecidos en la presente Ley;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XIII Bis. Asignar una unidad administrativa encargada de atender los temas relacionados con el bienestar y la protección de los animales;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2024)</small>
+
+XIII Ter. Informar a la Comisión de Bienestar Animal del Congreso de la Ciudad de México de las actividades que realizan en materia de bienestar y protección animal, entre las que se encuentran, de manera enunciativa más no limitativa, consultas médicas, esterilizaciones, vacunaciones y desparasitaciones; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1762,11 +1778,11 @@ La persona tutora responsable o encargada de animales para la monta, carga y tir
 
 La prestación del servicio de monta recreativa requiere autorización de la Alcaldía, salvo en las áreas de valor ambiental o áreas naturales protegidas en cuyo caso corresponde a la Secretaría su autorización, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, su reglamento y demás disposiciones jurídicas aplicables. En ningún caso se autorizará la prestación de estos servicios en los parques públicos en el suelo urbano, ni en la vía o espacios públicos de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2024)</small>
 
 ###### Artículo 38.
 
-Las autoridades delegacionales deberán implantar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas adecuados conforme a los principios de trato digno y respetuoso contenidos en la presente Ley, y en su caso logrando la reubicación de las parvadas, cuando sea posible.
+Las Alcaldías deberán implantar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas adecuados conforme a los principios de trato digno y respetuoso contenidos en la presente Ley, y en su caso logrando la reubicación de las parvadas, cuando sea posible.
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2214,7 +2230,9 @@ Si derivado de las denuncias que se sigan a petición de interesado, resultare q
 
 En los casos, que se actualice la hipótesis, que se contempla en el último párrafo del artículo anterior, tratándose de animales, que hayan sido causa de infracciones, que (sic) previstas en la presente Ley, que no hayan sido reclamados por la persona tutora responsable; que sean animales perdidos y sin tutor, las Asociaciones Protectoras de Animales, reconocidas conforme a la normatividad aplicable y que deben estar debidamente registradas, tendrán derecho, previo al cumplimiento del trámite correspondiente a recogerlos y brindarles asilo.
 
-Cuando las infracciones que se cometan, sean competencia de las Delegaciones o de la Secretaria de Salud, la autoridad correspondiente del decomiso o la entrega, según sea el caso; a la solicitud expresa y escrita por parte de las Asociaciones Protectoras de Animales, proceda la entrega del animal, cuando estas se comprometan a brindar protección y asilo, cumpliendo con lo establecido en la presente Ley.
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2024)</small>
+
+Cuando las infracciones que se cometan sean competencia de las Alcaldías o de la Secretaría de Salud, la autoridad correspondiente del decomiso o la entrega, según sea el caso; a solicitud expresa y por escrito de las Asociaciones Protectoras de Animales, se procederá a la entrega del animal para lo cual se comprometen a brindar protección y asilo cumpliendo con lo establecido en la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2238,19 +2256,15 @@ Tratándose de animales perdidos o abandonados en la vía pública y sin persona
 
 El Reglamento, establecerá los mecanismos de registro de las Asociaciones y los procedimientos para acreditar su personalidad y poder actuar ante las autoridades administrativas competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2024)</small>
 
 ###### Artículo 66.
 
-Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de veintiuno a treinta veces la Unidad de Cuenta de la Ciudad de México vigente o arresto inconmutable de 24 a 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar; cuando las sanciones sean de la competencia de las Delegaciones o de la Secretaría de Salud, la sanción consistirá solamente en multa.
+Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de veintiuno a treinta veces la Unidad de Medida y Actualización vigente o arresto inconmutable de 24 a 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar; cuando las sanciones sean de la competencia de las Alcaldías o de la Secretaría de Salud, la sanción consistirá solamente en multa.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+Las infracciones a lo dispuesto por esta Ley, cuyo conocimiento no se encuentre reservado a una autoridad especial, será de la competencia de las Alcaldías, a través de su respectiva Unidad Administrativa encargada de asuntos jurídicos.
 
-Las infracciones a lo dispuesto por esta Ley, cuyo conocimiento no se encuentre reservado a una autoridad especial, será de la competencia de las Delegaciones, a través de su respectiva Dirección General Jurídica y de Gobierno.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en Instituciones Científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, el conocimiento de la infracción será competencia de las Delegaciones y la multa será de cincuenta a ciento cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
+En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en Instituciones Científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, el conocimiento de la infracción será competencia de las Alcaldías y la multa será de cincuenta a ciento cincuenta veces la Unidad de Medida y Actualización vigente, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
 
 ###### Artículo 67.
 
@@ -2288,7 +2302,7 @@ Las multas que fueren impuestas por las Alcaldías, la Secretaría, la Secretar�
 
 Las multas impuestas por los Juzgados Cívicos, serán cobradas en los términos establecidos en la Ley de Cultura Cívica de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 18 DE ABRIL DE 2024)</small>
 
 ###### Artículo 70.
 
@@ -2785,3 +2799,13 @@ CUARTO. A partir de la entrada en vigor de la presente Ley, la Secretaría deber
 QUINTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, la Agencia de Atención Animal deberá emitir los lineamientos e implementar el padrón de las personas físicas y morales que se dediquen al paseo de perros.
 
 SEXTO. Dentro de los 180 días hábiles siguientes a la publicación del presente decreto, las Alcaldías realizaran las acciones necesarias para instalar y acondicionar las zonas de resguardo temporal, materia del presente decreto.
+
+G.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES QUE REALIZA EL JEFE DE GOBIERNO AL DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 4; EL PÁRRAFO PRIMERO Y LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 12; LA FRACCIÓN XXI DEL ARTÍCULO 25; EL ARTÍCULO 38; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 65 BIS; EL ARTÍCULO 66 Y EL ARTÍCULO 70; ASIMISMO, SE ADICIONA LA FRACCIÓN 1 BIS AL ARTÍCULO 4; LAS FRACCIONES IX BIS XV Y XVI AL ARTÍCULO 12; Y, SE DEROGA LA FRACCIÓN XXIII DEL ARTÍCULO 4, TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 4; EL PÁRRAFO PRIMERO Y LA FRACCIÓN XIII DEL ARTÍCULO 12; EL ARTÍCULO 38; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 65 BIS; EL ARTÍCULO 66 Y, EL ARTÍCULO 70; ASIMISMO, SE ADICIONA LA FRACCIÓN 1 BIS AL ARTÍCULO 4; LAS FRACCIONES IX BIS, XII BIS, XII BIS (SIC) Y 13 TER AL ARTÍCULO 12; Y SE DEROGA LA FRACCIÓN XXIII DEL ARTÍCULO 4, TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
