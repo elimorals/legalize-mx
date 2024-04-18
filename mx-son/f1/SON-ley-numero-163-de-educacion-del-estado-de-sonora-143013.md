@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-07-13"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -831,25 +831,25 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 ### Capítulo VI. De la educación indígena
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Objeto de la educación indígena
 
 ###### Artículo 51.
 
-En el Estado de Sonora se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas de nuestra entidad federativa como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+En el Estado de Sonora se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas, en estricto apego a los principios de la interculturalidad, contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas de nuestra entidad federativa como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado de Sonora.
+La educación indígena debe ser intercultural y atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado de Sonora.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Consulta de buena fe y de manera previa, libre e informada a pueblos y comunidades indígenas
 
 ###### Artículo 52.
 
-Las autoridades educativas del Estado de Sonora consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales estatales, nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+Las autoridades educativas del Estado de Sonora y el Congreso del Estado de Sonora, consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales estatales, nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Acciones en materia de educación indígena
 
@@ -857,17 +857,23 @@ Acciones en materia de educación indígena
 
 En materia de educación indígena, la autoridad educativa estatal y autoridades municipales podrán realizar lo siguiente, entre otras acciones:
 
-I.- Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
+I.- Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad, procurando que su respectivo personal y directivos estén capacitados, al menos, para comunicarse en las lenguas indígenas de la región en donde se encuentren asentados;
 
-II.- Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
+II.- Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas, y promover, en estricto respeto a los usos y costumbres de los pueblos y comunidades indígenas, la valoración de las distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
 
-III.- Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas de nuestra entidad federativa;
+III.- Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos, libros de texto gratuitos, en las diversas lenguas de nuestra entidad federativa;
 
-IV.- Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
+IV.- Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, respetando sus usos y costumbres, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
 
-V.- Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe; y
+V.- Crear mecanismos y estrategias acordes a los usos y costumbres de los pueblos y comunidades indígenas, para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe;
 
-VI.- Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
+VI.- Procurar la asignación de personal docente que sea necesario en las escuelas de educación indígena, ya sea de base o temporal para cubrir ausencias, con el fin de que no se interrumpa el proceso de enseñanza aprendizaje;
+
+VII.- Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas;
+
+VIII.- Vincular los contenidos de la educación indígena con los sectores productivos de la región respectiva, que favorezcan la inclusión laboral de sus egresados, y la aportación de estos últimos al desarrollo de sus comunidades; y
+
+IX.- Llevar a cabo programas de sensibilización de padres y madres de familia de estudiantes indígenas con discapacidad o en situación de discapacidad, encaminados a que reconozcan y acepten los diagnósticos de discapacidad que afectan a sus hijos e hijas, y participen en su atención integral.
 
 ### Capítulo VII. De la educación humanista
 
@@ -889,85 +895,71 @@ La Secretaría generará mecanismos para apoyar y promover la creación y difusi
 
 ### Capítulo VIII. De la educación inclusiva
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Educación inclusiva
 
 ###### Artículo 56.
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, dando prioridad a aquellos que pertenecen a grupos vulnerables de nuestra sociedad, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+La educación inclusiva se basa en la valoración de la diversidad, con un enfoque de interculturalidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Finalidad de la educación inclusiva
 
 ###### Artículo 57.
 
-La educación inclusiva tiene como finalidad favorecer el aprendizaje de todos los educandos en los tipos y niveles educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la Secretaría en la materia buscarán:
+La educación inclusiva tiene como finalidad favorecer el aprendizaje de todos los educandos en los tipos y niveles educativos, con énfasis en los que pertenecen a grupos vulnerables de nuestra sociedad, así como todos aquellos que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la Secretaría en la materia buscarán:
 
 I.- Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
-II.- Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
+II.- Aplicar los principios de la Educación Intercultural en el Sistema Educativo;
 
-III.- Favorecer la plena participación de los educandos en su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
+III.- Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
 
-IV.- Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+IV.- Favorecer la plena participación de los educandos en su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
 
-V.- Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación; y
+V.- Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, o por discapacidad, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
 
-VI.- Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+VI.- Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación; y
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VII.- Garantizar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Educación especial
 
-###### Artículo 58.
+###### Articulo 58.
 
-EN LA APLICACIÓN DE ESTA LEY, SE GARANTIZARÁ EL DERECHO A LA EDUCACIÓN A LOS EDUCANDOS CON CONDICIONES ESPECIALES, APTITUDES SOBRESALIENTES O QUE ENFRENTEN BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN.
+En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con discapacidad o en situación de discapacidad, con condiciones especia les, aptitudes sobresalientes, o que enfrenten barreras para el aprendizaje y la participación.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La Secretaría, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con discapacidad o en situación de discapacidad, con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
 
-LA SECRETARÍA, EN EL ÁMBITO DE SU COMPETENCIA Y DE CONFORMIDAD A LOS CRITERIOS ORIENTADORES PARA LA PRESTACIÓN DE LOS SERVICIOS DE EDUCACIÓN ESPECIAL QUE EMITA LA AUTORIDAD EDUCATIVA FEDERAL, PARA ATENDER A LOS EDUCANDOS CON CAPACIDADES, CIRCUNSTANCIAS, NECESIDADES, ESTILOS Y RITMO DE APRENDIZAJE DIVERSOS, REALIZARÁ LO SIGUIENTE:
+I.- Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II.- Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
-I.- PRESTAR EDUCACIÓN ESPECIAL EN CONDICIONES NECESARIAS, PREVIA DECISIÓN Y VALORACIÓN POR PARTE DE LOS EDUCANDOS, MADRES Y PADRES DE FAMILIA O TUTORES, PERSONAL DOCENTE Y, EN SU CASO, DERIVADOS POR UNA CONDICIÓN DE SALUD, PARA GARANTIZAR EL DERECHO A LA EDUCACIÓN DE LOS EDUCANDOS QUE ENFRENTAN BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN;
+III.- Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria, proporcionando seguimiento de un nivel educativo a otro;
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+IV.- Establecer un sistema de diagnóstico temprano, preferentemente desde educación inicial y preescolar, para la planeación de los servicios educativos, que permitan brindar atención especializada para la eliminación de barreras para el aprendizaje y la participación;
 
-II.- OFRECER FORMATOS ACCESIBLES PARA PRESTAR EDUCACIÓN ESPECIAL, PROCURANDO EN LA MEDIDA DE LO POSIBLE SU INCORPORACIÓN A TODOS LOS SERVICIOS EDUCATIVOS, SIN QUE ESTO CANCELE SU POSIBILIDAD DE ACCEDER AL SERVICIO ESCOLARIZADO;
-
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-III.- PRESTAR EDUCACIÓN ESPECIAL PARA APOYAR A LOS EDUCANDOS CON ALGUNA DISCAPACIDAD O APTITUDES SOBRESALIENTES EN LOS NIVELES DE EDUCACIÓN OBLIGATORIA;
-
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IV.- ESTABLECER UN SISTEMA DE DIAGNÓSTICO TEMPRANO Y ATENCIÓN ESPECIALIZADA PARA LA ELIMINACIÓN DE BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN;
-
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-V.- PROMOVER LA FORMACIÓN DE TODO EL PERSONAL DOCENTE PARA QUE, EN EL ÁMBITO DE SUS COMPETENCIAS, CONTRIBUYAN A IDENTIFICAR Y ELIMINAR LAS BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN, Y PRESTE LOS APOYOS QUE LOS EDUCANDOS REQUIERAN;
-
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+V.- Promover la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
 
 VI.- Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva;
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+VII.- Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores (sic) sociales involucrados en educación;
 
-VII.- Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación; y
+VIII.- Garantizar que las instituciones educativas públicas y privadas cuenten con el personal docente capacitado para impartir educación especial para personas con alguna discapacidad de las previstas en la Ley para la Inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora, a cuyo efecto llevará a cabo programas de capacitación de manera permanente y gratuita tanto para instituciones públicas como privadas, al menos, en Lengua de Señas Mexicana y Sistema Braille.
 
-> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2021)</small>
+IX.- Promover la implementación de Educación Especial en las instituciones de educación superior establecidas en el Estado; y
 
-VIII.- Garantizar que las instituciones educativas públicas y privadas cuenten con el personal docente capacitado para impartir educación especial para personas con alguna discapacidad de las previstas en la Ley para la inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora, a cuyo efecto llevará a cabo programas de capacitación de manera permanente y gratuita tanto para instituciones públicas como privadas.
+X.- Garantizar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+El Instituto de Becas y Crédito Educativo del Estado de Sonora, de acuerdo a la suficiencia presupuestal, otorgará becas que soliciten alumnos inscritos en educación básica y media superior, que presenten alguna discapacidad en términos de la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad o en Situación de Discapacidad del Estado de Sonora, atendiendo, particularmente el otorgamiento a los alumnos con sordera profunda para el pago del interprete respectivo.
 
-EL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, DE ACUERDO A LA SUFICIENCIA PRESUPUESTAL, OTORGARÁ BECAS QUE SOLICITEN ALUMNOS INSCRITOS EN EDUCACIÓN BÁSICA Y MEDIA SUPERIOR, QUE PRESENTEN ALGUNA DISCAPACIDAD EN TÉRMINOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, ATENDIENDO, PARTICULARMENTE EL OTORGAMIENTO A LOS ALUMNOS CON SORDERA PROFUNDA PARA EL PAGO DEL INTERPRETE RESPECTIVO.
-
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 Medidas para garantizar la educación inclusiva
 
@@ -977,13 +969,17 @@ Para garantizar la educación inclusiva, la Secretaría, en el ámbito de su com
 
 I.- Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-II.- Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+II.- Facilitar la adquisición y el aprendizaje de· la Lengua de Señas Mexicana, dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
 
 III.- Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
-IV.- Asegurar que se realicen ajustes razonables para las personas con discapacidad; y
+IV.- Procurar que en los planteles educativos exista personal docente capacitado, el menos, en Lengua de Señas Mexicana y Sistema Braille;
 
-V.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+V.- Asegurar que se realicen ajustes razonables para las personas con discapacidad;
+
+VI.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades; y
+
+VII.- Garantizar el respeto estricto al Derecho Humano a la No Discriminación, debiendo prohibir, expresamente, que se condicione por cualquier motivo el acceso a los servicios educativos.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
 
@@ -2974,3 +2970,11 @@ La Secretaría de Educación y Cultura, y el Instituto de Becas y Crédito Educa
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Educación y Cultura, y el Instituto de Becas y Crédito Educativo del Estado de Sonora, en coordinación con la Secretaría de Hacienda, deberán implementar de manera gradual el sistema universal de becas a que se refiere el presente Decreto, sujetándose a metas de corto, mediano y largo plazo, a efecto de garantizar el equilibrio y balance sostenible de las finanzas públicas del Estado.
+
+B.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 170, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, Y DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
