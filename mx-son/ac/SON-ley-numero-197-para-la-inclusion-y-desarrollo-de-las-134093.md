@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-197-para-la-inclusion-y-desarrollo-de-las-134093"
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-14"
-last_updated: "2021-03-01"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE ABRIL DE 2024.
 
 Ley publicada en el Número 4 Secc. II del Boletín Oficial del Estado de Sonora, el lunes 14 de enero de 2019.
 
@@ -190,6 +190,10 @@ XLIX.- Trabajo protegido: Todo aquel programa o proyecto encaminado a dar empleo
 L.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 LI.- Vía pública: Los espacios de uso común, destinados al tránsito de peatones y vehículos de propulsión mecánica, propulsión humana o tracción animal.
+
+> <small>(ADICIONADA, B.O. 18 DE ABRIL DE 2024)</small>
+
+LII.- Procuraduría: A la Procuraduría de la Defensa de los derechos de las Personas con Discapacidad del DIF Estatal.
 
 ###### ARTÍCULO 5.
 
@@ -429,17 +433,13 @@ II.- Crear y operar centros educativos integradores en formación inicial para e
 
 III.- Garantizar el acceso a la educación regular e inclusiva a las personas con discapacidad o personas en situación de discapacidad en el Estado de Sonora;
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 206/2020, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 107, POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2020)</small>
+IV.- Proporcionar a las personas con discapacidad o en situación de discapacidad que así lo requieran, educación especial, de acuerdo a sus necesidades específicas, tendiendo en todo momento a potenciar y desarrollar sus habilidades y su capacidad cognoscitiva, que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad. La educación inclusiva tenderá a ser de naturaleza variable y tendrá por objetivo la inclusión de los alumnos con discapacidad al sistema de educación regular, garantizando que los maestros que interactúen con alumnos sordos o ciegos, estén capacitados en Lengua de Señas Mexicana o el sistema de Lectoescritura Braille, respectivamente, y cuenten con materiales didácticos adecuados a su discapacidad;
 
-IV.- PROPORCIONAR A LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD QUE ASÍ LO REQUIERAN, EDUCACIÓN ESPECIAL, DE ACUERDO A SUS NECESIDADES ESPECÍFICAS, TENDIENDO EN TODO MOMENTO A POTENCIAR Y DESARROLLAR SUS HABILIDADES, SU CAPACIDAD COGNOSCITIVA. LA EDUCACIÓN INCLUSIVA TENDRÁ A SER DE NATURALEZA VARIABLE Y TENDRÁ POR OBJETIVO LA INCLUSIÓN DE LOS ALUMNOS CON DISCAPACIDAD AL SISTEMA DE EDUCACIÓN REGULAR, GARANTIZANDO QUE LOS MAESTROS QUE INTERACTÚEN CON ALUMNOS SORDOS O CIEGOS, ESTÉN CAPACITADOS EN LENGUA DE SEÑAS MEXICANA O EL SISTEMA DE LECTOESCRITURA BRAILLE, RESPECTIVAMENTE;
+> <small>(REFORMADA, B.O. 18 DE ABRIL DE 2024)</small>
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 206/2020, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 107, POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2020)</small>
-
-V.- CREAR Y OPERAR CENTROS EDUCATIVOS ESCOLARIZADOS Y ABIERTOS, ASÍ COMO FOMENTAR Y PROMOVER LA CREACIÓN DE GRUPOS EN LAS INSTITUCIONES EDUCATIVAS EXISTENTES EN EL ESTADO, EN LOS QUE SE INSTRUYA A LA POBLACIÓN EN EDUCACIÓN BILINGÜE-CULTURAL, LA LENGUA DE SEÑAS MEXICANA, Y EL SISTEMA DE LECTOESCRITURA BRAILLE, Y TECNOLOGÍA ADAPTADA A LA DISCAPACIDAD;
+V.- Crear y operar centros educativos escolarizados y abiertos, con educación inclusiva y especial, así como fomentar y promover la creación de grupos en las instituciones educativas existentes en el Estado, en los que se instruya a la población en educación bilingüe-cultural, la Lengua de Señas Mexicana, y el sistema de Lectoescritura Braille, y la tecnología adaptada a la discapacidad;
 
 VI.- Elaborar y ejecutar un programa de educación arquitectónica de las instalaciones educativas, que garanticé el acceso universal a los estudiantes con discapacidad en todos los planteles educativos del Estado de Sonora;
 
@@ -769,7 +769,9 @@ Los Sistemas DIF Municipales constituirán en el ámbito de sus respectivas comp
 
 El Consejo, para la inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora, tendrá las atribuciones siguientes:
 
-I.- Elaborar el Programa Estatal para la Inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado y ejecutarlo con base en sus facultades y atribuciones. En la elaboración de dicho Programa deberán considerarse como conceptos fundamentales los de accesibilidad universal y progresividad, y cuando menos los siguientes rubros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE ABRIL DE 2024)</small>
+
+I.- Elaborar en coordinación con la Procuraduría de la Defensa de los derechos de las Personas con Discapacidad del DIF Estatal, el Programa Estatal para la Inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado y ejecutarlo con base en sus facultades y atribuciones. En la elaboración de dicho Programa deberán considerarse como conceptos fundamentales los de accesibilidad universal y progresividad, y cuando menos los siguientes rubros:
 
 A) Prevención de nuevas discapacidades, atención médica integral y rehabilitación;
 
@@ -851,7 +853,9 @@ XXIII.- Desarrollar e implementar, de conformidad con las herramientas a su alca
 
 Mantener publicada y actualizada la información sobre los programas y servicios existentes para la atención a personas con discapacidad en modalidades y formatos que resulten accesibles para todo público;
 
-XXIV.- Brindar orientación legal a personas con discapacidad;
+> <small>(REFORMADA, B.O. 18 DE ABRIL DE 2024)</small>
+
+XXIV.- Brindar atención y orientación legal a través de la Procuraduría de la Defensa de los derechos de las Personas con Discapacidad del DIF Estatal, a todas las personas que así lo requieran;
 
 XXV.- Promover el otorgamiento de apoyos económicos para las personas que tengan a su cuidado a una o más personas con discapacidad o personas en situación de discapacidad y brindar atención psicológica a cuidadores y a personas con discapacidad o en situación con (sic) discapacidad; de conformidad con la suficiencia presupuestal aprobada por el Congreso del Estado.
 
@@ -861,7 +865,9 @@ XXVII.- Promover la conformación de grupos de autoayuda, asociaciones y organiz
 
 XXVIII.- Las demás que le señale esta Ley y otras disposiciones legales.
 
-ARTÍCULO 55 (SIC).- La información contenida en el Padrón de Personas con discapacidad o personas en situación de discapacidad a que se refiere la presente Ley, deberá permitir la obtención de datos que ayuden a conocer y medir la situación en la que viven y se desarrollan las personas con discapacidad o personas en situación de discapacidad en cuanto al tipo de discapacidad, sexo, edad, nivel educativo, economía, salud, ocupación laboral, lugar de residencia y cualquier otro dato que permita al Consejo detectar los problemas a los que se enfrenta esta población y definir las estrategias de solución para el cumplimiento de los derechos que establece esta Ley y demás ordenamientos locales, nacionales e internacionales.
+> <small>(REFORMADO EN SU NUMERACIÓN, B.O. 18 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 55 BIS.- La información contenida en el Padrón de Personas con discapacidad o personas en situación de discapacidad a que se refiere la presente Ley, deberá permitir la obtención de datos que ayuden a conocer y medir la situación en la que viven y se desarrollan las personas con discapacidad o personas en situación de discapacidad en cuanto al tipo de discapacidad, sexo, edad, nivel educativo, economía, salud, ocupación laboral, lugar de residencia y cualquier otro dato que permita al Consejo detectar los problemas a los que se enfrenta esta población y definir las estrategias de solución para el cumplimiento de los derechos que establece esta Ley y demás ordenamientos locales, nacionales e internacionales.
 
 El proceso de recopilación y mantenimiento de la información contenida en el Padrón, deberá respetar las garantías sobre protección de datos establecidos en la Ley de la materia, a fin de asegurar la confidencialidad y respeto de la privacidad de las personas con discapacidad o personas en situación de discapacidad.
 
@@ -1227,13 +1233,17 @@ IV.- Conocer las variaciones regionales y dialectales del lugar en el que trabaj
 
 ### CAPÍTULO XIX. DE LA VIGILANCIA
 
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 104.
 
-Todos los órganos de la Administración Pública del Gobierno de Estado, en el ámbito de sus respectivas competencias, deberán vigilar el debido cumplimiento de la presente Ley y en su caso, proceder a aplicar las sanciones que procedan a los responsables del incumplimiento o violación del citado ordenamiento.
+Todas las Secretarías y entidades que integran la Administración Pública Estatal, así como los Municipios en el ámbito de sus respectivas competencias y jurisdicción, vigilarán y garantizarán la defensa de los derechos de las personas con discapacidad, procurando otorgar además una atención preferencial que agilice los trámites y procedimientos administrativos que las mismas realicen.
+
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 105.
 
-El Instituto para la Inclusión al Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado, velará en todo momento por el debido cumplimiento de la presente Ley y en casos de violación u omisión dará vista a la autoridad competente a fin de que se avoque a la investigación y en su caso a la sanción de dichas violaciones.
+La Procuraduría velará en todo momento por el debido cumplimiento de la presente Ley y el respeto de los derechos de las personas con discapacidad previsto en la legislación aplicable, y en casos de violación u omisión dará vista a la autoridad competente a fin de que se avoque a la investigación y en su caso a la sanción de las mismas.
 
 ###### ARTÍCULO 106.
 
@@ -1262,6 +1272,140 @@ Para la aplicación de las sanciones administrativas contenidas en la presente L
 ###### ARTÍCULO 109.
 
 Las resoluciones en que se impongan sanciones a los particulares, derivadas de la aplicación de la presente Ley, serán recurribles ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 18 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO XXI. DE LA PROCURADURÍA DE LA DEFENSA DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 110.
+
+La Procuraduría de la Defensa de los Derechos de las Personas con Discapacidad, es un Órgano Administrativo Desconcentrado, jerárquicamente subordinado al Organismo Público Descentralizado denominado Sistema para el Desarrollo Integral de la Familia en el estado de Sonora, con el objeto de brindar protección a los derechos humanos y asistencia en cualquier cuestión y asuntos relacionados con todas las personas con discapacidad.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 111.
+
+Para el cumplimiento de su objeto, la Procuraduría, tendrá las siguientes atribuciones:
+
+I.- Para los efectos de planeación, programación, ejecución seguimiento y control de políticas públicas en la materia, la Procuraduría, deberá mantener un Registro Estatal de Personas con Discapacidad;
+
+II.- Vigilar que las políticas públicas en (sic) dirigidas a brindar atención a las personas con discapacidad cumplan con los principios de equidad, justicia social, equiparación de oportunidad, el reconocimiento de las diferencias, la dignidad, la inclusión, el respeto, la accesibilidad universal, el fomento a la vida independiente, la transversalidad, el diseño universal y la no discriminación por motivos de discapacidad;
+
+III.- Orientar, asesorar y representar gratuitamente en materia legal cualquier asunto en que las personas con discapacidad tengan un interés jurídico directo, en especial aquellos que se refieren a su salud y seguridad;
+
+IV.- Procurar y velar para que las personas con discapacidad reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte;
+
+V.- Procurar, impulsar y promover el reconocimiento y protección en el ejercicio pleno de los derechos humanos de todas las personas con discapacidad al acceso al entorno físico y social, al transporte, a los sistemas y las tecnologías de la información y las comunicaciones y a otros servicios e instalaciones abiertas al público o de uso público en igualdad de condiciones con los demás, tanto en zonas urbanas como rurales y de todos aquellos derechos previstos en la legislación aplicable;
+
+VI.- Visitar, vigilar y supervisar los establecimientos públicos y privados donde se atienda a personas con discapacidad, para asegurar que cuenten con las adecuaciones necesarias para su atención, y así garantizar el pleno respeto a su integridad física y mental;
+
+VII. La Procuraduría tendrá la facultad de emitir sanciones administrativas mediante a (sic) la denuncia popular a los sujetos públicos y privados que menoscaben los derechos humanos de todas las personas con discapacidad;
+
+VIII.- Vigilar que a todas las personas con discapacidad se le garantice el derecho de ser escuchada en los ámbitos médico y legal, con la intervención de la familia o autoridad competente en su caso;
+
+IX.- Coadyuvar con la Fiscalía General de Justicia del Estado de Sonora, en la investigación cuando las personas con discapacidad sean víctimas de cualquier conducta presuntamente tipificada como delito;
+
+X.- Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando la persona con discapacidad se encuentre en situación de abandono por parte de los familiares o cuidadores;
+
+XI.- Recibir, atender, orientar y en su caso remitir, a la instancia competente, las denuncias o reclamaciones de abuso o violación de los derechos humanos de todas las personas con discapacidad establecidos en la presente Ley; y
+
+XII.- Las demás que le determinen las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 112.
+
+La Procuraduría estará a cargo de una o un Procurador, quien será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado, conforme a sus atribuciones establecidas en la Ley. La Procuraduría contará con las unidades administrativas necesarias para lograr su finalidad, previa aprobación del Órgano de Gobierno del DIF Estatal.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 113.
+
+Para ser titular de la Procuraduría, se requiere:
+
+(NOTA: EL 24 DE FEBRERO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 112/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I.- Ser mexicano POR NACIMIENTO;
+
+II.- Contar con título de licenciado en Derecho con título debidamente registrado y con tres años mínimos de ejercicio profesional comprobado;
+
+III.- Mayor de treinta años; y
+
+IV.- Contar con reconocida experiencia en el tema de la discapacidad.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 114.
+
+La o el titular de la Procuraduría, contará con las siguientes atribuciones:
+
+I.- Dirigir, ordenar y dar seguimiento a las labores de las distintas áreas operativas de la Procuraduría;
+
+II.- Representar a la Procuraduría ante cualquier autoridad, organismo descentralizado federal, estatal o municipal, personas físicas o morales de derecho público o privado;
+
+III.- Elaborar y someter a aprobación de Junta de Gobierno del DIF Estatal, el Reglamento Interior y la Estructura Orgánica de la Procuraduría de la Defensa de los Derechos de las Personas con Discapacidad, los manuales de organización y de procedimientos administrativos de la Procuraduría, buscando la agilización de las actividades de la misma y eficaz respeto de los derechos humanos de todas las personas con discapacidad;
+
+IV.- Proponer para su aprobación y designación de la Junta de Gobierno del DIF Estatal, de los nombramientos al personal de confianza de la Procuraduría.
+
+V.- Coordinar las actividades y supervisar el cumplimiento de las obligaciones y atribuciones de la Procuraduría;
+
+VI.- Presentar un informe anual de actividades de la Procuraduría, a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora y al Consejo para la Inclusión y Desarrollo de las Personas con Discapacidad o en Situación de Discapacidad;
+
+VII.- Observar y hacer observar las disposiciones que le señala esta Ley y su Reglamento;
+
+VIII.- Tener a su cargo y dirigir al personal administrativo de la Procuraduría;
+
+IX.- Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras de la Procuraduría; y
+
+X.- Las demás que le determinen las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 115.
+
+Las autoridades judiciales, administrativas y municipales tienen la obligación de notificar al titular de la Procuraduría el trámite de los asuntos relacionados con alguna persona con discapacidad para realizar la intervención correspondiente a la protección de los derechos humanos de las personas con discapacidad involucradas.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 116.
+
+La o el titular de la Procuraduría, previa aprobación de la Junta de Gobierno del DIF Estatal, podrá suscribir convenios o acuerdos de coordinación con la Federación, otros Estados y los Municipios y organismos auxiliares para vigilar y garantizar la protección y respeto de los derechos humanos de todas las personas con discapacidad y el cumplimiento de las disposiciones de esta Ley y el objetivo de la misma.
+
+> <small>(ADICIONADO CON LOS ARTÍCUOS QUE LO INTEGRAN, B.O. 18 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO XXII. DE LA DENUNCIA POPULAR
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 117.
+
+Todas las personas en lo individual, o en lo colectivo como grupo de la Sociedad Civil Organizada, podrán denunciar ante la Procuraduría cualquier hecho, acto u omisión que presuntamente produzca daño o menoscabo a los derechos humanos de las personas con discapacidad.
+
+Las autoridades a las que hace referencia el artículo 115 de la presente Ley, estarán facultadas para recibir la denuncia a la que hace referencia el presente capítulo, remitiendo dentro de los dos días hábiles siguientes a las que fue recibida a la Procuraduría para la substanciación y resolución de la misma.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 118.
+
+La denuncia popular a que se refiere el artículo anterior, deberá realizarse por escrito o de manera verbal, y contener los siguientes datos:
+
+I.- Nombre o razón social y domicilio del denunciante o en su caso del representante legal;
+
+II.- La descripción de los actos, hechos u omisiones denunciados;
+
+III.- Los datos que permitan identificar a la presunta autoridad, funcionario, infractor o responsable; y
+
+IV.- Aportar los elementos de prueba con que cuente para sustentar la denuncia, en caso de poder obtenerlos, o en su caso, señalar si las figuras que se establecen en la fracción anterior, cuentan en su posesión con dichas pruebas, donde se hará la carga de la prueba a dichas figuras.
+
+Por tratarse de situaciones que vulneran los derechos humanos de las personas con discapacidad, las autoridades que reciban dicha denuncia, deberán aplicar la suplencia de la queja al momento de iniciar el procedimiento correspondiente, en ese mismo sentido, también lo hará la Procuraduría.
+
+> <small>(ADICIONADO, B.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 119.
+
+La Procuraduría deberá formular la denuncia correspondiente ante la Fiscalía General de Justicia del Estado, en los casos en que de la substanciación y resolución del trámite referido en el presente capítulo se encuentren indicios de una conducta presuntamente tipificada como delito.
 
 ## TRANSITORIOS
 
@@ -1342,3 +1486,31 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 18 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 170, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, Y DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 18 DE ABRIL DE 2024.
+
+## [N.DE E. TRANSITORIOS DEL “DECRETO NÚMERO 172, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del poder ejecutivo dentro de un término de 90 días hábiles, deberá de nombrar al titular de la Procuraduría de la Defensa de los Derechos de las Personas con Discapacidad.
+
+###### ARTICULO TERCERO.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, en el estado (sic) Sonora, tendrá un plazo de 180 días hábiles para la integración de la estructura orgánica de la Procuraduría de la Defensa de los Derechos de las Personas con Discapacidad, así como la actualización de los reglamentos y demás ordenamientos jurídicos correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, por medio de la Dirección de Atención a Personas con Discapacidad deberán realizar los actos administrativos necesarios para transferir los recursos humanos, financieros y materiales que en el ejercicio de sus atribuciones venía utilizando dicha dependencia en un plazo no mayor a 60 días hábiles, a la entrada en vigor del presente decreto para conformar la Procuraduría de la Defensa de las Personas con Discapacidad.
