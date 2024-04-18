@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-de-operacion-y-fomento-de-1616
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-01-03"
-last_updated: "2023-07-24"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161602&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2022-12-16"
 ---
 # ESTATUTO ORGANICO DE LA COMISION DE OPERACION Y FOMENTO DE ACTIVIDADES ACADEMICAS DEL INSTITUTO POLITECNICO NACIONAL
 
-> <small>[N. DE E. EL ACUERDO NUMERO SO/11-23/08,R, EXPEDIDO POR LA SECRETARIA EJECUTIVA DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL (COFAA-IPN), PUBLICADO EN EL D.O.F. DE 24 DE JULIO DE 2023, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/IPN/Estatuto-Organico-COFAA_15032024.pdf]</small>
+
+> <small>[N. DE E. EL ACUERDO SO/I-24/12,R, EXPEDIDO POR LA SECRETARÍA EJECUTIVA DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL (COFAA-IPN), PUBLICADO EN EL D.O.F. DE 18 DE ABRIL DE 2024, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 3 de enero del 2023.
 
@@ -41,9 +43,7 @@ ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉ
 
 CONSIDERANDOS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ÚNICO.- El propósito fundamental de este documento es delimitar las atribuciones de las unidades administrativas que conforman la entidad, orientando a los responsables a través de la definición de los tramos de control, las líneas de mando, la asignación de autoridad y responsabilidad de cada una de ellas, evitando la evasión o duplicidad de funciones, propiciando el uso racional de los recursos de que dispone la Comisión para la realización de sus fines.
 
@@ -53,31 +53,23 @@ Gestionar el uso eficaz, eficiente y transparente de los recursos a través de l
 
 VISIÓN
 
-Ser un modelo de apoyo a la labor educativa, de investigación científica y desarrollo tecnológico y social del Instituto Politécnico Nacional, para contribuir eficientemente a las soluciones innovadoras que este aporta a los problemas nacionales, para el desarrollo económico y social que favorezca el bienestar de los mexicanos en un entorno de inclusión, igualdad y transparencia.
+Ser un modelo de apoyo a la labor educativa, de investigación científica y desarrollo tecnológico del Instituto Politécnico Nacional, para contribuir eficientemente a las soluciones innovadoras que este aporta a los problemas nacionales, para el desarrollo económico y social que favorezca el bienestar de los mexicanos en un entorno de inclusión, igualdad y transparencia.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ## TÍTULO PRIMERO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1.
 
 La Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional, constituida por Decreto del Ejecutivo Federal, publicado en el Diario Oficial de la Federación el 22 de abril de 1982, mantendrá su carácter de organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios con el objeto de apoyar técnica y económicamente al propio Instituto para la mejor realización de sus finalidades.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
@@ -85,9 +77,7 @@ El presente Estatuto tiene por objeto establecer las bases de organización de l
 
 La Comisión gozará de autonomía de gestión para el cabal cumplimiento de su objeto, y de los objetivos y metas señalados en sus programas.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 3.
 
@@ -109,13 +99,13 @@ Instituto: Al Instituto Politécnico Nacional.
 
 Ley: A la Ley Federal de las Entidades Paraestatales.
 
-Órgano de Gobierno: A la Junta de Gobierno de la entidad.
+Órgano de Gobierno: A la Junta Directiva.
+
+Oficina de Representación: Unidad Administrativa de Representación en la Comisión, de la Secretaría de la Función Pública, concebida para auxiliar a los Órganos Internos de Control Especializados, y a las áreas de especialidad del ramo, en el ejercicio de las atribuciones en materia de fiscalización; control interno; contrataciones públicas; quejas, denuncias e investigaciones; y responsabilidades.
 
 Unidades Administrativas: A las Direcciones y Departamentos de la Comisión.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 4.
 
@@ -123,7 +113,7 @@ Para el despacho de los asuntos que le competen, la Comisión cuenta con un Órg
 
 I. Órgano de Gobierno y Administración.
 
-a. Órgano de Gobierno.
+a. Junta Directiva.
 
 b. Secretaría Ejecutiva.
 
@@ -133,15 +123,15 @@ a. Secretaría Ejecutiva.
 
 i. Departamento de Vinculación.
 
-ii. Departamento de Apoyo Técnico.
-
-iii. Departamento Jurídico.
+ii. Departamento Jurídico.
 
 b. Dirección de Administración y Finanzas.
 
-i. Departamento de Recursos Humanos.
+i. Departamento de Recursos Financieros.
 
-ii. Departamento de Recursos Financieros.
+ii. Departamento de Recursos Humanos.
+
+iii. Departamento de Apoyo Técnico.
 
 c. Dirección Técnica y de Promoción.
 
@@ -157,17 +147,13 @@ i. Departamento de Cotizaciones, Licitaciones y Pedidos.
 
 ii. Departamento de Contratación de Servicios, Registro y Distribución.
 
-III. Del Órgano de Vigilancia - Órgano Interno de Control.
+iii. Del Órgano de Vigilancia - Oficina de Representación y el personal de su Unidad
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO II. ATRIBUCIONES
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 5.
 
@@ -175,7 +161,7 @@ Para el cumplimiento de su objeto la Comisión tendrá las siguientes atribucion
 
 I. Promover y gestionar aportaciones y donativos de los organismos oficiales y privados, así como de los particulares;
 
-II. Otorgar apoyo técnico y financiero al Instituto, para el debido cumplimiento de sus atribuciones relacionadas con la promoción de industrias, prestación de servicios, constitución de asociaciones, patronatos y sociedades, y ediciones de obras técnicas científicas y culturales;
+II. Otorgar apoyo técnico y financiero al Instituto, para el debido cumplimiento de sus atribuciones relacionadas con la promoción de industrias, prestación de servicios, constitución de asociaciones, patronatos y sociedades, y ediciones de obras técnicas científicas y culturales:
 
 III. Canalizar recursos adicionales al Instituto, para la preparación, actualización y especialización de sus profesores e investigadores, en función de programas y proyectos específicos y del intercambio científico y tecnológico con instituciones educativas y organismos nacionales, extranjeros e internacionales;
 
@@ -191,75 +177,57 @@ VIII. Proporcionar recursos financieros y asistencia técnica para el mantenimie
 
 IX. Las demás que se prevean en el presente Estatuto y en otros ordenamientos legales.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO III. ÁMBITO DE APLICACIÓN
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 6.
 
 El presente Estatuto Orgánico será de observancia obligatoria para la Secretaría Ejecutiva, Direcciones y Jefaturas de los Departamentos que conforman la Comisión, en el ámbito de su competencia.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 7.
 
 Corresponderá a la Secretaría Ejecutiva y a las personas titulares de las Direcciones de la Comisión, asegurarse que las áreas de su adscripción implementen y den cumplimiento a este Estatuto en el ámbito de sus atribuciones.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS DE GOBIERNO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 8.
 
 El Gobierno de la Comisión estará a cargo de:
 
-I. El Órgano de Gobierno, y
+I. La Junta Directiva, y
 
 II. La Secretaría Ejecutiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO V. DE LA JUNTA DIRECTIVA
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
 La Junta Directiva es el órgano máximo de gobierno de la Comisión, que estará integrada por los siguientes servidores públicos, los cuales contarán con voz y voto:
 
-I. La persona titular de la Coordinadora de Sector, con el carácter de Presidente;
+I. La persona titular de la Coordinadora de Sector con el carácter de Presidente; y en caso de ausencia la persona titular de la Dirección General del Instituto Politécnico Nacional, con carácter de suplente
 
-II. La persona titular de la Dirección General del Instituto Politécnico Nacional, con el carácter de suplente de la Presidencia;
+II. La persona titular de la Subsecretaría de Educación Media Superior de la Secretaría de Educación Pública;
 
-III. La persona titular de la Subsecretaría de Educación Media Superior de la Secretaría de Educación Pública;
+III. La persona titular de la Unidad de Administración y Finanzas de la Secretaría de Educación Pública;
 
-IV. La persona titular de la Unidad de Administración y Finanzas de la Secretaría de Educación Pública;
+IV. La persona titular de la Dirección General de Programación y Presupuesto "A" de la Secretaría de Hacienda y Crédito Público;
 
-V. La persona titular de la Dirección General de Programación y Presupuesto "A" de la Secretaría de Hacienda y Crédito Público;
+V. La persona titular de la Dirección General de Coordinación y Desarrollo Sectorial de la Secretaría de Educación Pública.
 
-VI. La persona titular de la Dirección General de Coordinación y Desarrollo Sectorial de la Secretaría de Educación Pública.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 10.
 
@@ -269,25 +237,19 @@ Para el caso de las sesiones extraordinarias se convocará con un mínimo de dos
 
 Las reuniones ordinarias y extraordinarias se podrán celebrar en modalidad; presencial, virtual o mixta a través de medios tecnológicos de comunicación.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-A las sesiones de la Junta Directiva se invitará al Comisariato del Sector Educación y Cultura de la Secretaría de la Función Pública. La Junta podrá incorporar a sus sesiones a los invitados que considere pertinente, quienes tendrán derecho a voz, pero no a voto.
+A las sesiones de la Junta Directiva se invitará a la Delegación y Comisaría Pública General “A” de la Secretaría de la función Pública. La Junta podrá incorporar a sus sesiones a los invitados que considere pertinente, quienes tendrán derecho a voz, pero no a voto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
 A excepción de la Presidencia, cada integrante propietario de la Junta Directiva nombrará a un suplente mediante oficio de designación, quien deberá contar con nivel jerárquico de Director de Área y asumirá los derechos y obligaciones del cargo.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
@@ -299,9 +261,7 @@ La Junta Directiva sesionará válidamente con la asistencia de por lo menos la 
 
 Las resoluciones se tomarán por el voto de la mayoría de los miembros presentes, teniendo la Presidencia voto de calidad para el caso de empate.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
@@ -323,9 +283,7 @@ VII. Designar y remover, a propuesta de la persona titular de la Secretaría Eje
 
 VIII. Las demás que le confieran este ordenamiento y otras disposiciones legales aplicables.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
@@ -337,25 +295,19 @@ II. Vigilar el debido cumplimiento de los acuerdos tomados por la Junta Directiv
 
 III. Las demás que prevean este Estatuto y otros ordenamientos legales.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
 La Junta Directiva será auxiliada en sus atribuciones por la Secretaría Técnica y Prosecretaría.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 17.
 
 La Junta Directiva a propuesta de la Presidencia podrá nombrar y remover a la persona titular de la Secretaría Técnica; asimismo, a propuesta de la Secretaría Ejecutiva de la entidad designará y removerá a la Prosecretaría.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 18.
 
@@ -381,9 +333,7 @@ IX. Presentar a la Junta Directiva, a propuesta de la Secretaría Ejecutiva, los
 
 X. Las demás que le encomienden la Presidencia de la Junta Directiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
@@ -411,35 +361,31 @@ X. Fungir como enlace entre los integrantes de la Junta Directiva, la Secretarí
 
 XI. Las demás que le encomiende la Presidencia de la Junta Directiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO VI. DE LA SECRETARÍA EJECUTIVA
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
 Quien tenga la titularidad de la Secretaría Ejecutiva de la Comisión, además de las previstas en el artículo 59 de la Ley, tendrá las siguientes atribuciones:
 
-I. Ejecutar las políticas y lineamientos que acuerde la Junta Directiva;
+I. Planear y coordinar la ejecución de las políticas y lineamientos que acuerde la Junta Directiva de la Comisión;
 
-II. Planear y coordinar la ejecución de las políticas y lineamientos que acuerde la Junta Directiva de la Comisión;
+II. Presentar a la Junta Directiva, para su aprobación, el presupuesto anual de gastos, programa de actividades y planes de inversión correspondientes;
 
-III. Instruir a la persona titular de la Dirección de Administración y Finanzas para que lleve a cabo la planeación, organización, coordinación y control de los recursos financieros de la Comisión;
+III. Instruir a la persona titular de la Dirección de Administración y Finanzas para que lleve a cabo la planeación y dirección del ejercicio del presupuesto anual de la Comisión y la gestión ante las autoridades correspondientes, para la entrega oportuna de los recursos y asignaciones presupuestales que le sean otorgadas a la Comisión;
 
-IV. Presentar a la Junta Directiva, para su aprobación, el presupuesto anual de gastos, programa de actividades y planes de inversión correspondientes;
+IV. Informar a la Junta Directiva, para su autorización y con estricto apego a la normatividad establecida en la Ley Orgánica de la Administración Pública Federal, los nombramientos de las y los servidores públicos del organismo que ocupen cargos con las dos jerarquías administrativas inferiores a las de la Secretaría Ejecutiva, a excepción del Jefe de la Oficina de Representación, el cual será designado por la Secretaría de la Función Pública;
 
-V. Instruir a la persona titular de la Dirección de Administración y Finanzas para que lleve a cabo la planeación y dirección del ejercicio del presupuesto anual de la Comisión;
+V. Autorizar los nombramientos y remociones de las empleadas y los empleados de base de la Comisión, de acuerdo con las normas aplicables;
 
-VI. Instruir a la persona titular de la Dirección de Administración y Finanzas para que lleve a cabo la planeación y dirección de la gestión ante las entidades correspondientes, para la entrega oportuna de los recursos y asignaciones presupuestales que le sean otorgadas a la Comisión;
+VI. Proponer a la Secretaría de la Función Pública, el nombramiento de la persona que ocupará la Titularidad de la Dirección de Administración y Finanzas, para que este se lleve a cabo conforme a las disposiciones establecidas en el artículo 37 fracción XII Bis de la Ley Orgánica de la Administración Pública Federal y se ajuste a lo establecido en el artículo 14-Bis del mismo ordenamiento;
 
-VII. Informar a la Junta Directiva, para su autorización y con estricto apego a la normatividad establecida en la Ley Orgánica de la Administración Pública Federal, los nombramientos de las y los servidores públicos del organismo que ocupen cargos con las dos jerarquías administrativas inferiores a las de la Secretaría Ejecutiva, a excepción de la persona titular del Órgano Interno de Control y sus titulares de área, los cuales serán designados por la Secretaría de la Función Pública;
+VII. Proponer a la Consejería Jurídica el nombramiento de la persona que ocupará la Titularidad del Departamento Jurídico de la entidad;
 
-VIII. Autorizar los nombramientos y remociones de las empleadas y los empleados de base de la Comisión, de acuerdo con las normas aplicables;
+VIII. Proponer a la Coordinación de Estrategia Digital Nacional (CEDN) el nombramiento de la persona que ocupará la Titularidad de la Unidad de Tecnologías de Información y Comunicaciones (UTIC), que será responsable del manejo y administración de la Herramienta de Gestión de Política TIC y que por sus atribuciones recaerá en el Departamento de Apoyo Técnico;
 
 IX. Establecer, impulsar y asegurar la promoción y difusión de los principios de igualdad y equidad de género, en el ámbito de su competencia;
 
@@ -459,19 +405,15 @@ XVI. Autorizar y expedir los Manuales para la operación y el funcionamiento de 
 
 XVII. Planear, dirigir y controlar la ejecución de las funciones y tareas que le encomiende la Presidencia de la Junta Directiva;
 
-XVIII. Expedir copias certificadas de las constancias y documentos que obren en los archivos de la Secretaría Ejecutiva, y cuando la documentación de que se trate deba ser exhibida en procesos judiciales, contencioso-administrativos y/o carpetas de investigación, de conformidad a la normatividad aplicable en la materia;
+XVIII. Expedir copias certificadas de las constancias y documentos que obren en los archivos de la Secretaría Ejecutiva, y cuando la documentación de que se trate deba ser exhibida en procesos judiciales, contenciosos-administrativos y/o carpetas de investigación, de conformidad a la normatividad aplicable en la materia;
 
 XIX. Las que le confieran los ordenamientos aplicables y las demás que le asignen las autoridades superiores, en el ámbito de su competencia.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO VII. DEL DEPARTAMENTO DE VINCULACIÓN
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
@@ -479,7 +421,7 @@ Quien tenga la titularidad del Departamento de Vinculación, tendrá las siguien
 
 I. Consolidar la vinculación con las diversas Dependencias del Instituto, para lograr una mayor participación en los programas que involucren a la Comisión;
 
-II. Dar seguimiento, a los acuerdos de la Secretaría Ejecutiva con las Dependencias Politécnicas, con la finalidad de cumplir los objetivos de esta Comisión;
+II. Dar seguimiento, a los acuerdos de la Secretaría Ejecutiva con las Dependencias Politécnicas, con la finalidad de cumplir los objetivos de esta Comisión:
 
 III. Dar seguimiento a los planes y proyectos especiales que involucren la participación de la Secretaría Ejecutiva;
 
@@ -495,57 +437,13 @@ VIII. Instrumentar el seguimiento permanente de las actuaciones de la Secretarí
 
 IX. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO VIII. DEL DEPARTAMENTO JURÍDICO
 
-### CAPÍTULO VIII. DEL DEPARTAMENTO DE APOYO TÉCNICO
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 22.
-
-Quien tenga la titularidad del Departamento de Apoyo Técnico, tendrá las siguientes atribuciones:
-
-I. Coordinar el apoyo técnico que se le brinda a la Secretaría Ejecutiva en materia de planeación, información, organización y Tecnologías de la Información y Comunicaciones (TIC);
-
-II. Proponer los criterios, elementos e instrumentos para la formulación, ejecución, control y evaluación de la planeación y organización de la Comisión;
-
-III. Coordinar a las unidades administrativas de la Comisión para la definición de objetivos, indicadores estratégicos y de gestión, metas y actividades que permita (sic) cumplir con su misión;
-
-IV. Coordinar a las unidades administrativas de la Comisión para el análisis e integración del Programa Institucional, considerando los planes nacionales, sectoriales, así como vigilar su seguimiento;
-
-V. Coordinar a las unidades administrativas de la Comisión para analizar e integrar los informes de resultados requeridos por las instancias coordinadoras de la entidad;
-
-VI. Coordinar a las unidades administrativas de la Comisión para la integración y análisis de las carpetas de trabajo de las sesiones ordinarias y extraordinarias de la H. Junta Directiva;
-
-VII. Resguardar la documentación original, impresa y digital de las sesiones ordinarias y extraordinarias de la H. Junta Directiva;
-
-VIII. Coordinar a las unidades administrativas de la Comisión en la definición de los mecanismos necesarios para la actualización del Estatuto Orgánico, Manuales de Organización y de Procedimientos;
-
-IX. Asegurar en coordinación con la Dirección de Cómputo y Comunicaciones del Instituto, la disponibilidad de los servicios de comunicación de voz y datos para apoyar el desarrollo de las funciones de la Comisión;
-
-X. Asegurar el funcionamiento óptimo del equipo de cómputo, así como el soporte técnico que requieran las unidades administrativas de la Comisión;
-
-XI. Realizar las actividades de diseño, estructura y programación del portal web institucional, así como coordinar la administración del contenido a partir de la información que aporten y autoricen las unidades administrativas de la Comisión;
-
-XII. Coordinar el desarrollo de Sistemas de Información de la Comisión que permita una mejora en sus procesos prioritarios, observando la normatividad aplicable en esta materia;
-
-XIII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-### CAPÍTULO IX. DEL DEPARTAMENTO JURÍDICO
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-###### ARTÍCULO 23.
 
 Quien tenga la titularidad del Departamento Jurídico, tendrá las siguientes atribuciones:
 
@@ -559,7 +457,7 @@ IV. Rendir los informes previos y justificados que en materia de amparo deban pr
 
 V. Comunicar, cuando se le solicite, los criterios de interpretación establecidos de algún artículo, ley o disposición de cualquier ordenamiento jurídico que así lo requiera;
 
-VI. De conformidad con el artículo 22 fracción VII, de la Ley; podrá representar legalmente a la Comisión en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas y judiciales, en los procesos de toda índole, cuando requiera su intervención, incluyendo la absolución de posiciones;
+VI. De conformidad con el artículo 22 fracción VII, de la Ley; podrá representar legalmente a la Comisión en asuntos jurisdiccionales, contencioso-administrativo y ante toda clase de autoridades administrativas y judiciales, en los procesos de toda índole, cuando requiera su intervención, incluyendo la absolución de posiciones;
 
 VII. Determinar las sanciones disciplinarias en materia laboral, previa averiguación que se haga, tomando en consideración las circunstancias del caso, los antecedentes de la persona trabajadora, la gravedad de la falta y sus consecuencias;
 
@@ -579,23 +477,27 @@ XIV. Recibir y dar trámite a las solicitudes de acceso a la información y de p
 
 XV. Acudir y emitir comentarios en las sesiones que se instauren en los respectivos Comités;
 
-XVI. Emitir copias certificadas de los documentos originales que obren en los archivos del área; excepto cuando deban ser exhibidas en procesos judiciales o contencioso administrativos y/o carpetas de investigación; ya que en estos supuestos serán emitidas por la Secretaría Ejecutiva de conformidad a la normatividad aplicable en la materia;
+XVI. Emitir copias certificadas de los documentos originales que obren en los archivos del área; excepto cuando deban ser exhibidas en procesos judiciales o contencioso-administrativo y/o carpetas de investigación; ya que en estos supuestos serán emitidas por la Secretaría Ejecutiva de conformidad a la normatividad aplicable en la materia;
 
 XVII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO IX. DE LAS DIRECCIONES
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 23.
 
 Para el cumplimiento de sus objetivos, la Secretaría Ejecutiva contará con las siguientes unidades administrativas:
 
-I. Dirección de Administración y Finanzas.
+1. Dirección de Administración y Finanzas.
 
-1.1 Departamento de Recursos Humanos;
+1.1 Departamento de Recursos Financieros;
 
-1.2 Departamento de Recursos Financieros.
+1.2 Departamento de Recursos Humanos;
+
+1.3 Departamento de Apoyo Técnico.
 
 2. Dirección Técnica y de Promoción.
 
@@ -607,27 +509,13 @@ I. Dirección de Administración y Finanzas.
 
 3. Dirección de Adquisiciones.
 
-3.1 Departamento de Cotizaciones, Licitaciones y Pedidos;
+3.1 Departamento de Cotizaciones, Licitaciones y Pedidos; y
 
 3.2 Departamento de Contratación de Servicios, Registro y Distribución.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-## TÍTULO SEGUNDO. ATRIBUCIONES DE LAS DIRECCIONES Y UNIDADES ADMINISTRATIVAS
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-### CAPÍTULO X. DE LAS DIRECCIONES
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-###### ARTÍCULO 25.
+###### ARTÍCULO 24.
 
 Corresponden a cada persona titular de las Direcciones, en el ámbito de su competencia, las atribuciones generales siguientes:
 
@@ -649,7 +537,7 @@ VIII. Evaluar al personal a su cargo con apego a las disposiciones, normas y lin
 
 IX. Vigilar que se cumpla estrictamente con las disposiciones legales aplicables a los asuntos asignados a la Dirección a su cargo;
 
-X. Presentar la información solicitada por las dependencias de la Administración Pública Federal, de conformidad con las políticas establecidas;
+X. Presentar la información solicitada por las unidades administrativas de la Administración Pública Federal, de conformidad con las políticas establecidas;
 
 XI. Garantizar la protección de datos personales, la reserva y confidencialidad de la información, observando la normatividad aplicable en la materia;
 
@@ -663,21 +551,21 @@ XV. Verificar el cumplimiento de las obligaciones de transparencia en la Platafo
 
 XVI. Emitir copias certificadas de los documentos originales que obren en los archivos de la dirección a su cargo; excepto cuando deban ser exhibidas en procesos judiciales o contencioso-administrativos y/o carpetas de investigación; ya que en estos supuestos serán emitidas por la Secretaría Ejecutiva de conformidad a la normatividad aplicable en la materia;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+## TÍTULO SEGUNDO. ATRIBUCIONES DE LAS DIRECCIONES Y UNIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO I. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-###### ARTÍCULO 26.
+###### ARTÍCULO 25.
 
 Quien tenga la titularidad de la Dirección de Administración y Finanzas, tendrá las siguientes atribuciones:
 
-I. Dirigir y controlar la administración del patrimonio, de los recursos financieros, materiales y humanos;
+I. Ejecutar en los términos de las disposiciones aplicables, los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, recursos financieros, contabilidad, archivos, administración del patrimonio y los demás que sean necesarios, en los términos que establezca el Ejecutivo Federal.
 
 II. Participar en la coordinación sectorial de las políticas de planeación, programación y presupuestación;
 
@@ -691,7 +579,7 @@ VI. Planificar las actividades de la comisión mixta de seguridad e higiene en e
 
 VII. Evaluar e informar a la Secretaría Ejecutiva de los nombramientos del personal, los casos de suspensión, ceses o rescisión laboral y, en su caso, participar en los juicios laborales;
 
-VIII. Dirigir los sistemas de motivación, otorgar estímulos y recompensas que marca la normativa vigente aplicable y las Condiciones Generales de Trabajo;
+VIII. Autorizar los estímulos y recompensas que marca la normativa vigente aplicable y las Condiciones Generales de Trabajo;
 
 IX. Dirigir, administrar y vigilar el manejo de los ingresos como sus excedentes, ahorros, rendimientos financieros, economías del presupuesto con las disposiciones legales aplicables en la materia y valores o bienes que por cualquier concepto reciba la Comisión;
 
@@ -699,37 +587,35 @@ X. Cumplir con los requerimientos derivados de las diversas instancias de fiscal
 
 XI. Dirigir el cumplimiento de los lineamientos para la conservación, mantenimiento, uso, destino, afectación, enajenación, baja, almacenamiento y control de inventarios de bienes muebles, así como supervisar las modificaciones en el inventario general de la Comisión en apego a la Ley General de Bienes Nacionales;
 
-XII. Dirigir y vigilar los procesos de abastecimiento y de compras menores, así como autorizar los pagos de las obligaciones que se deriven de las mismas;
+XII. Coordinar los requerimientos de las unidades administrativas de la Entidad respecto del equipamiento, materiales, suministros, así como el mantenimiento y la conservación de las instalaciones y equipos a efecto de programar las necesidades con la Dirección de Adquisiciones.
 
-XIII. Autorizar y supervisar los requerimientos y cumplimiento de los servicios generales de las unidades administrativas de la Comisión;
+XIII. Dirigir y vigilar los procesos de abastecimiento y de compras menores, así como autorizar los pagos de las obligaciones que se deriven de las mismas;
 
-XIV. Participar en la elaboración e integración de los informes para la Junta Directiva;
+XIV. Autorizar y supervisar los requerimientos y cumplimientos de los servicios generales de las unidades administrativas de la Comisión;
 
-XV. Ejecutar la actualización de los procedimientos y políticas de los trámites y servicios prestados por el Departamento de Recursos Financieros;
+XV. Participar en la elaboración e integración de los informes para la Junta Directiva;
 
-XVI. Fungir como titular del área coordinadora de archivos; propiciar la integración y formalización del grupo interdisciplinario en materia de archivos; representar a la Comisión ante el Consejo Nacional de Archivos, y en general, proveer lo necesario para el debido cumplimiento de las obligaciones que en la materia se establecen para el organismo en la Ley General de Archivos;
+XVI. Ejecutar la actualización de los procedimientos y políticas de los trámites y servicios prestados por el Departamento de Recursos Financieros;
 
-XVII. Dirigir la planeación, programación del anteproyecto de presupuesto de conformidad con los lineamientos de los organismos fiscalizadores;
+XVII. Fungir como titular del área coordinadora de archivos; propiciar la integración y formalización del grupo interdisciplinario en materia de archivos; representar a la Comisión ante el Consejo Nacional de Archivos, y en general, proveer lo necesario para el debido cumplimiento de las obligaciones que en la materia se establecen para el organismo en la Ley General de Archivos, así como realizar la designación del responsable del archivo de concentración de la entidad, mismo que fungirá como Secretario Técnico del Comité de Transparencia;
 
-XVIII. Comunicar a las unidades administrativas de la Comisión el presupuesto aprobado y las modificaciones al mismo;
+XVIII. Dirigir la planeación, programación del anteproyecto de presupuesto de conformidad con los lineamientos vigentes;
 
-XIX. Ejecutar, formular y cumplir las políticas y lineamientos establecidos en materia del archivo institucional;
+XIX. Comunicar a las unidades administrativas de la Comisión el presupuesto aprobado y las modificaciones al mismo;
 
-XX. Ejecutar el cumplimiento de las obligaciones de Transparencia correspondientes a la Dirección de Administración y Finanzas;
+XX. Ejecutar, formular y cumplir las políticas y lineamientos establecidos en materia del archivo institucional;
 
-XXI. Las que le confieren los ordenamientos aplicables y las demás que le asignen las autoridades superiores, en el ámbito de su competencia.
+XXI. Ejecutar el cumplimiento de las obligaciones de Transparencia correspondientes a la Dirección de Administración y Finanzas;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+XXII. Las que le confieren los ordenamientos aplicables y las demás que le asignen las autoridades superiores, en el ámbito de su competencia.
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO II. DEL DEPARTAMENTO DE RECURSOS FINANCIEROS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-###### ARTÍCULO 27.
+###### ARTÍCULO 26.
 
 Quien tenga la titularidad del Departamento de Recursos Financieros, tendrá las siguientes atribuciones:
 
@@ -767,17 +653,13 @@ XVI. Atender las auditorias y requerimientos de información de las distintas in
 
 XVII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO III. DEL DEPARTAMENTO DE RECURSOS HUMANOS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-###### ARTÍCULO 28.
+###### ARTÍCULO 27.
 
 Quien tenga la titularidad del Departamento de Recursos Humanos, tendrá las siguientes atribuciones:
 
@@ -807,29 +689,65 @@ XII. Atender las solicitudes de prestadores de servicio social y prácticas prof
 
 XIII. Coadyuvar en el cumplimiento de las obligaciones de Transparencia correspondientes;
 
-XIV. Dar seguimiento a las auditorías y requerimientos de información de las distintas instancias de fiscalización en materia de Recursos Humanos;
+XIV. Dar seguimiento a las autoridades y requerimientos de información de las distintas instancias de fiscalización en materia de Recursos Humanos.
 
 XV. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO IV. DEL DEPARTAMENTO DE APOYO TÉCNICO
 
-### CAPÍTULO IV. DE LA DIRECCIÓN TÉCNICA Y DE PROMOCIÓN
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+###### ARTÍCULO 28.
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+Quien tenga la titularidad del Departamento de Apoyo Técnico, tendrá las siguientes atribuciones:
+
+I. Coordinar el apoyo técnico que se le brinda a la Dirección de Administración y Finanzas en materia de planeación, información, organización y tecnologías de la información y comunicaciones (TIC);
+
+II. Proponer los criterios, elementos e instrumentos para la formulación, ejecución, control y evaluación de la planeación y organización de la Comisión;
+
+III. Coordinar a las unidades administrativas de la Comisión, para la definición de objetivos, indicadores estratégicos y de gestión, metas y actividades, que le permitan cumplir con su misión;
+
+IV. Coordinar a las unidades administrativas del organismo para el análisis e integración del Programa Institucional, considerando los planes nacionales, sectoriales, así como vigilar su seguimiento;
+
+V. Coordinar a las unidades administrativas de la Comisión para analizar e integrar los informes de resultados requeridos por las instancias coordinadoras de la entidad;
+
+VI. Coordinar a las unidades administrativas de la entidad para la integración y análisis de las carpetas de trabajo de las sesiones ordinarias y extraordinarias de la H. Junta Directiva;
+
+VII. Resguardar la documentación original, impresa y digital de las sesiones ordinarias y extraordinarias de la H. Junta Directiva;
+
+VIII. Coordinar a las unidades administrativas de la Comisión en la definición de los mecanismos necesarios para la actualización del Estatuto Orgánico, Manual de Organización y de Procedimientos;
+
+IX. Asegurar en coordinación con el Centro Nacional de Cálculo (CENAC) del Instituto, la disponibilidad de los servicios de comunicación de voz y datos para apoyar el desarrollo de las funciones de la entidad;
+
+X. Suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de telecomunicaciones, informática, internet e infraestructura de tecnologías de la información y la comunicación, así como de seguridad informática en la Comisión;
+
+XI. Dirigir, diseñar, desarrollar, programar, validar e implementar los sistemas informáticos, aplicaciones y su arquitectura de solución, en apoyo a las funciones sustantivas y adjetivas de la Comisión, supervisar su operación y proporcionar su mantenimiento.
+
+XII. Proponer a la Dirección de Administración y Finanzas las normas, políticas, programas, lineamientos e instrumentos para la integración, operación, control, funcionamiento y evaluación de la infraestructura de cómputo y comunicaciones, así como de los sistemas informáticos y aplicaciones en operación y desarrollo de la Comisión.
+
+XIII. Supervisar la aplicación de las normas, políticas, programas, lineamientos, instrumentos y disposiciones generales para impulsar el uso y aprovechamiento de la informática, bienes tecnológicos y sistemas de información, para que los usuarios los utilicen de manera segura y eficiente en el ámbito de sus responsabilidades; así como de la seguridad de la información.
+
+XIV. Coordinar el desarrollo de los sistemas de información de la Comisión que permitan una mejora en sus procesos prioritarios, observando la normatividad aplicable en la materia;
+
+XV. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO V. DE LA DIRECCIÓN TÉCNICA Y DE PROMOCIÓN
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
 Quien tenga la titularidad de la Dirección Técnica y de Promoción, tendrá las siguientes atribuciones:
 
-I. Dirigir las acciones necesarias que aseguren la ejecución de apoyos económicos y las reglas de operación en el otorgamiento de becas;
+I. Dirigir las acciones necesarias que aseguren la formulación (sic) las reglas de operación para el otorgamiento de los apoyos económicos;
 
 II. Coordinar las visitas técnicas a las Dependencias Politécnicas para el cumplimiento de los objetivos de la Comisión;
 
-III. Dirigir las acciones necesarias para que el programa anual de equipamiento cumpla con lo solicitado por las Dependencias Politécnicas;
+III. Dirigir las acciones necesarias para analizar y priorizar las solicitudes de las dependencias politécnicas y así dar cumplimiento al programa anual de equipamiento;
 
 IV. Autorizar y coordinar la elaboración de los catálogos de conceptos y las especificaciones técnicas y sus alcances para las contrataciones de bienes y servicios;
 
@@ -845,31 +763,29 @@ IX. Planificar acciones estratégicas de procuración de fondos tendientes a pos
 
 X. Dirigir las acciones para la integración de proyectos de inversión;
 
-XI. Planear estrategias para los programas de Becas y Apoyos Económicos, dirigidos al alumnado y al personal docente de las Dependencias Politécnicas;
+XI. Planear estrategias para los programas de becas y apoyos económicos, dirigidos al alumnado y al personal docente de las Dependencias Politécnicas;
 
-XII. Coordinar la conciliación de los padrones de beneficiarios de Becas y Apoyos Económicos, con las dependencias del gobierno federal;
+XII. Coordinar la conciliación de los padrones de beneficiarios de las becas y apoyos económicos, con las dependencias del gobierno federal;
 
 XIII. Participar en el establecimiento de políticas sobre becas y apoyos económicos en coordinación con el Instituto, en los términos de la legislación aplicable;
 
-XIV. Planear, dirigir y controlar la ejecución de las funciones y tareas que le encomiende el Secretario Ejecutivo, y
+XIV. Diseñar y proponer a la Secretaría Ejecutiva, estrategias que permitan captar donativos en efectivo a través de herramientas digitales, para la consolidación de proyectos específicos en coordinación con la Dirección de Administración y Finanzas; y
 
 XV. Las que le confieren los ordenamientos aplicables y las demás que le asignen las autoridades superiores, en el ámbito de su competencia.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+XVI. Las que le confieren los ordenamientos aplicables y las demás que le asignen las autoridades superiores, en el ámbito de su competencia. (sic)
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO V. DEL DEPARTAMENTO DE APOYOS Y BECAS
+### CAPÍTULO VI. DEL DEPARTAMENTO DE APOYOS Y BECAS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
 Quien tenga la titularidad del Departamento de Apoyos y Becas, tendrá las siguientes atribuciones:
 
-I. Planear las actividades relativas a los trámites para el otorgamiento de becas y apoyos económicos al alumnado y al personal del Instituto;
+I. Realizar las actividades relativas a los trámites para el otorgamiento de becas y apoyos económicos al alumnado y al personal docente;
 
 II. Gestionar el otorgamiento de becas y apoyos económicos que soliciten las Dependencias Politécnicas de conformidad con la normatividad vigente aplicable;
 
@@ -877,21 +793,15 @@ III. Gestionar los pagos de becas y apoyos económicos que soliciten las Depende
 
 IV. Elaborar y gestionar los padrones de beneficiarios de becas y apoyos económicos que otorga la COFAA-IPN a las instancias que se describen en las reglas de operación para el otorgamiento de becas;
 
-V. Dar cumplimiento a los informes solicitados por diferentes instancias, relativos a apoyos económicos y becas;
+V. Dar cumplimiento a los informes solicitados por diferentes instancias, relativos a apoyos económicos y becas;; (sic)
 
-VI. Planear las actividades relativas a los trámites para el otorgamiento de apoyos económicos y becas al alumnado y personal docente del Instituto;
+VI. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-VII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+### CAPÍTULO VII. DEL DEPARTAMENTO DE EVALUACIÓN Y SUPERVISIÓN
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
-
-### CAPÍTULO VI. DEL DEPARTAMENTO DE EVALUACIÓN Y SUPERVISIÓN
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
@@ -917,15 +827,11 @@ IX. Dar cumplimiento a los informes solicitados por diferentes instancias sobre 
 
 X. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO VIII. DEL DEPARTAMENTO DE PROCURACIÓN DE FONDOS
 
-### CAPÍTULO VII. DEL DEPARTAMENTO DE PROCURACIÓN DE FONDOS
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 32.
 
@@ -947,15 +853,11 @@ VII. Realizar las transferencias de los donativos en especie a las Dependencias 
 
 VIII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO IX. DE LA DIRECCIÓN DE ADQUISICIONES
 
-### CAPÍTULO VIII. DE LA DIRECCIÓN DE ADQUISICIONES
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
@@ -967,7 +869,7 @@ II. Ejecutar los procedimientos de adquisición de los bienes y servicios a cont
 
 III. Dirigir las investigaciones de mercado de los bienes, arrendamientos o servicios que se pretendan contratar;
 
-IV. Controlar la formalización de instrumentos jurídicos, derivados de la ley de adquisiciones;
+IV. Gestionar la formalización de instrumentos jurídicos, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en el manual de instrumentos jurídicos de la plataforma de CompraNet;
 
 V. Programar y organizar los proyectos de convocatorias de los procedimientos de contratación de bienes y servicios ante el subcomité revisor;
 
@@ -977,15 +879,11 @@ VII. Ejecutar las acciones para la entrega de los bienes y servicios.
 
 VIII. Las que le confieran los ordenamientos aplicables y las demás que le asignen las autoridades superiores, en el ámbito de su competencia.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO X. DEL DEPARTAMENTO DE COTIZACIONES, LICITACIONES Y PEDIDOS.
 
-### CAPÍTULO IX. DEL DEPARTAMENTO DE COTIZACIONES, LICITACIONES Y PEDIDOS.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
@@ -1007,15 +905,11 @@ VII. Verificar y garantizar que los bienes de consumo e inversión sean entregad
 
 VIII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO XI. DEL DEPARTAMENTO DE CONTRATACIÓN DE SERVICIOS, REGISTRO Y DISTRIBUCIÓN
 
-### CAPÍTULO X. DEL DEPARTAMENTO DE CONTRATACIÓN DE SERVICIOS, REGISTRO Y DISTRIBUCIÓN
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 35.
 
@@ -1037,93 +931,71 @@ VII. Dar cumplimiento a las disposiciones normativas en materia de contratacione
 
 VIII. Las demás atribuciones que sean necesarias para el ejercicio de las funciones, disposiciones legales y administrativas y las que le sean encomendadas y asignadas por su superior jerárquico.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ## TÍTULO TERCERO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+### CAPÍTULO I. DEL ÓRGANO DE VIGILANCIA Y DE LA OFICINA DE REPRESENTACIÓN Y EL PERSONAL DE SU UNIDAD ADMINISTRATIVA
 
-### CAPÍTULO I. DEL ÓRGANO DE VIGILANCIA Y DEL ÓRGANO INTERNO DE CONTROL
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 36.
 
-La Comisión contará con un órgano de vigilancia el cual estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables. El comisario asistirá, con voz, pero sin voto, a las sesiones de la Junta Directiva de la Comisión.
+La Comisión contará con un órgano de vigilancia el cual estará integrado por la Delegación y Comisaría Pública General "A", designados por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables. El comisario asistirá, con voz, pero sin voto, a las sesiones de la Junta Directiva de la Comisión.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-La Comisión contará, asimismo, con un Órgano Interno de Control, el cual tendrá una titularidad en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en ejercicio de sus atribuciones se auxiliará por las titularidades de las áreas de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública; Quejas, Denuncias e Investigaciones; y Área de Responsabilidades designados en los mismos términos.
+La Comisión contará, con una oficina de representación, la cual estará adscrita orgánicamente a esta Comisión y tendrá el carácter de Unidad Administrativa, pero dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública.
 
-La Comisión deberá proporcionar a la persona titular del Órgano Interno de Control los recursos humanos y materiales que requiera para el ejercicio de las facultades que tiene conferidas.
+Tendrá el carácter de superior jerárquico del jefe de oficina de representación y del personal a su cargo, el Titular del área de especialidad al que auxilien, respecto al ramo 7. Educación Pública.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
+El jefe de oficina de representación, y el personal de su unidad administrativa, aplicaran las reglas de suplencia previstas en el Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-Las y los servidores públicos del Órgano Interno de Control en la Comisión ejercerán las facultades que para tal efecto prevén los artículos 37 de la Ley Orgánica de la Administración Pública Federal; 62 de la Ley Federal de las Entidades Paraestatales, así como las conferidas en la Ley General de Responsabilidades Administrativas, y en los demás ordenamientos legales y administrativos aplicables.
+Las personas servidoras públicas de la oficina de representación-en la Comisión, ejercerán las atribuciones y facultades establecidas en los artículos 7 y 8 respectivamente, del Acuerdo por el que se extinguen órganos internos de control específicos, se crean oficinas de representación, y se asigna la dependencia, entidad paraestatal y órgano administrativo desconcentrado que integran el ramo en que ejercerán sus funciones los órganos internos de control especializados y las unidades administrativas que los auxilian, publicado en el D.O.F el 21 de diciembre de 2023, así como las conferidas en la Ley General de Responsabilidades Administrativas, y en los demás ordenamientos legales y administrativos aplicables.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO II. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
 Durante las ausencias de la persona titular de la Secretaría Ejecutiva, el despacho y resolución de los asuntos administrativos quedarán a cargo de la persona titular de la Dirección de Administración y Finanzas, quien conocerá y proseguirá con la tramitación de los asuntos pendientes, hasta la reincorporación de la persona titular de la Secretaría Ejecutiva. Al término de la suplencia, la persona titular de la Dirección de Administración y Finanzas, deberá rendir a la Secretaría Ejecutiva un informe detallado del cumplimiento de estas funciones.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 40.
 
-Las ausencias de las titularidades de las Direcciones de la Comisión, serán suplidas para el despacho y resolución de los asuntos de su correspondiente competencia, por la persona titular de alguna Jefatura de Departamento adscrita en el área de su responsabilidad, o por la o el servidor público designado por acuerdo de la Secretaría Ejecutiva.
+Las ausencias de las titularidades de las Direcciones de la Comisión, serán suplidas para el despacho y resolución de los asuntos de su correspondiente competencia, por la persona titular de alguna Jefatura de Departamento adscrita en el área de su responsabilidad, o por la persona servidora pública designada por acuerdo de la Secretaría Ejecutiva.
 
-Las titularidades de los Departamentos serán suplidas en sus ausencias por las o los servidores públicos que designe la Secretaría Ejecutiva.
+Las titularidades de los Departamentos serán suplidas en sus ausencias por las personas servidoras públicas que designe la Secretaría Ejecutiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO III. DE LA INTERPRETACIÓN Y MODIFICACIONES AL ESTATUTO ORGÁNICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 41.
 
 La interpretación de las normas contenidas en este estatuto corresponderá a la Junta Directiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
 Se podrá presentar una iniciativa para modificar el presente Estatuto a petición de la Secretaría Ejecutiva o a petición de alguno de los miembros de la Junta Directiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 43.
 
@@ -1135,9 +1007,7 @@ II. Por adecuaciones necesarias para un mejor cumplimiento de su objeto, y
 
 III. Por modificaciones sustantivas a la legislación que afecten directamente a la entidad.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2023/IPN/Estatuto-Organico-COFAA_04072023.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 44.
 
@@ -1170,3 +1040,19 @@ CUARTO.- Los asuntos pendientes a la entrada en vigor del presente Estatuto Org�
 QUINTO.- El presente estatuto, sus reformas y adiciones, deberán inscribirse en el Registro Público de Organismos Descentralizados, en términos de las disposiciones jurídicas aplicables.
 
 El lenguaje empleado en el presente documento no busca generar ninguna clase de discriminación ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones hechas al género masculino representa siempre a hombres y mujeres, abarcando ambos sexos.
+
+D.O.F. 18 DE ABRIL DE 2024
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL".]
+
+PRIMERO.- La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La actualización a la estructura orgánica, se solicitará una vez aprobado el presente Estatuto Orgánico, de conformidad con el numeral 12 fracción II de las Disposiciones en Materia de Recursos Humanos y del Servicio Profesional de Carrera.
+
+TERCERO. Las referencias que se hagan en otros instrumentos al área que se reubica se entenderán hechas al área a la que se atribuyen las funciones conforme al presente Estatuto.
+
+CUARTO. La oficina de representación en la entidad, definirá el caso, establecer (sic) los criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la reubicación de áreas en la estructura orgánica del organismo, participará en los actos de entrega y recepción, con motivo de la entrada en vigor del presente Estatuto.
+
+QUINTO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezca la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 Constitucional
+
+SEXTO. En los casos que sea necesario, las áreas correspondientes propondrán las modificaciones a la normatividad interna y demás disposiciones jurídicas y administrativas que correspondan.
