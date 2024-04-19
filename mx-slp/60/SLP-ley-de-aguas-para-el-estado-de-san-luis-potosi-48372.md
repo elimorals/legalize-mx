@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2023-09-01"
+last_updated: "2024-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2653,6 +2653,10 @@ Dichas cuotas y tarifas deberán comprenderse dentro de la iniciativa de ley de 
 
 Tratándose de organismos descentralizados o concesionarios, las cuotas y tarifas se calcularán aplicando las mismas fórmulas y metodología que se refieren en el artículo 165 de este Ordenamiento, serán remitidas al Congreso del Estado, a través del ayuntamiento respectivo, para su aprobación final en los plazos que se establecen en esta Ley.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2024)</small>
+
+Además de la propuesta de Cuotas y Tarifas que remitan los Organismos descentralizados o concesionarios, estos deberán adjuntar a la misma un comparativo de la Ley vigente con la iniciativa propuesta, en donde se especifiquen los incrementos, decrementos, reformas, adiciones o derogación, de las contribuciones o disposiciones; las cuales deberán ser justificadas en su respectiva exposición de motivos.
+
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 175.
@@ -3832,3 +3836,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 19 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1037.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 174, DE (SIC) LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
