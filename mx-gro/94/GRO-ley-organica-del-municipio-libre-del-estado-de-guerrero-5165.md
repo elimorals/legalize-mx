@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-01-23"
+last_updated: "2024-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -2631,6 +2631,18 @@ Los Ayuntamientos podrán celebrar convenios con particulares para la prestació
 
 Los Municipios podrán coordinarse para la adquisición y operación de maquinaria y equipo para la ejecución de obras, prestación de servicios y funcionamiento administrativo por razones de orden financiero o técnico.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2024)</small>
+
+ARTICULO 184 BIS.- El servicio público de estacionamiento consiste en la recepción guarda temporal, depósito, protección y devolución de vehículos en los lugares autorizados.
+
+En los estacionamientos públicos, el servicio puede prestarse por hora, minutos o periodos preestablecidos, a cambio del pago que señalen las tarifas correspondientes, especificadas en la Ley de Ingresos del Municipio correspondiente.
+
+El servicio público de estacionamiento podrá ser prestado por el propio Ayuntamiento o personas físicas y morales; estará dirigido a cualquier usuario que desee hacer uso de este.
+
+El servicio se prestará en los términos y condiciones establecidas en el Reglamento que para el efecto expida el Ayuntamiento.
+
+El Reglamento de Estacionamientos deberá prevenir que, en los estacionamientos de las Plazas Comerciales, Tiendas de Autoservicio, Tiendas Departamentales o similares, se hará efectiva otorgar la gratuidad de dos horas de uso a quienes demuestren haber consumido en dicho comercio o alguno de los que la conforman.
+
 ###### ARTICULO 185.
 
 La construcción, operación, rehabilitación, mantenimiento y conservación de los sistemas de agua potable y alcantarillado de las cabeceras municipales y de las distintas localidades, salvo cuando esos sistemas interesen directamente a dos o más Municipios, corresponden a los Ayuntamientos por sí o a través de Juntas de Agua Potable y Alcantarillado, conforme a lo dispuesto por la Ley del Sistema Estatal de Agua Potable y Alcantarillado del Estado de Guerrero. Estas actividades quedarán sujetas a la referida Ley.
@@ -4312,3 +4324,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
 
 TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 19 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 671 POR MEDIO DEL CUAL SE ADICIONA EL ARTÍCULO 184 BIS A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Notifíquese el presente Decreto a los Ayuntamientos de los 80 municipios y al Concejo Municipal Comunitario del Ayutla de los Libres, todos del Estado de Guerrero, para su conocimiento y efectos a que haya lugar.
+
+CUARTO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
