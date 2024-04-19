@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juicio-politico-del-estado-de-san-luis-potosi-136102"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-16"
-last_updated: "2020-10-24"
+last_updated: "2024-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de abril de 2019.
 
@@ -113,7 +113,9 @@ VII. Los subsecretarios; directores generales, o sus equivalentes de las depende
 
 VIII. Los titulares de los organismos constitucionales autónomos;
 
-IX. El Auditor o Auditora Superior del Estado, y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2024)</small>
+
+IX. El Auditor o Auditora Superior del Instituto de Fiscalización Superior del Estado de San Luis Potosí, y
 
 X. Los presidentes municipales, regidores y síndicos.
 
@@ -518,3 +520,11 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1039.- SE REFORMA EL ARTÍCULO 7° EN SU FRACCIÓN IX, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
