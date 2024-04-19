@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2024-03-12"
+last_updated: "2024-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1169,6 +1169,12 @@ La atención materna infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención médica integral y multidisciplinaria, basada en evidencia científica, sensible psicológica y culturalmente, en un marco de derechos humanos y trato digno;
 
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2024)</small>
+
+I BIS. Establecer acciones de atención integral y multidisciplinaria dirigidas a las mujeres que hayan vivido muerte gestacional, perinatal o neonatal y sus familias, por parte del personal de salud capacitado y sensible, que abarque el acompañamiento y seguimiento psicológico y emocional, con enfoque de derechos humanos y trato digno, garantizando su salud mental.
+
+En estos casos, las mujeres tendrán derecho a recibir información suficiente, clara, oportuna y veraz, así como la orientación necesaria, acerca de los procesos de inhibición fisiológica o farmacológica de la lactancia y sobre los correspondientes a la donación de lecha (sic) humana;
+
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
 
 II. La atención de la niña o niño al nacer, la vigilancia de su crecimiento y desarrollo, incluyendo para ello el tamiz oftalmológico, la estimulación temprana, y la promoción de la vacunación oportuna;
@@ -1181,13 +1187,17 @@ III. La promoción e información sobre: 7 (sic) derechos sexuales y reproductiv
 
 IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2024)</small>
 
-V. Establecer, garantizar y divulgar del derecho de todas las mujeres a estar acompañadas por una persona de su confianza, durante el trabajo de parto y el postparto, con fines de apoyo psicológico, y
+V. Establecer, garantizar y divulgar el derecho de todas las mujeres a estar acompañadas por una persona de su confianza y elección, salvo por razones de seguridad sanitaria o porque se derive de ello un riesgo clínicamente justificado, en cuyo caso deberán establecerse estrategias de comunicación en el trabajo de parto y el postparto con fines de apoyo psicológico;
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
 VI. Fomentar la instalación de salas de lactancia en los centros de trabajo de los sectores público y privado.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2024)</small>
+
+VII. Fomentar la instalación de bancos de leche humana en el Estado, a fin de contar con abasto suficiente de leche materna para los establecimientos de salud que cuenten con servicios neonatales, de acuerdo a lineamientos establecidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -4978,6 +4988,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1018.- SE REFORMAN LOS ARTÍCULOS 71, 348 EL PÁRRAFO PRIMERO, 351, 353 SUS FRACCIONES III, IV, V, VI Y VII, 354, 366, 368, 370, 371, 373, 377, 378, 380 LA FRACCIÓN II, 382, 383, 384, 385, 388 LAS FRACCIONES IV Y V Y 391; ADICIONA LOS ARTÍCULOS 71 SEXIES, 71 SEPTIES, EL CAPÍTULO II AL TÍTULO CUARTO, DENOMINADO "EJERCICIO ESPECIALIZADO DE LA CIRUGÍA" Y LOS ARTÍCULOS 71 OCTIES, 71 NONIES, 71 DECIES, 71 UNDECIES, 71 DUODECIES, AL 350 EL PÁRRAFO TERCERO, 352 BIS, 353 BIS, 366 BIS, 368 BIS, 384 BIS, AL ARTÍCULO 388 LAS FRACCIONES VI Y VII; Y DEROGA LOS CAPÍTULOS IV Y V DEL TÍTULO DÉCIMO SEXTO Y LOS ARTÍCULOS 353 LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DE LA FRACCIÓN VIII, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402 Y 403, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1038.- SE REFORMAN LAS FRACCIONES I Y V; Y ADICIONA LAS FRACCIONES I BIS Y VII, TODAS DEL ARTÍCULO 51, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
