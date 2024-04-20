@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2023-08-26"
+last_updated: "2024-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -1057,7 +1057,9 @@ XXIV. Promover la elaboración y actualización de los programas preventivos y p
 
 XXV. Regular, operar, actualizar y ampliar el Sistema de Alerta Sísmica para el Estado, en términos del Reglamento de la presente Ley;
 
-XXVI. Difundir, mediante los medios idóneos, a las autoridades correspondientes y a la población en general, avisos y boletines informativos en casos de emergencia o desastre así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente de prevención de riesgos de desastres y protección civil;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2024)</small>
+
+XXVI. Difundir e informar en tiempo real a las autoridades correspondientes y a la población en general, a través de las redes sociales oficiales y damas medios de comunicación masivos, los casos de emergencia o desastre, así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente de prevención de riesgos de desastres y protección civil.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
 
@@ -2310,6 +2312,14 @@ SEGUNDO. El presente Decreto entrará en vigor a partir del día de su publicaci
 P.O. 26 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1512.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XV, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 35 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2224.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 35 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
