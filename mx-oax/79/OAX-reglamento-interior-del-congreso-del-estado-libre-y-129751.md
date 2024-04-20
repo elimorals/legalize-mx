@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2023-09-09"
+last_updated: "2024-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -713,9 +713,13 @@ j. Favorecerá la implementación de políticas públicas ante las instituciones
 
 k. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2024)</small>
 
-l. Emitir cada año, en el marco del Día de las Juventudes Oaxaqueñas y de la entrega del Premio Estatal de la Juventud, en coordinación con la Comisión Permanente de Democracia y Participación Ciudadana, la Convocatoria para la celebración del Congreso de las Juventudes, el cual se realizará en el Recinto Legislativo; y
+l. Emitir cada año, en el marco del Día de las Juventudes Oaxaqueñas y de la entrega del Premio Estatal de la Juventud, en coordinación con la Comisión Permanente de Democracia y Participación Ciudadana, la Convocatoria para la celebración del Congreso de las Juventudes, el cual se realizará en el Recinto Legislativo.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2024)</small>
+
+Las iniciativas de ley y puntos de acuerdo presentados por los diputados juveniles con motivo del Congreso de las Juventudes, se remitirán por oficios signado (sic) por el presidente de esta comisión a la Secretaría de Servicios Parlamentarios, para que la presidencia de la Mesa Directiva mediante sesión de pleno de la legislatura del Congreso, las turne a las Comisiones correspondientes, para su estudio y dictaminación o para el trámite correspondiente; y
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 9 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1927,9 +1931,11 @@ Todo proyecto de Ley se discutirá primero en lo general, o sea, en su conjunto,
 
 Antes de iniciar la discusión en lo general, la Presidencia de la Mesa Directiva integrará una lista de los libros, títulos, capítulos, artículos, apartados, incisos, fracciones o párrafos que se reservan para la discusión en lo particular, incluyendo el nombre de los diputados que hacen la reserva.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 117.
 
-Todos los proyectos de Ley o Decretos que contengan más de diez artículos, se discutirán y aprobarán por libros, títulos, capítulos, secciones, o párrafos, según lo hayan dividido sus autores o las comisiones que de ellos hayan conocido, siempre que a moción de uno o más diputados, la Legislatura lo apruebe por mayoría relativa.
+Todos los proyectos de Ley o Decretos que contengan más de diez artículos, se discutirán y aprobarán por libros, títulos, capítulos secciones o párrafos, según lo hayan dividido sus autores o las comisiones que de ellos hayan conocido, siempre que a moción de uno o más diputados, la Legislatura lo apruebe por mayoría relativa. Con excepción de las Leyes de Ingresos Municipales que se aprobarán por mayoría simple de votos.
 
 ###### ARTÍCULO 118.
 
@@ -3182,3 +3188,19 @@ P.O. 9 DE SEPTIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su aprobación.
+
+P.O. 20 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2223.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 117 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2078.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA LETRA I. DE LA FRACCIÓN VI DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
