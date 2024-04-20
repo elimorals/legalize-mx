@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-04-06"
+last_updated: "2024-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4373,9 +4375,9 @@ Reglas Comunes.
 
 ### CAPITULO I. Violencia familiar
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2024)</small>
 
-404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, o concubinato con la víctima, tutela o curatela.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -4765,6 +4767,18 @@ Se considera violencia todo acto o admisión contra una persona adulta mayor, qu
 
 412 SEPTIES.- El delito de violencia cometido en contra de una persona adulta mayor se perseguirá de oficio.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 2024)</small>
+
+### CAPITULO VII. Violencia de pareja
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2024)</small>
+
+412 OCTIES.- Violencia de pareja, es el acto abusivo de poder, dirigido a dominar, someter, controlar, humillar, o agredir de manera física, verbal psicológica, patrimonial o contra los derechos sexuales a la víctima, cuyo activo tenga o haya tenido relación de noviazgo, sentimental, afectiva, intima o de hecho equiparable.
+
+Quien cometa el delito de violencia de pareja se le impondrá de uno a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización. Además, se sujetará a procesos reeducativos especializados y gratuitos, con perspectiva de género, para la reestructuración cognitiva de su pensamiento sobre las violencias.
+
+El ministerio público debe considerar la emisión de órdenes de protección a favor de las víctimas de conformidad con la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
@@ -4940,6 +4954,10 @@ II. Cuando las conductas delictivas sean realizadas por persona o personas que h
 III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO UNICO
 
@@ -5123,9 +5141,9 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
 
@@ -5168,10 +5186,6 @@ III. En el supuesto de que el delito se realice con violencia física o moral o 
 Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
 
 ARTICULOS TRANSITORIOS:
-
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ## TITULO VIGESIMO QUINTO. Delitos contra la Libertad de Expresión
 
@@ -6370,6 +6384,14 @@ TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del p
 P.O. 6 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2006.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO, LAS FRACCIONES II Y III DEL ARTÍCULO 390; SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 390, Y EL ARTÍCULO 390 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2113.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO TERCERO CORRESPONDIENTE AL TÍTULO III "DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUERES", Y EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 51; SE ADICIONA EL ARTÍCULO 8 BIS, LAS FRACCIONES VIII Y IX AL ARTÍCULO 9, Y LA FRACCIÓN XVIII AL ARTÍCULO 51, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE REFORMA EL ARTÍCULO 404 Y SE ADICIONA EL CAPÍTULO VII DENOMINADO "VIOLENCIA DE PAREJA" AL TÍTULO VIGÉSIMO SEGUNDO DENOMINADO "DELITOS CONTRA EL DERECHO A UNA VIDA LIBRE DE VIOLENCIA", EL CUAL CONTIENE EL ARTÍCULO 412 OCTIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
