@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-04-06"
+last_updated: "2024-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -253,17 +253,31 @@ XII. Cualesquiera otras formas análogas de violencia que lesione o sean suscept
 
 ### Capítulo Primero. En el Ámbito Familiar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2024)</small>
+
 ###### Artículo 8.
 
-Violencia en el ámbito familiar, es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o mantenga o haya mantenido una relación análoga con la víctima.
+Violencia en el ámbito familiar, es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual, así como contra los derechos reproductivos, a las niñas, adolescentes y mujeres dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, mantenga o haya mantenido una relación análoga, adopción, tutela o curatela.
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
 
 También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga relación de parentesco.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2024)</small>
+
+###### Artículo 8 Bis.
+
+Violencia en el ámbito de pareja, es el acto abusivo de poder, dirigido a dominar, someter, controlar, humillar, o agredir de manera física, verbal, psicológica, patrimonial, económica, contra los derechos sexuales, a las mujeres, con cuyo agresor tenga o haya tenido relación de noviazgo, sentimental, afectiva, intima, o de hecho equiparable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2024)</small>
+
 ###### Artículo 9.
 
-Los criterios de atención, prevención, sanción y erradicación que se establezcan en el Estado y los Municipios para proteger los derechos de las víctimas de la violencia en el ámbito familiar, tendrán como fin salvaguardar su seguridad, integridad, identidad y derechos. Procurarán la recuperación y la construcción de un nuevo proyecto de vida para la Víctima. Serán gratuitos y expeditos, debiendo, por consiguiente:
+Los modelos de atención, prevención, sanción y erradicación de la violencia contra las mujeres, que deberán establecer en el Estado y los municipios, buscarán proteger los derechos de las sobrevivientes de violencia en el ámbito familiar y de pareja, tendrán como fin salvaguardar su seguridad, integridad, identidad, derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ABRIL DE 2024)</small>
+
+Procurarán la recuperación y la construcción de un nuevo proyecto de vida para la sobreviviente de violencia. Serán Gratuitos y Expeditos, debiendo, por consiguiente:
 
 I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
 
@@ -284,6 +298,14 @@ VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima;
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 VII. Instalar de forma obligatoria unidades de atención integral y refugios para las víctimas y sus hijas e hijos, así como centros reeducativos para agresores, a los cuales se les deberá dar el mantenimiento necesario. La información sobre la ubicación de los refugios será secreta.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2024)</small>
+
+VIII. Considerar diagnósticos que permitan identificar las causas, frecuencia y las consecuencias de las modalidades de la violencia de pareja y familiar, así como los factores de riesgo asociados a cada una.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2024)</small>
+
+IX. Incluir acciones y programas de prevención de la violencia de pareja en adolescentes y jóvenes, que consideren información sobre mitos del amor romántico, estereotipos sexistas, misoginia, factores de riesgo, así como el fomento a la autonomía de las mujeres y nuevas formas de construcción de relaciones interpersonales.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1401,7 +1423,9 @@ VII. Informar periódicamente al Secretario Ejecutivo del Sistema, el cumplimien
 
 VIII. Las demás que le confieran el Sistema, su Presidencia, la Secretaría Ejecutiva y los ordenamientos jurídicos aplicables.
 
-### Capítulo Tercero. Del Programa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2024)</small>
+
+### Capítulo Tercero. Del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra la Mujer
 
 ### Capítulo Cuarto. De la Distribución de Competencias
 
@@ -1415,9 +1439,11 @@ El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia 
 
 El Programa es el instrumento que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias y entidades de la administración pública del Estado y los Municipios, en el corto, mediano y largo plazo. Tendrá el carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicte el Sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2024)</small>
+
 ###### Artículo 51.
 
-En el Programa deberán establecerse estrategias y acciones con perspectiva de género para:
+El Programa contendrá las acciones con Perspectiva de Género para:
 
 I. Impulsar y fomentar el conocimiento y el respeto al derecho de las mujeres a una vida libre de violencia de género implementando un Plan Estatal de Sensibilización y Prevención de la Violencia contra las Mujeres;
 
@@ -1437,7 +1463,9 @@ VIII. Elaborar un modelo integral de atención a los derechos humanos y empodera
 
 IX. Promover que los medios de comunicación fomenten el respeto a los derechos humanos de las mujeres y su dignidad, aplicando criterios adecuados que favorezcan la erradicación de la violencia que contra ellas se ejerce;
 
-X. Garantizar la investigación y recopilación de estadísticas y demás información pertinente sobre las causas, consecuencias y frecuencia de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir y eliminar este tipo de violencia;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2024)</small>
+
+X. Garantizar la investigación y recopilación de estadísticas y demás información pertinente sobre las causas, consecuencias y frecuencia de las distintas modalidades de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir y eliminar estas violencias;
 
 XI. Proporcionar tratamiento terapéutico al personal encargado de la atención de las mujeres victimas de violencia y a sus agresores;
 
@@ -1460,6 +1488,10 @@ XV. Elaborar un modelo integral de atención y capacitación relativo al trabajo
 XVI. Evaluar el cumplimiento de los objetivos propuestos en el propio Programa; y
 
 XVII. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2024)</small>
+
+XVIII. Diseñar y generar campañas de prevención de la violencia contra las mujeres jóvenes en relaciones de noviazgo o análogas, así como de violencia familiar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -2982,3 +3014,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico en lo que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2113.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO TERCERO CORRESPONDIENTE AL TÍTULO III “DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA, CONTRA LAS MUJERES”, Y EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 51; SE ADICIONA EL ARTÍCULO 8 BIS, LAS FRACCIONES VIII Y IX AL ARTÍCULO 9, Y LA FRACCIÓN XVIII AL ARTÍCULO 51, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE REFORMA EL ARTÍCULO 404 Y SE ADICIONA EL CAPÍTULO VII DENOMINADO “VIOLENCIA DE PAREJA” AL TÍTULO VIGÉSIMO SEGUNDO DENOMINADO “DELITOS CONTRA EL DERECHO A UNA VIDA LIBRE DE VIOLENCIA”, EL CUAL CONTIENE EL ARTÍCULO 412 OCTIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
