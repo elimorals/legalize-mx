@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-04-18"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -303,9 +303,9 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por haber nacido o vivir con su madre en algún establecimiento penitenciario, o bien, por circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, situación de orfandad, por haber nacido o vivir con su madre en algún establecimiento penitenciario, o bien, por circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
@@ -330,6 +330,10 @@ I. Derecho a la vida, a la supervivencia, al desarrollo y a la paz;
 I Bis. Derecho a ser adoptado.
 
 II. Derecho de prioridad;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+II Bis. Derecho a recibir una atención integral, oportuna y permanente ante la situación de orfandad;
 
 III. Derecho a la identidad;
 
@@ -1669,11 +1673,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### Artículo 100 Bis 3.
 
-En concordancia con el Derecho a la Educación, las autoridades competentes deberán establecer mecanismos para fomentar que niñas, niños y adolescentes, hagan uso responsable y seguro de las tecnologías de información y comunicación.
+En concordancia con el Derecho a la Educación, las autoridades competentes deberán establecer mecanismos para fomentar que niñas, niños y adolescentes, hagan uso responsable y seguro de las tecnologías de información y comunicación y el uso del internet, previniendo el ciberacoso y todas las formas de violencia digital.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
@@ -1816,6 +1820,10 @@ A falta de quienes ejerzan la representación originaria de niñas, niños y ado
 Las autoridades estatales y municipales, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
 
 Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+El órgano jurisdiccional está obligado a aplicar la suplencia de la queja en todo procedimiento en el que se vean involucrados niños, niñas y adolescentes, protegiendo y privilegiando sus derechos, aun cuando éstos no formen parte del juicio, las partes no los hagan valer o incluso cuando las pruebas sean insuficientes para esclarecer la verdad de los hechos.
 
 El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en esta Ley y demás disposiciones aplicables.
 
@@ -2738,3 +2746,21 @@ P.O. 18 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 857 POR EL QUE SE REFORMA EL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 842 POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 105 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 844 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10 Y SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 13 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 849 POR EL QUE SE REFORMA EL ARTÍCULO 100 BIS 3 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
