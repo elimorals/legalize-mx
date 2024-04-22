@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-01-19"
+last_updated: "2024-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -140,6 +140,10 @@ I.- El interés superior del desarrollo y protección de los jóvenes;
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 II.- La igualdad sin distinción de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, discapacidad, o cualquiera otra condición que atente contra la dignidad y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+II Bis.- La transversalidad, entendida como la directriz para articular políticas públicas entre los diversos órdenes de gobierno a partir de la visión integral de los derechos civiles, políticos, económicos, sociales y culturales de las juventudes, considerando las distintas etapas y la necesidad de establecer estrategias específicas para cada una de ellas.
 
 III.- La corresponsabilidad de los miembros de la familia, Estado y sociedad en la atención y desarrollo integral de la juventud;
 
@@ -847,9 +851,35 @@ XXIX.- Establecer y conservar actualizados los procedimientos, sistemas y aplica
 
 XXX.- Las demás que sean necesarias para el cumplimiento del objeto del Instituto y le asigne la Junta de Gobierno, la presente Ley y demás disposiciones legales aplicables.
 
-### CAPÍTULO III. DEL PATRIMONIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO IV. DE LA VIGILANCIA DEL INSTITUTO
+### CAPÍTULO II BIS. DE LAS POLÍTICAS PÚBLICAS EN MATERIA DE JUVENTUD
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+###### Artículo 65 Bis.
+
+La planeación, programación y presupuestación de las políticas públicas en materia de juventud, comprenden de manera enunciativa y no limitativa, las siguientes acciones:
+
+I. Promover programas y proyectos tendentes a generar una cultura de respeto, tolerancia y reconocimiento de los derechos, valores, potencialidades y conductas de las personas jóvenes;
+
+II. Fomentar la cohesión social e inclusión de los grupos prioritarios como las mujeres; niñas, niños y adolescentes; personas jóvenes; personas mayores; personas con discapacidad; personas de la diversidad sexual; personas migrantes; personas víctimas; personas en situación de calle; personas privadas de la libertad; personas que residen en instituciones de asistencia social; personas afrodescendientes; personas indígenas y minorías religiosas;
+
+III. Atender con acciones concretas, la diversidad ideológica y cultural de la juventud hidalguense, particularmente las Zonas de Atención Prioritaria, en las poblaciones y asentamientos indígenas, con pleno respeto de sus normas y leyes internas;
+
+IV. Proporcionar atención integral en salud, con especial énfasis en las acciones de prevención de adicciones, accidentes, embarazo juvenil, sexualidad anticipada, maternidad y paternidad temprana, en su caso, considerando su entorno familiar y social;
+
+V. Erradicar el analfabetismo, prevenir la deserción escolar, procurar el incremento de años de estudio y la adaptación del sistema educativo al uso de las nuevas tecnologías y su fácil acceso para las y los jóvenes;
+
+VI. Apoyar la incorporación al sector laboral de las y los jóvenes que hayan concluido su preparación técnica y profesional, fomentar bolsas de trabajo, así como el diseño de estrategias para quienes tengan estudios truncos pudiendo acceder a alguna fuente laboral mediante la recuperación escolar, así como la formulación de convenios e incentivos fiscales y capacitación laboral adecuada que faciliten a la iniciativa privada la contratación de jóvenes;
+
+VII. Establecer mecanismos para el rápido desarrollo de la cultura emprendedora y empresarial en la población joven de Hidalgo a través del establecimiento de programas;
+
+VIII. Generar acciones para la prevención del delito; y
+
+IX. Fomentar la cultura de la legalidad, el respeto de los derechos humanos y la solución pacífica de los conflictos.
+
+### CAPÍTULO III. DEL PATRIMONIO
 
 ###### Artículo 66.
 
@@ -867,7 +897,7 @@ V.- Los bienes muebles e inmuebles de su propiedad o que le destine el Gobierno 
 
 VI.- Las utilidades, intereses y dividendos, rendimientos, impuestos especiales, Estatales o Municipales, y en general, todo ingreso que adquiera por cualquier título legal.
 
-### CAPÍTULO V. DE LAS RELACIONES LABORALES DEL INSTITUTO
+### CAPÍTULO IV. DE LA VIGILANCIA DEL INSTITUTO
 
 ###### Artículo 67.
 
@@ -879,13 +909,13 @@ El Comisario, evaluará el desempeño general y por funciones del Instituto; rea
 
 Para el adecuado cumplimiento de sus funciones, la Junta de Gobierno y el Director General, deberán proporcionar la información que solicite el Comisario.
 
-### CAPÍTULO VI. DE LAS PARTICIPACIÓN DE LOS MUNICIPIOS
+### CAPÍTULO V. DE LAS RELACIONES LABORALES DEL INSTITUTO
 
 ###### Artículo 69.
 
 Las relaciones de trabajo entre el Instituto y su personal se regirán por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipal, así como de los Organismos Descentralizados del Estado de Hidalgo.
 
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD
+### CAPÍTULO VI. DE LAS PARTICIPACIÓN DE LOS MUNICIPIOS
 
 ###### Artículo 70.
 
@@ -929,9 +959,7 @@ El Programa Municipal y las acciones emprendidas en la materia por los municipio
 
 ## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
-### CAPÍTULO II. DEL CONSEJO CONSULTIVO DE LA JUVENTUD
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
+### CAPÍTULO I. DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
 ###### Artículo 71.
 
@@ -985,7 +1013,9 @@ Hidalgo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2016)</small>
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO II. DEL CONSEJO CONSULTIVO DE LA JUVENTUD
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2016)</small>
 
 ###### Artículo 76.
 
@@ -1123,9 +1153,7 @@ Lo relativo a la organización y funcionamiento del Consejo Consultivo será reg
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO ÚNICO. DEL PREMIO
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 80.
 
@@ -1136,6 +1164,10 @@ El incumplimiento de las disposiciones contenidas en esta Ley por parte de los s
 ## TÍTULO SEXTO. DEL PREMIO ESTATAL DE LA JUVENTUD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DEL PREMIO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
 
 ###### Artículo 81.
 
@@ -1350,3 +1382,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 605 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 847 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
