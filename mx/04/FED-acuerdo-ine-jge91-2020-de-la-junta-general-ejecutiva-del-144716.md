@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge91-2020-de-la-junta-general-ejecutiva-del-144716
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-10-23"
-last_updated: "2023-12-27"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144716&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-10-12"
 ---
 # ACUERDO INE/JGE91/2020 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA ACTUALIZACION DEL MODELO DE GESTION POR PROCESOS DEL INSTITUTO NACIONAL ELECTORAL Y DE LOS LINEAMIENTOS PARA LA ELABORACION Y ACTUALIZACION DE MANUALES DE PROCESOS Y PROCEDIMIENTOS DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 27 DE DICIEMBRE DE 2023, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
-
 EXTRACTO DEL ACUERDO INE/JGE91/2020 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA ACTUALIZACIÓN DEL MODELO DE GESTIÓN POR PROCESOS DEL INSTITUTO NACIONAL ELECTORAL Y DE LOS LINEAMIENTOS PARA LA ELABORACIÓN Y ACTUALIZACIÓN DE MANUALES DE PROCESOS Y PROCEDIMIENTOS DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2023.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 22 DE ABRIL DE 2024, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ABRIL DE 2024.
 
 Extracto publicado en el Diario Oficial de la Federación, el viernes 23 de octubre de 2020.
 
@@ -164,3 +164,31 @@ DOF: www.dof.gob.mx/2023/INE/JGEord202311_21_ap_5_3.pdf
 INE Acuerdo: https://www.ine.mx/sesion-ordinaria-de-la-junta-general-ejecutiva-21-de-noviembre-de-2023/
 
 Anexos: https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/156874/JGEor202311-21-ap-5-3-a1.pdf
+
+D.O.F. 22 DE ABRIL DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO INE/JGE31/2024 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA MODIFICACIÓN AL PUNTO PRIMERO DEL ACUERDO INE/JGE205/2023, RESPECTO DEL PROGRAMA DE TRABAJO DE MANUALES DE PROCESOS Y PROCEDIMIENTOS ALINEADOS A CÉDULAS DE PUESTOS Y MANUALES DE ORGANIZACIÓN", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueba la modificación de los términos establecidos y el plazo previsto en el punto PRIMERO, del acuerdo INE/JGE205/2023 respecto del Programa de Trabajo de Manuales de Procesos y Procedimientos Alineados a Cédulas de Puestos y Manuales de Organización para quedar en los términos siguientes:
+
+“PRIMERO.- Se aprueba la modificación de los términos establecidos en los puntos TERCERO y CUARTO, así como al plazo previsto en este último, ambos del acuerdo INE/JGE243/2022, para quedar en los términos siguientes:
+
+“TERCERO…”
+
+“CUARTO.- Los manuales de procesos y procedimientos que se encuentran aprobados por la Junta General Ejecutiva, así como los que se encuentran en levantamiento de información deberán actualizarse por las Unidades Responsables, dentro del ámbito de su competencia, para que consideren la integración de puestos en congruencia y alineación con las actividades contenidas en las cédulas de puestos y, en su caso, las funciones de los manuales de organización general y/o específicos, en dos etapas. La primera etapa se desarrollará de marzo de 2024 a mayo de 2026 con nueve Unidades Responsables; y la segunda iniciará de enero de 2026 a febrero de 2027 con las ocho Unidades Responsables restantes que integran el Instituto Nacional Electoral, llevando a cabo actividades relativas al diagnóstico y alineación organizacional, actualización de cédulas de puestos y actualización, en su caso, de manuales de organización, y la actualización y/o documentación de manuales de procesos y procedimientos, de acuerdo con el programa de trabajo que proponga la Dirección Ejecutiva de Administración en coordinación con las Unidades Responsables para el cumplimiento de las actividades previstas en las dos etapas del Anexo único del presente acuerdo.”
+
+(…)
+
+QUINTO.- Publíquese el presente acuerdo en la NormaINE, en la Gaceta Electoral y en el portal de internet del Instituto Nacional Electoral, así como un extracto de este en el Diario Oficial de la Federación con la liga electrónica para su ubicación en dicho medio.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria de la Junta General Ejecutiva, celebrada el 12 de marzo de 2024, por votación unánime, (…) La Encargada del Despacho de la Secretaría Ejecutiva y Secretaria de la Junta General Ejecutiva del Instituto Nacional Electoral, Mtra. Claudia Edith Suárez Ojeda.- Rúbrica. La Consejera Presidenta y Presidenta de la Junta General Ejecutiva, Licenciada Guadalupe Taddei Zavala – Rúbrica.
+
+El acuerdo y su anexo se encuentra disponible para su consulta en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2024/INE/JGEext202403_12_ap_2_1.pdf
+
+INE Acuerdo: https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-12-de-marzo-de-2024/
+
+Anexo: https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/166857/JGEex202403-12-ap-2-1-a.pdf
