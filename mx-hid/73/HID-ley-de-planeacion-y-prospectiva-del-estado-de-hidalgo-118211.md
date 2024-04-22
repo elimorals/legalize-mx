@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2022-06-27"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -83,7 +83,9 @@ COPLADER.- Comité de Planeación para el Desarrollo Regional; y
 
 COPLADEM.- Comité de Planeación para el Desarrollo Municipal.
 
-Planeación Estatal del Desarrollo. El proceso de ordenación racional y sistemático de acciones que, con base en el ejercicio de las atribuciones del Titular del Poder Ejecutivo Estatal en materia de promoción y regulación de la actividad económica, social, política, ambiental, regional y cultural, tiene como finalidad la transformación de la realidad de la Entidad, de conformidad con las normas, principios y objetivos que la Constitución Política del Estado y las Leyes relacionadas establecen.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Planeación Estatal del Desarrollo. El proceso de ordenación racional y sistemático de acciones que, con base en el ejercicio de las atribuciones del Titular del Poder Ejecutivo Estatal en materia de promoción y regulación de la actividad económica, social, política, regional, cultural, de protección al ambiente y aprovechamiento racional de los recursos naturales, así como de ordenamiento territorial y desarrollo urbano, el cual tiene como finalidad la transformación de la realidad de la Entidad, de conformidad con las normas, principios y objetivos que la Constitución Política del Estado y las Leyes relacionadas establecen.
 
 A través del Sistema Estatal de Planeación Democrática se fijarán en los planes y programas los objetivos, estrategias, líneas de acción, y prioridades; así mismo se asignarán los recursos, responsabilidades y la evaluación de resultados, de acuerdo a lo señalado en el Capítulo II de esta Ley.
 
@@ -97,7 +99,9 @@ I. Fortalecimiento de la soberanía estatal, del pacto federal y de la autonomí
 
 II. Preservación y perfeccionamiento del régimen democrático, republicano, federal, laico y representativo que la Constitución Política de los Estados Unidos Mexicanos y la del Estado Libre y Soberano de Hidalgo establecen; y la consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural de las comunidades, impulsando su participación activa en la planeación y ejecución de las actividades del gobierno;
 
-III. Atención a la mejora de las condiciones de bienestar de la población y de su calidad de vida;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+III. Igualdad de derechos entre las personas, la no discriminación, así como la atención a la mejora de las condiciones de bienestar de la población y de su calidad de vida;
 
 IV. Respeto irrestricto a los derechos humanos de todos los grupos étnicos y sociales;
 
@@ -185,9 +189,11 @@ Las dependencias y entidades de la Administración Pública Estatal y Municipal 
 
 Los proyectos de iniciativa de leyes y los reglamentos, decretos y acuerdos que formule el Poder Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan Estatal y/o los Programas respectivos.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán planear y conducir sus actividades con perspectiva de género en la definición y ejecución de los planes, programas y acciones de gobierno con carácter intersectorial y sujeción a los objetivos y prioridades de la planeación estatal del desarrollo y la prospectiva, a fin de cumplir con la obligación de garantizar la igualdad real de oportunidades entre mujeres y hombres, así como al derecho de una vida libre de violencia.
+Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán planear y conducir sus actividades con perspectiva intercultural y de género en la definición y ejecución de los planes, programas y acciones de gobierno con carácter intersectorial y sujeción a los objetivos y prioridades de la planeación estatal del desarrollo y la prospectiva, a fin de cumplir con la obligación de garantizar la igualdad real de oportunidades entre mujeres y hombres, así como al derecho de una vida libre de violencia.
 
 ###### ARTÍCULO 13.
 
@@ -295,7 +301,9 @@ El Comité de Planeación para el Desarrollo del Estado de Hidalgo tendrá las s
 
 I. Definir, conducir y coordinar las políticas correspondientes al proceso de planeación del desarrollo del Estado;
 
-II. Promover la participación de los diversos sectores sociales para coadyuvar en la formulación, programación, ejecución, evaluación y actualización del Plan Estatal de Desarrollo, contemplando la perspectiva de género;
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+II. Promover la participación de los diversos sectores sociales para coadyuvar en la formulación, programación, ejecución, evaluación y actualización del Plan Estatal de Desarrollo, contemplando la perspectiva intercultural y de género;
 
 III. Presentar propuestas de proyectos estratégicos para el desarrollo del Estado, incluyendo los que por sus características y dimensiones trasciendan el periodo constitucional de gobierno, para la consecución de los objetivos del Plan Estatal de Desarrollo;
 
@@ -554,6 +562,10 @@ La organización, funcionamiento, atribuciones y competencias de los Comités de
 ###### ARTÍCULO 44.
 
 En la Planeación del Desarrollo Municipal concurrirán en forma coordinada y obligatoria los Sectores Público Federal, Estatal y Municipal, y de manera concertada, los sectores social y privado y la ciudadanía en general, sumando su voluntad política para la gestión de los intereses de la comunidad.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 44 BIS.- El Plan Municipal de Desarrollo es el documento rector de la planeación municipal, en el que se establecen las directrices generales de política pública de carácter estratégico y de prospectiva, que determina los objetivos y metas para orientar la conducción del desarrollo del municipio en todos los ámbitos y rubros de la gestión pública gubernamental, el cual deberá encontrarse alineado con el Plan Estatal de Desarrollo.
 
 ###### ARTÍCULO 45.
 
@@ -952,5 +964,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. OMAR FAYAD MENESES.- R�
 P.O. 27 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 210 QUE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO Y QUE REFORMA EL ARTÍCULO 71 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 840 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
