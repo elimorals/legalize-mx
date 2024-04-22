@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-04-04"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "HID"
 ---
 # LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -393,6 +391,10 @@ II.- Los Centros de Control Animal y Zoonosis de cada Municipio;
 
 III.- Los Rastros de cada Municipio;
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+III Bis.- Los crematorios de animales;
+
 IV.- Las Asociaciones Protectoras de Animales;
 
 V.- Los establecimientos para la venta de animales;
@@ -496,6 +498,12 @@ Los propietarios, poseedores y encargados de un animal que cause daños a tercer
 ###### Artículo 17.
 
 Al no cumplir con lo anteriormente expuesto, el dueño, propietario o encargado de cualquier animal, se hará acreedor a las sanciones previstas en la presente Ley, independientemente de la responsabilidad penal o civil en las que incurra.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+Toda persona que abandone a un animal doméstico o mascota se hará acreedor a las sanciones que establece el artículo 102 de esta Ley, independientemente de las infracciones y responsabilidades en que incurra conforme a la demás legislación aplicable.
 
 ### CAPITULO QUINTO. DE LA CRIA Y RESGUARDO DE ANIMALES
 
@@ -1550,5 +1558,17 @@ SEGUNDO. Para la actualización de los datos de registro de personas prestadoras
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 823 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN IV DEL ARTÍCULO 25 TER DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 841 POR EL QUE SE ADICIONA EL ARTÍCULO 17 BIS A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
