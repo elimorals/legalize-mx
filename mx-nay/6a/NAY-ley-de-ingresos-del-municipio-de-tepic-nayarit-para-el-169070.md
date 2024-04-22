@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-municipio-de-tepic-nayarit-para-el-169070"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-27"
-last_updated: "2024-02-08"
+last_updated: "2024-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE INGRESOS DEL MUNICIPIO DE TEPIC, NAYARIT; PARA EL EJERCICIO FISCAL 2024
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE FEBRERO DE 2024.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE ABRIL DE 2024 NO APLICA AL ARTICULADO DEL DECRETO DE LA LEY DE INGRESOS DEL MUNICIPIO DE TEPIC, NAYARIT; PARA EL EJERCICIO FISCAL 2024 PUBLICADA EN EL P.O. DEL 27 DE DICIEMBRE DE 2023.]</small>
 
 Ley publicada en la Sección Tercera al Número 121 del Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2025.
 
