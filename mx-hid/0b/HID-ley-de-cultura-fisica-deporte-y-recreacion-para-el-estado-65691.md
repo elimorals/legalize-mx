@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2023-05-29"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -103,11 +103,11 @@ Objeto que tienen (sic) el propósito de coadyuvar en la formación y desarrollo
 
 La función del deporte, es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y fomentar la solidaridad y respeto como normas del deporte.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
-Las acciones y servicios que en materia deportiva promueva el Estado, las Dependencias y Entidades de la Administración Pública Estatal, el Instituto Hidalguense del Deporte, los ayuntamientos y las organizaciones deportivas y que se encuentren inscritas en el Registro Estatal de Cultura Física, Deporte y Recreación, serán gratuitos y accesibles a toda la población, ajenos a toda discriminación motivada por el origen étnico, nacional o regional, género, edad, discapacidades, condición social o económica, condiciones de salud, creencia religiosa, opiniones, preferencias sexuales, estado civil, trabajo desempeñado, costumbres, raza, o cualquier otra que pretenda anular o menoscabar el derecho de las personas a realizar actividades deportivas o de recreación.
+Las acciones y servicios que en materia deportiva promueva el Estado, las Dependencias y Entidades de la Administración Pública Estatal, el Instituto Hidalguense del Deporte, los ayuntamientos y las organizaciones deportivas y que se encuentren inscritas en el Registro Estatal de Cultura Física, Deporte y Recreación, serán gratuitos y accesibles a toda la población, ajenos a toda discriminación motivada por el origen étnico, nacional o regional, género, edad, discapacidades, condición social o económica, condiciones de salud, creencia religiosa, opiniones, orientación sexual, identidad o expresión de género, características sexuales, estado civil, trabajo desempeñado, costumbres, raza, o cualquier otra que pretenda anular o menoscabar el derecho de las personas a realizar actividades deportivas o de recreación.
 
 ###### Artículo 4.
 
@@ -1888,5 +1888,11 @@ P.O. 2 DE MAYO DE 2023.
 P.O. 29 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 279 QUE MODIFICA LOS ARTÍCULOS 1 FRACCIÓN III, 25 FRACCIÓN VIII Y 39 FRACCIÓN V, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 846 POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
