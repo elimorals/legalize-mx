@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2024-01-29"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL PARA EL H. AYUNTAMIENTO DE ASIENTOS, AGUASCALIENTES
 
+> <small>[N. DE E. LAS REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS, AGUASCALIENTES, EXPEDIDAS POR EL H. MUNICIPIO DE ASIENTOS, PUBLICADAS EN EL P.O. DE 22 DE ABRIL DE 2024, MODIFICARON DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2495,7 +2499,9 @@ c) Departamento de Reglamentos y Licencias;
 
 d) Departamento de Comunicación Social y Relaciones Públicas;
 
-e) Jueces Calificadores;
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+e) Juez Cívico
 
 f) Coordinación de Delegaciones;
 
@@ -2510,6 +2516,10 @@ j) Departamento de Educación;
 k) Delegados, Comisarios y Jefe de Pueblo;
 
 l) Comités Comunitarios de Planeación, Gestión y Participación Comunitaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+m) Asuntos Internos de Seguridad Pública.
 
 1. Delegaciones:
 
@@ -2771,15 +2781,19 @@ XV (SIC).- Dirección de Instancia Municipal de las Mujeres;
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 225°.
 
-Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador y en el caso de Director de Seguridad Pública coordinarse con el ejecutivo estatal cuando aplique el mando único. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto (sic) que se trate.
+Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Cívico y en el caso de Director de Seguridad Pública coordinarse con el ejecutivo estatal cuando aplique el mando único.
 
-El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia moral y notoria buena costumbre.
+El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto (sic) que se trate.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 226°.
 
-Los servidores públicos municipales que no cumplan satisfactoriamente con su encargo podrán ser cesados o removidos de su función. Tratándose del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador o Director de Seguridad Pública, el cese o remoción será decretado por el Ayuntamiento, en el caso de los demás servidores públicos, el Presidente Municipal podrá cesarlos o removerlos, siempre y cuando exista causa justificada para el cese o remoción.
+Los servidores públicos municipales que no cumplan satisfactoriamente con su encargo podrán ser cesados o removidos de su función. Tratándose del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Cívico o Director de Seguridad Pública, el cese o remoción será decretado por el Ayuntamiento, en el caso de los demás servidores públicos, el Presidente Municipal podrá cesarlos o removerlos, siempre y cuando exista causa justificada para el cese o remoción.
 
 ###### ARTÍCULO 227°.
 
@@ -3131,9 +3145,13 @@ XXIII. Acordar con el Presidente Municipal el despacho de los asuntos que le cor
 
 Corresponde a la Dirección de Asuntos Jurídicos:
 
-I. Recibir los reportes de los jueces calificadores;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
 
-II. Coordinar a los jueces calificadores, verificadores de reglamentos y área jurídica del municipio;
+I. Recibir los reportes del Juez Cívico
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+II. Coordinar al Juez Cívico, verificadores de reglamentos y área jurídica del municipio;
 
 III. Elaborar, Examinar y Supervisar la redacción de convenios, contratos, o cualquier acto jurídico que celebren las dependencias municipales con particulares y/u otras dependencias;
 
@@ -8379,13 +8397,11 @@ Para efectos del presente artículo el Consejo Municipal de Seguridad Pública n
 
 El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado por escrito.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 834°.
 
-Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del juez calificador a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar actas de infracciones de movilidad.
-
-Asimismo, combatirán las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
+Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del Juez Cívico a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar actas de infracciones de movilidad.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -8435,11 +8451,11 @@ ARTÍCULO 840° BIS. Ninguna persona deberá conducir un vehículo por la vía p
 
 ARTÍCULO 840° TER. En caso de reincidencia, el conductor, además de las sanciones que correspondan, el vehículo será remitido a la pensión municipal y quedará a disposición de las autoridades competentes, en garantía de la multa impuesta, hasta que el infractor cubra la misma.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
-ARTÍCULO 840° CUARTER (SIC). En caso de reincidencia por tercera ocasión, el conductor, adicionalmente, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas y farmacodependientes ofertados por la Secretaria de Salud del Estado de Aguascalientes. Asimismo, no le será devuelto el vehículo hasta en tanto no concluya con el programa.
+ARTÍCULO 840° CUATER (SIC). En caso de reincidencia por tercera ocasión, el conductor, adicionalmente, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas y farmacodependientes ofertados por la Secretaria de Salud del Estado de Aguascalientes. Asimismo, no le será devuelto el vehículo hasta en tanto no concluya con el programa.
 
-El Juez Calificador será el servidor público facultado para verificar el cumplimiento de lo dispuesto por este artículo.
+El Juez Cívico será el servidor público facultado para verificar el cumplimiento de lo dispuesto por este artículo y el REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE ASIENTOS
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -8455,11 +8471,19 @@ Cuando la prueba arroje un resultado que sobrepase el límite permitido por el a
 
 II. El elemento operativo entregará un ejemplar del comprobante de los resultados de la prueba, al conductor, inmediatamente después de su realización.
 
-III. En caso de que el conductor sobrepase el límite permitido por el artículo 840 BIS del presente Código, será remitido al Juez Calificador, el cual impondrá las sanciones que correspondan. El vehículo será asegurado y trasladado a la pensión municipal;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
 
-IV. El elemento operativo entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del médico que determine el tiempo probable de recuperación;
+III. En caso de que el conductor sobrepase el límite permitido por el artículo 840 BIS del presente Código, será remitido al Juez Cívico, el cual impondrá las sanciones que correspondan. El vehículo será asegurado y trasladado a la pensión municipal;
 
-V. Una vez remitido ante el Juez Calificador, éste decretará las medidas de seguridad pertinentes, de acuerdo al grado de ebriedad del infractor, ordenando el traslado del infractor a los separos de la Dirección para la observación de éste, hasta que se encuentre en condiciones aptas para ejercer su garantía de audiencia. Dichas medidas tienen como objeto resguardar la integridad física de la población en general, así como la del infractor; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+IV. El elemento operativo entregará un ejemplar del comprobante de los resultados de la prueba al Juez Cívico ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del médico que determine el tiempo probable de recuperación;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+V. Una vez remitido ante el Juez Cívico, éste decretará las medidas de seguridad pertinentes, de acuerdo al grado de ebriedad del infractor, ordenando el traslado del infractor a los separos de la Dirección para la observación de éste, hasta que se encuentre en condiciones aptas para ejercer su garantía de audiencia. Dichas medidas tienen como objeto resguardar la integridad física de la población en general, así como la del infractor; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE ABRIL DE 2024)</small>
 
 VI. En ese mismo acto, el Juez Calificador deberá calificar la infracción y determinar, en cantidad líquida, la multa que corresponda, mediante resolución por escrito que cumpla con los requisitos del Código Municipal, notificándose personalmente dicha resolución al infractor, y haciéndolo conocedor de la multa que proceda, una vez notificado le se (sic) será requerido el pago inmediato de la misma, pudiendo éste pagarla ante el funcionario que así faculte la Tesorería Municipal, dentro de las propias instalaciones de la Dirección de Seguridad Publica y Movilidad. De no hacerlo, se le conmutará dicha multa por arresto hasta por treinta y seis horas.
 
@@ -8601,7 +8625,9 @@ IV. El Regidor de la Comisión de Seguridad Pública;
 
 V. El Síndico del H. Ayuntamiento;
 
-VI. Un juez calificador;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+VI. Un Juez Cívico;
 
 VII. El Coordinador de Protección Civil Municipal;
 
@@ -9379,279 +9405,121 @@ XIII. Ser considerados para formar parte de la plantilla docente de capacitació
 
 ### CAPÍTULO XIII. De la Comisión de Honor y Justicia
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
 ###### ARTÍCULO 920°.
 
-La Comisión de Honor y Justicia es el órgano facultado por el H. Ayuntamiento para sancionar los casos de faltas cometidas por los elementos del Cuerpo de Seguridad Pública, así como las acciones relevantes en que intervinieron los miembros de la Dirección de Seguridad Pública y Movilidad, en términos de lo dispuesto por el presente Código y por los Artículos 120, 121, 122 y 123 de la Ley de Seguridad Pública.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 921°.
 
-La Comisión de Honor y Justicia tiene por objeto que el Cuerpo de Seguridad Pública se mantenga dentro de las prescripciones legales propias de su función de servicio eficiente y honorable a la comunidad.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 922°.
 
-La Comisión de Honor y Justicia depende jerárquicamente del Secretario del H. Ayuntamiento y debe de actuar en coordinación con el Director de Seguridad Pública para proteger los intereses de la sociedad y salvaguardar la tranquilidad y el orden público.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 923°.
 
-La Comisión de Honor y Justicia, se integrará de la siguiente forma:
-
-I. El Regidor de Seguridad Pública quien fungirá como Presidente de la Comisión;
-
-II. Dos elementos de la Dirección; los elementos a los que se refiere la fracción anterior serán nombrados democráticamente por todos los miembros de la Dirección se (sic) Seguridad Pública y Movilidad; y
-
-III. Dos ciudadanos reconocidos con destacada solvencia moral.
-
-Todos los integrantes tendrán derecho a voz y voto, siendo el Presidente de la Comisión de Honor y Justicia quien tendrá el voto de calidad en caso de empate. Para el caso de la designación y sustitución de los elementos se realizará previo acuerdo del regidor de Seguridad Pública y el Presidente Municipal, previo estudio, fundando y motivando las causas de la decisión mismas que deberán hacerse constar por escrito.
-
-El Presidente de la Comisión podrá auxiliarse de una persona quien fungirá como Secretario de Actas, quien no tendrá derecho ni a voz ni a voto.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 924°.
 
-Los ciudadanos a que se refiere la fracción III del artículo anterior deberán radicar en el Municipio, ser de reconocida solvencia moral y serán designados por el Presidente Municipal.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 925°.
 
-Se les dará la intervención que les corresponda dentro de la Comisión a las siguientes partes:
-
-I. El Síndico Municipal, quien fungirá como fiscal, pudiendo ejercer esta función por si o por medio de un representante que para tal efecto se designe;
-
-II. El Director de Seguridad Pública, quien aportará pruebas, tanto de cargo como de descargo, según proceda;
-
-III. El Elemento Indiciado a quien se le notificará previamente, y en su caso la persona de su confianza que nombre como su Defensor o representante legal.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 926°.
 
-El pertenecer a la Comisión de Honor y Justicia es un encargo de carácter honorario, por lo cual no se percibirá ningún tipo de salario o compensación.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 927°.
 
-Son atribuciones de la Comisión de Honor y Justicia:
-
-I. Velar por la honorabilidad y reputación de los elementos operativos, la Dirección y corporaciones auxiliares del municipio;
-
-II. Combatir con energía las conductas lesivas para la comunidad o la corporación;
-
-III. Recibir de los ciudadanos o de los superiores jerárquicos las denuncias que se presenten en contra de los elementos operativos y analizarlas a efecto de determinar las sanciones correspondientes;
-
-IV. Conocer y resolver conforme al presente Código y a la ley sobre los correctivos disciplinarios que impongan los superiores jerárquicos a los elementos operativos, por las faltas en que incurren a los principios de actuación y las obligaciones previstos en la Ley y el presente Código;
-
-V. Resolver sobre la suspensión temporal, los cambios de adscripción, la pérdida de grado, la destitución y la baja de los elementos operativos;
-
-VI. Ordenar la instrucción del procedimiento administrativo para recabar y desahogar las probanzas necesarias a fin de resolver las quejas o denuncias interpuestas; cuando por la naturaleza de las pruebas fuere necesario trasladarse a otro lugar, se nombrará representante para tal efecto, o se trasladarán en pleno los integrantes de la Comisión que estuvieren en la reunión para continuar la diligencia;
-
-VII. Examinar los expedientes u hojas de servicio de los elementos operativos y practicar las diligencias que le permitan allegarse de elementos necesarios para dictar resolución;
-
-VIII. Resolver en conciencia, justicia y equidad, las denuncias interpuestas en contra de los elementos operativos, mediante la mayoría simple de la votación de los asistentes a la sesión;
-
-IX. Dictaminar sobre las sanciones que procedan, conforme lo establecido para tal efecto en la Ley de Seguridad Pública del Estado de Aguascalientes, La Ley de Responsabilidades de los Servidores Públicos al servicio del Estado, el presente Código y demás disposiciones aplicables;
-
-X. Acordar las notas que hayan de ponerse en el expediente personal de servicio del elemento operativo;
-
-XI. Otorgar condecoraciones y determinar, estímulos y recompensas, de conformidad con la Ley de Seguridad Pública, el presente Código y demás disposiciones aplicables;
-
-XII. Celebrar sesiones ordinarias por lo menos una vez al mes y las sesiones extraordinarias que sean necesarias; y
-
-XIII. Las demás que le señale la Ley.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 928°.
 
-Para que las sesiones de la Comisión sean válidas, se requiere:
-
-I. Estar citados con veinticuatro horas de anticipación todos los integrantes de la Comisión, notificando personalmente al elemento indiciado;
-
-II. Estar presentes en la sesión los integrantes con derecho a voz y voto;
-
-III. La Comisión podrá sesionar cuando haya quórum suficiente, el cual se tendrá por válido con la mitad más uno;
-
-IV. Las sesiones de la Comisión de Honor y Justicia serán públicas y en algunos casos, por la delicadez del procedimiento secretas, previo acuerdo de sus miembros.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 929°.
 
-Son atribuciones del Presidente:
-
-I. Recibir las denuncias y en su caso la ratificación de las mismas, por parte de la ciudadanía y autoridades en general, en contra de los elementos operativos de la Dirección;
-
-II. Presidir y coordinar los trabajos de la Comisión;
-
-III. Citar a los miembros de la Comisión de Honor y Justicia, cuantas veces sea necesario, una vez que se dé curso a alguna denuncia o queja que se presente en contra del personal operativo de la Dirección;
-
-IV. Instruir el procedimiento;
-
-V. Elaborar la ponencia, en que la Comisión de Honor y Justicia habrá de fundamentar su resolución;
-
-VI. Emitir la resolución que la Comisión hubiere determinado en forma colegiada, acorde a los principios que establece este Libro y ordenar su notificación, y
-
-VII. Las demás que prevenga este Libro o le confiera la Comisión.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 930°.
 
-Son atribuciones del Fiscal:
-
-I. Recibir quejas y en su caso la ratificación de las mismas, por parte de la ciudadanía y autoridades en general, en contra de los elementos operativos de la Dirección;
-
-II. Integrar los elementos que a su juicio fueren necesarios para que la denuncia pueda ser presentada ante la Comisión, tratando de que la misma esté debidamente fundada y motivada, antes de que se presente;
-
-III. Recabar, ofrecer y presentar las pruebas de cargo y en su caso aportar los elementos necesarios para su desahogo;
-
-IV. Elaborar los alegatos del caso en cuestión y en su caso solicitar la imposición de la sanción aplicable, para que la Comisión determine;
-
-V. Solicitar al elemento operativo de la Dirección un informe pormenorizado de los hechos que se le atribuyen, o que de alguna manera tuvo injerencia, mismos que serán investigados por la Comisión;
-
-VI. Solicitar al Director la suspensión temporal del elemento operativo. Para el caso concreto con relación a la suspensión temporal y separación del cargo se estará a lo dispuesto por los artículos 118 y 119 de la Ley de Seguridad Pública para el Estado de Aguascalientes;
-
-VII. Presentar el dictamen para premiar al elemento operativo que se haga acreedor a algún estímulo, reconocimiento o condecoración; y
-
-VIII. Verificar que en todo momento se siga puntualmente el procedimiento previsto por la ley y se garanticen en su caso, al indiciado sus garantías individuales.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 931°.
 
-La recepción y trámite de la denuncia, no presumirá sobre la responsabilidad o no del elemento operativo involucrado, pero si dada la naturaleza de la infracción, se estima conveniente suspender de sus labores al servidor a fin de no obstaculizar la investigación, se hará constar esa circunstancia, y éste quedará suspendido hasta la emisión de nueva disposición, conservando sus derechos. Dicha suspensión no podrá exceder del término de treinta días.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 932°.
 
-Todo escrito de denuncia o queja deberá de contener:
-
-I. Nombre y domicilio para oír y recibir notificaciones del denunciante;
-
-II. Una narración clara y sucinta de los hechos materia de la denuncia;
-
-III. Las pruebas que se ofrezcan en caso de existir;
-
-IV. Que los hechos narrados en la denuncia no resulten inverosímiles por si mismos o deriven de apreciaciones notoriamente subjetivas;
-
-V. Nombre del presunto responsable si lo supiere, y, si no, se proporcionarán los elementos con que se cuente, con el fin de lograr la identificación del presunto responsable;
-
-VI. Firma bajo protesta de decir verdad de la persona que hace la denuncia.
-
-En caso de omitir algún requisito de los señalados con anterioridad, el presidente de la Comisión o en su caso, el fiscal, darán cuenta al denunciante de los defectos contenidos en la denuncia, para que en un término de tres días hábiles subsanen dichas omisiones.
-
-En caso de no cumplir con dicha prevención en el término establecido, se tendrá no (sic) por interpuesto el escrito de denuncia.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 933°.
 
-Para efectos del procedimiento ante la Comisión, se equipará a la denuncia el parte informativo del superior jerárquico en que se asienten los hechos de la infracción cometida.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 934°.
 
-Una vez recibida la queja o denuncia por parte del Presidente de la Comisión o del Fiscal, se decidirá sobre la procedencia de su admisión o desechamiento dentro de los tres días hábiles siguientes. En el primer caso se iniciará la instauración del procedimiento administrativo disciplinario en contra del presunto infractor.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 935°.
 
-En caso de admisión o desechamiento de una denuncia, deberá fundar y motivar el acuerdo correspondiente, mismo que se notificará personalmente al denunciante, al Director, al elemento indiciado y al Fiscal, comunicándoles que tienen derecho a inconformarse mediante un escrito dentro del plazo de tres días hábiles.
-
-El recurso interpuesto será resuelto por el pleno de la Comisión, para lo cual se observará lo establecido por la Ley del Procedimiento Administrativo.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 936°.
 
-El Procedimiento administrativo de responsabilidad se llevará a cabo de la siguiente manera:
-
-I. Se citará al denunciante, tratándose de un particular, a efecto de que ratifique su denuncia. En caso de que la denuncia provenga de un parte informativo o documento oficial de la propia Dirección o de la Administración Pública Municipal no se requerirá dicha ratificación;
-
-II. Una vez ratificada la denuncia cuando deba hacerse o acordado el inicio del procedimiento, tratándose de parte informativo o documento oficial se notificará al presunto infractor el acuerdo respectivo, corriéndole traslado con copias simples de la denuncia y anexos;
-
-III. Dentro del término de cinco días hábiles siguientes a dicha notificación, el presunto infractor deberá rendir un informe justificado de su actuación, ofreciendo las pruebas que a su derecho convengan, señalando domicilio para oír y recibir notificaciones y nombrando defensor, en caso de que desee hacerlo. Si el presunto infractor, no rinde oportunamente su informe se tendrán por ciertos los hechos que se le imputan;
-
-IV. Se dará vista a los integrantes de la Comisión, para lo cual se les hará llegar una copia del expediente respectivo, a fin de que queden enterados del asunto;
-
-V. Concluido el término para la presentación del informe justificado, se dictará un acuerdo sobre su admisión, y en el mismo, se fijará fecha para que en un plazo máximo de seis días hábiles se realice la audiencia ante el pleno de la Comisión en la que se desahogarán las pruebas admitidas, se rendirán alegatos y se dictará resolución;
-
-VI. Podrán ser ofrecidas toda clase de pruebas, con excepción de la prueba confesional de las autoridades. No se considerará comprendida en esta prohibición la petición de informe de las dependencias, entidades u organismos auxiliares, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos;
-
-En el caso de que la prueba ofrecida por el presunto infractor requiera de preparación para su desahogo, éste se obligará a presentar y facilitar los medios que convengan para su correcta diligenciación en la propia audiencia ante la autoridad instructora competente; en caso de no hacerlo se declarará desierta la probanza respectiva en su perjuicio. Sólo podrán ser rechazadas las pruebas propuestas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias a la moral o al derecho. Tal resolución deberá estar debidamente fundada y motivada;
-
-VII. En el caso de no comparecer el elemento operativo sin causa justificada, se tendrán como presuntamente ciertos los hechos constitutivos de la denuncia;
-
-VIII. Las audiencias no podrán suspenderse salvo cuando existan causas de fuerza mayor ajenas a la Comisión que impidan su desahogo o lo solicite el defensor a efecto de allegarse de medios para su mejor defensa, en caso de que surjan causas supervenientes al hecho que se analiza, previa calificación del Presidente, la prórroga no excederá en todo caso de diez días hábiles; y
-
-IX. En cualquier momento, previo o posterior a la notificación a que se refiere la fracción segunda de este artículo, la Comisión a petición del Fiscal, podrá suspender temporalmente al presunto responsable de su cargo, empleo o comisión, si a su juicio así conviniere, para la conducción de la investigación o por la gravedad del hecho, de conformidad al Artículo 118 de la Ley de Seguridad Pública del Estado de Aguascalientes.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 937°.
 
-Si el elemento operativo suspendido no resulta responsable de los hechos, éste será reinstalado en su puesto en los términos del Artículo 118 tercer párrafo de la Ley de Seguridad Pública del Estado de Aguascalientes.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 938°.
 
-La audiencia iniciará dándole el uso de la voz al Fiscal, a fin de que pueda enterar formalmente de los hechos a los miembros de la Comisión y pueda ofrecer las pruebas de cargo en contra del elemento operativo.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 939°.
 
-En caso de haberse presentado el elemento operativo, verificándose en todo caso su legal notificación, se le dará el uso de la voz, y dará contestación por escrito o en forma verbal a la denuncia presentada en su contra por sí o por conducto de su Defensor.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 940°.
 
-El ofrecimiento de pruebas será iniciado primero por el Fiscal y después lo hará el elemento indiciado. Las partes se encuentran obligadas a proporcionar todos los elementos que faciliten su desahogo; por tal razón, en la audiencia las partes deberán presentar sus testigos, documentos y en general todos aquellos elementos de convicción que por su naturaleza requieran desahogo especial. En caso contrario, se les tendrá por desistido de aquellas pruebas que no estuvieran preparadas para desahogarse en la audiencia.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 941°.
 
-En el caso de que el presunto responsable ofreciere como prueba la declaración del denunciante, lo solicitará dentro de las cuarenta y ocho horas posteriores a la notificación de la citación que reciba por parte de la Comisión, para efecto de llevar a cabo los careos respectivos. En la citación que se hará al elemento operativo se hará constar la situación anterior. El Presidente notificará a la parte denunciante, apercibiéndolo de que en caso de incomparecencia injustificada se le tendrá por desistido de la denuncia, excepción hecha en que la Comisión encuentre elementos que por la gravedad del caso o porque estén debidamente acreditados los elementos de la denuncia, se deba continuar con el trámite. En el caso de que la instrucción se deba a una denuncia no procede el desistimiento.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 942°.
 
-Con excepción del Presidente, el fiscal y el defensor, los demás integrantes de la Comisión, no pueden interrogar o dirigirse al elemento operativo, al denunciante o a los testigos, durante la audiencia de pruebas y alegatos y resolución. Si requieren alguna aclaración o desean hacer alguna pregunta la harán por conducto del Presidente de la Comisión, quien en todo caso la podrá desechar por capciosa o inconducente.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 943°.
 
-Una vez desahogadas las pruebas y rendidos los alegatos correspondientes, se retirarán del recinto el fiscal, el denunciante, los testigos, el elemento operativo y el defensor, inmediatamente después la Comisión procede a deliberar y formular la resolución.
-
-En caso de que se considere conveniente, se podrá diferir la reunión deliberativa de la Comisión para otra fecha, previo acuerdo de la propia Comisión, fecha que en ningún caso excederá de cinco días hábiles.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 944°.
 
-La resolución definitiva que dicte la Comisión, debe reunir los siguientes requisitos:
-
-I. El lugar, fecha y mención de la Comisión emisora;
-
-II. Los nombres del denunciante y elemento operativo;
-
-III. Una parte considerativa en la que, con precisión; se expresen las razones en que se funden para absolver o condenar y los fundamentos legales en que se apoyen, que incluirá:
-
-a) Un extracto de la denuncia, de las constancias que obren en el expediente y de los hechos procedimentales conducentes a la resolución;
-
-b) La descripción del hecho o hechos que serán objeto de valoración, así como de los medios probatorios aportados para demostrar su existencia;
-
-c) Las consideraciones y los fundamentos legales que se establezcan para acreditar la existencia de la infracción cometida y la responsabilidad del elemento operativo.
-
-IV. La condena o absolución que proceda;
-
-V. En caso de resultar responsable se especificará:
-
-a) El tipo de sanción a que es acreedor por los hechos investigados;
-
-b) Si los hechos son causa suficiente para darlo de baja y en su caso cualquier otra sanción, que procediere;
-
-c) Si de los hechos se desprenden elementos para dar vista al Ministerio Público; y
-
-VI. Los puntos resolutivos correspondientes.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 945°.
 
-Se levantará acta circunstanciada de todas las diligencias que se practiquen, recabando las firmas de quienes participen o intervengan en ellas, asentando si alguno de los presentes se negara a firmar, haciéndose los apercibimientos en términos de Ley a quienes declaran con falsedad ante autoridad competente.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 946°.
 
-La resolución se notificará por escrito al interesado personalmente, dentro de los cinco días siguientes, pudiendo hacerse además de viva voz en la propia audiencia, una vez tomada la resolución para lo cual es convocado nuevamente (sic) elemento operativo, con su defensor en su caso y el fiscal, en caso de que se hubieren retirado para que la Comisión deliberara.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 947°.
 
-A fin de que la Comisión de Honor y Justicia, pueda establecer las sanciones correspondientes al caso concreto, se acatará lo dispuesto por el presente Libro.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 948°.
 
-Se aplicarán de manera supletoria al presente Libro, los siguientes ordenamientos:
-
-I. La Ley de Seguridad Pública para el Estado de Aguascalientes;
-
-II. La Ley del Procedimiento Administrativo del Estado;
-
-III. La Ley de Responsabilidades de los Servidores Públicos del Estado; y
-
-IV. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efectos de valoración de los medios probatorios.
+(DEROGADO, P.O. 22 DE ABRIL DE 2024)
 
 ## TÍTULO SEGUNDO. DE LA VIALIDAD MUNICIPAL
 
@@ -10249,9 +10117,15 @@ III. El encargado del depósito remitirá a la Tesorería Municipal los document
 
 IV. Con el producto del remate, la autoridad municipal procederá a cubrir el monto del adeudo a su favor, y el remanente quedará a disposición del propietario en la Tesorería.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
 # LIBRO OCTAVO. DEL DESARROLLO URBANO
 
-## TÍTULO PRIMERO. DE LA ORDENACIÓN Y REGULACION DEL DESARROLLO URBANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
+
+## TITULO PRIMERO. DE LA ORDENACION Y REGULACION DEL DESARROLLO URBANO
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
@@ -10259,7 +10133,9 @@ IV. Con el producto del remate, la autoridad municipal procederá a cubrir el mo
 
 La ordenación y regulación del Desarrollo Urbano y la vivienda, en el Municipio de Asientos, se normarán conforme a lo dispuesto por:
 
-I. El Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+I. El Código Urbano para el Estado de Aguascalientes;
 
 II. Los Planes Estatal y Municipal de Desarrollo;
 
@@ -10281,7 +10157,229 @@ X. Las recomendaciones, restricciones, adecuaciones o prohibiciones del Subcomit
 
 XI. Las demás leyes, reglamentos y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 1032°.
+
+Corresponde al Municipio de Asientos en el ámbito de sus jurisdicciones, las atribuciones siguientes:
+
+I.- Formular, aprobar, administrar, ejecutar y cancelar los programas municipales de desarrollo urbano, de centros de población y los que de éstos deriven, adoptando normas o criterios de congruencia, coordinación y ajuste con otros niveles de planeación, las normas oficiales mexicanas, así como evaluar y vigilar su cumplimiento;
+
+II.- Promover el cumplimiento y la plena vigencia de los derechos relacionados con los asentamientos humanos, el desarrollo urbano y la vivienda;
+
+III.- Dar cumplimiento y seguimiento, a directrices o acuerdos tomados por el Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano, el Consejo Estatal y los Consejos o Comités Municipales;
+
+IV.- Crear los mecanismos de consulta ciudadana para la formulación, modificación y evaluación de los programas de desarrollo urbano de su competencia, propiciando en lo particular la participación de las mujeres, jóvenes y personas en situación de vulnerabilidad, así como llevar el registro de los programas e informar anualmente sobre la aplicación y ejecución de los mismos;
+
+V.- Validar ante la SEPLAPDE, sobre la apropiada congruencia, coordinación y ajuste de sus programas de desarrollo urbano, y en el supuesto de existir diferencia de criterios al respecto, solicitar se presente a la determinación del Consejo Estatal;
+
+VI.- Obtenido el dictamen sobre la congruencia de sus programas de desarrollo urbano, gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público;
+
+VII.- Solicitar, a la autoridad federal, la incorporación de los programas de desarrollo urbano y sus modificaciones en el sistema de información territorial y urbano;
+
+VIII.- Participar en la planeación y regulación de las zonas metropolitanas y conurbaciones;
+
+IX.- Formular, aprobar y administrar la zonificación de los centros de población;
+
+X.- Proponer al Congreso del Estado y previo dictamen de la SEPLAPDE, la fundación y, en su caso, desaparición de centros de población;
+
+XI.- Regular, controlar y vigilar las reservas, usos del suelo y destinos de áreas y predios, así como las zonas de alto riesgo en los centros de población;
+
+XII.- Promover y ejecutar acciones, inversiones y servicios públicos en los centros de población, y prestar los servicios públicos municipales en dichos centros;
+
+XIII.- Gestionar y promover el financiamiento para la realización de los programas de alcance municipal;
+
+XIV.- Participar en la creación y administración del suelo y reservas territoriales para el desarrollo urbano y generar los instrumentos que permitan la disponibilidad de tierra para personas en situación de pobreza o vulnerabilidad;
+
+XV.- Aplicar los lineamientos y normas relativas a los polígonos de protección y salvaguarda en zonas de riesgo, así como de zonas restringidas o identificadas como áreas no urbanizables;
+
+XVI.- Intervenir en la regularización de la tenencia de la tierra urbana, así como en la prevención y regulación de los asentamientos humanos irregulares llevando un registro de los mismos;
+
+XVII.- Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos;
+
+XVIII.- Promover y ejecutar acciones para prevenir y mitigar el riesgo de los asentamientos humanos y favorecer la resiliencia de los centros de población;
+
+XIX.- Promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes;
+
+XX.- Ejercer el derecho de preferencia para adquirir predios comprendidos en las zonas de reserva territorial, incluyendo el suelo urbano vacante, para destinarlos preferentemente a la constitución de espacios públicos;
+
+XXI.- Celebrar convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en los programas municipales, en sus procesos de planeación urbana, así como para el financiamiento y ejecución de acciones, obras y prestación de servicios comunes, y para la prestación de servicios públicos municipales;
+
+XXII.- Instalar el Consejo Municipal en los primeros dos meses de iniciar la administración del Municipio;
+
+XXIII.- Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
+
+XXIV.- Expedir las autorizaciones, licencias o permisos de las diversas acciones urbanísticas que se realicen en su Municipio, salvo las que éste Código otorgue a otras instancias;
+
+XXV.- Expedir las constancias municipales e informes de compatibilidad urbanística;
+
+XXVI.- Otorgar autorizaciones, licencias y permisos para la construcción, reconstrucción, remodelación, ampliación, demolición de inmuebles y obras de urbanización o para realizar obras o utilizar la vía pública;
+
+XXVII.- Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la SEPLAPDE;
+
+XXVIII.- Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la SEPLAPDE;
+
+XXIX.- Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo a la superficie y las implicaciones del proyecto correspondiente;
+
+XXX.- Autorizar el inicio de las obras de urbanización de los condominios y subdivisiones autorizados de su parte;
+
+XXXI.- Autorizar la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios autorizados por él mismo;
+
+XXXII.- Expedir y revocar los permisos para las urbanizaciones cerradas;
+
+XXXIII.- Emitir las licencias y permisos para la colocación y retiro de anuncios, del mobiliario urbano, y regular, controlar y propiciar el mejoramiento de la imagen urbana en los centros de población;
+
+XXXIV.- Autorizar las solicitudes de relotificación, fusión y subdivisión de áreas y predios;
+
+XXXV.- Normar y autorizar la nomenclatura o toponimia para la denominación de las vías públicas, parques, jardines, plazas, fraccionamientos y todo lugar público susceptible de asignarle una designación o nombre, así como los números oficiales que le correspondan a los inmuebles;
+
+XXXVI.- Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan al Consejo Estatal o la SEPLAPDE;
+
+XXXVII.- Determinar y recibir en escritura pública las áreas, lotes o predios que conforme a este Código deberán donar al Municipio los fraccionadores y promotores o en su caso, la dotación de equipamiento urbano e infraestructura en las áreas de donación municipales, así como las vialidades públicas;
+
+XXXVIII.- Determinar el aprovechamiento de las áreas de donación que le otorguen los fraccionadores y promotores, conforme a lo establecido en este Código;
+
+XXXIX.- Verificar que los fraccionadores y promotores, cumplan con las obligaciones que les correspondan conforme al Código y las autorizaciones respectivas;
+
+XL.- Por conducto de las unidades externas de supervisión, verificar y constatar que la ejecución de las obras de urbanización, sean compatibles con el proyecto autorizado, la calidad de los materiales y trabajos realizados en las mismas y en obras de edificación, así como el avance de éstas en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones. Adicionalmente a lo anterior y de manera aleatoria supervisar directamente y con su personal los trabajos de verificación que efectúen las unidades externas de supervisión.
+
+XLI.- Expedir los dictámenes técnico jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+XLII.- Municipalizar los fraccionamientos o subdivisiones, previo cumplimiento de los requisitos correspondientes;
+
+XLIII.- Verificar que los fraccionadores y promotores cumplan con las obligaciones que les correspondan conforme al Código y a las condiciones de la autorización de sus desarrollos;
+
+XLIV.- Llevar el registro de los barrios, colonias, fraccionamientos y condominios, así como de las asociaciones que sus habitantes integren;
+
+XLV.- Elaborar y aplicar los atlas de riesgos;
+
+XLVI.- Conocer y dar trámite a las denuncias populares que se le presenten;
+
+XLVII.- Mediar y conciliar cuando se les solicite, en coordinación en su caso con la SEPLAPDE, en asuntos, conflictos y controversias entre la población o de esta con los fraccionadores o promotores;
+
+XLVIII.- Coordinarse con la SEPLAPDE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+XLIX.- En coordinación con la SEPLAPDE, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+
+L.- Celebrar convenios de asociación con otros Municipios para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de servicios comunes;
+
+LI.- Calificar las infracciones e imponer medidas de seguridad y sanciones que establece este Código y que sean de su competencia; y
+
+LII.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1033.
+
+El consejo municipal es un órgano auxiliar de la autoridad municipal, con carácter honorífico y su función primordial será asesorar y apoyar en materia de desarrollo urbano, ordenamiento del territorio y vivienda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1034.
+
+EL consejo municipal, funcionará permanentemente y de manera mensual, teniendo su sede en la cabecera municipal, y se integrará por los siguientes miembros permanentes con voz y voto:
+
+I.- Un Presidente, quien será el Presidente Municipal;
+
+II.- Un Secretario Técnico, quien será el titular de la Secretaría Municipal;
+
+III.- Un representante de la SEPLAPDE;
+
+IV.- Un representante del Instituto Municipal de Planeación o del área encargada de la planeación municipal en caso de no contar con el primero;
+
+V.- Un representante de la Secretaría de Desarrollo Agrario, Territorial y Urbano Federal; y
+
+VI.- Un representante de cada una de las cámaras, colegios, asociaciones u organizaciones del sector privado y social, que a juicio del Presidente del Consejo deban integrarse al mismo, en virtud de que sus actividades incidan en el desarrollo urbano y el ordenamiento territorial del Municipio. Por cada miembro propietario se designará un suplente que lo sustituirá en sus inasistencias. El desempeño del cargo será honorífico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1035.
+
+Los consejos municipales además de las atribuciones que le otorgue la reglamentación municipal, tendrán las funciones siguientes:
+
+I.- Asesorar y apoyar al Municipio, en materia de desarrollo urbano y ordenamiento territorial, así como opinar respecto de los programas municipales de desarrollo urbano, promoviendo la participación de los sectores público, social y privado;
+
+II.- Realizar estudios y propuestas en materia de reservas territoriales y regularización de la tenencia de la tierra urbana;
+
+III.- Opinar sobre la procedencia de ejecutar obras de infraestructura y equipamiento urbano prioritario en los centros de población;
+
+IV.- Proponer a las autoridades municipales la creación de nuevos servicios públicos o conservación y mejoramiento de los ya existentes, propiciando las condiciones para hacerlo en su caso a través del mecanismo de obras por cooperación;
+
+V.- Opinar sobre los estudios técnicos para llevar a cabo obras o servicios municipales o intermunicipales, con la cooperación o contribución económica de los particulares;
+
+VI.- Las demás que le señalen este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1036.
+
+El Presidente del Consejo Municipal, considerando la naturaleza del asunto o tema a tratar, podrá invitar a las sesiones, con voz, pero sin voto, a los participantes que considere conveniente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1037.
+
+El Secretario Técnico del Consejo Municipal citará a sus miembros permanentes, informándoles sobre el orden del día con un mínimo de 3 días hábiles de anticipación.
+
+Las decisiones del Consejo Municipal se tomarán por mayoría de votos de los asistentes.
+
+El Presidente del Consejo tendrá voto de calidad, en caso de empate.
+
+El acta de la sesión del Consejo Municipal, deberá ser suscrita por su Presidente y Secretario Técnico, la cual se formulará y sustentará conforme a lo determinado por ese Consejo, dentro de un plazo máximo de 5 días hábiles posteriores a la celebración de la sesión correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1038.
+
+El reglamento interior que para el efecto expida el Presidente del Consejo, señalará la organización y funcionamiento interno del mismo, con base en las determinaciones establecidas en este ordenamiento.
+
+El Consejo Municipal, sub-consejos, Comités y subcomités y demás instancias auxiliares del Municipio, serán órganos de opinión y no de decisión, y por tanto sus manifestaciones, observaciones y opiniones adquirirán la calidad de obligatorias, solo en caso de ser aprobadas o ratificadas por las autoridades municipales correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1039.
+
+Los consejos municipales coordinarán sus acciones con el Consejo Estatal, el Comité de Planeación para el Desarrollo del Estado de Aguascalientes y las comisiones de planeación para el desarrollo municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1040.
+
+Son causas de utilidad pública:
+
+I.- La constitución de reservas territoriales para el desarrollo urbano, ordenamiento territorial y vivienda;
+
+II.- La ejecución o el cumplimiento de los programas que prevé este Código;
+
+III.- La fundación, consolidación, conservación, mejoramiento, crecimiento, y protección de los centros de población, así como su densificación poblacional;
+
+IV.- La ejecución de obras de infraestructura pública y equipamiento urbano, así como aquéllas para la prestación de servicios públicos;
+
+V.- La prevención de riesgos, contingencias ambientales y urbanas, la delimitación y control de zonas de riesgo, así como de desastres por impactos adversos relativos al cambio climático;
+
+VI.- La protección, conservación y restauración del patrimonio cultural urbano y arquitectónico y de las áreas y centros de población;
+
+VII.- La preservación y restauración del equilibrio ecológico y la protección del ambiente en los Centros de Población;
+
+VIII.- La apertura, liga, ampliación y prolongación de carreteras, caminos, calles y vías públicas estatales y municipales;
+
+IX.- La regularización de la tenencia de la tierra;
+
+X.- La ejecución de las acciones de resiliencia;
+
+XI.- El establecimiento, protección, ampliación, recuperación, mantenimiento y defensa de los espacios públicos; y
+
+XII.- Las previstas en la Ley y demás normatividad aplicable en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1041.
+
+Cuando para el cumplimiento de los programas de desarrollo urbano sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública, proveerá la expropiación de la misma, de conformidad con las leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1032], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1042°.
 
 Las autorizaciones, licencias, permisos, concesiones y constancias en materia de desarrollo urbano, deberán tomar en cuenta, según el caso, los siguientes aspectos:
 
@@ -10345,7 +10443,9 @@ XXIX. Al cumplimiento de las disposiciones y criterios normativos establecidos e
 
 Todos aquellos lineamientos, criterios o normas técnicas que se deriven de la legislación y programas en materia de desarrollo urbano y vivienda y demás disposiciones jurídicas aplicables.
 
-###### ARTÍCULO 1033°.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1033], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1043°.
 
 Todos los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de inmuebles, no podrán alterar el uso, destiño (sic), reserva o provisión establecido en los programas de desarrollo urbano municipal aplicables, de conformidad con lo previsto en este ordenamiento y en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes.
 
@@ -10353,7 +10453,9 @@ No surtirán efectos los actos, convenios y contratos relativos a la propiedad o
 
 No surtirán efectos los permisos, autorizaciones o licencias que contravengan lo establecido en este Código, y en los Programas de Desarrollo Urbano.
 
-###### ARTÍCULO 1034°.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1034], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1044°.
 
 Son atribuciones del Ayuntamiento en materia de Desarrollo Urbano y Ordenamiento Ecológico y Territorial:
 
@@ -10385,7 +10487,7 @@ XIII. Intervenir en la regularización de la tenencia de la tierra, en coordinac
 
 XIV. Controlar los programas de inversión pública del Gobierno Municipal, vigilando el cumplimiento de los mismos; e informando sobre el ejercicio de la inversión a la Comisión de Vigilancia del Congreso del Estado, cuando así se determine, a través del Órgano Superior de Fiscalización del Estado de Aguascalientes;
 
-XV. Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y Estatal las acciones necesarias para preservar y controlar el medio ambiente y el ordenamiento ecólogico en los asentamientos humanos del Municipio;
+XV. Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y Estatal las acciones necesarias para preservar y controlar el medio ambiente y el ordenamiento ecológico en los asentamientos humanos del Municipio;
 
 XVI. Promover y ejecutar obras para que todos los habitantes del Municipio cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
 
@@ -10407,7 +10509,7 @@ XXIV. Vigilar que, en los fraccionamientos que no hayan sido municipalizados, lo
 
 XXV. Promover o ejecutar fraccionamientos populares o de interés social y condominios de orden público;
 
-XXVI. Impedir, en coordinación con la Secretaria de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado y la Delegación Federal de la Secretaria de Desarrollo Agrario, Territorial y Urbano en el Estado, el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
+XXVI. Impedir, en coordinación con la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado y la Delegación Federal de la Secretaria de Desarrollo Agrario, Territorial y Urbano en el Estado, el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
 
 XXVII. Controlar que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
 
@@ -10429,15 +10531,25 @@ XXXV. Resolver sobre los recursos administrativos que conforme a su competencia 
 
 XXXVI. Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
-###### ARTÍCULO 1035°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1035], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1045°.
 
 La planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población, y del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población, constituyen las acciones fundamentales a fin de lograr un desarrollo armónico y equilibrado en todo el territorio estatal.
 
-###### ARTÍCULO 1036°.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1036], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1046°.
 
 Para los efectos del presente Código, se entiende por planeación urbana la ordenación y regulación de los asentamientos humanos en la Entidad, a través de acciones, inversiones, obras y servicios, que con base en el ejercicio de las atribuciones de las autoridades competentes en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, tienen como propósito alcanzar el desarrollo urbano estatal y municipal, de conformidad con lo que establece este Código y con los objetivos, metas, políticas e instrumentos previstos en los programas de desarrollo urbano y en la determinación de provisiones, reservas, usos y destinos de áreas y predios.
 
-###### ARTÍCULO 1037°.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1037], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1047°.
 
 La planeación y regulación del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población en el municipio de Asientos, se llevará a cabo a través de un Sistema Municipal, integrado por los siguientes programas:
 
@@ -10457,95 +10569,261 @@ III. Los programas regionales de desarrollo urbano; y
 
 IV. Los programas subregionales de desarrollo urbano.
 
-###### ARTÍCULO 1038°.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1038], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1048°.
 
 Para efectos del artículo anterior, los programas de desarrollo urbano básicos, son aquellos que establece la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, como indispensables para la planeación urbana local. Los programas derivados, son aquellos que se desprenden de los básicos y tienen como finalidad regular un área o sector del desarrollo urbano con un mayor detalle físico o técnico.
 
-###### ARTÍCULO 1039°.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1039], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1049°.
 
 Los programas básicos y derivados que integran el Sistema Municipal de Planeación del Desarrollo Urbano, serán congruentes en lo conducente, con los planes y programas que expidan los gobierno (sic) Federal y Estatal, con base en las leyes de Planeación y de Desarrollo Urbano vigentes.
 
-###### ARTÍCULO 1040°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1040], P.O. 22 DE ABRIL DE 2024)</small>
 
-Los programas de desarrollo urbano previstos en este Código, contendrán los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa; dichos elementos deberán comprender:
+###### ARTÍCULO 1050°.
 
-I. Introducción;
+Los programas previstos en este Código y en el Código Urbano del Estado de Aguascalientes cuya finalidad y alcances, además del desarrollo urbano sea el ordenamiento territorial, contendrán los elementos básicos que hagan posible su congruencia y uniformidad metodológica y de contenido para su debida ejecución técnica, jurídica y administrativa, estando integrados por las siguientes fases y elementos:
 
-II. Diagnóstico: en el que se analizarán la situación actual y las tendencias del área o sector del desarrollo urbano que comprenda el programa, en sus aspectos socioeconómicos, físicos, poblacionales, de infraestructura, equipamiento, servicios y vivienda;
+a).- FASE I: Introducción y Base Jurídica. Contendrá los antecedentes, justificación, visión, descripción general del documento, aspectos metodológicos, de simbología y conceptuales, así como, su congruencia con la planeación del desarrollo y con otros programas aplicables; de igual forma se incluirá la base de sustento jurídico para el instrumento de planeación y descripción detallada del proceso para su formalización jurídica, conforme a lo dispuesto en este Código.
 
-III. Objetivos: en los que se contemplarán los propósitos o finalidades que se pretenden alcanzar con la ejecución del programa respectivo;
+b).- FASE II: Caracterización y Análisis. Etapa donde se presenta una perspectiva de la situación actual que guarda la ocupación y uso del territorio, a través de la descripción y agrupación de los siguientes subsistemas: Subsistema Natural; Subsistema Social; Subsistema de Ordenamiento Territorial y Desarrollo Urbano; y Subsistema Económico.
 
-IV. Metas: en las que se precisarán las acciones, obras o servicios, de acuerdo con los objetivos planteados en el corto, mediano y largo plazo;
+c).- FASE III: Diagnóstico Territorial. Etapa que contendrá la descripción y análisis de la situación actual y las tendencias estructurales del Sistema Territorial, su funcionamiento desde la perspectiva de las interrelaciones e interacciones existentes como la potencialidad, la disponibilidad y la calidad de los recursos naturales y las condiciones en que se encuentran; lo anterior a través de la definición de Unidades de Análisis Territorial que permitan realizar un análisis del entorno regional en cuanto a las relaciones de procesos físico-bióticos, económico – productivos, sociodemográficos, urbano-regionales, político-organizativo e histórico cultural. Se deberá considerar el análisis de la vulnerabilidad territorial, las aptitudes del territorio y los conflictos territoriales que permitan integrar un diagnóstico territorial integral;
 
-V. Estrategias: en las que se establecerán los lineamientos y políticas del programa y las alternativas para la ejecución del mismo;
+d).- FASE IV: Prospectiva. Etapa cuyo objetivo es la determinación de la evolución de los procesos sistémicos en el territorio, reconociendo los efectos sinérgicos de las variables en el devenir de los mismos en horizontes de tiempo determinados. Se generarán escenarios que permitan una evaluación del comportamiento actual y futuro de la aptitud territorial de los diferentes sectores, al proyectar el comportamiento de los atributos requeridos por cada sector para el desarrollo de sus actividades, evaluar los cambios de distribución sectorial óptima en el territorio en un futuro determinado y, a su vez, evaluar la evolución de los conflictos territoriales;
 
-VI. Bases Financiero - Programáticas: en las que se preverán los recursos disponibles para alcanzar las metas;
+e).- FASE V: Modelo de Ocupación Territorial. Etapa en la que se definen a los criterios bajo los cuales será ocupado y aprovechado el territorio con la finalidad de solucionar y mitigar los conflictos territoriales identificados en las anteriores etapas. Para la determinación del Modelo de Ocupación Territorial se deberán determinar las unidades de gestión territorial (UGT) e identificar los actores territoriales y definir las políticas, lineamientos territoriales, metas y proyectos territoriales estratégicos para cada Unidad de Gestión Territorial;
 
-VII. Acciones de inversión: en las que se contendrán las prioridades del gasto público y privado;
+f).- FASE VI: Instrumentación, monitoreo, evaluación y seguimiento. Etapa donde se definirán los mecanismos, acciones, temporalidades y actores partícipes de los procesos de instrumentación, monitoreo, evaluación y seguimiento del Programa.
 
-VIII. Corresponsabilidad sectorial: determinará las acciones, obras e inversiones concretas que deban realizarse, y establecerá los responsables de su ejecución. De este apartado se derivarán los proyectos ejecutivos;
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1041], P.O. 22 DE ABRIL DE 2024)</small>
 
-IX. Criterios de concertación: con los sectores público, social y privado;
+###### ARTÍCULO 1051°.
 
-X. Instrumentos de política: contendrán el conjunto de medidas, mecanismos y disposiciones jurídicas, técnicas y administrativas, que permitan la institucionalización, ejecución, control y evaluación del programa;
+Los Programas Municipales de Ordenamiento Territorial y Desarrollo Urbano, tendrán por objetivo el desarrollo urbano integral de todo el Municipio de Asientos, de los centros de población y sus áreas suburbanas.
 
-XI. Proyectos estratégicos: contendrán los proyectos que deberán ejecutarse de manera prioritaria;
+Estos programas contendrán una zonificación primaria y secundaria, indicando las líneas generales de acción específicas para la ordenación y regulación municipal y de los centros de población respectivos.
 
-XII. La estructura de organización y coordinación: para la elaboración, ejecución, control, evaluación, actualización y modificación del programa; y
+De ser necesario se deberán indicar aquellas localidades que requieran programas de desarrollo urbano de centros de población, esquemas de desarrollo urbano y/o programas parciales de desarrollo urbano, donde se deberá generar una zonificación secundaría adicional acorde a la escala de intervención.
 
-XIII. Anexo gráfico: que expresará en una forma descriptiva y clara el contenido básico del programa.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1042], P.O. 22 DE ABRIL DE 2024)</small>
 
-La estructura y contenido de los programas de desarrollo urbano tendrán que adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos.
+###### ARTÍCULO 1052°.
 
-###### ARTÍCULO 1041°.
+El Programa Municipal de ordenamiento territorial y desarrollo urbano contendrán los elementos básicos a que referentes al Código Urbano del Estado de Aguascalientes, en lo que corresponda por la escala de actuación, además de lo siguiente:
 
-El Programa Estatal de Desarrollo Urbano, tendrán por objetivo el desarrollo urbano integral de todo el Municipio de Asientos, de los centros de población y sus áreas suburbanas.
+I.- La congruencia del Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano con las estrategias de planeación del ordenamiento territorial y desarrollo urbano del orden nacional, estatal, regional y/o municipal.
 
-Estos programas contendrán la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del Municipio respectivo.
+II.- La circunscripción territorial que comprende el Municipio en cada caso, atendiendo a lo dispuesto en la Constitución Política del Estado y en la legislación aplicable;
 
-###### ARTÍCULO 1042°.
+III.- Las bases técnicas necesarias para la elaboración y ejecución de los proyectos estratégicos, que se vayan a realizar en el territorio del Municipio;
 
-El Programa Municipal de Desarrollo Urbano contendrán (sic) los elementos básicos a que se refiere (sic) los artículos 82, 92, 93 y 94 del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes y además lo siguiente:
+IV.- La Zonificación Primaria del territorio del Municipio, atendiendo a lo previsto en este Código, en el Programa Estatal de Ordenamiento Ecológico y Territorial, en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y en su caso, con el Programa de Ordenamiento Territorial y Desarrollo Urbano de Zona Metropolitana y/o el Programa de Desarrollo Urbano de Zona Conurbada Intraestatal o Interestatal;
 
-I. La congruencia del Programa Municipal de Desarrollo Urbano, con los Planes Nacional, Estatal y Municipal de Desarrollo;
+V.- La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento de los centros de población en el territorio del Municipio;
 
-II. La circunscripción territorial que comprende el Municipio en cada caso, atendiendo a lo dispuesto en la Constitución del Estado y en la legislación aplicable;
+VI.- La Zonificación Secundaria para el territorio municipal; donde se deberán delimitar de ser necesario, las áreas que serán abordadas por instrumentos de planeación urbana de menor escala (programas de desarrollo urbano de centro de población, esquemas de desarrollo urbano, programas parciales de desarrollo urbano) y que por tal motivo carecen de un uso de suelo de zonificación secundaria en este instrumento.
 
-III. Las bases técnicas necesarias para la elaboración y ejecución de los programas operativos, que se vayan a realizar en el territorio del Municipio;
+VII.- La estructura urbana general, la infraestructura y equipamiento básicos definidos para cada centro de población del Municipio; y
 
-IV. La zonificación primaria y secundaria del territorio del Municipio, atendiendo a lo dispuesto en este Código y al Programa Estatal de Desarrollo Urbano;
+VIII.- (número de fracción) (sic) Los esquemas de desarrollo urbano que procedan, en aquellas zonas o centros de población que, por sus características propias, no requieran de la formulación de un programa de desarrollo urbano de centro de población.
 
-V. La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento de los centros de población en el territorio del Municipio;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-VI. La determinación de los límites de los centros de población ubicados en el territorio del Municipio;
+###### ARTÍCULO 1053.
 
-VII. La zona urbana, la reservada para su expansión futura y las zonas de preservación ecológica de los centros de población del Municipio;
+Los Programas de Desarrollo Urbano de Centros de Población, contendrán el conjunto de disposiciones y normas para ordenar, planear y regular la zonificación, las reservas, usos y destinos del territorio, estableciendo la compatibilidad y estrategias de estos en los centros de población, así como regular el funcionamiento y organización de sus áreas de conservación, mejoramiento y crecimiento, además de establecer las bases para la ejecución de acciones, obras y servicios que permitan dotar adecuada y oportunamente de infraestructura y equipamiento urbano de calidad y sustentable.
 
-VIII. Los usos y destinos del suelo;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-IX. Las reservas de áreas y predios;
+###### ARTÍCULO 1054.
 
-X. La estructura urbana y las infraestructuras básicas definidas para cada centro de población; y
+Los programas de desarrollo urbano de centros de población contendrán, además de los elementos básicos a que se refiere este Código, lo siguiente:
 
-XI. Los esquemas de desarrollo urbano que procedan, en aquellas zonas o centros de población que por sus características propias no requieran de la formulación de un programa.
+I.- Las determinaciones relativas a:
 
-###### ARTÍCULO 1043°.
+a).- La Zonificación Primaria y Secundaria;
 
-El Programa Municipal de Desarrollo Urbano, será elaborado, aprobado, ejecutado, controlado y evaluado por el Ayuntamiento, a través de la coordinación que para el efecto establezca el titular del Ejecutivo Municipal con el Gobierno del Estado, atendiendo la opinión de la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado, del Comité de Desarrollo Urbano y Rural respectivo y, en su caso, de la Federación.
+b).- La delimitación del centro de población y la determinación de las áreas que lo integran;
 
-###### ARTÍCULO 1044°.
+c).- Las reservas, usos y destinos del territorio del centro de población, para lo cual se clasificará en áreas y zonas, de acuerdo con sus características, potencialidades de aprovechamiento y condiciones generales;
 
-Los programas parciales de desarrollo urbano, se derivan de los programas de desarrollo urbano de centros de población, a fin de ordenar y regular un área o zona comprendida dentro de los mismos.
+d).- La estructura urbana;
 
-### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
+e).- Las etapas de crecimiento del centro de población, definiendo los horizontes de planeación e incorporación de las reservas territoriales en el corto, mediano y largo plazos;
 
-###### ARTÍCULO 1045°.
+f).- Las densidades y coeficientes de población, construcción, utilización y ocupación del suelo;
 
-Los Programas Sectoriales de Desarrollo Urbano, son el conjunto de acciones dirigidas a regular elementos, componentes y acciones del desarrollo urbano, tales como el transporte, el equipamiento, la infraestructura, los servicios, la ecología urbana, la circulación de vehículos, el estacionamiento, la recolección y tratamiento de la basura doméstica e industrial, captación y utilización del agua pluvial, el drenaje y tratamiento de aguas residuales, la prevención de riesgos por diversos agentes como inundaciones, vientos, cruces de líneas de alta tensión, ductos de hidrocarburos, derechos federales de carreteras, vías férreas, fallas geológicas y otras.
+g).- La densificación inmobiliaria y el índice de edificación habitacional;
 
-###### ARTÍCULO 1046°.
+h).- Las políticas y estrategias que eviten la concentración de la propiedad inmobiliaria, para que pueda cumplir con su función social, y que evitan la segregación para que la organización espacial facilite las relaciones sociales;
 
-En la aprobación y modificación de los programas municipales de Desarrollo Urbano, se deberá contemplar además el siguiente procedimiento:
+i).- Las políticas encaminadas a lograr una relación conveniente entre la oferta y la demanda de vivienda digna, decorosa y sustentable;
+
+j).- Las normas básicas de la infraestructura y el equipamiento urbanos;
+
+k).- Los derechos de vía y de establecimiento correspondientes a los servicios públicos;
+
+l).- Los espacios destinados a las vías públicas, así como las especificaciones y normas técnicas relativas a su diseño, operación y modificación, en congruencia con la traza urbana;
+
+m).- Las características de los sistemas de movilidad urbana sustentable y de transporte de pasajeros y de carga que se utilicen en las vías públicas;
+
+n).- Las zonas, edificaciones o elementos que formen el patrimonio natural y cultural, para preservarlo y asignarle un aprovechamiento conveniente;
+
+o).- Las zonas y edificaciones que deben ser conservadas y mejoradas;
+
+p).- Las características y normas técnicas de desarrollo urbano, a las que deben sujetarse las construcciones privadas y públicas, a fin de obtener su seguridad, buen funcionamiento e integración al conjunto urbano;
+
+q).- Las características y normas técnicas de la construcción y distribución de la infraestructura, servicios y equipamiento urbano;
+
+r).- Las características y normas técnicas de la vivienda;
+
+s).- Las medidas necesarias para la protección al ambiente y para la reducción de la contaminación del agua, del suelo, del aire y del ruido;
+
+t).- Las determinaciones de las zonas afectadas por el cruce de fallas y grietas geológicas, así como zonas de riesgo, en las que se ubiquen líneas de alta tensión, centrales de distribución de la CFE, ductos o líneas de combustibles, escurrimientos, ríos, arroyos, cuerpos de agua, estaciones de servicio y de carburación e hidrocarburos y en general todos los elementos que representen un riesgo para el desarrollo urbano y el ordenamiento del territorio. Se incluirán las medidas de prevención que deben tomarse en dichas zonas, de acuerdo a los estudios formulados sobre esos riesgos; y
+
+u).- Las normas y especificaciones básicas de construcción y urbanización;
+
+II.- Las estipulaciones que correspondan a las acciones, obras e inversiones que tenga que realizar el Municipio en coordinación con el Gobierno del Estado y la Federación; y
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1043], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1055°.
+
+Los Programas Municipal de Desarrollo Urbano, de Centro de Población, Esquemas de Desarrollo Urbano y aquellos programas derivados serán elaborados, aprobados, ejecutados, controlados y evaluados por el Ayuntamiento, a través de la coordinación que para el efecto establezca el titular del Ejecutivo Municipal con el Gobierno del Estado, atendiendo la opinión de la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado, del Comité de Desarrollo Urbano y Rural respectivo y, en su caso, de la Federación.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1044], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1056°.
+
+Los programas parciales de desarrollo urbano, se derivan de los programas de desarrollo urbano de centros de población, a fin de ordenar y regular un área o zona comprendida dentro de los mismos, los cuales contendrán en lo conducente, además de los elementos básicos que señala este Código, lo siguiente:
+
+I.- La determinación de la parte física que pretende ordenar y regular;
+
+II.- Las características de las obras, equipamiento, infraestructura, instalaciones y servicios que se propongan, ejecuten, utilicen, modifiquen u organicen;
+
+III.- Las razones por las cuales el programa se integra a los fines u objetivos del programa del cual deriva;
+
+IV.- Una memoria descriptiva y, además, cuando se trate de obras, el anteproyecto arquitectónico y estructural que cubra los aspectos generales de las mismas;
+
+V.- El presupuesto del proyecto de que se trate;
+
+VI.- El plazo para la ejecución del proyecto;
+
+VII.- Los estudios sobre la mejor utilización de los recursos materiales, humanos y técnicos disponibles en la zona o área para la localización del proyecto;
+
+VIII.- Los resultados previsibles que se obtendrán con la ejecución del proyecto en beneficio del predio o área y de sus habitantes;
+
+IX.- Los estudios económicos, financieros y fiscales preliminares, cuando por las características del proyecto lo requieran;
+
+X.- La demarcación de las áreas o predios comprendidos;
+
+XI.- Las características y condiciones del espacio urbano y de la zona circundante;
+
+XII.- Los usos y destinos permitidos, compatibles, condicionados y prohibidos de las áreas y predios comprendidos en el proyecto;
+
+XIII.- Las disposiciones para los usos y destinos condicionados;
+
+XIV.- La normatividad para programas parciales que únicamente requieran de este rubro; y
+
+XV.- Los demás datos y requisitos que señale este Código y otras disposiciones jurídicas aplicables.
+
+Los Programas Parciales de Desarrollo Urbano aplicables en Centros Históricos, contendrán adicionalmente:
+
+a).- La referencia al carácter histórico, artístico o del patrimonio cultural que se otorga a la zona de su aplicación;
+
+b).- La identificación de los sitios, símbolos urbanos, zonas típicas, fincas, monumentos y en general, los elementos u obras que se declaren afectos al patrimonio cultural del Estado, precisando el régimen jurídico de propiedad que les corresponda;
+
+c).- Las normas y criterios técnicos aplicables a la acción de conservación y/o mejoramiento, conforme la legislación federal y estatal aplicable;
+
+d).- Las bases de los acuerdos que se propongan para garantizar la acción coordinada de las autoridades federales, estatales y municipales, destinados a garantizar su conservación y mejoramiento; y
+
+e).- Las bases de los acuerdos de concertación con los propietarios de áreas y predios, fincas o bienes del patrimonio cultural, para realizar las acciones de conservación y mejoramiento en los mismos.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1045], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1057°.
+
+Los Programas Sectoriales de Desarrollo Urbano, son el conjunto de acciones dirigidas a planear y regular elementos, componentes y acciones del desarrollo urbano y del ordenamiento del territorio, tales como el transporte, la movilidad urbana sustentable, el estacionamiento público, el equipamiento, la infraestructura, los servicios, la vivienda, los desarrollos certificados, la ecología urbana y la sustentabilidad, el ordenamiento ecológico y territorial, la ordenación del territorio, la recolección y tratamiento de los residuos sólidos domésticos e industriales, la captación y utilización sustentable del agua, el drenaje y tratamiento de aguas residuales, la prevención, atención y rehabilitación de riesgos por diversos agentes como inundaciones, escurrimientos, vientos, cruces de líneas de alta tensión, centrales de distribución de Comisión Federal de Electricidad, ductos de hidrocarburos, derechos federales de carreteras, vías férreas, fallas y grietas geológicas y otras análogas, la administración, acometividad y la economía urbana y contendrán, además de lo señalado en el Código, lo siguiente:
+
+I.- La mención del Programa del Sistema Estatal de Ordenamiento Territorial y Planeación Urbana del cual deriven; (se adiciona) (sic)
+
+II.- La determinación de los elementos, componentes o acciones del desarrollo urbano que sean materia del programa sectorial, y el impacto que este tendrá sobre el programa del cual se deriva; (se adiciona) (sic)
+
+III.- El elemento, componente, acción, área o sector en que tendrá aplicación el programa sectorial; (se adiciona) (sic)
+
+IV.- Las autoridades responsables de la elaboración, ejecución, control y evaluación del programa; (se adiciona) (sic)
+
+V.- El término de la realización del programa; (se adiciona) (sic) y
+
+VI.- Los demás requisitos que establezcan el Código Urbano del Estado de Aguascalientes y demás disposiciones jurídicas aplicables. Los programas sectoriales serán elaborados, aprobados, ejecutados, controlados y evaluados por el Gobierno del Estado y/o el Municipio respectivo, dependiendo del programa básico del cual deriven. (se adiciona) (sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1058.
+
+El Municipio podra elaborar Esquemas de Desarrollo Urbano de aquellos centros de población que, por su categoría política administrativa, número de habitantes y grado de urbanización presente o prevista, no requieran técnicamente de un programa con la estructura y contenido que se señala (sic) este Código.
+
+Únicamente los centros de población rurales con menos de 2,500 habitantes podrán contar con esquemas de desarrollo urbano y tomarán en cuenta y respetarán lo dispuesto en los programas estatales, regionales, metropolitanos, municipales de ordenamiento territorial y desarrollo urbano, así como los programas de desarrollo urbano de zonas conurbadas aplicables. Para aquellas localidades rurales que cuenten con esquema de desarrollo urbano y posteriormente sobrepasen el rango de 2,500 habitantes, deberán las autoridades municipales elaborar su programa de desarrollo urbano de centro de población que sustituya al esquema vigente.
+
+La SEPLAPDE, el Consejo Estatal y en su caso, la Procuraduría, controlarán que ningún Municipio elabore o apruebe esquemas de desarrollo urbano o programas parciales que vayan en contra de este ARTÍCULO y que modifiquen las tendencias naturales de crecimiento de los centros de población para fomentar la especulación inmobiliaria y alterar las características del medio rural.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1059.
+
+Los Esquemas de Desarrollo Urbano, derivados de los programas municipales de ordenamiento del territorio y desarrollo urbano, considerarán como mínimo, la siguiente estructura y contenido:
+
+I.- Introducción: que comprenderá los antecedentes, justificación, aspectos metodológicos, de simbología y conceptuales, así como su congruencia con la planeación del desarrollo y con otros programas aplicables;
+
+II.- Diagnóstico: que deberá de contener la delimitación del área del centro de población, un resumen de la principal problemática del mismo, incluyendo la población actual y su tendencia de crecimiento; Deberá incluir las determinaciones de las zonas afectadas en materia de restricciones en las áreas aledañas a las fallas y grietas geológicas, líneas de alta tensión, centrales de distribución de la Comisión Federal de Electricidad, ductos o líneas de combustibles, escurrimientos, ríos, arroyos, cuerpos de agua, estaciones de servicio y de carburación de gas e hidrocarburos y en general, todos los elementos que representen un riesgo para el desarrollo urbano y el ordenamiento territorial; así como, el siguiente apoyo cartográfico:
+
+a).- Ubicación e infraestructura de conectividad física;
+
+b).- Medio físico natural;
+
+c).- Medio físico construido; y
+
+d).- Restricciones urbanas y naturales.
+
+III.- Líneas generales de estrategia: que incluirá la corresponsabilidad sectorial que determinará las acciones, obras e inversiones concretas que deban realizar y establecer los responsables de su ejecución; y
+
+IV.- La zonificación primaria y secundaria que incluya las determinaciones relativas a examinar:
+
+a).- La consideración de las etapas de crecimiento e incorporación de las reservas territoriales y de ser necesario, las densidades de población, ocupación y construcción;
+
+b).- Los aprovechamientos predominantes en las distintas zonas del centro de población;
+
+c).- Los usos y destinos permitidos, prohibidos o condicionados;
+
+d).- La vialidad y el transporte;
+
+e).- La imagen urbana;
+
+f).- La infraestructura, equipamiento y servicios urbanos;
+
+g).- Los planos y cartografía general que comprendan la zonificación del centro de población; y
+
+h).- Las demás que se requieran conforme a este Código en materia de zonificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTICULO 1060.
+
+Los programas que prevé este Código y el Código Urbano del Estado de Aguascalientes y que, conforman el Sistema Estatal de Ordenamiento Territorial y Planeación Urbana deberán ser congruentes entre sí y se sujetarán al orden jerárquico que se determina por su ámbito territorial.
+
+Tendrán prioridad en consideración los programas que determinen a mayor escala y con mayor detalle los usos y destinos del suelo, estructura vial, restricciones y características de ocupación.
+
+En aquellos casos en que alguno de los programas del Sistema Estatal de Ordenamiento Territorial y Planeación Urbana, al momento de elaborarse, presente una incongruencia en cuanto a su zonificación primaria y/o secundaria con el Programa del cual se derive, dada (sic) que no ha sido actualizado este instrumento de planeación; se deberá justificar el cambio de política, lineamiento y/o estrategia, cuidando que no contravenga a la estrategia general, esencia y/o principios del programa de mayor jerarquía.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1046], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1061°.
+
+En la aprobación y modificación de los programas básicos y derivados, se deberá contemplar además el siguiente procedimiento:
 
 I. El Ayuntamiento dará aviso público del inicio del proceso de planeación y formulará el proyecto de programa de desarrollo urbano o sus modificaciones, difundiéndolo ampliamente;
 
@@ -10555,43 +10833,65 @@ III. Las respuestas a los planteamientos improcedentes y las modificaciones del 
 
 IV. Cumplidas las formalidades para su aprobación, el programa respectivo o sus modificaciones serán publicadas en el Periódico Oficial del Gobierno del Estado y/o en la página oficial del Gobierno Municipal; y
 
-V. Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad a cargo de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado y oficina municipal correspondiente.
+V. Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad a cargo de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado y en (sic) oficina municipal correspondiente.
 
-###### ARTÍCULO 1047°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1047], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1062°.
 
 La administración del desarrollo urbano, es el proceso de planeación, organización, ejecución, control y evaluación de las actividades de las autoridades, en coordinación con los sectores social y privado del municipio, a fin de ordenar y regular los asentamientos humanos y el desarrollo urbano.
 
-###### ARTÍCULO 1048°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1048], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1063°.
 
 Una vez formulados los proyectos de programas de desarrollo urbano, serán remitidos al Subcomité de Ordenamiento Ecológico y Territorial del Municipio de Asientos para que emita su opinión.
 
 El Subcomité de Ordenamiento Ecológico y Territorial del Municipio de Asientos pondrá a disposición del público en general el proyecto de programa, con el objeto de que cualquier ciudadano pueda plantear sugerencias u objeciones.
 
-###### ARTÍCULO 1049°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1049], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1064°.
 
 El Subcomité de Ordenamiento Ecológico y Territorial del Municipio de Asientos habiendo recibido el proyecto del programa de desarrollo urbano para dar su opinión, tendrá 20 días hábiles para emitirla; en caso de no hacerlo en dicho término, se considerará que no tiene inconveniente en que el programa sea aprobado por la autoridad correspondiente.
 
-###### ARTÍCULO 1050°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1050], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1065°.
 
 Los programas de desarrollo urbano aprobados, se publicarán e inscribirán en los términos que establece el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes
 
-###### ARTÍCULO 1051°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1051], P.O. 22 DE ABRIL DE 2024)</small>
 
-Los programas municipales de desarrollo urbano son de aplicación obligatoria para los particulares y para las autoridades, una vez que sean publicados en el Periódico Oficial del Estado.
+###### ARTÍCULO 1066°.
 
-###### ARTÍCULO 1052°.
+Los programas de desarrollo urbano son de aplicación obligatoria para los particulares y para las autoridades, una vez que sean publicados en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1052], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1067°.
 
 El Municipio establecerá un registro de la planeación del desarrollo urbano, en el que se inscribirán los programas y resoluciones de la materia para su difusión, consulta pública, control y evaluación.
 
-###### ARTÍCULO 1053°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1053], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1068°.
 
 Los programas de desarrollo urbano tendrán una vigencia a partir de su publicación e inscripción, equivalente a la vigencia del Plan Municipal y podrán ser modificados o cancelados siguiendo los mismos procedimientos de su expedición.
 
-###### ARTÍCULO 1054°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-Los programas municipales de desarrollo urbano, señalarán las acciones específicas para la conservación, mejoramiento y crecimiento de los centros de población situados en su territorio y establecerán la zonificación correspondiente, en congruencia con el Programa Estatal de la materia.
+### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
 
-###### ARTÍCULO 1055°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1054], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1069°.
+
+Los programas municipales de desarrollo urbano y ordenamiento territorial, los programas o esquemas de desarrollo urbano de centros de población, y los programas parciales de desarrollo urbano, señalarán las acciones específicas para la conservación, consolidación, mejoramiento y crecimiento de los centros de población situados en su territorio y establecerán la zonificación correspondiente, en congruencia con los Programas que prevé el Código Urbano del Estado de Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1055], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1070°.
 
 La conservación de los centros de población, es la acción tendiente a mantener:
 
@@ -10601,7 +10901,9 @@ II. El buen estado de las obras materiales, de infraestructura, equipamiento y s
 
 III. El buen estado de los edificios, monumentos, plazas públicas, parques y en general, todo aquello que corresponda a su patrimonio natural y cultural, de conformidad con la legislación aplicable.
 
-###### ARTÍCULO 1056°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1056], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1071°.
 
 Se consideran zonas destinadas a la conservación:
 
@@ -10621,17 +10923,29 @@ En los casos no previstos en el párrafo anterior, las autoridades competentes p
 
 Se establecerán programas integrales de manejo de áreas naturales protegidas y áreas con presencia de fallas geológicas, mediante los cuales se definirán las acciones para la preservación y óptimo aprovechamiento de dichas zonas.
 
-###### ARTÍCULO 1057°.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1072°.
+
+La consolidación es aquella acción que limita los centros de población para contener las acciones de crecimiento urbano dentro de un área específica. Las áreas de consolidación tienen como característica ser urbanizadas, densificadas y cuentan con infraestructura, equipamiento urbano y servicios. Serán delimitadas por el Municipio en sus programas de desarrollo urbano de centros de población o de los parciales derivados de estos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1057], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1073°.
 
 El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incipiente desarrollo o deterioradas, física o funcionalmente, de un centro de población.
 
-Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas por los Gobiernos Estatal o Municipal espacios dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
+Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas por los Gobiernos Estatal o Municipal, espacios dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
 
-###### ARTÍCULO 1058°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1058], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1074°.
 
 El crecimiento es la acción tendiente a ordenar y regular la expansión física de los centros de población, mediante la determinación de las áreas y reservas territoriales, conforme a lo dispuesto en este Código, y los programas en materia de desarrollo urbano.
 
-###### ARTÍCULO 1059°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1059], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1075°.
 
 Los programas de desarrollo urbano para la ejecución de acciones de crecimiento, tomarán en cuenta lo siguiente:
 
@@ -10645,7 +10959,13 @@ IV. La utilización actual de suelo y sus características peculiares tomando la
 
 V. La definición de la infraestructura de las zonas de crecimiento y las modificaciones a realizar en la infraestructura existente del conjunto del área urbana.
 
-###### ARTÍCULO 1060°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IV. De la Zonificación
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1060], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1076°.
 
 Al Municipio corresponde aprobar la zonificación que deberá establecerse en los programas de desarrollo urbano respectivos, en la que se determinarán:
 
@@ -10661,37 +10981,65 @@ V. La compatibilidad entre los usos y destinos permitidos;
 
 VI. Las densidades de población y de construcción;
 
-VII. Las medidas para la protección de los derechos de vía, zonas de restricción de inmuebles de propiedad pública y zonas afectadas por fallas geológicas. En donde estén detectadas fallas geológicas al expedir los usos del suelo se deben determinar las áreas de restricción para las construcciones atendiendo a su grado de peligrosidad;
+VII. Las medidas para la protección de los derechos de vía, zonas de restricción de inmuebles de propiedad pública y zonas afectadas por fallas geológicas. En donde estén detectadas fallas geológicas al expedir los usos del suelo se deben determinar las áreas de restricción para las construcciones atendiendo a su grado de peligrosidad.
 
 VIII. Las zonas de desarrollo controlado y de salvaguarda o amortiguamiento especialmente en áreas e instalaciones en las que se realizan actividades riesgosas o se manejen materiales y residuos peligrosos;
 
-IX. Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
+IX. Las zonas de conservación, consolidación, mejoramiento y crecimiento de los centros de población;
 
-X. Las reservas para la expansión de los centros de población; y
+X. Las reservas para la expansión de los centros de población constituyendo reservas territoriales en la periferia inmediata de las manchas urbanas, identificando los polígonos en los ámbitos siguientes:
 
-XI. Las demás disposiciones que de acuerdo con la legislación aplicable sean procedentes.
+a).- Intraurbano-U1: zonas urbanas consolidadas con una alta concentración de empleo, equipamiento y servicios urbanos;
 
-###### ARTÍCULO 1061°.
+b).- Primer contorno-U2: zonas en proceso de consolidación con infraestructura y servicios urbanos de agua y drenaje mayor al 75%; y
+
+c).- Segundo contorno-U3: zonas contiguas al área urbana, en un cinturón periférico al área urbana, definido de acuerdo al tamaño del centro de población;
+
+XI.- La determinación de las etapas de ocupación en el corto, mediano y largo plazo, conforme se incorporen las áreas, predios y lotes comprendidos como reservas territoriales de los centros de población urbanizable;
+
+XII.- Determinar las zonas emisoras con potencialidad de transferencia de derechos de desarrollo urbano y las receptoras con potencial de desarrollo urbano, con potencial de reciclamiento o de integración urbana o metropolitana;
+
+XIII.- Las políticas ambientales para la conservación del equilibrio ecológico
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1061], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1077°.
 
 Para efectos de ordenar, regular y planear el desarrollo urbano de los centros de población y su delimitación se incluye:
 
-I. El área urbana: la actualmente ocupada por la infraestructura, equipamientos, construcciones o instalaciones de un centro de población; o que se determine para la fundación del mismo;
+I. El área Urbana: la actualmente ocupada por la infraestructura, equipamientos, construcciones o instalaciones de un centro de población; o que se determine para la fundación del mismo;
 
-II. El área de reserva: aquélla que, por sus características y aptitudes urbanas y naturales, por su infraestructura, equipamiento y servicios, se determine conveniente incorporar a la expansión futura del centro de población;
+II. El área de Reserva: aquélla que, por sus características y aptitudes urbanas y naturales, por su infraestructura, equipamiento y servicios, se determine conveniente incorporar a la expansión futura del centro de población;
 
-III. El área de preservación ecológica: aquélla constituida por los elementos naturales que comprenden los condicionantes ecológicos del centro de población; y
+III. El área No Urbanizable: aquélla constituida por los elementos naturales que comprenden los condicionantes ecológicos del centro de población; y
 
-IV. El área rural: aquéllas (sic) que por sus características se dediquen en forma preponderante a la ganadería y la agricultura y que estén dentro del radio de influencia del centro de población.
+a).- Por causa de preservación ecológica;
 
-###### ARTÍCULO 1062°.
+b).- Por prevención de riesgos;
+
+c).- Por ser espacios rurales aledaños a los centros de población;
+
+d).- Por considerarse sitios prioritarios para la conservación o el mejoramiento de los centros de población;
+
+e).- Por mantenimiento de actividades productivas dentro de los límites de los centros de población; y
+
+f).- Por tener pendientes mayores al 30%, salvo que se justifique por la ubicación y características de centros de población existentes, previa autorización de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1062], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1078°.
 
 Las reservas, usos y destinos de áreas y predios se incluirán en los programas municipales de desarrollo urbano.
 
-###### ARTÍCULO 1063°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1063], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1079°.
 
 Los usos y destinos que podrán asignarse en los programas de desarrollo urbano son:
 
 I. Habitacionales;
+
+I. Comercial
 
 II. De servicios;
 
@@ -10707,13 +11055,305 @@ VII. Agropecuarios, Forestales y Acuíferos;
 
 VIII. Patrimonio Cultural y Natural; y
 
-IX. Los demás que se establezcan en los programas, y que sean compatibles con los anteriores.
+IX. Mixto, en el que estarán permitidos los usos habitacionales, comerciales o de servicios;
 
-###### ARTÍCULO 1064°.
+X. Industrias de producción;
+
+XI. Energías renovables; y
+
+XII. Los demás que se establezcan en los programas y que sean compatibles con los anteriores.
+
+II.- Según los destinos del suelo:
+
+a).- Espacios abiertos y áreas verdes;
+
+b).- Infraestructura y obras complementarias públicas;
+
+c).- Equipamiento urbano público;
+
+d).- Vialidad y obras complementarias públicas;
+
+e).- Mixto; y
+
+III. Los demás que se establezcan en los programas, y que sean compatibles con los anteriores.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1064], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1080°.
 
 Las características que correspondan a los diferentes tipos de usos y destinos de áreas y predios, se establecerán en el Reglamento de Zonificación, que para el efecto se expida.
 
-###### ARTÍCULO 1065°.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1081°.
+
+Los usos habitacionales del suelo, se clasifican en:
+
+I. Vivienda aislada o individual en predios agropecuarios, forestales o similares;
+
+II. Vivienda unifamiliar en lotes individuales urbanos o urbanizables, y
+
+III. Vivienda multifamiliar de dos o más viviendas por lote o predio:
+
+a) Multifamiliar horizontal;
+
+b) Multifamiliar vertical, y
+
+c) Multifamiliar mixto, que contenga horizontal y vertical.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1082°.
+
+Los usos de suelo habitacional se establecerán conforme a lo previsto en el Programa de Desarrollo Urbano correspondiente, en caso de que no se establezcan en dicho instrumento, deberán corresponder a los siguientes coeficientes máximos por lote o predio:
+
+I. Rural: COS 10% y CUS 1;
+
+II. Campestre: COS 50% y CUS 1;
+
+III. Vivienda: COS desde 60% hasta 80% y CUS desde 1.5 hasta 5;
+
+La determinación de la relación entre el COS y el CUS se efectuará conforme a los usos y destinos del suelo señalados en la zonificación secundaria de los programas de desarrollo urbano y ordenamiento del territorio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1083°.
+
+Los usos comerciales del suelo y edificaciones según su función, se clasifican en:
+
+I. Comercial al por mayor:
+
+a) Compra venta de alimentos y bebidas;
+
+b) Compra venta de productos no alimenticios;
+
+c) Compra venta de combustibles y lubricantes;
+
+d) Compra venta de materiales de construcción; y
+
+e) Los demás que determine el municipio en reglamentos y programas de desarrollo urbano de centros de población o que de éste emanen;
+
+II. Comercial al por menor:
+
+a) Venta de alimentos y bebidas;
+
+b) Venta de prendas de vestir, calzado y accesorios;
+
+c) Venta de mobiliario y equipo para casa y oficina;
+
+d) Venta de vehículos automotores, refacciones y accesorios;
+
+e) Venta de productos farmacéuticos y similares;
+
+f) Venta de Articulos de oficina y escritorio;
+
+g) Ventas de libros, revistas y similares;
+
+h) Venta de música grabada, videos, instrumentos musicales y similares;
+
+i) Venta de Articulos varios; y
+
+j) Los demás que determine el municipio en reglamentos y programas de desarrollo urbano de centros de población o que de este deriven.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1084°.
+
+Los usos de servicios del suelo y edificaciones, según su aprovechamiento, se clasifican en:
+
+I. De alimentos y bebidas: restaurantes, cafeterías, taquerías y similares;
+
+II. De alojamiento: hoteles, moteles, posadas, hostales, casas de huéspedes y similares;
+
+III. Servicios bancarios y financieros: bancos, instituciones de crédito, casas de cambio, aseguradoras, arrendadoras y similares;
+
+IV. Prestación de servicios a empresas y particulares: oficinas, despachos de profesionistas;
+
+V. Servicios educativos: centros de investigación, escuelas privadas de educación preescolar, primaria, secundaria, preparatorias, universidades, educación especial, danza, arte y similares;
+
+VI. Servicios de salud: consultorios médicos, dentales, hospitales, laboratorios, unidades de emergencia y similares;
+
+VII. Servicios de asistencia social: guarderías infantiles, orfanatorios, asilos y similares;
+
+VIII. Asociaciones civiles y similares: colegios de profesionistas, sindicatos, gremios, clubes deportivos y similares;
+
+IX. Servicios religiosos: templos, conventos, seminarios y similares;
+
+X. Servicios mortuorios: funeraria, cementerio, incinerador, columbario, mixto y similares;
+
+XI. Servicios de recreación pasiva: cines, radiodifusoras, teatros, autódromos, palenques, plazas de toros, zoológicos, velódromos, estadios y similares;
+
+XII. Servicios de recreación activa: canchas deportivas, campos de golf, trotapista, ciclovía, patinaderos, boliches, centros para eventos sociales, juegos electrónicos y similares;
+
+XIII. Servicios culturales: bibliotecas, museos, galerías de arte, y similares;
+
+XIV. Servicios de reparación y mantenimiento de vehículos: talleres mecánicos, eléctricos, vulcanizadoras y similares;
+
+XV. Servicios de reparación de otros Artículos: cerrajerías, de calzado, de motocicletas y similares;
+
+XVI. Servicios de limpieza: lavanderías, tintorerías, de muebles y similares;
+
+XVII. Servicios personales: salones de belleza, salas de masajes, peluquerías, estéticas, fotografías, agencias de viajes y similares;
+
+XVIII. Servicios de comunicaciones y transportes: cibercafés, aeropuertos y helipuertos privados, estacionamiento de taxis, estaciones de radio y televisión, centrales y terminales de transporte de pasajeros y de carga, mensajería y paquetería y similares;
+
+XIX. Cabarés, bares, centros nocturnos y zonas de tolerancia y similares, casinos, centros de apuestas, salas de sorteos, casas de juego y similares, serán condicionados, restringidos o no permitidos por razones de seguridad, orden, tranquilidad y de salud pública en cuanto a su ubicación, tamaño y tipo; y
+
+XX. Los demás que determinen el municipio en reglamentos, así como por los programas de desarrollo urbano de centros de población o que de éstos deriven.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1085°.
+
+Los usos industriales del suelo y edificaciones, según su aprovechamiento, se clasifican en:
+
+I. Industria ligera: aquella que no maneja materiales tóxicos, inflamables, corrosivos o radioactivos, no produce destellos luminosos, vibraciones o ruido o si los produce están dentro de los límites de las normas oficiales mexicanas, sin necesidad de equipos especiales, no consume más de 10 kilowatts de energía eléctrica, no requiere transporte ferroviario dentro del predio;
+
+II. Industria pesada: aquella que no cumple con una o más características mencionadas para la industria ligera; y
+
+III. Los demás que determinen el municipio en sus disposiciones municipales, así como en los programas de desarrollo urbano de centros de población o que de estos deriven.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1086°.
+
+Los usos agropecuarios, según su aprovechamiento, se clasifican en:
+
+I. Agrícola: de temporal de riego, huertos frutícolas o similares;
+
+II. Pecuario: cría de ganado, granjas, caballerizas o similares;
+
+III. Agropecuario: cultivos agrícolas y cría de ganado de diversas especies;
+
+IV. Acuicultura: cultivo de especies acuáticas vegetales y animales;
+
+V. Extracción de productos forestales;
+
+VI. Apicultura: crianza de abejas; y
+
+VII. Los demás que determinen el municipio en sus disposiciones municipales, así como en los programas de desarrollo urbano de centros de población o que de estos deriven.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1087°.
+
+Los usos forestales, según su aprovechamiento, se clasifican en:
+
+I. Viveros;
+
+II. Invernaderos;
+
+III. Aserraderos;
+
+IV. Extracción de productos forestales;
+
+V. Ranchos cinegéticos; y
+
+VI. Los demás que determinen el municipio en sus disposiciones municipales, así como en los programas de desarrollo urbano de centros de población o que de estos deriven.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1088°.
+
+Los destinos de equipamiento urbano, se clasifican en:
+
+I. Espacios abiertos y áreas verdes:
+
+a) Explanadas y plazas;
+
+b) Jardines, parques públicos y áreas de preservación ecológica;
+
+c) Presas, estanques, lagos, lagunas y similares;
+
+d) Ríos, arroyos, escurrimientos pluviales, sitios de recarga del acuífero y similares; y
+
+e) Sitios prioritarios para la conservación y el mejoramiento.
+
+II. Los destinos de equipamiento urbano público:
+
+a) Escuelas públicas;
+
+b) Universidades públicas;
+
+c) Bibliotecas, centros de convenciones y exposiciones, centros religiosos y espacios o edificaciones culturales públicas;
+
+d) Hospitales, centros de salud y clínicas públicas;
+
+e) Edificaciones e instalaciones de las administraciones públicas de los tres órdenes de gobierno;
+
+f) Edificaciones e instalaciones para los servicios públicos de seguridad, tránsito, protección civil, bomberos, primeros auxilios y similares;
+
+g) Edificaciones e instalaciones públicas para las comunicaciones: correos, telégrafos, televisión, radiocomunicación, internet y similares;
+
+h) Edificaciones e instalaciones para la función judicial y de procuración de justicia: tribunales, juzgados, centros de reinserción, reclusorios, reformatorios y similares;
+
+i) Edificaciones e instalaciones para los servicios urbanos: rastros, plantas de tratamiento de agua y saneamiento, rellenos sanitarios, plantas de procesamiento de desechos sólidos, estaciones de transferencia de desechos sólidos y similares;
+
+j) Unidades deportivas, estadios y canchas públicas;
+
+k) Edificaciones e instalaciones para el transporte público: urbano, foráneo de pasajeros y carga, aeropuertos, helipuertos, ferrocarriles, terminales de transporte de carga y de pasajeros y similares; y
+
+l) Demás inmuebles, mobiliario, edificaciones e instalaciones que estén destinados a una función pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1089°.
+
+El equipamiento urbano deberá clasificarse como sigue:
+
+I. Equipamiento vecinal: plazas o jardines públicos, campo deportivo, jardín de niños, escuela primaria, escuela secundaria, guardería infantil, centro de salud, y módulo de vigilancia;
+
+II. Equipamiento de barrio: parque urbano mediano, escuelas preparatorias y técnicas públicas, clínica, conjunto deportivo público, gimnasios y albercas públicas, clínicas públicas, mercado, edificios para servicios públicos, edificios y espacios culturales públicos, edificaciones para servicios de seguridad, tránsito y protección civil; y
+
+III. Equipamiento regional o metropolitano: grandes parques urbanos y suburbanos, universidades públicas, hospitales públicos, oficinas públicas, municipales, estatales y federales; edificaciones e instalaciones para los servicios urbanos: rellenos sanitarios, plantas de procesamiento de desechos sólidos, plantas de tratamiento de aguas residuales o potabilizadoras, subestaciones eléctricas, edificaciones e instalaciones para los servicios públicos de seguridad, tránsito, protección civil, bomberos y primeros auxilios;
+
+Los elementos anteriores se pueden distribuir conforme a las normas y coeficientes aplicables, respecto a su nivel de servicio y su grado de especialización, a la población usuaria y a la demanda y el estrato socioeconómico, por lo que podrán agruparse en:
+
+a).- Centros vecinales;
+
+b).- Centros de barrio;
+
+c).- Subcentros urbanos:
+
+d).- Centros urbanos; y
+
+e).- Elementos aislados o de ubicación especial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1090°.
+
+Los destinos de infraestructura pública se clasifican según su aprovechamiento, en:
+
+I. Infraestructura hidráulica: fuentes de abastecimiento, acueductos, redes de distribución, plantas potabilizadoras, plantas de bombeo y similares;
+
+II. Infraestructura sanitaria: emisores, redes de distribución, colectores, canales de desagüe, plantas de tratamiento de aguas negras, residuales, pozos de absorción y similares;
+
+III. Infraestructura pluvial: emisores, redes de distribución, colectores, canales de desagüe, cárcamos de bombeo, obras para el manejo de aguas pluviales y similares;
+
+IV. Infraestructura eléctrica: plantas de generación de energía eléctrica o de tecnologías sustentables, estaciones, subestaciones, líneas de transmisión de energía eléctrica de alta tensión, líneas de distribución de energía eléctrica y similar;
+
+V. Infraestructura energética: duetos y redes, plantas de almacenamiento y distribución y estaciones de compresión de hidrocarburos y gas e instalaciones de generación y almacenamiento de energía alternativa y similares; y
+
+VI. Vialidad y obras complementarias: las carreteras y caminos, autopistas, calles, y libramientos; las vías primarias de acceso controlado o sin control de acceso; las vías arteriales y colectoras; puentes vehiculares, pasos a desnivel o distribuidores viales, túneles vehiculares y peatonales, ciclovías, puentes peatonales y similares
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1091°.
+
+La zonificación secundaria que se establezca en los programas o esquemas de desarrollo urbano de centros de población y, en su caso, en los programas parciales que de éstos se deriven, se sujetarán a las siguientes categorías:
+
+I.- PERMITIDOS O PREDOMINANTES: aquellos que en una zona determinada ocupan o está previsto que ocupen cuando menos el 51% del área vendible o aprovechable. Cuando en algunas zonas existan más de dos usos o destinos de suelo, se entenderá como predominante aquel uso o destino de mayor porcentaje;
+
+II.- CONDICIONADOS: aquellos que por sus características de funcionamiento, frecuencia con que se presentan o especialidad y siendo complementarios de los predominantes, presentan algún modo o grado de incompatibilidad que pueda evitar o reducir el cumplimiento estricto de condiciones y requerimientos específicos que a esos efectos fije la autoridad competente en un ordenamiento jurídico o en un programa de desarrollo urbano y ordenamiento del territorio y, por lo mismo, a juicio de la autoridad puedan permitirse en la zona respectiva, principalmente, cuando se trate de solucionar problemas de servicios públicos o de acciones de interés general o por causa de utilidad pública. El incumplimiento de esas condiciones y requerimientos dejará sin efectos la autorización de uso de suelo y, consecuentemente, procederá la aplicación de las medidas de seguridad y sanciones correspondientes;
+
+III.- COMPLEMENTARIOS O COMPATIBLES: son aquellos que apoyan y complementan al uso o destino predominante para su mejor desempeño y que pueden coexistir sin interferencias, ni obstaculizan el uso o destino predominante en la zona; y
+
+IV.- PROHIBIDOS: los que por sus características se consideren incompatibles al uso o destino predominante o contrario al adecuado desarrollo urbano y ordenamiento del territorio de la zona de que se trate o contravengan lo dispuesto en este Código, los programas aplicables y otras disposiciones jurídicas y que, por ello, no se permiten en las zonas correspondientes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1065], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1092°.
 
 Los programas de desarrollo urbano establecerán las normas de aprovechamiento de los predios indicando:
 
@@ -10731,29 +11371,381 @@ VI. La densidad de población; y
 
 VII. Las demás normas que de acuerdo con este Código sean procedentes.
 
-###### ARTÍCULO 1066°.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1093°.
+
+Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserva de crecimiento, la asamblea ejidal deberá ajustarse a las disposiciones de este Código y a la zonificación contenida en los programas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1094°.
+
+La determinación de reservas contendrá la delimitación de las áreas de expansión futura del centro de población.
+
+Una vez publicados e inscritos los programas en los registros correspondientes, los predios en ella comprendidos se utilizarán por sus propietarios en forma que no presente obstáculo al futuro aprovechamiento determinado por el programa respectivo.
+
+En igualdad de circunstancias, se comprenderán preferentemente predios que no sean de propiedad ejidal o comunal. Cuando se haga necesaria la utilización parcial o total de la reserva, se expedirá un programa parcial de desarrollo urbano que regule las acciones y utilización del área de que se trate.
+
+En el caso de áreas ejidales y comunales, se promoverán las expropiaciones o aportaciones correspondientes, en los términos de Ley Agraria y la Ley General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1095°.
+
+Las zonas de Reserva deberán mantenerse inalterables, en tanto no se expidan las normas de planificación urbana correspondientes, que determinen el aprovechamiento que podrá otorgarse al suelo, en congruencia con el ordenamiento ecológico, urbano y territorial aplicable. Igualmente, deberá mantenerse inalterable el área de preservación ecológica, durante el término que fije el programa de desarrollo urbano y ordenamiento territorial respectivo y el Programa Estatal de Ordenamiento Ecológico y Territorial, que en ningún caso será menor de 10 años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1096°.
+
+Los propietarios y poseedores de inmuebles comprendidos en las zonas determinadas como reservas y destinos en los programas aplicables, sólo utilizarán los predios en forma que no presenten obstáculo al aprovechamiento previsto.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Regularización de la Tenencia de la Tierra
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1097°.
+
+Se considera de interés público y prioritario el establecimiento de mecanismos de coordinación entre el gobierno federal, estatal y municipal tendiente a la regularización de la tenencia de la tierra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1098°.
+
+Son competentes para resolver los procedimientos de la regularización de la tenencia de la tierra, el Municipio, la SEPLAPDE, el IVSOP y las instancias federales en la materia.
+
+Derivado de esta facultad, los mismos podrán lanzar convocatorias o programas, así como celebrar los contratos o convenios que sean necesarios para lograr los fines de regularización y cumplimiento de los requisitos que establece el presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1099°.
+
+La regularización de la tenencia de la tierra, para su incorporación al desarrollo urbano, se sujetará a lo siguiente:
+
+I.- Se deberá proceder conforme al programa de desarrollo urbano aplicable, en la ejecución de acciones de mejoramiento;
+
+II.- Sólo podrán ser beneficiarios de la regularización, quienes ocupen o detenten la propiedad de un lote del predio. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión; y
+
+III.- Ninguna persona podrá resultar beneficiada por la regularización con más de un lote, cuya superficie no podrá exceder de la extensión determinada por los programas de desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+ASENTAMIENTOS HUMANOS IRREGULARES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1100°.
+
+El Municipio, en coordinación con la SEPLAPDE y el IVSOP, al tener conocimiento de un asentamiento humano irregular o la formación de este, procederán a la suspensión de cualquier obra y, en su caso, ventas de predios que se transmitan ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado como advertencia pública en un diario de mayor circulación de la localidad y notificarse al Colegio de Notarios, al Instituto Catastral y al Registro Público que no inscriban ningún acto, contrato o convenio derivado de la propiedad o posesión de inmuebles ubicados en ese asentamiento humano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1101°.
+
+Serán susceptibles de regularización los asentamientos humanos irregulares que cumplan los siguientes supuestos:
+
+I.- Que el uso de suelo de la zona en que se ubica el asentamiento humano irregular, sea apto para vivienda, en términos de las disposiciones en materia de desarrollo urbano aplicables;
+
+II.- Que no se encuentre ubicado en zonas no urbanizables, de riesgo o de preservación ecológica;
+
+III.- Que el predio origen se encuentre libre de procesos judiciales, procedimientos administrativos o gravámenes que afecten o puedan afectar el derecho de posesión o de propiedad del mismo; y
+
+IV.- Que el Municipio al que pertenece lo tenga registrado dentro del inventario de los asentamientos humanos irregulares que proporciona anualmente a la SEPLAPDE o en su caso que proceda a su registro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1102°.
+
+El procedimiento de regularización de un asentamiento humano irregular deberá de ser integrado en la SEPLAPDE en coordinación con el Municipio correspondiente, y comprenderá de las siguientes etapas:
+
+I.- Solicitud de inicio de procedimiento e integración del expediente técnico jurídico;
+
+II.- Opinión favorable por parte del Municipio, en donde determine los acuerdos particulares para las áreas de donación, la factibilidad de introducción de infraestructura, equipamiento y servicios; y
+
+III.- Dictamen del Sub-consejo correspondiente del Consejo Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1103°.
+
+La solicitud para la regularización y la integración del expediente técnico jurídico del asentamiento humano irregular, deberá contener de manera enunciativa más no limitativa lo siguiente:
+
+I.- Solicitud de inicio de procedimiento de regularización:
+
+a).- Nombre del propietario o promotor;
+
+b).- Ubicación del asentamiento;
+
+c).- Firma del propietario o representante legal;
+
+d).- Denominación con la que se conoce el asentamiento humano irregular;
+
+e).- Superficie;
+
+f).- Antigüedad;
+
+g).- Datos de contacto y domicilio para oír y recibir notificaciones; y
+
+h).- Justificación en donde se acredite el beneficio social y público;
+
+II.- Integración del expediente técnico jurídico:
+
+a).- Copia certificada de escrituras o título de propiedad inscritos en el Registro Público;
+
+b).- Copia certificada del Poder Notariado en caso de representante legal;
+
+c).- Constancia de no adeudo del impuesto a la propiedad raíz del año en curso;
+
+d).- Certificado de libertad de gravamen no mayor a un mes anterior a la solicitud;
+
+e).- Constancia Municipal de Compatibilidad Urbanística;
+
+f).- Levantamiento topográfico Catastral;
+
+g).- Plano de curvas de nivel;
+
+h).- Plano de ligas y vialidades;
+
+i).- Plano de lotificación;
+
+j).- Plano de usos de suelo;
+
+k).- Plano de escurrimientos de aguas pluviales;
+
+l).- Dictamen de la Comisión Nacional del Agua;
+
+m).- Dictamen de Protección Civil Municipal o en su caso de Protección Civil Estatal;
+
+n).- Estudio de Mecánica de Suelos avalado por un Perito especializado en la materia;
+
+ñ).- Estudio Geológico y Geofísico avalado por un Perito especializado en la materia;
+
+o).- Dictamen de Impacto Ambiental emitido por la SSMAA;
+
+p).- Memoria técnica descriptiva de las obras de urbanización existentes; y
+
+q).- Memoria técnica descriptiva de los servicios de agua potable, alcantarillado, saneamiento y eléctricos existentes.
+
+Cuando a juicio de la SEPLAPDE o a petición del promotor, tomando en cuenta las condiciones del asentamiento humano irregular, se considere que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, esta lo indicará al solicitante por no ser necesario al caso concreto o determinando; circunstancia por lo que la autorización de regularización se emitirá de manera condicionada para cumplir posteriormente con algún requisito o no requerirlo en su caso. La SEPLAPDE podrá solicitar la opinión al Municipio para resolver sobre estos asuntos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1104°.
+
+Recibida la solicitud será revisada para verificar que esté correctamente integrada conforme a lo dispuesto en este Código.
+
+En caso de que los datos o documentos estén incompletos o no exista congruencia entre estos, la SEPLAPDE notificará al promotor y determinará un plazo razonable para que subsane las observaciones; en caso de no ser subsanadas se devolverá el expediente.
+
+Una vez avalado el expediente por la SEPLAPDE, se enviará el mismo al Municipio con objeto de que emita su opinión.
+
+Si la opinión del Municipio no es procedente, deberá justificar los motivos de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnico normativos y el presente Código.
+
+Si la opinión del Municipio es procedente, deberá contener como mínimo los siguientes elementos:
+
+I.- Acuerdos o convenios aprobados referente a las áreas de donación; definición sobre la ubicación y superficie de las mismas, o en su caso la justificación y descripción de eximir ese requisito o hacerlo con una permuta;
+
+II.- Acuerdos o convenios aprobados para la introducción de infraestructura, equipamiento y servicios públicos;
+
+III.- En su caso, acuerdos o convenios para el desalojo o reubicación de los habitantes en zonas no urbanizables, de riesgo o de preservación ecológica; y
+
+IV.- Aprobación de la propuesta de denominación del asentamiento.
+
+A fin de contar con los suficientes elementos que le permitan emitir la opinión referida el Municipio, en caso de ser necesario solicitará la opinión técnica de las dependencias o entidades federales, estatales o municipales, respecto de cada uno de los aspectos técnico que se requieran.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1105°.
+
+Contando con todos los requisitos establecidos en el presente Código y la opinión procedente del Municipio, la SEPLAPDE integrará el proyecto de dictamen de regularización del asentamiento humano correspondiente.
+
+El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión del Municipio.
+
+El proyecto de dictamen se remitirá al promotor o propietario para firma, en caso de que se requiera realizar correcciones o modificaciones, dispondrá de un plazo no mayor de 15 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1106°.
+
+Una vez aceptado y firmado por el propietario o promotor el proyecto de dictamen de regularización del asentamiento humano, será sometido como parte del orden del día a la próxima sesión del Consejo Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1107°.
+
+El Consejo Estatal, tomando en cuenta lo dictaminado, la opinión en su caso del Sub-consejo correspondiente y del Municipio, en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLAPDE, una vez que se hubiera analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
+
+La SEPLAPDE notificará al propietario o promotor la resolución del Consejo Estatal; en caso de ser aprobado el dictamen de manera condicionada, el interesado contará con un plazo de 30 días hábiles o el tiempo que indique dicho Consejo para dar cumplimiento o garantizar lo conducente. Una vez subsanadas las condicionantes, la SEPLAPDE emitirá una resolución determinando lo correspondiente.
+
+El acta de la sesión del Consejo Estatal, será publicada por una sola vez en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+RESERVAS DE CRECIMIENTO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1108°.
+
+La ocupación de la reserva de crecimiento ejidal, se realizará conforme a lo previsto en la Ley General, la Ley Agraria, su Reglamento, el Código y el Programa de Desarrollo Urbano aplicable, a través de los organismos competentes para ello.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1109°.
+
+Serán susceptibles de ocupación las reservas de crecimiento ejidal que cumplan los siguientes requisitos:
+
+I.- Con fundamento en el artículo 66 de la Ley Agraria, se requerirá la intervención de las autoridades municipales correspondientes y se observarán las normas técnicas que emita la Secretaría de Medio Ambiente y Recursos Naturales;
+
+II.- Que el uso de suelo donde se ubica sea apto para vivienda o el uso que pretenda darle a esa reserva, en términos de las disposiciones en materia de desarrollo urbano aplicables;
+
+III.- Que no se encuentre ubicado en zonas no urbanizables, de riesgo o de preservación ecológica; y
+
+IV.- Que el predio origen se encuentre libre de procesos judiciales, procedimientos administrativos o gravámenes que afecten o puedan afectar el derecho de posesión o de propiedad del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1110°.
+
+El procedimiento de ocupación o regularización de las reservas ejidales, deberá de ser integrado en la SEPLAPDE en coordinación con el Municipio, y comprenderá las siguientes etapas:
+
+I.- Solicitud de inicio de procedimiento e integración del expediente técnico jurídico;
+
+II.- Opinión favorable por parte del Municipio, en donde determine los acuerdos particulares para las áreas de donación, la factibilidad de introducción de infraestructura, equipamiento y servicios; y
+
+III.- Dictamen aprobado por parte del Consejo Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1111°.
+
+La solicitud para la ocupación o regularización y la integración del expediente técnico jurídico de la reserva de crecimiento ejidal, deberá contener de manera enunciativa más no limitativa lo siguiente:
+
+I.- Solicitud de inicio de procedimiento de ocupación o regularización que contenga:
+
+a).- Nombre del núcleo agrario ejidal;
+
+b).- Superficie de la reserva de crecimiento, sustentado en el plano emitido por el Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos;
+
+c).- Acuerdo aprobatorio de la asamblea ejidal respectiva;
+
+d).- Domicilio para oír y recibir notificaciones;
+
+e).- Firma del Comisariado Ejidal; y
+
+f).- Porcentaje de ocupación y/o construcciones dentro de la misma.
+
+II.- Expediente técnico jurídico que contenga lo siguiente:
+
+a).- Copia simple del nombramiento del Comisariado Ejidal y del Consejo de Vigilancia, en caso de cambio de autoridades durante el proceso, se deberán de actualizar dichos nombramientos;
+
+b).- Copia del acta de delimitación destino, que expidió el Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos;
+
+c).- Levantamiento topográfico catastral;
+
+d).- Plano de curvas de nivel;
+
+e).- Plano de ligas y vialidades;
+
+f).- Plano de lotificación;
+
+g).- Plano de usos de suelo;
+
+h).- Plano de escurrimientos de aguas pluviales;
+
+i).- Dictamen de la Comisión Nacional del Agua;
+
+j).- Dictamen de Protección Civil Municipal. En caso de que el Municipio no cuente con los medios necesarios para emitir el dictamen, deberá ser emitido por Protección Civil Estatal;
+
+k).- Estudio de Mecánica de Suelos avalado por un Perito especializado en la materia;
+
+l).- Estudio geológico y geofísico avalado por un Perito especializado en la materia;
+
+m).- Dictamen de Impacto Ambiental emitido por la autoridad municipal correspondiente y opinión de la SSMAA; y
+
+n).- Factibilidad de servicios de agua potable, drenaje, saneamiento y electricidad, emitidos por la autoridad correspondiente.
+
+Cuando a juicio de la SEPLAPDE o a petición del interesado, tomando en cuenta las condiciones del proyecto respectivo, se considere que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este ARTÍCULO, esta lo indicará al solicitante por no ser necesario al caso concreto o determinando; circunstancia por lo que la autorización correspondiente se emitirá de manera condicionada para cumplir posteriormente con algún requisito o no requerirlo en su caso. La SEPLAPDE podrá solicitar la opinión al Municipio para resolver sobre estos asuntos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1112°.
+
+Recibida la solicitud será revisada por parte de la SEPLAPDE para verificar que esté correctamente integrada conforme a lo dispuesto en este Código, en caso de que falte algún documento será devuelto al interesado.
+
+En caso de que los datos o documentos estén incompletos o no exista congruencia entre estos, la SEPLAPDE notificará al promotor y determinará un plazo razonable para que subsane las observaciones; en caso de no ser subsanadas se devolverá el expediente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1113°.
+
+Una vez avalado el expediente por la SEPLAPDE, se enviará el mismo al Municipio con objeto de que emita su opinión. Si la opinión del Municipio no es procedente, deberá justificar los motivos de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnico normativos y del presente Código.
+
+Si la opinión del Municipio es procedente, deberá contener como mínimo los siguientes elementos:
+
+I.- Determinación en cuanto a su competencia de que la reserva de crecimiento ejidal puede ser ocupada o regularizada;
+
+II.- Definición sobre la ubicación y superficies de los predios o lotes que deberán ser donados al Municipio respectivo, la cual no podrá ser menor al 12%;
+
+III.- En su caso, la determinación del equipamiento urbano e infraestructura que se realizará en las áreas de donación o en otro predio municipal, en sustitución de una parte de la superficie de donación o de los derechos fiscales municipales derivados licencias de urbanización; anexando el dictamen que lo justifique y los valores determinados para esos fines, tanto del predio de donación como el equipamiento de infraestructura o del monto de las obligaciones fiscales;
+
+IV.- Requerimientos mínimos de equipamiento e infraestructura y servicios en las áreas de donación;
+
+V.- Aprobación de la propuesta de denominación de la reserva; y
+
+VI.- En su caso, establecimiento de las especificaciones o características que deberán cumplirse como condicionantes para su autorización. A fin de contar con los suficientes elementos que le permitan emitir la opinión referida el Municipio, podrá si lo considera necesario solicitar la opinión técnica de las dependencias o entidades federales, estatales o municipales respecto de cada uno de los aspectos técnico que se requieran.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1114°.
+
+Contando con todos los requisitos establecidos en el presente Código y la opinión procedente del Municipio, la SEPLAPDE integrará el proyecto de dictamen de ocupación o regularización de reserva de crecimiento ejidal.
+
+El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión del Municipio.
+
+El proyecto de dictamen se remitirá al Comisariado Ejidal para que sea sometido a votación de la asamblea y se proceda aprobación del mismo, en caso de que se requiera realizar correcciones o modificaciones, dispondrá de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1115°.
+
+Una vez aprobado por la asamblea y firmado por el Comisariado Ejidal el proyecto de dictamen de ocupación o regularización de Reserva de Crecimiento Ejidal, será sometido como parte del orden del día a la próxima sesión del Consejo Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1116°.
+
+El Consejo Estatal en sesión aprobará o rechazará el proyecto de dictamen sometido a su consideración por parte de la SEPLAPDE.
+
+La SEPLAPDE notificará al Comisariado Ejidal la resolución del Consejo Estatal.
+
+El Proyecto en caso de ser aprobado de manera condicionada, el interesado o interesados contarán con un término de 30 días hábiles para llevar a cabo las condicionantes; una vez subsanadas, la SEPLAPDE, previa opinión favorable del Municipio emitirá resolución teniendo por cumplidas las citadas condicionantes.
+
+El acta de la sesión del Consejo Estatal será publicada por una sola vez en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO V. Del Control del Desarrollo Urbano
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1066], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1117°.
 
 Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda, que se realicen en territorio del Municipio, sean públicas o privadas, deberán sujetarse a lo dispuesto en este Código y a los programas aplicables.
 
 Sin este requisito, no se otorgará permiso, autorización, licencia o concesión para efectuarlas.
 
-###### ARTÍCULO 1067°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1068], P.O. 22 DE ABRIL DE 2024)</small>
 
-La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de dichas acciones u obras, la constancia de compatibilidad urbanística que le expida la autoridad municipal competente.
-
-###### ARTÍCULO 1068°.
-
-Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
+ARTÍCULO 1119° (SIC).- Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
 
 La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
 
-### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1070], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1069°.
-
-La constancia de compatibilidad urbanística, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios, permitidos, condicionados o prohibidos.
-
-###### ARTÍCULO 1070°.
+###### ARTÍCULO 1121°.
 
 Los objetivos de las constancias de compatibilidad urbanística son:
 
@@ -10771,7 +11763,9 @@ VI. Impedir el establecimiento de asentamientos humanos irregulares; y
 
 VII. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la legislación o programas de desarrollo urbano aplicables.
 
-###### ARTÍCULO 1071°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1071], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1122°.
 
 Las constancias de compatibilidad urbanística, contendrán y proporcionarán:
 
@@ -10797,33 +11791,123 @@ X. Las afectaciones por proyectos de obras en materia de infraestructura, equipa
 
 XI. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
 
-###### ARTÍCULO 1072°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1072], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1123°.
 
 Las constancias de compatibilidad urbanística tendrán una vigencia de tres años, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la legislación y programas de desarrollo urbano.
 
-###### ARTÍCULO 1073°.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+Constancia e Informes Municipales de Compatibilidad Urbanística
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1124°.
+
+Toda persona que pretenda ejecutar una acción urbanística o, en su caso, destinar un inmueble a un uso o destino distintos de aquellos para los cuales inicialmente se contempló, deberá obtener previamente la Constancia Municipal de Compatibilidad Urbanística.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1125°.
+
+La Constancia Municipal de Compatibilidad Urbanística es la condicionante municipal para la expedición de toda autorización, permiso, licencia o concesión que se derive de la legislación urbana estatal o municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1126°.
+
+La Constancia Municipal de Compatibilidad Urbanística, con base en la zonificación prevista en los programas aplicables, señalará los usos, aprovechamientos o destinos de áreas, lotes y predios permitidos, condicionados o prohibidos. Para darle a un inmueble un uso o destino distinto, se deberá obtener una Constancia Municipal de Compatibilidad Urbanística que lo permita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1127°.
+
+La Constancia Municipal de Compatibilidad Urbanística es independiente y condiciona la expedición por parte de las autoridades competentes, de autorizaciones, permisos, licencias o concesiones que se deriven de la legislación urbana aplicable; tales como, fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones, fusiones, relotificaciones, construcciones, adaptaciones de obras, funcionamiento de establecimientos comerciales, industriales y de servicios, y demás acciones urbanísticas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1128°.
+
+El Municipio expedirá informes de compatibilidad urbanística a la persona que lo solicite, en un plazo máximo de 5 días hábiles, sin que esta acredite la propiedad o posesión del inmueble objeto de su petición, a fin de darle a conocer el uso del suelo, densidad, restricciones y características generales con que cuenta un lote, predio o área. Los informes no tienen validez legal para realizar trámite alguno. Los informes municipales de compatibilidad urbanística tendrán una vigencia de un año contado a partir de la fecha de su expedición y lo cuales no tendrán validez, para obtener posteriormente algún tipo de autorización, licencia, permiso o concesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1129°.
+
+La Constancia Municipal de Compatibilidad Urbanística, contendrá y proporcionará la información siguiente:
+
+I.- Nombre del propietario o poseedor, quien acreditará fehacientemente la propiedad o posesión legal.
+
+II.- La ubicación, medidas y colindancias del área, lote o predio;
+
+III.- La clave catastral;
+
+IV.- El número oficial;
+
+V.- El uso o destino actual y el que se pretenda utilizar, siempre y cuando sea compatible con el programa o esquema de desarrollo urbano aplicable;
+
+VI.- El alineamiento respecto a las vías o espacios públicos de propiedad federal, estatal o municipal, de conformidad con la traza urbana;
+
+VII.- La referencia, liga y congruencia del área, lote o predio respecto de las zonas urbanas, urbanizables y no urbanizables;
+
+VIII.- La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados;
+
+IX.- Las densidades de población, construcción y ocupación del suelo;
+
+X.- En su caso, las medidas y acciones para ordenar, regular y mitigar el impacto urbano de las acciones, obras y servicios;
+
+XI.- Las restricciones de urbanización y construcción que correspondan;
+
+XII.- La clasificación de inmuebles del patrimonio natural y cultural, cuando de acuerdo a la catalogación de la autoridad competente sea aplicable;
+
+XIII.- Las afectaciones o restricciones por proyectos de obras en materia de infraestructura, equipamiento y servicios urbanos;
+
+XIV.- Las discontinuidades geológicas que se encuentren en el área, lote o predio, que puedan limitar el uso o destino del suelo y la edificación de construcciones o instalaciones;
+
+XV.- La denominación del programa de desarrollo urbano y ordenamiento del territorio del cual se haga referencia; y
+
+XVI.- Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación, de los programas y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1130°.
+
+La Constancia Municipal de Compatibilidad Urbanística se otorgará a quien acredite la propiedad o posesión del inmueble; tendrá una vigencia de 3 años improrrogables, a partir de la fecha de su expedición.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VI. De la Vía Pública
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1073], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1131°.
 
 Para efectos de este Código, vía pública es todo espacio de uso común que, por la costumbre o disposición de autoridad competente, se encuentre destinado al libre tránsito, de conformidad con el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, el presente ordenamiento y demás leyes de la materia, así como todo inmueble que de hecho se utilice para este fin. Es característica propia de la vía pública el servir para la aireación, iluminación y para dar acceso a los predios colindantes, o para alojar cualquier instalación de una obra o servicio público.
 
 Este espacio está limitado por el plano virtual vertical sobre la traza del alineamiento oficial o el lindero de dicha vía pública.
 
-###### ARTÍCULO 1074°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1074], P.O. 22 DE ABRIL DE 2024)</small>
 
-Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del Gobierno del Estado o del Municipio, en el Archivo Histórico del Municipio o del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinados a un servicio público a que se refiere la Ley Municipal para el Estado de Aguascalientes.
+###### ARTÍCULO 1132°.
 
-###### ARTÍCULO 1075°.
+Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del Gobierno del Estado o del Municipio, en el Archivo Histórico del Municipio o del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinado a un servicio público a que se refiere la Ley Municipal para el Estado de Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1075], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1133°.
 
 Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado como cabeza de sector Estatal para que procedan ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, así como al Área de Control Municipal del Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
 
-### CAPÍTULO IV. De la Zonificación
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1076], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1076°.
+###### ARTÍCULO 1134°.
 
 Se requiere permiso o autorización expreso de la Dirección de Planeación y Obras Públicas para:
 
 I. Realizar obras, modificaciones o reparaciones en la vía pública;
 
-II. Ocupar la vía pública con instalaciones de servicio público comercios semifijos, construcciones provisionales o mobiliario urbano;
+II. Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales o mobiliario urbano;
 
 III. Ocupar la vía pública con escombros o materiales de construcción en los horarios y condiciones que establezca la propia Dirección;
 
@@ -10831,13 +11915,17 @@ IV. Romper el pavimento o hacer cortes en las banquetas y guarniciones de la ví
 
 V. Alojar instalaciones subterráneas en la vía pública.
 
-###### ARTÍCULO 1077°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1077], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1135°.
 
 Podrá otorgarse permiso o autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas, y los horarios en que deban efectuarse.
 
 Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando el Ayuntamiento las realice.
 
-###### ARTÍCULO 1078°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1078], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1136°.
 
 No se autorizará el uso de las vías públicas en los siguientes casos:
 
@@ -10853,63 +11941,95 @@ V. Para construir comercios semifijos en vías públicas; y
 
 VI. Para aquellos otros fines que el Ayuntamiento consideré contrarios al interés público.
 
-###### ARTÍCULO 1079°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1079], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1137°.
 
 Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Planeación y Obras Públicas en coordinación con el Departamento de Reglamentos señalen. Si este plazo fuese sobre excedido, la Dirección de Planeación y Obras Públicas realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables, de conformidad con el presente Código.
 
-###### ARTÍCULO 1080°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1080], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1138°.
 
 Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Planeación y Obras Públicas podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras lo requiera.
 
 Para los efectos de este Artículo, deberá respetarse la normatividad respectiva que dicten la normatividad (sic), normas técnicas, fichas técnicas y reglamentos referentes al tipo de instalación que correspondan, que determine aplicable la Dirección de Planeación y Obras Públicas.
 
-###### ARTÍCULO 1081°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1081], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1139°.
 
 La Dirección de Planeación y Obras Públicas fijará en cada caso, la profundidad mínima y máxima, así como el ancho de zanja a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones, conforme a las Normas y Fichas Técnicas que adopte el Gobierno Municipal para cada caso.
 
-###### ARTÍCULO 1082°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1082], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1140°.
 
 Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Planeación y Obras Públicas determinará la forma en que se lleven a cabo los trabajos.
 
-###### ARTÍCULO 1083°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1083], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1141°.
 
 Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto, y deberán cumplir con las Normas Oficiales Mexicanas y las Normas Técnicas específicas con que cuente el Gobierno Municipal, o en su caso, la adopción de las de otras instancias técnicas emitidas (sic) las dependencias y entidades de orden Federal, el Gobierno del Estado o de los gobiernos municipales que cuenten con ellas, según sea el caso.
 
 Dichos postes se colocarán dentro del ancho de la banqueta o acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
-###### ARTÍCULO 1084°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1084], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1142°.
 
 En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Planeación y Obras Públicas, el trazo de la guarnición.
 
-###### ARTÍCULO 1085°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1085], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1143°.
 
 Las ménsulas, las alcayatas así como cualquier otro apoyo que se use, para ascenso a los postes o a las instalaciones, deberán colocarse a no menos de dos metros cincuenta centímetros de altura sobre el nivel de la banqueta o acera. Igual tratamiento se dará a cualquier obstáculo en vía pública.
 
-###### ARTÍCULO 1086°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1086], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1144°.
 
 Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Dirección de Planeación y Obras Públicas.
 
-###### ARTÍCULO 1087°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1087], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1145°.
 
 Los propietarios de postes o instalaciones colocados en la vía pública, están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
-###### ARTÍCULO 1088°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1088], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1146°.
 
 La Dirección de Planeación y Obras Públicas podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las banquetas o aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Dirección lo ejecutará a costa de dichos propietarios.
 
-###### ARTÍCULO 1089°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1089], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1147°.
 
 No se permitirá colocar postes o instalaciones en banquetas o aceras, cuando con ellos se impida la entrada a un predio. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, pero los gastos serán por cuenta del propietario del predio.
 
-###### ARTÍCULO 1090°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1090], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1148°.
 
 La Dirección de Planeación y Obras Públicas determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
-###### ARTÍCULO 1091°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1091], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1149°.
 
 Las vías públicas y los demás bienes de uso común o destinados a un servicio público municipal, son bienes de dominio público del Municipio de Asientos y son regidos por las disposiciones contenidas en el presente ordenamiento, por el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, así como la Ley Municipal para el Estado de Aguascalientes.
 
-###### ARTÍCULO 1092°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1092], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1150°.
 
 La asignación, instalación rectificación y cambio de nomenclatura y de números oficiales de cualquier vialidad, parque, plaza monumento histórico o lugar que lo requiera que se realice en el Municipio de Asientos se hará sujetándose a las disposiciones del presente Capítulo, que tiene por objeto:
 
@@ -10917,11 +12037,15 @@ I. Definir las reglas a que deberán sujetarse las iniciativas y acciones relaci
 
 II. Establecer los procedimientos para la asignación, instalación, rectificación y cambio de nomenclatura y números oficiales.
 
-###### ARTÍCULO 1093°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1093], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1151°.
 
 Sólo se otorgará nomenclatura o números oficiales a vialidades, parques, jardines, plazas, sitios y monumentos históricos, ubicados en asentamientos humanos regularizados.
 
-###### ARTÍCULO 1094°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1094], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1152°.
 
 Para efectos de este Capítulo, se entenderá por:
 
@@ -10933,23 +12057,31 @@ III. Directorio de Vialidades: Es el inventario de la nomenclatura asignada a la
 
 IV. Padrón de Números Oficiales: Es el registro de números oficiales, asignados a las construcciones del Municipio.
 
-###### ARTÍCULO 1095°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1095], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1153°.
 
 La nomenclatura urbana se concibe como una expresión de la cultura donde se rescata lo importante de la historia, costumbres, personajes y todo acontecimiento que se puede preservar como acervo de la sociedad.
 
-###### ARTÍCULO 1096°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1096], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1154°.
 
 La colocación de nomenclatura en vialidades deberá hacerse a través de materiales no corrosivos, poco intemperizables y de difícil destrucción, sin que se permita la pinta de muros, guarniciones o banquetas, las placas deberán permitir una fácil lectura a una distancia de veinte metros, debiendo contener el nombre de la calle, avenida o boulevard, el Código Postal y el nombre de la colonia o fraccionamiento de que se trate, deberán además apegarse a lo siguiente:
 
-I. En intersección de dos vialidades un mínimo de cuatro placas; y
+I. En intersección de dos vialidades un mínimo de cuatro placas; y,
 
 II. En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
-###### ARTÍCULO 1097°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1097], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1155°.
 
 Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección de Planeación y Obras Públicas, la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado o a la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, según sea el caso.
 
-###### ARTÍCULO 1098°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1098], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1156°.
 
 La Dirección de Planeación y Obras Públicas, tomará en cuenta la propuesta del promovente o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
 
@@ -10963,7 +12095,9 @@ IV. Cuando se trate de la prolongación de vialidades por la dimensión de su tr
 
 V. Cuando se trate de la prolongación de vialidades que por la dimensión de su traza o por la importancia de su uso sean jerarquizadas como colectoras o locales, hasta en tanto no conecten con una vialidad primaria o secundaria, deberá permanecer con su nomenclatura existente.
 
-###### ARTÍCULO 1099°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1099], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1157°.
 
 Cuando exista la propuesta o solicitud de cambio de nomenclatura se deberá respetar lo siguiente:
 
@@ -10971,7 +12105,9 @@ I. Si se trata de nomenclaturas en vialidades, parques, jardines y plazas y monu
 
 II. Si se trata de nomenclatura en parques, jardines, sitios o monumentos históricos y todos los lugares públicos factibles de darles denominación con arraigo e identidad cultural adquiridas a través de un tiempo mayor a diez años; la propuesta será acompañada de una relación que contenga por cada inmueble el nombre completo, domicilio y firma de aceptación como mínimo del sesenta por ciento de los residentes de la zona en un radio de tres cuadras. Cuando el tiempo de asignación de la nomenclatura sea menor a diez años el porcentaje de aceptación será como mínimo diez años, el porcentaje de aceptación será como mínimo del cincuenta por ciento más uno de los residentes de la zona en un radio (sic) tres cuadras.
 
-###### ARTÍCULO 1100°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1100], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1158°.
 
 Las solicitudes de asignación, rectificación o cambio de nomenclatura deberán reunir los siguientes requisitos:
 
@@ -10981,7 +12117,9 @@ II. Tratándose de hombre (sic) o personajes ilustres, deberán acompañarse con
 
 III. Los nombres propuestos no deberán contravenir a la moral y las buenas costumbres.
 
-###### ARTÍCULO 1101°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1101], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1159°.
 
 Toda solicitud de nomenclatura deberán apegarse al siguiente procedimiento:
 
@@ -10995,11 +12133,15 @@ IV. Sometida a la consideración del Cabildo se propondrá para su aprobación; 
 
 V. Una vez dictada la resolución definitiva se notificará a los interesados.
 
-###### ARTÍCULO 1102°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1102], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1160°.
 
 Todo cambio o asignación de nomenclatura y números oficiales deberá ser notificado a las Administraciones Fiscales de Hacienda y al Instituto Catastral; al Registro Público de la Propiedad y Comercio; a la Tesorería y Dirección de Agua Potable, Alcantarillado y Ecología del Municipio.
 
-###### ARTÍCULO 1103°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1103], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1161°.
 
 La instalación de números oficiales deberá apegarse a lo siguiente:
 
@@ -11023,11 +12165,11 @@ IX. Las placas de numeración deberán colocarse en una altura mínima de dos me
 
 X. Cuando existan manzanas con diferente longitud, deberá prevalecer la numeración progresiva que dicte la manzana de mayor longitud;
 
-XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Planeación y Obras Públicas; y
+XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Planeación y Obras Públicas; y XII. Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una solo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
 
-XII. Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una solo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1104], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1104°.
+###### ARTÍCULO 1162°.
 
 Los particulares, promoventes o fraccionadores deberán presentar solicitud por escrito para la asignación de números oficiales que contendrán:
 
@@ -11037,11 +12179,15 @@ II. Cuando se trate de propietarios de predios individuales, copia certificada d
 
 III. Cuando el promovente o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
-###### ARTÍCULO 1105°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1105], P.O. 22 DE ABRIL DE 2024)</small>
 
-la Dirección de Planeación y Obras Públicas autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado o la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado en el ámbito de su competencia y de la legislación urbana aplicable.
+###### ARTÍCULO 1163°.
 
-###### ARTÍCULO 1106°.
+la Dirección de Planeación y Obras Públicas autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado o de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado en el ámbito de su competencia y de la legislación urbana aplicable.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1106], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1164°.
 
 Son causas de rectificación de número oficial:
 
@@ -11051,7 +12197,9 @@ II. Cuando la numeración en la vía pública, no sea consecutiva o se encuentre
 
 III. Cuando una misma vialidad hubiera tenido varias nomenclaturas y se motive la generalización a una sola.
 
-###### ARTÍCULO 1107°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1107], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1165°.
 
 Todas las solicitudes deberán de contener los siguientes requisitos:
 
@@ -11063,21 +12211,37 @@ III. Constancia de alineamiento y compatibilidad urbanística; y
 
 IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
-###### ARTÍCULO 1108°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1108], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1166°.
 
 Son causas de Ratificación de número oficial:
 
 Cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Planeación y Obras Públicas, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-###### ARTÍCULO 1109°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1109], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1167°.
 
 Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Planeación y Obras Públicas procederá a expedir un documento en el en el que (sic) se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
-###### ARTÍCULO 1110°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De la Licencia de Construcción
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1110], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1168°.
 
 Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Planeación y Obras Públicas con anterioridad al inicio de la obra. Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
-###### ARTÍCULO 1111°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1111], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1169°.
 
 Son facultades de la Dirección de Planeación y Obras Públicas en materia de construcciones:
 
@@ -11109,15 +12273,75 @@ XIII. Expedir normas técnicas complementarias para el debido cumplimiento del p
 
 XIV. Asignar Peritajes por Servicio Social a los Peritos Responsables de Obra y Especializados, en los casos que prevé este Libro.
 
-###### ARTÍCULO 1112°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1112], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1170°.
 
 Se entiende por licencia de construcción el documento expedido por las autoridades competentes de la Dirección de Planeación y Obras Públicas por el cual se autoriza a los propietarios para construir o demoler una edificación o instalación en sus predios.
 
-###### ARTÍCULO 1113°.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1171°.
+
+Las construcciones deberán ajustarse a las normas generales siguientes:
+
+I.- Toda edificación requerirá de la licencia o permiso municipal de construcción, salvo los casos de excepción que señalen las disposiciones jurídicas aplicables;
+
+II.- Se sujetarán a las superficies edificables, áreas libres y número de pisos, altura y asoleamiento permitidos en la zona, de conformidad con las densidades de población, ocupación y construcción previstas en los programas de desarrollo urbano y en las demás disposiciones jurídicas aplicables;
+
+III.- Se ajustarán a las restricciones correspondientes, debiendo su propietario o poseedor legal, el constructor y el perito responsable y los especializados en su caso, respetar el alineamiento, la traza urbana y demás características o limitaciones previstas en la Constancia Municipal de Compatibilidad Urbanística, la cual deberá acompañarse a toda solicitud de licencia de construcción y en su caso de la opinión favorable de la SEPLAPDE, conforme a lo previsto en este Código;
+
+IV.- Dispondrán de lugares de estacionamiento de vehículos en la cantidad que señale el Código Municipal, Reglamento de Construcciones o disposición municipal correspondiente;
+
+V.- Se ejecutarán con materiales, instalaciones y equipos que permitan prevenir y combatir los riesgos de incendio;
+
+VI.- Las que tengan más de cuatro niveles, respetar el asoleamiento y ventilación de las fincas vecinas, así como las disposiciones del programa de desarrollo urbano aplicable, si estas existen;
+
+VII.- Las que se ubiquen en zonas del patrimonio arqueológico, histórico, artístico y cultural, cumplirán las normas de altura, materiales, acabados, colores, aberturas y todas las demás que señalen las autoridades competentes, o se deriven del programa parcial de conservación y mejoramiento del centro histórico respectivo y de los demás programas de desarrollo urbano y ordenamiento territorial;
+
+VIII.- Las que se ubiquen en zonas del patrimonio natural o de preservación ecológica, siempre y cuando se permita construir; debiendo cumplir las restricciones que para el particular se especifique en el decreto declaratorio de la misma o en el programa integral de manejo ambiental;
+
+IX.- Las construcciones o establecimientos que se permitan colindantes al derecho de vía de carreteras federales o estatales, o de ferrocarriles, requerirán de un acceso adecuado, con base en las especificaciones técnicas que determine la autoridad competente, de conformidad con las disposiciones jurídicas aplicables;
+
+X.- Las construcciones deberán contemplar características o elementos de accesibilidad universal;
+
+XI.- Las construcciones deberán contemplar la combinación flexible de eco- tecnologías, cuya eficiencia de consumo esté certificado (sic) por los organismos autorizados por las autoridades regulatorias competentes y materiales para coadyuvar a la sustentabilidad del Estado;
+
+XII.- Se deberá de analizar la integración al contexto urbano y el impacto visual tanto urbano como paisajístico o natural que las construcciones puedan generar en su entorno;
+
+XIII.- En edificaciones habitacionales, se deberá instalar una cisterna y/o macro cisterna que contenga la reserva de agua, por lo menos de 3 días.
+
+En el caso de los multifamiliares, el sistema de cisternas deberá ser proporcional con la cantidad de viviendas por cada multifamiliar; para ello, el Municipio emitirá, a través de su Organismo Operador del Servicio de Agua Potable y Alcantarillado, un dictamen de factibilidad, en el que se analizarán las condiciones del proyecto correspondiente que garanticen el abastecimiento de agua potable para todas las familias o personas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1172°.
+
+La persona física o moral, pública y privada, que pretenda realizar obras de edificación, reconstrucción, demolición y adaptación de inmuebles, qué por sus dimensiones, características y superficie, antes de que el Municipio expida la licencia de construcción correspondiente, que requieren de la opinión favorable de la SEPLAPDE, son las que a continuación se indican:
+
+I.- Construcciones a realizar en predios mayores a 5,000 metros cuadrados de superficie;
+
+II.- Las construcciones, demoliciones y adaptaciones de obras con más de 3,000 metros cuadrados cubiertos edificados o por edificar o de más de 21 metros de altura totales a partir del sótano;
+
+III.- Las edificaciones destinadas como centrales de abasto, centros comerciales, tiendas de autoservicio, mercados, rastros, hospitales, clínicas, auditorios, estadios, plazas de toros, museos, centros de convenciones, exposiciones y de espectáculos, terminales de transporte de carga y pasajeros, estaciones de ferrocarril, ferro puertos, aeropuertos o aeropistas, plantas, estaciones y subestaciones eléctricas, teatros, salas de cine, clubes deportivos, casinos, centros de apuestas, casas de juego, cementerios, panteones y funerarias, estaciones de bomberos, reclusorios, centros de readaptación, de detención o de arraigo preventivo, cualquiera que sea su superficie de terreno o área cubierta;
+
+IV.- Las estaciones de servicio de hidrocarburos o gasolineras, estaciones de carburación y de distribución de gas LP o natural, centros o plantas de almacenamiento de hidrocarburos o gas LP o natural, confinamientos o plantas de tratamiento y reciclado de residuos sólidos, bancos de extracción de materiales, basureros o cualquier otra instalación, establecimiento o edificación que represente riesgos o almacene materiales y desechos tóxicos o peligrosos, cualquiera que sea su superficie de terreno o área cubierta; y
+
+V.- Instalación de paneles solares en predios mayores a 10,000 metros cuadrados.
+
+Para los efectos del presente artículo, la Secretaría Municipal turnará la solicitud a la SEPLAPDE, con el expediente debidamente integrado, quien contará con un plazo de 10 días hábiles, a partir de su recepción, para emitir su correspondiente opinión. Si dentro de ese plazo la SEPLAPDE no solicitó una prórroga o no emitió opinión, la Secretaría Municipal entenderá que no existe impedimento para que resuelva la solicitud correspondiente, según resulte procedente.
+
+El Catastro no procederá a dar trámite a la manifestación de esa edificación, sino se cuenta con la correspondiente opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1113], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1173°.
 
 Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo por parte de (sic) Dirección de Planeación y Obras Públicas, en un lapso razonable, el cual por ningún motivo podrá exceder de diez días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos que se establecen en este mismo Libro y que se encuentran en el CAPÍTULO respectivo y fueron establecidos de conformidad a los demás ordenamientos legales vigentes aplicables.
 
-###### ARTÍCULO 1114°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1114], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1174°.
 
 No se requerirá licencia de construcción para efectuar las siguientes obras:
 
@@ -11149,7 +12373,9 @@ XIII. Obras similares a las anteriores cuando no se afecten elementos estructura
 
 Estas excepciones no operarán cuando se trate de obras o trabajos que se ubiquen dentro del perímetro o zona de fincas o inmuebles catalogados de valor histórico, arquitectónico, arqueológico o contextual o que formen parte del patrimonio cultural del municipio, del estado o de la federación.
 
-###### ARTÍCULO 1115°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1115], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1175°.
 
 Requieren licencia de construcción específica para las siguientes obras e instalaciones:
 
@@ -11163,17 +12389,21 @@ IV. Las ferias con aparatos mecánicos, circos, carpas, graderías desmontables 
 
 V. La instalación, modificación o reparación de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico. Quedan excluidos de este requisito las reparaciones que no alteren las especificaciones de la instalación, manejo, sistemas eléctricos o de seguridad; con la solicitud de licencia se acompañarán la responsiva profesional de un Ingeniero mecánico electricista radicado en el Estado con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como dos juegos completos de planos y especificaciones proporcionados por la empresa que fabrique el aparato, y el de una memoria donde se detallen los cálculos que hayan sido necesarios; y
 
-VI. Las modificaciones al proyecto original de cualquier obra. Se deberá acompañar a la solicitud el proyecto respectivo por cuadruplicado. No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso.
+VI. Las modificaciones al proyecto original de cualquier obra. Se deberá acompañar a la solicitud el proyecto respectivo por cuadruplicado.
+
+No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso.
 
 Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un Perito Responsable.
 
-###### ARTÍCULO 1116°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1116], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1176°.
 
 El tiempo de vigencia de las licencias de construcción que expida la Dirección de Planeación y Obras Públicas estará en relación con la naturaleza y magnitud de la obra por ejecutar.
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1117], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1117°.
+###### ARTÍCULO 1177°.
 
 La propia Dirección de Planeación y Obras Públicas, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
 
@@ -11183,27 +12413,39 @@ II. Si terminado el plazo autorizado para la construcción de una obra, ésta no
 
 III. Se tendrá opción a solicitar a la propia Dirección, dentro del plazo de vigencia de la Licencia, a una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
-###### ARTÍCULO 1118°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1118], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1178°.
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Planeación y Obras Públicas y el dictamen del Instituto Nacional de Antropología e Historia.
 
-###### ARTÍCULO 1119°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1119], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1179°.
 
 Los requisitos establecidos en el presente capítulo son exigibles para todas las licencias, con independencia de los demás requisitos que se establezcan en cada capítulo en especial.
 
-###### ARTÍCULO 1120°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1120], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1180°.
 
 Los propietarios de fincas ubicadas dentro de la zona de monumentos históricos en el centro histórico de la ciudad o si la misma (sic) está catalogado (sic) como monumento histórico, arqueológico y/o arquitectónico fuera de esta zona o colinda con alguno de éstos, se deberán presentar la autorización del Instituto Nacional de Antropología e Historia.
 
-###### ARTÍCULO 1121°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1121], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1181°.
 
 Los propietarios de fincas que se hubieren subdividido o si es resultado de la fusión de dos o más predios, o si se prevé construir ocupando dos o más lotes contiguos, deberá presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla de la Dirección de Planeación y Obras Públicas.
 
-###### ARTÍCULO 1122°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1122], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1182°.
 
 Los propietarios de fincas que se encuentra (sic) en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberán presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
-###### ARTÍCULO 1123°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1123], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1183°.
 
 Para otorgar licencia de construcción para construcciones, reparaciones, o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar se requiere que el particular presente a la Dirección de Planeación y Obras Públicas.
 
@@ -11211,7 +12453,7 @@ I. Planos arquitectónicos y/o croquis con medidas del estado actual de la finca
 
 II. Presentar recibo de pago o contrato de los servicios de agua potable y alcantarillado del predio; y
 
-III. Solicitud de licencia de construcción y bitácora de obra debidamente llenas (sic) y firmadas (sic) por el propietario, un Perito Responsable de Obra y un Perito Especializado, registrados y vigentes ante la Dirección de Planeación y Obras Públicas o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes, así como el original del carnet de los peritos, en los casos que se requieran según lo prevé el presente libro de acuerdo a las siguientes especificaciones:
+III. Solicitud de licencia de construcción y bitácora de obra debidamente llenas (sic) y firmadas (sic) por el propietario, un Perito Responsable de Obra y un Perito Especializado, registrados y vigentes ante la Dirección de Planeación y Obras Públicas, o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes, así como el original del carnet de los peritos, en los casos que se requieran según lo prevé el presente libro de acuerdo a las siguientes especificaciones:
 
 a) Obras que requieren de Perito Responsable de Obra conforme al presente Libro de Construcciones:
 
@@ -11229,11 +12471,13 @@ Cuando se trate de una primera ampliación en primer nivel exclusivamente, en un
 
 Dictamen de Estabilidad Estructural de fincas dañadas o afectadas por grietas en el subsuelo, elaborado por un Perito Especializado en Estructuras y/o Mecánica de Suelos.
 
-c) Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar además, la constancia de compatibilidad urbanística autorizada para uso habitacional; y
+c) Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar, además, la constancia de compatibilidad urbanística autorizada para uso habitacional; y
 
 d) Si la construcción o ampliación contiene algún espacio destinado para uso no habitacional, por ejemplo: para local comercial, industrial, oficinas o servicios, etc. o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de compatibilidad urbanística autorizada para tal uso incluyendo el habitacional.
 
-###### ARTÍCULO 1124°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1124], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1184°.
 
 Para el otorgamiento de licencias para construcciones, reparaciones, o ampliaciones mayores de sesenta metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Planeación y Obras Públicas:
 
@@ -11271,21 +12515,25 @@ e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, 
 
 VIII. No se admitirán correcciones enmendaduras, ni añadiduras de ningún tipo en los planos y memoria de cálculo. El proyecto deberá cumplir con lo estipulado en el TÍTULO de proyecto arquitectónico del presente Libro de Construcciones.
 
-###### ARTÍCULO 1125°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1125], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1185°.
 
 Además, en los casos de construcción de casas en serie, se deberá presentar:
 
 I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por el organismo municipal regulador del agua potables (sic) y alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Planeación y Obras Públicas el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
-II. En sustitución del requisito del punto número II del artículo anterior; un convenio suscrito con la Dirección de Agua Potable, Alcantarillado y Ecología como organo municipal regulador del agua potable y alcantarillado, en el cual se manifieste que el constructor y/o propietario se compromete a no entregar ninguna vivienda sino hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
+II. En sustitución del requisito del punto número II del artículo anterior; un convenio suscrito con la Dirección de Agua Potable, Alcantarillado y Ecología como organismo municipal regulador del agua potable y alcantarillado, en el cual se manifieste que el constructor y/o propietario se compromete a no entregar ninguna vivienda sino hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
 
 III. Copia de un contrato temporal por consumo de agua para la construcción de las viviendas; y
 
 IV. Un juego de copias de planos firmado por el Perito Responsable de Obra por cada vivienda a edificar.
 
-###### ARTÍCULO 1126°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1126], P.O. 22 DE ABRIL DE 2024)</small>
 
-Se deberá presentar en todos los casos copia de la constancia de alineamiento y compatibilidad urbanística en sustitución de los documentos indicados en las fracciones III y IV del artículo 1124 de este Código, en los siguientes casos:
+###### ARTÍCULO 1186°.
+
+Se deberá presentar en todos los casos copia de la constancia de alineamiento y compatibilidad urbanística:
 
 I. Cuando la obra o ampliación, cuente con un espacio destinado a usos diferentes del habitacional;
 
@@ -11293,13 +12541,15 @@ II. Cuando el predio se ubique en una zona no regularizada como fraccionamiento 
 
 III. Cuando se trate de usos habitacional multifamiliar, dúplex, etc.
 
-###### ARTÍCULO 1127°.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1127], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1187°.
 
 Para el otorgamiento de licencias de construcción para edificios de oficinas, comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar a la Dirección de Planeación y Obras Públicas:
 
 I. Solicitud de licencia de construcción y bitácora debidamente llenas y firmadas por el perito responsable de obra y los Peritos Especializados de requerirse estos últimos conforme al presente Libro;
 
-II. Copia de la boleta del numero oficial obtenida en la propia Dirección de Planeación y Obras Públicas;
+II. Copia de la boleta del número oficial obtenida en la propia Dirección de Planeación y Obras Públicas;
 
 III. Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
@@ -11317,7 +12567,7 @@ d) Dimensionamiento y cálculo de: Cimentación, Columnas y/o muros, Entrepisos 
 
 e) Todo lo anterior, debe respetar lo estipulado en los requisitos estructurales del presente Libro;
 
-VI. Corresponsiva de peritos especializados en los casos que prevé como requisito el Libro de Construcciones. En cada caso los Peritos signarán la solicitud de licencia, bitácora de obra y demás documentos acorde a la especialidad; y
+VI. Corresponsiva de peritos especializados en los casos que prevé como requisito el Libro de Construcciones de este Código. En cada caso los Peritos signarán la solicitud de licencia, bitácora de obra y demás documentos acorde a la especialidad; y
 
 VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados vigentes ante la Dirección de Planeación y Obras Públicas, o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes, conteniendo lo siguiente:
 
@@ -11341,9 +12591,2255 @@ i) Se requerirá la autorización del proyecto por parte de la Secretaría de Pl
 
 j) Autorización del Instituto de Servicios de Salud del Estado de Aguascalientes, o su equivalente, para la construcción, remodelación, ampliación o modificación de clínicas, hospitales, centros de salud, laboratorios, rayos X y similares.
 
-###### ARTÍCULO 1128°.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-Para otorgar licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Planeación y Obras Públicas:
+###### ARTÍCULO 1188°.
+
+El Municipio podrá expedir permisos para urbanizaciones cerradas que impliquen el control de acceso y salida de vías públicas en fraccionamientos, barrios o colonias a favor de organizaciones vecinales, conforme a lo dispuesto en este Código y el reglamento respectivo, previa opinión del Consejo Municipal correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1189°.
+
+Será requisito entre otros para que en su caso se otorgue permiso para urbanización cerrada, que la organización vecinal solicitante se encuentre formal y jurídicamente constituida e inscrita en el Registro Público como asociación civil. También se requerirá la aprobación de la mayoría de los colonos, la cual se obtendrá mediante un proceso de consulta, realizado con las formalidades jurídicas apropiadas, bajo la supervisión del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1190°
+
+Cuando exista incumplimiento por parte de los colonos a las disposiciones contenidas en este Código, el Código Municipal, al Reglamento respectivo y otras disposiciones jurídicas aplicables o al permiso para la urbanización cerrada, este se podrá revocar por parte del Municipio respectivo. Derivado de lo anterior, los colonos estarán obligados a retirar a su costa y cargo las casetas de control y demás mobiliario, dejando la vía pública en el estado que originalmente se encontraban, salvo las mejoras que se hubieran realizado en equipamiento urbano e infraestructura. Si los colonos no retiran las casetas de control o el mobiliario dentro del plazo concedido por el Municipio respectivo, este lo podrá hacer, y los colonos deberán de asumir el costo al Municipio correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1191°.
+
+En los fraccionamientos, condominios o desarrollos inmobiliarios especiales, el Municipio no expedirá licencias o permisos de construcción, sin antes comprobar que estos fueron autorizados por el Consejo Estatal, la SEPLAPDE o el mismo y cuenten con la autorización del inicio de obras de urbanización.
+
+El Municipio no expedirá la autorización de habitabilidad y ocupación de las viviendas, locales; departamentos o de cualquier edificación, hasta que en el fraccionamiento, condominio o desarrollo inmobiliario especial los lotes o predios donde se desplanten, cuenten con el 100% de los servicios y la urbanización.
+
+Los fraccionadores y promotores de condominios y desarrollos inmobiliarios especiales serán corresponsables para que se cumpla esta disposición.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+FRACCIONAMIENTOS, CONDOMINIOS Y DESARROLLOS INMOBILIARIOS ESPECIALES Y DE LAS RELOTIFICACIONES, FUSIONES Y SUBDIVISIONES DE TERRENOS.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1192°.
+
+Los tipos de fraccionamientos que establece este Código atenderán a la densidad de población y de construcción; a los coeficientes de utilización y ocupación del suelo; a la superficie del lote mínimo y de sus frentes; a su ubicación; a la compatibilidad urbanística; a las especificaciones de construcción; a la infraestructura, equipamiento y servicios que requieran y al uso o destino del suelo previsto en la legislación y programas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1193°.
+
+Los fraccionamientos, se clasifican en los siguientes tipos:
+
+I.- Habitacionales Urbanos;
+
+II.- ESPECIALES:
+
+a).- Campestres;
+
+b).- Granjas de explotación agropecuaria;
+
+c).- Industriales;
+
+d).- Micro productivos;
+
+e).- Comerciales;
+
+f).- Cementerios;
+
+g).- Servicios; y
+
+h).- Mixtos.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+FRACCIONAMIENTOS HABITACIONALES URBANOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1194°.
+
+Los fraccionamientos habitacionales urbanos, deberán tener como mínimo, las siguientes características:
+
+I. Metros lineales mínimos de frente de lote: 5m;
+
+II. Superficie mínima del lote: 75 metros cuadrados;
+
+III. Superficie mínima de construcción: 42 metros cuadrados;
+
+IV. Porcentaje de áreas de donación: 12% superficie neta; debidamente urbanizada.
+
+V. Usos y destinos del suelo según la densidad determinada por los programas de Desarrollo urbano:
+
+a) Vivienda unifamiliar; y
+
+b) Vivienda multifamiliar.
+
+VI. Porcentaje máximo permitido de comercios y servicios: 20% de la superficie vendible, en las zonas previstas en los programas de desarrollo aplicables y que se determinen en el proyecto de fraccionamiento que autorice el Consejo Estatal.
+
+VII. Sección de vialidades:
+
+a) Colectoras: de 22 metros hasta 27 metros de derecho de vía; dicha sección incluye la sección para una ciclovía, de acuerdo a las especificaciones que establezca el Municipio; las banquetas serán de 3 metros de ancho. En caso de contar con camellón esta superficie será adicional a la antes determinada. El Consejo Estatal determinará, cuando por la dimensión del fraccionamiento, no se justifique la construcción, o las dimensiones de las calles colectoras.
+
+b) Subcolectoras: de 15 metros hasta 21 metros de derecho de vía, con 3 metros de ancho de banqueta. El Consejo Estatal determinará, cuando por la dimensión del fraccionamiento, no se justifique la construcción, o las dimensiones de las calles subcolectoras; y
+
+c) Locales: de 12 metros hasta 8 metros de derecho de vía y 2 metros de ancho de banqueta para cada lado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1195°.
+
+Los fraccionamientos habitacionales urbanos, adicionalmente deberán cumplir, en materia de infraestructura y equipamiento urbano, con lo siguiente:
+
+I.- Fuente de abastecimiento de agua potable, en cada unidad habitacional red de distribución, en su caso por separado, de agua potable y de agua tratada, y tomas domiciliarias;
+
+II.- Sistema de alcantarillado separado, pluvial y de aguas residuales, con salidas domiciliarias de albañal o con las especificaciones que determine el Municipio respectivo;
+
+III.- Construir o conectarse a plantas de tratamiento modulares y por zona, de aguas residuales para varios fraccionamientos, condominios y desarrollos inmobiliarios especiales, conforme a los lineamientos que fije el Municipio o el INAGUA en caso de no hacerlo el primero; Las condiciones particulares de la infraestructura y equipamiento señaladas en las fracciones anteriores, las determinará el Municipio al expedir la factibilidad o dictamen correspondiente, por conducto de su Organismo Operador de la materia;
+
+IV.- Red de distribución de energía eléctrica para uso doméstico, con cableado subterráneo;
+
+V.- Alumbrado público de acuerdo a las normas técnicas de la Comisión Federal de Electricidad y al dictamen del Municipio, con sistemas de ahorro de energía y de preferencia, que utilicen energía alternativa o con ecotecnologías;
+
+VI.- Ductos subterráneos para redes telefónicas y de datos;
+
+VII.- Guarniciones y banquetas de concreto hidráulico, con accesos para personas con discapacidad;
+
+VIII.- Pavimento de calles de concreto hidráulico, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas en este Código y por el Municipio.
+
+El pavimento indicado en el párrafo anterior, se podrá sustituir por un concreto que permita la permeabilidad del agua al subsuelo, siempre y cuando exista dictamen de la Secretaría de Obras Públicas del Municipio respectivo, que avale su diseño, proceso constructivo, calidad, durabilidad y eficiencia;
+
+IX.- Arbolado y jardinería en las áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Municipio o en su caso de la SSMAA, quienes deberán preferir especies nativas, con bajos requerimientos de agua y de importancia para la captura de carbono.
+
+Las áreas destinadas para ello, deberán estar dotadas de sistemas de riego con aguas tratadas. En el caso de árboles estos deberán rebasar 1.5 m de altura para garantizar su supervivencia. Dicha obligación formará parte del dictamen de autorización;
+
+X.- Placas de nomenclatura y señalamientos viales en las calles, con las especificaciones que determine el Municipio;
+
+XI.- Equipamiento de limpia que cuente con contenedores de basura, los cuales deberán estar equipados para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos, con las especificaciones que determine el Municipio;
+
+XII.- En su caso, equipamiento para la seguridad pública, con las especificaciones que determine el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1196°.
+
+El IVSOP en coordinación con la SEPLAPDE, el Municipio, podrán promover la realización de fraccionamientos habitacionales urbanos de interés social.
+
+Estos fraccionamientos deberán tener las mismas características y especificaciones técnicas que se establecen en este Código para los fraccionamientos de densidad alta, con excepción de que las obras de urbanización e introducción de servicios, mismas que se podrán ejecutar de manera progresiva y por cooperación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1197°.
+
+En los fraccionamientos a los que se hace referencia en el artículo anterior, la supervisión de las obras de urbanización y del proyecto la deberán realizar directamente el Municipio.
+
+Los fraccionamientos habitacionales de interés social desarrollados por las instituciones de vivienda del Estado, gozarán de las franquicias y prerrogativas acerca de la exención de pago de los trámites, así como toda clase de contribuciones, impuestos y derechos estatales, asimismo podrán gozar de los descuentos que prevean las leyes de ingresos de cada Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1198°.
+
+Únicamente se podrá autorizar la urbanización progresiva en los fraccionamientos habitacionales urbanos de interés social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1199°.
+
+En los centros de población rural se podrán autorizar fraccionamientos habitacionales con las características de urbanización, requisitos y lineamientos que establezca la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1200°.
+
+Se podrán autorizar fraccionamientos de carácter mixto.
+
+Estos fraccionamientos son aquellos en los que el fraccionador dedicará a diferentes aprovechamientos habitacionales o especiales, del predio o área respectiva.
+
+Dicha autorización se otorgará siempre y cuando sean compatibles los tipos de fraccionamientos que se pretendan realizar de acuerdo con los usos y destinos permitidos para el suelo y se cumplan con las disposiciones contenidas en este Código y en los programas de desarrollo urbano aplicables.
+
+Para efectos de determinar las obligaciones en este tipo de fraccionamientos, se aplicará lo estipulado al que corresponda a alta densidad.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+FRACCIONAMIENTOS ESPECIALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1201°.
+
+Los fraccionamientos especiales deberán ajustar su ubicación y diseño, a lo dispuesto en las normas sanitarias, ambientales, de desarrollo urbano, ordenamiento territorial y demás disposiciones que regulen la concesión y operación de actividades agropecuarias, comerciales, de servicios, industriales o el establecimiento de cementerios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1202°.
+
+Los fraccionamientos especiales de tipo campestre y granjas de explotación agropecuaria, deberán tener como mínimo, las siguientes características:
+
+I.- TIPO CAMPESTRE:
+
+a).- LOTIFICACIÓN: sus lotes no podrán tener un frente menor de 25 metros, ni una superficie menor de 1,000 metros cuadrados. El COS y el CUS, se determinará conforme a lo establecido en el Programa de Desarrollo Urbano aplicable, en caso de no existir disposición al respecto, se permitirá la construcción, como máximo COS, en el 50% de la superficie del lote y el resto se aprovechará en espacios abiertos y un CUS de 1;
+
+b).- USOS Y DESTINOS DEL SUELO: el aprovechamiento predominante será de vivienda unifamiliar para recreación y huertos familiares. Se permitirá solamente el 5% del área vendible para áreas comerciales y de servicios en las zonas autorizadas;
+
+c).- DONACIONES: el fraccionador deberá donar al Municipio el 10% de la superficie neta del fraccionamiento, debidamente urbanizada; y
+
+d).- VIALIDAD: las calles colectoras deberán tener una anchura de 21 metros, medida de paramento a paramento; las banquetas serán mínimo de 2.5 metros de ancho.
+
+Las calles locales deberán tener una anchura de 12 metros, medida de paramento a paramento; las banquetas serán de 2 metros de ancho.
+
+Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine el Consejo Estatal.
+
+II.- GRANJAS DE EXPLOTACIÓN AGROPECUARIA:
+
+a).- LOTIFICACIÓN: sus lotes no podrán tener un frente menor de 30 metros, ni una superficie menor de 3,000 metros cuadrados. El COS y el CUS, se determinará conforme a lo establecido en el Programa de Desarrollo Urbano aplicable, en caso de no existir disposición al respecto, se permitirá la construcción, como máximo COS, en el 10% de la superficie del lote y el resto se aprovechará en espacios abiertos y un CUS de 1;
+
+Se podrá utilizar hasta un 50% adicional de COS para instalaciones y construcciones propias de esas actividades o la superficie construida que determine el Municipio, de acuerdo al proyecto agropecuario y a las características del fraccionamiento;
+
+b).- USOS Y DESTINOS DEL SUELO: el aprovechamiento predominante será para actividades agropecuarias y se permitirá hasta el 5% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas;
+
+c).- DONACIONES: el fraccionador deberá donar al Municipio el 10% de la superficie neta del fraccionamiento, debidamente urbanizada; y
+
+d).- VIALIDAD: las calles colectoras deberán tener una anchura de 21 metros, medida de paramento a paramento; las banquetas serán mínimo de 2.5 metros de ancho.
+
+Las calles locales deberán tener una anchura de 12 metros, medida de paramento a paramento; las banquetas serán de 2 metros de ancho. Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine el Consejo Estatal; y
+
+III.- Los fraccionamientos objeto de este ARTÍCULO deberán tener como mínimo la siguiente infraestructura y equipamiento urbano:
+
+a).- Fuente de abastecimiento de agua potable, red de distribución y tomas domiciliarias; Para el servicio de agua potable, podrá el fraccionador, contemplar únicamente la instalación de una cisterna por lote;
+
+b).- Sistema de alcantarillado, con salidas domiciliarias de albañal, con las especificaciones que determine el Municipio. Por las características y ubicación de este tipo de fraccionamientos se podrán utilizar fosas sépticas, de acuerdo a lo que autorice el Municipio;
+
+c).- Construir o conectarse a plantas de tratamiento modulares de aguas residuales para varios fraccionamientos, condominios y desarrollos inmobiliarios especiales, conforme a los lineamientos que fije el Municipio o el INAGUA, salvo que se hubiera autorizado el uso de fosas sépticas;
+
+d).- Red de distribución de energía eléctrica para uso doméstico y actividades agropecuarias, o la instalación por cada propietario de un sistema solar generador de energía;
+
+e).- Alumbrado público de acuerdo a las normas técnicas de la Comisión Federal de Electricidad y al dictamen del Municipio, con sistemas de ahorro de energía y de preferencia, que utilicen energía alternativa o con ecotecnologias;
+
+f).- Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con acceso para personas con discapacidad;
+
+g).- Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Municipio;
+
+h).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Municipio y en su caso de la SMMAA;
+
+i).- Placas de nomenclatura en los cruces de las calles; y
+
+j).- Equipamiento de limpia en caso de considerarse necesario, así como de seguridad pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1203°.
+
+Los fraccionamientos industriales y micro productivos, deberán tener como mínimo, las siguientes características:
+
+I.- TIPO INDUSTRIAL:
+
+a).- LOTIFICACIÓN: sus lotes no podrán tener un frente menor de 20 metros, ni una superficie menor de 1,000 metros cuadrados;
+
+b).- USOS Y DESTINOS DEL SUELO: el aprovechamiento predominante será el industrial y en estos fraccionamientos no se autorizará la construcción de viviendas. Los coeficientes de ocupación y construcción dependerán de cada proyecto de planta industrial y deberán ajustarse a lo previsto por la legislación y programas de desarrollo urbano aplicables.
+
+Se permitirá solamente el 10% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas;
+
+c).- DONACIONES: El fraccionador deberá donar al Municipio el 10% de la superficie neta, debidamente urbanizada. Tratándose de fraccionamientos realizados por dependencias o entidades federales, estatales o municipales, no se requerirá el otorgamiento de donaciones a favor del Municipio; teniendo las instancias fraccionadoras la obligación de procurar la dotación de infraestructura y equipamiento urbano suficiente en la zona de influencia de los fraccionamientos; y d).- VIALIDAD: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por el Consejo Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones y las calles locales deberán tener una anchura mínima de 18 metros;
+
+II.- TIPO MICROPRODUCTIVO:
+
+a).- LOTIFICACIÓN: sus lotes no podrán tener un frente menor de 10 metros, ni una superficie mayor a 600 metros ni menor de 200 metros cuadrados;
+
+b).- USOS Y DESTINOS DEL SUELO: el aprovechamiento predominante será el micro industrial o de actividades productivas y en estos fraccionamientos no se autorizará la construcción de viviendas.
+
+Se permitirá solamente el 10% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas;
+
+c).- DONACIONES: el fraccionador deberá donar al Municipio el 10% de la superficie neta, debidamente urbanizada. Tratándose de fraccionamientos realizados por dependencias o entidades federales, estatales o municipales, no se requerirá el otorgar donaciones a favor del Municipio; teniendo las instancias fraccionadoras la obligación de procurar la dotación de infraestructura y equipamiento urbano suficiente en la zona de influencia de los fraccionamientos; y
+
+d).- VIALIDAD: en este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por el Consejo Estatal. Dicho estudio deberá contemplar áreas jardinadas en camellones, y las calles locales deberán tener una anchura mínima de 15 metros;
+
+III.- Los fraccionamientos objeto de este ARTÍCULO, deberán tener como mínimo la siguiente infraestructura y equipamiento urbano:
+
+a).- Fuente de abastecimiento de agua potable, red de distribución y tomas domiciliarias;
+
+b).- Sistema de alcantarillado separado, pluvial y de aguas residuales, con salidas domiciliarias de albañal y protección ecológica en las descargas con las especificaciones que determine el ayuntamiento respectivo;
+
+c).- Construir o conectarse a plantas de tratamiento modulares de aguas residuales para varios fraccionamientos, condominios y desarrollos inmobiliarios especiales, conforme a los lineamientos que fije el Municipio o el INAGUA;
+
+d).- Red de distribución de energía eléctrica para uso industrial, con cableado subterráneo;
+
+e).- Alumbrado público de acuerdo a las normas de la Comisión Federal de Electricidad y al dictamen del Municipio, con sistemas de ahorro de energía y de preferencia, que utilicen energía alternativa o ecotecnias;
+
+f).- Ductos subterráneos para redes telefónicas y de datos;
+
+g).- Guarniciones y banquetas de concreto hidráulico, con accesos para personas con discapacidad;
+
+h).- Pavimento de calles de concreto hidráulico, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por este Código y por el Municipio respectivo.
+
+El pavimento indicado en el párrafo anterior, se podrá sustituir por un concreto que permita la permeabilidad del agua al subsuelo, siempre y cuando exista dictamen de la Secretaría de Obras Públicas del Municipio respectivo que avale su diseño, proceso constructivo, calidad, durabilidad y eficiencia;
+
+i).- Hidrantes contra incendios con las especificaciones que determine el Municipio;
+
+j).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Municipio o en su caso de la SMMAA;
+
+k).- Placas de nomenclatura y señalamientos viales en las calles; y
+
+l).- Equipamiento de limpia y seguridad pública. Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos;
+
+IV.- Los fraccionamientos industriales y los micro productivos solamente podrán ubicarse en las zonas compatibles que determinen los programas aplicables; y
+
+V.- Los fraccionamientos micro productivos, si se construyen para fines pecuarios, no será obligatorio cumplir con los requisitos que se establecen en los incisos f), h) e i), de la Fracción III de este artículo, y sus lotes podrán ser de hasta 1,000 metros cuadrados de superficie.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1204°.
+
+Los fraccionamientos comerciales deberán ajustarse a las especificaciones que en cada caso fije el Consejo Estatal y el Municipio, de acuerdo a las siguientes características:
+
+I.- Dimensiones y características de los lotes;
+
+II.- Densidades de construcción y de ocupación;
+
+III.- Ubicación, longitud, nomenclatura y sección de las vías públicas;
+
+IV.- Zonificación de los giros o servicios comerciales;
+
+V.- Donaciones: El fraccionador deberá donar al Municipio el 10% de la superficie neta del fraccionamiento, debidamente urbanizada;
+
+VI.- Obras de urbanización e instalaciones de los servicios públicos tales como: red de agua potable, sistema de alcantarillado separado de aguas residuales y pluviales, servicios sanitarios y de recolección de basura, red de electrificación subterránea, alumbrado público, ductos para teléfono y de datos y las demás que resulten necesarias para el adecuado desarrollo de las funciones comerciales.
+
+Para la recolección de basura se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos;
+
+VII.- Espacios libres y su aprovechamiento;
+
+VIII.- Áreas para estacionamiento de vehículos, correspondientes a conjuntos de lotes o locales comerciales; incluyendo los de las personas con discapacidad;
+
+IX.- Hidrantes contra incendios con las especificaciones que determine el Municipio;
+
+X.- Arbolado y jardinería. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Municipio o en su caso de la SMMAA; y
+
+XI.- Equipamiento de seguridad pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1205°.
+
+Una vez autorizado el fraccionamiento comercial no se permitirá el cambio de uso o destino del suelo, de acuerdo a la zonificación correspondiente a los diversos giros comerciales, salvo que las circunstancias así lo justifiquen a consideración del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1206°.
+
+En los fraccionamientos comerciales, podrán construirse muros comunes o medianeros en los lotes o locales, siempre y cuando los adquirentes de los mismos se obliguen a no demoler o modificar dichos muros, salvo que construyan uno que separe las propiedades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1207°.
+
+Los fraccionamientos para cementerios deberán sujetarse a las disposiciones técnicas y jurídicas aplicables, además de las especificaciones que en cada caso fije el Consejo Estatal y el Municipio, de acuerdo a las siguientes características:
+
+I.- Dimensiones de los lotes o fosas;
+
+II.- Ubicación, longitud, nomenclatura y anchura de las vías públicas;
+
+III.- Zonificación del terreno;
+
+IV.- El fraccionador deberá donar al Municipio el 5% de la superficie neta del fraccionamiento, debidamente urbanizada, la cual podrá ser sustituida por espacios en el cementerio, a efecto de que el Municipio apoye a las personas de bajos recursos;
+
+V.- Obras de urbanización e instalación de los servicios públicos tales como: red de agua, servicios sanitarios, alumbrado público y demás que resulten necesarios para el adecuado desarrollo del cementerio;
+
+VI.- Espacios libres y su aprovechamiento;
+
+VII.- Áreas para estacionamiento de vehículos correspondientes a conjuntos de lotes o fosas, incluyendo los de las personas con discapacidad;
+
+VIII.- Arbolado y jardinería, y el tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Municipio o en su caso de la SMMAA; y
+
+IX.- Equipamiento de limpia y seguridad pública.
+
+En este tipo de fraccionamientos únicamente se permitirá la construcción de criptas, oficinas, caseta de vigilancia, iglesias, velatorios, crematorios y servicios conexos a las actividades funerarias.
+
+Como parte del equipamiento de limpia se deberán instalar contenedores para separar los residuos sólidos urbanos, con subdivisiones para papel y cartón, plástico, vidrio, metal y residuos orgánicos.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+DESARROLLOS INMOBILIARIOS ESPECIALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1208°.
+
+Los desarrollos inmobiliarios especiales se clasifican en los siguientes tipos:
+
+I.- Comerciales y de servicios;
+
+II.- Industriales;
+
+III.- Habitacionales; y
+
+IV.- Mixtos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1209°.
+
+La autorización de los desarrollos inmobiliarios especiales de una superficie total del terreno de 20,000 metros cuadrados compete a el Municipio, previa opinión favorable de la SEPLAPDE, quien para efecto de expedirla tomará en cuenta los lineamientos, requisitos, zonificación y procedimientos que establece este Código, los códigos municipales, los programas de desarrollo urbano aplicables y demás disposiciones jurídicas aplicables.
+
+Los desarrollos inmobiliarios especiales, de una superficie total del terreno mayor a los 20,000 metros cuadrados, será competencia de la SEPLAPDE, quien a su vez deberá contar previamente con la opinión favorable del Municipio, tomando en cuenta lo referido en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1210°.
+
+El Municipio expedirá la licencia de construcción para la edificación del desarrollo inmobiliario especial o para su funcionamiento, hasta que se hubiera expedido por la autorización del mismo, previo cumplimiento de los requisitos correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1211°.
+
+La administración de los desarrollos inmobiliarios especiales estará a cargo de los propietarios de los mismos o de quienes estos designen, teniendo las siguientes obligaciones:
+
+I.- Cuidar de la conservación de las áreas exteriores y de uso general de las edificaciones;
+
+II.- Prestar los servicios básicos a que se refiere este Código o que se deriven de la autorización del desarrollo inmobiliario especial;
+
+III.- Aplicar las disposiciones del Reglamento de funcionamiento del Desarrollo Inmobiliario Especial; y
+
+IV.- Mantener en buen estado de funcionamiento las instalaciones y servicios generales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1212°.
+
+El promotor deberá presentar al Municipio o a la SEPLAPDE, según corresponda, junto con la solicitud para que se autorice un desarrollo inmobiliario especial, la propuesta de un Reglamento de funcionamiento del mismo, el cual deberá contemplar como mínimo, lo siguiente:
+
+I.- Los derechos y obligaciones del promotor y de los ocupantes de las áreas, edificaciones e instalaciones que integran el mismo;
+
+II.- Las medidas convenientes para el mejor funcionamiento y aprovechamiento del inmueble o inmuebles en general;
+
+III.- Las disposiciones necesarias que propicien la integración, organización y desarrollo de las actividades comunes; y
+
+IV.- Las facultades y obligaciones del administrador.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+PROYECTOS DE URBANIZACIÓN Y CONSTRUCCIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1213°.
+
+Los proyectos de urbanización y construcción en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, deberán sujetarse a los siguientes tipos de normas técnicas oficiales:
+
+I.- De diseño;
+
+II.- De sistemas de agua, alcantarillado y saneamiento;
+
+III.- De vialidad y movilidad; y
+
+IV.- De electrificación y alumbrado público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1214°.
+
+Las normas técnicas de diseño son las que regulan el proyecto arquitectónico y urbano en cuanto a la lotificación y zonificación, usos y destinos del suelo, dimensiones de lotes, predios, manzanas o áreas, densidades de población, construcción y ocupación del suelo, infraestructura vial y movilidad, restricciones y limitaciones urbanas y ambientales, equipamiento y mobiliario urbano, áreas verdes, espacios abiertos y de donación en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y en su caso las subdivisiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1215°.
+
+Los estudios, dictámenes o acuerdos para autorizar los correspondientes fraccionamientos, relotificaciones, fusiones y subdivisiones de áreas, lotes y predios, condominios y desarrollos inmobiliarios especiales, deberán ser compatibles con lo dispuesto en los diversos programas de desarrollo urbano aplicables y ajustarse a lo dispuesto al Código Urbano del Estado de Aguascalientes y en las normas técnicas que de él derivan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1216°.
+
+La autorización de fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de predios urbanos o rústicos en el Estado, se otorgarán siempre y cuando no se afecten:
+
+I.- Las áreas naturales protegidas y sitios prioritarios para la conservación y el mejoramiento;
+
+II.- Zonas arboladas, de valores naturales y de preservación ecológica;
+
+III.- Zonas y monumentos del patrimonio cultural y natural;
+
+IV.- La imagen urbana y la integración física y funcional a la traza y contexto urbano; y
+
+V.- Zonas o derechos de vía de restricción federal, estatal o municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1217°.
+
+Los proyectos de condominios horizontales habitacionales de tipo unifamiliar y especial, deberán considerar para su diseño las mismas características de lotificación y coeficientes de ocupación y utilización del suelo de los fraccionamientos habitacionales urbanos y especiales.
+
+Los condominios verticales y mixtos habitacionales de tipo dúplex u otros análogos no podrán desplantarse individualmente en predios o viviendas con superficie total menor exclusiva de lo señalado en este Código, conforme a la densidad correspondiente del proyecto.
+
+Las vialidades internas de los condominios deberán regirse con base a las especificaciones contempladas en los artículos 303 y 304 del este Código Urbano del Estado de Aguascalientes; excepto en los casos donde el promotor proponga, por motivos de diseño, aprovechamiento y funcionalidad, posibles diferencias a las características establecidas, las cuales, serán evaluadas y aprobadas por el Consejo Estatal y/o el Municipio, según corresponda, previa opinión de sus Sub-consejos o Subcomisiones respectivas.
+
+En los condominios horizontales, cuyas colindancias estén hacia las calles o avenidas de la Ciudad, deberán cumplir en base al total de metros lineales colindantes a las vialidades públicas, con el equivalente de un 30% del frente y de la dotación de lotes correspondientes, los cuales deberán tener uso de suelo compatibles hacía la vía pública; este porcentaje no podrá ser continuo y deberá ser distribuido en su totalidad. La propuesta del diseño deberá evaluarse por el Consejo o Comité correspondiente; siempre y cuando, la barda perimetral cumpla con una mayor amplitud e integración al espacio público de la vialidad, en relación proporcional con la barrera física del condominio.
+
+En cuanto al alumbrado de áreas comunes y vialidades internas de los condominios y la señalética vial, estos deberán regirse por las mismas características de los fraccionamientos, salvo los casos donde el promotor proponga, por motivos de diseño y aprovechamiento, otras diferentes, siempre y cuando, si cumplan con las condiciones y necesidades del proyecto correspondiente.
+
+Los condominios deberán contemplar cajones de estacionamiento para visitantes, conforme lo que determinen el Consejo Estatal y el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1218°.
+
+Cuando en un predio por fraccionar o por constituirse un condominio, existan obras o instalaciones de servicio público, el fraccionador o promotor evitará la interferencia de sus propias obras o instalaciones con las existentes.
+
+En caso de que se cause daño o deterioro a las obras o instalaciones existentes, el fraccionador o promotor será responsable de su reparación; para ello se fijará un plazo perentorio, según la naturaleza del daño causado y la urgencia de repararlo, a fin de que la obra conducente quede debidamente ejecutada a tiempo y en las mismas condiciones en las que se encontraba. Si vencido el plazo no se hubiere concluido la reparación, esta se ejecutará por el Municipio respectivo a cuenta del fraccionador o promotor.
+
+Lo dispuesto en este artículo, no exime al fraccionador o promotor de las responsabilidades e infracciones en que hubiere incurrido por la falta de prestación del o los servicios públicos afectados.
+
+Queda prohibido el establecimiento de fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones en lugares no aptos para el desarrollo urbano, según las normas que establecen los diversos programas aplicables en la materia, o en zonas de riesgo, insalubres o inundables, a menos que se realicen las obras necesarias de saneamiento o protección avaladas por peritos en la materia, con autorización del Municipio respectivo y, en su caso, por otras autoridades competentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1219°.
+
+La autorización para subdividir, fraccionar y construir desarrollos inmobiliarios especiales o condominios sólo podrá otorgarse si el propietario cubre la parte proporcional del costo al Municipio y al Gobierno del Estado de lo que hubieran erogado por la apertura, ampliación o prolongación de calles o vías públicas y generación de infraestructura que se haya realizado en dichos predios en términos de este Código.
+
+Dicho valor será actualizado por un avalúo comercial expedido por perito valuador y, en su caso, podrá enterarse a la autoridad respectiva hasta que se urbanice o se transfiera la propiedad, siempre y cuando se otorgue garantía a favor del Municipio respectivo o del Estado, conforme los requisitos que señala este Código, al momento en que se expida dicha autorización.
+
+El propietario quedará exento de dicha obligación si el predio es propiedad del Gobierno del Estado, del Municipio o de las instituciones gubernamentales, o si al momento de generarse la infraestructura a que se refiere este artículo cubrió los gastos correspondientes al Municipio respectivo o al Gobierno del Estado; en los términos de la legislación aplicable.
+
+La construcción de vivienda multifamiliar, edificios o conjuntos habitacionales dentro de algún fraccionamiento o condominio sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido autorizados por el Consejo Estatal o, en su caso, por el Municipio en coordinación con la SEPLAPDE, tomando en cuenta los coeficientes de construcción de ocupación del suelo y de densidad de población.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1220°.
+
+Cuando en un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión se realicen obras de saneamiento, protección o modificación de infraestructura para reducir o suprimir las restricciones existentes en un predio, el mismo deberá destinarse para los usos o destinos de suelo que resulten de la compatibilidad urbanística que corresponda a la zona y al tipo de vialidad que dé acceso a los predios, de conformidad con la zonificación prevista en los programas aplicables; asimismo para mejorar la infraestructura, equipamiento y áreas verdes o espacios abiertos de la zona.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1221°.
+
+El Municipio deberá destinar para infraestructura, equipamiento y servicios, cuando menos el 50% de las áreas de donación que reciban por parte de los fraccionadores o promotores, conforme a este Código y al dictamen correspondiente.
+
+El Municipio podrá realizar actos traslativos de dominio o de posesión para autorizar que otras dependencias u organismos públicos o privados sin fines de lucro, sean quienes den cumplimiento a la obligación que se establece en el párrafo que antecede, debiendo cumplirse para ello con las formalidades que establezcan los ordenamientos municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1222°.
+
+Del área total que reciba el Municipio en donación por cada fraccionamiento, condominio o desarrollo inmobiliario especial, cuando menos el 30% deberá destinarse a áreas verdes, parques, jardines y espacios abiertos, cuya superficie será considerada como un bien del dominio público del Municipio respectivo, por lo que no podrán considerase en este supuesto, aquellas áreas verdes ubicadas en camellones, banquetas, glorietas, isletas, o áreas de restricción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1223°.
+
+Los bienes inmuebles que comprenden las áreas de donación de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, son inalienables, imprescriptibles e inembargables, mientras no se les desafecten del servicio público al que se encuentren destinados. Las áreas verdes, de recreación y espacios abiertos, así como parques y jardines de donación, no podrán desafectarse y cambiarse de ese destino.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1224°.
+
+Respecto de la donación que se debe otorgar al Municipio respectivo por parte de los fraccionadores o promotores, conforme a lo dispuesto en este Código, se podrá sustituir hasta un 70% de esa superficie de donación por la dotación que realicen dichos fraccionadores o promotores de equipamiento urbano e infraestructura, Obras de impacto Social Significativo de carácter público en las zonas o vialidades que el municipio determine, de acuerdo a lo siguiente:
+
+I.- La superficie destinada para áreas verdes no podrá ser modificada, conforme a lo dispuesto por lo establecido en este Código;
+
+II.- Solo podrá aprobarse por la autoridad municipal competente hasta el 70% la sustitución, debiendo determinarse con precisión las obras de urbanización especificas a ejecutarse por el promotor, en las zonas donde el promotor las proponga o el municipio determine.
+
+III.- En el caso de los condominios verticales, podrán sustituirse por obras de equipamiento o pago en numerario conforme a avalúo comercial de perito valuador certificado, hasta el 100% de las áreas de donación que les corresponda. En el entendido de que, si la sustitución es en numerario, el recurso será exclusivamente para la instalación inmediata de equipamiento deportivo y/o recreativo en las zonas habitacionales urbanas o rurales que carezcan de ellos.
+
+Igualmente, la sustitución deberá aprobarse por la Secretaría Municipal Correspondiente y desde esa aprobación se indicarán las Obras de urbanización, Obras de impacto Social Significativo, Equipamiento Urbano a ejecutarse por el promotor, en las zonas donde el municipio determine.
+
+IV.- Las propuestas de sustitución de la superficie de área de donación por obras de equipamiento urbano, infraestructura, u obras de impacto social significativo que proporcionará el fraccionador o promotor, el Municipio respectivo realizará avalúo por conducto de perito valuador del terreno que se sustituirá por el equipamiento urbano o infraestructura, considerando ese predio con todas las obras de urbanización aprobadas para el fraccionamiento, condominio o desarrollo inmobiliario especial respectivo, el cual deberá tener un valor equivalente, este valor resultante se tomará como referencia para los costos por equipamiento urbano, infraestructura, u obras de impacto social significativo.
+
+V.- El equipamiento urbano e infraestructura se podrá ubicar en el resto del área de donación del fraccionamiento, condominio o desarrollo inmobiliario especial o en otros terrenos de propiedad pública municipal situados en otra zona, siempre y cuando exista en ambos supuestos dictamen emitido por el Municipio que justifique la sustitución;
+
+VI.- El proyecto y las especificaciones de edificación del equipamiento urbano o infraestructura deberá ser aprobado por la Secretaria Municipal correspondiente.
+
+VII.- El equipamiento urbano e infraestructura complementarios conforme a su naturaleza, deberá ubicarse en lugares que permitan su libre y óptimo uso por parte de la población en general; y
+
+La dotación de equipamiento urbano e infraestructura complementarios en los fraccionamientos, condominios o desarrollos inmobiliarios especiales por parte de los fraccionadores o promotores, también podrá realizarse a cuenta de las obligaciones fiscales municipales derivadas de la autorización y de las licencias de urbanización de los terrenos, conforme a las reglas referidas en este ARTÍCULO.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1225°.
+
+Es obligación del fraccionador donar al Municipio, el equipamiento de limpia consistente en contenedores para depósito de los residuos sólidos urbanos y de seguridad pública referente a casetas o módulos para ese servicio.
+
+En el caso de condominios, el promotor deberá dotar del equipamiento de limpia y entregarlo a la asamblea de condóminos para su operación.
+
+El área ocupada para equipamiento de seguridad pública será considerada como parte de la superficie que el fraccionador está obligado a donar al Municipio respectivo.
+
+Además, los fraccionadores deberán entregar las áreas de donación debidamente urbanizadas, es decir, deberán contar por lo menos con una toma de agua potable y una descarga sanitaria por cada área o predio, pavimentos guarniciones y banquetas en las colindancias hacia vialidades y la señalética y nomenclatura respectiva.
+
+Asimismo, donará al municipio en la cantidad que éste le determine las plantas de ornato y árboles que conforme a la superficie de área verde determinada le sean requeridos.
+
+En los desarrollos que se autoricen por etapas, las áreas de donación deberán encontrarse en su primera etapa y deberán urbanizarse por el promotor paralelamente a la misma; salvo en los casos que determine el Consejo Estatal que, por la naturaleza o dimensiones del desarrollo, la donación se pueda segmentar en diversas etapas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1226°.
+
+Las donaciones otorgadas al Municipio que se destinen como áreas verdes al interior de los condominios o desarrollos inmobiliarios especiales, las cuales no podrán representar más del 30% del total de la donación, no formarán parte de los bienes de uso común de los mismos o de la propiedad de los promotores, sino que serán entregadas en concesión gratuita a la administración del condominio o desarrollo inmobiliario especial respectivo, con la obligación de ésta o del promotor en su caso, de conservarlas y únicamente aprovecharlas para ese destino; existiendo la posibilidad de dotarla de equipamiento urbano para recreación hasta en la mitad de esa superficie, a fin de incrementar la calidad de vida y del ambiente en la zona. Esta obligación y restricción deberá señalarse en la autorización respectiva.
+
+Los promotores podrán incrementar las áreas verdes en una superficie mayor a la donada, la que se considerará dentro de los bienes de uso común del condominio o de propiedad del desarrollo inmobiliario especial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1227°.
+
+Será facultad del Municipio, a través de la Secretaría Municipal, señalar la ubicación y superficie de los terrenos que le deban ser donados, de acuerdo a lo dispuesto en este Código, debiendo tomar en cuenta al realizar la selección, aquellas áreas que satisfagan de mejor forma los servicios que requieran los colonos del propio fraccionamiento o en su caso, los condóminos y la comunidad en general, ajustándose a la zonificación respectiva, debiendo tener las siguientes características:
+
+I.- Pendiente máxima del terreno del 7% en el momento de la entrega por parte del fraccionador o promotor, con la salvedad, de que, por las condiciones de la vegetación del predio respectivo, sea susceptible de aprovecharse para un área verde en beneficio de la población de la zona;
+
+II.- Polígonos regulares con proporción no mayor de 1,3;
+
+III.- No se permitirán lotes, predios o áreas con características irregulares;
+
+IV.- Con excepción de lo indicado en el artículo siguiente de este Código, no se permitirán lotes, predios o áreas afectadas por discontinuidades geológicas, derechos federales como líneas de transmisión de la Comisión Federal de Electricidad, cuerpos de agua, carreteras, vías del ferrocarril, poliductos, terrenos inestables, entre otros; y
+
+V.- En terrenos con configuración de polígonos de cuatro o más lados solo se permitirá la colindancia entre lotes en máximo dos lados y para predios de configuración triangular en un sólo lado. Cuando la superficie a donar sea menor a 3,000 metros cuadrados, no podrá, en ningún momento establecerse en forma disgregada; tratándose de superficies mayores a 3,000 metros cuadrados, se donarán conforme lo disponga el Municipio, debiendo uno de sus lados estar ubicado hacia una calle o vialidad colectora o de mayor sección, siempre que existan estas en el fraccionamiento, condominio o desarrollo inmobiliario especial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1228°.
+
+Tratándose de superficies afectadas por fallas o grietas geológicas, líneas de alta tensión, poliductos o cualquier otra restricción, que por su naturaleza, conformación y ubicación sean susceptibles de utilizarse como áreas verdes, las mismas podrán tomarse como parte del porcentaje destinado por este Código para áreas verdes, según lo establece este Código, en la proporción de que por cada cuatro metros cuadrados donados equivaldrán a un metro cuadrado del que le corresponde originalmente al Municipio.
+
+La superficie referida en el párrafo anterior se deberá entregar en las condiciones que señale el Municipio respectivo, a efecto de poderse utilizar como áreas verdes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1229°.
+
+En los fraccionamientos, condominios o desarrollos inmobiliarios especiales, ubicados en una zona en que exista la cobertura suficiente de infraestructura, equipamiento y servicios, previo dictamen del Municipio conjuntamente con la SEPLAPDE, se podrán modificar los porcentajes de destino de la donación establecida conforme a lo determinado el Código Urbano del Estado de Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1230°.
+
+Los fraccionadores o promotores podrán proponer al Municipio, que las áreas que les corresponda donar se ubiquen fuera de los fraccionamientos, condominios o desarrollos inmobiliarios especiales para integrarlas a otras y optimizar e incrementar las áreas para equipamiento urbano consolidado o en otras áreas carentes de ellas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1231°.
+
+Se declara de utilidad pública, la expropiación de la superficie necesaria para establecer obras de liga, entre el terreno en el que se pretenda hacer un fraccionamiento, condominio o desarrollo inmobiliario especial y otras zonas urbanizadas, siempre y cuando dicha liga sea estimada conveniente para el futuro crecimiento de esas zonas, en los diversos programas aplicables.
+
+El fraccionador o promotor quedará obligado a urbanizar a su costa la superficie afectada y a pagar, además proporcionalmente, el monto de la indemnización que resulte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1232°.
+
+El fraccionador o promotor estará obligado a formalizar las donaciones a favor del Municipio, en los lugares y superficies que de acuerdo al tipo de fraccionamiento, condominio o desarrollo inmobiliario especial autorizado le sean señalados, así como a escriturar las áreas destinadas a vías públicas, áreas verdes y equipamiento urbano e infraestructura. Respecto del equipamiento urbano también deberá entregar la posesión, títulos y facturas que acrediten la propiedad del mismo a favor del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1233°.
+
+Cuando por lo dispuesto en los programas de desarrollo urbano aplicables, se requieran vialidades con anchura superior a 30 metros, únicamente se podrá descontar el 20% de la superficie excedente, de aquellas que el fraccionador o promotor deba donar al Municipio, siempre y cuando la obligación de dicha sección le corresponda en su totalidad al fraccionador o promotor.
+
+Para la operatividad del párrafo anterior, deberá entenderse que los porcentajes para equipamiento, servicios y áreas verdes, a que hacen referencia este Código, se deberán respetar, independientemente de los excedentes por anchura de vialidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1234°.
+
+Los fraccionadores o promotores podrán proponer al Municipio respectivo, que las áreas que les corresponda donar se encuentren en otras ubicaciones fuera de los fraccionamientos, condominios o desarrollos inmobiliarios especiales para integrarlas a otras y optimizar e incrementar las áreas para equipamiento urbano consolidado o en otras áreas carentes de ellas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1235°.
+
+Cuando en los fraccionamientos o condominios especiales, no sea posible realizar un sistema de alcantarillado por razones técnicas, en virtud de no contarse con un lugar adecuado para la descarga u otro motivo similar, el Consejo Estatal o el Municipio, según corresponda, podrá autorizar al fraccionador o promotor la construcción de una planta de tratamiento de agua residual o fosa séptica por lote o predio, conforme a lo determinado por la dependencia estatal correspondiente, el organismo operador de agua potable, alcantarillado y saneamiento municipal respectivo y la Comisión Nacional del Agua, respetando los lineamientos que estos le señalen.
+
+De igual forma en ese tipo de fraccionamientos o condominios, el servicio de agua potable, podrá ser mediante la colocación por parte del fraccionador o promotor de una cisterna por cada lote si se trata de fraccionamiento, y en su caso una cisterna general o por predio si es condominio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1236°.
+
+La perforación de pozos o utilización de pozos existentes para el abastecimiento de agua potable y el saneamiento o tratamiento del agua en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones y en general en los centros de población, sólo podrá realizarse mediante la autorización de la Comisión Nacional del Agua, el organismo operador del agua potable y alcantarillado municipal respectivo o en su caso la dependencia estatal correspondiente, respetando las especificaciones que éstos determinen y las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1237°.
+
+Cuando en el predio por urbanizar exista autorizada una fuente de abastecimiento para usos diferentes al que se pretende dar, según el proyecto de fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, deberá recabarse de la Comisión Nacional del Agua la autorización para el cambio de uso del aprovechamiento hidráulico correspondiente.
+
+Se deberá restringir el cambio de uso de pozos agropecuarios para usos urbanos y propiciar que la Dependencia Estatal correspondiente o los organismos operadores municipales del agua potable y alcantarillado tengan derecho de preferencia para adquirir y comercializar los derechos de extracción y explotación de agua para usos urbanos, industriales y de servicios, a efecto de que se evite la especulación con los recursos hídricos en el Estado y se propicie la sustentabilidad y el adecuado manejo y gestión del agua en los centros de población.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1238°.
+
+El Municipio podrá conectar un fraccionamiento, condominio o desarrollo inmobiliario especial a la red municipal de agua potable y drenaje cuando se garantice, previo dictamen técnico, la suficiencia de esos servicios.
+
+El fraccionador o promotor deberá pagar al Municipio o al Organismo Operador del Agua Potable y Saneamiento los derechos de conexión, hasta que se conecte a la red municipal y reciba el servicio respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1239°.
+
+Las normas de vialidad y movilidad son las que regulan el proyecto, en cuanto a las características, especificaciones y dimensiones de las vialidades, calles, andadores y ciclovías, pavimentos, banquetas y guarniciones, así como a la nomenclatura, números oficiales, traza urbana, estacionamientos y circulación.
+
+En el diseño de las vialidades interiores, espacios para circulación vehicular y peatonal y estacionamientos, respecto de los condominios autorizados por el Municipio, se permitirá el diseño de los mismos, conforme a las condiciones del proyecto, del terreno respectivo, las edificaciones existentes o a realizar, la vegetación, entre otros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1240°.
+
+Todas las vialidades deberán ser construidas con concreto hidráulico para garantizar su calidad, funcionalidad y resistencia, con las especificaciones técnicas que determine el Código Urbano del Estado de Aguascalientes, reglamentos municipales o las dependencias encargadas.
+
+El Municipio, o en su caso, el fraccionador o promotor podrá solicitar un cambio de especificación técnica para la sustitución del concreto hidráulico por concreto permeable del agua al subsuelo, siempre y cuando exista dictamen del Municipio respectivo que avale su diseño, proceso constructivo, calidad, durabilidad y eficiencia.
+
+Las vialidades interiores, espacios para circulación vehicular y peatonal y estacionamientos, en los condominios autorizados por el Municipio, se podrán permitir otro tipo de materiales, siempre y cuando su diseño y especificaciones técnicas las apruebe la Secretaría o Dependencia de Obras Públicas del Municipio respectivo.
+
+La jerarquía, características y elementos de las vialidades estarán determinados por la función principal de cada una de ellas, conforme a lo previsto en el Código Urbano del Estado de Aguascalientes y las resoluciones que emita la SEPLAPDE o el Municipio, considerando dentro de su diseño y construcción vías de acceso que faciliten la movilidad y la accesibilidad universal y al mismo tiempo su eficaz mantenimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1241°.
+
+De acuerdo con su jerarquía las vialidades públicas se clasifican en:
+
+I.- Vialidades regionales o de acceso controlado;
+
+II.- Vialidades primarias o de gran volumen;
+
+III.- Vialidades secundarias;
+
+IV.- Vialidades colectoras;
+
+V.- Vialidades locales;
+
+VI.- Vialidades cerradas; y
+
+VII.- Andadores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1242°.
+
+Cuando cualquiera de los tipos de calles a que se refiere este Código tengan cruzamiento o entronque con una arteria de alta velocidad, carretera, o con una vía de ferrocarril, requerirán un proyecto especial que deberá contemplarse como parte del proyecto de urbanización del fraccionamiento, condominio o desarrollo inmobiliario especial, el cual no podrán ejecutar hasta en tanto no sea autorizado el desarrollo respectivo por el Consejo Estatal, o en su caso, por el Municipio y por tanto su costo deberá ser cubierto por el fraccionador o promotor beneficiado, debiéndose en su caso observar las disposiciones de las autoridades correspondientes.
+
+El fraccionador o promotor que hubiera realizado la obra, podrá repercutir proporcionalmente el costo de la misma a los demás desarrolladores de la zona, para que también reciban un beneficio a sus proyectos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1243°.
+
+Para conectar un fraccionamiento, condominio o desarrollo inmobiliario especial a una arteria de alta velocidad en proyecto o ya exista, se tendrá que proyectar un carril lateral de baja velocidad y de estacionamiento, conforme a las dimensiones que determine El Consejo Estatal, la SEPLAPDE o el Municipio. Podrán existir lotes o predios con acceso directo a dicho carril de baja velocidad, pero se destinarán exclusivamente para uso comercial o de servicios.
+
+En las banquetas de las calles colectoras y de mayor jerarquía deberán contemplarse cajetes o arriates para la plantación de árboles, conforme a las especificaciones del Municipio respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1244°.
+
+La determinación de vía pública oficial la realizará el Municipio a través de las Constancias Municipal de Compatibilidad Urbanística, números oficiales y derechos de vía que expidan, de conformidad con la documentación técnica de los Programas de Desarrollo Urbano de Centros de Población y Parciales o los estudios que se realicen para tal efecto.
+
+Igualmente corresponde al Municipio determinar las secciones oficiales de las calles, la cancelación de éstas y sus ampliaciones, reducciones o prolongaciones, salvo las que se sitúen en la colindancia con otro Municipio, las cuales se deberán presentar a la consideración de la Comisión de Zona Metropolitana y Conurbada respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1245°.
+
+Ninguna de las calles en proyecto de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, que sea prolongación de otra, no podrá tener una anchura menor que aquella, y si la calle que se continúa fuera menor de los mínimos señalados por este Código, la prolongación que constituya la nueva obra deberá tener siempre la anchura señalada por el mismo y continuidad sin cambios de dirección mayores o significativos.
+
+Los sobrantes de alineamiento resultantes de la rectificación de una vía pública podrán ser enajenados, aunque tendrán derecho del tanto los propietarios de los predios colindantes. En el caso de que estos sobrantes constituyan el frente de dichos predios, forzosamente se deberán enajenar a ellos o, en su caso, permanecerán bajo el dominio municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1246°.
+
+El Municipio aprobará la nomenclatura oficial de las vías públicas, parques, jardines, plazas y todo lugar de naturaleza pública susceptible de darle una denominación.
+
+El Municipio deberá aprobar un banco de nomenclatura, para que en su caso los fraccionadores elijan nombres para sus proyectos, a fin de agilizar el proceso de asignación de la toponimia.
+
+En el caso de las vialidades internas de los condominios y desarrollos inmobiliarios especiales, será facultad de los promotores asignar la denominación correspondiente, buscando que sea armónica con el nombre del desarrollo respectivo.
+
+Asimismo, se deberá asignar por el Municipio, previa solicitud, el número oficial que a cada predio con frente a vía pública y en los condominios número oficial exterior e interior.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Requisitos y Procedimientos para la Autorización
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1247°.
+
+La tramitación, autorización y modificación de un fraccionamiento, condominio y desarrollo inmobiliario especial; la ejecución y control de las obras de urbanización; la municipalización de un fraccionamiento o subdivisión; y la entrega de las obras de urbanización de los condominios, se hará en un expediente digital único, en el que participarán la SEPLAPDE, las dependencias y entidades estatales y Municipal.
+
+Para una adecuada integración y funcionamiento del expediente digital único, la SEPLAPDE y el Municipio, a través de su Secretaría Municipal, serán los responsables de su implementación y operación en el ámbito de su competencia, facilitando la consulta de la ciudadanía en general.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1248°.
+
+La autorización de las solicitudes de fraccionamientos en todos los supuestos, así como para la constitución del régimen de propiedad en condominio cuando éste cuente con 100 o más predios, viviendas, departamentos, unidades o áreas o tenga una superficie mayor a 20,000 metros cuadrados será facultad exclusiva del Consejo Estatal, previa opinión del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1249°.
+
+La autorización para constituir el régimen de propiedad en condominio en terrenos de hasta de 20,000 metros cuadrados o con menos 100 predios, viviendas, departamentos, unidades o áreas, compete al Municipio previa opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1250°.
+
+La autorización de desarrollos inmobiliarios especiales, en predios mayores a 20,000 metros cuadrados, será facultad de la SEPLAPDE, previa opinión del Municipio. Si el terreno es de 20,000 metros cuadrados o menor, le corresponderá al Municipio, con la previa opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1251°.
+
+El régimen de propiedad en condómino, autorizado por el Consejo Estatal, que se pretenda modificar o extinguir total o parcialmente, compete en todos los casos a la SEPLAPDE, previa opinión del Municipio.
+
+Respecto del régimen de propiedad autorizado por el Municipio, a éste le corresponderá autorizar su modificación o extinción total o parcial, previa opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1252°.
+
+El Consejo Estatal, la SEPLAPDE o el Municipio autorizarán un fraccionamiento, condominio o desarrollo inmobiliario especial según corresponda, siguiendo las formalidades establecidas, una vez satisfechos todos los requisitos legales por parte del fraccionador o promotor y cubiertas las obligaciones fiscales que correspondan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1253°.
+
+Será requisito para la autorización de un fraccionamiento, desarrollo inmobiliario especial o condominio, que el fraccionador o promotor haya cumplido con todas las obligaciones, condiciones y especificaciones técnicas, jurídicas y fiscales en los fraccionamientos, condominios o desarrollos inmobiliarios especiales que se le hubieren autorizado con anterioridad en el Estado. Sin este requisito no podrá autorizarse un trámite nuevo, hasta que en los anteriores cumpla con todas las obligaciones que el fraccionador o promotor tenga pendientes.
+
+La SEPLAPDE previa opinión del Municipio o viceversa, según corresponda, deberá expedir la constancia de cumplimiento de obligaciones anteriores por parte de los fraccionadores o promotores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1254°.
+
+La solicitud para la autorización de un fraccionamiento, así como para la constitución, extinción o modificación del régimen de propiedad en condominio y de ejecución de un desarrollo inmobiliario especial, se deberá presentar e integrar por el interesado en el expediente digital único, precisando su tipo conforme a la clasificación prevista en este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1255°.
+
+La solicitud a que se refiere el ARTÍCULO anterior, deberá constar de la siguiente documentación y requisitos:
+
+I.- Copia certificada de la escritura pública o título de propiedad del predio objeto de la solicitud, inscrita en el Registro Público;
+
+II.- La autorización municipal de fusión y subdivisión de los predios cuando sea necesaria, con su correspondiente protocolización en escritura pública;
+
+III.- Copia certificada del acta constitutiva de la empresa fraccionadora o promotora o del contrato de fideicomiso, inscritos en el Registro Público, cuando se trate de persona morales, y/o del contrato de asociación y/o aportación en el caso de colaboración entre propietario y desarrollador;
+
+IV.- Constancia Municipal de Compatibilidad Urbanística;
+
+V.- Manifiesto en materia de impacto ambiental, según la legislación de la materia;
+
+VI.- Solicitud o autorización de cambio de uso forestal a urbano del predio objeto del trámite, cuando sea requerido;
+
+VII.- Solicitud o autorización de cambio de uso de pozo agrícola a urbano, cuando sea requerido;
+
+VIII.- Estudio de impacto urbano;
+
+IX.- Estudio de impacto vial;
+
+X.- Ubicación del predio en aerofoto, cartografía reciente u otro medio similar;
+
+XI.- Levantamiento topográfico catastral del predio incluyendo el oficio con el plano digital en formato vectorial y en coordenadas UTM;
+
+XII.- Propuesta de denominación del fraccionamiento, condominio o desarrollo inmobiliario especial;
+
+XIII.- Los siguientes documentos técnicos:
+
+a).- Plano de conjunto a escala máxima de 1:5,000 que contenga las ligas del fraccionamiento, condominio o desarrollo inmobiliario especial con otras zonas urbanizadas o urbanizables;
+
+b).- Plano topográfico del predio con curvas de nivel destinado al fraccionamiento, condominio o desarrollo inmobiliario especial, a escala máxima de 1:1,000;
+
+c).- Plano georreferenciado de lotificación o zonificación a escala máxima de 1:1,000 que marque lo siguiente:
+
+1.- Propuesta de la denominación del fraccionamiento, condominio o desarrollo inmobiliario especial, así como de las vialidades públicas de los fraccionamientos;
+
+2.- División de manzanas, lotificación o zonificación;
+
+3.- El número total de lotes del fraccionamiento o predios del condominio, señalando, además, el número de estos en cada una de las manzanas, el lote o predio tipo y el uso de suelo de cada uno de ellos;
+
+4.- En caso de condominio áreas exclusivas y áreas de uso común; y
+
+5.- Áreas de donación propuestas;
+
+d).- Plano de vialidades a escala máxima de 1:1000, en el que se indique:
+
+1.- Datos del proyecto, notas y simbología;
+
+2.- El trazo de los ejes referido geométricamente a los linderos del predio;
+
+3.- Nivel de rasantes;
+
+4.- Secciones transversales a escala máxima de 1:100 de las vialidades;
+
+5.- Sentidos de circulación;
+
+6.- Distancia entre los ejes;
+
+7.- Ángulos de intersección de los ejes; y
+
+8.- Radios de giro;
+
+e).- Prefactibilidad de agua potable, alcantarillado y saneamiento emitida por instancia de carácter municipal correspondiente;
+
+f).- Factibilidad de energía eléctrica expedida por la Comisión Federal de Electricidad y proyecto de alumbrado.
+
+g).- Estudio geológico y geofísico para la detección de posibles discontinuidades geológicas activas o potencialmente activas, el cual definirá la necesidad o no de monitoreo, avalado por perito especializado y con fecha de expedición no mayor a seis meses;
+
+h).- Estudio de mecánica de suelos indicando la capacidad del suelo avalado por un perito especializado acorde a las normas técnicas y número de muestreo que se fijen en los lineamientos autorizados por el Consejo Estatal; y
+
+i).- Dictamen emitido por la Comisión Nacional del Agua en el que se indiquen las restricciones de la zona federal, NAME y NAMO de cuerpos de agua, ríos, arroyos y escurrimientos;
+
+XIV.- Tipo de urbanización propuesta: inmediata, por etapas o progresiva, considerando que la primera etapa deberá ser autosuficiente en cuanto a la infraestructura primaria y obras de cabecera necesaria, así como también incluir todas las obras y áreas necesarias para la dotación de servicios y correcto funcionamiento;
+
+XV.- Además, la solicitud deberá incluir los siguientes requisitos:
+
+a).- Generales del solicitante: nombre, nacionalidad, domicilio en el Estado, número de teléfono, correo electrónico, registro federal de contribuyentes, así como identificación oficial;
+
+b).- Relación de todos los fraccionamientos, condominios y desarrollos inmobiliarios especiales realizados o autorizados en el Estado;
+
+c).- Constancia de no adeudo del impuesto a la propiedad raíz del predio objeto de la solicitud; y;
+
+d).- Certificado de libertad de gravamen con fecha de expedición no mayor a 1 mes anterior a la solicitud; y
+
+XVI.- En caso de que sea sustituida una parte del área de donación, se deberá presentar la propuesta de dotación de equipamiento urbano y de infraestructura conforme a lo dispuesto en este Código, proporcionando a detalle el dictamen que lo justifique, el proyecto ejecutivo del mismo, su costo y el programa de obra, con las especificaciones que determine el Municipio respectivo;
+
+Cuando a juicio de la SEPLAPDE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, estas lo indicarán al solicitante por no ser necesarios en el caso específico. La SEPLAPDE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1256°.
+
+Con la finalidad de realizar el estudio y análisis de los respectivos proyectos, así como para resolverlos en tiempo y forma, la documentación señalada en el artículo que antecede, podrá ser presentada en partes por el interesado, conforme a los lineamientos generales que establezca la SEPLAPDE o el Municipio en los asuntos de su competencia.
+
+Si la documentación entregada no reúne los requisitos establecidos en este Código, será devuelta al interesado para que subsane la omisión dentro del plazo de 10 días hábiles, con la posibilidad de que, por única ocasión, solicite una prórroga por un plazo proporcional, atendiendo a la naturaleza de dicha documentación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1257°.
+
+Una vez que la SEPLAPDE determine la viabilidad de la solicitud, le informará al fraccionador o promotor que el proyecto será sometido al sub- consejo según lo establezca el Reglamento Interior del Consejo Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1258°.
+
+El expediente para integrar el dictamen y ser presentado a la consideración de Consejo Estatal o al Municipio según corresponda, se complementará por parte del fraccionador o promotor, con la siguiente documentación y requisitos:
+
+I.- Designación, aceptación y constancia emitida por el Municipio que acredite la vigencia del perito como responsable de la obra;
+
+II.- Los siguientes documentos técnicos:
+
+a).- Factibilidad de la red de electrificación y alumbrado público otorgada por la Comisión Federal de Electricidad y por la dependencia municipal correspondiente;
+
+b).- Factibilidad de agua potable, alcantarillado y saneamiento emitida por dependencia o entidad de carácter municipal respectiva;
+
+c).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLAPDE o el Municipio;
+
+d).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLAPDE o el Municipio;
+
+e).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLAPDE o el Municipio; y
+
+f).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLAPDE o el Municipio;
+
+III.- Dictamen en materia de impacto ambiental;
+
+IV.- En caso de aplicar, la autorización de la autoridad ambiental competente del cambio de uso forestal a urbano del predio objeto de la solicitud;
+
+V.- Memoria descriptiva, que indique las medidas y colindancias de todos los lotes, señalando a que manzana pertenecen; y cédulas condominales y Reglamento de Administración en caso de ser condominio.
+
+VI.- Constancia por escrito de que se ha gestionado o autorizado por la autoridad competente en materia de transporte público, la introducción del servicio de transporte urbano y, en su caso, suburbano, así como la cobertura de las rutas respectivas;
+
+VII.- Carta de liberación de cumplimiento de obligaciones anteriores y adecuada ejecución de las obras concluidas o en proceso, autorizadas al fraccionador o promotor solicitante, expedida por la SEPLAPDE, previa opinión del Municipio respectivo o viceversa, según corresponda. En caso de ser persona moral la solicitante deberá exhibirse la carta de liberación de cada uno de los socios, cuya expedición no deberá exceder de una antigüedad de 6 meses; y
+
+VIII.- Opinión del Municipio o la SEPLAPDE, según corresponda.
+
+Cuando a juicio de la SEPLAPDE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este ARTÍCULO, estos lo indicarán al solicitante por no ser necesarios en el caso específico.
+
+La SEPLAPDE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1259°.
+
+Contando con todos los requisitos y documentos que establece el artículo anterior, la SEPLAPDE integrará el proyecto de dictamen de procedencia o improcedencia de la solicitud de fraccionamiento, condominio o desarrollo inmobiliario especial, mismo que se remitirá al interesado en caso de que se requiera realizar correcciones o modificaciones, con el objeto de que éste se ajuste a los requisitos, especificaciones y obligaciones que se le establezcan en el proyecto de dictamen de referencia, disponiendo de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; sí el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
+
+Si el proyecto del condominio o desarrollo inmobiliario especial, es competencia del Municipio, le corresponderá a esté efectuar el procedimiento indicado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Procedimientos para la Autorización para la Autorización (sic) de los Proyectos de Urbanización y Construcción
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1260°.
+
+Cuando el predio, objeto de la solicitud para autorizar un fraccionamiento, condominio o desarrollo inmobiliario especial, se encuentre gravado o con reserva de dominio a favor de una tercera persona, a efecto de que se pueda integrar el expediente y, en su caso, autorizar el trámite, el solicitante deberá presentar la conformidad del acreedor respectivo y el Consejo Estatal, la SEPLAPDE o el Municipio tomarán en cuenta los antecedentes del fraccionador o promotor, las etapas para su ejecución y las garantías para su urbanización y edificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1261°.
+
+Una vez que se hayan cubierto los requisitos para la solicitud de autorización, la SEPLAPDE o el Municipio según corresponda, procederá a analizar la solicitud y a integrar el expediente, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos, lineamientos y normas de planeación urbana, contando con el previo apoyo de las sub-consejos del Consejo Estatal o los de índole municipal que correspondan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1262°.
+
+El expediente del fraccionamiento, condominio o desarrollo inmobiliario especial, por parte de la instancia integradora se enviará al Municipio o a la SEPLAPDE según corresponda, con objeto de que emita su opinión. Dicha opinión deberá contener los siguientes elementos:
+
+I.- Determinación en cuanto a su competencia, de que el fraccionamiento, condominio o desarrollo inmobiliario especial es procedente o improcedente y, por ende, pueda continuarse con el trámite ante el Consejo Estatal, el Municipio o en su caso, en la SEPLAPDE si se trata de un desarrollo inmobiliario especial;
+
+II.- Establecimiento de las obligaciones fiscales por la emisión del dictamen, control de obligaciones e integración del expediente;
+
+III.- Determinación de los montos de los derechos de supervisión y garantías para la debida ejecución de las obras de urbanización y prestación de servicios en su caso;
+
+IV.- Si corresponde, la definición sobre la ubicación y superficies de los predios que deberán ser donados al Municipio, en los porcentajes que establece este Código;
+
+V.- En su caso, el Municipio determinará el equipamiento urbano e infraestructura que se realizará en las áreas de donación o en otro predio municipal, en sustitución de una parte de la superficie de donación y/o de los derechos fiscales municipales derivados por la autorización y licencias de edificación en el fraccionamiento, condominio o desarrollo inmobiliario especial; anexando el dictamen que lo justifique y los valores determinados para esos fines, tanto del predio de donación como del equipamiento e infraestructura o del monto de las obligaciones fiscales;
+
+VI.- Validación de la propuesta de denominación del fraccionamiento, condominio o desarrollo inmobiliario especial, así como de la nomenclatura de las calles, vialidades y demás espacios públicos, únicamente en el caso de fraccionamientos;
+
+VII.- Requerimientos mínimos de equipamiento e infraestructura primaria, obras de cabecera y servicios en las áreas de donación; y
+
+VIII.- Establecimiento de especificaciones o características que a su juicio deban cumplirse como condicionantes para su autorización.
+
+Respecto de la opinión a que se refiere este ARTÍCULO, la SEPLAPDE la emitirá considerando únicamente lo dispuesto en sus fracciones I, II y VIII.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1263°.
+
+A fin de contar con los suficientes elementos que le permitan emitir la opinión referida en el ARTÍCULO anterior, respecto de la dotación de equipamiento urbano e infraestructura urbana en el área de donación, el Municipio si lo aprecia necesario solicitará la opinión técnica de las dependencias o entidades federales, estatales, respecto de cada uno de los aspectos técnicos que se requieran, incluyendo la viabilidad para que opere y funcione dicho equipamiento urbano e infraestructura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1264°.
+
+La opinión del Municipio deberá ser emitida en un plazo máximo de 15 días hábiles, contados a partir de la fecha de recepción del expediente completo respectivo o a la debida integración del expediente digital único, de no obtenerse la opinión en el plazo señalado, se entenderá que no se tiene objeción y no podrá continuarse con el trámite.
+
+En caso de que se considere improcedente el proyecto, el Municipio, deberá justificar las razones de su negativa, en este caso, además notificará a la SEPLAPDE o el Municipio, según corresponda y al fraccionador o promotor su opinión, señalándole a éste que cuenta con 15 días hábiles para subsanar las observaciones, de no hacerlo se le informará a la SEPLAPDE o el Municipio que se considera improcedente la solicitud y que deberá incluirse esa opinión en el proyecto de dictamen que se presente ante el Consejo Estatal, el Municipio o la SEPLAPDE, para que resuelvan en definitiva, según corresponda.
+
+Una vez solventadas las observaciones, el Municipio informará a la otra instancia la opinión definitiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1265°.
+
+En el supuesto de que la opinión del Municipio, en relación con la solicitud de un fraccionamiento, condominio o desarrollo inmobiliario especial difiera de la que adopte la SEPLAPDE, resolverá en definitiva el Consejo Estatal, en cuyo proyecto se incluirá esa situación.
+
+Para el supuesto del párrafo anterior, sí el proyecto es competencia del Municipio, quien resolverá en definitiva será el Cabildo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1266°.
+
+A fin de contar con los suficientes elementos que le permitan integrar el proyecto de dictamen sobre la solicitud de fraccionamiento, condominio o desarrollo inmobiliario especial, la SEPLAPDE o el Municipio podrán solicitar, en su caso, la opinión técnica de las autoridades u organismos competentes, en cada uno de los aspectos técnicos o legales que se requieran incluir en el proyecto de dictamen mencionado.
+
+En caso de que en los documentos recibidos se señale que existen discontinuidades geológicas, la SEPLAPDE o el Municipio, tendrá la obligación de enviar una copia del estudio a la autoridad competente, para que sea integrado al sistema de información de las discontinuidades geológicas detectadas, para que emita su opinión al respecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1267°.
+
+Las opiniones técnicas a que se refiere el ARTÍCULO anterior, deberán de ser proporcionadas en un plazo máximo de 10 días hábiles contados a partir de la fecha de recepción del requerimiento respectivo.
+
+Transcurrido el plazo antes señalado, sin que se hayan obtenido las opiniones mencionadas, se entenderá que dichas autoridades u organismos no tienen objeción respecto a la solicitud. En caso de que la hubiera, el Municipio, valorarán en su caso, si se suspende el trámite hasta en tanto el solicitante las subsane o se incluyan como observación dentro del proyecto de dictamen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1268°.
+
+El proyecto de dictamen que elabore el Municipio para someter a la consideración del Consejo Estatal o la instancia municipal correspondiente, la autorización o rechazo, en su caso, de un fraccionamiento, condominio o desarrollo inmobiliario especial, deberá contener como mínimo la siguiente información, la cual será proporcionada por el propietario, desarrollador o promotor:
+
+I.- La propuesta de la nomenclatura del fraccionamiento, condominio o desarrollo inmobiliario especial y su clasificación conforme a lo dispuesto en este Código;
+
+II.- El nombre o denominación del propietario;
+
+III.- El nombre del representante legal en caso de existir;
+
+IV.- El perito responsable de las obras de urbanización;
+
+V.- La ubicación del proyecto;
+
+VI.- La siguiente información y datos técnicos:
+
+a).- Cuadro de superficies y sus diferentes usos o destinos;
+
+b).- Sistema del agua potable;
+
+c).- Sistema de alcantarillado y saneamiento;
+
+d).- Especificaciones de los pavimentos, banquetas, guarniciones y placas de nomenclatura; y
+
+e).- Sistema de electrificación y alumbrado público;
+
+VII.- Opiniones técnicas del proyecto;
+
+VIII.- Documentación legal;
+
+IX.- Determinación de obligaciones fiscales estatales y municipales;
+
+X.- Establecimiento del monto de la garantía de las obras de urbanización o edificación de inmuebles verticales;
+
+XI.- Observaciones y disposiciones generales del proyecto;
+
+XII.- Etapas de urbanización;
+
+XIII.- Proyecto de resolución; y
+
+XIV.- Medio de defensa que podrá hacer valer el fraccionador o promotor, en caso de que no esté de acuerdo con el contenido de la resolución del Consejo Estatal o Municipio, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1269°.
+
+Una vez elaborado el proyecto de dictamen que se someterá a la decisión del Consejo Estatal, la SEPLAPDE deberá presentarlo previamente a la consideración del fraccionador o promotor y del perito responsable de las obras, para que conozcan sus características, condiciones y obligaciones, suscribiéndolo para acreditar su aceptación y efectos legales.
+
+Si el proyecto es de competencia del Municipio, este procederá a lo referido en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1270°.
+
+Contando en su caso, con los estudios y planos conforme al proyecto de dictamen, previamente aceptado por el fraccionador o promotor de acuerdo a lo dispuesto en el ARTÍCULO anterior, la SEPLAPDE gestionará que la solicitud de referencia sea incluida en el orden del día de la siguiente sesión del Consejo Estatal, debiendo enviar el proyecto de dictamen a los integrantes del mismo, cuando menos 3 días hábiles previos a la sesión, para su conocimiento y análisis. Si el proyecto lo resolverá el Municipio, se deberá observar y cumplir lo referido en la reglamentación municipal aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1271°.
+
+El Consejo Estatal en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLAPDE, una vez que hubiera sido analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana. En caso de ser rechazado y de proceder las correcciones se le informará al fraccionador o promotor que cuenta con un término de 30 días hábiles para llevarlas a cabo; una vez subsanadas, la SEPLAPDE realizará un nuevo proyecto de dictamen para que sea sometido a la consideración del Consejo Estatal en la subsiguiente sesión.
+
+En el caso de los proyectos de condominios competencia para el Municipio, se procederá según lo determine su reglamentación correspondiente.
+
+La autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, por parte de la autoridad competente, facultará al fraccionador o promotor, para promocionarlos, una vez que hubiera cubierto los derechos fiscales estatales y municipales por la autorización y opinión respectiva, sin tener derecho a ejercer actos traslativos de dominio de los lotes, predios o áreas, sino hasta que cuente con la autorización para venta correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1272°.
+
+Toda resolución del Consejo Estatal deberá ser suscrita únicamente por el Presidente y el Secretario Técnico. Dicha resolución se deberá sustentar en lo dictaminado por el Consejo Estatal. Respecto a las formalidades y los requisitos jurídicos de las autorizaciones y resoluciones que emita el Municipio, se apegarán a lo dispuesto en su reglamentación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1273°.
+
+Cuando se autorice un fraccionamiento, condominio o desarrollo inmobiliario especial, con el propósito de cumplir con un fideicomiso, el titular de la autorización lo será el fideicomitente o fideicomitentes, quienes responderán del cumplimiento de las obligaciones que se contengan en la autorización ante las instancias correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1274°.
+
+El acta de la sesión del Consejo Estatal en la cual se autoricen, modifiquen o revoquen fraccionamientos o condominios será publicada por una sola vez en el Periódico Oficial del Estado, al igual que los proyectos autorizados por el Municipio, con costo para la parte interesada.
+
+En la sesión posterior del Consejo Estatal se validará el contenido del acta de la sesión anterior publicada en el Periódico Oficial del Estado y en su caso, se ordenará la inmediata publicación de las modificaciones. Igual tratamiento se dará en la acta o el dictamen del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1275°.
+
+La SEPLAPDE notificará al interesado la resolución del Consejo Estatal, al igual el Municipio cuando le corresponda, indicándole al promovente cuando haya sido autorizado, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales estatales y municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización, a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización, así como a la entrega del proyecto definitivo y del plano de la lotificación o zonificación con las medidas físicamente reales y georreferenciadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1276°.
+
+En el supuesto de que al fraccionador o, al promotor, le corresponda dotar de equipamiento urbano e infraestructura en las áreas de donación, también se le notificará las condiciones bajo las cuales se deberán realizar estas obras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1277°.
+
+El fraccionador o promotor del condominio entregarán firmados al Municipio, según proceda, por el propietario o representante legal, como por el perito responsable de obra, en un plazo máximo de 10 días hábiles, computados a partir del día que se les notificó la resolución favorable, el original y tres tantos de los planos del fraccionamiento, condominio o desarrollo inmobiliario especial autorizado por el Consejo Estatal o el Municipio, lo que corresponde al conjunto, a la lotificación o zonificación, las vialidades y usos de suelo, mismos que deberán estar georreferenciados en coordenadas U.T.M. y en formato dwg conforme a los lineamientos, características y especificaciones que se deriven de este Código y de la autorización respectiva o, en su caso, de la reglamentación municipal, a efecto de que sean debidamente firmados y sellados por las autoridades correspondientes municipales y/o estatales, según sea procedente.
+
+Tratándose de condominios, también se deberán de anexar el reglamento de administración del condominio y la tabla de indivisos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1278°.
+
+En caso de existir alguna diferencia por error u omisión en el cuadro de superficies de lo autorizado por el Consejo Estatal o el Municipio al presentado por el promotor o desarrollador para su firma; la SEPLAPDE o el Municipio aprobará dicho cambio, siempre y cuando no se modifiquen las áreas de donación, la sección de vialidades, cambios de usos de suelo y/o números de predios; ni tampoco los metros cuadrados totales del predio. Dicha aprobación deberá de ser notificada de manera formal a todos los integrantes del Consejo Estatal o a la instancia municipal respectiva, mismos que tendrán 10 días hábiles para emitir, sí la tuvieren, opinión negativa, de lo contrario se dará por aprobada la modificación y deberá publicarse en el Periódico Oficial del Estado el nuevo dictamen modificado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1279°.
+
+Una vez firmados y sellados por las autoridades competentes los planos de lotificación o zonificación autorizados del fraccionamiento, condominio o desarrollo inmobiliario especiales, el Municipio, remitirá copia simple y digitalizada de los planos y de las memorias descriptivas de lotes o predios al Instituto Catastral del Estado y al Registro Público. Si son condominios, también se deberá remitir el reglamento de administración del condominio y la tabla de indivisos.
+
+Los planos que se envíen a la autoridad competente en materia catastral, deberán especificar la ubicación oficial y denominación del fraccionamiento, condominio o desarrollo inmobiliario especial, así como de todas las calles o vialidades interiores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1280°.
+
+Cuando la solicitud para la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial sea rechazada, se notificará al interesado con los fundamentos y motivos del rechazo, señalándole los medios de defensa y plazos legales correspondientes para que en su caso impugne esa resolución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1281°.
+
+Tratándose de solicitudes para constituir desarrollos inmobiliarios especiales de predios con una superficie menor a los 20,000 metros cuadrados o el régimen de propiedad en condominio en predios de hasta de 20,000 metros cuadrados o con menos de 100 predios, viviendas, departamentos, o áreas, compete al Municipio su autorización, previa opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1282°.
+
+La modificación o extinción de todo tipo de condominios autorizados por el Municipio, compete exclusivamente al mismo, previa opinión de la SEPLAPDE; respecto de los autorizados por el Consejo Estatal, le corresponderá a la SEPLAPDE, con previa opinión del Municipio.
+
+La SEPLAPDE y el Municipio establecerán los criterios, requisitos, documentos y procedimientos para la tramitación de esas solicitudes, tomando en cuenta en lo conducente, lo que establece este Código para las solicitudes que se sometan a resolución del Consejo Estatal y el Municipio, respectivamente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1283°.
+
+Los fraccionadores o promotores podrán ceder los derechos y obligaciones respecto de la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, bajo los lineamientos que expida la SEPLAPDE o el Municipio, según corresponda.
+
+La cesión de derechos a favor de una tercera persona, podrá hacerse de las etapas de urbanización que no se hubieran municipalizado o entregado a la Asamblea de Condóminos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1284°.
+
+El Municipio, no otorgará dicha autorización sí el cesionario cuenta con antecedentes de incumplimiento, imputables a él, respecto a otros fraccionamientos, condominios o desarrollos inmobiliarios especiales realizados en el Estado.
+
+La persona física o moral cesionaria, se subrogará en todos los derechos y obligaciones que le establecen este Código y la autorización respectiva al fraccionador o promotor original.
+
+Para efecto de expedir la autorización, la SEPLAPDE deberá contar con la opinión favorable del Municipio correspondiente, en los asuntos de su competencia. Si la cesión la va otorgar el Municipio, este requerirá la opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1285°.
+
+El Consejo Estatal, la SEPLAPDE o el Municipio, podrán autorizar la ampliación de la superficie de un fraccionamiento, condominio o desarrollo inmobiliario especial, respecto de los proyectos autorizados de su parte, previo el cumplimiento de los requisitos legales y contando con la opinión del Municipio o la SEPLAPDE, según corresponda, ajustándose la solicitud en lo conducente, a los requisitos y procedimientos que establece este Código.
+
+El Consejo Estatal, la SEPLAPDE o el Municipio, podrá resolver por el tipo, ubicación y extensión de la ampliación que solicite el fraccionador o promotor, el trámite de un nuevo fraccionamiento, condominio o desarrollo inmobiliario especial, cumpliendo con lo dispuesto en el Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1286°.
+
+Los propietarios de fraccionamientos, desarrollos inmobiliarios especiales o condominios que hayan sido ejecutados sin la previa autorización, se les podrá regularizar previa solicitud o cuando la autoridad competente intervenga.
+
+Para este fin los propietarios o sus representantes deberán acompañar en la solicitud la documentación que este Código señala, independientemente de las responsabilidades y sanciones civiles, penales o administrativas a que se hagan acreedores en términos de las leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1287°.
+
+La regularización de un fraccionamiento, condominio o desarrollo inmobiliario especial, realizado sin autorización o con modificaciones no autorizadas, deberá ajustarse en lo conducente, a lo dispuesto en el Código Urbano del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Inicio de Ejecución de las Obras de Urbanización
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1288°.
+
+Para que el Municipio, le expida al fraccionador o promotor la autorización de inicio de obras de urbanización, esté debe cumplir previamente con las obligaciones que le señala este Código y la autorización respectiva, y además en el expediente correspondiente se deberá acreditar la siguiente documentación:
+
+I.- Proyecto o testimonio notarial de escrituración de las áreas de donación destinadas para equipamiento urbano, áreas verdes y vías públicas, o en su caso, copia certificada del dictamen por el que la autoridad municipal competente autorice la sustitución por infraestructura y equipamiento urbano a que se refiere este Código, o bien copia certificada del acta de Cabildo en la que se haya aprobado la sustitución del pago en numerario previstas en el mismo Código;
+
+II.- Comprobante de pago de las obligaciones fiscales estatales y municipales;
+
+III.- Garantía vigente de las obras de urbanización y en su caso de equipamiento urbano e infraestructura;
+
+IV.- Designación del residente de las obras de urbanización;
+
+V.- Proyecto ejecutivo de la urbanización autorizado por la SEPLAPDE, según corresponda, conteniendo lo siguiente:
+
+a).- Plano georreferenciado de lotificación o zonificación a escala máxima de 1:1,000 que marque lo siguiente:
+
+1.- Denominación del fraccionamiento, condominio o desarrollo inmobiliario especial;
+
+2.- División de manzanas, lotificación o zonificación;
+
+3.- El número total de lotes del fraccionamiento o predios del condominio señalando, además, el número de estos en cada una de las manzanas, el lote o predio tipo y el uso de suelo de cada uno de ellos;
+
+4.- Medidas de los linderos de los lotes y superficies de cada uno de ellos, incluyendo los de donación y restricciones o afectaciones en su caso;
+
+5.- La localización de las áreas verdes,
+
+6.- Los usos o destinos del suelo con cuadros de superficies y restricciones o afectaciones en su caso; y
+
+7.- En caso de condominio: áreas exclusivas y áreas de uso común, casetas de vigilancia, bardas, accesos y sus fachadas.
+
+b).- Plano de vialidad a una escala máxima de 1:1,000, marcando:
+
+1.- Datos del proyecto, notas y simbología;
+
+2.- El trazo de los ejes referido geométricamente a los linderos del predio;
+
+3.- Proyecto de rasantes con cortes y perfiles que muestren los niveles existentes en las ligas de acceso, así como las vialidades de los desarrollos colindantes;
+
+4.- Secciones transversales a escala máxima de 1:100 de las vialidades;
+
+5.- Sentidos de circulación;
+
+6.- Distancia entre los ejes;
+
+7.- Ángulos de intersección de los ejes;
+
+8.- Radios de giro; y
+
+9.- Propuesta de nomenclatura de las vialidades.
+
+c).- Plano de etapas de urbanización cuando aplique, en el que se indiquen las poligonales correspondientes a cada etapa propuesta y el cuadro de superficies por etapa, desglosando la superficie a urbanizar en cada una y su número de lotes o predios;
+
+VI.- Proyecto ejecutivo de las instalaciones que concuerden con las factibilidades y los planos de la integración del expediente de lo siguiente:
+
+a).- Redes de agua potable, alcantarillado, saneamiento y pluvial, aprobado por el Municipio respectivo, incluyendo la planta de tratamiento en caso de que haya sido requerida;
+
+b).- Plano, memoria descriptiva y de cálculo de la red de agua potable en el que se indique:
+
+1.- Datos del proyecto, notas y simbología;
+
+2.- Tipo de material, diámetro y longitud de tuberías,
+
+3.- Especificación en uniones, cambio de diámetros o dirección; y
+
+4.- Cota de plantilla, cota piezométrica y carga disponible en los cruceros;
+
+c).- Plano, memoria descriptiva y de cálculo de la red de alcantarillado en el que se indique:
+
+1.- Datos del proyecto, notas y simbología;
+
+2.- Tipo de material diámetros, longitudes y pendientes de tuberías;
+
+3.- Pozos de visita, con detalle de dimensiones;
+
+4.- Cota de plantilla y cota de predio en los cruceros y cambios de dirección; y
+
+5.- Localización de la descarga o descargas.
+
+d).- Plano, memoria descriptiva y de cálculo de reutilización de las aguas grises y de lluvia;
+
+e).- Plano, memoria descriptiva y de cálculo del proyecto de escurrimientos de aguas pluviales o aprovechamiento de las mismas;
+
+f).- Planos con especificaciones y memorias de cálculo de planta de tratamiento cuando el Municipio determine que no es factible conectarse al drenaje municipal;
+
+g).- Red de electrificación, aprobado por la Comisión Federal de Electricidad y proyecto de alumbrado público aprobado por el Municipio; y
+
+h).- Plano, memoria descriptiva y de cálculo de la red de electrificación y alumbrado público en el que se indique:
+
+1.- Datos del proyecto, notas y simbología;
+
+2.- Estructuras que componen la red;
+
+3.- Tipo de cableado y especificaciones; y
+
+4.- Especificaciones del alumbrado público.
+
+i).- Plano de forestación y áreas verdes;
+
+j).- Memoria técnica descriptiva para las diversas obras de urbanización conforme a las normas correspondientes, incluyendo el diseño de pavimentos conforme al estudio de mecánica de suelos;
+
+k).- Calendario de las obras de urbanización aprobado por la SEPLAPDE o el Municipio, según corresponda, firmado por el fraccionador o su representante legal, así como el perito responsable de las obras;
+
+VII.- Que no existan condicionantes u obligaciones pendientes por cumplir o documentos por entregar, cuando en su caso se hubieran señalado en la autorización del Consejo Estatal, del Municipio o de la SEPLAPDE, según sea el caso.
+
+VIII.- Opinión favorable del Municipio respectivo, respecto de los proyectos aprobados por el Consejo Estatal o la SEPLAPDE; y
+
+IX.- En el caso de que se hubieran autorizado las obras de urbanización por etapas, dictamen emitido por el Municipio, que acredite que la etapa inmediata anterior de las obras de urbanización tiene un avance mínimo del 70%, acompañado del informe de la unidad externa de supervisión correspondiente y del perito responsable de obra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1289°.
+
+La SEPLAPDE podrá en coordinación con el Municipio o viceversa, según corresponda, requerir por etapas el cumplimiento de las obligaciones y documentación que se requiere conforme a lo dispuesto en el ARTÍCULO anterior, con excepción del pago de los derechos derivados de la autorización del fraccionamiento, condominio desarrollo inmobiliario especial que deberá estar cubierta en su totalidad.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Supervisión de las Obras de Urbanización
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1290°.
+
+Las unidades externas de supervisión, tendrán las siguientes obligaciones:
+
+I.- Realizar con una responsabilidad directa, la supervisión de las obras de urbanización y edificación, conforme a los lineamientos establecidos por el dictamen de autorización de fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones, por el Consejo Estatal, de la SEPLAPDE o del Municipio, los códigos y reglamentos municipales, reglamentos de construcción y la normatividad y manuales expedidos para ese fin;
+
+II.- Encontrarse certificada por un organismo de normalización y certificación de carácter nacional en los términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización;
+
+III.- Estar inscrita en el Registro Municipal de las Unidades Externas de Supervisión;
+
+IV.- Renovar el registro correspondiente con la periodicidad requerida;
+
+V.- Acreditar anualmente al Municipio respectivo, la actualización y capacitación de los supervisores acreditados para efecto de realizar sus funciones;
+
+VI.- Asistir conjuntamente con las autoridades municipales, así como del perito responsable de las obras de urbanización o edificación, los peritos especializados y del propietario o poseedor legal o de su representante, a la apertura de la bitácora de obra;
+
+VII.- Atender con toda diligencia las observaciones y requerimientos que le realice el Municipio;
+
+VIII.- Realizar la supervisión de las obras de urbanización y edificación, conforme a los lineamientos y periodicidad que determinen las reglas expedidas por el Municipio;
+
+IX.- Tratándose de obras de urbanización, informar quincenalmente al Municipio, respecto del avance de las mismas, en cuanto a la calidad de los materiales, obras y servicios realizados, en lo concerniente a infraestructura y equipamiento hidráulico, sanitario, tratamiento de aguas residuales, drenaje pluvial, de pavimentos, guarniciones y banquetas, alumbrado público y electrificación, redes de voz y datos, gas, forestación y jardinería, nomenclatura y señalización vial, así como en lo referente a la compatibilidad de éstas conforme a lo autorizado.
+
+Una vez concluida la obra de urbanización, en algunos o todos los conceptos o servicios indicados en el párrafo anterior conforme a lo autorizado, emitir el dictamen total o parcial respectivo, a efecto de tomarse en cuenta por el Municipio, al momento de expedir el dictamen técnico para la municipalización parcial o total de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a los condóminos;
+
+X.- Respecto de las obras de edificación, informar quincenalmente al Municipio y organismos públicos de vivienda que las hubieren contratado, respecto del avance de las mismas y la calidad de los materiales, obras y servicios, conforme a lo establecido en este Código, los códigos municipales, la reglamentación de construcciones y demás disposiciones jurídicas;
+
+XI.- Registrar sus visitas, anotaciones y observaciones con relación a los fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones en el libro de bitácora.
+
+De igual forma, conforme a lo determinado por el Municipio, consultar e integrar su actuación, informes y documentación en el expediente digital único;
+
+XII.- Verificar el cumplimiento del calendario de obras de urbanización y, en su caso, edificación, reportando al Municipio los retrasos o incumplimientos;
+
+XIII.- Verificar la presencia de los residentes de obras y las visitas de los peritos, que deberán hacerse constar en el libro de bitácora correspondiente;
+
+XIV.- Emitir el reporte conforme a los lineamientos establecidos por la SEPLAPDE o el Municipio, según corresponda, en el que avale la expedición de la autorización de venta o renta de lotes, predios, locales o áreas;
+
+XV.- Expedir dictamen conforme a los lineamientos indicados por el Municipio que justifique la municipalización de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a la Asamblea de Condóminos;
+
+XVI.- Suscribir las actas de municipalización de los fraccionamientos y de subdivisiones; y
+
+XVII.- Las demás determinadas por este Código, y reglamentos municipales, lineamientos expedidos por la SEPLAPDE y el Municipio y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1291°.
+
+La ejecución del proyecto definitivo del fraccionamiento, condominio, desarrollo inmobiliario especial y subdivisión en su caso, deberá hacerse bajo la responsabilidad directa de un ingeniero civil, ingeniero arquitecto o arquitecto, con título legalmente expedido y que cuente con autorización para actuar como perito responsable de obra en la localidad donde realice el proyecto, para lo cual, deberá expresar su consentimiento por escrito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1292°.
+
+El perito responsable designado para la ejecución de las obras de urbanización, del equipamiento urbano e infraestructura y, en su caso, de los peritos especializados, serán responsables solidarios de todas las obligaciones que el fraccionador o promotor acepte con relación a dichas obras, de acuerdo con el Código Urbano del Estado de Aguascalientes.
+
+Adicionalmente a las obligaciones que les imponen a los peritos responsables de obra, tratándose de fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones, tendrán las siguientes obligaciones:
+
+I.- Coordinar la supervisión de las obras de urbanización, con las unidades externas de supervisión, debiendo reportar de inmediato cualquier anomalía de la misma al Municipio;
+
+II.- Emitir dictamen conforme a los lineamientos establecidos por la SEPLAPDE, en el que se avale la expedición de la autorización de venta o renta de lotes, predios, locales o áreas;
+
+III.- Expedir dictamen conforme a los lineamientos indicados por el Municipio respectivo que justifique la municipalización de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a la asamblea de condóminos;
+
+IV.- Suscribir las actas de municipalización de los fraccionamientos o en su caso, de subdivisiones;
+
+V.- Registrar sus visitas, anotaciones y observaciones con relación a los fraccionamientos, condominios o desarrollos inmobiliarios especiales en el libro de bitácora y, en su caso, en el expediente digital único;
+
+VI.- Reportar de inmediato al Municipio cualquier anomalía encontrada en la obra correspondiente; y
+
+VII.- Las demás obligaciones que les impongan este Código, los códigos municipales y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1293°.
+
+La supervisión única que se realice en la construcción y urbanización de fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones por parte de las unidades externas de supervisión, constará de las siguientes partes:
+
+I.- De la compatibilidad de proyecto: que consistirá en que las obras sean acordes al proyecto autorizado; y
+
+II.- Supervisión de obra, calidad y especificaciones técnicas, en el sentido amplio de las obras de urbanización, respecto de los materiales, obra y servicios realizados; así como, construcción del equipamiento urbano e infraestructura complementarios en caso de que se hubiera sustituido por una parte de la donación o a cuenta de obligaciones fiscales municipales.
+
+Incluso la supervisión única podrá comprender el proceso de edificación de vivienda de carácter social y económico, y por tanto los sistemas y procedimientos de asignación de la misma deberán ligarse y coordinarse para esos efectos con los implementados por los diversos organismos promotores o que financian vivienda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1294°.
+
+El fraccionador o promotor atenderá las indicaciones que se deriven de la supervisión que realice la unidad externa de supervisión o, en su caso, de la supervisión municipal; pero tendrá derecho a pedir por escrito al Municipio que se reconsideren las determinaciones tomadas por los supervisores, cuando pudieran implicar cambios en el proyecto, haciendo las observaciones que considere necesarias.
+
+Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, el fraccionador o promotor deberán proponerlas por escrito ante la instancia que las hubiera autorizado, quien deberá solicitar la opinión correspondiente, ya sea a la SEPLAPDE o el Municipio, según resulte procedente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1295°.
+
+El fraccionador o promotor realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización al Municipio y a la Unidad Externa de Supervisión de acuerdo al proyecto definitivo y las que les sean solicitadas, a efecto de garantizar la buena calidad de las obras.
+
+Los originales de los reportes de laboratorio, correspondientes a las pruebas mencionadas en el párrafo anterior, deberán anexarse a la bitácora y en su caso al expediente digital único.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1296°.
+
+El fraccionador o promotor entregará por escrito al Municipio y a la unidad externa de supervisión, informes quincenales del avance físico de las obras de urbanización, avalados por el perito responsable de obra, y reportes de laboratorio de control de calidad, con base en el proyecto definitivo y al calendario de obra autorizado.
+
+Respecto de las obras de equipamiento urbano e infraestructura complementaria que se estén ejecutando, deberá entregar el informe con la misma periodicidad al Municipio.
+
+Asimismo, en los informes que señala el párrafo anterior, deberá hacerse mención a las correcciones que, en su caso, se hayan derivado de las observaciones comunicadas al fraccionador o promotor por las unidades externas de supervisión, el perito responsable de obra y en caso extraordinario por los supervisores municipales autorizados. Los laboratorios contratados por los fraccionadores o promotores, deberán encontrarse debidamente certificados por organismos competentes en esa materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1297°.
+
+El fraccionador o promotor mantendrá en la obra, en lugar fijo y permanentemente, el libro de bitácora debidamente foliado y autorizado por el Municipio hasta la conclusión total de la misma. La citada bitácora deberá contemplarse dentro del expediente digital único.
+
+El personal autorizado por el Municipio, el perito responsable de obra o especializado y la unidad externa de supervisión, deberán realizar las anotaciones correspondientes en la bitácora y/o en el expediente digital único.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1298°.
+
+Previo a que en su caso se hagan efectivas las garantías de las obras de urbanización y edificación, considerando lo dictaminado en la supervisión realizada por la unidad externa de supervisión y excepcionalmente por su personal de supervisión, el Municipio deberá formular un dictamen técnico a fin de fundamentar que el fraccionador o promotor incurrió en cualquiera de las situaciones señaladas en este Código, para proceder a hacer efectivas las garantías correspondientes.
+
+Para tales efectos, deberá conceder audiencia al fraccionador o promotor, para que alegue lo que a su derecho convenga y en su caso aporte pruebas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1299°.
+
+Cuando el fraccionador, promotor del condominio, en un predio subdividido o de un desarrollo inmobiliario especial, haya ejecutado obras, equipamiento urbano, infraestructura, construcciones, instalaciones o servicios en contravención a lo dispuesto en este Código, la autorización respectiva o en las demás disposiciones jurídicas aplicables, la SEPLAPDE y, en su caso, el Municipio podrán ordenar la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promotor, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la autoridad competente, generándose a su cargo un crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Urbanización, Equipamiento y Prestación de Servicios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1300°.
+
+La ejecución de las obras de urbanización en los fraccionamientos o condominios, podrá autorizarse en las siguientes modalidades:
+
+I.- Urbanización inmediata;
+
+II.- Urbanización por etapas; y
+
+III.- Urbanización progresiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1301°.
+
+En la urbanización por etapas, las últimas pueden estar ligadas a la realización diferida de ciertas infraestructuras urbanas que permitan su conexión a las iniciales, sin que dichas obras rebasen el plazo máximo de ejecución, el cual será de 5 años y comprenderá todas las etapas.
+
+Si el promotor o desarrollador no concluye en 5 años la ejecución de las obras del fraccionamiento, condominio o desarrollo inmobiliario especial, deberá solicitar previo al término del plazo determinado a la SEPLAPDE o en su caso al Municipio, la renovación del mismo y deberá cumplir con los requisitos de los lineamientos que dicha Dependencia Estatal expida o en su caso el Municipio; de lo contrario la SEPLAPDE o el Municipio, deberá iniciar un procedimiento de revocación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1302°.
+
+La urbanización progresiva sólo se autorizará a instituciones gubernamentales, organismos públicos de vivienda o a asociaciones civiles sin fines de lucro coordinados con una institución gubernamental. En este caso, la supervisión de las obras de urbanización y del proyecto la realizará directamente el Municipio.
+
+La infraestructura faltante que haya determinado el Consejo Estatal, la SEPLAPDE o el Municipio, deberá ser ejecutada por el fraccionador o promotor con la cooperación de los adquirentes de los lotes o predios, de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1303°.
+
+El fraccionador o promotor ejecutará las obras de urbanización del fraccionamiento, condominio o desarrollo inmobiliario especial y en su caso, del equipamiento urbano e infraestructura complementarios, conforme a las características, especificaciones, temporalidad y calidad que le establecen este Código, el proyecto definitivo aprobado y las que se establezcan en otras disposiciones jurídicas aplicables.
+
+Es facultad de la SEPLAPDE y el Municipio, autorizar el calendario o programa de obras de urbanización, determinando la temporalidad para la ejecución de las mismas, de acuerdo a la superficie y las implicaciones del proyecto del fraccionamiento, condominio o desarrollo inmobiliario especial; así como a solicitud justificada del promotor o desarrollador otorgar las suspensiones de obra que se requieran.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1304°.
+
+Obtenida la autorización del fraccionamiento, condominio o desarrollo inmobiliario especial, el fraccionador o promotor contará con un plazo de dieciocho meses para iniciar las obras de urbanización, contados a partir del día siguiente de la notificado de la autorización; sí vencido el plazo no se han iniciado las obras; se podrá conceder una prórroga por una única vez de un plazo máximo de 1 año.
+
+En el supuesto de que el fraccionador o promotor no inicie las obras de urbanización en el plazo referido o no concluya las obras de las etapas de urbanización, conforme a lo autorizado y dispuesto en este Código, la autorización concedida se revocará total o parcialmente por el Consejo Estatal, la SEPLAPDE o el Municipio según corresponda, a partir de la fecha de vencimiento del plazo definitivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1305.
+
+El Consejo Estatal, la SEPLAPDE o el Municipio al realizar el procedimiento de revocación de la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, deberá considerar que no se afecten derechos de adquirentes o usuarios de lotes, predios, locales o áreas, así como el que queden inconclusas obras de urbanización y edificación necesarias para dar soporte y funcionalidad a otras etapas ya concluidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1306°.
+
+El fraccionador o promotor costeará por su cuenta, las obras de urbanización y edificación del fraccionamiento, condominio o desarrollo inmobiliario especial que le señale la autorización respectiva, incluyendo el equipamiento urbano, la infraestructura, la construcción de camellones y su respectiva jardinería, así como, la arborización en las vialidades, parques y zonas destinadas para ese fin.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1307°.
+
+La ejecución de las obras para dotar de equipamiento urbano e infraestructura, complementarias a las áreas de donación municipales o predio municipal diverso, se sujetarán al proyecto ejecutivo y programa de obra aprobado por el Municipio. Será requisito para la municipalización de un fraccionamiento, que el Municipio hubiera recibido de plena conformidad dicho equipamiento e infraestructura complementaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1308°.
+
+En caso de que al desarrollar un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión se construyan obras que no den servicio exclusivo al mismo, constituyendo por tanto equipamiento urbano e infraestructura de beneficio para la zona correspondiente, el fraccionador o promotor que las ejecute tendrá derecho a recuperar de otros desarrolladores que la pretendan utilizar, la parte proporcional del costo, en función del beneficio recibido por cada una de las partes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1309°.
+
+La autorización de fraccionamientos, condominios o desarrollos inmobiliarios especiales, incluye la construcción para urbanizar los terrenos correspondientes, por lo que no se requerirá una licencia de construcción de urbanización municipal.
+
+Las edificaciones habitacionales, de equipamiento o de otro tipo, requerirán de los permisos o licencias de construcción expedidas por el Municipio conforme a este códigos y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1310°.
+
+El fraccionador o promotor deberá de solicitar por escrito a la SEPLAPDE o al Municipio, según corresponda la autorización para iniciar las obras de urbanización, conforme al proyecto autorizado del fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y cumpliendo con los requisitos señalados en este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1311°.
+
+El fraccionador o promotor contará con el plazo indicado en la Ley de Ingresos Estatal o Municipal según sea el caso, para enterar las obligaciones fiscales que correspondan, en su defecto deberán quedar enteradas antes de que inicien los trabajos de urbanización autorizados para el fraccionamiento, desarrollo inmobiliario especial, condominio o subdivisión.
+
+En el caso de haberse autorizado la urbanización por etapas, las obligaciones fiscales correspondientes a la supervisión se fijarán y cubrirán por cada etapa, tomando como base el presupuesto actualizado de dichas obras de urbanización o la tarifa correspondiente determinados por el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1312°.
+
+Una vez que la SEPLAPDE o el Municipio según corresponda, compruebe que en el expediente del fraccionamiento, condominio o desarrollo inmobiliario especial se encuentra la documentación necesaria y, en su caso, cuente con la opinión favorable, ya sea del Municipio o la SEPLAPDE, tendrá un plazo de 10 días hábiles contado a partir de que recibió la mencionada opinión para expedir la resolución a la autorización para el inicio de las obras de urbanización.
+
+Para efecto de que la SEPLAPDE o el Municipio solicite la citada opinión para resolver sobre el inicio de las obras de urbanización peticionada, previamente deberá encontrarse integrado el expediente del fraccionamiento, condominio o desarrollo inmobiliario especial.
+
+Dicha opinión deberá ser emitida en un plazo máximo de 10 días hábiles, a partir de la fecha de recepción de la solicitud respectiva. Una vez transcurrido el plazo señalado y sin que se haya obtenido la opinión técnica o se hubiese solicitado prórroga, se entenderá que la SEPLAPDE o el Municipio según corresponda, no tiene objeción alguna para que se resuelva la solicitud de autorización para iniciar la ejecución de obras de urbanización.
+
+En el supuesto que no se emita esa autorización o no se justifique la negativa dentro del plazo indicado en el párrafo primero de este artículo por parte de la SEPLAPDE o el Municipio, el fraccionador o promotor entenderá que la misma fue autorizada y por ende procederá a iniciar con las correspondientes obras de urbanización, debiendo cubrir los derechos fiscales municipales para la supervisión; encontrándose el Municipio obligado a asignar a la brevedad la correspondiente Unidad Externa de Supervisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1313°.
+
+Una vez que se le hubiera autorizado el inicio de las obras de urbanización, el fraccionador o promotor podrá solicitar la licencia de construcción al Municipio, que le autorice la edificación de prototipos muestra de viviendas, departamentos o locales, la construcción de sus oficinas de comercialización y de accesos principales y monumentales, sin que esto represente la posibilidad de realizar actos de venta de esos inmuebles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1314°.
+
+Como parte de los requisitos que deben cumplir para que la SEPLAPDE o el Municipio otorgue la autorización de inicio de obras de urbanización, el fraccionador o promotor, deberá constituir garantía ante la Secretaría de Finanzas o Tesorería Municipal, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y del equipamiento urbano e infraestructura complementarios, así como cumplir con todas y cada una de las obligaciones que asumió conforme a este Código y la resolución correspondiente del Consejo Estatal, de la SEPLAPDE o el Municipio según corresponda. Dicha garantía podrá consistir a juicio del Municipio respectivo, en:
+
+I.- Fianza expedida por compañía autorizada, con valor del 40% del presupuesto total o por etapas de las obras de urbanización y del equipamiento urbano y la infraestructura complementaria;
+
+II.- Hipoteca de inmuebles que cubran el valor amparado por la fianza señalada en el inciso anterior, sin que exista la posibilidad de que se ejerzan actos de dominio respecto de dichos bienes, hasta en tanto no se cancele la garantía correspondiente; o
+
+III.- Depósito en efectivo por el 20% del presupuesto total de las obras de urbanización y adicionalmente del equipamiento urbano y la infraestructura complementaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1315°.
+
+Cuando el Consejo Estatal, la SEPLAPDE o el Municipio, resuelva que un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, se urbanice por etapas, la garantía se constituirá antes de iniciar cada etapa, tomando como base para fijar su monto, el presupuesto de las obras de urbanización de la etapa por ejecutar; actualizando los precios al momento en que esta se inicie.
+
+En lo que corresponde a la garantía del equipamiento urbano e infraestructura complementarios, esta se constituirá en la etapa del fraccionamiento, condominio o desarrollo inmobiliario especial que se vaya a construir, conforme a lo determinado por el Municipio o si se trata de un predio municipal diverso, antes de iniciar las obras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1316°.
+
+Tratándose de garantías hipotecarias, éstas podrán constituirse en inmuebles que formen parte del fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión o en predios diferentes, los cuales deberán estar libres de gravamen y de limitación de dominio.
+
+El Municipio requerirá, a costa del fraccionador o promotor, la valuación por perito autorizado de los inmuebles que se den en garantía, a efecto de que se asegure que estos cubran el 40% del presupuesto total o parcial por etapas del valor de las obras de urbanización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1317°.
+
+La garantía constituida para asegurar la correcta ejecución de las obras de urbanización, no podrá ser cancelada sino hasta que haya transcurrido un año, contado a partir de la fecha del dictamen que determine la debida ejecución de las obras de urbanización y en su caso de la infraestructura y equipamiento urbano complementarios, esto con el fin de garantizar dichas obras contra vicios ocultos.
+
+Una vez expedido el dictamen mencionado en el párrafo anterior, la garantía que deberá otorgar el fraccionador o promotor por el año posterior, será por un valor equivalente al 50% de la otorgada inicialmente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1318°.
+
+Transcurrido el plazo a que se refiere el ARTÍCULO anterior, el fraccionador o promotor solicitará al Municipio, la cancelación de la garantía que al efecto se haya constituido.
+
+Tratándose de condominios en los que se haya cancelado dicha garantía, la administración del mismo será responsable, ante los condóminos, de que las obras de urbanización se encuentren en buen estado y los servicios urbanos se presten suficientes y adecuadamente.
+
+La Asamblea General de Condóminos, acordará las medidas y lineamientos conducentes, a efecto de que la administración del condominio, cumpla con lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1319°.
+
+El Municipio respectivo deberá hacer efectivas las garantías a que se refiere este Código, cuando el fraccionador o promotor hubiera incurrido en cualquiera de los siguientes supuestos:
+
+I.- No cumpla con el calendario de obras de urbanización autorizado; independientemente de que se revoque parcialmente la autorización del fraccionamiento, condominio o desarrollo inmobiliario especial;
+
+II.- No se apegue a las especificaciones y características de las obras señaladas en este Código y en la autorización respectiva;
+
+III.- No acate las observaciones que le hagan, las autoridades competentes, durante la ejecución de las obras; o
+
+IV.- Deje de prestar suficiente y adecuadamente los servicios a que está obligado por este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1320°.
+
+El Municipio, con los recursos constituidos para la garantía, ejecutará directamente las obras de urbanización y de edificación del equipamiento urbano que no haya ejecutado o corregido el fraccionador o promotor.
+
+En el caso de que dichos recursos sean insuficientes para ejecutar las obras de urbanización y del equipamiento urbano o infraestructura complementaria, el fraccionador o promotor estará obligado a sufragar los recursos adicionales que sean necesarios. Si el Municipio es quien ejecuta las obras de urbanización y de equipamiento urbano o infraestructura con recursos propios por ser insuficientes las garantías; los gastos que se deriven se harán efectivos como si se trataran de créditos fiscales, en términos de la legislación aplicable. Lo anterior, independientemente de la de las responsabilidades, e imposición de sanciones administrativas, civiles o penales correspondientes, a cargo del fraccionador o promotor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1321°.
+
+En caso de que el fraccionador o promotor no realice las obras de urbanización en el plazo autorizado y conforme al calendario de obras, podrá solicitar a la SEPLAPDE o al Municipio, según corresponda, con un mes de anticipación y por escrito, la prórroga que considere necesaria, exponiendo los motivos que ocasionaron el retraso; quienes dictaminarán sobre la procedencia de dicha petición, podrán otorgar esta, cuando la prorroga no exceda del 50% del plazo originalmente autorizado y además, el fraccionador o promotor deberá actualizar los documentos que la SEPLAPDE o el Municipio consideren convenientes.
+
+En cuanto a la solicitud de prórroga para la ejecución del equipamiento urbano e infraestructura complementaria, el fraccionador o promotor, dentro del plazo indicado en el párrafo anterior, deberá solicitarla al Municipio por escrito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1322°.
+
+Cuando las obras de urbanización hayan de ejecutarse por etapas, los trabajos se iniciarán por la primera, la cual deberá estar previamente aprobada, y se deberá concluir íntegramente, de tal manera que ésta sea autosuficiente en todos sus servicios, prosiguiendo las subsecuentes etapas, y cumpliendo con la misma condición.
+
+En el caso de fraccionadores o promotores que hubieren cumplido con todas sus obligaciones derivadas de la autorización expedida a su favor, se podrá autorizar por la SEPLAPDE o el Municipio, según corresponda y cumpliendo con los requisitos señalados en este Código, el inicio de la etapa de obra de urbanización siguiente, siempre y cuando la etapa que se esté desarrollando presente un avance en la ejecución de las obras de cuando menos el 70%.
+
+Cuando en el fraccionamiento, condominio o desarrollo inmobiliario especial, la primera etapa por urbanizar no colinde con zona urbanizada, los trabajos se iniciarán por la construcción de la calle de liga y por la conexión de los servicios públicos necesarios.
+
+En lo que corresponde a la ejecución de las obras e instalaciones para el equipamiento urbano e infraestructura complementaria que se hubiera sustituido por una parte de las áreas de donación o por obligaciones fiscales municipales, las mismas iniciarán conforme a lo que dictamine el Municipio respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1323°.
+
+Una vez concluida la totalidad, una etapa o parcialmente las obras de urbanización, el fraccionador o promotor, solicitará por escrito al Municipio, el dictamen técnico jurídico de la ejecución de dichas obras total o parcialmente.
+
+En el supuesto de que el fraccionador o promotor hubiera realizado obras e instalaciones de equipamiento urbano e infraestructura complementaria en sustitución de una parte de las áreas de donación o por obligaciones fiscales municipales, el dictamen de conclusión también lo expedirá el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1324°.
+
+Los dictámenes técnicos a que se refiere el ARTÍCULO anterior, tendrán por objeto verificar que el fraccionador o promotor, haya cumplido con todas las obligaciones que le señala este Código, ejecutadas las obras de urbanización y el equipamiento urbano e infraestructura complementaria, conforme a las especificaciones y calidad previstas en el proyecto definitivo del fraccionamiento, desarrollo inmobiliario especial, condominio o subdivisión autorizada.
+
+Esos documentos técnicos y jurídicos serán expedidos tomando en cuenta lo dictaminado por las unidades externas de supervisión, los peritos y la documentación del expediente correspondiente y solo excepcionalmente, se pedirá justificadamente la opinión de las dependencias o entidades municipales correspondientes a un servicio u obra. Instancias que tendrán un plazo máximo de 10 días hábiles para emitir dicha opinión, ya que, en caso de no hacerlo, se considerará que lo dictaminado por la Unidad Externa de Supervisión correspondiente es lo correcto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1325°.
+
+El dictamen técnico indicado será generado por el Municipio, debiéndose hacer del conocimiento del fraccionador o del promotor; además en su caso, de la asociación de colonos o de la administración del condominio.
+
+En caso de que el dictamen no apruebe la totalidad de las obras de urbanización o del equipamiento urbano e infraestructura complementaria, el fraccionador o promotor deberá corregir a su costa, las anomalías que se desprendan de dicho documento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1326°.
+
+Tratándose de condominios, el dictamen técnico a que se refiere el artículo anterior, en ningún caso implica la municipalización de los mismos, ya que únicamente justifica la factibilidad para que el promotor haga la entrega de la administración y mantenimiento de los bienes comunes, infraestructura, equipamiento y prestación de los servicios a los condóminos y a su vez la obligación de estos de recibirlos.
+
+En lo que corresponde a los condominios, la prestación de los servicios urbanos básicos, siempre será responsabilidad de la administración del condominio, con las cuotas a cargo de los condóminos y bajo la supervisión de las autoridades competentes.
+
+En el caso de los condominios, el sistema de agua potable, alcantarillado y tratamiento de las aguas residuales, deberá ser entregado al Municipio respectivo, salvo que se acuerde lo contrario entre los condóminos y el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1327°.
+
+Expedido el dictamen técnico jurídico que determine que las obras de urbanización que dotaron de infraestructura, equipamiento y servicios urbanos a un condominio, así como aquel cuyo contenido manifieste el cumplimiento por parte del promotor con todas sus obligaciones y existiera negativa de los condóminos para recibirlas, él mismo podrá recurrir a las instancias judiciales para realizar la entrega de las mismas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1328°.
+
+Una vez concluidas satisfactoriamente las obras de urbanización de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y estén en uso los servicios básicos, el Municipio respectivo se dirigirá a la autoridad competente en materia catastral, a efecto de que proceda a asignar un nuevo valor catastral a dicha zona, de acuerdo con las obras de urbanización realizadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1329°.
+
+La perforación y equipamiento de los pozos de agua potable que se requieran, podrá ser realizada directamente por el Municipio respectivo, a costa del fraccionador o promotor, de acuerdo a las normas y especificaciones que la Comisión Nacional del Agua le determine. El Municipio, igualmente, administrará y se hará cargo del mantenimiento de las fuentes de abastecimiento, de las redes de distribución y demás partes del sistema de agua potable, conforme sean puestas en operación, aun cuando no se haya municipalizado el fraccionamiento. Si se trata de un condominio, según se acuerde con los condóminos y el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1330°.
+
+La constitución del régimen de propiedad en condominio se autorizará en predios que cuenten con los servicios urbanos indispensables, como son:
+
+I.- Agua potable;
+
+II.- Alcantarillado y tratamiento de aguas residuales;
+
+III.- Energía eléctrica;
+
+IV.- Alumbrado exterior;
+
+V.- Las vialidades públicas o de uso común que permitan la circulación y acceso adecuado de peatones, bicicletas y vehículos; y
+
+VI.- Equipo de limpia, aseo y mantenimiento de áreas comunes. Lo anterior, salvo lo dispuesto para los condominios de tipo especial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1331°.
+
+Para los efectos del ARTÍCULO anterior, también se consideran servicios urbanos indispensables, las áreas destinadas al estacionamiento vehicular, incluyendo para visitantes, de bici estacionamientos o de actividades comerciales, educativas, de recreo y de vigilancia, en la extensión necesaria, cuando una o varias de dichas áreas deban existir a consideración del Consejo Estatal o del Municipio en su caso, previa opinión de la SEPLAPDE.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1332°.
+
+Los servicios urbanos indispensables serán prestados permanentemente por la administración del condominio o promotor, con las cuotas y aportaciones de los condóminos, por lo que no serán responsabilidad del Municipio; salvo los servicios que hubiera recibido el mismo, conforme a lo establecido en este Código.
+
+El reglamento de administración del condominio, deberá contemplar las medidas que se adoptarán para que los condóminos cumplan con la obligación de cubrir las cuotas para la prestación de los servicios comunes y, en su caso la suspensión de su prestación por falta de pago de dichas cuotas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1333°.
+
+La SEPLAPDE y el Municipio respectivo exigirán que la prestación de los servicios en los condominios se haga de manera adecuada, oportuna y suficiente por parte de los promotores o la administración de los mismos. El dictamen de la autorización correspondiente, determinará las especificaciones y características de construcción de la infraestructura y equipamiento que se requiera en el condominio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1334°.
+
+Las vialidades interiores de uso común de los condominios deberán tener las características, especificaciones y anchura de sus equivalentes en los fraccionamientos, especialmente los pavimentos de concreto hidráulico, con excepción de lo que establezca este Código para los condominios especiales. Lo anterior salvo los casos donde el interesado proponga por motivos de diseño y aprovechamiento posibles diferencias a dichas características, las cuales en su caso serán evaluadas y aprobadas por el Consejo Estatal o el Municipio según corresponda.
+
+La sección de las calles interiores de los condominios podrá ser de diez metros de ancho en total, cuando funcionen como un circuito y un mismo sentido de circulación, incluyendo banquetas de dos metros. También se podrán utilizar pavimentos permeables, conforme lo determine, justifique y sustente técnicamente en su caso el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1335°.
+
+Los fraccionadores o promotores deberán garantizar en los términos de este Código, la existencia de una fuente suficiente de abastecimiento de agua potable para dotar al fraccionamiento, condominio o desarrollo inmobiliario especial, a criterio del Municipio respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1336°.
+
+Una vez autorizado el fraccionamiento, condominio o desarrollo inmobiliario especial por el Consejo Estatal, la SEPLAPDE o el Municipio según sea el caso, las modificaciones posteriores a las factibilidades presentadas en el proyecto inicial que correspondan al abastecimiento de agua por el organismo operador, deberán someterse nuevamente a su autorización ante la autoridad correspondiente.
+
+Asimismo, garantizarán la existencia o construcción para su buen funcionamiento, de una red de distribución de agua potable para el fraccionamiento, condominio o desarrollo inmobiliario especial, y la instalación de toma domiciliaria, así como la existencia o construcción para su buen funcionamiento de una red de alcantarillado con salida de albañal.
+
+En todo caso, el Municipio autorizará la conexión de las redes de agua potable y alcantarillado de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión a las redes generales, debiendo el fraccionador o promotor cubrir el pago de los derechos correspondientes al momento en que se conecte a dichas redes y reciba el servicio correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+De la Promoción y Venta de Lotes, Predios o Áreas
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1337°.
+
+Una vez autorizado el fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión y cubiertas las obligaciones fiscales estatales y/o municipales correspondientes, los interesados podrán realizar su promoción de manera general, por lo que deberán presentar a la SEPLAPDE o al Municipio, según proceda, la propuesta de su publicidad, la cual proporcionará información de carácter general respecto del proyecto autorizado, evitando que sea confusa y engañosa para la población. La autorización de promoción y publicidad, no incluye derecho a ejercer actos traslativos de dominio de los lotes, predios o áreas, sino hasta que cuente con la autorización para venta correspondiente.
+
+En caso de no cumplir con lo señalado en el párrafo anterior, el fraccionador o promotor se hará acreedor a las sanciones que establece este Código. Una vez autorizada la publicidad por la SEPLAPDE o el Municipio, la misma no podrá ser modificada durante su difusión, a no ser que se autorice lo conducente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1338°.
+
+Los fraccionadores y promotores previamente deberán solicitar a la SEPLAPDE o al Municipio, según proceda, que les autorice la venta de lotes, predios, viviendas, departamentos o áreas.
+
+La SEPLAPDE o el Municipio para efecto de expedir la autorización de venta de los bienes indicados o cualquier acto traslativo de dominio, deberá contar con la opinión favorable del Municipio o la SEPLAPDE, según corresponda, de la unidad externa de supervisión y del perito responsable de la obra, del que se desprenda que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente y que las mismas son compatibles con el proyecto autorizado. Esta autorización podrá otorgarse por etapas.
+
+Además de los requisitos señalados anteriormente, para efecto de que la SEPLAPDE o el Municipio, expida la autorización de venta de los bienes de un fraccionamiento, condominio o subdivisión, en el expediente respectivo debe existir la siguiente documentación:
+
+I.- Si se trata de un condominio, la escritura pública constitutiva inscrita en el Registro Público, previa apertura de las claves catastrales que realice la autoridad competente en materia de catastro;
+
+II.- Si es fraccionamiento o subdivisión, la escritura pública de lotificación inscrita en el Registro Público, previa apertura de las claves catastrales que realice la autoridad competente en materia catastral;
+
+III.- Que no existan condicionantes pendientes de cumplir, cuando se hubieran señalado en la autorización del Consejo Estatal o el Municipio;
+
+IV.- Si se realizó equipamiento e infraestructura complementarios en sustitución de una parte de la donación o de las obligaciones fiscales municipales, que se hubiera avanzado en las mismas conforme al calendario de obras respectivo; y en caso de haberse sustituido el área de donación por su pago, copia certificada del comprobante de dicho deposito o transferencia electrónica al Municipio respectivo;
+
+V.- Que la garantía de las obras de urbanización se encuentre vigente; y
+
+VI.- Escritura de las áreas de donación destinadas para equipamiento urbano, áreas verdes y vías públicas inscritas ante la autoridad competente en materia catastral y en el Registro Público, del fraccionamiento o condominio o, en su caso, de la etapa de urbanización correspondiente.
+
+En el caso de los condominios verticales en proceso de construcción, con una altura superior a los 21 metros o más de 14 departamentos o unidades, deberán contar con reporte de perito avalando un porcentaje mínimo de avance del 50%., así como otorgar al Municipio una garantía en términos del artículo 411 de este Código.
+
+Esa garantía se cancelará al momento en que el Municipio emita la constancia de habitabilidad o terminación de lo obra.
+
+Cuando alguna persona física o moral pretenda obtener la cesión de derechos y obligaciones de un fraccionamiento o condominio, podrá autorizarse el traslado de dominio del predio o predios respectivos, sin cumplirse los requisitos anteriores, con la condicionante de que el adquirente no realice la promoción y venta de los lotes o predios resultantes, hasta que obtenga la citada cesión de derechos y obligaciones y cumpla con lo dispuesto en párrafos anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1339°.
+
+Una vez que el Municipio, compruebe que el expediente está completo y se cuente con la correspondiente opinión favorable, tendrá un plazo de 10 días hábiles contados a partir de que recibió dicha opinión para expedir en su caso la correspondiente autorización de venta.
+
+En caso de no hacerlo dentro de ese plazo o resolver por escrito una negativa, el interesado entenderá que la autorización fue expedida favorablemente y por ende podrá realizar actos traslativos de dominio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1340°.
+
+El Instituto Catastral, las oficinas municipales y el Registro Público de la Propiedad, no realizaran ningún movimiento traslativo de dominio, hasta en tanto no se hubiera expedido la autorización de venta y se les haya notificado el Municipio, según proceda.
+
+Cuando se trate de fraccionamientos o condominios promovidos por el IVSOP, se podrá autorizar la venta de lotes siempre y cuando exista la infraestructura mínima de energía eléctrica, agua potable, alcantarillado, guarniciones y banquetas para delimitar los niveles de las viviendas y futuros pavimentos.
+
+En este caso, deberá existir convenio con el Municipio, en el que se especificará si éste o el fraccionador otorgarán los servicios públicos, en caso de que estuviere habitado y no se hubiera municipalizado en los términos establecidos en este Código.
+
+Para efectos del presente artículo y tratándose de fraccionamientos, el Municipio podrá prestar los servicios, quedando reservada dicha facultad para emprender las acciones legales que procedan en caso de incumplimiento por parte del fraccionador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1341°.
+
+El Municipio podrá revocar previo al procedimiento administrativo, la autorización de venta en los siguientes casos:
+
+I.- Cuando sin causa justificada se suspenda la construcción de las obras de urbanización o edificación;
+
+II.- Cuando no esté garantizada la prestación de los servicios públicos;
+
+III.- Cuando las obras de urbanización sean afectadas por una situación ajena al proyecto y representen un riesgo para los adquirientes o poseedores;
+
+IV.- Cuando la comercialización del proyecto, no sea congruente con el proyecto autorizado por la autoridad correspondiente;
+
+V.- Cuando no se cumplan las condicionantes señaladas en el oficio de autorización de venta; y
+
+VI.- Por recomendación fundada y justificada de la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Municipalización de los Fraccionamientos y Subdivisiones
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1342°.
+
+El Municipio será la única autoridad competente para recibir los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización de un fraccionamiento o subdivisión, por lo que cualquier acto, contrato o convenio que se celebre por parte del fraccionador o promotor, con la asociación de colonos u otra persona física o moral que contravenga esta disposición, será nulo de pleno derecho.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1343°.
+
+El fraccionador o promotor, habiendo ejecutado la urbanización total del fraccionamiento o subdivisión y dotado del equipamiento urbano e infraestructura complementarios en el área de donación o en otro predio municipal, de conformidad al proyecto definitivo autorizado y al dictamen técnico de autorización, solicitará al Municipio un plazo máximo de 30 días naturales la municipalización correspondiente.
+
+Si el equipamiento urbano e infraestructura complementaria fue realizada por un fraccionador o promotor, por haberse autorizado la sustitución por parte de las áreas de donación o por obligaciones fiscales municipales, se seguirá el mismo procedimiento señalado en este Capítulo.
+
+Los fraccionamientos que se urbanicen por etapas, podrán municipalizarse parcialmente previo acuerdo con el Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1344°.
+
+El Municipio podrá recibir previamente a la municipalización de un fraccionamiento o subdivisión, algún servicio u obra de equipamiento urbano, a efecto de hacerse cargo de su operación y funcionamiento para lograr mayor eficiencia.
+
+En lo que se refiere a los sistemas de agua potable, cuando así le sea exigido, el fraccionador está obligado a entregar éstos al Municipio, con el objeto de interconectarlos a la red municipal y optimizar el aprovechamiento de su fuente de abastecimiento, independientemente de que el fraccionamiento esté o no municipalizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1345°.
+
+El Municipio recibirá la totalidad de un fraccionamiento o subdivisión o de alguna etapa de urbanización, servicio o equipamiento mediante el levantamiento de un acta administrativa total o parcial, en la que intervendrán la persona titular de la Presidencia Municipal, el titular de la Secretaría Municipal, el fraccionador, el perito responsable de las obras de urbanización, un representante de la SEPLAPDE, un representante de la unidad externa de supervisión y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico por el que se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
+
+Con base en lo dictaminado por la unidad externa de supervisión y el perito responsable de las obras, así como en la documentación del expediente respectivo, el dictamen técnico-jurídico lo elaborará el Municipio, conforme a sus facultades y responsabilidades respectivas; mismo que se insertará en la respectiva acta administrativa, que deberá anexarse al expediente del fraccionamiento o subdivisión y en el expediente digital único.
+
+De manera extraordinaria y únicamente en casos justificados, para contar con los suficientes elementos que le permitan integrar el dictamen previo sobre la factibilidad de la solicitud de municipalización, el Municipio requerirá la opinión técnica o informe de alguna autoridad u organismo competente, en algún aspecto técnico en lo particular y que se deba de analizar e incluir en el proyecto de dictamen mencionado.
+
+El plazo máximo para emitir la opinión técnica o informe por la instancia que haya sido requerida directa y justificadamente por la Secretaría Municipal, no podrá ser mayor de 10 días hábiles, contados a partir de su solicitud. Una vez transcurrido el plazo señalado, sin que se haya obtenido la opinión técnica o informe señalado, se entenderá que dicha autoridad u organismo no se opone a que la solicitud de municipalización sea resuelta conforme al dictamen técnico- jurídico procedente.
+
+Esa opinión o dictamen que emita la correspondiente dependencia y entidad municipal, en sentido positivo será de vigencia permanente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1346°.
+
+El Municipio tramitará la publicación en el Periódico Oficial del Estado del acta de entrega-recepción del fraccionamiento o subdivisión o las correspondientes a las etapas de urbanización o recepción de un servicio u obra de equipamiento urbano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1347°.
+
+El municipio tomará las medidas necesarias para el debido aprovechamiento de las áreas de donación y, en su caso, del equipamiento urbano e infraestructura que hubieran dotado los fraccionadores, programando la construcción de escuelas, parques, instalaciones para la activación física, mercados, dispensarios y demás obras de servicio público y social, para beneficio del fraccionamiento o del centro de población en general.
+
+En todo caso se deberá destinar un espacio para la activación física.
+
+Los colonos de un fraccionamiento o subdivisión, si es su deseo, se podrán organizar y constituir una persona moral, para realizar en su caso aportaciones, para el debido funcionamiento y mantenimiento del equipamiento urbano de sus áreas de donación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1348°.
+
+Mientras no se realicen las obras a que se refiere el artículo anterior, el Municipio respectivo estará obligado a cuidar el buen aspecto de los predios del dominio municipal, impidiendo se conviertan en receptáculos de basura y desperdicios, destinándolos provisionalmente para jardines y áreas de recreación y deportivas.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+Fusiones y Subdivisiones
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1349°.
+
+Las fusiones de áreas, lotes y predios que se pretendan realizar en el territorio del Estado, deberán ser previamente autorizadas por el Municipio, comprendiendo:
+
+I.- Las que se ubiquen en cualquier fraccionamiento, condominio, colonia, barrio, área o zona ubicada dentro de los centros de población;
+
+II.- Las que se ubiquen dentro de las zonas que hayan sido objeto de regularización por las autoridades correspondientes o que estén previstas en los programas aplicables y que se encuentren ubicadas dentro de los centros de población;
+
+III.- Las que se ubiquen dentro de predios rurales o rústicos que no sean de origen comunal o ejidal y que no contravengan lo dispuesto en la Ley Agraria; y
+
+IV.- Las que estén relacionadas con un presente o futuro asentamiento humano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1350°.
+
+Las fusiones y subdivisiones que se autoricen o realicen en contravención de lo dispuesto en este Código no podrán surtir efectos ni inscribirse ante la autoridad competente en materia catastral y en el Registro Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1351°.
+
+Las fusiones y subdivisiones de predios rústicos se regirán por este Código, los programas de desarrollo urbano aplicables, la Ley Agraria, la legislación ambiental y forestal y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1352°.
+
+La autorización de las subdivisiones de predios urbanos, deberá apegarse a los siguientes criterios:
+
+I.- Las solicitudes que se refieran a predios urbanos de 10,000.00 metros cuadrados o más, serán autorizadas por el Municipio, siempre y cuando tenga por escrito la opinión favorable de la SEPLAPDE;
+
+II.- En aquellos casos que una subdivisión requiera la apertura de una o más vías públicas o introducción de servicios públicos básicos, se les dará el tratamiento correspondiente a los fraccionamientos y por ende serán autorizadas por el Consejo Estatal, salvo lo dispuesto en este Código;
+
+III.- La subdivisión deberá respetar el lote mínimo del fraccionamiento o a la zona establecida en los programas de desarrollo urbano aplicables.
+
+IV.- En ningún caso, para uso habitacional, el frente será menor de 5 metros y la superficie menor de 75 metros cuadrados;
+
+V.- En el centro de las ciudades o localidades del Estado, el Municipio respectivo establecerá los requisitos mínimos para mantener la armonía y la imagen urbana de los centros de población;
+
+VI.- Cuando alguno de los lotes no tenga acceso directo a una vía pública autorizada, deberá constituir una servidumbre legal de paso como condicionante de la subdivisión; y
+
+VII.- Se autorizarán las subdivisiones de lotes o predios, siempre y cuando no se sature o afecte la capacidad instalada del equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y electrificación, del fraccionamiento, colonia, barrio o sector correspondiente.
+
+La SEPLAPDE para emitir la opinión a que se refiere la fracción I de este ARTÍCULO, contará con un plazo de 10 días hábiles, a partir de que recibió el expediente debidamente integrado, si en ese plazo no dio respuesta al Municipio o no pidió una prórroga razonable, el Municipio procederá a resolver sobre esa solicitud conforme resulte procedente y bajo su responsabilidad correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1353°.
+
+La autorización de subdivisiones de predios urbanos o en zonas de crecimiento que tengan como finalidad generar macrolotes, contemplando vialidades públicas o de uso común, sin la ejecución de obras de urbanización en toda su superficie; sino en su caso y sin ser un requisito, únicamente obras de infraestructura primaria básica en alguna de sus vialidades, sin la dotación de equipamiento urbano y servicios públicos, serán autorizadas por el Municipio en coordinación con la SEPLAPDE, sin que los promotores tengan la obligación de otorgar áreas de donación al Municipio respectivo. Para ese fin el Municipio solicitará la opinión a la SEPLAPDE, quien la deberá emitir por escrito dentro del plazo de 10 días hábiles, una vez que estuviera integrado el expediente respectivo; y en caso de no emitirla dentro de ese plazo o no haber pedido una prórroga razonable, se entenderá que no existe inconveniente para que la solicitud la resuelva el Municipio, conforme resulte procedente.
+
+Una vez, que respecto de esos macrolotes se obtenga la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial, el fraccionador o promotor correspondiente estará obligado a otorgar áreas de donación al Municipio, ejecutar a su cargo obras de urbanización y la dotación de equipamiento urbano, conforme se determine en la autorización respectiva. Estas obligaciones deberán establecerse en la escritura de protocolización de la subdivisión autorizada y en las escrituras traslativas de dominio correspondientes, así como realizarse las anotaciones en el Catastro, el Registro Público y en el Municipio respectivo, a fin de garantizar en su momento el cumplimiento de esas obligaciones.
+
+Si el macrolote resultante se destina exclusivamente para construir equipamiento urbano público o privado y no a la venta de lotes o predios, tampoco se requerirá otorgar donación al Municipio de la ubicación del inmueble.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1354°.
+
+En los centros de población menores a 2,500 habitantes, podrán autorizarse subdivisiones de predios urbanos en predios rústicos, con el objeto de obtener solares para vivienda, cuyos predios no podrán ser inferiores a 160 metros cuadrados, de acuerdo a lo siguiente:
+
+I.- Deberán realizarse estudios técnicos por parte del Municipio, o bien con cargo al solicitante, que deberán incluir las factibilidades de energía eléctrica, alumbrado público, agua, drenaje y el dictamen de equipamiento existente, con la finalidad de determinar si se requiere área de donación. La introducción de servicios será por cuenta del solicitante, dentro del plazo que le determine el Municipio;
+
+II.- Los predios a subdividir contarán con una vialidad o servidumbre legal de paso, debidamente formalizada jurídicamente;
+
+III.- No podrá autorizarse la subdivisión en caso que el predio que se pretende subdividir afecte el trazo de vialidades proyectadas, a menos que el área afectada sea donada al Municipio; y
+
+IV.- En caso que la subdivisión implique más de cinco porciones, el solicitante deberá presentar una justificación en la que manifieste los motivos de subdividir el predio; el Municipio verificará los antecedentes históricos de la subdivisión del predio, y en caso de que los predios a subdividir se pretendan comercializar se le dará el tratamiento de fraccionamiento.
+
+El Municipio deberá remitir una copia certificada o firma electrónica de la autorización de subdivisión o fusión a la SEPLAPDE y al Instituto Catastral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1355°.
+
+En el caso de que se requiera realizar una subdivisión de predios urbanos o rústicos por causa de legado o herencia, será facultad del Municipio la autorización respectiva bajo lo siguiente:
+
+I.- Los predios resultantes no podrán ser superiores al número de herederos o legatarios; y
+
+II.- En caso de que los predios resultantes no cuenten con acceso:
+
+a).- Los herederos o legatarios podrán constituir una servidumbre legal de paso, debidamente formalizada jurídicamente; o
+
+b).- Podrán constituir las vialidades necesarias para el acceso a los predios, las cuales deberán ser donadas al Municipio, debiendo sujetarse a lo previsto en los programas de desarrollo urbano aplicables, verificándose la factibilidad de introducción de servicios básicos a costa de los beneficiarios de la subdivisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1356°.
+
+En el caso de solicitudes de subdivisiones relativas a fracciones en que se hayan construido hasta cuatro unidades arquitectónicas, con espacios y servicios públicos independientes, con acceso a una vía pública, camino o servidumbre de paso, podrán autorizarse siempre que no se rebase la densidad, ni la dotación y operación normal de los servicios en la zona y se cumpla con lo dispuesto en este Código, la legislación de la materia y reglamentos municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1357°.
+
+La autorización de las subdivisiones de predios rústicos, deberá apegarse a los siguientes criterios:
+
+I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en el Registro Público;
+
+II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando frentes no mínimos de 30 metros y servidumbres de paso con una sección no mínima de 12 metros.
+
+III.- Queda prohibida la copropiedad de predios rústicos en predios con superficie igual o menor a 12,500.00 metros cuadrados, salvo que se trate de adjudicaciones hereditarias, debiendo sujetarse a lo previsto en este Código;
+
+IV.- Sólo se permitirá la construcción relacionada con el uso o destino de suelo autorizado, con los coeficientes de ocupación y de utilización aprobados en los programas aplicables;
+
+V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública, camino o servidumbre constituida que en ningún caso se aceptará en una sección o anchura menor a 12 metros; y
+
+VI.- Para efecto de que el Municipio autorice la subdivisión, deberá solicitar a la SEPLAPDE la opinión correspondiente, quien dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+
+En caso de que la opinión de la SEPLAPDE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1358°.
+
+En subdivisiones de áreas, predios o lotes para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 50 metros cuadrados, su frente deberá tener como mínimo 5 metros.
+
+En cualquier caso, deberá contar con el espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural y la disposición de cajones de estacionamiento dentro del predio conforme a los códigos y reglamentos municipales y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1359°.
+
+En áreas o predios dentro de zonas de preservación ecológica determinadas por la autoridad competente en materia ambiental, que no han sido declaradas como áreas naturales protegidas y que son valiosas por su riqueza natural, así como fundamentales para la conservación de los ecosistemas y la biodiversidad, las fracciones resultantes serán como mínimo de 100,000.00 metros cuadrados.
+
+En las fracciones resultantes, los frentes deberán tener una dimensión mínima de 30 metros; así mismo, deberán encontrarse ubicados sobre una vía pública o camino constituido con una sección o anchura no menor de 12 metros o, en su defecto, deberá existir una servidumbre legal de paso o camino parcelario de por medio con esa misma sección, registrado ante la autoridad competente; debiendo incluir un levantamiento topográfico catastral georreferenciado que indique las medidas del camino y su ubicación.
+
+En estos predios se permitirá la construcción habitacional, comercial o de servicios, de acuerdo a lo siguiente:
+
+I.- Las autoridades competentes en materia ambiental, determinen que es viable la construcción a través del procedimiento de evaluación de impacto ambiental emitido por la SSMAA, en el cual se deberá atender que no exista conflicto ambiental;
+
+II.- De acuerdo a la evaluación de impacto ambiental referida en la fracción anterior, la SSMAA en coordinación con la SEPLAPDE y el Municipio, establecerán la ubicación de construcción para fines habitacionales, comerciales o de servicios, mismo que no será mayor del 1% del COS y con un CUS del 0,01 de la superficie de cada fracción; y
+
+III.- La superficie de cada predio destinada a fines habitacionales, comerciales o de servicios, no podrá subdividirse ni constituirse en copropiedad dentro del polígono que ampare el correspondiente título de propiedad, salvo que se trate de herencias o legados en los términos de lo indicado en este Código.
+
+IV.- Para efecto de que el Municipio autorice la subdivisión, deberá solicitar a la SEPLAPDE la opinión correspondiente, la que dentro del plazo de 10 días hábiles deberá emitirla.
+
+En caso de no responder se entenderá que está de acuerdo con la misma. En caso de que la opinión de la SEPLAPDE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1360°.
+
+En predios dentro de las áreas naturales protegidas la subdivisión y construcción en los mismos, estará regida por lo que determine este Código, la legislación ambiental y forestal, el decreto de creación y el programa de manejo integral correspondiente.
+
+Para que el Municipio autorice la subdivisión, deberá solicitar a la SEPLAPDE la opinión correspondiente, la que dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+
+En caso de que la opinión de la SEPLAPDE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1361°.
+
+Tratándose de zonas urbanas consolidadas, mismas que serán delimitadas por el Municipio en su programa de desarrollo urbano de centros de población o de los parciales derivados de estos, se podrá autorizar la subdivisión de predios urbanos hasta a los 10,000 metros cuadrados, aunque estos requieran la introducción de servicios públicos básicos o el trazo de una o más vías públicas.
+
+En el caso previsto en el párrafo que antecede, el promotor y propietario del predio que se vaya a subdividir estará obligado a lo siguiente:
+
+I.- La solicitud deberá estar acompañada con la información que señale la reglamentación o lineamientos municipales correspondientes;
+
+II.- Otorgar donación al Municipio en el porcentaje que corresponda a la clasificación de la zona en que se sitúe el predio o dotar de equipamiento urbano e infraestructura conforme a lo previsto en este Código;
+
+III.- Otorgar garantía ante la Secretaría de Finanzas o el equivalente de carácter Municipal, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización o la dotación de equipamiento e infraestructura y cumplirá con todas las obligaciones señaladas en la autorización de subdivisión. La forma y condiciones en que deberá otorgarse la garantía, serán las mismas a las que establece este Código, en tratándose de obras de urbanización;
+
+IV.- Obtener licencia de construcción para el fin de ejecutar las obras de urbanización necesarias; y
+
+V.- Para el efecto de que se municipalicen las subdivisiones, su promotor deberá cumplir con lo señalado en la autorización de la subdivisión.
+
+A toda situación no prevista en este ARTÍCULO, le será aplicable la normatividad señalada para los fraccionamientos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1362°.
+
+El Municipio, de conformidad con los lineamientos que emita la SEPLAPDE, podrá autorizar subdivisiones de predios urbanos y suburbanos mayores de 10,000.00 metros cuadrados, cuando éstas se deriven de afectaciones o restricciones para la ejecución de obras públicas, o debido a las características que requiera la urbanización del centro de población que corresponda y que estén apegados a lo establecido en los programas aplicables.
+
+En este caso el Municipio solicitará a la SEPLAPDE la apertura de cuentas catastrales y la inscripción de los actos jurídicos en el Registro Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1363°.
+
+Toda persona que pretenda fusionar o subdividir áreas o predios, deberá presentar solicitud por escrito ante el Municipio, adjuntando:
+
+I.- Datos personales del solicitante;
+
+a).- Documento que acredite su propiedad o posesión legal;
+
+b).- Escrito donde se manifieste la voluntad y consentimiento expreso del propietario, respecto de la solicitud de subdivisión.
+
+II.- Datos de las áreas, lotes o predios;
+
+III.- Constancia de propiedad del o los inmuebles;
+
+IV.- Cédula única catastral electrónica;
+
+V.- Constancia de no adeudo del impuesto a la propiedad raíz;
+
+VI.- Plano digital, en base al plano catastral, expedido por el Instituto Catastral del Estado, con una fecha de emisión no mayor a un año, del terreno o de los terrenos objeto de la solicitud con acotaciones en centímetros y señalando la orientación de los mismos y sus colindancias, georreferenciado con coordenadas UTM; para predios de 10,000.00 metros cuadrados o menos.
+
+VII.- Plano digital en formato vectorial de la fusión o subdivisión que se pretenda realizar georreferenciado con coordenadas UTM;
+
+VIII.- Constancia municipal de compatibilidad urbanística;
+
+IX.- En su caso, características de la urbanización;
+
+X.- En el caso de predios urbanos o rústicos con superficie de 10,000.00 metros cuadrados o más, la solicitud deberá ir acompañada de un levantamiento topográfico catastral;
+
+XI.- En caso de aplicar, factibilidades de servicios de agua potable, alcantarillado, saneamiento y electrificación; y
+
+XII.- Las demás que establezca la reglamentación municipal respectiva, atendiendo a la naturaleza y condiciones particulares de la solicitud de fusión o subdivisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1364°.
+
+Podrán solicitar fusiones o subdivisiones de predios, las personas físicas o morales que acrediten ser las legítimas propietarias de los inmuebles objeto de la solicitud.
+
+Tratándose de la solicitud de subdivisión de predio, deberá presentarse certificado de libertad de gravamen del mismo, con una antigüedad no mayor a 30 días naturales anteriores a la fecha de la solicitud; en caso de que el inmueble tenga algún gravamen deberá asentarse en la autorización respectiva, previo consentimiento por escrito del acreedor o acreedores respectivos, en el que se manifieste en qué fracción o fracciones resultantes de la subdivisión recaerá el gravamen respectivo.
+
+En los casos de solicitudes para la fusión de predios solo procederán cuando sean propiedad de una misma persona o copropietarios y que el uso de suelo sea el mismo para todos los predios que se pretendan fusionar, de conformidad con el programa aplicable y la vocación de uso determinada en la autorización del fraccionamiento, condominio o desarrollo inmobiliario especial en cuestión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1365°.
+
+En los condominios no se permitirá subdividir los predios, por lo que se requerirá modificar el régimen de propiedad en condominio, cumpliendo con los requisitos y procedimiento que establece el Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1366°.
+
+Los derechos y demás gravámenes fiscales que deban cubrirse por las solicitudes de relotificación, fusión y subdivisión de predios, serán fijados de acuerdo a lo previsto en las leyes fiscales correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1367°.
+
+La fusión o la subdivisión de áreas y predios no se autorizarán cuando obstruyan o impidan una servidumbre legal de paso constituida o un servicio público, así como el trazo de vialidades proyectadas en los programas aplicables.
+
+Será nulo de pleno derecho cualquier acto, contrato o convenio contrario a esta disposición.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1368°.
+
+El Municipio o la autoridad competente, sólo autorizará la construcción en áreas, lotes y predios provenientes, cuando estos provengan de relotificaciones, fusiones o subdivisiones, una vez que estas hayan sido autorizadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1369°.
+
+El Municipio se coordinará con la SEPLAPDE y la autoridad competente en materia catastral, a efecto de clasificar los fraccionamientos, condominios, áreas, barrios y colonias existentes en el territorio del Estado, para determinar el tipo y la procedencia de las subdivisiones y fusiones que se les soliciten, tomando en cuenta la zonificación prevista en los programas aplicables y lo dispuesto en este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1370°.
+
+Toda fusión o subdivisión de predios deberá protocolizarse en la totalidad de sus fracciones mediante escritura pública, en un plazo no mayor a 1 año a partir de su autorización, debiéndose notificar dicha protocolización al Municipio y al Instituto Catastral mediante los formatos oficiales e inscribirse en el Registro Público; en caso contrario quedará sin efectos dicha autorización y serán nulas de pleno derecho toda operación inmobiliaria que se derive de la misma.
+
+Transcurrido el plazo señalado en el párrafo anterior, la autorización de fusión y subdivisión no tendrá validez alguna, sin que se requiera declaración administrativa o judicial, conforme a lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes. En caso de que el Municipio o la SEPLAPDE tengan conocimiento de que existe una discontinuidad o falla geológica en las áreas, lotes o predios que se pretendan fusionar o subdividir, deberá referirlo en la autorización respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1371°.
+
+No se autorizará una nueva subdivisión o fusión de áreas, lotes o predios, sin que previamente se hubiere protocolizado en escritura pública la totalidad de las fracciones previamente autorizadas y que involucren el o los predios originales objeto de la nueva solicitud y se haya inscrito ante el Instituto Catastral y en el Registro Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1372°.
+
+La SEPLAPDE podrá solicitar al Municipio la corrección de una autorización de fusión y subdivisión, cuando detecte que presenta errores en las medidas de las superficies y colindancias.
+
+El Municipio se coordinará con el promotor de esa autorización para que se hagan las rectificaciones respectivas, se protocolicen en escritura pública y se inscriban ante el Instituto Catastral y ante el Registro Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1373°.
+
+Las resoluciones judiciales que determinen la subdivisión o fusión de áreas, lotes y predios para efecto de que procedan, deberán obtenerse las autorizaciones municipales correspondientes y formalizarse en escritura pública, tramitarse ante el Instituto Catastral e inscribirse en el Registro Público, cumpliendo con lo dispuesto el Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1374°.
+
+No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro, cuando se contravenga lo dispuesto en este apartado o no se cuente con la opinión favorable de la SEPLAPDE, en los casos que se requiere de la misma, conforme a lo dispuesto en este Código.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1128], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1375°.
+
+Para otorgar licencia de construcción para estaciones de servicio o gasolineras se requiere presentar la Opinión Positiva que expide la SEPLAPDE, además deberá presentar a la Dirección de Planeación y Obras Públicas lo siguiente:
 
 I. Solicitud y bitácora llenas y firmadas por perito responsable de obra, perito especializado en mecánica de suelos y perito especializado en estructuras, vigentes ante la Dirección de Planeación y Obras Públicas, o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes;
 
@@ -11361,11 +14857,11 @@ VII. El plano de cimentaciones deberá suscribirse además por el perito especia
 
 VIII. Estudio de mecánica de suelos firmado por perito responsable de obra y perito especialista en mecánica de suelos;
 
-IX. Plano del proyecto con la autorización de PEMEX, por la Secretaría de Energía y por la Comisión Reguladora de Energía en el ámbito federal, y por (sic) Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, en su caso;
+IX. Plano del proyecto con la autorización de PEMEX, por la Secretaría de Energía y por la Comisión Reguladora de Energía en el ámbito federal, y por SEPLAPDE, en su caso;
 
 X. Planos de la instalación hidráulica y sanitaria autorizados por la Dirección de Agua Potable, Alcantarillado y Ecología como organismo municipal rector del agua potable y alcantarillado;
 
-XI. Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Subcomisión de Vialidad, de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral y de la Coordinación General de Movilidad del Gobierno del Estado;
+XI. Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Subcomisión de Vialidad, de la SEPLAPDE;
 
 XII. Planos de planta de conjunto indicando, drenajes, registros, areneros, trampas de grasas y aceites, indicando detalles en planta y corte, rejillas, trincheras, pendientes y diámetros, extinguidores y sistema contra incendio, firmados por el perito responsable de obra;
 
@@ -11387,7 +14883,9 @@ c) Cuando el proyecto presente algún espacio o espacios que carezcan de ventila
 
 d) Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
 
-###### ARTÍCULO 1129°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1129], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1376°.
 
 Para que se expidan licencias de demolición, se deberán presentar ante la Dirección de Planeación y Obras Públicas los siguientes documentos:
 
@@ -11401,13 +14899,15 @@ a) Solicitud de licencia de construcción y bitácora de obra, llena y firmada p
 
 b) Programa de demolición elaborado y firmado por el perito responsable de obra especificando: Horario de los trabajos de demolición. Descripción de los sistemas de protección a fincas colindantes. Descripción del sistema de demolición. Duración estimada de los trabajos de demolición. Descripción del tipo de tapial para protección de la obra al frente en su caso.
 
-###### ARTÍCULO 1130°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1130], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1377°.
 
 No se permitirá realizar obras de rebaje o demolición de muros medianeros. Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPÍTULO VI. De la Vía Pública
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1131], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1131°.
+###### ARTÍCULO 1378°.
 
 Para obras de reposición y/o modificación de banquetas se requiere presentar:
 
@@ -11415,7 +14915,9 @@ I. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
 II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Planeación y Obras Públicas.
 
-###### ARTÍCULO 1132°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1132], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1379°.
 
 Para obras de cepas para alojar instalaciones se requiera presentar:
 
@@ -11429,9 +14931,9 @@ IV. Presentar programa de obra signado por el Perito Responsable de Obra; y
 
 V. Autorización de la instancia correspondiente o contrato de obra pública en su caso.
 
-###### ARTÍCULO 1133°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1133], P.O. 22 DE ABRIL DE 2024)</small>
 
-Para ocupar la vía pública con material de construcción, andamios o tapiales se requiere presentar:
+ARTÍCULO 1340° (SIC).- Para ocupar la vía pública con material de construcción, andamios o tapiales se requiere presentar:
 
 I. La licencia de construcción correspondiente a los trabajos que se efectúen en el predio;
 
@@ -11439,19 +14941,27 @@ II. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
 III. Presentar croquis con medidas de la ubicación de la colocación del tapial o andamio respetando las condiciones que indica el presente Libro.
 
-###### ARTÍCULO 1134°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1134], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1341°.
 
 Se requerirá licencia de construcción para la colocación de anuncios publicitarios.
 
-###### ARTÍCULO 1135°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1135], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1342°.
 
 Todo anuncio, propaganda o publicidad que sea colocado en la Zona Centro y en las fincas declaradas como Monumentos Históricos, Artísticos, Arqueológicos y/o Arquitéctonicos, deberá contar con el Visto Bueno del Instituto Nacional de Antropología e Historia y sujetarse a lo que este organismo le indique.
 
-###### ARTÍCULO 1136°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1136], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1343°.
 
 No se permitirán en la zona centro los anuncios comerciales que se instalen sobre azoteas; ni los letreros en manta, cartón o cualquier otro material que se pretenda colocar de paramento sobre una calle, entre arcos, postes o fachadas.
 
-###### ARTÍCULO 1137°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1137], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1344°.
 
 En las demás zonas diferentes a la zona centro de las comunidades del Municipio de Asientos, colonias y fraccionamientos que conforman la comunidad y las áreas rurales y poblados dentro del Municipio de Asientos se sujetará la colocación de anuncios a la jerarquía de las vialidades que a continuación se detalla:
 
@@ -11507,15 +15017,55 @@ IV. Las vialidades de tipo primario:
 
 Son aquellas vialidades cuya función es la de facilitar la movilidad de altos volúmenes de tránsito de paso a través del área urbana, permitiéndole al sistema vial cumplir su función adecuadamente entre los principales centros generadores de tránsito.
 
-###### ARTÍCULO 1138°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1380°.
+
+Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Planeación y Obras Públicas determinará lo conducente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1175], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1381°.
+
+Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1176], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1382°.
+
+Cuando se utilicen plafones a base de materiales que no sea (sic) a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Planeación y Obras Públicas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1177], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1383°.
+
+En el caso de plafones falsos, ningún espacio comprendido entre el plafón y la losa se comunicará directamente con cubos de escaleras o de elevadores.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1178], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1384°.
+
+Las chimeneas deberán proyectarse de tal manera que los humos y gases sean conducidos por medio de un ducto directamente al exterior en la parte superior de la edificación.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1179], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. De los Peritos
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1138], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1345°.
 
 Perito Responsable de Obra, es la persona física que se hace responsable de la observancia de este Libro en las obras para las que otorgue su responsiva.
 
-###### ARTÍCULO 1139°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1139], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1346°.
 
 La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Planeación y Obras Públicas o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes.
 
-###### ARTÍCULO 1140°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1140], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1347°.
 
 Se exigirá responsiva de los Peritos Especializados para obtener la licencia de construcción a que se refiere este Libro, en los siguientes casos:
 
@@ -11527,7 +15077,9 @@ b) En Estructuras de Tipo Especial tales como Puentes Vehiculares o Ferroviarios
 
 II. Especializados en Instalaciones. Serán los que están debidamente acreditados en la dependencia que corresponda en razón de la especialidad y las autoridades que deban hacer cumplir las Normas Oficiales Mexicanas relacionadas con el tipo de instalaciones.
 
-###### ARTÍCULO 1141°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1141], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1348°.
 
 Para tener derecho a aparecer en el Registro de Peritos o Refrendar su calidad como tal, se requiere:
 
@@ -11537,7 +15089,9 @@ II. Estar domiciliado en el Municipio de Asientos, por lo menos dos años, de lo
 
 III. Presentar su Currículo Profesional.
 
-###### ARTÍCULO 1142°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1142], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1349°.
 
 Para los efectos de este Libro, se entiende que un Perito Responsable otorgará su responsiva profesional cuando:
 
@@ -11547,7 +15101,9 @@ II. Acepte la responsabilidad de una obra suspendida para reiniciarla bajo su su
 
 III. Suscriba un dictamen de seguridad estructural, de carácter arquitectónico o de funcionamiento de alguna instalación.
 
-###### ARTÍCULO 1143°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1143], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1350°.
 
 El Perito responsable de Obra será el único responsable de la ejecución de la construcción y deberá:
 
@@ -11565,7 +15121,9 @@ VI. Verificar que se encuentre en la obra una copia de: licencia de construcció
 
 VII. Refrendar su calidad de Perito el mes de enero de cada año actualizando sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Presidencia Municipal.
 
-###### ARTÍCULO 1144°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1144], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1351°.
 
 Las funciones del Perito Responsable de Obra y en su caso del Perito Especializado, en aquellas obras para las que haya dado su responsiva profesional, terminarán:
 
@@ -11575,265 +15133,33 @@ II. Cuando no ha refrendado su calidad de Perito Responsable de Obra y en su cas
 
 III. Cuando la Dirección de Planeación y Obras Públicas autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
 
-###### ARTÍCULO 1145°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1145], P.O. 22 DE ABRIL DE 2024)</small>
 
-Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra.
+ARTÍCULO 13532° (SIC).- Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra.
 
 Dentro del mismo lapso, la Dirección de Planeación y Obras Públicas podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
-###### ARTÍCULO 1146°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-Los elementos arquitectónicos que constituyan el perfil de una fachada, tales como pilastras, sardineles, rejas y marcos de puertas y ventanas situados a una altura menor de dos metros cincuenta centímetros sobre el nivel de la banqueta, podrán sobresalir del alineamiento hasta diez centímetros. Estos mismos elementos situados a una altura mayor de dos metros cincuenta centímetros, podrán sobresalir del alineamiento hasta veinte centímetros como máximo Lo anterior es aplicable previa observancia de las servidumbres que establezca el alineamiento.
-
-Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión que señala este Libro.
-
-###### ARTÍCULO 1147°.
-
-Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
-
-###### ARTÍCULO 1148°.
-
-Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, pero sin exceder de un metro; no deberán usarse como balcón cuando su construcción se proyecte sobre la vía pública. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
-
-###### ARTÍCULO 1149°.
-
-Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.
-
-### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
-
-###### ARTÍCULO 1150°.
-
-Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores a cinco niveles sobre la banqueta, éstos deberán permitir un mínimo de asoleamiento en la época de invierno, respetando una separación mínima en su colindancia posterior cuando ésta coincida con la orientación norte, para ese efecto deberá respetar una distancia entre ambos que corresponda al quince por ciento de la altura máxima el (sic) edificio, sin perjuicio de cumplir con lo establecido en este Libro para patios de iluminación y ventilación.
-
-La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Libro y demás legislación de la materia vigente.
-
-###### ARTÍCULO 1151°.
-
-Los locales de las edificaciones según su tipo tendrán el mínimo de las dimensiones y características que se establecen en la tabla siguiente:
-
-> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 14 DE OCTUBRE DE 2019, PÁGINAS DE LA 208 A LA 210]</small>
-
-###### ARTÍCULO 1152°.
-
-Deberán proveerse las facilidades que requieran las personas que utilicen sillas de ruedas, siendo los requisitos mínimos indispensables, los siguientes:
-
-I. Todos los estacionamientos deberán destinar un cajón de estacionamiento por cada cincuenta cajones o fracción, a partir de treinta cajones, para uso exclusivo de personas discapacitadas, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros;
-
-II. Los Centros de Reunión, Edificios para Comercio, Educación, Oficinas, Espectáculos y Templos que se localicen en planta baja, deberán contar con rampas que cumplan con las condiciones que indica este Libro;
-
-III. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas discapacitadas, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación; y
-
-IV. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a discapacitados a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta que cumplan con la pendiente máxima y ancho que se indica en este Libro.
-
-###### ARTÍCULO 1153°.
-
-Los edificios deberán tener los espacios descubiertos necesarios para lograr una buena iluminación y ventilación en los términos que se establecen en este CAPÍTULO, sin que dichas superficies puedan ser techadas, parcial o totalmente con volados, corredores, pasillos o escaleras.
-
-###### ARTÍCULO 1154°.
-
-Los patios para dar iluminación y ventilación naturales tendrán las siguientes dimensiones mínimas en relación con la altura de los parámetros verticales que los limiten:
-
-I. Para piezas habitables, comercios y oficinas;
-
-Con altura hasta Dimensión mínima
-
-5.00 m. 2.00 m.
-
-8.00 m. 3.25 m.
-
-12.00 m. 4.00 m.
-
-En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la tercera parte de la altura total del paramento vertical que lo limite si esta altura es variable, se tomará el promedio.
-
-II. Para otras piezas no habitables;
-
-Con altura hasta Dimensión mínima
-
-4.00 Pts. 2.00 Pts.
-
-8.00 Pts. 2.25 Pts.
-
-12.00 Pts. 2.50 Pts.
-
-En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de la altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
-
-III. Se permitirán las siguientes tolerancias en las dimensiones mínimas de los patios señalados en este Artículo, en los casos que a continuación se detallan:
-
-a) Se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio en el sentido de la orientación este-oeste y hasta una desviación de cuarenta y cinco grados sobre esta línea, siempre y cuando en el sentido transversal se incremente cuando menos, en un veinte por ciento la dimensión mínima correspondiente;
-
-b) En cualquier otra orientación se autorizará la reducción hasta de un quince por ciento en una de las dimensiones mínimas del patio. Siempre y cuando la dimensión opuesta tenga por lo menos, una vez y media lo mínimo correspondiente;
-
-c) En el sentido perpendicular a los patios en que existan muros ciegos o ventanas de piezas no habitables, se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio, siempre y cuando en el otro sentido se incremente cuando menos en un veinte por ciento la dimensión mínima correspondiente;
-
-d) En los patios exteriores cuyo lado menor esté abierto a la vía pública, se aplicarán las normas consignadas en el inciso b) de la fracción II de este precepto;
-
-e) En terrenos con las dimensiones mínimas de seis metros por quince metros, se aceptará como dimensión mínima de los patios dos metros, para piezas habitables, en edificaciones con altura hasta dos niveles.
-
-###### ARTÍCULO 1155°.
-
-En las edificaciones para vivienda, las áreas descubiertas que deben aplicarse a los fines de iluminación y ventilación naturales, tendrán la superficie libre que indica el presente Libro, siempre y cuando no sea menor de veinte por ciento del área total del predio. La superficie libre se considera la que se presenta sin techar.
-
-###### ARTÍCULO 1156°.
-
-Las habitaciones destinadas a dormitorios, alcobas, salas o estancias tendrán iluminación y ventilación naturales por medio de vanos que den directamente a la vía pública o a la superficie descubierta.
-
-La superficie total de ventanas para iluminación libre de obstrucción, será por lo menos del ocho por ciento de la superficie de la habitación y para ventilación de cinco por ciento salvo el baño en que, para iluminación y ventilación, será el ocho por ciento de su área, y en cocinas será de dieciséis punto seis por ciento, sin que sea menor de un metro cuadrado.
-
-###### ARTÍCULO 1157°.
-
-Cualquier otro local deberá preferentemente contar con iluminación y ventilación naturales de acuerdo con estos mismos requisitos, pero se permitirá la iluminación por medios artificiales y la ventilación por los medios electromecánicos.
-
-###### ARTÍCULO 1158°.
-
-No se permitirá abrir vanos sobre las colindancias hacia predios vecinos.
-
-###### ARTÍCULO 1159°.
-
-Se permitirá la iluminación diurna natural por medio de domas o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios.
-
-En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.
-
-###### ARTÍCULO 1160°.
-
-Se aceptará la ventilación cenital, siempre y cuando la superficie libre cumpla con el cinco por ciento del área del local.
-
-###### ARTÍCULO 1161°.
-
-Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
-
-I. Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
-
-II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será, de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Planeación y Obras Públicas;
-
-III. Los pasillos y los corredores lo (sic) deberán tener salientes o tropezones que disminuya (sic) su anchura, a una altura inferior a dos metros cincuenta centímetros; y
-
-IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros y se construirán de manera que impidan el paso de niños a través de ellos. En caso de edificios para habitación colectiva y escuelas de primera y segunda enseñanza, los barandales calados deberán ser solamente de elementos verticales, con excepción de los pasamanos, cuyo diseño impedirá que sirva de asiento.
-
-###### ARTÍCULO 1162°.
-
-Las escaleras de las construcciones públicas deberán satisfacer los siguientes requisitos:
-
-I. Los edificios tendrán siempre escaleras que comuniquen todos sus niveles, aun cuando existan elevadores;
-
-II. Las escaleras serán en tal número que ningún punto servido del piso o planta se encuentre a una distancia mayor de veinticinco metros de alguna de ellas;
-
-III. Las escaleras en casas unifamiliares o en el interior de departamentos unifamiliares tendrán una anchura mínima de noventa centímetros, excepto las de servicio, que podrán tener una anchura mínima de sesenta centímetros;
-
-IV. En los centros de reunión y salas de espectáculos, las escaleras tendrán una anchura mínima igual a la suma de las anchuras de las circulaciones a las que den servicio;
-
-V. El ancho de los descansos deberá ser, cuando menos, igual a la anchura reglamentaria de la escalera;
-
-VI. La huella de los escalones tendrá un ancho mínimo de veinticinco centímetros y sus peraltes un máximo de dieciocho centímetros;
-
-VII. Las escaleras contarán con un máximo de trece peraltes entre descansos, excepto las de caracol;
-
-VIII. En cada tramo de escalera, las huellas serán todas iguales; la misma condición deberán cumplir los peraltes;
-
-IX. El acabado de la huella será antiderrapante;
-
-X. La altura mínima de los barandales, siendo necesarios estos cuando la escalera no este flanqueada por muros, será de noventa centímetros, medidos a partir de la nariz del escalón. Se construirán con el anclaje y rigidez adecuados y de manera que impidan el paso de niños a través de ellos; y
-
-XI. Las escaleras de caracol se permitirán solamente para comunicar niveles pertenecientes a un mismo local, oficina, departamento o casa unifamiliar y deberán tener un radio útil mínimo de sesenta metros si son de servicio o de noventa centímetros si son principales.
-
-###### ARTÍCULO 1163°.
-
-Las rampas para peatones en cualquier tipo de construcción, así como en las aceras, deberán satisfacer los siguientes requisitos:
-
-I. Tendrán una anchura mínima igual a la señalada para las escaleras;
-
-II. La pendiente máxima será del diez por ciento;
-
-III. Los pavimentos serán antiderrapantes; y
-
-IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
-
-###### ARTÍCULO 1164°.
-
-La anchura de los accesos, salidas, salidas de emergencia y puertas que comuniquen con la vía pública, tendrán un ancho mínimo de un metro, veinte centímetros y una altura de dos metros diez centímetros.
-
-###### ARTÍCULO 1165°.
-
-Se exceptúan de la disposición anterior, las puertas de acceso a casa habitación unifamiliares a departamentos y oficinas ubicadas en el interior de edificios y a las aulas en edificios destinados a la educación, las que podrán tener una anchura libre mínima de noventa centímetros. Asimismo en estos edificios, las puertas interiores de comunicación o de áreas de servicios podrán tener una anchura libre mínima de setenta centímetros.
-
-###### ARTÍCULO 1166°.
-
-Los accesos que en condiciones normales sirvan también de salida, o aquéllas de emergencia deberán permitir el desalojo del local en un máximo de tres minutos, considerando que cada persona puede salir por una anchura de sesenta centímetros, en un segundo; por lo tanto, la anchura siempre será múltiplo de sesenta centímetros, y nunca será menor que la suma de los anchos de los pasillos que converjan a la salida.
-
-###### ARTÍCULO 1167°.
-
-Cuando la capacidad de los hospitales, centros de reunión, salas de espectáculos y espectáculos deportivos, similares o análogos sea superior a cuarenta concurrentes o cuando el área de ventas de locales y centros comerciales sea superior a un mil metros cuadrados, deberán contar con salidas de emergencia.
-
-Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las salidas ordinarias y deberán existir en cada nivel.
-
-## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
-
-### CAPÍTULO I. De la Licencia de Construcción
-
-###### ARTÍCULO 1168°.
-
-Las salidas de emergencia deberán tener comunicación directa a la vía pública o lo harán por medio de pasillos con la anchura reglamentaria. Queda prohibida la existencia de puertas simuladas o espejos en los pasillos de salida. La anchura de las salidas será de acuerdo a lo especificado en el Artículo de Requisitos de Salidas de Emergencia.
-
-###### ARTÍCULO 1169°.
-
-Los pasillos estarán libres de toda obstrucción y con pasamanos adecuados conforme a este ordenamiento. Los materiales empleados serán de tipo incombustible y con pisos antiderrapantes.
-
-###### ARTÍCULO 1170°.
-
-Para las edificaciones especificadas en el Artículo 1167°, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, mediante flechas y símbolos luminosos, que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se llegare a interrumpir el servicio eléctrico general.
-
-###### ARTÍCULO 1171°.
-
-Las puertas de las salidas o de las salidas de emergencia de los edificios mencionados en el Artículo 1167°, deberán satisfacer los siguientes requisitos:
-
-I. Siempre serán abatibles hacia el exterior sin que sus hojas obstruyan pasillos o escaleras;
-
-II. Contarán con dispositivos que permitan su apertura con el simple empuje de los concurrentes;
-
-III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deberá haber un descanso con la longitud mínima de un metro veinte centímetros; y
-
-IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
-
-###### ARTÍCULO 1172°.
-
-Las edificaciones deberán contar con las instalaciones y equipos requeridos para prevenir y combatir los incendios.
-
-###### ARTÍCULO 1173°.
-
-Las escaleras y rampas de edificios que no sean unifamiliares, deberán construirse con materiales no combustibles.
-
-###### ARTÍCULO 1174°.
-
-Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Planeación y Obras Públicas determinará lo conducente.
-
-###### ARTÍCULO 1175°.
-
-Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
-
-###### ARTÍCULO 1176°.
-
-Cuando se utilicen plafones a base de materiales que no sea (sic) a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Planeación y Obras Públicas.
-
-###### ARTÍCULO 1177°.
-
-En el caso de plafones falsos, ningún espacio comprendido entre el plafón y la losa se comunicará directamente con cubos de escaleras o de elevadores.
-
-###### ARTÍCULO 1178°.
-
-Las chimeneas deberán proyectarse de tal manera que los humos y gases sean conducidos por medio de un ducto directamente al exterior en la parte superior de la edificación.
-
-###### ARTÍCULO 1179°.
+###### ARTÍCULO 1385°.
 
 Las campanas de estufas o fogones excepto en viviendas unifamiliares, estarán protegidas por medio de filtros de grasa entre la boca de la campana y su unión. Con la chimenea y por sistemas contra incendio de operación automática o manual.
 
-###### ARTÍCULO 1180°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1180], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1386°.
 
 En los pisos de las áreas de circulaciones generales de edificios, se emplearán únicamente materiales a prueba de fuego.
 
-###### ARTÍCULO 1181°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1181], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1387°.
 
 Los proyectos de obras nuevas incluirán los espacios suficientes para estacionamiento dentro del predio, conforme a este capítulo. Igualmente, cuando se cambie el uso del suelo de un predio u obra, deberá condicionarse la autorización de dicho cambio a que se ajuste la obra o edificación a los requerimientos mínimos en materia de estacionamientos.
 
-###### ARTÍCULO 1182°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1182], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1388°.
 
 Los requerimientos mínimos en materia de cajones de estacionamiento son los siguientes:
 
@@ -11903,15 +15229,21 @@ a) Plazas y Explanadas: hasta 5 hectáreas: 1 por cada 1000 m2 terreno;
 
 b) Parques y Jardines: 1 por cada 1000 m2 terreno.
 
-###### ARTÍCULO 1183°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1389°.
 
 Las instalaciones hidráulicas y eléctricas de las construcciones y predios deberán cumplir con las disposiciones de este capítulo y con los requerimientos que se señalen (sic) las Normas Oficiales Mexicanas, la comisión Federal de Electricidad, así como con las Normas y Fichas Técnicas que establezca para cada caso específico la Dependencia municipal rectora.
 
-###### ARTÍCULO 1184°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1184], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1390°.
 
 Las edificaciones deberán estar provistas de instalaciones de agua potable para abastecer y satisfacer la demanda mínima necesaria.
 
-###### ARTÍCULO 1185°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1185], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1391°.
 
 Las edificaciones y predios deberán estar provistos de instalaciones que garanticen el drenaje eficiente de aguas negras y pluviales con las siguientes características:
 
@@ -11929,73 +15261,375 @@ VI. Las tuberías de ramaleo interior, de la instalación sanitaria de las edifi
 
 VII. Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Planeación y Obras Públicas.
 
-###### ARTÍCULO 1186°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1186], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1392°.
 
 Los talleres de reparación de vehículos, gasolinerías y auto baños, deben contar con (sic) en todos los casos con trampas de grasa y de arena en las tuberías de agua residual antes de conectarlas a la red de alcantarillado.
 
-###### ARTÍCULO 1187°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1187], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. De los Proyectos Arquitectónicos
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1146], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1353°.
+
+Los elementos arquitectónicos que constituyan el perfil de una fachada, tales como pilastras, sardineles, rejas y marcos de puertas y ventanas situados a una altura menor de dos metros cincuenta centímetros sobre el nivel de la banqueta, podrán sobresalir del alineamiento hasta diez centímetros. Estos mismos elementos situados a una altura mayor de dos metros cincuenta centímetros, podrán sobresalir del alineamiento hasta veinte centímetros como máximo Lo anterior es aplicable previa observancia de las servidumbres que establezca el alineamiento.
+
+Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión que señala este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1147], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1354°.
+
+Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1148], P.O. 22 DE ABRIL DE 2024)</small>
+
+(SIC)°.- Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, pero sin exceder de un metro; no deberán usarse como balcón cuando su construcción se proyecte sobre la vía pública. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1149], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1355°.
+
+Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1150], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1356°.
+
+Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores a cinco niveles sobre la banqueta, éstos deberán permitir un mínimo de asoleamiento en la época de invierno, respetando una separación mínima en su colindancia posterior cuando ésta coincida con la orientación norte, para ese efecto deberá respetar una distancia entre ambos que corresponda al quince por ciento de la altura máxima el (sic) edificio, sin perjuicio de cumplir con lo establecido en este Libro para patios de iluminación y ventilación.
+
+La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Libro y demás legislación de la materia vigente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1151], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1357°.
+
+Los locales de las edificaciones según su tipo tendrán el mínimo de las dimensiones y características que se establecen en la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 14 DE OCTUBRE DE 2019, PÁGINAS DE LA 208 A LA 210]</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1152], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1358°.
+
+Deberán proveerse las facilidades que requieran las personas que utilicen sillas de ruedas, siendo los requisitos mínimos indispensables, los siguientes:
+
+I. Todos los estacionamientos deberán destinar un cajón de estacionamiento por cada cincuenta cajones o fracción, a partir de treinta cajones, para uso exclusivo de personas discapacitadas, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros;
+
+II. Los Centros de Reunión, Edificios para Comercio, Educación, Oficinas, Espectáculos y Templos que se localicen en planta baja, deberán contar con rampas que cumplan con las condiciones que indica este Libro;
+
+III. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas discapacitadas, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación; y
+
+IV. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a discapacitados a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta que cumplan con la pendiente máxima y ancho que se indica en este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1153], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1359°.
+
+Los edificios deberán tener los espacios descubiertos necesarios para lograr una buena iluminación y ventilación en los términos que se establecen en este CAPÍTULO, sin que dichas superficies puedan ser techadas, parcial o totalmente con volados, corredores, pasillos o escaleras.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1154], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1360°.
+
+Los patios para dar iluminación y ventilación naturales tendrán las siguientes dimensiones mínimas en relación con la altura de los parámetros verticales que los limiten:
+
+I. Para piezas habitables, comercios y oficinas;
+
+Con altura hasta Dimensión mínima
+
+5.00 m. 2.00 m.
+
+8.00 m. 3.25 m.
+
+12.00 m. 4.00 m.
+
+En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la tercera parte de la altura total del paramento vertical que lo limite si esta altura es variable, se tomará el promedio.
+
+II. Para otras piezas no habitables;
+
+Con altura hasta Dimensión mínima
+
+4.00 Pts. 2.00 Pts.
+
+8.00 Pts. 2.25 Pts.
+
+12.00 Pts. 2.50 Pts.
+
+En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de la altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
+
+III. Se permitirán las siguientes tolerancias en las dimensiones mínimas de los patios señalados en este Artículo, en los casos que a continuación se detallan:
+
+a) Se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio en el sentido de la orientación este-oeste y hasta una desviación de cuarenta y cinco grados sobre esta línea, siempre y cuando en el sentido transversal se incremente cuando menos, en un veinte por ciento la dimensión mínima correspondiente;
+
+b) En cualquier otra orientación se autorizará la reducción hasta de un quince por ciento en una de las dimensiones mínimas del patio. Siempre y cuando la dimensión opuesta tenga por lo menos, una vez y media lo mínimo correspondiente;
+
+c) En el sentido perpendicular a los patios en que existan muros ciegos o ventanas de piezas no habitables, se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio, siempre y cuando en el otro sentido se incremente cuando menos en un veinte por ciento la dimensión mínima correspondiente;
+
+d) En los patios exteriores cuyo lado menor esté abierto a la vía pública, se aplicarán las normas consignadas en el inciso b) de la fracción II de este precepto;
+
+e) En terrenos con las dimensiones mínimas de seis metros por quince metros, se aceptará como dimensión mínima de los patios dos metros, para piezas habitables, en edificaciones con altura hasta dos niveles.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1155], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1361°.
+
+En las edificaciones para vivienda, las áreas descubiertas que deben aplicarse a los fines de iluminación y ventilación naturales, tendrán la superficie libre que indica el presente Libro, siempre y cuando no sea menor de veinte por ciento del área total del predio. La superficie libre se considera la que se presenta sin techar.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1156], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1362°.
+
+Las habitaciones destinadas a dormitorios, alcobas, salas o estancias tendrán iluminación y ventilación naturales por medio de vanos que den directamente a la vía pública o a la superficie descubierta.
+
+La superficie total de ventanas para iluminación libre de obstrucción, será por lo menos del ocho por ciento de la superficie de la habitación y para ventilación de cinco por ciento salvo el baño en que, para iluminación y ventilación, será el ocho por ciento de su área, y en cocinas será de dieciséis punto seis por ciento, sin que sea menor de un metro cuadrado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1157], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1363°.
+
+Cualquier otro local deberá preferentemente contar con iluminación y ventilación naturales de acuerdo con estos mismos requisitos, pero se permitirá la iluminación por medios artificiales y la ventilación por los medios electromecánicos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1158], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1364°.
+
+No se permitirá abrir vanos sobre las colindancias hacia predios vecinos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1159], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1365°.
+
+Se permitirá la iluminación diurna natural por medio de domas o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios.
+
+En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1160], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1366°.
+
+Se aceptará la ventilación cenital, siempre y cuando la superficie libre cumpla con el cinco por ciento del área del local.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1161], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1367°.
+
+Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
+
+I. Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
+
+II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será, de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Planeación y Obras Públicas;
+
+III. Los pasillos y los corredores lo (sic) deberán tener salientes o tropezones que disminuya (sic) su anchura, a una altura inferior a dos metros cincuenta centímetros; y
+
+IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros y se construirán de manera que impidan el paso de niños a través de ellos. En caso de edificios para habitación colectiva y escuelas de primera y segunda enseñanza, los barandales calados deberán ser solamente de elementos verticales, con excepción de los pasamanos, cuyo diseño impedirá que sirva de asiento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1162], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1368°.
+
+Las escaleras de las construcciones públicas deberán satisfacer los siguientes requisitos:
+
+I. Los edificios tendrán siempre escaleras que comuniquen todos sus niveles, aun cuando existan elevadores;
+
+II. Las escaleras serán en tal número que ningún punto servido del piso o planta se encuentre a una distancia mayor de veinticinco metros de alguna de ellas;
+
+III. Las escaleras en casas unifamiliares o en el interior de departamentos unifamiliares tendrán una anchura mínima de noventa centímetros, excepto las de servicio, que podrán tener una anchura mínima de sesenta centímetros;
+
+IV. En los centros de reunión y salas de espectáculos, las escaleras tendrán una anchura mínima igual a la suma de las anchuras de las circulaciones a las que den servicio;
+
+V. El ancho de los descansos deberá ser, cuando menos, igual a la anchura reglamentaria de la escalera;
+
+VI. La huella de los escalones tendrá un ancho mínimo de veinticinco centímetros y sus peraltes un máximo de dieciocho centímetros;
+
+VII. Las escaleras contarán con un máximo de trece peraltes entre descansos, excepto las de caracol;
+
+VIII. En cada tramo de escalera, las huellas serán todas iguales; la misma condición deberán cumplir los peraltes;
+
+IX. El acabado de la huella será antiderrapante;
+
+X. La altura mínima de los barandales, siendo necesarios estos cuando la escalera no este flanqueada por muros, será de noventa centímetros, medidos a partir de la nariz del escalón. Se construirán con el anclaje y rigidez adecuados y de manera que impidan el paso de niños a través de ellos; y
+
+XI. Las escaleras de caracol se permitirán solamente para comunicar niveles pertenecientes a un mismo local, oficina, departamento o casa unifamiliar y deberán tener un radio útil mínimo de sesenta metros si son de servicio o de noventa centímetros si son principales.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1163], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1369°.
+
+Las rampas para peatones en cualquier tipo de construcción, así como en las aceras, deberán satisfacer los siguientes requisitos:
+
+I. Tendrán una anchura mínima igual a la señalada para las escaleras;
+
+II. La pendiente máxima será del diez por ciento;
+
+III. Los pavimentos serán antiderrapantes; y
+
+IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1164], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1370°.
+
+La anchura de los accesos, salidas, salidas de emergencia y puertas que comuniquen con la vía pública, tendrán un ancho mínimo de un metro, veinte centímetros y una altura de dos metros diez centímetros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1165], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1371°.
+
+Se exceptúan de la disposición anterior, las puertas de acceso a casa habitación unifamiliares a departamentos y oficinas ubicadas en el interior de edificios y a las aulas en edificios destinados a la educación, las que podrán tener una anchura libre mínima de noventa centímetros. Asimismo en estos edificios, las puertas interiores de comunicación o de áreas de servicios podrán tener una anchura libre mínima de setenta centímetros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1166], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1372°.
+
+Los accesos que en condiciones normales sirvan también de salida, o aquéllas de emergencia deberán permitir el desalojo del local en un máximo de tres minutos, considerando que cada persona puede salir por una anchura de sesenta centímetros, en un segundo; por lo tanto, la anchura siempre será múltiplo de sesenta centímetros, y nunca será menor que la suma de los anchos de los pasillos que converjan a la salida.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1167], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1373°.
+
+Cuando la capacidad de los hospitales, centros de reunión, salas de espectáculos y espectáculos deportivos, similares o análogos sea superior a cuarenta concurrentes o cuando el área de ventas de locales y centros comerciales sea superior a un mil metros cuadrados, deberán contar con salidas de emergencia.
+
+Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las salidas ordinarias y deberán existir en cada nivel.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1168], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1374°.
+
+Las salidas de emergencia deberán tener comunicación directa a la vía pública o lo harán por medio de pasillos con la anchura reglamentaria. Queda prohibida la existencia de puertas simuladas o espejos en los pasillos de salida. La anchura de las salidas será de acuerdo a lo especificado en el Artículo de Requisitos de Salidas de Emergencia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1169], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1375°.
+
+Los pasillos estarán libres de toda obstrucción y con pasamanos adecuados conforme a este ordenamiento. Los materiales empleados serán de tipo incombustible y con pisos antiderrapantes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1170], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1376°.
+
+Para las edificaciones especificadas en el Artículo 1167°, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, mediante flechas y símbolos luminosos, que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se llegare a interrumpir el servicio eléctrico general.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1171], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1377°.
+
+Las puertas de las salidas o de las salidas de emergencia de los edificios mencionados en el Artículo 1167°, deberán satisfacer los siguientes requisitos:
+
+I. Siempre serán abatibles hacia el exterior sin que sus hojas obstruyan pasillos o escaleras;
+
+II. Contarán con dispositivos que permitan su apertura con el simple empuje de los concurrentes;
+
+III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deberá haber un descanso con la longitud mínima de un metro veinte centímetros; y
+
+IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1172], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1378°.
+
+Las edificaciones deberán contar con las instalaciones y equipos requeridos para prevenir y combatir los incendios.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1173], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1379°.
+
+Las escaleras y rampas de edificios que no sean unifamiliares, deberán construirse con materiales no combustibles.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1174], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1393°.
 
 En los lugares a los que asista público se contará con servicios sanitarios separados para hombres y mujeres. El acceso a éstos se hará de tal forma que se impida la vista directa de cualquiera de los muebles sanitarios al abrir la puerta.
 
-###### ARTÍCULO 1188°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1188], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1394°.
 
 Los inodoros, lavabos y regaderas a que se refiere el artículo anterior se distribuirán por partes iguales en locales separados para hombres y mujeres y en los casos en que se demuestre el predominio de un sexo sobre otro en cantidad entre los usuarios, podrá distribuirse en la proporción equivalente, señalándolo así en el proyecto.
 
-###### ARTÍCULO 1189°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1189], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1395°.
 
 Sólo podrán construirse las instalaciones mecánicas, eléctricas, de ventilación, de aire acondicionado, neumático, de gas, de seguridad y similar que estén proyectadas de conformidad con las Normas Oficiales Mexicanas expedidas por las dependencias o instancias correspondientes que sean competentes según las demás disposiciones legales vigentes.
 
 En todo caso el propietario estará obligado a conservarlas en condiciones tales que se proporcione permanentemente un servicio seguro y eficiente.
 
-###### ARTÍCULO 1190°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1190], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1396°.
 
 Los circuitos de iluminación de las edificaciones de habitación, comercio, salud, educación y cultura deberán tener interruptores de corriente de acuerdo con las Normas Oficiales Mexicanas.
 
 Los interruptores deberán estar en un punto de fácil acceso para caso de siniestro y próximos al encendido del sistema de emergencia en su caso.
 
-###### ARTÍCULO 1191°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1191], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1397°.
 
 Para circulaciones horizontales y verticales en todas las edificaciones, excepto de habitación el nivel de iluminación, será cuando menos cien luxes. Para el uso de sanitarios en general el nivel mínimo será de setenta y cinco luxes.
 
-###### ARTÍCULO 1192°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1192], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1398°.
 
 Las instalaciones de calderas, calentadores y aparatos similares, así como la de sus accesorios se harán de manera que no causen molestias, contaminen el ambiente ni pongan en peligro a las personas.
 
-###### ARTÍCULO 1193°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1193], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1399°.
 
 Deberán dejarse registros, ductos y preparaciones para instalaciones telefónicas en los edificios con más de tres departamentos en comercios u oficinas con área superior a trescientos metros cuadrados en industrias o bodegas con más de quinientos metros cuadrados, en casas de huéspedes, en hoteles, en hospitales o clínicas, en escuelas con más de tres aulas, en salas de espectáculos, en edificios para espectáculos deportivos, en clubes deportivos o sociales y en cualquier otra edificación cuya superficie construida sea mayor de mil metros cuadrados.
 
-###### ARTÍCULO 1194°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1400°.
 
 Para los efectos de este Libro, se considerarán piezas habitables los locales que se destinen a salas, estancias, comedores dormitorios, alcobas, despachos y oficinas, y no habitables, las destinadas a cocinas, cuartos de baño, lavaderos, cuartos de planchar y otros similares.
 
 En los planos deberá indicarse con precisión el destino de cada local, el que deberá ser congruente con su ubicación, funcionamiento y dimensiones.
 
-###### ARTÍCULO 1195°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1195], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1401°.
 
 Cada vivienda de un edificio deberá contar con sus propios servicios sanitarios, conforme se establece en la tabla correspondiente de este Libro.
 
-###### ARTÍCULO 1196°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1196], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1402°.
 
 En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de éstas a fin de que de antemano sean consideradas las soluciones constructivas finales y arquitectónicas de las mismas.
 
 La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
 
-###### ARTÍCULO 1197°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1197], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1403°.
 
 Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Planeación y Obras Públicas, con el fin de que armonicen con el conjunto.
 
 Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
 
-###### ARTÍCULO 1198°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1198], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1404°.
 
 Vivienda rural es aquella que se encuentra en poblaciones menores de dos mil habitantes, que cuenta con un solo nivel.
 
-###### ARTÍCULO 1199°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1199], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1405°.
 
 Las viviendas y escuelas ubicadas en el área rural que no cuenten con drenaje deberán de contar con letrina sanitaria.
 
-###### ARTÍCULO 1200°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1200], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1406°.
 
 Las letrinas sanitarias deberán contar y sujetarse a lo siguiente:
 
@@ -12005,31 +15639,59 @@ II. La distancia mínima de la letrina a la vivienda será de cinco metros; y
 
 III. Para la construcción y mantenimiento de las letrinas sanitarias deberán seguirse las normas técnicas del Instituto de Salud del Estado de Aguascalientes.
 
-###### ARTÍCULO 1201°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1201], P.O. 22 DE ABRIL DE 2024)</small>
 
-Se consideran anexos de la vivienda rural, los espacios para corrales de ganado bovino, equino, porcino, etc.;
+ARTÍCULO 1408° (SIC).- Se consideran anexos de la vivienda rural, los espacios para corrales de ganado bovino, equino, porcino, etc.;
 
 I. Estos elementos no podrán estar a una distancia horizontal menor de 5.00 metros de la vivienda como tal; y
 
 II. Los desechos biológicos de los animales deberán de ser canalizados hacia espacios donde no representen o constituyan fuentes de contaminación.
 
-###### ARTÍCULO 1202°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1407°.
+
+Todo servidor público estará impedido para intervenir o conocer de cualquier procedimiento administrativo municipal, debiendo en ese caso, inhibirse para conocer, cuando:
+
+I. Tenga interés directo o indirecto;
+
+II. Tenga interés su cónyuge, consanguíneos en línea recta sin limitación de grados y colaterales del cuarto grado o los afines dentro del segundo grado;
+
+III. Exista manifiesta amistad o enemistad;
+
+IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
+
+V. Cualquier otra prevista en el presente Código.
+
+###### ARTÍCULO 1408°.
+
+Los particulares con capacidad jurídica podrán promover por sí o por interpósita persona.
+
+###### ARTÍCULO 1409°.
 
 Las circulaciones para uso del público entre mostradores o entre muebles para la exhibición y venta de Artículos en locales comerciales o en edificios destinados a comercios, tendrán un mínimo de un metro veinte centímetros de ancho y se mantendrán libres de obstrucciones.
 
-###### ARTÍCULO 1203°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1203], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1410°.
 
 En comercios y oficinas, los cristales y espejos de gran magnitud, cuyo extremo inferior quede a menos de cincuenta centímetros del nivel del piso colocados en lugares a los que tenga acceso el público, deberán señalarse o protegerse adecuadamente para evitar accidentes.
 
-###### ARTÍCULO 1204°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1204], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1411°.
 
 La superficie mínima para una oficina será de ocho metros cuadrados y su altura mínima de dos metros treinta centímetros.
 
-###### ARTÍCULO 1205°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1205], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1412°.
 
 En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Libro y del Código, o en casos especiales.
 
-###### ARTÍCULO 1206°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1206], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1413°.
 
 Cuando la nave de un mercado tenga más de mil metros cuadrados, deberá tener una altura mínima de seis metros. Los pasillos tendrán un ancho mínimo de un metro cincuenta centímetros y no tendrán obstrucciones. Su piso será antiderrapante.
 
@@ -12041,15 +15703,21 @@ La superficie destinada a la ventilación será como mínimo el veinte por cient
 
 Deberán contar con un cuarto para el depósito de basura con las dimensiones suficientes, su ventilación será cenital y su puerta deberá ser hermética.
 
-###### ARTÍCULO 1207°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1207], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1414°.
 
 Los muros de las carnicerías y pescaderías deberán ser lavables; preferentemente recubiertos de azulejo. Estos locales deberán contar con tarja.
 
-###### ARTÍCULO 1208°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1208], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1415°.
 
 En los tianguis cuando se instalen mantas, deberá conservarse la circulación con una altura mínima de dos metros cincuenta centímetros.
 
-###### ARTÍCULO 1209°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1209], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1416°.
 
 Los edificios destinados a primera y segunda enseñanza, deberán contar con las superficies mínimas siguientes:
 
@@ -12059,49 +15727,71 @@ II. La superficie de aulas se calculará a razón de un metro cuadrado por alumn
 
 III. La superficie de esparcimiento será de dos metros cincuenta centímetros cuadrados por alumno en jardines de niños: y de tres metros cincuenta centímetros cuadrados en primaria y secundaria, la cual deberá tener jardines o pisos nivelados y drenados adecuadamente.
 
-###### ARTÍCULO 1210°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1210], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1417°.
 
 Todas las escuelas deberán tener aulas de forma y características tales que permitan a todos los alumnos tener una visibilidad adecuada del área donde se imparta la enseñanza. La altura promedio interior será de dos metros setenta centímetros.
 
-###### ARTÍCULO 1211°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1211], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1418°.
 
 Los salones de reunión tendrán dos puertas de un metro de anchura mínima cada una.
 
-###### ARTÍCULO 1212°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1212], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1419°.
 
 En edificios escolares, la dimensión mínima de los patios que sirvan para dar ventilación e iluminación a las aulas, será igual a un medio de la altura de los paramentos que los limiten, pero no menor de tres metros.
 
-###### ARTÍCULO 1213°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1213], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1420°.
 
 Cada escuela deberá tener un local destinado para servicio médico de emergencia, dotado del equipo e instrumental necesario.
 
-###### ARTÍCULO 1214°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1214], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1421°.
 
 Las dimensiones mínimas en planta de los cuartos para enfermos serán de tres metros libres y la altura de dos metros cuarenta centímetros.
 
 En todo caso, los cuartos para enfermos, individuales o generales, tendrán las dimensiones suficientes para permitir libremente los movimientos de las camillas.
 
-###### ARTÍCULO 1215°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1215], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1422°.
 
 En las salas de urgencias los accesos a las mismas, no deberán ser interferidos por ninguna circulación.
 
-###### ARTÍCULO 1216°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1216], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1423°.
 
 Todos los departamentos tendrán servicio de llamado sonoro y luminoso.
 
-###### ARTÍCULO 1217°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1217], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1424°.
 
 Los Cementerios estarán situados en las afueras de las poblaciones, en dirección opuesta a los vientos dominantes, circundados de muros o cercas sólidas y cerradas con puertas o rejas. Asimismo, estarán ubicados a distancia no menor de doscientos metros de depósitos naturales de agua o pozos destinados al servicio humano.
 
-###### ARTÍCULO 1218°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1218], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1425°.
 
 En los Cementerios se podrán instalar Hornos Crematorios construidos de acuerdo con las especificaciones establecidas en las disposiciones sanitarias de la Ley de Salud.
 
-###### ARTÍCULO 1219°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1219], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1426°.
 
 En los cementerios debe aparecer la distribución de lotes para sepulturas, con nomenclatura definida, sencilla y clara de las calles y numeración de lotes.
 
-###### ARTÍCULO 1220°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1220], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1427°.
 
 Serán consideradas como dimensiones mínimas de los lotes.
 
@@ -12137,25 +15827,39 @@ Alto = 0.80 m.
 
 Las losas de las gavetas deberán estar a un mismo nivel por la cara superior interna y en la cara inferior interna tendrán un desnivel cuya pendiente no sea menor al dos por ciento hacia el fondo, con el objeto de que los líquidos que pudieran escurrir se canalicen por un drenaje que al efecto debe construirse hacia el subsuelo, en donde habrá una fosa séptica que lo reciba. Toda esta área deberá estar constructivamente sellada en forma hermética.
 
-###### ARTÍCULO 1221°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1221], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1428°.
 
 Para el tipo de panteón horizontal tradicional, todos los lotes para inhumaciones tendrán acceso directo a una calle, por lo menos, y la anchura mínima de éstas será de tres metros en los cementerios de uso general y de dos metros en los de uso local.
 
-###### ARTÍCULO 1222°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1222], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1429°.
 
 La profundidad mínima de la excavación en las fosas comunes, será de un metro cincuenta centímetros contados desde el nivel de la calle adyacente. Podrán autorizarse bóvedas en las fosas, descansando losas de concreto sobre muretes de ladrillo de catorce centímetros. Cuando no se cubra con mampostería el fondo de la excavación, la profundidad de ella será de un metro veinticinco centímetros como mínimo.
 
-###### ARTÍCULO 1223°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1223], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1183], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1430°.
 
 Podrán construirse bóvedas herméticas en el caso de que se deseen dos gavetas superpuestas, las cuales tendrán setenta centímetros de altura libre, mínima, cada una, con cubiertas de losas de concreto de cinco centímetros, quedando el nivel de la tapa superior a cincuenta centímetros abajo del nivel de la calle adyacente, y una profundidad total de dos metros. Sobre la gaveta superior, podrán depositarse restos, no pasando del nivel del terreno, dentro de la construcción hermética en nichos aislados.
 
-###### ARTÍCULO 1224°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1224], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1431°.
 
 Para el tipo de panteón horizontal tradicional, sólo se autorizará la construcción de criptas familiares, colocando gavetas a uno y a otro lado de un pasillo central para el descenso de cadáveres, cuando la superficie disponible sea la de tres lotes contiguos como mínimo.
 
 Las criptas serán de materiales impermeables y las tapas tendrán un cierre hermético. Sobre estas criptas podrán autorizarse nichos para restos, siempre que su construcción sea hermética y de materiales impermeables, quedando los nichos sobre el nivel del terreno.
 
-###### ARTÍCULO 1225°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1225], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1432°.
 
 La circulación del público en los cementerios se asegurará, por lo menos:
 
@@ -12163,7 +15867,9 @@ I. Por una avenida de circulación contigua al muro que limitará al cementerio,
 
 II. Para el tipo de panteón horizontal tradicional, por calles secundarias para peatones de anchura mínima de dos metros.
 
-###### ARTÍCULO 1226°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1226], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1433°.
 
 Las construcciones para industrias deberán reunir los siguientes requisitos:
 
@@ -12179,25 +15885,35 @@ a) Densidades de Construcción en Industrias.
 
 Área del Predio: Densidad Máxima de Construcción (m2); hasta 1,250 m2, 100%; de 1,251 m2 a 2,500 m2, 90%; de 2,501 m2 a 7,500 m2; 80%; De 7,501 m2 a 22,500 m2: 75%; de 22,501 m2 en adelante: 70%.
 
-###### ARTÍCULO 1227°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1434°.
 
 El cupo de los centros de reunión se calculará a razón de un metro cuadrado por persona.
 
 Si en ellos hubiese pista de baile, ésta deberá tener una superficie mínima de veinte decímetros cuadrados por persona, de acuerdo con el cupo total, la cual será independiente del área por concurrente especificada en el párrafo anterior.
 
-###### ARTÍCULO 1228°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1228], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1435°.
 
 En los centros de reunión, el área de los vestíbulos será por lo menos de punto veinticinco metros cuadrados por concurrente hasta doscientos concurrentes y de punto treinta metros cuadrados por concurrente para más de doscientos cincuenta concurrentes, debiendo quedar adyacente a la vía pública, por lo menos, la cuarta parte de dicha área.
 
-###### ARTÍCULO 1229°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1229], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1436°.
 
 Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y casetas de proyección de los centros de reunión, deberán aislarse del área destinada a los concurrentes mediante elementos o materiales que impidan la transmisión del ruido o de las vibraciones, así mismo se impedirá que el ruido generado en este tipo de edificios pueda causar molestias a los vecinos.
 
-###### ARTÍCULO 1230°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1230], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1437°.
 
 Habrá una instalación de emergencia con encendido automático, alimentada con acumuladores o baterías, que proporcionará a los salones, vestíbulos y circulaciones una iluminación de emergencia de cinco luxes mínimo en tanto se restablezca la falla.
 
-###### ARTÍCULO 1231°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1231], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1438°.
 
 Las Salas de espectáculos deberán reunir los siguientes requisitos:
 
@@ -12211,75 +15927,117 @@ IV. Los accesos y salidas se localizarán de preferencia en calles diferentes;
 
 V. Toda clase de espectáculos deberá contar al menos con tres salidas con anchura mínima cada una de un metro ochenta centímetros.
 
-###### ARTÍCULO 1232°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1232], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1439°.
 
 Las salas de espectáculos deberán tener vestíbulos que comuniquen la sala con la vía pública o con los pasillos de acceso a ésta; tales vestíbulos deberán tener una superficie mínima calculada a razón de punto veinticinco metros cuadrados por concurrente, hasta doscientos cincuenta concurrentes y de punto treinta metros cuadrados por concurrente, para más de doscientos cincuenta concurrentes.
 
 Además, cada clase de localidad deberá contar con espacio para el descanso de los espectadores durante los intermedios, que se calculará a razón de quince decímetros cuadrados por concurrente.
 
-###### ARTÍCULO 1233°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1233], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1440°.
 
 Los pasillos de las salas deberán desembocar al vestíbulo a nivel con el piso de éste.
 
-###### ARTÍCULO 1234°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1234], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO V. De la Edificación para Habitación
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1194], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1441°.
 
 El total de las anchuras de las puertas que comuniquen la calle con los pasillos de acceso o salida a ella, deberá por lo menos ser igual a las cuatro terceras partes de la suma de las anchuras de las puertas que comuniquen el interior de la sala con los vestíbulos.
 
-###### ARTÍCULO 1235°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1235], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1442°.
 
 Será siempre requisito indispensable la colocación de marquesinas en las puertas de salida a la vía pública.
 
-###### ARTÍCULO 1236°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1236], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1443°.
 
 En los templos o lugares destinados al culto el cupo se calculará a razón de punto cinco metros cuadrados por asistente para aforo hasta de doscientos cincuenta asistentes y para más de doscientos cincuenta concurrentes, el aforo se calculará a razón de punto siete metros cuadrados por asistente.
 
-###### ARTÍCULO 1237°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1237], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1444°.
 
 En todas las puertas que comunique a la vía pública o espacios descubiertos, se instalarán canceles o dispondrá de puertas con cierre automático para obtener aislamiento acústico y visual.
 
-###### ARTÍCULO 1238°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1238], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1445°.
 
 Cuando menos una de las salidas deberá conectarse a la vía pública por medio de un atrio que tendrá una dimensión mínima de cinco metros.
 
-###### ARTÍCULO 1239°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1239], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1446°.
 
 Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con él.
 
-###### ARTÍCULO 1240°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1240], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1447°.
 
 Las salas de espectáculos deberán contar con taquillas que no obstruyan la circulación y se localicen en forma visible, Deberá haber cuándo menos una taquilla por cada mil quinientos espectadores o fracción de acuerdo con el cupo de la localidad.
 
-###### ARTÍCULO 1241°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1241], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1448°.
 
 Sólo se permitirá la instalación de butacas en las salas de espectáculos, por lo que se prohibirá la construcción de gradas, si no están provistas de asientos individuales. La anchura mínima de las butacas será de cincuenta centímetros, debiendo quedar un espacio libre mínimo de cuarenta centímetros entre el frente de un asiento y el respaldo del próximo, medido éste entre verticales. La distancia desde cualquier butaca al punto más cercano de la pantalla será la mitad de la dimensión mayor de ésta, pero en ningún caso menor de siete metros ya que queda prohibida la colocación de butacas en zonas de visibilidad defectuosa.
 
-###### ARTÍCULO 1242°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1242], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VI. De la Edificación para Comercios y Servicios
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1202], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1449°.
 
 Las butacas deberán estar fijas en el piso a excepción de las que se sitúen en palcos y plateas, debiendo tener siempre asientos plegadizos.
 
-###### ARTÍCULO 1243°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1243], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1450°.
 
 Los pasillos interiores para circulación en las salas de espectáculos, tendrán una anchura mínima de un metro veinte centímetros cuando haya asientos a ambos lados y de noventa centímetros cuando cuenten con asientos a un solo lado, quedando prohibido colocar más de catorce butacas para desembocar a dos pasillos y siete a desembocar a un sólo pasillo.
 
 Los pasillos con escalones, tendrán una huella mínima de treinta centímetros y un peralte máximo de diecisiete centímetros y deberán estar convenientemente iluminados. En los muros de los pasillos, no se permitirán salientes a una altura menor de tres metros en relación con el piso de los mismos.
 
-###### ARTÍCULO 1244°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1244], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1451°.
 
 En todas las puertas que conduzcan al exterior, se colocarán invariablemente letreros con la palabra "salida" y flechas luminosas indicando la dirección de dichas salidas, las letras deberán tener una altura mínima de quince centímetros y estar permanentemente iluminadas, aun cuando se interrumpa el servicio eléctrico general.
 
-###### ARTÍCULO 1245°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1245], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1452°.
 
 Será obligatorio en todas las salas de espectáculos contar con una planta eléctrica de emergencia de la capacidad requerida para todos los servicios.
 
-###### ARTÍCULO 1246°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1246], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1453°.
 
 Las salas de espectáculos deberán contar con ventilación artificial adecuada, para que la temperatura del aire tratado, oscile entre los veintitrés y veintisiete grados centígrados; la humedad relativa, entre el treinta por ciento y el sesenta por ciento, sin que sea permisible una concentración de bióxido de carbono mayor de quinientas partes por millón.
 
-###### ARTÍCULO 1247°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1247], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1454°.
 
 Se considerarán edificios para espectáculos deportivos y deberán satisfacer los requisitos señalados en este Capítulo, aquellos inmuebles que se destinen a estadios, plazas de toros, arenas, hipódromos, lienzos charros y cualesquiera otros con usos semejantes.
 
-###### ARTÍCULO 1248°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1248], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1455°.
 
 Las gradas de los edificios para espectáculos deportivos deberán satisfacer las siguientes condiciones:
 
@@ -12297,15 +16055,21 @@ VI. Contar con una escalera con anchura mínima de noventa centímetros a cada n
 
 VII. Cada quince filas habrá pasillos paralelos a las gradas, con anchura mínima igual a la suma de las anchuras reglamentarias de las escaleras que desemboquen a ellos entre dos puertas o conjuntos de graderías contiguos.
 
-###### ARTÍCULO 1249°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1249], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1456°.
 
 Los edificios para espectáculos deportivos deberán tener un local adecuado para servicio médico, con el equipo e instrumental necesario y dotado de servicios sanitarios adecuados. Las paredes de este local, estarán recubiertas de material impermeable hasta un metro ochenta centímetros de altura, como mínimo.
 
-###### ARTÍCULO 1250°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1250], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1457°.
 
 Los edificios para espectáculos deportivos deberán tener las instalaciones especiales necesarias para proteger debidamente a los espectadores y jugadores de los riesgos propios del espectáculo que se presente.
 
-###### ARTÍCULO 1251°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1251], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1458°.
 
 Las albercas, sea cual fuere su tamaño y forma, contarán cuando menos con:
 
@@ -12323,39 +16087,57 @@ VI. En todas las albercas donde la profundidad sea mayor de noventa centímetros
 
 VII. Deberán diferenciarse, mediante el señalamiento adecuado, las zonas de natación y de clavados y señalarse en lugar visible las profundidades mínima y máxima.
 
-###### ARTÍCULO 1252°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1252], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1459°.
 
 Las ferias con aparatos mecánicos deberán contar, con un lugar previsto con los servicios de primeros auxilios en un sitio de fácil acceso y con señales visibles por lo menos desde veinte metros de distancia.
 
-###### ARTÍCULO 1253°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1253], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1460°.
 
 Las áreas destinadas a andadores, deberán estar libres de los estorbos que puedan ocasionar los cables eléctricos o cualquier tipo de cubierta.
 
-###### ARTÍCULO 1254°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1461°.
 
 Se entiende por estructura al conjunto de elementos constructivos que proporcionan la resistencia, la estabilidad y la rigidez en una edificación, los cuales deben interactuar respetando leyes de variación definidas con el fin de lograr el correcto funcionamiento y seguridad de la misma.
 
-###### ARTÍCULO 1255°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1255], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1462°.
 
 Se considera como parte de este libro y de aplicación supletoria, las normas, técnicas pertenecientes al Código Municipal de Aguascalientes y Reglamento de Construcciones para el Distrito Federal.
 
-###### ARTÍCULO 1256°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1256], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1463°.
 
 Toda construcción, ya sea de tipo público o privado deberá tener debidamente integrado un proyecto estructural, cuyas copias deberán ser firmadas por las fuentes responsables de acuerdo a lo establecido en este Libro.
 
-###### ARTÍCULO 1257°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1257], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1464°.
 
 El proyecto constará básicamente de dos documentos: la memoria de cálculo y los planos estructurales.
 
-###### ARTÍCULO 1258°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1258], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1465°.
 
 La Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-###### ARTÍCULO 1259°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1259], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1466°.
 
 El proyecto constará básicamente de dos documentos: la memoria de cálculo y los planos estructurales.
 
-###### ARTÍCULO 1260°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1260], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1467°.
 
 La Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
@@ -12373,7 +16155,9 @@ VI. Justificación del tipo de cimentación a utilizarse y descripción del comp
 
 VII. Revisión del comportamiento de la estructura y su cimentación ante estados límite de servicio.
 
-###### ARTÍCULO 1261°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1261], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1468°.
 
 Con relación a los planos Estructurales, tanto de la estructura como de la cimentación, éstos deberán estar debidamente dibujados y acotados y deberán indicar lo siguiente:
 
@@ -12397,11 +16181,15 @@ IX. Precauciones tomadas contra cambios en las dimensiones, producidos por fluen
 
 X. Capacidad de carga del terreno donde se proyecta construir el inmueble.
 
-###### ARTÍCULO 1262°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1262], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1469°.
 
 Adicionalmente se deberá incluir el proyecto de protección a colindancias y el estudio de mecánica de suelos cuando esto proceda, según lo establecido en el capítulo de Diseño de Cimentaciones.
 
-###### ARTÍCULO 1263°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1263], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1470°.
 
 Para los efectos de este Capítulo las construcciones según su uso se clasificarán en los siguientes grupos:
 
@@ -12419,1293 +16207,47 @@ a) Subgrupo B.1.- Construcciones de más de veinte metros de altura total o uno 
 
 b) Subgrupo B.2.- Las construcciones restantes pertenecientes a este grupo.
 
-###### ARTÍCULO 1264°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1264], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1471°.
 
 El proyecto arquitectónico de toda construcción deberá permitir una estructuración eficiente para resistir las acciones que puedan afectar a la estructura.
 
 El proyecto arquitectónico de preferencia permitirá una estructuración regular que cumpla con los requisitos que se establecen en las normas técnicas complementarias de Diseño por sismo.
 
-###### ARTÍCULO 1265°.
-
-Las construcciones que no cumplan con dichos requisitos de regularidad se diseñarán para condiciones sísmicas más severas en la forma que se especifica en dichas normas.
-
-###### ARTÍCULO 1266°.
-
-Los acabados, recubrimientos y elementos prefabricados de concreto cuyo desprendimiento pueda ocasionar daños a los ocupantes de la construcción o a los que transiten en su exterior deberán fijarse mediante procedimientos aprobados por los Peritos Responsables según lo establece este Libro.
-
-###### ARTÍCULO 1267°.
-
-Los elementos no estructurales que puedan restringir las deformaciones de la estructura, o que tengan un peso considerable, deberán ser aprobados en sus características y en su forma de fijación por los Peritos Responsables.
-
-###### ARTÍCULO 1268°.
-
-Los elementos de gran peso y dimensiones, adosados, colgantes y de azotea que puedan ocasionar daños materiales, tales como libreros altos, anaqueles y tableros eléctricos o telefónicos, deben fijarse de tal manera que se eviten estos daños, deberán ser objeto de diseño estructural en los términos de este títutlo.
-
-###### ARTÍCULO 1269°.
-
-Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este título, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Libro.
-
-###### ARTÍCULO 1270°.
-
-Cualquier perforación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Peritos Responsables de Obra según este Libro quienes elaborarán planos de detalle que indiquen las modificaciones y refuerzos locales necesarios.
-
-###### ARTÍCULO 1271°.
-
-No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
-
-###### ARTÍCULO 1272°.
-
-Toda estructura y sus componentes deberán diseñarse para cumplir con los requisitos siguientes, según sus distintos tipos de comportamiento:
-
-I. Seguridad ante la Falla.- Soportar con seguridad todas las cargas y sus combinaciones que tengan una probabilidad no despreciable de ocurrir sin que se excedan los Estado (sic) Límite de Falla definidos en este Libro;
-
-II. Comportamiento bajo Cargas de Servicio.- No rebasar ninguno de los Estado (sic) Límite de Servicio definidos en este Libro ante combinaciones de acciones que correspondan a condiciones normales de operación; y
-
-III. Comportamiento bajo Otras Acciones.- Evitar los efectos perjudiciales en la estructura debidos a asentamientos diferenciales de la cimentación, empujes horizontales de tierras y líquidos, cambios de temperatura y de humedad, contracción y flujo plástico en los materiales, etc.
-
-###### ARTÍCULO 1273°.
-
-Deberá revisarse que, bajo el efecto de las combinaciones de acciones clasificadas en este Título, la respuesta de las estructuras comunes no exceda de los valores siguientes:
-
-I. En elementos sujetos a flexión vertical, el límite de las deformaciones será una flecha vertical, incluyendo los efectos a largo plazo, igual al claro entre doscientos cuarenta más punto cinco centímetros. Además, tratándose de elementos cuyas deformaciones afecten a elementos no estructurales que no sean capaces de soportar deformaciones apreciables el límite será igual al claro entre cuatrocientos ochenta más punto tres centímetros. Para el Caso de elementos en voladizo, los límites anteriores se multiplicarán por dos;
-
-II. En el caso de deformaciones horizontales entre dos niveles consecutivos de una estructura, el límite será una deformación horizontal relativa igual a la altura de entrepiso entre quinientos para estructuras en cuyo interior se tengan elementos no estructurales que puedan dañarse con pequeñas deformaciones, e igual a la altura de entrepiso entre doscientos cincuenta para otros casos;
-
-III. Para el caso de deformaciones laterales por efecto de sismo o de viento, se observarán los límites señalados en las Normas Técnicas Complementarias correspondientes, en las cuales además se establecen los límites por choques entre estructuras adyacentes y los límites por rotura de vidrios;
-
-IV. En todo caso, la separación entre una construcción y sus linderos con los predios contiguos no será nunca inferior a 3 cm.
-
-En el caso de Cimentaciones, los estados límite de servicio correspondientes a deformaciones aparecen en el capítulo relativo al Diseño de Cimentaciones;
-
-V. Con respecto a las vibraciones, se considerará como estado límite cualquier vibración que afecte el funcionamiento de la construcción o que produzca molestias o sensación de inseguridad a sus ocupantes, pero que no afecten a la capacidad de la estructura para soportar cargas; y
-
-VI. Además se considerará como estado límite de servicio la aparición de grietas, desprendimientos, astillamientos, aplastamientos, torceduras y otros daños locales que afecten el funcionamiento de la construcción, con la misma salvedad señalada en el inciso anterior.
-
-###### ARTÍCULO 1274°.
-
-Las fuerzas internas y las deformaciones producidas por los sistemas de acciones y sus combinaciones, que actúan sobre todos los componentes de una estructura, deberán ser determinadas en base a métodos reconocidos de análisis estructural, tomando en consideración el equilibrio, la compatibilidad de deformaciones y las propiedades de los materiales a corto y a largo plazo.
-
-###### ARTÍCULO 1275°.
-
-Serán Normas Técnicas Complementarias del presente libro las pertenecientes al Código Municipal de Aguascalientes, al Reglamento de Construcciones para el Distrito Federal, el Manual de Obras Civiles de la Comisión Federal de Electricidad, las Normas y fichas Técnicas emitidas por la Secretaría de Obras Públicas del Gobierno del Estado emitidas a través del Comité Interinstitucional de Obras Públicas, las Normas y Fichas Técnicas en materia de agua potable, alcantarillado y Saneamiento, emitidas por la Comisión Ciudadana de agua Potable y Alcantarillado del Municipio de Aguascalientes, cuando no se cuente con ellas.
-
-###### ARTÍCULO 1276°.
-
-Los Peritos Responsables de obra, o los propietarios de una obra que no requiera Perito Responsable y los constructores, están obligados a vigilar que la ejecución de la misma se realice con las técnicas constructivas más adecuadas, se empleen los materiales con la resistencia y calidad especificadas en este Libro y en sus Normas Técnicas complementarias, se tomen las medidas de seguridad necesarias y se evite causar molestias o perjuicios a terceros.
-
-###### ARTÍCULO 1277°.
-
-Durante la ejecución de cualquier construcción, el Perito Responsable de Obra, el Propietario y el constructor, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de los terceros, así como para evitar los daños que directa o indirectamente pudiere causar la ejecución de la obra.
-
-Deberán usarse redes de seguridad o cinturones de seguridad con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
-
-###### ARTÍCULO 1278°.
-
-Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Planeación y Obras Públicas. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
-
-###### ARTÍCULO 1279°.
-
-El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Planeación y Obras Públicas.
-
-El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
-
-###### ARTÍCULO 1280°.
-
-Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Planeación y Obras Públicas. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
-
-###### ARTÍCULO 1281°.
-
-El Perito Responsable de obra, deberá vigilar que se cumpla con este Libro, particularmente en lo que se refiere a los siguientes aspectos:
-
-I. Propiedades mecánicas de los materiales;
-
-II. Tolerancias en las dimensiones de los elementos estructurales, tales como medidas de claros, secciones de las piezas, área y distribución del acero y espesores de recubrimientos;
-
-III. Nivel y alineamiento de los elementos estructurales; y
-
-IV. Cargas muertas en la estructura, tales como el peso volumétrico propio y el provocado por la colocación de materiales durante la ejecución de la obra.
-
-###### ARTÍCULO 1282°.
-
-Durante la ejecución de una obra deberán tomarse las medidas necesarias para no alterar el comportamiento ni el funcionamiento de las construcciones e instalaciones en predios colindantes o en la vía pública, apegándose a los procedimientos especificados en los planes estructurales y en la memoria de cálculo, lo cual deberá ser efectuado con la supervisión del Perito Responsable de Obra.
-
-###### ARTÍCULO 1283°.
-
-Se deberán tomar las medidas necesarias para no causar molestias a los vecinos ni a los usuarios de la vía pública.
-
-###### ARTÍCULO 1284°.
-
-Para las obras en las que no se requiere del Perito Responsable de Obra, según se indica en este Libro, el propietario y el constructor deberán observar las medidas de seguridad que indica el presente Código.
-
-###### ARTÍCULO 1285°.
-
-Las construcciones provisionales deberán cumplir con los requisitos de seguridad e higiene, tener buen aspecto y conservarse en buen estado.
-
-###### ARTÍCULO 1286°.
-
-Cuando se interrumpa una obra por un período mayor de dos semanas, se tomarán las precauciones necesarias para evitar que se presenten movimientos que puedan dañar a las construcciones, a los predios colindantes o a las instalaciones de la vía pública y que ocurran fallas en las paredes o taludes de la obra por intemperismo prolongado.
-
-Se tomarán también las precauciones necesarias para impedir el acceso al sitio de la obra. Se deberán (sic) instalar el señalamiento adecuado para evitar accidentes.
-
-###### ARTÍCULO 1287°.
-
-En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
-
-###### ARTÍCULO 1288°.
-
-La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
-
-###### ARTÍCULO 1289°.
-
-La Dirección de Planeación y Obras Públicas exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
-
-###### ARTÍCULO 1290°.
-
-El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que el conjunto de muestras sea representativo de toda la obra.
-
-###### ARTÍCULO 1291°.
-
-Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
-
-###### ARTÍCULO 1292°.
-
-Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Planeación y Obras Públicas para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
-
-###### ARTÍCULO 1293°.
-
-Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
-
-Para los efectos de este Artículo, deberá presentarse ante la Dirección de Planeación y Obras Públicas la autorización por escrito del propietario del predio en cuestión.
-
-###### ARTÍCULO 1294°.
-
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Planeación y Obras Públicas, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
-
-###### ARTÍCULO 1295°.
-
-Las rampas en banquetas para la entrada de vehículos a los predios no deberán entorpecer el paso ni causar molestias a los peatones, sólo se autorizarán en un ancho de sesenta centímetros rebajando la banqueta a partir de guarnición y por una longitud no mayor que la del ancho del vehículo.
-
-###### ARTÍCULO 1296°.
-
-Los propietarios estarán obligados a reponer por su cuenta las banquetas y guarniciones que se hayan deteriorado con motivo de la ejecución de la obra.
-
-###### ARTÍCULO 1297°.
-
-Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
-
-###### ARTÍCULO 1298°.
-
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Agua Potable, Alcantarillado y Ecología.
-
-###### ARTÍCULO 1299°.
-
-Cuando se requiera reubicar postes, ya sea de C.F.E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Planeación y Obras Públicas.
-
-###### ARTÍCULO 1300°.
-
-Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá (sic) obtener previamente la autorización correspondiente de las autoridades de vialidad.
-
-###### ARTÍCULO 1301°.
-
-Los tapiales de acuerdo con la obra que se lleve a cabo, podrán ser de los siguientes tipos:
-
-I. De barrera: cuando se ejecuten obras de pintura, limpieza o similares, se colocarán barreras que se puedan remover al suspenderse el trabajo diario. Estarán pintadas y tendrán leyendas de "Precaución";
-
-II. De marquesinas: cuando los trabajos se ejecuten a más de diez metros de altura, se colocarán marquesinas que cubran suficientemente la zona inferior de las obras, tanto sobre la vía pública como sobre los predios colindantes;
-
-III. Fijos: En las obras que se ejecuten en un predio a una distancia menor de diez metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una faja anexa hasta de cincuenta centímetros sobre la banqueta. Previa solicitud, podrá concederse mayor superficie de ocupación de banqueta; y
-
-IV. De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquéllas en que la invasión de la acera lo amerite, la Dirección de Planeación y Obras Públicas podrá exigir, que se construya un paso cubierto, además del tapial.
-
-###### ARTÍCULO 1302°.
-
-Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Planeación y Obras Públicas su traslado provisional a otro lugar.
-
-Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
-
-###### ARTÍCULO 1303°.
-
-Los tapiales fijos serán de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad. Tendrán una altura mínima de dos metros cuarenta centímetros, deberán estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas y los tapiales de paso cubiertos tendrán cuando menos, una altura de dos metros cuarenta centímetros y una anchura libre de un metro veinte centímetros.
-
-Ningún elemento de los tapiales quedará a menos de cincuenta centímetros de la vertical sobre la guarnición de la banqueta.
-
-###### ARTÍCULO 1304°.
-
-Los constructores y los demoledores de las obras, estarán obligados a conservar los tapiales en buenas condiciones de estabilidad y de aspecto.
-
-###### ARTÍCULO 1305°.
-
-Con la solicitud de licencia de demolición a que se refiere este Libro, se acompañará un programa detallado de demolición, en el que se indicará el orden en que se demolerá cada uno de los elementos de la construcción, así como los mecanismos que se emplearán en la maniobra. Igualmente con base en el diseño estructural de la edificación, se señalarán las medidas de seguridad que deberán observar los trabajadores. Dicho programa deberá ser elaborado y signado por el Perito Responsable de Obra.
-
-###### ARTÍCULO 1306°.
-
-Durante el proceso de demolición se tomarán las precauciones necesarias para evitar que se causen daño o molestias a personas, a construcciones vecinas, a la vía pública; o a otros bienes. Si se emplean puntales, vigas, armaduras, estructuras o cualquier otro medio para protección de las construcciones colindantes o de las propias obras de demolición, se tendrá cuidado de que estos elementos no causen daño o provoquen esfuerzos que puedan perjudicar a las construcciones circundantes o a la vía pública.
-
-###### ARTÍCULO 1307°.
-
-Los trabajadores deberán efectuar los trabajos de demolición usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro que sea necesario de acuerdo con el tipo de demolición.
-
-###### ARTÍCULO 1308°.
-
-Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Planeación y Obras Públicas podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
-
-La autorización que la Dirección de Planeación y Obras Públicas otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
-
-###### ARTÍCULO 1309°.
-
-Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
-
-La Dirección de Planeación y Obras Públicas señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
-
-###### ARTÍCULO 1310°.
-
-La Dirección de Planeación y Obras Públicas podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
-
-###### ARTÍCULO 1311°.
-
-En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Planeación y Obras Públicas lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
-
-###### ARTÍCULO 1312°.
-
-En los planos de cimentación se deberán indicar si se requiere el registro de movimientos verticales, y las características y periodicidad de las nivelaciones correspondientes.
-
-###### ARTÍCULO 1313°.
-
-Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
-
-###### ARTÍCULO 1314°.
-
-Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los pianos (sic) arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Planeación y Obras Públicas. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
-
-###### ARTÍCULO 1315°.
-
-Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
-
-###### ARTÍCULO 1316°.
-
-El procedimiento de ejecución de excavaciones deberá garantizar que no se rebasen los estados límites definidos en este libro. De ser necesario, la excavación se realizará por etapas, de acuerdo con un programa que deberá incluirse en la memoria de diseño, señalando, además las precauciones que se tomarán para que no resulten afectadas las construcciones, los predios vecinos o los servicios públicos. Estas precauciones se consignarán debidamente en los planos.
-
-Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos se deberá sus pender (sic) de inmediato la excavación en ese lugar y notificar el hallazgo a la Presidencia Municipal.
-
-###### ARTÍCULO 1317°.
-
-Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
-
-###### ARTÍCULO 1318°.
-
-Previa autorización de la Dirección de Planeación y Obras Públicas, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
-
-###### ARTÍCULO 1319°.
-
-Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
-
-###### ARTÍCULO 1320°.
-
-La compresibilidad, resistencia y granulometría de todo relleno serán adecuadas a la finalidad del mismo.
-
-###### ARTÍCULO 1321°.
-
-Cuando un relleno vaya a ser contenido por muros, deberán tomarse las precauciones que aseguren que los empujes no excedan a los del proyecto. Se prestará especial atención a la construcción de drenes, filtros y demás medidas tendientes a controlar empujes hidrostáticos.
-
-###### ARTÍCULO 1322°.
-
-Los rellenos que vayan a recibir cargas de una construcción deberán cumplir los requisitos de confinamiento, resistencia y compresibilidad necesarios, de acuerdo con un estudio de mecánica de suelos. Se controlará su grado de compactación y contenido de humedad mediante ensayes de laboratorio y de campo.
-
-###### ARTÍCULO 1323°.
-
-Tratándose de pavimentos industriales y los destinados al tránsito o estacionamiento de vehículos en predios particulares, se colocará una base compactada, salvo que el terreno natural posea propiedades mejores que las de la base. El tendido de dicha base será hecho con el espesor y el contenido de humedad recomendado por el Perito Responsable de Obra o por el Perito Especializado en Mecánica de Suelos en su caso, de acuerdo con las características del suelo a emplearse.
-
-###### ARTÍCULO 1324°.
-
-El grado de compactación recomendado estará en función del uso para el que vaya a estar destinado el pavimento, también sujeto al criterio de los peritos.
-
-###### ARTÍCULO 1325°.
-
-En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
-
-###### ARTÍCULO 1326°.
-
-Las cimentaciones deberán construirse de acuerdo con los materiales, secciones y características marcadas en los planos estructurales correspondientes, los que deberán ajustarse a los lineamientos de diseño que se especifican en este Libro.
-
-###### ARTÍCULO 1327°.
-
-El desplante de cualquier cimentación se hará a la profundidad señalada en el proyecto. Se deberán tomar las medidas necesarias para minimizar las deformaciones en la superficie de contacto de la cimentación con el suelo. Las superficies de desplante tendrán las dimensiones, resistencia y características que señale el proyecto y estarán libres de cuerpos extraños o sueltos.
-
-En el caso de elementos de cimentación de concreto reforzado, se aplicarán procedimientos que garanticen el recubrimiento mínimo de acero de refuerzo, según lo indica en este CAPÍTULO. Cuando existan probabilidades de que el propio suelo o cualquier líquido o gas contenido en él, puedan atacar al concreto o al acero, se tomarán las medidas necesarias para evitarlo. Asimismo, en el momento del colado se evitará que el concreto se mezcle o contamine con partículas de suelo que puedan afectar sus características de resistencia o durabilidad.
-
-###### ARTÍCULO 1328°.
-
-La colocación de pilotes y pilas se sujetará al proyecto correspondiente, verificando que la capacidad de carga de cada elemento, su profundidad de desplante, número y espaciamiento se ajuste a lo señalado en los planos estructurales y en el estudio de Mecánica de Suelos.
-
-###### ARTÍCULO 1329°.
-
-Las juntas o conexiones entre tramos de un mismo elemento, en su caso, deberán tener la misma resistencia que las secciones que unan.
-
-###### ARTÍCULO 1330°.
-
-Los rellenos se ejecutarán empleando el material y el procedimiento que se señale en los planos respectivos.
-
-###### ARTÍCULO 1331°.
-
-Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
-
-###### ARTÍCULO 1332°.
-
-En la construcción y colocación de obras falsas y de cimbras, deberá observarse las siguientes disposiciones:
-
-I. La obra falsa y la cimbra serán lo suficientemente resistentes y rígidas, y tendrán los apoyos adecuados para evitar deformaciones que no hayan sido tomadas en cuenta en el proyecto. Las juntas de la cimbra serán tales que garanticen la retención de lechadas;
-
-II. La superficie de contacto de la cimbra de madera deberá tener aplicada una membrana aislante de aceite o algún aditivo que mantenga a la madera aislada de la humedad del concreto, con lo que se prolongará su vida útil;
-
-III. Los elementos estructurales deben permanecer cimbrados el tiempo necesario para que el concreto alcance la resistencia suficiente para soportar el peso propio, más las cargas a que vaya a estar sujeto durante la construcción;
-
-IV. Las obras falsas y las cimbras se deberán apegar, además, a los requisitos de seguridad y de carga especificados en este Libro y en las normas técnicas complementarias; y
-
-V. Las cargas que actúen en las cimbras no deberán exceder a las especificadas en los planos correspondientes, o en la bitácora de la obra. Durante la ejecución de la obra no deberán aplicarse cargas concentradas que no hayan sido consideradas en el diseño de las cimbras.
-
-###### ARTÍCULO 1333°.
-
-Las cimbras se desplantarán sobre firmes suficientemente capaces de soportar la carga a que serán sometidas. Cuando sea necesario, se usarán "arrastres" que repartan adecuadamente la carga.
-
-Cuando en el proceso de la construcción sea necesario apoyar las cimbras sobre elementos de concreto que no hubieran alcanzado su resistencia de diseño, o sobre suelos poco compactados, se deberán tomar las precauciones necesarias para evitar movimientos indeseables de los apoyos y daños en los elementos de concreto referidos.
-
-Cuando la superficie en la que se vaya a apoyar la cimbra no constituya un plano horizontal, se deberán tomar en cuenta los componentes horizontales de las reacciones en los apoyos de los pies derechos. Para el caso de las cimbras de más de cuatro metros de altura o casos especiales, se deberá presentar la memoria de diseño.
-
-###### ARTÍCULO 1334°.
-
-El Perito Responsable verificará que previamente al colado de cualquier elemento de concreto de la estructura, la cimbra correspondiente presente las características de los proyectos arquitectónicos y estructurales. Dicha verificación deberá asentarse en el libro de bitácora.
-
-###### ARTÍCULO 1335°.
-
-Los andamios que se utilicen para construir, reparar o demoler una edificación, deberán fabricarse e instalarse de tal manera, que proporcionen las condiciones necesarias de seguridad. La Dirección de Planeación y Obras Públicas podrá ordenar que se presente una memoria de diseño. Los andamios deberán ser revisados periódicamente para verificar que se encuentren en condiciones óptimas de servicio y seguridad.
-
-###### ARTÍCULO 1336°.
-
-La pendiente máxima de las rampas provisionales será de treinta grados.
-
-###### ARTÍCULO 1337°.
-
-Para evitar el resbalamiento de los operarios, se clavarán sobre las vigas que forman las rampas, travesaños de madera a una distancia de cincuenta centímetros como máximo, uno de otro.
-
-###### ARTÍCULO 1338°.
-
-Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
-
-###### ARTÍCULO 1339°.
-
-Los dispositivos empleados para transportación vertical de personas o de materiales durante la ejecución de obras, deberán ofrecer las máximas condiciones de seguridad y serán examinados y probados antes de ser utilizados.
-
-Los materiales y elementos de estos dispositivos deberán cumplir con los requisitos de calidad especificados oficialmente.
-
-###### ARTÍCULO 1340°.
-
-Las máquinas elevadoras, incluidos sus elementos de sujeción, anclaje y sustentación deberán:
-
-I. Ser de buena construcción técnica, tener una resistencia adecuada y estar exentas de defectos manifiestos;
-
-II. Ser mantenidas en buen estado de conservación y funcionamiento;
-
-III. Ser probadas y examinadas cuidadosamente después de su montaje en la obra y antes de ser utilizadas;
-
-IV. Ser revisadas periódicamente y en particular sus elementos mecánicos tales como: anillos, cadenas, garfios, manguitos, poleas y eslabones giratorios, usados para izar o descender materiales o como medio de suspensión;
-
-V. Indicar claramente la carga útil máxima de la máquina de acuerdo con sus características, incluyendo, en caso de que ésta sea variable, la carga admisible para cada caso; y
-
-VI. Estar provistas de los medios necesarios para evitar el riesgo de un descenso accidental.
-
-Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
-
-###### ARTÍCULO 1341°.
-
-En estructuras permanentes sólo se empleará madera selecta, de primera o segunda clase, la cual deberá estar debidamente tratada o protegida contra plagas, intemperismo y fuego mediante procedimiento (sic) adecuados.
-
-###### ARTÍCULO 1342°.
-
-La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
-
-###### ARTÍCULO 1343°.
-
-Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante.
-
-###### ARTÍCULO 1344°.
-
-Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Planeación y Obras Públicas.
-
-###### ARTÍCULO 1345°.
-
-Para efecto del proyecto y diseño estructural de edificaciones hechas a base de muros de mampostería de cualquier tipo, deberán seguirse los lineamientos de las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, en las cuales se consideran los siguientes tipos de muros:
-
-I. Mampostería de Piedras Artificiales
-
-a) Muros diafragma;
-
-b) Muros confinados;
-
-c) Muros reforzados interiormente;
-
-d) Muros no reforzados; y
-
-II. Mampostería de Piedras Naturales.
-
-###### ARTÍCULO 1346°.
-
-La proporción y calidad de los materiales que constituyen la mampostería serán las que indique el proyecto correspondiente, y deberán cumplir en todo momento con las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería.
-
-###### ARTÍCULO 1347°.
-
-Deberán comprobarse que las estructuras de mampostería cumplan con las características del proyecto y se construyan de acuerdo con los Procedimientos de Construcción establecidos en la (sic) Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, cuidando especialmente se cumplan con las tolerancias y el control de resistencia fijados en dichas normas.
-
-###### ARTÍCULO 1348°.
-
-Para verificar que los elementos de mampostería con funciones estructurales o con altura mayor de dos metros cumplan con la resistencia de proyecto, se tomarán muestras de las piezas de mampostería que se ensayarán en un laboratorio de materiales.
-
-En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con los proporcionamientos de sus componentes según se especifique en el proyecto estructural.
-
-###### ARTÍCULO 1349°.
-
-Los materiales que se utilicen en la elaboración del concreto deberán cumplir con las normas oficiales.
-
-El proporcionamiento de estos materiales será en cantidades tales que el concreto cumpla con los requisitos de resistencia y tenga el revenimiento fijado en el proyecto. El diseño y construcción de elementos y estructuras de concreto deberán ajustarse a lo que disponen las Normas Técnicas Complementarias de este Libro.
-
-###### ARTÍCULO 1350°.
-
-Sólo se permitirá la mezcla manual del concreto cuando su resistencia de proyecto no exceda de ciento cincuenta kilogramos por centímetro cuadrado. Para resistencias mayores, se exigirá el uso de sistemas mecánicos de mezclado.
-
-###### ARTÍCULO 1351°.
-
-La fabricación del concreto se controlará de acuerdo con los criterios y procedimientos prescritos en las Normas Técnicas Complementarias para Diseño y Construcciones de Estructuras de Concreto.
-
-###### ARTÍCULO 1352°.
-
-La ejecución de elementos y estructuras de concreto preforzado, incluyendo los ductos para postensado, la lechada para tendones adheridos y la aplicación y medición de la fuerza de presfuerzo, se sujetará a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Concreto, a estas mismas normas deberá apegarse la construcción y montaje de estructuras prefabricadas.
-
-###### ARTÍCULO 1353°.
-
-El acero de refuerzo deberá protegerse durante su transportación, manejo y almacenamiento contra cualquier fuente de humedad y contra condiciones ambientales que pudieran resultar dañinas tales como humos, acidez y otras similares.
-
-###### ARTÍCULO 1354°.
-
-Cuando en casos excepcionales, a juicio del Perito Responsable de Obra, sea necesario calentar el acero de refuerzo ordinario, no se elevará su temperatura a más de quinientos treinta grados centígrados si no está tratado en frío, ni más de cuatrocientos grados centígrados en caso contrario. No se permitirá que el enfriamiento sea rápido.
-
-###### ARTÍCULO 1355°.
-
-El acero de presfuerzo y los ductos de postensado deberán adicionalmente protegerse durante su transportación, manejo y almacenamiento contra golpes, caídas y cualquier otra maniobra que pudiera modificar su resistencia o calidad originales.
-
-Antes de autorizar los colados, el Perito Responsable de Obra deberá comprobar que el acero esté colocado en su sitio de acuerdo con los planos estructurales y que se encuentre correctamente sujeto, así como exento de grasas, polvos, óxido excesivo o de cualquier otra sustancia que pueda reducir su adherencia con el concreto. Dicha comprobación deberá asentarse en la bitácora.
-
-Además, se respetará lo prescrito en las Normas Técnicas Complementarias para diseño y construcción de estructuras de concreto.
-
-###### ARTÍCULO 1356°.
-
-En elementos no expuestos a la intemperie, el recubrimiento libre de toda barra de refuerzo o tendón de presfuerzo no será menor que su diámetro, ni menor que lo señalado a continuación:
-
-I. En columnas tres centímetros, en trabes dos centímetros, en losas uno punto cinco centímetros y en cascarones un centímetro.
-
-Si las barras forman paquetes, el recubrimiento libre, además, no será menor a uno punto cinco veces el diámetro de la barra más gruesa del paquete;
-
-II. En elementos estructurales colocados contra el suelo, el recubrimiento libre mínimo, además de cumplir con los requisitos anteriores será de cinco centímetros, si no se usa plantilla y de tres centímetros, si se usa plantilla;
-
-III. En elementos prefabricados que no van a quedar expuestos a la intemperie, el recubrimiento libre de refuerzo sin presforzar no será menor que uno punto cinco centímetros, ni que el diámetro de la barra más gruesa del paquete, en su caso; enlosas y cascarones prefabricados puede ser no menor que un centímetro ni que el diámetro de la barra; y
-
-IV. Los recubrimientos antes señalados se incrementarán en miembros expuestos a agentes agresivos ciertas sustancias o vapores industriales, terreno particularmente corrosivo, etc., salvo que se usen protecciones especiales para el acero.
-
-###### ARTÍCULO 1357°.
-
-Los medios y procedimientos que se empleen para transportar el concreto deberán garantizar la adecuada conservación de la mezcla hasta el lugar de su colocación sin que sus ingredientes se pierdan o segreguen. Asimismo se evitará que la unidad arroje a su paso su contenido ensuciando la vía pública.
-
-###### ARTÍCULO 1358°.
-
-El tiempo empleado en el transporte, medido desde que se adicione el agua de mezclado hasta la colocación del concreto en los moldes, no será mayor de una hora a menos que se tomen las medidas para lograr que la consistencia del concreto después de las dos horas sea tal, que pueda ser colocado sin necesidad de añadirle agua. En las plantas premezcladoras de concreto se deberá indicar en la nota de remisión la hora en que se le adiciona el agua a la mezcla.
-
-###### ARTÍCULO 1359°.
-
-Antes de efectuarse el colado, deberán limpiarse los elementos de transporte y el lugar donde se vaya a depositar el concreto.
-
-Los procedimientos de colocación y compactación deberán asegurar una densidad uniforme del concreto, ajustándose a lo que indican al respecto las Normas Técnicas Complementarias de este Libro.
-
-###### ARTÍCULO 1360°.
-
-Una vez realizada la operación de colado, el concreto deberá someterse a un proceso de curado mediante la aplicación de agua, por recubrimientos impermeables o retenedores de la humedad, o por medio de vapor.
-
-###### ARTÍCULO 1361°.
-
-El proceso de curado deberá mantenerse el tiempo que requiera el concreto para alcanzar la resistencia del proyecto. Cuando el curado se realice mediante la aplicación de agua, el tiempo no será menor de siete días tratándose de cemento normal y de tres días si se emplea cemento de resistencia rápida. En todo caso el curado deberá ajustarse a lo que al respecto se indica en las Normas Técnicas Complementarias de este Libro.
-
-###### ARTÍCULO 1362°.
-
-Los elementos de concreto simple, reforzado o presforzado que se encuentren expuestos a agentes intemperizantes en ambientes dañinos que puedan modificar las dimensiones de las piezas o disminuir los recubrimientos exigidos, deberán protegerse adecuadamente por medio de recubrimientos aditivos o cementos especiales.
-
-###### ARTÍCULO 1363°.
-
-Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
-
-Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Planeación y Obras Públicas.
-
-###### ARTÍCULO 1364°.
-
-En el montaje de las estructuras se observará lo siguiente:
-
-I. El montaje deberá efectuarse con el equipo apropiado.- Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen (sic), deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas; Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Planeación y Obras Públicas;
-
-II. Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
-
-III. Conexiones Provisionales.- Durante el montaje, los diversos elementos que constituyen la estructura deberán sostenerse individualmente o ligarse entre sí por medio de tornillos, pernos o soldaduras provisionales, que proporcionen la resistencia requerida ante la acción de cargas muertas y esfuerzos de montaje, viento o sismo. Asimismo, deberán tenerse encuentra (sic) los efectos de cargas producidas por materiales y equipo de montaje. Cuando sea necesario, se colocará en la estructura el contraventeo provisional requerido para resistir los efectos mencionados;
-
-IV. Alineado y plomeado.- No se colocarán remaches, pernos o tornillos, ni soldadura definitiva hasta que la parte de la estructura que quede rigidizada por ellos esté alineada y plomeada; y
-
-V. Tolerancias.- Las tolerancias se ajustarán a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas.
-
-###### ARTÍCULO 1365°.
-
-En las estructuras remachadas o atornilladas, se observará lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente que se respete lo siguiente:
-
-I. Agujeros.- El diámetro de los agujeros para remaches o tornillos deberá ser un milímetro y medio mayor que el diámetro nominal de éstos. No se permitirá el uso de botadores para agrandar agujeros, ni el empleo de soplete para aceros;
-
-II. Armado.- Las piezas que se vayan a remachar deberán colocarse con equipos especiales, dejándolos firmemente apretados;
-
-III. Colocación.- Los remaches y tornillos deberán colocarse con equipos especiales, dejándolos firmemente apretados; y
-
-IV. Inspección.- El Perito Responsable de Obra cuidará que se revise antes de la colocación de los remaches o tornillos, la posición, alineamiento y diámetro de los agujeros y posteriormente comprobará que las cabezas de los remaches estén formadas debidamente; en caso de tornillos, se deberá verificar que las tuercas estén debidamente colocadas, cuando se haya especificado su uso.
-
-###### ARTÍCULO 1366°.
-
-Las conexiones soldadas en las estructuras deberán cumplir con las Normas Técnicas complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente los siguientes puntos:
-
-I. Preparación del material.- Las superficies que vayan a soldarse deberán estar libres de costras, escoria, óxido, grasa, pintura o cualquier otro material extraño;
-
-II. Armado.- Las piezas que se vayan a unir con soldadura de filete deberán estar en contacto; cuando esto no sea posible, se permitirá una separación máxima de cinco milímetros, si la separación es de uno punto cinco milímetros o mayor, se aumentará el tamaño del filete en una cantidad igual a ella. Las partes que se vayan a soldar a tope deberán alinearse cuidadosamente, no se permitirá una desviación mayor de tres milímetros. Al armar y unir partes de una estructura o de miembros compuestos, se seguirán procedimientos y secuencias en la colocación de las soldaduras que eliminen distorsiones innecesarias y minimicen los esfuerzos de contracción. Al fabricar vigas con cubreplacas y miembros compuestos, deberán hacerse las uniones de taller de cada una de las partes que la componen, antes de unir esas partes entre sí; y
-
-III. El Perito Responsable de Obra tomará las medidas necesarias para efectuar la debida revisión de los bordes de las piezas en los que se colocará la soldadura, y para cerciorarse de que los biseles, holguras y otras características sean las correctas y estén de acuerdo con los planos.
-
-###### ARTÍCULO 1367°.
-
-Se repararán las soldaduras que presenten defectos, tales como tamaño insuficiente, cráteres o socavación de metal base y rechazarán todas las que estén agrietadas.
-
-En juntas importantes de penetración completa, la revisión se complementará por medio de radiografías o ensayes no destructivos, o ambas a juicio del Perito Responsable de Obra.
-
-###### ARTÍCULO 1368°.
-
-Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendios, mecánicas de aire acondicionado, de gas, de vapor, de aire caliente, telefónicas, de comunicación especiales y otras, deberán proyectarse observando lo señalado en este Libro y ejecutarse y conservarse en condiciones que garanticen su eficacia y proporcionen la seguridad necesaria a los trabajadores a los usuarios y al inmueble de conformidad con lo que establecen las disposiciones aplicables para cada caso.
-
-En las instalaciones deberán emplearse únicamente materiales y productos que satisfagan las normas de calidad fijadas por la autoridad correspondiente.
-
-###### ARTÍCULO 1369°.
-
-La cimentación de equipos mecánicos o de máquinas deberá construirse de acuerdo con el proyecto autorizado, de manera que no afecte a la estructura de edificio, ni le transmita vibraciones o movimientos que puedan dañar al inmueble, o perjuicios y molestias a los ocupantes o terceros. Los niveles de ruido que produzcan las máquinas, no deberán exceder los límites previstos en las disposiciones legales aplicables.
-
-###### ARTÍCULO 1370°.
-
-Las instalaciones de aire acondicionado deberán realizarse de manera que los equipos no produzcan vibraciones o ruidos que causen molestias a las personas o perjuicios a los edificios o a terceros.
-
-###### ARTÍCULO 1371°.
-
-Las instalaciones de gas combustible serán para uso de gas licuado, de petróleo o de gas natural y deberán cumplir con las disposiciones que al efecto señale la dependencia federal competente.
-
-###### ARTÍCULO 1372°.
-
-Las instalaciones de vapor y de aire caliente deberán cumplir con las disposiciones legales aplicables, para prevenir y controlar la contaminación ambiental.
-
-###### ARTÍCULO 1373°.
-
-Deberá existir un servicio de mantenimiento permanente para calderas y chimeneas, aquéllas serán inspeccionadas y operadas por personal especializado.
-
-###### ARTÍCULO 1374°.
-
-Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso personas, deberán aislarse adecuadamente.
-
-###### ARTÍCULO 1375°.
-
-Para la instalación y funcionamiento de calderas, compresores y líneas o salidas de aire comprimido, deberán sujetarse en su diseño y construcción a los ordenamientos legales aplicables en la materia.
-
-###### ARTÍCULO 1376°.
-
-Las partes exteriores de los edificios que sean visibles desde la vía pública se proyectarán de acuerdo con lo que dispone el título referente a requisitos para el proyecto arquitectónico de este Libro.
-
-###### ARTÍCULO 1377°.
-
-Las fachadas y los paramentos de cada construcción que sean visibles desde la vía pública deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas.
-
-###### ARTÍCULO 1378°.
-
-Las fachadas de colindancias de las edificaciones de tres niveles o más deberán tener aplanados impermeables de mortero.
-
-###### ARTÍCULO 1379°.
-
-Las fachadas de los monumentos y las de las construcciones que se localicen dentro de zonas de monumentos históricos, arqueológicos, artísticos y/o arquitectónicos se ajustarán, además a lo que dispone al respecto la legislación Federal y Estatal en la materia.
-
-Los demás elementos de ornato que se usen en las fachadas y parámetros se ajustarán a lo dispuesto en los párrafos precedentes.
-
-Los tendederos para ropa y los tinacos deberán instalarse o protegerse, de modo que no sean visibles desde la vía pública.
-
-###### ARTÍCULO 1380°.
-
-En fachadas recubiertas con placas de material pétreos naturales o artificiales, se cuidará la sujeción de éstas a la estructura del edificio. En aquellos casos en que sea necesario por la dimensión, altura, peso o falta de rugosidad las placas se fijarán mediante grapas que proporcionen el anclaje necesario.
-
-###### ARTÍCULO 1381°.
-
-Para evitar desprendimientos del recubrimiento ocasionado por movimientos de la estructura debidos a asentamientos, vientos o sismos, o bien a deformaciones del material por cambios de temperatura, se dejarán juntas de construcciones adecuadas, verticales y horizontales. Adicionalmente se tomarán las medidas necesarias para evitar el paso de humedad a través del revestimiento.
-
-###### ARTÍCULO 1382°.
-
-Los aplanados de mortero se aplicarán sobre superficies rugosas o repelladas, previamente humedecidas.
-
-Los aplanados cuyo espesor sea mayor de tres centímetros deberán contar con dispositivos adecuados de anclaje.
-
-###### ARTÍCULO 1383°.
-
-La ventanería, la herrería y la cancelería se proyectarán, ejecutarán y colocarán de manera que no se causen daños a la estructura del edificio o de los movimientos de ésta no provoquen deformaciones que puedan deteriorar dicha ventanería, herrería o cancelería.
-
-###### ARTÍCULO 1384°.
-
-Los vidrios y cristales deberán colocarse tomando en cuenta los posibles movimientos de la edificación y las dilataciones y contracciones ocasionadas por cambios de temperatura.
-
-Los asientos selladores empleados en la colocación de piezas mayores al uno y medio metros cuadrados, deberán absorber tales deformaciones y conservar su elasticidad.
-
-### CAPÍTULO II. De los Peritos
-
-###### ARTÍCULO 1385°.
-
-Los elementos ornamentales o decorativos que se incorporen a la construcción y que no formen parte integrante de la misma, deberán ser considerados en el diseño estructural.
-
-Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumentos y otros similares, deberán proyectarse y construirse de conformidad con lo dispuesto en este Libro.
-
-###### ARTÍCULO 1386°.
-
-Para los efectos del presente capítulo, serán considerados como usos peligrosos, insalubres o molestos, los siguientes:
-
-I. La producción, almacenamiento, depósito, venta o manejo de objetos o de substancias tóxicas, explosivas, inflamables o de fácil combustión;
-
-II. La acumulación de escombros o basuras;
-
-III. La excavación profunda de terrenos;
-
-IV. Los que impliquen la aplicación de excesivas o descompensadas cargas o la transmisión de vibraciones excesivas a las construcciones;
-
-V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos para las personas, o que puedan ocasionar daño a las propiedades; y
-
-VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
-
-###### ARTÍCULO 1387°.
-
-La Dirección de Planeación y Obras Públicas, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia.
-
-En construcciones ya ejecutadas, la Dirección de Planeación y Obras Públicas podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
-
-###### ARTÍCULO 1388°.
-
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Planeación y Obras Públicas ordenará, con base en dictamen técnico lo siguiente:
-
-I. La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y
-
-II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sean necesarios para el correcto funcionamiento del inmueble y restitución al uso aprobado, dentro del plazo que para ello se señale.
-
-Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este Libro.
-
-###### ARTÍCULO 1389°.
-
-Los propietarios de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestia o peligro para las personas o los bienes. Los acabados y pintura de las fachadas, deberán mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza.
-
-Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas.
-
-###### ARTÍCULO 1390°.
-
-Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
-
-###### ARTÍCULO 1391°.
-
-Las disposiciones de este libro son de orden público e interés social y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública del Municipio de Asientos.
-
-###### ARTÍCULO 1392°.
-
-Son elementos y requisitos del acto administrativo:
-
-I. Ser expedido por autoridad u órgano competente, a través del servidor público municipal que actúa en el ejercicio de facultades y con motivo de las mismas;
-
-II. Mencionar el órgano o autoridad del cual emana;
-
-III. Encontrarse debidamente fundado y motivado;
-
-IV. Tener objeto que pueda ser materia del mismo, determinado y determinable, preciso en cuanto a las circunstancias de tiempo, modo y lugar y previsto por el presente Código, la legislación federal o estatal vigente y con las formalidades establecidas en el presente Código y en la ley;
-
-V. Cumplir con las finalidades del interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
-
-VI. Ser expedido sin que medié error sobre el objeto, causa o motivo, o sobre el fin del acto;
-
-VII. Ser expedido sin que medie error, dolo o violencia en su emisión;
-
-VIII. Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la ley;
-
-IX. Hacer constar por escrito, con la firma autógrafa de la autoridad que lo expida y el sello de la Presidencia Municipal o el órgano competente;
-
-X. Señalar el lugar y la fecha de emisión;
-
-XI. Haber satisfecho los requisitos exigidos por este Código, legislación o reglamento aplicable según sea el caso, para la expedición del acto; y
-
-XII. Tratándose de actos administrativos que sean recurribles, deberá de hacer mención del recurso procedente, además deberá hacerse mención a la oficina donde se encuentre el expediente respectivo.
-
-### CAPÍTULO III. De los Proyectos Arquitectónicos
-
-###### ARTÍCULO 1393°.
-
-La omisión o irregularidades en los elementos y requisitos señalados por el artículo precedente y demás leyes, reglamentos y disposiciones del presente Código aplicables a la materia de que se trate, será causal de nulidad del acto administrativo municipal.
-
-###### ARTÍCULO 1394°.
-
-También estarán afectadas de nulidad las actuaciones administrativas que no sigan las formalidades que prescriben la Ley del Procedimiento Administrativo, este Código y demás disposiciones jurídicas vigentes.
-
-###### ARTÍCULO 1395°.
-
-El acto administrativo emitido por las autoridades u órganos municipales competentes, gozará de la presunción de legitimidad y ejecutoriedad, tanto para los servidores públicos como para los particulares, quienes tendrán la obligación de cumplirlo, en tanto no sea revocado o anulado.
-
-###### ARTÍCULO 1396°.
-
-El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada; queda exceptuado el acto administrativo en virtud del cual se realicen actos de inspección, verificación y vigilancia conforme a la dispuesto por este Código y demás disposiciones municipales, los cuales son exigibles a partir de la fecha en que la administración pública municipal los efectúe.
-
-###### ARTÍCULO 1397°.
-
-En los actos administrativos de carácter general tendrá efectos de notificación, su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO 1398°.
-
-Se aplicarán de manera supletoria para los trámites previstos en lo conducente la Ley del Procedimiento Administrativo del Estado de Aguascalientes y el Código de Procedimientos Civiles vigente para el Estado de Aguascalientes.
-
-###### ARTÍCULO 1399°.
-
-El procedimiento administrativo se debe desarrollar con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
-
-###### ARTÍCULO 1400°.
-
-La administración pública municipal no podrá exigir más requisitos y formalidades que los que expresamente estén previstos en las leyes, reglamentos y el presente Código.
-
-###### ARTÍCULO 1401°.
-
-Cualquier promoción que presenten los particulares, deberán ser por escrito, con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, y hechos o fundamentos de su petición. En caso de omisión de alguno de los requisitos, se requerirá al interesado para que los subsane en un término de tres días, si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para (sic) admitir cualquier escrito.
-
-###### ARTÍCULO 1402°.
-
-La autoridad municipal en su relación con los particulares tendrá las siguientes facultades y obligaciones:
-
-I. Requerir informes, documentos y otros elementos probatorios durante la realización de la visita de verificación;
-
-II. Proporcionar información y orientación acerca de los requisitos jurídicos y técnicos que las disposiciones vigentes impongan a las actuaciones o solicitudes que se propongan realizar;
-
-III. Permitir el acceso a sus registros y archivos en los términos previstos en este Código y otros reglamentos municipales, para obtener información que directamente tenga que ver con el particular solicitante;
-
-IV. Facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones apegados al marco legal;
-
-V. Dictar todas las resoluciones por escrito de cuanta petición se les formule. Dichas resoluciones deberán dictarse una vez que estén debidamente integrados los requisitos que exige este Código para el otorgamiento de los permisos o licencias solicitados por el particular, mismos que se notificarán por estrados al solicitante en las propias oficinas de la autoridad;
-
-VI. A partir de que el particular haya integrado todos los requisitos exigidos por la ley, reglamentos o el presente Código, la autoridad está obligada a resolver en un término no mayor de diez días hábiles, en caso de no emitir la resolución en dicho término se entenderá concedido el permiso o licencia solicitado por el particular;
-
-VII. En caso de licencias reglamentadas el plazo será de quince días;
-
-VIII. En caso de controversia entre dos o más particulares, y en cualquier estado que forme el asunto o procedimientos (sic) administrativo en que intervengan, podrá citar a las partes para su avenimiento; y
-
-IX. Ejercer las facultades fiscales conforme a las leyes respectivas.
-
-###### ARTÍCULO 1403°.
-
-En cualquier procedimiento administrativo que requiera del impulso y continuación procesal por parte del interesado será su obligación efectuar los actos necesarios, en caso de que no le (sic) hicieren se le requerirá para que lo haga bajo pena de archivarlo como concluido por falta de interés jurídico, cuando se deje de promover por un término de dos meses, operando en este caso el sobreseimiento del asunto por falta de interés jurídico.
-
-###### ARTÍCULO 1404°.
-
-La autoridad municipal en el despacho de sus asuntos guardará y respetará un orden riguroso en la tramitación en los asuntos de la misma naturaleza.
-
-###### ARTÍCULO 1405°.
-
-Los interesados de un procedimiento administrativo municipal, en cualquier momento tendrán derecho a conocer el estado que guarda su trámite, salvo que no sea el titular o causahabiente, de (sic) se trate de un asunto en que exista disposición legal que lo prohíba.
-
-###### ARTÍCULO 1406°.
-
-Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
-
-###### ARTÍCULO 1407°.
-
-Todo servidor público estará impedido para intervenir o conocer de cualquier procedimiento administrativo municipal, debiendo en ese caso, inhibirse para conocer, cuando:
-
-I. Tenga interés directo o indirecto;
-
-II. Tenga interés su cónyuge, consanguíneos en línea recta sin limitación de grados y colaterales del cuarto grado o los afines dentro del segundo grado;
-
-III. Exista manifiesta amistad o enemistad;
-
-IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
-
-V. Cualquier otra prevista en el presente Código.
-
-###### ARTÍCULO 1408°.
-
-Los particulares con capacidad jurídica podrán promover por sí o por interpósita persona.
-
-###### ARTÍCULO 1409°.
-
-Los particulares, podrán autorizar por escrito en cada caso, a un Licenciado en Derecho, para que en su nombre y representación reciba notificaciones, ofrezca y rinda pruebas e interponga los recursos a que se refieren las disposiciones de este Código. El profesionista designado para tal efecto deberá ser nombrado mediante carta poder simple y en el escrito donde se designe se deberá de acompañar copia de la cedula profesional respectiva.
-
-###### ARTÍCULO 1410°.
-
-La falta u omisión de los requisitos exigidos en el ARTÍCULO anterior, dará lugar a una prevención de manera escrita, a efectos de subsanar las omisiones o los errores cometidas (sic), contando con el término de cinco días hábiles para tal efecto.
-
-###### ARTÍCULO 1411°.
-
-En ningún trámite administrativo se admitirá la gestión de negocios.
-
-###### ARTÍCULO 1412°.
-
-El acto administrativo de carácter individual se extingue de pleno derecho por cualquiera de las siguientes causas:
-
-I. Cumplimiento de su finalidad;
-
-II. Expiración del plazo;
-
-III. Cuando la formación del acto administrativo este sujeto a una condición o término suspensivo y éste no se realiza dentro del plazo señalado en el propio acto.
-
-IV. La realización de la condición resolutoria;
-
-V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de este y no sea en perjuicio del interés público;
-
-VI. Por revocación determinada en la resolución de un recurso administrativo;
-
-VII. La conclusión de su vigencia;
-
-VIII. Por prescripción; y
-
-IX. Por nulidad, declarada en la sentencia de un procedimiento judicial.
-
-###### ARTÍCULO 1413°.
-
-Ponen fin al procedimiento administrativo:
-
-I. La resolución del mismo;
-
-II. El desistimiento;
-
-III. La renuncia al derecho en que funde la solicitud, cuando tal renuncia no este prohibida por el ordenamiento jurídico;
-
-IV. La declaración de caducidad;
-
-V. La imposibilidad material de continuarlo por causas sobrevenidas; y
-
-VI. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento jurídico ni verse sobre materias que no sean susceptibles de transacción y tengan por objeto satisfacer el interés público con el alcance, efectos y régimen jurídico específico que en cada caso prevea la disposición que lo regula.
-
-###### ARTÍCULO 1414°.
-
-Todo interesado podrá desistirse de su solicitud. Si el escrito de iniciación se hubiere formulado por dos o mas interesados, el desistimiento o la renuncia sólo afectará a aquél que lo hubiese formulado.
-
-###### ARTÍCULO 1415°.
-
-La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y de oficio las derivadas del mismo; en su caso, el órgano administrativo competente podrá decidir sobre las mismas, poniéndolo, previamente, en conocimiento de los interesados por un plazo no superior de 10 días, para que manifiesten lo que a su derecho convenga y aporten las pruebas que estimen convenientes.
-
-En los procedimientos tramitados a solicitud del interesado la resolución será congruente con las peticiones formuladas por este, sin perjuicio de la potestad de las Administraciones Públicas Estatal y Municipales de iniciar de oficio un nuevo procedimiento.
-
-###### ARTÍCULO 1416°.
-
-En los procedimientos iniciados a instancia del interesado, cuando se produzca su paralización por causas imputables al mismo, las Administraciones Públicas Estatal y Municipales le advertirán que, transcurridos tres meses, se producirá la caducidad del mismo. Expirando dicho plazo sin que el interesado requerido realice las actividades necesarias para reanudar la tramitación, la Administración Pública Estatal y Municipal acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederá el recurso previsto en la presente ley.
-
-La caducidad no producirá por sí misma la prescripción de las acciones del particular, ni de la Administración Pública Estatal y Municipal, pero los procedimientos caducados no interrumpen ni suspenden el plazo de prescripción.
-
-Cuando se trate de procedimientos iniciados de oficio, se entenderán caducados y se procederá al archivo de las actuaciones, a solicitud de parte interesada o de oficio, en el plazo de 30 días contados a partir de la expiración del plazo para dictar resolución.
-
-###### ARTÍCULO 1417°.
-
-Las actuaciones y diligencias administrativas municipales se practicarán en horas y días hábiles.
-
-###### ARTÍCULO 1418°.
-
-En cualquier plazo o término no se contarán los días inhábiles. Para efectos del presente Código, se considerarán días inhábiles: sábados y domingos, el 1° de Enero, 21 de marzo, 1º y 5 de mayo, 16 de septiembre, 20 de noviembre, 1º de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Estatal y 25 de diciembre y aquellos días en que se decrete la suspensión de labores administrativas, aún y cuando exista (sic) guardias para la atención de servicios públicos primordiales.
-
-###### ARTÍCULO 1419°.
-
-La autoridad administrativa municipal en caso de urgencia o de existir causa justificada, podrá habilitar horas inhábiles, cuando la persona con quien se vaya a practicar la diligencia, realice actividades objeto de visita, en tales horas. Debiendo asentar en la resolución la determinación de habilitar horas inhábiles.
-
-###### ARTÍCULO 1420°.
-
-En materia de inspecciones y siempre y cuando las actividades de los particulares representen un riesgo para personas y sus bienes, la autoridad podrá realizarlas en cualquier día y hora sin necesidad de habilitación expresa. Asimismo en materia de licencias reglamentadas se podrán hacer inspecciones durante las 24 horas del día sin necesidad de habilitación expresa.
-
-###### ARTÍCULO 1421°.
-
-las diligencias de cualquier procedimiento administrativo municipal se efectuarán de las 8:00 a las 18:00 horas, sin perjuicio de que una vez empezada la diligencia en horas hábiles y concluya en horas inhábiles, afecte su validez.
-
-###### ARTÍCULO 1422°.
-
-Para efectos de notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, los términos o plazos, no deberán de exceder de diez días. La autoridad administrativa deberá de hacer del conocimiento del interesado de dicho plazo.
-
-###### ARTÍCULO 1423°.
-
-Toda resolución emitida por la autoridad municipal deberán (sic) de ser notificadas personalmente al interesado, entregándole copia de las mismas.
-
-###### ARTÍCULO 1424°.
-
-Los particulares deberán señalar domicilio dentro de la jurisdicción del Municipio de Asientos, en el primer escrito que presenten, y notificar el cambio de domicilio, para que en el se hagan las notificaciones personales indicadas en este. Código. En caso de no cumplir con esta obligación las notificaciones, aún las personales, se harán por estrados en las oficinas de la propia autoridad.
-
-###### ARTÍCULO 1425°.
-
-Las notificaciones personales se harán conforme a las siguientes reglas:
-
-I. En las oficinas de la autoridad municipal, si comparece personalmente el interesado, su representante legal o la persona autorizada para recibirlas;
-
-II. En el domicilio en que hubiere señalado ante las autoridades administrativas o, en su caso, en el domicilio en que se encuentre;
-
-III. La notificación se entenderá con la persona que deba ser notificada, con su representante legal o la persona autorizada para esos efectos, a falta de estos, el notificador cerciorado de ser el domicilio designado de la persona, dejará citatorio con cualquier persona que se encuentre en el domicilio para que espere a una hora fija dentro de las 24 horas siguientes, Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o se fijará en la puerta del domicilio;
-
-IV. Si la persona a quien ha de notificarse no atendiere el citatorio la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio donde se realice la diligencia, entregándole copia del documento;
-
-V. En el caso de que el interesado que haya de notificarse tenga domicilio fuera del Municipio de Asientos, se hará la notificación mediante correo certificado con acuse de recibo; y
-
-VI. Por edictos, únicamente cuando la persona a quien se deba de notificar haya desaparecido, se ignore su domicilio, o se encuentre fuera del Municipio de Asientos sin haber dejado representante legal acreditado ante las autoridades municipales administrativas.
-
-###### ARTÍCULO 1426°.
-
-Las notificaciones personales surtirán efectos el día en que fueron realizadas.
-
-###### ARTÍCULO 1427°.
-
-Las demás notificaciones surtirán sus efectos al día hábil siguiente a aquél en que se hubiere hecho entrega del oficio o copia de la resolución que se notifica, o él de la publicación del edicto en su casó.
-
-###### ARTÍCULO 1428°.
-
-Las notificaciones por edictos se realizarán haciendo la publicación con un resumen de las resoluciones por notificar; dichas publicaciones deberán efectuarse por una sola vez en el periódico oficial del estado y en un diario de los de mayor circulación.
-
-###### ARTÍCULO 1429°.
-
-La manifestación que haga el interesado, su representante legal o quien esté autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
-
-### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
-
-###### ARTÍCULO 1430°.
-
-Corresponde a la administración municipal a través de sus dependencias:
-
-I. Llevar a cabo visitas de verificación o inspección, mismas que podrán ser ordinarias o extraordinarias, las primeras, se efectuarán en días y horas hábiles, y las segundas en cualquier tiempo, siempre que se notifique al particular la habilitación de días y horas inhábiles, con el objeto de vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales aplicables;
-
-II. Vigilar el cumplimiento de las disposiciones señaladas, la cual estará a cargo de cada unidad administrativa en el ámbito de su competencia, contando con un cuerpo de notificadores, verificadores e inspectores y demás personas que sean habilitadas para el efecto;
-
-III. Realizar dentro del territorio municipal las visitas de inspección que consideren necesarias a los predios, obras, establecimientos, giros industriales, comerciales de servicios y en general en cualquier lugar, con el fin de vigilar dentro de su competencia el cumplimiento de las disposiciones del presente Código y demás disposiciones legales aplicables;
-
-IV. Llevar a cabo las diligencias necesarias en el ámbito de su competencia o las que correspondan a la Federación y/o Estado previo acuerdo de coordinación, que para el caso se celebre previamente;
-
-V. Aplicar las medidas de seguridad que establece este Código y demás disposiciones municipales aplicables; y
-
-VII (SIC). Las demás que señale el presente Código y demás legislación aplicable.
-
-###### ARTÍCULO 1431°.
-
-Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, obras, servicios, instalaciones, personas y vehículos de transporte, con objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para la visita de verificación.
-
-###### ARTÍCULO 1432°.
-
-Tendrán el carácter de inspectores y verificadores, aquellos empleados municipales que hayan recibido su nombramiento que los acredite como tales.
-
-###### ARTÍCULO 1433°.
-
-La inspección y vigilancia de todos los giros comerciales debe verificar que cuenten con su licencia municipal, así como que se cumplan los horarios previstos por el presente Código.
-
-###### ARTÍCULO 1434°.
-
-Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que halla (sic) lugar.
-
-###### ARTÍCULO 1435°.
-
-Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
-
-###### ARTÍCULO 1436°.
-
-Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que lo fundamenten.
-
-###### ARTÍCULO 1437°.
-
-La orden de inspección o verificación deberá contener:
-
-I. Orden legal por escrito al inspector o verificador para que inspeccione y/o verifique el debido cumplimiento del presente Código o la legislación aplicable, con la fecha, ubicación del establecimiento sujeto a inspección, el objeto de la visita, el fundamento legal y el nombre de la autoridad competente que emite dicha orden de inspección, con su firma autógrafa;
-
-II. Nombre o razón social del lugar o establecimiento que ha de inspeccionarse;
-
-III. Nombre del propietario o titular de la licencia;
-
-IV. Domicilio o ubicación del lugar a inspeccionarse;
-
-V. Fundamento y motivación; y
-
-VI. Autorización del uso de la fuerza pública en caso de que se requiera o que se nieguen u obstaculicen la ejecución de la inspección.
-
-###### ARTÍCULO 1438°.
-
-No se requerirá orden escrita de inspección, cuando los verificadores detecten actividades contrarias al presente Código en el momento de estarse consumando éstas si ponen en peligro la seguridad de las personas, sus bienes derechos o la continuidad de un servicio público. En este caso levantará el acta respectiva, se tomarán las medidas de seguridad que al caso correspondan y se turnará el asunto a la autoridad que corresponda, para su calificación.
-
-###### ARTÍCULO 1439°.
-
-De toda visita de verificación o inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
-
-###### ARTÍCULO 1440°.
-
-En las actas se hará constar:
-
-I. Nombre, denominación o razón social del visitado;
-
-II. Hora, día, mes y año en que se inicie y concluya la diligencia;
-
-III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, Municipio o Delegación, código postal y Entidad Federativa en que se encuentre duplicado el lugar en que se practique la visita;
-
-IV. Número y fecha del oficio de comisión que la motivó;
-
-V. Nombre y cargo de la persona con quien se entendió la diligencia;
-
-VI. Nombre y domicilio de las personas que fungieron como testigos;
-
-VIII. Declaración del visitado, si quisiera hacerla; y
-
-IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quien la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
-
-### CAPÍTULO V. De la Edificación para Habitación
-
-###### ARTÍCULO 1441°.
-
-Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
-
-###### ARTÍCULO 1442°.
-
-Se dejará copia de la orden y el acta de inspección o verificación a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.
-
-###### ARTÍCULO 1443°.
-
-Las autoridades administrativas con base en los resultados de la visita de verificación o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
-
-###### ARTÍCULO 1444°.
-
-Con base en los resultados de la visita de verificación o del informe de la misma, podrán dictarse medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo de cinco días hábiles para que acuda a alegar lo que a su derecho convenga, en caso contrario, o si son comprobadas las violaciones o infracciones legales, se impondrán las sanciones que se establecen en el presente código.
-
-###### ARTÍCULO 1445°.
-
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta se desprenda que no se ha dado cumplimiento con las medidas previamente ordenadas, la autoridad competente podrá poner la sanción o sanciones que procedan.
-
-###### ARTÍCULO 1446°.
-
-Los inspectores o verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el procedimiento establecido en este capítulo para el ejercicio de su función.
-
-###### ARTÍCULO 1447°.
-
-Del acta de inspección se dará vista al funcionario que la ordenó, quien determinará la posible comisión de una falta administrativa e iniciará en su caso el procedimiento para la imposición de sanciones o medidas de seguridad.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1448°.
-
-En el Municipio de Asientos, a efectos de llevar a cabo el control de los infractores al presente Código y de las multas respectivas, existirá como mínimo un Juzgado calificador de Seguridad Pública y Movilidad, que dependerá jerárquica y administrativamente de la Secretaría del H. Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-### CAPÍTULO VI. De la Edificación para Comercios y Servicios
-
-###### ARTÍCULO 1449°.
-
-Será facultad del Juzgado Calificador de Seguridad Pública y Movilidad el conocimiento y calificación de las infracciones en contra de la seguridad, tranquilidad, salubridad la moral y el civismo, así como las infracciones de vialidad, será también facultad del Juzgado Calificador la imposición de las sanciones correspondientes.
-
-###### ARTÍCULO 1450°.
-
-Son requisitos para ser designado Juez Calificador:
-
-I. Ser ciudadano mexicano;
-
-II. Acreditar tener los conocimientos necesarios para el desempeño del cargo, a juicio del Cabildo;
-
-III. Contar con buena reputación, honorabilidad;
-
-IV. Contar con el título de Licenciado en Derecho; y
-
-V. No contar con antecedentes penales por delitos dolosos, ni presentar antecedentes policiales por la comisión de faltas Administrativas.
-
-###### ARTÍCULO 1451°.
-
-Son facultades y obligaciones de los Jueces Calificadores:
-
-I. Llevar el control de las personas puestas a su disposición, de los detenidos y sanciones impuestas en su turno;
-
-II. Imponer oportunamente las sanciones y medidas de seguridad aplicables a los infractores de las faltas administrativas de policía y buen gobierno;
-
-III. Ejercer funciones de conciliador cuando con motivo de la comisión de faltas administrativas en las que causen daños a terceros, y los interesados estén de acuerdo en someterse a su decisión, siempre y cuando no se trate de delitos que se persigan de oficio;
-
-IV. Autorizar con su firma las actuaciones en que intervengan en ejercicio de sus funciones;
-
-V. Expedir boletas de egreso, cuando el infractor haya cubierto el monto de su infracción, haya cumplido su arresto, o cuando sea remitido a otra autoridad competente;
-
-VI. Calificar las infracciones a la Ley de Movilidad del Estado y el presente Código y establecer la sanción correspondiente;
-
-VII. Llevar el control de la correspondencia y registro de todos los oficios en que intervenga con motivo del ejercicio de sus funciones;
-
-VIII. Llevar el control y registro de infractores;
-
-IX. Rendir semanalmente al Secretario del H. Ayuntamiento y al Presidente Municipal el informe respecto de los infractores puestos a su disposición y de las sanciones aplicadas;
-
-X. Remitir a las autoridades competentes las armas, objetos peligrosos, o que sean motivo o estén afectos a la comisión de algún ilícito, así como las sustancias psicotrópicas, enervantes y estupefacientes que se hayan asegurado a los infractores;
-
-XI. Las demás que se desprendan del capítulo de Faltas Cívicas del presente Código.
-
-###### ARTÍCULO 1452°.
-
-Los Jueces Calificadores, dentro del ámbito de sus funciones, cuidarán estrictamente que se respeten las garantías individuales de los infractores, quedando bajo su responsabilidad cualquier atentado en que incurra el personal de seguridad pública, una vez que es puesto a su disposición.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1453°.
-
-Los asuntos serán atendidos sucesivamente, según el orden en que se pongan a disposición del Juez Calificador.
-
-###### ARTÍCULO 1454°.
-
-El juez calificador en turno impondrán (sic) las sanciones correspondientes a todos los infractores que se pongan a su disposición y el juez calificador entrante, en caso de haberlo, por ningún motivo podrá aumentar o disminuir dicha sanción.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1455°.
-
-El Juez Calificador, a efecto de aplicar las sanciones administrativas que señala el Capítulo de Faltas de Policía y Buen Gobierno y en materia de movilidad, deberá de verificar que exista una adecuación de la conducta del infractor con la falta descrita. Si no fuere posible encuadrarla en alguna falta, ésta no se podrá aplicar por analogía o por mayoría de razón.
-
-###### ARTÍCULO 1456°.
-
-El Juez Calificador, al tener conocimiento de los hechos, si presume que son delictivos, suspenderá su intervención y pondrá de inmediato al detenido y los objetos afectos al asunto, a disposición de la autoridad Ministerial competente.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1457°.
-
-Los jueces calificadores sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones en materia de movilidad, respecto de flotillas o parques vehiculares públicos o privados.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1458°.
-
-El Oficial de Guardia receptor de presuntos infractores dependiente de la Dirección de Seguridad Pública y Movilidad Municipal, estará bajo la supervisión del Juez Calificador y tendrá, las siguientes obligaciones:
-
-I. La recepción de los detenidos que sean puestos a su disposición;
-
-II. Recabar los datos de los presuntos infractores, de la falta en que incurrió, de su perfil económico, de su detención y del denunciante, en caso de existir, así como cualquier otra circunstancia que revista interés para el caso;
-
-III. Remitir al infractor, al depósito de pertenencias a fin de que resguarden sus objetos personales;
-
-IV. Solicitar en su caso el examen psicofísico de los presuntos infractores puestos a disposición del Juez Calificador, por conducto del perito médico que para tal efecto se asigne por el ayuntamiento;
-
-V. Entregar la documentación necesaria al Juez Calificador en turno, a efecto de que imponga las sanciones correspondientes a los infractores;
-
-VI. Realizar el llenado correspondiente de la puesta a disposición o ficha de ingreso, anotando los datos requeridos; y
-
-VII. Conducir al presunto infractor, en caso de quedar detenido a galeras, y si es menor de edad, en recepción previo su turno a la autoridad competente, respetando fielmente las garantías individuales y derechos humanos del infractor.
-
-###### ARTÍCULO 1459°.
-
-En caso de que, el receptor constatara de que, el infractor, al momento de su detención, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del elemento operativo que lo detuvo, deberá de levantar acta pormenorizada y circunstanciada, misma que está obligado a firmar el aprehensor y se lo comunicará al Juez Calificador, para los efectos de remitir el acta mencionada a la Secretaría del H. Ayuntamiento, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
-
-###### ARTÍCULO 1460°.
-
-El encargado del depósito de pertenencias tendrá bajo su más estricta responsabilidad recibir, custodiar y devolver cuando proceda, todos los objetos, valores, dinero y documentos que depositen los infractores, previo recibo inventario que se le expida.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1461°.
-
-Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto que presuma la comisión de algún ilícito, se pondrán inmediatamente a disposición de la Fiscalía Correspondiente por parte del elemento que haya realizado la localización del indicio.
-
-###### ARTÍCULO 1462°.
-
-Al infractor, al dejar sus pertenencias en el depósito, se le entregará el recibo inventario debidamente firmado y sellado por el encargado. Dicho recibo será reintegrado al encargado, una vez que las cosas sean recibidas por los familiares, personas expresamente autorizadas, o por el propio infractor.
-
-###### ARTÍCULO 1463°.
-
-Al infractor se le notificará que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1464°.
-
-En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá (sic) como abandonadas y se procederá, por conducto del Juez Calificador a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
-
-Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Tesorería Municipal de Asientos. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
-
-###### ARTÍCULO 1465°.
-
-Para efectos de este título, se consideran infracciones las violaciones al presente Código y a los demás reglamentos en materia municipal y mandatos legítimos de la autoridad competente.
-
-###### ARTÍCULO 1466°.
-
-Las infracciones tendrán como consecuencia la imposición de sanciones o medidas de seguridad por parte de la autoridad competente según lo establecen en las leyes y el presente código, en la forma y montos establecidos en los mismos.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1467°.
-
-Las infracciones previstas en el presente código se dividen en:
-
-I. Infracciones administrativas;
-
-II. Faltas de Policía y Buen Gobierno; e
-
-III. Infracciones de movilidad.
-
-###### ARTÍCULO 1468°.
-
-La vigilancia sobre la comisión de infracciones previstas en el artículo anterior corresponderá a las diversas unidades administrativas municipales, en el ámbito de sus respectivas competencias. En el caso de la fracción I del artículo anterior, la aplicación de la sanción correspondiente será facultad del Secretario del H. Ayuntamiento, por sí o por persona a quien delegue facultades para ello. En el caso de las fracciones II y III del artículo anterior, la aplicación de la sanción correspondiente, será facultad del Juez Calificador.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1469°.
-
-Los elementos operativos de la Dirección de Seguridad Pública y Movilidad vigilarán lo correspondiente a las faltas de policía y buen gobierno e infracciones de movilidad y serán auxiliares de las demás áreas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-###### ARTÍCULO 1470°.
-
-La acción para imponer sanciones por infracciones administrativas, faltas de policía y buen gobierno o infracciones de movilidad, prescribirán en tres meses, contados a partir de la fecha en que se cometan.
-
-###### ARTÍCULO 1471°.
-
-En el caso de infracciones administrativas, el plazo de la prescripción comenzará a correr a partir de la fecha en que se levante el acta de inspección o verificación, o se hace del conocimiento del presunto infractor de las violaciones a la ley, reglamentos o el presente código.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1265], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1472°.
 
-Las sanciones podrán consistir en:
+Las construcciones que no cumplan con dichos requisitos de regularidad se diseñarán para condiciones sísmicas más severas en la forma que se especifica en dichas normas.
 
-I. Amonestación verbal o escrita;
-
-II. Clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones, obras, servicios y establecimientos;
-
-III. Multa equivalente a uno y hasta cien días de salario mínimo vigente en el Estado;
-
-IV. La demolición total o parcial de las obras efectuadas en contravención a las disposiciones de este Código;
-
-V. La revocación, cancelación o suspensión temporal de las concesiones, autorizaciones, permisos, licencias o constancias;
-
-VI. La cancelación del registro del profesionista en el padrón de peritos de obra;
-
-VII. La prohibición de realizar determinadas acciones, obras o servicios;
-
-VIII. El retiro de anuncios, instalaciones, materiales u obstáculos en la vía o espacio público o privado;
-
-IX. El decomiso, aseguramiento, retiro o inmovilización de mercancías;
-
-X. La suspensión de actos o espectáculos públicos;
-
-XI. La suspensión o cancelación del empadronamiento; y
-
-XII. El arresto hasta por 36 horas.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1266], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1473°.
 
-Las sanciones aplicables por la comisión de faltas de policía y buen gobierno podrán consistir en:
+Los acabados, recubrimientos y elementos prefabricados de concreto cuyo desprendimiento pueda ocasionar daños a los ocupantes de la construcción o a los que transiten en su exterior deberán fijarse mediante procedimientos aprobados por los Peritos Responsables según lo establece este Libro.
 
-I. Amonestación verbal o escrita;
-
-II. Multa económica a favor del erario municipal; y
-
-III. Arresto hasta por treinta y seis horas.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1267], P.O. 22 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
 
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1227], P.O. 22 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 1474°.
 
-Las sanciones administrativas previstas en este capítulo, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales que con motivo de los mismos hechos adquieran los infractores.
+Los elementos no estructurales que puedan restringir las deformaciones de la estructura, o que tengan un peso considerable, deberán ser aprobados en sus características y en su forma de fijación por los Peritos Responsables.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1268], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1475°.
 
-Se entenderá por medidas de seguridad, la adopción y ejecución de las acciones que, con apoyo de este Código, dicten las autoridades competentes, encaminadas a evitar los daños que puedan causar las instalaciones, construcciones, obras, servicios o acciones. Estas medidas de seguridad serán aplicables de manera complementaria en sanciones por comisión de infracciones administrativas.
+Los elementos de gran peso y dimensiones, adosados, colgantes y de azotea que puedan ocasionar daños materiales, tales como libreros altos, anaqueles y tableros eléctricos o telefónicos, deben fijarse de tal manera que se eviten estos daños, deberán ser objeto de diseño estructural en los términos de este títutlo (sic).
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1269], P.O. 22 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 1475° (SIC).- Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este título, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1270], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1476°.
 
@@ -13733,139 +16275,1683 @@ X. Cualquier prevención que tienda a lograr los fines expresados en el artícul
 
 ###### ARTÍCULO 1477°.
 
-Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+Cualquier perforación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Peritos Responsables de Obra según este Libro quienes elaborarán planos de detalle que indiquen las modificaciones y refuerzos locales necesarios.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1271], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1478°.
 
-La persona afectada por la aplicación de una medida de seguridad, tendrá derecho a que de inmediato le sea levantada, si presenta ante la autoridad competente, las concesiones, los permisos, licencias o autorizaciones, cuando la causa para su imposición sea la carencia de éstos; o cuando desaparezcan los motivos de riesgo público que las originó.
+No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1479°.
 
-En el caso de que los verificadores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito requerida por el presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
+Toda estructura y sus componentes deberán diseñarse para cumplir con los requisitos siguientes, según sus distintos tipos de comportamiento:
+
+I. Seguridad ante la Falla.- Soportar con seguridad todas las cargas y sus combinaciones que tengan una probabilidad no despreciable de ocurrir sin que se excedan los Estado (sic) Límite de Falla definidos en este Libro;
+
+II. Comportamiento bajo Cargas de Servicio.- No rebasar ninguno de los Estado (sic) Límite de Servicio definidos en este Libro ante combinaciones de acciones que correspondan a condiciones normales de operación; y
+
+III. Comportamiento bajo Otras Acciones.- Evitar los efectos perjudiciales en la estructura debidos a asentamientos diferenciales de la cimentación, empujes horizontales de tierras y líquidos, cambios de temperatura y de humedad, contracción y flujo plástico en los materiales, etc.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1273], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1480°.
 
-En caso de clausura provisional como medida de seguridad, ésta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad líquida.
+Deberá revisarse que, bajo el efecto de las combinaciones de acciones clasificadas en este Título, la respuesta de las estructuras comunes no exceda de los valores siguientes:
+
+I. En elementos sujetos a flexión vertical, el límite de las deformaciones será una flecha vertical, incluyendo los efectos a largo plazo, igual al claro entre doscientos cuarenta más punto cinco centímetros. Además, tratándose de elementos cuyas deformaciones afecten a elementos no estructurales que no sean capaces de soportar deformaciones apreciables el límite será igual al claro entre cuatrocientos ochenta más punto tres centímetros. Para el Caso de elementos en voladizo, los límites anteriores se multiplicarán por dos;
+
+II. En el caso de deformaciones horizontales entre dos niveles consecutivos de una estructura, el límite será una deformación horizontal relativa igual a la altura de entrepiso entre quinientos para estructuras en cuyo interior se tengan elementos no estructurales que puedan dañarse con pequeñas deformaciones, e igual a la altura de entrepiso entre doscientos cincuenta para otros casos;
+
+III. Para el caso de deformaciones laterales por efecto de sismo o de viento, se observarán los límites señalados en las Normas Técnicas Complementarias correspondientes, en las cuales además se establecen los límites por choques entre estructuras adyacentes y los límites por rotura de vidrios;
+
+IV. En todo caso, la separación entre una construcción y sus linderos con los predios contiguos no será nunca inferior a 3 cm.
+
+En el caso de Cimentaciones, los estados límite de servicio correspondientes a deformaciones aparecen en el capítulo relativo al Diseño de Cimentaciones;
+
+V. Con respecto a las vibraciones, se considerará como estado límite cualquier vibración que afecte el funcionamiento de la construcción o que produzca molestias o sensación de inseguridad a sus ocupantes, pero que no afecten a la capacidad de la estructura para soportar cargas; y
+
+VI. Además se considerará como estado límite de servicio la aparición de grietas, desprendimientos, astillamientos, aplastamientos, torceduras y otros daños locales que afecten el funcionamiento de la construcción, con la misma salvedad señalada en el inciso anterior.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1274], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1481°.
 
-Constituye una falta de policía y buen gobierno a la acción u omisión, individual o de grupo, realizada en vía y lugares públicos o cuyos efectos se manifiesten en el hecho de que, se altere o se ponga en peligro el orden público o la integridad de las personas, seguridad, salubridad y tranquilidad, y sus propiedades en los términos de este capítulo.
+Las fuerzas internas y las deformaciones producidas por los sistemas de acciones y sus combinaciones, que actúan sobre todos los componentes de una estructura, deberán ser determinadas en base a métodos reconocidos de análisis estructural, tomando en consideración el equilibrio, la compatibilidad de deformaciones y las propiedades de los materiales a corto y a largo plazo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1482°.
 
-Para efectos del presente Código, se entenderá por lugares públicos, todo espacio de uso común y de libre tránsito, incluyendo las plazas, los mercados y los jardines; los inmuebles de acceso general tales como establecimientos comerciales, centros de espectáculos, diversión o recreo, así como los transportes de servicio público; conforme se ha definido en este código.
+Serán Normas Técnicas Complementarias del presente libro las pertenecientes al Código Municipal de Aguascalientes, al Reglamento de Construcciones para el Distrito Federal, el Manual de Obras Civiles de la Comisión Federal de Electricidad, las Normas y fichas Técnicas emitidas por la Secretaría de Obras Públicas del Gobierno del Estado emitidas a través del Comité Interinstitucional de Obras Públicas, las Normas y Fichas Técnicas en materia de agua potable, alcantarillado y Saneamiento, emitidas por la Comisión Ciudadana de agua Potable y Alcantarillado del Municipio de Aguascalientes, cuando no se cuente con ellas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1483°.
 
-Son faltas contra la Seguridad y se sancionarán con multa de 5 a 10 Unidad (sic) de Medida y Actualización (UMA) o arresto hasta por treinta y seis horas las siguientes:
+Los Peritos Responsables de obra, o los propietarios de una obra que no requiera Perito Responsable y los constructores, están obligados a vigilar que la ejecución de la misma se realice con las técnicas constructivas más adecuadas, se empleen los materiales con la resistencia y calidad especificadas en este Libro y en sus Normas Técnicas complementarias, se tomen las medidas de seguridad necesarias y se evite causar molestias o perjuicios a terceros.
 
-I. Emitir gritos, realizar actos o adoptar actitudes que constituyan falsa alarma de siniestros, en centros de espectáculos y lugares públicos que produzcan temor o pánico en las personas;
-
-II. Detonar cohetes, encender juegos pirotécnicos, hacer fogatas o usar explosivos sin permiso de la autoridad correspondiente;
-
-III. Integrar o participar en grupos que causen molestia o incomodidad a las personas en vía y lugares públicos;
-
-IV. Ingresar o invadir sin autorización lugares o zonas, que estén cerradas o con el acceso restringido;
-
-V. Organizar o participar en juegos o actividades de cualquier índole que pongan en riesgo la integridad física de él o de más personas, causen molestia a los habitantes del lugar, obstruyan la vía pública o afecten el libre tránsito de personas o de vehículos, sin la autorización correspondiente;
-
-VI. Solicitar con falsa alarma los servicios de la policía, bomberos o de establecimientos médicos o asistenciales de emergencia, públicos o privados; así como obstruir o activar en falso las líneas telefónicas destinadas a aquellos servicios;
-
-VII. Hacer gesticulaciones o proferir insultos a cualquier servidor público o autoridad en el ejercicio de sus funciones;
-
-VIII. Exhibir, portar o utilizar en oficinas y sitios públicos, armas u objetos deportivos, de labor o labranza y que estos impliquen un riesgo o para agredir a las personas;
-
-IX. Disparar, exhibir o portar, armas de fuego o artefactos similares en cualquier lugar público, provocando escándalo o temor en las personas;
-
-X. Revender u ofrecer a precio superior al marcado o al de taquilla, boletos para espectáculos públicos, dentro o fuera de los lugares autorizados;
-
-XI. Impedir directa o indirectamente la acción de los agentes de seguridad pública o de cualquier autoridad en el cumplimiento de su deber;
-
-XII. Almacenar, trasportar o utilizar sustancias peligrosas en la vía pública sin las debidas precauciones de seguridad y que pongan en riesgo la integridad física de las personas (gasolina, diesel, solventes, pegamentos, gas licuado);
-
-XIII. Dañar, ensuciar, pintar o hacer uso indebido de los bienes muebles e inmuebles, públicos o privados sin perjuicio de lo previsto en otros ordenamientos legales;
-
-XIV. Destruir, obstruir o hacer uso distinto para el cual fueron fijados los objetos de uso común como son casetas telefónicas, buzones, contenedores, u otros, sin perjuicio de lo previsto en otros ordenamientos legales;
-
-XV. Cubrir, borrar, alterar o desprender señales o letreros que indiquen rutas o lugares públicos, así como números, letras y signos convencionales que identifiquen inmuebles públicos y privados;
-
-XVI. Participar, promover o permitir cualquier tipo de juegos de azar con apuestas sin el permiso de la autoridad correspondiente;
-
-XVII. Ingerir bebidas alcohólicas en lugares públicos que no cuenten con permiso de la autoridad correspondiente;
-
-XVIII. Consumir estupefacientes, psicotrópicos o inhalar sustancias tóxicas en vía y lugares públicos sin perjuicio de lo previsto en otros ordenamientos legales;
-
-XIX. Transitar con animales, dejarlos en libertad sin tomar las debidas precauciones y medidas de seguridad, invadir la carretera con ganado, y sin perjuicio de la aplicación de la ley de la materia, cuando estos ataquen o provoquen accidentes en las personas o en sus propiedades;
-
-XX. Provocar a cualquier animal para que ataque a una persona;
-
-XXI. Deambular o conducir vehículos en notorio estado de intoxicación producido por sustancias estimulantes o depresoras del sistema nervioso central, alterando la tranquilidad de las personas o realizando actos que pongan en riesgo su integridad física o la de las demás personas; y
-
-XXII. Obstruir calles, avenidas, calzadas, puentes u otros lugares públicos sin permiso de la autoridad correspondiente.
-
-#### SECCIÓN SEGUNDA. De las Faltas Contra la Tranquilidad
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1277], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1484°.
 
-Son faltas contra la Tranquilidad y se sancionarán con multa de 5 a 10 Unidad (sic) de Medida y Actualización (UMA) o arresto hasta por treinta y seis horas las siguientes:
+Durante la ejecución de cualquier construcción, el Perito Responsable de Obra, el Propietario y el constructor, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de los terceros, así como para evitar los daños que directa o indirectamente pudiere causar la ejecución de la obra.
 
-I. Causar escándalo en vía y lugares públicos;
+Deberán usarse redes de seguridad o cinturones de seguridad con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
-II. Producir ruido con aparatos de sonido que por su volumen provoque malestar en las personas;
-
-III. Alterar la tranquilidad de las personas con gritos, música o ruidos, aun cuando éstos los provoquen animales domésticos de propiedad de quien debiendo impedirlo, no lo haga;
-
-IV. Arrojar líquidos, polvos o cualquier sustancia a una persona que puedan mojarla, mancharla o causarle malestar;
-
-V. Ofender a las personas que asisten a un espectáculo por parte de los organizadores, empleados, artistas o deportistas;
-
-VI. Alterar el orden arrojando objetos o provocando altercados en espectáculos o en la entrada de ellos;
-
-VII. Impedir por cualquier medio la libertad de acción de las personas o el uso o disfrute de un bien mueble o inmueble al cual se tiene derecho;
-
-VIII. Participar en riña de obra o palabra, sin perjuicio de otros ordenamientos legales;
-
-IX. Obstruir lugares destinados para estacionamiento público con objetos, así como exigir gratificaciones por protección de vehículos en estos sitios; y
-
-X. Molestar a las personas mediante el mal uso del teléfono.
-
-#### SECCIÓN TERCERA. De las Faltas Contra la Salubridad
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1278], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1485°.
 
-Son faltas contra la Salubridad además de las previstas por el reglamento correspondiente las que se prevean por el presente Código y se sancionarán con multa de 3 a 1000 Unidad (sic) de Medida y Actualización (UMA) o arresto hasta por treinta y seis horas dependiendo de la gravedad de las mismas y serán entre otras:
+Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Planeación y Obras Públicas. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
 
-I. Contaminar, desviar, retener u obstruir, las corrientes de agua de los manantiales, tanques, tinacos almacenadores, fuentes públicas, acueductos, tuberías o hidrantes públicos;
-
-II. Cortar, talar o maltratar los árboles, plantas, césped y cualquier tipo de material de ornato que se encuentra en jardineras, camellones, plazas, jardines y lugares de uso común;
-
-III. Arrojar o abandonar en vía y lugares públicos o privados animales muertos, escombros, sustancias fétidas o cualquier objeto que pueda ocasionar daños al ecosistema y a la salud pública;
-
-IV. Arrojar a las alcantarillas, arroyos, bordos, vasos de almacenamiento y drenajes, sustancias corrosivas, radiactivas, explosivas, toxicas, flamables y biológicas, así como, basura, escombros o cualquier otro objeto que pueda contaminar, obstruir o dañar el funcionamiento de las mismas;
-
-V. Orinar o defecar en la vía pública o en cualquier lugar que no esté destinado para ello;
-
-VI. Bañarse o asearse en ríos, presas, bordos, arroyos, acequias, fuentes u otros lugares similares, no permitidos por la autoridad;
-
-VII. Incinerar materiales de cualquier tipo, en vía y lugares públicos que puedan alterar la salud o dañar el ecosistema y sin la autorización por escrito correspondiente;
-
-VIII. Fumar en lugar público en donde expresamente se establezca la prohibición de hacerlo;
-
-IX. Causar ruido excesivo a cualquier hora del día, que pueda resultar molesto a los vecinos y/o que exceda las normas técnicas correspondientes indicadas en la Ley General de Equilibrio Ecológico y Protección al Ambiente.
-
-X. Extraer de los contenedores y/o centros de acopio, sin la autorización correspondiente del departamento de limpia los materiales que ahí, hayan sido alojados vaciarlos, cambiarlos de lugar o dañarlos de cualquier manera.
-
-XI. Alojar en el área urbana, establos, porquerizas, gallineros depósitos de estiércol y demás que a juicio de la dirección de la unidad administrativa municipal de limpia que afecte a las condiciones de salubridad mínimas necesarias para los individuos.
-
-XII. Ejecutar matanza y destazar animales o bien cocinarlos en la vía pública; y.
-
-XIII. Arrojar basura o escombro en terrenos baldíos, en la vía pública o lugares públicos de recreación deportiva o cultural.
-
-Además de las prevenciones contenidas en este artículo se aplicará lo conducente de conformidad al reglamento del servicio público de limpia.
-
-#### SECCIÓN CUARTA. De las Faltas Contra la Moral y el Civismo
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1279], P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 1486°.
+
+El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Planeación y Obras Públicas.
+
+El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1280], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1487°.
+
+Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Planeación y Obras Públicas. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1281], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1488°.
+
+El Perito Responsable de obra, deberá vigilar que se cumpla con este Libro, particularmente en lo que se refiere a los siguientes aspectos:
+
+I. Propiedades mecánicas de los materiales;
+
+II. Tolerancias en las dimensiones de los elementos estructurales, tales como medidas de claros, secciones de las piezas, área y distribución del acero y espesores de recubrimientos;
+
+III. Nivel y alineamiento de los elementos estructurales; y
+
+IV. Cargas muertas en la estructura, tales como el peso volumétrico propio y el provocado por la colocación de materiales durante la ejecución de la obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1282], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1489°.
+
+Durante la ejecución de una obra deberán tomarse las medidas necesarias para no alterar el comportamiento ni el funcionamiento de las construcciones e instalaciones en predios colindantes o en la vía pública, apegándose a los procedimientos especificados en los planes estructurales y en la memoria de cálculo, lo cual deberá ser efectuado con la supervisión del Perito Responsable de Obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1283], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1490°.
+
+Se deberán tomar las medidas necesarias para no causar molestias a los vecinos ni a los usuarios de la vía pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1284], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1491°.
+
+Para las obras en las que no se requiere del Perito Responsable de Obra, según se indica en este Libro, el propietario y el constructor deberán observar las medidas de seguridad que indica el presente Código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1285], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1492°.
+
+Las construcciones provisionales deberán cumplir con los requisitos de seguridad e higiene, tener buen aspecto y conservarse en buen estado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1286], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1493°.
+
+Cuando se interrumpa una obra por un período mayor de dos semanas, se tomarán las precauciones necesarias para evitar que se presenten movimientos que puedan dañar a las construcciones, a los predios colindantes o a las instalaciones de la vía pública y que ocurran fallas en las paredes o taludes de la obra por intemperismo prolongado.
+
+Se tomarán también las precauciones necesarias para impedir el acceso al sitio de la obra. Se deberán (sic) instalar el señalamiento adecuado para evitar accidentes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1287], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1494°.
+
+En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1495°.
+
+La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 1289° (SIC).- La Dirección de Planeación y Obras Públicas exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1290], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1496°.
+
+El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que el conjunto de muestras sea representativo de toda la obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1291], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1497°.
+
+Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1292], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1498°.
+
+Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Planeación y Obras Públicas para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1293], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1499°.
+
+Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
+
+Para los efectos de este Artículo, deberá presentarse ante la Dirección de Planeación y Obras Públicas la autorización por escrito del propietario del predio en cuestión.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1294], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1500°.
+
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Planeación y Obras Públicas, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1295], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1254], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1501°.
+
+Las rampas en banquetas para la entrada de vehículos a los predios no deberán entorpecer el paso ni causar molestias a los peatones, sólo se autorizarán en un ancho de sesenta centímetros rebajando la banqueta a partir de guarnición y por una longitud no mayor que la del ancho del vehículo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1296], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1502°.
+
+Los propietarios estarán obligados a reponer por su cuenta las banquetas y guarniciones que se hayan deteriorado con motivo de la ejecución de la obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1297], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1503°.
+
+Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1298], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1504°.
+
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Agua Potable, Alcantarillado y Ecología.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1299], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1505°.
+
+Cuando se requiera reubicar postes, ya sea de C.F.E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Planeación y Obras Públicas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1300], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1506°.
+
+Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá (sic) obtener previamente la autorización correspondiente de las autoridades de vialidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1507°.
+
+Los tapiales de acuerdo con la obra que se lleve a cabo, podrán ser de los siguientes tipos:
+
+I. De barrera: cuando se ejecuten obras de pintura, limpieza o similares, se colocarán barreras que se puedan remover al suspenderse el trabajo diario. Estarán pintadas y tendrán leyendas de "Precaución";
+
+II. De marquesinas: cuando los trabajos se ejecuten a más de diez metros de altura, se colocarán marquesinas que cubran suficientemente la zona inferior de las obras, tanto sobre la vía pública como sobre los predios colindantes;
+
+III. Fijos: En las obras que se ejecuten en un predio a una distancia menor de diez metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una faja anexa hasta de cincuenta centímetros sobre la banqueta. Previa solicitud, podrá concederse mayor superficie de ocupación de banqueta; y
+
+IV. De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquéllas en que la invasión de la acera lo amerite, la Dirección de Planeación y Obras Públicas podrá exigir, que se construya un paso cubierto, además del tapial.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1302], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1508°.
+
+Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Planeación y Obras Públicas su traslado provisional a otro lugar.
+
+Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1303], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1509°.
+
+Los tapiales fijos serán de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad. Tendrán una altura mínima de dos metros cuarenta centímetros, deberán estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas y los tapiales de paso cubiertos tendrán cuando menos, una altura de dos metros cuarenta centímetros y una anchura libre de un metro veinte centímetros.
+
+Ningún elemento de los tapiales quedará a menos de cincuenta centímetros de la vertical sobre la guarnición de la banqueta.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1304], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1510°.
+
+Los constructores y los demoledores de las obras, estarán obligados a conservar los tapiales en buenas condiciones de estabilidad y de aspecto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1511°.
+
+Con la solicitud de licencia de demolición a que se refiere este Libro, se acompañará un programa detallado de demolición, en el que se indicará el orden en que se demolerá cada uno de los elementos de la construcción, así como los mecanismos que se emplearán en la maniobra. Igualmente con base en el diseño estructural de la edificación, se señalarán las medidas de seguridad que deberán observar los trabajadores. Dicho programa deberá ser elaborado y signado por el Perito Responsable de Obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1306], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1512°.
+
+Durante el proceso de demolición se tomarán las precauciones necesarias para evitar que se causen daño o molestias a personas, a construcciones vecinas, a la vía pública; o a otros bienes. Si se emplean puntales, vigas, armaduras, estructuras o cualquier otro medio para protección de las construcciones colindantes o de las propias obras de demolición, se tendrá cuidado de que estos elementos no causen daño o provoquen esfuerzos que puedan perjudicar a las construcciones circundantes o a la vía pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1307], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1513°.
+
+Los trabajadores deberán efectuar los trabajos de demolición usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro que sea necesario de acuerdo con el tipo de demolición.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1308], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1514°.
+
+Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Planeación y Obras Públicas podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
+
+La autorización que la Dirección de Planeación y Obras Públicas otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1309], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1515°.
+
+Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
+
+La Dirección de Planeación y Obras Públicas señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1310], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1516°.
+
+La Dirección de Planeación y Obras Públicas podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1517°.
+
+En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Planeación y Obras Públicas lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1312], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1518°.
+
+En los planos de cimentación se deberán indicar si se requiere el registro de movimientos verticales, y las características y periodicidad de las nivelaciones correspondientes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1313], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. De los Criterios de Diseño
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1272], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1519°.
+
+Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1314], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1520°.
+
+Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los pianos (sic) arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Planeación y Obras Públicas. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1315], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1521°.
+
+Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1275], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1522°.
+
+El procedimiento de ejecución de excavaciones deberá garantizar que no se rebasen los estados límites definidos en este libro. De ser necesario, la excavación se realizará por etapas, de acuerdo con un programa que deberá incluirse en la memoria de diseño, señalando, además las precauciones que se tomarán para que no resulten afectadas las construcciones, los predios vecinos o los servicios públicos. Estas precauciones se consignarán debidamente en los planos.
+
+Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos se deberá sus pender (sic) de inmediato la excavación en ese lugar y notificar el hallazgo a la Presidencia Municipal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1317], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO CUARTO. DE LA EJECUCIÓN DE OBRAS
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De las Generalidades
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1276], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1523°.
+
+Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1318], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1524°.
+
+Previa autorización de la Dirección de Planeación y Obras Públicas, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1319], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1525°.
+
+Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1320], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1526°.
+
+La compresibilidad, resistencia y granulometría de todo relleno serán adecuadas a la finalidad del mismo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1321], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1527°.
+
+Cuando un relleno vaya a ser contenido por muros, deberán tomarse las precauciones que aseguren que los empujes no excedan a los del proyecto. Se prestará especial atención a la construcción de drenes, filtros y demás medidas tendientes a controlar empujes hidrostáticos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1322], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1528°.
+
+Los rellenos que vayan a recibir cargas de una construcción deberán cumplir los requisitos de confinamiento, resistencia y compresibilidad necesarios, de acuerdo con un estudio de mecánica de suelos. Se controlará su grado de compactación y contenido de humedad mediante ensayes de laboratorio y de campo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1323], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1529°.
+
+Tratándose de pavimentos industriales y los destinados al tránsito o estacionamiento de vehículos en predios particulares, se colocará una base compactada, salvo que el terreno natural posea propiedades mejores que las de la base. El tendido de dicha base será hecho con el espesor y el contenido de humedad recomendado por el Perito Responsable de Obra o por el Perito Especializado en Mecánica de Suelos en su caso, de acuerdo con las características del suelo a emplearse.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1324], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1530°.
+
+El grado de compactación recomendado estará en función del uso para el que vaya a estar destinado el pavimento, también sujeto al criterio de los peritos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1325], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1531°.
+
+En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1326], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1532°.
+
+Las cimentaciones deberán construirse de acuerdo con los materiales, secciones y características marcadas en los planos estructurales correspondientes, los que deberán ajustarse a los lineamientos de diseño que se especifican en este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1327], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1533°.
+
+El desplante de cualquier cimentación se hará a la profundidad señalada en el proyecto. Se deberán tomar las medidas necesarias para minimizar las deformaciones en la superficie de contacto de la cimentación con el suelo. Las superficies de desplante tendrán las dimensiones, resistencia y características que señale el proyecto y estarán libres de cuerpos extraños o sueltos.
+
+En el caso de elementos de cimentación de concreto reforzado, se aplicarán procedimientos que garanticen el recubrimiento mínimo de acero de refuerzo, según lo indica en este CAPÍTULO. Cuando existan probabilidades de que el propio suelo o cualquier líquido o gas contenido en él, puedan atacar al concreto o al acero, se tomarán las medidas necesarias para evitarlo. Asimismo, en el momento del colado se evitará que el concreto se mezcle o contamine con partículas de suelo que puedan afectar sus características de resistencia o durabilidad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1328], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1534°.
+
+La colocación de pilotes y pilas se sujetará al proyecto correspondiente, verificando que la capacidad de carga de cada elemento, su profundidad de desplante, número y espaciamiento se ajuste a lo señalado en los planos estructurales y en el estudio de Mecánica de Suelos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1329], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1288], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1535°.
+
+Las juntas o conexiones entre tramos de un mismo elemento, en su caso, deberán tener la misma resistencia que las secciones que unan.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1330], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1536°.
+
+Los rellenos se ejecutarán empleando el material y el procedimiento que se señale en los planos respectivos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1331], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1537°.
+
+Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1538°.
+
+En la construcción y colocación de obras falsas y de cimbras, deberá observarse las siguientes disposiciones:
+
+I. La obra falsa y la cimbra serán lo suficientemente resistentes y rígidas, y tendrán los apoyos adecuados para evitar deformaciones que no hayan sido tomadas en cuenta en el proyecto. Las juntas de la cimbra serán tales que garanticen la retención de lechadas;
+
+II. La superficie de contacto de la cimbra de madera deberá tener aplicada una membrana aislante de aceite o algún aditivo que mantenga a la madera aislada de la humedad del concreto, con lo que se prolongará su vida útil;
+
+III. Los elementos estructurales deben permanecer cimbrados el tiempo necesario para que el concreto alcance la resistencia suficiente para soportar el peso propio, más las cargas a que vaya a estar sujeto durante la construcción;
+
+IV. Las obras falsas y las cimbras se deberán apegar, además, a los requisitos de seguridad y de carga especificados en este Libro y en las normas técnicas complementarias; y
+
+V. Las cargas que actúen en las cimbras no deberán exceder a las especificadas en los planos correspondientes, o en la bitácora de la obra. Durante la ejecución de la obra no deberán aplicarse cargas concentradas que no hayan sido consideradas en el diseño de las cimbras.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1333], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1539°.
+
+Las cimbras se desplantarán sobre firmes suficientemente capaces de soportar la carga a que serán sometidas. Cuando sea necesario, se usarán "arrastres" que repartan adecuadamente la carga.
+
+Cuando en el proceso de la construcción sea necesario apoyar las cimbras sobre elementos de concreto que no hubieran alcanzado su resistencia de diseño, o sobre suelos poco compactados, se deberán tomar las precauciones necesarias para evitar movimientos indeseables de los apoyos y daños en los elementos de concreto referidos.
+
+Cuando la superficie en la que se vaya a apoyar la cimbra no constituya un plano horizontal, se deberán tomar en cuenta los componentes horizontales de las reacciones en los apoyos de los pies derechos. Para el caso de las cimbras de más de cuatro metros de altura o casos especiales, se deberá presentar la memoria de diseño.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1334], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1540°.
+
+El Perito Responsable verificará que previamente al colado de cualquier elemento de concreto de la estructura, la cimbra correspondiente presente las características de los proyectos arquitectónicos y estructurales. Dicha verificación deberá asentarse en el libro de bitácora.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1335], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1541°.
+
+Los andamios que se utilicen para construir, reparar o demoler una edificación, deberán fabricarse e instalarse de tal manera, que proporcionen las condiciones necesarias de seguridad. La Dirección de Planeación y Obras Públicas podrá ordenar que se presente una memoria de diseño. Los andamios deberán ser revisados periódicamente para verificar que se encuentren en condiciones óptimas de servicio y seguridad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1336], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1542°.
+
+La pendiente máxima de las rampas provisionales será de treinta grados.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1337], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1543°.
+
+Para evitar el resbalamiento de los operarios, se clavarán sobre las vigas que forman las rampas, travesaños de madera a una distancia de cincuenta centímetros como máximo, uno de otro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1338], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1544°.
+
+Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1339], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1545°.
+
+Los dispositivos empleados para transportación vertical de personas o de materiales durante la ejecución de obras, deberán ofrecer las máximas condiciones de seguridad y serán examinados y probados antes de ser utilizados.
+
+Los materiales y elementos de estos dispositivos deberán cumplir con los requisitos de calidad especificados oficialmente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1340], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1546°.
+
+Las máquinas elevadoras, incluidos sus elementos de sujeción, anclaje y sustentación deberán:
+
+I. Ser de buena construcción técnica, tener una resistencia adecuada y estar exentas de defectos manifiestos;
+
+II. Ser mantenidas en buen estado de conservación y funcionamiento;
+
+III. Ser probadas y examinadas cuidadosamente después de su montaje en la obra y antes de ser utilizadas;
+
+IV. Ser revisadas periódicamente y en particular sus elementos mecánicos tales como: anillos, cadenas, garfios, manguitos, poleas y eslabones giratorios, usados para izar o descender materiales o como medio de suspensión;
+
+V. Indicar claramente la carga útil máxima de la máquina de acuerdo con sus características, incluyendo, en caso de que ésta sea variable, la carga admisible para cada caso; y
+
+VI. Estar provistas de los medios necesarios para evitar el riesgo de un descenso accidental.
+
+Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1341], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1547°.
+
+En estructuras permanentes sólo se empleará madera selecta, de primera o segunda clase, la cual deberá estar debidamente tratada o protegida contra plagas, intemperismo y fuego mediante procedimiento (sic) adecuados.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1342], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. De los Tapiales
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1301], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1548°.
+
+La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1549°.
+
+Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1344], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1550°.
+
+Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Planeación y Obras Públicas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1345], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1551°.
+
+Para efecto del proyecto y diseño estructural de edificaciones hechas a base de muros de mampostería de cualquier tipo, deberán seguirse los lineamientos de las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, en las cuales se consideran los siguientes tipos de muros:
+
+I. Mampostería de Piedras Artificiales
+
+a) Muros diafragma;
+
+b) Muros confinados;
+
+c) Muros reforzados interiormente;
+
+d) Muros no reforzados; y
+
+II. Mampostería de Piedras Naturales.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1346], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IV. De las Demoliciones
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1305], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1552°.
+
+La proporción y calidad de los materiales que constituyen la mampostería serán las que indique el proyecto correspondiente, y deberán cumplir en todo momento con las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1347], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1553°.
+
+Deberán comprobarse que las estructuras de mampostería cumplan con las características del proyecto y se construyan de acuerdo con los Procedimientos de Construcción establecidos en la (sic) Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, cuidando especialmente se cumplan con las tolerancias y el control de resistencia fijados en dichas normas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1348], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1554°.
+
+Para verificar que los elementos de mampostería con funciones estructurales o con altura mayor de dos metros cumplan con la resistencia de proyecto, se tomarán muestras de las piezas de mampostería que se ensayarán en un laboratorio de materiales.
+
+En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con los proporcionamientos de sus componentes según se especifique en el proyecto estructural.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1349], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1555°.
+
+Los materiales que se utilicen en la elaboración del concreto deberán cumplir con las normas oficiales.
+
+El proporcionamiento de estos materiales será en cantidades tales que el concreto cumpla con los requisitos de resistencia y tenga el revenimiento fijado en el proyecto. El diseño y construcción de elementos y estructuras de concreto deberán ajustarse a lo que disponen las Normas Técnicas Complementarias de este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1350], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1556°.
+
+Sólo se permitirá la mezcla manual del concreto cuando su resistencia de proyecto no exceda de ciento cincuenta kilogramos por centímetro cuadrado. Para resistencias mayores, se exigirá el uso de sistemas mecánicos de mezclado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1351], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1557°.
+
+La fabricación del concreto se controlará de acuerdo con los criterios y procedimientos prescritos en las Normas Técnicas Complementarias para Diseño y Construcciones de Estructuras de Concreto.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1352], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO V. De las Mediciones y Trazos
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1311], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1558°.
+
+La ejecución de elementos y estructuras de concreto preforzado, incluyendo los ductos para postensado, la lechada para tendones adheridos y la aplicación y medición de la fuerza de presfuerzo, se sujetará a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Concreto, a estas mismas normas deberá apegarse la construcción y montaje de estructuras prefabricadas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1353], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1559°.
+
+El acero de refuerzo deberá protegerse durante su transportación, manejo y almacenamiento contra cualquier fuente de humedad y contra condiciones ambientales que pudieran resultar dañinas tales como humos, acidez y otras similares.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1354], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1560°.
+
+Cuando en casos excepcionales, a juicio del Perito Responsable de Obra, sea necesario calentar el acero de refuerzo ordinario, no se elevará su temperatura a más de quinientos treinta grados centígrados si no está tratado en frío, ni más de cuatrocientos grados centígrados en caso contrario. No se permitirá que el enfriamiento sea rápido.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1355], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1561°.
+
+El acero de presfuerzo y los ductos de postensado deberán adicionalmente protegerse durante su transportación, manejo y almacenamiento contra golpes, caídas y cualquier otra maniobra que pudiera modificar su resistencia o calidad originales.
+
+Antes de autorizar los colados, el Perito Responsable de Obra deberá comprobar que el acero esté colocado en su sitio de acuerdo con los planos estructurales y que se encuentre correctamente sujeto, así como exento de grasas, polvos, óxido excesivo o de cualquier otra sustancia que pueda reducir su adherencia con el concreto. Dicha comprobación deberá asentarse en la bitácora.
+
+Además, se respetará lo prescrito en las Normas Técnicas Complementarias para diseño y construcción de estructuras de concreto.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1356], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1562°.
+
+En elementos no expuestos a la intemperie, el recubrimiento libre de toda barra de refuerzo o tendón de presfuerzo no será menor que su diámetro, ni menor que lo señalado a continuación:
+
+I. En columnas tres centímetros, en trabes dos centímetros, en losas uno punto cinco centímetros y en cascarones un centímetro.
+
+Si las barras forman paquetes, el recubrimiento libre, además, no será menor a uno punto cinco veces el diámetro de la barra más gruesa del paquete;
+
+II. En elementos estructurales colocados contra el suelo, el recubrimiento libre mínimo, además de cumplir con los requisitos anteriores será de cinco centímetros, si no se usa plantilla y de tres centímetros, si se usa plantilla;
+
+III. En elementos prefabricados que no van a quedar expuestos a la intemperie, el recubrimiento libre de refuerzo sin presforzar no será menor que uno punto cinco centímetros, ni que el diámetro de la barra más gruesa del paquete, en su caso; enlosas y cascarones prefabricados puede ser no menor que un centímetro ni que el diámetro de la barra; y
+
+IV. Los recubrimientos antes señalados se incrementarán en miembros expuestos a agentes agresivos ciertas sustancias o vapores industriales, terreno particularmente corrosivo, etc., salvo que se usen protecciones especiales para el acero.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1357], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1316], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1563°.
+
+Los medios y procedimientos que se empleen para transportar el concreto deberán garantizar la adecuada conservación de la mezcla hasta el lugar de su colocación sin que sus ingredientes se pierdan o segreguen. Asimismo se evitará que la unidad arroje a su paso su contenido ensuciando la vía pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1358], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1564°.
+
+El tiempo empleado en el transporte, medido desde que se adicione el agua de mezclado hasta la colocación del concreto en los moldes, no será mayor de una hora a menos que se tomen las medidas para lograr que la consistencia del concreto después de las dos horas sea tal, que pueda ser colocado sin necesidad de añadirle agua. En las plantas premezcladoras de concreto se deberá indicar en la nota de remisión la hora en que se le adiciona el agua a la mezcla.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1359], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1565°.
+
+Antes de efectuarse el colado, deberán limpiarse los elementos de transporte y el lugar donde se vaya a depositar el concreto.
+
+Los procedimientos de colocación y compactación deberán asegurar una densidad uniforme del concreto, ajustándose a lo que indican al respecto las Normas Técnicas Complementarias de este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1360], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1566°.
+
+Una vez realizada la operación de colado, el concreto deberá someterse a un proceso de curado mediante la aplicación de agua, por recubrimientos impermeables o retenedores de la humedad, o por medio de vapor.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1361], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1567°.
+
+El proceso de curado deberá mantenerse el tiempo que requiera el concreto para alcanzar la resistencia del proyecto. Cuando el curado se realice mediante la aplicación de agua, el tiempo no será menor de siete días tratándose de cemento normal y de tres días si se emplea cemento de resistencia rápida. En todo caso el curado deberá ajustarse a lo que al respecto se indica en las Normas Técnicas Complementarias de este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1362], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1568°.
+
+Los elementos de concreto simple, reforzado o presforzado que se encuentren expuestos a agentes intemperizantes en ambientes dañinos que puedan modificar las dimensiones de las piezas o disminuir los recubrimientos exigidos, deberán protegerse adecuadamente por medio de recubrimientos aditivos o cementos especiales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1569°.
+
+Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
+
+Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Planeación y Obras Públicas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1364], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1570°.
+
+En el montaje de las estructuras se observará lo siguiente:
+
+I. El montaje deberá efectuarse con el equipo apropiado.- Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen (sic), deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas; Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Planeación y Obras Públicas;
+
+II. Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
+
+III. Conexiones Provisionales.- Durante el montaje, los diversos elementos que constituyen la estructura deberán sostenerse individualmente o ligarse entre sí por medio de tornillos, pernos o soldaduras provisionales, que proporcionen la resistencia requerida ante la acción de cargas muertas y esfuerzos de montaje, viento o sismo. Asimismo, deberán tenerse encuentra (sic) los efectos de cargas producidas por materiales y equipo de montaje. Cuando sea necesario, se colocará en la estructura el contraventeo provisional requerido para resistir los efectos mencionados;
+
+IV. Alineado y plomeado.- No se colocarán remaches, pernos o tornillos, ni soldadura definitiva hasta que la parte de la estructura que quede rigidizada por ellos esté alineada y plomeada; y
+
+V. Tolerancias.- Las tolerancias se ajustarán a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1365], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1571°.
+
+En las estructuras remachadas o atornilladas, se observará lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente que se respete lo siguiente:
+
+I. Agujeros.- El diámetro de los agujeros para remaches o tornillos deberá ser un milímetro y medio mayor que el diámetro nominal de éstos. No se permitirá el uso de botadores para agrandar agujeros, ni el empleo de soplete para aceros;
+
+II. Armado.- Las piezas que se vayan a remachar deberán colocarse con equipos especiales, dejándolos firmemente apretados;
+
+III. Colocación.- Los remaches y tornillos deberán colocarse con equipos especiales, dejándolos firmemente apretados; y
+
+IV. Inspección.- El Perito Responsable de Obra cuidará que se revise antes de la colocación de los remaches o tornillos, la posición, alineamiento y diámetro de los agujeros y posteriormente comprobará que las cabezas de los remaches estén formadas debidamente; en caso de tornillos, se deberá verificar que las tuercas estén debidamente colocadas, cuando se haya especificado su uso.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1366], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1572°.
+
+Las conexiones soldadas en las estructuras deberán cumplir con las Normas Técnicas complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente los siguientes puntos:
+
+I. Preparación del material.- Las superficies que vayan a soldarse deberán estar libres de costras, escoria, óxido, grasa, pintura o cualquier otro material extraño;
+
+II. Armado.- Las piezas que se vayan a unir con soldadura de filete deberán estar en contacto; cuando esto no sea posible, se permitirá una separación máxima de cinco milímetros, si la separación es de uno punto cinco milímetros o mayor, se aumentará el tamaño del filete en una cantidad igual a ella. Las partes que se vayan a soldar a tope deberán alinearse cuidadosamente, no se permitirá una desviación mayor de tres milímetros. Al armar y unir partes de una estructura o de miembros compuestos, se seguirán procedimientos y secuencias en la colocación de las soldaduras que eliminen distorsiones innecesarias y minimicen los esfuerzos de contracción. Al fabricar vigas con cubreplacas y miembros compuestos, deberán hacerse las uniones de taller de cada una de las partes que la componen, antes de unir esas partes entre sí; y
+
+III. El Perito Responsable de Obra tomará las medidas necesarias para efectuar la debida revisión de los bordes de las piezas en los que se colocará la soldadura, y para cerciorarse de que los biseles, holguras y otras características sean las correctas y estén de acuerdo con los planos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1367], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1573°.
+
+Se repararán las soldaduras que presenten defectos, tales como tamaño insuficiente, cráteres o socavación de metal base y rechazarán todas las que estén agrietadas.
+
+En juntas importantes de penetración completa, la revisión se complementará por medio de radiografías o ensayes no destructivos, o ambas a juicio del Perito Responsable de Obra.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1574°.
+
+Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendios, mecánicas de aire acondicionado, de gas, de vapor, de aire caliente, telefónicas, de comunicación especiales y otras, deberán proyectarse observando lo señalado en este Libro y ejecutarse y conservarse en condiciones que garanticen su eficacia y proporcionen la seguridad necesaria a los trabajadores a los usuarios y al inmueble de conformidad con lo que establecen las disposiciones aplicables para cada caso.
+
+En las instalaciones deberán emplearse únicamente materiales y productos que satisfagan las normas de calidad fijadas por la autoridad correspondiente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1369], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1575°.
+
+La cimentación de equipos mecánicos o de máquinas deberá construirse de acuerdo con el proyecto autorizado, de manera que no afecte a la estructura de edificio, ni le transmita vibraciones o movimientos que puedan dañar al inmueble, o perjuicios y molestias a los ocupantes o terceros. Los niveles de ruido que produzcan las máquinas, no deberán exceder los límites previstos en las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1370], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1576°.
+
+Las instalaciones de aire acondicionado deberán realizarse de manera que los equipos no produzcan vibraciones o ruidos que causen molestias a las personas o perjuicios a los edificios o a terceros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1371], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1577°.
+
+Las instalaciones de gas combustible serán para uso de gas licuado, de petróleo o de gas natural y deberán cumplir con las disposiciones que al efecto señale la dependencia federal competente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1372], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1578°.
+
+Las instalaciones de vapor y de aire caliente deberán cumplir con las disposiciones legales aplicables, para prevenir y controlar la contaminación ambiental.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1373], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1332], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1579°.
+
+Deberá existir un servicio de mantenimiento permanente para calderas y chimeneas, aquéllas serán inspeccionadas y operadas por personal especializado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1374], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1580°.
+
+Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso personas, deberán aislarse adecuadamente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1375], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1581°.
+
+Para la instalación y funcionamiento de calderas, compresores y líneas o salidas de aire comprimido, deberán sujetarse en su diseño y construcción a los ordenamientos legales aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1582°.
+
+Las partes exteriores de los edificios que sean visibles desde la vía pública se proyectarán de acuerdo con lo que dispone el título referente a requisitos para el proyecto arquitectónico de este Libro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1377], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1583°.
+
+Las fachadas y los paramentos de cada construcción que sean visibles desde la vía pública deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1378], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1584°.
+
+Las fachadas de colindancias de las edificaciones de tres niveles o más deberán tener aplanados impermeables de mortero.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1379], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1585°.
+
+Las fachadas de los monumentos y las de las construcciones que se localicen dentro de zonas de monumentos históricos, arqueológicos, artísticos y/o arquitectónicos se ajustarán, además a lo que dispone al respecto la legislación Federal y Estatal en la materia.
+
+Los demás elementos de ornato que se usen en las fachadas y parámetros se ajustarán a lo dispuesto en los párrafos precedentes.
+
+Los tendederos para ropa y los tinacos deberán instalarse o protegerse, de modo que no sean visibles desde la vía pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1380], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1586°.
+
+En fachadas recubiertas con placas de material pétreos naturales o artificiales, se cuidará la sujeción de éstas a la estructura del edificio. En aquellos casos en que sea necesario por la dimensión, altura, peso o falta de rugosidad las placas se fijarán mediante grapas que proporcionen el anclaje necesario.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1381], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1587°.
+
+Para evitar desprendimientos del recubrimiento ocasionado por movimientos de la estructura debidos a asentamientos, vientos o sismos, o bien a deformaciones del material por cambios de temperatura, se dejarán juntas de construcciones adecuadas, verticales y horizontales. Adicionalmente se tomarán las medidas necesarias para evitar el paso de humedad a través del revestimiento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1382], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1588°.
+
+Los aplanados de mortero se aplicarán sobre superficies rugosas o repelladas, previamente humedecidas.
+
+Los aplanados cuyo espesor sea mayor de tres centímetros deberán contar con dispositivos adecuados de anclaje.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1383], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1589°.
+
+La ventanería, la herrería y la cancelería se proyectarán, ejecutarán y colocarán de manera que no se causen daños a la estructura del edificio o de los movimientos de ésta no provoquen deformaciones que puedan deteriorar dicha ventanería, herrería o cancelería.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1384], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VIII. De la Mampostería y el Concreto
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1343], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1590°.
+
+Los vidrios y cristales deberán colocarse tomando en cuenta los posibles movimientos de la edificación y las dilataciones y contracciones ocasionadas por cambios de temperatura.
+
+Los asientos selladores empleados en la colocación de piezas mayores al uno y medios (sic) metros cuadrados, deberán absorber tales deformaciones y conservar su elasticidad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1385], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1591°.
+
+Los elementos ornamentales o decorativos que se incorporen a la construcción y que no formen parte integrante de la misma, deberán ser considerados en el diseño estructural.
+
+Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumentos y otros similares, deberán proyectarse y construirse de conformidad con lo dispuesto en este Libro.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1592°.
+
+Para los efectos del presente capítulo, serán considerados como usos peligrosos, insalubres o molestos, los siguientes:
+
+I. La producción, almacenamiento, depósito, venta o manejo de objetos o de substancias tóxicas, explosivas, inflamables o de fácil combustión;
+
+II. La acumulación de escombros o basuras;
+
+III. La excavación profunda de terrenos;
+
+IV. Los que impliquen la aplicación de excesivas o descompensadas cargas o la transmisión de vibraciones excesivas a las construcciones;
+
+V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos para las personas, o que puedan ocasionar daño a las propiedades; y
+
+VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1387], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1593°.
+
+La Dirección de Planeación y Obras Públicas, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia.
+
+En construcciones ya ejecutadas, la Dirección de Planeación y Obras Públicas podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1388], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1594°.
+
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Planeación y Obras Públicas ordenará, con base en dictamen técnico lo siguiente:
+
+I. La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y
+
+II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sean necesarios para el correcto funcionamiento del inmueble y restitución al uso aprobado, dentro del plazo que para ello se señale.
+
+Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este Libro.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1595°.
+
+Los propietarios de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestia o peligro para las personas o los bienes. Los acabados y pintura de las fachadas, deberán mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza.
+
+Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1390], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1596°.
+
+Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1597°.
+
+Las disposiciones de este libro son de orden público e interés social y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública del Municipio de Asientos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1392], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1598°.
+
+Son elementos y requisitos del acto administrativo:
+
+I. Ser expedido por autoridad u órgano competente, a través del servidor público municipal que actúa en el ejercicio de facultades y con motivo de las mismas;
+
+II. Mencionar el órgano o autoridad del cual emana;
+
+III. Encontrarse debidamente fundado y motivado;
+
+IV. Tener objeto que pueda ser materia del mismo, determinado y determinable, preciso en cuanto a las circunstancias de tiempo, modo y lugar y previsto por el presente Código, la legislación federal o estatal vigente y con las formalidades establecidas en el presente Código y en la ley;
+
+V. Cumplir con las finalidades del interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
+
+VI. Ser expedido sin que medié error sobre el objeto, causa o motivo, o sobre el fin del acto;
+
+VII. Ser expedido sin que medie error, dolo o violencia en su emisión;
+
+VIII. Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la ley;
+
+IX. Hacer constar por escrito, con la firma autógrafa de la autoridad que lo expida y el sello de la Presidencia Municipal o el órgano competente;
+
+X. Señalar el lugar y la fecha de emisión;
+
+XI. Haber satisfecho los requisitos exigidos por este Código, legislación o reglamento aplicable según sea el caso, para la expedición del acto; y
+
+XII. Tratándose de actos administrativos que sean recurribles, deberá de hacer mención del recurso procedente, además deberá hacerse mención a la oficina donde se encuentre el expediente respectivo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1393], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1599°.
+
+La omisión o irregularidades en los elementos y requisitos señalados por el artículo precedente y demás leyes, reglamentos y disposiciones del presente Código aplicables a la materia de que se trate, será causal de nulidad del acto administrativo municipal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1394], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1600°.
+
+También estarán afectadas de nulidad las actuaciones administrativas que no sigan las formalidades que prescriben la Ley del Procedimiento Administrativo, este Código y demás disposiciones jurídicas vigentes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1395], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1601°.
+
+El acto administrativo emitido por las autoridades u órganos municipales competentes, gozará de la presunción de legitimidad y ejecutoriedad, tanto para los servidores públicos como para los particulares, quienes tendrán la obligación de cumplirlo, en tanto no sea revocado o anulado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1396], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1602°.
+
+El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada; queda exceptuado el acto administrativo en virtud del cual se realicen actos de inspección, verificación y vigilancia conforme a la dispuesto por este Código y demás disposiciones municipales, los cuales son exigibles a partir de la fecha en que la administración pública municipal los efectúe.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1397], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1603°.
+
+En los actos administrativos de carácter general tendrá efectos de notificación, su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1398], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1604°.
+
+Se aplicarán de manera supletoria para los trámites previstos en lo conducente la Ley del Procedimiento Administrativo del Estado de Aguascalientes y el Código de Procedimientos Civiles vigente para el Estado de Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1605°.
+
+El procedimiento administrativo se debe desarrollar con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1400], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1606°.
+
+La administración pública municipal no podrá exigir más requisitos y formalidades que los que expresamente estén previstos en las leyes, reglamentos y el presente Código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1401], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1607°.
+
+Cualquier promoción que presenten los particulares, deberán ser por escrito, con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, y hechos o fundamentos de su petición. En caso de omisión de alguno de los requisitos, se requerirá al interesado para que los subsane en un término de tres días, si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para (sic) admitir cualquier escrito.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1402], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1608°.
+
+La autoridad municipal en su relación con los particulares tendrá las siguientes facultades y obligaciones:
+
+I. Requerir informes, documentos y otros elementos probatorios durante la realización de la visita de verificación;
+
+II. Proporcionar información y orientación acerca de los requisitos jurídicos y técnicos que las disposiciones vigentes impongan a las actuaciones o solicitudes que se propongan realizar;
+
+III. Permitir el acceso a sus registros y archivos en los términos previstos en este Código y otros reglamentos municipales, para obtener información que directamente tenga que ver con el particular solicitante;
+
+IV. Facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones apegados al marco legal;
+
+V. Dictar todas las resoluciones por escrito de cuanta petición se les formule. Dichas resoluciones deberán dictarse una vez que estén debidamente integrados los requisitos que exige este Código para el otorgamiento de los permisos o licencias solicitados por el particular, mismos que se notificarán por estrados al solicitante en las propias oficinas de la autoridad;
+
+VI. A partir de que el particular haya integrado todos los requisitos exigidos por la ley, reglamentos o el presente Código, la autoridad está obligada a resolver en un término no mayor de diez días hábiles, en caso de no emitir la resolución en dicho término se entenderá concedido el permiso o licencia solicitado por el particular;
+
+VII. En caso de licencias reglamentadas el plazo será de quince días;
+
+VIII. En caso de controversia entre dos o más particulares, y en cualquier estado que forme el asunto o procedimientos (sic) administrativo en que intervengan, podrá citar a las partes para su avenimiento; y
+
+IX. Ejercer las facultades fiscales conforme a las leyes respectivas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1403], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1609°.
+
+En cualquier procedimiento administrativo que requiera del impulso y continuación procesal por parte del interesado será su obligación efectuar los actos necesarios, en caso de que no le (sic) hicieren se le requerirá para que lo haga bajo pena de archivarlo como concluido por falta de interés jurídico, cuando se deje de promover por un término de dos meses, operando en este caso el sobreseimiento del asunto por falta de interés jurídico.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1404], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IX. De las Estructuras Metálicas
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1363], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1610°.
+
+La autoridad municipal en el despacho de sus asuntos guardará y respetará un orden riguroso en la tramitación en los asuntos de la misma naturaleza.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1405], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1611°.
+
+Los interesados de un procedimiento administrativo municipal, en cualquier momento tendrán derecho a conocer el estado que guarda su trámite, salvo que no sea el titular o causahabiente, de (sic) se trate de un asunto en que exista disposición legal que lo prohíba.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1406], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1612°.
+
+Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1407], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1613°.
+
+Todo servidor público estará impedido para intervenir o conocer de cualquier procedimiento administrativo municipal, debiendo en ese caso, inhibirse para conocer, cuando:
+
+I. Tenga interés directo o indirecto;
+
+II. Tenga interés su cónyuge, consanguíneos en línea recta sin limitación de grados y colaterales del cuarto grado o los afines dentro del segundo grado;
+
+III. Exista manifiesta amistad o enemistad;
+
+IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
+
+V. Cualquier otra prevista en el presente Código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1408], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1614°.
+
+Los particulares con capacidad jurídica podrán promover por sí o por interpósita persona.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1409], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO X. De las Instalaciones
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1368], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1615°.
+
+Los particulares, podrán autorizar por escrito en cada caso, a un Licenciado en Derecho, para que en su nombre y representación reciba notificaciones, ofrezca y rinda pruebas e interponga los recursos a que se refieren las disposiciones de este Código. El profesionista designado para tal efecto deberá ser nombrado mediante carta poder simple y en el escrito donde se designe se deberá de acompañar copia de la cedula profesional respectiva.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1410], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1616°.
+
+La falta u omisión de los requisitos exigidos en el ARTÍCULO anterior, dará lugar a una prevención de manera escrita, a efectos de subsanar las omisiones o los errores cometidas (sic), contando con el término de cinco días hábiles para tal efecto.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1411], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1617°.
+
+En ningún trámite administrativo se admitirá la gestión de negocios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1618°.
+
+El acto administrativo de carácter individual se extingue de pleno derecho por cualquiera de las siguientes causas:
+
+I. Cumplimiento de su finalidad;
+
+II. Expiración del plazo;
+
+III. Cuando la formación del acto administrativo este sujeto a una condición o término suspensivo y éste no se realiza dentro del plazo señalado en el propio acto.
+
+IV. La realización de la condición resolutoria;
+
+V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de este y no sea en perjuicio del interés público;
+
+VI. Por revocación determinada en la resolución de un recurso administrativo;
+
+VII. La conclusión de su vigencia;
+
+VIII. Por prescripción; y
+
+IX. Por nulidad, declarada en la sentencia de un procedimiento judicial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1619°.
+
+Ponen fin al procedimiento administrativo:
+
+I. La resolución del mismo;
+
+II. El desistimiento;
+
+III. La renuncia al derecho en que funde la solicitud, cuando tal renuncia no este prohibida por el ordenamiento jurídico;
+
+IV. La declaración de caducidad;
+
+V. La imposibilidad material de continuarlo por causas sobrevenidas; y
+
+VI. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento jurídico ni verse sobre materias que no sean susceptibles de transacción y tengan por objeto satisfacer el interés público con el alcance, efectos y régimen jurídico específico que en cada caso prevea la disposición que lo regula.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1414], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1620°.
+
+Todo interesado podrá desistirse de su solicitud. Si el escrito de iniciación se hubiere formulado por dos o mas interesados, el desistimiento o la renuncia sólo afectará a aquél que lo hubiese formulado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1415], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1621°.
+
+La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y de oficio las derivadas del mismo; en su caso, el órgano administrativo competente podrá decidir sobre las mismas, poniéndolo, previamente, en conocimiento de los interesados por un plazo no superior de 10 días, para que manifiesten lo que a su derecho convenga y aporten las pruebas que estimen convenientes.
+
+En los procedimientos tramitados a solicitud del interesado la resolución será congruente con las peticiones formuladas por este, sin perjuicio de la potestad de las Administraciones Públicas Estatal y Municipales de iniciar de oficio un nuevo procedimiento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1416], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1622°.
+
+En los procedimientos iniciados a instancia del interesado, cuando se produzca su paralización por causas imputables al mismo, las Administraciones Públicas Estatal y Municipales le advertirán que, transcurridos tres meses, se producirá la caducidad del mismo. Expirando dicho plazo sin que el interesado requerido realice las actividades necesarias para reanudar la tramitación, la Administración Pública Estatal y Municipal acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederá el recurso previsto en la presente ley.
+
+La caducidad no producirá por sí misma la prescripción de las acciones del particular, ni de la Administración Pública Estatal y Municipal, pero los procedimientos caducados no interrumpen ni suspenden el plazo de prescripción.
+
+Cuando se trate de procedimientos iniciados de oficio, se entenderán caducados y se procederá al archivo de las actuaciones, a solicitud de parte interesada o de oficio, en el plazo de 30 días contados a partir de la expiración del plazo para dictar resolución.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO XI. De las Fachadas y Recubrimientos
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1376], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1623°.
+
+Las actuaciones y diligencias administrativas municipales se practicarán en horas y días hábiles.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1418], P.O. 22 DE ABRIL DE 2024)</small>
+
+(SIC)°.- En cualquier plazo o término no se contarán los días inhábiles. Para efectos del presente Código, se considerarán días inhábiles: sábados y domingos, el 1° de Enero, 21 de marzo, 1º y 5 de mayo, 16 de septiembre, 20 de noviembre, 1º de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Estatal y 25 de diciembre y aquellos días en que se decrete la suspensión de labores administrativas, aún y cuando exista (sic) guardias para la atención de servicios públicos primordiales.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1419], P.O. 22 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 1624° (SIC).- La autoridad administrativa municipal en caso de urgencia o de existir causa justificada, podrá habilitar horas inhábiles, cuando la persona con quien se vaya a practicar la diligencia, realice actividades objeto de visita, en tales horas. Debiendo asentar en la resolución la determinación de habilitar horas inhábiles.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1420], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1625°.
+
+En materia de inspecciones y siempre y cuando las actividades de los particulares representen un riesgo para personas y sus bienes, la autoridad podrá realizarlas en cualquier día y hora sin necesidad de habilitación expresa. Asimismo en materia de licencias reglamentadas se podrán hacer inspecciones durante las 24 horas del día sin necesidad de habilitación expresa.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1421], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1626°.
+
+las diligencias de cualquier procedimiento administrativo municipal se efectuarán de las 8:00 a las 18:00 horas, sin perjuicio de que una vez empezada la diligencia en horas hábiles y concluya en horas inhábiles, afecte su validez.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1422], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1627°.
+
+Para efectos de notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, los términos o plazos, no deberán de exceder de diez días. La autoridad administrativa deberá de hacer del conocimiento del interesado de dicho plazo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1628°.
+
+Toda resolución emitida por la autoridad municipal deberán (sic) de ser notificadas personalmente al interesado, entregándole copia de las mismas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1424], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1629°.
+
+Los particulares deberán señalar domicilio dentro de la jurisdicción del Municipio de Asientos, en el primer escrito que presenten, y notificar el cambio de domicilio, para que en el se hagan las notificaciones personales indicadas en este. Código. En caso de no cumplir con esta obligación las notificaciones, aún las personales, se harán por estrados en las oficinas de la propia autoridad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1425], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1630°.
+
+Las notificaciones personales se harán conforme a las siguientes reglas:
+
+I. En las oficinas de la autoridad municipal, si comparece personalmente el interesado, su representante legal o la persona autorizada para recibirlas;
+
+II. En el domicilio en que hubiere señalado ante las autoridades administrativas o, en su caso, en el domicilio en que se encuentre;
+
+III. La notificación se entenderá con la persona que deba ser notificada, con su representante legal o la persona autorizada para esos efectos, a falta de estos, el notificador cerciorado de ser el domicilio designado de la persona, dejará citatorio con cualquier persona que se encuentre en el domicilio para que espere a una hora fija dentro de las 24 horas siguientes, Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o se fijará en la puerta del domicilio;
+
+IV. Si la persona a quien ha de notificarse no atendiere el citatorio la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio donde se realice la diligencia, entregándole copia del documento;
+
+V. En el caso de que el interesado que haya de notificarse tenga domicilio fuera del Municipio de Asientos, se hará la notificación mediante correo certificado con acuse de recibo; y
+
+VI. Por edictos, únicamente cuando la persona a quien se deba de notificar haya desaparecido, se ignore su domicilio, o se encuentre fuera del Municipio de Asientos sin haber dejado representante legal acreditado ante las autoridades municipales administrativas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1426], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1631°.
+
+Las notificaciones personales surtirán efectos el día en que fueron realizadas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1427], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1632°.
+
+Las demás notificaciones surtirán sus efectos al día hábil siguiente a aquél en que se hubiere hecho entrega del oficio o copia de la resolución que se notifica, o él de la publicación del edicto en su casó.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1428], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. Del uso de Predios y Edificaciones
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1386], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1633°.
+
+Las notificaciones por edictos se realizarán haciendo la publicación con un resumen de las resoluciones por notificar; dichas publicaciones deberán efectuarse por una sola vez en el periódico oficial del estado y en un diario de los de mayor circulación.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1429], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1634°.
+
+La manifestación que haga el interesado, su representante legal o quien esté autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1635°.
+
+Corresponde a la administración municipal a través de sus dependencias:
+
+I. Llevar a cabo visitas de verificación o inspección, mismas que podrán ser ordinarias o extraordinarias, las primeras, se efectuarán en días y horas hábiles, y las segundas en cualquier tiempo, siempre que se notifique al particular la habilitación de días y horas inhábiles, con el objeto de vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales aplicables;
+
+II. Vigilar el cumplimiento de las disposiciones señaladas, la cual estará a cargo de cada unidad administrativa en el ámbito de su competencia, contando con un cuerpo de notificadores, verificadores e inspectores y demás personas que sean habilitadas para el efecto;
+
+III. Realizar dentro del territorio municipal las visitas de inspección que consideren necesarias a los predios, obras, establecimientos, giros industriales, comerciales de servicios y en general en cualquier lugar, con el fin de vigilar dentro de su competencia el cumplimiento de las disposiciones del presente Código y demás disposiciones legales aplicables;
+
+IV. Llevar a cabo las diligencias necesarias en el ámbito de su competencia o las que correspondan a la Federación y/o Estado previo acuerdo de coordinación, que para el caso se celebre previamente;
+
+V. Aplicar las medidas de seguridad que establece este Código y demás disposiciones municipales aplicables; y
+
+VII (SIC). Las demás que señale el presente Código y demás legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1431], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. Del Mantenimiento
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1389], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1636°.
+
+Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, obras, servicios, instalaciones, personas y vehículos de transporte, con objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para la visita de verificación.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1432], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1637°.
+
+Tendrán el carácter de inspectores y verificadores, aquellos empleados municipales que hayan recibido su nombramiento que los acredite como tales.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1433], P.O. 22 DE ABRIL DE 2024)</small>
+
+# LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De los Principios Generales
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1391], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1638°.
+
+La inspección y vigilancia de todos los giros comerciales debe verificar que cuenten con su licencia municipal, así como que se cumplan los horarios previstos por el presente Código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1434], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1639°.
+
+Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que halla (sic) lugar.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1435], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1640°.
+
+Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1436], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1641°.
+
+Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que lo fundamenten.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1437], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1642°.
+
+La orden de inspección o verificación deberá contener:
+
+I. Orden legal por escrito al inspector o verificador para que inspeccione y/o verifique el debido cumplimiento del presente Código o la legislación aplicable, con la fecha, ubicación del establecimiento sujeto a inspección, el objeto de la visita, el fundamento legal y el nombre de la autoridad competente que emite dicha orden de inspección, con su firma autógrafa;
+
+II. Nombre o razón social del lugar o establecimiento que ha de inspeccionarse;
+
+III. Nombre del propietario o titular de la licencia;
+
+IV. Domicilio o ubicación del lugar a inspeccionarse;
+
+V. Fundamento y motivación; y
+
+VI. Autorización del uso de la fuerza pública en caso de que se requiera o que se nieguen u obstaculicen la ejecución de la inspección.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1438], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1643°.
+
+No se requerirá orden escrita de inspección, cuando los verificadores detecten actividades contrarias al presente Código en el momento de estarse consumando éstas si ponen en peligro la seguridad de las personas, sus bienes derechos o la continuidad de un servicio público. En este caso levantará el acta respectiva, se tomarán las medidas de seguridad que al caso correspondan y se turnará el asunto a la autoridad que corresponda, para su calificación.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1439], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1644°.
+
+De toda visita de verificación o inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1440], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1645°.
+
+En las actas se hará constar:
+
+I. Nombre, denominación o razón social del visitado;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, Municipio o Delegación, código postal y Entidad Federativa en que se encuentre duplicado el lugar en que se practique la visita;
+
+IV. Número y fecha del oficio de comisión que la motivó;
+
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI. Nombre y domicilio de las personas que fungieron como testigos;
+
+VIII. Declaración del visitado, si quisiera hacerla; y
+
+IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quien la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1441], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. Del Procedimiento Administrativo
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1399], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1646°.
+
+Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1442], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1647°.
+
+Se dejará copia de la orden y el acta de inspección o verificación a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1443], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1648°.
+
+Las autoridades administrativas con base en los resultados de la visita de verificación o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1444], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1649°.
+
+Con base en los resultados de la visita de verificación o del informe de la misma, podrán dictarse medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo de cinco días hábiles para que acuda a alegar lo que a su derecho convenga, en caso contrario, o si son comprobadas las violaciones o infracciones legales, se impondrán las sanciones que se establecen en el presente código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1445], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1650°.
+
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta se desprenda que no se ha dado cumplimiento con las medidas previamente ordenadas, la autoridad competente podrá poner la sanción o sanciones que procedan.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1446], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1651°.
+
+Los inspectores o verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el procedimiento establecido en este capítulo para el ejercicio de su función.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1447], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1652°.
+
+Del acta de inspección se dará vista al funcionario que la ordenó, quien determinará la posible comisión de una falta administrativa e iniciará en su caso el procedimiento para la imposición de sanciones o medidas de seguridad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1653°.
+
+En el Municipio de Asientos, a efectos de llevar a cabo el control de los infractores al presente Código y de las multas respectivas, existirá como mínimo un Juzgado Cívico de Seguridad Pública y Movilidad, que dependerá jerárquica y administrativamente de la Secretaría del H. Ayuntamiento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1449], P.O. 22 DE ABRIL DE 2024)</small>
+
+(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
+
+ARTÍCULO 1654 ARTÍCULO 1449°.- Será facultad del Juzgado Cívico de Seguridad Pública y Movilidad el conocimiento y calificación de las infracciones en contra de la seguridad, tranquilidad, salubridad la moral y el civismo, así como las infracciones de vialidad, será también facultad del Juzgado Cívico la imposición de las sanciones correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1655°.
+
+el presente capitulo se remitirá al Reglamento de Justicia Cívica y Faltas Administrativas para el Municipio de Asientos, Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1656°.
+
+Para efectos de este título, se consideran infracciones las violaciones al presente Código y a los demás reglamentos en materia municipal y mandatos legítimos de la autoridad competente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1466], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1657°.
+
+Las infracciones tendrán como consecuencia la imposición de sanciones o medidas de seguridad por parte de la autoridad competente según lo establecen en las leyes y el presente código, en la forma y montos establecidos en los mismos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1467], P.O. 22 DE ABRIL DE 2024)</small>
+
+(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
+
+###### ARTÍCULO 1658°.
+
+Las infracciones previstas en el presente código se dividen en:
+
+I. Infracciones administrativas;
+
+II. Faltas de Policía y Buen Gobierno; e
+
+III. Infracciones de movilidad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1468], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. Extinción del Acto Administrativo
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1412], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1659°.
+
+La vigilancia sobre la comisión de infracciones previstas en el artículo anterior corresponderá a las diversas unidades administrativas municipales, en el ámbito de sus respectivas competencias. En el caso de la fracción I del artículo anterior, la aplicación de la sanción correspondiente será facultad del Secretario del H. Ayuntamiento, por sí o por persona a quien delegue facultades para ello. En el caso de las fracciones II y III del artículo anterior, la aplicación de la sanción correspondiente, será facultad del Juez Calificador.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1469], P.O. 22 DE ABRIL DE 2024)</small>
+
+(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
+
+### CAPÍTULO IV. De la Terminación del Procedimiento Administrativo
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1413], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1660°.
+
+Los elementos operativos de la Dirección de Seguridad Pública y Movilidad vigilarán lo correspondiente a las faltas de policía y buen gobierno e infracciones de movilidad y serán auxiliares de las demás áreas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1470], P.O. 22 DE ABRIL DE 2024)</small>
+
+(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
+
+###### ARTÍCULO 1661°.
+
+La acción para imponer sanciones por infracciones administrativas, faltas de policía y buen gobierno o infracciones de movilidad, prescribirán en tres meses, contados a partir de la fecha en que se cometan.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1471], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1662°.
+
+En el caso de infracciones administrativas, el plazo de la prescripción comenzará a correr a partir de la fecha en que se levante el acta de inspección o verificación, o se hace del conocimiento del presunto infractor de las violaciones a la ley, reglamentos o el presente código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1472], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1663°.
+
+Las sanciones podrán consistir en:
+
+I. Amonestación verbal o escrita;
+
+II. Clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones, obras, servicios y establecimientos;
+
+III. Multa equivalente a uno y hasta cien días de salario mínimo vigente en el Estado;
+
+IV. La demolición total o parcial de las obras efectuadas en contravención a las disposiciones de este Código;
+
+V. La revocación, cancelación o suspensión temporal de las concesiones, autorizaciones, permisos, licencias o constancias;
+
+VI. La cancelación del registro del profesionista en el padrón de peritos de obra;
+
+VII. La prohibición de realizar determinadas acciones, obras o servicios;
+
+VIII. El retiro de anuncios, instalaciones, materiales u obstáculos en la vía o espacio público o privado;
+
+IX. El decomiso, aseguramiento, retiro o inmovilización de mercancías;
+
+X. La suspensión de actos o espectáculos públicos;
+
+XI. La suspensión o cancelación del empadronamiento; y
+
+XII. El arresto hasta por 36 horas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1473], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO V. De los Términos
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1417], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1664°.
+
+Las sanciones aplicables por la comisión de faltas de policía y buen gobierno podrán consistir en:
+
+I. Amonestación verbal o escrita;
+
+II. Multa económica a favor del erario municipal; y
+
+III. Arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1474], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1665°.
+
+Las sanciones administrativas previstas en este capítulo, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales que con motivo de los mismos hechos adquieran los infractores.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1475], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1666°.
+
+Se entenderá por medidas de seguridad, la adopción y ejecución de las acciones que, con apoyo de este Código, dicten las autoridades competentes, encaminadas a evitar los daños que puedan causar las instalaciones, construcciones, obras, servicios o acciones. Estas medidas de seguridad serán aplicables de manera complementaria en sanciones por comisión de infracciones administrativas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1476], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1667°.
+
+Las medidas de seguridad podrán consistir en:
+
+I. La suspensión de obras, servicios, espectáculos y actividades comerciales, industriales y de prestación de servicios;
+
+II. La clausura total o parcial, de las instalaciones, construcciones, obras, servicios y establecimientos;
+
+III. La desocupación de inmuebles, que presente claro deterioro o un posible riesgo para la comunidad;
+
+IV. La demolición de fincas o construcciones;
+
+V. El retiro de las instalaciones, anuncios u otros objetos de la vía o espacio público o privado, que contravenga este código o las buenas costumbres.
+
+VI. La prohibición de actos de utilización de maquinaria o equipo en obra determinada;
+
+VII. La advertencia pública, mediante la cual se empleen los medios publicitarios sobre cualquier irregularidad en las actividades realizadas por un fraccionador o promovente de condominios, comerciante, industrial o prestador de servicios;
+
+VIII. El Retiro de personas de lugar público o privado, o prohibición de asistir (sic) éste, en caso de riesgo para ellas, para otras o para las propias instalaciones;
+
+IX. La Retención o aseguramiento de mercancías, instrumentos u objetos; y
+
+X. Cualquier prevención que tienda a lograr los fines expresados en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1477], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1668°.
+
+Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1478], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1669°.
+
+La persona afectada por la aplicación de una medida de seguridad, tendrá derecho a que de inmediato le sea levantada, si presenta ante la autoridad competente, las concesiones, los permisos, licencias o autorizaciones, cuando la causa para su imposición sea la carencia de éstos; o cuando desaparezcan los motivos de riesgo público que las originó.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1479], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VI. De las Notificaciones
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1423], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1670°.
+
+En el caso de que los verificadores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito requerida por el presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1480], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1671°.
+
+En caso de clausura provisional como medida de seguridad, ésta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad líquida.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1672°.
+
+Constituye una falta de policía y buen gobierno a la acción u omisión, individual o de grupo, realizada en vía y lugares públicos o cuyos efectos se manifiesten en el hecho de que, se altere o se ponga en peligro el orden público o la integridad de las personas, seguridad, salubridad y tranquilidad, y sus propiedades en los términos de este capítulo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1482], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1673°.
+
+Para efectos del presente Código, se entenderá por lugares públicos, todo espacio de uso común y de libre tránsito, incluyendo las plazas, los mercados y los jardines; los inmuebles de acceso general tales como establecimientos comerciales, centros de espectáculos, diversión o recreo, así como los transportes de servicio público; conforme se ha definido en este código.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1674°.
 
 Son faltas contra la Moral y el Civismo y se sancionarán con multa de 3 a 10 Unidad (sic) de Medida y Actualización (UMA) o arresto hasta por treinta y seis horas las siguientes:
 
@@ -13891,7 +17977,9 @@ X. Permitir, inducir u obligar a menores de edad para que cometan faltas al pres
 
 XI. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóxicos o solventes en cualquier modalidad sin perjuicio de lo dispuesto en otras disposiciones jurídicas.
 
-###### ARTÍCULO 1487°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1675°.
 
 Para la determinación de la imposición de una sanción o medida de seguridad que prevenga el presente Código y la legislación aplicable se atenderá a lo siguiente:
 
@@ -13903,187 +17991,169 @@ III. La magnitud del daño ocasionado; y
 
 IV. Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
 
-###### ARTÍCULO 1488°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1488], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1676°.
 
 Se considerarán inimputables los menores de 18 años de edad, los locos, los que padezcan idiotismo, imbecilidad; los que sufran cualquier debilidad, enfermedad o anomalía mentales y los que hayan sido declarados con tal calidad por resolución judicial.
 
-###### ARTÍCULO 1489°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1489], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO VII. De las Verificaciones e Inspecciones
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1430], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1677°.
 
 Los ciegos, sordomudos y personas con graves incapacidades físicas, serán sancionados por las faltas que cometan, siempre que aparezca que su impedimento no ha influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecieron circunstancias que ameriten dicho tratamiento.
 
-###### ARTÍCULO 1490°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1490], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1678°.
 
 Las faltas cometidas por los descendientes contra sus ascendientes o por un cónyuge contra otro, sólo podrá sancionarse a petición expresa del ofendido, a menos que la falta se cometa en vía pública y con escándalo.
 
-###### ARTÍCULO 1491°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1491], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1679°.
 
 En caso de la comisión de una falta no flagrante, que sea denunciada ante el Juez Calificador, éste mandará citar a su presencia a los implicados, y en caso de desobediencia a dicho citatorio podrá hacerlos comparecer por medio de la fuerza pública.
 
-###### ARTÍCULO 1492°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1492], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1680°.
 
 Cuando una persona resulte responsable de dos o más violaciones a las disposiciones del presente Código, se le aplicarán las sanciones que correspondan a cada una.
 
-###### ARTÍCULO 1493°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1493], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1681°.
 
 Cuando la imposición de la sanción o medidas de seguridad implique el pago de una cantidad, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico-coactivo, remitiéndole copia de la resolución a la Secretaría de Finanzas o Tesorería Municipal para hacerla efectiva.
 
-###### ARTÍCULO 1494°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1494], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1682°.
 
 En caso de que la multa impuesta no fuere cubierta por el infractor en el plazo establecido, aquélla se conmutará por arresto hasta treinta y seis horas, de conformidad con las reglas que se establecen en el presente libro.
 
-###### ARTÍCULO 1495°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-Cuando una falta se ejecute con la intervención de dos o más personas, y no constare la forma en que dichas personas actuaron, pero si su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este capítulo; pero el juez calificador, podrá duplicar la sanción pecuniaria si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer en común la falta.
-
-###### ARTÍCULO 1496°.
+###### ARTÍCULO 1683°.
 
 Se notificará personalmente al infractor dentro del término de 24 horas, de las sanciones a que se hizo acreedor. En la misma notificación la autoridad municipal ordenará al inspector o verificador las medidas de seguridad que se han de realizar.
 
-###### ARTÍCULO 1497°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1497], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1684°.
 
 Si la resolución determina procedente la clausura provisional como medida de seguridad, deberá de expresarse en la notificación el tiempo de la clausura, dicha resolución deberá de estar debidamente fundada y motivada.
 
-###### ARTÍCULO 1498°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1498], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1685°.
 
 Cuando el ayuntamiento tenga conocimiento de que una edificación, estructura o instalación presente algún peligro para las personas o los bienes, previo dictamen técnico, requerirá a su propietario, con la urgencia que el caso amerite, que realice las reparaciones, obras o demoliciones necesarias.
 
-###### ARTÍCULO 1499°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1499], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1686°.
 
 Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la continuidad estructural.
 
-###### ARTÍCULO 1500°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1500], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1687°.
 
 Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo con este Código, el propietario de la construcción o el Perito dará aviso de terminación a la Dirección de Planeación y Obras Públicas, la que verificará la correcta ejecución de dichos trabajos, pudiendo en su caso, ordenar su modificación y corrección, y quedando obligados aquellos a realizarla.
 
-## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1501], P.O. 22 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO I. Disposiciones Generales
-
-###### ARTÍCULO 1501°.
+###### ARTÍCULO 1688°.
 
 Si como resultado del dictamen técnico fuera necesario ejecutar alguno de los trabajos mencionados, para los que se requiera efectuar la desocupación parcial o total de una edificación peligrosa para sus ocupantes, la Presidencia Municipal podrá ordenar la desocupación temporal o definitiva.
 
-###### ARTÍCULO 1502°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1502], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1689°.
 
 En caso de peligro inminente conforme al dictamen, la desocupación deberá ejecutarse en forma inmediata, y si es necesario, la Dirección de Planeación y Obras Públicas, solicitará apoyo a la fuerza pública a través de la Dirección de Seguridad Pública y Vialidad Municipal para hacer cumplir la orden. En estos casos no procederá el recurso previsto en el presente Código.
 
-###### ARTÍCULO 1503°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1503], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1690°.
 
 Para la imposición de las sanciones se deberá de enviar una notificación al presunto infractor a efectos de que dentro de los siguientes quince días hábiles, aporte las pruebas en que se funde y exponga lo que a su derecho convenga.
 
-###### ARTÍCULO 1504°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1504], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1691°.
 
 En la cédula de notificación se expresará el lugar, día y hora en que se verificará una audiencia, en la cual se desahogarán las pruebas y se emitirán los alegatos del interesado. Si el interesado no compareciera, sin justificar la causa personalmente o por conducto de un apoderado, se le tendrá por desistido de las pruebas que ofreció y por perdido su derecho a presentar alegatos.
 
-###### ARTÍCULO 1505°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1505], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1692°.
 
 En este procedimiento son admisibles todas las pruebas, a excepción de la confesional con cargo a la autoridad y de aquéllas que atenten contra la moral o el orden público, siendo obligación del oferente relacionarlas con la controversia que haya establecido respecto a la cancelación del permiso o licencia correspondiente.
 
-###### ARTÍCULO 1506°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1506], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1693°.
 
 Para el desahogo de la prueba testimonial, será obligación del oferente presentar personalmente a sus testigos o a los peritos que ofrezca. En lo no previsto en el presente Código, respecto al ofrecimiento y desahogo de las pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-###### ARTÍCULO 1507°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1507], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1694°.
 
 Concluido el desahogo de las pruebas y emitidos (sic) el alegato correspondiente o renunciado el derecho para hacerlo, la autoridad que conozca del trámite resolverá en un término que no exceda de diez días hábiles.
 
-###### ARTÍCULO 1508°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1508], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De los Jueces Civicos de Seguridad Pública y Movilidad
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1448], P.O. 22 DE ABRIL DE 2024)</small>
+
+(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
+
+###### ARTÍCULO 1695°.
 
 Si la resolución determina procedente la cancelación y una vez que haya causado estado se ejecutará de inmediato la misma, previa notificación al interesado.
 
-###### ARTÍCULO 1509°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1509], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1696°.
 
 En caso de que haya existido la clausura como medida de seguridad, adquirirá en la resolución el carácter de definitiva.
 
-###### ARTÍCULO 1510°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1510], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1697°.
 
 Si existiere una condena en cantidad líquida, se enviará copia de la resolución a la Tesorería Municipal, para que proceda hacerla efectiva a través del procedimiento económico coactivo.
 
-###### ARTÍCULO 1511°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1511], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De las Disposiciones Generales
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1465], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1698°.
 
 Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no esté prevista en los artículos subsecuentes se aplicará una sanción de cinco a mil Unidades de Medida y Actualización (UMA) independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
 
-###### ARTÍCULO 1512°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-Las faltas de policía y buen Gobierno contempladas en el capítulo segundo del título tercero del presente libro, se sancionarán con amonestación, multa o arresto hasta por 36 horas.
-
-###### ARTÍCULO 1513°.
-
-Cuando el infractor, demuestre fehacientemente ser jornalero, obrero, trabajador no asalariado, o pensionado, la multa no excederá del monto correspondiente a un día de su salario o ingreso.
-
-###### ARTÍCULO 1514°.
-
-Para fijar el importe de la multa el juez calificador tomará en cuenta, la situación económica del infractor, su peligrosidad, sus antecedentes y la conducta desplegada al momento de ser detenido.
-
-###### ARTÍCULO 1515°.
-
-Cuando el infractor cometa varias faltas, se le acumularán, las sanciones correspondientes a cada una de ellas, pero el arresto directo no podrá exceder de treinta y seis horas, y el arresto como permuta de la multa no pagada no podrá ser mayor de setenta y dos horas.
-
-###### ARTÍCULO 1516°.
-
-Cuando una falta puede ser considerada bajo dos o más aspectos, y cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
-
-###### ARTÍCULO 1517°.
-
-En caso de reincidencia, el Juez Calificador podrá duplicar el máximo de las sanciones pecuniarias que establece este capítulo.
-
-###### ARTÍCULO 1518°.
-
-Se considera reincidente al que haya competido (sic) la misma falta dentro de los tres meses de ejecutada la primera u otra incluida dentro de la misma clasificación de protección de valores que indica este capítulo.
-
-### CAPÍTULO II. De los Criterios de Diseño
-
-###### ARTÍCULO 1519°.
-
-Una vez notificada la multa económica impuesta al infractor, se le requerirá por el pago inmediato de la misma. En caso de no hacerla, se le conmutará por arresto que no excederá de treinta y seis horas. Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
-
-###### ARTÍCULO 1520°.
-
-Por ningún motivo el Juez Calificador podrá liberar al detenido, sin el cumplimiento de la sanción a que se hubiere hecho acreedor. Solamente que medie una disposición expresa del Presidente Municipal se podrá liberar al infractor que se encuentra detenido en los separos de la policía preventiva, sin pagar la multa correspondiente.
-
-###### ARTÍCULO 1521°.
-
-Para los efectos de conmutar la multa impuesta por horas de arresto se estará a lo dispuesto en el siguiente tabulador:
-
-Una Unidad de Medida y Actualización o:
-
-En caso de ingreso de un jornalero o
-
-campesino, obrero o asalariado: Ocho horas de arresto.
-
-Tres Unidades de Medida y Actualización: Diez horas de arresto.
-
-Cinco Unidad (sic) de Medida y Actualización: Doce horas de arresto.
-
-Seis Unidades de Medida y Actualización: Dieciséis horas de arresto.
-
-Siete Unidades de Medida y Actualización: Veinte horas de arresto.
-
-Ocho Unidades de Medida y Actualización: Veinticuatro horas de arresto.
-
-Nueve Unidades de Medida y Actualización: Treinta horas de arresto.
-
-Diez Unidades de Medida y Actualización: Treinta y seis horas de arresto.
-
-### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
-
-###### ARTÍCULO 1522°.
-
-El infractor, al momento que se determine su arresto, por ningún motivo quedará incomunicado, teniendo derecho a comunicarse al exterior vía telefónica.
-
-## TÍTULO CUARTO. DE LA EJECUCIÓN DE OBRAS
-
-### CAPÍTULO I. De las Generalidades
-
-###### ARTÍCULO 1523°.
-
-Una vez cumplida la sanción administrativa impuesta, el infractor obtendrá su libertad, se certificará su estado físico e inmediatamente deberá de entregársele sus pertenencias depositadas.
-
-###### ARTÍCULO 1524°.
-
-El Juez Calificador también podrá imponer como medida de seguridad a los infractores, en el caso de que se encuentre (sic) bajo los efectos de bebidas embriagantes o sustancias que causen efectos similares, clínicamente comprobable, o cuando su conducta sea agresiva, el arresto hasta en tanto cesen dichos efectos o mejore (sic) su comportamiento. El arresto como medida de seguridad tampoco podrá exceder de treinta y seis horas.
-
-###### ARTÍCULO 1525°.
+###### ARTÍCULO 1699°.
 
 En materia de servicios públicos municipales se impondrá:
 
@@ -14105,7 +18175,9 @@ a) Por profanar fosas en los cementerios, independientemente de su consignación
 
 e) (sic) Utilización de agua sin el pago correspondiente en la construcción de barda, casa habitación, edificio, etc., así como tener una toma de agua clandestina.
 
-###### ARTÍCULO 1526°.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1700°.
 
 Procede la Suspensión o Clausura de Obras en Ejecución en los siguientes casos:
 
@@ -14119,15 +18191,19 @@ IV. Cuando se invada la vía pública con una construcción; y
 
 V. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
-###### ARTÍCULO 1527°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1527], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1701°.
 
 En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Libro y las demás disposiciones legales aplicables la Dirección de Planeación y Obras Públicas, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
 
-###### ARTÍCULO 1528°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1528], P.O. 22 DE ABRIL DE 2024)</small>
 
-Si el propietario o poseedor del predio en el que la Dirección de Planeación y Obras Públicas se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Tesorería efectuará su cobro por medio del procedimiento económico coactivo.
+ARTÍCULO 1701° (SIC).- Si el propietario o poseedor del predio en el que la Dirección de Planeación y Obras Públicas se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Tesorería efectuará su cobro por medio del procedimiento económico coactivo.
 
-###### ARTÍCULO 1529°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1529], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1702°.
 
 Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Planeación y Obras Públicas podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
 
@@ -14137,15 +18213,21 @@ II. Cuando la obra se haya ejecutado alterando el proyecto aprobado fuera de los
 
 III. Cuando se use una construcción o parte de ella para un uso diferente del autorizado.
 
-###### ARTÍCULO 1530°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1530], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1703°.
 
 El estado de clausura de las obras podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados en los términos de este Código.
 
-###### ARTÍCULO 1531°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1531], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1704°.
 
 Cuando se compruebe la responsabilidad por haber realizado actos u omisiones que prohíbe el libro quinto del presente código, independientemente de la sanción impuesta por la autoridad, el infractor tiene la obligación de realizar o en su defecto cubrir, el monto de los gastos de las acciones de restauración y/o reparación de daños en los términos de la ley aplicable.
 
-###### ARTÍCULO 1532°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1532], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1705°.
 
 Para la individualización de la sanción pecuniaria en materia de construcciones, las infracciones se clasificarán en grupos, atendiendo al mínimo y máximo establecido, en la siguiente forma:
 
@@ -14153,7 +18235,9 @@ Para la individualización de la sanción pecuniaria en materia de construccione
 
 Estas sanciones no incluyen los gastos y costos que implique la obligación de la persona infractor (sic) para retirar, resarcir, demoler, reponer las construcciones afectadas o realizadas a sus condiciones originales en el plazo que el ayuntamiento señale. Si este plazo fuese excedido, (sic) Dirección de Planeación y Obras Públicas realizará los trabajos con cargo al propietario y/o poseedor infractor.
 
-###### ARTÍCULO 1533°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1533], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1706°.
 
 Para los efectos del artículo anterior, las infracciones se agrupan en:
 
@@ -14199,17 +18283,21 @@ b) Construcción de edificaciones con superficie mayor de 1000.00 m2 construidos
 
 c) Construir sin respetar el proyecto autorizado con la licencia.
 
-###### ARTÍCULO 1534°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1534], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1707°.
 
 Las infracciones especificadas en el artículo anterior serán aplicables indistintamente al propietario de la obra o predio, al constructor o contratista correspondiente o al Perito Responsable de Obra o Perito Especializado, previa investigación de los hechos y deslinde de responsabilidades.
 
-### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1535], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1535°.
+###### ARTÍCULO 1708°.
 
 Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente capítulo, se aplicará una sanción de cinco a ciento (sic) veces el valor de la Unidad de Medida y Actualización vigente en el año en que sea cometida, independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
 
-###### ARTÍCULO 1536°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1536], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1709°.
 
 La Dirección de Planeación y Obras Públicas podrá revocar la licencia de construcción cuando:
 
@@ -14221,7 +18309,9 @@ III. Se hayan emitido por Autoridad incompetente, y acatando disposición judici
 
 IV. La revocación de licencia será pronunciada por la Autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha Autoridad.
 
-###### ARTÍCULO 1537°.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1710°.
 
 En materia de actividades comerciales, industriales y prestación de servicios, se impondrá sanción de multa económica a favor del erario municipal por las siguientes causas:
 
@@ -14265,7 +18355,9 @@ d) Vender cerveza o bebidas alcohólicas en los billares, boliches y otros lugar
 
 e) Giros que cambien de domicilio sin previa autorización de la autoridad municipal.
 
-###### ARTÍCULO 1538°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1538], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1711°.
 
 Procede la clausura total o parcial por:
 
@@ -14283,7 +18375,9 @@ VI. Vender bebidas alcohólicas a menores de edad; y
 
 VII. Cuando se haya cancelado el permiso o licencia.
 
-###### ARTÍCULO 1539°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1539], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1712°.
 
 Procede el arresto hasta por treinta y seis horas en los siguientes casos:
 
@@ -14293,7 +18387,9 @@ II. En los casos de manifiesto desacato a la autoridad, o;
 
 III. Por alteración grave del orden público.
 
-###### ARTÍCULO 1540°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1540], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1713°.
 
 Para efectos del artículo anterior, se consideran faltas graves las siguientes:
 
@@ -14309,7 +18405,13 @@ V. Permitir que dentro de los establecimientos alguna persona altere el orden pu
 
 VI. La reincidencia a las faltas administrativas contraviniendo las disposiciones relativas al presente Código.
 
-###### ARTÍCULO 1541°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1541], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1481], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1714°.
 
 Procede la cancelación del permiso o licencia, cuando:
 
@@ -14339,11 +18441,19 @@ XII. Por razones de interés público debidamente justificadas, a juicio del Ayu
 
 XIII. Por expender bebidas alcohólicas a menores de edad.
 
-###### ARTÍCULO 1542°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1542], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1715°.
 
 Del procedimiento de cancelación de licencias y permisos, conocerá y resolverá el Secretario del H. Ayuntamiento, iniciando el trámite y emplazando al titular de los derechos, en los términos de las reglas que establece el presente Libro, así como las contenidas en la Ley del Procedimiento Administrativo del Estado de Aguascalientes, haciéndole saber la causa o causas que originaron el procedimiento y requiriéndolo para que comparezca mediante escrito a oponerse al trámite se (sic) existiere razón para ello y ofrecer pruebas y exponer lo que a su derecho convenga, en un término de quince días hábiles siguientes al emplazamiento.
 
-###### ARTÍCULO 1543°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1543], P.O. 22 DE ABRIL DE 2024)</small>
+
+#### SECCIÓN PRIMERA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1486], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1716°.
 
 La autoridad administrativa deberá fundar y motivar su resolución, considerando:
 
@@ -14355,11 +18465,19 @@ III. La gravedad de la infracción; y
 
 IV. La reincidencia del infractor.
 
-###### ARTÍCULO 1544°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1544], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1487], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1717°.
 
 Una vez oído al presunto infractor y desahogadas las pruebas ofrecidas y admitidas, se procederá dentro de los diez días siguientes a dictar por escrito la resolución que proceda, la cual se deberá de notificar de manera personal o correo certificado, en términos del presente libro.
 
-###### ARTÍCULO 1545°.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1718°.
 
 En materia de espectáculos públicos se impondrá:
 
@@ -14411,7 +18529,9 @@ b) Por alteración del orden que ponga en peligro la seguridad de los asistentes
 
 c) Por detectar el consumo de bebidas alcohólicas sin autorización, de drogas, apuestas o cualquier otra actividad ilícita.
 
-###### ARTÍCULO 1546°.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1719°.
 
 Se sancionará de uno a diez Unidades de Medida y Actualización, suspensión, y/o cancelación de las actividades del giro, según amerite el caso, cuando:
 
@@ -14427,7 +18547,9 @@ V. El comerciante o tianguista, cambie el giro, altere la superficie o los días
 
 VI. El ejercicio de la actividad comercial representé un peligro a la seguridad, comodidad, salud y buenas costumbres de las personas.
 
-###### ARTÍCULO 1547°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1547], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1720°.
 
 Para proceder a la suspensión de actividades como media de seguridad, el inspector deberá de notificar al comerciante para que suspenda sus actividades y se retire inmediatamente de la vía pública, bajo apercibimiento que, en caso de no hacerlo, se procederá a retirar los bienes y mercancías que constituyen el puesto, ambulante o permanente, o establecimiento, poniéndolo a su disposición en el lugar que designe la Presidencia.
 
@@ -14435,17 +18557,21 @@ La suspensión deberá perdurar hasta que el infractor realice el pago de la o l
 
 El verificador podrá solicitar para tal efecto el uso de la fuerza pública.
 
-### CAPÍTULO III. De los Tapiales
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1548], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1548°.
+###### ARTÍCULO 1721°.
 
 En el evento de que a algún comerciante también se le haya impuesto suspensión de actividades y no pague sus multas en un término de 30 días, se remitirá la infracción a la Dirección de Finanzas y Administración, a efecto de que proceda a hacer efectiva la multa mediante el procedimiento de (sic) económico-coactivo de ejecución, haciéndoles del conocimiento, de que existe mercancía no perecedera del deudor en el lugar que determinó la Presidencia a efecto de que, en caso necesario, sea la garantía para cubrir el crédito fiscal.
 
-###### ARTÍCULO 1549°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1549], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1722°.
 
 A cualquier comerciante que haya dado motivos para su suspensión, y pague sus sanciones impuestas, se le amonestará para que, en caso de reincidencia, se proceda a la cancelación del permiso.
 
-###### ARTÍCULO 1550°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1550], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1723°.
 
 Se procederá a la cancelación del permiso:
 
@@ -14465,25 +18591,37 @@ VII. Cuando, el titular de los derechos de un permiso, los traspase, ceda, venda
 
 VIII. Cuando se compruebe que un comerciante administre un permiso en beneficio propio, siendo el titular otra persona, salvo que se trate de parientes en línea directa y en primer grado o por afinidad en los mismos términos.
 
-###### ARTÍCULO 1551°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1551], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1724°.
 
 La cancelación del permiso trae aparejada la clausura del puesto o establecimiento.
 
-### CAPÍTULO IV. De las Demoliciones
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1552], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1552°.
+### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1496], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1725°.
 
 Cuando se encuentre algún bien mueble o la estructura del puesto o establecimiento propiedad de algún comerciante, abandonado en la vía pública, el verificador procederá a su clausura, y notificación al propietario en los términos del presente Código, y como medida de seguridad, podrá retirarlo de la vía pública, remitiéndolo para su resguardo, a disposición del propietario, en la bodega de la Presidencia.
 
-###### ARTÍCULO 1553°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1553], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1726°.
 
 Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad.
 
-###### ARTÍCULO 1554°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1727°.
 
 Los particulares que no estén conformes con la resolución de un acto administrativo municipal o con la imposición de una o más infracciones, podrán solicitar la reconsideración ante la autoridad emisora o en su caso interponer el recurso de revisión previsto en la Ley del Procedimiento Administrativo.
 
-###### ARTÍCULO 1555°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1555], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1728°.
 
 Para la reconsideración en materia de sanciones se seguirán los siguientes pasos:
 
@@ -14495,21 +18633,27 @@ III. En la resolución el Juez Calificador o la autoridad emisora resolverá fun
 
 IV. Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado así deberá de acreditarlo, a efecto de que sea procedente la reconsideración de la multa impuesta.
 
-###### ARTÍCULO 1556°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1556], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1729°.
 
 Los afectados por los actos y resoluciones de las autoridades municipales que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión o intentar las vías judiciales correspondientes.
 
-###### ARTÍCULO 1557°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1557], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1730°.
 
 La oposición a los actos de trámite en un procedimiento administrativo, independientemente de alegarse durante los interesados durante dicho procedimiento, para su consideración en la resolución que ponga fin al mismo, se hará valer en todo caso al impugnar la resolución definitiva.
 
-### CAPÍTULO V. De las Mediciones y Trazos
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1558], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1558°.
+###### ARTÍCULO 1731°.
 
 El plazo para interponer el recurso de revisión será de quince días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra, o si no existió notificación contados a partir de que se tuvo conocimiento del acto reclamado.
 
-###### ARTÍCULO 1559°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1559], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1732°.
 
 El recurso debe ser interpuesto por escrito ante la autoridad que emitió el acto impugnado, debiendo expresar:
 
@@ -14523,7 +18667,9 @@ IV. Los agravios que se le causan; y
 
 V. Las pruebas que se ofrecen y los hechos controvertidos de que se trate.
 
-###### ARTÍCULO 1560°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1560], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1733°.
 
 El recurrente deberá acompañar a su escrito:
 
@@ -14535,7 +18681,9 @@ III. Las pruebas que ofrezca, que tengan relación inmediata y directa con la re
 
 Cuando no se acompañe alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente dentro del término de cinco días, sí no cumple en el término y se trata de la documentación señaladas (sic) en las fracciones I y II, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a las (sic) fracción III, se tendrán por no ofrecidas las mismas.
 
-###### ARTÍCULO 1561°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1561], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1734°.
 
 La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:
 
@@ -14551,13 +18699,15 @@ V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualquie
 
 La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
-###### ARTÍCULO 1562°.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1735°.
 
 El superior jerárquico de la autoridad que emitió el acto o resolución impugnada será el encargado de resolver el recurso y tratándose de actos del Presidente Municipal o del Cabildo, corresponderá al propio Cabildo su resolución.
 
-### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1563], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1563°.
+###### ARTÍCULO 1736°.
 
 La autoridad que resuelva el recurso podrá:
 
@@ -14571,7 +18721,9 @@ IV. Declarar la anulabilidad del acto impugnado, revocándolo para efectos de qu
 
 V. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
-###### ARTÍCULO 1564°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1564], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1737°.
 
 Será improcedente el recurso:
 
@@ -14587,7 +18739,9 @@ V. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal
 
 VI. Cuando se presente fuera del plazo señalado para su interposición.
 
-###### ARTÍCULO 1565°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1565], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1738°.
 
 Procederá el sobreseimiento del recurso cuando:
 
@@ -14603,13 +18757,15 @@ V. Por falta de objeto o materia del acto respectivo; y
 
 VI. No se probare la existencia del acto respectivo.
 
-###### ARTÍCULO 1566°.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1566], P.O. 22 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 1739°.
 
 La resolución del recurso se realizará de conformidad con lo establecido por los artículos 90 a 96 de la Ley del Procedimiento Administrativo, debiendo siempre fundarse en derecho y examinar todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
-### CAPÍTULO III. De la Impugnación de las Notificaciones
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1567°.
+###### ARTÍCULO 1740°.
 
 El afectado podrá impugnar las notificaciones de los actos administrativos recurribles que no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta ley, conforme a las siguientes reglas:
 
@@ -14625,81 +18781,45 @@ V. Si se resuelve que no hubo notificación o que ésta no fue efectuada conform
 
 VI. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se hubiere interpuesto extemporáneamente, desechará dicho recurso.
 
-### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
-
-### CAPÍTULO VIII. De la Mampostería y el Concreto
-
-### CAPÍTULO IX. De las Estructuras Metálicas
-
-### CAPÍTULO X. De las Instalaciones
-
-### CAPÍTULO XI. De las Fachadas y Recubrimientos
-
-## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
-
-### CAPÍTULO I. Del uso de Predios y Edificaciones
-
-### CAPÍTULO II. Del Mantenimiento
-
-# LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
-
-## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
-
-### CAPÍTULO I. De los Principios Generales
-
-### CAPÍTULO II. Del Procedimiento Administrativo
-
-### CAPÍTULO III. Extinción del Acto Administrativo
-
-### CAPÍTULO IV. De la Terminación del Procedimiento Administrativo
-
-### CAPÍTULO V. De los Términos
-
-### CAPÍTULO VI. De las Notificaciones
-
-### CAPÍTULO VII. De las Verificaciones e Inspecciones
-
-## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
-
-### CAPÍTULO I. De los Jueces Calificadores de Seguridad Pública y Movilidad
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
-
-### CAPÍTULO II. De los Receptores de Presuntos Infractores y Pertenencias
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
-### CAPÍTULO I. De las Disposiciones Generales
-
-#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad
-
-### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
-
-### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
-
 ## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES
 
-### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO I. De las Sanciones en Materia de Faltas de Policía y Buen Gobierno
+### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
 
-### CAPÍTULO II. De las Sanciones en Materia de Servicios Públicos
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1525], P.O. 22 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO III. De las Sanciones en Materia de Construcción
+### CAPÍTULO II. De las Sanciones en Materia de Construcción
 
-### CAPÍTULO IV. De las Sanciones en Materia de Actividades de los Particulares en el Comercio
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1526], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. De las Sanciones en Materia de Actividades de los Particulares en el Comercio
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1537], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO IV. De las Sanciones en Materia de Espectáculos Públicos
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1545], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO V. De las Sanciones en Materia de Comercio en la Vía Pública
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1546], P.O. 22 DE ABRIL DE 2024)</small>
 
 ## TÍTULO QUINTO. DEL RECURSO DE REVISIÓN
 
-### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
-
-### CAPÍTULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO I. De la Interposición del Recurso
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1554], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO II. De la Resolución del Recurso
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1562], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO III. De la Impugnación de las Notificaciones
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1567], P.O. 22 DE ABRIL DE 2024)</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -14797,8 +18917,6 @@ En Asientos, Aguascalientes, a 02 de agosto de 2021.”
 
 P.O. 14 DE FEBRERO DE 2022.
 
-### CAPÍTULO II. De la Resolución del Recurso
-
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 224 DEL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
 
 Primero.- Se instruye a la Secretario (sic) del H. Ayuntamiento y Directora General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal para Asientos, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional de Asientos, la presente reforma.
@@ -14832,3 +18950,11 @@ P.O. 29 DE ENERO DE 2024.
 Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Segundo.- Se tendrá un plazo de 30 días para rectificar los nombramientos a que da origen el presente decreto.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS, AGUASCALIENTES”.]
+
+PRIMERO.- Las reformas al presente Código Municipal, entrará (sic) en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código Municipal.
