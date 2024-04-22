@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-04-04"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -841,27 +839,37 @@ Para los efectos de esta ley se considera:
 
 I.- Panteón: El lugar destinado para recibir y depositar cadáveres, restos humanos y restos humanos áridos o cremados;
 
-II.- Crematorio: El lugar destinado a la incineración de cadáveres, restos humanos y restos humanos áridos; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+II.- Crematorio: El lugar destinado a la incineración de cadáveres, restos humanos y restos humanos áridos;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+II Bis.- Crematorio de animales: El lugar destinado a la incineración de restos animales; y
 
 III.- Funeraria: El establecimiento dedicado a la venta de ataúdes, féretros y/o urnas; a la prestación de los servicios de traslado, preparación, velación inhumación, exhumación de cadáveres, restos humanos y restos humanos áridos, así como realizar los trámites respectivos ante las Dependencias Oficiales correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
 ###### Artículo 37.
 
-Para establecer un nuevo panteón, crematorio o funeraria, se deberán cumplir con los lineamientos técnicos que para tal efecto emita la Secretaría de Salud y obtener la Autorización Municipal, dando aviso a la Autoridad Sanitaria con un mínimo de treinta días de anticipación.
+Para establecer un nuevo panteón, crematorio, crematorio de animales o funeraria, se deberán cumplir con los lineamientos técnicos que para tal efecto emita la Secretaría de Salud y obtener la Autorización Municipal, dando aviso a la Autoridad Sanitaria con un mínimo de treinta días de anticipación.
 
 ###### Artículo 38.
 
 Los panteones contarán con zonas verdes y áreas destinadas a reforestación.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+
 ###### Artículo 39.
 
-El funcionamiento de los panteones, crematorios y funerarias, se ajustará a lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+El funcionamiento de los panteones, crematorios, crematorios de animales y funerarias, se ajustará a lo dispuesto por esta Ley y demás disposiciones legales aplicables. El control sanitario de la materia de este Capítulo, corresponde a la Autoridad Sanitaria.
 
-El control sanitario de la materia de este Capítulo, corresponde a la Autoridad Sanitaria.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### Artículo 40.
 
-La Autoridad Sanitaria podrá ordenar la ejecución de las obras o trabajos que estime necesarias para que los panteones, crematorios y funerarias cumplan con las condiciones de higiene y seguridad requeridas, así como determinar las medidas de seguridad que considere procedentes. Las obras que por este concepto requieran los panteones particulares serán a cargo de sus propietarios.
+La Autoridad Sanitaria podrá ordenar la ejecución de las obras o trabajos que estime necesarias para que los panteones, crematorios, crematorios de animales y funerarias cumplan con las condiciones de higiene y seguridad requeridas, así como determinar las medidas de seguridad que considere procedentes. Las obras que por este concepto requieran los panteones particulares serán a cargo de sus propietarios.
 
 ###### Artículo 41.
 
@@ -2684,5 +2692,11 @@ P.O. 4 DE ABRIL DE 2024.
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 829 POR EL QUE SE REFORMAN EL PRIMER Y EL SEGUNDO PÁRRAFOS DEL ARTÍCULO 12 BIS DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
