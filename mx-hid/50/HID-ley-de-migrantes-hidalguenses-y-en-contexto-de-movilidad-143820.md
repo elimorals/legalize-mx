@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2022-07-15"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -405,9 +405,17 @@ IX.- Garantizar el acceso a la educación y salud de migrantes hidalguenses y su
 
 X.- Desarrollar mecanismos de comunicación gratuitos que faciliten la gestión de los trámites, servicios e información relativos al apoyo y protección de migrantes hidalguenses y sus familias;
 
-XI.- Promover el acceso a los programas de desarrollo humano, social y económico, así como servicios para los migrantes hidalguenses; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
 
-XII.- Incluir en el Plan Estatal de Desarrollo y promover que, en los planes municipales de desarrollo, se considere a migrantes hidalguenses y sus familiares como agentes de cambio para el desarrollo de sus comunidades de origen.
+XI.- Promover el acceso a los programas de desarrollo humano, social y económico, así como servicios para los migrantes hidalguenses;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+XII.- Incluir en el Plan Estatal de Desarrollo y promover que, en los planes municipales de desarrollo, se considere a migrantes hidalguenses y sus familiares como agentes de cambio para el desarrollo de sus comunidades de origen; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+XIII.- En el caso de la migración en contexto de movilidad, establecer los mecanismos para la prevención de la violencia en contra de las personas migrantes.
 
 ###### Artículo 7.
 
@@ -756,5 +764,11 @@ P.O. 31 DE MAYO DE 2022.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 222 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, Y DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 843 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
