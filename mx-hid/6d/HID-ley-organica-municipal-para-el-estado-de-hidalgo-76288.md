@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-04-16"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2741,6 +2741,10 @@ IV.- Promocionar la participación ciudadana para lograr mejores niveles de salu
 
 V.- Generar mejores condiciones de higiene y salud para los habitantes del Municipio.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
+
+La persona titular de Sanidad Municipal, además de los requisitos establecidos en el artículo 114, deberá contar con título profesional en disciplina correspondientes (sic) al área de ciencias de la salud, así como tener experiencia en el ámbito clínico o en algún cargo de la administración pública relacionado con la materia; la cual habrá de ser mínima de un año al momento de su designación.
+
 ###### ARTÍCULO 121.
 
 El Titular de Reglamentos y Espectáculos, tendrá como funciones:
@@ -4604,5 +4608,11 @@ P.O. 4 DE ABRIL DE 2024.
 P.O. 16 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 833 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS INCISOS DE LA FRACCIÓN III DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 845 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 120 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
