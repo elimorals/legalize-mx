@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2023-05-02"
+last_updated: "2024-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -211,31 +211,47 @@ VIII. Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### Artículo 11.
 
-La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud física o mental, jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, preferencia sexual, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
+La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud física, de salud mental, jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, preferencia sexual, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física, color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2024)</small>
 
 ###### Artículo 11 Bis.
 
-Con base en lo establecido en el artículo primero constitucional y el artículo 11 de esta Ley se consideran como discriminación, entre otras las siguientes conductas:
+Con base en lo establecido en el artículo primero constitucional, en los tratados internacionales vinculantes, y en el artículo 11 de esta Ley, se consideran como discriminación, entre otras las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 IV. Establecer o convenir diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 V. Limitar o negar el acceso y permanencia a los programas de capacitación y de formación profesional;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 VI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 VII. Negar, limitar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 VIII. Impedir o restringir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
 
@@ -243,23 +259,43 @@ VIII. Impedir o restringir la participación en condiciones equitativas en asoci
 
 VIII Bis. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 IX. Impedir o limitar el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 X. Impedir, negar o limitar el acceso a la procuración e impartición de justicia;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XI. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XII. Aplicar o permitir usos o costumbres que atenten contra la igualdad, dignidad e integridad humana;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XIII. Impedir la libre elección de cónyuge, concubina, concubinario o pareja;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XIV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XV. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XVI. Negar asistencia religiosa, atención médica o psicológica a personas privadas de la libertad, que presten servicio en las fuerzas armadas o que estén internadas en instituciones de salud o asistencia;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XVII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes nacionales e instrumentos jurídicos internacionales aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XVIII. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas, los niños y los adolescentes, con base al interés superior de la niñez;
 
@@ -267,11 +303,19 @@ XVIII. Obstaculizar las condiciones mínimas necesarias para el crecimiento y de
 
 XVIII Bis.- Prohibir, limitar o restringir el acto de amamantar en espacios públicos;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XIX. Negar o impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XX. Limitar, obstaculizar o impedir el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XXI. Negar, obstaculizar o impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XXII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
 
@@ -279,21 +323,39 @@ XXII. La falta de accesibilidad en el entorno físico, el transporte, la informa
 
 XXII BIS. Negar o impedir el acceso a personas con discapacidad o usuarias de perros guía o animal de servicio, en todos los espacios en donde se desenvuelvan.
 
-XXIII. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
 
-XXIV. Explotar o dar un trato abusivo o degradante;
+XXXIII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores, o por motivo de condiciones de salud física o de salud mental;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+
+XXXIV. Difundir sin consentimiento de la persona agraviada información sobre su condición y/o antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XXV. Restringir obstaculizar o impedir la participación en actividades deportivas, recreativas o culturales;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XXVI. Restringir, obstaculizar o impedir o limitar el uso de lenguas, idiomas, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XXVII. Impedir, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos colectivos de los pueblos indígenas y originarios y de sus integrantes, el uso de sus idiomas, la práctica de sus sistemas normativos, la reproducción de su cultura y de su vida comunitaria;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XXVIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XXIX. Incitar a la exclusión, persecución, odio, violencia, rechazo, burla, difamación, ofensa o injuria en contra de cualquier persona, grupo o comunidad;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XXX. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género o por cualquier otro motivo de discriminación;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XXXI. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
 
@@ -315,11 +377,19 @@ XXXV.- Condicionar, prohibir, limitar o restringir las oportunidades de empleo, 
 
 XXXVI. Estigmatizar y negar derechos a personas con VIH/SIDA o cualquier condición o antecedentes de salud física o mental;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XXXVII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XXXVIII. Criminalizar a cualquier persona, grupo o comunidad;
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 XXXIX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de estos, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XL. En general cualquier otro acto u omisión discriminatorio en términos del artículo 11 de esta Ley.
 
@@ -1356,5 +1426,11 @@ P.O. 13 DE ABRIL DE 2023.
 P.O. 2 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 505 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 11 BIS DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 839 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
