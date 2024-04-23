@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2024-01-24"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -3024,13 +3024,15 @@ XXXIV. Tramitar y, en su caso, resolver el recurso de inconformidad a que se ref
 
 XXXV. Declarar la prescripción de la obligación patronal de enterar las cuotas obrero patronales y los capitales constitutivos, cuando lo soliciten los patrones y demás sujetos obligados, en los términos del Código;
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2024)</small>
 
-XXXVI. Prestar servicios a quienes no sean sus derechohabientes, a título oneroso, a efecto de utilizar de manera eficiente su capacidad instalada y coadyuvar al financiamiento de su operación y mantenimiento, siempre que ello no represente menoscabo en la calidad y calidez del servicio que debe prestar a sus derechohabientes, y
+XXXVI. Prestar servicios a quienes no sean sus derechohabientes, a título oneroso, a efecto de utilizar de manera eficiente su capacidad instalada y coadyuvar al financiamiento de su operación y mantenimiento, siempre que ello no represente menoscabo en la calidad y calidez del servicio que debe prestar a sus derechohabientes;
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2024)</small>
 
-XXXVII. Las demás que le otorguen esta Ley, sus reglamentos y cualesquiera otra disposición aplicable.
+XXXVII. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en la prestación de los servicios y el otorgamiento de seguros y prestaciones a su cargo, en beneficio de su población derechohabiente y beneficiaria, y
+
+XXXVIII. Las demás que le otorguen esta Ley, sus reglamentos y cualesquiera otra disposición aplicable.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4875,3 +4877,11 @@ D.O.F. 24 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE DERECHOS LABORALES DE LAS PERSONAS TRABAJADORAS DEL CAMPO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 251 DE LA LEY DEL SEGURO SOCIAL Y 208 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar a los institutos de seguridad social referidos, se sujetarán a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
