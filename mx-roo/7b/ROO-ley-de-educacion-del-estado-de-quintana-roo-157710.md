@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2023-12-21"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -409,7 +409,9 @@ III. Modalidades, la escolarizada, no escolarizada y mixta, y
 
 IV. Opciones educativas, las que se determinen para cada nivel educativo en los términos de la Ley General, esta Ley y las disposiciones que de ellas deriven, entre las que se encuentran la educación abierta y a distancia.
 
-Además de lo anterior, se consideran parte del Sistema Educativo Estatal la formación para el trabajo, la educación para personas adultas, la educación física, la educación artística y la educación tecnológica.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
+Además de lo anterior, se consideran parte del Sistema Educativo Estatal la formación para el trabajo, la educación para las personas adultas, la educación física, la educación artística, el aprendizaje de las lenguas indígenas, en especial la lengua maya, y la educación tecnológica.
 
 La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en la Ley General y en esta Ley.
 
@@ -689,6 +691,10 @@ X. La apreciación y creación artística, a través de conocimientos conceptual
 
 XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la legalidad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
 
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+XII. Los conocimientos que permitan la lectura, la expresión oral y escrita de las lenguas indígenas, en especial de la lengua maya, que garanticen la interculturalidad, el multilingüismo, el respeto a la diversidad cultural y los derechos lingüísticos.
+
 Acompañamiento de los Educandos en su Trayectoria Formativa
 
 ###### Artículo 48.
@@ -717,9 +723,11 @@ De igual forma, los libros de texto que se utilicen para cumplir con los planes 
 
 Elaboración de los Planes y Programas de Estudio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### Artículo 51.
 
-De conformidad a las disposiciones que se emitan, la Secretaría dará su opinión para que se considere en los planes y programas de estudio el contenido de los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado de Quintana Roo, sin perjuicio de la opinión que emitan otros actores sociales.
+De conformidad a las disposiciones que se emitan, la Secretaría dará su opinión para que se considere en los planes y programas de estudio el contenido de los proyectos y programas educativos que contemplen las realidades y contextos regionales y locales del Estado de Quintana Roo, proponiendo las medidas necesarias para que en el sistema educativo estatal se asegure el respeto a la dignidad e identidad de las personas, así como a la práctica y uso de lengua indígena, en especial la lengua maya, sin perjuicio de la opinión que emitan los otros actores sociales.
 
 En el mismo sentido, las autoridades educativas estatales y municipales, podrán solicitar a la autoridad educativa federal, actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje.
 
@@ -757,7 +765,9 @@ III. El aprendizaje de la historia, la geografía, el civismo y la filosofía;
 
 IV. El fomento de la investigación, la ciencia, la tecnología y la innovación, así como su comprensión, aplicación y uso responsable;
 
-V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro Estado y del País, la importancia de la pluralidad lingüística de Quintana Roo y la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro Estado y del País, especialmente de la lengua maya, así como la importancia de la pluralidad lingüística de Quintana Roo y la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
 
 VI. El aprendizaje de las lenguas extranjeras;
 
@@ -2456,3 +2466,13 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 113 POR EL QUE SE REFORMAN: EL PÁRRAFO SEGUNDO DE LA FRACCIÓN IV DEL ARTÍCULO 21, EL PÁRRAFO PRIMERO DEL ARTÍCULO 51 Y LA FRACCIÓN V DEL ARTÍCULO 54; Y SE ADICIONA: LA FRACCIÓN XII AL ARTÍCULO 47, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La implementación de lo dispuesto será de carácter progresivo, atendiendo a la capacidad presupuestaria del ejecutor del gasto.
