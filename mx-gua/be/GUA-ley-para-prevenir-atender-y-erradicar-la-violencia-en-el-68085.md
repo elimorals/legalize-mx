@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2022-03-07"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "GUA"
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -1521,9 +1523,11 @@ Artículo Cuarto. El Instituto para el Desarrollo y Atención a las Juventudes d
 
 La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales necesarias para dotar al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato de los recursos financieros necesarios para realizar sus funciones.
 
+> <small>(F. DE E., P.O. 23 DE ABRIL DE 2024)</small>
+
 Extinción del Injug
 
-Artículo Quinto. Se extingue el Instituto para la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
+Artículo Quinto. Se extingue el Instituto de la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
 
 Los asuntos jurídicos, administrativos y de cualquier otra índole en trámite a la entrada en vigor del presente Decreto, así como los archivos, se pasarán, a través de la entrega-recepción, al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, para que éste prosiga con su atención.
 
