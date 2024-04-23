@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-04-19"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -311,9 +311,9 @@ VIII.- Cuando menos el 50% de los habitantes, deberán estar alfabetizados.
 
 IX.- A solicitud del Comité Gestor, las dependencias de gobierno, de acuerdo a sus funciones y atribuciones, extenderán la correspondiente constancia de que la nueva cabecera municipal, tiene en funcionamiento los servicios públicos, como son: agua entubada, drenaje, alcantarillado, escuelas, hospital, mercado, rastro, alumbrado público, panteón y cárcel; mismos que podrán ser verificados a juicio del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
-Derivado de lo anterior, cuando el Poder Legislativo resuelva de manera favorable la creación de un nuevo Municipio, deberá ser votado ante el Pleno por lo menos con las dos terceras partes de sus miembros, asimismo en caso de ser aprobado se designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos, desempeñado cargos de elección popular, ni sean miembros del comité gestor vigente. Ese Ayuntamiento será designado por un periodo no menor de un año, ni mayor de tres años, y deberá ser sustituido por aquél que sea elegido en los siguientes comicios ordinarios, inmediatos a la fecha de creación del nuevo Municipio.
+Derivado de lo anterior, cuando el Poder Legislativo resuelva de manera favorable la creación de un nuevo Municipio, deberá ser votado ante el Pleno por lo menos con las dos terceras partes de sus miembros, asimismo en caso de ser aprobado se designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos, desempeñado cargos de elección popular, ni sean miembros del comité gestor vigente. Ese Ayuntamiento será integrado de manera paritaria y designado por un periodo no menor de un año, ni mayor de tres años, y deberá ser sustituido por aquél que sea elegido en los siguientes comicios ordinarios, inmediatos a la fecha de creación del nuevo Municipio.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -407,15 +407,17 @@ La vecindad se pierde por dejar de residir en el Municipio durante 6 meses.
 
 La vecindad de un Municipio no se pierde cuando el vecino se traslade a residir a otro lugar en virtud de comisión de servicio público de la Federación o del Estado, o bien con motivo de estudios, comisiones científicas, artísticas o por razones de salud, siempre que no sean permanentes.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 24.
 
-Son derechos de los vecinos:
+Son derechos de las personas vecinas:
 
-I. Votar y ser votados para los cargos municipales de elección popular siempre que cumplan con los requisitos que establecen éstas y otras leyes de la materia;
+I. Votar y ser votadas en condiciones de paridad para todos los cargos municipales de elección popular siempre que cumplan con los requisitos que establecen éstas y otras leyes de la materia;
 
-II. Tener preferencia, en igualdad de circunstancias, para el desempeño de empleos, cargos o comisiones y para el otorgamiento de contratos y concesiones municipales, y
+II. Tener preferencia, en observancia al principio de paridad y en igualdad de circunstancias, para el desempeño de empleos, cargos o comisiones y para el otorgamiento de contratos y concesiones municipales, y
 
-III. Reunirse para tratar y discutir los asuntos comunitarios y para participar en las sesiones públicas y asambleas de Cabildo.
+III. Reunirse, observando el principio de paridad, para tratar y discutir los asuntos comunitarios y para participar en las sesiones públicas y asambleas de Cabildo.
 
 ###### ARTICULO 25.
 
@@ -445,41 +447,47 @@ VII. Desempeñar las funciones electorales y censales.
 
 Los Ayuntamientos son los órganos de Gobierno Municipal a través de los cuales se realiza el gobierno y la administración del Municipio dentro de los límites del mismo y conforme a las competencias legales.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 27.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y durará en su encargo tres años.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, de integración paritaria y durará en su encargo tres años.
 
 ###### ARTICULO 28.
 
 El Ayuntamiento radicará en la Cabecera del Municipio respectivo. Sólo con la aprobación del Congreso del Estado y con causa justificada, podrá trasladarse a otro lugar dentro de los límites territoriales del Municipio.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 29.
 
-Los Ayuntamientos a propuesta de los Presidentes Municipales, nombrarán a los siguientes servidores públicos, sin perjuicio de la denominación o rango jerárquico que los propios Ayuntamientos establezcan:
+Los Ayuntamientos a propuesta de la Presidencia Municipal y observando el principio de paridad, nombrarán a las personas servidoras públicas, sin perjuicio de la denominación o rango jerárquico que los propios Ayuntamientos establezcan, en la titularidad de las siguientes áreas:
 
-I. Secretario General;
+I. Secretaría General;
 
-II. Oficial Mayor o Jefe de la Administración;
+II. Oficialía Mayor o Administración;
 
-III. Tesorero;
+III. Tesorería;
 
-IV. Jefe de Seguridad Pública; quien deberá reunir los requisitos previstos en la Ley de Seguridad Pública del Estado de Guerrero, además de ser previamente evaluado, capacitado y certificado por las instancias estatales competentes.
+IV. Seguridad Pública; quien deberá reunir los requisitos previstos en la Ley de Seguridad Pública del Estado de Guerrero, además de ser previamente evaluada/o, capacitada/o y certificada/o por las instancias estatales competentes.
 
-V. Jefe de Obras Públicas;
+V. Obras Públicas;
 
-VI. Jefe de la Unidad de Atención a la Juventud;
+VI. Unidad de Atención a la Juventud;
 
-VII. Director (a) de Fomento al Empleo;
+VII. Dirección de Fomento al Empleo;
 
-VIII. Director (a) Municipal de la Mujer;
+VIII. Dirección de la Mujer;
 
-IX. Titular de la Unidad de Protección Civil, quien deberá contar con la certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional, de conformidad con la Ley General de Protección Civil, y
+IX. Unidad de Protección Civil, quien deberá contar con la certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional, de conformidad con la Ley General de Protección Civil; y,
 
-X. Demás servidores de nivel equivalente.
+X. Demás áreas de nivel equivalente.
 
-Los servidores públicos a que se refiere este artículo no podrán ser parientes de ningún edil hasta el cuarto grado por afinidad o consanguinidad.
+Las personas servidoras públicas a que se refiere este artículo no podrán ser parientes de ningún Edil hasta el cuarto grado por afinidad o consanguinidad.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2024)</small>
+
+En las propuestas de personas que se presenten para ocupar cualquier cargo en la administración municipal, se deberá observar el principio de paridad en su designación.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -587,11 +595,13 @@ El Ayuntamiento saliente hará entrega en la segunda quincena de septiembre de l
 
 Los Presidentes Municipales y los miembros de los Ayuntamientos salientes y entrantes participarán en los procesos de entrega recepción.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 41.
 
-En cada Ayuntamiento durante los primeros doce días del mes de septiembre, se creará un Comité de Entrega recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría Superior del Estado y de las Secretarías de la Contraloría y Transparencia Gubernamental; de Finanzas y Administración y de Desarrollo y Bienestar Social, mismos que previa auditoría sancionarán dicho acto.
+En cada Ayuntamiento durante los primeros doce días del mes de septiembre, se creará un Comité de Entrega recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría Superior del Estado y de las Secretarías de la Contraloría y Transparencia Gubernamental; de Finanzas y Administración y de Bienestar, mismos que previa auditoría sancionarán dicho acto.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE JUNIO DE 2022)</small>
 
 Las administraciones municipales salientes, además de lo establecido en la Ley de Entrega Recepción del Estado de Guerrero, deberán entregar a las administraciones entrantes la documentación que acredite estar al corriente, respecto de lo que corresponda al periodo de su administración, con:
 
@@ -601,7 +611,11 @@ II. El pago a la Federación de las cantidades retenidas por concepto del Impues
 
 III. El pago de indemnizaciones por concepto de terminación de relación laboral al personal contratado por la administración municipal saliente.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
+
 La omisión en el cumplimiento de las obligaciones citadas será considerado como responsabilidad grave, por lo que el servidor público saliente no quedará relevado de las mismas, debiéndosele aplicar, los procedimientos correspondientes a los regímenes anticorrupción y de responsabilidades administrativas, teniendo que responder a las sanciones que de ellas deriven, conforme lo dispuesto en las Leyes en materia de: Anticorrupción, Fiscalización, Presupuesto, Disciplina Financiera y Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
 
 De lo anterior, queda exceptuada la deuda contratada en términos de lo establecido en el artículo 62 fracción VII de la presente Ley.
 
@@ -683,21 +697,33 @@ Los Comisarios Municipales, los suplentes y los Auxiliares que señala esta Ley 
 
 ### CAPITULO IV. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 46.
 
-Los Municipios serán Gobernados y administrados por sus respectivos ayuntamientos electos popularmente, integrados por un Presidente Municipal, uno o dos Síndicos Procuradores y por Regidores de Representación Proporcional, a partir de las siguientes bases:
+Los Municipios serán Gobernados y administrados por sus respectivos ayuntamientos electos popularmente, integrados por una Presidencia Municipal, una o dos Sindicaturas Procuradoras y por Regidurías de Representación Proporcional, en cuya integración deberá observarse el principio de paridad de género, a partir de las siguientes bases:
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
 I.- En los Municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 20 Regidores de Representación Proporcional.
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
 II.- En los Municipios con población de 115 mil a 299,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 12 Regidores de Representación Proporcional.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
 III.- En los Municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 10 Regidores de Representación Proporcional.
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
 IV.- En los Municipios con habitantes de entre 25 mil y 74,999, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 8 Regidores de Representación Proporcional.
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
 V.- En los Municipios con una población menor de 25 mil habitantes, los ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 6 Regidores de Representación Proporcional.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 Ningún partido político o coalición podrá tener más del 50% de regidurías.
 
@@ -773,25 +799,41 @@ El Gobernador del Estado podrá asistir a Sesiones de los Ayuntamientos y tomar 
 
 A las sesiones de los Ayuntamientos deberán comparecer los servidores de la administración municipal, sólo con voz informativa, cuando se traten asuntos de su competencia o fueren requeridos para ello para rendir informes o aportar datos.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 59.
 
-La vigilancia de la administración municipal se distribuirá entre los regidores, conforme a los siguientes ramos:
+La vigilancia de la administración municipal se distribuirá, observando el principio de paridad, entre las Regidurías, conforme a los siguientes ramos:
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 I. De Desarrollo Urbano y Obras Públicas;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 II. De Educación y Juventud;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 III. De Comercio y Abasto Popular;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 IV. De Salud Pública y Asistencia Social;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 V. De Desarrollo Rural;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 VI. De Equidad y Género;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 VII. De Atención y Participación Social de Migrantes;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 VIII. De Medio Ambiente y Recursos Naturales;
 
@@ -799,11 +841,25 @@ VIII. De Medio Ambiente y Recursos Naturales;
 
 IX. De los Asuntos Indígenas y Afromexicanos;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 X. De Fomento al Empleo;
 
-XI. De Cultura, Recreación y Espectáculos, y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XII. De los derechos de las Niñas, Niños y Adolescentes.
+XI. De Cultura, Recreación y Espectáculos;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+XII. De los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+XIII. De Vivienda; y,
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+XIV. De la Diversidad Sexual.
 
 ###### ARTICULO 60.
 
@@ -869,9 +925,9 @@ XXII. Dividir el territorio Municipal para su gobierno interior en comisarías, 
 
 XXII-A.- Establecer Centros Micro-regionales de Servicios Públicos de carácter administrativo y técnico, en aquellas zonas que lo requieran, por razones de dispersión o concentración poblacional, accesibilidad a dichos servicios, facilidades de comunicación y patrones de vida social, determinando su jurisdicción territorial.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XXIII. Designar a los delegados y subdelegados municipales y a los titulares de la Secretaría del Ayuntamiento a propuesta del Presidente Municipal;
+XXIII. Designar, observando el principio de paridad, a quienes asuman la titularidad de las delegaciones y subdelegaciones municipales y a las personas servidoras públicas de la Secretaría General del Ayuntamiento a propuesta de la Presidencia Municipal;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -935,11 +991,11 @@ X. Aceptar donaciones, herencias y legados a los Municipios, siempre que se haga
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 63.
 
-Son facultades y obligaciones de los Ayuntamientos en materia de urbanismo y obras públicas, las siguientes:
+Son facultades y obligaciones de los Ayuntamientos en materia de Urbanismo, y Obras Públicas, las siguientes:
 
 I. Formular, aprobar y administrar los planes de Desarrollo Urbano Municipal;
 
@@ -955,7 +1011,7 @@ VI. Promover la participación de los habitantes en la construcción, conservaci
 
 VII. Proyectar y ejecutar obras de infraestructura para el desarrollo de los centros de población;
 
-VIII. Promover en coordinación con los organismos estatales y federales programas a favor de la construcción de viviendas y de fraccionamientos populares;
+VIII. (DEROGADA, P.O. 23 DE ABRIL DE 2024)
 
 IX. Promover la construcción de caminos vecinales y de mano de obra;
 
@@ -1329,6 +1385,58 @@ VI. Transversalizar el enfoque de los derechos humanos en los planes, programas 
 
 VII. Las demás que les otorgue esta Ley, la Ley número 812 para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado, u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2024)</small>
+
+###### ARTICULO 69 Sexies.
+
+Son facultades y obligaciones del Ayuntamiento en materia de Vivienda:
+
+I. Generar una política pública en materia de Vivienda, en la que se contemple:
+
+a) Los principios de respeto a la legalidad y protección jurídica a la legítima tenencia;
+
+b) Combate a la invasión de Predios; y
+
+c) Regulación al crecimiento irregular de la población;
+
+II. Promover en coordinación con los organismos estatales y federales programas a favor de la construcción de viviendas y de fraccionamientos populares;
+
+III. Generar instrumentos y apoyos a la vivienda considerando distintos tipos y modalidades de producción habitacional;
+
+IV. Coordinar con el Estado la formulación, ejecución y evaluación del Programa Sectorial de Vivienda, así como para el fomento a la investigación tecnológica y social para el desarrollo de nuevos sistemas constructivos de vivienda;
+
+V. Generar un estudio de las diversas necesidades habitacionales: adquisición o habilitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda; sustitución de vivienda; vivienda nueva, orientado a la generación política y acciones de gobierno;
+
+VI. Generar los acuerdos necesarios para que los habitantes del municipio puedan contar con una vivienda digna;
+
+VII. Integrar el Sistema de Información Municipal, que permita conocer la problemática de vivienda en el Municipio y las condiciones socioeconómicas que inciden en ella;
+
+VIII. Celebrar convenios para el cumplimiento de su objeto, que sean indispensables para cumplir con el programa de vivienda, con las dependencias de los Gobiernos Federal, Estatal y otros Municipios, a fin de coordinar programas de construcción, autoconstrucción y mejoramiento y ampliación de vivienda; regularización de la tenencia de la tierra; determinación de reservas territoriales con fines habitacionales y, producción y distribución de materiales de construcción, en el ámbito de sus respectivas competencias;
+
+X (SIC). Coordinar con la Secretaría de Desarrollo Urbano y Obras Públicas Estatal, la dotación de infraestructura, equipamiento y servicios urbanos relacionados con la vivienda;
+
+XI. Fomentar la participación ciudadana y recibir las opiniones de los grupos sociales que integran la comunidad, respecto a la formulación, aprobación, ejecución, vigilancia y evaluación del Programa Municipal de Vivienda; así como, inducir acciones de concertación con los sectores social y privado en materia de vivienda;
+
+XII. Informar y difundir sobre la existencia y aplicación de los Planes y Programas de Vivienda; y
+
+XIII. Las demás que le otorguen las Leyes de la materia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2024)</small>
+
+###### ARTICULO 69 Septies.
+
+Son facultades y obligaciones del Ayuntamiento en materia de Diversidad Sexual:
+
+I. Determinar las políticas hacia las personas de la diversidad sexual;
+
+II. Ejecutar, dar seguimiento y evaluar los programas y acciones que garanticen el principio de no discriminación;
+
+III. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas de la diversidad sexual;
+
+IV. Promover acciones que erradiquen la exclusión y la discriminación por orientación sexual o identidad de género; y,
+
+V. Las demás que le otorguen las Leyes de la materia y demás disposiciones aplicables.
+
 ###### ARTICULO 70.
 
 Queda prohibido a los Ayuntamientos:
@@ -1375,9 +1483,11 @@ El programa trianual deberá aprobarse dentro del primer cuatrimestre del primer
 
 El Presidente Municipal es el representante del Ayuntamiento y Jefe de la Administración Municipal en los términos de ley, así como el encargado de ejecutar sus resoluciones, las que en todo momento serán respetuosas de los derechos humanos contenidos en la legislación. Sus funciones son incompatibles con cualquier otro cargo de la Federación o de los Poderes del Estado excepto las docentes, de beneficencia y de salud, o los honoríficos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 73.
 
-Son facultades y obligaciones del Presidente Municipal las siguientes:
+Son facultades y obligaciones de la Presidencia Municipal las siguientes:
 
 I. Presidir las sesiones y dirigir los debates del Ayuntamiento tomando parte en las deliberaciones con voz y voto y con voto de calidad en caso de empate y facultad de veto suspensivo para efectos de analizar y votar de nueva cuenta el asunto que lo haya motivado;
 
@@ -1397,9 +1507,13 @@ VII. Tener bajo su mando al personal de Seguridad Pública y Tránsito Municipal
 
 VIII. Imponer multas a los infractores de los reglamentos gubernativos y de policía, así como imponer los arrestos administrativos los cuales no excederán de treinta y seis horas;
 
-IX. Proponer al Ayuntamiento los nombramientos del Secretario, Oficial Mayor o Jefe de la Administración, Tesorero, Director de Obras y Servicios Públicos y demás servidores del mismo nivel de la Administración Municipal, así como su remoción, si fuera el caso;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-X. Nombrar y remover a los servidores del Municipio de acuerdo con la Ley;
+IX. Proponer al Ayuntamiento, observando el principio de paridad, los nombramientos de las personas que asuman la titularidad de la Secretaría General, la Oficialía Mayor o la Administración, la Tesorería, la Dirección de Obras, la Dirección de Servicios Públicos y demás personas servidoras públicas del mismo nivel de la Administración Municipal, así como su remoción, si fuera el caso;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+X. Nombrar, observando el principio de paridad, y remover a las personas servidoras públicas del Municipio de acuerdo con la Ley;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -1465,13 +1579,13 @@ XXV. Conducir el trabajo administrativo de los regidores cuando se les asigne al
 
 XXVI. Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones bancarias, así como la del Síndico Procurador,
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XXVII. Remitir conjuntamente con el Tesorero Municipal a la Auditoria General del Estado las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicables a la Materia; y
+XXVII. Remitir juntamente con el Tesorero Municipal a la Auditoría Superior del Estado las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicables (sic) a la Materia; y
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XVIII (SIC).- Las demás que les otorguen la Ley y los Reglamentos.
+XXVIII. Las demás que les otorguen la Ley y los Reglamentos.
 
 ###### ARTICULO 74.
 
@@ -1501,9 +1615,9 @@ IV. Autorizar los gastos que deba realizar la administración Municipal;
 
 V. Otorgar, si fuera el caso, el visto bueno a los cortes de caja que debe presentar mensualmente el Tesorero Municipal;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-VI.- Autorizar las cuentas públicas y verificar que éstas se remitan oportunamente a la Auditoría General del Estado;
+VI. Autorizar las cuentas públicas y verificar que estas se remitan oportunamente a la Auditoría Superior del Estado;
 
 VII. Autorizar la suscripción de créditos públicos y privados;
 
@@ -1563,9 +1677,11 @@ XXVIII.- Auxiliar al Tribunal de lo Contencioso Administrativo en lo que éste l
 
 XXIX. Las demás que les otorguen la Ley y los reglamentos.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 78.
 
-Los Síndicos Procuradores, cuando sean expresamente autorizados por autoridad competente, podrán fungir como agentes auxiliares del Ministerio Público, o como fedatarios bajo control y supervisión de la Procuraduría General de Justicia y de la Secretaría General de Gobierno respectivamente.
+Los Síndicos Procuradores, cuando sean expresamente autorizados por autoridad competente, podrán fungir como agentes auxiliares del Ministerio Público, o como fedatarios bajo control y supervisión de la Fiscalía General del Estado de Guerrero y de la Secretaría General de Gobierno respectivamente.
 
 ### CAPITULO VIII. DE LOS REGIDORES
 
@@ -1573,43 +1689,77 @@ Los Síndicos Procuradores, cuando sean expresamente autorizados por autoridad c
 
 Los regidores tendrán a su cargo la supervisión de las comisiones, sin facultades ejecutivas y se ocuparán de los ramos a que se refiere el Artículo 59 de esta Ley.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 80.
 
-Son facultades y obligaciones de las Regidoras y los Regidores:
+Son facultades y obligaciones de las Regidurías:
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 I. Asistir y participar con derecho a voz y voto, en las sesiones del Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 II. Desempeñar con eficiencia y eficacia, las funciones relativas a las Comisiones que presidan y se les hayan encomendado por el Ayuntamiento, así como, informar a éste de los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 III. Vigilar que los actos del Ramo de la Administración Municipal que les haya sido encomendado se desarrollen con apego a lo dispuesto por las leyes, reglamentos y normas de observancia municipal;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 IV. Vigilar que las solicitudes y peticiones realizadas a las distintas áreas de la Administración Pública, se resuelvan oportunamente;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 V. Vigilar que la o el Presidente Municipal cumpla con los acuerdos y resoluciones del Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 VI. Informar al Ayuntamiento de sus gestiones realizadas en el ejercicio de su facultad de vigilancia, así como de aquellas que les encomiende en forma directa la o el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 VII. Proponer al Ayuntamiento las medidas y acciones que deban acordarse para el mejoramiento de las distintas áreas de la Administración Municipal y de los Servicios Municipales, cuya vigilancia les corresponda o les haya sido encomendada, así como, presentar proyectos de reglamentos o modificaciones a los existentes;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 VIII. Solicitar a la o el Presidente Municipal, información sobre los programas y proyectos convenidos con el Estado, la Federación o con otros Municipios, así como, la información que requieran de las y los titulares de la Administración Municipal para el ejercicio óptimo de su facultad de vigilancia;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 IX. Solicitar información, previa justificación, a la o al Síndico Procurador respecto a los asuntos de su competencia, previa justificación de que lo consideran necesario;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 X. Impulsar y fortalecer en todas las actividades que desarrolle el Ayuntamiento, la protección y promoción de los derechos humanos, la participación ciudadana, la perspectiva de género, la participación social y el respeto y conservación del medio ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 XI. Realizar, junto con la o el Presidente Municipal y demás ediles municipales, visitas periódicas a las localidades y colonias del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 XII. Suplir a la o el Presidente Municipal en sus faltas temporales, en el orden predeterminado;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 XIII. Convocar a las sesiones extraordinarias en los términos de esta Ley;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 XIV. Apoyar a la o el Presidente Municipal en sus responsabilidades en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
 XV. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Ayuntamiento, sin perjuicio de que puedan hacerlo ante la ciudadanía;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
 XVI. Brindar en sus oficinas atención a la ciudadanía, conforme al ramo que les corresponda; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE ABRIL DE 2024)</small>
 
 XVII. Las demás que les otorguen las Leyes y Reglamentos.
 
@@ -1617,11 +1767,11 @@ En el ejercicio de sus facultades, las Regidoras y los Regidores deberán actuar
 
 ### CAPITULO IX. DE LA SUSPENSION E INSTALACION PROVISIONAL DE AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 81.
 
-Cuando por cualquier circunstancia no se hubiere podido verificar la elección de algún ayuntamiento o ésta hubiera sido declarada nula o no concurrieran los miembros necesarios para la instalación, el Congreso del Estado procederá a nombrar, entre los vecinos, un Consejo Municipal provisional, en tanto el Consejo General del Instituto Electoral convoca a elecciones extraordinarias, las que se deberán verificar dentro de los sesenta días contados a partir de la fecha en que el Consejo tome posesión. Si dentro del término señalado no se verifican las nuevas elecciones por causas graves, el Congreso del Estado podrá ratificar al Consejo Municipal con carácter definitivo para cubrir el término legal que correspondería al Ayuntamiento que debió ser electo.
+Cuando por cualquier circunstancia no se hubiere podido verificar la elección de algún ayuntamiento o ésta hubiera sido declarada nula o no concurrieran los miembros necesarios para la instalación, el Congreso del Estado procederá a nombrar de manera paritaria, entre los vecinos, un Consejo Municipal provisional, en tanto el Consejo General del Instituto Electoral convoca a elecciones extraordinarias, las que se deberán verificar dentro de los sesenta días contados a partir de la fecha en que el Consejo tome posesión. Si dentro del término señalado no se verifican las nuevas elecciones por causas graves, el Congreso del Estado podrá ratificar al Consejo Municipal con carácter definitivo para cubrir el término legal que correspondería al Ayuntamiento que debió ser electo.
 
 ###### ARTICULO 82.
 
@@ -1901,27 +2051,27 @@ XII. Promover el cobro eficaz de las contribuciones municipales, evitando el rez
 
 XIII. Cuidar que las multas impuestas por las autoridades municipales ingresen a la Tesorería Municipal;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XIV.- Permitir y facilitar la práctica de auditorías provenientes de la Auditoría General del Estado, así como aquellas de carácter externo;
+XIV. Permitir y facilitar la práctica de auditorías provenientes de la Auditoría Superior del Estado, así como aquella de carácter externo;
 
 XV. Glosar oportunamente las cuentas del Ayuntamiento;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XVI.- Remitir conjuntamente con el Presidente Municipal al Congreso del Estado, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales, en los términos establecidos en la legislación aplicable a la materia;
+XVI. Remitir conjuntamente con el Presidente Municipal al Congreso del Estado, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales, en los términos establecidos en la legislación aplicable a la materia;
 
 XVII. Presentar mensualmente al Ayuntamiento el corte de caja de la Tesorería Municipal con el visto bueno del Síndico Procurador;
 
 XVIII. Obtener del Síndico Procurador la autorización de los gastos que deba realizar la administración municipal;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XIX.- Contestar oportunamente las observaciones que formule la Auditoría General del Estado, en relación a las disposiciones del Artículo 102 de la Constitución Política del Estado de Guerrero;
+XIX. Contestar oportunamente las observaciones que formule la Auditoría Superior del Estado, en relación con las disposiciones del Artículo 102 de la Constitución Política del Estado de Guerrero;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-XX.- Ministrar oportunamente y obtener el acuse de recibo correspondiente de su inmediato antecesor de los pliegos de observaciones y alcances que formula la Auditoría General del Estado en ejercicio de sus atribuciones;
+XX. Ministrar oportunamente y obtener el acuse de recibo correspondiente de su inmediato antecesor de los pliegos de observaciones y alcances que formula la Auditoría Superior del Estado en ejercicio de sus atribuciones;
 
 XXI. Informar permanentemente al Presidente Municipal sobre el estado que guarden las finanzas municipales y en particular sobre las partidas que estén próximas a agotarse;
 
@@ -1963,7 +2113,9 @@ VIII. Aprobar y autorizar planos y proyectos para la construcción de casas habi
 
 IX. Ordenar las medidas procedentes y urgentes que juzgue necesarias, para evitar los riesgos que pueda ofrecer cualquier construcción, así como obligar a retirar y sancionar a quines (sic) invadan las calles y banquetas con materiales de construcción o de cualquier otra índole, que impidan o pongan en peligro la libre circulación por las mismas;
 
-X. Integrar los expedientes técnicos y unitarios relativos a las obras públicas municipales, para ponerlos a disposición oportuna de los encargados de preparar e integrar la cuenta pública anual; caso contrario, se le aplicará la responsabilidad administrativa que corresponda, notificándose tal hecho a la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+X. Integrar los expedientes técnicos y unitarios relativos a las obras públicas municipales, para ponerlos a disposición oportuna de los encargados de preparar e integrar la cuenta pública anual; caso contrario, se le aplicará la responsabilidad administrativa que corresponda, notificándose tal hecho a la Auditoría Superior del Estado;
 
 XI. Proponer al Presidente Municipal la creación de las zonas de reserva ecológica, de vivienda y urbanización, y el cumplimiento de las normas y criterios para la regularización de asentamientos humanos en la jurisdicción municipal;
 
@@ -2093,9 +2245,11 @@ La actividad administrativa a cargo del Ayuntamiento se distribuirá en los ramo
 
 En cualquier tiempo el Ayuntamiento, a propuesta del Presidente, podrá designar comisiones transitorias para el estudio de determinado asunto o la realización de una labor específica.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 113.
 
-Las comisiones someterán a la consideración del Ayuntamiento o del Presidente Municipal, según sea el caso, sus recomendaciones y acuerdos para que éstos dicten las medidas consecuentes.
+Las comisiones someterán a la consideración del Ayuntamiento o de la Presidencia Municipal, según sea el caso, sus recomendaciones y acuerdos para que éstos dicten las medidas consecuentes.
 
 ### CAPITULO V. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -2203,11 +2357,11 @@ IX. Las contribuciones que perciban por la aplicación de las leyes fiscales, tr
 
 X. Los capitales procedentes de la venta de fincas rústicas y urbanas propiedad de los Municipios.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 124.
 
-Los Ayuntamientos formularán un inventario cuatrimestral y avalúo de los bienes muebles e inmuebles municipales y remitirán un ejemplar al Congreso del Estado, a través de la Auditoría General del Estado, en la forma y en los plazos que determine la Ley de Fiscalización Superior del Estado de Guerrero.
+Los Ayuntamientos formularán un inventario cuatrimestral y avalúo de los bienes muebles e inmuebles municipales y remitirán un ejemplar al Congreso del Estado, a través de la Auditoría Superior del Estado, en la forma y en los plazos que determine la Ley de Fiscalización Superior del Estado de Guerrero.
 
 ###### ARTICULO 125.
 
@@ -2265,11 +2419,11 @@ El Catálogo General de Inmuebles a que se refiere el artículo anterior será p
 
 Los Ayuntamientos celebrarán convenios de coordinación con el Gobierno del Estado a fin de implementar y mantener actualizado el Catálogo General de Inmuebles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 134.
 
-Para realizar la enajenación, permuta o donación de un bien inmueble, propiedad del Ayuntamiento, deberá ser autorizado por las dos terceras partes de su cabildo, debiendo informar a la Auditoria General del Estado para la actualización del catálogo General de bienes inmuebles, dicho informe deberá contener los datos siguientes:
+Para realizar la enajenación, permuta o donación de un bien inmueble, propiedad del Ayuntamiento, deberá ser autorizado por las dos terceras partes del cabildo, debiendo informar a la Auditoría Superior del Estado, para la actualización del catálogo General de bienes inmuebles, dicho informe deberá contener los siguientes datos:
 
 I. Título con el que se acredite la propiedad del inmueble;
 
@@ -2305,25 +2459,45 @@ Los Ayuntamientos elaborarán trimestralmente y mantendrán actualizado el inven
 
 Los Ayuntamientos establecerán reglas y procedimientos para dar de alta los bienes muebles propiedad del Municipio, así como los requisitos para los resguardos que los servidores públicos deban otorgar cuando se les confíen bienes municipales para la prestación de servicios públicos para el desempeño de sus labores.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
-ARTICULO 137 bis.- Para realizar la enajenación, permuta o donación de bienes muebles, propiedad del Ayuntamiento, deberá ser autorizado por las dos terceras partes de su cabildo, debiendo informar a la Auditoria General del Estado para la actualización del Catálogo General de Bienes Muebles e Inmuebles.
+###### ARTICULO 137 Bis.
+
+Para realizar la enajenación, permuta o donación de bienes inmuebles, propiedad del Ayuntamiento, deberá ser autorizado por las dos terceras partes de su Cabildo, debiendo informar a la Auditoría Superior del Estado para la actualización del Catálogo General de Bienes Muebles e Inmuebles.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
 
 Las enajenaciones de bienes muebles propiedad de los Ayuntamientos, se efectuarán en subasta pública conforme al procedimiento que señala el Código de Procedimientos Civiles del Estado de Guerrero en vigor.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+
 Los bienes muebles cuya enajenación autorice el Cabildo Municipal, no podrán ser adquiridos por los integrantes de los Ayuntamientos.
 
-Los Ayuntamientos deberán remitir al H. Congreso del Estado y a la Auditoría General del Estado, copia debidamente certificada del expediente relativo a los bienes muebles cuya enajenación y baja se autorice por el Cabildo, el cual deberá contener los siguientes documentos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ABRIL DE 2024)</small>
+
+Los Ayuntamientos deberán remitir al H. Congreso del Estado y la Auditoría Superior del Estado, copia debidamente certificada del expediente relativo a los bienes muebles cuya enajenación y baja se autorice por el Cabildo, en el cual deberá contener los siguientes documentos:
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
 
 I.- Factura o documento análogo, con el que se acredite la propiedad del bien mueble;
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
 II.- Avalúo del bien mueble, realizado por perito debidamente registrado;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
 
 III.- Fotos del bien mueble, para constatar el estado en que se encuentra;
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
 IV.- Que el adquirente no sea familiar por afinidad ni consanguinidad hasta el cuarto grado de alguno de los integrantes del Ayuntamiento;
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+
 V.- Recibo expedido por la tesorería municipal, para acreditar el ingreso obtenido por la venta del bien mueble, y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
 
 VI.- Constancia en la que se especifique en qué será aplicado el recurso económico obtenido.
 
@@ -2351,11 +2525,11 @@ Las disposiciones relativas a la programación, presupuestación, control y eval
 
 La Auditoría Superior del Estado, deberá auxiliar a la Tesorería municipal, al área responsable de la ejecución de los recursos y al Órgano de Control Interno Municipal, en la inspección, control y evaluación de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y en general del gasto público.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 142.
 
-La Auditoría General del Estado podrá practicar visitas a las Tesorerías Municipales a fin de verificar el cumplimiento de las normas aplicables, así como el correcto destino de los fondos públicos que éstas manejen.
+La Auditoría Superior del Estado podrá practicar visitas a las Tesorerías Municipales a fin de verificar el cumplimiento de las normas aplicables, así como el conecto (sic) destino de los fondos públicos que éstas manejen.
 
 ###### ARTICULO 143.
 
@@ -2373,9 +2547,9 @@ El Congreso del Estado analizará las propuestas que presenten los Ayuntamientos
 
 ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos federales o estatales que se le transfieran según las leyes o convenios; para programas o proyectos específicos a gastos municipales distintos a los prevenidos, se hará acreedor a las sanciones que disponga la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la aplicación del Código Penal en lo conducente.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
-Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría General del Estado, las Areas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
+Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría Superior del Estado, las áreas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -2451,11 +2625,13 @@ Los Ayuntamientos podrán autorizar ampliaciones presupuestales cuando se presen
 
 Los Ayuntamientos invertirán los subsidios que les otorguen los gobiernos federal y estatal en los proyectos específicos que éstos determinen y deberán proporcionar toda la información que se les solicite sobre la aplicación de los mismos.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 157.
 
-La Auditoría General del Estado tendrá la facultad de revisar en cualquier tiempo, la documentación comprobatoria de la aplicación de los subsidios a que se refiere el artículo anterior y los Ayuntamientos de poner a disposición de ésta, la cuenta e información detalladas de la aplicación de dichos subsidios, así como las justificaciones correspondientes.
+La Auditoría Superior del Estado, tendrá la facultad de revisar en cualquier tiempo la documentación comprobatoria de la aplicación de los subsidios a que se refiere el artículo anterior y los Ayuntamientos de poner a disposición de ésta, la cuenta de información detalladas (sic) de la aplicación de dichos subsidios, así como las justificaciones correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
 
 Los actos de revisión a que se refiere el párrafo anterior, se deberán realizar a través del Órgano de Control Interno Municipal que fungirá como enlace entre la Auditoría Superior del Estado y el Ayuntamiento, teniendo facultades de emitir opinión de los resultados, haciéndolos del conocimiento del Cabildo y del Congreso del Estado.
 
@@ -2483,11 +2659,11 @@ Los Ayuntamientos informarán al Congreso del Estado de las erogaciones que haya
 
 Los Ayuntamientos no podrán otorgar garantías ni efectuar depósitos para el cumplimiento de sus obligaciones, con cargo al presupuesto de egresos de los Municipios, del ejercicio fiscal en curso sin autorización del Congreso.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 164.
 
-Los Ayuntamientos están obligados a proporcionar a la Contraloría General del Estado, y a la Auditoría General del Estado, la información que se les solicite y permitir la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal.
+Los Ayuntamientos están obligados a proporcionar a la Secretaría de la Contraloría y Transparencia Gubernamental, y a la Auditoría Superior del Estado, la información que se les solicite y permitir la práctica de visitas y auditorias para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal.
 
 ### CAPITULO IV. DE LA CONTABILIDAD MUNICIPAL
 
@@ -2507,11 +2683,11 @@ Los sistemas de contabilidad municipal deberán diseñarse y operarse en forma t
 
 Para efectos de la revisión de las cuentas públicas municipales, los Ayuntamientos informarán al Congreso del Estado durante los primeros quince días de cada ejercicio fiscal o durante el mes siguiente a su implantación o modificación, sobre las normas, procedimientos y sistemas de control interno que en materia contable implanten.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 169.
 
-Los Ayuntamientos deberán remitir al Congreso del Estado, a través de la Auditoria General del Estado, en los términos establecidos en la legislación aplicable, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales para su revisión y fiscalización.
+Los Ayuntamientos deberán remitir al Congreso del Estado, a través de la Auditoría Superior del Estado, en los términos establecidos en la legislación aplicable, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales para su revisión y fiscalización.
 
 ## TITULO SEXTO. DEL DESARROLLO MUNICIPAL
 
@@ -2779,35 +2955,53 @@ La presente Ley y otros ordenamientos establecerán los requisitos para la creac
 
 Las comisarías municipales son órganos de desconcentración administrativa de los Ayuntamientos y de la administración municipal y de participación de la comunidad, de integración vecinal y de carácter honorífico.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 198.
 
-Los comisarios municipales, los comisarios suplentes y los comisarios vocales serán electos cada tres años mediante procedimientos de elección vecinal y por planilla, durante la última semana del mes de junio del año en que deban renovarse, y se votarán según lo establecido en este Capítulo.
+Las Comisarías municipales, las Comisarías suplentes y las Comisarías municipales vocales se someterán a procesos electivos cada tres años mediante procedimientos de elección vecinal y por planilla, durante la última semana del mes de junio del año en que deban renovarse, y se votarán observando el principio de paridad, según lo establecido en este Capítulo y en la Ley Número 652, para la elección de Comisarías Municipales del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 199.
 
-La administración de las comisarías estará a cargo de un comisario propietario, de un comisario suplente y de dos comisarios vocales.
+La administración de las comisarías estará a cargo de una Comisaría Propietaria, de una Comisaría Suplente y de dos Comisarías Vocales.
 
-El primer año actuará la planilla completa; el segundo año cesará en sus funciones el Comisario, y asumirá ese carácter el Primer Comisario Vocal, pasando el suplente a fungir como Segundo Comisario Vocal, y éste a Primer Comisario Vocal. El tercer año, el Segundo Comisario Vocal actuará como Comisario, y el suplente como Primer Comisario Vocal.
+El primer año actuará la planilla completa; el segundo año cesará en sus funciones la Comisaría Propietaria, y asumirá ese carácter la Primera Comisaría Vocal, pasando la Comisaría Suplente a fungir como Segunda Comisaría Vocal, y ésta a Primera Comisaría Vocal. El tercer año, la Segunda Comisaría Vocal actuará como Comisaría Propietaria y la Comisaría Suplente como Primera Comisaría Vocal.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2010)</small>
+En las poblaciones que se reconozcan como indígenas, las Comisarías municipales o Delegaciones se elegirá una persona propietaria y una suplente en la segunda quincena del mes de diciembre de cada año mediante el método de sus usos y costumbres, mismos que deberán tomar protesta ante la autoridad municipal en la primera quincena del mes de enero, quienes durarán por el periodo de un año.
 
-En las poblaciones que se reconozcan como indígenas, los comisarios municipales o delegados se elegirá un propietario y un suplente en la segunda quincena del mes de diciembre de cada año mediante el método de sus usos y costumbres, mismos que deberán tomar protesta ante la autoridad municipal en la primera quincena del mes de enero, quienes durarán por el periodo de un año.
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2024)</small>
+
+Los Ayuntamientos realizarán las acciones correspondientes a efecto de garantizar de manera efectiva el acceso de las mujeres a las Comisarías municipales, asegurando los principios de igualdad de oportunidades, alternancia y paridad de género. Ni permitiendo los usos y costumbres que se contrapongan a la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 200.
 
-Para ser comisario se requiere:
+Para ser Comisaria o Comisario se requiere:
 
-I. Ser originario del Municipio o tener residencia efectiva en el Municipio que se trate no menor a dos años antes de la elección;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+I.- Ser originaria u originario del Municipio o tener residencia efectiva en el Municipio que se trate, no menor a dos años antes de la elección;
 
 II. Saber leer y escribir;
 
-III. No pertenecer, ni haber pertenecido al estado eclesiástico, ni ser ministro de algún culto;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
-IV. No pertenecer a las fuerzas armadas, ni tener mando de la fuerza pública tres meses antes de la elección, y
+III.- No pertenecer, ni haber pertenecido al estado eclesiástico, ni ser ministra o ministro de algún culto;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+IV.- No pertenecer a las fuerzas armadas, ni tener mando de la fuerza pública tres meses antes de la elección; y,
 
 (NOTA: EL 17 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 V. NO HABER SIDO CONDENADO POR DELITO INTENCIONAL.
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2024)</small>
+
+VI. No haberse manifestado con actos discriminatorios por razón de sexo o género
 
 ###### ARTICULO 201.
 
@@ -2893,29 +3087,43 @@ ARTICULO 203 E.- Los Ayuntamientos deberán fijar las bases para la organizació
 
 ARTICULO 203 F.- El Presidente Municipal con base en lo acordado por el Ayuntamiento asignará a las Delegaciones los recursos humanos, financieros y materiales que sean indispensables para el eficiente ejercicio de las facultades delegadas y la atención oportuna de las necesidades populares conforme a criterios de descentralización, equilibrio territorial y disponibilidad.
 
-### CAPITULO III. DE LOS CONSEJOS CONSULTIVOS DE COMISARIOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2024)</small>
+
+### CAPITULO III. DE LOS CONCEJOS CONSULTIVOS DE COMISARIAS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 204.
 
-En cada Municipio se integrará un Consejo Consultivo de Comisarios Municipales compuesto por todos los Comisarios del Municipio que corresponda y el cual tendrá funciones consultiva y de apoyo a la gestión edilicia.
+En cada Municipio se integrará, observando el principio de paridad, un Concejo Consultivo de Comisarias Municipales compuesto por las personas titulares de todas las Comisarías del Municipio que corresponda y el cual tendrá funciones consultivas y de apoyo a la gestión edilicia.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 205.
 
-El Consejo Consultivo de Comisarios Municipales estará presidido por el Comisario Municipal que resulte electo entre quienes integran las comisarías, y se auxiliará por un Secretario designado de entre los comisarios y por el número de vocales que representen cada comisaría y se renovará anualmente.
+El Concejo Consultivo de Comisarías Municipales estará presidido por la persona titular de la Comisaría Municipal que resulte electa entre quienes integran las Comisarías del Municipio, y se auxiliará por una Secretaría designada de entre las personas titulares de las Comisarías y por el número de Vocalías que representen cada Comisaría.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2024)</small>
+
+El Consejo Consultivo de Comisarías Municipales se renovará anualmente, observando el principio de paridad.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 206.
 
-Son atribuciones del Consejo Consultivo de Comisarios Municipales:
+Son atribuciones del Concejo Consultivo de Comisarias Municipales:
 
-I. Fungir como órgano consultivo auxiliar del Ayuntamiento y participar a través del Presidente en las sesiones de Cabildo abierto con voz informativa;
+I.- Fungir como órgano consultivo auxiliar del Ayuntamiento y participar a través de la Presidencia en las sesiones de Cabildo abierto con voz informativa;
 
-II. Opinar sobre los planes y programas de desarrollo municipal, y
+II.- Opinar sobre los planes y programas de desarrollo municipal; y,
 
-III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la administración municipal remitiendo copia de las mismas al Gobernador del Estado.
+III.- Presentar al Ayuntamiento sus propuestas para introducir mejoras en la administración municipal remitiendo copia de estas a la persona titular de la Gubernatura del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 207.
 
-Los Consejos Consultivos de Comisarios Municipales celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
+Los Concejos Consultivos de Comisarias Municipales celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas las personas integrantes del Ayuntamiento.
 
 ### CAPITULO IV. DE LOS CONSEJOS CONSULTIVOS DE CIUDADANOS DE LAS DELEGACIONES MUNICIPALES
 
@@ -3329,19 +3537,19 @@ PUBLICOS MUNICIPALES
 
 La aplicación y el manejo indebidos de recursos federales, estatales, o provenientes de aportaciones de particulares que se transfieran a la Administración Pública Municipal, a través de convenios de coordinación o de otras formas legales, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 243.
 
-Los Presidentes Municipales, Síndicos Procuradores y Regidores, así como los servidores públicos que designe el Ayuntamiento deberán presentar a la Auditoría General del Estado su Declaración de Situación Patrimonial en los plazos, formas y procedimiento establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
+Los Presidentes Municipales, Síndicos Procuradores y Regidores, así como los servidores públicos que designe el Ayuntamiento deberán presentar a la Auditoría Superior del Estado su Declaración de Situación Patrimonial en los plazos, formas y procedimiento establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
 
 ###### ARTICULO 244.
 
 Será causa de responsabilidad para el Presidente, Síndico y Tesorero, así como para los titulares o directores de las unidades administrativas del Municipio contraer compromisos fuera de las limitaciones del Presupuesto de Egresos y en general acordar erogaciones en forma que no permitan, dentro de los montos autorizados en sus programas respectivos, la atención de los servicios públicos durante todo el ejercicio fiscal.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
-De igual forma será causa de responsabilidad para el Presidente, Síndicos Procuradores y Tesorero en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero y de la Ley Orgánica del Municipio Libre del Estado, el incumplimiento sin causa justificada de cualquiera de sus obligaciones señaladas por la presente Ley. Tratándose de las relacionadas con el englose, autorización y entrega de las cuentas públicas, la Auditoría General del Estado establecerá el procedimiento administrativo para requerir su cumplimiento y estará facultado para solicitar el fincamiento de las responsabilidades correspondientes al servidor público incumplido.
+De igual forma será causa de responsabilidad para el Presidente, Síndicos Procuradores y Tesorero en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero y de la Ley Orgánica del Municipio Libre del Estado, el incumplimiento sin causa justificada de cualquiera de sus obligaciones señaladas por la presente Ley. Tratándose de las relacionadas con el englose (sic), autorización y entrega de las cuentas públicas, la Auditoría Superior del Estado establecerá el procedimiento administrativo para requerir su cumplimiento y estará facultado para solicitar el fincamiento de las responsabilidades correspondientes al servidor público incumplido.
 
 ###### ARTICULO 245.
 
@@ -4336,3 +4544,33 @@ SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Est
 TERCERO.- Notifíquese el presente Decreto a los Ayuntamientos de los 80 municipios y al Concejo Municipal Comunitario del Ayutla de los Libres, todos del Estado de Guerrero, para su conocimiento y efectos a que haya lugar.
 
 CUARTO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 672 POR MEDIO DEL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13; EL ARTÍCULO 27; EL ARTÍCULO 24; EL ARTÍCULO 29; EL ARTÍCULO 46; EL ARTÍCULO 59; LA FRACCIÓN XXIII DEL ARTÍCULO 61; EL PRIMER PÁRRAFO Y SUS FRACCIONES IX Y X DEL ARTÍCULO 73; EL PRIMER PÁRRAFO Y SU FRACCIÓN XVII DEL ARTÍCULO 80; EL ARTÍCULO 81; EL ARTÍCULO 113; EL ARTÍCULO 198; EL ARTÍCULO 199; EL PRIMER PÁRRAFO Y SUS FRACCIONES I, III Y IV DEL ARTÍCULO 200, LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SÉPTIMO; EL ARTÍCULO 204; EL ARTÍCULO 205; EL ARTÍCULO 206; Y, EL ARTÍCULO 207; Y, SE ADICIONAN: UN TERCER PÁRRAFO AL ARTÍCULO 29; UN SEGUNDO PÁRRAFO AL ARTÍCULO 80; UN TERCER PÁRRAFO AL ARTÍCULO 199; LA FRACCIÓN VI AL ARTÍCULO 200; Y, UN SEGUNDO PÁRRAFO AL ARTÍCULO 205 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 673 POR MEDIO DEL CUAL SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 59; SE ADICIONAN LAS FRACCIONES XIII Y XIV AL ARTÍCULO 59 Y LOS ARTÍCULOS 69 SEXIES Y 69 SEPTIES; Y, SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 63 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 675 POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 41 PRIMER PÁRRAFO; 73 FRACCIONES XXVII Y XXVIII; 77 FRACCIÓN VI; 78; 106 FRACCIONES XIV, XIX Y XX; 109-A FRACCIÓN X; 124; 134; 137 BIS PÁRRAFOS PRIMERO Y CUARTO; 142; 145-BIS PÁRRAFO SEGUNDO; 157 PÁRRAFO PRIMERO; 164; 169; 243; Y, 244 PÁRRAFO SEGUNDO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
