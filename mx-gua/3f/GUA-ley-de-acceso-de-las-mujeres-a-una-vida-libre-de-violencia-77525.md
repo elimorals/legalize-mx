@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2024-03-12"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE MARZO DE 2024.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -1673,9 +1673,11 @@ Artículo Cuarto. El Instituto para el Desarrollo y Atención a las Juventudes d
 
 La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales necesarias para dotar al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato de los recursos financieros necesarios para realizar sus funciones.
 
+> <small>(F. DE E., P.O. 23 DE ABRIL DE 2024)</small>
+
 Extinción del Injug
 
-Artículo Quinto. Se extingue el Instituto para la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
+Artículo Quinto. Se extingue el Instituto de la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
 
 Los asuntos jurídicos, administrativos y de cualquier otra índole en trámite a la entrada en vigor del presente Decreto, así como los archivos, se pasarán, a través de la entrega-recepción, al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, para que éste prosiga con su atención.
 
