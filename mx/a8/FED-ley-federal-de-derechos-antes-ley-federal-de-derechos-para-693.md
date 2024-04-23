@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2023-12-29"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2024.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2023.
 
@@ -15347,9 +15347,9 @@ e).- Las instituciones de crédito y entidades financieras que sean autorizadas 
 
 Las personas físicas y las morales, titulares de concesiones o permiso para el uso, goce o explotación de bienes del dominio público que queden afectos a servicios públicos distintos a los señalados en el artículo anterior, así como los permisionarios de servicios portuarios a que se refiere el artículo 37 de la Ley de Puertos, pagarán el derecho de uso, goce o explotación que ascenderá al 5% de los ingresos brutos que obtengan por esos conceptos.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2024)</small>
 
-No pagarán los derechos a que se refiere este artículo, los permisionarios de servicios portuarios de pilotaje en puerto.
+No pagarán los derechos a que se refiere este artículo, los permisionarios de servicios portuarios de pilotaje en puerto, ni las personas titulares de concesiones a que se refiere el artículo 220-A de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -23862,3 +23862,9 @@ Para tales efectos, las personas contribuyentes deberán medir el volumen en cad
 En caso de incumplimiento a los compromisos establecidos en el Programa para el Cumplimiento correspondiente en términos de los Lineamientos a que se refiere el primer párrafo de este Transitorio, las personas contribuyentes estarán obligados a efectuar el pago de los derechos por el uso y aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, a que se refiere el Capítulo XIV del Título II de la Ley Federal de Derechos, con las actualizaciones y recargos correspondientes, generados a partir de la fecha en que se aplicó el beneficio fiscal a que se refiere este artículo.
 
 Cuarto. Para efectos de lo establecido en el artículo 220-A de esta Ley, las secretarías de la Defensa Nacional y de Marina deberán realizar las acciones respectivas para que se constituyan los fideicomisos públicos federales, dentro de los 60 días hábiles siguientes a la entrada en vigor del mencionado artículo.
+
+D.O.F. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 232-A DE LA LEY FEDERAL DE DERECHOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
