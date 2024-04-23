@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2024-04-01"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -2284,9 +2284,15 @@ VIII. Difundir conocimientos y prácticas de previsión social;
 
 IX. Expedir los reglamentos para la debida prestación de los servicios y de organización interna;
 
-X. Realizar toda clase de actos jurídicos y celebrar los contratos que requieran los seguros, prestaciones y servicios previstos en esta Ley, y
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2024)</small>
 
-XI. Las demás funciones que le confieran esta Ley y sus reglamentos.
+X. Realizar toda clase de actos jurídicos y celebrar los contratos que requieran los seguros, prestaciones y servicios previstos en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2024)</small>
+
+XI. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en la prestación de los servicios y el otorgamiento de seguros y prestaciones a su cargo, en beneficio de su población derechohabiente, y
+
+XII. Las demás funciones que le confieran esta Ley y sus reglamentos.
 
 El financiamiento de los gastos generales de administración del Instituto que no estén estrictamente relacionados con la prestación de algún seguro, prestación o servicio no deberá rebasar del equivalente a la cantidad que resultaría de la aplicación de una Aportación de uno punto cinco por ciento del Sueldo Básico al total de los Trabajadores.
 
@@ -3458,7 +3464,7 @@ Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del 
 
 Tercero.- El Instituto, en un plazo de ciento veinte días, a partir de la entrada en vigor del presente Decreto, deberá emitir las disposiciones necesarias para el otorgamiento del servicio Casas de día para adultos mayores jubilados y pensionados derechohabientes.
 
-P.O. 24 DE MARZO DE 2023.
+D.O.F. 24 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE DEROGA EL NUMERAL 2, DEL INCISO D), DE LA FRACCIÓN XII, DEL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
 
@@ -3515,3 +3521,11 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 170 Y 210 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 251 DE LA LEY DEL SEGURO SOCIAL Y 208 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar a los institutos de seguridad social referidos, se sujetarán a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
