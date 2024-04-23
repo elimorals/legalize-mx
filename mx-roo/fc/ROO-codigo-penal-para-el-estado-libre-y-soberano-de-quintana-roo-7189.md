@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-04-10"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -3253,9 +3253,17 @@ Se entiende por acopio la detentación de tres o más armas de aquellas a que se
 
 ### CAPITULO III (SIC). ASOCIACION DELICTUOSA
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 181.
 
-Al que forme parte de manera permanente de una asociación o banda de tres o más personas dedicadas a delinquir, se les impondrá de seis meses a cuatro años de prisión, independientemente de las penas que les correspondan por el delito o los delitos cometidos.
+Al que forme parte de manera permanente de una asociación o banda de tres o más personas con el propósito de delinquir, se les impondrá de dos a cinco años de prisión y de cien a quinientos días multa, independientemente de las penas que les correspondan por el delito o los delitos cometidos.
+
+Se presumirá que existe asociación delictuosa cuando las mismas tres o más personas tengan alguna forma de autoría o participación conjunta en dos o más delitos.
+
+Dicha sanción se incrementará hasta en una mitad más cuando la persona sujeta activa del delito sea o haya sido persona servidora pública en alguna institución de seguridad pública, procuración o administración de justicia. En estos casos se aplicará, así mismo, destitución e inhabilitación para obtener otro cargo, empleo o comisión de uno a cinco años.
+
+Cuando la asociación o alguna persona que forme parte de ella utilice a personas menores de dieciocho años o personas incapaces para delinquir, la pena a la que se refiere el primer párrafo se aumentará en una mitad más.
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
 
@@ -5520,6 +5528,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 215 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 145-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 214 POR EL QUE SE REFORMA EL ARTÍCULO 181 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
