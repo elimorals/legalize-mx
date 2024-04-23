@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-las-juventudes-del-estado-de-guanajuato-144660"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-21"
-last_updated: "2021-09-24"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "GUA"
 LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 21 de octubre de 2020.
 
@@ -1295,7 +1297,9 @@ La Secretaría de Finanzas, Inversión y Administración realizará las adecuaci
 
 Extinción del Injug
 
-Artículo Quinto. Se extingue el Instituto para la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
+> <small>(F. DE E., P.O. 23 DE ABRIL DE 2024)</small>
+
+Artículo Quinto. Se extingue el Instituto de la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
 
 Los asuntos jurídicos, administrativos y de cualquier otra índole en trámite a la entrada en vigor del presente Decreto, así como los archivos, se pasarán, a través de la entrega-recepción, al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, para que éste prosiga con su atención.
 
