@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2023-08-04"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8261,7 +8261,9 @@ ARTICULO 1,465.- Si el testador acostumbró en vida dar al legatario cierta cant
 
 ARTICULO 1,466.- El legado de educación dura hasta que el legatario sale de la menor edad.
 
-ARTICULO 1,467.- Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio con que poder subsistir, o si contrae matrimonio.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2024)</small>
+
+ARTICULO 1,467.- Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio con que poder subsistir.
 
 ARTICULO 1,468.- El legado de pensión, sean cuales fueren la cantidad, el objeto y los plazos, corre desde la muerte del testador; es exigible al principio de cada período, y el legatario hace suya la que tuvo derecho de cobrar, aunque muera antes de que termine el período comenzado.
 
@@ -15098,3 +15100,11 @@ G.O. 4 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1467 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
