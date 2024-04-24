@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-137
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-27"
-last_updated: "2024-01-31"
+last_updated: "2024-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-05-31"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2024 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE ABRIL DE 2024.]</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
 
@@ -845,11 +845,11 @@ X. Presidir el Comité de Transparencia y dirigir la revisión jurídica de los 
 
 XI. Planear, coordinar y supervisar las funciones de las Direcciones Generales que le sean adscritas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024) (F. DE E., D.O.F. 24 DE ABRIL DE 2024)
 
 ###### Artículo 21.
 
-Atribuciones del Titular de la Unidad de Administración Técnica de Asignaciones y Contratos. Sin perjuicio de otras atribuciones establecidas en el Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad de Administración Técnica de Asignaciones:
+Atribuciones del Titular de la Unidad de Administración Técnica de Asignaciones y Contratos. Sin perjuicio de otras atribuciones establecidas en el Reglamento Interno y demás Normativa Aplicable, el Titular de la Unidad de Administración Técnica de Asignaciones y Contratos:
 
 > <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
@@ -1721,9 +1721,9 @@ I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Contra
 
 II. Conocer de las notificaciones o avisos que deriven de los Contratos previstos en la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+(REFORMADA, D.O.F. 31 DE ENERO DE 2024) (F. DE E., D.O.F. 24 DE ABRIL DE 2024)
 
-III. Resguardar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial en relación con las Asignaciones, así como las garantías originales de cumplimiento y aquellas garantías corporativas de los Contratos suscritos;
+III. Resguardar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial en relación con los Contratos, así como las garantías originales de cumplimiento y aquellas garantías corporativas de los Contratos suscritos;
 
 IV. En caso de que del ejercicio de sus atribuciones detecte que un concesionario minero está llevando a cabo actividades de Exploración o Extracción de Hidrocarburos, dar aviso a la Secretaría y a la Secretaría de Economía;
 
