@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-i-2023-de-la-163946"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-02-02"
-last_updated: "2023-02-02"
+last_updated: "2024-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163946&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2023-01-27"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN LA ESTRUCTURA ORGÁNICA Y DIVERSAS ATRIBUCIONES DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA Y LA COORDINACIÓN GENERAL DE ASESORES DE LA PRESIDENCIA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2024.
 
 Acuerdo publicado en el Número 2 del Diario Oficial de la Federación, el jueves 2 de febrero de 2023.
 
@@ -61,13 +61,13 @@ IV. La Unidad General de Enlace con los Poderes Federales, que ejercerá las atr
 
 V. La Dirección General de Servicios Médicos, que ejercerá las atribuciones previstas en el artículo 15 del ROMA;
 
-VI. La Dirección General de Comunicación Social, que ejercerá las atribuciones previstas en el artículo 16 del ROMA;
+VI. (DEROGADA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2024, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 24 DE ABRIL DE 2024)
 
 VII. La Dirección General de Justicia TV Canal del Poder Judicial de la Federación, que ejercerá las atribuciones previstas en el artículo 17 del ROMA;
 
 VIII. La Dirección General de Casas de la Cultura Jurídica, que ejercerá las atribuciones previstas en el artículo 18 del ROMA;
 
-IX. La Unidad General de Administración del Conocimiento Jurídico, que ejercerá las atribuciones previstas en el artículo 19 del ROMA;
+IX. (DEROGADA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2024, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 24 DE ABRIL DE 2024)
 
 X. La Dirección General de Derechos Humanos, que ejercerá las atribuciones previstas en el artículo 21 del ROMA;
 
@@ -96,3 +96,23 @@ Así lo acordó y firma la Ministra Norma Lucía Piña Hernández, Presidenta de
 Ministra Presidenta Norma Lucía Piña Hernández.- Rúbrica.- Director General de Asuntos Jurídicos, Luis Fernando Corona Horta.- Rúbrica.
 
 EN LA CIUDAD DE MÉXICO A VEINTISIETE DE ENERO DE DOS MIL VEINTITRÉS, EL MAESTRO LUIS FERNANDO CORONA HORTA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 10, FRACCIÓN XIII, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.- CERTIFICA: Que la presente copia constante de ocho fojas útiles concuerda fiel y exactamente con el ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN LA ESTRUCTURA ORGÁNICA Y DIVERSAS ATRIBUCIONES DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA Y LA COORDINACIÓN GENERAL DE ASESORES DE LA PRESIDENCIA, mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2024, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE ABRIL DE DOS MIL VEINTICUATRO, POR EL QUE SE ESTABLECE LA DENOMINACIÓN Y ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PARTICIPACIÓN SOCIAL, SE LE TRASLADAN ALGUNAS QUE ORIGINALMENTE CORRESPONDEN A LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL, Y SE ADICIONAN ATRIBUCIONES A LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se derogan las fracciones VI y IX, del segundo párrafo del numeral Primero del Acuerdo General de Administración número I/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veintiséis de enero de dos mil veintitrés, por el que se modifican la estructura orgánica y diversas atribuciones de la Secretaría General de la Presidencia y la Coordinación General de Asesores de la Presidencia. Asimismo, se derogan las disposiciones jurídicas que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Con motivo de la entrada en vigor del presente Acuerdo General de Administración y de conformidad con las disposiciones jurídicas aplicables, deberá formalizarse la entrega y recepción a la Dirección General de Tecnologías de la Información y a la Dirección General de Participación Social de los recursos humanos, materiales y financieros, información y documentación que correspondan; entre ellas, así como entre esta última y la Dirección General de Comunicación Social.
+
+CUARTO. La Oficialía Mayor, en coordinación con los órganos y áreas competentes, realizará las acciones necesarias para adecuar las estructuras orgánicas conforme al presente Acuerdo General de Administración, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor de este instrumento.
+
+QUINTO. Las referencias que se hagan en las disposiciones jurídicas aplicables a la Unidad General de Administración del Conocimiento Jurídico y a la Dirección General de Comunicación Social, se entenderán hechas al área a la que se le asignan las atribuciones conforme al presente Acuerdo General de Administración.
+
+SEXTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense las anotaciones respectivas al Acuerdo General de Administración número I/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veintiséis de enero de dos mil veintitrés, por el que se modifican la estructura orgánica y diversas atribuciones de la Secretaría General de la Presidencia y la Coordinación General de Asesores de la Presidencia.
+
+SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
