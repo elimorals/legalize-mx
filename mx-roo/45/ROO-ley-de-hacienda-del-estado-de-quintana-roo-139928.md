@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2023-12-21"
+last_updated: "2024-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -1339,6 +1339,14 @@ P.O. 21 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 173 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
 
-PRIMERO. La vigencia de los párrafos segundo y tercero del artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, que se adicionan en el presente Decreto, entrarán en vigor el día primero del mes de abril del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2024)</small>
+
+PRIMERO. La vigencia de los párrafos segundo y tercero del artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, que se adicionan en el presente Decreto, iniciará a partir del día primero del mes de agosto del año 2024.
 
 SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 222 POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 173, EXPEDIDO POR LA HONORABLE XVII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+UNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
