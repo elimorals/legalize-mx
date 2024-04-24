@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-infraestructura-fisica-educativa-del-estado-de-75666"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2019-08-09"
+last_updated: "2024-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -119,9 +119,17 @@ III. La generación de procesos de planeación, para que los recursos se aplique
 
 IV. La creación de mecanismos que permitan prevenir y dar respuesta a las contingencias derivadas de desastres naturales;
 
-V. La coordinación de las acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la participación y la toma de decisiones conjuntas de las instituciones públicas del Estado, o con otros órdenes de gobierno, además de los sectores de la sociedad, y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2024)</small>
 
-VI. Las acciones de regulación, vigilancia y supervisión que realice el Instituto.
+V. La coordinación de las acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la participación y la toma de decisiones conjuntas de las instituciones públicas del Estado, o con otros órdenes de gobierno, además de los sectores de la sociedad;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2024)</small>
+
+VI. Las acciones de regulación, vigilancia y supervisión que realice el Instituto, y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2024)</small>
+
+VII. La construcción de domos u otros tipos de infraestructuras análogas en todos los planteles de educación pública básica, media superior y superior del Estado.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE INSTITUCIONES PÚBLICAS Y PRIVADAS
 
@@ -170,6 +178,10 @@ El objetivo del instituto es fungir como un organismo con capacidad normativa, d
 El Instituto tiene las atribuciones siguientes:
 
 I. Fungir como autoridad rectora en materia de infraestructura física educativa, con capacidad normativa en el ámbito de competencia del Estado, de consultoría y de certificación;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2024)</small>
+
+I Bis. Gestionar las acciones y recursos necesarios para la planificación, construcción y mantenimiento de domos u otros tipos de infraestructuras análogas en todos los planteles de educación pública básica, media superior y superior del Estado, bajo la suficiencia de los recursos autorizados para este propósito.
 
 II. Ejecutar los programas de Infraestructura Física Educativa que emita la Secretaría, con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal del desarrollo, establezca el Ejecutivo del Estado;
 
@@ -372,3 +384,11 @@ P.O. 9 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 341, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN CIVIL ESCOLAR”.]
 
 ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 24 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 225 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE IMPULSO Y FORTALECIMIENTO A LA INFRAESTRUCTURA FÍSICA EDUCATIVA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que resulten contrarias al presente Decreto.
