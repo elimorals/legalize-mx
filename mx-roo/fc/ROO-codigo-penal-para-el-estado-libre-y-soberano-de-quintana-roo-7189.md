@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-04-23"
+last_updated: "2024-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -4181,6 +4181,20 @@ Se presume que no se tomaron las precauciones ni las providencias indispensables
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 234 BIS.- Comete el delito de encubrimiento por receptación, quien después de ejecutado un delito y sin haber participado en él, adquiera, posea, enajene, reciba, comercialice, pignore, oculte o trafique los instrumentos, objetos o productos del delito con conocimiento de esta circunstancia.
+
+Si el valor del objeto, instrumento o producto del delito no excede de quinientas Unidades de Medida y Actualización vigente, se impondrán de tres a siete años de prisión y de cincuenta a quinientos días multa.
+
+Si el valor del objeto, instrumento o producto del delito excede de quinientas veces la Unidad de Medida y Actualización vigente, se le impondrá una pena de cinco a diez años de prisión y de doscientas a mil días multa.
+
+(NOTA: EL 22 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 223, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 234 TER.- Si quien recibió en venta, prenda o bajo cualquier otro concepto los instrumentos, objetos o productos del delito, después de su ejecución, no tomó las precauciones para cerciorarse de la legalidad de su procedencia o para asegurarse de que la persona de quien los recibió tenía derecho a disponer de ellos, se le impondrán las penas de seis meses a tres años de prisión y de cincuenta a quinientos días multa.
+
 ### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
@@ -5540,3 +5554,11 @@ P.O. 23 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 24 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 223 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 234 BIS Y 234 TER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
