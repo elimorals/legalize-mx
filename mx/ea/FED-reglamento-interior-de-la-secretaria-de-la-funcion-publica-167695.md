@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-1676
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-09-04"
-last_updated: "2023-09-04"
+last_updated: "2024-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-08-31"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 4 de septiembre de 2023.
 
@@ -59,35 +59,55 @@ V. Determinar la forma de suplir la ausencia de la persona titular de la Secreta
 
 La Secretaría de la Función Pública es una de las dependencias que integran la Administración Pública Centralizada para el despacho de los asuntos administrativos atribuidos al Poder Ejecutivo de la Unión, de conformidad con las facultades que le confieren la Ley Orgánica de la Administración Pública Federal y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes de la persona titular del Ejecutivo Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 3.
 
-En la aplicación e interpretación de este reglamento se está a las definiciones siguientes:
+En la aplicación de este reglamento se debe estar a las definiciones siguientes:
 
 I. Área: una unidad administrativa de la Secretaría adscrita a un órgano interno de control, a una unidad de responsabilidades, o a una delegación de la unidad de responsabilidades, para auxiliar a sus titulares en el ejercicio de sus respectivas facultades;
 
-II. Persona comisaria pública: la persona servidora pública que integra el órgano de vigilancia de una entidad, y es designada por la persona titular de la Secretaría, en términos de los artículos 60 y 63 de la Ley Federal de las Entidades Paraestatales, y 37, fracción XI, de la Ley Orgánica de la Administración Pública Federal;
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I Bis. Auditores externos: las personas designadas en los términos de los lineamientos que emita la Secretaría de la Función Pública de conformidad con el artículo 37, fracción X, de la Ley Orgánica de la Administración Pública Federal, para realizar auditorías del patrimonio público federal;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Comisaria o comisario público: la persona servidora pública que integra el órgano de vigilancia de una entidad, designada por la persona titular de la Secretaría de la Función Pública, en términos de los artículos 60 y 63 de la Ley Federal de las Entidades Paraestatales, y 37, fracción XI, de la Ley Orgánica de la Administración Pública Federal;
 
 III. CompraNet: el sistema electrónico a cargo de la Secretaría que contiene información pública gubernamental sobre adquisiciones de bienes, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas y la Ley de Asociaciones Público Privadas;
 
 IV. Control interno: los actos efectuados por la Secretaría para asegurar razonablemente la consecución de metas y objetivos de las dependencias y sus órganos administrativos desconcentrados, y entidades, la salvaguarda de los recursos públicos, la prevención de actos contrarios a la integridad de las personas servidoras públicas, así como para identificar, gestionar y controlar riesgos de incumplimientos, desviaciones y situaciones no deseadas o inesperadas, en todas las etapas de su operación;
 
-V. Persona delegada: la persona servidora pública que es designada por la persona titular de la Secretaría ante una dependencia o su órgano administrativo desconcentrado, en términos del artículo 37, fracción XI, de la Ley Orgánica de la Administración Pública Federal;
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VI. Persona delegada de la unidad de responsabilidades: la persona servidora pública que es designada por la persona titular de la Secretaría ante una empresa productiva subsidiaria, con las facultades que la Ley General de Responsabilidades Administrativas atribuya a las personas titulares de las unidades de responsabilidades y a las personas titulares de sus respectivas áreas de quejas y de responsabilidades;
+IV Bis. Declarante: la persona servidora pública obligada a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de la Ley General de Responsabilidades Administrativas;
+
+V. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
+
+VI. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 VII. Dependencia: a las secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal, los órganos reguladores coordinados en materia energética y la Oficina de la Presidencia de la República;
 
-VIII. Empresa productiva del Estado: a Petróleos Mexicanos y a la Comisión Federal de Electricidad;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Empresa productiva del Estado: una persona jurídica sujeta a un régimen legal especial, la cual es propiedad exclusiva del Gobierno federal, como lo son Petróleos Mexicanos y la Comisión Federal de Electricidad, de conformidad con los artículos 2 de la Ley de Petróleos Mexicanos, y 2 de la Ley de la Comisión Federal de Electricidad;
 
 IX. Empresa productiva subsidiaria: Una persona jurídica sujeta a un régimen legal especial, de apoyo al cumplimiento del objeto de una empresa productiva del Estado, de conformidad con la Ley de Petróleos Mexicanos y la Ley de la Comisión Federal de Electricidad;
 
 X. Entidad: a los organismos descentralizados, empresas de participación estatal mayoritaria, y fideicomisos públicos, en términos de la Ley Orgánica de la Administración Pública Federal;
 
-XI. Persona auditora externa: la persona física independiente o la persona física que pertenece a una persona moral determinada designada por la Secretaría de la persona titular de la Jefatura, de conformidad con el artículo 37, fracción X, de la Ley Orgánica de la Administración Pública Federal y demás disposiciones jurídicas aplicables;
+XI. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 XII. Oficina de representación: la unidad administrativa de la Secretaría destinada a auxiliar a un órgano interno de control especializado, en el ejercicio de sus respectivas facultades;
 
-XIII. Órgano interno de control: la unidad administrativa de la Secretaría, con facultades para actuar en las materias a las que se refieren los artículos 109 de la Constitución Política de los Estados Unidos Mexicanos y 37, fracciones VIII, IX y XVIII, y 44, de la Ley Orgánica de la Administración Pública Federal;
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XII Bis. Órgano administrativo desconcentrado: una unidad administrativa jerárquicamente subordinada a una secretaría de Estado, con facultades en materias expresamente determinadas; de conformidad con el artículo 17 de la Ley Orgánica de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII. Órgano interno de control: la unidad administrativa de la Secretaría, con facultades para actuar en las materias a las que se refieren los artículos 109, fracción III, de la Constitución Política de los Estados Unidos Mexicanos y 37, fracciones VIII, IX y XVIII, y 44, de la Ley Orgánica de la Administración Pública Federal;
 
 XIV. Órgano interno de control especializado: el órgano interno de control con facultades para actuar exclusivamente en una de las materias determinadas en este reglamento;
 
@@ -95,9 +115,23 @@ XV. Órgano interno de control específico: el órgano interno de control con fa
 
 XVI. Plan Anual de Fiscalización: la sección del Plan Anual de Trabajo y de Evaluación en la que se consignan los actos de fiscalización que deben realizar las unidades administrativas fiscalizadoras de la Secretaría, incluidos los órganos internos de control;
 
-XVII. Plan Anual de Trabajo y de Evaluación: el ordenamiento que las unidades administrativas fiscalizadoras de la Secretaría, incluidos los órganos internos de control, las unidades de responsabilidades y las delegaciones de la unidades de responsabilidades, deben formular en el mes de noviembre de cada año, de conformidad con el artículo 44, párrafo quinto, de la Ley Orgánica de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVII. Plan Anual de Trabajo y de Evaluación: el ordenamiento que las unidades administrativas fiscalizadoras de la Secretaría, incluidos los órganos internos de control, las unidades de responsabilidades y las delegaciones de Unidad de Responsabilidades, deben formular en el mes de noviembre de cada año, de conformidad con el artículo 44, párrafo quinto, de la Ley Orgánica de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVII Bis. Personal Delegado: servidores públicos designados por la persona titular de la Secretaría de la Función Pública ante una dependencia u órgano administrativo desconcentrado, en términos del artículo 37, fracción XI, de la Ley Orgánica de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVII Ter. Personal Delegado de Unidad de Responsabilidades: servidores públicos designados por la persona titular de la Secretaría de la Función Pública ante una empresa productiva subsidiaria, con las facultades que la Ley General de Responsabilidades Administrativas atribuya a los titulares de las unidades de Responsabilidades y a los titulares de sus respectivas áreas de Quejas y de Responsabilidades;
 
 XVIII. Secretaría: la Secretaría de la Función Pública;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVIII Bis. Sistema Integral de Evolución Patrimonial: el registro previsto en la Ley General de Responsabilidades Administrativas, en el que deben inscribirse los datos públicos de los servidores públicos obligados a presentar declaraciones de situación patrimonial y de intereses, así como la constancia que emita la autoridad fiscal sobre la presentación de la declaración anual de impuestos;
 
 XIX. Sitios web de la Secretaría: Los conjuntos de páginas web agrupadas bajo los dominios de internet con los que cuente la Secretaría;
 
@@ -105,11 +139,17 @@ XX. Subsecretaría: la Subsecretaría de la Función Pública;
 
 XXI. Unidad administrativa: parte integrante de una dependencia o de sus órganos administrativos desconcentrados, entidad o empresa productiva del Estado, con independencia de su denominación o rango jerárquico, como lo es una Subsecretaría, una coordinación general, una unidad, una dirección general, una coordinación, una dirección, una subdirección, una jefatura de departamento, entre otras;
 
-XXII. Unidad fiscalizada: la unidad administrativa de una dependencia o de sus órganos administrativos desconcentrados o entidad, incluidos los fideicomisos públicos no paraestatales y, en su caso, una entidad federativa, un municipio o una demarcación territorial de la Ciudad de México cuando se le practiquen actos de fiscalización por ejercer recursos federales;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-XXIII. Unidad fiscalizadora: la unidad administrativa de la Secretaría dotada de competencia en materia de fiscalización, en términos del presente reglamento, incluidos los órganos internos de control, y
+XXII. Unidad de responsabilidades: la unidad administrativa de la Secretaría, con facultades para actuar en una empresa productiva del Estado, de conformidad con la Ley General de Responsabilidades Administrativas;
 
-XXIV. Unidad de responsabilidades: la unidad administrativa de la Secretaría, con facultades para actuar en una empresa productiva del Estado, de conformidad con la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XXIII. Unidad fiscalizada: la unidad administrativa de una dependencia o de sus órganos administrativos desconcentrados o entidad, incluidos los fideicomisos públicos no paraestatales y, en su caso, una entidad federativa, un municipio o una demarcación territorial de Ciudad de México cuando se le practiquen actos de fiscalización por ejercer recursos federales, y
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XXIV. Unidad fiscalizadora: la unidad administrativa de la Secretaría dotada de competencia en materia de fiscalización, en términos del presente reglamento, incluidos los órganos internos de control.
 
 ###### Artículo 4.
 
@@ -139,9 +179,11 @@ XI. La Dirección General de Comunicación Social, y
 
 XII. Las demás establecidas en este reglamento y las que se establezcan en el Manual de Organización General de la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 5.
 
-La persona titular de la Secretaría ejerce el mando directo sobre las personas titulares de las unidades administrativas previstas en las fracciones I a XI del artículo 7 de este reglamento, sin perjuicio de ejercerlo eventualmente sobre las personas titulares de las demás unidades administrativas de la Secretaría.
+La persona titular de la Secretaría ejerce el mando directo sobre los servidores públicos titulares de las unidades administrativas previstas en las fracciones I a XI del artículo 4 de este reglamento, sin perjuicio de ejercer eventualmente dicho mando sobre las demás unidades administrativas de la Secretaría.
 
 ###### Artículo 6.
 
@@ -163,13 +205,21 @@ c) La Dirección General de Recursos Materiales y Servicios Generales;
 
 d) La Dirección General de Tecnologías de Información, y
 
-e) La Dirección General del Centro de Estudios para Prevenir la Corrupción e Impunidad;
+e) (DEROGADO, D.O.F. 24 DE ABRIL DE 2024)
 
 II. La Unidad de Políticas Anticorrupción, a la cual, a su vez, se adscriben:
 
-a) La Dirección General de Transparencia y Gobierno Abierto, y
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-b) La Dirección General de Vinculación Nacional e Internacional;
+a) La Dirección General de Transparencia y Gobierno Abierto;
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+b) La Dirección General de Vinculación Nacional e Internacional, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+c) La Dirección General del Centro de Estudios para Prevenir la Corrupción e Impunidad;
 
 III. La Unidad de Asuntos Jurídicos, a la cual, a su vez, se adscriben:
 
@@ -469,11 +519,37 @@ II. La Coordinación de Vinculación Empresarial.
 
 Se entiende que hay ausencia de una persona servidora pública de la Secretaría, salvo prueba en contrario, cuando la persona suplente suscriba un documento público con tal carácter.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 9.
 
-La ausencia de las personas servidoras públicas de la Secretaría debe suplirse de conformidad con las reglas siguientes:
+La ausencia de los servidores públicos de la Secretaría debe suplirse de conformidad con las reglas siguientes:
 
-I. La persona titular de la Secretaría por las personas titulares de la Subsecretaría, las coordinaciones generales de Fiscalización, de Gobierno de Órganos de Control y Vigilancia, de Combate a la Impunidad y de Vinculación con la Sociedad, la Unidad de Administración y Finanzas, la Unidad de Políticas Anticorrupción, la Unidad de Asuntos Jurídicos, el Órgano Interno de Control de la Secretaría y la Dirección General de Comunicación Social, en el orden mencionado;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. La ausencia de la persona titular de la Secretaría se suple por las personas titulares de las unidades administrativas siguientes, en el ámbito de sus respectivas facultades:
+
+a) De la Subsecretaría;
+
+b) De la Coordinación General de Fiscalización;
+
+c) De la Coordinación General de Gobierno Eficaz y Probidad;
+
+d) De la Coordinación General de Gobierno de Órganos de Control y Vigilancia;
+
+e) De la Coordinación General de Combate a la Impunidad;
+
+f) De la Coordinación General de Vinculación con la Sociedad;
+
+g) De la Unidad de Administración y Finanzas;
+
+h) De la Jefatura de la Unidad de Políticas Anticorrupción;
+
+i) De la Jefatura de la Unidad de Asuntos Jurídicos;
+
+j) Del Órgano Interno de Control de la Secretaría, y
+
+k) De la Dirección General de Comunicación Social;
 
 II. La persona titular de la Subsecretaría por las personas titulares de las unidades del Sistema Electrónico de Contrataciones Públicas, de Planeación e Investigaciones de Mercado, de Compras y Contrataciones Públicas Consolidadas, de Gobierno de las Unidades de Administración y Finanzas, y de Normatividad de Contrataciones Públicas, en el ámbito de sus respectivas competencias;
 
@@ -709,11 +785,17 @@ II. Expedir, previa revisión de la Unidad de Asuntos Jurídicos, los ordenamien
 
 III. Celebrar convenios, contratos y acuerdos en las materias que sean de la competencia de la unidad administrativa a su cargo, previo acuerdo de la persona titular de la Secretaría y revisión del documento respectivo por parte de la Unidad de Asuntos Jurídicos. Dicha revisión no será aplicable para las materias de adquisiciones de bienes, arrendamientos de bienes muebles, servicios, obras públicas y servicios relacionados con las mismas.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+Solo la persona titular de la Secretaría puede exceptuar de la previa revisión que la Unidad de Asuntos Jurídicos debe hacer en los términos de este artículo.
+
 ### Capítulo II. De las Personas Servidoras Públicas Auxiliares Indirectas de la Persona Titular de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
 ###### Artículo 16.
 
-Las personas titulares de las jefaturas de las unidades distintas de la de Administración y Finanzas, de la de Políticas Anticorrupción, y de la de Asuntos Jurídicos; las personas titulares de las direcciones generales distintas de Comunicación Social, así como las personas titulares de las coordinaciones y direcciones tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
+Las personas titulares de las jefaturas de unidad, de las direcciones generales, de las coordinaciones y de las direcciones de área que forman parte de la estructura orgánica de la Secretaría tienen las facultades siguientes:
 
 I. Acordar con su superior jerárquico inmediato, los asuntos de las unidades administrativas que tengan adscritas;
 
@@ -747,7 +829,9 @@ XI. Coordinar a las unidades administrativas que tengan adscritas con otras de l
 
 XII. Requerir a cualquier persona servidora pública, con independencia de su jerarquía, sea de la Federación, de las entidades federativas, de los municipios, de las demarcaciones territoriales de la Ciudad de México y de los órganos constitucionales autónomos, los informes, datos o la cooperación técnica necesaria para el ejercicio de sus respectivas facultades, en términos de las disposiciones jurídicas aplicables;
 
-XIII. Proporcionar, en términos de las disposiciones jurídicas aplicables, los informes, datos o la cooperación técnica que cualquiera persona servidora pública le solicite por escrito, fundado y motivado, para el ejercicio de sus respectivas facultades, con independencia de su jerarquía, sea de la Federación, de las entidades federativas, de los municipios, de la (sic) demarcaciones territoriales de la Ciudad de México y de los órganos constitucionales autónomos;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII. Proporcionar los informes, datos o la cooperación técnica que cualquier persona servidora pública le solicite por escrito, fundado y motivado, para el ejercicio de sus respectivas facultades, con independencia de su jerarquía, sea de la Federación, de las entidades federativas, de los municipios, de las alcaldías de las demarcaciones territoriales de Ciudad de México o de los órganos constitucionales autónomos;
 
 XIV. Responder, por sí o por medio de las personas titulares de las unidades administrativas que tengan adscritas, las solicitudes de información pública, las de datos personales y, en general, las peticiones que los particulares le formulen;
 
@@ -773,7 +857,13 @@ XVIII. Ejercer directamente las facultades que este reglamento y demás ordenami
 
 XIX. Informar a su superior jerárquico inmediato, sobre el estado de los asuntos a su cargo y, en general, sobre el ejercicio que hayan hecho de sus facultades, y
 
-XX. Las demás que les atribuya (sic) este reglamento y otros ordenamientos.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XX. Las demás que les atribuyan otros ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+Quedan exceptuadas de lo previsto en el párrafo primero de este artículo las personas titulares de: la Unidad de Administración y Finanzas, la Unidad de Políticas Anticorrupción, la Unidad de Asuntos Jurídicos y la Dirección General de Comunicación Social.
 
 ### Capítulo III. De las Personas Servidoras Públicas de la Secretaría
 
@@ -901,25 +991,51 @@ IV. Las personas titulares de las demás unidades administrativas de la Secretar
 
 La autoridad substanciadora y la resolutora de un procedimiento de responsabilidad administrativa deben ser siempre distintas de la autoridad investigadora de las faltas administrativas que hayan dado lugar al procedimiento referido.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+###### Artículo 21 Bis.
+
+Se delegan en la persona titular de la Coordinación General de Gobierno de Órganos de Control y Vigilancia y en la respectiva de la Coordinación General de Combate a la Impunidad, para su ejercicio por separado, las facultades siguientes:
+
+I. Para solicitar a las instituciones de crédito o a las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando se requiera para verificar la evolución de la situación patrimonial de los declarantes, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos; facultad prevista en el artículo 38 de la Ley General de Responsabilidades Administrativas, y
+
+II. Para solicitar a las instituciones de crédito o a las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios y, en general, aquella que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que sea necesaria para el desarrollo de investigaciones por faltas administrativas graves; facultad prevista en el artículo 95 de la Ley General de Responsabilidades Administrativas.
+
+Las facultades previstas en las fracciones anteriores se delegan sin perjuicio de su ejercicio por parte de la persona titular de la Secretaría.
+
 ## TÍTULO CUARTO. DEL CENTRO DE ESTUDIOS PARA PREVENIR LA CORRUPCIÓN E IMPUNIDAD
 
 ### Capítulo Único. De la Organización y Competencia del Centro de Estudios para Prevenir la Corrupción e Impunidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2024)</small>
 
 ###### Artículo 22.
 
 El Centro de Estudios para Prevenir la Corrupción e Impunidad tiene los objetivos siguientes:
 
-I. Impartir, a las personas servidoras públicas de la Secretaría, formación inicial, capacitación, actualización, especialización y transferencia de conocimientos en materia de prevención y combate a la corrupción e impunidad;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Impartir formación inicial y común, capacitación, actualización y especialización en materia de prevención y combate a la corrupción e impunidad a las personas servidoras públicas de la Secretaría;
 
 II. Desarrollar programas nacionales e internacionales para la formación y capacitación en materia de prevención y combate a la corrupción e impunidad;
 
-III. Realizar y difundir estudios e investigaciones en materia de prevención y combate a la corrupción e impunidad;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Promover y difundir estudios e investigaciones en materia de prevención y combate a la corrupción e impunidad para la Administración Pública Federal y, en su caso, realizar e implementar dichos estudios e investigaciones;
 
 IV. Homologar las actividades de investigación, formación y capacitación que realice la Secretaría en materia de prevención y combate a la corrupción e impunidad;
 
-V. Publicar obras de investigación y divulgación en materia de prevención y combate a la corrupción e impunidad, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VI. Colaborar con las dependencias, entidades, órganos constitucionales autónomos y demás entes públicos, así como con los sectores social y privado, en la ejecución de programas que promuevan la prevención y combate a la corrupción e impunidad.
+V. Promover la publicación de obras de investigación y divulgación en materia de prevención y combate a la corrupción e impunidad y, en su caso, publicar dichas obras;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Colaborar con las dependencias, entidades, órganos constitucionales autónomos y demás entes públicos, así como con los sectores social y privado, en la ejecución de programas que promuevan la profesionalización en materia de prevención y combate a la corrupción e impunidad, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Impartir la capacitación necesaria para la profesionalización continua de las personas servidoras públicas de la Secretaría.
 
 ###### Artículo 23.
 
@@ -931,9 +1047,11 @@ II. La persona titular de la Dirección General del Centro de Estudios para Prev
 
 III. El personal administrativo necesario para el cumplimiento de sus objetivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 24.
 
-El Consejo de la Política de Capacitación se integra por:
+El Consejo de la Política de Capacitación es un órgano colegiado consultivo de la Secretaría, integrado por:
 
 I. La persona titular de la Secretaría, quien lo preside;
 
@@ -1055,7 +1173,9 @@ III. La persona titular de la Jefatura de la Unidad de Compras y Contrataciones 
 
 IV. La persona titular de la Jefatura de la Unidad de Gobierno de las Unidades de Administración y Finanzas;
 
-V. La persona titular de la Jefatura la persona titular de la Jefatura (sic) de la Unidad de Normatividad de Contrataciones Públicas, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. La persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas, y
 
 VI. La persona titular de la Dirección General de Obra Pública.
 
@@ -1071,7 +1191,9 @@ II. Capacitar a personas licitantes, contratistas, proveedoras y servidoras púb
 
 III. Difundir y promover la aplicación de las normas, lineamientos, políticas, criterios, metodologías y herramientas tecnológicas vinculadas con la operación del CompraNet;
 
-IV. Administrar el CompraNet, y los sistemas legados;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Supervisar la administración del CompraNet, y los sistemas legados;
 
 V. Emitir, previa opinión de la Unidad de Normatividad de Contrataciones Públicas, los ordenamientos que se deban observar para el uso, recepción, emisión, manejo y tratamiento de la información por medio de CompraNet y de los sistemas legados, así como emitir los criterios y procedimientos de carácter técnico que se requieran para el uso de dichos sistemas;
 
@@ -1091,7 +1213,9 @@ XII. Proponer a la Subsecretaría, en coordinación con la Unidad de Normativida
 
 XIII. Requerir a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, información en materia de contrataciones públicas relacionadas con el uso de CompraNet;
 
-XIV. Establecer lineamientos en materia de seguridad de la información de las contrataciones públicas contenida en el CompraNet para su resguardo;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIV. Establecer políticas y lineamientos en materia de seguridad de la información relacionadas con las contrataciones públicas contenida en el CompraNet para su resguardo;
 
 XV. Registrar a las personas usuarias que soliciten las dependencias, entidades y demás entes públicos, para el acceso y uso de CompraNet, así como otorgar la contraseña respectiva;
 
@@ -1133,7 +1257,9 @@ VIII. Coordinar la investigación de mejores prácticas tecnológicas a nivel in
 
 La persona titular de la Dirección General de la Plataforma Digital de Contrataciones Públicas tiene las facultades siguientes:
 
-I. Operar el CompraNet;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Administrar el CompraNet;
 
 II. Establecer los planes para la dirección de proyectos que coadyuven al cumplimiento del desarrollo y mejora continua de CompraNet;
 
@@ -1141,7 +1267,9 @@ III. Proponer a la persona titular de la Jefatura de la Unidad del Sistema Elect
 
 IV. Realizar el desarrollo y actualización de los componentes de CompraNet, para su optimización;
 
-V. Apoyar técnicamente la operación de CompraNet;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Proporcionar a la Unidad del Sistema Electrónico de Contrataciones Públicas elementos técnicos para la operación del CompraNet;
 
 VI. Participar con la Dirección General de Innovación de Contrataciones Públicas en la propuesta de la estrategia en materia de innovación tecnológica dentro de los procedimientos de contrataciones públicas;
 
@@ -1197,11 +1325,15 @@ XII. Aplicar estándares para el control de la información en materia de contra
 
 La persona titular de la Jefatura de la Unidad de Planeación e Investigaciones de Mercado tiene las facultades siguientes:
 
-I. Dirigir los estudios y procesos de planeación necesarios para identificar los bienes, arrendamientos y servicios de uso generalizado en las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, que sean susceptibles de un proceso de consolidación;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Dirigir los estudios y procesos de planeación necesarios para identificar los bienes, arrendamientos y servicios de uso generalizado que puedan ser susceptibles de un proceso de consolidación o contrato marco por parte de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
 
 II. Proponer a la Subsecretaría los bienes, arrendamientos o servicios de uso generalizado susceptibles de contratar de forma consolidada;
 
-III. Dirigir las estrategias que, en materia de planeación, permitan llevar a cabo la estandarización y agregación de los bienes, arrendamientos o servicios de uso generalizado susceptibles de consolidación, o cualquier otra estrategia que garantice las mejores condiciones de contratación;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Dirigir las estrategias que, en materia de planeación, permitan llevar a cabo la estandarización y agregación de la demanda de los bienes, arrendamientos o servicios de uso generalizado, susceptibles de consolidación o de ser adquiridos a través de contratos marco, así como cualquier otra estrategia que tenga por objeto garantizar las mejores condiciones de contratación;
 
 IV. Determinar los criterios para la elaboración de anexos técnicos, especificaciones técnicas, agregación de demanda y metodología de las investigaciones de mercado para las adquisiciones de bienes, arrendamientos y servicios;
 
@@ -1217,13 +1349,17 @@ IX. Coordinar el registro de las reservas de compras del sector público, que ll
 
 X. Coordinar, con las unidades administrativas competentes de la Secretaría, la elaboración de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones bajo la cobertura de los tratados de libre comercio, respecto de procedimientos de contratación del sector público;
 
-XI. Coordinar la atención a las consultas que formulen las dependencias, entidades y particulares sobre el cumplimiento de los ordenamientos en materia de contrataciones públicas, respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XI. Coordinar la atención que se deba dar a las consultas formuladas por las dependencias y entidades, sobre el cumplimiento de los ordenamientos en materia de contrataciones públicas, respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
 
 XII. Coordinar la atención a las solicitudes de verificación, que realicen las demás unidades administrativas de la Secretaría, respecto del cumplimiento de los requisitos de contenido nacional en los procedimientos de contratación del sector público;
 
 XIII. Participar en comisiones, comités, grupos de trabajo y órganos o consejos directivos de las instituciones y organismos que traten asuntos en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio, respecto de procedimientos de contratación del sector público;
 
-XIV. Proponer a la persona titular de la Subsecretaría criterios para la elaboración de los catálogos de codificación de bienes, y servicios para las contrataciones de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIV. Proponer a la persona titular de la Subsecretaría criterios para la elaboración de los catálogos de codificación de bienes, arrendamientos y servicios para las contrataciones de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
 
 XV. Proponer a la persona titular de la Subsecretaría la expedición de políticas, estrategias y disposiciones para promover una mayor participación de la proveeduría nacional en las compras del sector público, con énfasis en las micro, pequeñas y medianas empresas, en las compras de gobierno;
 
@@ -1251,7 +1387,9 @@ I. Proponer a la persona titular de la Unidad de Planeación e Investigaciones d
 
 II. Proponer a la persona titular de la Jefatura de la Unidad de Planeación e Investigaciones de Mercado los bienes, arrendamientos o servicios de uso generalizado susceptibles de contratar de forma consolidada;
 
-III. Implementar las estrategias de planeación que permitan llevar a cabo la estandarización y agregación de los bienes, arrendamientos o servicios de uso generalizado susceptibles de ser contratados de manera consolidada para garantizar las mejores condiciones de contratación de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Implementar las estrategias que, en materia de planeación, permitan llevar a cabo la estandarización y agregación de la demanda de bienes, arrendamientos o servicios de uso generalizado, susceptibles de consolidación o de un contrato marco, así como cualquier otra estrategia que tenga por objeto garantizar las mejores condiciones de contratación;
 
 IV. Coordinar la integración de la información que proporcionen las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, para la planeación de las contrataciones públicas;
 
@@ -1259,7 +1397,9 @@ V. Participar con las dependencias, incluidos sus órganos administrativos desco
 
 VI. Coordinar la elaboración de las propuestas de normas y lineamientos sobre la planeación de adquisiciones de bienes, arrendamientos y servicios;
 
-VII. Proponer adecuaciones a los catálogos de codificación de bienes y servicios, a fin de homologar la información que se capture en los sistemas electrónicos respectivos;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Proponer adecuaciones a los catálogos de codificación de bienes, arrendamientos y servicios, a fin de homologar la información que se capture en los sistemas electrónicos respectivos;
 
 VIII. Proponer a la persona titular de la Jefatura de la Unidad de Planeación e Investigaciones de Mercado acciones de mejora de los sistemas electrónicos en materia de contrataciones públicas, a partir del análisis de los programas anuales de adquisiciones, arrendamientos y servicios, así como del análisis de contratos y sus anexos en CompraNet y del Presupuesto de Egresos de la Federación;
 
@@ -1267,7 +1407,9 @@ IX. Registrar las reservas de compras del sector público, que lleven a cabo las
 
 X. Participar, con las unidades administrativas competentes de la Secretaría, en la elaboración de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio, respecto de procedimientos de contratación del sector público;
 
-XI. Coordinar las respuestas a las consultas que formulen las dependencias, entidades y particulares sobre el cumplimiento de los ordenamientos en materia de contrataciones públicas, respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XI. Coordinar las respuestas a las consultas que formulen las dependencias y entidades sobre el cumplimiento de los ordenamientos en materia de contrataciones públicas, respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, así como de margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
 
 XII. Atender las solicitudes de verificación, que realicen las demás unidades administrativas de la Secretaría, respecto del cumplimiento de los requisitos de contenido nacional en los procedimientos de contratación del sector público;
 
@@ -1293,7 +1435,9 @@ I. Realizar los estudios y procesos de planeación que permitan identificar los 
 
 II. Procesar la información de los bienes, arrendamientos o servicios de uso generalizado susceptibles de ser contratados de forma consolidada;
 
-III. Proponer a la persona titular de la Dirección General de Planeación las estrategias que permitan llevar a cabo la estandarización y agregación de los bienes, arrendamientos o servicios de uso generalizado susceptibles de ser contratados de manera consolidada;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Proponer a la persona titular de la Dirección General de Planeación las estrategias que, en materia de planeación, permitan llevar a cabo la estandarización y agregación de la demanda de bienes, arrendamientos o servicios de uso generalizado susceptibles de consolidación o de contratos marco, así como cualquier otra estrategia que tenga por objeto garantizar las mejores condiciones de contratación;
 
 IV. Proponer a la persona titular de la Dirección General de Planeación mecanismos que permitan recopilar información y dar seguimiento a las acciones que en materia de planeación se deban ejecutar para llevar a cabo las contrataciones consolidadas de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
 
@@ -1313,7 +1457,9 @@ La persona titular de la Coordinación de Estrategia de Proveeduría Nacional ti
 
 I. Apoyar en el registro de las reservas de compras del sector público, que lleven a cabo las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, conforme a lo establecido en los capítulos de compras de los tratados de libre comercio suscritos por el Estado mexicano;
 
-II. Elaborar las respuestas a las consultas que formulen las dependencias, entidades y particulares sobre el cumplimiento de los ordenamientos en materia de contrataciones públicas, respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Elaborar las respuestas a las consultas que formulen las dependencias y entidades sobre el cumplimiento de los ordenamientos en materia de contrataciones públicas, respecto de las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras y licitaciones internacionales bajo la cobertura de los tratados de libre comercio;
 
 III. Elaborar, con las unidades administrativas competentes de la Secretaría, las reglas de carácter general en materia de contenido nacional y casos de excepción, margen de preferencia en precio, reservas de compras, y licitaciones internacionales bajo cobertura de los tratados de libre comercio, respecto de procedimientos de contratación del sector público, así como dar seguimiento a su aplicación;
 
@@ -1337,7 +1483,9 @@ III. Proponer a la persona titular de la Unidad de Planeación e Investigaciones
 
 IV. Participar en la elaboración de los criterios de análisis de los procesos de investigación de mercado para las adquisiciones de bienes, arrendamientos y servicios;
 
-V. Supervisar las acciones necesarias para la detección de posibles barreras que limiten la participación de proveedores, mediante el análisis de los ordenamientos aplicables en materia de adquisiciones de bienes, arrendamientos y servicios;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Supervisar las acciones necesarias para la detección de barreras que limiten la participación de posibles proveedores, mediante el análisis de los ordenamientos aplicables en materia de adquisiciones de bienes, arrendamientos y servicios;
 
 VI. Organizar reuniones con personas representantes de las cámaras de comercio o de la industria, que tengan por objeto solicitar información técnica necesaria para llevar a cabo los procedimientos de contratación consolidada de adquisición o arrendamiento de bienes o la prestación de los servicios de uso generalizado y contratos marco;
 
@@ -1433,7 +1581,9 @@ VI. Coordinar a las dependencias, incluidos sus órganos administrativos desconc
 
 VII. Requerir a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, la información necesaria para llevar a cabo los procedimientos de contratación consolidada para la adquisición de bienes, arrendamientos y servicios de uso generalizado;
 
-VIII. Participar en equipos de trabajo que se integren con las cámaras de comercio o de la industria, para solicitar información técnica necesaria para llevar a cabo procedimientos de contratación consolidada de adquisición o arrendamiento de bienes o prestación de servicios de uso generalizado y contratos marco;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Participar en equipos de trabajo que se integren con las cámaras de comercio o de la industria, para solicitar información técnica necesaria para llevar a cabo procedimientos de contratación consolidada de adquisición o arrendamiento de bienes o prestación de servicios de uso generalizado;
 
 IX. Proponer, a la persona titular de la Jefatura de la Unidad de Compras y Contrataciones Públicas Consolidadas, disposiciones en materia de contrataciones públicas;
 
@@ -1441,7 +1591,9 @@ X. Elaborar con la participación de las dependencias, incluidos sus órganos ad
 
 XI. Atender con oportunidad los requerimientos de los órganos fiscalizadores en materia de contrataciones consolidadas y contratos marco sobre adquisiciones de bienes, arrendamientos y servicios, y
 
-XII. Atender con oportunidad los requerimientos de las autoridades jurisdiccionales y administrativas en los asuntos de su competencia, en materia de contratación consolidada de adquisiciones de bienes, arrendamientos y servicios y contratos marco.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XII. Atender con oportunidad los requerimientos de las autoridades jurisdiccionales en materia de contratación consolidada de adquisiciones de bienes, arrendamientos y servicios, y de contratos marco.
 
 ###### Artículo 47.
 
@@ -1497,7 +1649,9 @@ VI. Integrar los casos de excepción a la licitación pública de contrataciones
 
 VII. Proporcionar la información necesaria para elaborar los informes que deban entregarse a las instancias fiscalizadoras, derivados de contratación consolidada de adquisiciones de bienes, arrendamientos y servicios de uso generalizado, y
 
-VIII. Coordinar la difusión y actualización de información derivada de los procedimientos de contratación consolidada y contratos marco en el CompraNet y medios de difusión correspondientes.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Coordinar la difusión y actualización de información de los procedimientos de contratación consolidada y contratos marco en el CompraNet y medios de difusión correspondientes.
 
 ###### Artículo 50.
 
@@ -1613,7 +1767,9 @@ VI. Proponer a la persona titular de la Jefatura de la Unidad de Gobierno de las
 
 VII. Proporcionar apoyo técnico y consultivo a las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, para la ejecución de los servicios de apoyo administrativo, siempre que el apoyo no incida en materias que sean de la competencia de otra unidad administrativa de la Secretaría;
 
-VIII. Coadyuvar en la implementación de procesos de las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, en términos del modelo organizacional y de operación;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Coadyuvar en la implementación de procesos en materia de recursos humanos, financieros, materiales, y de tecnologías de la información, de las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, en términos del modelo organizacional y de operación;
 
 IX. Realizar las actividades relacionadas con la consolidación y análisis de información de las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
 
@@ -1621,7 +1777,9 @@ X. Coadyuvar en la conducción y coordinación de la operación de las unidades 
 
 XI. Proponer a la persona titular de la Jefatura de la Unidad de Gobierno de las Unidades de Administración y Finanzas criterios o estrategias para mejorar la operación de las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
 
-XII. Solicitar y concentrar la información relativa a las políticas y programas administrativas (sic) que sean instruidas (sic) por la persona titular de la Subsecretaría y que involucren a las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XII. Solicitar y concentrar la información relativa a las políticas y a los programas administrativos que instruya la persona titular de la Subsecretaría y que involucren a las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
 
 XIII. Requerir información relativa a los programas de trabajo de las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, en términos del modelo organizacional y de operación;
 
@@ -1679,29 +1837,41 @@ e) Los reglamentos, acuerdos, y demás ordenamientos de jerarquía inferior a un
 
 IV. Emitir las opiniones relacionadas con la aplicación de los ordenamientos a que se refiere la fracción anterior;
 
-V. Emitir criterios técnicos-normativos, metodologías, guías, instructivos y demás disposiciones técnicas-normativas en materia de contrataciones públicas;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Emitir criterios, metodologías, guías, instructivos y demás ordenamientos en materia de contrataciones públicas;
 
 VI. Asesorar a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, así como a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, sobre la aplicación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
 VII. Asesorar y brindar acompañamiento preventivo a las dependencias, incluidos sus órganos administrativos desconcentrados, entidades, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, cuando ejerzan recursos federales en la contratación de bienes, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
 
-VIII. Interpretar los términos de los contratos marco;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Interpretar los términos de los contratos marco y revisar, para su formalización, los proyectos de dichos contratos, sus convenios modificatorios y de adhesión;
 
 IX. Promover, unilateral o junto con la Unidad del Sistema Electrónico de Contrataciones Públicas, las acciones para la capacitación de las personas servidoras públicas, en materia de ordenamientos de contrataciones públicas;
 
-X. Asesorar a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades en la elaboración, propuesta o emisión, en el ámbito de sus competencias, de criterios técnicos, metodologías, guías, instructivos y demás disposiciones técnicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X. Asesorar a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades en la elaboración, propuesta o emisión, en el ámbito de sus competencias, de criterios, metodologías, guías, instructivos y demás disposiciones técnicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
 
 XI. Dirigir los estudios jurídicos necesarios en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
 
-XII. Opinar sobre los proyectos de criterios y procedimientos técnicos que emita la Unidad del Sistema Electrónico de Contrataciones Públicas para el uso de los sistemas de comunicación electrónica en las contrataciones públicas;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-XIII. Establecer procedimientos y requisitos para la contratación de adquisiciones de bienes, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas, financiados con fondos provenientes de créditos externos otorgados al Poder Ejecutivo Federal, o con su garantía, por organismos financieros regionales o multilaterales, así como difundirlos;
+XII. Opinar sobre los proyectos de criterios y procedimientos que emita la Unidad del Sistema Electrónico de Contrataciones Públicas para el uso de los sistemas de comunicación electrónica en las contrataciones públicas;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII. Establecer, con la opinión de la Secretaría de Hacienda y Crédito Público, procedimientos y requisitos para la contratación de adquisiciones de bienes, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas, cuando estén financiados con fondos provenientes de créditos externos otorgados al Gobierno federal, o con su garantía, por organismos financieros regionales o multilaterales, así como difundir los citados procedimientos y requisitos;
 
 XIV. Opinar sobre los criterios que proponga la Unidad de Planeación e Investigaciones de Mercado, para la aplicación de reservas, mecanismos de transición y otros supuestos establecidos en los títulos o capítulos de compras de los tratados comerciales suscritos por el Estado mexicano;
 
 XV. Representar a la Secretaría en las negociaciones de los tratados o convenios internacionales en los que participe y se incluyan disposiciones en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
 
-XVI. Notificar a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, conforme a la información proporcionada por la Secretaría de Economía, la actualización de los umbrales a que se refieren los tratados comerciales con capítulos de compras suscritos por el Estado mexicano;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVI. Notificar a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, mediante publicación en el Diario Oficial de la Federación, la actualización de los umbrales a que se refieren los capítulos de compras de los tratados comerciales suscritos por el Estado mexicano;
 
 XVII. Dar atención a las solicitudes de autorización que efectúen las dependencias, incluidos sus órganos administrativos desconcentrados, entidades, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, cuando ejerzan recursos públicos federales, para revisar los costos indirectos y el financiamiento originalmente pactado en los contratos de obra pública, así como determinar la procedencia de ajustarlos, derivados de sus modificaciones en monto y plazo, en los supuestos que prevé la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su reglamento;
 
@@ -1751,9 +1921,13 @@ c) Las demás leyes que atribuyan expresamente a la Secretaría la facultad de i
 
 d) Los reglamentos, acuerdos, y demás ordenamientos de jerarquía inferior a una ley en las materias de los incisos a y b de esta fracción;
 
-III. Atender las consultas que, respecto de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás ordenamientos en esas mismas materias, formulen las dependencias, incluidos sus órganos administrativos desconcentrados, entidades, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, cuando realicen contrataciones con fundamento en esas leyes;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IV. Asesorar a las unidades administrativas de la Secretaría, en la determinación de los aspectos jurídicos de los contratos marco en materia de contrataciones públicas, así como de los ordenamientos en dicha materia, y proponer a la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas la interpretación de los mismos;
+III. Atender las consultas sobre la interpretación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás ordenamientos en esas mismas materias, que formulen las dependencias, incluidos sus órganos administrativos desconcentrados; entidades, entidades federativas, municipios y alcaldías de las demarcaciones territoriales de Ciudad de México, cuando realicen contrataciones con fundamento en esas leyes;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Asesorar a las unidades administrativas de la Secretaría en la determinación de los aspectos jurídicos de los contratos marco en materia de contrataciones públicas, de sus convenios modificatorios y de adhesión;
 
 V. Coordinar, unilateral o junto con la Unidad del Sistema Electrónico de Contrataciones Públicas, las acciones para la capacitación de las personas servidoras públicas, en materia de ordenamientos de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
 
@@ -1761,13 +1935,19 @@ VI. Dirigir las mesas de acompañamiento preventivo en las dependencias, incluid
 
 VII. Colaborar con las unidades administrativas competentes de la Secretaría para la elaboración, propuesta o emisión de metodologías, guías, instructivos o demás ordenamientos en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
 
-VIII. Elaborar el proyecto de opinión que deba emitir la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas sobre las propuestas de criterios y procedimientos de carácter técnico que emita la Unidad del Sistema Electrónico de Contrataciones Públicas para el uso de los sistemas de comunicación electrónica en las contrataciones públicas;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IX. Proponer a la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas los procedimientos y requisitos para las contrataciones públicas financiadas con fondos provenientes de créditos externos otorgados al Poder Ejecutivo Federal, o con su garantía, por organismos financieros regionales o multilaterales, así como la opinión sobre los criterios para la aplicación de reservas, mecanismos de transición y otros supuestos establecidos en los tratados comerciales suscritos por el Estado mexicano;
+VIII. Elaborar el proyecto de opinión que deba emitir la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas sobre las propuestas de criterios y procedimientos que emita la Unidad del Sistema Electrónico de Contrataciones Públicas para el uso de los sistemas de comunicación electrónica en las contrataciones públicas;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IX. Proponer a la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas los procedimientos y requisitos para las contrataciones públicas financiadas con fondos provenientes de créditos externos otorgados al Gobierno federal, o con su garantía, por organismos financieros regionales o multilaterales, así como la opinión sobre los criterios para la aplicación de reservas, mecanismos de transición y otros supuestos establecidos en los tratados comerciales suscritos por el Estado mexicano;
 
 X. Representar a la Subsecretaría, por instrucción de la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas, en las negociaciones de los tratados o convenios internacionales en los que participe, y en donde se incluyan ordenamientos en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
 
-XI. Dar a conocer a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, la actualización de los umbrales a que se refieren los tratados comerciales con capítulos de compras suscritos por el Estado mexicano;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XI. Dirigir la elaboración del oficio circular que deba publicarse en el Diario Oficial de la Federación para notificar a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, la actualización de los umbrales a que se refieren los capítulos de compras de los tratados comerciales suscritos por el Estado mexicano;
 
 XII. Proponer a la persona titular de la Jefatura de la Unidad de Normatividad de Contrataciones Públicas la autorización para que las dependencias, incluidos sus órganos administrativos desconcentrados, entidades, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, cuando ejerzan recursos públicos federales, revisen los costos indirectos y el financiamiento originalmente pactado en los contratos de obra pública que realicen, derivados de sus modificaciones en monto y plazo, en los casos que prevé la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su reglamento, así como la procedencia de ajustarlos;
 
@@ -1811,7 +1991,9 @@ La persona titular de la Coordinación de Normatividad y Análisis Jurídicos ti
 
 I. Proponer a la persona titular de la Dirección General de Normatividad y Apoyo Consultivo proyectos de iniciativas de ley, reglamentos, decretos, acuerdos, circulares y demás ordenamientos en materia de regulación para la conducción y coordinación de la operación de las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, incluso lo relativo a su modelo organizacional y de operación, así como respecto de la Ley Federal de Austeridad Republicana y los lineamientos referentes a la austeridad en el ejercicio del gasto público que deba emitir la Secretaría;
 
-II. Coadyuvar en la asesoría que brinde la Dirección General de Normatividad y Apoyo Consultivo a las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, así como proponer los criterios y opiniones jurídicas que deriven dichas asesorías;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Coadyuvar en la asesoría que brinda la Dirección General de Normatividad y Apoyo Consultivo a las unidades de Administración y Finanzas y equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, así como proponer los criterios y opiniones jurídicas que deriven de dichas asesorías;
 
 III. Proponer a la persona titular de la Dirección General de Normatividad y Apoyo Consultivo la opinión jurídica sobre convenios, contratos, acuerdos y cualquier otro acto jurídico que deba celebrar la persona titular de la Subsecretaría;
 
@@ -1869,7 +2051,9 @@ IV. Aprobar el Plan Anual de Fiscalización, previo acuerdo con la persona titul
 
 V. Autorizar la adición, cancelación o reprogramación de los actos de fiscalización que lleven a cabo las unidades fiscalizadoras;
 
-VI. Ordenar, por sí o por medio de las personas titulares de las jefaturas de unidad que tenga adscritas, la realización de actos de fiscalización;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Ordenar, por sí o por medio de las personas titulares de las jefaturas de unidad que tiene adscritas, la realización de actos de fiscalización dirigidos a las dependencias, incluidos sus órganos administrativos desconcentrados, a entidades y a entidades federativas;
 
 VII. Coordinar la planeación, programación, organización y evaluación de las actividades de las unidades administrativas que tenga adscritas;
 
@@ -1891,7 +2075,9 @@ XV. Coordinar las funciones inherentes a la participación de los testigos socia
 
 XVI. Conocer las acciones para dar seguimiento a los programas derivados del Plan Nacional de Desarrollo a cargo de la Secretaría, así como de aquellos programas en los que participa la Secretaría, en el ámbito de su competencia;
 
-XVII. Contribuir al adecuado funcionamiento del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVII. Contribuir al funcionamiento del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el ámbito de su competencia;
 
 XVIII. Acordar con las demás personas titulares de las coordinaciones generales y de las jefaturas de unidad de la Secretaría, los asuntos y acciones que requieran de su intervención, en el ámbito de sus respectivas competencias;
 
@@ -1915,7 +2101,9 @@ III. La persona titular de la Jefatura de la Unidad de Planeación y Fiscalizaci
 
 La persona titular de la Jefatura de la Unidad de Auditoría Gubernamental tiene las facultades siguientes:
 
-I. Coordinar la formulación del proyecto de Plan Anual de Fiscalización en relación a las partes de auditoría gubernamental, autorizarlas, y someterlas a la aprobación de la persona titular de la Coordinación General de Fiscalización;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Coordinar la formulación del proyecto de Plan Anual de Fiscalización con relación a las partes de auditoría gubernamental, autorizarlas, y someterlas a la aprobación de la persona titular de la Coordinación General de Fiscalización;
 
 II. Auxiliar a la persona titular de la Coordinación General de Fiscalización en la interpretación que haga de los ordenamientos de su competencia;
 
@@ -1923,23 +2111,35 @@ III. Ordenar, por sí o por medio de las unidades administrativas que tenga adsc
 
 IV. Comisionar al personal a su cargo y designar a personal externo para apoyar directa o indirectamente a la Unidad de Auditoría Gubernamental en los actos de fiscalización que sean de su competencia;
 
-V. Solicitar a las unidades fiscalizadas la información y documentación que sea necesaria para la planeación y ejecución de los actos de fiscalización de su competencia, así como para el seguimiento de las acciones promovidas;
+V. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 VI. Solicitar, en términos de las disposiciones jurídicas aplicables, a las personas físicas y morales los informes, documentos, opiniones, datos y demás elementos que requiera para ejercer sus facultades de fiscalización y seguimiento de acciones promovidas;
 
-VII. Someter, para autorización de la persona titular de la Coordinación General de Fiscalización, la adición, cancelación o reprogramación de los actos de fiscalización de su competencia;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Someter a la consideración y, en su caso, aprobación de la persona titular de la Coordinación General de Fiscalización lo siguiente:
+
+a) Los proyectos de ordenamientos que correspondan a los asuntos de su competencia;
+
+b) La adición, cancelación o reprogramación de los actos de fiscalización de su competencia;
+
+c) El informe del resultado de la fiscalización, del año inmediato anterior, de las unidades administrativas que tiene adscritas, el cual debe contener lo previsto en el artículo 44, párrafo sexto, de la Ley Orgánica de la Administración Pública Federal;
+
+d) Los informes de resultados de los actos de fiscalización con las acciones promovidas que se hubiesen determinado, así como de las probables faltas administrativas que hayan sido turnadas a las autoridades competentes, y
+
+e) La atracción de actos de fiscalización de su competencia que, en su caso, estén practicando los órganos internos de control, respecto de asuntos que, por la naturaleza de los hechos, la gravedad del asunto o cuantía de la afectación, deba conocer la Secretaría, a través de la Coordinación General de Fiscalización;
 
 VIII. Proponer a la persona titular de la Coordinación General de Fiscalización la adición, cancelación o reprogramación de los actos de fiscalización en la materia de su competencia, solicitados por los órganos internos de control;
 
 IX. Supervisar los actos de fiscalización en las unidades fiscalizadas respecto de los asuntos de su competencia;
 
-X. Someter a la aprobación de la persona titular de la Coordinación General de Fiscalización el informe del resultado de la fiscalización, del año inmediato anterior, de las unidades administrativas que tenga adscritas, el cual debe contener lo previsto en el párrafo sexto del artículo 44 de la Ley Orgánica de la Administración Pública Federal;
+X. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
-XI. Someter a la aprobación de la persona titular de la Coordinación General de Fiscalización los informes de resultados de los actos de fiscalización con las acciones promovidas que se hubiesen determinado, así como las probables faltas administrativas que hayan sido turnadas a las autoridades competentes;
+XI. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 XII. Dar a conocer a las unidades fiscalizadas los resultados de los actos de fiscalización de su competencia y del seguimiento de las acciones promovidas;
 
-XIII. Someter a la aprobación de la persona titular de la Coordinación General de Fiscalización la atracción de actos de fiscalización de su competencia que estén practicando los órganos internos de control, respecto de asuntos que, por la naturaleza de los hechos, la gravedad del asunto o cuantía de la afectación, deba conocer la Secretaría, a través de la Coordinación General de Fiscalización;
+XIII. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 XIV. Supervisar el seguimiento de las acciones promovidas que deriven de la fiscalización realizada por las unidades administrativas que tenga adscritas;
 
@@ -1949,9 +2149,17 @@ XVI. Hacer del conocimiento del Órgano Interno de Control de la Secretaría y d
 
 XVII. Dirigir las acciones de coordinación con los órganos estatales de control en materia de ejercicio de los recursos a los que se refiere el artículo 191 de la Ley Federal de Derechos;
 
-XVIII. Administrar los sistemas informáticos diseñados para el control y seguimiento de los recursos federales reasignados a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como de otros sistemas informáticos requeridos para la fiscalización de su competencia, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-XIX. Contribuir al funcionamiento del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el ámbito de su competencia.
+XVIII. Administrar los sistemas informáticos diseñados para el control y seguimiento de los recursos federales reasignados a las entidades federativas, municipios y alcaldías de las demarcaciones territoriales de Ciudad de México, así como de otros sistemas informáticos requeridos para la fiscalización de su competencia;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIX. Contribuir al funcionamiento del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XX. Supervisar las actividades que las unidades administrativas de la Secretaría requieran promover en materia de auditorías, ante los gobiernos de las entidades federativas y ante sus órganos de control.
 
 ###### Artículo 67.
 
@@ -1969,7 +2177,9 @@ La persona titular de la Dirección General de Auditoría al Desempeño de la Ge
 
 I. Someter a la aprobación de la persona titular de la Jefatura de la Unidad de Auditoría Gubernamental los proyectos de políticas, normas, estrategias, lineamientos, criterios generales, protocolos, guías y demás ordenamientos relacionados con los actos de fiscalización en materia de desempeño y evaluaciones de política pública;
 
-II. Dirigir la formulación del proyecto de Plan Anual de Fiscalización en relación con las partes de auditoría del desempeño de la gestión gubernamental, y someterlas a la aprobación de la persona titular de la Jefatura de la Unidad de Auditoría Gubernamental;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Dirigir la formulación del proyecto de Plan Anual de Fiscalización, con relación a las partes de auditoría del desempeño de la gestión gubernamental y evaluaciones de política pública, y someterlo a la aprobación de la persona titular de la Jefatura de la Unidad de Auditoría Gubernamental;
 
 III. Proponer a la persona titular de la Jefatura de la Unidad de Auditoría Gubernamental al personal a su cargo para ejecutar los actos de fiscalización que sean de la competencia de la Dirección General de Auditoría al Desempeño de la Gestión Gubernamental y, en su caso, designar a personal externo para apoyarlo directa o indirectamente;
 
@@ -2069,7 +2279,9 @@ XIII. Otorgar asesoría a los órganos internos de control, en materia de aplica
 
 La persona titular de la Jefatura de la Unidad de Auditoría a Contrataciones Públicas tiene las facultades siguientes:
 
-I. Coordinar la formulación del proyecto de Plan Anual de Fiscalización en relación a las partes de auditoría de adquisiciones y obra pública, autorizarlas, y someterlas a la aprobación de la persona titular de la Coordinación General de Fiscalización;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Coordinar la formulación del proyecto de Plan Anual de Fiscalización con relación a las partes de auditoría de adquisiciones y obra pública, autorizarlas, y someterlas a la aprobación de la persona titular de la Coordinación General de Fiscalización;
 
 II. Auxiliar a la persona titular de la Coordinación General de Fiscalización en la interpretación que haga de los ordenamientos de su competencia;
 
@@ -2081,11 +2293,23 @@ V. Supervisar la ejecución de los actos de fiscalización practicados por las u
 
 VI. Someter, para autorización de la persona titular de la Coordinación General de Fiscalización, la adición, cancelación o reprogramación de los actos de fiscalización de su competencia;
 
-VII. Solicitar y obtener, por sí o por medio de las unidades administrativas que tenga adscritas, toda la información y documentación que a su juicio sea necesaria para la planeación y ejecución de los actos de fiscalización de su competencia, así como para el seguimiento de las acciones promovidas y de desempeño;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VIII. Someter a la aprobación de la persona titular de la Coordinación General de Fiscalización los informes de resultados de los actos de fiscalización con las acciones promovidas que se hubiesen determinado, así como las probables faltas administrativas que hayan sido turnadas a las autoridades competentes;
+VII. Solicitar, por sí o por medio de las unidades administrativas que tiene adscritas, la información y documentación que a su juicio sea necesaria para la planeación y ejecución de los actos de fiscalización de su competencia, así como para el seguimiento de las acciones promovidas. Las solicitudes de información puede dirigirlas a:
 
-IX. Dar a conocer a las unidades fiscalizadas, los resultados de los actos de fiscalización de su competencia y del seguimiento de las acciones promovidas;
+a) Las dependencias, incluidos sus órganos administrativos desconcentrados, así como a los órganos internos de control y a las entidades;
+
+b) Las personas licitantes, contratistas, proveedoras y, en su caso, a las que hayan sido subcontratadas por aquellas, y
+
+c) Las personas físicas o morales que ejerzan o hayan ejercido recursos públicos federales, o manejen o hayan manejado información que demuestre el ejercicio de dichos recursos;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Someter a la aprobación de la persona titular de la Coordinación General de Fiscalización los informes de resultados de los actos de fiscalización con las acciones promovidas que se hayan determinado, así como de las probables faltas administrativas que hayan sido turnadas a las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IX. Dar a conocer a las unidades fiscalizadas los resultados de los actos de fiscalización de su competencia y de las acciones que se hayan determinado;
 
 X. Someter a la aprobación de la persona titular de la Coordinación General de Fiscalización el resultado del seguimiento de las acciones promovidas que deriven de los actos de fiscalización de su competencia;
 
@@ -2141,9 +2365,19 @@ IV. Proponer a la persona titular de la Jefatura de la Unidad de Auditoría a Co
 
 V. Someter a la aprobación de la persona titular de Jefatura de la Unidad de Auditoría a Contrataciones Públicas las propuestas justificadas de adición, cancelación o reprogramación de los actos de fiscalización en materia de adquisiciones;
 
-VI. Requerir a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, la información y documentación que considere necesaria para la planeación y ejecución de los actos de fiscalización en materia de adquisiciones, así como para el seguimiento de las acciones promovidas;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VII. Proponer a la persona titular de la Jefatura de la Unidad de Auditoría a Contrataciones Públicas los proyectos de informes de resultados de los actos de fiscalización en materia de adquisiciones, que incluya las acciones promovidas que se hubiesen determinado, así como los asuntos relativos a las faltas administrativas turnadas a las autoridades investigadoras;
+VI. Requerir la información y documentación que, a su juicio, sea necesaria para la planeación y ejecución de los actos de fiscalización en materia de adquisiciones, así como para dar seguimiento a las acciones promovidas. Las solicitudes de información puede dirigirlas a:
+
+a) Las dependencias, incluidos sus órganos administrativos desconcentrados, así como a los órganos internos de control y a las entidades;
+
+b) Las personas licitantes, contratistas, proveedoras y, en su caso, a las que hayan sido subcontratadas por aquellas, y
+
+c) Las personas físicas o morales que ejerzan o hayan ejercido recursos públicos federales, o manejen o hayan manejado información que demuestre el ejercicio de dichos recursos;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Proponer a la persona titular de la Jefatura de la Unidad de Auditoría a Contrataciones Públicas los informes de resultados de los actos de fiscalización en materia de adquisiciones, que incluyan las acciones que se hayan determinado y promovido ante las autoridades competentes;
 
 VIII. Dar a conocer a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, los resultados de los actos de fiscalización practicados, en los que se consignen las acciones promovidas de desempeño y demás acciones;
 
@@ -2185,7 +2419,9 @@ V. Someter a la aprobación de la persona titular de la Jefatura de la Unidad de
 
 VI. Requerir a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, la información y documentación que considere necesaria para la planeación y ejecución de los actos de fiscalización en materia de obra pública, así como para el seguimiento de las acciones promovidas;
 
-VII. Proponer a la persona titular de la Jefatura de la Unidad de Auditoría a Contrataciones Públicas los proyectos de informes de resultados de los actos de fiscalización en materia de obra pública, los cuales deben incluir las acciones promovidas que se hubiesen determinado, así como los asuntos relativos a las faltas administrativas turnadas a las autoridades investigadoras;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Proponer a la persona titular de la Jefatura de la Unidad de Auditoría a Contrataciones Públicas los informes de resultados de los actos de fiscalización en materia de obra pública, que incluyan las acciones que se hayan determinado y promovido ante las autoridades competentes;
 
 VIII. Dar a conocer a las unidades fiscalizadas los resultados de los actos de fiscalización practicados, en los que se consignen las acciones promovidas de desempeño y demás acciones;
 
@@ -2261,37 +2497,63 @@ III. Proponer a la persona titular de la Coordinación General de Fiscalización
 
 IV. Someter, para autorización de la persona titular de la Coordinación General de Fiscalización, la adición, cancelación o reprogramación de actos de fiscalización del patrimonio público federal;
 
-V. Emitir el aviso para las personas auditoras externas interesadas en ser elegibles y formar parte del listado de personas auditoras externas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VI. Autorizar el resultado de la evaluación del cumplimiento de los requisitos establecidos para determinar la incorporación de personas auditoras externas al listado a que se refiere la fracción anterior;
+V. Emitir el aviso para los auditores externos interesados en ser elegibles y formar parte del listado de auditores externos de la Secretaría;
 
-VII. Designar a las personas auditoras externas en:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Autorizar el resultado de la evaluación del cumplimiento de los requisitos establecidos para determinar la incorporación de auditores externos al listado a que se refiere la fracción anterior;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Designar a los auditores externos en:
 
 a) Las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, así como de los fideicomisos públicos no paraestatales, mandatos y contratos análogos, y
 
 b) Proyectos financiados por organismos financieros internacionales, en cuyo caso se deben observar los acuerdos técnicos suscritos por la Secretaría con dichos organismos;
 
-VIII. Determinar la continuidad de las personas auditoras externas con base en el resultado de la supervisión, control y evaluación de su desempeño;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IX. Remover a las personas auditoras externas, cuando se actualice alguno de los supuestos previstos en los ordenamientos en materia de fiscalización del patrimonio público federal;
+VIII. Determinar la continuidad de los auditores externos con base en el resultado de la supervisión, control y evaluación de su desempeño;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IX. Remover a los auditores externos, cuando se actualice alguno de los supuestos previstos en los ordenamientos en materia de fiscalización del patrimonio público federal;
 
 X. Acordar con las personas representantes de los organismos financieros internacionales, los memorandos de entendimiento o acuerdos técnicos para la ejecución de las auditorías al patrimonio público federal que se practiquen a los proyectos financiados por dichos organismos, y someterlos a la aprobación de la persona titular de la Coordinación General de Fiscalización;
 
 XI. Requerir la información y documentación que, a su juicio, sea necesaria para el ejercicio de sus facultades y que se encuentren en posesión de:
 
-a) Las dependencias, incluidos sus órganos administrativos desconcentrados, entidades, órganos internos de control, fideicomitentes, fiduciarios y administradores de fideicomisos públicos no paraestatales, mandatos y contratos análogos, y
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-b) Las personas auditoras externas, licitantes, contratistas, proveedoras, donatarias o personas que hayan sido subcontratadas por ellas y, en general, de las personas físicas o morales relacionadas con el manejo, ejercicio y comprobación de recursos públicos;
+a) Las dependencias, incluidos sus órganos administrativos desconcentrados; los órganos internos de control, las entidades, fideicomitentes, fiduciarios, administradores de fideicomisos públicos no paraestatales, mandatos y contratos análogos;
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+b) Los auditores externos;
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+c) Las personas licitantes, contratistas, proveedoras, donatarias y, en su caso, las que hayan sido subcontratadas por aquellas, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+d) Las personas físicas o morales que ejerzan o hayan ejercido recursos públicos federales, o manejen o hayan manejado información que demuestre el ejercicio de dichos recursos;
 
 XII. Comisionar al personal a su cargo para ejecutar los actos de fiscalización que sean de la competencia de la Unidad de Planeación y Fiscalización del Patrimonio Público Federal y, en su caso, designar a personal externo para apoyarlo directa o indirectamente;
 
-XIII. Informar a la persona titular de la Coordinación General de Fiscalización, respecto de las personas auditoras externas, los resultados de los procedimientos para determinar su elegibilidad; de sus designaciones para la práctica de auditorías al patrimonio público federal; de las evaluaciones de su desempeño y, en su caso, de su remoción;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII. Informar a la persona titular de la Coordinación General de Fiscalización, respecto de los auditores externos, los resultados de los procedimientos para determinar su elegibilidad; de sus designaciones para la práctica de auditorías al patrimonio público federal; de las evaluaciones de su desempeño y, en su caso, de su remoción;
 
 XIV. Aprobar y presentar a la persona titular de la Coordinación General de Fiscalización, los resultados de las auditorías al patrimonio público federal;
 
 XV. Comunicar a las autoridades competentes en materia de responsabilidad administrativa los hallazgos vinculados con probables daños o perjuicios a la Hacienda Pública Federal o al patrimonio de las unidades fiscalizadas, así como la probable comisión de faltas administrativas, de delitos o de ambos, cometidos por personas servidoras públicas;
 
-XVI. Informar a la persona titular de la Coordinación General de Fiscalización y a la persona titular de la Coordinación General de Gobierno de Órganos de Control y Vigilancia el resultado de la conciliación entre los hallazgos y observaciones determinados por las personas auditoras externas y el seguimiento que de los mismos realicen los órganos internos de control;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVI. Informar a las personas titulares de las coordinaciones generales de Fiscalización y de Gobierno de Órganos de Control y Vigilancia el resultado de la conciliación entre los hallazgos y observaciones determinados por los auditores externos y el seguimiento que de los mismos realicen los órganos internos de control;
 
 XVII. Ordenar la realización de los actos de fiscalización que le instruya la persona titular de la Coordinación General de Fiscalización;
 
@@ -2891,7 +3153,9 @@ VII. Acordar con:
 
 a) La persona titular de la Coordinación General de Fiscalización, el proyecto de Plan Anual de Fiscalización respecto de las partes que correspondan a los órganos internos de control, y
 
-b) La persona titular de la Coordinación General de Gobierno Eficaz y Probidad el (sic) Plan Anual de Trabajo y de Evaluación respecto de las partes que establezcan las estrategias de los órganos internos de control para dar seguimiento a las acciones de control interno, mejora de la gestión pública, ética pública y prevención de la actuación bajo conflicto de interés en la dependencia, o de sus órganos administrativos desconcentrados, o entidad, que les sea asignada;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+b) La persona titular de la Coordinación General de Gobierno Eficaz y Probidad, el proyecto de Plan Anual de Trabajo y de Evaluación, respecto de las partes que establezcan las estrategias de los órganos internos de control para dar seguimiento a las acciones de control interno, mejora de la gestión pública, ética pública y prevención de la actuación bajo conflicto de interés en la dependencia, o de sus órganos administrativos desconcentrados, o entidad, que les sea asignada;
 
 VIII. Aprobar:
 
@@ -3101,15 +3365,31 @@ b) Los procedimientos de sanción a licitantes, contratistas y proveedores;
 
 VII. Resolver los recursos que se interpongan en contra de los actos emitidos por las personas titulares de las áreas adscritas al Órgano Interno de Control a su cargo, en los procedimientos administrativos en los que tengan el carácter de superiores jerárquicos;
 
-VIII. Verificar aleatoriamente las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de las personas servidoras públicas, y en caso de:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) No existir anomalías, expedir la certificación correspondiente y anotarla en el Sistema de Evolución Patrimonial, y
+VIII. Verificar aleatoriamente las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de las personas servidoras públicas. Una vez efectuada la verificación debe, según corresponda:
 
-b) Existir anomalías, turnar los documentos referidos al Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control a su cargo, para que inicie la investigación de faltas administrativas;
+a) Expedir la certificación correspondiente y anotarla en el Sistema Integral de Evolución Patrimonial, de no existir anomalías en los documentos verificados, y
+
+b) Turnar los documentos verificados, en caso de que existan anomalías, al Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control a su cargo, para que inicie las investigaciones correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII Bis. Instruir la emisión de dictámenes contables financieros en materia de verificación de la evolución patrimonial, a fin de identificar incremento en el patrimonio de las personas servidoras públicas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII Ter. Solicitar a las personas cuyo patrimonio sea verificado, las aclaraciones sobre el origen del incremento de su patrimonio;
 
 IX. Dar seguimiento a las observaciones determinadas en las auditorías y visitas de inspección que se practiquen a la dependencia, de sus órganos administrativos desconcentrados, o entidad, que les sea asignada, o al fideicomiso público no paraestatal, mandato o contrato que determine la persona titular de la Coordinación General de Gobierno de Órganos de Control y Vigilancia;
 
-X. Requerir a las unidades administrativas de la dependencia, o de sus órganos administrativos desconcentrados, o entidad, que les sea asignada, la información necesaria para ejercer sus facultades, incluida la de carácter reservado y confidencial, siempre que esté relacionada con la comisión de faltas administrativas, así como emitir la opinión que dichas unidades administrativas les requieran;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X. Requerir a las unidades administrativas de la dependencia, órgano administrativo desconcentrado o entidad que les sea asignada, información para ejercer sus facultades, incluida la de carácter reservado y confidencial, siempre que esté relacionada con la evolución patrimonial, verificación de la evolución patrimonial o la comisión de faltas administrativas de los servidores públicos, así como emitir la opinión que dichas unidades administrativas les requieran;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X Bis. Requerir a cualquier persona física o moral la información necesaria para el esclarecimiento de los hechos que investiguen;
 
 XI. Proporcionar la información y documentación que les requiera:
 
@@ -3221,9 +3501,11 @@ XXI. Verificar la planeación, establecimiento, conducción y aplicación de la 
 
 XXII. Las demás que les atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 100.
 
-Los titulares del Área de Quejas, Denuncias e Investigaciones de los órganos internos de control específicos tienen las facultades siguientes:
+Las personas titulares del Área de Quejas, Denuncias e Investigaciones de los órganos internos de control específicos tienen las facultades siguientes:
 
 I. Elaborar las partes del proyecto de Plan Anual de Trabajo y de Evaluación relativas al Área a sus cargos, y remitirlas al titular del Órgano Interno de Control Específico al que se encuentren adscritos;
 
@@ -3233,17 +3515,27 @@ a) Por actos u omisiones que puedan constituir faltas administrativas o faltas d
 
 b) Por infracciones que puedan haber cometido personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, servicios relacionados con las mismas, y demás relativos a las contrataciones públicas;
 
-III. Practicar de oficio, por denuncia o con motivo de auditorías de las unidades fiscalizadoras o firmas auditoras:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) Investigaciones de faltas administrativas y de faltas de particulares, con excepción de las que deba practicar la Dirección General de Investigación de Faltas Administrativas, y emitir acuerdos en los procedimientos que inicie, incluido el de conclusión y archivo de expediente, y el informe de presunta responsabilidad administrativa, y en su oportunidad, turnarlo a la autoridad substanciadora, y
+III. Iniciar de oficio, por denuncia o con motivo de auditorías de las unidades fiscalizadoras o auditores externos, las investigaciones de:
 
-b) Investigaciones de infracciones cometidas por personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, servicios relacionados con las mismas, y demás relativos a las contrataciones públicas, con excepción de aquellas que deba conocer la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
+a) Faltas administrativas y de faltas de particulares, con excepción de las que deba practicar la Dirección General de Investigación de Faltas Administrativas;
 
-IV. Informar:
+b) Infracciones cometidas por personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, servicios relacionados con las mismas, y demás relativos a las contrataciones públicas, con excepción de aquellas que deba conocer la Dirección General de Controversias y Sanciones en Contrataciones Públicas, y
 
-a) Al director General de Investigación de Faltas Administrativas, sobre el estado que guarden los procedimientos de investigación que conozca en materia de responsabilidad administrativa, y
+c) Evolución patrimonial y de verificación de la evolución patrimonial de los servidores públicos;
 
-b) Al director General de Controversias y Sanciones en Contrataciones Públicas, sobre el estado que guarden los procedimientos de investigación que conozca en materia de contrataciones públicas;
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III Bis. Emitir acuerdos en los procedimientos que inicie, incluido el de conclusión y archivo de expediente, y el informe de presunta responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Proporcionar:
+
+a) A la persona titular de la Dirección General de Investigación de Faltas Administrativas, cuando así lo solicite, información y documentación de los procedimientos de investigación que conozca en materia de responsabilidad administrativa, y
+
+b) A la persona titular de la Dirección General de Controversias y Sanciones en Contrataciones Públicas, cuando así lo solicite, información y documentación de los procedimientos de investigación que conozca en materia de contrataciones públicas;
 
 V. Substanciar las inconformidades que se promuevan en contra de actos relacionados con la operación del servicio profesional de carrera;
 
@@ -3271,21 +3563,27 @@ XVI. Imponer las medidas de apremio que, para hacer cumplir sus determinaciones,
 
 XVII. Presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozcan con motivo de sus respectivas competencias y que puedan ser constitutivos de delitos; intervenir y coadyuvar como partes en el procedimiento penal respectivo, cuando a la Secretaría se le reconozca su calidad de víctima u ofendida; y darles seguimiento hasta su resolución definitiva;
 
-XVIII. Verificar aleatoriamente las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de los servidores públicos, y en caso:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) De no existir anomalías, expedir la certificación correspondiente y anotarla en el Sistema de Evolución Patrimonial, y
+XVIII. Verificar aleatoriamente las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de las personas servidoras públicas. Una vez efectuada la verificación debe, según corresponda:
 
-b) De existir anomalías, iniciar la investigación de faltas administrativas;
+a) Expedir la certificación correspondiente y anotarla en el Sistema Integral de Evolución Patrimonial, de no existir anomalías en los documentos verificados, y
 
-XIX. Solicitar a los declarantes la información que requieran para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos;
+b) Iniciar la investigación que corresponda, en caso de que existan anomalías en los documentos verificados;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIX. Solicitar a los declarantes y a las autoridades competentes la información que se requiera para verificar la evolución patrimonial de los declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos directos;
 
 XX. Emitir recomendaciones para implementar mejoras en la dependencia, órgano desconcentrado o entidad que les sea asignada, con base en la información que obtengan de las investigaciones que realicen o de las quejas recurrentes sobre un trámite o servicio de su competencia, y
 
 XXI. Las demás que les atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 101.
 
-Los titulares del Área de Responsabilidades de los órganos internos de control específicos tienen las facultades siguientes:
+Las personas titulares del Área de Responsabilidades de los órganos internos de control específicos tienen las facultades siguientes:
 
 I. Elaborar las partes del proyecto de Plan Anual de Trabajo y de Evaluación relativas al Área a sus cargos, y remitirlas al titular del Órgano Interno de Control Específico al que se encuentren adscritos;
 
@@ -3301,7 +3599,9 @@ c) El recurso de inconformidad que se promueva en contra de la abstención de in
 
 d) El recurso de revisión que se interponga en contra de las resoluciones de inconformidad, de las intervenciones de oficio, y de las resoluciones que impongan sanciones a personas físicas o morales en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y someterlo, para su resolución, al titular del Órgano Interno de Control, y
 
-e) Los procedimientos de conciliación en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, que se inicien con motivo de solicitudes de conciliación de proveedores o contratistas por incumplimiento de contratos celebrados con la dependencia, órgano desconcentrado o entidad que les sea asignada; y presidir y conducir las sesiones de conciliación;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+e) Los procedimientos de conciliación en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, que se inicien con motivo de solicitudes de conciliación de personas proveedoras o contratistas por incumplimiento de contratos celebrados con la dependencia, órgano desconcentrado o entidad que les sea asignada, así como presidir y conducir las sesiones de conciliación cuando la persona titular de la Secretaría determine que se celebren;
 
 IV. Substanciar y resolver:
 
@@ -3325,7 +3625,9 @@ VIII. Llevar los registros de los asuntos de su competencia, y expedir copias ce
 
 IX. Presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozcan con motivo de sus respectivas competencias y que puedan ser constitutivos de delitos; intervenir y coadyuvar como partes en el procedimiento penal respectivo, cuando a la Secretaría se le reconozca su calidad de víctima u ofendida; y darles seguimiento hasta su resolución definitiva;
 
-X. Registrar y mantener de (sic) acceso público y actualizado respecto de los asuntos a su cargo, el Directorio de Proveedores y Contratistas Sancionados de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X. Registrar los asuntos a su cargo en el Directorio de Proveedores y Contratistas Sancionados de la Administración Pública Federal, y mantenerlo actualizado respecto de los mismos;
 
 XI. Proponer al titular del Órgano Interno de Control respectivo acciones en materia de medios alternativos de solución de controversias, y
 
@@ -3653,9 +3955,11 @@ I. Del titular del Área de Especialidad en Quejas, Denuncias e Investigaciones,
 
 II. De la persona titular de la Jefatura de la Oficina de Representación que le asigne el coordinador General de Gobierno de Órganos de Control y Vigilancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 117.
 
-El titular del Área de Especialidad en Quejas, Denuncias e Investigaciones tiene las facultades siguientes:
+La persona titular del Área de Especialidad en Quejas, Denuncias e Investigaciones tiene las facultades siguientes:
 
 I. Elaborar las partes del proyecto de Plan Anual de Trabajo y de Evaluación relativas al Órgano Especializado en Quejas, Denuncias e Investigaciones, y remitirlas al titular del mismo;
 
@@ -3665,11 +3969,19 @@ a) Por actos u omisiones que puedan constituir faltas administrativas o faltas d
 
 b) Por infracciones que puedan haber cometido personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, y demás ordenamientos en materia de contrataciones públicas;
 
-III. Practicar de oficio, por denuncia o con motivo de auditorías de las unidades fiscalizadoras o firmas auditoras:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) Investigaciones de faltas administrativas y de faltas de particulares, con excepción de las que deba practicar la Dirección General de Investigación de Faltas Administrativas, incluida la práctica de actuaciones y diligencias que estime procedentes, y la emisión de acuerdos en los procedimientos que inicie, incluido el de conclusión y archivo de expediente, y el informe de presunta responsabilidad administrativa, y en su oportunidad, turnarlo a la autoridad substanciadora, y
+III. Iniciar de oficio, por denuncia o con motivo de auditorías de las unidades fiscalizadoras o auditores externos, las investigaciones de:
 
-b) Investigaciones de infracciones cometidas por personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, servicios relacionados con las mismas, y demás relativos a las contrataciones públicas, con excepción de aquellas que deba conocer la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
+a) Faltas administrativas y de faltas de particulares, con excepción de las que deba practicar la Dirección General de Investigación de Faltas Administrativas;
+
+b) Infracciones cometidas por personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, servicios relacionados con las mismas, y demás relativos a las contrataciones públicas, con excepción de aquellas que deba conocer la Dirección General de Controversias y Sanciones en Contrataciones Públicas, y
+
+c) Evolución patrimonial y de verificación de la evolución patrimonial de los servidores públicos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III Bis. Emitir acuerdos en los procedimientos que inicie, incluido el de conclusión y archivo de expediente, y el informe de presunta responsabilidad administrativa;
 
 IV. Substanciar las inconformidades que se promuevan en contra de los actos relacionados con la operación del servicio profesional de carrera;
 
@@ -3683,7 +3995,13 @@ a) A las unidades administrativas de la dependencia, órgano desconcentrado o en
 
 b) A los particulares que sean sujetos de investigación conforme a los ordenamientos en materia de responsabilidad administrativa, y
 
-c) A los declarantes, para verificar la evolución de su situación patrimonial, incluida la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+c) A los declarantes y a las autoridades competentes, para verificar la evolución patrimonial de los declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos directos, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE ABRIL DE 2024)</small>
+
+d) A cualquier persona física o moral que con motivo de sus actividades tenga conocimiento de un hecho o prueba que consideren necesaria para el esclarecimiento del caso;
 
 VIII. Ordenar la práctica de visitas de verificación, de conformidad con la Ley Federal de Procedimiento Administrativo;
 
@@ -3699,19 +4017,23 @@ XIII. Imponer las medidas de apremio que, para hacer cumplir sus determinaciones
 
 XIV. Presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozcan con motivo de sus respectivas competencias y que puedan ser constitutivos de delitos; intervenir y coadyuvar como partes en el procedimiento penal respectivo, cuando a la Secretaría se le reconozca su calidad de víctima u ofendida; y darles seguimiento hasta su resolución definitiva;
 
-XV. Verificar aleatoriamente las declaraciones de situación patrimonial, de intereses, así como la constancia de presentación de declaración fiscal de los servidores públicos, y en caso:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) De no existir anomalías, expedir la certificación correspondiente y anotarla en el Sistema de Evolución Patrimonial, y
+XV. Verificar aleatoriamente las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de las personas servidoras públicas. Una vez efectuada la verificación debe, según corresponda:
 
-b) De existir anomalías, iniciar la investigación de faltas administrativas;
+a) Expedir la certificación correspondiente y anotarla en el Sistema Integral de Evolución Patrimonial, de no existir anomalías en los documentos verificados, y
+
+b) Iniciar la investigación que corresponda, en caso de que existan anomalías en los documentos verificados;
 
 XVI. Emitir recomendaciones para implementar mejoras en la dependencia, órgano desconcentrado o entidad que les sea asignada, con base en la información que obtengan de las investigaciones que realicen o de las quejas recurrentes sobre un trámite o servicio de su competencia, y
 
 XVII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 118.
 
-El titular del Órgano Especializado en Responsabilidades tiene las facultades siguientes:
+La persona titular del Órgano Especializado en Responsabilidades tiene las facultades siguientes:
 
 I. Admitir, por sí o por medio del titular del área de especialidad, los informes de presunta responsabilidad administrativa y, en su caso, realizar las prevenciones que correspondan;
 
@@ -3723,7 +4045,13 @@ IV. Coordinar la remisión al Tribunal Federal de Justicia Administrativa de las
 
 V. Colaborar con el jefe de la Unidad Substanciadora y Resolutora en la elaboración del proyecto de criterios y estándares de aplicación y ejecución de sanciones a los servidores públicos que incurran en responsabilidad administrativa;
 
-VI. Coordinar los procedimientos administrativos de sanción a proveedores; de inconformidades, y de conciliaciones, en términos de los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Coordinar los procedimientos siguientes:
+
+a) De sanción a proveedores y de instancias de inconformidad, en términos de los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, y
+
+b) De conciliación en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, cuando así lo determine el Secretario, y
 
 VII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
@@ -3877,9 +4205,11 @@ I. El titular del Área de Quejas, Denuncias e Investigaciones, y
 
 II. El titular del Área de Responsabilidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 128.
 
-Los titulares del Área de Quejas, Denuncias e Investigaciones de las unidades de responsabilidades y los titulares del Área de Quejas, Denuncias e Investigaciones de las delegaciones de Unidad de Responsabilidades tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
+Las personas titulares del Área de Quejas de las unidades de responsabilidades y las del Área de Quejas, Denuncias e Investigaciones de las delegaciones de Unidad de Responsabilidades tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
 
 I. Elaborar las partes del proyecto de Plan Anual de Trabajo y de Evaluación relativas al Área a sus cargos, y remitirlas al titular de la Unidad de Responsabilidades a la que se encuentren adscritos;
 
@@ -3893,13 +4223,17 @@ V. Informar a la Dirección General de Investigación de Faltas Administrativas 
 
 VI. Citar al servidor público o particular que pueda tener conocimiento de hechos relacionados con probables faltas administrativas, para constatar la veracidad de esos hechos y, en su caso, solicitarle la aportación de elementos, datos o indicios;
 
-VII. Requerir la información y documentación que considere necesaria:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) A las unidades administrativas de la empresa productiva que les sea asignada, para el esclarecimiento de los hechos relacionados con la investigación de faltas administrativas, incluida la de carácter reservado y confidencial, siempre que lo requerido esté relacionado con la comisión de faltas administrativas;
+VII. Requerir a:
 
-b) A los particulares que sean sujetos de investigación conforme a los ordenamientos en materia de responsabilidad administrativa, y
+a) Las unidades administrativas de la empresa productiva que les sea asignada, la información y documentación que consideren necesaria para el esclarecimiento de los hechos relacionados con la investigación de faltas administrativas, incluidas las de carácter reservado y confidencial, siempre que lo requerido esté relacionado con la comisión de faltas administrativas;
 
-c) A los declarantes, para verificar la evolución de su situación patrimonial, incluida la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos;
+b) Los particulares que sean sujetos de investigación, la información y documentación que consideren necesaria conforme a los ordenamientos en materia de responsabilidad administrativa;
+
+c) Los declarantes y a las autoridades competentes, la información y documentación que consideren necesaria para verificar la evolución patrimonial de los declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos directos, y
+
+d) Cualquier persona física o moral que con motivo de sus actividades tenga conocimiento de un hecho o prueba, la información y documentación que consideren necesaria para el esclarecimiento del caso;
 
 VIII. Auxiliar al titular de la Unidad de Responsabilidades o al delegado de Unidad de Responsabilidades a la que se encuentren adscritos, en la formulación de requerimientos de información necesaria para el esclarecimiento de los hechos que se investiguen, a las unidades administrativas de la empresa productiva que les sea asignada, y a cualquier persona física o moral;
 
@@ -3913,13 +4247,17 @@ XII. Imponer las medidas de apremio que, para hacer cumplir sus determinaciones,
 
 XIII. Presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozcan con motivo de sus respectivas competencias y que puedan ser constitutivos de delitos; intervenir y coadyuvar como partes en el procedimiento penal respectivo, cuando a la Secretaría se le reconozca su calidad de víctima u ofendida; y darles seguimiento hasta su resolución definitiva;
 
-XIV. Llevar el seguimiento de la evolución y verificación de la situación patrimonial de los declarantes y verificar que sus declaraciones, incluida la declaración de intereses y sus constancias de presentación de declaración fiscal, sean integradas al Sistema de Evolución Patrimonial;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-XV. Verificar aleatoriamente, de oficio o por instrucción del titular de la Unidad de Responsabilidades o del delegado de Unidad de Responsabilidades a la que se encuentren adscritos, las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de los servidores públicos, y en caso:
+XIV. Llevar el seguimiento de la evolución patrimonial y de la verificación de la evolución patrimonial de los declarantes, y verificar que sus declaraciones, incluida la declaración de intereses y su constancia de presentación de declaración fiscal, se integren al Sistema Integral de Evolución Patrimonial;
 
-a) De no existir anomalías, expedir la certificación correspondiente y anotarla en el Sistema de Evolución Patrimonial, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-b) De existir anomalías, iniciar la investigación de faltas administrativas;
+XV. Verificar aleatoriamente, de oficio o por instrucción de la persona titular de la Jefatura de la Unidad de Responsabilidades o del delegado de Unidad de Responsabilidades a la que se encuentren adscritos, las declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal de las personas servidoras públicas. Una vez efectuada la verificación debe, según corresponda:
+
+a) Expedir la certificación correspondiente y anotarla en el Sistema Integral de Evolución Patrimonial, de no existir anomalías en los documentos verificados, y
+
+b) Iniciar la investigación de faltas administrativas, en caso de que existan anomalías en los documentos verificados;
 
 XVI. Recibir las impugnaciones que se promuevan en contra de las calificaciones de las faltas administrativas no graves e instruir la elaboración del informe que justifique la calificación impugnada, y correr traslado de ellas a la Sala Especializada en Materia de Responsabilidades Administrativas que corresponda, del Tribunal Federal de Justicia Administrativa;
 
@@ -4113,13 +4451,17 @@ X. Las demás que le atribuya este reglamento y otros ordenamientos.
 
 ### Capítulo I. Disposiciones Preliminares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 136.
 
-El coordinador General de Combate a la Impunidad tiene las facultades siguientes:
+La persona titular de la Coordinación General de Combate a la Impunidad tiene las facultades siguientes:
 
 I. Proponer al secretario la expedición de acuerdos delegatorios para el despacho de los asuntos a su cargo;
 
-II. Supervisar la elaboración de las denuncias e investigaciones de la Unidad Investigadora vinculadas a las líneas de investigación de faltas administrativas y faltas de particulares;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Supervisar la atención de las denuncias que reciba la Unidad Investigadora, así como las investigaciones de faltas administrativas y de faltas de particulares, que inicie con motivo de aquellas;
 
 III. Coordinar, con las unidades administrativas de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, el intercambio de información para la integración de las líneas de investigación vinculadas con faltas administrativas y faltas de particulares;
 
@@ -4141,15 +4483,31 @@ XI. Coordinar la substanciación de los procedimientos de responsabilidad admini
 
 XII. Validar, en coordinación con la Dirección General de Tecnologías de Información, el diseño y ajustes de los mecanismos que permitan la integración, sistematización e interrelación de los sistemas de información de las unidades administrativas que le sean adscritas;
 
-XIII. Autorizar la atracción de investigaciones de faltas administrativas, de faltas de particulares, de evolución patrimonial, y de verificación de la evolución patrimonial, que sean conocidos por órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades, cuando por la naturaleza de los hechos, la gravedad del asunto, o la cuantía de la afectación, estime pertinente que deba conocer la Unidad Investigadora;
+XIII. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
-XIV. Autorizar la atracción de procedimientos de responsabilidad administrativa que sean conocidos por órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades, cuando por la naturaleza de los hechos, la gravedad del asunto, o la cuantía de la afectación, estime pertinente que deba conocer la Unidad Substanciadora y Resolutora, siempre que se trate de:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) Los iniciados en contra de personas físicas o morales por infracciones a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, derivadas de procedimientos de contrataciones públicas o contratos celebrados por las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades;
+XIV. Autorizar a la Unidad Investigadora y, en su caso, a la Unidad Substanciadora y Resolutora, cuando lo estime pertinente y en el ámbito de sus respectivas competencias, la atracción de asuntos que estén siendo conocidos por órganos internos de control, tanto específicos como especializados, por unidades de responsabilidades o por delegaciones de Unidad de Responsabilidades, siempre que se trate de:
 
-b) Los relacionados con inconformidades presentadas por los licitantes que participen en los procedimientos de contratación pública, y
+a) Investigaciones de faltas administrativas y de faltas de particulares;
 
-c) Los relacionados con conciliaciones por desavenencias derivadas de contratos o pedidos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas;
+b) Investigaciones de evolución patrimonial;
+
+c) Investigaciones de verificación de la evolución patrimonial;
+
+d) Procedimientos de responsabilidad administrativa;
+
+e) Procedimientos de sanción de infracciones en materia de contratación pública;
+
+f) Instancias de inconformidad en materia de contratación pública;
+
+g) Intervenciones de oficio en materia de contratación pública, y
+
+h) Procedimientos de conciliación en materia de contratación pública;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIV Bis. Autorizar a la Unidad Investigadora y, en su caso, a la Unidad Substanciadora y Resolutora, para conocer directamente, en el ámbito de sus respectivas competencias, los asuntos a los que se refiere la fracción anterior, antes de que sean conocidos por órganos internos de control, tanto específicos como especializados, por unidades de responsabilidades o por delegaciones de Unidad de Responsabilidades;
 
 XV. Supervisar la substanciación de los procedimientos de inconformidades, conciliaciones y sanciones a personas físicas o morales, que tenga a su cargo la Unidad Substanciadora y Resolutora y la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
 
@@ -4179,7 +4537,9 @@ XIX. Autorizar a la Unidad Investigadora la remisión, a la Unidad de Asuntos Ju
 
 XX. Presentar ante el Congreso de la Unión, en representación de la Secretaría y en coordinación con la Unidad de Asuntos Jurídicos, denuncias por violaciones graves a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ella emanen, y por manejo indebido de fondos y recursos federales;
 
-XXI. Supervisar la práctica de visitas de verificación e inspección, y operativos específicos para la integración de las líneas de investigación, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XXI. Supervisar la práctica de visitas de verificación e inspección, y operativos específicos para la integración de investigaciones de faltas administrativas y de faltas de particulares, y
 
 XXII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
@@ -4195,9 +4555,11 @@ III. El director de Gestión de Defensoría Pública.
 
 ### Capítulo II. De la Unidad Investigadora
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 138.
 
-El jefe de la Unidad Investigadora tiene las facultades siguientes:
+La persona titular de la Jefatura de la Unidad Investigadora tiene las facultades siguientes:
 
 I. Proponer al coordinador General de Combate a la Impunidad la interpretación que, en nombre de la Secretaría, realice de los ordenamientos de su competencia;
 
@@ -4219,7 +4581,13 @@ IX. Coordinar la atención y seguimiento de las alertas y denuncias de faltas ad
 
 X. Establecer las directrices para la administración de la información de los sistemas tecnológicos en materia de denuncias, investigaciones, evolución patrimonial, y verificación de la evolución patrimonial;
 
-XI. Atraer, previa autorización del coordinador General de Combate a la Impunidad, investigaciones de faltas administrativas, de faltas de particulares, de evolución patrimonial de los servidores públicos, y de verificación de la evolución patrimonial, que sean conocidos por órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades, cuando por la naturaleza de los hechos, la gravedad del asunto, o la cuantía de la afectación, estime pertinente que deba conocer la Coordinación General de Combate a la Impunidad y, en su caso, requerir el envío del expediente respectivo al titular del Órgano Interno de Control, de la Unidad de Responsabilidades o al delegado de Unidad de Responsabilidades de que se trate, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XI. Atraer, previa autorización de la persona titular de la Coordinación General de Combate a la Impunidad, investigaciones de faltas administrativas, de faltas de particulares, de evolución patrimonial, y de verificación de la evolución patrimonial, que estén siendo conocidas por órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XI Bis. Conocer directamente, previa autorización de la persona titular de la Coordinación General de Combate a la Impunidad, las investigaciones a las que se refiere la fracción anterior, antes de que sean conocidas por órganos internos de control, tanto específicos como especializados, por unidades de responsabilidades o por delegaciones de Unidad de Responsabilidades, y
 
 XII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
@@ -4333,9 +4701,11 @@ VIII. Impugnar la abstención de iniciar el procedimiento de responsabilidad adm
 
 IX. Las demás que les atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 144.
 
-El director General de Investigación Patrimonial y Forense tiene las facultades siguientes:
+La persona titular de la Dirección General de Investigación Patrimonial y Forense tiene las facultades siguientes:
 
 I. Orientar a las autoridades investigadoras y demás unidades administrativas de la Secretaría que lo requieran, en las investigaciones que realicen para prevenir, detectar y disuadir la comisión de faltas administrativas y faltas de particulares;
 
@@ -4345,7 +4715,9 @@ III. Coordinar la asesoría y capacitación especializada en materia de investig
 
 IV. Formular estudios y requerimientos para la contratación de tecnología especializada que permita la obtención, análisis y preservación de información que resulte de las investigaciones que realice la Secretaría;
 
-V. Requerir a las dependencias, órganos desconcentrados, entidades, empresas productivas del Estado, empresas productivas subsidiarias, órganos constitucionales autónomos, y en general, a cualquier ente público; información, documentación y apoyo para sus investigaciones;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Requerir a las dependencias, incluidos sus órganos administrativos desconcentrados, entidades, empresas productivas del Estado, empresas productivas subsidiarias, órganos constitucionales autónomos y, en general, a cualquier ente público y a particulares; información, documentación y apoyo para sus investigaciones de evolución patrimonial de los servidores públicos;
 
 VI. Instruir, de oficio o en coordinación con las autoridades investigadoras, la realización de investigaciones de faltas administrativas, de faltas de particulares, y de evolución patrimonial de los servidores públicos;
 
@@ -4387,37 +4759,55 @@ V. El director de Investigación y Análisis “A”, y
 
 VI. El director de Investigación y Análisis “B”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 146.
 
-Los directores de Evolución Patrimonial “A”, “B” y “C” tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
+Las personas titulares de las Direcciones de Evolución Patrimonial “A”, “B” y “C” tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
 
-I. Analizar las declaraciones patrimoniales de los servidores públicos e integrar los expedientes de evolución patrimonial;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Analizar las declaraciones patrimoniales y de intereses e integrar las investigaciones de evolución patrimonial;
 
 II. Solicitar a las dependencias, órganos desconcentrados, entidades, empresas productivas del Estado, empresas subsidiarias, y a cualquiera de sus unidades administrativas, para el desarrollo de sus investigaciones, la información relacionada con el patrimonio de los declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos;
 
-III. Emitir el análisis de la evolución patrimonial de los servidores públicos, con la documentación recabada en relación con la situación patrimonial de los declarantes y sus cónyuges, concubinos y dependientes económicos;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IV. Operar el Sistema Integral de Evolución Patrimonial, y analizar las actividades relativas a la situación patrimonial de los declarantes, cónyuges, concubinos y sus dependientes económicos;
+III. Emitir el análisis de la evolución patrimonial de los servidores públicos, con base en la documentación recabada, relacionada con la situación patrimonial de los declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Operar el Sistema Integral de Evolución Patrimonial, y analizar las actividades relativas a la situación patrimonial de los declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos;
 
 V. Conciliar el resultado obtenido de la verificación automatizada de la revisión aleatoria que obre en el Sistema Integral de Evolución Patrimonial;
 
-VI. Capacitar a las autoridades investigadoras en materia de evolución patrimonial de los servidores públicos, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Capacitar a las autoridades investigadoras en materia de evolución patrimonial de los servidores públicos y, en su caso, asesorarlas, y
 
 VII. Las demás que les atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 147.
 
-El director de Estrategia e Informática Forense tiene las facultades siguientes:
+La persona titular de la Dirección de Estrategia e Informática Forense tiene las facultades siguientes:
 
-I. Dar seguimiento a las solicitudes de información que, para la integración de la evolución patrimonial de los servidores públicos, la Dirección General de Investigación Patrimonial y Forense dirija a las dependencias, órganos desconcentrados, entidades, empresas productivas del Estado, empresas productivas subsidiarias, órganos constitucionales autónomos, y demás entes públicos;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-II. Analizar las solicitudes de investigación de evolución patrimonial de los servidores públicos que requieran las autoridades investigadoras, para determinar su procedencia o improcedencia;
+I. Dar seguimiento a las solicitudes de información que, para la integración de investigaciones de evolución patrimonial de los servidores públicos, la Dirección General de Investigación Patrimonial y Forense dirija a las dependencias, órganos administrativos desconcentrados, entidades, empresas productivas del Estado, empresas productivas subsidiarias, órganos constitucionales autónomos, y demás entes públicos, así como a los particulares;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Analizar las solicitudes dirigidas a la Dirección General de Investigación Patrimonial y Forense, relacionadas con investigaciones de evolución patrimonial de los servidores públicos que requieran las autoridades investigadoras, para determinar su procedencia o improcedencia;
 
 III. Asesorar, en materia de evolución patrimonial de los servidores públicos, a las unidades administrativas de la Secretaría;
 
 IV. Elaborar los proyectos de acuerdo de inicio y de acuerdo de acumulación de investigaciones de evolución patrimonial de los servidores públicos, y someterlos a la aprobación del director General de Investigación Patrimonial y Forense;
 
-V. Radicar los expedientes de las investigaciones que se inicien, y ponerlos a disposición de la unidad administrativa competente en materia de evolución patrimonial de los servidores públicos;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Radicar procedimientos de investigación que se inicien en materia de evolución patrimonial de los servidores públicos, y turnarlos a la Dirección de Evolución Patrimonial que corresponda;
 
 VI. Verificar la información y documentación que reciba en las investigaciones de evolución patrimonial de los servidores públicos, y emitir los acuerdos que correspondan;
 
@@ -4439,13 +4829,17 @@ XIV. Integrar las constancias certificadas para la interposición de los medios 
 
 XV. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 148.
 
-Los directores de Investigación y Análisis “A” y “B” tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
+Las personas titulares de las Direcciones de Investigación y Análisis "A" y "B" tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
 
 I. Integrar las investigaciones de faltas administrativas y de faltas de particulares, y emitir los acuerdos correspondientes, cuando lo instruya el director General de Investigación Patrimonial y Forense o en coordinación con otras unidades administrativas de la Secretaría, incluidos los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades;
 
-II. Ejecutar acciones y operativos específicos para detectar y acreditar faltas administrativas o faltas de particulares, cuando lo instruya el director General de Investigación Patrimonial y Forense o en coordinación con otras unidades administrativas de la Secretaría, incluidos los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Ejecutar acciones y operativos específicos para detectar y acreditar faltas administrativas y faltas de particulares, cuando lo instruya la persona titular de la Dirección General de Investigación Patrimonial y Forense o en coordinación con otras unidades administrativas de la Secretaría, incluidos los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades; acordar la conclusión de la investigación respectiva y, en su caso, remitirla a la autoridad competente;
 
 III. Asesorar a las unidades administrativas de la Secretaría, incluidos los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades, en sus investigaciones de faltas administrativas y faltas de particulares;
 
@@ -4497,9 +4891,11 @@ V. El director Contable de Verificación Patrimonial “B”, y
 
 VI. El director Contable de Verificación Patrimonial “C”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 151.
 
-Los directores de Verificación Patrimonial "A", "B" y "C" tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
+Las personas titulares de las Direcciones de Verificación Patrimonial “A”, “B” y “C” tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
 
 I. Analizar la información que recaben de autoridades competentes en relación con la evolución del patrimonio de los servidores públicos;
 
@@ -4513,7 +4909,9 @@ V. Levantar actas administrativas sobre aclaraciones que formule el servidor pú
 
 VI. Acordar el envío, a la Unidad de Asuntos Jurídicos, del expediente de investigación de evolución patrimonial del servidor público, para la presentación de la denuncia que corresponda cuando no se justifique el incremento de su patrimonio; y dar seguimiento a la denuncia hasta su resolución definitiva;
 
-VII. Emitir el informe de presunta responsabilidad administrativa y, en su caso, remitirlo a la autoridad substanciadora;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Calificar la conducta en los procedimientos de responsabilidad administrativa y presentar a la autoridad substanciadora el informe de presunta responsabilidad administrativa;
 
 VIII. Emitir el acuerdo de conclusión de investigación de la evolución patrimonial de los servidores públicos, y el de archivo de su expediente;
 
@@ -4609,17 +5007,23 @@ VII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
 ### Capítulo III. De la Unidad Substanciadora y Resolutora
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 157.
 
-El jefe de la Unidad Substanciadora y Resolutora tiene las facultades siguientes:
+La persona titular de la Jefatura de la Unidad Substanciadora y Resolutora tiene las facultades siguientes:
 
 I. Auxiliar al coordinador General de Combate a la Impunidad en la interpretación que, en nombre de la Secretaría, haga de los ordenamientos de su competencia;
 
-II. Supervisar los procedimientos de responsabilidad administrativa que inicie la Dirección General de Responsabilidades Administrativas, e imponer las sanciones que correspondan;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Supervisar los procedimientos de responsabilidad administrativa que inicie la Dirección General de Responsabilidades Administrativas y, en su caso, resolverlos e imponer las sanciones que correspondan;
 
 III. Supervisar los procedimientos de conciliaciones, inconformidades y sanciones en materia de contrataciones públicas, que substancie la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
 
-IV. Coordinar los procedimientos de contrataciones, conciliaciones, inconformidades y sanciones, así como de responsabilidad administrativa, que substancien los órganos internos de control, las unidades de responsabilidades, y las delegaciones de Unidad de Responsabilidades, cuando lo determine el coordinador General de Combate a la Impunidad;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Coordinar las instancias de inconformidad y los procedimientos de conciliación, de infracciones, y de responsabilidad administrativa que substancien las direcciones generales a su cargo;
 
 V. Coordinar la asesoría que la Coordinación General de Combate a la Impunidad preste, en materia de responsabilidad administrativa, a los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades; y emitir criterios y diseñar mecanismos para la substanciación y resolución de los procedimientos de responsabilidad administrativa;
 
@@ -4633,11 +5037,15 @@ IX. Supervisar los procedimientos que instruya el director General de Controvers
 
 X. Supervisar los procedimientos de conciliación previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y en la Ley de Asociaciones Público Privadas; con excepción de aquellos que, por acuerdo de la persona titular de la Secretaría, deban conocer los órganos internos de control, sin perjuicio de que el coordinador General de Combate a la Impunidad autorice eventualmente su atracción;
 
-XI. Coordinar las solicitudes de la Unidad de Auditoría Gubernamental y de la Unidad de Auditoría a Contrataciones Públicas, o bien, las de los titulares de los órganos internos de control, cuando adviertan posibles irregularidades en los procedimientos de contratación, y en la verificación del cumplimiento de los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas y servicios relacionadas (sic) con las mismas;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XI. Coordinar las solicitudes de la Unidad de Auditoría Gubernamental, de la Unidad de Auditoría a Contrataciones Públicas, y de los titulares de los órganos internos de control, cuando adviertan irregularidades en los procedimientos de adquisición de bienes, arrendamientos y servicios, así como de obras públicas y servicios relacionados con las mismas, y en los procedimientos de verificación del cumplimiento de los ordenamientos aplicables;
 
 XII. Coordinar la asesoría y seguimiento de las acciones de los órganos internos de control en materia de responsabilidad administrativa, inconformidades, intervenciones de oficio, conciliaciones y sanciones a personas físicas o morales por infracciones a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, y demás ordenamientos aplicables en materia de responsabilidad administrativa y de contrataciones públicas;
 
-XIII. Supervisar la asesoría que la Coordinación General de Combate a la Impunidad preste a los órganos internos de control respecto de la información que registren para generar el Directorio de Proveedores y Contratistas Sancionados de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII. Supervisar la asesoría que la Dirección General de Controversias y Sanciones en Contrataciones Públicas preste a los órganos internos de control respecto de la información que registren para generar el Directorio de Proveedores y Contratistas Sancionados de la Administración Pública Federal;
 
 XIV. Supervisar que las unidades administrativas que le sean adscritas administren la información contenida en los sistemas electrónicos que, en términos de tecnologías de información aplicada al combate a la corrupción e impunidad, se requieran para el control y seguimiento de los asuntos de su competencia, intercambio, suministro y disponibilidad de la misma;
 
@@ -4645,9 +5053,17 @@ XV. Proponer al coordinador General de Combate a la Impunidad proyectos de crite
 
 XVI. Supervisar el registro patrimonial de los servidores públicos y de los sancionados;
 
-XVII. Resolver el recurso de revisión, previsto en la Ley Federal de Procedimiento Administrativo, que se interponga contra las resoluciones del director General de Controversias y Sanciones en Contrataciones Públicas o, en su caso, en contra de los actos de los directores a su cargo;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-XVIII. Atraer, previa autorización del coordinador General de Combate a la Impunidad, procedimientos de responsabilidad administrativa que sean conocidos por órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades, cuando por la naturaleza de los hechos, la gravedad del asunto, o la cuantía de la afectación, estime pertinente que deba conocer la Coordinación General de Combate a la Impunidad y, en su caso, requerir el envío del expediente respectivo al titular del Órgano Interno de Control, de la Unidad de Responsabilidades o al delegado de Unidad de Responsabilidades de que se trate, y
+XVII. Resolver el recurso de revisión, previsto en la Ley Federal de Procedimiento Administrativo, que se interponga contra las resoluciones de la persona titular de la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVIII. Atraer, previa autorización de la persona titular de la Coordinación General de Combate a la Impunidad, procedimientos de responsabilidad administrativa, procedimientos de sanción de infracciones en materia de contratación pública, instancias de inconformidad en materia de contratación pública, intervenciones de oficio en materia de contratación pública, y procedimientos de conciliación en materia de contratación pública, que estén siendo conocidos por órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XVIII Bis. Conocer directamente, previa autorización de la persona titular de la Coordinación General de Combate a la Impunidad, los procedimientos a los que se refiere la fracción anterior, antes de que sean conocidos por órganos internos de control, tanto específicos como especializados, por unidades de responsabilidades o por delegaciones de Unidad de Responsabilidades, y
 
 XIX. Las demás que le atribuya este reglamento y otros ordenamientos.
 
@@ -4661,19 +5077,31 @@ II. El director General de Controversias y Sanciones en Contrataciones Públicas
 
 III. El coordinador de Registro Patrimonial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 159.
 
-El director General de Responsabilidades Administrativas tiene las facultades siguientes:
+La persona titular de la Dirección General de Responsabilidades Administrativas tiene las facultades siguientes:
 
-I. Admitir los informes de presunta responsabilidad administrativa que le sean turnados por las unidades administrativas competentes de la Secretaría; en su caso, realizar las prevenciones que correspondan en términos de los ordenamientos en materia de responsabilidad administrativa, y comisionar al personal adscrito a la Dirección General de Responsabilidades Administrativas para que practiquen notificaciones personales o por instructivo, citaciones y cualquier otra diligencia del procedimiento;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Admitir los informes de presunta responsabilidad administrativa que reciba de las unidades administrativas competentes de la Secretaría; acordar, en su caso, las prevenciones que correspondan, y comisionar al personal adscrito a la Dirección General de Responsabilidades Administrativas para que practiquen notificaciones, citaciones y cualquier otra diligencia en el procedimiento;
 
 II. Determinar la procedencia, improcedencia, sobreseimiento, o abstención de iniciar los procedimientos de responsabilidad administrativa; emplazar al probable responsable, y citar a las demás partes;
 
-III. Remitir al Tribunal Federal de Justicia Administrativa, para su resolución, los autos originales, o bien, la certificación digital, de los expedientes que versen sobre faltas administrativas graves;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IV. Resolver los procedimientos de responsabilidad administrativa que se inicien, por faltas administrativas, en contra de servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado, e imponer las sanciones que correspondan;
+III. Remitir al Tribunal Federal de Justicia Administrativa, para su resolución, los procedimientos de responsabilidad administrativa que versen sobre faltas administrativas graves y de particulares;
 
-V. Coordinar los procedimientos de responsabilidad administrativa que substancien los órganos internos de control, las unidades de responsabilidades, y las delegaciones de Unidad de Responsabilidades, cuando lo instruya el jefe de la Unidad Substanciadora y Resolutora por acuerdo del coordinador General de Combate a la Impunidad;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Resolver los procedimientos de responsabilidad administrativa cuya resolución no sea competencia del Tribunal Federal de Justicia Administrativa y, en su caso, imponer las sanciones que correspondan;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Coordinar los procedimientos de responsabilidad administrativa que substancien los órganos internos de control, las unidades de responsabilidades, y las delegaciones de Unidad de Responsabilidades, cuando lo instruya la persona titular de la Jefatura de la Unidad Substanciadora y Resolutora previo acuerdo de la persona titular de la Coordinación General de Combate a la Impunidad;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE ABRIL DE 2024)</small>
 
 VI. Turnar a los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades, según el caso, previo acuerdo de la persona titular de la Jefatura de la Unidad Substanciadora y Resolutora, los procedimientos que puedan resolver en términos de los ordenamientos en materia de responsabilidad administrativa;
 
@@ -4707,35 +5135,59 @@ V. El director de Responsabilidades “E”, y
 
 VI. El director de Asesoría, Consulta y Control de Procesos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 161.
 
-Los directores de Responsabilidades “A”, “B”, “C”, “D” y “E” tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
+Las personas titulares de las Direcciones de Responsabilidades "A", "B", "C", "D" y "E" tienen, en el ámbito de sus respectivas competencias, las facultades siguientes:
 
-I. Proponer al director General de Responsabilidades Administrativas, los proyectos de acuerdos de recepción y admisión del informe de presunta responsabilidad administrativa, así como de los proyectos de acuerdos de improcedencia y sobreseimiento del procedimiento de responsabilidad administrativa;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Someter a consideración de la persona titular de la Dirección General de Responsabilidades Administrativas proyectos de acuerdos que recaigan en el procedimiento de responsabilidad administrativa, incluidos los de admisión del informe de presunta responsabilidad administrativa; de prevención; de improcedencia y de sobreseimiento;
 
 II. Emplazar, en su caso, al probable responsable y citar a las demás partes;
 
-III. Dirigir, en el procedimiento de responsabilidad administrativa, las audiencias previstas en los ordenamientos en materia de responsabilidad administrativa; practicar diligencias; integrar el expediente respectivo, y dejarlo en estado de resolución para el director General de Responsabilidades Administrativas o para su remisión al Tribunal Federal de Justicia Administrativa;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IV. Acordar la acumulación de procedimientos y tramitar incidentes en términos de los ordenamientos en materia de responsabilidad administrativa, así como decretar medidas de apremio para hacer cumplir sus determinaciones y resoluciones interlocutorias, y mantener el orden durante la celebración de las audiencias;
+III. Substanciar:
 
-V. Resolver incidentes promovidos por las partes; declarar abierto el periodo de alegatos; declarar cerrada la instrucción, y citar a las partes para oír la resolución del procedimiento de responsabilidad administrativa;
+a) El procedimiento de responsabilidad administrativa, presidir las audiencias; practicar diligencias; integrar el expediente respectivo, y dejar el procedimiento en estado de resolución de la persona titular de la Dirección General de Responsabilidades Administrativas o, en su caso, remitir el expediente al Tribunal Federal de Justicia Administrativa, en los términos de los ordenamientos de la materia, y
 
-VI. Dictar las medidas cautelares previstas en los ordenamientos en materia de responsabilidad administrativa;
+b) El recurso de reclamación, y dar cuenta al Tribunal Federal de Justicia Administrativa, para su resolución;
 
-VII. Levantar actas administrativas de las audiencias previstas en los ordenamientos en materia de responsabilidad administrativa; presidir los actos de prueba; acordar la admisión o desechamiento de las pruebas ofrecidas por las partes; preparar el desahogo de pruebas; disponer la práctica o ampliación de cualquier diligencia probatoria; autorizar las actuaciones pertinentes; acordar el cierre de la audiencia inicial, y certificar o dar fe de las constancias que se integren u obtengan del expediente y de las actuaciones en el procedimiento respectivo;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VIII. Elaborar el proyecto de resolución del procedimiento de responsabilidad administrativa, someterlo a la aprobación del director General de Responsabilidades Administrativas, y ordenar la ejecución de las sanciones impuestas;
+IV. Acordar la acumulación de procedimientos; tramitar y resolver incidentes en términos de los ordenamientos en materia de responsabilidad administrativa, y decretar medidas de apremio para hacer cumplir sus determinaciones y mantener el orden en las audiencias;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Declarar abierto el periodo de alegatos y citar a las partes para oír la resolución del procedimiento de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Decretar las medidas cautelares previstas en los ordenamientos en materia de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Acordar la admisión y desechamiento de las pruebas ofrecidas por las partes; preparar su desahogo; acordar la práctica y, en su caso, ampliación de cualquier diligencia probatoria; presidir los actos de desahogo de pruebas, y autorizar las demás actuaciones que resulten pertinentes;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Someter a la aprobación de la persona titular de la Dirección General de Responsabilidades Administrativas los proyectos de resolución del procedimiento de responsabilidad administrativa y, en su caso, ordenar la ejecución de las sanciones impuestas;
 
 IX. Auxiliar a la persona titular de la Jefatura de la Unidad Substanciadora y Resolutora en la asesoría y seguimiento de los actos de los órganos internos de control, unidades de responsabilidades y delegaciones de Unidad de Responsabilidades, en materia de responsabilidad administrativa, y
 
 X. Las demás que les atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 162.
 
-El director de Asesoría, Consulta y Control de Procesos tiene las facultades siguientes:
+La persona titular de la Dirección de Asesoría, Consulta y Control de Procesos tiene las facultades siguientes:
 
-I. Auxiliar al director General de Responsabilidades Administrativas en la asesoría, consulta y control de procesos a su cargo; a los órganos internos de control, unidades de responsabilidades, delegaciones de Unidad de Responsabilidades, y demás unidades administrativas de la Secretaría, así como y (sic) proponer y, en su caso, realizar pláticas, conferencias, talleres, mesas redondas y cursos para impulsar entre ellos el intercambio de información y unificación de criterios;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Auxiliar a la persona titular de la Dirección General de Responsabilidades Administrativas en el control de procesos a su cargo, así como en la asesoría y consulta a los órganos internos de control, unidades de responsabilidades, delegaciones de Unidad de Responsabilidades, y demás unidades administrativas de la Secretaría y, en su caso, realizar pláticas, conferencias, talleres, mesas redondas y cursos para impulsar entre ellos el intercambio de información y unificación de criterios;
 
 II. Proponer al director General de Responsabilidades Administrativas proyectos de normas, criterios y demás ordenamientos en las materias de su competencia, así como guías no vinculantes para orientar y facilitar el cumplimiento de las obligaciones de los servidores públicos;
 
@@ -4743,35 +5195,57 @@ III. Coadyuvar con el director General de Responsabilidades Administrativas en l
 
 IV. Proponer la democratización de tecnologías en el uso de los sistemas electrónicos y las modificaciones que se requieran para que los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades, registren los asuntos de su competencia;
 
-V. Proporcionar asesoría y apoyo técnico y operativo al personal de la Dirección General de Responsabilidades Administrativas, de los órganos internos de control, de las unidades de responsabilidades y de las delegaciones de Unidad de Responsabilidades, sobre el registro de información en los sistemas electrónicos desarrollados para suministrar información a la Plataforma Digital Nacional, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+V. Proporcionar asesoría y apoyo técnico y operativo al personal de la Dirección General de Responsabilidades Administrativas, de los órganos internos de control, de las unidades de responsabilidades y de las delegaciones de Unidad de Responsabilidades, para el acceso y registro de información en los sistemas electrónicos desarrollados para suministrar información a la Plataforma Digital Nacional, y
 
 VI. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 163.
 
-El director General de Controversias y Sanciones en Contrataciones Públicas tiene las facultades siguientes:
+La persona titular de la Dirección General de Controversias y Sanciones en Contrataciones Públicas tiene las facultades siguientes:
 
-I. Resolver las inconformidades con motivo de:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) Los actos realizados por las entidades federativas, municipios y alcaldías de la Ciudad de México, derivados de procedimientos de contratación con cargo total o parcial a fondos federales, salvo en los casos en que la Secretaría tenga celebrado un convenio de coordinación o de colaboración con las entidades federativas para que conozcan y resuelvan tales inconformidades, y
+I. Resolver las instancias de inconformidad:
 
-b) Los actos realizados por las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, derivados de procedimientos de contratación, cuando la Secretaría determine que debe conocer directamente;
+a) Contra actos de las entidades federativas, municipios y alcaldías de las demarcaciones territoriales de Ciudad de México, realizados en procedimientos de contratación con cargo total o parcial a fondos federales, salvo que la Secretaría haya celebrado un convenio de coordinación o de colaboración con las entidades federativas para que conozcan y resuelvan esas instancias;
 
-Para efectos de este inciso, cuando la inconformidad se haya iniciado en el órgano interno de control, el director General de Controversias y Sanciones en Contrataciones Públicas le solicitará la remisión del expediente, y ordenará que se notifique personalmente, a quienes tengan interés, la radicación de la inconformidad en la Dirección General a su cargo;
+b) Contra actos de las dependencias, órganos administrativos desconcentrados y entidades, realizados en procedimientos de contratación, cuando la persona titular de la Coordinación General de Combate a la Impunidad autorice la atracción o el conocimiento directo de esas instancias, y
 
-II. Resolver los incidentes que se promuevan por repetición, defectos, excesos u omisiones en que hayan incurrido las dependencias, órganos desconcentrados o entidades convocantes, respecto del cumplimiento de las resoluciones a las inconformidades emitidas por la Dirección General de Controversias y Sanciones en Contrataciones Públicas, así como el incidente de ejecución de garantía;
+c) Iniciadas en un Órgano Interno de Control, en cuyo caso debe solicitar a la persona titular de ese órgano la remisión del expediente, y ordenar que, a quienes tengan interés, se les notifique personalmente la radicación de la instancia en la Dirección General a su cargo;
 
-III. Iniciar de oficio los procedimientos de intervención que ordene el coordinador General de Combate a la Impunidad, cuando se presuma la inobservancia de los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas; y dictar las resoluciones que pongan fin a tales procedimientos;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IV. Iniciar y resolver los procedimientos que se instruyan a personas físicas o morales por infracciones a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, e imponer las sanciones que correspondan:
+II. Resolver:
 
-a) Por infracciones cometidas en los procedimientos de contratación o derivadas de contratos celebrados por la Secretaría;
+a) Los incidentes que se promuevan por repetición, defectos, excesos u omisiones en que hayan incurrido las dependencias, órganos administrativos desconcentrados o entidades convocantes, respecto del cumplimiento de las resoluciones de las instancias de inconformidad, emitidas por la Dirección General de Controversias y Sanciones en Contrataciones Públicas, y
 
-b) Por infracciones derivadas de procedimientos de contratación o contratos celebrados, con cargo total o parcial a fondos federales, por las entidades federativas, municipios, y alcaldías de la Ciudad de México, excepto cuando se trate de fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal;
+b) Los incidentes de ejecución de garantía;
 
-c) Por infracciones derivadas de procedimientos de contratación o contratos celebrados por las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades, cuando el coordinador General de Combate a la Impunidad autorice la atracción del procedimiento de responsabilidad administrativa, en cuyo caso solicitará al órgano interno de control la remisión del expediente, y ordenará que se notifique personalmente su radicación en la dirección general, a quienes tengan interés en el asunto, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-d) Por infracciones consistentes en la no formalización o rescisión administrativa de contratos, cuando el supuesto se actualice, en dependencias, órganos desconcentrados o entidades distintas, para una misma persona, en los plazos señalados por las leyes en materia de contrataciones públicas;
+III. Substanciar y resolver:
+
+a) Los procedimientos de intervención de oficio, previstos en el artículo 76 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y 94 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, cuando se presuma la inobservancia de los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, y cuando lo autorice la persona titular de la Coordinación General de Combate a la Impunidad, y
+
+b) Los procedimientos que se instruyan a personas físicas o morales por infracciones a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas, y que correspondan a infracciones cometidas:
+
+1. En procedimientos de contratación o con motivo de contratos celebrados por la Secretaría;
+
+2. En procedimientos de contratación o con motivo de contratos celebrados, con cargo total o parcial a fondos federales, por las entidades federativas, municipios, y alcaldías de las demarcaciones territoriales de Ciudad de México, excepto cuando se trate de fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal;
+
+3. En procedimientos de contratación o con motivo de contratos celebrados por las dependencias, órganos administrativos desconcentrados y entidades, cuando la persona titular de la Coordinación General de Combate a la Impunidad autorice su conocimiento directo o, en su caso, su atracción, para lo cual debe solicitar al Órgano Interno de Control la remisión del expediente, y ordenar que, a quienes tengan interés en el asunto, se les notifique personalmente la radicación del procedimiento en la Dirección General a su cargo, y
+
+4. Por la rescisión o la no formalización de contratos en los plazos previstos en los ordenamientos en materia de contrataciones públicas, cuando el supuesto se actualice, para una misma persona, en dependencias, órganos administrativos desconcentrados o entidades distintas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III Bis. Investigar las infracciones cometidas a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas, y servicios relacionados con las mismas;
+
+IV. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 V. Coordinar los procedimientos de conciliación previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y en la Ley de Asociaciones Público Privadas, con excepción de aquellos que, por acuerdo de la persona titular de la Secretaría, deban conocer los órganos internos de control, sin perjuicio de que el coordinador General de Combate a la Impunidad autorice eventualmente su atracción;
 
@@ -4903,37 +5377,73 @@ VI. Supervisar las actividades de los notificadores adscritos a la Dirección Ge
 
 VII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 170.
 
-El coordinador de Registro Patrimonial tiene las facultades siguientes:
+La persona titular de la Coordinación de Registro Patrimonial tiene las facultades siguientes:
 
-I. Coordinar las acciones necesarias para integrar, actualizar y transparentar a los ciudadanos el padrón de los servidores públicos de la Administración Pública Federal y empresas productivas del Estado obligados a presentar declaraciones de situación patrimonial y de intereses;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-II. Registrar las declaraciones de situación patrimonial y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado, para suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+I. Coordinar las acciones:
 
-III. Coordinar la implementación y difusión de los programas preventivos y de las acciones que se determinen en materia de declaración de situación patrimonial y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado;
+a) Relacionadas con la interpretación del formato, normas e instructivo de llenado y con la presentación de la declaración patrimonial y de intereses de los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado;
 
-IV. Asesorar a los servidores públicos que lo requieran en materia de declaración patrimonial y de intereses, y de registro de los sancionados;
+b) Para el resguardo y custodia de la información que ingrese al sistema electrónico de declaraciones de situación patrimonial y de intereses de los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado; así como de la información que ingrese sobre los servidores públicos y particulares sancionados; y adoptar medidas para actualizar y depurar el sistema referido;
 
-V. Coordinar las acciones para el resguardo y custodia de la información que ingrese al sistema electrónico para la recepción de declaraciones de situación patrimonial y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado, y adoptar medidas para actualizar y depurar el sistema indicado;
+c) Para verificar la presentación de las declaraciones patrimoniales y de intereses, y dar vista, en su caso, a los órganos internos de control, unidades de responsabilidades, delegaciones de Unidad de Responsabilidades, o a la Dirección General de Investigación de Faltas Administrativas;
 
-VI. Coordinar la certificación de las declaraciones de situación patrimonial y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado, que se obtengan del sistema respectivo; así como la certificación de la información que obre en los archivos documentales, tanto de registro patrimonial y de intereses, como del registro de servidores públicos y particulares sancionados, y la que se encuentre en el archivo documental;
+d) Para mantener actualizado y disponible el sistema por el cual la Administración Pública Federal y las empresas productivas del Estado deben registrar a los servidores públicos y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa, y
 
-VII. Coordinar las acciones para verificar el cumplimiento de la obligación de presentar la declaración patrimonial y de intereses, y realizar las acciones necesarias para dar vista, en su caso, a los órganos internos de control, unidades de responsabilidades, delegaciones de Unidad de Responsabilidades, o a la Dirección General de Investigación de Faltas Administrativas;
+e) Para la custodia y resguardo de la documentación e información integrada al sistema de registro de servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado, incluidas las de particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa; y coordinar las medidas para actualizar, depurar y mantener ese registro permanentemente disponible para consulta pública;
 
-VIII. Verificar que las declaraciones patrimoniales y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado, se presenten en los formatos y conforme a las normas, manuales e instructivos aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IX. Coadyuvar en la celebración de convenios de coordinación con entes públicos, en materia de declaraciones patrimoniales y de intereses, y en materia de sanciones por faltas administrativas, que permitan adoptar mejores prácticas en el combate a la corrupción e impunidad;
+II. Recibir de los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado sus respectivas declaraciones de situación patrimonial y de intereses; registrarlas, y suministrar la información correspondiente a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
 
-X. Coordinar las acciones para mantener actualizado y disponible el sistema por el cual las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado, deben registrar las sanciones impuestas a servidores públicos por faltas administrativas, y a particulares por faltas de particulares;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-XI. Coordinar, por medio de los sistemas respectivos, la publicidad de las sanciones impuestas a servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado; y a los particulares, así como de las sanciones impuestas a servidores públicos de cualquier otro ente público con el que la Secretaría suscriba convenios para suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+III. Coordinar:
 
-XII. Registrar en el sistema correspondiente las sanciones impuestas por las autoridades substanciadoras y resolutoras de procedimientos de responsabilidad administrativa, y las determinadas por los órganos jurisdiccionales, siempre que hayan quedado firmes;
+a) La implementación y difusión de los programas preventivos y de las acciones que se determinen en materia de declaración patrimonial y de intereses de los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado;
+
+b) La certificación de las declaraciones patrimoniales y de intereses de los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado, que se obtengan del sistema respectivo; así como la certificación de la información que obre en los archivos documentales, tanto de registro patrimonial y de intereses, como del registro de servidores públicos y particulares sancionados, y la que se encuentre en el archivo documental;
+
+c) Por medio de los sistemas respectivos, la publicidad de las sanciones impuestas, de conformidad con los ordenamientos en materia de responsabilidad administrativa, a los servidores públicos de la Administración Pública Federal, de las empresas productivas del Estado, y de cualquier otro ente público con el que la Secretaría suscriba convenios para suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, así como a los particulares, y
+
+d) En el sistema correspondiente, el registro de las sanciones impuestas a los servidores públicos por las autoridades resolutoras de procedimientos de responsabilidad administrativa y por los órganos jurisdiccionales, siempre que hayan quedado firmes;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Capacitar a los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado en todo lo relativo a la declaración patrimonial y de intereses, y al registro de servidores públicos y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa y, en su caso, brindarles asesoría;
+
+V. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
+
+VI. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
+
+VII. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Expedir constancias que acrediten:
+
+a) Que las declaraciones patrimoniales y de intereses presentadas por los servidores públicos de la Administración Pública Federal y de empresas productivas del Estado, corresponden a las que obran en el sistema electrónico respectivo, y
+
+b) Que es fidedigna la información contenida en los sistemas de registro de los servidores públicos y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IX. Coadyuvar en la celebración de convenios de coordinación entre la Secretaría y demás entes públicos, en materia de declaraciones patrimoniales y de intereses, así como de servidores públicos y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa;
+
+X. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
+
+XI. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
+
+XII. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 XIII. Dar vista a los órganos internos de control, unidades de responsabilidades o delegaciones de Unidad de Responsabilidades, de las personas que, estando inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, se encuentren en activo en alguna dependencia, órgano desconcentrado, entidad, empresa productiva del Estado, o empresa productiva subsidiaria;
 
-XIV. Coordinar las acciones para la custodia y resguardo de la documentación e información integrada a los sistemas de registro de servidores públicos de la Administración Pública Federal y de los particulares sancionados, así como de la adopción de las medidas para actualizarlo, depurarlo y mantenerlo permanentemente disponible para consulta de los ciudadanos, y
+XIV. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 XV. Las demás que le atribuya este reglamento y otros ordenamientos.
 
@@ -4945,41 +5455,61 @@ I. El director de Registro Patrimonial y de Intereses, y
 
 II. El director de Registro de Sancionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 172.
 
-El director de Registro Patrimonial y de Intereses tiene las facultades siguientes:
+La persona titular de la Dirección de Registro Patrimonial y de Intereses tiene las facultades siguientes:
 
-I. Realizar las acciones necesarias para mantener actualizado el padrón de servidores públicos de la Administración Pública Federal y empresas productivas del Estado, obligados a presentar declaraciones patrimoniales y de intereses;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I. Realizar, en la Administración Pública Federal y en las empresas productivas del Estado, las acciones relacionadas con la interpretación administrativa del formato, de las normas y del instructivo de llenado y presentación, de la declaración patrimonial y de intereses;
 
 II. Implementar los programas preventivos, su difusión y las acciones que se determinen en materia de declaración patrimonial y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades y empresas productivas del Estado;
 
-III. Asesorar a los servidores públicos que lo requieran en materia de declaración patrimonial y de intereses;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Capacitar a los servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado, en materia de declaración patrimonial y de intereses y, en su caso, asesorarlos;
 
 IV. Llevar a cabo las acciones para el resguardo y custodia de la información que se ingrese al sistema electrónico para la recepción de declaraciones patrimoniales y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades y empresas productivas del Estado, y adoptar las medidas para actualizar y depurar el mismo sistema señalado;
 
 V. Certificar las declaraciones patrimoniales y de intereses de los servidores públicos de las dependencias, órganos desconcentrados, entidades y empresas productivas del Estado, que se obtengan del sistema de registro, así como las que obren en el archivo documental;
 
-VI. Verificar el cumplimiento de la obligación de presentar la declaración patrimonial y de intereses, y realizar las acciones necesarias para dar vista, en su caso, junto con la Coordinación de Registro Patrimonial, a los órganos internos de control, unidades de responsabilidades, delegaciones de Unidad de Responsabilidades, o a la Dirección General de Investigación de Faltas Administrativas, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VI. Verificar la presentación de las declaraciones patrimoniales y de intereses, y dar vista, en su caso, junto con la Coordinación de Registro Patrimonial, a los órganos internos de control, unidades de responsabilidades, delegaciones de Unidad de Responsabilidades, o a la Dirección General de Investigación de Faltas Administrativas;
 
 VII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 173.
 
-El director de Registro de Sancionados tiene las facultades siguientes:
+La persona titular de la Dirección del Registro de Sancionados tiene las facultades siguientes:
 
-I. Operar y mantener actualizado el sistema por el cual las dependencias, órganos desconcentrados, entidades y empresas productivas del Estado, registren las sanciones impuestas a los servidores públicos y particulares, en materia de responsabilidad administrativa;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-II. Recibir, por medio de los sistemas respectivos, las sanciones impuestas a servidores públicos de las dependencias, órganos desconcentrados, entidades, y empresas productivas del Estado; las impuestas a particulares, y las impuestas a los servidores públicos de cualquier otro ente público con el que la Secretaría suscriba convenios para suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+I. Operar el sistema por el cual los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades, registren las sanciones impuestas a los servidores públicos y particulares en materia de responsabilidad administrativa, y mantenerlo actualizado;
 
-III. Registrar en el sistema respectivo las sanciones administrativas impuestas por las autoridades substanciadoras o resolutoras de procedimientos de responsabilidad administrativa, así como las impuestas por órganos jurisdiccionales, a servidores públicos de las dependencias, órganos desconcentrados, entidades y empresas productivas del Estado, y a particulares, siempre que hayan quedado firmes;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Administrar, por medio de los sistemas respectivos, la publicidad de los servidores públicos de las dependencias, órganos administrativos desconcentrados, entidades y empresas productivas del Estado y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa, así como la de los servidores públicos sancionados de cualquier otro ente público con el que la Secretaría suscriba convenios para suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Registrar en el sistema respectivo, siempre que hayan quedado firmes, las sanciones impuestas por las autoridades resolutoras de procedimientos de responsabilidad administrativa y por los órganos jurisdiccionales, a servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado, y a particulares, así como verificar la información registrada en ese sistema;
 
 IV. Detectar y dar vista a los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidades, de las personas que, estando inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, se encuentren en activo en alguna dependencia, órgano desconcentrado, entidad o empresa productiva del Estado;
 
 V. Realizar acciones para la custodia y resguardo de la documentación e información integrada a los sistemas de registro de sanciones impuestas a servidores públicos de la Administración Pública Federal y a particulares, y adoptar las medidas para actualizarlo y depurarlo permanentemente;
 
-VI. Efectuar acciones para el control y seguimiento de los convenios celebrados por la Secretaría con otros entes públicos en materia de sanciones por faltas administrativas o faltas de particulares;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VII. Asesorar a los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidad, en materia de servidores públicos sancionados;
+VI. Realizar acciones para el control y seguimiento de los convenios celebrados por la Secretaría con otros entes públicos en materia de sanciones por faltas administrativas y faltas de particulares;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Capacitar a los órganos internos de control, unidades de responsabilidades, y delegaciones de Unidad de Responsabilidad, en materia de registro de servidores públicos sancionados y, en su caso, asesorarlos;
 
 VIII. Expedir las constancias que se obtengan de los sistemas de registro de sanciones de los servidores públicos y particulares, y
 
@@ -5253,17 +5783,21 @@ XVI. Proveer a las demás unidades administrativas de la Secretaría de nuevas t
 
 XVII. Poner a disposición de los titulares de las demás unidades administrativas de la Secretaría, las herramientas tecnológicas para administrar la información de su competencia, contenida en los aplicativos de cómputo y en los sitios web de la Secretaría;
 
-XVIII. Proveer al funcionamiento del Centro de Estudios para Prevenir la Corrupción e Impunidad, y coordinarse, para tal efecto, con las demás unidades administrativas de la Secretaría;
+XVIII. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 XIX. Ejecutar la política de igualdad de género acorde a los planes y programas que correspondan, así como llevar la representación de la Secretaría en la materia;
 
-XX. Fungir al interior de la Secretaría como órgano de consulta y asesoría en materia de perspectiva de género, hostigamiento sexual y acoso sexual, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XX. Fungir al interior de la Secretaría como órgano de consulta y asesoría en materia de perspectiva de género, igualdad, no discriminación, hostigamiento sexual y acoso sexual, y
 
 XXI. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 180.
 
-Para el ejercicio de sus facultades, la titular de la Unidad de Administración y Finanzas de la Secretaría se auxiliará de:
+La persona titular de la Unidad de Administración y Finanzas de la Secretaría, para el ejercicio de sus facultades, se auxilia de:
 
 I. La directora General de Programación y Presupuesto;
 
@@ -5273,47 +5807,91 @@ III. La directora General de Recursos Materiales y Servicios Generales;
 
 IV. El director General de Tecnologías de Información, y
 
-V. El director General del Centro de Estudios para Prevenir la Corrupción e Impunidad.
+V. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
 ### Capítulo II. De la Dirección General de Programación y Presupuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 181.
 
-La directora General de Programación y Presupuesto tiene las facultades siguientes:
+La persona titular de la Dirección General de Programación y Presupuesto tiene las facultades siguientes:
 
-I. Difundir entre las demás unidades administrativas de la Secretaría las políticas, directrices y criterios técnicos para el proceso interno de programación y presupuestación, y evaluar el ejercicio presupuestal de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-II. Integrar el anteproyecto de presupuesto de la Secretaría, con la participación de las demás unidades administrativas y conforme a los lineamientos que emita la Secretaría de Hacienda y Crédito Público, y presentarlo a la titular de la Unidad de Administración y Finanzas de la Secretaría, para su aprobación;
+I. Difundir entre las demás unidades administrativas de la Secretaría los ordenamientos que, en materia de programación, presupuestación y ejercicio del gasto público, expida la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+I Bis. Emitir ordenamientos para la participación de las unidades administrativas de la Secretaría en el proceso interno de programación, presupuestación y ejercicio del gasto público, y difundirlos;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+II. Integrar el anteproyecto de presupuesto de la Secretaría, con la participación de las demás unidades administrativas y conforme a los lineamientos que emita la Secretaría de Hacienda y Crédito Público;
 
 III. Difundir entre las unidades administrativas de la Secretaría el presupuesto autorizado para la ejecución de sus respectivos programas;
 
-IV. Integrar y registrar, en el Programa Anual de Inversión de la Secretaría, el gasto de los programas y proyectos de inversión pública, así como coordinar el trámite para el registro y seguimiento de las carteras de inversión;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Integrar y registrar el mecanismo de planeación de los programas y proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV Bis. Tramitar el registro de las solicitudes de programas y proyectos de inversión en el Sistema de Cartera de Inversión o, en su defecto, en cualquier otro sistema que para tal efecto establezca la Secretaría de Hacienda y Crédito Público, y dar seguimiento a las carteras de inversión autorizadas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV Ter. Tramitar ante la titular de la Unidad de Administración y Finanzas, la autorización de los oficios de liberación de inversión de las unidades administrativas de la Secretaría;
 
 V. Controlar y registrar el ejercicio del presupuesto de la Secretaría;
 
-VI. Gestionar ante la Secretaría de Hacienda y Crédito Público la autorización, asignación y modificaciones al presupuesto de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-VII. Operar los sistemas y procedimientos internos para la administración de los recursos financieros de la Secretaría;
+VI. Gestionar ante la Secretaría de Hacienda y Crédito Público las autorizaciones, asignaciones y modificaciones del presupuesto de la Secretaría;
 
-VIII. Dirigir la operación y actualización de la información presupuestal, financiera y contable en el Sistema Integral de Presupuesto y Contabilidad de la Secretaría;
+VII. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
-IX. Elaborar los informes sobre la información contable, presupuestaria y programática, y sobre la integración de la Cuenta Anual de la Hacienda Pública Federal; el Informe de Avance de Gestión Financiera, y atender los demás requerimientos de información periódica que formule la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-X. Integrar y presentar a la titular de la Unidad de Administración y Finanzas de la Secretaría, el avance de las metas en la ejecución de los programas presupuestarios;
+VIII. Controlar el registro de las operaciones presupuestarias, financieras y contables de la Secretaría, en los sistemas internos de la misma y en los de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IX. Elaborar los informes contables, presupuestarios y programáticos, así como integrar la Cuenta Pública, y atender los demás requerimientos de información periódica que formule la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X. Coordinar la integración y registro de las matrices de indicadores para resultados y, en su caso, de la ficha del indicador del desempeño;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X Bis. Coordinar el registro del avance y el de la modificación de las metas en la ejecución de los programas presupuestarios;
 
 XI. Presentar las declaraciones de carácter fiscal y efectuar el entero de las retenciones que la Secretaría deba realizar por concepto de impuestos, derechos, cuotas de seguridad social y demás contribuciones;
 
 XII. Emitir las evaluaciones de impacto presupuestario de los proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos que se propongan al presidente de la República y sean de la competencia de la Secretaría;
 
-XIII. Vigilar que, en los convenios, contratos y acuerdos que celebre la Secretaría y afecten su presupuesto, se cumplan los ordenamientos en materia de administración de recursos financieros, humanos, tecnológicos y materiales, así como de obra pública y servicios relacionados con las mismas, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII. Vigilar que, en las actividades de planeación, programación, presupuesto, ejercicio, control y evaluación, respecto del gasto público de la Secretaría, se cumplan los ordenamientos aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII Bis. Tramitar las solicitudes que realicen las unidades administrativas de la Secretaría para el ejercicio, rembolso y pago del presupuesto; y efectuar el registro presupuestario y contable del gasto correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XIII Ter. Fungir como ventanilla única para la atención de las solicitudes y consultas que presenten las unidades administrativas de la Secretaría, en materia de programación, presupuesto, ejercicio, control y seguimiento de su gasto asignado, y
 
 XIV. Las demás que le atribuya este reglamento y otros ordenamientos.
 
 ### Capítulo III. De la Dirección General de Recursos Humanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 182.
 
-El director General de Recursos Humanos tiene las facultades siguientes:
+La persona titular de la Dirección General de Recursos Humanos tiene las facultades siguientes:
 
 I. Administrar los recursos humanos de la Secretaría;
 
@@ -5329,21 +5907,39 @@ b) Los proyectos de reglas, convocatorias, políticas, programas, planes y demá
 
 c) Las determinaciones en materia de remoción del personal de la Secretaría, previa consulta a la Unidad de Asuntos Jurídicos;
 
-d) El dictamen sobre movimientos de estructuras orgánicas, ocupacionales y plantillas de personal operativo que propongan las demás unidades administrativas de la Secretaría, y
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+d) El dictamen sobre movimientos de estructuras orgánicas, ocupacionales y plantillas de personal operativo que propongan las demás unidades administrativas de la Secretaría;
 
 e) Los análisis y recomendaciones sobre la reorganización, fusión y desaparición de las unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+f) Los elementos básicos de los puestos, tales como su denominación, descripción, perfil, valuación, y demás requisitos, así como la identificación de los puestos tipo;
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+g) Los movimientos de personal, tales como altas, bajas y cambios de adscripción de los servidores públicos de la Secretaría, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+h) Las determinaciones que correspondan en materia de administración de personal;
 
 V. Administrar el uso de las salas de usos múltiples y el auditorio de la Secretaría;
 
 VI. Orientar al personal de la Secretaría sobre sus derechos y obligaciones, en el ámbito de su competencia;
 
-VII. Supervisar la elaboración de las designaciones o nombramientos y las constancias de designación o nombramiento del personal de la Secretaría, así como gestionar las designaciones o nombramientos que deban emitir otras autoridades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Supervisar la elaboración de las designaciones o nombramientos y las constancias de designación o nombramiento del personal de la Secretaría, así como recabar las designaciones o nombramientos que deban emitir otras autoridades;
 
 VIII. Determinar los medios que permitan acreditar la identidad del personal de la Secretaría;
 
 IX. Administrar la documentación e información relacionada con el personal de la Secretaría, resguardar sus datos personales, y establecer la forma de integrar los expedientes del mismo personal;
 
-X. Auxiliar, en coordinación con la Unidad de Asuntos Jurídicos, en su caso, a las demás unidades administrativas de la Secretaría, en la conducción de la relación laboral con su personal, y en particular:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X. Auxiliar a las demás unidades administrativas de la Secretaría en la conducción de su relación laboral con el personal que tengan a su cargo, y en particular:
 
 a) En la realización de los cambios de adscripción del personal;
 
@@ -5477,39 +6073,17 @@ XV. Las demás que le atribuya este reglamento y otros ordenamientos.
 
 ###### Artículo 185.
 
-El director General del Centro de Estudios para Prevenir la Corrupción e Impunidad tiene las facultades siguientes:
-
-I. Dirigir el Centro de Estudios para Prevenir la Corrupción e Impunidad;
-
-II. Fungir como secretario técnico del Consejo de la Política de Capacitación, y asegurar el seguimiento y cumplimiento de sus acuerdos;
-
-III. Coordinar, junto con las demás unidades administrativas de la Secretaría, la elaboración, validación e impartición de los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad;
-
-IV. Proponer al Consejo de (sic) la Política de Capacitación, para su aprobación:
-
-a) Los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad, y
-
-b) Los instrumentos de certificación de la formación inicial, actualización, especialización y transferencia de conocimientos que imparta el Centro de Estudios para Prevenir la Corrupción e Impunidad;
-
-V. Evaluar la impartición de los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad;
-
-VI. Identificar las necesidades de contratación de servicios externos para la impartición de los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad y, en su caso, proponer a la titular de la Unidad de Administración y Finanzas de la Secretaría la contratación correspondiente;
-
-VII. Coordinar el desarrollo de obras de investigación y divulgación que apruebe el Consejo de la Política de Capacitación, y gestionar su publicación;
-
-VIII. Diseñar estrategias de difusión de los estudios e investigaciones del Centro de Estudios para Prevenir la Corrupción e Impunidad;
-
-IX. Certificar la formación inicial, capacitación, actualización, especialización y transferencia de conocimientos, y en general, los programas y cursos que imparta el Centro de Estudios para Prevenir la Corrupción e Impunidad, y
-
-X. Las demás que le atribuya este reglamento y otros ordenamientos.
+(DEROGADO, D.O.F. 24 DE ABRIL DE 2024)
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA UNIDAD DE POLÍTICAS ANTICORRUPCIÓN
 
 ### Capítulo I. Disposiciones preliminares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 186.
 
-El jefe de la Unidad de Políticas Anticorrupción tiene las facultades siguientes:
+La persona titular de la Jefatura de la Unidad de Políticas Anticorrupción tiene las facultades siguientes:
 
 I. Proponer al secretario, para su aprobación:
 
@@ -5559,15 +6133,23 @@ IX. Representar a la Secretaría en actividades y eventos nacionales e internaci
 
 X. Promover mecanismos de comunicación, cooperación y vinculación con las demás dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, gobiernos extranjeros, organismos multilaterales, organizaciones de la sociedad civil, e instituciones de educación superior, cuando se trate del combate a la corrupción en las materias previstas en la fracción I, incisos a), b), c) y d), de este artículo, y
 
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+X Bis. Proveer al funcionamiento del Centro de Estudios para Prevenir la Corrupción e Impunidad, y coordinar sus acciones, para tal efecto, con las demás unidades administrativas de la Secretaría, y
+
 XI. Las demás que le atribuya este reglamento y otros ordenamientos.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
 ###### Artículo 187.
 
-Para el ejercicio de sus facultades, el jefe de la Unidad de Políticas Anticorrupción se auxiliará de:
+La persona titular de la Jefatura de la Unidad de Políticas Anticorrupción, para el ejercicio de sus facultades, se auxilia de:
 
-I. La directora General de Transparencia y Gobierno Abierto, y
+I. La persona titular de la Dirección General de Transparencia y Gobierno Abierto;
 
-II. El director General de Vinculación Nacional e Internacional.
+II. La persona titular de la Dirección General de Vinculación Nacional e Internacional, y
+
+III. La persona titular de la Dirección General del Centro de Estudios para Prevenir la Corrupción e Impunidad.
 
 ### Capítulo II. De la Dirección General de Transparencia y Gobierno Abierto
 
@@ -5659,15 +6241,47 @@ XX. Representar a la Secretaría en los mecanismos interinstitucionales que se e
 
 XXI. Las demás que le atribuya este reglamento y otros ordenamientos.
 
-### Capítulo I. Disposiciones preliminares
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+### Capítulo IV. De la Dirección General del Centro de Estudios para Prevenir la Corrupción e Impunidad
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+###### Artículo 189 Bis.
+
+La persona titular de la Dirección General del Centro de Estudios para Prevenir la Corrupción e Impunidad tiene las facultades siguientes:
+
+I. Dirigir el Centro de Estudios para Prevenir la Corrupción e Impunidad;
+
+II. Fungir como Secretaría Técnica del Consejo de la Política de Capacitación, y asegurar el seguimiento y cumplimiento de sus acuerdos;
+
+III. Coordinar, junto con las demás unidades administrativas de la Secretaría, la elaboración, validación e impartición de los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad;
+
+IV. Proponer al Consejo de la Política de Capacitación, para su aprobación, lo siguiente:
+
+a) Los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad, y
+
+b) El procedimiento de certificación de la capacidad profesional que promueva el Centro de Estudios para Prevenir la Corrupción e Impunidad;
+
+V. Evaluar los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad;
+
+VI. Identificar las necesidades de contratación de servicios externos para la impartición de los programas y cursos del Centro de Estudios para Prevenir la Corrupción e Impunidad y, en su caso, proponer a la titular de la Unidad de Administración y Finanzas de la Secretaría la contratación correspondiente;
+
+VII. Coordinar el desarrollo de obras de investigación y divulgación que apruebe el Consejo de la Política de Capacitación, y gestionar su publicación;
+
+VIII. Diseñar estrategias de difusión de los estudios e investigaciones del Centro de Estudios para Prevenir la Corrupción e Impunidad, y
+
+IX. Certificar la capacidad profesional que promueva el Centro de Estudios para Prevenir la Corrupción e Impunidad.
 
 ## TÍTULO DÉCIMO TERCERO. DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
-### Capítulo II. De la Dirección General Jurídica
+### Capítulo I. Disposiciones preliminares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
 ###### Artículo 190.
 
-El jefe de la Unidad de Asuntos Jurídicos tiene las facultades siguientes:
+La persona titular de la Jefatura de la Unidad de Asuntos Jurídicos tiene las facultades siguientes:
 
 I. Proponer al secretario proyectos de iniciativas de leyes y decretos legislativos, así como proyectos de reglamentos, decretos presidenciales, acuerdos secretariales, y demás ordenamientos que incidan en la competencia de la Secretaría;
 
@@ -5695,7 +6309,9 @@ d) La interpretación no verse sobre ordenamientos cuya aplicación o interpreta
 
 VII. Dirigir la compilación de interpretaciones de ordenamientos que, por disposición de ley, competan a la Secretaría;
 
-VIII. Coordinar la emisión de opiniones que otras autoridades o unidades administrativas soliciten sobre proyectos de ordenamientos relacionados con la competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VIII. Coordinar la emisión de opiniones que otras autoridades o unidades administrativas soliciten sobre ordenamientos o proyectos de estos, siempre que tengan relación con la competencia de la Secretaría;
 
 IX. Recibir, para su guarda y custodia, los convenios, sean de colaboración, coordinación o concertación, los acuerdos, y en general, los documentos en los que consten actos jurídicos consensuales celebrados en representación de la Secretaría, e informar periódicamente al secretario de su cumplimiento, previa consulta a la unidad administrativa competente; excepto los relativos a las materias de adquisiciones de bienes, arrendamientos de bienes muebles, servicios, obras públicas y servicios relacionados con las mismas;
 
@@ -5741,7 +6357,7 @@ I. El director General Jurídico, y
 
 II. El director General Consultivo.
 
-### Capítulo III. De la Dirección General Consultiva
+### Capítulo II. De la Dirección General Jurídica
 
 ###### Artículo 192.
 
@@ -5857,11 +6473,13 @@ IX. Interponer, en representación de la Secretaría, de sus unidades administra
 
 X. Las demás que le atribuya este reglamento y otros ordenamientos.
 
-### Capítulo I. Disposiciones preliminares
+### Capítulo III. De la Dirección General Consultiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
 ###### Artículo 198.
 
-El director General Consultivo tiene las facultades siguientes:
+La persona titular de la Dirección General Consultiva tiene las facultades siguientes:
 
 I. Dirigir la elaboración de proyectos de iniciativas de leyes y de decretos legislativos, así como de proyectos de reglamentos, decretos presidenciales, y acuerdos secretariales que incidan en la competencia de la Secretaría; y presentarlos, para su aprobación, a la persona titular de la Jefatura de la Unidad de Asuntos Jurídicos;
 
@@ -5877,9 +6495,13 @@ VI. Ejercer, por instrucción del titular de la Unidad de Asuntos Jurídicos, su
 
 VII. Supervisar la compilación de interpretaciones de ordenamientos que, por disposición de ley, competan a la Secretaría;
 
-VIII. Emitir opiniones sobre proyectos de ordenamientos relacionados con la competencia de la Secretaría, siempre que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) Medie solicitud expresa de una unidad administrativa, y
+VIII. Emitir opiniones sobre ordenamientos o proyectos de estos, siempre que tengan relación con la competencia de la Secretaría y, además:
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+a) Medie solicitud expresa de otra autoridad o unidad administrativa, y
 
 b) La opinión no sea de la competencia de otra unidad administrativa de la Secretaría;
 
@@ -5943,43 +6565,65 @@ X. Auxiliar a la persona titular de la Jefatura de la Unidad de Asuntos Jurídic
 
 XI. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 201.
 
-El director Legal tiene las facultades siguientes:
+La persona titular de la Dirección Legal tiene las facultades siguientes:
 
 I. Elaborar los proyectos de interpretación de ordenamientos relacionados con la competencia de la Secretaría, cuando la interpretación corresponda a la persona titular de la Jefatura de la Unidad de Asuntos Jurídicos; y presentarlos, para su aprobación, al director general;
 
 II. Compilar las interpretaciones de ordenamientos que, por disposición de ley, competan a la Secretaría;
 
-III. Analizar las solicitudes de opinión que formule una unidad administrativa diversa sobre proyectos de ordenamientos relacionados con la competencia de la Secretaría, y proponer al director general la opinión pertinente, siempre que la opinión no sea de la competencia de otra unidad administrativa de la Secretaría;
+III. (DEROGADA, D.O.F. 24 DE ABRIL DE 2024)
 
-IV. Informar a la Secretaría de Gobernación, en los plazos establecidos, sobre la expedición, reforma, adición, derogación y abrogación de los ordenamientos que emita la persona titular de la Secretaría y, en su caso, los titulares de las demás unidades administrativas de la Secretaría, y entregarle un ejemplar auténtico del ordenamiento de que se trate, para su oportuna difusión;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Informar a la Secretaría de Gobernación sobre la expedición, reforma, adición, derogación y abrogación de los ordenamientos que emita la Secretaría y entregarle un ejemplar auténtico del ordenamiento de que se trate, para su compilación y sistematización;
 
 V. Revisar los proyectos de contratos y los de sus convenios modificatorios, a celebrar en representación de la Secretaría, sin que la revisión sea requisito para la celebración de tales actos cuando se trate de los relativos a la materia de adquisiciones de bienes, arrendamientos, servicios, obra pública y servicios relacionados con las mismas;
 
 VI. Fungir como enlace del Sistema de Administración de Normas Internas de la Secretaría, con la Secretaría de Gobernación, para armonizar y actualizar permanentemente la difusión de los ordenamientos de la Secretaría;
 
-VII. Asistir a las reuniones de comités, comisiones, grupos de trabajo, y de cualquier otro órgano colegiado, a las que sea convocada la Unidad de Asuntos Jurídicos para tratar temas relacionados con cualquiera de las fracciones de este artículo, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+VII. Asistir a las reuniones de comités, comisiones, grupos de trabajo, y de cualquier otro órgano colegiado, a las que sea convocada la Unidad de Asuntos Jurídicos, y
 
 VIII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 202.
 
-La directora Legislativa tiene las facultades siguientes:
+La persona titular de la Dirección Legislativa tiene las facultades siguientes:
 
-I. Elaborar los proyectos de iniciativas de leyes y de decretos legislativos que el jefe de la Unidad de Asuntos Jurídicos le instruya al director general en materias que incidan en la competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-II. Dar seguimiento al procedimiento legislativo de las iniciativas de leyes y decretos legislativos, proposiciones con puntos de acuerdo, dictámenes legislativos y minutas que se tramiten en el Congreso de la Unión y que incidan en la competencia de la Secretaría, mediante consultas permanentes a los Diarios de los Debates y gacetas y sitios web de ambas Cámaras del Congreso de la Unión; e informar de ello al director general;
+I. Elaborar, por instrucción de la persona titular de la Dirección General Consultiva, los proyectos de iniciativas de leyes y de decretos legislativos en materias que incidan en la competencia de la Secretaría, para lo cual podrá coordinar sus acciones con las demás unidades administrativas de la Secretaría;
 
-III. Comunicar a la Secretaría de Gobernación la postura de la Secretaría que le instruya el director general, en relación con las iniciativas de leyes y de decretos legislativos, proposiciones con puntos de acuerdo, dictámenes legislativos y minutas que se tramiten en el Congreso de la Unión;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-IV. Analizar los proyectos de iniciativas de leyes y de decretos legislativos que otras dependencias le remitan a la Secretaría para su opinión, y proponer al director general la opinión pertinente con base en la competencia de la Secretaría, y
+II. Dar seguimiento al procedimiento legislativo de las iniciativas de leyes y decretos legislativos, proposiciones con puntos de acuerdo, dictámenes legislativos y minutas que se tramiten en el Congreso de la Unión y que incidan en la competencia de la Secretaría, mediante consultas permanentes a los Diarios de los Debates y gacetas y sitios web de ambas Cámaras del Congreso de la Unión; e informar de ello a la persona titular de la Dirección General Consultiva;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+III. Comunicar a la Secretaría de Gobernación, en los términos que esa dependencia establezca, la postura de la Secretaría que le instruya la persona titular de la Dirección General Consultiva, con relación a las iniciativas de leyes y de decretos legislativos, proposiciones con puntos de acuerdo, dictámenes legislativos y minutas que se tramiten en el Congreso de la Unión;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV. Analizar los proyectos de iniciativas de leyes y de decretos legislativos que otras dependencias le remitan a la Secretaría para su opinión, y proponer a la persona titular de la Dirección General Consultiva la opinión pertinente con base en la competencia de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV Bis. Proponer a la persona titular de la Dirección General Consultiva los proyectos de respuesta a los puntos de acuerdo que las cámaras del Congreso de la Unión y, en su caso, los congresos de las entidades federativas, dirijan a la Secretaría, para lo cual deberá coordinar sus acciones con las unidades administrativas de la Secretaría, y
 
 V. Las demás que le atribuya este reglamento y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 203.
 
-El director Normativo tiene las facultades siguientes:
+La persona titular de la Dirección Normativa tiene las facultades siguientes:
 
 I. Elaborar los proyectos de reglamentos, decretos presidenciales, y acuerdos secretariales que el jefe de la Unidad de Asuntos Jurídicos le instruya al director general en materias que incidan en la competencia de la Secretaría;
 
@@ -5988,6 +6632,10 @@ II. Analizar los proyectos de reglamentos, decretos presidenciales, y acuerdos s
 III. Elaborar los proyectos de ordenamientos que deba expedir la persona titular de la Secretaría, siempre que la elaboración no corresponda a otra unidad administrativa; y presentarlos, para su aprobación, al director general;
 
 IV. Revisar los proyectos de ordenamientos que otras unidades administrativas de la Secretaría le soliciten a la Unidad de Asuntos Jurídicos, siempre que versen sobre la competencia de las solicitantes; y proponer al director general las observaciones pertinentes;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+IV Bis. Analizar las solicitudes de opinión que formule una unidad administrativa diversa sobre proyectos de ordenamientos relacionados con la competencia de la Secretaría, y proponer a la persona titular de la Dirección General Consultiva el proyecto de opinión pertinente, siempre que esta no sea de la competencia de otra unidad administrativa de la Secretaría;
 
 V. Recabar las respuestas que formulen las direcciones de la Unidad de Asuntos Jurídicos a las solicitudes de información y de datos personales que reciban, y notificarlas oportunamente a la Unidad de Transparencia de la Secretaría, previo acuerdo del director general, y
 
@@ -6017,11 +6665,13 @@ VII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
 ## TÍTULO DÉCIMO CUARTO. DEL ÓRGANO INTERNO DE CONTROL DE LA SECRETARÍA
 
-### Capítulo II. Del Área de Auditoría
+### Capítulo I. Disposiciones preliminares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
 ###### Artículo 205.
 
-El titular del Órgano Interno de Control de la Secretaría tiene las facultades siguientes:
+La persona titular del Órgano Interno de Control de la Secretaría tiene las facultades siguientes:
 
 I. Presentar al secretario:
 
@@ -6053,13 +6703,17 @@ X. Substanciar los procedimientos de responsabilidad administrativa por faltas a
 
 XI. Substanciar y resolver los procedimientos de responsabilidad administrativa por faltas administrativas no graves;
 
-XII. Resolver los recursos:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) De revocación que interpongan los servidores públicos de la Secretaría en contra de la imposición de sanciones administrativas;
+XII. Resolver los recursos de:
 
-b) De revisión que se interpongan en contra de resoluciones de inconformidad que emita el titular del Área de Responsabilidades, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y sus respectivos reglamentos, y de la Ley Federal de Responsabilidad Patrimonial del Estado, y
+a) Revocación, que interpongan los servidores públicos de la Secretaría en contra de la imposición de sanciones administrativas;
 
-c) De revisión que se interpongan en contra de resoluciones de inconformidad que emita el titular del Área de Quejas, en términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, y de su reglamento;
+b) Revisión, que se interpongan en contra de resoluciones de la instancia de inconformidad que emita el titular del Área de Responsabilidades, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+c) Revisión, que se interpongan en contra de resoluciones del procedimiento de reclamación que emita el titular del Área de Responsabilidades, en términos de la Ley Federal de Responsabilidad Patrimonial del Estado, y
+
+d) Revisión, que se interpongan en contra de resoluciones de inconformidad que emita el titular del Área de Quejas, en términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
 
 XIII. Dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales;
 
@@ -6115,7 +6769,7 @@ III. Llevar los registros y libros de gobierno de los asuntos de su competencia,
 
 IV. Expedir copias certificadas de los documentos que se encuentren en sus archivos, así como de aquellos que tengan acceso o a la vista con motivo del ejercicio de sus facultades.
 
-### Capítulo III. Del Área de Control Interno
+### Capítulo II. Del Área de Auditoría
 
 ###### Artículo 208.
 
@@ -6141,7 +6795,7 @@ IX. Implementar acciones de fiscalización, vigilancia y seguimiento para compro
 
 X. Las demás que le atribuya este reglamento y otros ordenamientos.
 
-### Capítulo IV. Del Área de Quejas
+### Capítulo III. Del Área de Control Interno
 
 ###### Artículo 209.
 
@@ -6173,7 +6827,7 @@ XII. Representar al Órgano Interno de Control de la Secretaría en los comités
 
 XIII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
-### Capítulo V. Del Área de Responsabilidades
+### Capítulo IV. Del Área de Quejas
 
 ###### Artículo 210.
 
@@ -6217,7 +6871,7 @@ XVIII. Proponer al titular del Órgano Interno de Control de la Secretaría el e
 
 XIX. Las demás que le atribuya este reglamento y otros ordenamientos.
 
-### Capítulo Único. De las facultades del director General de Comunicación Social
+### Capítulo V. Del Área de Responsabilidades
 
 ###### Artículo 211.
 
@@ -6229,25 +6883,37 @@ II. Admitir el informe de presunta responsabilidad administrativa y, en su caso,
 
 III. Determinar la abstención de iniciar el procedimiento de responsabilidad administrativa y, en su caso, la de imponer sanciones a un servidor público de la Secretaría, cuando se cumplan los requisitos previstos en los ordenamientos en materia de responsabilidad administrativa;
 
-IV. Substanciar:
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-a) Los procedimientos de responsabilidad administrativa por faltas administrativas graves y por faltas de particulares; ordenar el emplazamiento, a la audiencia inicial, del probable responsable de una falta administrativa y de las demás partes, y en su oportunidad, acordar la remisión de sus expedientes al Tribunal Federal de Justicia Administrativa, para su resolución;
+IV. Substanciar lo siguiente:
 
-b) El recurso de reclamación en materia de responsabilidad administrativa, y dar cuenta al Tribunal Federal de Justicia Administrativa, para que en su oportunidad determine lo que en derecho corresponda;
+a) Los procedimientos de responsabilidad administrativa iniciados por faltas administrativas graves y por faltas de particulares, y remitirlos al Tribunal Federal de Justicia Administrativa, para su resolución;
 
-c) El recurso de revocación que interpongan los servidores públicos de la Secretaría en contra de resoluciones que afecten sus derechos, y proponer al titular del Órgano Interno de Control de la Secretaría los proyectos de resolución, y
+b) El recurso de reclamación, y dar cuenta al Tribunal Federal de Justicia Administrativa, para su resolución;
 
-d) El recurso de revisión que se interponga en contra de las resoluciones de inconformidad, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+c) El recurso de revocación que interpongan los servidores públicos de la Secretaría en contra de resoluciones que afecten sus derechos, y proponer a la persona titular del Órgano Interno de Control de la Secretaría los proyectos de resolución;
+
+d) El recurso de revisión que se interponga en contra de las resoluciones de inconformidad, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y
+
+e) El recurso de revisión que se interponga en contra de resoluciones del procedimiento de reclamación de responsabilidad patrimonial del Estado, y proponer a la persona titular del Órgano Interno de Control de la Secretaría el proyecto de resolución;
 
 V. Substanciar y resolver:
 
-a) Los procedimientos de responsabilidad administrativa por faltas administrativas no graves; emplazar, a la audiencia inicial, al probable responsable de una falta administrativa y a las demás partes;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-b) Las inconformidades que los particulares interpongan en contra de actos del procedimiento de contratación realizados por servidores públicos de la Secretaría;
+a) Los procedimientos de responsabilidad administrativa por faltas administrativas no graves, y emplazar a las partes a la audiencia inicial;
 
-c) El recurso de reclamación en materia de responsabilidad administrativa, cuando corresponda;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
 
-d) Los recursos de reclamación de responsabilidad patrimonial del Estado que se promuevan ante la Secretaría, y
+b) Las instancias de inconformidad que los particulares interpongan contra actos de servidores públicos de la Secretaría realizados en el procedimiento de contratación, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+c) El recurso de reclamación en materia de responsabilidad administrativa;
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+d) Los procedimientos de reclamación de responsabilidad patrimonial del Estado que se promuevan ante la Secretaría, y
 
 e) Los procedimientos de intervención de oficio previstos en el artículo 76 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y 94 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
@@ -6267,9 +6933,13 @@ XII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
 ## TÍTULO DÉCIMO QUINTO. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
+### Capítulo Único. De las facultades del director General de Comunicación Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2024)</small>
+
 ###### Artículo 212.
 
-El director General de Comunicación Social tiene las facultades siguientes:
+La persona titular de la Dirección General de Comunicación Social tiene las facultades siguientes:
 
 I. Aplicar la política de comunicación social de la Secretaría, de conformidad con los ordenamientos que emita la Secretaría de Gobernación y la Oficina de la Presidencia de la República;
 
@@ -6293,7 +6963,13 @@ X. Vigilar que el uso de la imagen de la Secretaría se realice conforme a los o
 
 XI. Coordinar la integración, actualización y conservación de un archivo de comunicados, fotografía y video de las actividades de la Secretaría;
 
-XII. Analizar la información que difundan los medios de comunicación acerca de la Secretaría, sintetizarla, y distribuir la síntesis entre los servidores públicos de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XII. Monitorear, captar y analizar la información que se difunda en los medios de comunicación impresos, electrónicos y digitales, relacionada con las materias que sean competencia de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2024)</small>
+
+XII Bis. Elaborar síntesis de noticias y tarjetas informativas en las materias que sean competencia de la Secretaría, y distribuirlas entre el personal de esta, y
 
 XIII. Las demás que le atribuya este reglamento y otros ordenamientos.
 
@@ -6336,3 +7012,17 @@ DÉCIMO TERCERO. Los sistemas electrónicos de las unidades administrativas de l
 DÉCIMO CUARTO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a la Secretaría de la Función Pública para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, en caso de que se realice alguna modificación a la estructura orgánica, esta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 
 Dado en la Residencia del Ejecutivo Federal, en Ciudad de México, a 31 de agosto de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de la Función Pública, Roberto Salcedo Aquino.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, incluidas las relativas a las modificaciones de la estructura orgánica de la Secretaría de la Función Pública y al ejercicio de las facultades atribuidas a sus unidades administrativas, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y para los subsecuentes y, en su caso, mediante movimientos compensados conforme a las disposiciones jurídicas aplicables. En ningún caso se autorizarán recursos adicionales ni ampliaciones al presupuesto regularizable de la Secretaría.
+
+TERCERO. La persona titular de la Secretaría de la Función Pública deberá expedir el Manual de Organización General de la Secretaría y ordenar su publicación en el Diario Oficial de la Federación.
+
+Asimismo, deberá expedir los manuales de procedimientos y, en su caso, de servicios al público, de la Secretaría, con posterioridad a la entrada en vigor del Manual de Organización General de la Secretaría que expida en términos del párrafo anterior.
