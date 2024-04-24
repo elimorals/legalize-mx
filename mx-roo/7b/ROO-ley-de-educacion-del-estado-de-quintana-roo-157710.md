@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2024-04-23"
+last_updated: "2024-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -1305,6 +1305,12 @@ Las autoridades educativas estatales y municipales, en el ámbito de sus respect
 
 Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamiento conforme lo establezcan las disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2024)</small>
+
+###### Artículo 95 Bis.
+
+La autoridad educativa estatal, a través de la instancia competente en materia de infraestructura educativa que para tal efecto disponga la legislación, garantizará la construcción de domos u otros tipos de infraestructuras análogas en todos los planteles de educación pública básica, media superior y superior del Estado, destinados a la práctica de actividades deportivas, culturales, cívicas o recreativas, para lo cual deberá disponer los recursos y esfuerzos para su planificación, construcción y mantenimiento, realizando las previsiones pertinentes para su implementación de manera progresiva, bajo la suficiencia de los recursos autorizados para este propósito.
+
 Mantenimiento de Bienes Muebles e Inmuebles y los Servicios e Instalaciones Educativas
 
 ###### Artículo 96.
@@ -2476,3 +2482,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La implementación de lo dispuesto será de carácter progresivo, atendiendo a la capacidad presupuestaria del ejecutor del gasto.
+
+P.O. 24 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 225 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE IMPULSO Y FORTALECIMIENTO A LA INFRAESTRUCTURA FÍSICA EDUCATIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que resulten contrarias al presente Decreto.
