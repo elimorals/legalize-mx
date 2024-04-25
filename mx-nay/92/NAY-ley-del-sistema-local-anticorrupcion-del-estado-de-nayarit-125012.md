@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-local-anticorrupcion-del-estado-de-nayarit-1250
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2016-12-21"
+last_updated: "2024-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Tercera al Número 121 del Periódico Oficial del Estado de Nayarit, el miércoles 21 de diciembre de 2016.
 
@@ -249,9 +249,51 @@ El Presidente del Comité Coordinador tendrá voto de calidad en caso de empate.
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Local.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2024)</small>
+
 ###### Artículo 16.
 
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles, originario del Estado o con residencia mínima de dos años anteriores al día de la designación;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+III. Tener más de treinta y cinco años de edad, al día de la designación;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+IV. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta Ley que le permitan el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+V. No encontrarse, al momento de la designación, inhabilitado o suspendido administrativamente o, en su caso, penalmente, para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+X. No ser Gobernador, Secretario o Subsecretario en el Poder Ejecutivo del Estado, Fiscal General, Fiscal Especializado en Combate a la Corrupción, Consejero de la Judicatura, a menos que se haya separado de su cargo un año antes del día de su designación.
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
@@ -267,9 +309,11 @@ En relación con el párrafo anterior, le serán aplicables las obligaciones de 
 
 En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2024)</small>
+
 ###### Artículo 18.
 
-Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
+Las personas integrantes del Comité de Participación Ciudadana serán nombradas conforme al siguiente procedimiento:
 
 I. El Congreso del Estado constituirá una Comisión de Selección integrada por nueve mexicanos, por un periodo de tres años, de la siguiente manera:
 
@@ -277,7 +321,23 @@ a) Convocará a las instituciones de educación superior y de investigación del
 
 b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
 
-El cargo de miembro de la Comisión de Selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS NUMERALES], P.O. 25 DE ABRIL DE 2024)</small>
+
+Cualquier persona, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá presentar denuncia ante el Congreso del Estado, cuando considere se actualiza alguno de los siguientes supuestos, mediante los cuales se podrá remover del cargo a las personas integrantes de la Comisión de Selección:
+
+1. Por sobrevenir una causa de inelegibilidad o idoneidad en los términos en que se fue designado o designada a través de la convocatoria correspondiente.
+
+2. Por acreditarse un conflicto de interés.
+
+3. Por la inasistencia consecutiva a dos sesiones de las que contempla esta Ley, sin que medie causa legalmente justificada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2024)</small>
+
+La remoción del cargo que en su caso se determine, previa garantía de audiencia que se efectúe ante la Comisión Legislativa de Participación Ciudadana y Anticorrupción, será aprobada por mayoría de los miembros presentes en sesión del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2024)</small>
+
+El cargo de miembro de la Comisión de Selección será honorario y quien haya sido parte, no podrá ser designado para una nueva integración. Quienes funjan como miembros de la Comisión de Selección no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
 
 II. La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado dirigida a toda la sociedad en general, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -296,6 +356,22 @@ e) Podrán efectuarse audiencias públicas en las que se invitará a participar 
 f) El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
 
 En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2024)</small>
+
+###### Artículo 18 Bis.
+
+Una vez conformado la Comisión de Selección, este se reunirá en Pleno y elegirá por mayoría simple a la persona Presidenta y Secretaria.
+
+Al realizar cambios en la Presidencia de la Comisión de Selección, se garantizará la alternancia de género.
+
+La Comisión de Selección celebrará una sesión treinta días hábiles previo a la conclusión del nombramiento de cualquier integrante del Comité de Participación Ciudadana, para iniciar el procedimiento de designación y designar a la nueva persona integrante que lo sustituya.
+
+En caso de renuncia o remoción del cargo de alguna persona integrante del Comité de Participación Ciudadana, la Comisión de Selección deberá sesionar en un plazo no mayor de diez días hábiles posteriores a dicha renuncia o remoción.
+
+Las sesiones de la Comisión de Selección serán públicas y podrán solicitar mediante acuerdo aprobado de sus integrantes, el apoyo necesario al Congreso del Estado de Nayarit para realizar sus funciones.
+
+Las decisiones y acuerdos tomados por la Comisión de Selección se enviarán e informarán a la Comisión Legislativa de Participación Ciudadana y Anticorrupción del Congreso del Estado de Nayarit.
 
 ###### Artículo 19.
 
@@ -487,15 +563,23 @@ III. Incurrir en alguna falta administrativa grave o hecho de corrupción.
 
 Para ser designado Secretario Técnico se deberán reunir los requisitos siguientes:
 
-I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles, originario del Estado o con residencia mínima de dos años anteriores al día de la designación;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2024)</small>
 
-II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles, originario del Estado o con residencia mínima de tres años anteriores al día de la designación;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+II. Experiencia verificable en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
 
 III. Tener más de treinta y cinco años de edad, al día de la designación;
 
-IV. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta Ley que le permitan el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2024)</small>
 
-V. Gozar de buena reputación y no haber sido condenado por algún delito;
+IV. Poseer al día de la designación, con antigüedad mínima de tres años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionados con la materia de esta Ley que le permitan el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2024)</small>
+
+V. No encontrarse, al momento de la designación, inhabilitado o suspendido administrativamente o, en su caso, penalmente, para desempeñar un empleo, cargo o comisión en el servicio público;
 
 VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
 
@@ -746,3 +830,11 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” de este Honorab
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinte días del mes de Diciembre del año dos mil dieciséis.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. Jorge Armando Gómez Arias.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE LA COMISIÓN DE SELECCIÓN DEL SISTEMA LOCAL ANTICORRUPCIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
