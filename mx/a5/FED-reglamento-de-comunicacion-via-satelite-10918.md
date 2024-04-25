@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comunicacion-via-satelite-10918"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-01"
-last_updated: "2023-01-23"
+last_updated: "2024-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10918&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1997-07-30"
 ---
 # REGLAMENTO DE COMUNICACION VIA SATELITE
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EMITE LAS DISPOSICIONES REGULATORIAS EN MATERIA DE COMUNICACIÓN VÍA SATÉLITE, PUBLICADO EN EL D.O.F. DE 23 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO SUSTITUIDO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN EN MATERIA DE CAPACIDAD SATELITAL COMO RESERVA DEL ESTADO, PUBLICADO EN EL D.O.F. DE 25 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE COMUNICACION VIA SATELITE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2023 (SUSTITUIDO).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2024 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 1o. de agosto de 1997.
 
@@ -594,3 +594,15 @@ Octavo.- A las asignaciones de Recursos Orbitales asociadas a Sistemas Satelital
 Noveno.- A las concesiones para explotar los derechos de emisión y recepción de señales de Bandas de Frecuencias asociadas a Sistemas Satelitales Extranjeros que cubran y puedan prestar servicios en el territorio nacional, otorgados al amparo de la abrogada Ley Federal de Telecomunicaciones, le serán aplicables, a partir de su entrada en vigor, las Disposiciones Regulatorias en materia de Comunicación Vía Satélite que se emiten y, en general, las disposiciones vigentes que regulan las autorizaciones previstas en el artículo 170, fracción IV de la Ley Federal de Telecomunicaciones y Radiodifusión. Dichos títulos habilitantes se mantendrán en los mismos términos y condiciones en los que fueron otorgados, en lo que no se opongan a las disposiciones vigentes, hasta su terminación.
 
 Décimo.- A los permisos para instalar, operar o explotar Estaciones Terrenas Transmisoras, otorgados al amparo de la abrogada Ley Federal de Telecomunicaciones, le serán aplicables, a partir de su entrada en vigor, las Disposiciones Regulatorias en materia de Comunicación Vía Satélite que se emiten y, en general, las disposiciones vigentes que regulan las autorizaciones previstas en el artículo 170, fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión. Dichos títulos habilitantes se mantendrán en los mismos términos y condiciones en los que fueron otorgados, en lo que no se opongan a las disposiciones vigentes, hasta su terminación.
+
+D.O.F. DE 25 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN EN MATERIA DE CAPACIDAD SATELITAL COMO RESERVA DEL ESTADO".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+Se abroga el Reglamento de Comunicación Vía Satélite, publicado el 1 de agosto de 1997 en el Diario Oficial de la Federación, en términos de las facultades constitucionales que corresponden al Ejecutivo Federal.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto deben cubrirse con cargo al presupuesto autorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal.
