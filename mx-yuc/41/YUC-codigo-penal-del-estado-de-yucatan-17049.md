@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2024-01-12"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -4989,9 +4989,9 @@ TÍTULO VIGESIMOSEGUNDO
 
 DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+### CAPÍTULO ÚNICO. DELITOS DE CRUELDAD ANIMAL
 
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 404.
 
@@ -5019,11 +5019,11 @@ En cualquiera de los casos señalados en las fracciones anteriores, el juez podr
 
 Lo dispuesto en el artículo anterior se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las leyes correspondientes.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE ABRIL DE 2024)</small>
 
-## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LOS ANIMALES DOMÉSTICOS
+## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LOS ANIMALES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -5031,59 +5031,61 @@ Lo dispuesto en el artículo anterior se aplicará sin perjuicio de las medidas 
 
 ###### ARTÍCULO 406.
 
-Para efectos de este Capítulo, se entenderá por animal doméstico a todo aquel que ha sido criado y condicionado para acompañar al ser humano en su convivencia diaria.
+Para efectos de este Capítulo, se entenderá por animal a aquel o aquellos seres vivos sintientes no humanos, que poseen movilidad propia y capacidad de respuesta a los estímulos del medio ambiente.
 
-> <small>(ADICIONADO, D.O. 5 DE JULIO DE 2021)</small>
-
-Los delitos expuestos en éste Capítulo serán perseguidos de oficio.
-
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 407.
 
-Comete el delito de maltrato o crueldad en contra de animales domésticos quien intencionalmente:
+Se consideran delitos de crueldad animal, las acciones u omisiones dolosas e injustificadas realizadas en perjuicio de cualquier animal, proveniente de sus propietarios, poseedores, o de terceros, salvo que éstos entren en interacción con aquellos, en virtud de un arte, oficio o profesión y que tengan como resultado:
 
-I.- Cause la muerte a un animal doméstico, sin previo dictamen por escrito de un médico veterinario que justifique la necesidad del sacrificio para evitar el sufrimiento del animal de que se trate o emplee métodos distintos a los establecidos en las normas oficiales mexicanas y en las normas ambientales aplicables;
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-II.- Realice cualquier mutilación, alteración de la integridad física o modificación negativa de los instintos naturales de un animal doméstico, sin causa justificada o sin la supervisión de un especialista o persona que cuente con conocimientos técnicos en la materia;
+I.- La muerte, sin mediar dictamen previo por escrito por médico veterinario con cédula vigente que justifique la necesidad del sacrificio para evitar el sufrimiento del animal de que se trate o emplee métodos distintos a los establecidos en las normas oficiales mexicanas y demás normas aplicables;
 
-III.- Prive a un animal doméstico de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos o alojamiento adecuado, acorde a su especie, que cause o pueda causarle daño;
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-IV.- Abandone a un animal doméstico o lo desatienda por períodos prolongados que comprometan el bienestar del mismo;
+II.- La mutilación, alteración de la integridad física o modificación negativa de los instintos naturales de un animal, sin la intervención de un médico veterinario con cédula vigente o persona que cuente con conocimientos técnicos en la materia;
 
-V.- Realice cualquier acto u omisión que ponga en peligro la vida del animal doméstico, o
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-VI.- Realice actos de zoofilia con animales domésticos.
+III.- El daño por la privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos o alojamiento adecuado, acorde a su especie;
 
-> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-Siempre que existan actos de maltrato o crueldad hacia animales domésticos, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal del animal doméstico maltratado, así como de todos aquellos que pudiera tener bajo su cuidado o resguardo el sujeto activo del delito.
+IV.- El estado crítico a los signos vitales del animal haciendo necesaria la intervención médica veterinaria;
 
-> <small>(REFORMADO, D.O. 5 DE JULIO DE 2021)</small>
+V.- (DEROGADA, D.O. 26 DE ABRIL DE 2024)
+
+VI.- (DEROGADA, D.O. 26 DE ABRIL DE 2024)
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+Siempre que existan delitos de crueldad hacia algún animal o animales, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal del animal, así como de todos aquellos que pudiera tener bajo su cuidado o resguardo el sujeto activo del delito.
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 408.
 
-A quien cometa actos de maltrato o crueldad en contra de animales domésticos, que no pongan en peligro la vida de éste, se le impondrá una pena de seis meses a dos años de prisión y multa de cien a doscientas unidades de medida y actualización.
+A quien cometa delitos de crueldad en contra de animales, que no pongan en peligro la vida de éste, se le impondrá una pena de cuatro meses a 2 años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
 
-Si los actos de maltrato o crueldad ponen en peligro la vida del animal doméstico; le provocan una incapacidad parcial o total permanente; disminuyen alguna de sus facultades, o el normal funcionamiento de un órgano o miembro, la pena señalada en el párrafo anterior, se incrementará hasta en una mitad.
+Si los delitos de crueldad ponen en peligro la vida del animal; le provocan una incapacidad parcial o total permanente; disminuyen alguna de sus facultades, o el normal funcionamiento de un órgano o miembro, la pena será de seis meses a diez años de prisión.
 
-A quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas, se le impondrá una pena de seis meses a dos años de prisión y multa de cincuenta a ciento cincuenta Unidades de Medida y Actualización.
+Se considera delito de crueldad animal, a quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas, se le impondrá una pena de seis meses a dos años de prisión y multa de cincuenta a ciento cincuenta Unidades de Medida y Actualización.
 
-A quien realice actos de zoofilia a un animal o le introduzca por vía vaginal o rectal el miembro viril, o cualquier objeto o instrumento, se le impondrán una pena de seis meses a dos años de prisión y multa de cien a quinientas Unidades de Medida y Actualización.
+Se considera delito de crueldad animal, a quien realice actos de zoofilia a un animal o le introduzca por vía vaginal o rectal el miembro viril, o cualquier objeto o instrumento, se le impondrán una pena de seis meses a diez años de prisión y multa de quinientas a mil Unidades de Medida y Actualización.
 
-Cuando el maltrato animal sea videograbado y difundido en redes sociales, será considerado una agravante y sancionado con doble penalidad.
+Cuando la crueldad animal sea videograbada y difundida en redes sociales, será considerado una agravante y sancionado con doble penalidad.
 
-Los actos de maltrato, crueldad o abandono animal, al igual que la zoofilia, serán considerados una agravante y podrán ser denunciados por cualquier persona que tenga conocimiento de estos hechos o sea testigo de los mismos.
+Los delitos de crueldad animal establecidos en el presente capítulo podrán ser perseguidos de oficio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 409.
 
-A quien cometa actos de maltrato o crueldad en contra de un animal doméstico, que le provoquen la muerte, se le impondrá la pena de uno a cuatro años de prisión y una multa de cuatrocientas a ochocientas Unidades de Medida y Actualización.
+A quien cometa delitos de crueldad en contra de un animal, que le provoquen la muerte, se le impondrá la pena de seis meses a cinco años de prisión y una multa de mil a dos mil Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
-
-En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal doméstico previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía de éste.
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal, previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía de éste.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE JULIO DE 2021)</small>
 
@@ -5980,3 +5982,15 @@ D.O. 12 DE ENERO DE 2024.
 Entrada en vigor
 
 Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 751/2024 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE BIENESTAR ANIMAL".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
