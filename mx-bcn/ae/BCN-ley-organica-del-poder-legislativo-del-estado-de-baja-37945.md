@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2023-12-08"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -653,6 +653,10 @@ e). Unidad de Igualdad de Género.
 
 El Poder Legislativo del Estado por mayoría calificada del Pleno y a solicitud de la Junta de Coordinación Política, podrá modificar su estructura orgánica cuando ello sea necesario para apoyar el cumplimiento de las atribuciones del Congreso del Estado, y bajo los términos y condiciones previstas en la Constitución Local.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2024)</small>
+
+El Poder Legislativo observará el principio de paridad de género, en la integración de estas áreas.
+
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 ARTICULO 40 BIS.- Las Unidades Auxiliares del Congreso del Estado, como órganos Técnicos y Administrativos, son áreas a las que les corresponden tareas de apoyo al órgano de gobierno y a las Comisiones, para el cumplimiento de sus atribuciones constitucionales y legales.
@@ -925,9 +929,9 @@ VI.- De Desarrollo Económico y Comercio Binacional;
 
 VII.- De Justicia;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2024)</small>
 
-VIII.- De Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes;
+VIII.- De Desarrollo Metropolitano, Conurbación, Infraestructura, Movilidad, Comunicaciones y Transportes;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -1055,7 +1059,9 @@ c. Comisión de Reforma de Estado y Jurisdiccional: Corresponde el conocimiento,
 
 d. Comisión de Justicia: corresponde el análisis, dictaminación y proposición de iniciativas de ley o decreto que le sean turnadas por la Mesa Directiva; deberá proponer e impulsar todos aquellos trabajos legislativos tendientes a garantizar la equidad y la justicia social, condición indispensable para la preservación del Estado de derecho.
 
-e. Comisión de Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes: compete el análisis, dictaminación y proposición de iniciativas de ley relacionadas con su materia, así como la formulación de pronunciamientos políticos, el establecimiento de acuerdos y evaluación de las políticas públicas, a fin de establecer los mecanismos necesarios de coordinación para generar condiciones que permitan el desarrollo de la entidad.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2024)</small>
+
+e. Comisión de Desarrollo Metropolitano, Conurbación, Infraestructura, Movilidad, Comunicaciones y Transportes: compete el análisis, dictaminación y proposición de iniciativas de ley relacionadas con su materia, así como la formulación de pronunciamientos políticos, el establecimiento de acuerdos y evaluación de las políticas públicas, a fin de establecer los mecanismos necesarios de coordinación para generar condiciones que permitan el desarrollo de la entidad.
 
 f. Comisión de Medio Ambiente y Desarrollo Sustentable: es responsable de analizar, dictaminar y proponer acuerdos e iniciativas de su materia; deberá atender las denuncias ciudadanas de su competencia, que le sean presentadas, con el fin de alcanzar el desarrollo sustentable en el Estado.
 
@@ -1323,13 +1329,15 @@ Los miembros de las Comisiones no tendrán derecho a ninguna retribución adicio
 
 #### SECCION I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 76.
 
-Al frente de cada una de las Direcciones y Unidades Auxiliares habrá un Titular, quien será nombrado y removido por mayoría calificada de los Diputados integrantes del Pleno del Congreso.
+Al frente de cada una de las Direcciones y Unidades Auxiliares habrá una persona titular, que será nombrada y removida por mayoría calificada de las y los Diputados integrantes del Pleno del Congreso.
 
-Dichos titulares deberán permanecer en el ejercicio de sus funciones, hasta que sean designados sus sucesores.
+Las y los titulares deberán permanecer en el ejercicio de sus funciones, hasta que sean designados sus sucesores.
+
+En la designación de las personas titulares, deberá aplicarse el principio de paridad de género.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -1836,6 +1844,10 @@ X.- Posicionamientos; y,
 XI.- Cita.
 
 En caso de no existir Quórum Legal, después del primer pase de lista, se volverá a pasar lista por segunda vez, quince minutos después para que el Presidente pueda declarar que no hay asistencia requerida para estar en posibilidad con el Quórum Legal o para abrir la Sesión. También se pasará lista de asistencia durante las Sesiones o al final de ellas cuando así lo acuerde la Asamblea o por moción de cuando menos tres Diputados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2024)</small>
+
+Una vez consensuado por la Junta de Coordinación Política, el proyecto de Orden del día de la Sesión Ordinaria deberá publicarse en la página principal de internet y en las cuentas oficiales de redes sociales de este Poder Legislativo del Estado con anticipación suficiente, y cruzado con la palabra PROYECTO; precisando que está sujeta su aprobación final por el Pleno.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -3258,3 +3270,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
 
 SEGUNDO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos legales conducentes.
+
+P.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 40, 56, 60, 76 Y 93 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos conducentes.
