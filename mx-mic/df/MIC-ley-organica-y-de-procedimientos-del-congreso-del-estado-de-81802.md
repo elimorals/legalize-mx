@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2023-11-10"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2024.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -909,9 +909,9 @@ Para su funcionamiento, las Comisiones deberán:
 
 I. Elaborar dentro del primer trimestre del primer Año Legislativo, un programa de trabajo para ser presentado a la Conferencia;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2024)</small>
 
-II. Reunirse ordinariamente por lo menos una vez al mes, previo citatorio de su presidente, o a petición de la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación, el cual deberá contener el orden del día y los documentos sobre los cuales versará la reunión. En analogía a las Sesiones Virtuales del Pleno, dados esos supuestos de imposibilidad para reunirse de manera presencial, se realizarán reuniones virtuales;
+II. Reunirse ordinariamente por lo menos una vez al mes, durante el año legislativo, previo citatorio de su Presidente, o a petición de la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación, el cual deberá contener el orden del día y los documentos sobre los cuales versará la reunión; salvo por urgencia y de manera extraordinaria, podrá citarse a reunión con menos de veinticuatro horas de anticipación; ante la imposibilidad de reunirse de manera presencial podrán realizar reuniones virtuales.
 
 III. Integrarán quórum con el cincuenta por ciento más uno del total de sus integrantes;
 
@@ -1035,9 +1035,11 @@ X. Realizar por sí o a través de las unidades administrativas del Congreso que
 
 XI. Las demás que le señalen la Ley y el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 65.
 
-Las reuniones de Comisión serán convocadas por su Presidente o la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación; serán públicas, salvo acuerdo de sus integrantes que determine que sean privadas.
+Las reuniones de Comisión serán convocadas por su Presidente o la mayoría de sus integrantes, de manera ordinaria con al menos cuarenta y ocho horas de anticipación y extraordinarias con al menos veinticuatro horas de anticipación; serán públicas, salvo acuerdo de sus integrantes que determine que sean privadas, presenciales o virtuales.
 
 A las reuniones de Comisión pueden asistir, a invitación expresa de la misma, representantes de grupos de interés, peritos u otras personas que puedan informar sobre determinado asunto.
 
@@ -1929,11 +1931,11 @@ Las Comisiones de Protocolo solamente se integrarán temporalmente para atender 
 
 #### SECCIÓN II. DE LOS COMITÉS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 97.
 
-Los Comités son órganos colegiados, se constituyen por disposición del Pleno para la supervisión y vigilancia de las unidades administrativas del Congreso. En analogía a las Sesiones Virtuales del Pleno, dados esos supuestos de imposibilidad para reunirse de manera presencial, se podrán realizar reuniones virtuales.
+Los Comités son órganos colegiados, se constituyen por disposición del Pleno para la supervisión y vigilancia de las unidades administrativas del Congreso. Para las celebraciones de sus reuniones se atenderán las mismas reglas dispuestas para las comisiones.
 
 Se constituirán comités de las siguientes áreas:
 
@@ -3467,17 +3469,23 @@ Si el Dictamen de Ley o Decreto no hubiere sido aprobado en lo general se tiene 
 
 Si en la votación particular resultaran aprobados los artículos reservados, se elaborará el documento que los contenga para su inclusión en la minuta correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 251.
 
-Si hay artículos reservados, el Presidente del Congreso, atendiendo al orden secuencial del articulado, concederá el uso de la palabra al Diputado que haya formulado reserva, para que exponga los fundamentos y al término de su intervención deberá entregar por escrito su proyecto de artículo; acto seguido, el Tercer Secretario dará lectura al proyecto, que se pondrá a discusión y votación.
+Si hay artículos reservados, el Presidente del Congreso, atendiendo al orden secuencial del articulado, concederá el uso de la palabra al Diputado que haya formulado reserva, para que exponga, motive y explique los fundamentos de la reserva y al término de su intervención deberá entregar por escrito a la Mesa Directiva su proyecto de artículo; acto seguido, el Tercer Secretario dará lectura al proyecto, que se pondrá a discusión y votación.
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2019)</small>
 
 Si dos o más diputados se reservan un mismo artículo en la misma materia, el Presidente del Congreso preguntará a los diputados si pudieran consensar una sola redacción, de lo contrario se dará lectura a las propuestas de reserva en orden secuencial y se someterán para su aprobación, si la primera propuesta resultare aprobada las demás se declararán sin materia y quedarán desechadas al momento.
 
-Los diputados que voten en contra en lo general, no podrán reservarse artículos en lo particular; quienes voten a favor, no podrán reservarse más del treinta por ciento del articulado.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2024)</small>
 
-De no aprobarse cada proyecto de artículo, el Presidente del Congreso someterá en votación, sin discusión, el artículo en los términos del dictamen.
+Los diputados que voten en contra en lo general, no podrán reservarse artículos en lo particular; quienes voten a favor del dictamen, podrán reservarse hasta el treinta por ciento del articulado, incluidos los transitorios; los decimales que resulten del cálculo del porcentaje no se tomarán en consideración.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2024)</small>
+
+De no aprobarse cada proyecto de artículo, el Presidente del Congreso someterá en votación, sin discusión, el artículo en los términos del dictamen, en caso de no ser aprobado el artículo en lo particular, este será desechado; acto seguido, la Presidencia de la Mesa Directiva someterá a votación el dictamen en lo general y en lo particular omitiendo el artículo desechado.
 
 De los artículos reservados que se hayan aprobado, el Tercer Secretario elaborará el registro en el que se transcriban para su inclusión en la Minuta correspondiente.
 
@@ -4720,3 +4728,19 @@ SEGUNDO. La instalación del Parlamento Juvenil Incluyente del Estado Libre y So
 TERCERO. El presente Decreto, en su Artículo Segundo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 CUARTO. El Congreso del Estado, con base en su presupuesto, infraestructura, instalaciones, personal a su cargo, capacitación laboral, apoyos tecnológicos instalados y demás elementos, que conlleven la Instalación del Parlamento Juvenil Incluyente, en su octava edición, buscará dar cumplimiento a una verdadera inclusión, en los ámbitos que establece el presente Reglamento.
+
+P.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 646.- ÚNICO. SE REFORMA EL PÁRRAFO PRIMERO, TERCERO Y CUARTO DEL ARTÍCULO 251 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 647 POR EL QUE "SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 61, EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 97 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
