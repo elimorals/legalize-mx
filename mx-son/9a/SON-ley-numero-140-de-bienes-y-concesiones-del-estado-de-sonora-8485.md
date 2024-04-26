@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-140-de-bienes-y-concesiones-del-estado-de-sonora-848
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2020-01-30"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -73,9 +71,13 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Dependencia, las mencionadas en el artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
 
-II.- Entidades, las mencionadas en los artículos 35, 39, 40 y 42 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2024)</small>
 
-III.- Comisión Estatal, la Comisión Estatal de Bienes y Concesiones, órgano desconcentrado de la Secretaría de Finanzas; y
+II.- Entidades, las mencionadas en los artículos 3, párrafo tercero, 35, 39, 40 y 42 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2024)</small>
+
+III.- Comisión Estatal, la Comisión Estatal de Bienes y Concesiones, órgano desconcentrado de la Oficialía Mayor; y
 
 IV.- Contraloría, la Secretaría de la Contraloría General del Estado.
 
@@ -125,7 +127,9 @@ XI.- Ejercer la facultad o derecho de reversión, respecto de la propiedad inmob
 
 XII.- Celebrar acuerdos o convenios de concertación con las dependencias y entidades de la administración pública y con las personas físicas o morales de los sectores privado y social, para conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo.
 
-A excepción de lo dispuesto en la fracción VI de este artículo, el Gobernador del Estado ejercerá las facultades a que se refiere este precepto, a través de la Comisión Estatal.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2024)</small>
+
+A excepción de lo dispuesto en la fracción VI de este artículo, el Gobierno del Estado ejercerá las facultades a que se refiere este precepto, a través de la Comisión Estatal, la cual ejercerá las atribuciones a que se refiere el presente artículo previa autorización de su Consejo Técnico Consultivo, salvo las contenidas en las fracciones I, V y X.
 
 ###### ARTICULO 7o.
 
@@ -135,21 +139,27 @@ Sólo los Tribunales del Estado serán competentes para conocer de los juicios c
 
 ### CAPITULO UNICO. DE LA COMISION ESTATAL DE BIENES Y CONCESIONES
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 8o.
 
-Se crea la Comisión Estatal de Bienes y Concesiones, como un órgano desconcentrado, con personalidad jurídica y autonomía técnica y operativa y jerárquicamente subordinado a la Secretaría de Finanzas.
+Se crea la Comisión Estatal de Bienes y Concesiones, como un órgano desconcentrado, con personalidad jurídica y autonomía técnica y operativa y jerárquicamente subordinado a la Oficialía Mayor.
 
 ###### ARTICULO 9o.
 
 La Comisión Estatal, tendrá las atribuciones que le señala la presente Ley, y en el reglamento correspondiente se establecerán las bases para su organización y funcionamiento.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 10.
 
-La Comisión Estatal contará con un Consejo Técnico Consultivo que será presidido por el Secretario de Finanzas, y se integrará por los titulares de las Secretarias de Planeación del Desarrollo y Gasto Público, Infraestructura Urbana y Ecología, Desarrollo Económico y Productividad y la Contraloría General del Estado, como miembros permanentes.
+La Comisión Estatal contará con un Consejo Técnico Consultivo que será presidido por el Titular del Ejecutivo Estatal, y se integrará por los titulares de la Oficialía Mayor y de las Secretarías de Gobierno, de Hacienda, Infraestructura y Desarrollo Urbano, Contraloría General del Estado y Consejería Jurídica, como miembros permanentes. El presidente del Consejo Técnico Consultivo será suplido en sus ausencias por el Oficial Mayor, las decisiones del Consejo Técnico Consultivo serán tomadas por consenso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 11.
 
-El Consejo Técnico Consultivo de la Comisión Estatal tendrá las siguientes atribuciones:
+Además de las autorizaciones a que se refiere el último párrafo del artículo sexto de esta ley, el Consejo Técnico Consultivo de la Comisión Estatal tendrá las siguientes atribuciones:
 
 I.- Emitir opiniones relacionadas con la problemática de los bienes y de las concesiones, en materia de esta Ley;
 
@@ -471,7 +481,9 @@ Los inmuebles de dominio privado son inembargables e imprescriptibles.
 
 La enajenación de inmuebles del dominio privado del Gobierno del Estado, de los organismos descentralizados, de las empresas de participación estatal mayoritaria o de los fideicomisos públicos, con el fin de solucionar problemas de índole habitacional o urbano, se deberá realizar conforme a los programas de urbanización, notificación y fraccionamiento, los cuales deberán ser autorizados previamente por parte de la Secretaría de Infraestructura Urbana y Ecología.
 
-Las enajenaciones de inmuebles, que realicen las entidades de la administración pública estatal, que tengan por objeto o fin principal el fraccionamiento y comercialización de inmuebles, se sujetarán a lo dispuesto en sus leyes o decretos de creación, así como a las reglas que al efecto expida la Secretaría de Infraestructura Urbana y Ecología, mismas que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2024)</small>
+
+Las enajenaciones de inmuebles, que realicen las entidades de la administración pública estatal, que tengan por objeto o fin principal el fraccionamiento y comercialización de inmuebles, se sujetarán a lo dispuesto en sus leyes o decretos de creación, así como a las reglas que al efecto expida la Secretaría de Infraestructura y Desarrollo Urbano, mismas que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO 46.
 
@@ -713,9 +725,11 @@ Las adquisiciones de bienes inmuebles que se realicen para satisfacer las necesi
 
 Para la formulación del programa a que se refiere el artículo anterior, las entidades elaborarán y remitirán sus proyectos de programas de adquisiciones a la dependencia coordinadora del sector en el que se encuentren agrupadas, en la fecha que ésta señale. Dicha dependencia y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán, a la Comisión Estatal sus propios proyectos de programas de adquisiciones de inmuebles, conjuntamente con los de las entidades bajo su coordinación, con sujeción a las normas y plazos que se establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 78.
 
-La Secretaría de Finanzas, propondrá al Gobernador del Estado, para su aprobación, el programa anual global de adquisiciones de inmuebles del Gobierno del Estado. Para estos efectos, dicha dependencia deberá:
+La Oficialía Mayor, propondrá al Gobernador del Estado, para su aprobación, el programa anual global de adquisiciones de inmuebles del Gobierno del Estado. Para estos efectos, dicha dependencia deberá:
 
 I.- Verificar que los proyectos de programas de adquisiciones de inmuebles se sujeten a lo establecido en el Artículo 4o. de esta Ley;
 
@@ -727,7 +741,9 @@ IV.- Proponer, en su caso, en favor de las dependencias o entidades interesadas,
 
 V.- Determinar, en congruencia con la política inmobiliaria de la Administración Pública Estatal, la calendarización a la que se deberán de sujetar las adquisiciones, la utilización y el aprovechamiento de los bienes inmuebles del dominio del Estado.
 
-En la elaboración del programa anual global de adquisiciones a que se refiere este artículo, la Secretaría de Planeación del Desarrollo y Gasto Público tendrá la intervención que le confieren las leyes.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2024)</small>
+
+En la elaboración del programa anual global de adquisiciones a que se refiere este artículo, la Secretaria de Hacienda tendrá la intervención que le confieren las leyes.
 
 La autorización de destino o adquisición de inmuebles, se hará siempre y cuando correspondan a los programas anuales aprobados, exista autorización de inversión en su caso, y no se disponga de inmuebles adecuados, para satisfacer los requerimientos específicos. Procederá la negativa cuando no se cumplan los requisitos señalados.
 
@@ -815,9 +831,11 @@ ARTICULO 90 BIS.- Los almacenes y bodegas propios o los utilizados, por cualquie
 
 ### CAPITULO UNICO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ABRIL DE 2024)</small>
+
 ###### ARTICULO 91.
 
-Los titulares de las dependencias y entidades de la administración pública estatal, así como las demás instituciones públicas o privadas, y los particulares que, por cualquier concepto, usen, posean, administren o tengan a su cuidado bienes del dominio del Estado, estarán obligados a proporcionar a la Contraloría y a la Secretaría de Finanzas, según corresponda, en cada caso, los datos e informes que le soliciten dichas dependencias, en la forma y términos que éstas indiquen, en relación con los bienes señalados.
+Los titulares de las dependencias y entidades de la administración pública estatal, así como las demás instituciones públicas o privadas, y los particulares que, por cualquier concepto, usen, posean, administren o tengan a su cuidado bienes del dominio del Estado, estarán obligados a proporcionar a la Oficialía Mayor, a la Contraloría y a la Secretaría de Hacienda, según corresponda, en cada caso, los datos e informes que le soliciten dichas dependencias, en la forma y términos que éstas indiquen, en relación con los bienes señalados.
 
 Las entidades deberán de proporcionar la información referida, además, a la dependencia coordinadora del sector en que se encuentren agrupadas.
 
@@ -1132,3 +1150,15 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 175, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIENES Y CONCESIONES Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Ejecutivo Estatal cuenta con un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones reglamentarias y administrativas conforme a lo establecido en el mismo.
