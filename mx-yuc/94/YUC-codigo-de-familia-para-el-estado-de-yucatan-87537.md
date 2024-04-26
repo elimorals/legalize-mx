@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2024-01-03"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -187,11 +187,13 @@ Parentesco por afinidad
 
 El parentesco por afinidad es la relación jurídica surgida del matrimonio entre un cónyuge y los parientes consanguíneos del otro.
 
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
 Parentesco civil
 
 ###### Artículo 17.
 
-El parentesco civil es el que nace de la adopción. En el caso de la adopción simple el parentesco existe solamente entre la parte adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción.
 
 Grados y líneas
 
@@ -2613,23 +2615,37 @@ III. La entrega en adopción que realicen los progenitores o abuelos biológicos
 
 Pérdida de la patria potestad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
+
 ###### Artículo 308.
 
-La patria potestad se pierde por resolución judicial:
+La patria potestad se pierde:
 
 I. Cuando quien o quienes la ejercen son condenados expresamente a la pérdida de ese derecho, o por la comisión de delitos graves;
 
-II. En los casos de divorcio o nulidad de matrimonio, cuando así lo determine el juez en la sentencia;
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-III. Cuando por las costumbres ilícitas de quien o quienes la ejercen, malos tratos o abandono de sus deberes, pueda comprometerse la salud, la seguridad o la moralidad de los descendientes;
+II. En los casos de divorcio o nulidad de matrimonio, cuando así lo determine la o el juez en la sentencia;
 
-IV. Cuando quien o quienes la ejerzan, dejen de convivir injustificadamente con las niñas, niños o adolescentes, los abandone o deje en custodia para su cuidado en algún centro asistencial público o privado o en casa particular, por más de sesenta días naturales y tratándose de expósitos, después de siete días naturales;
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-V. Por la exposición o abandono que hicieren de sus descendientes los titulares de este derecho, siempre que se prolongue por más de dos meses, y
+III. Cuando por las costumbres ilícitas de quien o quienes la ejercen, malos tratos o abandono de sus deberes, pueda comprometerse la salud, la seguridad o la moralidad de las personas descendientes, previa resolución judicial;
 
-VI. En los casos de violencia familiar cometida contra de las niñas, niños y adolescentes sujetas a la patria potestad.
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-El ascendiente que contraiga un matrimonio ulterior, no pierde por este hecho la patria potestad, pero el nuevo cónyuge no puede ejercer este derecho a menos que adopte al descendiente en los términos y condiciones previstos en este Código.
+IV. Cuando quien o quienes la ejerzan, dejen de convivir injustificadamente con las niñas, niños o adolescentes, que no están bajo la tutela del estado, o los deje en custodia para su cuidado en casa particular, por más de sesenta días naturales, previa resolución judicial;
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+V. Por la exposición o abandono que hicieren de sus descendientes los titulares de este derecho, en términos de lo previsto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, y
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+VI. En los casos de violencia familiar cometida contra las niñas, los niños y adolescentes sujetos a la patria potestad, previa resolución judicial.
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+El ascendiente que contraiga un matrimonio ulterior, no pierde por este hecho la patria potestad, pero la nueva persona cónyuge no puede ejercer este derecho a menos que adopte al descendiente en los términos y condiciones previstos en este Código.
 
 En los casos de adopción, acreditado el interés superior de la niña, niño o adolescente, y su situación de abandono, el juez debe resolver previamente la pérdida de patria potestad.
 
@@ -2643,13 +2659,9 @@ Continuidad de obligaciones
 
 El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todos los deberes jurídicos que tienen para con sus hijos o hijas.
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
-
-Solicitud de pérdida de patria potestad en caso de niñas, niños o adolescentes expósitos o abandonados
-
 ###### Artículo 310.
 
-La solicitud de la pérdida de la patria potestad, tratándose de niñas, niños o adolescentes abandonados o expósitos, debe ser solicitada por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso, en los términos de lo dispuesto en el Código de Procedimientos Familiares del Estado de Yucatán.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 Pérdida de la patria potestad resuelta en el divorcio
 
@@ -2915,27 +2927,29 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 
 Integración de niñas, niños y adolescentes a familiares diversos o a una familia de acogida
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
+
 ###### Artículo 341.
 
-Para efectos del artículo anterior la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán también puede acordar la integración de niñas, niños o adolescentes expósitos, abandonados o en situación de violencia con familiares diversos a sus progenitores o abuelos paternos o maternos, en los términos previstos en el artículo anterior.
+Para efectos del artículo anterior la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán también puede acordar la integración de niñas, niños o adolescentes en situación de violencia con familiares diversos a sus progenitores o abuelas o abuelos paternos o maternos, en los términos previstos en el artículo anterior.
 
 En caso de que la integración de niñas, niños o adolescentes con sus familiares no resulte lo más conveniente, en aplicación del principio del interés superior de la niñez, la Procuraduría, puede acordar que dicha integración se lleve a cabo con una familia de acogida.
 
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 Preferencia para la integración
 
 ###### Artículo 342.
 
-Las niñas, niños o adolescentes abandonados o que se encuentren en situación de violencia serán integrados preferentemente con personas que sean parientes, siempre y cuando les sea benéfico, tomando en consideración el grado de parentesco, la relación de afinidad y de afectividad, el origen, la comunidad y las condiciones culturales en que se desarrollen. Asimismo, se procurará no separar a hermanas y hermanos, pero, si hubiera necesidad, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
+Las niñas, niños o adolescentes que se encuentren en situación de violencia serán integrados preferentemente con personas que sean parientes, siempre y cuando les sea benéfico, tomando en consideración el grado de parentesco, la relación de afinidad y de afectividad, el origen, la comunidad y las condiciones culturales en que se desarrollen. Asimismo, se procurará no separar a hermanas y hermanos, pero, si hubiera necesidad, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 Familia de acogida
 
 ###### Artículo 343.
 
-Para efectos de este Código se entiende por familia de acogida la persona o personas unidas que, no siendo la familia de origen, acogen a un expósito, a una niña, un niño o adolescente abandonado o que se encuentre en una situación de violencia cuya protección, guarda y custodia, le corresponde a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, por un tiempo determinado sin fines de adopción.
+Para efectos de este Código se entiende por familia de acogida aquella que cuente con la certificación de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
@@ -2953,21 +2967,13 @@ Verificación del cumplimiento de los requisitos
 
 Además de lo señalado en el artículo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, debe verificar que los familiares, personas o las familias de acogida interesadas en la integración a una vida en familia de niñas, niños o adolescentes expósitos, abandonados o que se encuentren en una situación de violencia, cumplan con los requisitos señalados en el artículo siguiente y, en todo caso, tiene la obligación de informar a los interesados, acerca de los derechos y obligaciones inherentes a la integración.
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 Requisitos que deben cumplir las personas o familias de acogida
 
 ###### Artículo 346.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, al acordar la integración a una vida en familia de niñas, niños o adolescentes expósitos o abandonados o que se encuentren en una situación de violencia y bajo su guarda, custodia y protección, debe constatar que los interesados acreditaron lo siguiente:
-
-I. Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de la niña, del niño o adolescente;
-
-II. La aptitud e idoneidad para desempeñar las funciones inherentes a la custodia provisional de la niña, del niño o adolescente;
-
-III. Ser mayores de edad, y
-
-IV. Contar con buena reputación pública.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, al acordar la integración a una vida en familia de niñas, niños o adolescentes expósitos o abandonados o que se encuentren en una situación de violencia y bajo su guarda, custodia y protección, debe constatar que la o las personas interesadas acreditaron los requisitos previstos en los lineamientos que al efecto expida y publique en el Diario Oficial del Gobierno del Estado de Yucatán la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
@@ -3155,11 +3161,9 @@ La adopción es el acto jurídico mediante el cual los cónyuges, concubinos o u
 
 Sólo procederá la adopción de personas mayores de edad siempre que éstas tengan alguna incapacidad.
 
-Clases de adopción
-
 ###### Artículo 369.
 
-La adopción puede ser plena o simple. La adopción simple podrá convertirse en plena, debiendo tramitarse conforme a las disposiciones del Código de Procedimientos Familiares del Estado de Yucatán.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 Derechos y obligaciones de la persona que adopta
 
@@ -3167,9 +3171,9 @@ Derechos y obligaciones de la persona que adopta
 
 El que adopta tiene respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los progenitores respecto de la persona y bienes de los hijos o hijas biológicos.
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a petición de los interesados en adoptar, puede solicitar al juez, durante el trámite de adopción, el cambio de nombre propio de la niña, del niño o adolescente que se pretende adoptar, siempre que no hayan cumplido un año de edad; cuando sea mayor de dicha edad, sólo puede solicitarse que se añada un nombre al que originalmente tiene.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a petición de la persona o personas solicitantes de la adopción, puede pedir a la o el juez, durante el trámite de adopción, el cambio de nombre propio de la niña, del niño o adolescente que se pretende adoptar, siempre que no hayan cumplido un año de edad; cuando sea mayor de dicha edad, solo puede solicitarse que se añada un nombre al que originalmente tiene.
 
 Derechos y obligaciones del adoptado
 
@@ -3193,13 +3197,9 @@ En todos los casos de adopción, los niños, niñas y adolescentes que vayan a a
 
 En todo procedimiento de adopción de niñas, niños o adolescentes, estos deberán ser escuchados y tomar en cuenta su opinión, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
-
-Asesoría en materia de adopción
-
 ###### Artículo 373 Bis.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán brindará asesoría a quienes pretendan consentir o consientan la adopción y a quienes pretendan aceptarla o la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de esta.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 Personas sujetas a la adopción
 
@@ -3217,11 +3217,13 @@ Adopción de hermanos
 
 Cuando se trate de hermanos, se debe procurar que sean entregados en adopción a la misma persona o pareja de adoptantes.
 
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
 Derecho preferente para la adopción
 
 ###### Artículo 376.
 
-La persona que haya acogido a la niña, niño o adolescente o persona incapaz por un período superior a un año, tiene derecho preferente para adoptarla, siempre que pruebe que al que pretende adoptar no cuenta con ascendientes, que fue abandonado o bien, que le fue entregado por quienes ejercían la patria potestad o la tutela para integrarlo a su familia.
+Si una niña, un niño o adolescente hubiese sido integrado a una vida en familia y generado vínculos afectivos, derivado del cuidado y protección otorgados por la o las personas cuidadoras no familiares, por un periodo superior a seis meses, tendrá derecho preferente a ser adoptado por dicha familia, siempre que se pruebe que la niña, el niño o adolescente fue entregado por quien o quienes ejercían la patria potestad o tutela y la persona o personas adoptantes son la opción con mayor compatibilidad para satisfacer las necesidades de las niñas, los niños o adolescentes susceptibles de adopción, en términos de lo previsto en la Ley de Adopciones de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
@@ -3239,9 +3241,11 @@ La adopción hecha por extranjeros radicados legalmente en México, se rige por 
 
 Consumación de la adopción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
+
 ###### Artículo 379.
 
-Una vez que cause ejecutoria la resolución judicial que autorice una adopción, queda ésta consumada y no puede revocarse sino en los casos previstos en este Código para la adopción simple o nulificarse cuando proceda.
+Una vez que cause ejecutoria la resolución judicial que autorice la adopción, queda esta consumada y no puede revocarse o nulificarse.
 
 El juez que apruebe la adopción, debe remitir oficiosamente copia de las diligencias respectivas al Oficial del Registro Civil correspondiente para que inscriba el acta de nacimiento nueva del adoptado, en la que aparezcan los datos de sus progenitores adoptivos como progenitores, sin ninguna mención del carácter adoptivo de la filiación. Asimismo ordenará cancelar el acta de nacimiento original. Para efectos de este artículo aplica lo previsto en los párrafos segundo y tercero del artículo 354 de este Código.
 
@@ -3277,53 +3281,51 @@ Requisitos para la adopción
 
 Además de lo señalado en el artículo anterior, la parte adoptante debe acreditar los siguientes requisitos:
 
-l. Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de quien se pretenda adoptar;
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+I. Contar con medios suficientes para proveer la subsistencia, educación, salud, vivienda con calidad, espacios y servicios básicos a la persona que pretende adoptar;
 
 Il. Contar con aptitudes físicas, morales y psicológicas idóneas para desempeñar las funciones de progenitor;
 
-III. Tener veinte años más que quien se pretenda adoptar;
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-IV. Contar con buena reputación pública, y
+III. Tener diecisiete años más que quien se pretenda adoptar;
 
-> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+IV. (DEROGADA, D.O. 26 DE ABRIL DE 2024)
 
-V. Cumplir satisfactoriamente la etapa de acogimiento preadoptivo, en los términos que determine la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+V. En el caso de las niñas, los niños y adolescentes, acreditar que ha cumplido el procedimiento administrativo de adopción, en términos de lo previsto en la Ley de Adopciones de Niñas, Niños y Adolescentes del Estado de Yucatán y demás normativa aplicable.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán debe vigilar las condiciones y desarrollo de la adopción y dictaminar sobre el cumplimiento de los requisitos establecidos en este artículo, de conformidad con lo establecido en el Código de Procedimientos Familiares del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán debe vigilar las condiciones y desarrollo de la adopción y dictaminar sobre el cumplimiento de los requisitos establecidos en este artículo, de conformidad con lo establecido en la legislación procesal aplicable en materia familiar.
 
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Las personas que realicen los estudios o informes para verificar el cumplimiento de los requisitos establecidos en este artículo, o que participen de cualquier manera en los procedimientos de adopción deberán contar con la autorización de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en los términos de las disposiciones que esta emita.
 
-> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
-Los medios probatorios presentados y avalados por la Procuraduría, serán suficientes y válidos, el Juez los tomará como actuaciones solventadas y no las mandará a realizar nuevamente, esto con el fin de no duplicar funciones y alargar el término del proceso, el cual, no deberá ser mayor al término de un año posterior a la presentación de la solicitud inicial ante el Juez.
+Respecto a las resoluciones de adopción, la o el juez deberá ajustarse a lo previsto en la legislación procesal aplicable en materia familiar y en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-El juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia de la adopción, previa vista al Ministerio Público.
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+La o el juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia de la adopción, previa vista al Ministerio Público.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán brindará asesoría, capacitará, evaluará, certificará y llevará un registro de las familias que resulten idóneas para el acogimiento preadoptivo.
-
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
-
-Informes e investigaciones
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
 
 ###### Artículo 383.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán puede hacer las investigaciones y entrevistas que estime convenientes para dictaminar sobre la conveniencia o inconveniencia de conceder la adopción, con independencia de que los requisitos establecidos en este Código en relación con la adopción se hubieren reunido.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
-Asimismo, cuando lo considere necesario, puede solicitar la revaloración de quien o quienes pretendan adoptar con el propósito de contar con mayores elementos para pronunciarse sobre la procedencia o improcedencia de las solicitudes presentadas.
-
-En todos los casos la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán se asegurará que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 Acuerdo entre cónyuges o personas unidas en concubinato
 
 ###### Artículo 384.
 
-El hombre y la mujer unidos en matrimonio o concubinato pueden adoptar, cuando ambos estén de acuerdo en considerar al adoptado como hijo o hija.
+Las personas unidas en matrimonio o concubinato pueden adoptar, cuando ambas estén de acuerdo en considerar al adoptado como hija o hijo.
 
 Adopción de los hijos o hijas del otro cónyuge
 
@@ -3351,7 +3353,7 @@ I. El que ejerce la patria potestad sobre la niña, el niño o adolescente o la 
 
 II. El tutor de quien se pretende adoptar;
 
-III. La persona o personas que hayan acogido durante más de un año a quien se pretende adoptar y lo traten como a un hijo o hija, cuando no hubiere quien ejerza sobre él la patria potestad o la tutela, o
+III. (DEROGADA, D.O. 26 DE ABRIL DE 2024)
 
 > <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
@@ -3359,59 +3361,45 @@ IV. El Sistema para el Desarrollo Integral de la Familia en Yucatán y la Procur
 
 Si el que se pretende adoptar, a criterio del juez, está en condiciones de formarse un juicio, también se necesita su consentimiento para la adopción.
 
-Juicio previo de la pérdida de la patria potestad tratándose de abandonados
+> <small>(ADICIONADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+En todo caso deberá consentir la adopción la o las personas solicitantes de esta.
+
+> <small>(ADICIONADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+Si las personas solicitantes de la adopción son cónyuges o concubinos, ambas deberán consentir la adopción.
 
 ###### Artículo 388.
 
-En los casos de niñas, niños o adolescentes o de personas incapaces que hayan sido abandonadas, debe tramitarse previamente la pérdida de la patria potestad antes de conceder la adopción.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
 Requisitos para extranjeros radicados en México
 
 ###### Artículo 389.
 
-Los extranjeros radicados en México que pretendan adoptar, deben acreditar su legal estancia en el país, cubrir los requisitos que establece este Código y los que dispongan los tratados internacionales aplicables.
+Las personas extranjeras radicadas en México que pretendan adoptar, deben acreditar su legal estancia en el país, cubrir los requisitos que establece este Código, los que dispongan los tratados internacionales aplicables, la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de Adopciones de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 26 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO III. De la Adopción Simple
 
-Adopción simple
-
 ###### Artículo 390.
 
-La adopción simple no crea ningún vínculo jurídico entre el adoptado y la familia del adoptante, ni entre éste y la familia de aquél, salvo los impedimentos para contraer matrimonio con el adoptante o con sus ascendientes y descendientes, durante y después de disuelta la adopción. Puede ser revocada en los casos previstos en este Código.
-
-Revocación de la adopción simple
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ###### Artículo 391.
 
-La adopción simple puede revocarse judicialmente:
-
-I. Por ingratitud del adoptado;
-
-II. Cuando el adoptante incurra en alguna de las causas que hacen perder la patria potestad, o
-
-III. Por impugnación del vínculo hecha por el adoptado.
-
-> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
-
-La revocación debe plantearse por el adoptante en la primera hipótesis, o por la parte interesada, en el segundo, pudiendo solicitarla de oficio la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso.
-
-Ingratitud del adoptado
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ###### Artículo 392.
 
-Para los efectos de la fracción I del artículo anterior, se considera ingrato al adoptado, con efectos retroactivos al acto imputado cuando:
-
-I. Cometa un delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, concubina, concubinario o sus ascendientes o descendientes, o
-
-II. El adoptado se rehúse injustificadamente a dar alimentos al adoptante que haya caído en pobreza.
-
-Efecto de la revocación de la adopción simple
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ###### Artículo 393.
 
-La resolución del juez que deje sin efecto la adopción simple, restituye las cosas al estado que guardaban antes de constituir el vínculo, y debe comunicar al Oficial del Registro Civil correspondiente para que cancele gratuitamente el acta respectiva.
-
-Para efectos de este artículo aplica lo previsto en el tercer párrafo del artículo 354 de este Código.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ### CAPÍTULO IV. De la Adopción Plena
 
@@ -3469,6 +3457,10 @@ II. Investigue que la adopción es benéfica para el interés superior de la ni�
 
 III. Constate que sean satisfechos los requisitos legales y propios de la adopción plena que establece este Código.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 26 DE ABRIL DE 2024)</small>
+
+En el caso de niñas, niños y adolescentes, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán deberá, además, constatar que sean satisfechos los requisitos previstos en la Ley de Adopciones de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
 Trámite de la adopción internacional
 
 ###### Artículo 401.
@@ -3511,25 +3503,21 @@ Seguimiento de la adopción internacional
 
 Al Sistema para el Desarrollo Integral de la Familia en Yucatán o a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en el ámbito de sus respectivas competencias, le corresponde hacer las gestiones necesarias ante las autoridades consulares mexicanas, a fin de obtener información sobre las condiciones en las que se encuentra el adoptado que fue trasladado al país de recepción.
 
-### CAPÍTULO VI. De la Conversión de la Adopción Simple a Plena
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 26 DE ABRIL DE 2024)</small>
 
-Conversión de la adopción simple
+### CAPÍTULO VI. De la Conversión de la Adopción Simple a Plena
 
 ###### Artículo 406.
 
-La adopción simple otorgada puede convertirse en adopción plena a solicitud de quienes cuentan con aquélla.
-
-Solicitud para la conversión
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ###### Artículo 407.
 
-A la solicitud de conversión debe acompañarse la autorización suscrita por la autoridad que otorgó su consentimiento para la adopción simple. Los adoptados mayores de doce años también tienen que otorgar su consentimiento para la conversión, previa información sobre sus efectos.
-
-Autorización de la conversión
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ###### Artículo 408.
 
-Autorizada la conversión, el juez debe ordenar al Oficial del Registro Civil correspondiente que cancele gratuitamente el acta de adopción y elabore un acta de nacimiento, en los términos del artículo 398 de este Código.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 ## TÍTULO DÉCIMO SEGUNDO. TUTELA
 
@@ -3978,6 +3966,10 @@ Tutela pública de niñas, niños y adolescentes expósitos o abandonados
 ###### Artículo 460.
 
 Las niñas, los niños o adolescentes expósitos o abandonados, quedan bajo tutela pública por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, en consecuencia, toda persona o institución pública o privada que tenga conocimiento de estos casos, deberá comunicarlo a aquella, la cual debe realizar los trámites necesarios.
+
+> <small>(ADICIONADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+El acta circunstanciada con la certificación para considerar a una niña, un niño o un adolescente expósito o abandonado, será emitida por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán en términos de lo previsto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y en la Ley de Adopciones de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 ### CAPÍTULO VI. De los Impedimentos y la Separación en el Desempeño de la Tutela
 
@@ -7810,3 +7802,27 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
+
+D.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 746/2024 POR EL QUE SE EXPIDE LA LEY DE ADOPCIONES DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y SE DEROGA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Ajustes presupuestales
+
+La persona titular del Poder Ejecutivo, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales necesarios para la debida aplicación de este decreto.
+
+Artículo tercero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán hasta su conclusión regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo cuarto. Obligación normativa
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, deberá expedir o adecuar las disposiciones normativas que resulten pertinentes para dar cumplimiento a lo previsto en este decreto, en un plazo no mayor de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo quinto. Régimen de vigencia especial
+
+Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
