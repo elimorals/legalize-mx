@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-04-09"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "CAM"
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ABRIL DE 2024.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -81,7 +83,7 @@ La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo prop
 
 ### CAPITULO III. De Los Derechos Humanos y sus Garantías
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+(REFORMADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., P.O. 26 DE ABRIL DE 2024)
 
 ###### ARTICULO 6.
 
@@ -90,6 +92,26 @@ Además de lo que la Constitución Política de los Estados Unidos Mexicanos pre
 Toda persona que sufra un daño o lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los Municipios, tendrá derecho a ser indemnizada conforme lo establece el artículo 101 bis de esta Constitución. En todas las decisiones y actuaciones de las autoridades administrativas, jurisdiccionales y legislativas, así como de las demás instituciones públicas o privadas de bienestar social, se velará y observará el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos humanos.
 
 Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá en ningún momento, ni en ninguna circunstancia, condicionarse o anteponerse a los derechos de la niñez y de la adolescencia. Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
+
+La educación es un derecho humano. Este derecho incluye la facultad de recibir gratuitamente la enseñanza obligatoria en los términos que establece el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
+
+(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
+
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado promoverá y garantizará el respeto de este derecho.
+
+(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
+
+Toda persona tiene derecho a disfrutar de una vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
+
+(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -371,9 +393,9 @@ IV.- Desempeñar las funciones electorales y las de jurado. Las funciones electo
 
 V.- Inscribirse en el Catastro, manifestando la propiedad que el mismo ciudadano tenga, así como la industria, profesión o trabajo de que subsista, e inscribirse en los Padrones Electorales del Municipio en que resida;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024) (F DE E., P.O. 26 DE ABRIL DE 2024)
 
-VI.- Hacer que sus hijas, hijos o pupilos menores de edad concurran a las escuelas, para recibir la educación obligatoria en los términos que establece el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
+VI. Hacer que sus hijas, hijos o pupilos menores de edad concurran a las escuelas, para recibir la educación obligatoria en los términos que establece el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
 
 VII.- Contribuír para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa que establezcan las leyes;
 
@@ -3321,7 +3343,9 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual 
 
 P.O. 9 DE FEBRERO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 333 POR EL QUE "SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO AL ARTÍCULO 6o. Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+> <small>(F. DE E., P.O. 26 DE ABRIL DE 2024)</small>
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 333 POR EL QUE "SE REFORMA EL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3329,7 +3353,9 @@ Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias,
 
 P.O. 9 DE FEBRERO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 334 POR EL QUE "SE REFORMA EL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+> <small>(F. DE E., P.O. 26 DE ABRIL DE 2024)</small>
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 334 POR EL QUE "SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO AL ARTÍCULO 6o. Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
