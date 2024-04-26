@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2024-02-02"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -3457,9 +3457,7 @@ El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a
 
 Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
 
-Sexto. Régimen de vigencia especial
-
-El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+Sexto. (DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 Séptimo. Expedición del programa
 
@@ -3796,3 +3794,27 @@ La escritura constitutiva de la Operadora Energética y Marítima de Yucatán, S
 Artículo Quinto. Registro de Entidades Paraestatales
 
 La persona titular de la Dirección General de la Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, deberá inscribir este decreto y la escritura constitutiva en el Registro de Entidades Paraestatales.
+
+D.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 746/2024 POR EL QUE SE EXPIDE LA LEY DE ADOPCIONES DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y SE DEROGA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Ajustes presupuestales
+
+La persona titular del Poder Ejecutivo, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales necesarios para la debida aplicación de este decreto.
+
+Artículo tercero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán hasta su conclusión regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo cuarto. Obligación normativa
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, deberá expedir o adecuar las disposiciones normativas que resulten pertinentes para dar cumplimiento a lo previsto en este decreto, en un plazo no mayor de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo quinto. Régimen de vigencia especial
+
+Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
