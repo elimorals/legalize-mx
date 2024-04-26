@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2022-03-08"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2024.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -767,9 +767,21 @@ XIX. Adjudicar los contratos de aquellos procedimientos que ejecute;
 
 XX. Definir, para el resto de la administración pública estatal, los parámetros mínimos y máximos de precios de referencia;
 
-XXI. Convocar y conducir las reuniones de planeación con las Direcciones Generales de Administración, de Informática o sus equivalentes; y
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2024)</small>
 
-XXII. Las demás que le confieran otras leyes y reglamentos.
+XXI. Convocar y conducir las reuniones de planeación con las Direcciones Generales de Administración, de Informática o sus equivalencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 26 DE ABRIL DE 2024)</small>
+
+XXII. Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la Administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+
+> <small>(ADICIONADA, B.O. 26 DE ABRIL DE 2024)</small>
+
+XXIII. Intervenir en el otorgamiento y revocación de concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado, en los términos que establezca la ley de la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 26 DE ABRIL DE 2024)</small>
+
+XXIV. Las demás que le confieran otras leyes y reglamentos.
 
 ARTICULO 23 BIS 3.- (DEROGADO, B.O. 8 DE MARZO DE 2022)
 
@@ -895,13 +907,9 @@ F. En materia de administración e informática:
 
 I.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+II.- (DEROGADA, B.O. 26 DE ABRIL DE 2024)
 
-II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
-
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
-
-III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+III.- (DEROGADA, B.O. 26 DE ABRIL DE 2024)
 
 IV.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
@@ -2844,3 +2852,15 @@ El Titular del Ejecutivo Estatal, deberá emitir el Reglamento Interior de la Of
 ###### ARTÍCULO NOVENO.
 
 El apartado H del artículo 24 del presente Decreto entrará en vigor una vez que el Congreso del Estado de Sonora, en un plazo de 180 días naturales, expida la legislación necesaria para adecuar el marco normativo para la aplicación de lo dispuesto en dicho apartado.
+
+B.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIENES Y CONCESIONES Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Ejecutivo Estatal cuenta con un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones reglamentarias y administrativas conforme a lo establecido en el mismo.
