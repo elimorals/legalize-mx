@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-prevencion-combate-y-erradicacion-de-la-88666"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-26"
-last_updated: "2021-06-23"
+last_updated: "2024-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 26 de julio de 2012.
 
@@ -35,7 +35,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:...
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción VIII y IX de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -693,9 +695,7 @@ El gobernador, en un plazo no mayor de ciento ochenta días naturales, contado a
 
 Hasta en tanto se emitan estas disposiciones continuará aplicándose el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de mayo de 2017, que se encuentra en vigor, en lo que no contravenga lo establecido en este decreto.
 
-Sexto. Régimen de vigencia especial
-
-El Acuerdo DIF 07/SO/2a /2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014, dejará de ser aplicable a partir de que se emita el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+Sexto. (DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
 Séptimo. Expedición del programa
 
@@ -752,3 +752,27 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta la
 Décimo noveno. Previsiones presupuestales
 
 El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 26 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 746/2024 POR EL QUE SE EXPIDE LA LEY DE ADOPCIONES DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y SE DEROGA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Ajustes presupuestales
+
+La persona titular del Poder Ejecutivo, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales necesarios para la debida aplicación de este decreto.
+
+Artículo tercero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán hasta su conclusión regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo cuarto. Obligación normativa
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, deberá expedir o adecuar las disposiciones normativas que resulten pertinentes para dar cumplimiento a lo previsto en este decreto, en un plazo no mayor de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo quinto. Régimen de vigencia especial
+
+Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
