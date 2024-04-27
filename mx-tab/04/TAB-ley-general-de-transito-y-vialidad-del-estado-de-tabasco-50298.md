@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2023-12-20"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -971,13 +971,67 @@ Centralizarán igualmente el intercambio de datos para la atención de heridos e
 
 Igualmente tendrán previstos operativos institucionales para ubicar, perseguir y detener a los presuntos responsables de incidentes de tránsito y su remisión a la autoridad competente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2024)</small>
+
+### Capítulo I Bis. Del servicio público de grúas y remolques
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+
+###### Artículo 65 Bis.
+
+El servicio de transporte público de carga, en su modalidad de grúas y remolques, se prestará en los siguientes casos:
+
+I. Incidente de tránsito, cuando deba retirarse un vehículo de la vía pública, con motivo de alguna infracción, medidas cautelares o preventivas, previstas en términos del artículo 68, fracciones III y IV de esta Ley, su Reglamento y demás disposiciones legales aplicables;
+
+II. En casos de accidentes de tránsito o vehículos siniestrados;
+
+III. A solicitud de parte interesada, por algún desperfecto mecánico; y
+
+IV. En los demás casos previstos en otras disposiciones legales y normativas aplicables.
+
+La prestación del servicio público a que se refiere este artículo, generará el pago establecido en la Ley o reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+
+###### Artículo 65 Ter.
+
+Tratándose de los casos previstos en la fracción I del artículo anterior, la Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Estatal de Caminos, y en su caso la autoridad de tránsito municipal, serán los únicos facultados para trasladar los vehículos en las vías públicas de su jurisdicción.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+
+###### Artículo 65 Quáter.
+
+La Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Estatal de Caminos, o en su caso, las autoridades de tránsito municipal, prestarán el servicio de transporte público de grúas, remolques y depósito tratándose de hechos o accidentes de tránsito, en los términos siguientes:
+
+I. En caso de que se requiera retirar de la vía pública algún vehículo, el Policía Vial o Agente de que se trate, deberá primero solicitar una grúa a la autoridad de tránsito con jurisdicción en el lugar;
+
+II. En caso de que la autoridad de tránsito competente no cuente con grúas disponibles, el oficial de tránsito a cargo, proporcionará al propietario, posesionario o conductor del vehículo, una lista del padrón de los concesionarios y permisionarios del servicio público de grúas y remolques, misma que deberá tener la tarifa autorizada por la Secretaría de Movilidad del Estado, para que éste decida y elija libremente el servicio a su conveniencia; y
+
+III. En caso de que el propietario, posesionario o conductor del vehículo se encuentre imposibilitado para decidir, en su lugar, podrá hacerlo el ajustador de la aseguradora que ampara al vehículo, y en caso de no estar presente o no contar con seguro, la autoridad de tránsito solicitará la grúa del concesionario o permisionario que se encuentre en turno, para remitirlo al depósito vehicular correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+
+###### Artículo 65 Quinquies.
+
+Tratándose de accidentes de tránsito o vehículos siniestrados, los concesionarios y permisionarios particulares no podrán mover o trasladar un vehículo sin la autorización del conductor o propietario del vehículo de que se trate y excepcionalmente de las autoridades de tránsito municipal o estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+
+###### Artículo 65 Sexies.
+
+En la prestación del servicio de transporte público de grúas, remolques y depósitos autorizados, la autoridad de tránsito competente, los concesionarios y permisionarios, estarán obligados a lo siguiente:
+
+I. Adoptar las previsiones y cuidados necesarios para evitar daños a los vehículos. Al iniciar el traslado o el salvamento, deberán levantar un inventario del vehículo y de lo que se encuentra en su interior. Asimismo, deberán sellar todas las puertas, incluida la del portaequipaje y el cofre, con etiquetas adheribles, realizando un resguardo videográfico de las condiciones en las que éste es trasladado. Cuando se trate de salvamento, éste se realizará una vez concluida la maniobra correspondiente;
+
+II. Hacerse responsables del daño, sustracción de piezas o extravío de documentos y objetos que se encuentren en el interior de los vehículos y que consten en el inventario correspondiente, y de los daños que se causen al vehículo, por negligencia, impericia, falta de cuidado o de equipo adecuado, conforme a la norma aplicable; y
+
+III. Expedir la copia del inventario o resguardo videográfico cuando les fuere solicitado.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2023)</small>
 
 ### Capítulo II. De los incidentes de Tránsito de Vehículos y Personas peatonas
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
-
-### Capítulo I. Disposiciones generales
 
 ###### ARTÍCULO 66.
 
@@ -985,15 +1039,15 @@ Los incidentes que ocurran entre Vehículos de tracción mecánica, humana o ani
 
 ## TÍTULO SÉPTIMO. DE LAS BASES PARA EL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE INCIDENTES E INFRACCIONES DE TRÁNSITO
 
-### Capítulo II. Medidas cautelares
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2019)</small>
+### Capítulo I. Disposiciones generales
 
 ###### ARTÍCULO 67.
 
 El procedimiento administrativo que de origen a la aplicación de sanciones por violaciones a esta ley, su reglamento y demás legislación aplicable en la materia, será el previsto en la legislación relativa vigente en el Estado.
 
-### Capítulo I. Principios Generales
+### Capítulo II. Medidas cautelares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 68.
 
@@ -1083,7 +1137,7 @@ La liberación de un vehículo detenido por la autoridad competente, en término
 
 ## TÍTULO OCTAVO. DEL RÉGIMEN DE SANCIONES
 
-### Capítulo II. De las naturalezas de las sanciones
+### Capítulo I. Principios Generales
 
 ###### ARTÍCULO 70.
 
@@ -1171,6 +1225,28 @@ En caso de concurso de infracciones, las sanciones se acumularán aun cuando sea
 
 Se considerará como reincidencia, la infracción a una misma disposición en dos o más ocasiones diversas durante el lapso de dos años contados a partir de la primera infracción.
 
+### Capítulo II. De las naturalezas de las sanciones
+
+###### ARTÍCULO 80.
+
+Las sanciones administrativas a que esta Ley de origen, son de cumplimiento coercible y obligatorio, no pudiendo ser aplicadas con carácter condicional ni en suspensión y consisten en:
+
+I. Arresto por 36 horas;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+II. Inhabilitación para conducir Vehículos o determinada categoría de ellos en cuyo caso se debe suspender o cancelar la vigencia de la Licencia de conducir según corresponda;
+
+III. Multa; y
+
+IV. Concurrencia a cursos especiales de educación y capacitación para el correcto uso de la vía pública. Esta sanción puede ser aplicada como alternativa de la multa para infracciones leves y como adicional a la multa en infracciones graves.
+
+La normatividad reglamentaria en la materia establecerá el procedimiento para la aplicación de sanciones, de cada infracción, en términos de esta ley.
+
+Contra los actos y resoluciones que se dicten en materia de tránsito, se estará a lo previsto en la Ley de Justicia Administrativa del Estado de Tabasco.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2023)</small>
+
 ### Capítulo II Bis. De la Boleta de Infracción Electrónica
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2023)</small>
@@ -1200,26 +1276,6 @@ X. Código QR; y
 XI. Las demás que señale el Reglamento de la Ley.
 
 Cuando no se cuente con dispositivo electrónico para generar la Boleta de Infracción Electrónica, ésta se realizará mediante los formatos que, para tal efecto, autorice la Secretaría de Seguridad y Protección Ciudadana.
-
-###### ARTÍCULO 80.
-
-Las sanciones administrativas a que esta Ley de origen, son de cumplimiento coercible y obligatorio, no pudiendo ser aplicadas con carácter condicional ni en suspensión y consisten en:
-
-I. Arresto por 36 horas;
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
-
-II. Inhabilitación para conducir Vehículos o determinada categoría de ellos en cuyo caso se debe suspender o cancelar la vigencia de la Licencia de conducir según corresponda;
-
-III. Multa; y
-
-IV. Concurrencia a cursos especiales de educación y capacitación para el correcto uso de la vía pública. Esta sanción puede ser aplicada como alternativa de la multa para infracciones leves y como adicional a la multa en infracciones graves.
-
-La normatividad reglamentaria en la materia establecerá el procedimiento para la aplicación de sanciones, de cada infracción, en términos de esta ley.
-
-Contra los actos y resoluciones que se dicten en materia de tránsito, se estará a lo previsto en la Ley de Justicia Administrativa del Estado de Tabasco.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2023)</small>
 
 ### Capítulo III. Extinción de acciones y sanciones
 
@@ -1560,3 +1616,13 @@ DÉCIMO QUINTO. La Secretaría de Finanzas expedirá dentro de los 15 días háb
 DÉCIMO SEXTO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2019, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+P.O. 27 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 240 POR EL QUE “SE ADICIONA AL TÍTULO SEXTO, EL CAPÍTULO I BIS, DENOMINADO “DEL SERVICIO PÚBLICO DE GRÚAS Y REMOLQUES”, INTEGRADO POR LOS ARTÍCULOS 65 BIS, 65 TER, 65 QUÁTER; 65 QUINQUIES; 65 SEXIES, TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- En un plazo no mayor a 180 días hábiles, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán expedir las reformas y adiciones que sean necesarias a los Reglamentos en la materia para armonizarlos a las disposiciones contenidas en el presente decreto.
