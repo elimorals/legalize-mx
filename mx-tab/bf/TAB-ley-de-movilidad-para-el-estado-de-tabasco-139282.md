@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-movilidad-para-el-estado-de-tabasco-139282"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-30"
-last_updated: "2019-11-30"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2024.
 
 Ley publicada al Número 8059 del Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 30 de noviembre de 2019.
 
@@ -53,29 +55,41 @@ LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO
 
 ### CAPÍTULO I. Aspectos preliminares
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, de observancia general para el estado de Tabasco y tiene por objeto establecer las bases y directrices para planear, regular, supervisar, evaluar y gestionar la movilidad de las personas, bienes y mercancías, garantizando las condiciones y los derechos humanos necesarios para un desplazamiento efectivo, seguro, igualitario, eficiente y sostenible.
+La presente Ley es de orden público e interés social, de observancia general para el estado de Tabasco y tiene por objeto establecer las bases y directrices para planear, regular, supervisar, evaluar y gestionar la movilidad de las personas, bienes y mercancías, garantizando el derecho humano a la movilidad, en condiciones de seguridad, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 ###### Artículo 2.
 
 Los fines de la presente Ley son:
 
-I. Establecer las bases para planear, regular, administrar, controlar y supervisar el servicio de transporte público y privado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+I. Establecer las bases para planear, regular, administrar, controlar y supervisar el servicio de transporte público y privado, acorde con los objetivos de la Ley General;
 
 II. Garantizar el derecho humano a la movilidad de personas, bienes y mercancías determinando los lineamientos y mecanismos institucionales que regulen su cumplimiento por parte del Estado y los municipios;
 
 III. Determinar los sujetos activos de la movilidad, los cuales son los peatones, incluidos dentro de estos las personas con discapacidad o movilidad limitada, los ciclistas, los usuarios de la movilidad no motorizada, los motociclistas, los automovilistas, los usuarios, conductores y los prestadores del servicio público y privado de transportes en todas sus modalidades;
 
-IV. Definir la competencia y atribuciones de las autoridades en materia de movilidad y transporte;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+IV. Definir la competencia y atribuciones de las autoridades locales en materia de movilidad y transporte, de conformidad con lo dispuesto por la Ley General de Movilidad y Seguridad Vial;
 
 V. Regular los derechos y obligaciones de los sujetos activos en materia de movilidad de personas, bienes y mercancías;
 
-VI. Garantizar en las zonas urbanas y suburbanas del Estado, la movilidad y libertad de desplazamiento de los peatones en banquetas y avenidas, así como en el transporte público y privado de pasajeros, supervisando que estos servicios se presten bajo los criterios de puntualidad, seguridad, higiene, orden, uniformidad, continuidad, eficacia, eficiencia, sustentabilidad y sostenibilidad;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
 
-VII. Establecer los esquemas de coordinación institucional que deben ejecutar el Estado y los municipios, para integrar y administrar el servicio de transporte y vialidad de personas y de transporte de carga, en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+VI. Garantizar en las zonas urbanas y suburbanas del Estado, la movilidad y libertad de desplazamiento de las personas peatonas en banquetas y avenidas, así como en el transporte público y privado de pasajeros, supervisando que estos servicios se presten bajo los criterios de puntualidad, seguridad, higiene, orden, uniformidad, continuidad, eficacia, eficiencia, sustentabilidad y sostenibilidad;
 
-VIII. Promover en la población la adopción de nuevos hábitos de movilidad urbana sostenible y la prevención de accidentes que coadyuven a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular e impulsar el uso intensivo del transporte público y no motorizado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+VII. Establecer los esquemas de coordinación institucional que deben ejecutar el Estado y los municipios, para integrar y administrar el servicio de transporte y vialidad de personas y de transporte de carga, en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con lo dispuesto por la Ley General;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+VIII. Promover en la población la adopción (sic) hábitos de movilidad sostenible y la prevención de accidentes que coadyuven a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular e impulsar el uso intensivo del transporte público y no motorizado, que permitan el ejercicio pleno del derecho a la movilidad;
 
 IX. Procurar que el transporte garantice la libertad de tránsito, la seguridad, la movilidad, y la accesibilidad, así como las condiciones apropiadas a cada tipo de servicio, de manera que no se afecte el orden de las vías públicas de jurisdicción estatal;
 
@@ -85,15 +99,25 @@ XI. Impulsar el establecimiento de una red de ciclovías y de estacionamiento de
 
 XII. Promover el acceso de mujeres y niñas a espacios públicos y transporte de calidad, seguro y eficiente que permitan disminuir la violencia de género y el acoso sexual;
 
-XIII. Preservar el libre tránsito, el orden y la paz pública, auxiliando a las autoridades correspondientes para la prevención, investigación y persecución de los delitos, así como la aplicación de sanciones por infracciones administrativas, en términos de esta Ley y demás disposiciones normativas aplicables; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
 
-XIV. Cumplir con los tratados internacionales firmados por el Estado mexicano en materia de preservación del medio ambiente en lo relativo al derecho humano a la movilidad.
+XIII. Preservar el libre tránsito, el orden y la paz pública, auxiliando a las autoridades correspondientes para la prevención, investigación y persecución de los delitos, así como la aplicación de sanciones por infracciones administrativas, en términos de esta Ley y demás disposiciones normativas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2024)</small>
+
+XIV. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2024)</small>
+
+XV. Cumplir con los tratados internacionales firmados por el Estado mexicano en materia de preservación del medio ambiente en lo relativo al derecho humano a la movilidad.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2024)</small>
 
 ###### Artículo 3.
 
 Para aplicación, interpretación y efectos de esta Ley se entenderá por:
 
-I. Acera o banqueta: área pavimentada a cada lado de una calle, por lo general más elevada, reservada para el desplazamiento exclusivo de los peatones;
+I. Acera o banqueta: área pavimentada a cada lado de una calle, por lo general más elevada, reservada para el desplazamiento exclusivo de las personas peatonas;
 
 II. Autobús: vehículo automotor de capacidad de al menos 19 personas sentadas o más, que se emplea habitualmente para el transporte público de pasajeros, con trayecto fijo en el servicio urbano, metropolitano, suburbano y foráneo;
 
@@ -127,95 +151,123 @@ XVI. Cultura vial: comportamiento humano que tiene como finalidad la construcci�
 
 XVII. Derecho Humano a la movilidad: derecho de toda persona y de la colectividad a disponer de un sistema integral de movilidad de calidad, aceptable, suficiente y accesible que garantice un efectivo desplazamiento de personas, bienes y mercancías, en condiciones de igualdad y equidad, a partir del cual sea posible satisfacer sus necesidades y contribuir a su pleno desarrollo. En todo caso la movilidad tendrá como eje central a la persona;
 
-XVIII. Desplazamiento: itinerario, con origen y destino definidos, en el que se utilizan uno o varios medios de transporte y que se puede dividir en una o varias etapas;
+XVIII. Desplazamientos: recorrido de una persona asociado a un origen y un destino preestablecidos con un propósito determinado en cualquier modo de movilidad;
 
-XIX. Educación vial: proceso permanente de carácter interdisciplinario, orientado a la formación de la población para que reconozca valores, aclare conceptos y desarrolle las habilidades y actitudes necesarias para una convivencia armónica con la sociedad y su medio circundante;
+XIX. Dispositivo de seguridad o botón de pánico: herramienta de acción inmediata, automatizada con vinculación a las autoridades, que se accione en situaciones de riesgo que ponga en peligro la vida, libertad o integridad del usuario de transporte público o cualquier tipo de emergencia que requiera atención inmediata;
 
-XX. Ejecutivo del Estado: Gobernador del Estado;
+XX. Educación vial: proceso permanente de carácter interdisciplinario, orientado a la formación de la población para que reconozca valores, aclare conceptos y desarrolle las habilidades y actitudes necesaria (sic), para una convivencia armónica con la sociedad y su medio circundante, con el objetivo de generar cambios en los patrones de comportamiento social;
 
-XXI. Espacio público: áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+XXI. Enfoque Sistémico: enfoque que aborda la movilidad en su totalidad e integralidad, en el que interactúan una serie de elementos coordinados e interconectados;
 
-XXII. Gestión de la movilidad: conjunto de acciones encaminadas a instaurar un modelo de movilidad sostenible en un territorio o equipamiento;
+XXII. Ejecutivo del Estado: Gobernador del Estado;
 
-XXIII. Góndola: vehículo automotor con remolque para el servicio de acarreo de materiales para la construcción, con una capacidad máxima de 30 metros cúbicos;
+XXIII. Espacio público: áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
 
-XXIV. Itinerario: relación completa de las calles o lugares por los que transita un vehículo del servicio de transporte público, al realizar el traslado de pasajeros de terminal a terminal y puntos intermedios;
+XXIV. Especificaciones técnicas: parámetros a los que se encuentra sujeto el diseño, funcionalidad y uso tanto de las vías como de los modos de transporte, con el objeto de garantizar la seguridad, salud e integridad de las personas usuarias y la prevención del riesgo, considerando las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
 
-XXV. Ley: Ley de Movilidad para el Estado de Tabasco;
+XXV. Estrategia Nacional de Movilidad y Seguridad Vial: instrumento rector para la conducción de la Política Nacional de Movilidad y Seguridad Vial, que incluye el conjunto de acciones encaminadas a promover la movilidad y la seguridad vial, para implementarlas a través de la coordinación de los tres órdenes de gobierno;
 
-XXVI. Microbús: vehículo automotor de cuatro o más llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad máxima de 23 pasajeros sentados;
+XXVI. Gestión de la movilidad: conjunto de acciones encaminadas a instaurar un modelo de movilidad sostenible en un territorio o equipamiento;
 
-XXVII. Midibús: vehículo automotor de 6 llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad máxima de 30 pasajeros sentados;
+XXVII. Gestión de la demanda de movilidad: conjunto de medidas, programas y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
 
-XXVIII. Modalidad de transporte: especificación de carácter técnico, que describe el modelo, así como las características físicas que deben cumplir los diversos vehículos del servicio de transporte público de pasajeros, carga y mixto, para solventar las necesidades de movilidad, seguridad, comodidad y eficiencia para su prestación a los usuarios, siendo congruentes con el desarrollo social y económico de la entidad;
+XXVIII. Góndola: vehículo automotor con remolque para el servicio de acarreo de materiales para la construcción, con una capacidad máxima de 30 metros cúbicos;
 
-XXIX. Motocarro: unidad integrada para realizar el servicio de transporte público mixto, con capacidad máxima de 3 personas, incluido el chofer u operador;
+XXIX. Grupos en situación de vulnerabilidad: población que enfrenta barreras para ejercer su derecho a la movilidad con seguridad vial como resultado de la desigualdad;
 
-XXX. Motocicleta: vehículo motorizado de dos o más ruedas, que utiliza un manubrio para su conducción y equipado con motor eléctrico o de combustión, usado como medio de transporte;
+XXX. Impacto de movilidad: resultado de la evaluación de las posibles influencias o alteraciones sobre los desplazamientos de personas, bienes y mercancías que pudieran afectarse por la realización de obras y actividades privadas y públicas;
 
-XXXI. Motociclista: toda persona que conduce una motocicleta en cualquiera de sus modalidades, ya sea motoneta, bicimoto, minimotos, motociclos, mototriciclo o cuatrimoto y que se traslada de un lugar a otro a bordo de cualquiera de ellos;
+XXXI. Itinerario: relación completa de las calles o lugares por los que transita un vehículo del servicio de transporte público, al realizar el traslado de pasajeros de terminal a terminal y puntos intermedios;
 
-XXXII. Movilidad: conjunto de desplazamientos de personas, bienes y mercancías a través de diversas formas y medios de transporte, que deben hacerse por motivo laboral, formativo, sanitario, social, cultural, de ocio, o de cualquier otro tipo;
+XXXII. Ley General: Ley General de Movilidad y Seguridad Vial;
 
-XXXIII. Movilidad limitada: condición temporal o permanente que presenta una persona derivada de su edad, desarrollo intelectual, discapacidad, impedimento físico o sus especiales circunstancias físicas, de marginación o que lo colocan en una situación vulnerable para ejercer el derecho a la movilidad;
+XXXIII. Ley: Ley de Movilidad para el Estado de Tabasco;
 
-XXXIV. Movilidad sostenible: desplazamiento que consiste en el traslado de personas, bienes y mercancías de manera eficiente y saludable de baja emisión de carbono, que prioriza el elevar la calidad de la vida urbana y el bienestar colectivo. En la actualidad tiene gran importancia, ya que garantiza a todo ser humano el derecho a tener un transporte accesible, seguro, rápido y amigable con el ambiente;
+XXXIV. Microbús: vehículo automotor de cuatro o más llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad máxima de 23 pasajeros sentados;
 
-XXXV. Movilidad sustentable: desplazamiento eficiente, seguro, equitativo, saludable, participativo, competitivo y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales;
+XXXV. Midibús: vehículo automotor de 6 llantas, diseñado y equipado para el transporte público o privado de personas, con una capacidad máxima de 30 pasajeros sentados;
 
-XXXVI. Movilidad urbana: desplazamiento de personas, bienes y mercancías que se realiza para acceder a las oportunidades que ofrece la ciudad. Estos desplazamientos se efectúan mediante redes de comunicación y vehículos dentro de una urbe;
+XXXVI. Modalidad de transporte: especificación de carácter técnico, que describe el modelo, así como las características físicas que deben cumplir los diversos vehículos del servicio de transporte público de pasajeros, carga y mixto, para solventar las necesidades de movilidad, seguridad, comodidad y eficiencia para su prestación a los usuarios, siendo congruentes con el desarrollo social y económico de la entidad;
 
-XXXVII. Parada: lugar en que se detienen los vehículos de transporte público colectivo, donde se permiten las maniobras de ascenso y/o descenso de usuarios;
+XXXVII. Motocarro: unidad integrada para realizar el servicio de transporte público mixto, con capacidad máxima de 3 personas, incluido el chofer u operador;
 
-XXXVIII. Peatón o micromovilidad: persona que se desplaza a pie por la vía pública, o que utiliza ayuda técnica por su condición de discapacidad o movilidad limitada. Asimismo, los niños de hasta doce años de edad a bordo de un vehículo no motorizado serán considerados peatones;
+XXXVIII. Motocicleta: vehículo motorizado de dos o más ruedas, que utiliza un manubrio para su conducción y equipado con motor eléctrico o de combustión, usado como medio de transporte;
 
-XXXIX. Permisionario: persona física o jurídica colectiva titular de un permiso de transporte público;
+XXXIX. Motociclista: toda persona que conduce una motocicleta en cualquiera de sus modalidades, ya sea motoneta, bicimoto, minimotos, motociclos, mototriciclo o cuatrimoto y que se traslada de un lugar a otro a bordo de cualquiera de ellos;
 
-XL. Permiso emergente: autorización que emite la Secretaría, para prestar el servicio de transporte público, por un periodo no mayor a seis meses, a fin de atender situaciones de emergencia o extraordinarias, en los términos de esta Ley y su Reglamento;
+XL. Movilidad: conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas;
 
-XLI. Permiso provisional: autorización temporal que la Secretaría otorga a un concesionario o permisionario para sustituir los vehículos que tenga autorizados en su concesión o permiso de transporte público, a fin de evitar que se deje de prestar el servicio, conforme se determine en esta Ley y el Reglamento;
+XLI. Movilidad limitada: condición temporal o permanente que presenta una persona derivada de su edad, desarrollo intelectual, discapacidad, impedimento físico o sus especiales circunstancias físicas, de marginación o que lo colocan en una situación vulnerable para ejercer el derecho a la movilidad;
 
-XLII. Permiso de transporte público: autorización que el Ejecutivo del Estado, por conducto de la Secretaría, otorga a una persona física y/o jurídica colectiva para prestar el servicio de transporte público, por un plazo determinado, en los términos que establezcan esta Ley y su Reglamento;
+XLII. Movilidad sostenible: desplazamiento que consiste en el traslado de personas, bienes y mercancías de manera eficiente y saludable de baja emisión de carbono, que prioriza el elevar la calidad de la vida urbana y el bienestar colectivo. En la actualidad tiene gran importancia, ya que garantiza a todo ser humano el derecho a tener un transporte accesible, seguro, rápido y amigable con el ambiente;
 
-XLIII. Registro: Registro Público Estatal de Movilidad;
+XLIII. Movilidad sustentable: desplazamiento eficiente, seguro, equitativo, saludable, participativo, competitivo y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales;
 
-XLIV. Reglamento: Reglamento de la Ley de Movilidad para el Estado de Tabasco;
+XLIV. Movilidad urbana: desplazamiento de personas, bienes y mercancías que se realiza para acceder a las oportunidades que ofrece la ciudad. Estos desplazamientos se efectúan mediante redes de comunicación y vehículos dentro de una urbe;
 
-XLV. Revista vehicular: revisión documental e inspección física y mecánica de los vehículos, equipamiento auxiliar o infraestructura de los servicios de transporte público y privado de pasajeros o de carga con la finalidad de comprobar el cumplimiento de las disposiciones en materia de seguridad, instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para una prestación óptima del servicio;
+XLV. Parada: lugar en que se detienen los vehículos de transporte público colectivo, donde se permiten las maniobras de ascenso y/o descenso de usuarios;
 
-XLVI. Secretaría: Secretaría de Movilidad;
+XLVI. Peatón o micromovilidad: persona que se desplaza a pie por la vía pública, o que utiliza ayuda técnica por su condición de discapacidad o movilidad limitada. Asimismo, los niños de hasta doce años de edad a bordo de un vehículo no motorizado serán considerados peatones;
 
-XLVII. Seguridad vial: conjunto de políticas y sistemas diseñados para la prevención de riesgos de tránsito terrestre;
+XLVII. Permisionario: persona física o jurídica colectiva titular de un permiso de transporte público;
 
-XLVIII. Señalética: comunicación visual mediante signos predeterminados, que permiten identificar obligaciones o permisos en la movilidad, así como de orientación en el espacio;
+XLVIII. Permiso emergente: autorización que emite la Secretaría, para prestar el servicio de transporte público, por un periodo no mayor a seis meses, a fin de atender situaciones de emergencia o extraordinarias, en los términos de esta Ley y su Reglamento;
 
-XLIX. Señalización vial: conjunto de elementos y objetos visuales o medios acústicos de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan por parte de las autoridades en la vialidad para regular el tránsito;
+XLIX. Permiso provisional: autorización temporal que la Secretaría otorga a un concesionario o permisionario para sustituir los vehículos que tenga autorizados en su concesión o permiso de transporte público, a fin de evitar que se deje de prestar el servicio, conforme se determine en esta Ley y el Reglamento;
 
-L. Servicios auxiliares: accesorios materiales y de infraestructura complementarios a la prestación del servicio de transporte público;
+L. Permiso de transporte público: autorización que el Ejecutivo del Estado, por conducto de la Secretaría, otorga a una persona física y/o jurídica colectiva para prestar el servicio de transporte público, por un plazo determinado, en los términos que establezcan esta Ley y su Reglamento;
 
-LI. Sitio: espacio físico ubicado en propiedad privada o en la vía pública, autorizado por la Secretaría y destinado al estacionamiento temporal de vehículos del servicio público de taxi y de carga para el ofrecimiento de sus servicios;
+LI. Perro de asistencia: aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
-LII. Taxímetro: dispositivo mecánico o electrónico instalado en los taxis, que mide el importe a cobrar con relación a la distancia recorrida y al tiempo transcurrido;
+LII. Registro: Registro Público Estatal de Movilidad;
 
-LIII. Terminal: espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y de logística para la operación integral de todas las actividades asociadas a la prestación de los servicios de transporte;
+LIII. Reglamento: Reglamento de la Ley de Movilidad para el Estado de Tabasco;
 
-LIV. Transporte: medio de traslado, público o privado, de personas, bienes y mercancías de un lugar a otro, con vehículos autorizados;
+LIV. Revista vehicular: revisión documental e inspección física y mecánica de los vehículos, equipamiento auxiliar o infraestructura de los servicios de transporte público y privado de pasajeros o de carga con la finalidad de comprobar el cumplimiento de las disposiciones en materia de seguridad, instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para una prestación óptima del servicio;
 
-LV. Van: vehículo automotor con capacidad de hasta 18 personas sentadas incluido el chofer u operador, que se emplea para el transporte público colectivo de pasajeros, con trayecto fijo en el servicio urbano, suburbano, metropolitano y foráneo;
+LV. Secretaría: Secretaría de Movilidad;
 
-LVI. Vehículo: unidad impulsada por un motor o cualquiera otra forma de propulsión, en la cual se lleva a cabo la transportación de personas, bienes o mercancías, utilizando las vías públicas dentro del Estado;
+LVI. Seguridad vial: conjunto de políticas y sistemas orientados a controlar los factores de riesgo, con el fin de prevenir y reducir las muertes y lesiones graves ocasionadas por siniestros de tránsito;
 
-LVII. Vehículo motorizado: vehículo de transporte terrestre de pasajeros o de carga que depende de· una máquina de combustión interna o eléctrica para su tracción. Se considerarán para efectos de esta Ley como vehículos motorizados los remolques, casas rodantes u otros similares, que carezcan de propulsión propia pero que circulen por vías públicas;
+LVII. Señalética: comunicación visual mediante signos predeterminados, que permiten identificar obligaciones o permisos en la movilidad, así como de orientación en el espacio;
 
-LVII. Vías de comunicación terrestre: todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones del servicio esté destinado al tránsito y transporte público en jurisdicción estatal;
+LVIII. Señalización vial: conjunto integrado de dispositivos, marcas y señales que indican la geometría de las vías, sus acotamientos, las velocidades máximas, la dirección de tránsito, así como sus bifurcaciones, cruces y pasos a nivel, garantizando su adecuada visibilidad de manera permanente;
 
-LIX. Vía pública: espacio de dominio público y uso común que por disposición de la normatividad jurídica está destinado a la movilidad de personas, bienes, mercancías y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+LIX. Servicios auxiliares: accesorios materiales y de infraestructura complementarios a la prestación del servicio de transporte público;
 
-LX. Volteo: vehículo automotor para el servicio de acarreo de materiales para construcción, con capacidad máxima de 14 metros cúbicos;
+LX. Sistema Nacional: Sistema Nacional de Movilidad y Seguridad Vial;
 
-LXI. Zona de paso o cruce de peatones: área de la superficie de rodamiento, marcada o no marcada, destinada al paso de peatones. Cuando no esté marcada, se considerará como tal, la prolongación de la acera o del acotamiento; y
+LXI. Sitio: espacio físico ubicado en propiedad privada o en la vía pública, autorizado por la Secretaría y destinado al estacionamiento temporal de vehículos del servicio público de taxi y de carga para el ofrecimiento de sus servicios;
 
-LXII. Zona Metropolitana: conjunto de dos o más municipios donde se localiza una ciudad de 50 mil habitantes o más, cuya área urbana, funciones y actividades rebasan el límite del Municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; en esta definición se incluye además a aquellos poblados o municipios, demarcaciones territoriales o asentamientos humanos con una ciudad que por sus características particulares sea relevante para la planeación y políticas urbanas.
+LXII. Taxímetro: dispositivo mecánico o electrónico instalado en los taxis, que mide el importe a cobrar con relación a la distancia recorrida y al tiempo transcurrido;
+
+LXIII. Terminal: espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y de logística para la operación integral de todas las actividades asociadas a la prestación de los servicios de transporte;
+
+LXIV. Transporte: medio de traslado, público o privado, de personas, bienes y mercancías de un lugar a otro, con vehículos autorizados;
+
+LXV. Transporte público de pasajeros: es el medio de traslado que se ofrece a una persona o para el público en general de forma continua, uniforme, regular, permanente e ininterrumpida y sujeta a horarios establecidos o criterios de optimización mediante algoritmos tecnológicos que otorga la autoridad competente a través de entidades, concesionarios o mediante permisos;
+
+LXVI. Van: vehículo automotor con capacidad de hasta 18 personas sentadas incluido el chofer u operador, que se emplea para el transporte público colectivo de pasajeros, con trayecto fijo en el servicio urbano, suburbano, metropolitano y foráneo;
+
+LXVII. Vehículo: modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
+
+LXVIII. Vehículo eficiente: vehículo que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación;
+
+LXIX. Vehículo motorizado: vehículo de transporte terrestre de pasajeros o de carga que depende de una máquina de combustión interna o eléctrica para su tracción. Se considerarán para efectos de esta Ley como vehículos motorizados los remolques, casas rodantes u otros similares, que carezcan de propulsión propia pero que circulen por vías públicas;
+
+LXX. Vehículo no motorizado: vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+
+LXXI. Vías de comunicación terrestre: todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones del servicio esté destinado al tránsito y transporte público en jurisdicción estatal;
+
+LXXII. Vía pública: espacio de dominio público y uso común que por disposición de la normatividad jurídica está destinado a la movilidad de personas, bienes, mercancías y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+
+LXXIII. Vialidad: conjunto integrado de vías de uso común que conforman la traza urbana;
+
+LXXIV. Volteo: vehículo automotor para el servicio de acarreo de materiales para construcción, con capacidad máxima de 14 metros cúbicos;
+
+LXXV. Zona de paso o cruce de peatones: área de la superficie de rodamiento, marcada o no marcada, destinada al paso de peatones. Cuando no esté marcada, se considerará como tal, la prolongación de la acera o del acotamiento; y
+
+LXXVI. Zona Metropolitana: conjunto de dos o más municipios donde se localiza una ciudad de 50 mil habitantes o más, cuya área urbana, funciones y actividades rebasan el límite del Municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; en esta definición se incluye además a aquellos poblados o municipios, demarcaciones territoriales o asentamientos humanos con una ciudad que por sus características particulares sea relevante para la planeación y políticas urbanas.
 
 ###### Artículo 4.
 
@@ -229,6 +281,8 @@ La Secretaría de Movilidad definirá las políticas públicas y lineamientos pa
 
 El Poder Ejecutivo del Estado podrá convenir con las autoridades municipales competentes para que, dentro de su jurisdicción y mediante las instancias correspondientes, ejerzan las atribuciones previstas en esta Ley en materia de inspección, verificación e imposición de sanciones respecto del servicio de transporte público en todas sus modalidades, cuando ello resulte conveniente para el desarrollo económico y social del Municipio, así como para la mejor protección de los derechos de los usuarios.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2024)</small>
+
 ###### Artículo 7.
 
 La administración pública estatal y las municipales al planear, diseñar, implementar y ejecutar las políticas públicas, programas y acciones que involucren la materia de movilidad de personas, bienes y mercancías, observarán los principios rectores siguientes:
@@ -239,27 +293,35 @@ Esta garantía privilegia las calles libres, el transporte público, peatonal y 
 
 II. Calidad: procuración de los niveles cualitativos y cuantitativos de la eficiencia de la ruta y del servicio ofrecido al usuario, en términos de accesibilidad, higiene, comodidad, seguridad, frecuencia de paso, tiempo de recorrido, infraestructura, sostenibilidad y sustentabilidad ambiental;
 
-III. Derechos humanos: considerando el respeto irrestricto de los derechos humanos en toda acción ejecutada y en el diseño e implementación de las políticas públicas;
+III. Confiabilidad: certeza de que los tiempos de recorrido, los horarios de operación y los puntos de abordaje y descenso son predefinidos y seguros, de manera que se puedan planear los recorridos de mejor forma;
 
-IV. Desarrollo económico: por medio del ordenamiento de las vías públicas de comunicación con el objetivo de minimizar los costos y tiempos de traslados de las personas, bienes y mercancías y con ello contribuir al bienestar social;
+IV. Derechos humanos: considerando el respeto irrestricto de los derechos humanos en toda acción ejecutada y en el diseño e implementación de las políticas públicas;
 
-V. Equidad e inclusión: ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos;
+V. Desarrollo económico: por medio del ordenamiento de las vías públicas de comunicación con el objetivo de minimizar los costos y tiempos de traslados de las personas, bienes y mercancías y con ello contribuir al bienestar social;
 
-VI. Igualdad: oportunidad de la población para acceder en condiciones igualitarias y equitativas al sistema de movilidad sin discriminación alguna que atente contra la dignidad o restrinja o menoscabe el efectivo ejercicio del derecho humano a la movilidad, atendiendo de manera especial a los grupos vulnerables;
+VI. Eficiencia: maximizar los desplazamientos ágiles y asequibles, tanto de personas usuarias como de bienes y mercancías, optimizando los recursos ambientales y económicos disponibles;
 
-VII. Innovación tecnológica: aplicación de tecnología de punta que coadyuve al desarrollo eficiente de los sistemas de transporte y de la movilidad de personas, bienes y mercancías;
+VII. Equidad: reconocer condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades, tanto para mujeres y hombres, así como otros grupos en situación de vulnerabilidad;
 
-VIII. Multimodalidad: ofrecimiento a los usuarios de diversas opciones de servicios y modos de transporte integrados, que proporcionen disponibilidad, velocidad, densidad y accesibilidad que permitan reducir la dependencia del uso del automóvil particular;
+VIII. Innovación tecnológica: aplicación de tecnología de punta que coadyuve al desarrollo eficiente de los sistemas de transporte y de la movilidad de personas, bienes y mercancías;
 
-IX. Perspectiva de género: a través de políticas públicas estatales y municipales, que garanticen la igualdad, la no discriminación, la seguridad, la integridad física y sexual, la no violencia y la vida de quienes utilicen el servicio del transporte público;
+IX. Movilidad activa: promover ciudades caminables, así como el uso de la bicicleta y otros modos de transporte no motorizados, como alternativas que fomenten la salud pública, la proximidad y la disminución de emisiones contaminantes;
 
-X. Resiliencia: capacidad del sistema de movilidad para soportar, resistir, asimilar, adaptarse y recuperarse de situaciones fortuitas o de fuerza mayor a un bajo costo para la sociedad y el medio ambiente;
+X. Multimodalidad: ofrecer múltiples modos y servicios de transporte para todas las personas usuarias, los cuales deben articularse e integrarse entre sí y con la estructura urbana, para reducir la dependencia del vehículo particular motorizado;
 
-XI. Sostenibilidad: cumplimiento de acciones en materia de movilidad y transporte los cuales deben de sustentarse en un manejo adecuado del medio ambiente, explotando los recursos relativos a este de manera racional para la consecución de objetivos de desarrollo válidos a largo plazo;
+XI. Participación: establecer mecanismos para que la sociedad se involucre activamente en cada etapa del ciclo de la política pública, en un esquema basado en la implementación de metodologías de co-creación enfocadas en resolver las necesidades de las personas;
 
-XII. Sustentabilidad: ejecución de acciones que conlleven al respeto del derecho humano a la movilidad teniendo en cuenta, en todo momento, el impacto que las mismas tendrán en el desarrollo social, económico y ambiental, a fin de no comprometer su disfrute por las generaciones futuras; y
+XII. Resiliencia: lograr que el sistema de movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación breve y de bajo costo, tanto para la sociedad como para el medio ambiente;
 
-XIII. Seguridad: a partir del impulso de acciones de prevención del delito e incidentes de tránsito durante los desplazamientos de la población, con la finalidad de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados.
+XIII. Seguridad vehicular: aspecto de la seguridad vial enfocado en el desempeño de protección que brinda un vehículo de motor a las personas pasajeras y usuarias vulnerables, y demás usuarias de la vía, contra el riesgo de muerte o lesiones graves en caso de siniestro;
+
+XIV. Sostenibilidad: satisfacer las necesidades de movilidad procurando los menores impactos negativos en el medio ambiente y la calidad de vida de las personas, garantizando un beneficio continuo para las generaciones actuales y futuras;
+
+XV. Sustentabilidad: ejecución de acciones que conlleven al respeto del derecho humano a la movilidad teniendo en cuenta, en todo momento, el impacto que las mismas tendrán en el desarrollo social, económico y ambiental, a fin de no comprometer su disfrute por las generaciones futuras;
+
+XVI. Transparencia y rendición de cuentas: garantizar la máxima publicidad y acceso a la información relacionada con la movilidad, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la Ley General de Transparencia y Acceso a la Información Pública y en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y
+
+XVII. Transversalidad: instrumentar e integrar las políticas, programas y acciones en materia de movilidad y seguridad vial, desarrollados por las distintas dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, poniendo especial atención a los grupos en situación de vulnerabilidad.
 
 ###### Artículo 8.
 
@@ -267,15 +329,25 @@ Los municipios en colaboración con la Secretaría de Movilidad proporcionarán 
 
 Para la implementación de la política pública en materia de movilidad, se dará prioridad en la utilización del espacio vial y se valorará la distribución de recursos presupuestales de acuerdo a la siguiente jerarquía de movilidad:
 
-I. Peatones, en especial personas con discapacidad o con movilidad limitada, la cual se refiere a los sectores de la población con necesidades especiales, tales como la población infantil, adultos mayores, mujeres en período de gestación o personas acompañadas de niños pequeños;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
 
-II. Ciclistas;
+I. Personas peatonas, en especial personas con discapacidad o con movilidad limitada, la cual se refiere a los sectores de la población con necesidades especiales, tales como la población infantil, adultos mayores, mujeres en período de gestación o personas acompañadas de niños pequeños;
 
-III. Usuarios de transporte no motorizado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
 
-IV. Usuarios de transporte público de pasajeros;
+II. Personas ciclistas;
 
-V. Usuarios de medios de transporte ecológicamente sustentables y sostenibles;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+III. Personas usuarias de transporte no motorizado;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+IV. Personas usuarias de transporte público de pasajeros;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+V. Personas usuarias de medios de transporte ecológicamente sustentables y sostenibles;
 
 VI. Transporte de carga y distribución de bienes;
 
@@ -313,7 +385,9 @@ II. El establecimiento de infraestructura de movilidad y equipamiento auxiliar n
 
 III. Los derechos de los usuarios;
 
-IV. La señalización vial y nomenclatura;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+IV. La señalización vial y nomenclatura, de conformidad con la norma oficial mexicana respectiva;
 
 V. La prestación temporal por parte del Poder Ejecutivo del Estado, directamente o a través de particulares, del servicio de transporte público por faltar el concesionario o permisionario a los principios, condiciones y requisitos a que deben sujetarse;
 
@@ -387,9 +461,17 @@ XIV. Otorgar, suspender, revocar, extinguir o rescatar las concesiones o permiso
 
 XV. Regular la operación de los servicios de transporte contratados por medio de plataformas tecnológicas, de manera que se garantice el adecuado control, la seguridad y calidad en el servicio prestado a través de estos mecanismos;
 
-XVI. Expedir la reglamentación estatal para el cumplimiento de la presente Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2024)</small>
 
-XVII. Las demás que le confieren la Constitución Política del Estado Libre y Soberano de Tabasco, esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+XVI. Integrar el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en la Ley General;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+XVII. Expedir la reglamentación estatal para el cumplimiento de la Ley General, la presente Ley y las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE ABRIL DE 2024)</small>
+
+XVIII. Las demás que le confieren la Ley General, la Constitución Política del Estado Libre y Soberano de Tabasco, esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 13.
 
@@ -397,7 +479,9 @@ Además de las establecidas en la Ley Orgánica del Poder Ejecutivo del Estado d
 
 I. Regular la autorización, organización y administración del servicio de transporte público y privado en sus diversas modalidades;
 
-II. Establecer lineamientos, instrumentos, objetivos, indicadores, metas, estrategias, estudios y políticas públicas sistemáticas, continuas y evaluables para cumplir con los fines de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
+
+II. Establecer lineamientos, instrumentos, objetivos, indicadores, metas, estrategias, estudios y políticas públicas sistemáticas, continuas y evaluables para cumplir con los fines de la Ley General y esta Ley;
 
 III. Favorecer las acciones en los niveles de gobierno y sector privado para priorizar la movilidad de peatones, incentivar el uso de medios de transporte sustentables y garantizar a las personas con discapacidad o movilidad limitada el acceso a los medios de desplazamiento en condiciones de igualdad y equidad;
 
@@ -501,9 +585,17 @@ L. Realizar los estudios técnicos necesarios para determinar el número de veh�
 
 LI. Aplicar periódicamente, en coordinación con la Secretaría de Salud y de acuerdo con su competencia, exámenes psicofísicos y médicos a los operadores de los vehículos de los servicios de transporte público de personas, bienes y mercancías;
 
-LII. Otorgar permisos temporales a personas físicas y jurídicas colectivas, aún y cuando no sean concesionarias, para la prestación del servicio de transporte público, en casos de suspensión total o parcial del servicio por causas de caso fortuito, fuerza mayor o por necesidades de interés público; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2024)</small>
 
-LIII. Las demás facultades y obligaciones que le concedan esta Ley, el Reglamento y demás normatividad jurídica aplicable.
+LII. Otorgar permisos temporales a personas físicas y jurídicas colectivas, aún y cuando no sean concesionarias, para la prestación del servicio de transporte público, en casos de suspensión total o parcial del servicio por causas de caso fortuito, fuerza mayor o por necesidades de interés público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2024)</small>
+
+LIII. Integrar el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en la Ley General; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE ABRIL DE 2024)</small>
+
+LIV. Las demás facultades y obligaciones que le concedan la Ley General, esta Ley, el Reglamento y demás normatividad jurídica aplicable.
 
 ## TÍTULO SEGUNDO. SUJETOS ACTIVOS DE LA MOVILIDAD
 
@@ -1513,9 +1605,23 @@ IV. El estado físico de los vehículos de cada uno de los prestadores de servic
 
 Los servicios que presten los concesionarios de esta modalidad, solo podrán cobrar las tarifas que para tal efecto autorice previamente la Secretaría en colaboración con el Consejo Estatal de Movilidad, misma que no podrá ser modificada a voluntad, ni por el usuario ni por el prestador de servicios, en caso de no observar la presente disposición, el concesionario será acreedor a las sanciones determinadas en la Ley, el Reglamento y demás normatividad jurídica aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2024)</small>
+
 ###### Artículo 105.
 
-Los concesionarios o permisionarios de este servicio deberán tener un depósito de vehículos autorizado por la Secretaría, que cuente con las características establecidas en el Reglamento y los lineamientos que al respecto se determinen.
+Los concesionarios o permisionarios de este servicio deberán tener un depósito de vehículos autorizado por la Secretaría, que cuente con las características establecidas en el Reglamento y los lineamientos que al respecto se determinen y quienes solo podrán cobrar las tarifas autorizadas en los términos del artículo anterior.
+
+Dichos establecimientos deberán contar con las medidas de seguridad necesarias para el resguardo de los vehículos.
+
+Los concesionarios o permisionarios de este servicio serán responsables de los daños que se causen al vehículo, sustracción de piezas, negligencia, impericia, falta de cuidado o de equipo adecuado y de cualquier otro que se ocasione durante su estancia en los depósitos. Asimismo, deberán contar con un seguro de cobertura amplia que cubra los daños, robos o pérdidas correspondientes.
+
+Para el traslado de los vehículos a los depósitos, se estará a lo señalado en la Ley General de Tránsito y Vialidad del Estado de Tabasco y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+
+###### Artículo 105 Bis.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos que conforme a su ámbito de competencia y disposiciones legales, presenten el servicio público de Tránsito y Vialidad, si las condiciones presupuestales lo permiten, podrán prestar el servicio de grúas, remolque y depósito a que se refiere esta sección, en cuyo caso, se estará a las tarifas que al efecto se establezcan en las disposiciones legales en los reglamentos respectivos, que en ningún caso, serán superiores a las establecidas por la Secretaría de Movilidad. En este caso, no se estará al rol a que se refiere el artículo 103.
 
 #### Sección Quinta. Servicio de transporte público mixto
 
@@ -2850,3 +2956,23 @@ SECRETARIO DE GOBIERNO
 GUILLERMO ARTURO DEL RIVERO LEÓN
 
 CORRDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 238 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1; 2, FRACCIONES 1, IV, VI, VII, VIII, XIII Y XIV; 3; 7; 8, PÁRRAFO SEGUNDO, FRACCIONES I, II, III, IV Y V; 10, FRACCIÓN IV; 12, FRACCIONES XVI Y XVII; Y 13 FRACCIONES II, LII Y LIII; Y SE ADICIONA UNA FRACCIÓN XV, AL ARTÍCULO 2; LA FRACCIÓN XVIII AL ARTÍCULO 12; Y LA FRACCIÓN LIV AL ARTÍCULO 13; TODOS DE LA LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 240 POR EL QUE “SE REFORMA EL ARTÍCULO 105; Y SE ADICIONA EL ARTÍCULO 105 BIS A LA LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- En un plazo no mayor a 180 días hábiles, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán expedir las reformas o adiciones que sean necesarias a los Reglamentos en la materia para armonizarlos a las disposiciones contenidas en el presente decreto.
