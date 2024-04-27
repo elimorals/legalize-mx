@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-04-20"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA EL 27 DE ABRIL DE 2024.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4485,9 +4485,9 @@ En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hom
 
 De la Sustracción de Menores o Incapaces.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020) (F. DE E., P.O. 24 DE ABRIL DE 2024)
 
-407.- Aquí sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
+407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
 
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
