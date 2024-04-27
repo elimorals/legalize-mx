@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-pecuario-del-estado-de-tabasco-81777"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2019-06-01"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2011.
 
@@ -603,41 +603,37 @@ Todo avicultor debe tramitar su registro ante la Secretaría y observar las disp
 
 Es facultad de la Secretaría, autoridades de salud y ambientales, señalar y autorizar el radio distante de los centros de población, para la instalación de las unidades de producción avícola.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2024)</small>
+
 ### CAPÍTULO IV. DE LA APICULTURA
 
 ###### ARTÍCULO 57.
 
-Las personas físicas o jurídico colectivas que se dediquen directa o indirectamente a la cría, movilización, producción, mejoramiento y explotación de las abejas, así como aquellas que efectúen funciones de empaque, industrialización, almacenamiento y transporte de productos y subproductos apícolas; deberán observar las disposiciones contenidas en esta Ley y su Reglamento.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 58.
 
-Todo apicultor deberá estar registrado en la Secretaría proporcionando la información que se le solicite para integrarse al Padrón de Apicultores del Estado.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 59.
 
-Para ser considerado productor apícola deberá contar con una unidad mínima de producción, siendo ésta en la cantidad de colmenas establecidas en el Reglamento.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 60.
 
-La compra-venta de colmenas y material apícola marcado deberá efectuarse acompañada de la factura correspondiente. El comprador colocará su marca a un lado de la del vendedor sin borrarla.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 61.
 
-La propiedad de los apiarios se acreditará con:
-
-I. La factura o documento legal que acredite la transferencia de dominio;
-
-II. La guía de tránsito que ampare el traslado del lugar de origen al de ubicación del apiario; y
-
-III. Con el registro del fierro quemador expedido por la autoridad municipal del lugar.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 62.
 
-La persona física o jurídica colectiva que se dedique a las actividades a las que se refiere este título, le está prohibido instalarse a menos de 200 metros de centros de población y escuelas, exceptuando aquellos apiarios que se instalen con fines educativos.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ###### ARTÍCULO 63.
 
-La introducción de colmenas o material biológico al territorio estatal, deberá estar acompañado del certificado zoosanitario respectivo y la autorización de la Secretaría, solicitada previamente en los términos y condiciones referidas en el Reglamento de esta Ley.
+(DEROGADO, P.O. 27 DE ABRIL DE 2024)
 
 ## TITULO V. DE LA SANIDAD ANIMAL
 
@@ -1328,3 +1324,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El titular del Poder Ejecutivo del Estado en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, deberá hacer las adecuaciones que correspondan al Reglamento de la Ley.
+
+P.O. 27 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 237 POR EL QUE “SE DEROGA EL CAPÍTULO IV DEL TÍTULO IV, CONFORMADO POR LOS ARTÍCULOS 57, 58, 59, 60, 61, 62, Y 63, DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado deberá expedir el reglamento de la Ley de Fomento Apícola y Protección de Agentes Polinizadores para el Estado de Tabasco, en un término que no exceda de noventa días hábiles a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- El Consejo Apícola del Estado deberá quedar instalado en un término que no exceda de noventa días a partir de la entrada en vigor del reglamento de la Ley de Fomento Apícola y Protección de Agentes Polinizadores para el Estado de Tabasco.
+
+CUARTO.- Los apicultores que ya cuenten con apiarios instalados en el Estado, en un plazo no mayor de un año contado a partir de la fecha en que entre en vigor el presente Decreto, deberán registrarse en el Padrón a que se refiere esta Ley.
+
+QUINTO.- El Programa Apícola Estatal deberá expedirse dentro de los noventa días hábiles a partir de la entrada en vigor del reglamento de la Ley de Fomento Apícola y Protección de Agentes Polinizadores para el Estado de Tabasco y deberá ser publicado en el Periódico Oficial del Estado.
+
+SEXTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
