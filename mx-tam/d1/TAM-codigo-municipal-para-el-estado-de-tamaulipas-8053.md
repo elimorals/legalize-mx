@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2024-04-11"
+last_updated: "2024-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -814,6 +814,14 @@ LXVII.- Brindar y garantizar a las y los periodistas un trato digno, en condicio
 LXVIII.- Coordinar acciones con las autoridades competentes para la atención de animales abandonados en la vía pública, a efecto de canalizarlos a los centros de control animal, refugios o criaderos legalmente establecidos o a las instalaciones para el resguardo de animales de las asociaciones protectoras de animales legalmente constituidas y registradas. De igual forma, establecer en coordinación con la Secretaría de Salud del Estado, campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización; y
 
 LXIX.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2024)</small>
+
+ARTICULO 49 BIS.- El Ayuntamiento podrá desarrollar anualmente jornadas de Cabildo infantil y juvenil, como espacios de participación ciudadana, deliberación y debate, que permita a niñas, niños y adolescentes de sus municipios, desarrollar el análisis, la exposición, discusión social y política de asuntos de interés en cada región, así como fomentar la integración y gestión de proyectos y propuestas en beneficio de la niñez y la juventud.
+
+Para la realización de estas jornadas, el Ayuntamiento de conformidad con el reglamento municipal respectivo, emitirá una convocatoria pública en la que se establecerán los requisitos, procedimientos e integración del Cabildo infantil y juvenil, mismo que estará integrado por la persona titular de la Presidencia Municipal Juvenil, y por las personas titulares de las sindicaturas y regidurías Juveniles según el número de integrantes del Ayuntamiento correspondiente.
+
+El Ayuntamiento podrá solicitar la colaboración del Instituto Electoral de Tamaulipas y la Secretaría de Educación de Tamaulipas, para la implementación y desarrollo de este ejercicio.
 
 ###### ARTICULO 50.
 
@@ -7148,6 +7156,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-837 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XX, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-838 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 49 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
