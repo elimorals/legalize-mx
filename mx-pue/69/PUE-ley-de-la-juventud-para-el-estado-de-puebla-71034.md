@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2024-03-13"
+last_updated: "2024-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -397,21 +397,25 @@ Toda persona joven tiene derecho para acceder a los servicios de salud que propo
 
 #### SECCIÓN CUARTA. DERECHO AL TRABAJO DIGNO Y LA FORMACIÓN PROFESIONAL
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
 
 ###### Artículo 34.
 
-Toda persona joven tiene derecho a un trabajo digno y bien remunerado y a una especial protección del mismo, de conformidad con lo establecido en la legislación laboral.
+Toda persona joven tiene derecho a un trabajo digno y bien remunerado y a una especial protección del mismo, que tome en cuenta sus aptitudes y vocación y coadyuve a su desarrollo personal y profesional, de conformidad con lo establecido en la legislación laboral.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
 
 ###### Artículo 35.
 
-Los Gobiernos Estatal y Municipales deben contemplar un sistema de empleo juvenil, bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos conforme a su suficiencia presupuestal, convenios y estímulos fiscales con las empresas de los sectores público y privado que promuevan la inserción juvenil al mercado laboral, programa de emprendedores y microemprendedores; estableciendo así políticas públicas que promuevan la creación de empleos, capacitación laboral, el autoempleo y organización social.
+Los Gobiernos Estatal y Municipales deben contemplar un sistema de empleo juvenil, bolsa de trabajo en la que se les incluya sin importar su escolaridad, capacitación laboral, recursos económicos para proyectos productivos conforme a su suficiencia presupuestal, convenios y estímulos fiscales con las empresas de los sectores público y privado que promuevan la inserción juvenil al mercado laboral, programa de emprendedores y microemprendedores; estableciendo así políticas públicas que promuevan la creación de empleos, capacitación laboral, el autoempleo y organización social.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
 
 ###### Artículo 36.
 
-Toda persona joven tienen derecho a la igualdad de oportunidades y trato en lo relativo a la inserción, remuneración, promoción y condiciones en el trabajo, sin que alguna situación de vulnerabilidad en que pudieran encontrarse sea motivo de discriminación.
+Toda persona joven tiene derecho a la igualdad de oportunidades y trato en lo relativo a la inserción, remuneración, promoción y condiciones en el trabajo, sin que alguna situación de vulnerabilidad en que pudieran encontrarse sea motivo de discriminación.
+
+Los Gobiernos Estatal y Municipales implementarán acciones para erradicar todo tipo de explotación laboral y económica, contra todo trabajo que ponga en peligro la salud integral, educación, desarrollo físico y psicológico de las personas jóvenes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -1054,6 +1058,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 34, 35 Y 36 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
