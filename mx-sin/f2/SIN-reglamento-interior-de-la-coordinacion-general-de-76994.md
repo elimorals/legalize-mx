@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-coordinacion-general-de-76994"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-13"
-last_updated: "2010-10-13"
+last_updated: "2024-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de octubre de 2010.
 
@@ -444,3 +446,15 @@ Lic. Quirino Ordaz Coppel
 El Coordinador General de Comunicación Social
 
 C. José Domínguez Rodríguez
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Coordinación de Comunicación Social, publicado en el Periódico Oficial "El Estado de Sinaloa", No. 123, el día 13 de octubre de 2010.
+
+TERCERO. Cada Director/a formulará dentro de un plazo de noventa días, contados a partir de la entrada en vigor de este Reglamento, su manual de Organización y de Procedimientos, mismos que deberán ser sometidos a la consideración del/ de la Coordinador/a para su aprobación.
