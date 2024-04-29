@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2024-04-05"
+last_updated: "2024-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -257,7 +257,7 @@ III. Aún en el interior de su propiedad, realizar todo acto que impida o haga m
 
 IV. Construir o delimitar las áreas de estacionamiento o de uso común con edificaciones o con algún otro tipo de material;
 
-V. Tener animales, no importando especie y tamaño de los mismos, salvo aquellos casos que sean expresamente permitidos por el Reglamento Interior del Condominio o acordado por la asamblea;
+V. (DEROGADA, G.G. 29 DE ABRIL DE 2024)
 
 VI. En el caso de condominios para uso comercial o industrial, destinarlos a un giro distinto al establecido en la escritura constitutiva, siempre y cuando este sea de los permitidos por el respectivo Plan de Desarrollo Urbano;
 
@@ -351,7 +351,9 @@ Las determinaciones y acuerdos tomados por la Asamblea obligan a todos los cond�
 
 Serán facultades de la asamblea, sin menoscabo de las demás que le otorgue el reglamento interior del condominio las siguientes:
 
-I. Nombrar y remover al administrador o al comité de administración en los términos del reglamento interior del condominio, excepto al que funja el primer año, que será designado por quienes otorguen la escritura constitutiva del condominio;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2024)</small>
+
+I. Nombrar y remover al administrador o al comité de administración, y sus suplentes correspondientes en los términos del reglamento interior del condominio, excepto al que funja el primer año, que será designado por quienes otorguen la escritura constitutiva del condominio;
 
 II. Precisar las responsabilidades frente a terceros a cargo directo del administrador o del comité de administración y las que corran a cargo de los condóminos, por actos de aquél, ejecutados con motivo del desempeño de su cargo;
 
@@ -396,6 +398,10 @@ Los condominios serán administrados por un Comité de Administración o por un 
 En el caso de que se opte por un administrador, éste podrá ser o no alguno de los condóminos. Si lo es, quedará exceptuado por acuerdo de la asamblea de otorgar la garantía a que se refiere la fracción III del artículo anterior. Si la administración recae en un comité, éste tomará sus resoluciones por acuerdo de por lo menos las dos terceras partes de sus miembros, en caso de desacuerdo, someterá el asunto a la asamblea. El comité designara a la persona a cuyo cargo estará la ejecución material de los actos de administración.
 
 Cuando el condominio esté constituido por sesenta o más unidades de propiedad exclusiva, se podrá elegir por lote o por manzana un comité de administración o administrador quien establecerá las cuotas o aportaciones con base al valor comercial del inmueble tomado al día de la determinación y no podrán éstas exceder del 1% del valor del mismo.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2024)</small>
+
+En caso de ausencia temporal o definitiva por parte del administrador o cualquier integrante comité de administración entrarán en funciones sus suplentes. En caso de ausencia definitiva fungirán por el plazo máximo de seis meses, en tanto se convoque a asamblea de condóminos para designación de nuevo administrador o integrante del comité.
 
 Cuando el pago de las cuotas o aportaciones se divida en mensualidades éstas habrán de cubrirse por adelantado. El monto de los fondos se integrará en proporción al valor de cada unidad de propiedad exclusiva, según lo establecido en la escritura constitutiva.
 
@@ -663,6 +669,40 @@ Los convenios suscritos en vía de mediación o conciliación, gozarán de las c
 
 En los procedimientos de mediación y conciliación, en los que las partes acudan directamente a la Consejería Jurídica o el Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México y no llegaren a un acuerdo, la Consejería Jurídica o el Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México, dejará a salvo los derechos de los particulares para que acudan al procedimiento de arbitraje a que hace referencia la presente Ley, o bien, ante la instancia administrativa o jurisdiccional que convenga a sus intereses.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 29 DE ABRIL DE 2024)</small>
+
+### CAPITULO NOVENO. DEL REGLAMENTO INTERIOR DEL CONDOMINIO
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2024)</small>
+
+###### Artículo 62 Bis.
+
+El Reglamento Interior del Condominio deberá contener, por lo menos, lo siguiente:
+
+I. Los derechos y obligaciones de los condóminos referidos a las áreas y bienes de uso común, así como las limitaciones en el ejercicio de dichos derechos;
+
+II. Las bases y procedimientos para el cobro de las cuotas que deben ser aportadas por los condóminos y residentes;
+
+III. Causas para la remoción del administrador, o de los miembros del comité de administración y de la mesa directiva;
+
+IV. Las bases para la modificación de la escritura constitutiva y del Reglamento Interior del condominio de conformidad con las disposiciones jurídicas aplicables;
+
+V. La determinación de criterios para el uso de las áreas y bienes de uso común, especialmente para aquéllas que deban destinarse exclusivamente a personas con discapacidad, ya sean condóminos o residentes;
+
+VI. Determinar, en su caso, las medidas y limitaciones para poseer animales tanto en las unidades de propiedad exclusiva, como en las áreas y bienes de uso común, considerando el número de animales permitidos, horarios de estancia en áreas comunes, tipo, especie, tamaños, raza, y medidas de seguridad e higiene, entre otras.
+
+En las unidades de propiedad exclusiva no se podrá prohibir la tenencia o posesión de animales de compañía que por sus características físicas no representan un riesgo a la salud ni la integridad de las personas y se ajuste a lo establecido en la normatividad aplicable;
+
+VII. La determinación de criterios para asuntos que requieran para su aprobación un porcentaje mayor de respaldo en caso de votación;
+
+VIII. Las bases para la integración de las acciones, programas y medidas en materia de seguridad, protección civil y gestión integral del riesgo;
+
+IX. Las previsiones conducentes para otorgar a terceros las áreas y bienes de uso común que sean objeto de arrendamiento o que se destinen al comercio, estableciendo la temporalidad y las garantías respectivas para su cumplimiento;
+
+X. Las sanciones o medidas internas por incumplimiento a las obligaciones consignadas en esta Ley o el Reglamento Interior del Condominio; y
+
+XI. Las demás que establezca la escritura constitutiva y la presente Ley.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente ley entrará en vigor a los tres meses siguientes de su publicación, plazo dentro del cual las autoridades municipales deberán difundir las disposiciones de la presente ley.
@@ -798,3 +838,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 258.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 29; SE ADICIONA UN PÁRRAFO CUARTO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 30, EL CAPÍTULO NOVENO DENOMINADO "DEL REGLAMENTO INTERIOR DEL CONDOMINIO" CON EL ARTÍCULO 62 BIS Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 20 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
