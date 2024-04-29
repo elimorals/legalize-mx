@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2024-03-25"
+last_updated: "2024-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -75,6 +75,8 @@ El ejercicio del Poder Legislativo del Estado de Aguascalientes se deposita en u
 
 Este Poder se regirá bajo los principios del modelo de parlamento abierto, por lo que deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 4°.
 
 Para efectos de la presente Ley se entiende por:
@@ -87,35 +89,35 @@ III.- Constitución Federal: La Constitución Política de los Estados Unidos Me
 
 IV.- Comisiones: Órganos constituidos por el Pleno, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, contribuyen a que el Congreso del Estado cumpla sus atribuciones constitucionales y legales;
 
-IV (SIC).- Diputado: Representante de la sociedad elegido por el principio de mayoría relativa o por el principio de representación proporcional;
+V.- Diputado: Representante de la sociedad elegido por el principio de mayoría relativa o por el principio de representación proporcional;
 
-V.- Diputación Permanente: La Diputación Permanente del Congreso del Estado de Aguascalientes;
+VI.- Diputación Permanente: La Diputación Permanente del Congreso del Estado de Aguascalientes;
 
-VI.- Grupo Parlamentario: Forma de organizarse de diputados con igual afiliación política o de partido, para encauzar la libre expresión de alguna corriente ideológica en el Congreso del Estado de Aguascalientes;
+VII.- Grupo Parlamentario: Forma de organizarse de diputados con igual afiliación política o de partido, para encauzar la libre expresión de alguna corriente ideológica en el Congreso del Estado de Aguascalientes;
 
-VII.- Legislatura: Período de tres años durante el cual ejercen sus funciones los Diputados, identificándose con el número ordinal sucesivo que le corresponda;
+VIII.- Legislatura: Período de tres años durante el cual ejercen sus funciones los Diputados, identificándose con el número ordinal sucesivo que le corresponda;
 
-VIII.- Ley: La Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
+IX.- Ley: La Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
 
-IX.- Mesa Directiva: La Mesa Directiva del Pleno del Congreso del Estado de Aguascalientes;
+X.- Mesa Directiva: La Mesa Directiva del Pleno del Congreso del Estado de Aguascalientes;
 
-X.- Órgano Superior de Fiscalización: El Órgano Superior de Fiscalización del Congreso del Estado;
+XI.- Órgano Superior de Fiscalización: El Órgano Superior de Fiscalización del Congreso del Estado;
 
-XI.- Periódico Oficial: El Periódico Oficial del Estado de Aguascalientes;
+XII.- Periódico Oficial: El Periódico Oficial del Estado de Aguascalientes;
 
-XII.- Pleno: El Pleno Legislativo del Congreso del Estado de Aguascalientes;
+XIII.- Pleno: El Pleno Legislativo del Congreso del Estado de Aguascalientes;
 
-XIII.- Poder Legislativo: El Poder Legislativo del Estado de Aguascalientes;
+XIV.- Poder Legislativo: El Poder Legislativo del Estado de Aguascalientes;
 
-XIV.- Presidente de la Mesa Directiva: Presidente de la Mesa Directiva del Congreso del Estado de Aguascalientes y Presidente del Congreso del Estado de Aguascalientes;
+XV.- Presidente de la Mesa Directiva: Presidente de la Mesa Directiva del Congreso del Estado de Aguascalientes y Presidente del Congreso del Estado de Aguascalientes;
 
-XV.- Reglamento: El Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
+XVI.- Reglamento: El Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes;
 
-XVI.- Reglamento Interior: El Reglamento Interior del Poder Legislativo del Estado de Aguascalientes;
+XVII.- Reglamento Interior: El Reglamento Interior del Poder Legislativo del Estado de Aguascalientes;
 
-XVII.- Secretaría General: Secretaría General del Poder Legislativo del Estado de Aguascalientes;
+XVIII.- Secretaría General: Secretaría General del Poder Legislativo del Estado de Aguascalientes; y
 
-XVIII.- Secretario General: Secretario General del Poder Legislativo del Estado de Aguascalientes.
+XIX.- Secretario General: Secretario General del Poder Legislativo del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -149,11 +151,15 @@ III. Formular y aprobar su presupuesto anual de egresos que se integrará al gen
 
 IV. Analizar, estudiar, modificar y aprobar el Presupuesto General Anual de Egresos del Estado, con apego a las disposiciones de la Constitución del Estado, de esta Ley y de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
-Sí al iniciarse el año fiscal no hubiese sido aprobado el presupuesto general correspondiente enviado por el Ejecutivo del Estado, se ejercerá el presupuesto aprobado para el ejercicio anterior hasta en tanto se apruebe el correspondiente al año que corre por parte del Congreso del Estado;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE ABRIL DE 2024)</small>
+
+Si al iniciarse el año fiscal no hubiese sido aprobado el presupuesto general correspondiente enviado por el Ejecutivo del Estado, se ejercerá el presupuesto aprobado para el ejercicio anterior hasta en tanto se apruebe el correspondiente al año que corre por parte del Congreso del Estado;
 
 V. Emitir el acuerdo que contenga las observaciones al Plan Sexenal de Gobierno del Estado, dentro de los 30 días siguientes a su recepción;
 
-VI. Recibir, analizar y en su caso aprobar los informes que le envíe el Gobernador del Estado y los ayuntamientos, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados; estos informes deberán ser recibidos dentro de los treinta días siguientes a la fecha de corte del período respectivo;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+VI. Recibir, analizar y en su caso aprobar los informes que le envíe la persona Titular del Poder Ejecutivo y los ayuntamientos, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados; estos informes deberán ser recibidos dentro de los treinta días siguientes a la fecha de corte del período respectivo;
 
 VII. Citar a servidores públicos de la Administración del Estado, Fideicomisos, Organismos Descentralizados, Organismos Autónomos y Empresas de Participación Estatal, para que informen al Pleno o a las comisiones, cuando se discuta una Ley, se estudie un asunto concerniente a sus respectivos ramos, así como cuando se requiera información general o particular del estado que guarda el ramo o actividad correspondiente.
 
@@ -309,9 +315,9 @@ VIII. Dar aviso a la Presidencia en los casos en que por cualquier motivo grave 
 
 IX. Ser gestores con recursos del Congreso del Estado, y promotores de actividades en sus respectivos Distritos Electorales, que beneficien a sus habitantes;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
 
-X. Transparentar y permitir el acceso a la información respecto a los recursos públicos a su cargo, en términos de la Ley de (sic) materia;
+X. Transparentar y permitir el acceso a la información respecto a los recursos públicos a su cargo, en términos de la Ley de la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
 
@@ -519,7 +525,9 @@ XXVII. Contar con voto de calidad en caso de empate en las votaciones llevadas a
 
 XXVIII. Cuidar que los acuerdos, decretos y leyes sean publicados en el Diario de Debates y en la Gaceta Oficial del Congreso del Estado a la conclusión del respectivo período de sesiones, y que se envíen al Ejecutivo del Estado para su publicación en el Periódico Oficial dentro de un plazo no mayor de diez días siguientes;
 
-XXIX. Representar al Congreso del Estado ante toda clase de autoridades administrativas y militares, ante el Gobernador del Estado, los Partidos Políticos registrados y otras asociaciones del Estado y en los diferentes actos públicos en los cuales se requiera la representación oficial del Congreso del Estado, pudiendo delegar dicha facultad cuando no pueda asistir personalmente, en un miembro de la Mesa Directiva que corresponda según el orden de suplencia establecido en los (sic) establecido en el Artículo 35 de la presente Ley y demás aplicables de la misma y de su Reglamento;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+XXIX. Representar al Congreso del Estado ante toda clase de autoridades administrativas y militares, ante la persona Titular del Poder Ejecutivo, los Partidos Políticos registrados y otras asociaciones del Estado y en los diferentes actos públicos en los cuales se requiera la representación oficial del Congreso del Estado, pudiendo delegar dicha facultad cuando no pueda asistir personalmente, en un miembro de la Mesa Directiva que corresponda según el orden de suplencia establecido en los (sic) establecido en el Artículo 35 de la presente Ley y demás aplicables de la misma y de su Reglamento;
 
 XXX. Programar en consulta con la Junta de Coordinación Política y los Coordinadores de los grupos parlamentarios, el desarrollo general de las sesiones; y
 
@@ -555,7 +563,9 @@ VI. Abrir, integrar y actualizar los expedientes para los asuntos recibidos por 
 
 VII. Ordenar que se tenga un registro en el que se asienten por orden cronológico y textualmente, las leyes y decretos que expida la legislatura;
 
-VIII. Firmar junto con el Presidente de la Mesa Directiva, la correspondencia, circulares, actas, comunicaciones oficiales, las leyes, decretos, acuerdos y demás resoluciones expedidos (sic) por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+VIII. Firmar junto con el Presidente de la Mesa Directiva, la correspondencia, circulares, actas, comunicaciones oficiales, las leyes, decretos, acuerdos y demás resoluciones expedidas por el Congreso del Estado;
 
 IX. Expedir las certificaciones que disponga el Presidente de la Mesa Directiva; y
 
@@ -707,9 +717,11 @@ V. Las demás que se deriven de esta Ley o que le sean conferidas por la propia 
 
 ### CAPÍTULO VI. LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 53.
 
-La programación general y consultiva de los trabajos legislativos, será formulada por períodos ordinarios, por parte de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, la cual se integra por el Presidente de la Mesa Directiva o Diputación Permanente y los miembros de la Junta de Coordinación Política, para atender las propuesta (sic) de los Grupos Parlamentarios y de los Diputados, a efecto de dar cumplimiento a sus plataformas legislativas.
+La programación general y consultiva de los trabajos legislativos, será formulada por períodos ordinarios, por parte de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, la cual se integra por el Presidente de la Mesa Directiva o Diputación Permanente y los miembros de la Junta de Coordinación Política, para atender las propuestas de los Grupos Parlamentarios y de los Diputados, a efecto de dar cumplimiento a sus plataformas legislativas.
 
 El Presidente de la Mesa Directiva o Diputación Permanente preside la Conferencia para la Dirección y Programación de los Trabajos Legislativos; la cual sesionará en los períodos de receso, a convocatoria del mismo, concurriendo el Secretario General, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
@@ -803,7 +815,9 @@ Corresponde a la Comisión de Asuntos Electorales, el conocimiento, análisis, e
 
 I. La Legislación electoral, en el ámbito de competencia del Congreso del Estado;
 
-II. La designación del Gobernador Interino, Substituto o Provisional, en los términos del Artículo 42 de la Constitución del Estado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+II. La designación de la persona Titular del Poder Ejecutivo Interina, Substituta o Provisional, en los términos del Artículo 42 de la Constitución del Estado;
 
 III. La convocatoria a elecciones extraordinarias, en los términos de la Constitución del Estado;
 
@@ -889,7 +903,9 @@ IV. La promoción del cooperativismo y solidaridad social;
 
 V. La promoción, vinculación, fomento y difusión de la educación financiera; y
 
-VI. Otros análogas (sic) que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por la Comisión.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+VI. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por la Comisión.
 
 ###### ARTÍCULO 63.
 
@@ -967,17 +983,25 @@ Corresponde a la Comisión de Gobernación y Puntos Constitucionales, el conocim
 
 I. La división territorial del Estado y de los municipios, así como los conflictos de límites que se susciten entre los municipios del Estado cuando los respectivos Ayuntamientos no hayan podido llegar a un acuerdo;
 
-II. La solicitud de licencia para separarse del cargo por tiempo indefinido del Gobernador, de los Magistrados del Supremo Tribunal de Justicia del Estado y de los demás servidores públicos que establezca la Constitución del Estado y las leyes que de ella emanen;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
 
-III. La solicitud de licencia por parte del Gobernador del Estado para separarse del cargo hasta por noventa días y para salir del territorio del Estado, cuando sea por más de veinte días, y el nombramiento del ciudadano que debe substituirlo durante dichas ausencias;
+II. La solicitud de licencia para separarse del cargo por tiempo indefinido de la persona Titular del Poder Ejecutivo, de los Magistrados del Supremo Tribunal de Justicia del Estado y de los demás servidores públicos que establezca la Constitución del Estado y las leyes que de ella emanen;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+III. La solicitud de licencia por parte de la persona Titular del Poder Ejecutivo para separarse del cargo hasta por noventa días y para salir del territorio del Estado, cuando sea por más de veinte días, y el nombramiento del ciudadano que debe substituirlo durante dichas ausencias;
 
 IV. El cambio de residencia de los Poderes del Estado, el que se autorizará siempre en forma provisional, y condicionado a la duración de la causa que lo motive;
 
 V. Las reformas a la Constitución General de la República y a la Constitución Política del Estado de Aguascalientes;
 
-VI. El otorgamiento al Gobernador de facultades extraordinarias en caso de calamidad pública;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
 
-VII. La constitución del Colegio Electoral para la designación del Gobernador Interino y Substituto; y
+VI. El otorgamiento a la persona Titular del Poder Ejecutivo de facultades extraordinarias en caso de calamidad pública;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+VII. La constitución del Colegio Electoral para la designación de la persona Titular del Poder Ejecutivo Interino y Substituto; y
 
 VIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
@@ -987,7 +1011,9 @@ Corresponde a la Comisión de Igualdad Sustantiva y Equidad de Género, el conoc
 
 I. Las iniciativas de Ley, reformas o adiciones relacionadas con la promoción de igualdad entre las personas, sin importar el género, raza, edad, creencias religiosas, condición social o económica, cultura, discapacidades, preferencias sexuales y demás actividades y comportamientos humanos que pudieran causar discriminación o segregación social o humanas;
 
-II. Las propuestas y medidas legislativas para dar cumplimiento a los instrumentos internacionales que protegen los derechos de las (sic) mujer, los menores, las personas adultas mayores, y los grupos socialmente desprotegidos, y en particular su defensa en contra de la desigualdad;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+II. Las propuestas y medidas legislativas para dar cumplimiento a los instrumentos internacionales que protegen los derechos de las mujeres, los menores, las personas adultas mayores, y los grupos socialmente desprotegidos, y en particular su defensa en contra de la desigualdad;
 
 III. Las campañas para establecer medidas de acción afirmativas tendientes a desaparecer las desigualdades existentes entre hombres y mujeres, así como para promover ambientes libres de violencia sexual, con el fin de posibilitar los cambios sociales requeridos que permitan hacer efectivo el ejercicio de los principios de igualdad sustantiva y de equidad de género;
 
@@ -1351,7 +1377,9 @@ Así mismo, podrán pedir a dichas autoridades, el que nombren a un representant
 
 No procederá la solicitud de información o documentación, cuando tenga el carácter de reservada conforme a las disposiciones legales aplicables.
 
-El titular requerido estará obligado a proporcionar la información fundada y motivada ampliamente, en un plazo de diez días hábiles; si la misma no fuere remitida, la Comisión podrá dirigirse oficialmente en queja al titular de la dependencia o al Gobernador del Estado.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
+
+El titular requerido estará obligado a proporcionar la información fundada y motivada ampliamente, en un plazo de diez días hábiles; si la misma no fuere remitida, la Comisión podrá dirigirse oficialmente en queja al titular de la dependencia o a la persona Titular del Poder Ejecutivo.
 
 La negativa a la información solicitada será motivo de responsabilidad y sanción.
 
@@ -1373,7 +1401,9 @@ III. Organizar y mantener un archivo de todos los asuntos que les sean turnados,
 
 IV. Sesionar cuando menos una vez al mes;
 
-V. Resolver los asuntos que la Mesa Directiva del Congreso les turne en un plazo no mayor de quince días naturales contados a partir de la fecha en la cual le fueron remitidos. Transcurrido este plazo el Presidente del Congreso o la Diputación Permanente, por sí o a petición de un Diputado, solicitará información sobre las causas y razones por las cuales no se han dictaminado los asuntos. Este plazo podrá ser prorrogado con petición por escrito, detallando las causas;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+V. Resolver los asuntos que la Mesa Directiva del Congreso les turne en un plazo no mayor de sesenta días naturales contados a partir de la fecha en la cual le fueron remitidos. Transcurrido este plazo el Presidente del Congreso o la Diputación Permanente, por sí o a petición de un Diputado, solicitará información sobre las causas y razones por las cuales no se han dictaminado los asuntos. Este plazo podrá ser prorrogado mediante petición por escrito, detallando las causas. En todo caso, la ampliación no podrá exceder de sesenta días más, contados a partir de que venza el plazo regular;
 
 VI. Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas a las mismas en los términos de los programas legislativos acordados por la Junta de Coordinación Política;
 
@@ -1477,7 +1507,9 @@ La Presidencia y la Vicepresidencia se alternarán entre las dos principales fue
 
 La Diputación Permanente celebrará cuando menos una sesión por semana y funcionará con la asistencia de la mayoría de sus miembros.
 
-La Diputación Permanente y (sic) adoptará sus resoluciones por mayoría absoluta de los votos de sus miembros, salvo el caso en que las leyes establezcan como requisito otro tipo de mayoría.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
+
+La Diputación Permanente adoptará sus resoluciones por mayoría absoluta de los votos de sus miembros, salvo el caso en que las leyes establezcan como requisito otro tipo de mayoría.
 
 En caso de empate el Presidente tendrá voto de calidad.
 
@@ -1645,11 +1677,11 @@ Podrá dispensarse la lectura integral de una iniciativa, cuando así lo decida 
 
 Cuando la iniciativa sea presentada en el período de receso del Congreso del Estado, será leída por los Secretarios de la Mesa Directiva de la Diputación Permanente. La iniciativa será comunicada a todos los Diputados, y por acuerdo de la Mesa Directiva, se podrá dispensar la lectura de la iniciativa. En todo caso, se dará lectura a una síntesis de la misma.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 114.
 
-Las iniciativas promovidas por las Diputadas y los Diputados, el o la titular del Poder Ejecutivo, del Poder Judicial o de los Ayuntamientos deberán formularse documentalmente por escrito con un lenguaje claro, preciso, incluyente y no sexista; con firma autógrafa de su promovente o promoventes y estar acompañada de una electrónica, en la que se incluyan todos los documentos que en su caso sean presentados, misma que deberá ser remitida a la Dirección General de Servicios Parlamentarios.
+Las iniciativas promovidas por los Diputados, la persona Titular del Poder Ejecutivo, el Poder Judicial o los Ayuntamientos deberán formularse documentalmente por escrito, con firma autógrafa de su promovente o promoventes y estar acompañada de una electrónica, en la que se incluyan todos los documentos que en su caso sean presentados, misma que deberá ser remitida a la Dirección General de Servicios Parlamentarios
 
 ###### ARTÍCULO 115.
 
@@ -1775,9 +1807,11 @@ Queda prohibido que la papelería del Congreso del Estado y en toda impresión, 
 
 ### CAPÍTULO I. EL COLEGIO ELECTORAL
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 138.
 
-El Congreso del Estado, previa declaratoria, se erigirá en Colegio Electoral a efecto de nombrar Gobernador Interino o Substituto, así como para convocar a elecciones, de conformidad con lo establecido en la Constitución del Estado.
+El Congreso del Estado, previa declaratoria, se erigirá en Colegio Electoral a efecto de nombrar a la persona Titular del Poder Ejecutivo Interina o Substituta, así como para convocar a elecciones, de conformidad con lo establecido en la Constitución del Estado.
 
 ### CAPÍTULO II. LA SUBSTANCIACIÓN PARA LA CREACIÓN Y DELIMITACIÓN TERRITORIAL DE MUNICIPIOS Y LÍMITES INTERESTATALES
 
@@ -1833,9 +1867,13 @@ I. En ningún caso se celebrarán convenios que modifiquen los límites ya defin
 
 II. Por ningún motivo se entenderá que los convenios de límites tienen por naturaleza ser instrumentos para la transmisión, enajenación, cesión, permuta o adquisición de territorio;
 
-III. Para celebrar las negociaciones de límites, el Gobernador requiere autorización del Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
 
-IV. Con el fin de acordar el proyecto de convenio de límites, el Gobernador debe solicitar al Congreso del Estado la aprobación previa de los términos del mismo; y
+III. Para celebrar las negociaciones de límites, la persona Titular del Poder Ejecutivo requiere autorización del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+IV. Con el fin de acordar el proyecto de convenio de límites, la persona Titular del Poder Ejecutivo debe solicitar al Congreso del Estado la aprobación previa de los términos del mismo; y
 
 V. El proyecto de convenio deberá contener:
 
@@ -1939,11 +1977,11 @@ Cualquier persona, cuando presuma que los titulares de los Órganos Internos de 
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 148.
 
-El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana, la evaluación del desempeño legislativo y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificadle (sic), comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
+El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana, la evaluación del desempeño legislativo y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
 
 Para tal efecto, su actuar atenderá lo dispuesto por las leyes en materia de transparencia y acceso a la información pública.
 
@@ -1967,9 +2005,9 @@ Al término de cada período ordinario de sesiones, el Congreso del Estado publi
 
 El Poder Legislativo producirá por conducto de la Unidad de Informática y Sistemas de la Información, un portal o página de internet para la difusión de sus actos consultable.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2024)</small>
 
-Por medio de dicha página se difundirá (sic) los formatos y documentos digitales que establezcan las leyes en materia de transparencia y acceso a la información pública, así como las sesiones virtuales que se realicen.
+Por medio de dicha página se difundirán los formatos y documentos digitales que establezcan las leyes en materia de transparencia y acceso a la información pública, así como las sesiones virtuales que se realicen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2020)</small>
 
@@ -2107,7 +2145,9 @@ Son órganos auxiliares del Congreso del Estado los siguientes:
 
 I. La Coordinación de Comunicación Social; y
 
-III (SIC). La Contraloría Interna, como el Órgano Interno de Control.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+II. La Contraloría Interna, como el Órgano Interno de Control.
 
 ###### ARTÍCULO 162.
 
@@ -2470,3 +2510,19 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 ###### ARTÍCULO TERCERO.
 
 El H. Congreso del Estado de Aguascalientes, contará con un plazo de 180 días naturales, para implementar lo dispuesto en el presente Decreto, contados a partir de su entrada en vigor.
+
+P.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 681.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 690.- SE REFORMAN LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES; Y, EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
