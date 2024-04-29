@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2024-03-15"
+last_updated: "2024-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -60,19 +60,31 @@ La presente ley es de orden público, interés social y de observancia general e
 
 Esta ley tiene por objeto:
 
-I. Reconocer a las niñas, niños y adolescentes que habitan o transitan en la Ciudad de México como sujetos de derechos humanos, de conformidad con los principios establecidos en el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
 
-II. Establecer las políticas, parámetros, lineamientos y configurar el marco legal que permita a las autoridades garantizar el pleno goce y ejercicio de los derechos de niñas, niños y adolescentes que habitan y transitan en la Ciudad de México.
+I. Reconocer a las niñas, niños y adolescentes que habitan o transitan en la Ciudad de México como sujetos de derechos humanos, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, los tratados e instrumentos internacionales de los que el Estado mexicano es parte y las normas generales y locales aplicables;
 
-III. Crear y regular la integración, organización y funcionamiento del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, a efecto de garantizar la protección, prevención y restitución integral de los derechos humanos de niñas, niños y adolescentes.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ABRIL DE 2024)</small>
+
+II. Establecer las políticas, parámetros, lineamientos y configurar el marco legal que permita a las autoridades garantizar el pleno goce y ejercicio de los derechos de niñas, niños y adolescentes que habitan y transitan en la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ABRIL DE 2024)</small>
+
+III. Crear y regular la integración, organización y funcionamiento del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, a efecto de garantizar la protección, prevención y restitución integral de los derechos humanos de niñas, niños y adolescentes;
 
 IV. Normar y orientar la política pública con un enfoque de derechos humanos en la Ciudad de México para niñas, niños y adolescentes, así como las facultades, competencias y bases de coordinación y colaboración entre las autoridades de la Ciudad de México y los órganos político administrativos; así como la actuación de los órganos Legislativo y Judicial, y de los órganos públicos autónomos;
 
-V. Garantizar que las personas encargadas de la atención directa de niñas, niños y adolescentes, en el sector público y privado, así como aquellos encargados de la administración o de la implementación de políticas públicas en la materia, estén debidamente capacitados y sensibilizados en temas de derechos humanos de niñas, niños y adolescentes.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ABRIL DE 2024)</small>
 
-VI. Regular la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes en la Ciudad de México, así como a prevenir su vulneración y violación, e
+V. Garantizar que las personas encargadas de la atención directa de niñas, niños y adolescentes, en el sector público y privado, así como aquellos encargados de la administración o de la implementación de políticas públicas en la materia, estén debidamente capacitados y sensibilizados en temas de derechos humanos de niñas, niños y adolescentes;
 
-VII. Impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para las niñas, niños y adolescentes;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+VI. Regular la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes en la Ciudad de México y prevenir su vulneración y violación, así como para promover la crianza positiva, e
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ABRIL DE 2024)</small>
+
+VII. Impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para las niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -109,6 +121,18 @@ VI. Garantizar la implementación de mecanismos de comunicación, para reportar 
 > <small>(REFORMADO, G.O. 7 DE MAYO DE 2021)</small>
 
 Las autoridades administrativas, así como de los órganos político administrativos y el Congreso, todos de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán incluir en sus proyectos de presupuesto la asignación de recursos que permita dar cumplimiento a las acciones ordenadas por la presente Ley.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2024)</small>
+
+Las niñas, niños y adolescentes en orfandad por feminicidio tendrán acceso prioritario a los programas sociales que otorga el Gobierno de la Ciudad de México y que por su naturaleza puedan acceder.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2024)</small>
+
+El DIF-CDMX, con apoyo de la Fiscalía General de Justicia de la Ciudad de México, llevarán un registro de las niñas, niños y adolescentes en esta condición para garantizar con las autoridades responsables de los programas sociales su acceso.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2024)</small>
+
+El DIF-CDMX enviará en coordinación con las autoridades responsables de los programas sociales, un informe al Congreso de la Ciudad de México en febrero de cada año sobre los resultados de las niñas, niños y adolescentes en estado de orfandad por feminicidio.
 
 ###### Artículo 3.
 
@@ -205,6 +229,10 @@ XVII. Código de Procedimientos: Código de Procedimientos Civiles para el Distr
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
 XVIII. Comité Técnico de Adopción: Órgano Colegiado de la Procuraduría de Protección encargado de evaluar a los solicitantes de adopción y, en su caso opinar favorablemente a la Procuraduría de Protección para que ésta emita el Certificado de Idoneidad correspondiente, así como intervenir en los procedimientos de adopción de niñas, niños y adolescentes de conformidad con lo establecido en esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+XVIII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que benefician el desarrollo, bienestar, crecimiento saludable y armonioso, y autonomía progresiva de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales o físicos ni castigos humillantes, salvaguardando el interés superior con un enfoque de respeto a sus derechos humanos;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -1130,9 +1158,11 @@ Las autoridades ylos (sic) órganos político administrativos, en el ámbito de 
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2024)</small>
+
 ###### Artículo 41.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, así como desempeñar una crianza positiva. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 ###### Artículo 42.
 
@@ -1140,17 +1170,15 @@ La edad mínima para contraer matrimonio en la Ciudad de México, serán los 18 
 
 ### Capítulo Octavo. Del Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL G.O. 29 DE ABRIL DE 2024, PÁGINA 7.]</small>
+
 ###### Artículo 43.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2024)</small>
 
-Garantizando su seguridad sexual, para los efectos de que no sean víctimas o potenciales víctimas de cualquier delito vinculado con diversas conductas de violencia sexual.
-
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 2022)</small>
-
-Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza positiva de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -1290,11 +1318,17 @@ XV. Establecer medidas tendentes a que en los servicios de salud se detecten y a
 
 XVI. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas y asegurar los mayores niveles de atención y rehabilitación;
 
-XVII. Coadyuvar en el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2017)</small>
+XVII. Coadyuvar en el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad;
 
-XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medida para combatir la mortalidad por desnutrición de las niñas y los niños que se encuentran en la primera infancia.
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medida para combatir la mortalidad por desnutrición de las niñas y los niños que se encuentran en la primera infancia; y
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+XIX. Establecer programas y campañas permanentes de información y concientización orientadas a la prevención oportuna del suicidio en niñas, niños y adolescentes.
 
 En todos los casos que proporcionen los servicios de salud se respetará el derecho a la intimidad de niñas, niños y adolescentes y a un trato digno.
 
@@ -1644,13 +1678,21 @@ III. Participen en el fomento a la cultura de respeto a sus derechos; y
 
 IV. Participen en programas de educación para la democracia y la tolerancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2024)</small>
+
 ###### Artículo 75.
 
-Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
+Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, estando obligadas las autoridades correspondientes a informarles en formatos de lectura fácil y/u otros medios, que les permitan comprender los procesos de forma sencilla y clara.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2024)</small>
+
+Además, tienen derecho a conocer la sentencia que decida sobre sus derechos, debiendo la autoridad judicial o quien ejerza la representación jurídico procesal, comunicar o justificar en su caso, la razón por la que no se informó la resolución a la niña, niño o adolescente.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2024)</small>
 
 ###### Artículo 76.
 
-Niñas, niños y adolescentes también tienen derecho a que las autoridades de la Ciudad de México, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
+Niñas, niños y adolescentes también tienen derecho a que las autoridades de la Ciudad de México les informen, con el mismo criterio de formatos mencionados en el artículo anterior, de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
 
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
@@ -1752,9 +1794,15 @@ I. Garantizar la protección y prevalencia del interés superior a que se refier
 
 II. Garantizar el ejercicio o el goce de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General, esta Ley y demás disposiciones aplicables en esta materia;
 
-III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura, así como otros mecanismos de apoyo que requieran niñas, niños y adolescentes con discapacidad;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
 
-IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial, asimismo las autoridades deberán implementar medidas para proteger la identidad de quien presente una denuncia;
+III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, así como darles a conocer la sentencia que decida sobre sus derechos.
+
+Para garantizar lo anterior, se incluirán, en su caso, formatos accesibles de fácil comprensión y lectura, así como otros mecanismos de apoyo que requieran niñas, niños y adolescentes, especialmente quienes tengan una discapacidad;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+IV. Implementar mecanismos de apoyo necesarios al presentar una denuncia, participar en una investigación o en un proceso judicial, garantizando que sean eficaces, accesibles y seguros para las víctimas, asimismo las autoridades deberán implementar en todo momento medidas para proteger la identidad y datos personales de quien presente una denuncia;
 
 V. Garantizar el derecho de niñas, niños y adolescentes a ser representados en términos de lo dispuesto en el Título Cuarto, Capítulo Segundo, Sección Tercera, de la presente Ley, así como información sobre las medidas de protección disponibles;
 
@@ -1778,11 +1826,19 @@ XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufri
 
 Cuando la Procuraduría de Protección tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, en el marco de sus atribuciones, solicitará a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2024)</small>
+
 ###### Artículo 87.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
+Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas de violación a sus derechos humanos, de algún delito o sean testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
 
-I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+I. Se les informe con un lenguaje claro, sencillo y sin tecnicismos sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+I BIS. Contar con mecanismos claros, sencillos y de fácil acceso para presentar denuncias cuando sean víctimas de violación de sus derechos humanos o de algún delito;
 
 II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del artículo 85 de esta Ley;
 
@@ -1792,7 +1848,9 @@ IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de 
 
 V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables, y
 
-VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2024)</small>
+
+VI. Adoptar en todas las etapas del procedimiento las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
 
 ###### Artículo 88.
 
@@ -3043,3 +3101,35 @@ G.O. 15 DE MARZO DE 2024.
 PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 75; SE REFORMA EL ARTÍCULO 76; LAS FRACCIONES III Y IV DEL ARTÍCULO 85; EL PRIMER PÁRRAFO, LAS FRACCIONES I Y VI Y SE ADICIONA UNA FRACCIÓN I BIS, AL ARTÍCULO 87, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES XVII Y XVIII, Y SE ADICIONA UNA FRACCIÓN XIX, DEL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO, EN MATERIA DE SUICIDIO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, V, VI Y VII DEL ARTÍCULO 1, SE ADICIONA UNA FRACCIÓN XVIII BIS AL ARTÍCULO 4, Y SE REFORMAN LOS ARTÍCULOS 41 Y 43 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN TRES ÚLTIMOS PÁRRAFOS AL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
