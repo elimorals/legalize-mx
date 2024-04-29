@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-12-07"
+last_updated: "2024-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -156,6 +156,10 @@ XX.- Informe de adoptabilidad: Al documento expedido por el Sistema Nacional DIF
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
 XXI.- Interés superior de la niñez: El catálogo de valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como generar las condiciones materiales que permitan a las niñas, niños y adolescentes, vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el estado en el ejercicio de sus funciones legislativa, ejecutiva y judicial, por tratarse de un asunto de orden público e interés social;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+XXI Bis.- Juguetes bélicos: Son los objetos, instrumentos o réplicas de armas de fuego, sean estas cortas, largas o de artillería; armas blancas, sean estos contundentes, arrojadizas, de puño o de asta; y armas de guerra, como tanques, aviones de combate o barcos armados;
 
 XXII.- Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas;
 
@@ -1087,6 +1091,14 @@ IV.- Establecer y aplicar las sanciones que correspondan a las personas responsa
 
 2. Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2024)</small>
+
+ARTÍCULO 39 BIS.
+
+Las niñas, niños y adolescentes tienen derecho a que no se violente el ejercicio del juego y sano esparcimiento con la introducción de juguetes bélicos en sus entornos familiares y escolares, que atenten a sus condiciones de bienestar y el libre desarrollo de su personalidad.
+
+Para ello, la familia deberá garantizar la no adquisición de dichos juguetes con características bélicas y realizar las acciones necesarias para que las niñas, niños y adolescentes solo tengan acceso a juguetes que ayuden a estimular la mente y despierten el respeto por los seres vivos, la sana competencia, la camaradería, la lealtad, el trabajo en equipo, el respeto del adversario, la comprensión y la tolerancia con los demás y el entendimiento entre las personas, dentro de un espíritu de paz y fraternidad.
+
 ###### ARTÍCULO 40.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
@@ -1731,9 +1743,15 @@ XIX.- Impulsar acciones para el cumplimiento de los objetivos de la presente Ley
 
 XX.- Celebrar convenios de coordinación en la materia;
 
-XXI.- Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2024)</small>
 
-XXII.- Las demás que les otorguen otras disposiciones aplicables.
+XXI.- Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2024)</small>
+
+XXII.- Implementar acciones encaminadas a informar y difundir sobre el impacto negativo de los juguetes con características bélicas en niñas, niños y adolescentes, así como solicitar a los establecimientos comerciales que se dediquen a venta, renta y uso de juguetes bélicos, la restricción de su exhibición al público, en caso de no atender dicha condición, podrán ser acreedores a las sanciones que resulten aplicables previstas en esta Ley; y
+
+XXIII.- Las demás que les otorguen otras disposiciones aplicables.
 
 ###### ARTÍCULO 90.
 
@@ -2230,6 +2248,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-674 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-839 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI, DEL ARTÍCULO 89; Y SE ADICIONAN LA FRACCIÓN XXI BIS, AL ARTÍCULO 5; EL ARTÍCULO 39 BIS, Y LA FRACCIÓN XXII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 89, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
