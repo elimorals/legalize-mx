@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-financiera-nacional-de-desarrollo-26814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-26"
-last_updated: "2023-05-29"
+last_updated: "2024-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2002-12-23"
 
 LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2023 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de diciembre de 2002.
 
@@ -1143,7 +1143,31 @@ Artículo Sexto. La Secretaría de Hacienda y Crédito Público, la Secretaría 
 
 Artículo Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero y del Instituto para Devolver al Pueblo lo Robado, según corresponda, por lo que no se autorizarán recursos financieros adicionales en el presente ejercicio ni en los subsecuentes.
 
-En tal sentido, el liquidador deberá destinar los recursos que resulten de la recuperación de activos de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, para cubrir los pasivos y contingencias que se originen de la propia liquidación, así como los gastos de administración que realice en cumplimiento de su cargo. En el balance final de la liquidación se deberá precisar el destino desglosado de todos los recursos señalados en este artículo.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+En tal sentido, el liquidador deberá destinar los recursos que resulten de la recuperación de activos de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, para cubrir los pasivos y contingencias que se originen de la propia liquidación, así como los gastos de administración que realice en cumplimiento de su cargo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 30 DE ABRIL DE 2024)</small>
+
+De existir recursos disponibles durante el proceso de desincorporación, el Instituto para Devolver al Pueblo lo Robado en su carácter de liquidador deberá realizar un dictamen el cual analizará al menos los siguientes aspectos:
+
+a. Financieros;
+
+b. Jurídicos;
+
+c. De las responsabilidades de servidores públicos;
+
+d. Previsiones futuras en términos del plan estratégico, y
+
+e. La viabilidad de destinar recursos al Fondo de Pensiones para el Bienestar durante el proceso de desincorporación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+El Instituto deberá concentrar en la Tesorería de la Federación los recursos determinados en el dictamen a que se refiere el párrafo anterior bajo la naturaleza de aprovechamientos, tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+En el balance final de la liquidación se deberá precisar el destino desglosado de todos los recursos señalados en este artículo.
 
 La Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero deberá realizar a favor del Instituto para Devolver al Pueblo lo Robado, la transferencia de los bienes, derechos y obligaciones, misma que se llevará a cabo conforme a las disposiciones jurídicas aplicables.
 
@@ -1153,8 +1177,54 @@ Artículo Octavo. Los bienes muebles e inmuebles de la Financiera Nacional de De
 
 Artículo Noveno. Los derechos laborales de las personas trabajadoras, incluyendo las indemnizaciones correspondientes, de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, serán respetados íntegramente, conforme a las disposiciones laborales aplicables, por conducto del Instituto para Devolver al Pueblo lo Robado como liquidador. Para el pago de los conceptos referidos se estará a lo dispuesto en el artículo séptimo del presente Decreto.
 
-Artículo Décimo. Los recursos remanentes que resulten a la conclusión del proceso de liquidación de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, tendrán el tratamiento que corresponda, en términos de las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+Artículo Décimo. Los recursos remanentes que resulten a la conclusión del proceso de liquidación de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, serán concentrados en la Tesorería de la Federación bajo la naturaleza de aprovechamientos, tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar en términos de las disposiciones aplicables.
 
 Artículo Décimo Primero. La Secretaría de Hacienda y Crédito Público, como coordinadora de sector, una vez concluido el proceso de liquidación, informará al área correspondiente, para que se actualice la Relación de Entidades Paraestatales de la Administración Pública Federal.
 
 Artículo Décimo Segundo. Se abroga la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, publicada en el Diario Oficial de la Federación, el 26 de diciembre de 2002.
+
+D.O.F. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, Y DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, Y SE ABROGA SU LEY ORGÁNICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 29 DE MAYO DE 2023, PARA LA CREACIÓN DEL FONDO DE PENSIONES PARA EL BIENESTAR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
+
+SEGUNDO. El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
+
+El Decreto que el Ejecutivo Federal emita deberá prever, entre otros, lo siguiente:
+
+a) El Fondo de Pensiones para el Bienestar tendrá entre sus fines recibir, administrar, invertir y entregar los recursos que le sean aportados conforme a las disposiciones aplicables, pudiendo establecerse aportaciones adicionales a su patrimonio.
+
+b) Los recursos del patrimonio del Fondo de Pensiones para el Bienestar deberán permanecer afectos al fideicomiso e invertirse en el mismo hasta que sean destinados a sus fines, por lo que no podrán utilizarse para contribuir al equilibrio presupuestario.
+
+c) El Fondo de Pensiones para el Bienestar brindará a los institutos de seguridad social los recursos necesarios para procurar que los trabajadores que alcancen los sesenta y cinco años de edad y cuya pensión sea igual o menor a dieciséis mil setecientos setenta y siete pesos con sesenta y ocho centavos, que equivale al salario mensual promedio registrado en 2023 en el Instituto Mexicano del Seguro Social actualizado por la inflación estimada para el año 2024, reciban un complemento a las obligaciones del Gobierno Federal en relación con la pensión que se obtenga conforme a las disposiciones aplicables para que sea igual a su último salario hasta por el monto descrito en este párrafo. Dicho monto deberá actualizarse el primero de enero de cada año, de acuerdo con la inflación estimada para el año correspondiente. Lo anterior, siempre y cuando hayan iniciado la cotización en términos de la Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete, así como para aquellos trabajadores que se encuentren bajo el régimen de cuentas individuales que cotizan en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El complemento a que se refiere este inciso es intransferible y será exigible por los trabajadores que obtengan su dictamen o concesión de pensión, según corresponda, a partir de que transcurran 60 días de la constitución del Fondo de Pensiones para el Bienestar. Dicho complemento estará sujeto a la suficiencia del Fondo, así como a las reglas que determine la Secretaría de Hacienda y Crédito Público.
+
+d) El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos a los institutos de seguridad social.
+
+TERCERO. Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
+
+CUARTO. A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente (sic) netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
+
+QUINTO. A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Segundo de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
+
+SEXTO. El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
+
+SÉPTIMO. A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
+
+OCTAVO. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Los intereses correspondientes al ejercicio fiscal 2024 que deberán pagarse a las subcuentas de vivienda se calcularán, aprobarán y abonarán conforme a las disposiciones vigentes con anterioridad a la aprobación del presente Decreto.
+
+NOVENO. El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
+
+Para lo anterior, una vez que alguno de los Institutos transfiera al Fondo de Pensiones para el Bienestar los recursos de la subcuenta bajo su administración, incluyendo la de los trabajadores a que se refiere este Decreto que hubieran llegado a cumplir setenta o setenta y cinco años, según corresponda, lo deberá comunicar al resto de participantes del Sistema de Ahorro para el Retiro para que, en su caso, transfieran la otra subcuenta, a efecto de consolidar el ahorro de los titulares de las cuentas individuales en el referido fideicomiso.
+
+DÉCIMO. El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
+
+Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a efecto de que éstos realicen los pagos correspondientes en términos de la normativa aplicable, por lo que el Fondo no responderá ni se subrogará en las obligaciones a cargo de dichos institutos, ni respecto del destino que los mismos den a los recursos.
+
+DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
+
+En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
