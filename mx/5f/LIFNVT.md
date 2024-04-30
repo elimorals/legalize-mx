@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2023-11-29"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -886,23 +886,55 @@ El Instituto podrá emitir y notificar liquidaciones para el cobro de las aporta
 
 Las aportaciones previstas en esta Ley, así como los intereses de las subcuentas de vivienda a que se refiere el artículo 39, estarán exentos de toda clase de impuestos.
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 37.
 
-El derecho a recibir los recursos de la subcuenta de vivienda en los términos descritos en el artículo 40, cuando no sea ejercido por el trabajador y, en su caso, sus beneficiarios, una vez transcurridos los diez años de que sean exigibles, se sujetará a las condiciones descritas en el presente artículo.
+El derecho del trabajador y, en su caso, de sus beneficiarios a recibir los recursos de la subcuenta de vivienda, en los términos descritos en el artículo 40, es imprescriptible.
 
-Dentro del año previo al que se cumpla el plazo de diez años señalado en el párrafo anterior, el Instituto hará del conocimiento al trabajador y, en su caso, sus beneficiarios, un aviso sobre el tiempo que ha transcurrido desde que el derecho era exigible, de tal forma que pueda acudir al Instituto a reclamar los recursos descritos en el artículo 40.
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+La devolución de los recursos de la subcuenta de vivienda para los trabajadores que tengan menos de setenta años se realizará ante el Instituto y se sujetará a los procedimientos y requisitos que determine el Consejo de Administración, mediante disposiciones de carácter general que deberán ser publicadas en el Diario Oficial de la Federación y en el portal de Internet del propio Instituto.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+Dentro del año previo a que el trabajador cumpla setenta años, el Instituto hará del conocimiento del trabajador y, en su caso, de sus beneficiarios, del Instituto Mexicano del Seguro Social y la empresa operadora de la Base de Datos Nacional del Sistema de Ahorro para el Retiro un aviso sobre el tiempo que ha transcurrido desde que el derecho era exigible, de tal forma que pueda acudir al Instituto a reclamar los recursos descritos en el artículo 40.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 Este aviso podrá notificarse disponiendo de cualquier medio que determine el Instituto mediante disposiciones de carácter general que deberán ser publicadas en el Diario Oficial de la Federación y en el portal de Internet del Instituto.
 
-De forma independiente a la notificación, en caso de que hayan transcurrido los diez años sin que el trabajador y, en su caso, los beneficiarios hubieren ejercido su derecho a recibir los recursos descritos en este artículo, el Instituto podrá utilizar dichos recursos para constituir una reserva financiera que será administrada por el propio Instituto.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-Los procedimientos y requisitos que deberán cumplir los trabajadores y, en su caso, sus beneficiarios para el reclamo de los recursos que se hubieran aportado a la reserva financiera señalada en el párrafo anterior, serán determinados por el Consejo de Administración del Instituto, mediante disposiciones de carácter general que deberán ser publicadas en el Diario Oficial de la Federación y en el portal de Internet del Instituto.
+De forma independiente a la notificación, en caso de que el trabajador cumpla setenta años sin que dicho trabajador y, en su caso, los beneficiarios hubieren ejercido su derecho a recibir los recursos descritos en este artículo, el Instituto deberá transferir dichos recursos al Fondo de Pensiones para el Bienestar. El Instituto deberá notificar al fiduciario del Fondo la subcuenta a la que deberán aplicarse dichos recursos en términos de las reglas de operación del mismo y demás disposiciones aplicables. Lo anterior no será aplicable a los recursos de las subcuentas de vivienda de aquellos trabajadores que cuenten con una relación laboral activa ante el Instituto.
 
-El trabajador y, en su caso, sus beneficiarios podrán acceder al mecanismo de reclamación de forma permanente, y de ser procedente, el Instituto reconocerá los montos a pagar, considerando los intereses que correspondan en términos de los lineamientos.
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-La suficiencia de la Reserva Financiera, deberá ser dictaminada de forma anual, por un tercero independiente, designado por el Consejo de Administración del Instituto.
+El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos al Instituto.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+Para garantizar la imprescriptibilidad establecida en el párrafo primero del presente artículo, el Fondo contará con una reserva constituida con cargo a los recursos a que se refiere este artículo y en los términos que establezca su contrato constitutivo a fin de garantizar la suficiencia financiera para que el Instituto pueda llevar a cabo, en su caso, la devolución de los recursos de los trabajadores o sus beneficiarios.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+El trabajador y, en su caso, sus beneficiarios podrán acudir ante el Instituto para acceder al mecanismo de devolución de forma permanente, y de ser procedente, el Instituto reconocerá los montos a pagar, considerando los intereses que correspondan en términos de las disposiciones que resulten aplicables conforme a este artículo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+El ahorro de los derechohabientes que sea transferido al Fondo de Pensiones para el Bienestar generará intereses conforme al rendimiento neto derivado de las inversiones efectivamente realizadas por dicho Fondo en apego al régimen de inversión que determine el Comité Técnico. El Instituto será el encargado de realizar la individualización correspondiente con base en el rendimiento que el propio Fondo le reporte.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+La suficiencia financiera de la reserva será determinada cada dos años por el Instituto, debiendo comunicarlo al Comité Técnico del Fondo conforme a sus reglas de operación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+Para dar cumplimiento a lo anterior y a las disposiciones de la Ley del Seguro Social, el Instituto podrá coordinarse con el Instituto Mexicano del Seguro Social a efecto de facilitar la devolución de los recursos transferidos e identificar a los trabajadores a los que se efectuarán los abonos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
 El Instituto tomará las medidas necesarias para atender, en todo momento, las reclamaciones que puedan presentarse por los trabajadores y sus beneficiarios.
 
@@ -922,33 +954,33 @@ La información que manejen las administradoras de fondos para el retiro, así c
 
 La documentación y demás características de estas cuentas no previstas en esta Ley y en la Ley del Seguro Social se sujetarán a lo dispuesto por la Ley de los Sistemas de Ahorro para el Retiro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 39.
 
-El saldo de las subcuentas de vivienda causará intereses a la tasa que determine el Consejo de Administración del Instituto.
+Las subcuentas de vivienda recibirán intereses en función del remanente de operación del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-El interés anual que se acreditará a las subcuentas de vivienda, se integrará con una cantidad básica que se abonará en doce exhibiciones al final de cada uno de los meses de enero a diciembre, más una cantidad de ajuste al cierre del ejercicio.
+Al cierre de cada ejercicio, la Administración presentará para aprobación del Consejo de Administración la determinación de los ingresos y egresos, así como el cálculo de las reservas, los recursos que deban destinarse para preservar el patrimonio, y el remanente de operación resultante de restar a los ingresos los demás conceptos señalados.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-Para obtener la cantidad básica se aplicarán, al saldo de las subcuentas de vivienda, las tasas aplicables a cada una de las denominaciones que integren los activos financieros del Instituto, con base en la proporción que cada una de estas denominaciones guarde sobre la suma del total de los activos financieros. Dichas tasas aplicables serán las siguientes:
+El Consejo de Administración deberá procurar que la tasa de interés que apruebe anualmente permita conservar el poder adquisitivo de los ahorros de las personas derechohabientes acumulados en las subcuentas de vivienda.
 
-I. Para la proporción asociada a los créditos hipotecarios denominados en Salarios Mínimos, será la tasa de incremento al Salario Mínimo, sin que ésta pueda exceder la tasa de incremento porcentual de la Unidad de Medida y Actualización (UMA) para el mismo periodo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-II. Para la proporción asociada a los créditos hipotecarios denominados en Pesos, será la tasa de interés nominal anual que resulte de promediar de manera aritmética, los incrementos anuales que hubiese observado el Índice Nacional de Precios al Consumidor durante los últimos cinco años calendario.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-III. Para la proporción asociada a los activos financieros no considerados en los párrafos anteriores, se le aplicará el retorno del portafolio de referencia que haya aprobado para tal fin el Consejo de Administración a través de su Comité de Inversiones o cualquier otro Órgano Colegiado designado para la gestión de las inversiones del Instituto.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-El Consejo de Administración procederá, al cierre de cada ejercicio, a calcular los ingresos y egresos del Instituto de acuerdo con los criterios y disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en el ejercicio de las atribuciones que le son conferidas en el Artículo 66 de la presente Ley, para determinar el remanente de operación. No se considerarán remanentes de operación las cantidades que se lleven a las reservas previstas en esta misma Ley, así como aquellas destinadas a preservar el patrimonio del Instituto.
+Una vez aprobado el remanente de operación del Instituto por el Consejo de Administración en los términos del párrafo anterior, procederá a aprobar la tasa de interés que deberá pagarse anualmente a las subcuentas de vivienda, procurando que permita conservar el poder adquisitivo de los ahorros de las personas derechohabientes, la cual deberá enterarse a más tardar en el mes de marzo de cada año.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-Una vez determinado por el Consejo de Administración el remanente de operación del Instituto en los términos del párrafo anterior, se le disminuirá la cantidad básica para obtener la cantidad de ajuste resultante. Dicha cantidad de ajuste se acreditará en las subcuentas de vivienda a más tardar en el mes de marzo de cada año.
+El Consejo de Administración podrá emitir disposiciones de carácter general que deberá publicar en el Diario Oficial de la Federación y en el portal de Internet del Instituto a efecto de establecer parámetros y mecanismos para la individualización diferenciada de los intereses a las subcuentas de vivienda de las personas derechohabientes, previendo, al menos, el otorgamiento de un mayor interés a los trabajadores con cincuenta y cinco años de edad en adelante.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -1054,9 +1086,25 @@ En los términos de la fracción XII del apartado "A" del artículo 123 de la Co
 
 Las aportaciones, así como los descuentos para cubrir los créditos que otorgue el Instituto que reciban las entidades receptoras autorizadas conforme a esta Ley, deberán ser transferidas a la cuenta que el Banco de México le lleve al Instituto, en los términos y conforme a los procedimientos que se establezcan en el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro.
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE ABRIL DE 2024)</small>
 
-Los recursos excedentes deberán invertirse, en tanto se aplican a los fines señalados en el artículo anterior, en los valores que determine el Consejo de Administración, con base en los previstos para la inversión de los recursos del Sistema de Ahorro para el Retiro, garantizando en todo momento que el Instituto cuente con los recursos requeridos para atender las necesidades de vivienda de los trabajadores.
+Los recursos financieros que no se destinen a los fines señalados en el artículo anterior deberán ser invertidos en valores. Para efectos de cumplir con el mandato anterior, el Consejo de Administración deberá:
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+I. Determinar los valores en que podrán invertirse dichos recursos, con base en los previstos para la inversión de los recursos del Sistema de Ahorro para el Retiro;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+II. Aprobar, a través de su comité auxiliar en materia de inversiones, un portafolio de referencia y sus reglas de operación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+III. Aprobar la normativa que establezca las políticas generales aplicables en materia de inversiones, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+IV. Garantizar en todo momento que el Instituto cuente con los recursos requeridos para atender las necesidades de vivienda de los trabajadores.
 
 > <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2012)</small>
 
@@ -1945,3 +1993,47 @@ D.O.F. 29 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 251 DE LA LEY DEL SEGURO SOCIAL Y 146 DE LA LEY FEDERAL DEL TRABAJO, Y SE ADICIONA UN ARTÍCULO 59 BIS A LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
 
 Único.- El presente Decreto entrará en vigor el primero de enero del año posterior a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, Y DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, Y SE ABROGA SU LEY ORGÁNICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 29 DE MAYO DE 2023, PARA LA CREACIÓN DEL FONDO DE PENSIONES PARA EL BIENESTAR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
+
+SEGUNDO. El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
+
+El Decreto que el Ejecutivo Federal emita deberá prever, entre otros, lo siguiente:
+
+a) El Fondo de Pensiones para el Bienestar tendrá entre sus fines recibir, administrar, invertir y entregar los recursos que le sean aportados conforme a las disposiciones aplicables, pudiendo establecerse aportaciones adicionales a su patrimonio.
+
+b) Los recursos del patrimonio del Fondo de Pensiones para el Bienestar deberán permanecer afectos al fideicomiso e invertirse en el mismo hasta que sean destinados a sus fines, por lo que no podrán utilizarse para contribuir al equilibrio presupuestario.
+
+c) El Fondo de Pensiones para el Bienestar brindará a los institutos de seguridad social los recursos necesarios para procurar que los trabajadores que alcancen los sesenta y cinco años de edad y cuya pensión sea igual o menor a dieciséis mil setecientos setenta y siete pesos con sesenta y ocho centavos, que equivale al salario mensual promedio registrado en 2023 en el Instituto Mexicano del Seguro Social actualizado por la inflación estimada para el año 2024, reciban un complemento a las obligaciones del Gobierno Federal en relación con la pensión que se obtenga conforme a las disposiciones aplicables para que sea igual a su último salario hasta por el monto descrito en este párrafo. Dicho monto deberá actualizarse el primero de enero de cada año, de acuerdo con la inflación estimada para el año correspondiente. Lo anterior, siempre y cuando hayan iniciado la cotización en términos de la Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete, así como para aquellos trabajadores que se encuentren bajo el régimen de cuentas individuales que cotizan en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El complemento a que se refiere este inciso es intransferible y será exigible por los trabajadores que obtengan su dictamen o concesión de pensión, según corresponda, a partir de que transcurran 60 días de la constitución del Fondo de Pensiones para el Bienestar. Dicho complemento estará sujeto a la suficiencia del Fondo, así como a las reglas que determine la Secretaría de Hacienda y Crédito Público.
+
+d) El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos a los institutos de seguridad social.
+
+TERCERO. Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
+
+CUARTO. A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
+
+QUINTO. A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Segundo de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
+
+SEXTO. El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
+
+SÉPTIMO. A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
+
+OCTAVO. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Los intereses correspondientes al ejercicio fiscal 2024 que deberán pagarse a las subcuentas de vivienda se calcularán, aprobarán y abonarán conforme a las disposiciones vigentes con anterioridad a la aprobación del presente Decreto.
+
+NOVENO. El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
+
+Para lo anterior, una vez que alguno de los Institutos transfiera al Fondo de Pensiones para el Bienestar los recursos de la subcuenta bajo su administración, incluyendo la de los trabajadores a que se refiere este Decreto que hubieran llegado a cumplir setenta o setenta y cinco años, según corresponda, lo deberá comunicar al resto de participantes del Sistema de Ahorro para el Retiro para que, en su caso, transfieran la otra subcuenta, a efecto de consolidar el ahorro de los titulares de las cuentas individuales en el referido fideicomiso.
+
+DÉCIMO. El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
+
+Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a efecto de que éstos realicen los pagos correspondientes en términos de la normativa aplicable, por lo que el Fondo no responderá ni se subrogará en las obligaciones a cargo de dichos institutos, ni respecto del destino que los mismos den a los recursos.
+
+DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
+
+En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
