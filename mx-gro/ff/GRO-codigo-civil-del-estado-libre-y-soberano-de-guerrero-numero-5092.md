@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2024-03-12"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -1719,9 +1719,11 @@ En las poblaciones en donde no haya oficial del Registro Civil, el niño será p
 
 El nacimiento será declarado por el padre o la madre, en defecto de éstos, por los médicos, cirujanos, matronas y otras personas que hayan asistido al parto. Si el nacimiento se verificó en una casa distinta de la paterna, por la persona en casa de la cual se haya realizado el alumbramiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### Artículo 323.
 
-El acta de nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y apellidos que le pongan sin que por motivo alguno puedan omitirse: la expresión de si es presentado vivo o muerto, el nombre, edad, domicilio y nacionalidad de los abuelos paternos, maternos y de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotarán los datos anteriores y su relación de parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y los apellidos de los progenitores en el orden de prelación que ellos convengan, el Juez del Registro Civil deberá especificar, de forma expresa, el orden que acuerden, sin que por motivo alguno puedan omitirse: la expresión de si es presentado vivo o muerto, el nombre, edad, domicilio y nacionalidad de los abuelos paternos, maternos y de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotarán los datos anteriores y su relación de parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
 
@@ -3803,13 +3805,21 @@ I. Por la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
 II. Por la emancipación del menor; y
 
-III. Por la mayoría de edad del hijo.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+III. Por llegar a la mayoría de edad de quien o quienes se encuentren sujetos a ella; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV. Por violencia familiar reiterada declarada por sentencia firme; entendiéndose como tal, las conductas realizadas por más de una vez al núcleo familiar contra alguno de sus miembros o en su conjunto y en los términos establecidos por el Artículo 27 bis de este Código.
 
 ###### Artículo 622.
 
 La patria potestad se perderá:
 
-I. Cuando el que la ejerza fuere condenado expresamente a la pérdida de ese derecho, o cuando fuere condenado dos o más veces por delitos graves;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. Cuando el que la ejerza fuere condenado expresamente a la pérdida de ese derecho; cuando fuere condenado por delito grave; o, cuando el titular fuere condenado por el delito de feminicidio en agravio de la madre de la o las personas menores sujetas a ella;
 
 II. En los casos de divorcio, teniendo en cuenta lo que dispone el articulo 36 de la Ley del Divorcio del Estado;
 
@@ -3831,15 +3841,33 @@ II. Por la ausencia declarada en forma; y
 
 III. Por sentencia condenatoria que imponga como pena esta suspensión.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV. Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### Artículo 624.
 
-Los Jueces podrán privar de la patria potestad al que la ejerza o modificar su ejercicio si a los que estuvieren bajo su patria potestad no los educare o les impusiere normas de conducta que dañen su salud física o mental.
+Los Jueces podrán privar de la patria potestad o modificar su ejercicio, vigilando siempre que sea en beneficio de la o las personas menores sujetas a ella, en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-La patria potestad podrá ser restringida cuando el que la ejerce, incurre en los actos de violencia familiar a que se refiere el artículo 27 BIS del presente Código.
+I. Cuando quien tenga la titularidad de la patria potestad de la o las personas menores sujetas a ella, no le o les educare o imponga sobre ella o ellas, normas de conducta que dañe o dañen su salud física o mental;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+II. Cuando exista auto de vinculación a proceso dictado por el delito de feminicidio o su tentativa, en contra de la madre de la o las personas menores sujetas a la patria potestad;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+III.- Cuando quien ejerce la patria potestad, incurra en actos de violencia familiar a la que se refiere el artículo 27 bis del presente Código; y,
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV.- Cuando quien ejerce la patria potestad, realice conductas reiteradas para evitar la convivencia de la o las personas menores con quien o quienes tengan reconocido judicialmente su derecho a la misma.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### Artículo 625.
 
@@ -16080,3 +16108,13 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 492 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
