@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-491-de-bienestar-animal-del-estado-de-guerrero-10628
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2019-09-26"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2014.
 
@@ -737,6 +737,8 @@ II. Promoverá métodos y técnicas de adiestramiento sin la utilización de cas
 
 Toda persona, física o moral, tiene la obligación de brindar un trato digno y respetuoso a cualquier animal.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 491 PUBLICADO EN EL P.O. 30 DE ABRIL DE 2024, PÁGINA 43.]</small>
+
 ###### Artículo 43.
 
 Se consideran actos de crueldad y maltrato que deben ser sancionados conforme lo establecido en la presente Ley y demás ordenamientos jurídicos aplicables, realizados en perjuicio de cualquier animal, provenientes de sus propietarios, poseedores, encargados o de terceros que entren en relación con ellos:
@@ -775,9 +777,9 @@ XVI. Atropellarlos de manera intencional, cuando esto se pueda evitar ya sea en 
 
 XVII. Cualquier otro maltrato o tortura, como puncionar sus ojos, fracturar sus extremidades antes de sacrificarlos o arrojarlos vivos o agonizantes al agua hirviendo; envenenarlos, quemarlos, golpearlos o asfixiarlos por cualquier medio, así como los actos u omisiones carentes de motivo razonable que causen sufrimiento o que pongan en peligro su vida; y
 
-XVIII. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-Los espectáculos de charrería, pelea de gallos y fiestas tradicionales locales, no se considerarán como actos de crueldad o maltrato, para los efectos del presente artículo, siempre y cuando se realicen conforme a los reglamentos que al efecto emitan la SEMAREN en coordinación con las autoridades municipales competentes.
+XVIII. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables. Los espectáculos de charrería y fiestas tradicionales locales, no se considerarán como actos de crueldad o maltrato, para los efectos del presente artículo, siempre y cuando se realicen conforme a los reglamentos que al efecto emitan la SEMAREN en coordinación con las autoridades municipales competentes.
 
 ###### Artículo 44.
 
@@ -1628,3 +1630,13 @@ CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 QUINTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
 
 SEXTO.- Comuníquese a la Secretaría de Educación del Estado de Guerrero para la aplicación en lo que le corresponde a la reforma realizada a la Ley Número 491 de Bienestar Animal del estado de Guerrero. Así como que informe a los órganos administrativos respectivos para su aplicación.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 491 POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 375; SE ADICIONAN UN PÁRRAFO NOVENO AL ARTÍCULO 47; UN CUARTO PÁRRAFO A LA FRACCIÓN VII, RECORRIÉNDOSE EN CONSECUENCIA, LAS SUBSECUENTES, DEL ARTÍCULO 135; EL ARTÍCULO 170 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 208 Y LOS ARTÍCULOS 229 BIS Y 229 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499 Y LA MODIFICACIÓN DE LA FRACCIÓN XVIII DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
