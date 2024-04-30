@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-nacional-financiera-sociedad-46905"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2022-03-03"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -387,7 +387,9 @@ XXIV. Las que le confiera el presente Reglamento, y
 
 XXV. Las que le delegue el Consejo Directivo.
 
-El Director General podrá, mediante acuerdos delegatorios, ejercer las facultades previstas en el artículo 23 de la Ley Orgánica, excepto aquellas que sean indelegables a través de los directores generales adjuntos, coordinadores, directores y demás personal de la Sociedad.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
+
+El Director General podrá, mediante acuerdos delegatorios, ejercer las facultades previstas en el artículo 23 de la Ley Orgánica, excepto aquellas que sean indelegables a través de los titulares de unidad, directores y demás personal de la Sociedad.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -487,29 +489,31 @@ Los servidores públicos de la Sociedad asumen con su firma, la responsabilidad 
 
 De conformidad con lo dispuesto por el artículo 23, fracción I de la Ley Orgánica, el Director General tendrá la representación legal de la Sociedad para intervenir en los procedimientos judiciales, administrativos o laborales en los que la Sociedad sea parte o pueda resultar afectada. Dicho servidor público podrá designar apoderados para llevar a cabo la tramitación de los referidos procedimientos.
 
-El Director General Adjunto Jurídico y Fiduciario y el Director Jurídico Contencioso y de Crédito, indistintamente, representarán al Director General de la Sociedad, directores generales adjuntos, coordinadores y directores de área, para intervenir en los juicios de amparo en los que éstos figuren como autoridad responsable, para efectos del artículo 9 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+El Titular de la Unidad Jurídica y Fiduciaria y el Titular de la Dirección Jurídica Contenciosa y de Crédito, indistintamente, representarán al Director General de la Sociedad, titulares de unidad y directores de área, para intervenir en los juicios de amparo en los que éstos figuren como autoridad responsable, para efectos del artículo 9 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-En las ausencias del Director General de la Sociedad, éste será suplido por el Director General Adjunto Jurídico y Fiduciario o el Director General Adjunto de Administración y Finanzas, en el orden indicado.
+En las ausencias del Director General de la Sociedad, éste será suplido por el Titular de la Unidad Jurídica y Fiduciaria o el Titular de la Unidad de Administración y Finanzas, en el orden indicado.
 
-Los directores generales adjuntos y coordinadores serán suplidos en sus ausencias por los directores de área que de ellos dependan, en los asuntos de su respectiva competencia, o bien que al efecto designen, mientras que los directores de área serán suplidos en sus ausencias, por los subdirectores que les estén adscritos, en los asuntos de su respectiva competencia, o bien que al efecto designen.
+Los titulares de unidad serán suplidos en sus ausencias por los directores de área que de ellos dependan, en los asuntos de su respectiva competencia, o bien que al efecto designen, mientras que los directores de área serán suplidos en sus ausencias, por los subdirectores que les estén adscritos, en los asuntos de su respectiva competencia, o bien que al efecto designen.
 
-Las facultades que hayan sido delegadas al Director General de la Sociedad o a algún director general adjunto podrán ejercerse, en sus ausencias, en los términos antes señalados.
+Las facultades que hayan sido delegadas al Director General de la Sociedad o a algún titular de unidad podrán ejercerse, en sus ausencias, en los términos antes señalados.
 
-> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
-Cuando por cualquier motivo las direcciones generales adjuntas o las coordinaciones quedaran vacantes, el Director General de la Sociedad podrá designar a un encargado del despacho, de entre los servidores públicos adscritos a la unidad administrativa de que se trate. La designación como encargado del despacho no implica modificación alguna de las condiciones salariales, laborales y administrativas de quien ejerza de esta forma dicho encargo.
+Cuando por cualquier motivo las unidades quedaran vacantes, el Director General de la Sociedad podrá designar a un encargado del despacho, de entre los servidores públicos adscritos a la unidad administrativa de que se trate. La designación como encargado del despacho no implica modificación alguna de las condiciones salariales, laborales y administrativas de quien ejerza de esta forma dicho encargo.
 
-> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 35.
 
-Los directores generales adjuntos, coordinadores y directores de área están facultados para expedir certificaciones de constancias de documentos relativos a los asuntos de su competencia.
+Los titulares de unidad y directores de área están facultados para expedir certificaciones de constancias de documentos relativos a los asuntos de su competencia
 
 ## TRANSITORIOS
 
@@ -598,5 +602,21 @@ El capital social pagado de la institución a la vigencia del presente Acuerdo a
 Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
 
 ###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
+
+D.O.F. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entra en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
 
 De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
