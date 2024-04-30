@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2021-12-27"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -248,6 +248,12 @@ La entrega podrá ser directa o, a solicitud de cada Municipio, a través de un 
 > <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
 
 Las formulas, metodologías y montos que se utilicen y determinen para los fondos señalados en el presente artículo, se publicarán en el Boletín Oficial, a más tardar el 31 de enero del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2024)</small>
+
+###### Artículo 11 Bis.
+
+De las cantidades que el Estado perciba por concepto del Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF), la parte que corresponda a los Municipios será distribuida con base en los criterios y porcentajes que se establecen en los artículos 5, 6 y 8 Bis de la presente ley, según corresponda el concepto del recurso.
 
 ###### Artículo 12.
 
@@ -634,3 +640,11 @@ B.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2807 SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero del 2022, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3030 SE ADICIONA UN ARTÍCULO 11 BIS A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al presente decreto.
