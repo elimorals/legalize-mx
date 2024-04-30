@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2024-03-12"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,23 @@ state: "GRO"
 ---
 # CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 358
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
-Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
+AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
-JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+VICENTE FOX QUESADA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
 
-Que el H. Congreso Local, se ha servido comunicarme que:
+QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 
-LA QUINCUAGESIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, TUVO A BIEN EXPEDIR:
+DECRETO NUMERO 350.
 
-CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
+LA H. QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-Disposiciones Generales
+LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
 ###### Artículo 1.
 
@@ -85,75 +85,263 @@ La ley sólo queda abrogada o derogada por otra posterior que así lo declare ex
 
 ###### Artículo 10.
 
-Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
+Son obligaciones de los habitantes del Municipio:
+
+I.- Respetar las instituciones y autoridades de los gobiernos federal, estatal y municipal, así como acatar sus leyes y reglamentos;
+
+II.- Recibir la educación básica y hacer que sus hijos o pupilos menores la reciban, en la forma prevista por las leyes de la materia;
+
+III.- Contribuir para los gastos públicos en la forma que lo dispongan las leyes;
+
+IV.- Prestar auxilio a las autoridades, cuando para ello sean requeridos legalmente;
+
+V.- Cumplir, en su caso, con las obligaciones que señala la Ley Electoral; y
+
+VI.- Las demás que dispongan las leyes, reglamentos y disposiciones administrativas de observancia general.
 
 ###### Artículo 11.
 
-Las leyes que establecen excepción a las reglas generales no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
+En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+
+Asimismo, promoverán que la educación básica que se imparta, sea tanto en idioma español como en la lengua indígena correspondiente.
+
+Para los efectos de los párrafos anteriores, los ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 12.
 
-Las leyes del Estado benefician e imponen deberes a todas las personas que se hallen en cualquier parte de su territorio, sean o no oriundos del Estado, tengan su domicilio o residencia en él o sean transeúntes. Respecto de los extranjeros se estará a lo dispuesto por las leyes federales.
+El Plan de Gobierno Municipal, deberá contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas a que hace referencia el artículo anterior.
 
 ###### Artículo 13.
 
-Los efectos jurídicos de actos y contratos celebrados fuera de la República que deban ser ejecutados en el territorio del Estado, se regirán por las disposiciones federales y por las locales que les sean aplicables.
+Los ayuntamientos, promoverán la participación de sus habitantes para el desarrollo comunitario.
 
 ###### Artículo 14.
 
-Los efectos jurídicos de actos y contratos celebrados dentro de la República, pero fuera del territorio del Estado, que deban ser ejecutados en éste, se regirán por las disposiciones del presente Código y por las leyes que se les sean aplicables.
+El Ayuntamiento podrá celebrar consultas populares, cuando se requiera tomar decisiones que por su naturaleza afecten el interés de la comunidad.
+
+Los habitantes podrán solicitar al Ayuntamiento, la realización de consultas populares, con fines específicos que atiendan al interés público.
 
 ###### Artículo 15.
 
-Los bienes inmuebles sitos en el Estado y los bienes muebles que en el mismo se encuentren, se regirán por las disposiciones de este Código, aún cuando los propietarios sean extranjeros.
+Los ayuntamientos podrán instituir como mecanismos de consulta popular, el plebiscito y el referéndum; el primero para la aprobación o ratificación de actos de gobierno del Ayuntamiento, cuando éstos sean de eminente orden público e interés social; y el segundo, para la ratificación de las iniciativas de reformas y adiciones a los bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general.
 
 ###### Artículo 16.
 
-Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde ocurran. Sin embargo, los mexicanos o extranjeros residentes fuera del Estado quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución en la mencionada demarcación.
+El plebiscito y el referéndum, se realizarán conforme a las bases que se determinen en el reglamento que para el efecto expida el Ayuntamiento.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 17.
 
-Los habitantes del Estado tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, de no hacerlo así, quedarán sujetos a las sanciones establecidas en este Código y en las leyes relativas.
+Las asociaciones de habitantes, serán organismos de participación y colaboración en la gestión de demandas y propuestas de interés general, de conformidad con las leyes de la materia y el reglamento correspondiente.
 
 ###### Artículo 18.
 
-Cuando una persona, explotando la ignorancia, la inexperiencia, la miseria extrema o el grave apuro pecuniario de otra, obtenga un lucro excesivo, evidentemente desproporcionado a lo que ella por su parte se obliga, la persona perjudicada tiene derecho a elegir entre pedir la nulidad del negocio o la reducción equitativa de su obligación, o el aumento equitativo de la obligación de la otra parte, más el pago de los daños y perjuicios en todo caso.
+Las asociaciones de habitantes podrán colaborar con el Ayuntamiento, a través de las siguientes acciones:
+
+I.- Participar en los consejos municipales;
+
+II.- Proponer medidas para la preservación del medio ambiente;
+
+III.- Proponer medidas para mejorar la prestación de los servicios públicos y la realización de obra pública; y
+
+IV.- Proponer que determinada necesidad colectiva, se declare servicio público, a efecto de que los ayuntamientos presenten las iniciativas conducentes.
 
 ###### Artículo 19.
 
-El silencio, obscuridad o insuficiencia de la ley no autorizan a los jueces o tribunales para dejar de resolver una controversia.
+Los municipios en que se divide el Estado, con sus respectivas cabeceras municipales son:
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Municipio Cabecera
+
+Abasolo Abasolo
+
+Acámbaro Acámbaro
+
+Apaseo el Alto Apaseo el Alto
+
+Apaseo el Grande Apaseo el Grande
+
+Atarjea Atarjea
+
+Celaya Celaya
+
+Comonfort Comonfort
+
+Coroneo Coroneo
+
+Cortazar Cortazar
+
+Cuerámaro Cuerámaro
+
+Dolores Hidalgo Cuna de la Dolores Hidalgo Cuna de
+
+Independencia Nacional la Independencia Nacional
+
+Doctor Mora Doctor Mora
+
+Guanajuato Guanajuato
+
+Huanímaro Huanímaro
+
+Irapuato Irapuato
+
+Jaral del Progreso Jaral del Progreso
+
+Jerécuaro Jerécuaro
+
+León León de los Aldama
+
+Manuel Doblado Ciudad Manuel Doblado
+
+Moroleón Moroleón
+
+Ocampo Ocampo
+
+Pénjamo Pénjamo
+
+Pueblo Nuevo Pueblo Nuevo
+
+Purísima del Rincón Purísima de Bustos
+
+Romita Romita
+
+Salamanca Salamanca
+
+Salvatierra Salvatierra
+
+San Diego de la Unión San Diego de la Unión
+
+San Felipe San Felipe
+
+San Francisco del Rincón San Francisco del Rincón
+
+San José Iturbide San José Iturbide
+
+San Luis de la Paz San Luis de la Paz
+
+San Miguel de Allende San Miguel de Allende
+
+Santa Catarina Santa Catarina
+
+Santa Cruz de Juventino Rosas Juventino Rosas
+
+Santiago Maravatío, Santiago Maravatío
+
+Silao Silao
+
+Tarandacuao Tarandacuao
+
+Tarimoro Tarimoro
+
+Tierra Blanca Tierra Blanca
+
+Uriangato Uriangato
+
+Valle de Santiago Valle de Santiago
+
+Victoria Victoria
+
+Villagrán Villagrán
+
+Xichú Xichú
+
+Yuriria Yuriria
 
 ###### Artículo 20.
 
-Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la ley o a su interpretación jurídica. A falta de ley, se resolverán conforme a los principios generales de derecho o por analogía.
+Los municipios conservarán los límites territoriales que tengan a la fecha de la expedición de la presente Ley, según sus respectivos decretos de constitución o los que histórica y geográficamente se reconozcan entre sí.
 
 ###### Artículo 21.
 
-Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trata de evitarse perjuicios y no a favor del que pretenda obtener lucro.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ###### Artículo 22.
 
-Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
+Para efectos administrativos, los municipios podrán dividirse en delegaciones urbanas y rurales, que se constituirán con las categorías políticas que se estimen convenientes, para el mejor funcionamiento del Municipio.
+
+La extensión, límites y competencia de las delegaciones, serán determinadas por el Ayuntamiento, dentro de su territorio.
 
 ###### Artículo 23.
 
-La ignorancia de las leyes no excusa su cumplimiento; pero los jueces teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
+Los municipios, previa declaratoria del Ayuntamiento, podrán contar con las siguientes categorías políticas, siempre y cuando el centro de población, reúna los requisitos que a continuación se establecen para cada caso:
+
+Ciudad.- Centro de población que tenga la calidad de cabecera municipal o cuyo censo arroje un número mayor de 20,000 habitantes y los servicios de: agua potable y alcantarillado, energía eléctrica y alumbrado público, limpia y recolección de basura, mercados, panteones, rastros, calles pavimentadas, parques y jardines, bomberos, seguridad pública, tránsito, transporte público, unidad deportiva, servicios médicos, hospital, servicios asistenciales públicos, cárcel y planteles educativos de preescolar, primaria, secundaria y media superior.
+
+Villa.- Centro de población cuyo censo arroje un número mayor de 7,000 habitantes y los servicios de: agua potable y alcantarillado, energía eléctrica, alumbrado público, calles pavimentadas, servicios médicos, policía, mercado, panteón, lugares de recreo y para la práctica del deporte, cárcel y centros de educación preescolar, primaria, secundaria y media superior.
+
+Pueblo.- Centro de población cuyo censo arroje un número mayor de 2,500 habitantes y los servicios de: agua potable y alcantarillado, energía eléctrica, alumbrado público, policía, mercado, panteón, lugares de recreo y para la práctica del deporte y centros de educación preescolar, primaria y secundaria.
+
+Ranchería.- Centro de población cuyo censo arroje un número mayor de 500 habitantes y los servicios de: agua potable y alcantarillado, energía eléctrica, camino vecinal y escuela primaria.
+
+Caserío.- Centro de población hasta con 500 habitantes, en la zona rural.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento determinará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento deberá publicar las declaratorias de las categorías políticas y las relativas a las delegaciones municipales, en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 24.
 
-Los magistrados, jueces y agentes del ministerio público incurren en responsabilidad oficial y en responsabilidad civil y en su caso penal, cuando no cumplan los deberes que este Código les impone.
+En las categorías políticas a que se refiere el artículo anterior, el Ayuntamiento promoverá el desarrollo urbano, con base al plan de desarrollo urbano municipal, procurando atender las necesidades de la población, dotándoles de los servicios públicos correspondientes, en atención a sus características y requerimientos.
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
-## TITULO PRIMERO. De las personas
+## TITULO PRIMERO
 
-### Capítulo I. De las personas físicas o naturales
+### CAPITULO UNICO. DISPOSICIONES PRELIMINARES
+
+###### Artículo 1o.
+
+La presente Ley tiene por objeto regular el gobierno, la estructura orgánica y el funcionamiento de los municipios, desarrollando las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado.
+
+###### Artículo 2o.
+
+El Municipio libre es una institución de orden público, base de la división territorial y de la organización política y administrativa del Estado, constituido por una comunidad de personas, establecida en un territorio determinado, dotado de personalidad jurídica y patrimonio propio, autónomo en su régimen interior y con libre administración de su hacienda.
+
+###### Artículo 3o.
+
+El Municipio será gobernado y administrado por un Ayuntamiento, cuyos miembros se elegirán por sufragio universal, libre, secreto y directo, mediante los principios de mayoría relativa y de representación proporcional, de conformidad con la Constitución Política para el Estado de Guanajuato y la Ley Electoral respectiva.
+
+###### Artículo 4o.
+
+La autoridad municipal únicamente puede hacer lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
+
+El Ayuntamiento deberá comunicar por escrito, en un término no mayor de treinta días hábiles, el acuerdo que recaiga a toda gestión que se le presente. Asimismo, el presidente municipal y los titulares de las dependencias y entidades de la administración pública municipal, deberán hacerlo en un plazo no mayor de quince días hábiles.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+En caso de que el Ayuntamiento, el presidente municipal o los titulares de las dependencias y entidades de la administración pública municipal, no dieren respuesta en el plazo señalado en el párrafo anterior, se tendrá por contestando en sentido negativo.
+
+###### Artículo 5o.
+
+El Ayuntamiento constituye la autoridad en el Municipio, es independiente y no habrá autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+De las controversias que surjan entre los municipios y entre éstos y el Poder Ejecutivo o el Poder Legislativo, resolverá el Pleno del Supremo Tribunal de Justicia del Estado, a excepción de lo previsto por el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### Artículo 6o.
+
+Las relaciones laborales entre los municipios y sus trabajadores, se regirán por las disposiciones de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+###### Artículo 7o.
+
+Los servidores públicos municipales, serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y demás leyes aplicables.
 
 ###### Artículo 25.
 
-Son personas físicas o naturales todos los seres humanos. La personalidad jurídica de éstas comienza con el nacimiento y termina con la muerte, pero desde que un ser humano es concebido queda bajo la protección de la ley y se le tiene por nacido para los efectos previstos en este Código.
+Los ayuntamientos podrán promover la fusión o la división de las categorías políticas, de conformidad con el plan de desarrollo urbano municipal. Para tal efecto, se requerirá el acuerdo aprobado por mayoría calificada de los miembros del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+Para proceder a la fusión o división de las categorías políticas, el Ayuntamiento aprobará el procedimiento para la realización de consultas populares, con el objeto de recabar la opinión de la población, en los términos previstos por esta Ley.
 
 ###### Artículo 25 Bis.
 
@@ -163,15 +351,19 @@ La identidad de toda persona física se encuentra conformada por un nombre propi
 
 ###### Artículo 26.
 
-Toda persona tiene derecho a estar informada con claridad y veracidad sobre sus propios orígenes y sobre las causas y enfermedades que afecten su propio desarrollo y salud tanto física como psíquica, así como de los tratamientos a que puede someterse para recuperar la salud perdida y sus efectos.
+Los ayuntamientos estarán integrados por un presidente municipal, un síndico con excepción hecha de los de Acámbaro, Celaya, Guanajuato, Irapuato, León y Salamanca, que tendrán dos y el número de regidores que enseguida se expresan:
+
+Los municipios de Acámbaro, Celaya, Guanajuato, Irapuato, León y Salamanca, contarán con doce regidores.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Los municipios de Cortazar, Dolores Hidalgo Cuna de la Independencia Nacional, Moroleón, Pénjamo, Salvatierra, San Felipe, San Francisco del Rincón, San Luis de la Paz, San Miguel de Allende, Silao, Uriangato, Valle de Santiago y Yuriria, se integrarán con diez regidores.
+
+Los municipios de Abasolo, Apaseo el Alto, Apaseo el Grande, Atarjea, Comonfort, Coroneo, Cuerámaro, Doctor Mora, Huanímaro, Jaral del Progreso, Jerécuaro, Manuel Doblado, Ocampo, Pueblo Nuevo, Purísima del Rincón, Romita, San Diego de la Unión, San José Iturbide, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Villagrán, Tarimoro, Tierra Blanca, Victoria y Xichú, se integrarán con ocho regidores.
 
 ###### Artículo 27.
 
-Toda persona tiene derecho de disponer parcialmente de su cuerpo, en beneficio terapéutico de otra, siempre que tal disposición no le ocasione una disminución permanente en su integridad física, ni ponga en peligro su vida.
-
-Puede, igualmente, disponer de su cuerpo, para después de su muerte, con fines terapéuticos, de enseñanza o de investigación. En este caso se estará a lo dispuesto por la Ley General de Salud y sus reglamentos.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+Para ser miembro de un Ayuntamiento, deberán reunirse los requisitos que señala el artículo 110 de la Constitución Política para el Estado y la Ley Electoral respectiva.
 
 ###### Artículo 27 Bis.
 
@@ -187,1017 +379,2449 @@ Ninguna forma de maltrato cometido contra los menores, podrá ser justificada co
 
 La autoridad jurisdiccional deberá emitir las medidas de protección necesarias para quienes sufren algún tipo de violencia familiar, desde el momento que tenga conocimiento del hecho.
 
-### Capítulo II. De las personas jurídicas o morales
+### CAPITULO PRIMERO. DE LA POBLACION
+
+###### Artículo 8o.
+
+Son habitantes del Municipio, las personas que residan habitual o transitoriamente dentro de su territorio.
+
+###### Artículo 9o.
+
+Son derechos de los habitantes del Municipio:
+
+I.- Utilizar los servicios públicos que preste el Municipio, de acuerdo con los requisitos que establezca esta Ley, los reglamentos municipales respectivos y demás ordenamientos legales aplicables;
+
+II.- Ser atendido por las autoridades municipales, en todo asunto relacionado con su calidad de habitante;
+
+III.- Recibir los beneficios de la obra pública de interés colectivo que realice el Ayuntamiento;
+
+IV.- Proponer ante las autoridades municipales, las medidas o acciones que juzguen de utilidad pública; y
+
+V.- Los demás que otorguen las leyes y reglamentos.
 
 ###### Artículo 28.
 
-Son personas jurídicas o morales:
+El Ayuntamiento tendrá su residencia oficial en la cabecera del Municipio.
 
-I.- El Estado;
+El Congreso del Estado a petición del Ayuntamiento, podrá decretar el cambio de residencia, cuando existan causas justificadas para ello; el traslado será a otro lugar comprendido dentro de la circunscripción territorial del Municipio.
 
-II.- Los Municipios;
-
-III.- Los organismos públicos y demás entidades públicas a los que las leyes del Estado le reconozcan personalidad;
-
-IV.- Las sociedades y asociaciones civiles constituidas conforme a las leyes del Estado; y
-
-V.- Las entidades públicas, privadas y sociales a las que el Estado reconozca personalidad jurídica.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 29.
 
-En el Estado se reconocerá la personalidad de todos los sujetos de derecho creados por leyes federales o de los demás Estados de la República Mexicana y extranjeros, éstos últimos siempre que cumplan con las disposiciones federales y del Estado.
+El desempeño del cargo de presidente municipal, síndico y regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación socioeconómica del Municipio.
+
+El desempeño del cargo se realizará con probidad, eficacia, eficiencia y honradez, quedando impedidos quienes los ocupen, para aceptar otro empleo o cargo en la administración pública municipal, estatal o federal, por el que perciban remuneración alguna, salvo que medie permiso especial del Congreso del Estado, a excepción de los docentes.
 
 ###### Artículo 30.
 
-Las personas jurídicas o morales están capacitadas para celebrar toda clase de actos jurídicos, necesarios para la realización del objeto social para el que fueron constituidas. Obran y se obligan por medio de los órganos que las representan, sea por disposición de la Ley o de sus escrituras constitutivas o estatutos.
+En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, se nombrará una comisión plural de regidores, que fungirá como comisión instaladora del Ayuntamiento electo. La comisión designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del Tribunal Estatal Electoral, para que acudan a la sesión de instalación formal del mismo, en los términos del presente capítulo.
 
-## TITULO SEGUNDO. DE LA CAPACIDAD
+La comisión instaladora del Ayuntamiento electo, deberá citar a los integrantes propietarios del mismo, con por lo menos una anticipación de quince días naturales, para que concurran a la sesión de instalación.
 
-### Capítulo I. De la capacidad de goce y de ejercicio
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Cuando por causa de fuerza mayor no pueda llevarse a cabo la sesión de instalación en el lugar que se tenía previsto, se podrá realizar en un lugar distinto, previa notificación por escrito de manera fehaciente, cuando menos con tres horas de anticipación a los miembros electos del Ayuntamiento.
+
+## TITULO SEGUNDO
+
+### CAPITULO SEGUNDO. DE LOS PUEBLOS INDIGENAS
 
 ###### Artículo 31.
 
-La capacidad de las personas físicas comprende:
-
-a) la capacidad de goce; y
-
-b) la capacidad de ejercicio.
+En reunión preparatoria a la instalación, el Ayuntamiento electo designará de entre sus integrantes a un secretario, para el sólo efecto de levantar el acta de la sesión de instalación.
 
 ###### Artículo 32.
 
-La capacidad de goce se adquiere con el nacimiento y se pierde con la muerte, de acuerdo a lo dispuesto en el artículo 25.
+Los ayuntamientos electos, se instalarán solemne y públicamente el día 10 de octubre del año de su elección. El presidente municipal entrante rendirá la protesta en los siguientes términos:
+
+"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de presidente municipal".
+
+Concluida la protesta, el presidente municipal la tomará a los demás miembros del Ayuntamiento, bajo la fórmula siguiente:
+
+"¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?".
+
+A lo cual los síndicos y regidores, levantando la mano dirán:
+
+"Sí, protesto".
+
+El presidente municipal agregará: "Si así no lo hicieren, que el pueblo se los demande".
 
 ###### Artículo 33.
 
-La capacidad de ejercicio para realizar actos jurídicos y hacer valer derechos se reconoce por la ley a las personas mayores de edad, no incapacitadas.
+El Ayuntamiento electo, en la sesión solemne de instalación, por conducto del presidente municipal, dará a conocer a la población los aspectos generales de su plan de trabajo.
 
 ###### Artículo 34.
 
-No existen más incapacidades que las establecidas por la ley. Los incapaces pueden ejercitar sus derechos y contraer obligaciones por medio de sus representantes legales.
+La instalación del Ayuntamiento será válida, con la presencia de la mitad más uno de sus integrantes electos.
 
-### Capítulo II. De la minoría de edad
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+### CAPITULO TERCERO. DE LA PARTICIPACION SOCIAL
 
 ###### Artículo 35.
 
-Las personas físicas que no hayan cumplido dieciocho años son menores de edad. En el Estado de Guerrero es de orden público e interés social la protección y atención de la salud física y mental de los menores de edad, así como su educación.
+Si al acto de instalación no asistiere el presidente municipal electo, el Ayuntamiento se instalará con el síndico o el primer síndico en los ayuntamientos en que existan dos, quien rendirá la protesta, ya continuación la tomará a los demás miembros que estén presentes.
 
-### Capítulo III. De la emancipación
+Sólo en caso de no estar presentes la mayoría de los integrantes electos propietarios, la comisión instaladora referida en el artículo 30 de esta Ley, inmediatamente procederá a llamar a los suplentes de aquéllos que no hubiesen justificado su ausencia, quienes entrarán en ejercicio definitivo.
+
+Cuando no se logre obtener la mayoría de los integrantes electos del Ayuntamiento, los presentes darán vista al Congreso del Estado, para que se proceda a la declaración de desaparición del mismo.
+
+### CAPITULO UNICO. DEL TERRITORIO
 
 ###### Artículo 36.
 
-El matrimonio del menor produce su emancipación:
+El Ayuntamiento instalado, sin la totalidad de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman su cargo en un plazo no mayor de quince días hábiles, si no se presentan transcurrido este plazo, serán llamados los suplentes, quienes entrarán en ejercicio definitivo.
 
-Aunque el vínculo se extinga, el menor no recaerá en la patria potestad.
+Se considera falta absoluta del presidente municipal electo, cuando transcurrido el plazo de quince días hábiles, citado en el párrafo anterior, no se presente sin causa justificada. En tanto, el síndico hará sus funciones.
 
 ###### Artículo 37.
 
-La persona emancipada tiene libre administración de sus bienes; pero necesitará durante la minoría de edad:
+Los integrantes del Ayuntamiento electo que no hayan rendido protesta en la sesión de instalación y hayan justificado su ausencia, lo harán en la primera sesión de Ayuntamiento a la que asistan.
 
-I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y
+### CAPITULO PRIMERO. DEL AYUNTAMIENTO
 
-II. De un tutor para los negocios judiciales.
-
-### Capítulo IV. De la mayoría de edad
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 38.
 
-La mayoría de edad se adquiere a los dieciocho años cumplidos.
+Instalado el Ayuntamiento, se comunicará oficialmente su integración a los poderes Ejecutivo, Legislativo y Judicial del Estado y de la Federación.
 
 ###### Artículo 39.
 
-Quien adquiere la mayoría de edad puede disponer libremente de su persona y de sus bienes, salvo las limitaciones que establezca la ley.
+Al término de la sesión de instalación, el Ayuntamiento entrante procederá en sesión ordinaria, a lo siguiente:
 
-### Capítulo V. De la incapacidad
+I.- Nombrar al secretario, tesorero y contralor;
+
+II.- Aprobar las comisiones a que se refiere esta Ley; y
+
+III.- Proceder a la entrega-recepción de la situación que guarda la administración pública municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 39 A.- Los integrantes de los ayuntamientos electos tienen el derecho a recibir capacitación en el manejo de la cuenta pública municipal, la cual será impartida por el Órgano de Fiscalización Superior del Congreso del Estado. Éste establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y suficiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 39 B.- En los términos del convenio de coordinación que al efecto celebren los ayuntamientos y el Órgano de Fiscalización del Congreso del Estado, éste otorgará capacitación en el manejo de la cuenta pública municipal al tesorero, al contralor y al director de obras públicas municipales, dentro de un plazo no mayor a sesenta días posteriores a la celebración del convenio.
+
+### CAPITULO SEGUNDO. DE LA INSTALACION DEL AYUNTAMIENTO
 
 ###### Artículo 40.
 
-Tienen incapacidad natural y legal:
+El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento que contenga la situación que guarda la administración pública municipal.
 
-I. Los menores de edad; y
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos, que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a substancias tóxicas, como el alcohol, los psicotrópicos, o los estupefacientes; siempre que debido a la limitación o la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por sí mismos, o manifestar su voluntad por algún medio.
+En la entrega-recepción, el Órgano de Fiscalización Superior del Congreso del Estado, designará un representante para que participe como observador, el cual brindará asesoría, a petición de cualquier integrante del Ayuntamiento.
+
+La entrega-recepción no podrá dejar de realizarse, bajo ninguna circunstancia.
 
 ###### Artículo 41.
 
-Las personas menores de edad emancipadas tienen incapacidad para realizar los actos que indica la ley.
+El documento a que se refiere el artículo anterior, deberá contener, por lo menos:
+
+I.- Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
+
+II.- La documentación relativa a la situación financiera y estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- La documentación relativa al estado que guarda la cuenta pública del Municipio, incluyendo las observaciones pendientes de atender, los requerimientos e informes que se hayan generado con motivo del ejercicio de las facultades de fiscalización a cargo del Congreso del Estado o del Órgano de Fiscalización Superior;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IV.- La situación de la deuda pública municipal, la documentación relativa a la misma y su registro, así como la relación y registro de los pasivos a cargo del Municipio, que no constituyan deuda pública;
+
+V.- El estado de la obra pública ejecutada y en proceso en el Municipio y la documentación relativa a la misma;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, ante la Secretaría de la Gestión Pública del Estado;
+
+VII.- La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
+
+VIII.- La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares;
+
+IX.- La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
+
+X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
+
+XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y (sic)
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+XII.- Los expedientes formados con motivo de juicios de cualquier naturaleza en los que el Municipio sea parte; y
+
+XIII.- La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 42.
 
-Son nulos los actos y negocios jurídicos que por sí mismos realicen las personas menores de edad sujetas a patria potestad.
+El secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante del Órgano de Fiscalización Superior del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 43.
 
-Son nulos los actos y negocios jurídicos celebrados por el menor de edad o por los demás incapaces, cuando en ellos no intervengan sus representantes legales.
+Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, integrada de manera plural y proporcional a la conformación del Ayuntamiento, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un informe en un plazo de treinta días hábiles.
+
+El informe deberá referirse a todos y cada uno de los puntos contenidos en el expediente a que se refiere el artículo 41 de la presente Ley; el cual se someterá dentro de los quince días hábiles siguientes al conocimiento y consideración del Ayuntamiento, y éste podrá llamar a los servidores públicos que intervinieron en el acta de entrega-recepción, para solicitar cualquier información o documentación relacionada con la misma; los que estarán obligados a proporcionarla y atender las observaciones consecuentes.
 
 ###### Artículo 44.
 
-La nulidad que establece el artículo anterior no comprende los actos y negocios jurídicos que ejecute el menor no emancipado, respecto de los bienes que conforme a lo dispuesto por los artículos 604, 605 y 136 fracción IV le pertenezcan o goce del usufructo o los tenga en administración.
+Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
+
+El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción al Congreso del Estado, para efecto de revisión de las cuentas públicas municipales.
 
 ###### Artículo 45.
 
-Son nulos los actos realizados por la persona emancipada sin la autorización judicial o del tutor, respectivamente, si esos actos están comprendidos en los enumerados en el artículo 37.
+En las faltas por licencia de más de dos meses de los regidores y síndicos propietarios, se llamará a los suplentes. Al término del plazo de la licencia concedida, el propietario deberá integrarse de inmediato a su cargo; cuando se trate de licencias por tiempo indeterminado, el ausente se reintegrará a la sesión siguiente a su aviso de terminación de la licencia.
+
+Tres faltas consecutivas y sin causa justificada a las sesiones de Ayuntamiento, serán consideradas como abandono definitivo del cargo.
+
+Para que se pueda considerar abandono definitivo del cargo, el Ayuntamiento lo notificará al regidor o síndico que haya incurrido en la causal referida en el párrafo anterior, para que manifieste lo que a su derecho convenga y en su caso, ofrezca las pruebas pertinentes por un término de quince días. Transcurrido dicho plazo el Ayuntamiento acordará si se actualiza el abandono definitivo del cargo, si se finca la responsabilidad correspondiente y si procede llamar al suplente, quien en su caso rendirá la protesta en la sesión siguiente. El acuerdo del Ayuntamiento que declare el abandono definitivo del cargo deberá notificarse al interesado dentro de los cinco días siguientes.
+
+Cuando por cualquier causa alguno de los síndicos o regidores propietarios dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de los regidores, a falta tanto del propietario como del suplente, se estará a lo establecido por el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 46.
 
-La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por la misma persona antes incapacitada, o en su nombre por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al tiempo de otorgarse la obligación ni por los solidarios en ella.
+En el caso de ausencia del presidente municipal por licencia, permiso o causa justificada hasta de quince días naturales, serán suplidas por el secretario del Ayuntamiento como encargado de despacho, pero bajo ninguna circunstancia tendrá derecho a voto en las sesiones del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 47.
 
-La acción para pedir la nulidad prescribe en tres o en cinco años, según se trate de derechos personales o de derechos reales respectivamente.
+En el caso de falta del Presidente Municipal por licencia, permiso o causa justificada por más de quince días y hasta por dos meses, el síndico o el primer síndico en los ayuntamientos en que existan dos, asumirá el cargo de presidente municipal provisional. Para ocupar el lugar del síndico o primer síndico se convocará al suplente.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 48.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 42 y 43 en las obligaciones que hubieren contraído sobre materias propias de la ocupación o arte en que sean peritos.
+La falta del presidente municipal por más de dos meses, por licencia, permiso o causa justificada, será cubierta por un presidente municipal interino, propuesto por los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones, el cual será designado por mayoría simple de votos.
+
+El presidente municipal interino entrará en funciones a partir del momento en que la licencia, permiso o causa justificada surta sus efectos legales.
 
 ###### Artículo 49.
 
-Tampoco pueden alegarla las personas menores de edad, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+El Ayuntamiento procederá a nombrar por mayoría absoluta de votos un presidente municipal sustituto, en los siguientes supuestos:
 
-## TITULO TERCERO. De la tutela
+I.- Por falta absoluta del presidente municipal electo;
 
-### Capítulo I. Disposiciones generales
+II.- Por estado de interdicción declarado en sentencia judicial;
+
+III.- Por revocación de mandato; y
+
+IV.- Por declaración de procedencia, en cuyo caso el presidente municipal sustituto, desempeñará la función durante el transcurso del juicio, hasta que se dicte sentencia firme. Si esta fuere condenatoria, el presidente municipal sustituto, concluirá el período correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Cuando se actualice cualquiera de los supuestos anteriores, el secretario del Ayuntamiento convocará, dentro de las cuarenta y ocho horas siguientes, a sesión extraordinaria del Ayuntamiento, la que se ocupará única y exclusivamente del nombramiento del presidente municipal sustituto a propuesta de los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones.
+
+## TITULO TERCERO
+
+### CAPITULO TERCERO. DE LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
 ###### Artículo 50.
 
-El objeto de la tutela es la guarda de la persona y de los bienes de los menores que no están sujetos a la patria potestad, y de los mayores de edad en estado de interdicción. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
+El nombramiento del presidente municipal interino y del sustituto, podrá recaer o no en los miembros del Ayuntamiento, pero la persona designada deberá llenar los mismos requisitos establecidos en la Constitución Política del Estado y en la Ley Electoral.
 
 ###### Artículo 51.
 
-El tutor cuidará preferentemente de la persona de los incapacitados, que se hallen bajo su cuidado.
+El presidente municipal, síndicos o regidores del Ayuntamiento, sólo por causa justificada a juicio del Congreso del Estado o de la Diputación Permanente, en su caso, podrán renunciar o excusarse del cargo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 52.
 
-La tutela es un cargo de interés público del que nadie puede eximirse sino por causa legítima.
+Las faltas por licencia de más de dos meses de los titulares de las dependencias y entidades de la administración pública municipal, serán cubiertas por quien designe el Ayuntamiento. Las faltas por licencia de menos de dos meses, serán cubiertas por quien designe el presidente municipal.
+
+Las faltas del contralor municipal serán cubiertas en los términos del artículo 115 A de esta Ley.
 
 ###### Artículo 53.
 
-La persona que se rehusare sin causa legal a desempeñar el cargo de tutor será responsable de los daños y perjuicios que de su negativa resulten a la persona incapacitada.
+Las faltas del delegado municipal, serán cubiertas por el subdelegado; a falta de éste, por quien designe el Ayuntamiento.
 
 ###### Artículo 54.
 
-La tutela se desempeñará por el tutor con intervención del curador, del juez competente y del Consejo Local de Tutelas, en los términos establecidos en este Código.
+El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio, el día 10 de octubre del año de la elección de los integrantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 55.
 
-Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+Los ayuntamientos deberán resolver los asuntos de su competencia colegiadamente, y al efecto, celebrarán sesiones ordinarias, extraordinarias y solemnes que serán públicas, con excepción de aquéllas que señale esta Ley y preferentemente en horario diurno.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Las sesiones del Ayuntamiento serán válidas con la asistencia de más de la mitad de la totalidad de los integrantes del Ayuntamiento, debiendo presidirlas el presidente municipal. En su ausencia, dirigirá los debates el síndico o el primero de ellos en los ayuntamientos en que existan dos, auxiliado por el secretario del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Cuando durante el transcurso de una sesión se pierda el quórum necesario para que ésta sea válida, se terminará la misma.
 
 ###### Artículo 56.
 
-El tutor y el curador pueden desempeñar, respectivamente, la tutela o la curatela hasta de tres incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un sólo tutor y un curador a todos ellos, aunque sean más de tres.
+Por acuerdo del presidente municipal o de las dos terceras partes de los integrantes del Ayuntamiento, el secretario citará a las sesiones del mismo.
+
+La citación deberá ser personal, en el domicilio del integrante del Ayuntamiento, por lo menos con veinticuatro horas de anticipación, contener el orden del día y, en su caso, la información necesaria para el desarrollo de las mismas, así como el lugar, día y hora.
+
+De no asistir el número de miembros necesarios para celebrar las sesiones, se citará nuevamente en los términos que fije esta Ley y en la forma que establezca el reglamento interior, y ésta se llevará a cabo con los que asistan.
+
+El Ayuntamiento celebrará sesiones extraordinarias, cuando la importancia o urgencia del asunto que se trate, lo requiera, sin necesidad de la citación a que se refiere este artículo.
 
 ###### Artículo 57.
 
-Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que él mismo designe, mientras se decide el punto de oposición.
+El Ayuntamiento sesionará las veces que indique su reglamento interior, pero no podrán ser menos de dos sesiones públicas al mes.
 
 ###### Artículo 58.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
+Serán solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el informe de la administración pública municipal y aquéllas que acuerde el Ayuntamiento.
 
 ###### Artículo 59.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al juez competente dentro de ocho días, a fin de que se provea a la tutela. En caso de incumplimiento se aplicará a la persona responsable una multa equivalente a 365 días del salario mínimo general vigente en el Estado.
+Son materia de sesión secreta:
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces competentes de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+I.- Los asuntos graves que alteren el orden y la tranquilidad pública del Municipio;
+
+II.- Las comunicaciones que con nota de reservado dirijan al Ayuntamiento, los poderes Legislativo, Ejecutivo y Judicial;
+
+III.- Las solicitudes de licencia y de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento; y
+
+IV.- (DEROGADA, P.O. 17 DE JULIO DE 2001)
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 60.
 
-La tutela es testamentaria, legítima o dativa.
+Las sesiones únicamente se podrán suspender por las siguientes causas:
+
+I.- Cuando se altere gravemente el desarrollo de las mismas, ya sea por desorden provocado por el público asistente o por alguno de los integrantes del Ayuntamiento; y
+
+II.- Por decretarse un receso por el presidente municipal.
 
 ###### Artículo 61.
 
-Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+Las sesiones del Ayuntamiento, se celebrarán en el recinto oficial destinado para tal efecto, procurando contar con instalaciones para el público.
+
+Sólo por causas excepcionales o justificadas, el Ayuntamiento podrá acordar el cambio del recinto oficial de manera temporal.
 
 ###### Artículo 62.
 
-Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+Los acuerdos del Ayuntamiento se tomarán por mayoría simple de votos, salvo aquéllos en que por disposición de esta Ley o del reglamento respectivo, se exija mayoría absoluta o calificada. En caso de empate el presidente municipal tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Ningún integrante del Ayuntamiento podrá abstenerse de votar, a no ser que tenga interés personal en el asunto de que se trate. En este caso, la asistencia del integrante del Ayuntamiento se tomará en cuenta para efecto de determinar el quórum.
 
 ###### Artículo 63.
 
-El menor de edad que se encuentre en cualquiera de los casos a que se refiere la fracción II del artículo 40, estará sujeto a la tutela de los menores, mientras no llegue a la mayoría de edad.
+Para los efectos de esta Ley, se entiende por:
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+I.- Mayoría simple, más de la mitad de votos en el mismo sentido de los integrantes del Ayuntamiento presentes en la sesión;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+II.- Mayoría absoluta, más de la mitad de votos en el mismo sentido de la totalidad de los integrantes del Ayuntamiento; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+III.- Mayoría calificada, el voto en el mismo sentido de las dos terceras partes de la totalidad de los integrantes del Ayuntamiento; cuando el resultado de la operación no sea un número entero, se tomará en consideración el número entero superior inmediato que corresponda.
 
 ###### Artículo 64.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
+El desarrollo de las sesiones del Ayuntamiento, se llevará conforme al orden del día que haya sido aprobado, con la posibilidad de tratar asuntos de interés general.
 
 ###### Artículo 65.
 
-El cargo de tutor respecto a las personas comprendidas en los casos a que se refiere la fracción II del artículo 40, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligaciones de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El desarrollo de las sesiones del Ayuntamiento, se hará constar por el secretario en un libro o folios de actas, en los cuales quedarán anotados en forma extractada, los asuntos tratados y el resultado de la votación. Cuando el acuerdo de Ayuntamiento se refiera a normas de carácter general o informes financieros, se hará constar o se anexarán íntegramente al libro o folios de actas.
+
+En los demás casos, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro o folios de actas.
+
+Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el original lo conservará el propio Ayuntamiento y el otro se enviará terminado el período del gobierno municipal, al Archivo General del Estado, para formar parte del acervo histórico de la Entidad.
+
+Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo.
 
 ###### Artículo 66.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+Los integrantes del Ayuntamiento guardarán el debido respeto y compostura en el recinto oficial, durante las sesiones y en cualquier acto público con motivo de sus funciones, en congruencia con su dignidad de representantes del pueblo.
 
 ###### Artículo 67.
 
-El juez de primera instancia del domicilio del incapacitado, y si no lo hubiere, el juez de paz, dictará las medidas que juzgue necesarias para que se cuide provisionalmente de la persona y bienes del incapacitado hasta que se nombre tutor.
+Los integrantes del Ayuntamiento, se abstendrán de perjudicar o lesionar física o moralmente a cualquier ciudadano.
+
+Asimismo, deberán guardar la reserva correspondiente de los asuntos tratados en las sesiones secretas.
 
 ###### Artículo 68.
 
-El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+Las peticiones que realicen los integrantes del Ayuntamiento, deberán hacerse con respeto y atendiendo al interés público.
 
-### Capítulo II. De la tutela testamentaria
+### CAPITULO CUARTO. DEL MODO DE SUPLIR LAS FALTAS DE LOS INTEGRANTES DEL AYUNTAMIENTO Y DEMAS SERVIDORES PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 69.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en los artículos 593, 596 y 598, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+Los ayuntamientos tendrán las siguientes atribuciones:
+
+I.- En materia de gobierno y régimen interior:
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+a) Presentar iniciativas de Ley o decreto al Congreso del Estado, así como emitir opinión sobre las iniciativas de leyes o decretos que incidan en la competencia municipal, dentro del término que establezca la Comisión Dictaminadora;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+b) Aprobar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general; que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+
+c) Designar anualmente de entre sus miembros, a los integrantes de las comisiones del Ayuntamiento;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+d) Fijar las bases para la elaboración del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste último y en su oportunidad, aprobarlos, evaluarlos y actualizarlos;
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Participar en la formulación de planes y proyectos de desarrollo regional, cuando los elabore la Federación o el Estado, los cuales deberán estar en concordancia con los planes generales de la materia.
+
+e) Nombrar y remover a los delegados municipales, en los términos que señala esta Ley;
+
+f) Aprobar anualmente, el informe del estado que guarda la administración pública municipal, que será rendido por conducto del presidente municipal en sesión pública y solemne;
+
+g) Conceder licencia para separarse de sus cargos al presidente municipal, síndicos y regidores, así como autorizar al presidente municipal para ausentarse del Municipio, por un término mayor de quince días;
+
+h) Crear las dependencias administrativas centralizadas y constituir entidades paramunicipales;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+i) Nombrar al secretario, tesorero y titulares de las dependencias y entidades de la administración pública municipal, a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
+
+Remover a los servidores públicos señalados en el párrafo anterior, a propuesta del presidente municipal o de la mayoría absoluta del Ayuntamiento, en los términos del artículo 110 B de esta Ley.
+
+j) Nombrar y remover al contralor, en los términos de esta Ley;
+
+k) Celebrar convenios con los gobiernos Federal, Estatal o Municipal y auxiliarlos en las funciones de su competencia;
+
+l) Promover el desarrollo del personal, estableciendo los términos y condiciones para crear y asegurar la permanencia del servicio civil de carrera, así como acordar el régimen de seguridad social de los servidores públicos municipales;
+
+m) Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+n) Otorgar licencias, permisos y autorizaciones; pudiendo delegar esta atribución;
+
+ñ) Otorgar concesiones para el uso, aprovechamiento y explotación de los bienes inmuebles del dominio público municipal, así como de los servicios públicos;
+
+o) Organizar cursos, seminarios y programas tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales; y
+
+p) Promover ante la Suprema Corte de Justicia de la Nación, las controversias constitucionales a que se refiere el artículo 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, conforme a la Ley reglamentaria relativa.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+q) Promover ante el Pleno del Supremo Tribunal de Justicia las controversias a que se refieren los incisos a) y b) del Apartado A de la fracción XV del Artículo 89 de la Constitución Política del Estado;
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+r) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquéllos afecten su ámbito territorial; y
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+s) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste.
+
+II.- En materia de obra pública y desarrollo urbano:
+
+a) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+b) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a las leyes de la materia;
+
+c) Intervenir en la regularización de la tenencia de la tierra en el ámbito de su competencia;
+
+d) Aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos, así como el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento respectivo, dando aviso a los organismos correspondientes;
+
+e) Acordar el destino o uso de los bienes inmuebles de propiedad municipal;
+
+f) Solicitar al Ejecutivo del Estado, la expropiación de bienes por causa de utilidad pública;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+g) Preservar, conservar y restaurar el medio ambiente en el Municipio y participar en la creación y administración de sus reservas territoriales y ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+h) Aprobar el programa de obra pública; así como convenir y contratar la ejecución de obra publica; e
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+i) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia.
+
+III.- En materia de servicios públicos:
+
+a) Prestar servicios públicos a los habitantes del Municipio;
+
+b) Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la prestación de los servicios públicos;
+
+c) Procurar la seguridad pública en el territorio municipal; y
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+d) Intervenir en los términos de las leyes de la materia, en la formulación y aplicación de los programas de transporte público de pasajeros, cuando afecten su ámbito territorial.
+
+IV.- En materia de hacienda pública municipal:
+
+a) Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del Municipio;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+b) Proponer al Congreso del Estado en términos de Ley, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Asimismo, aprobar el pronóstico de ingresos y el presupuesto de egresos, remitiendo al Congreso del Estado copia certificada de los mismos;
+
+c) Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo;
+
+d) Aprobar la contratación de empréstitos en los términos de la Ley de Deuda Pública para el Estado y los Municipios y solicitar la autorización correspondiente al Congreso del Estado;
+
+e) Conocer los informes mensuales contables y financieros, que presente la Tesorería municipal;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+f) Desafectar por acuerdo de la mayoría calificada del Ayuntamiento, los bienes del dominio público municipal, cuando éstos dejen de destinarse al uso común o al servicio público y así convenga al interés público;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+g) Ejercer actos de dominio sobre los bienes del Municipio, en los términos de esta Ley;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+h) Ejercer la reversión de los bienes donados en los casos y conforme a las disposiciones previstos en la presente Ley;
+
+i) Emitir las normas generales para la aprobación de adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles; y
+
+j) Aprobar los movimientos de altas y bajas, registrados en el padrón de bienes muebles e inmuebles de propiedad municipal.
+
+V.- En materia de participación social, desarrollo social, asistencial y económico, salud pública, educación y cultura:
+
+a) Promover el desarrollo económico, social, educativo, cultural y recreativo del Municipio;
+
+b) Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo;
+
+c) Organizar y promover la instrucción cívica, que fomente entre los habitantes del Municipio, el conocimiento de sus derechos y obligaciones;
+
+d) Promover y procurar la salud pública del Municipio;
+
+e) Auxiliar a las autoridades sanitarias en la programación y ejecución de las disposiciones sobre la materia;
+
+f) Proteger y preservar el patrimonio cultural;
+
+g) Impartir la educación, en los términos previstos en las leyes Federal y Estatal de Educación;
+
+h) Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
+
+i) Promover la participación de los diferentes sectores organizados del Municipio y de habitantes interesados en la solución de la problemática municipal, para la estructura del plan de desarrollo municipal;
+
+j) Promover la organización de asociaciones de habitantes y elaborar procedimientos de consulta, de acuerdo a lo establecido por esta Ley y demás ordenamientos legales aplicables; y
+
+k) Contar con un registro del acontecer histórico local y con el archivo de los documentos históricos municipales.
+
+VI.- Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
 
 ###### Artículo 70.
 
-El nombramiento de tutor testamentario, hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+El presidente municipal tendrá las siguientes atribuciones:
+
+I.- Ejecutar las determinaciones del Ayuntamiento y coordinar la administración pública municipal;
+
+II.- Cumplir y hacer cumplir las leyes, reglamentos, bandos de policía y buen gobierno, y demás disposiciones legales del orden municipal, estatal y federal;
+
+III.- Presidir las sesiones del Ayuntamiento, en las que tendrá en caso de empate, además de su voto individual, el de calidad;
+
+IV.- Representar al Ayuntamiento en todos los actos oficiales y delegar, en su caso, esta representación;
+
+V.- Presentar al Ayuntamiento iniciativas de reglamentos, bandos y demás disposiciones administrativas de observancia general o de reformas y adiciones en su caso;
+
+VI.- Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno del Estado, de los reglamentos, bandos de policía y buen gobierno, acuerdos y demás disposiciones administrativas de observancia general, aprobados por el Ayuntamiento;
+
+VII.- Conducir las relaciones del Ayuntamiento con los poderes federales, estatales y con otros ayuntamientos;
+
+VIII.-. Eficientar la prestación de los servicios públicos municipales;
+
+IX.- Vigilar que la recaudación de las contribuciones y demás ingresos propios del Municipio, se realicen conforme a las leyes aplicables;
+
+X.- Supervisar la administración, registro, control, uso, mantenimiento y conservación del patrimonio municipal;
+
+XI.- Rendir en el mes de septiembre, en sesión pública y solemne, el informe anual aprobado por el Ayuntamiento, sobre el estado que guarda la administración pública municipal;
+
+XII.- Convocar por conducto del secretario, a las sesiones de Ayuntamiento, conforme al reglamento interior;
+
+XIII.- Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
+
+XIV.- Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario, tesorero y a los titulares de las dependencias y entidades de la administración pública municipal, a excepción del contralor;
+
+XV.- Nombrar y remover del cargo, a los servidores públicos municipales no previstos en la fracción anterior, así como conceder o negar licencias;
+
+XVI.- Promover la educación cívica y la celebración de ceremonias públicas, conforme al calendario cívico oficial;
+
+XVII.- Vigilar que se integren y funcionen las dependencias y entidades de la administración pública municipal;
+
+XVIII.- Imponer las sanciones que correspondan, por violación a esta Ley, a los reglamentos, bandos de policía y buen gobierno, acuerdos y demás disposiciones administrativas de observancia general. Esta facultad podrá ser delegada;
+
+XIX.- Vigilar que el gasto público municipal, se realice conforme al presupuesto de egresos aprobado por el Ayuntamiento;
+
+XX.- Tener bajo su mando, los cuerpos de seguridad pública y tránsito municipal, en los términos de la Ley de la materia;
+
+XXI.- Solicitar autorización del Ayuntamiento, para ausentarse del Municipio por más de quince días;
+
+XXII.- Coadyuvar con las autoridades federales y estatales en el ejercicio de sus atribuciones; y
+
+XXIII.- Las demás que le señalen esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 71.
 
-Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+Los síndicos tendrán las siguientes atribuciones:
+
+I.- Procurar, defender y promover los intereses municipales;
+
+II.- Representar legalmente al Ayuntamiento, en los litigios en que éste sea parte y delegar esta representación;
+
+III.- Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
+
+IV.- Asistir a los remates públicos en los que tenga interés el Municipio;
+
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2006)
+
+VI.- Vigilar que la cuenta pública municipal, se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado;
+
+VII.- Desempeñar las comisiones que le encomiende el Ayuntamiento, informando su resultado;
+
+VIII.- Asistir puntualmente a las sesiones del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IX.- Solicitar y obtener del tesorero, la información relativa a la hacienda pública, al ejercicio del presupuesto y al patrimonio municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+X.- Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+XI.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
+
+Cuando haya dos síndicos, el Ayuntamiento acordará la distribución equitativa de las funciones que ejercerán cada uno de ellos.
 
 ###### Artículo 72.
 
-La persona que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+Los regidores tendrán las siguientes atribuciones:
+
+I.- Vigilar la correcta observancia de los acuerdos y disposiciones del Ayuntamiento;
+
+II.- Cumplir las funciones correspondientes a su cargo y las inherentes a las comisiones de que formen parte, informando al Ayuntamiento de sus gestiones;
+
+III.- Vigilar los ramos de la administración que les encomiende el Ayuntamiento y los programas respectivos, proponiendo las medidas que estimen procedentes;
+
+IV.- Presentar al Ayuntamiento, iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
+
+V.- Proponer al Ayuntamiento, las acciones convenientes para el mejoramiento de los servicios públicos y para el desarrollo del Municipio;
+
+VI.- Asistir puntualmente a las sesiones del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VII.- Solicitar y obtener del tesorero, la información relativa a la hacienda pública, al ejercicio del presupuesto y al patrimonio municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IX.- Las demás que le señalen esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 73.
 
-Si fueren varios los menores podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 57.
+El Ayuntamiento a propuesta del presidente municipal, aprobará la integración de las comisiones anuales que se estimen necesarias para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Para formular la propuesta el presidente municipal tomará en cuenta el conocimiento, profesión y vocación de los integrantes del Ayuntamiento, escuchando su opinión.
 
 ###### Artículo 74.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
-
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+Las comisiones tendrán por objeto el estudio, dictamen y propuestas de solución a los asuntos de las distintas ramas de la administración pública municipal.
 
 ###### Artículo 75.
 
-En ningún otro caso ha lugar a la tutela testamentaria del incapacitado.
+Las comisiones se integrarán de manera colegiada, por el número de miembros que establezca el reglamento o el acuerdo de Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario, asimismo, el Ayuntamiento podrá acordar la designación de comisionados para la atención de los asuntos de competencia municipal.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+La comisión de hacienda, patrimonio y cuenta pública deberá ser plural y proporcional, atendiendo al porcentaje de representación de cada partido político en el Ayuntamiento.
 
 ###### Artículo 76.
 
-Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien sustituirán los demás por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción.
+Solo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
 ###### Artículo 77.
 
-Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+El Ayuntamiento establecerá cuando menos las siguientes comisiones:
+
+I.- De hacienda, patrimonio y cuenta pública;
+
+II.- De obra y servicios públicos;
+
+III.- De seguridad pública y tránsito;
+
+IV.- De desarrollo urbano y preservación ecológica;
+
+V.- De salud pública y asistencia social;
+
+VI.- De educación, cultura, recreación y deporte; y
+
+VII.- De desarrollo rural y económico.
 
 ###### Artículo 78.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela que no sean contrarias a las leyes, a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+Corresponde al Congreso del Estado, declarar la desaparición de ayuntamientos o concejos municipales.
 
 ###### Artículo 79.
 
-Si por un nombramiento condicional, de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+Son causas de desaparición de un Ayuntamiento o Concejo municipal, en su caso:
+
+I.- Incurrir en violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado;
+
+II.- La ausencia de la mayoría de los integrantes, tanto propietarios como suplentes, de manera que no pueda integrarse;
+
+III.- La renuncia calificada por el Congreso del Estado o la Diputación Permanente, en los términos previstos por el artículo 115 de la Constitución Política Local, de la mayoría de sus integrantes y no pueda integrarse aún con los suplentes;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IV.- La declaratoria de procedencia emitida por el Congreso del Estado, en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato, respecto de la mayoría de los integrantes y no pueda integrarse éste, aún con los suplentes; y
+
+V.- Por actos u omisiones de los integrantes del Ayuntamiento o Concejo municipal, que provoquen una situación grave y permanente, que impida el ejercicio de las funciones del Ayuntamiento o Concejo municipal, conforme al orden constitucional federal o local.
 
 ###### Artículo 80.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+La petición para que el Congreso del Estado declare la desaparición de un Ayuntamiento o Concejo municipal, podrá ser formulada por cualquier ciudadano del Municipio, pero deberá acompañarse de las pruebas idóneas que sustenten la misma.
 
-### Capítulo III. De la tutela legítima de los menores
+### CAPITULO QUINTO. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
 ###### Artículo 81.
 
-Ha lugar a tutela legítima:
-
-I. Cuando no haya quien ejerza la patria potestad ni tutor testamentario; y
-
-II. Cuando deba nombrarse tutor por causa de divorcio.
+El procedimiento para decretar la desaparición de un Ayuntamiento o Concejo municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Guanajuato.
 
 ###### Artículo 82.
 
-La tutela legítima corresponde:
+En el caso de desaparición de un Ayuntamiento o Concejo municipal, el Congreso del Estado designará un Concejo municipal, que funcionará hasta concluir el período respectivo.
 
-I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas; y
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
-II. Por falta de capacidad de los hermanos, a los demás colaterales, dentro del cuarto grado inclusive.
+Dichos concejos municipales, ejercerán las atribuciones que la Ley establece para los ayuntamientos y se integrarán con igual número de miembros, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Para cubrir las faltas o ausencias temporales de alguno de los integrantes del Concejo, se aplicará en lo conducente, lo dispuesto por la presente Ley, para los miembros del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Con excepción del presidente, cuando por cualquier causa alguno de los integrantes del Concejo, dejare de desempeñar su cargo, éste será ocupado por su suplente; a falta de ambos, el Congreso del Estado, nombrará a quien deba ocuparlo. En todo caso, la persona designada, deberá cubrir los requisitos que para ser regidor establezca la Ley.
 
 ###### Artículo 83.
 
-Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+Los integrantes del Concejo municipal designado, rendirán su protesta, en el lugar, día y hora que fije el Congreso del Estado, en los mismos términos que prevé esta Ley para la instalación del Ayuntamiento.
 
 ###### Artículo 84.
 
-La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+El Congreso del Estado, podrá declarar la suspensión o revocación del mandato de alguno o algunos de los integrantes del Ayuntamiento o Concejo municipal, por las causas establecidas en el presente capítulo, debidamente sustentadas por pruebas idóneas.
 
-### Capítulo IV. De la tutela legítima de los mayores de edad incapacitados
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+### CAPITULO SEXTO. DE LA ETICA DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### Artículo 85.
 
-Las personas consortes son tutoras legítimas la una de la otra.
+Es causa de suspensión del mandato, la declaración de procedencia dictada por el Congreso del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política Local y de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
 
 ###### Artículo 86.
 
-Los hijos mayores de edad son tutores de su padre o madre viudos.
+Son causas de revocación del mandato:
+
+I.- Las violaciones graves y reiteradas a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado y a las leyes que de ellas emanen;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+II.- Dejar de asistir sin causa justificada a tres sesiones ordinarias del Ayuntamiento o Consejo Municipal en forma continua y hasta cinco durante un periodo de seis meses;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+III.- Violar en forma grave y reiterada la Ley de Ingresos Municipal y el presupuesto de egresos aprobado y la normatividad aplicable, que afecte los caudales públicos; y
+
+IV.- Vulnerar gravemente las instituciones democráticas y la forma de gobierno republicano, representativo y federal.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 87.
 
-Cuando haya dos o más hijos será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez elegirá al que le parezca más apto.
+El procedimiento para decretar la suspensión o revocación del mandato de alguno o de algunos de los miembros del Ayuntamiento o Concejo Municipal, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
 
 ###### Artículo 88.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
+Decretada la suspensión o revocación del mandato, el Ayuntamiento llamará al suplente, para que rinda la protesta y ocupe el cargo, dentro de las cuarenta y ocho horas siguientes a la notificación de la resolución del Congreso del Estado.
 
 ###### Artículo 89.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores debe desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 82; observándose en su caso lo que dispone el artículo 83.
+La planeación constituye la base de la administración pública municipal y tiene como sustento, el sistema de planeación democrática, previsto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley de Planeación para el Estado de Guanajuato y en esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 90.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+Los municipios contarán con los siguientes instrumentos de planeación:
 
-### Capítulo V. De la tutela legítima de los menores abandonados
+I.- Plan Municipal de Desarrollo;
+
+II.- Plan de Gobierno Municipal; y
+
+III.- Programas derivados del Plan de Gobierno Municipal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO SEPTIMO. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
 ###### Artículo 91.
 
-La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+El Plan Municipal de Desarrollo contendrá las prioridades y objetivos para el desarrollo del Municipio por un periodo de al menos veinticinco años, y deberá ser evaluado y actualizado cuando menos cada cinco años, en concordancia con los Planes Nacional y Estatal de Desarrollo. La propuesta de Plan Municipal de Desarrollo será elaborada por el Consejo de Planeación de Desarrollo Municipal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 92.
 
-Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+El Plan de Gobierno Municipal contendrá los objetivos, metas y estrategias que sirvan de base a las actividades de la administración pública municipal, de forma que aseguren el cumplimiento del Plan Municipal de Desarrollo.
+
+El Plan de Gobierno Municipal, deberá ser elaborado por las dependencias y entidades de la administración pública municipal, con la asesoría del Consejo de Planeación de Desarrollo Municipal y sometido a la aprobación del Ayuntamiento dentro de los primeros cuatro meses de su gestión; tendrá una vigencia de tres años y deberá ser actualizado anualmente.
+
+El Plan de Gobierno Municipal indicará los programas de carácter sectorial.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 93.
 
-En el caso del artículo anterior, no es necesario el discernimiento del cargo.
+Una vez aprobados por el Ayuntamiento, los planes a que se refiere este capítulo, se publicarán en el Periódico Oficial del Gobierno del Estado y, en su caso, podrán ser publicados en el periódico de mayor circulación en el Municipio.
 
-### Capítulo VI. De la tutela dativa
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO OCTAVO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### Artículo 94.
 
-La tutela dativa tendrá lugar:
+Las dependencias y entidades de la administración pública municipal elaborarán programas operativos anuales, que deberán ser congruentes con los planes y programas de los que se derivan, y regirán las actividades de cada una de ellas.
 
-I.- Cuando no haya tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima; y
+Dichos programas formarán parte integral del Presupuesto de Egresos Municipal y serán aprobados por el Ayuntamiento, conjuntamente con el mismo.
 
-II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no haya ningún pariente de los designados en el artículo 82.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 95.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El Plan Municipal de Desarrollo, el Plan de Gobierno Municipal y los programas derivados de éste último, serán obligatorios para las dependencias y entidades de la administración pública municipal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 96.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+Los ayuntamientos en el informe anual del estado que guarda la administración pública municipal, deberán hacer mención de los mecanismos y acciones adoptados para la ejecución de los planes y programas, así como de los resultados obtenidos.
+
+Los titulares de las dependencias y entidades de la administración pública municipal que sean convocados por el Ayuntamiento para dar cuenta de la situación que guardan los asuntos de sus respectivas áreas, informarán sobre el cumplimiento de los planes y programas a su cargo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 97.
 
-Si el juez no hiciera oportunamente el nombramiento de tutor, será responsable de los daños y perjuicios que se sigan al menor por esa falta.
+El presupuesto de egresos de los municipios deberá atender las prioridades y objetivos que señale el Plan de Gobierno Municipal y los programas derivados del mismo, de conformidad con lo establecido en esta Ley y sus reglamentos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 98.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+El Ayuntamiento integrará un Consejo de Planeación de Desarrollo Municipal, que deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de su instalación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 99.
 
-A los menores de edad que no estén sujetos a la patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, y aún de oficio por el juez.
+Los Consejos de Planeación de Desarrollo Municipales son organismos técnicos y consultivos, auxiliares de los ayuntamientos en materia de planeación, y forman parte de la estructura de participación del Sistema Estatal de Planeación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 100.
 
-En el caso del artículo anterior, tienen obligación de desempeñar la tutela, mientras duren en los cargos que a continuación se enumeran:
+Los Consejos de Planeación de Desarrollo Municipales y sus órganos, se integrarán con la participación mayoritaria de representantes de la sociedad organizada del Municipio.
 
-I. El presidente municipal del domicilio del menor;
-
-II. Los demás regidores del ayuntamiento;
-
-III. Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere ayuntamiento;
-
-IV. Los profesores oficiales de instrucción primaria, secundaria o profesional del lugar donde viva el menor;
-
-V. Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del erario; y
-
-VI. Los directores de establecimientos de beneficencia pública.
-
-Los jueces nombrarán de entre las personas mencionadas la que en cada caso deba desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuran en las listas que deban formar los Consejos Locales de Tutela, conforme a lo dispuesto en el capítulo XV de este título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 101.
 
-Si el menor que se encuentra en el caso previsto por el artículo 99, adquiere bienes, se le nombrará tutor dativo, de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+Los Consejos de Planeación de Desarrollo Municipales contarán con los siguientes órganos:
 
-### Capítulo VII. De las personas inhábiles para el desempeño de la tutela y de los que deben ser separados de ella
+I.- Un Consejo Técnico; y
+
+II.- Comisiones de Trabajo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO NOVENO. DE LAS COMISIONES MUNICIPALES
 
 ###### Artículo 102.
 
-No podrán ser tutores, aunque estén anuentes en recibir el cargo:
+Los Consejos de Planeación de Desarrollo Municipales se integrarán por:
 
-I. Los menores de edad;
+I.- El Presidente Municipal, quien lo presidirá;
 
-II. Los mayores de edad que se encuentren bajo tutela;
+II.- El titular de la dependencia encargada de la planeación del desarrollo en el Municipio, quien será el Secretario Técnico;
 
-III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+III.- Representantes de la sociedad organizada que participen en las Comisiones de Trabajo, designados en los términos que señale el reglamento que al efecto emita el Ayuntamiento;
 
-IV. Los que, por sentencia que cause ejecutoria, hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
+IV.- Los demás funcionarios municipales que acuerde el Ayuntamiento; y
 
-V. El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
+V.- Los demás funcionarios estatales que el Ayuntamiento invite a participar.
 
-VI. Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
+Los cargos de quienes integran los Consejos de Planeación de Desarrollo Municipales, serán de carácter honorífico.
 
-VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
-
-VIII. Los deudores del incapacitado, en cantidad considerable, a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
-
-IX. Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia;
-
-X. El que no esté domiciliado en el lugar en que deba ejercer la tutela;
-
-XI. Los empleados públicos de hacienda que, por razón de su destino, tengan la responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
-
-XII. El que padezca enfermedad crónica contagiosa; y
-
-XIII. Los demás a quienes lo prohiba la ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 103.
 
-Serán separados de la tutela:
+Son atribuciones de los Consejos de Planeación de Desarrollo Municipales las siguientes:
 
-I. Los que sin haber caucionado su manejo, conforme a la ley ejerzan la administración de la tutela;
+I.- Fungir como órgano de consulta en materia de planeación del desarrollo del Municipio ante los Gobiernos Federal, Estatal y Municipales;
 
-II. Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+II.- Elaborar la propuesta del Plan Municipal de Desarrollo;
 
-III. Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 189;
+III.- Asesorar en la evaluación y actualización del Plan Municipal de Desarrollo;
 
-IV. Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
+IV.- Participar en la elaboración, evaluación y actualización del Plan de Gobierno Municipal y de los programas derivados del mismo;
 
-V. El tutor que se encuentre en el caso previsto en el artículo 419; y
+V.- Proporcionar asesoría técnica para la instrumentación en el ámbito municipal, del Plan Nacional de Desarrollo, los programas federales, el Plan Estatal de Desarrollo, el Plan Municipal de Desarrollo, el Plan de Gobierno Municipal y los programas que se deriven de este último;
 
-VI. El tutor que permanezca ausente por más de seis meses del lugar en que deba desempeñar la tutela.
+VI.- Promover la celebración de convenios tendientes a orientar los esfuerzos para lograr los objetivos del desarrollo integral del Municipio;
+
+VII.- Propiciar vínculos de coordinación con otras estructuras de planeación para el desarrollo de los municipios, con el objeto de intercambiar programas y proyectos para el desarrollo sustentable de las regiones intermunicipales; y
+
+VIII.- Las demás que señale el reglamento que al efecto emita el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Artículo 103 A.- Son atribuciones del Consejo Técnico:
+
+I.- Coordinar las funciones de diagnóstico, de planeación, de seguimiento y de evaluación del desarrollo;
+
+II.- Promover la planeación municipal y regional en congruencia con los objetivos, metas y estrategias del Plan Municipal de Desarrollo y del Plan de Gobierno Municipal; y
+
+III.- Las demás que señale el reglamento que al efecto emita el Ayuntamiento.
+
+El Consejo Técnico coordinará el funcionamiento de las Comisiones de Trabajo, las que tendrán las atribuciones previstas en la fracción I de este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Artículo 103 B.- Los ayuntamientos deberán señalar la forma y los procedimientos para la integración y funcionamiento del Consejo de Planeación de Desarrollo Municipal, del Consejo Técnico y de las Comisiones de Trabajo, en el reglamento que para el efecto emitan.
+
+Asimismo, el reglamento establecerá la forma y procedimiento para elegir a los representantes del Ayuntamiento y de la sociedad organizada que se propondrán para integrar el Consejo de Planeación para el Desarrollo del Estado de Guanajuato.
+
+Los representantes de la sociedad organizada que propongan los ayuntamientos deberán ser integrantes de los Consejos de Planeación de Desarrollo Municipales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 104.
 
-No podrán ser tutores de las personas comprendidas en la fracción II del artículo 40, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
+Los municipios previo acuerdo de sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
+
+Tratándose de la asociación de municipios del Estado con los de otra Entidad Federativa, deberán contar con la previa aprobación del Congreso del Estado.
+
+En ambos supuestos deberá publicarse el convenio respectivo en el Periódico Oficial del Gobierno del Estado.
+
+Para la ejecución de dichos convenios, los ayuntamientos participantes podrán crear organismos o entidades, con la estructura y funciones que se establezcan en los propios convenios, dichas funciones no podrán exceder de las que prevé la Ley para los ayuntamientos.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 105.
 
-Lo dispuesto en el artículo anterior será aplicable también para el nombramiento de curadores.
+Los ayuntamientos podrán celebrar convenios con el Ejecutivo del Estado, cuando a su juicio sea necesario que éste de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la prestación de un servicio público o el ejercicio de una función.
+
+Asimismo, podrán celebrar convenios para que el servicio público o la función se preste o ejerza coordinadamente por el propio Municipio y el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 105 A.- Los convenios a que se refieren las fracciones III y IV del Artículo 115 y el segundo párrafo de la fracción VII del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, deberán sujetarse a las siguientes normas de aplicación general:
+
+I.- Serán aprobados por la mayoría calificada de los integrantes del Ayuntamiento;
+
+II.- Constarán por escrito y deberán contener cuando menos:
+
+a) Las funciones o servicios públicos materia del convenio;
+
+b) Los derechos y obligaciones de las partes;
+
+c) Los recursos que se destinarán para su cumplimiento;
+
+d) Las causas de terminación y las sanciones por su incumplimiento; y
+
+e) Las estipulaciones aplicables para resolver las controversias que se susciten en el cumplimiento o interpretación del convenio;
+
+III.- Su vigencia será determinada. En caso de que exceda al periodo del Ayuntamiento que lo celebre, se estipularán las cláusulas conforme a las cuales las administraciones municipales subsecuentes podrán ratificarlo, revisarlo y en su caso modificarlo; y
+
+IV.- Los convenios y sus posteriores modificaciones, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 105 B.- Los municipios podrán solicitar al Ejecutivo del Estado, la celebración de los convenios a que se refiere este capítulo, cuando estuvieren imposibilitados para prestar o ejercer los servicios y funciones públicos de su competencia. Para tal efecto se observará lo siguiente:
+
+I.- La imposibilidad deberá ser determinada por la mayoría calificada del Ayuntamiento, previo dictamen técnico, financiero, legal y administrativo, formulado por la Comisión relacionada con el servicio o la función de que se trate;
+
+II.- Se hará la solicitud al Ejecutivo del Estado, anexando copia certificada del acuerdo y dictamen a que se refiere la fracción anterior, señalando los términos y condiciones en que el Ejecutivo prestaría el servicio o ejercería la función;
+
+III.- Recibida la solicitud, el Ejecutivo resolverá lo conducente en un término máximo de treinta días hábiles, pudiendo allegarse de los elementos necesarios para ello. En tanto, la función o servicio público de que se trate, seguirá prestándose por el Municipio;
+
+IV.- Si la resolución del Ejecutivo fuese afirmativa, se procederá a la suscripción del convenio respectivo, observando en lo conducente lo dispuesto por el artículo anterior.
+
+En caso de negativa del Ejecutivo para ejercer la función o prestar el servicio público, el Municipio podrá solicitar la intervención del Congreso del Estado, de conformidad con lo que establezca la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 106.
 
-El Ministerio Público y los parientes del pupilo tendrán derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 103.
+La administración pública municipal será centralizada y paramunicipal.
 
 ###### Artículo 107.
 
-El tutor que fuere procesado por cualquier delito, quedará suspendido en el ejercicio de su encargo desde que se provea el auto de formal prisión hasta que se pronuncie sentencia irrevocable.
+El Ayuntamiento podrá crear dependencias que le estén subordinadas directamente, así como fusionar, modificar o suprimir las ya existentes, atendiendo a sus necesidades y capacidad financiera. Asimismo, podrá crear órganos desconcentrados, dependientes jerárquicamente de las dependencias, con las facultades y obligaciones específicas que fije el reglamento y acuerdo respectivo.
+
+También, podrá crear entidades paramunicipales, cuando el desarrollo económico y social lo haga necesario.
 
 ###### Artículo 108.
 
-En el caso de que trata el artículo anterior, se proveerá la tutela conforme a la ley.
+Las dependencias y entidades de la administración pública municipal, ejercerán las funciones que les asigne esta Ley y el reglamento respectivo, o en su caso, el acuerdo de Ayuntamiento que para el efecto se expida, en el que se regule la creación, estructura y funcionamiento de éstos.
 
 ###### Artículo 109.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+Para ser titular de las dependencias y entidades de la administración pública municipal, se requiere ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, preferentemente habitante del Municipio, de reconocida honorabilidad y aptitud para desempeñar el cargo y, en su caso, reunir los requisitos del servicio civil de carrera.
 
-### Capítulo VIII. De las excusas para el desempeño de la tutela
+### CAPITULO DECIMO. DE LA DESAPARICION DE AYUNTAMIENTOS O CONCEJOS MUNICIPALES
 
 ###### Artículo 110.
 
-Podrán excusarse de ser tutores:
+Para el estudio y despacho de los diversos ramos de la administración pública municipal, el Ayuntamiento establecerá las siguientes dependencias:
 
-I. Los empleados y funcionarios públicos;
+I.- Secretaría del Ayuntamiento;
 
-II. Los militares en servicio activo;
+II.- Tesorería municipal;
 
-III. Los que tengan bajo su patria potestad tres o más descendientes;
+III.- Contraloría municipal; y
 
-IV. Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-V. Los que por el mal estado habitual de su salud, o por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
+IV.- Obra pública;
 
-VI. Los que tengan sesenta años cumplidos;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-VII. Los que tengan a su cargo otra tutela o curaduría; y
+V.- Servicios municipales;
 
-VIII. Los que por su inexperiencia en los negocios o por causa grave, a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VI.- Desarrollo social;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VII.- Seguridad pública;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Oficialía Mayor; y
+
+IX.- Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a VIII de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 110 A.- Los titulares de las dependencias señaladas en el artículo anterior, deberán proporcionar a los integrantes del Ayuntamiento, la información que les soliciten y sea necesaria para el ejercicio de su función.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 110 B.- Los titulares de las dependencias señaladas en el artículo 110 de esta Ley, sólo podrán ser removidos de su cargo, cuando en el desempeño del mismo incurran en alguna de las causales que establece la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Para que sea procedente la remoción, deberá observarse lo siguiente:
+
+I.- Cuando la propuesta la formule el presidente municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- Cuando la propuesta sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
 
 ###### Artículo 111.
 
-Si el que teniendo excusa legítima para ser tutor aceptare el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
+El titular de la Secretaría del Ayuntamiento, el que sin ser miembro del mismo, deberá cubrir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser de preferencia licenciado en derecho o su equivalente académico.
 
 ###### Artículo 112.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+Son atribuciones del secretario del Ayuntamiento:
+
+I.- Citar a las sesiones del Ayuntamiento, en los términos de esta Ley;
+
+II.- Asistir a las sesiones del Ayuntamiento con voz pero sin voto;
+
+III.- (DEROGADA, P.O. 1 DE AGOSTO DE 2006)
+
+IV.- Fungir como secretario de actas en las sesiones de Ayuntamiento, llevando los libros o folios que autorice el mismo, los cuales deberán rubricarse en todas y cada una de sus hojas y autorizarse al final de cada acta;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+V.- Cumplir y hacer cumplir los acuerdos, órdenes y circulares que el Ayuntamiento apruebe y no estén encomendadas a otra dependencia; así como citar a los funcionarios que haya acordado el Ayuntamiento;
+
+VI.- Organizar, dirigir y controlar el archivo municipal y la correspondencia oficial;
+
+VII.- Expedir, por acuerdo del Ayuntamiento o del presidente municipal, copias certificadas de documentos y constancias del archivo, de los acuerdos asentados en los libros de actas, siempre que el solicitante acredite tener un interés legítimo y no perjudique el interés público;
+
+VIII.- Compilar las leyes, decretos, reglamentos, periódicos oficiales del Gobierno del Estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IX.- Formar y actualizar el padrón municipal, cuidando que se inscriban todos los habitantes del Municipio, expresando sus datos de identificación y los de sus propiedades; así como integrar y mantener actualizado el padrón de las asociaciones de habitantes existentes en el Municipio;
+
+X.- Expedir las constancias de residencia que soliciten los habitantes del Municipio;
+
+XI.- Autenticar con su firma los acuerdos y comunicaciones del Ayuntamiento y del presidente municipal;
+
+XII.- Entregar al término de su gestión, los libros y documentos que integrarán el archivo municipal, en acta circunstanciada, en los términos de la entrega-recepción previstos en esta Ley; y
+
+XIII.- Las demás que les confiere ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
 ###### Artículo 113.
 
-Si el tutor tuviere dos o más excusas, las propondrá simultáneamente, dentro del plazo respectivo; y si propone una sola, se entenderán renunciadas las demás.
+La hacienda pública municipal estará a cargo de la Tesorería municipal, cuyo titular sin ser integrante del Ayuntamiento, deberá cumplir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser de preferencia profesional en las áreas económicas, contables o administrativas.
 
 ###### Artículo 114.
 
-Mientras que se califica el impedimento o la excusa el juez nombrará un tutor interino.
+Son atribuciones del tesorero municipal:
+
+I.- Recaudar los ingresos que correspondan al Municipio, de conformidad con las leyes fiscales;
+
+II.- Vigilar la administración de fondos de obras por cooperación;
+
+III.- Documentar toda ministración de fondos públicos;
+
+IV.- Ejercer la facultad económico-coactiva y, en su caso, delegarla conforme a las leyes y reglamentos vigentes;
+
+V.- Formular los proyectos de presupuesto de egresos y pronóstico de ingresos;
+
+VI.- Proponer al Ayuntamiento, las medidas o disposiciones que tiendan a incrementar los recursos económicos que constituyen la hacienda pública municipal;
+
+VII.- Aplicar los ingresos, de acuerdo con el presupuesto de egresos aprobado por el Ayuntamiento;
+
+VIII.- Llevar la contabilidad general y el control del ejercicio presupuestal;
+
+IX.- Llevar el registro, catálogo e inventario de los bienes muebles e inmuebles de propiedad municipal;
+
+X.- Elaborar y someter a la aprobación del Ayuntamiento, el programa financiero, mediante el cual se maneja la deuda pública municipal y su forma de administrarla;
+
+XI.- Glosar oportunamente las cuentas de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XII.- Remitir al Congreso del Estado, la cuenta pública municipal, así como rendir los informes contables y financieros mensuales, dentro del mes siguiente, y atender las observaciones que se formulen sobre los mismos. Los informes contables y financieros, deberán ser firmados, además, por el presidente municipal;
+
+XIII.- Formar y actualizar el catastro municipal;
+
+XIV.- Diseñar y mantener actualizado un sistema de información y orientación fiscal, para los contribuyentes del fisco municipal;
+
+XV.- Revisar los anteproyectos de presupuestos de egresos de las entidades que integren el sector paramunicipal, para su incorporación al presupuesto de egresos del Ayuntamiento;
+
+XVI.- Integrar los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega-recepción de la misma, en el rubro relativo a la Tesorería; y (sic)
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XVII.- Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, así como las tablas de valores unitarios del suelo y de construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato: y
+
+XVIII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 115.
 
-El tutor testamentario que se excuse de ejercer la tutela perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+El control interno, evaluación de la gestión municipal y desarrollo administrativo, estarán a cargo de la Contraloría Municipal, cuyo titular será propuesto por la primera minoría a través de una terna, en la sesión siguiente a la de instalación del Ayuntamiento y será designado en dicha sesión.
+
+Se entenderá por primera minoría, a los integrantes del Ayuntamiento, cuya planilla haya obtenido el segundo lugar en votación en la elección del Ayuntamiento en funciones.
+
+El Ayuntamiento tendrá por designado como contralor municipal al integrante de la terna que haya obtenido el mayor número de votos de los integrantes presentes del Ayuntamiento.
+
+Cuando por cualquier causa la primera minoría no ejerza su derecho, el contralor municipal será designado por mayoría absoluta del Ayuntamiento a propuesta de cualquiera de sus integrantes, en la sesión ordinaria siguiente a la referida en el primer párrafo de este artículo.
+
+En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, con los que deberá contar la Contraloría Municipal para el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 115 A.- El contralor municipal podrá ser removido de su cargo cuando se encuentre en alguno de los supuestos establecido en el artículo 110 B de esta Ley, conforme al siguiente procedimiento:
+
+I.- A propuesta de la primera minoría, requiriendo para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- A propuesta de la mayoría absoluta del Ayuntamiento, requiriendo para su aprobación, la mayoría calificada del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 115 B.- En caso de falta o ausencia mayor de quince días hábiles del contralor municipal se deberá proceder a designar a la persona que lo supla o sustituya, aplicando en lo conducente el procedimiento a que se refiere el artículo anterior.
+
+Cuando las faltas o ausencias no excedan del término de quince días hábiles, el contralor municipal designará quien lo supla, del personal que tenga a su cargo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 116.
 
-El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y será responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si, habiendo sido legalmente citada, no se presenta al juez manifestando su parentesco con el incapaz.
+Para asumir el cargo de contralor municipal, se deben reunir los siguientes requisitos:
+
+I.- Ser ciudadano guanajuatense, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriamente por delito grave del orden común;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+II.- Contar con título profesional legalmente expedido en las áreas contables, jurídicas o administrativas y un mínimo de tres años de ejercicio profesional.
+
+Si entre los integrantes de la terna propuesta por la primera minoría concurre igualdad de circunstancias en relación a la experiencia profesional, se preferirá a quien posea experiencia en actividades administrativas relativas a la función de control;
+
+III.- Ser de reconocida honradez; y
+
+IV.- No haber sido dirigente de partido político ni candidato durante la elección del ayuntamiento en funciones.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 117.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
+Son atribuciones del contralor municipal:
 
-### Capítulo IX. De la garantía que deben prestar los tutores para asegurar su manejo
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+I.- Presentar al Ayuntamiento durante el mes de enero el plan de trabajo y el programa de auditorias y revisiones anuales;
+
+II.- Proponer y aplicar normas y criterios en materia de control y evaluación, que deban observar las dependencias y entidades de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+III.- Verificar el cumplimiento del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste último;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+IV.- Realizar visitas y auditorías periódicamente a las dependencias y entidades de la administración pública municipal, y en su caso, promover las medidas necesarias para corregir las deficiencias detectadas;
+
+V.- Vigilar la correcta aplicación del gasto público;
+
+VI.- Presentar bimestralmente al Ayuntamiento, un informe de las actividades de la contraloría municipal, señalando las irregularidades que se hayan detectado en el ejercicio de su función;
+
+VII.- Verificar que la administración pública municipal, cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del Municipio;
+
+VIII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de servicios públicos municipales, se supediten a lo establecido por esta Ley;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
+
+X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
+
+XI.- Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
+
+XII.- Verificar los estados financieros de la tesorería municipal, así como revisar la integración, la remisión en tiempo y la solventación de observaciones de la cuenta pública municipal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+
+XIV.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
+
+XV.- Vigilar que el desempeño de las funciones de los servidores públicos municipales, se realice conforme a la Ley;
+
+XVI.- Proponer al personal que haya de ser contratado para auxiliarlo en el desempeño de sus funciones; y
+
+XVII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Artículo 117 A.- Es obligación de los titulares de las dependencias y entidades de la administración pública municipal, participar con el tesorero y el presidente municipales en la solventación de las observaciones que formule el Órgano de Fiscalización Superior del Congreso del Estado.
+
+### CAPITULO DECIMO PRIMERO. DE LA SUSPENSION O REVOCACION DEL MANDATO DE LOS INTEGRANTES DEL AYUNTAMIENTO O CONCEJO MUNICIPAL
 
 ###### Artículo 118.
 
-El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
+Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del presidente municipal, en la demarcación territorial asignada a la delegación. Serán nombrados por el Ayuntamiento a propuesta del presidente municipal dentro de los seis meses siguientes a la instalación del Ayuntamiento. Para efecto de formular dicha propuesta, el presidente municipal podrá optar por realizar una consulta pública previa a los habitantes de la delegación.
 
-I. En hipoteca o prenda;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-II. En fianza; y
+En el supuesto de que el presidente municipal opte por realizar la consulta pública a los habitantes de la delegación, someterá a aprobación del Ayuntamiento la convocatoria en la que se establecerán las bases para la realización de dicha consulta.
 
-III. Cualquier otra garantía que a juicio del juez resulte suficiente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda, en una institución de crédito autorizada para recibir depósitos; a falta de ella, se depositarán en poder de persona de notoria solvencia y honorabilidad.
+Los delegados y subdelegados municipales durarán en su cargo tres años, salvo renuncia o remoción por cualquiera de las causas establecidas en el artículo 110 B de esta Ley, conforme a lo siguiente:
+
+I.- Cuando la propuesta de remoción la formule el presidente municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
+
+II.- Cuando la propuesta sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 119.
 
-Estarán exceptuados de la obligación de dar garantía:
+Para ser delegado o subdelegado municipal, los que sin ser integrantes del Ayuntamiento, deberán cumplir los requisitos establecidos en el artículo 110 de la Constitución Política Local y ser habitante del lugar de su adscripción.
 
-I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
-
-II. El tutor que no administre bienes;
-
-III. El padre, la madre y los abuelos, en los casos en que, conforme a la ley, sean llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 122; y
-
-IV. Los que acojan a un expósito, lo alimenten y eduquen convenientemente por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
+Por cada delegado se nombrará un subdelegado, el cual auxiliará al delegado municipal, en el desempeño de sus funciones y sus atribuciones serán establecidas en el reglamento que al efecto emita el Ayuntamiento.
 
 ###### Artículo 120.
 
-Los comprendidos en la fracción I del artículo anterior sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquella.
+Compete al delegado municipal:
+
+I.- Ejecutar los acuerdos que expresamente le delegue el Ayuntamiento y el presidente municipal, en el área de su adscripción;
+
+II.- Vigilar y mantener el orden público en su jurisdicción;
+
+III.- Informar al presidente municipal de los acontecimientos que afecten el orden, la tranquilidad pública y la salud de su delegación, por conducto de la dependencia que coordine a los delegados;
+
+IV.- Promover el establecimiento y conservación de los servicios públicos en su jurisdicción;
+
+V.- Actuar como conciliador en los asuntos que sometan a su consideración los habitantes de su adscripción; y
+
+VI.- Las demás que le señalen esta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
 ###### Artículo 121.
 
-La garantía que presten los tutores no impedirá que el juez, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+Los delegados municipales, podrán asesorarse en las dependencias y entidades correspondientes de la administración pública municipal, para la atención de los asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 122.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía, salvo el caso de que el juez, con audiencia del curador y del Consejo Local de Tutelas, lo crea conveniente.
+La coordinación de los delegados estará a cargo de la Dependencia que establezca el reglamento, o en su caso, la que acuerde el Ayuntamiento por mayoría calificada.
 
 ###### Artículo 123.
 
-Siempre que el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+Los delegados municipales no podrán otorgar licencias, permisos o autorizaciones, salvo disposición expresa de la Ley, reglamentos o acuerdos de Ayuntamiento.
 
 ###### Artículo 124.
 
-Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+Integrarán la administración pública paramunicipal los organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales, comisiones, patronatos y comités.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 125.
 
-El tutor no podrá dar fianza para caucionar su manejo, sino cuando no tenga bienes en que constituir hipoteca o prenda.
+El ayuntamiento aprobará por mayoría calificada la creación, modificación o extinción de las entidades paramunicipales.
+
+Las atribuciones de las entidades paramunicipales no deberán exceder las que para el Ayuntamiento señale la Ley y se especificarán en el acuerdo de creación, mismo que deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+En caso de extinción, el acuerdo correspondiente fijará la forma y términos de la liquidación.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 125 A.- Las entidades paramunicipales deberán sujetarse al Plan de Gobierno Municipal y a los programas que deriven del mismo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 125 B.- Los órganos de gobierno o de administración de las entidades paramunicipales, deberán dictar las medidas administrativas conducentes para contribuir en el control interno de las mismas.
 
 ###### Artículo 126.
 
-Cuando los bienes que tenga no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, parte en fianza o solamente en fianza, a juicio del juez, y previa audiencia del curador y del Consejo Local de Tutelas.
+El Ayuntamiento, por conducto del presidente municipal, coordinará y supervisará las acciones que realicen las entidades paramunicipales, vigilando que cumplan con la función para la que fueron creadas.
 
 ###### Artículo 127.
 
-La hipoteca o prenda y, en su caso, la fianza, se darán:
+La creación de organismos descentralizados, se sujetará a las siguientes bases:
 
-I. Por el importe de las rentas de los bienes raíces en los dos últimos años, y por los réditos de los capitales impuestos durante ese mismo tiempo;
+I.- Denominación del organismo;
 
-II. Por el valor de los bienes muebles;
+II.- Domicilio legal;
 
-III. Por el de los productos de las fincas rústicas en dos años, calculados por peritos, o por el término medio en un quinquenio, a elección del juez; y
+III.- Objeto del organismo;
 
-IV. En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros, si están llevados en debida forma, o a juicio de peritos.
+IV.- Integración de su patrimonio;
+
+V.- Integración del órgano de gobierno, duración en el cargo de sus miembros y causas de remoción de los mismos;
+
+VI.- Facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
+
+VII.- Organos de vigilancia, así como sus facultades;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+VIII.- Vinculación con los objetivos y estrategias del Plan Municipal de Desarrollo y del Plan de Gobierno Municipal;
+
+IX.- Descripción clara de los objetivos y metas;
+
+X.- Efectos económicos y sociales que se pretendan alcanzar; y
+
+XI.- Las demás que se regulen en el reglamento o acuerdo de Ayuntamiento y sean inherentes a su función.
 
 ###### Artículo 128.
 
-Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrán aumentarse o disminuirse proporcionalmente la hipoteca, prenda o la fianza, a pedimento del tutor, del curador, del Ministerio Público o del Consejo Local de Tutelas.
+La administración de los organismos descentralizados estará a cargo de un órgano de gobierno, que será un consejo directivo o su equivalente, designado por el Ayuntamiento en los términos del acuerdo y reglamento respectivo.
+
+El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general y demás personal necesario para el cumplimiento de sus funciones.
 
 ###### Artículo 129.
 
-El juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+Los organismos descentralizados deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 130.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 127 se procederá al nombramiento de nuevo tutor.
+Cuando el organismo público descentralizado tenga por objeto la prestación de un servicio público, las tarifas correspondientes a dicho servicio, se pagarán de conformidad con lo que establezca la Ley de Ingresos para el Municipio. Asimismo, podrá ejercer la facultad económico-coactiva, cuando así lo acuerde el Ayuntamiento.
 
 ###### Artículo 131.
 
-Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario solemne, y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración requerirá la autorización judicial, la que se concederá, si procede, oyendo al curador.
+La constitución de empresas de participación municipal, se sujetará a las siguientes bases:
+
+I.- Las partes sociales serán siempre nominativas;
+
+II.- Los rendimientos que el Ayuntamiento obtenga de su participación, se destinarán a los fines previstos en los programas respectivos; y
+
+III.- La escritura constitutiva de estas empresas, deberá contener una cláusula en la que se establezca que los acuerdos de asamblea ordinaria, sean en primera o en segunda convocatoria, deberán aprobarse por un mínimo de acciones que representen el cincuenta y uno por ciento del capital social de la empresa.
 
 ###### Artículo 132.
 
-Al presentar el tutor su cuenta anual, o en cualquier tiempo que lo estimen conveniente, el curador o el Consejo Local de Tutelas deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. El Ministerio Público tiene igual facultad, y hasta de oficio el juez puede exigir esta información.
+La Tesorería municipal formará y llevará un expediente para cada empresa en la que participe el Ayuntamiento, con las siguientes constancias:
+
+I.- Escritura constitutiva y sus reformas, poderes que otorgue y actas de las asambleas y sesiones;
+
+II.- Inventarios y balances;
+
+III.- Contratos y documentos en que se comprometa el patrimonio de la empresa;
+
+IV.- Auditorías e informes contables y financieros;
+
+V.- Informes del representante del Ayuntamiento; y
+
+VI.- Otras que tengan relación con la empresa.
 
 ###### Artículo 133.
 
-Es también obligación del curador y del Consejo Local de Tutelas vigilar el estado de las fincas hipotecadas por el tutor de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que, si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+En todas las empresas de participación municipal, existirá un comisario público, el cual será designado por el Ayuntamiento a propuesta del síndico correspondiente.
 
-### Capítulo X. Del desempeño de la tutela
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+### CAPITULO PRIMERO. DE LA PLANEACION DEL DESARROLLO MUNICIPAL
 
 ###### Artículo 134.
 
-Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 91.
+Los fideicomisos públicos municipales a que se refiere esta Ley, serán los que constituya el Ayuntamiento, previo estudio que así lo justifique, a efecto de que le auxilien en la realización de actividades que le sean propias o impulsen el desarrollo del Municipio y en los cuales la Tesorería Municipal o el organismo público descentralizado, a través del representante de su órgano de gobierno, sea el fideicomitente.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 134 A.- La creación de los fideicomisos públicos se sujetará a las siguientes bases:
+
+I.- Contarán con un Director General, un Comité Técnico que fungirá como órgano de gobierno, y un comisario encargado de la vigilancia, designado por la contraloría municipal. Dichos cargos serán honoríficos;
+
+II.- El Ayuntamiento podrá autorizar el incremento del patrimonio de los fideicomisos públicos, previa opinión de los fideicomitentes de los mismos y sus comités técnicos;
+
+III.- En los contratos constitutivos de fideicomisos de la administración pública municipal, se deberá reservar a favor del Ayuntamiento, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos con los gobiernos estatal o federal, por mandato de la ley o que la naturaleza de sus fines no lo permita;
+
+IV.- La modificación o extinción de los fideicomisos públicos, cuando así convenga al interés general, corresponderá al Ayuntamiento, debiendo en todo caso establecer el destino de los bienes fideicomitidos;
+
+V.- Los fideicomisos públicos a través de su comité técnico, deberán de rendir al Ayuntamiento un informe trimestral sobre la administración y aplicación de los recursos aportados al fideicomiso; y
+
+VI.- En los contratos constitutivos de fideicomisos se establecerá la obligación de observar los requisitos y formalidades señalados en esta Ley, para la enajenación de los bienes de propiedad municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 134 B.- El comité técnico deberá estar integrado por lo menos con los siguientes propietarios:
+
+I.- El síndico municipal o uno de ellos, en aquellos Ayuntamientos que tengan dos;
+
+II.- Un representante de las dependencias o entidades de la administración pública municipal que de acuerdo con los fines del fideicomiso deban intervenir;
+
+III.- Un representante de la Tesorería Municipal;
+
+IV.- Un representante de la Contraloría Municipal; y
+
+V.- Un representante del fiduciario.
+
+Por cada miembro propietario del comité técnico habrá un suplente que lo cubrirá en sus ausencias.
+
+El representante de la Contraloría Municipal participará con voz pero sin voto.
+
+Los miembros del Comité Técnico serán nombrados y removidos por el Ayuntamiento, a excepción del representante fiduciario, cuyo nombramiento y remoción corresponderá a la institución fiduciaria.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 134 C.- Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la contraloría municipal de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de los auditores externos que determine el Ayuntamiento, sin perjuicio de las facultades de fiscalización del Congreso del Estado. En la cuenta pública municipal se deberá informar y anexar el resultado de las auditorías practicadas.
 
 ###### Artículo 135.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause el incapacitado y, además, separado de la tutela. Ningún extraño puede rehusarse a tratar con él, judicial o extrajudicialmente alegando la falta de curador.
+Los ayuntamientos institucionalizarán el servicio civil de carrera, el cual tendrá los siguientes propósitos:
+
+I.- Garantizar la estabilidad y seguridad en el empleo;
+
+II.- Fomentar la vocación de servicio, mediante una motivación adecuada;
+
+III.- Promover la capacitación permanente del personal;
+
+IV.- Procurar la lealtad a las instituciones del Municipio;
+
+V.- Promover la eficiencia y eficacia de los servidores públicos municipales;
+
+VI.- Mejorar las condiciones laborales de los servidores públicos municipales;
+
+VII.- Garantizar promociones justas y otras formas de progreso laboral, con base en sus méritos;
+
+VIII.- Garantizar a los servidores públicos municipales, el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos; y
+
+IX.- Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, deportivas, recreativas y sociales.
 
 ###### Artículo 136.
 
-El tutor está obligado:
+Para la institucionalización del servicio civil de carrera, los ayuntamientos establecerán:
 
-I. A alimentar y educar al incapacitado;
+I.- Las normas, políticas y procedimientos administrativos, que definirán qué servidores públicos municipales participarán en el servicio civil de carrera;
 
-II. A destinar, de preferencia, los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes; y
+II.- Un estatuto del personal;
 
-III. A formar inventario solemne y circunstanciado de cuanto constituye el patrimonio del incapacitado, dentro del término que el juez designe, con intervención del curador y del mismo incapacitado, si goza de discernimiento y ha cumplido dieciséis años de edad.
+III.- Un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal;
 
-El término para formar el inventario no podrá ser mayor de seis meses;
+IV.- Un sistema de clasificación de puestos;
 
-IV. A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando sea capaz de discernimiento y mayor de dieciséis años.
+V.- Un sistema de plan de salarios y tabulador de puestos; y
 
-La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
-
-V. A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales; y
-
-VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+VI.- Un sistema de capacitación, actualización y desarrollo de personal.
 
 ###### Artículo 137.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+El Ayuntamiento creará una comisión del servicio civil de carrera, como organismo auxiliar de éste.
 
 ###### Artículo 138.
 
-Cuando el tutor entre en el ejercicio de su cargo, el juez fijará con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que la persona que nombró tutor hubiere señalado para dicho objeto.
+La comisión del servicio civil de carrera tendrá las siguientes funciones:
+
+I.- Promover ante las dependencias y entidades de la administración pública municipal, la realización de los programas específicos del servicio civil de carrera;
+
+II.- Promover mecanismos de coordinación entre las dependencias y entidades de la administración pública municipal, para uniformar y sistematizar los métodos de administración y desarrollo del personal, encaminados a instrumentar el servicio civil de carrera;
+
+III.- Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del servicio civil de carrera;
+
+IV.- Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la administración pública municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera;
+
+V.- Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos del plan de desarrollo municipal;
+
+VI.- Evaluar periódicamente los resultados de las acciones orientadas a la instrumentación del servicio civil de carrera; y
+
+VII.- Las demás que señale el Ayuntamiento, que le sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 139.
 
-El tutor destinará al menor a la carrera u oficio, que éste elija, según sus circunstancias. Si el tutor infrinje (sic) esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutela o por sí mismo ponerlo en conocimiento del juez para que dicte las medidas convenientes.
+En la aplicación del presente capítulo, se atenderá en lo conducente, lo dispuesto por la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
 ###### Artículo 140.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta sin la aprobación del juez, quien decidirá este punto prudentemente y oyendo, en todo caso, al mismo menor, al curador y al Consejo Local de Tutelas.
+Los ayuntamientos vigilarán que la prestación de los servicios públicos, se realice en igualdad de condiciones a todos los habitantes del Municipio, en forma permanente, general, uniforme, continua, y de acuerdo al Plan de Gobierno Municipal.
 
 ###### Artículo 141.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
+Los ayuntamientos tendrán a su cargo los siguientes servicios públicos:
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+II.- Alumbrado público;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+III.- Limpia, recolección, traslado, tratamiento, disposición final y aprovechamiento de residuos;
+
+IV.- Mercados y centrales de abastos;
+
+V.- Rastro;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+VI.- Calles, parques, jardines, áreas ecológicas y recreativas y su equipamiento;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+VII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; y el de policía preventiva;
+
+VIII.- Tránsito y vialidad;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
+IX.- Transporte urbano y suburbano en ruta fija;
+
+X.- Estacionamientos públicos;
+
+XI.- Panteones;
+
+XII.- Educación;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XIII.- Bibliotecas públicas y Casas de la Cultura;
+
+XIV.- Asistencia y salud pública;
+
+XV.- Protección civil;
+
+XVI.- Desarrollo urbano y rural; y
+
+XVII.- Los demás que señalen las leyes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 142.
 
-Si los menores o los mayores de edad, con algunas de las incapacidades a que se refiere el artículo 40 fracción II, fuesen indigentes o careciesen de suficientes medios para los gastos que demandan su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tengan obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor fuere obligado a dar alimentos, por razón de su parentesco con su tutelado, el curador ejercitará la acción a que este artículo se refiere.
+El Ayuntamiento prestará los servicios públicos de la siguiente forma:
+
+I.- Directa, a través de sus propias dependencias administrativas u organismos desconcentrados;
+
+II.- Indirecta, a través de:
+
+a) Las entidades paramunicipales creadas para ese fin;
+
+b) Régimen de concesión; y
+
+c) Convenios de coordinación o asociación que lleve a cabo con otros ayuntamientos o con el Ejecutivo del Estado.
 
 ###### Artículo 143.
 
-Si los menores o mayores de edad con incapacidades como las que señala el artículo 40 fracción II, no tuvieren personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor con autorización del juez de lo familiar, quien oirá el parecer del curador y el Consejo Local de las Tutelas, pondrá al tutelado en un establecimiento de beneficencia pública o privada en donde pueda educarse y habilitarse. En su caso, si esto no fuera posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando a su tutelado, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+La prestación de los servicios públicos municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada por la Contraloría municipal.
 
 ###### Artículo 144.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado, pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+Los usuarios de los servicios públicos, deberán hacer uso racional y adecuado de las instalaciones destinadas a la prestación de los mismos y comunicar a la autoridad municipal, aquéllos desperfectos y deficiencias que sean de su conocimiento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 145.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 40, está obligado a presentar al juez en el mes de enero de cada año, un certificado de dos médicos psiquiatras que declaren acerca del estado del individuo sujeto a interdicción, a quien para ese efecto reconocerán en presencia del curador. El juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+En caso de destrucción o daños causados a la infraestructura de los servicios públicos municipales, la autoridad municipal deslindará la responsabilidad e impondrá sanciones administrativas que correspondan, sin perjuicio de que se denuncie penalmente al infractor.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 146.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial, que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al juez para obtener la debida aprobación.
+El servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales podrá ser prestado por el Ayuntamiento, preferentemente a través de un organismo público descentralizado, creado en los términos de esta Ley y el reglamento aplicable.
 
 ###### Artículo 147.
 
-La obligación de hacer inventarios no puede ser dispensada ni aún por los que tienen derecho de nombrar tutor testamentario.
+Para la prestación del servicio de alumbrado público, el Ayuntamiento, directamente o a través del Ejecutivo del Estado, celebrará convenios con la dependencia u organismo que corresponda, para su prestación y cobro.
 
 ###### Artículo 148.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+El servicio público de mercados y centrales de abastos, es aquél que se presta en inmuebles de propiedad municipal.
+
+El Ayuntamiento podrá concesionar a comerciantes, los espacios ubicados en el interior de los inmuebles de propiedad municipal, en los términos de esta Ley y el reglamento correspondiente.
 
 ###### Artículo 149.
 
-El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+Cuando el Ayuntamiento lo juzgue conveniente, el servicio de mercados y centrales de abastos, podrá prestarse en inmuebles sujetos al régimen de condominio público, en el que la administración será propia y exclusiva del Ayuntamiento y en todo lo demás serán aplicables las disposiciones del Código Civil para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 149 A.- Los servicios públicos de tránsito y vialidad, policía preventiva y protección civil se prestarán por el Municipio como áreas de seguridad pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 150.
 
-Los bienes que el incapacitado adquiera después de la formación de inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 136.
+En los servicios de seguridad pública y policía preventiva municipal, podrán autorizarse cuando así se solicite, elementos auxiliares que se encarguen de manera específica y concreta de prestar el servicio en zonas, instalaciones o ramas de actividades, bajo la jurisdicción y vigilancia del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+
+Las tarifas correspondientes a dichos servicios, se pagarán de conformidad con lo que establezca la Ley de Ingresos para el Municipio.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 151.
 
-Hecho el inventario, no se admite al tutor rendir prueba contra él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
-
-Se exceptúan de los dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+El servicio de estacionamiento público es aquél que se presta en bienes inmuebles de propiedad municipal o en la vía pública; se pagará de conformidad con las tarifas establecidas en la Ley de Ingresos para el Municipio.
 
 ###### Artículo 152.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia.
+El servicio de panteones podrá ser concesionado, con la condición de que se establezca la obligación de reservar al Municipio, cuando menos, el treinta por ciento de la superficie total que se destine a dicho servicio, para que éste lo utilice con el mismo fin.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 152 A.- El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a lo dispuesto en la Ley de la materia.
 
 ###### Artículo 153.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará con aprobación del juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados podrán aumentarse después, sino con aprobación judicial.
+Los Ayuntamientos podrán otorgar concesiones para la prestación de los servicios públicos por acuerdo de la mayoría calificada.
+
+No serán objeto de concesión, los servicios públicos considerados como áreas de seguridad pública.
 
 ###### Artículo 154.
 
-Lo dispuesto en el artículo anterior no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+Las concesiones para la prestación de servicios públicos, no podrán en ningún caso otorgarse a:
+
+I.- Los integrantes del Ayuntamiento;
+
+II.- Los titulares de las dependencias y entidades de la administración pública estatal y municipal;
+
+III.- Los cónyuges, parientes consanguíneos en línea recta sin limitación de grado, los colaterales y afines hasta el segundo grado, así como los civiles de las personas a que se refieren las fracciones I y II de este artículo; y
+
+IV.- Las personas físicas o morales que en los últimos cinco años se les haya revocado otra concesión para la prestación de servicios públicos municipales, así como empresas en que sean representantes o tengan intereses económicos, las personas a que se refieren las fracciones anteriores.
 
 ###### Artículo 155.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación, a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente, a juicio del juez.
+El otorgamiento de las concesiones municipales, se sujetará a las siguientes bases:
+
+I.- Acuerdo del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio público o la conveniencia de que lo preste un tercero;
+
+II.- Publicar la convocatoria en el Periódico Oficial del Gobierno del Estado y en uno de mayor circulación en el Municipio, misma que deberá contener:
+
+a) El objeto y duración de la concesión;
+
+b) El centro de población donde vaya a prestarse el servicio público;
+
+c) La autoridad municipal ante quien se deba presentar la solicitud correspondiente y el domicilio de la misma;
+
+d) La fecha límite para la presentación de las solicitudes;
+
+e) Los requisitos que deberán cumplir los interesados; y
+
+f) Los demás que considere necesarios el Ayuntamiento.
+
+III.- Los interesados deberán formular la solicitud respectiva, cubriendo los siguientes requisitos:
+
+a) Capacidad técnica y financiera;
+
+b) Acreditar la personalidad jurídica, tratándose de personas morales; y
+
+c) Declaración bajo protesta de decir verdad, de no encontrarse en el supuesto del artículo 154 de esta Ley;
+
+IV.- Determinación de las condiciones y formas en que deberán otorgarse las garantías para responder de la prestación del servicio público, en los términos del título-concesión y de esta Ley.
 
 ###### Artículo 156.
 
-El dinero que resulte sobrante, después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será invertido por el tutor, en forma segura y bajo su responsabilidad, en un plazo no mayor de tres meses, contados desde que se hubiere reunido una cantidad equivalente a 165 días de salario mínimo general vigente en el Estado.
+Las personas físicas o morales interesadas en obtener la concesión del servicio público, deberán presentar su solicitud por escrito ante la autoridad municipal que se indique en la convocatoria, dentro del plazo fijado en la misma.
+
+Si la autoridad municipal que recibió la solicitud, determina que ésta debe aclararse o completarse, notificará por escrito al interesado, para que en el término de cinco días hábiles, subsane la omisión o realice las aclaraciones correspondientes; en caso contrario, se tendrá por no presentada dicha solicitud.
+
+Concluido el período de recepción de solicitudes, los ayuntamientos formarán una comisión técnica especializada en el servicio público a concesionar, misma que deberá rendir un dictamen técnico, financiero, legal y administrativo, sobre el cual el Ayuntamiento emitirá la resolución correspondiente, dentro del término de treinta días hábiles.
+
+En la citada resolución, se asentarán cuáles solicitudes no fueron aceptadas, indicando las razones que motivaron el rechazo y se determinará discrecionalmente de entre los que reúnan las condiciones técnicas, administrativas, legales y financieras, quien o quienes serán los titulares de la concesión del servicio público de que se trate.
+
+Los puntos resolutivos, se publicarán en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 157.
 
-Si para hacer la inversión, dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, el tutor lo manifestará al juez, quien podrá ampliar el plazo por otros tres meses.
+El título-concesión, deberá contener:
+
+I.- Nombre y domicilio del concesionario;
+
+II.- Servicio público concesionado;
+
+III.- Centro de población o región donde se prestará el servicio público concesionado;
+
+IV.- Derechos y obligaciones del concesionario;
+
+V.- Plazo de la concesión;
+
+VI.- Cláusula de reversión, en su caso;
+
+VII.- Causas de extinción de la concesión;
+
+VIII.- Nombre y firma de la autoridad facultada para expedir el título-concesión; y
+
+IX.- Las demás disposiciones que establezca el reglamento y las que acuerde el Ayuntamiento.
 
 ###### Artículo 158.
 
-El tutor que no haga las inversiones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean invertidos.
+Las concesiones de servicios públicos se otorgarán por tiempo determinado; el plazo de vigencia de éstas será fijado por los ayuntamientos, el cual podrá ser prorrogado hasta por plazos equivalentes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+En caso de que la vigencia de la concesión exceda al periodo del Ayuntamiento, en el título correspondiente se establecerán las estipulaciones conforme a las cuales las administraciones municipales subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
 
 ###### Artículo 159.
 
-Mientras que se hacen las inversiones a que se refieren los artículos 156 y 157, el tutor depositará las cantidades que perciba en una institución de crédito.
+El concesionario, previamente a la fecha que se haya fijado como de inicio para la prestación del servicio público, deberá tramitar y obtener de las autoridades correspondientes, los permisos, licencias y demás autorizaciones que se requieran para dicha prestación. Las autoridades estatales competentes, otorgarán a los concesionarios, las facilidades necesarias para el cumplimiento de esta disposición.
 
 ###### Artículo 160.
 
-Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor o del mayor con alguna de las incapacidades a las que se refiere el artículo 40 fracción II debidamente justificada y previas la conformidad del curador y la autorización judicial.
+Son obligaciones de los concesionarios:
+
+I.- Prestar el servicio público concesionado con eficiencia y eficacia, sujetándose a lo dispuesto por esta Ley, demás disposiciones legales aplicables, así como a los términos del título-concesión;
+
+II.- Cubrir a la Tesorería municipal los derechos que correspondan, en los términos de las leyes fiscales aplicables;
+
+III.- Contar con el personal, equipo e instalaciones suficientes, para cubrir las demandas del servicio público concesionado;
+
+IV.- Realizar y conservar, en óptimas condiciones, las obras e instalaciones afectas o destinadas al servicio público concesionado, así como renovar y modernizar el equipo necesario para su prestación, conforme a los adelantos técnicos;
+
+V.- Cumplir con los horarios aprobados por el Ayuntamiento para la prestación del servicio público;
+
+VI.- Exhibir en lugar visible, en forma permanente, las tarifas o cuotas autorizadas por el Ayuntamiento y sujetarse a las mismas, en el cobro del servicio público que presten;
+
+VII.- Otorgar garantía en favor del Municipio;
+
+VIII.- Iniciar la prestación del servicio público dentro del plazo que fije el título-concesión; y
+
+IX.- Las demás que establezcan los reglamentos respectivos y las disposiciones legales aplicables.
 
 ###### Artículo 161.
 
-Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 614.
+Son facultades de los ayuntamientos respecto de las concesiones de servicios públicos:
+
+I.- Vigilar el cumplimiento de las obligaciones del concesionario;
+
+II.- Realizar las modificaciones que estimen convenientes a los títulos-concesión, cuando lo exija el interés público;
+
+III.- Verificar las instalaciones que conforme al título-concesión, se deban construir o adaptar para la prestación del servicio público;
+
+IV.- Dictar las resoluciones de extinción, cuando procedan conforme a esta Ley y al título-concesión;
+
+V.- Ocupar temporalmente el servicio público e intervenir en su administración, en los casos en que el concesionario no lo preste eficazmente o se niegue a seguir prestándolo, en cuyo caso podrá auxiliarse de la fuerza pública, cuando proceda;
+
+VI.- Ejercer la reversión de los bienes afectos o destinados a la concesión, sin necesidad de ningún pago, al término de la misma y de la prórroga en su caso, cuando así se haya estipulado en el título-concesión;
+
+VII.- Rescatar por causas de utilidad pública y mediante indemnización, el servicio público objeto de la concesión; y
+
+VIII.- Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
 
 ###### Artículo 162.
 
-La venta de bienes raíces del incapaz es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al incapaz.
+Las concesiones de servicios públicos, se extinguen por cualquiera de las causas siguientes:
 
-Los tutores no podrán vender valores comerciales, industriales, título de rentas, acciones, frutos y ganados pertenecientes al incapacitado por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza a nombre del tutelado.
+I.- Cumplimiento del plazo;
+
+II.- Revocación;
+
+III.- Caducidad;
+
+IV.- Rescate; y
+
+V.- Cualquiera otra prevista en el título-concesión.
 
 ###### Artículo 163.
 
-Cuando se trate de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que debe hacerse, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+Las concesiones de servicios públicos, podrán ser revocadas por cualquiera de las causas siguientes:
+
+I.- Interrupción en todo o en parte del servicio público concesionado, sin causa justificada a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
+
+II.- Ceder, hipotecar, enajenar o de cualquier manera gravar la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público de que se trate, sin la previa autorización por escrito del Ayuntamiento;
+
+III.- Modificar o alterar la naturaleza o condiciones en que se preste el servicio público, así como las instalaciones o su ubicación, sin la previa aprobación por escrito del Ayuntamiento;
+
+IV.- Dejar de pagar, en forma oportuna, los derechos que se hayan fijado a favor del Ayuntamiento, por el otorgamiento de la concesión y refrendo anual de la misma; y
+
+V.- Por incumplimiento de las obligaciones del concesionario, establecidas en esta Ley y en el título-concesión.
 
 ###### Artículo 164.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el juez.
+Las concesiones de servicios públicos caducarán por cualquiera de las causas siguientes:
+
+I.- Por no otorgar la garantía a que se refiere esta Ley; y
+
+II.- Por no iniciar la prestación del servicio público, una vez otorgada la concesión, dentro del término señalado en la misma.
 
 ###### Artículo 165.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+El procedimiento de revocación y caducidad de las concesiones de servicios públicos, se substanciará y resolverá por el Ayuntamiento, con sujeción a las siguientes normas:
+
+I.- Se iniciará de oficio o a petición de parte con interés legítimo;
+
+II.- Se notificará la iniciación del procedimiento al concesionario en forma personal, a efecto de que manifieste lo que a su interés convenga, dentro del plazo de cinco días hábiles contados a partir del día siguiente al de la notificación;
+
+III.- Se abrirá un período probatorio por el término de quince días hábiles, contados a partir del día siguiente al de la notificación a que se refiere la fracción anterior;
+
+IV.- Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
+
+V.- Se dictará resolución, dentro de los diez días hábiles siguientes al vencimiento del plazo para el desahogo de pruebas; y
+
+VI.- La resolución que se dicte, se notificará personalmente al interesado, en su domicilio legal o en el lugar donde se preste el servicio.
+
+En lo no previsto por este artículo, será aplicable de manera supletoria el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
 ###### Artículo 166.
 
-El nombramiento de árbitros hechos por el tutor deberá sujetarse a la aprobación del juez.
+Cuando la concesión del servicio público se extinga por causa imputable al concesionario, se hará efectivo a favor del Municipio, el importe de la garantía señalada en esta Ley.
 
 ###### Artículo 167.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de una cantidad equivalente a quince días de salario mínimo vigente en el Estado, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+Las resoluciones de extinción de las concesiones de servicios públicos, se publicarán en el Periódico Oficial del Gobierno del Estado y en el de mayor circulación en el Municipio.
 
 ###### Artículo 168.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella podrá el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer o marido, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+El patrimonio municipal se constituye por:
+
+I.- Los ingresos que conforman la hacienda pública municipal;
+
+II.- Los bienes del dominio público y privado del Municipio;
+
+III.- Los derechos y obligaciones constituídos jurídicamente a favor del Municipio;
+
+IV.- Los demás bienes, derechos y aprovechamientos que señalen otras leyes y ordenamientos a favor del Municipio; y
+
+V.- La deuda pública municipal.
 
 ###### Artículo 169.
 
-Cesará la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
+La hacienda pública municipal se constituirá por los rendimientos de los bienes que pertenezcan al Municipio, así como por las contribuciones y otros ingresos que establezcan las leyes fiscales a su favor.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Los recursos que integran la hacienda pública municipal serán ejercidos en forma directa por el Ayuntamiento o por quien éste autorice conforme a la Ley.
 
 ###### Artículo 170.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+Los bienes del dominio público del Municipio son inalienables, imprescriptibles e inembargables y sólo podrán enajenarse previa desafectación y autorización del Ayuntamiento por acuerdo de su mayoría calificada.
 
 ###### Artículo 171.
 
-El tutor no podrá aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo podrá adquirir esos derechos por herencia.
+Los bienes del dominio público municipal, se clasifican en:
+
+I.- De uso común;
+
+II.- Inmuebles destinados a un servicio público municipal;
+
+III.- Monumentos históricos y artísticos, muebles o inmuebles, de propiedad municipial (sic);
+
+IV.- Pinturas, murales, esculturas y cualquier obra artística incorporada permanentemente a los inmuebles del Municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+
+V.- Los que ingresen por disposición de la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
+
+VI.- Servidumbres, cuando el predio dominante sea alguno de los señalados en este artículo; y
+
+VII.- Los demás que por disposición de otros ordenamientos, forman o deban formar parte del dominio público municipal.
 
 ###### Artículo 172.
 
-El tutor no podrá dar en arrendamiento los bienes del incapacitado, por más de cinco años, sino en caso de necesidad o utilidad, previo consentimiento del curador y la autorización judicial observándose, en su caso, lo dispuesto en el artículo 163.
+Son bienes de uso común:
+
+I.- Las plazas, callejones, calles, avenidas y demás áreas destinadas a la vialidad, que sean municipales;
+
+II.- Los accesos, caminos, calzadas y puentes, que no sean propiedad del Estado o de la Federación;
+
+III.- Los canales, zanjas y acueductos para uso de la población, construidos o adquiridos por los municipios dentro de su territorio, que no sean de la Federación o del Estado;
+
+IV.- Los parques y jardines municipales;
+
+V.- Las construcciones en lugares públicos, para servicio u ornato;
+
+VI.- Los muebles de propiedad municipal, que por su naturaleza no sean sustituibles, tales como documentos, expedientes, manuscritos, publicaciones, mapas, planos, fotografías, grabados, pinturas, películas, archivos, registros y similares; y
+
+VII.- Los demás clasificados por otros ordenamientos como tales.
 
 ###### Artículo 173.
 
-El arrendamiento hecho de conformidad con el artículo anterior subsistirá por el tiempo convenido, aún cuando se acabe la tutela; pero será nula toda anticipación de renta o alquileres por más de dos años.
+Son bienes destinados a un servicio público:
+
+I.- Los inmuebles destinados a las dependencias y oficinas municipales;
+
+II.- Los inmuebles afectos a los servicios públicos municipales;
+
+III.- Los inmuebles que constituyen el patrimonio de los organismos públicos descentralizados;
+
+IV.- Los inmuebles de propiedad municipal que sean parte del equipamiento urbano; y
+
+V.- Cualesquiera otros adquiridos por procedimientos de derecho público.
 
 ###### Artículo 174.
 
-Sin autorización judicial no podrá el tutor recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no hipoteca en el contrato.
+Los bienes del dominio privado del Municipio, son los que no estén comprendidos en los artículos anteriores, los cuales son alienables, imprescriptibles e inembargables.
 
 ###### Artículo 175.
 
-El tutor no podrá hacer donaciones a nombre del incapacitado.
+Los inmuebles del dominio privado del Municipio, se destinarán prioritariamente a satisfacer las necesidades colectivas del Municipio.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 176.
 
-El tutor tendrá, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 589.
+Los inmuebles del dominio privado del Municipio, que no sean adecuados para los fines a que se refiere el artículo anterior, podrán ser objeto de enajenación por acuerdo del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 177.
 
-Durante la tutela no correrá la prescripción entre el tutor y el incapacitado.
+El Ayuntamiento sólo podrá donar o dar en comodato los bienes del dominio privado del Municipio, por acuerdo de la mayoría calificada de sus integrantes, cuando éstos sean a favor de instituciones públicas o privadas, que representen un beneficio social para el Municipio y que no persigan fines de lucro.
+
+El Ayuntamiento en todo caso establecerá los términos y condiciones que aseguren el cumplimiento del beneficio social que se persigue con la donación o el comodato, los que se insertarán textualmente en el acuerdo y en el contrato respectivos.
+
+En el caso de la donación, en el acuerdo correspondiente se deberá establecer la cláusula de reversión.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 177 A.- Los bienes del Municipio donados, revertirán a su patrimonio cuando se den cualesquiera de los siguientes supuestos:
+
+I.- Se utilicen para un fin distinto al autorizado;
+
+II.- La persona jurídica colectiva se disuelva o liquide; o
+
+III.- No se inicie la obra en el término especificado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 177 B.- Para ejercer la reversión, el Ayuntamiento se sujetará al siguiente procedimiento:
+
+I.- Emitirá un acuerdo de inicio del procedimiento de reversión, en el que se señalen las causas que la motiven;
+
+II.- Expedirá una orden de inspección fundada y motivada, de la cual se levantará un acta circunstanciada;
+
+III.- Notificará el acuerdo al donatario, otorgándole un plazo de diez días hábiles, para que manifieste lo que a su interés convenga;
+
+IV.- El Ayuntamiento emitirá la resolución correspondiente, ordenando su notificación al donatario. En caso de que se determine ejercer la reversión, dicha resolución deberá publicarse en el Periódico Oficial del Gobierno del Estado; y
+
+V.- El Ayuntamiento ordenará la ejecución de la resolución.
+
+El procedimiento anterior será iniciado y tramitado por la dependencia municipal que el Ayuntamiento determine en el reglamento o acuerdo correspondiente, la que emitirá un dictamen conforme al cual el Ayuntamiento resolverá lo conducente.
+
+Declarada la procedencia de la reversión, se requerirá al donatario para que de inmediato haga entrega física y material del bien revertido al patrimonio municipal. En caso de que se hubiere formalizado la donación en instrumento público, a petición del Municipio y una vez que haya quedado firme la reversión, el fedatario público que lo otorgó, procederá a su cancelación, inscribiendo el testimonio respectivo en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 178.
 
-El tutor tendrá obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, el ejercicio de una función o la prestación de un servicio público, podrá ser permutado por bienes de propiedad municipal con un valor comercial equivalente, si así lo acuerda la mayoría calificada del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 179.
 
-La expropiación por causa de utilidad pública de bienes de incapacitados no se sujetará a las reglas antes establecidas sino a lo que dispongan las leyes de la materia.
+Sólo procederá la venta de los bienes del dominio privado del Municipio, por acuerdo de la mayoría calificada de los integrantes del Ayuntamiento, cuando el producto de la misma represente un incremento al patrimonio municipal, debiendo éste ser aplicado preferentemente a satisfacer las necesidades colectivas del Municipio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento podrá, si a su juicio concurren circunstancias que así lo ameriten, variar el requisito exigido para la venta relativo (sic) a que el producto de la misma represente un incremento al patrimonio municipal, justificando en el acuerdo correspondiente el beneficio social que se obtendrá con la misma, requiriendo éste para su validez ser aprobado por la mayoría calificada del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 180.
 
-Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales, con las siguientes modificaciones:
+Cuando la vigencia de los contratos de arrendamiento, comodato u otros traslativos de uso sobre bienes de propiedad municipal, exceda el periodo del Ayuntamiento que los celebre, se estipularán en los mismos, las cláusulas conforme a las cuales las administraciones municipales subsecuentes, ratificarán, revisarán y en su caso, modificarán las condiciones establecidas en los mismos.
 
-I. En los casos en que conforme a derecho se requiera el consentimiento del cónyuge, se suplirá éste por el juez con audiencia del curador; y
-
-II. En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumpliere, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento ante el Consejo Local de Tutelas.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 181.
 
-Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el artículo 167, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 160.
+La venta de bienes de propiedad municipal en subasta pública, se hará observando las condiciones y el procedimiento siguiente:
+
+I.- El acuerdo autorizando la venta y el precio base para la misma, serán aprobados por la mayoría calificada del Ayuntamiento, previo avalúo practicado por uno o varios peritos autorizados;
+
+II.- La convocatoria para la subasta deberá ser publicada en el Periódico Oficial del Gobierno del Estado, así como en el periódico de mayor circulación en el Municipio, señalando fecha, hora y lugar donde se efectuará el acto; y
+
+III.- En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 181 A.- Cuando la venta de bienes muebles se realice fuera de subasta pública, se requerirá la autorización de la mayoría calificada del Ayuntamiento y el precio será fijado por la misma mayoría, previo avalúo practicado por uno o varios peritos autorizados.
 
 ###### Artículo 182.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+Ninguna enajenación, uso, disfrute o aprovechamiento de bienes inmuebles del Municipio, podrá hacerse a favor de los miembros del Ayuntamiento o de los titulares de las dependencias y entidades de la administración pública municipal, estatal o federal, ni a sus cónyuges, parientes consanguíneos en línea recta sin limitación de grado, colaterales y afines hasta el segundo grado, así como los civiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 183.
 
-En caso de maltrato, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del Consejo Local de Tutelas o del Ministerio Público.
+Toda disposición de bienes de propiedad municipal, que se realice en contravención a la normatividad aplicable, implicará responsabilidad del servidor público que la realice o promueva.
+
+Por razones de interés público, los jueces están obligados a comunicar al Ayuntamiento respectivo, el inicio de cualquier juicio o procedimiento tendiente a acreditar la posesión o propiedad sobre bienes inmuebles que se estimen del dominio público o privado del Municipio.
 
 ###### Artículo 184.
 
-El tutor tendrá derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento, y para los tutores legítimos y dativos la fijará el juez.
+Serán nulos los actos realizados en contravención de lo dispuesto en este capítulo.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 185.
 
-En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+Los ayuntamientos deberán de integrar a su padrón inmobiliario, los datos de identificación y el estado que guardan los bienes inmuebles de su propiedad.
+
+El tesorero municipal deberá integrar a la cuenta pública que remita al Congreso del Estado, la relación de los actos de dominio celebrados sobre su patrimonio inmobiliario.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 185 A.- Los acuerdos de Ayuntamiento que se tomen a efecto de enajenar bienes muebles e inmuebles, para su validez, deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+
+Además de lo preceptuado por esta Ley, se aplicará en lo conducente, la Ley del Patrimonio Inmobiliario del Estado y el Código Civil para el Estado de Guanajuato.
 
 ###### Artículo 186.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del curador.
+Los derechos sobre la explotación, uso y aprovechamiento de los bienes inmuebles del dominio público municipal, se adquirirán mediante el otorgamiento de las concesiones respectivas, las cuales no crean derechos reales sobre dichos inmuebles.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 187.
 
-Para que pueda hacerse, en la retribución de los tutores, el aumento extraordinario que permite el artículo anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+Las concesiones sobre bienes inmuebles del dominio público municipal, se otorgarán por tiempo determinado y requerirán el acuerdo de la mayoría calificada de los integrantes del Ayuntamiento. El plazo de vigencia será fijado por el Ayuntamiento, el cual podrá ser prorrogado hasta por plazos equivalentes.
+
+En caso de que la vigencia de la concesión exceda al periodo del Ayuntamiento, en el título correspondiente se establecerán las estipulaciones conforme a las cuales las administraciones municipales subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
 
 ###### Artículo 188.
 
-El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiere recibido, si contraviniese lo dispuesto en el artículo 419.
+Para el otorgamiento de las concesiones sobre inmuebles del dominio público municipal, así como su prórroga, se atenderá:
 
-### Capítulo XI. De las cuentas de la tutela
+I.- A la conveniencia de la explotación, uso o aprovechamiento del bien inmueble;
+
+II.- Al monto de la inversión que el concesionario pretenda aplicar;
+
+III.- Al plazo de amortización de la inversión realizada;
+
+IV.- Al beneficio social y económico que signifique para el Municipio;
+
+V.- Al cumplimiento por parte del concesionario de las obligaciones a su cargo; y
+
+VI.- A la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+### CAPITULO SEGUNDO. DE LOS CONSEJOS DE PLANEACION DE DESARROLLO MUNICIPALES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 189.
 
-El tutor estará obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año sea cual fuere la fecha en que se hubiere discernido el cargo. La falta de presentación de la cuenta, en los tres meses siguientes al de enero, motivará la remoción del tutor.
+Al término del plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la misma, revertirán en favor del Municipio. En caso de prórroga o de otorgamiento de una nueva concesión, para la fijación del monto de los derechos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
 
 ###### Artículo 190.
 
-También tiene obligación de rendir cuenta, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, el Ministerio Público, los propios incapaces señalados en la fracción II del artículo 40, o los menores que hayan cumplido 16 años de edad.
+Los derechos y obligaciones derivados de las concesiones sobre bienes inmuebles del dominio público, sólo podrán cederse con la autorización previa del Ayuntamiento, exigiendo al cesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
+
+Cualquier operación que se realice en contravención a este artículo, estará afectada de nulidad absoluta y el concesionario perderá en favor del Municipio, los derechos que deriven de la concesión y los bienes afectos a ella.
 
 ###### Artículo 191.
 
-La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino, en general, todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+En las concesiones de los bienes del dominio público municipal serán aplicables, en lo conducente, las disposiciones del título séptimo, capítulo segundo de esta Ley.
 
 ###### Artículo 192.
 
-El tutor será responsable del valor de los créditos activos si dentro de sesenta días contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+Para el desempeño de las funciones de la administración pública municipal, el Ayuntamiento aprobará las disposiciones administrativas relativas a las adquisiciones, enajenaciones, arrendamientos y contratación de servicios relacionados con bienes muebles e inmuebles del Municipio.
 
 ###### Artículo 193.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses, contados desde que tuvo noticia del derecho el incapacitado, no entabla a nombre de éste judicialmente las acciones conducentes para recobrarlas.
+Para los efectos del artículo anterior, se creará un comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, el cual se integrará con un regidor de cada una de las diversas fuerzas políticas que constituyan el Ayuntamiento y los servidores públicos que determine el mismo.
 
 ###### Artículo 194.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, pueda resultar al tutor por culpa o negligencia en el desempeño de su encargo.
+El comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, tendrá las siguientes atribuciones:
+
+I.- Celebrar concursos para la adjudicación de contratos, en los términos aprobados por el Ayuntamiento;
+
+II.- Proponer modificaciones a las disposiciones administrativas aprobadas por el Ayuntamiento;
+
+III.- Proponer al Ayuntamiento, previo dictamen, la rescisión de contratos por caso fortuito o fuerza mayor, el pago de indemnizaciones a los proveedores que, en su caso, se consideren procedentes, así como las sanciones que correspondan a los proveedores que hayan incurrido en incumplimiento parcial o total de contratos;
+
+IV.- Publicar en el diario de mayor circulación, la convocatoria del concurso sobre adquisiciones de bienes, de conformidad con las bases aprobadas por el Ayuntamiento;
+
+V.- Realizar las licitaciones públicas conducentes; y
+
+VI.- Las demás que apruebe el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 195.
 
-Las cuentas deberán rendirse en el lugar en que se desempeña la tutela.
+En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
 
 ###### Artículo 196.
 
-Deberán abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ello no haya resultado utilidad a los menores y a los mayores de edad incapaces, si esto ha sido sin culpa del primero.
+El Ayuntamiento aprobará su presupuesto de egresos, que regirá del 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, debiendo publicarlo para conocimiento de la población dentro de los primeros quince días hábiles de enero, en el periódico de mayor circulación en el Municipio o en otros medios de comunicación que se estimen convenientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 197.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor si excede de la mitad de la renta anual de los bienes de aquél, a menos que, al efecto, haya sido autorizado por el juez con audiencia del curador.
+La presupuestación del gasto público municipal, atenderá los objetivos y prioridades que señale el Plan de Gobierno Municipal y los programas derivados de éste, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público, procurando observar los siguientes criterios:
+
+I.- El equilibrio entre el ingreso y el egreso;
+
+II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1999)
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+III.- Operar, mantener, reconstruir, mejorar y ampliar los servicios municipales;
+
+IV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1999)
+
+V.- Que el gasto público comprenda las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, pago de deuda pública y de pasivos, entre estos últimos, las contingencias laborales y la responsabilidad patrimonial a cargo del Municipio; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+VI.- La distribución equitativa y proporcional del presupuesto de egresos, en la satisfacción de las necesidades del Municipio.
 
 ###### Artículo 198.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2003)
 
 ###### Artículo 199.
 
-La obligación de dar cuenta no podrá ser dispensada en contrato o última voluntad, ni aún por el mismo tutelado; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá por no puesta.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2003)
 
 ###### Artículo 200.
 
-El tutor que sea reemplazado por otro estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2003)
 
 ###### Artículo 201.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de naturaleza jurisdiccional que determinen obligaciones a cargo del Municipio.
 
 ###### Artículo 202.
 
-La obligación de dar cuenta pasará a los herederos del tutor, y si alguno de ellos siguiere administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+Los ayuntamientos están facultados para elaborar, expedir, reformar y adicionar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
 ###### Artículo 203.
 
-La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan sido aprobadas.
+Para la expedición de los bandos de policía y buen gobierno, de los reglamentos, circulares y disposiciones administrativas de observancia general, los ayuntamientos deberán sujetarse a las siguientes bases normativas:
+
+I.- Respetar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las del Estado de Guanajuato, así como las leyes federales o estatales, con estricta observancia de las garantías individuales;
+
+II.- Delimitación de la materia que regulan;
+
+III.- Sujetos obligados;
+
+IV.- Objeto sobre el que recae la reglamentación;
+
+V.- Derechos y obligaciones de los habitantes;
+
+VI.- Autoridad responsable de su aplicación;
+
+VII.- Facultades y obligaciones de las autoridades;
+
+VIII.- Sanciones y procedimiento para la imposición de las mismas;
+
+IX.- Medios de impugnación; y
+
+X.- Transitorios, en donde se deberá establecer, entre otras previsiones, la fecha en que inicie su vigencia.
 
 ###### Artículo 204.
 
-Hasta pasado un mes de rendición de cuentas, será nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+Los ayuntamientos podrán expedir y promulgar, entre otros, los siguientes reglamentos municipales:
 
-### Capítulo XII. De la extinción de la tutela
+I.- Los que regulen las atribuciones, organización y funcionamiento del Ayuntamiento, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y esta Ley;
+
+II.- Los que establezcan y regulen la estructura y funciones de la administración pública municipal centralizada y paramunicipal;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+III.- Los que tiendan a asegurar la creación, funcionamiento y prestación de los servicios públicos municipales y el ejercicio de las funciones que la Ley confiera al Municipio y al propio Ayuntamiento;
+
+IV.- Los que se refieran a las facultades en materia de obra pública, desarrollo urbano, fraccionamientos y ecología;
+
+V.- Los que atiendan a la asistencia y salud pública; y
+
+VI.- Los que regulen las actividades de los habitantes del Municipio, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria.
+
+### CAPITULO TERCERO. DE LA COORDINACION Y ASOCIACION
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 205.
 
-La tutela se extinguirá:
+Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, para ser válidos, deberán ser aprobados por mayoría calificada del Ayuntamiento y publicados en el Periódico Oficial del Gobierno del Estado.
 
-I. Por la muerte del pupilo o porque desaparezca su incapacidad; y
-
-II. Cuando el incapacitado sujeto a tutela entre a la patria potestad, por reconocimiento o por adopción.
-
-### Capítulo XIII. De la entrega de los bienes
+### CAPITULO PRIMERO. DE LA ORGANIZACION ADMINISTRATIVA
 
 ###### Artículo 206.
 
-El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+La Justicia Administrativa en los municipios del Estado de Guanajuato se imparte a través de los Juzgados Administrativos Municipales, conforme a las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+
+Artículo 206 A.- Los actos y resoluciones administrativas dictadas por el Ayuntamiento, podrán ser impugnados ante el Tribunal de lo Contencioso Administrativo cuando afecten intereses de los particulares.
+
+Los actos y resoluciones administrativas dictadas por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal podrán ser impugnados ante los Juzgados Administrativos Municipales, cuando afecten intereses de los particulares.
+
+Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados por las partes, mediante el recurso de revisión ante las Salas del Tribunal de lo Contencioso Administrativo.
 
 ###### Artículo 207.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzar en el plazo antes señalado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### Artículo 208.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, será responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### Artículo 209.
 
-La entrega de los bienes y la cuenta de la tutela se efectuará a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 210.
 
-Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 211.
 
-El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que, previa entrega de los bienes, se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas si hubiesen sido dadas dentro del término designado por la ley, y si no, desde que expire el mismo.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 212.
 
-Cuando en la cuenta resulte balance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 213.
 
-Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 214.
 
-Si no se hiciere saber el convenio al fiador, éste permanecerá obligado.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
 ###### Artículo 215.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedarán extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 216.
 
-Si la tutela hubiera fenecido durante la minoría de edad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+Los Juzgados Administrativos Municipales son depositarios de la función jurisdiccional del Municipio, están dotados de plena autonomía para dictar sus fallos, así como de plena jurisdicción e imperio para hacer cumplir sus resoluciones, siendo órganos de control de legalidad que tienen a su cargo dirimir las controversias administrativas que se susciten entre la Administración Pública Municipal y los gobernados.
 
-### Capítulo XIV. Del Curador
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+La actuación de los juzgados administrativos municipales se sujetará a los principios de igualdad, publicidad, audiencia y legalidad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
 ###### Artículo 217.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 91 y 99.
+Los Juzgados Administrativos Municipales serán unitarios; su organización y funcionamiento se establecerá en el reglamento que para el efecto expida el Ayuntamiento.
+
+El Ayuntamiento acordará lo conducente, para que los Juzgados Administrativos Municipales cuenten con el personal jurídico y administrativo, así como con los recursos financieros y técnicos, necesarios para el cumplimiento de su función.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 218.
 
-En todo caso en que se designe al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+Los jueces administrativos municipales serán nombrados por el Ayuntamiento por mayoría calificada, de entre la terna que presente el presidente municipal y únicamente podrán ser removidos en los términos del artículo 110 B de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 219.
 
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 57.
+Los jueces administrativos municipales, deberán satisfacer los siguientes requisitos:
+
+I.- Ser ciudadano guanajuatense, en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Ser mayor de veinticinco años de edad;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+III.- Contar con título de licenciado en Derecho o su equivalente académico, legalmente expedido por la institución facultada para ello, con por lo menos, tres años de práctica profesional; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad por más de un año; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
 ###### Artículo 220.
 
-Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida, se nombrará nuevo curador conforme a derecho.
+A quienes infrinjan las disposiciones contenidas en esta Ley, reglamentos, bandos de policía y buen gobierno, así como en otras disposiciones administrativas de observancia general en el Municipio, se les impondrá, en forma separada o conjunta, las siguientes sanciones:
+
+I.- Multa;
+
+II.- Arresto hasta por treinta y seis horas;
+
+III.- Suspensión; y
+
+IV.- Clausura.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 221.
 
-Lo dispuesto sobre impedimento o excusa de los tutores regirá igualmente respecto de los curadores.
+La aplicación de las sanciones corresponderá al presidente municipal, y en su caso a la unidad administrativa en la que delegue esta facultad, cuyo titular se denominará oficial calificador; en los términos de esta Ley y de los reglamentos aplicables.
 
 ###### Artículo 222.
 
-Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+Si del expediente relativo y de la infracción cometida, se desprenden hechos constitutivos de delitos, se pondrá en conocimiento del agente del ministerio público.
+
+Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder del importe de un día de salario.
 
 ###### Artículo 223.
 
-Designarán por sí mismos al curador, con aprobación judicial:
-
-I. Los comprendidos en el artículo 95, observándose lo que allí se dispone respecto de esos nombramientos; y
-
-II. Los menores de edad emancipados por razón de matrimonio, en el caso previsto en la fracción II del artículo 37.
+En el procedimiento de calificación de la infracción e imposición de la sanción correspondiente, se respetará la garantía de audiencia del infractor.
 
 ###### Artículo 224.
 
-El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
+La calificación de la infracción y la imposición de la sanción, deberá resolverse a más tardar, dentro de las veinticuatro horas siguientes a que se reciba el expediente relativo.
+
+En el caso de que la falta se sancione con arresto, la calificación se deberá resolver inmediatamente.
 
 ###### Artículo 225.
 
-El curador estará obligado:
+Para los efectos y aplicación de las sanciones, se atenderá a lo dispuesto por el reglamento relativo, a las circunstancias en que se cometió la infracción y a la situación económica y personal del infractor.
 
-I. A defender los derechos del incapacitado, en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+## TRANSITORIOS
 
-II. A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquello que considere que puede ser dañoso al incapacitado;
+Artículo Primero.- La presente Ley entrará en vigor el 1o. de Septiembre de 1997, una vez publicada en el Periódico Oficial del Gobierno del Estado.
 
-III. Mandar aviso al juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela; y
+Artículo Segundo.- Las disposiciones relativas a la fecha de instalación del Ayuntamiento, a la rendición del informe del estado que guarda la administración pública municipal, al servicio civil de carrera, al comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, y a la justicia municipal, entrarán en vigor el 1o. de Enero de 1998.
 
-IV. A cumplir las demás obligaciones que la ley señale.
+Artículo Tercero.- Se abroga la Ley Orgánica Municipal, expedida mediante decreto número 153, de fecha 14 de junio de 1984, publicado en el Periódico Oficial del Gobierno del Estado número 61, de fecha 31 de julio de 1984, sus reformas y toda disposición legal que se oponga a esta Ley.
+
+Artículo Cuarto.- Los actuales ayuntamientos, continuarán funcionando con el número de miembros y las unidades administrativas con que cuentan.
+
+Artículo Quinto.- Para los efectos de esta Ley, las asociaciones de habitantes se refieren a comités de vecinos que se regulan en otras leyes.
+
+Artículo Sexto.- Los títulos-concesión otorgados con anterioridad al momento de entrada en vigor del presente decreto, continuarán vigentes hasta que concluya el plazo fijado en los mismos, salvo que se actualice alguna causa de revocación, caducidad o rescate.
+
+Las solicitudes de concesión que se encuentren en trámite y en fase de dictamen, presentadas con anterioridad a la entrada en vigor de la presente Ley, se substanciarán bajo las disposiciones de la Ley que se abroga.
+
+Artículo Séptimo.- Los bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general, emitidas por el Ayuntamiento, y que a la fecha se encuentren en vigor, continuarán rigiendo en todo aquello que no se opongan a la presente Ley.
+
+Artículo Octavo.- Los procedimientos de revocación de mandato, así como los relativos a conflictos de límites entre municipios, que se encuentren en trámite ante el Congreso del Estado a la entrada en vigor de la presente Ley, continuarán substanciándose bajo las disposiciones de la Ley que se abroga.
+
+LO TENDRA ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRA QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 30 DE JUNIO DE 1997.- ANTONIO CHAVEZ MENA.- D.P. ALBERTO CANO ESTRADA.- D.S. FERNANDO HERNANDEZ GUTIERREZ.- D.S.- RUBRICAS.
+
+POR TANTO, MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE GUANAJUATO, CAPITAL, A LOS 7 DIAS DEL MES DE JULIO DE 1997 MIL NOVECIENTOS NOVENTA Y SIETE.
+
+VICENTE FOX QUESADA
+
+EL SECRETARIO DE GOBIERNO
+
+RAMON MARTIN HUERTA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los Ayuntamientos que aún no cuenten con Juzgados Administrativos Municipales, realizarán los ajustes y previsiones presupuestales necesarias para su creación y funcionamiento, en los términos del presente decreto.
+
+Artículo Tercero.- Los Ayuntamientos deberán emitir los reglamentos de los Juzgados Administrativos Municipales, a más tardar sesenta días después de la entrada en vigor del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° primero de enero del año 2001 dos mil uno, una vez publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos deberán expedir el reglamento de Planeación del Desarrollo Municipal, a más tardar en un plazo de cuatro meses contado a partir de la entrada en vigor del presente Decreto. Asimismo, contarán con un plazo de dos meses contado a partir de la fecha de entrada en vigor del reglamento de Planeación del Desarrollo Municipal correspondiente, para integrar o, en su caso, reestructurar los Consejos de Planeación de Desarrollo Municipales.
+
+Artículo Tercero.- Los ayuntamientos en funciones, tendrán un plazo de seis meses para aprobar su Plan de Gobierno Municipal y de un año para evaluar y, en su caso, actualizar el Plan Municipal de Desarrollo, contados ambos plazos a partir de la fecha de entrada en vigor del presente Decreto.
+
+P.O. 17 DE JULIO DE 2001.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Quedan derogadas todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero.- Lo dispuesto en el segundo párrafo de la fracción IV del artículo 105 B, entrará en vigor hasta en tanto se reforma la Ley Orgánica del Poder Legislativo en esta materia.
+
+Artículo Cuarto.- Los Ayuntamientos deberán remitir al Congreso del Estado su padrón inmobiliario, a más tardar dentro de los noventa días siguientes a la fecha de entrada en vigor del presente decreto.
+
+Artículo Quinto.- En los municipios que aún no cuenten con Juzgados Administrativos Municipales, los particulares afectados podrán acudir directamente ante el Tribunal de lo Contencioso Administrativo, para los efectos del último párrafo del artículo 206.
+
+Artículo Sexto.- Los Ayuntamientos contarán con un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, para adecuar su normatividad al contenido de la Ley.
+
+P.O. 12 DE AGOSTO DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los Capítulos Primero, Tercero y Cuarto del Título Cuarto, y el Capítulo Único del Título Quinto, del presente decreto, que entrarán en vigor el 1º primero de enero del año 2004 dos mil cuatro.
+
+La obligación del Congreso del Estado de emitir a más tardar el quince de octubre de cada año, las recomendaciones de montos máximos de las remuneraciones de los integrantes de los Ayuntamientos, prevista en el artículo 81 del presente decreto, entrará en vigor el 1º primero de enero del año 2004 dos mil cuatro.
+
+Artículo Segundo.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos y los Ayuntamientos deberán emitir, en el ámbito de su competencia, las disposiciones administrativas necesarias para el cumplimiento de la presente Ley, en un plazo de noventa días contados a partir del inicio de la vigencia de la misma.
+
+Artículo Tercero.- Para efectos de los artículos 79 y 80 de esta Ley, el Comité de Estructuración Salarial tendrá la integración y funcionamiento del Comité Técnico de Reestructuración Salarial previsto en el artículo octavo transitorio de la Ley del Presupuesto General de Egresos del Estado de Guanajuato, para el Ejercicio Fiscal del 2003.
+
+Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Guanajuato, expedido mediante el Decreto número 119 de la Quincuagésima Tercera Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado número 71, segunda parte de fecha 4 cuatro de septiembre de 1987 mil novecientos ochenta y siete.
+
+Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 7 DE ENERO DE 2005.
 
 ###### Artículo 226.
 
@@ -1215,7 +2839,9 @@ El curador tendrá derecho a ser relevado de la curaduría, pasados diez años d
 
 En los casos en que conforme a este Código tenga que intervenir el curador, cobrará los honorarios que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le pagarán.
 
-### Capítulo XV. De los Consejos Locales de Tutela
+### CAPITULO TERCERO. DE LOS DELEGADOS MUNICIPALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 230.
 
@@ -1247,9 +2873,11 @@ Los jueces de primera instancia son las autoridades encargadas exclusivamente de
 
 Mientras que se nombra tutor, el juez de primera instancia debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
 
-## TITULO CUARTO. Del domicilio
+## TITULO CUARTO
 
-### Capítulo I. Del domicilio de las personas físicas
+### CAPITULO CUARTO. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 234.
 
@@ -1275,7 +2903,7 @@ IV. De los empleados públicos, el lugar donde desempeñan sus funciones por má
 
 V. De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
-### Capítulo II. Del domicilio de las personas morales
+### CAPITULO QUINTO. DEL SERVICIO CIVIL DE CARRERA
 
 ###### Artículo 237.
 
@@ -1285,7 +2913,9 @@ Las que tengan su administración fuera del Estado, pero que ejecuten hechos o a
 
 Las sucursales que operen fuera del Estado aunque la casa matriz se halle establecida dentro de esa circunscripción territorial se someterán a las disposiciones de este Código, si las leyes de la entidad donde se ejecute el acto o actos respectivos no disponen otra cosa.
 
-### Capítulo III. Del domicilio convencional y domicilio conyugal
+### CAPITULO PRIMERO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 238.
 
@@ -1295,9 +2925,11 @@ Las personas físicas y morales tienen derecho de designar un domicilio convenci
 
 Domicilio conyugal es el lugar establecido de común acuerdo por los cónyuges, en el cual ambos disfrutan de autoridad propia y consideraciones iguales.
 
-## TITULO QUINTO. De la ausencia y de la presunción de muerte
+## TITULO QUINTO
 
-### Capítulo I. De la declaración de ausencia y de la muerte presunta
+### CAPITULO SEGUNDO. DE LAS CONCESIONES DE SERVICIOS PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 240.
 
@@ -1351,7 +2983,7 @@ Podrán excusarse los que puedan hacer lo de la tutela.
 
 Será removido del cargo de administrador representante el que deba serlo del tutor.
 
-### Capítulo II. De los efectos de la declaración de ausencia
+### CAPITULO PRIMERO. DEL PATRIMONIO MUNICIPAL
 
 ###### Artículo 250.
 
@@ -1435,7 +3067,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que hayan tenido la posesión provisional, harán suyos todos los frutos industriales que hubieren hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
 
-### Capítulo III. De la administración de los bienes del ausente casado
+### CAPITULO SEGUNDO. DE LA HACIENDA PUBLICA
 
 ###### Artículo 269.
 
@@ -1465,7 +3097,9 @@ Si el cónyuge presente no fuere heredero ni tuviere bienes propios, tendrá der
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### Capítulo IV. De la presunción de muerte del ausente
+### CAPITULO TERCERO. DE LOS BIENES DEL DOMINIO PUBLICO Y PRIVADO DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 276.
 
@@ -1517,7 +3151,7 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 En el caso previsto por el artículo 274, el cónyuge sólo tendrá derecho a los alimentos.
 
-### Capítulo V. De los efectos de la ausencia respecto de los derechos eventuales del ausente
+### CAPITULO CUARTO. DE LA CONCESION PARA LA EXPLOTACION, USO Y APROVECHAMIENTO DE BIENES INMUEBLES DEL DOMINIO PUBLICO MUNICIPAL
 
 ###### Artículo 286.
 
@@ -1539,9 +3173,9 @@ Lo dispuesto en los dos artículos anteriores debe entenderse sin perjuicio de l
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no serán ejercitadas por sus representantes o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
 
-## TITULO SEXTO. De las actas del estado civil
+## TITULO SEXTO
 
-### Capítulo I. Disposiciones Generales
+### CAPITULO QUINTO. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE BIENES MUEBLES E INMUEBLES
 
 ###### Artículo 291.
 
@@ -1693,9 +3327,7 @@ La Coordinación Técnica del Sistema Estatal del Registro Civil, dependiente de
 
 En caso de irregularidades que puedan presuponer la comisión de un delito, dará vista al Ministerio Público para los efectos de su competencia.
 
-### Capítulo II. De las actas de nacimiento y de reconocimiento de hijos
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+### CAPITULO SEXTO. DEL PRESUPUESTO MUNICIPAL
 
 ###### Artículo 320.
 
@@ -1811,7 +3443,9 @@ Si el reconocimiento se hace por alguno de los otros medios establecidos en el a
 
 En todas las actas de reconocimiento, cuando fueren diversas de las de nacimiento, se hará la referencia correspondiente.
 
-### Capítulo III. De las actas de tutela y adopción
+### CAPITULO UNICO. DE LA FACULTAD REGLAMENTARIA
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 343.
 
@@ -1845,7 +3479,9 @@ El acta de adopción contendrá los nombres, apellidos, edad, domicilio, estado 
 
 El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
-### Capítulo IV. De las actas de matrimonio
+### CAPITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 348.
 
@@ -1937,7 +3573,7 @@ El acta será firmada por la persona oficial del Registro Civil, las personas co
 
 Al margen del acta se imprimirán las huellas digitales de las personas contrayentes.
 
-### Capítulo V. De las actas de defunción
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 352.
 
@@ -1999,13 +3635,15 @@ El jefe de cualquier cuerpo o destacamento militar tiene la obligación de dar p
 
 En todos los casos de muerte violenta en las prisiones o en las casas de detención, no se hará en los registros mención de estas circunstancias, y las actas contendrán simplemente los demás requisitos que se prescriben en el artículo 354.
 
-### Capítulo VI. De las actas de emancipación
+### CAPITULO TERCERO. DE LOS JUZGADOS ADMINISTRATIVOS MUNICIPALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 363.
 
 En los casos de emancipación por efecto del matrimonio, no se formará acta separada; el oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
-### Capítulo VII. De las actas de divorcio
+### CAPITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 364.
 
@@ -2135,7 +3773,7 @@ Atendiendo el interés superior de la niñez y el principio de máxima protecci�
 
 # LIBRO SEGUNDO. DE LA FAMILIA
 
-## TITULO PRIMERO. De las Relaciones y de las Obligaciones familiares
+## TITULO SEPTIMO
 
 ### Capítulo I. Disposiciones generales
 
@@ -2373,7 +4011,7 @@ Independientemente de estas sanciones, el juez, de oficio a petición de parte, 
 
 El deudor alimentario deberá de informar de inmediato al juez y éste a su vez al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, así como los ingresos económicos por cambio de situación, a efecto de que continúe cumpliendo con la pensión alimenticia decretada; de igual forma, cuando existan razones o circunstancias que puedan afectar el cumplimiento de dicha obligación, el deudor alimentario deberá de informar de inmediato al juez, para que este resuelva lo conducente y no incurrir en alguna responsabilidad.
 
-## TITULO SEGUNDO. Del matrimonio
+## TITULO OCTAVO
 
 ### Capítulo I. De los requisitos y solemnidades para contraer matrimonio
 
@@ -3041,7 +4679,7 @@ En lo referente a los derechos y obligaciones de los concubinarios, es aplicable
 
 Los hijos nacidos de una relación de concubinato, tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
 
-## TITULO TERCERO. De la filiación
+## TITULO NOVENO
 
 ### Capítulo I. Disposiciones generales
 
@@ -3369,7 +5007,9 @@ La sentencia que declare la pérdida del estado de hijo admitirá todos los recu
 
 Si la persona que estuviere en posesión de los derechos de ascendiente o de descendiente en línea recta fuere privado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual debiera perderlos. Podrá ejercer las acciones que establezcan las leyes para que se le ampare o restituya en la posesión.
 
-## TITULO CUARTO. De la adopción
+## TITULO DECIMO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ### Capítulo I. Disposiciones generales
 
@@ -15897,13 +17537,11 @@ P.O. 16 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
-
-P.O. 2 DE SEPTIEMBRE DE 2011.
+En los procedimientos de responsabilidad patrimonial iniciados durante el ejercicio fiscal del 2004, en los que se determine una indemnización a cargo de los sujetos obligados, deberá atenderse en lo conducente, lo dispuesto en los artículos 7 y 20 del presente ordenamiento.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -15935,13 +17573,11 @@ La Secretaría General de Gobierno, instruirá a la Coordinación Técnica del R
 
 ###### ARTÍCULO TERCERO.
 
-Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, así como a la Coordinación Técnica del registro Civil del Estado y a los Oficiales del Registro Civil de los Municipios del Estado, para los efectos legales conducentes y el cumplimiento de lo señalado en el artículo anterior.
+Los sujetos obligados referidos en la presente Ley, a partir del ejercicio fiscal del 2005 incluirán en sus respectivos presupuestos una partida que haga frente a su responsabilidad patrimonial.
 
 ###### ARTÍCULO CUARTO.
 
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
-
-P.O. 16 DE ENERO DE 2015.
+Se deroga el artículo 1418 del Código Civil para el Estado de Guanajuato.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -15981,9 +17617,21 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para 
 
 ###### ARTÍCULO QUINTO.
 
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en el Portal web de este Honorable Congreso del Estado, para el conocimiento general.
+Se deroga el segundo párrafo del artículo 7 de la Ley Orgánica Municipal para el Estado de Guanajuato.
 
-P.O. 8 DE JULIO DE 2016.
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos contarán con un plazo de 120 ciento veinte días contados a partir de la entrada en vigor del presente decreto, para adecuar los reglamentos, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general al contenido del mismo.
+
+P.O. 25 DE DICIEMBRE DE 2007.
+
+Artículo Primero. El presente decreto entrará en vigencia el uno de enero de dos mil ocho.
+
+Artículo Segundo. Los asuntos que actualmente estén pendientes de resolverse ante los Juzgados Administrativos Municipales, se tramitarán con base en lo dispuesto por los Capitulas Primero, Segundo y Tercero del Título Décimo de la Ley Orgánica Municipal para el Estado de Guanajuato que se encontraban vigentes al momento de su inicio, hasta su debida conclusión.
+
+Artículo Tercero. En los municipios que aún no cuenten con Juzgado Administrativo Municipal, los particulares podrán impugnar directamente ante el Tribunal de lo Contencioso Administrativo, los actos y resoluciones administrativas a que se refiere el párrafo segundo del articulo 206-A.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 216, POR EL QUE SE REFORMAN LOS ARTÍCULOS 316 Y 320 Y SE ADICIONAN LOS ARTÍCULOS 25 BIS Y 320 BIS DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358".]
 
