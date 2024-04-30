@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-organismo-regulador-de-transporte-de-1509
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-09-03"
-last_updated: "2023-07-14"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150958&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-01"
 
 ESTATUTO ORGÁNICO DEL ORGANISMO REGULADOR DE TRANSPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2024.
 
 Estatuto publicado en el Número 676 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 3 de septiembre de 2021.
 
@@ -90,11 +90,19 @@ Para la aplicación, interpretación y efectos del presente Estatuto se entiende
 
 I. Consejo: Consejo Directivo del Organismo Regulador de Transporte;
 
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+I Bis. Entidades Públicas: Organismos que prestan servicios de transporte público en la Zona Metropolitana del Valle de México;
+
 II. Estatuto: Estatuto Orgánico del Organismo Regulador de Transporte;
 
 III. Ley: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
 IV. Organismo: Organismo Regulador de Transporte;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+IV Bis. Organismos que prestan el servicio de transporte de pasajeros: El Sistema de Transporte Colectivo, Servicio de Transportes Eléctricos de la Ciudad de México, Red de Transporte de Pasajeros de la Ciudad de México, Sistema de Corredores de Transporte Público de Pasajeros de la Ciudad de México “Metrobús”;
 
 V. Plataforma Digital de Monitoreo del Transporte Público Colectivo: plataforma digital encargada de realizar el monitoreo y videovigilancia, a través de un kit de videocámara, GPS, indicador de velocidad y botón de auxilio, instalados en las unidades de transporte público;
 
@@ -103,6 +111,10 @@ VI. Red de Recarga Externa: servicio que permite la Recarga de la Tarjeta Única
 VII. Reglamento: Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
 VIII. Reglamento del Consejo: Reglamento del Consejo Directivo del Organismo Regulador de Transporte;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+VIII Bis. Recurso remanente (flotante): Recursos que resultan de la diferencia entre los ingresos por recargas y las validaciones electrónicas acreditadas que permanecen en los Organismos que prestan el servicio de transporte de pasajeros, posterior a la compensación identificados como recursos no aplicados, validados o devengados;
 
 IX. Secretaría: Secretaría de Movilidad de la Ciudad de México;
 
@@ -142,9 +154,11 @@ II. La Dirección General;
 
 III. Direcciones Ejecutivas;
 
-IV. Direcciones de Área; y
+IV. (DEROGADA, G.O. 30 DE ABRIL DE 2024)
 
-V. Las Unidades Administrativas que apruebe el Consejo.
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+V. Las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo que le sean autorizadas.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO DIRECTIVO
 
@@ -248,9 +262,13 @@ XXVII. Establecer las normas y procedimientos que regirán la prestación de ser
 
 XXVIII. Previo análisis a la prestación de Servicio de Corredores y Zonal, dictaminara´ y autorizara´ en su caso los estudios técnicos y proyectos ingresados con el fin de conformarse como corredor o servicio zonal;
 
-XXIX. Solicitar al Titular de la Secretaría, que se convoque al Comité de Evaluación y Análisis del Gabinete del Nuevo Orden Urbano, con la intención de aprobar en sesión, la publicación de la Declaratoria de Necesidad para la creación del corredor de transporte especifico o Servicio Zonal, de ser el caso;
+XXIX. (DEROGADA, G.O. 30 DE ABRIL DE 2024)
 
 XXX. Instar la convocatoria al Comité Adjudicador de la Secretaría, para que la persona moral que cumpla con los requisitos establecidos en la Declaratoria de Necesidad, le sea adjudicada la concesión administrativa de explotación del corredor de transporte especifico o Servicio Zonal, de ser el caso; y
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+XXX Bis. Dirigir las acciones para recaudar, concentrar, gestionar, custodiar y dispersar los ingresos que se generen por la Red de Recarga Externa y de los recursos que resulten remanentes de esos ingresos.
 
 XXXI. Las demás que les confieran las leyes y otros ordenamientos jurídicos.
 
@@ -264,23 +282,27 @@ La persona titular de la Dirección General podrá delegar cualquiera de sus fac
 
 ### CAPÍTULO CUARTO. DE LAS DIRECCIONES EJECUTIVAS Y DE ÁREA
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2024)</small>
+
 ###### Artículo 19.
 
-Para el despacho de los asuntos de su competencia, el Organismo, a través de su Dirección General, se auxiliará de las siguientes Direcciones:
+Para el despacho de los asuntos de su competencia, el Organismo, a través de su Dirección General, se auxiliará de las siguientes Unidades Administrativas:
 
-1. Dirección Ejecutiva de los Centros de Transferencia Modal;
+1. Dirección Ejecutiva de Regulación de Operación de Corredores y Servicios Zonales de Transporte;
 
-2. Dirección Ejecutiva de Sistemas Inteligentes de Transporte;
+2. Dirección Ejecutiva de los Centros de Transferencia Modal;
 
-3. Dirección Ejecutiva de Asuntos Jurídicos;
+3. Dirección Ejecutiva de Sistemas Inteligentes de Transporte;
 
-4. Dirección Ejecutiva de Administración y Finanzas; y
+4. Dirección Ejecutiva de Asuntos Jurídicos y de la Unidad de Transparencia; y
 
-5. Dirección de Regulación de Operación de Corredores de Transporte.
+5. Dirección Ejecutiva de Administración y Finanzas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2024)</small>
 
 ###### Artículo 20.
 
-Las Direcciones Ejecutivas y de Área tendrán las siguientes atribuciones comunes en el ámbito de sus competencias:
+Las Unidades Administrativas tendrán las siguientes atribuciones comunes en el ámbito de sus competencias:
 
 I. Acordar con la persona titular de la Dirección General el despacho de los asuntos que le sean encomendados;
 
@@ -336,13 +358,105 @@ XXVI. Participar en el ámbito de su competencia en los procedimientos de contra
 
 XXVII. Las demás que les instruya la persona Titular del Organismo, el Consejo y las disposiciones legales.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2024)</small>
+
 ###### Artículo 21.
+
+Corresponde a la Dirección Ejecutiva de Regulación de Operación de Corredores y Servicios Zonales de Transporte:
+
+I. Administrar, autorizar, regular, supervisar y controlar la operación del transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, cuya concesión para la prestación de servicio, será otorgada a las personas morales;
+
+II. Coordinar con el área correspondiente de la Secretaría, la integración de los expedientes de los concesionarios que participen en los procesos de conformación de los servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, conforme a lo establecido en la Ley de Movilidad de la Ciudad de México y demás disposiciones jurídicas y administrativas aplicables;
+
+III. Solicitar durante la vigencia de la concesión a los concesionarios, la documentación e información técnica, operativa, económica y financiera que considere pertinente que permita garantizar la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
+
+IV. Autorizar, regular, supervisar y controlar el mantenimiento e instalación de la infraestructura y equipamiento auxiliar del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+V. Coordinar con las áreas correspondientes de la Secretaría y/o autoridades competentes, los trámites administrativos y de control vehicular requeridos para la correcta operación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+VI. Administrar, regular, supervisar y controlar la revista del parque vehicular del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+VII. Analizar los estudios técnicos y proyectos ingresados por los concesionarios para la prestación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, con base en la normativa que para tal efecto establezca el Organismo; y en su caso deberá realizar la validación en campo de la información contenida en dicho estudio para emitir la opinión técnica correspondiente;
+
+VIII. Coordinar con la Secretaría, la planeación, diseño y desarrollo del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal y su infraestructura, en congruencia con las políticas, programas y normas determinadas en el Sector para satisfacer las necesidades de la demanda de los usuarios y la evaluación de los servicios;
+
+IX. Evaluar la factibilidad de nuevos proyectos de transporte público colectivo de pasajeros en la modalidad de Corredores y Servicio Zonal y su infraestructura, a través del análisis de estudios realizados por terceros para satisfacer la demanda de las personas usuarias;
+
+X. Programar, orientar, organizar y, en su caso, modificar la prestación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XI. Emitir los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de servicios de transporte de pasajeros público colectivo en la modalidad del Servicio de Corredores y Servicio Zonal;
+
+XII. Establecer medidas de seguridad necesarias para que los concesionarios del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal presten el servicio en condiciones de calidad, eficiencia, cuidado del medio ambiente, seguridad e higiene de los usuarios;
+
+XIII. Colaborar con la Secretaría para determinar los cursos y programas de capacitación para los operadores del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal de Transporte;
+
+XIV. Requerir y remitir la documentación necesaria al Instituto de Verificación Administrativa, para la realización de operativos y visitas de verificación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, para garantizar que cumplan con las condiciones de equipamiento, cromática, accesibilidad, seguridad, comodidad y calidad en el servicio y las condiciones señaladas en el título de concesión; así como para el caso de invasión de bases y recorridos por otros modos de transporte no autorizados o irregulares, a los referidos servicios de transporte con la finalidad de garantizar su correcta operación;
+
+XV. Requerir y coadyuvar con las áreas correspondientes de la Secretaría, Zona Metropolitana del Valle de México, y/o autoridades competentes requeridas para la correcta aplicación de operativos y vistas de supervisión del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XVI. Intervenir en los procesos administrativos para el otorgamiento, prórroga, revocación, caducidad y extinción de concesiones del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, ante la Secretaría y en su caso coadyuvar con las autoridades competentes;
+
+XVII. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XVIII. Participar en la coordinación con las diferentes áreas de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y servicios en el transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, en el ámbito de su competencia;
+
+XIX. Supervisar el cumplimiento de las frecuencias y recorridos de los derroteros autorizados con los que operan los prestadores de servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XX. Proponer proyectos para la ejecución y cumplimiento de los instrumentos normativos de regulación de los servicios de transporte público colectivo de pasajeros en la modalidad de Corredores y Servicio Zonal;
+
+XXI. Proponer y participar en la planeación, diseño y emisión de reglas de operación, lineamientos, circulares y aquellos instrumentos jurídicos necesarios para el servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XXII. Llevar a cabo las acciones pertinentes para que el Comité Adjudicador de Concesiones, esté en posibilidad de adjudicar la concesión administrativa de explotación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores o Servicio Zonal, a la persona moral que cumpla con los requisitos establecidos en la Declaratoria de Necesidad;
+
+XXIII. Coadyuvar en los trámites para la publicación en la Gaceta Oficial de la Ciudad de México, del aviso de las vialidades en las que se implementarán los servicios de los Corredores de Transporte Público y Servicio Zonal, el estudio de la Oferta y la Demanda, así como la Declaratoria de Necesidad;
+
+XXIV. Presentar a la Secretaría las solicitudes de gravamen de concesiones para su autorización por escrito;
+
+XXV. Integrar los expedientes de los concesionarios que se incorporen al Proyecto autorizado de Corredor de Transporte o Servicio Zonal, debiendo entregar los mismos al área responsable de la Subsecretaría del Transporte de la Secretaría para la baja administrativa de las concesiones correspondiente;
+
+XXVI. Emitir opinión para la creación y conformación de los Servicios de Corredores y Zonal;
+
+XXVII. Garantizar que las rutas del Corredor de transporte o el Servicio Zonal, sean cubiertas de manera emergente en los términos que establece la Secretaría;
+
+XXVIII. Suspender el recorrido de un Corredor de transporte o Servicio Zonal, cuando estos cometan una conducta calificada como grave, de acuerdo a la normatividad aplicable;
+
+XXIX. Proponer a la Secretaría modificaciones a los títulos de concesión de los servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, conforme a lo establecido en la Ley de Movilidad de la Ciudad de México y demás disposiciones jurídicas y administrativas aplicables, que derivado de su operación y a las necesidades de movilidad de la Ciudad de México así lo requieran;
+
+XXX. Autorizar en los servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, el ingreso de unidades de apoyo, en caso de suspensión total o parcial del servicio, por causas de caso fortuito, fuerza mayor o por necesidades del servicio;
+
+XXXI. Proponer a la Secretaría nuevos recorridos en los servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal o modificaciones a los ya existentes, conforme a lo establecido en la Ley de Movilidad de la Ciudad de México y demás disposiciones jurídicas y administrativas aplicables, así como a las necesidades de movilidad de la Ciudad de México, procurando la preservación del medio ambiente y seguridad de los usuarios del sistema de movilidad;
+
+XXXII. Proponer a la Secretaría nuevas bases de ascenso y descenso de usuarios en los servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal o modificaciones a las ya existentes conforme a lo establecido en la Ley de Movilidad de la Ciudad de México y demás disposiciones jurídicas y administrativas aplicables, así como a las necesidades de movilidad de la Ciudad de México, procurando la preservación del medio ambiente y seguridad de los usuarios del sistema de movilidad;
+
+XXXIII. Coordinar con las áreas correspondientes y en el ámbito de su competencia, la atención a las víctimas involucradas por hechos de tránsito en el servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XXXIV. Coordinar mesas de trabajo con las áreas involucradas en la atención de hechos de tránsito que se susciten en el servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XXXV. Vigilar el cumplimiento de los protocolos de atención de hechos de tránsito que se susciten en el servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XXXVI. Planear y difundir acciones de prevención de hechos de tránsito en el servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal;
+
+XXXVII. Coordinar mesas de trabajo con las áreas involucradas en la atención de hechos delictivos que se susciten en el transporte público en la modalidad de Corredores de Transporte y/o Servicio Zonal, a fin de darles la debida atención;
+
+XXXVIII. Realizar análisis financieros y de factibilidad con la información que proporcionen los concesionarios de los actuales y nuevos servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, para que en coordinación con la Secretaría y los concesionarios se determinen acciones para mejorar la operación y la prestación del servicio;
+
+XXXIX. Supervisar que las concesionarias, implementen de forma adecuada los programas de mantenimiento preventivo y correctivo de las unidades que operan dentro de los servicios de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, para garantizar una adecuada prestación del servicio;
+
+XL. Analizar las solicitudes de pruebas operativas de los concesionarios en la modalidad de Corredores y Servicio Zonal, y en caso de ser procedente realizar las gestiones para la emisión de los permisos de circulación correspondientes;
+
+XLI. Solicitar a las empresas concesionarias en la modalidad de Corredores y Servicio Zonal el cumplimiento de las obligaciones del Título Concesión y de la normativa aplicable, apercibiéndoles que en caso de que la infrinjan, se realizarán las gestiones necesarias para que se lleve a cabo el procedimiento de imposición de sanciones; y
+
+XLII. Las demás que le confiera la Dirección General y las disposiciones legales aplicables que sean para el cumplimiento de su objetivo.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2024)</small>
+
+###### Artículo 22.
 
 Corresponde a la Dirección Ejecutiva de los Centros de Transferencia Modal:
 
-I. Coordinar, administrar y supervisar los espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio que se brinda; así como proponer los instrumentos para llevar a cabo las actividades y servicios que se prestan en los Centros de Transferencia Modal, para que sean utilizados de acuerdo a su finalidad;
+I. Coordinar, administrar y supervisar los espacios físicos destinados a la infraestructura y equipamiento auxiliar del servicio que se brinda; así como proponer los instrumentos para llevar a cabo las actividades y servicios que se prestan en los Centros de Transferencia Modal, para que sean utilizados de acuerdo a su finalidad, imperando el Derecho a la Movilidad y la prestación de los servicios públicos de transporte en la Ciudad como referentes principales.
 
-II. Establecer los criterios de coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios;
+II. Establecer los criterios de coordinación con las diferentes áreas de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios;
 
 III. Proponer instrumentos de vinculación y de colaboración con organismos de cooperación, nacionales e internacionales, para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la eficiente operación y funcionamiento de los Centros de Transferencia Modal;
 
@@ -372,11 +486,11 @@ XV. Proponer los “Elementos Operativos para la Autorización de Acceso Vehicul
 
 XVI. Revisar la vigencia de las autorizaciones de acceso vehicular, el cumplimiento de la prestación del servicio y del pago por aprovechamientos, para el uso de los Centros de Transferencia Modal e informar a la Dirección Ejecutiva de Asuntos Jurídicos cualquier anomalía o incumplimiento detectado;
 
-XVII. Coordinar, ordenar y supervisar la operación, ubicación y reubicación de los concesionarios y permisionarios de servicios de transporte público de pasajeros dentro de las áreas definitivas y provisionales de los Centros de Transferencia Modal, contemplados en proyectos de coinversión, concesión y otros modelos de operación, en coordinación con los entes de la Administración Pública Local y Federal competentes;
+XVII. Coordinar, ordenar y supervisar la operación, ubicación y reubicación de los concesionarios y permisionarios de servicios de transporte público de pasajeros dentro de las áreas definitivas y provisionales de los Centros de Transferencia Modal, contemplados en proyectos de coinversión, concesión y otros modelos de operación, en coordinación con las áreas de la Administración Pública Local y Federal competentes;
 
 XVIII. Proponer e implementar los procedimientos de actuación de las personas servidoras públicas asignadas a los Centros de Transferencia Modal, conforme a los requerimientos y necesidades propias del Organismo, para uniformar los criterios y acciones de administración y supervisión;
 
-XIX. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y de servicios;
+XIX. Participar en la coordinación con las diferentes áreas de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México, en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y de servicios;
 
 XX. Coordinar con la Secretaría de Obras y Servicios las actividades relativas al diseño de obras y servicios destinados a la infraestructura y equipamiento de los Centros de Transferencia a su cargo;
 
@@ -388,7 +502,9 @@ XXIII. Coadyuvar con el Instituto de Verificación Administrativa respecto a los
 
 XXIV. Las demás que le confiera la Dirección General y las disposiciones legales aplicables que sean para el cumplimiento de su objetivo.
 
-###### Artículo 22.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2024)</small>
+
+###### Artículo 23.
 
 Corresponde a la Dirección Ejecutiva de Sistemas Inteligentes de Transporte:
 
@@ -400,7 +516,7 @@ III. Generar información e indicadores a partir del sistema de peaje y recaudo 
 
 IV. Gestionar, administrar y supervisar el servicio integral de la plataforma digital para el monitoreo de unidades de transporte público de pasajeros concesionado;
 
-V. Proponer e implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Corredores y Servicios Zonales de Transporte Público; así como en las unidades de transporte público colectivo concesionado en la modalidad de ruta;
+V. Proponer e implementar el uso de nuevas tecnologías para hacer más eficientes los servicios en los Corredores y Servicio Zonal de Transporte Público; así como en las unidades de transporte público colectivo concesionado en la modalidad de ruta;
 
 VI. Llevar a cabo la revisión, planeación, gestión, administración y actualización de la plataforma digital de monitoreo del transporte público colectivo, para el monitoreo de unidades del transporte público de pasajeros;
 
@@ -408,7 +524,7 @@ VII. Realizar las acciones y gestiones necesarias para la incorporación del Ser
 
 VIII. Coordinar la implementación, administración y gestión de la Red de Recarga Externa de la Ciudad de México, conforme a los lineamientos técnicos que emita el Comité del Sistema Integrado de Transporte Público;
 
-IX. Coadyuvar con la Dirección Ejecutiva de Administración y Finanzas para llevar a cabo las gestiones necesarias para la realización de la conciliación, compensación y dispersión de recursos provenientes de la Red de Recarga Externa a los Organismos que conforman el Sistema Integrado de Transporte Público, a los Corredores y Servicios Zonales, de acuerdo con la disposición administrativa correspondiente y con la autorización previa del Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México;
+IX. Coadyuvar con la Dirección Ejecutiva de Administración y Finanzas para llevar a cabo las gestiones necesarias para la realización de la conciliación, compensación y dispersión de recursos provenientes de la Red de Recarga Externa a los Organismos que prestan el servicio de transporte de pasajeros, a las Entidades Públicas que tengan derecho y a los Corredores y Servicio Zonal, de acuerdo con la disposición administrativa correspondiente y con la autorización previa del Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México;
 
 X. Implementar y supervisar que se establezcan y administren correctamente los procedimientos para asegurar la confiabilidad, integridad y disponibilidad de la infraestructura de tecnologías de la información y comunicación en el Organismo;
 
@@ -422,75 +538,11 @@ XIV. Coadyuvar con la creación de los proyectos que tengan relación con las te
 
 XV. Las demás que le confiera la Dirección General y las disposiciones legales aplicables que sean para el cumplimiento de su objetivo.
 
-###### Artículo 23.
-
-Corresponde a la Dirección de Regulación de Operación de Corredores de Transporte:
-
-I. Administrar, autorizar, regular, supervisar y controlar la operación de los Servicios de Corredores y Zonales de Transporte Público de Pasajeros, cuya concesión para la prestación de servicio, será otorgada a las personas morales;
-
-II. Coordinar con el área correspondiente de la Secretaría, la integración de los expedientes de los concesionarios que participen en el proceso de adjudicación, en forma individual previo a conformarse como persona moral, y conforme a lo estipulado en la Declaratoria de Necesidad;
-
-III. Solicitar durante la vigencia de la concesión a los concesionarios, la documentación e información técnica, operativa, económica y financiera que considere pertinente que permita garantizar la prestación del servicio de manera permanente, uniforme y establecer las medidas de seguridad necesarias;
-
-IV. Autorizar, regular, supervisar y controlar el mantenimiento de la infraestructura y equipamiento auxiliar del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-V. Coordinar con las áreas correspondientes de la Secretaría y/o autoridades competentes, los trámites administrativos y de control vehicular requeridos para la correcta operación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-VI. Administrar, regular, supervisar y controlar la revista del parque vehicular del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-VII. Autorizar los estudios técnicos y proyectos ingresados para la prestación del servicio de transporte de pasajeros público colectivo en la modalidad de Servicio de Corredores y Servicios Zonales, con base en la normativa que para tal efecto establezca el Organismo; y en su caso deberá realizar la validación en campo de la información contenida en dicho estudio para emitir el dictamen correspondiente;
-
-VIII. Coordinar la planeación, diseño y desarrollo del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales y su infraestructura, en congruencia con las políticas, programas y normas determinadas en el Sector para satisfacer las necesidades de la demanda de los usuarios y la evaluación de los servicios;
-
-IX. Evaluar la factibilidad de nuevos proyectos de transporte público colectivo de pasajeros en la modalidad de Corredores y Servicios Zonales y su infraestructura, a través del análisis de estudios realizados por terceros para satisfacer la demanda de las personas usuarias;
-
-X. Programar, orientar, organizar y, en su caso, modificar la prestación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-XI. Emitir los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de servicios de transporte de pasajeros público colectivo en la modalidad del Servicio de Corredores y Servicio Zonal;
-
-XII. Establecer medidas de seguridad necesarias para que los concesionarios del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales presten el servicio en condiciones de calidad, eficiencia, cuidado del medio ambiente, seguridad e higiene de los usuarios;
-
-XIII. Colaborar con la Secretaría para determinar los cursos y programas de capacitación para los operadores del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal de Transporte;
-
-XIV. Requerir en coordinación con el Instituto de Verificación Administrativa operativos y visitas de verificación del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicio Zonal, para garantizar que cumplan con las condiciones de equipamiento, cromática, accesibilidad, seguridad, comodidad y calidad en el servicio, así como el cumplimiento de las condiciones señaladas en el título de concesión;
-
-XV. Requerir y coadyuvar con las áreas correspondientes de la Secretaría, Zona Metropolitana del Valle de México, y/o autoridades competentes requeridas para la correcta aplicación de operativos y vistas de supervisión del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-XVI. Intervenir en los procesos administrativos para el otorgamiento, prórroga, revocación, caducidad y extinción de concesiones del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales, ante la Secretaría y en su caso coadyuvar con las autoridades competentes;
-
-XVII. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios del servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-XVIII. Participar en la coordinación con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México en el desarrollo e implementación de estrategias, programas, proyectos de obras, infraestructura y servicios para corredores y servicios zonales de transporte público de pasajeros, en el ámbito de su competencia;
-
-XIX. Supervisar el cumplimiento de las frecuencias y recorridos de los derroteros autorizados con los que operan los prestadores de servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-XX. Proponer proyectos para la ejecución y cumplimiento de los instrumentos normativos de regulación de los servicios de transporte público colectivo de pasajeros en la modalidad de Corredores y Servicios Zonales;
-
-XXI. Proponer y participar en la planeación, diseño y emisión de reglas de operación, lineamientos, circulares y aquellos instrumentos jurídicos necesarios para el servicio de transporte de pasajeros público colectivo en la modalidad de Corredores y Servicios Zonales;
-
-XXII. Realizar las gestiones para solicitar que se convoque al Comité de Evaluación y Análisis del Gabinete del Nuevo Orden Urbano, para la aprobación en sesión y la publicación de la Declaratoria de Necesidad para la creación del corredor de transporte especifico o Servicio Zonal, de ser el caso;
-
-XXIII. Llevar a cabo las acciones pertinentes para que el Comité Adjudicador de la Secretaría, esté en posibilidad de adjudicar la concesión administrativa de explotación del corredor de transporte especifico o Servicio Zonal, a la persona moral que cumpla con los requisitos establecidos en la Declaratoria de Necesidad;
-
-XXIV. Coadyuvar en los trámites para la publicación en la Gaceta Oficial de la Ciudad de México el aviso de las vialidades en las que se implementarán los servicios de los corredores de transporte público y zonales, el estudio de la Oferta y la Demanda, así como la Declaratoria de Necesidades;
-
-XXV. Presentar a la Secretaría las solicitudes de gravamen de concesiones para su autorización por escrito;
-
-XXVI. Integrar los expedientes de los concesionarios que se incorporen al Proyecto autorizado de Corredor de Transporte o Servicio Zonal, debiendo entregar los mismos al área responsable de la Subsecretaría del Transporte de la Secretaría para la baja administrativa de las concesiones correspondiente;
-
-XXVII. Emitir opinión para la creación y conformación de los Servicios de Corredores y Zonales;
-
-XXVIII. Garantizar que las rutas del corredor de transporte o los servicios zonales, sean cubiertas de manera emergente en los términos que establece la Secretaría;
-
-XXIX. Suspender el recorrido de un Corredor de transporte o Servicios Zonales, cuando estos cometan una conducta calificada como grave por la Secretaría;
-
-XXX. Evaluar que los concesionarios y permisionarios mantengan en resguardo los aditamentos, equipos, sistemas o dispositivos tecnológicos instalados en las unidades de Transporte Público Colectivo de Pasajeros en la Modalidad de Ruta, Corredor o Servicio Zonal, para el monitoreo del servicio; y
-
-XXXI. Las demás que le confiera la Dirección General y las disposiciones legales aplicables que sean para el cumplimiento de su objetivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2024)</small>
 
 ###### Artículo 24.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos:
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y de la Unidad de Transparencia:
 
 I. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses del Organismo y sus Unidades Administrativas, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio de la Ciudad de México, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas;
 
@@ -642,9 +694,17 @@ XLVII. Desarrollar acciones de Protección Civil que garanticen la integridad de
 
 XLVIII. Llevar a cabo las acciones para recaudar, concentrar, manejar, gestionar, custodiar y dispersar los ingresos que se generen por la Red de Recarga Externa;
 
-XLIX. Coordinar, supervisar y realizar la compensación de recursos provenientes de la Red de Recarga Externa a los Organismos que conforman el Sistema Integrado de Transporte Público, de acuerdo con la disposición administrativa correspondiente y con la autorización previa del Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2024)</small>
 
-L. Realizar las gestiones necesarias para el pago de recursos al Transporte Público Concesionado por el uso de la Tarjeta Única de Movilidad Integrada; y hacer las gestiones correspondientes para que los Organismos integrantes del Sistema Integrado de Transporte Público paguen los recursos correspondientes al servicio prestado por el transporte concesionado, previa autorización del Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México;
+XLIX. Coordinar, supervisar y realizar la compensación de los recursos provenientes de la Red de Recarga Externa a los Organismos que prestan el servicio de transporte de pasajeros, a las Entidades Públicas, Corredores y Servicios Zonales, de conformidad con la disposición administrativa correspondiente y los acuerdos emitidos por el Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+XLIX Bis. Realizar el resguardo, compensación y dispersión de los recursos que resulten remanentes de los ingresos de la Red de Recarga Externa, a quien mediante acuerdo del Comité del Sistema Integrado de Transporte Público determine tener el derecho de entre los Organismos que prestan el servicio de transporte de pasajeros;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2024)</small>
+
+L. Realizar las gestiones necesarias para el pago de recursos al Transporte Público Concesionado y Entes Públicos por el uso de la Tarjeta Única de Movilidad Integrada; y hacer las gestiones correspondientes para que los Organismos integrantes del Sistema Integrado de Transporte Público, Entes Públicos, Corredores y Servicio Zonal que tengan derecho a los ingresos que se generen a través de la Red de Recarga Externa, paguen el servicio por su uso, conforme a los criterios que establezca el Comité de Coordinación para la Compensación de Ingresos por Uso de la Tarjeta Única de Movilidad Integrada de la Ciudad de México y conforme al costo que se genere por ese servicio;
 
 > <small>(REFORMADA, G.O. 14 DE JULIO DE 2023)</small>
 
@@ -735,3 +795,9 @@ G.O. 14 DE JULIO DE 2023.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Aviso entrará en vigor el día de su publicación.
+
+G.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “AVISO POR EL CUAL SE DA A CONOCER LA REFORMA A SU ESTATUTO ORGÁNICO”.]
+
+ÚNICO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México, el cual entrará en vigor el 1 de mayo de 2024.
