@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-697-de-cultura-fisica-y-deporte-para-el-estado-y-108
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-27"
-last_updated: "2015-02-27"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 27 de Febrero de 2015.
 
@@ -874,6 +874,10 @@ IX. Dar seguimiento y ejecutar las políticas y planes aprobados por el SINADE y
 X. Establecer procedimientos de promoción en materia de cultura física y deporte, y
 
 XI. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XII. Promover, formular y ejecutar políticas para garantizar la participación del principio de igualdad sustantiva entre mujeres y hombres, y así asegurar una vida libre de violencia para las mujeres en todos los ámbitos que fomenten las actividades físicas y deportivas.
 
 ###### Artículo 43.
 
@@ -2136,3 +2140,15 @@ Rúbrica.
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTA (SIC) DE CUARENTA Y CUATRO FOJAS ÚTILES, DEBIDAMENTE FOLIADAS, SELLADAS Y RUBRICADAS, SON REPRODUCIDAS FIELMENTE CON SU ORIGINAL, RELATIVAS AL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO, NÚMERO 17 ALCANCE I DE FECHA VEINTISIETE DE FEBRERO DEL DOS MIL QUINCE, MISMO QUE TUVE A LA VISTA, EL CUAL OBRA EN LOS ARCHIVOS DE LA SECRETARÍA GENERAL DE GOBIERNO.-----------------------------
 
 ---SE EXTIENDE LA PRESENTE, PARA LO (SIC) EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A LOS VEINTISIES (SIC) DÍAS DEL MES JUNIO DEL DOS MIL QUINCE.- CONSTE.----------------------------------------------------------------------------------
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 493 POR EL QUE SE REFORMA EL ARTÍCULO 42, Y SE ADICIONA LA FRACCIÓN XII, A LA LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
