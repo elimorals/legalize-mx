@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-696-de-la-comision-de-los-derechos-humanos-del-10726
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2019-07-26"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de marzo de 2015.
 
@@ -49,9 +49,11 @@ LEY NUMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO.
 
 Las disposiciones de esta ley en materia de derechos humanos son de orden público, interés social y observancia general en el estado de Guerrero, en los términos establecidos por el apartado "B" de los artículos 102 de la Constitución Política de los Estados Unidos Mexicanos, 116, 117,118 y 119 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
-###### ARTÍCULO 2°.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-El objeto de la presente ley es establecer las bases para la protección, promoción, defensa y difusión de los derechos humanos que ampara el orden jurídico mexicano y los tratados internacionales de los que el Estado Mexicano sea parte. Así como supervisar que las autoridades y servidores públicos estatales y municipales, en el ámbito de sus respectivas competencias, cumplan con la obligación de promover, respetar, proteger y garantizar los derechos humanos.
+###### ARTÍCULO 2º.
+
+El objeto de la presente ley es establecer las bases para la protección, promoción, defensa y difusión de los derechos humanos que ampara el orden jurídico mexicano y los tratados internacionales de los que el Estado Mexicano sea parte. Así como supervisar que las autoridades y las y los servidores públicos estatales y municipales, en el ámbito de sus respectivas competencias, cumplan con la obligación de promover, respetar, proteger y garantizar los derechos humanos.
 
 ###### ARTÍCULO 3°.
 
@@ -61,9 +63,11 @@ Para la defensa y promoción de los derechos humanos se observarán los principi
 
 En el ejercicio de su actividad, la Comisión deberá interpretar los derechos humanos en la forma más beneficiosa para las personas, conforme a lo dispuesto en la Constitución Política Federal, Local y los Tratados Internacionales en la materia.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 5°.
 
-Los integrantes de la Comisión, deberán observar como principios rectores de su actuación los de certeza, legalidad, imparcialidad, objetividad, eficiencia, racionalidad presupuestaria, profesionalismo, responsabilidad, transparencia, rendición de cuentas, así como aquellos principios consustanciales a su específica función.
+Las personas integrantes de la Comisión, deberán observar como principios rectores de su actuación los de certeza, legalidad, imparcialidad, objetividad, eficiencia, racionalidad presupuestaria, profesionalismo, responsabilidad, transparencia, rendición de cuentas, así como aquellos principios consustanciales a su específica función.
 
 ###### ARTÍCULO 6°.
 
@@ -71,11 +75,11 @@ La Comisión de los Derechos Humanos del Estado de Guerrero, en adelante "La Com
 
 Su residencia y domicilio legal será en la Ciudad de Chilpancingo, capital del estado de Guerrero.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 7°.
 
-La Comisión tendrá competencia y ejercerá su función mediante la investigación de quejas en contra de actos u omisiones de naturaleza administrativa, presentadas por la probable violación de derechos humanos y la formulación de recomendaciones públicas, denuncias y quejas, cuando estás fueren imputadas a autoridades y servidores públicos de carácter estatal y municipal, con las excepciones previstas en el artículo 17 de esta ley.
-
-Las recomendaciones de la Comisión no serán vinculatorias.
+La Comisión tendrá competencia y ejercerá su función mediante la investigación de quejas en contra de actos u omisiones de naturaleza administrativa, presentadas por la probable violación de derechos humanos y la formulación de recomendaciones públicas, denuncias y quejas, cuando estás fueren imputadas a autoridades y las y los servidores públicos de carácter estatal y municipal, con las excepciones previstas en el artículo 17 de esta ley.
 
 ###### ARTÍCULO 8°.
 
@@ -93,6 +97,8 @@ La Comisión en su funcionamiento, deliberaciones y resoluciones, deberá garant
 
 El personal de la Comisión deberá de manejar de manera confidencial la información o documentación relativa a los asuntos de su competencia, con excepción de lo previsto en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
 Para los efectos de la presente ley, se entiende por:
@@ -107,13 +113,17 @@ H. Congreso del Estado: El H. Congreso del Estado de Guerrero;
 
 Ley: La Ley de la Comisión de los Derechos Humanos del Estado de Guerrero;
 
-Presidente: El Presidente de la Comisión de los Derechos Humanos del Estado de Guerrero;
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+Presidencia: La unidad administrativa cuyo (sic) persona titular será la o el presidente de la Comisión de los Derechos Humanos del Estado de Guerrero.
 
 Reglamento Interno: El Reglamento Interno de la Comisión de los Derechos Humanos del Estado de Guerrero;
 
 Sectores Públicos: Los Poderes Ejecutivo, Legislativo y Judicial del Estado y la administración pública municipal.
 
-Servidores Públicos: Los miembros, funcionarios y empleados que desempeñen cualquier cargo o comisión en un poder público.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+Servidores Públicos: Las personas que sean integrantes, funcionarias y empleadas que desempeñen cualquier cargo o comisión en un poder público.
 
 Violación de los derechos humanos: El perjuicio o lesión de los derechos fundamentales de las personas, derivado de actos u omisiones provenientes de servidores públicos que conociendo de un asunto de su competencia, no procedan conforme a las disposiciones que señalan las leyes en la materia o actúen fuera de ella.
 
@@ -133,6 +143,8 @@ IV. Las donaciones, legados y demás aportaciones que reciba e (sic) institucion
 
 V. En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o cultural, que sean susceptibles de estimación pecuniaria y que obtenga por cualquier medio legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
 La Comisión, tendrá la facultad de elaborar su proyecto de Presupuesto de Egresos, para cumplir adecuadamente con su función, objetivos y metas, el cual será remitido al Poder Ejecutivo por conducto de su titular para el trámite correspondiente.
@@ -143,9 +155,13 @@ La gestión y ejecución del Presupuesto de este órgano se realizara de manera 
 
 La Comisión deberá presentar los informes financieros y de cuenta pública al H. Congreso del Estado, a través de la Auditoria General del Estado, sobre la aplicación de su presupuesto;
 
-El titular o Presidente deberá comparecer ante el H. Congreso del Estado, previa solicitud fundada y motivada.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+La persona titular de la Presidencia deberá comparecer ante el H. Congreso del Estado, previa solicitud fundada y motivada.
 
 ### CAPITULO III. ATRIBUCIONES DE LA COMISIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
@@ -161,7 +177,9 @@ IV. Solicitar al H. Congreso del Estado la comparecencia del o los titulares de 
 
 V. Opinar sobre las leyes que en materia de derechos y libertades se discutan en el H. Congreso del Estado;
 
-VI. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o cuando lo solicite el Gobernador o el H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VI. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o cuando lo solicite la persona titular del Poder Ejecutivo estatal o el H. Congreso del Estado
 
 VII. Interponer, con la aprobación del Consejo Consultivo, acciones de inconstitucionalidad en contra de leyes expedidas por el H. Congreso del Estado que vulneren derechos humanos;
 
@@ -225,21 +243,31 @@ Salvo cuando los actos u omisiones de estos, constituyan por si mismos la violac
 
 ### CAPITULO IV. DE LA ESTRUCTURA ORGÁNICA DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
 La Comisión, para el mejor desempeño de sus atribuciones se integrará con:
 
-I. Un Presidente;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. Una Presidencia
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE ABRIL DE 2024)</small>
 
 II. Un Consejo Consultivo;
 
-III. Un Secretario Técnico;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-IV. Los Visitadores Generales especializados por materia;
+III. Una Secretaría Técnica;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-V. Un órgano Interno de Control.
+IV. Las Visitadurías Generales especializadas por materia.
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+V. Un Órgano Interno de Control.
 
 Demás personal profesional, técnico y administrativo necesario para el adecuado cumplimiento de sus funciones.
 
@@ -251,23 +279,33 @@ La Comisión contará con las unidades técnicas y administrativas de apoyo que 
 
 La Fiscalía General del Estado adscribirá funcionalmente a la Comisión, una Agencia del Ministerio Público especializada en materia de violación de los derechos humanos, misma que contará con los recursos necesarios para facilitar el desempeño de sus funciones, la cual se ubicará en las instalaciones de la Comisión y cuyo personal deberá tener la formación idónea al efecto.
 
-#### SECCIÓN PRIMERA. DEL PRESIDENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LA PERSONA TITULAR DE LA PRESIDENCIA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
-El Presidente será la autoridad ejecutiva y en el recaerá la representación legal e institucional de la Comisión, su administración y gobierno interior.
+La persona titular de la Presidencia será la autoridad ejecutiva y en quien recaerá la representación legal e institucional de la Comisión, su administración y gobierno interior.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-El Presidente durará en su encargo cuatro años, con posibilidad de ser reelecto por una sola vez, observándose el mismo procedimiento para la designación inicial.
+La persona titular de la Presidencia durará en su encargo cuatro años, con posibilidad de ser reelecto por una sola vez, observándose el mismo procedimiento para la designación inicial.
 
-Quien en su calidad de Presidente de la Comisión desee ser ratificado para un segundo periodo, deberá manifestar su interés por escrito al H. Congreso del Estado, a efecto de ser considerado en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
+Quien en su calidad de la o el Presidente de la Comisión desee ser ratificado para un segundo periodo, deberá manifestar su interés por escrito al H. Congreso del Estado, a efecto de ser considerado en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-El Presidente deberá reunir para su designación los siguientes requisitos:
+La persona aspirante a presidir la Comisión deberá reunir para su designación los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. La ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años cumplidos al día de su nombramiento;
 
@@ -285,13 +323,19 @@ VIII. No haber sido titular de ninguna dependencia, entidad y organismo de la ad
 
 IX. No haber sido dirigente de algún partido político, ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación.
 
-El nombramiento del Presidente de la Comisión deberá recaer preferentemente en aquella persona que se haya caracterizado por su eficiencia, probidad, honorabilidad, especialización y profesionalismo.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+El nombramiento de la o el Presidente de la Comisión deberá recaer preferentemente en aquella persona que se haya caracterizado por su eficiencia, probidad, honorabilidad, especialización y profesionalismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Para la elección del Presidente de la Comisión, se seguirá el procedimiento de consulta pública siguiente:
+Para la elección de la persona titular de la Presidencia de la Comisión, se seguirá el procedimiento de consulta pública siguiente:
 
-I. Dentro de los cuarenta y cinco días naturales antes de que termine el encargo del Presidente en funciones, el H. Congreso del Estado emitirá una convocatoria pública abierta, dirigida a las universidades, organizaciones de la sociedad civil legalmente constituidas, instituciones académicas, asociaciones, colegios de profesionistas y ciudadanos en lo individual, cuyo (sic) actividad esté vinculada con la defensa de los derechos humanos, con la finalidad de allegarse de propuestas, que podrá ser publicada en cuando menos dos periódicos de mayor circulación en el estado o en radio, televisión, u otros medios electrónicos oficiales, etcétera;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. Dentro de los cuarenta y cinco días naturales antes de que termine la persona titular de la Presidencia, el Honorable Congreso del Estado emitirá una convocatoria pública abierta, dirigida a las universidades, organizaciones de la sociedad civil legalmente constituidas, instituciones académicas, asociaciones, colegios de profesionistas y ciudadanos en lo individual, cuyo (sic) actividad esté vinculada con la defensa de los derechos humanos, con la finalidad de allegarse de propuestas, que podrá ser publicada en cuando menos dos periódicos de mayor circulación en el estado o en radio, televisión, u otros medios electrónicos oficiales, etcétera;
 
 II. La convocatoria pública deberá contener al menos los requisitos de elegibilidad, documentos que los acrediten, los plazos de inscripción, el procedimiento para la realización de la consulta, los términos para realizar el dictamen respectivo y las propuestas definitivas ante el pleno del Congreso del Estado, así como el procedimiento que se seguirá para su designación.
 
@@ -301,25 +345,35 @@ IV. Dentro del plazo de diez días naturales siguientes a la conclusión de la r
 
 V. La Comisión de Gobierno podrá citar a comparecer a los aspirantes que hayan cumplido los requisitos y realizarles una entrevista, en la que deberán exponer sus conocimientos y experiencia sobre la materia;
 
-VI. Concluida la revisión de los expedientes y, en su caso; las entrevistas y exposición del plan de trabajo, la Comisión de Gobierno publicará en el portal electrónico del H. Congreso del Estado, la lista que contenga los nombres de los aspirantes que cumplieron con los requisitos que señala la convocatoria;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VI. Concluida la revisión de los expedientes y, en su caso; las entrevistas y exposición del plan de trabajo, la Junta de Coordinación Política publicará en el portal electrónico del H. Congreso del Estado, la lista que contenga los nombres de las personas aspirantes que cumplieron con los requisitos que señala la convocatoria;
 
 VII. Posteriormente la Comisión de Gobierno formulará dentro del plazo de diez días la propuesta respectiva, la cual será presentada a través de una terna ante el Pleno del H. Congreso del Estado;
 
-VIII. El Pleno del H. Congreso del Estado conocerá la propuesta para nombrarlo y, en su caso, procederá a su discusión y aprobación.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VIII. El Pleno del H. Congreso del Estado conocerá la propuesta de nombramiento y, en su caso, procederá a su discusión y aprobación.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-El Presidente será designado por las dos terceras partes del total de los miembros integrantes del H. Congreso del Estado.
+La persona titular de la Presidencia será designada por las dos terceras partes del total de los miembros integrantes del H. Congreso del Estado.
 
-En caso de que ningún candidato obtenga la votación requerida, en una primera ronda, se someterá a votación de nueva cuenta la terna. Para el caso de que tampoco se obtenga la votación requerida, la Comisión de Gobierno deberá presentar una nueva terna de la lista a que se refiere la fracción VI del artículo 24 de esta ley, a más tardar dentro de los quince días siguientes.
+En caso de que ninguna candidatura obtenga la votación requerida, en una primera ronda, se someterá a votación de nueva cuenta la terna.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-El Presidente de la Comisión rendirá protesta constitucional de su cargo ante el Pleno del H. Congreso del Estado.
+La persona titular de la Presidencia de la Comisión rendirá protesta constitucional de su cargo ante el Pleno del H. Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-El Presidente de la Comisión tendrá las siguientes facultades:
+La persona titular de la Presidencia de la Comisión tendrá las siguientes facultades:
 
 I. Ejercer la representación legal y jurídica de la Comisión;
 
@@ -383,15 +437,21 @@ XXVIII. Emitir la normatividad necesaria para el funcionamiento de la Comisión;
 
 XXIX. Las demás que le sean conferidas por otras disposiciones legales o reglamentarias que sean afines a las anteriores.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-El presidente y demás integrantes de la Comisión tendrán fe pública en sus actuaciones para certificar documentos, declaraciones y hechos en los procedimientos de investigación.
+La o el presidente y demás integrantes de la Comisión tendrán fe pública en sus actuaciones para certificar documentos, declaraciones y hechos en los procedimientos de investigación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-El Presidente de la Comisión podrá imponer las siguientes sanciones a los servidores públicos que dolosamente o por grave negligencia no proporcionen la información que le solicite sobre las quejas que en materia de derechos humanos presenten los ciudadanos:
+La persona titular de la Presidencia de la Comisión podrá imponer las siguientes sanciones a las y los servidores públicos que dolosamente o por grave negligencia no proporcionen la información que le solicite sobre las quejas que en materia de derechos humanos presenten los ciudadanos:
 
-I. Amonestación: reconvención pública o privada, que el juez calificador haga al infractor; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. Amonestación: reconvención pública o privada, que la jueza o el juez calificador haga a la persona infractora; y
 
 II. Multa: pago de una cantidad de dinero hasta por el equivalente a 30 veces el salario mínimo diario general de la zona.
 
@@ -409,43 +469,71 @@ Para impugnar las sanciones anteriores, el servidor público podrá acudir al Tr
 
 El Consejo será la autoridad (sic) carácter consultivo en las cuestiones técnicas, operativas y en lo relativo a la planeación y evaluación de sus labores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-El Consejo Consultivo sólo podrá actuar conjuntamente y se integrará por cinco miembros de la siguiente manera:
+El Consejo Consultivo sólo podrá actuar conjuntamente y se integrará por cinco integrantes de la siguiente manera:
 
-I. Un Presidente del Consejo Consultivo, que se desempeñará al mismo tiempo como Presidente de la Comisión, el cual tendrá voto de calidad en caso de empate en las votaciones;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-II. Cuatro Consejeros ciudadanos, que designe el H. Congreso del Estado, a través de la convocatoria pública y transparente que se realice, de los cuales uno será representante de la totalidad de los pueblos indígenas, de acuerdo a lo establecido en el artículo 13 de la Ley Numero 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero; y los demás que se desempeñen o pertenezcan a cualquiera de las siguientes actividades o sectores sociales:
+I. La persona titular de la Presidencia de la Comisión presidirá al mismo tiempo el Consejo Consultivo, quien tendrá voto de calidad en caso de empate en las votaciones;
 
-a. Un Periodista en ejercicio activo, en cualquiera de las especialidades de esa actividad;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ABRIL DE 2024)</small>
 
-b. Un Licenciado en Derecho, preferentemente dedicado al libre ejercicio de su profesión, a la investigación o docencia y de reconocido prestigio;
+II. Cuatro Consejerías ciudadanas, dos hombres y dos mujeres atendiendo al principio de paridad, quienes serán designados por el H. Congreso del Estado, a través de la convocatoria pública y transparente que se realice, de los cuales una de las personas integrantes será representante de la totalidad de los pueblos indígenas, de acuerdo a lo establecido en el artículo 13 de la Ley Número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero; y las otras tres deberán desempeñar o pertenecer a cualquiera de las siguientes actividades o sectores sociales:
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+a. Periodismo en ejercicio activo y en cualquiera de las especialidades de esa actividad;
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+b. Profesionista del Derecho titulado, preferentemente dedicado al libre ejercicio de su profesión, a la investigación o docencia y de reconocido prestigio;
 
 c. Una Mujer, preferentemente miembro de alguna organización que busque la promoción y defensa de la mujer en el estado;
 
-d. Un Notario Público en el estado;
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-e. Un Profesor miembro de alguna institución educativa del estado;
+d. Profesionista del derecho con función de notario o notaria en el Estado.
 
-f. Un Médico miembro de alguna asociación del estado;
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-g. Cualquier miembro distinguido de la sociedad civil guerrerense;
+e. Docencia en alguna institución educativa del estado;
 
-h. Un representante de una Organización No Gubernamental que busque la promoción y defensa de los derechos humanos en el estado.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-El Consejo Consultivo se auxiliará para el desarrollo de sus funciones del titular de la Secretaría Técnica de la Comisión.
+f. Profesionista de la medicina, integrante de alguna asociación del estado;
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+g. Cualquier persona distinguida de la sociedad civil guerrerense;
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+h. Una persona representante de una Organización No Gubernamental que busque la promoción y defensa de los derechos humanos en el estado.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+El Consejo Consultivo se auxiliará para el desarrollo de sus funciones de la persona titular de la Secretaría Técnica de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-Durarán los consejeros en su encargo cuatro años, con posibilidad de ser reelectos por una sola vez, observándose el mismo procedimiento para la designación inicial.
+Durarán las y los consejeros en su encargo cuatro años, con posibilidad de ser reelectos por una sola vez, observándose el mismo procedimiento para la designación inicial.
 
 Quien en su calidad de integrante del Consejo Consultivo de la Comisión desee ser ratificado para un segundo periodo, deberá manifestar su interés por escrito al H. Congreso del Estado, a efecto de ser considerado en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-Los integrantes del Consejo Consultivo deberán reunir para su designación los siguientes requisitos:
+Las personas integrantes del Consejo Consultivo deberán reunir para su designación los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. La ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Contar con una residencia efectiva en el estado, cuando menos de cinco años previos a su nombramiento;
 
@@ -459,15 +547,19 @@ VI. Demostrar tener conocimientos o distinguirse por su servicio, interés y par
 
 VII. No haber sido dirigente de algún partido político, dentro de los tres años anteriores a su designación;
 
-VIII. No haberse desempeñado como funcionario de primer nivel en la administración pública estatal o federal, durante el año previo a su designación; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VIII. No haber desempeñado cargo público de primer nivel en la administración pública estatal o federal, durante el año previo a su designación; y
 
 IX. No ser ministro de ningún culto religioso.
 
 Los nombramientos de los integrantes del Consejo Consultivo deberán recaer, preferentemente en aquellas personas que se hayan caracterizado por su eficiencia, probidad, honorabilidad, especialización y profesionalismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 35.
 
-Para la elección de los integrantes del Consejo Consultivo de la Comisión, se seguirá el procedimiento siguiente:
+Para la elección de las personas integrantes del Consejo Consultivo de la Comisión, se seguirá el procedimiento siguiente:
 
 I. Dentro de los cuarenta y cinco días antes de que termine el encargo de los Consejeros en funciones, el H. Congreso del Estado realizará una convocatoria pública abierta, dirigida a las universidades, organizaciones civiles legalmente constituidas, colegios de profesionistas y ciudadanos en lo individual, cuya actividad esté vinculada a la defensa de los derechos humanos, con la finalidad de allegarse de propuestas a ocupar dichos cargos, que podrá ser publicada en cuando menos dos periódicos de mayor circulación en el estado o en radio, televisión, u otros medios electrónicos oficiales, etcétera;
 
@@ -483,37 +575,53 @@ VI. Concluida la revisión de los expedientes y, en su caso; las entrevistas y e
 
 VII. Posteriormente la Comisión de Gobierno formulará dentro del plazo de diez días la propuesta respectiva, la cual será presentada ante el Pleno del H. Congreso del Estado;
 
-VIII. El Pleno del H. Congreso del Estado, conocerá la propuesta para nombrarlos y, en su caso, procederá a su discusión y aprobación.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VIII. El Pleno del H. Congreso del Estado, conocerá la propuesta de nombramientos y, en su caso, procederá a su discusión y aprobación.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 36.
 
-El procedimiento de nombramiento de los integrantes del Consejo Consultivo deberá respetar los principios de transparencia, máxima publicidad, pluralismo, equilibrio geográfico, generacional y étnico, acceso a los cargos en condiciones de igualdad e idoneidad de los aspirantes, equidad de género y progresivamente, el principio de paridad.
+El procedimiento de nombramiento de las personas integrantes del Consejo Consultivo deberá respetar los principios de transparencia, máxima publicidad, pluralismo, equilibrio geográfico, generacional y étnico, acceso a los cargos en condiciones de igualdad e idoneidad de los aspirantes y paridad.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-Los integrantes del Consejo Consultivo serán nombrados y designados por las dos terceras partes del total de los miembros integrantes del H. Congreso del Estado.
+Las personas integrantes del Consejo Consultivo serán nombradas y designadas por las dos terceras partes del total de los integrantes del H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-Los integrantes del Consejo Consultivo de la Comisión rendirán protesta constitucional de su cargo ante el Pleno del H. Congreso del Estado.
+Las personas integrantes del Consejo Consultivo de la Comisión rendirán protesta constitucional de su cargo ante el Pleno del H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
-El cargo de miembro del Consejo Consultivo será honorifico; y por lo tanto, su desempeño no implicará relación laboral alguna, ni devengará salario o estipendio de ninguna naturaleza, a excepción del Presidente y solo recibirán gastos a comprobar para el cumplimiento de las comisiones que se les asignen.
+El cargo de Consejera o Consejero Consultivo será honorifico; y por lo tanto, su desempeño no implicará relación laboral alguna, ni devengará salario o estipendio de ninguna naturaleza, a excepción de la persona titular de la Presidencia, y solo recibirán gastos a comprobar para el cumplimiento de las comisiones que se les asignen.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 40.
 
-El Consejo Consultivo de la Comisión funcionará en sesiones ordinarias y extraordinarias y tomarán sus decisiones por unanimidad o mayoría de votos de sus miembros presentes, y en caso de empate será el Presidente quien tendrá el voto de calidad.
+El Consejo Consultivo de la Comisión funcionará en sesiones ordinarias y extraordinarias y tomarán sus decisiones por unanimidad o mayoría de votos de sus miembros presentes, y en caso de empate será la persona titular de la Presidencia quien tendrá el voto de calidad.
 
 Las sesiones ordinarias se verificarán cuando menos una vez al mes y sus miembros tendrán voz y voto.
 
-Las sesiones extraordinarias podrán convocarse por el Presidente, o mediante solicitud que a este formulen cuando menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+Las sesiones extraordinarias podrán convocarse por la persona titular de la Presidencia o mediante solicitud que a este formulen cuando menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 41.
 
 El Consejo y sus integrantes tendrán las siguientes facultades:
 
-I. Actuar como órgano consultivo del Presidente de la Comisión en cuestiones técnicas y de operación;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. Actuar como órgano consultivo de la Presidencia de la Comisión en cuestiones técnicas y de operación;
 
 II. Fungir como órgano de decisión en la labor de planeación general y evaluación de las labores de la Comisión;
 
@@ -527,7 +635,9 @@ VI. Aprobar los programas de difusión, capacitación y actualización para el f
 
 VII. Fijar los términos generales de actuación de la Comisión con base en las disposiciones de esta ley;
 
-VIII. Conocer, opinar y aprobar, en su caso, el plan o programa anual de labores y el informe anual de actividades que presente el Presidente de la Comisión al H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VIII. Conocer, opinar y aprobar, en su caso, el plan o programa anual de labores y el informe anual de actividades que presente la persona titular de la Presidencia de la Comisión al H. Congreso del Estado;
 
 IX. Opinar y aprobar el proyecto de Presupuesto de la Comisión;
 
@@ -545,37 +655,57 @@ XV. Las demás que le sean conferidas en otras disposiciones legales y reglament
 
 #### SECCIÓN TERCERA. DE LA SECRETARIA TÉCNICA
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
-La Secretaría Técnica es el área de apoyo que bajo las directrices que instruya el Presidente, le auxiliara en la conducción institucional, dando seguimiento y evaluando las tareas programáticas, lineamientos y políticas generales a los que habrán de sujetarse las actividades sustantivas y administrativas de la Comisión.
+La Secretaría Técnica es el área de apoyo que bajo las directrices que instruya la persona titular de la Presidencia, le auxiliará en la conducción institucional, dando seguimiento y evaluando las tareas programáticas, lineamientos y políticas generales a los que habrán de sujetarse las actividades sustantivas y administrativas de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 43.
 
-El titular de la Secretaría Técnica será designado por el Consejo Consultivo de la Comisión a propuesta del Presidente; y deberá reunir para desempeñar el cargo, los siguientes requisitos:
+La persona titular de la Secretaría Técnica será designada por el Consejo Consultivo de la Comisión a propuesta de la o el Presidente; y deberá reunir para desempeñar el cargo, los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. La ciudadanía mexicana en pleno ejercicio de sus derechos;
 
 II. Ser mayor de treinta años de edad al día de su nombramiento;
 
 III. Haber residido en el estado durante los últimos tres años al día de su nombramiento;
 
-IV. Tener título y Cédula Profesional de Licenciado en Derecho expedidos legalmente;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV. Tener título y Cédula Profesional de la Licenciatura en Derecho expedidos legalmente;
 
 V. Contar con tres años de ejercicio profesional cuando menos;
 
 VI. Gozar de buena reputación y haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 44.
 
-El titular de la Secretaría Técnica tendrá las atribuciones siguientes:
+La persona titular de la Secretaría Técnica tendrá las atribuciones siguientes:
 
 I. Dar fe de los actos, que en cumplimiento de sus facultades, realicen los órganos de la Comisión;
 
-II. Preparar, de conformidad con las instrucciones del Presidente, el orden del día a que se someterán las sesiones del Consejo, participando en ellas con voz, pero sin voto;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-III. Remitir oportunamente, a los consejeros, los citatorios, órdenes del día y material indispensable para realizar las sesiones ordinarias y extraordinarias;
+II. Preparar, de conformidad con las instrucciones de la persona titular de la Presidencia, el orden del día a que se someterán las sesiones del Consejo, participando en ellas con voz, pero sin voto;
 
-IV. Brindar a los Consejeros el apoyo necesario, para el mejor cumplimiento de sus responsabilidades;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+III. Remitir oportunamente, a las y los consejeros, los citatorios, órdenes del día y material indispensable para realizar las sesiones ordinarias y extraordinarias;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV. Brindar a las y los consejeros el apoyo necesario, para el mejor cumplimiento de sus responsabilidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2024)</small>
+
+IV (SIC). Brindar a las y los consejeros el apoyo necesario, para el mejor cumplimiento de sus responsabilidades (sic);
 
 V. Pasar lista de asistencia y llevar el registro de ella;
 
@@ -583,9 +713,13 @@ VI. Declarar la existencia del quórum legal, previsto en su reglamento interno;
 
 VII. Solicitar la dispensa de la lectura de los documentos previamente distribuidos y que forman parte del orden del día;
 
-VIII. Auxiliar al Presidente en la conducción de la sesión, en caso de que se ausente momentáneamente de la mesa del Consejo;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-IX. Elaborar el proyecto de acta de la sesión, someterla a la aprobación del Consejo y, en su caso, incorporar las observaciones planteadas a la misma por los Consejeros;
+VIII. Auxiliar a la persona titular de la Presidencia en la conducción de la sesión, en caso de que se ausente momentáneamente de la mesa del Consejo;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IX. Elaborar el proyecto de acta de la sesión, someterla a la aprobación del Consejo y, en su caso, incorporar las observaciones planteadas a la misma por las o los Consejeros;
 
 X. Informar sobre los escritos que se presenten al Consejo;
 
@@ -595,11 +729,15 @@ XII. Tomar las votaciones y dar a conocer el resultado de las mismas;
 
 XIII. Informar sobre el cumplimiento de los acuerdos del Consejo cuando lo solicite alguno de sus miembros;
 
-XIV. Firmar junto con el Presidente, los acuerdos que emita el Consejo, así como las actas de las sesiones que se aprueben;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XIV. Firmar junto con la persona titular de la Presidencia, los acuerdos que emita el Consejo, así como las actas de las sesiones que se aprueben;
 
 XV. Llevar el registro de las actas y acuerdos aprobados por el Consejo y un archivo de los mismos;
 
-XVI. Proponer al Presidente, los programas de divulgación en medios masivos de comunicación, a través de los cuales se difunde lo relativo a la naturaleza, prevención y protección de los derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XVI. ... (sic) Proponer a la persona titular de la Presidencia, los programas de divulgación en medios masivos de comunicación, a través de los cuales se difunde lo relativo a la naturaleza, prevención y protección de los derechos humanos;
 
 XVII. Enriquecer, mantener y custodiar el acervo documental de la Comisión, en coordinación con los demás órganos y áreas administrativas;
 
@@ -613,41 +751,59 @@ XXI. Promover el estudio y enseñanza de los derechos humanos dentro del sistema
 
 XXII. Colaborar con la Presidencia en la elaboración de los informes anuales y especiales;
 
-XXIII. Elaborar y presentar al Presidente, proyectos de reformas o adiciones a leyes secundarias sobre la protección de los derechos humanos; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-XXIV. Las demás que le sean conferidas por el Presidente y las contenidas en su reglamento interno.
+XXIII. Elaborar y presentar a la persona titular de la Presidencia, proyectos de reformas o adiciones a leyes secundarias sobre la protección de los derechos humanos; y
 
-#### SECCIÓN CUARTA. DE LOS VISITADORES GENERALES ESPECIALIZADOS POR MATERIA
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XXIV. Las demás que le sean conferidas por la persona titular Presidencia y las contenidas en su reglamento interno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2024)</small>
+
+#### SECCIÓN CUARTA. DE LAS VISITADURÍAS GENERALES ESPECIALIZADAS POR MATERIA
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 45.
 
-La Comisión contará para su funcionamiento con el número de Visitadores Generales especializados por materia, de conformidad con sus posibilidades presupuestales y tendrán a su cargo la tramitación de los procedimientos de investigación que se inicien de oficio o mediante queja.
+La Comisión contará para su funcionamiento con el número de Visitadurías Generales especializadas por materia, de conformidad con sus posibilidades presupuestales tendrán a su cargo la tramitación de los procedimientos de investigación que se inicien de oficio o mediante queja.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 46.
 
-Los Visitadores Generales, serán designados por el Consejo Consultivo de la Comisión a propuesta del Presidente; y deberán reunir para desempeñar el cargo, los siguientes requisitos:
+Las Visitadurías Generales, serán designadas por el Consejo Consultivo de la Comisión, a propuesta de la Presidencia y el nombramiento de las personas titulares atenderá al principio de paridad; y deberán reunir para desempeñar el cargo, los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. La ciudadanía mexicana en pleno ejercicio de sus derechos;
 
 II. Ser mayor de treinta años de edad;
 
 III. Haber residido en el estado durante los últimos tres años al día de su nombramiento;
 
-IV. Tener título y Cédula de Licenciado en Derecho expedidos legalmente;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV. Tener título y Cédula de la Licenciatura en Derecho expedidos legalmente;
 
 V. Contar con tres años de ejercicio profesional cuando menos;
 
 VI. Gozar de buena reputación y haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-Los Visitadores Generales tendrán en general las siguientes atribuciones:
+Las personas titulares de las Visitadurías Generales tendrán en general las siguientes atribuciones:
 
 I. Recibir a petición de parte, las quejas e inconformidades presentadas ante la Comisión, admitirlas o desecharlas conforme a esta ley y su reglamento interno;
 
 II. Iniciar de oficio la investigación de hechos que evidencien la violación a los derechos humanos por cualquier medio de comunicación u otro por el que tengan conocimiento de estos;
 
-III. Informar al Presidente de los procedimientos de investigación iniciados en la Visitaduría, así como del trámite de los mismos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+III. Informar a la persona titular de la Presidencia de los procedimientos de investigación iniciados en la Visitaduría, así como del trámite de los mismos;
 
 IV. Asistir a las sesiones del Consejo con derecho a voz;
 
@@ -657,7 +813,9 @@ VI. Integrar los expedientes, recibir las pruebas que fueren ofrecidas por las p
 
 VII. Realizar la conciliación y mediación como medios alternativos de solución a la violación de los derechos humanos que por su naturaleza así lo permita, y dar seguimiento a las propuestas de conciliación hasta su total cumplimiento o bien, en caso contrario, continuar la investigación;
 
-VIII. Hacer del conocimiento de las autoridades competentes, previo acuerdo con el Presidente; los actos que puedan resultar violatorios de los derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+VIII. Hacer del conocimiento de las autoridades competentes, previo acuerdo con la persona titular de la Presidencia; los actos que puedan resultar violatorios de los derechos humanos;
 
 IX. Solicitar que se analice la posible responsabilidad de los servidores públicos que obstaculicen la investigación. Para ello, la Comisión denunciará ante los órganos competentes estos hechos, con el objeto de que se impongan las sanciones correspondientes;
 
@@ -665,7 +823,9 @@ X. Solicitar en cualquier momento, a las autoridades competentes, que se tomen l
 
 XI. Tener el control del banco de datos, en el que se registren todas las actuaciones implementadas con motivo de la investigación de las quejas;
 
-XII. Cubrir ausencias del Presidente conforme lo determine su reglamento interno;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XII. Cubrir ausencias de la persona titular de la Presidencia conforme lo determine su reglamento interno;
 
 XIII. Realizar visitas ordinarias de carácter permanente y las interinstitucionales de supervisión a los lugares de reclusión, detención y aseguramiento del gobierno estatal y municipal, a fin de constatar el respeto a los derechos humanos de las personas que se encuentren internas;
 
@@ -679,9 +839,11 @@ XVII. Llevar a cabo visitas a centros hospitalarios, educativos, de rehabilitaci
 
 XVIII. Las que le confiera el reglamento interno que se desprenda de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Cuando se requiera realizar acciones de investigación para estar en aptitud de emitir resoluciones, el Visitador General contará con las facultades siguientes:
+Cuando se requiera realizar acciones de investigación para estar en aptitud de emitir resoluciones, la persona titular de la Visitaduría General contará con las facultades siguientes:
 
 I. Realizar personalmente o a través del personal bajo su adscripción, visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
 
@@ -697,15 +859,21 @@ VI. Entrevistar a los testigos presenciales sobre los hechos motivo de la invest
 
 VII. Todas las demás necesarias para la debida investigación.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-Los Visitadores Generales podrán tener asignados asuntos especiales que les encomiende el Presidente.
+Las Visitadurías Generales podrán tener asignados asuntos especiales que les encomiende la persona titular de la Presidencia.
 
-### CAPITULO V. DE LOS SERVIDORES PÚBLICOS INTEGRANTES DE LA COMISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2024)</small>
+
+### CAPITULO V. DE LAS Y LOS SERVIDORES PÚBLICOS INTEGRANTES DE LA COMISIÓN
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 50.
 
-Los integrantes de la Comisión, a excepción de aquellos cuyo nombramiento es honorifico, recibirán una remuneración digna y adecuada, acorde a la naturaleza de su encargo. Podrá ser aumentada justificadamente, pero no procederá su disminución, durante el periodo para el que fueron designados.
+Las personas integrantes de la Comisión, a excepción de aquellos cuyo nombramiento es honorifico, recibirán una remuneración digna y adecuada, acorde a la naturaleza de su encargo. Podrá ser aumentada justificadamente, pero no procederá su disminución, durante el periodo para el que fueron designados.
 
 ###### ARTÍCULO 51.
 
@@ -713,23 +881,27 @@ En relación con el ejercicio de su encargo, no podrán formar parte de ningún 
 
 Quedan exceptuadas las actividades docentes y los cargos honoríficos en asociaciones científicas, culturales o de beneficencia, siempre y cuando no sean remuneradas y no comprometan su imparcialidad o desempeño profesional.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 52.
 
-Los integrantes de la Comisión, no podrán ser perseguidos o reconvenidos por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus informes, observaciones, recomendaciones, votos o resoluciones.
+Las personas integrantes de la Comisión, no podrán ser perseguidos o reconvenidos por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus informes, observaciones, recomendaciones, votos o resoluciones.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 53.
 
-El Presidente y los Consejeros de la Comisión gozarán de inmunidad constitucional, que podrá ser suspendida y confirmada mediante declaración de procedencia del H. Congreso del Estado.
+Las personas titulares de la Presidencia y de las Consejerías de la Comisión gozarán de inmunidad constitucional, que podrá ser suspendida y confirmada mediante declaración de procedencia del H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-Tratándose de ausencias temporales del Presidente, serán suplidas por el Visitador General que designe el Consejo Consultivo, quien permanecerá en calidad de encargado de despacho.
+Tratándose de ausencias temporales de la persona titular de la Presidencia, serán suplidas por la persona que ocupe la Visitaduría General que designe el Consejo Consultivo, quien permanecerá en calidad de encargado de despacho.
 
-Se entenderá por ausencia temporal aquella que no exceda de treinta días naturales consecutivos.
+Se entenderá por ausencia temporal aquella que no exceda de treinta días naturales consecutivos. Las ausencias temporales de las demás personas integrantes de la Comisión, se sujetarán a lo previsto en el reglamento interior.
 
-Las ausencias temporales de los demás integrantes de la Comisión, se sujetarán a lo previsto en el reglamento interior.
-
-En el caso de ausencias definitivas del Presidente y los Consejeros, el titular representante o encargado del órgano, deberá comunicarlo inmediatamente al H. Congreso del Estado para que se inicie el nuevo procedimiento de designación, dentro de los noventa días siguientes, por procedimiento separado. Esta designación será por un periodo completo.
+En el caso de ausencias definitivas de la persona titular de la Presidencia y las personas que ocupen las Consejerías, la o el titular representante o encargado del órgano, deberá comunicarlo inmediatamente al H. Congreso del Estado para que se inicie el nuevo procedimiento de designación, dentro de los noventa días siguientes, por procedimiento separado. Esta designación será por un periodo completo.
 
 ###### ARTÍCULO 55.
 
@@ -747,13 +919,17 @@ Se establecerá un sistema del Servicio Profesional de Carrera a efecto de garan
 
 Para tal efecto, se expedirán los lineamientos que sean aplicables a los supuestos antes referidos, a través (sic) su reglamento específico que elaborará la Presidencia de la Comisión, y que deberá ser aprobado por el Consejo Consultivo, mismos que deberán hacerse del conocimiento público mediante su publicación en el Periódico Oficial del Estado y demás mecanismos de difusión de la institución.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 59.
 
-Con excepción de los titulares de las unidades administrativas, el Personal adscrito a la Comisión, gozará de los beneficios del Servicio Civil de Carrera en los términos de esta ley y su reglamentación interna.
+Con excepción de las personas titulares de las unidades administrativas, el Personal adscrito a la Comisión, gozará de los beneficios del Servicio Civil de Carrera en los términos de esta ley y su reglamentación interna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-Los servidores públicos terminarán su carrera dentro de la Comisión por cualquiera de las siguientes formas:
+Las y los servidores públicos terminarán su carrera dentro de la Comisión por cualquiera de las siguientes formas:
 
 I. Renuncia;
 
@@ -771,15 +947,19 @@ Procederá el retiro forzoso e improrrogable de los integrantes de la Comisión,
 
 En caso de retiro forzoso o voluntario, enfermedad o vejez, tendrán derecho a un haber de retiro por los servicios prestados al estado, en los términos de la Constitución Política Local y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 62.
 
-Los servidores públicos de la Comisión podrán excusarse y ser recusados en los asuntos que intervengan, cuando incurran en ellos una o más de las causas que motivan las excusas de los magistrados y jueces. La excusa y la recusación deberán ser calificadas en definitiva por el Presidente y su trámite se definirá en el reglamento interno.
+Las y los servidores públicos de la Comisión podrán excusarse y ser recusados en los asuntos que intervengan, cuando incurran en ellos una o más de las causas que motivan las excusas de los magistrados y jueces. La excusa y la recusación deberán ser calificadas en definitiva por la persona titular de la Presidencia y su trámite se definirá en el reglamento interno.
 
-Para el caso del Presidente, este no podrá ser recusado y será el Consejo Consultivo quien calificará las excusas que someta a su consideración.
+Para el caso de la persona titular de la Presidencia, esta no podrá ser recusada y será el Consejo Consultivo quien calificará las excusas que someta a su consideración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 63.
 
-El Presidente y los Consejeros, solo podrán ser removidos con la misma votación requerida para su nombramiento, previa audiencia del servidor público, por las siguientes causas graves:
+La persona titular de las Presidencia y aquellas que ocupen las Consejerías, solo podrán ser removidas con la misma votación requerida para su nombramiento, previa audiencia del servidor público, por las siguientes causas graves:
 
 I. Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista;
 
@@ -801,13 +981,13 @@ Asimismo, podrán ser removidos por violaciones a la Constitución Política Fed
 
 ### CAPITULO VI. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-ARTÍCULO 63 BIS. El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Guerrero; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía de Combate a la Corrupción del Estado de Guerrero.
+ARTÍCULO 63 BIS.- El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Guerrero; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía de Combate a la Corrupción del Estado de Guerrero.
 
-El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+El Órgano Interno de Control tendrá una persona titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
-En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+En el desempeño de su cargo, la persona titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
 
@@ -851,15 +1031,17 @@ XVIII. Presentar a la Comisión los informes respecto de los expedientes relativ
 
 XIX. Las demás que le confieran otros ordenamientos.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-ARTÍCULO 63 QUÁTER. El Titular del Órgano Interno de Control será designado por las dos terceras partes de los miembros presentes del Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
+ARTÍCULO 63 QUÁTER.- La persona Titular del Órgano Interno de Control será designada por las dos terceras partes de los miembros presentes del Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
-ARTÍCULO 63 QUINQUIES. El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+ARTÍCULO 63 QUINQUIES.- La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+I. La ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
 
 II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
@@ -881,25 +1063,27 @@ ARTÍCULO 63 SEXIES. La Comisión deberá poner en conocimiento de las autoridad
 
 La Comisión solicitará al Órgano Interno de Control correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que de conformidad con lo previsto en la Ley Número 465 de Responsabilidades Administrativas del Estado de Guerrero deba instruirse en contra del servidor público respectivo.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
-ARTÍCULO 63 SEPTIES.- El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
+ARTÍCULO 63 SEPTIES.- La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
 
 Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado a que se refieren los artículos 150, 151, 152, 153 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
-El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión, del cual marcará copia al Congreso del Estado.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+La persona titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión, del cual marcará copia al Congreso del Estado.
 
-ARTÍCULO 63 OCTIES.- El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+ARTÍCULO 63 OCTIES.- La persona titular del Órgano Interno de Control de la Comisión será sujeta de responsabilidad en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por la o el titular del Órgano Interno de Control, o la persona servidora pública en quien delegue la facultad, en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
 
-ARTÍCULO 63 NONIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con la Ley Número 464 del Sistema Estatal Anticorrupción y la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
-El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+ARTÍCULO 63 NONIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todas las personas servidoras públicas de la Comisión, de conformidad con la Ley Número 464 del Sistema Estatal Anticorrupción y la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+La persona titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO EN SU NUMERACIÓN CON ARTÍCULOS 64 A 103, ANTES CAPÍTULO VI], P.O. 26 DE JULIO DE 2019)</small>
 
@@ -969,9 +1153,11 @@ Presentada la queja o denuncia en los términos requeridos por esta ley y su reg
 
 Cuando la queja sea notoriamente improcedente, debe ser desechada mediante acuerdo fundado y motivado.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 73.
 
-Desde el momento que se admita la queja o denuncia, el Visitador General o personal técnico auxiliar podrán ponerse en contacto inmediato con los quejosos o denunciantes y con el servidor público o autoridad señalada como responsable de la presunta violación de los derechos humanos, dándoles a conocer la mediación y conciliación como medios alternativos de solución de controversias para intentar lograr una solución pronta al conflicto planteado entre la autoridad y el particular.
+Desde el momento que se admita la queja o denuncia, la persona titular de la Visitaduría General o personal técnico auxiliar podrán ponerse en contacto inmediato con las personas quejosas o denunciantes y con las personas servidoras públicas o autoridad señalada como responsable de la presunta violación de los derechos humanos, dándoles a conocer la mediación y conciliación como medios alternativos de solución de controversias para intentar lograr una solución pronta al conflicto planteado entre la autoridad y el particular.
 
 #### SECCIÓN TERCERA. DE LA MEDIACIÓN Y LA CONCILIACIÓN
 
@@ -1033,33 +1219,43 @@ Durante los procedimientos, la Comisión podrá solicitar los informes que consi
 
 Recibidos o no los informes dentro del término señalado, se abrirá término probatorio, cuya duración determinará la Comisión teniendo en cuenta la gravedad del caso y la dificultad para allegarse de las distintas probanzas.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 86.
 
-Los interesados podrán ofrecer toda clase de pruebas y la Comisión podrá recabarlas de oficio, siempre que no fueren contrarias ni a la moral, ni al derecho.
+Las personas interesadas podrán ofrecer toda clase de pruebas y la Comisión podrá recabarlas de oficio, siempre que no fueren contrarias ni a la moral, ni al derecho.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 87.
 
-El Visitador cuenta con la más amplia facultad para admitir o desechar las pruebas que le sean ofrecidas, atendiendo a la naturaleza del asunto.
+La persona titular de la Visitaduría General cuenta con la más amplia facultad para admitir o desechar las pruebas que le sean ofrecidas, atendiendo a la naturaleza del asunto.
 
 ###### ARTÍCULO 88.
 
 Durante el periodo probatorio, las partes podrán formular las consideraciones y razonamientos que conforme a derecho y a sus intereses correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 89.
 
-Las pruebas serán valoradas por el Visitador General, de acuerdo con los principios de la lógica, la sana critica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja o denuncia.
+Las pruebas serán valoradas por la Visitaduría General, de acuerdo con los principios de la lógica, la sana critica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja o denuncia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 90.
 
-Concluido el término probatorio y de investigación, el Visitador formulará el proyecto de resolución, en el que se analicen los hechos reclamados, los informes de las autoridades, los resultados de las investigaciones practicadas en su caso, y la valorización de pruebas que hubieren sido ofrecidas a efecto de determinar, si en su opinión, se cometió o no una violación a los derechos humanos.
+Concluido el término probatorio y de investigación, la Visitaduría formulará el proyecto de resolución, en el que se analicen los hechos reclamados, los informes de las autoridades, los resultados de las investigaciones practicadas en su caso, y la valorización de pruebas que hubieren sido ofrecidas a efecto de determinar, si en su opinión, se cometió o no una violación a los derechos humanos.
 
 De no comprobarse la violación de derechos humanos se dictará el acuerdo respectivo.
 
 Se señalarán las medidas que procedan para la efectiva restitución, compensación, satisfacción, y reparación de los daños que se hubieren producido en base a los estándares y elementos establecidos en la Ley General de Victimas y otras normas aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 91.
 
-El proyecto de resolución deberá someterse a consideración del Presidente y será dado a conocer a la autoridad responsable que en opinión de la Comisión, hubiere cometido violaciones a los derechos humanos, sin perjuicio de presentar la denuncia penal correspondiente en los casos en que exista un delito.
+El proyecto de resolución deberá someterse a consideración de la persona titular de la Presidencia y será dado a conocer a la autoridad responsable que en opinión de la Comisión, hubiere cometido violaciones a los derechos humanos, sin perjuicio de presentar la denuncia penal correspondiente en los casos en que exista un delito.
 
 #### SECCIÓN SEXTA. DE LA ACEPTACIÓN Y CUMPLIMIENTO DE LAS RECOMENDACIONES
 
@@ -1089,13 +1285,17 @@ Las medidas precautorias o cautelares tienen por objeto conservar o restituir a 
 
 Las medidas precautorias o cautelares proceden cuando las presuntas violaciones se consideren graves, resulte difícil o imposible la reparación del daño causado o la restitución al agraviado en el goce de sus derechos humanos.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 97.
 
-El Presidente o los Visitadores, de oficio o a petición de parte, harán un análisis y valoración del asunto y podrán solicitar por cualquier medio a las autoridades o servidores públicos, adopten las medidas precautorias o cautelares que estime necesarias, así como solicitar su modificación, cuando sean insuficientes o cambien las situaciones que las justificaron.
+Las personas titulares de la Presidencia o las Visitadurías, de oficio o a petición de parte, harán un análisis y valoración del asunto y podrán solicitar por cualquier medio a las autoridades o servidores públicos, adopten las medidas precautorias o cautelares que estime necesarias, así como solicitar su modificación, cuando sean insuficientes o cambien las situaciones que las justificaron.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 98.
 
-Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar deberán comunicar a la Comisión, dentro del plazo fijado por el Visitador, que no podrá ser mayor de tres días, si dicha medida ha sido aceptada, informando las acciones realizadas para tal fin y agregando la documentación que lo sustente.
+Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar deberán comunicar a la Comisión, dentro del plazo fijado por la persona titular de la Visitaduría, que no podrá ser mayor de tres días, si dicha medida ha sido aceptada, informando las acciones realizadas para tal fin y agregando la documentación que lo sustente.
 
 ###### ARTÍCULO 99.
 
@@ -1137,13 +1337,17 @@ Podrán presentar denuncia o queja sobre la desaparición forzada de una persona
 
 #### SECCIÓN SEGUNDA. DE LA VISITADURÍA GENERAL ESPECIALIZADA EN LA INVESTIGACIÓN DE DESAPARICIÓN FORZADA DE PERSONAS
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 106.
 
-Para conocer de los hechos, en los términos de las disposiciones anteriores, la Comisión actuará a través de un Visitador General especializado de la misma.
+Para conocer de los hechos, en los términos de las disposiciones anteriores, la Comisión actuará a través de la Visitaduría General especializada de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 107.
 
-El Visitador General tendrá las siguientes atribuciones:
+La Visitaduría General tendrá las siguientes atribuciones:
 
 I. Recibir denuncias sobre desaparición forzada de personas;
 
@@ -1151,11 +1355,17 @@ II. Dictar los acuerdos que al efecto procedan;
 
 III. Emitir las medidas cautelares para preservar al máximo posible, la vida, integridad física y psicológica de quienes se vean amenazados;
 
-IV. Practicar las investigaciones y formular las recomendaciones que correspondan, a las que por conducto del Presidente de la Comisión se dará el trámite correspondiente; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
 
-V. Las demás que sean afines a las anteriores, que señale el Presidente de la Comisión y las que el propio Consejo Consultivo acuerde.
+IV. Practicar las investigaciones y formular las recomendaciones que correspondan, a las que por conducto de la Presidencia de la Comisión se dará el trámite correspondiente; y
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+V. Las demás que sean afines a las anteriores, que señale la Presidencia de la Comisión y las que el propio Consejo Consultivo acuerde.
 
 #### SECCIÓN TERCERA. DEL PROCEDIMIENTO PARA LA INVESTIGACIÓN DE DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 108.
 
@@ -1167,7 +1377,9 @@ II. En los casos en que proceda podrá promover o iniciar ante el Ministerio Pub
 
 III. Solicitará que se le designe coadyuvante del Ministerio Publico en los términos de la legislación aplicable;
 
-IV. Si los agentes de la autoridad a los que se atribuyan la desaparición de alguna persona son federales, el Visitador General declarara su incompetencia;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IV. Si los agentes de la autoridad a los que se atribuyan la desaparición de alguna persona son federales, la persona titular de la Visitaduría General declarara su incompetencia;
 
 V. Requerirá informe sobre la persona denunciada como desaparecida forzadamente a las corporaciones policiales, centros de salud, oficinas de salud, oficinas del registro civil, servicio médico forense, centros de reclusión etcétera;
 
@@ -1181,19 +1393,27 @@ IX. Hará el acopio de todas las pruebas que le sean aportadas o las que de ofic
 
 X. Podrá solicitar a la Fiscalía General del Estado, y a otras instituciones la designación de peritos que coadyuven a través de sus dictámenes en el esclarecimiento de hechos; y
 
-XI. Las acciones que a su juicio resulten pertinentes, las que disponga el Presidente de la Comisión, sean impuestas por esta ley y su reglamento interno.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XI. Las acciones que a su juicio resulten pertinentes, las que disponga la persona titular de la Presidencia de la Comisión, sean impuestas por esta ley y su reglamento interno.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 109.
 
-Si como resultado del desahogo del procedimiento a que refiere el artículo anterior, la Comisión concluyera fehacientemente con datos que lleven a definir el paradero o destino de la persona desaparecida forzadamente, se informará de inmediato a los interesados y si también se presumiera la comisión de algún delito o delitos, el Visitador General promoverá o iniciará ante el Ministerio Público, la averiguación previa respectiva para la investigación y esclarecimiento de los hechos.
+Si como resultado del desahogo del procedimiento a que refiere el artículo anterior, la Comisión concluyera fehacientemente con datos que lleven a definir el paradero o destino de la persona desaparecida forzadamente, se informará de inmediato a los interesados y si también se presumiera la comisión de algún delito o delitos, la persona titular der (sic) la Visitaduría General promoverá o iniciará ante el Ministerio Público, la averiguación previa respectiva para la investigación y esclarecimiento de los hechos.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 110.
 
-Si además, hubiere elementos para identificar a los presuntos responsables de los hechos, el Visitador General realizará ante el Ministerio Público, las promociones legales para que se lleve a cabo su persecución y sanción, en los términos de la ley vigente, según se trate de homicidio, tortura, lesiones, privación ilegal de la libertad o cualquier otra conducta ilícita.
+Si además, hubiere elementos para identificar a los presuntos responsables de los hechos, la persona titular de la Visitaduría General realizará ante el Ministerio Público, las promociones legales para que se lleve a cabo su persecución y sanción, en los términos de la ley vigente, según se trate de homicidio, tortura, lesiones, privación ilegal de la libertad o cualquier otra conducta ilícita.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 111.
 
-Las acciones, trámites, acuerdos y resoluciones que la Comisión y el Visitador General tomen y realicen en esta materia, no tendrán efectos jurídicos sobre las determinaciones que realice el Ministerio Público en la averiguación previa, o las resoluciones que el órgano jurisdiccional competente en su caso emita; ni sobre declaraciones de ausencia o presunción de muerte, pues no tendrán más valor que las de meras probanzas, mismas que las leyes penales o civiles les otorguen y quedarán a la valoración de la autoridad administrativa o jurisdiccional que conozca del asunto.
+Las acciones, trámites, acuerdos y resoluciones que la Comisión y la persona titular (sic) Visitaduría General tomen y realicen en esta materia, no tendrán efectos jurídicos sobre las determinaciones que realice el Ministerio Público en la averiguación previa, o las resoluciones que el órgano jurisdiccional competente en su caso emita; ni sobre declaraciones de ausencia o presunción de muerte, pues no tendrán más valor que las de meras probanzas, mismas que las leyes penales o civiles les otorguen y quedarán a la valoración de la autoridad administrativa o jurisdiccional que conozca del asunto.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO EN SU NUMERACIÓN CON ARTÍCULOS 112 AL 118, ANTES CAPÍTULO VIII], P.O. 26 DE JULIO DE 2019)</small>
 
@@ -1211,19 +1431,25 @@ Todos los miembros de las corporaciones policiales del estado, deberán cumplir 
 
 Bajo ninguna circunstancia se dará de alta en las corporaciones policiales del estado, a quien cuente con antecedentes penales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 115.
 
-El Visitador General, tendrá las siguientes atribuciones en esta materia:
+La persona titular de la Visitaduría General, tendrá las siguientes atribuciones en esta materia:
 
 I. Formular recomendaciones a las autoridades competentes, en materia de funcionamiento de las corporaciones policiales, así como de ingreso y permanencia de sus elementos, señalando el cumplimiento de los requisitos mínimos para ello;
 
 II. Solicitar la información que requiera y hacer las visitas que se estimen necesarias, para supervisar el cumplimiento de las normas y requisitos que rijan a las corporaciones policiales desde el punto de vista de los derechos humanos;
 
-III. Formular los proyectos de recomendación, que en su caso el Presidente de la Comisión, haga llegar a la autoridad competente, relativos a la depuración y mejoramiento de las corporaciones policiales;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+III. Formular los proyectos de recomendación, que en su caso la persona titular de la Presidencia de la Comisión, haga llegar a la autoridad competente, relativos a la depuración y mejoramiento de las corporaciones policiales;
 
 IV. Recibir, conocer y disponer el desahogo de las quejas o denuncias, que la población presente en contra de miembros de las corporaciones policiales del estado;
 
-V. Denunciar ante el Secretario General de Gobierno, el Fiscal General del Estado y los Ayuntamientos, los casos en que se incorporen a las corporaciones policiales respectivas individuos con antecedentes penales, para su cese y el fincamiento de las responsabilidades que correspondan; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+V. Denunciar ante la Secretaría General de Gobierno, la Fiscalía General del Estado y los Ayuntamientos, los casos en que se incorporen a las corporaciones policiales respectivas individuos con antecedentes penales, para su cese y el fincamiento de las responsabilidades que correspondan;
 
 VI. Las demás que sean afines a las anteriores, con base y apego a las disposiciones legales aplicables.
 
@@ -1245,31 +1471,41 @@ A ninguna persona podrá incorporarse al servicio policial del estado, sin la pr
 
 #### SECCIÓN ÚNICA. DEL OBJETO Y PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 119.
 
-El recurso de exhibición de persona, tendrá el carácter de extraordinario y consiste en que cualquier persona, incluso un menor de edad, solicite ante la Comisión, a efecto de que un Visitador en su compañía, se constituya ante la autoridad o servidor público estatal o municipal que sea señalada como responsable de tener privada de su libertad a una persona, a fin de que la presente a la vista y se pueda constatar su estado físico e integridad personal, debiendo la autoridad o servidor público, justificar la detención de quien se trate, garantizando la preservación de la vida y la salud física y emocional de la misma.
+El recurso de exhibición de persona, tendrá el carácter de extraordinario y consiste en que cualquier persona, incluso un menor de edad, solicite ante la Comisión, a efecto de que la persona titular de una Visitaduría en su compañía, se constituya ante la autoridad o servidor público estatal o municipal que sea señalada como responsable de tener privada de su libertad a una persona, a fin de que la presente a la vista y se pueda constatar su estado físico e integridad personal, debiendo la autoridad o servidor público, justificar la detención de quien se trate, garantizando la preservación de la vida y la salud física y emocional de la misma.
 
 ###### ARTÍCULO 120.
 
 Este recurso se hará valer en cualquier momento, incluso de manera oral, cuando esté en riesgo la vida y la salud tanto física como emocional de una persona.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 ###### ARTÍCULO 121.
 
-El Visitador que conozca del Recurso de Exhibición de Persona, resolverá de inmediato su procedencia y ésta será inatacable.
+La persona titular de la Visitaduría que conozca del Recurso de Exhibición de Persona, resolverá de inmediato su procedencia y ésta será inatacable.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 122.
 
-Recibida la solicitud, el Visitador se trasladará personalmente al sitio en donde se denuncie está detenida una persona, a fin de dar cumplimiento a su resolución y al efecto se hará acompañar del solicitante o de quien conozca al detenido, para que establezca la identidad del presentado, así como el estado físico y emocional en que se encuentre, o se concluya que no se localizó en dicho lugar.
+Recibida la solicitud, la persona titular de la Visitaduría se trasladará personalmente al sitio en donde se denuncie está detenida una persona, a fin de dar cumplimiento a su resolución y al efecto se hará acompañar del solicitante o de quien conozca al detenido, para que establezca la identidad del presentado, así como el estado físico y emocional en que se encuentre, o se concluya que no se localizó en dicho lugar.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 123.
 
 Para los efectos de la diligencia anterior, acudirá asistido de los peritos, personal técnico o profesional que considere necesarios a fin de certificar el estado físico y emocional en que se encuentra una persona.
 
-El Visitador podrá solicitar ante la autoridad o servidor público, se le permita el acceso a las instalaciones, incluyendo celdas, separos, vehículos o demás lugares que a su juicio deban ser inspeccionados con el objeto de cerciorarse de la presencia o no de la persona buscada.
+La persona titular de la Visitaduría podrá solicitar ante la autoridad o servidor público, se le permita el acceso a las instalaciones, incluyendo celdas, separos, vehículos o demás lugares que a su juicio deban ser inspeccionados con el objeto de cerciorarse de la presencia o no de la persona buscada.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 124.
 
-Si la autoridad señalada como responsable exhibiera a la persona, el Visitador de la Comisión solicitará que se ponga a disposición de la autoridad competente en los términos legales, además de pedir su no incomunicación y que se decreten las medidas cautelares necesarias tendientes a garantizar su vida, integridad física y psicológica.
+Si la autoridad señalada como responsable exhibiera a la persona, la persona titular de la Visitaduría de la Comisión solicitará que se ponga a disposición de la autoridad competente en los términos legales, además de pedir su no incomunicación y que se decreten las medidas cautelares necesarias tendientes a garantizar su vida, integridad física y psicológica.
 
 ###### ARTÍCULO 125.
 
@@ -1398,3 +1634,13 @@ TERCERO. La Comisión de los Derechos Humanos del Estado de Guerrero tendrá un 
 CUARTO. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a la Contraloría Interna de la Comisión, se entenderán asignados al Órgano Interno de Control a que se refiere el presente Decreto.
 
 QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 479 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO EN MATERIA DE PARIDAD, LENGUAJE INCLUYENTE Y NO SEXISTA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al tercer día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. A partir de la publicación del presente Decreto, la Comisión de los Derechos Humanos del Estado de Guerrero, incluirá en su Informe Anual de Actividades, las acciones afirmativas que en el ejercicio de sus facultades y atribuciones haya instrumentado para cumplir con el principio de paridad, debiendo informar de ello a su Consejo Consultivo y al Honorable Congreso del Estado de Guerrero.
