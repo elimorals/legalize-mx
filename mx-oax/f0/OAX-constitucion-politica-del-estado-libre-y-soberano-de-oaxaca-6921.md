@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2023-12-30"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -4063,47 +4063,35 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 ## TITULO SEPTIMO (SIC). De las Responsabilidades de los Servidores Públicos del Estado y Patrimonial del Estado y los Municipios
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 120.
 
-El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+El Sistema Estatal de Combate a la Corrupción es la instancia local con equivalencia funcional al Sistema Nacional Anticorrupción, encargada de la coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)</small>
+I. El Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, contará con un comité coordinador integrado por las personas titulares del órgano encargado de la fiscalización a que se refiere el artículo 65 Bis de esta Constitución; de la Fiscalía Especializada en Materia de Combate a la Corrupción del Estado de Oaxaca; de la Secretaría de Honestidad, Transparencia y Función Pública quien presida del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; un representante del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca; del órgano Garante a que se refiere el artículo 114 apartado C de esta Constitución y otro del Comité de Participación Ciudadana.
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior de Fiscalización del Estado de Oaxaca; de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de la Contraloría y Transparencia Gubernamental; del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, así como un representante del Consejo de la Judicatura y otro del Consejo de Participación Ciudadana;
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse de forma paritaria por cinco ciudadanas o ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley y,
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2021)</small>
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley:
 
-II. El Consejo de Participación Ciudadana del Sistema deberá integrarse de forma paritaria por cinco ciudadanas o ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+a) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
 
-III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+b) La determinación de mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
 
-a) El establecimiento de mecanismos de coordinación con los sistemas federal y municipal;
+c) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
 
-b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+d) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
 
-c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
-
-d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2021)</small>
-
-e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Asimismo, en los casos en que así procedan, tanto el Comité Coordinador como el Consejo de Participación Ciudadana, emitirán recomendaciones dirigidas a los entes del orden estatal o municipal, las cuales deberán orientarse al fortalecimiento institucional para la prevención y erradicación de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Consejo de Participación Ciudadana y al Comité Coordinador, según corresponda, sobre el cumplimiento de las mismas. La ley establecerá las sanciones sobre el incumplimiento de esta disposición.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 Los órganos internos de control de los poderes, organismos autónomos y municipios, así como la Auditoría Superior de Fiscalización del Estado de Oaxaca, desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio en materia de combate a la corrupción, en los términos que fije la ley, a los órganos internos de control de los poderes, organismos autónomos, la Auditoría Superior de Fiscalización del Estado de Oaxaca, Fiscalía Especializada en Materia de Combate a la Corrupción y Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
 
-Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos internos de control de los poderes, organismos autónomos, así como la Auditoría Superior de Fiscalización del Estado de Oaxaca, de la Fiscalía Especializada en Materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, en materia de combate a la corrupción en los términos que fije la ley.
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de las y los particulares, será objetiva y directa. Las y los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
-
-A la contraloría comunitaria indígena o afromexicana, consejo de vigilancia o mecanismo legitimado en cada municipio regido bajo sistemas normativos internos, se les reconocerá su rendición de cuentas social hacia la comunidad, sus instrumentos de combate a la corrupción, medios de transparencia, sanciones y acciones de fiscalización, serán entes de consulta y verificación para los Órganos Internos de Control y el Comité de Participación Ciudadana en el Combate a la Corrupción.
+A las contralorías comunitarias indígenas o afromexicanas, consejo de vigilancia o mecanismo legitimado en cada municipio regido bajo sistemas normativos internos, se les reconocerá su rendición de cuentas social hacia la comunidad, sus instrumentos de combate a la corrupción, medios de transparencia, sanciones y acciones de fiscalización, serán entes de consulta y verificación para los Órganos Internos de Control y el Comité de Participación Ciudadana en el Combate a la Corrupción.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 145], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -6748,3 +6736,37 @@ SEGUNDO. El presente Decreto entrará en vigor el 01 de enero de 2025.
 TERCERO. La presente reforma no será aplicable a la persona titular del Poder Ejecutivo que este en funciones a la entrada en vigor de la misma.
 
 CUARTO. Con la finalidad de cumplir con la presente reforma constitucional y para lograr la concurrencia de la elección de Gobernador o Gobernadora con los comicios federales; por única ocasión la persona titular del Poder Ejecutivo que se elija el primer domingo de junio del año dos mil veintiocho, iniciará su periodo el uno de diciembre de dos mil veintiocho, y concluirá el treinta de noviembre de dos mil treinta.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2278.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se abroga el Decreto 2495 de fecha 14 de abril de 2021, publicado en el Periódico Oficial del Estado de Oaxaca el 1 de junio de 2021, y en consecuencia se Extingue el Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción y la Comisión de Selección del Sistema de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción.
+
+CUARTO.- Se abroga el Acuerdo 1232 de fecha 14 de abril de 2021, publicado en el Periódico Oficial del Estado de Oaxaca el 8 de mayo de 2021.
+
+QUINTO.- Se abroga el Decreto 2828 de fecha 29 de septiembre de 2021.
+
+SEXTO.- Se extingue el Comité de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción, creado mediante Decreto 1236 de fecha 30 de junio de 2015 y publicado en el Periódico Oficial del Estado de Oaxaca el 30 de junio de 2015.
+
+SÉPTIMO.- Se abroga el Decreto 602 por el que se creó la Ley Estatal de Combate a la Corrupción de fecha 3 de mayo de 2017, publicado en el Periódico Oficial del Estado de Oaxaca el 20 de mayo de 2017.
+
+OCTAVO.- Hasta en tanto se expida la nueva Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, los asuntos que deben pasar para su atención a otra dependencia u organismo federal, permanecerán en el último trámite que hubieren alcanzado a la entrada en vigor del presente Decreto hasta que se incorporen a las nuevas instancias, a excepción de los trámites urgentes o sujetos a plazos improrrogables, mismos que deberán despacharse, en términos del presente Decreto y de las disposiciones aplicables.
+
+Se faculta (sic) la Secretaría de Administración, Secretaría de Finanzas y Secretaría de Honestidad, Transparencia y Función Pública para que en el ámbito de sus facultades y atribuciones cumplan con el objeto del presente Decreto, sin que para ello sean considerados patrón sustituto o responsable solidario para el cumplimiento de las obligaciones contractuales o laborales.
+
+NOVENO.- El Honorable Congreso del Estado Libre y Soberano de Oaxaca, con fundamento en el último párrafo del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, por única ocasión nombrará a un total de nueve ciudadanas y ciudadanos que integrarán una Comisión de Selección por un período de tres años, de la siguiente manera:
+
+a) Mediante acuerdo parlamentario se deberá aprobar la expedición de una convocatoria en la que las instituciones de educación superior y de investigación, podrán proponer candidatos y candidatas a fin de integrar una Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco integrantes basándose para ello en elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+
+b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, y que demuestran tener experiencia comprobada en dichas materias, para seleccionar a cuatro integrantes, en los mismos términos del inciso anterior.
+
+El cargo de integrante de la Comisión de Selección será honorario. Quienes funjan como integrantes no podrán ser designados como parte del Comité de Participación Ciudadana por un período de seis años contados a partir de la disolución de la Comisión de Selección.
+
+DÉCIMO.- El Honorable Congreso del Estado Libre y Soberano de Oaxaca, dentro del plazo de treinta días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, deberá expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
+
+DÉCIMO PRIMERO.- Se abrogan y en su caso derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
