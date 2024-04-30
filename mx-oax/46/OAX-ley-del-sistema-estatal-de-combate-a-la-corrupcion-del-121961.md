@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-combate-a-la-corrupcion-del-121961"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2023-07-29"
+last_updated: "2024-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCION DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DEL DECRETO NÚMERO 2278, PUBLICADO EN EL P.O. DE 30 DE ABRIL DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024 (ABROGADA).
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de mayo de 2017.
 
@@ -798,3 +800,37 @@ P.O. 29 DE JULIO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor, a partir del día siguiente a su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2278.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se abroga el Decreto 2495 de fecha 14 de abril de 2021 publicado en el Periódico Oficial del Estado de Oaxaca el 1 de junio de 2021, y en consecuencia se Extingue el Consejo de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción y la Comisión de Selección del Sistema de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción.
+
+CUARTO. Se abroga el Acuerdo 1232 de fecha 14 de abril de 2021 publicado en el Periódico Oficial del Estado de Oaxaca el 8 de mayo de 2021.
+
+QUINTO. Se abroga el Decreto 2828 de fecha 29 de septiembre de 2021.
+
+SEXTO. Se extingue el Comité de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción creado mediante Decreto 1236 de fecha 30 de junio de 2015 y publicado en el Periódico Oficial del Estado de Oaxaca el 30 de junio de 2015.
+
+SÉPTIMO. Se abroga el Decreto 602 por el que se creó la Ley (sic) Estatal de Combate a la Corrupción de fecha 3 de mayo de 2017, publicado en el Periódico Oficial del Estado de Oaxaca el 20 de mayo de 2017.
+
+OCTAVO. Hasta en tanto se expida la nueva Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, los asuntos que deben pasar para su atención a otra dependencia u organismo federal, permanecerán en el último trámite que hubieren alcanzado a la entrada en vigor del presente Decreto hasta que se incorporen a las nuevas instancias, a excepción de los trámites urgentes o sujetos a plazos improrrogables, mismos que deberán despacharse, en términos del presente Decreto y de las disposiciones aplicables.
+
+Se faculta la Secretaría de Administración, Secretaría de Finanzas y Secretaría de Honestidad, Transparencia y Función Pública para que en el ámbito de sus facultades y atribuciones cumplan con el objeto del presente Decreto, sin que para ello sean considerados patrón sustituto, o responsable solidario para el cumplimiento de las obligaciones contractuales o laborales.
+
+NOVENO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca, con fundamento en el último párrafo del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, por única ocasión nombrará a un total de nueve ciudadanas y ciudadanos que integrarán una Comisión de Selección por un periodo de tres años, de la siguiente manera:
+
+a) Mediante acuerdo parlamentario se deberá aprobar la expedición de una convocatoria en la que las instituciones de educación superior y de investigación, podrán proponer candidatos y candidatas a fin de integrar una Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco integrantes basándose para ello en elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+
+b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, y que demuestran tener experiencia comprobada en dichas materias, para seleccionar a cuatro integrantes, en los mismos términos del inciso anterior.
+
+El cargo de integrante de la Comisión de Selección será honorario. Quienes funjan como integrantes no podrán ser designados como parte del Comité de Participación Ciudadana por un período de seis años contados a partir de la disolución de la Comisión de Selección.
+
+DÉCIMO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca, dentro del plazo de treinta días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, deberá expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
+
+DÉCIMO PRIMERO. Se abrogan y en su caso derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
