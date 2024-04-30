@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-y-aeropistas-de-oaxaca-6912"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-27"
-last_updated: "2023-01-05"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de mayo de 1989.
 
@@ -47,11 +47,11 @@ LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
 La presente Ley tiene por objeto constituir el organismo público descentralizado, denominado CAMINOS BIENESTAR, con personalidad Jurídica y patrimonio propio, con domicilio en la Ciudad de Oaxaca de Juárez; así como el de establecer las normas Orgánicas que rigen las atribuciones y deberes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)</small>
 
 ###### ARTICULO 2°.
 
-“Caminos Bienestar”, tendrá por objeto: Llevar a cabo acciones relativas a la planeación, programación, presupuestación, ejecución y mantenimiento de la Infraestructura de la Red de Caminos, Aeropistas y en su caso, servicios auxiliares y conexos a los mismos, que deriven de programas propios o convenidos con la Federación, Municipios o particulares, para el cual tendrá las siguientes atribuciones:
+Caminos Bienestar", tendrá por objeto: Llevar a cabo acciones relativas a la planeación, programación, presupuestación, ejecución y mantenimiento de la Infraestructura de la Red de Caminos, Aeropistas y en su caso, servicios auxiliares y conexos a los mismos, que deriven de programas propios o convenidos con la Federación, Municipios o particulares, así como, aquellas obras específicas que determine el Titular del Poder Ejecutivo del Estado de Oaxaca, para el cual tendrá las siguientes atribuciones:
 
 I.- Realizar estudios y proyectos para la construcción, reconstrucción, modernización, ampliación, modificación y conservación de las obras, así como llevar acabo la ejecución, supervisión y mantenimiento de las mismas, observando para tal efecto las disposiciones legales y técnicas respectivas;
 
@@ -69,7 +69,9 @@ VII.- Convenir con las Dependencias y Entidades de la Federación y Municipios, 
 
 VIII.- Prestar asesoría técnica a los Ayuntamientos u Organismos del Sector Privado, de conformidad con lo dispuesto por la presente Ley y demás Ordenamientos Jurídicos aplicables, en lo referente a construcción, reconstrucción, ampliación, mantenimiento y modernización de caminos, aeropistas, así como de los servicios conexos y auxiliares;
 
-IX.- Ejecutar las demás obras que determine su consejo de administración, relativas a la infraestructura para el transporte, derivadas de programas convenidos con la Federación, así como de programas Estatales directos; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+IX. Ejecutar las demás obras que determine su consejo de administración, relativas a la infraestructura para el transporte, derivadas de programas convenidos con la Federación, programas Estatales directos y aquellas obras específicas que se consideren prioritarias y que no se encuentren contempladas en los programas del Organismo; y
 
 X.- En general, las demás que le confieren las Leyes relativas o relacionadas con su objeto.
 
@@ -496,3 +498,13 @@ OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio 
 NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
 
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2279.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN IX DEL ARTÍCULO 2 DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto prevalecerán sobre aquellas de igual o menor jerarquía que se le opongan, aun cuando no estén expresamente derogadas.
