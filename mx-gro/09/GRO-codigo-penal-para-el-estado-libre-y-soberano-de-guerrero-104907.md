@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2024-03-12"
+last_updated: "2024-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -628,6 +628,10 @@ Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, la au
 Los productos, rendimientos o beneficios obtenidos por los responsables o por otras personas, como resultado de su conducta ilícita, serán decomisados y se dispondrá de ellos conforme a lo establecido en el presente artículo.
 
 Tratándose de bienes inmuebles en el delito cometido por fraccionadores, pasarán a propiedad del organismo encargado del desarrollo urbano en el Estado para la regularización o reserva territorial con el objeto del ordenamiento urbano de los Municipios, autorizándose las anotaciones necesarias en los registros agrarios y de la propiedad que correspondan.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+Respecto del aseguramiento de animales vivos, se canalizarán a lugares adecuados para su debido cuidado, siendo que en el caso de los animales domésticos, las asociaciones u organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, podrán solicitar en cualquier momento al Ministerio Público o Juez correspondiente, su resguardo temporal y tendrán preferencia, después del ofrecimiento que se haga primeramente, a los zoológicos de los tres órdenes de gobierno, en caso de que los hubiere, para obtener la posesión definitiva de los mismos por resolución judicial que así lo determine. Las personas que resulten responsables por el delito de maltrato o crueldad hacia los animales, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
 
 Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el estado de Guerrero, en los términos y condiciones que se establezcan mediante acuerdo que emita la persona titular de la Fiscalía General del Estado o el Pleno del Tribunal Superior de Justicia del Estado.
 
@@ -1545,6 +1549,10 @@ A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta a
 
 Además de las sanciones señaladas en el presente artículo, la persona sentenciada perderá todos sus derechos con relación a la víctima, incluidos los de carácter familiar y sucesorio.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+En el caso de que tenga hijas e/o hijos con la víctima, el sujeto activo en su caso, perderá sobre ellas y/o ellos la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, que le correspondiere. Sanción que se aplicará igualmente en caso de tentativa.
+
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 Al servidor público que retarde, entorpezca u obstruya maliciosamente o por negligencia la procuración o administración de justicia en cualquier etapa del procedimiento o difunda a través de cualquier medio imágenes, audios, videos o documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal, se le impondrán pena de prisión de tres a ocho años y multa de quinientos a mil quinientos veces el valor de la Unidad de Medida y Actualización, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
@@ -1952,6 +1960,16 @@ A quien con conocimiento de que padece una enfermedad grave en período infectan
 Si la enfermedad es incurable, se le impondrán al sujeto de dos a diez años de prisión y de cien a quinientos días multa.
 
 Este delito se perseguirá por querella de la víctima.
+
+(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+###### Artículo 170 Bis.
+
+A quien elabore, falsifique, altere o posea medicamentos clonados, alterados y/o caducados con fines de venta, comercialización, circulación y/o distribución de éstos en vía pública; de manera directa o en establecimientos no autorizados, así como el decomiso de los productos u objetos del delito, se le impondrá una pena de tres a ocho años de prisión y una multa de ciento cincuenta a cuatrocientos del valor diario de la Unidad de Medida y Actualización.
+
+Estas sanciones serán independientes de las que establezca el Artículo 464 Bis de la la (sic) Ley General de Salud y las que se desprendan tanto de la Ley de Salud del Estado y la Ley de Responsabilidades Administrativas del Estado de Guerrero.
 
 ### Capítulo II. Pornografía y turismo sexual de personas menores de edad o de quienes no tienen capacidad para comprender el significado del hecho
 
@@ -2597,6 +2615,10 @@ Agravantes
 
 Si la omisión en el cumplimiento de las obligaciones alimentarias ocurre en incumplimiento de una resolución judicial provisional o definitiva, las sanciones se incrementarán en una mitad.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+Cuando el acreedor alimentario sea una persona con discapacidad o persona adulta mayor, las sanciones se aumentarán hasta en una tercera parte más.
+
 ###### Artículo 209.
 
 Perdón del ofendido
@@ -2912,6 +2934,28 @@ I. Con violencia física o moral, o cuando se ejerza violencia para darse a la f
 II. Por una o más personas armadas o portando instrumentos peligrosos.
 
 Se equipara a la violencia moral, la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquellas que arrojen proyectiles a través de aire o gas comprimido.
+
+(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+###### Artículo 229 Bis.
+
+Robo de medicamentos.
+
+Comete el delito de robo de medicamentos, quien sustraiga o se apodere de forma indebida de dichos medicamentos destinados para la atención médica del sector salud del Estado de Guerrero y cuyo objetivo sea lucrar o utilizarlo para beneficio propio. Este delito se sancionará de cuatro a seis años de prisión y multa de mil veces el valor diario de la unidad de medida y actualización. A quien utilice, trafique o comercialice con los medicamentos robados, se le impondrán de seis a doce años y multa de dos mil veces el valor diario de la unidad de medida y actualización.
+
+Estas sanciones serán independientes de las que establezca el Artículo 464 Bis de la la (sic) Ley General de Salud del Estado y las que se desprendan tanto de la Ley de Salud y la Ley de Responsabilidades Administrativas del Estado de Guerrero.
+
+(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+###### Artículo 229 Ter.
+
+Agravantes específicas.
+
+Si el delito de robo de medicamentos se realiza por un servidor público, además de las penas señaladas, se le destituirá del cargo que ostente y se inhabilitará hasta por cinco años para ocupar cualquier otro cargo público.
 
 ###### Artículo 230.
 
@@ -4933,6 +4977,14 @@ IV. A quien realice actos de zoofilia o eróticos sexuales, a un animal o le int
 
 V. A quien organice, induzca, provoqué, promueva o realice una o varias peleas de perros, públicas o privadas, con o sin apuestas o las permita en su propiedad. Al que anuncie o venda entradas para asistir a espectáculos que impliquen peleas de perros. A quien permita la realización, exhibición, de espectáculo o actividades que involucre una pelea entre dos o más perros hembras o machos;
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+Quien críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entrenamiento o de cualquier otra índole;
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+
+Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
 VI. A quien atropelle de manera intencional, cuando esto se pueda evitar ya sea en calles, avenidas o carreteras de cualquier tipo, vías primarias o secundarias, caminos rurales o comunales. O quien los induzca, traslade o arroje, a estas vías de comunicación para ser atropellados;
 
 VII. A quien, a los animales, los torture o los maltrate por maldad, brutalidad, egoísmo o negligencia o con fines de entretenimiento. O los haga ingerir bebidas alcohólicas o suministre drogas, sin fines terapéuticos. Al que los aislé en azoteas de forma permanente, en cuartos obscuros y terrenos baldíos igualmente; y/o les impida los movimientos que les son naturales, así como la realización de sus necesidades primarias como defecar, orinar, reposar o dormir o los deje en el interior de vehículos sin ventilación. O coloque accesorios que pongan en riesgo la integridad física de los animales o les cause dolor. Al que realice actos de maltrato animal a aquellos que se encuentren en condición de abandono o situación de calle;
@@ -4961,11 +5013,19 @@ XVIII. A quien se apropie de animales silvestres o para mantenerlos en cautiveri
 
 XIX. A quien compre o venda artículos fabricados con productos o subproductos de especies silvestres vedadas por la ley y/o en proceso de extinción; y
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
+
 XX. A quien sin el cuidado debido de su animal doméstico o de compañía, sin correa u otro aditamento para el control de éste en un lugar concurrido y público, como playas o eventos masivos, lesione a una persona u otro animal de compañía o doméstico causándole lesiones graves, sin que haya habido agresión previa de estos.
 
 La denuncia, sin menoscabo en lo dispuesto en los artículos 109, 110, 111, 112, 113, 114, 115 y 116 de la Ley número 491 de Bienestar Animal del Estado de Guerrero, la podrá realizar cualquier persona ante las instancias respectivas de la Fiscalía General del Estado, si considera que los hechos u omisiones de que se trate, pueden ser constitutivos de algún delito materia de este capítulo.
 
-Quedan exceptuadas de este capítulo las charreadas, jaripeos, rodeos, lidia de toros, novillos o becerros; peleas de gallos, el adiestramiento de animales; las actividades con fines cinegéticos, de pesca o de rescate, siempre y cuando estas actividades se realicen en términos de las disposiciones jurídicas aplicables.
+Quedan exceptuadas de este capítulo las charreadas, jaripeos, rodeos, novillos o becerros; el adiestramiento de animales; las actividades con fines cinegéticos, de pesca o de rescate, siempre y cuando estas actividades se realicen en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2024)</small>
+
+XXI. Al tratarse de animales considerados como pie de cría o para consumo humano, se deberá seguir lo dictaminado en la NORMA Oficial Mexicana NOM-033- SAG/ZOO-2014, Métodos para dar muerte a los animales domésticos y silvestres, cuando se identifique que se cometan actos de crueldad contra estas especies, es decir, cuando se abuse físicamente del animal, o se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5270,3 +5330,13 @@ PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su pub
 SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
+
+P.O. 30 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 491 POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 375; SE ADICIONAN UN PÁRRAFO NOVENO AL ARTÍCULO 47; UN CUARTO PÁRRAFO A LA FRACCIÓN VII, RECORRIÉNDOSE EN CONSECUENCIA, LAS SUBSECUENTES, DEL ARTÍCULO 135; EL ARTÍCULO 170 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 208 Y LOS ARTÍCULOS 229 BIS Y 229 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499 Y LA MODIFICACIÓN DE LA FRACCIÓN XVIII DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación y publicación correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
