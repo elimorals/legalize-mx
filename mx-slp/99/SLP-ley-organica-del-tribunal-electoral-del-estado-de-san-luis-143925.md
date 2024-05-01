@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-tribunal-electoral-del-estado-de-san-luis-1439
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-06-11"
-last_updated: "2022-09-28"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 11 de junio de 2020.
 
@@ -177,9 +177,11 @@ VIII. Elaborará el catálogo e inventario de sus bienes muebles e inmuebles de 
 
 IX. En las acciones relativas a la adquisición, arrendamiento, incorporación, desincorporación y enajenación de bienes que realice, se deberán cumplir los requisitos y formalidades que las entidades públicas deben satisfacer en términos de las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-En el proceso de entrega-recepción que con motivo de la conclusión del mandato del Presidente del Tribunal se realice, participará la Auditoría Superior del Estado a través del personal que esta comisione, en términos de la Ley de Entrega-Recepción de los Recursos Públicos del Estado de San Luis Potosí, y demás legislación aplicable. Asimismo, deberá de dar cumplimiento al proceso aplicable en la referida Ley, en caso contrario, se estará a lo dispuesto en la Ley de Responsabilidades.
+En el proceso de entrega-recepción que con motivo de la conclusión del mandato de la Presidencia del Tribunal se realice, participará el Instituto de Fiscalización Superior del Estado de San Luis Potosí, a través del personal que éste comisione, en términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, y demás legislación aplicable. Asimismo, deberá de dar cumplimiento al proceso aplicable en la referida Ley, en caso contrario, se estará a lo dispuesto en la Ley de Responsabilidades.
 
 ## TÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL
 
@@ -1601,7 +1603,9 @@ XVI. Determinar los daños y perjuicios que afecten al Tribunal en su patrimonio
 
 XVII. Instruir los procedimientos administrativos de responsabilidad y formular el proyecto de las sanciones a imponer en términos de las disposiciones legales aplicables, para su eventual aprobación por el Pleno del Tribunal;
 
-XVIII. Elaborar y ejecutar su programa anual de trabajo, para lo cual se establecerá una coordinación técnica con la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2024)</small>
+
+XVIII. Elaborar y ejecutar su programa anual de trabajo, para lo cual se establecerá una coordinación técnica con el Instituto de Fiscalización Superior del Estado de San Luis Potosí;
 
 XIX. Presentar al Pleno del Tribunal, los informes, previo, y anual de resultados de su gestión, y acudir ante el mismo Pleno del Tribunal, cuando así lo requiera el Presidente del mismo;
 
@@ -1627,37 +1631,17 @@ IV. Conducir con parcialidad los procedimientos de supervisión e imposición de
 
 V. Incurrir en alguna de las infracciones señaladas en la Ley de Responsabilidades Administrativas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 104.
 
-El órgano interno de control contará con la coordinación de investigación, cuyo titular tendrá las atribuciones siguientes:
+El órgano interno de control contará con la autoridad investigadora, con las atribuciones, y en los términos que establece la Ley de Responsabilidades; así como con la estructura orgánica, personal y recursos que apruebe el Pleno, a propuesta de su titular, de conformidad con el reglamento respectivo.
 
-I. Iniciar los procedimientos de investigación por presunta responsabilidad administrativa de las y los servidores públicos del Tribunal, ya sea de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos, respecto de los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Tribunal;
-
-II. Llevar a cabo de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de las y los servidores públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia;
-
-III. Efectuar visitas a las sedes físicas de las áreas y órganos del Tribunal, para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
-
-IV. Mantener con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones;
-
-V. Para el desarrollo de investigaciones por faltas administrativas graves, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal bursátil, fiduciario (sic) o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios;
-
-VI. Realizar de manera fundada y motivada, los requerimientos a las personas físicas o morales, públicas o privadas que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones;
-
-VII. En su caso, hacer uso de las medidas de apremio determinadas en el artículo 99 de la Ley de Responsabilidades;
-
-VIII. Determinar la existencia o inexistencia de actos u omisiones que la Ley de Responsabilidades, señale como falta administrativa;
-
-IX. Una vez calificada la conducta en los términos del párrafo anterior, elaborará el Informe de Presunta Responsabilidad en el que incluirá la calificación;
-
-X. En su caso, presentar ante la autoridad substanciadora el Informe de Presunta Responsabilidad;
-
-XI. Conforme a sus atribuciones, formar parte en el procedimiento de responsabilidad administrativa, y
-
-XII. En general, todas aquellas previstas en la Ley de Responsabilidades, para el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 105.
 
-El órgano interno de control contará con la coordinación de investigación en los términos previstos en la Ley de Responsabilidades, así como con la estructura orgánica, personal y recursos que apruebe el Pleno, a propuesta de su titular, de conformidad con el reglamento respectivo.
+El órgano interno de control contará con la autoridad substanciadora, con las atribuciones, y en los términos que establece la Ley de Responsabilidades; así como con la estructura orgánica, personal y recursos que apruebe el Pleno, a propuesta de su titular, de conformidad con el reglamento respectivo.
 
 ### CAPÍTULO III. Del Procedimiento para determinar Responsabilidades de los Servidores Públicos Electorales
 
@@ -1722,3 +1706,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 TERCERO. Las cantidades provenientes del régimen sancionador electoral y que antes de la entrada en vigor de este Decreto se hayan acumulado, serán entregadas por el Tribunal, a las instituciones de educación pública que tenga por objeto la promoción, fomento y desarrollo de la ciencia, tecnología e innovación, a través del convenio o mecanismo las instituciones establezcan para ese efecto.
 
 CUARTO. El Pleno del Tribunal Electoral del Estado, dentro de los sesenta días posteriores a la entrada en vigor de este Decreto, autorizará los lineamientos que regulen la administración del Fondo de Apoyo para la Administración y Aprovechamiento de Multas o Medidas de Apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, así como la administración y el ejercicio de sus recursos.
+
+P.O. 1 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1041.- SE REFORMAN LOS ARTÍCULOS 10, 102 EN SU FRACCIÓN XVIII, 104 Y 105, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el uno de octubre de dos mil veinticuatro, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
