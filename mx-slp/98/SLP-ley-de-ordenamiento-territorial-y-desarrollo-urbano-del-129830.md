@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2024-02-20"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -4469,7 +4469,9 @@ I. La asignación de usos del suelo y destinos compatibles, promoviendo la mezcl
 
 II. La compatibilidad de los servicios públicos y la infraestructura de telecomunicaciones y de radiodifusión, en cualquier uso de suelo, para zonas urbanizables y no urbanizables;
 
-III. El reordenamiento, renovación o densificación de áreas urbanas deterioradas, aprovechando adecuadamente sus componentes sociales y materiales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2024)</small>
+
+III. El reordenamiento, renovación o densificación de áreas urbanas deterioradas, aprovechando adecuadamente sus componentes sociales y materiales; en caso de la densificación, ésta deberá de incluir, si fuera viable, la creación de vivienda de interés social bajo los términos de esta Ley y otras aplicables.
 
 IV. La conservación y protección de zonas con valor histórico y cultural que se encuentren abandonadas;
 
@@ -7068,3 +7070,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los municipios del Estado en el término de 45 días hábiles deberán modificar sus reglamentos internos en materia de visitas e inspecciones periódicas obligatorias a las instalaciones de los establecimientos que cuenten con el giro de reciclaje y recolección de chatarra, aplicando en su caso, las disposiciones que con este Decreto se expide.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1042.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 282, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
