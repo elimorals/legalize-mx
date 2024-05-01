@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2023-12-20"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2024.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -115,7 +115,9 @@ Son sujetos de esta Ley, todos los habitantes del Estado, que teniendo catorce a
 
 Se comete infracción cuando la conducta tenga lugar en:
 
-I. Lugares o espacios públicos de uso común o libre tránsito, como plazas, calles, avenidas, viaductos, calzadas, vías terrestres de comunicación, paseos, jardines, parques o áreas verdes y deportivas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2024)</small>
+
+I. Lugares o espacios públicos de uso común o libre tránsito, como plazas, calles, banquetas, avenidas, viaductos, calzadas, vías terrestres de comunicación, paseos, jardines, parques o áreas verdes y deportivas;
 
 II. Inmuebles públicos o privados de acceso público, como mercados, templos, cementerios, centros de recreo, de reunión, deportivos, de espectáculos o cualquier otro análogo;
 
@@ -125,7 +127,9 @@ IV. Inmuebles, espacios y vehículos destinados al servicio público de transpor
 
 V. Inmuebles y muebles de propiedad particular, siempre que tengan efectos en la vía o espacios públicos o se ocasionen molestias a los vecinos, y
 
-VI. Lugares de uso común tales como plazas, áreas verdes, jardines, senderos, calles, avenidas interiores y áreas deportivas, de recreo o esparcimiento, que formen parte de los inmuebles sujetos al régimen de propiedad en condominio, conforme a lo dispuesto por la ley de la materia.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2024)</small>
+
+VI. Lugares de uso común tales como plazas, áreas verdes, jardines, senderos, calles, banquetas, avenidas interiores y áreas deportivas, de recreo o esparcimiento, que formen parte de los inmuebles sujetos al régimen de propiedad en condominio, conforme a lo dispuesto por la ley de la materia.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -325,27 +329,33 @@ VI. Solicitar servicios de urgencias médicas, rescate o policiales, en situacio
 
 VII. Requerir la presencia policíaca en caso de percatarse de la realización de conductas o de hechos violentos que puedan causar daño a personas o bienes de terceros o que afecten la convivencia armónica;
 
-VIII. Conservar limpias las vías y espacios públicos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2024)</small>
 
-IX. Hacer uso adecuado de los bienes, espacios y servicios públicos conforme a su naturaleza y destino;
+VIII. Conservar las vías y espacios públicos;
 
-X. Proteger, conservar y cuidar los recursos culturales y naturales del Estado y municipios.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+IX. Evitar la obstrucción de banquetas y calles;
 
-XI. Preservar el equipamiento y mobiliario urbano, así como los bienes de interés cultural, urbanístico y arquitectónico de la ciudad;
+X. Hacer uso adecuado de los bienes, espacios y servicios públicos conforme a su naturaleza y destino;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
-
-XII. Resguardar la flora y fauna en áreas verdes, áreas de valor ambiental, áreas naturales protegidas y conservación del suelo del Estado de Morelos;
+XI. Proteger, conservar y cuidar los recursos culturales y naturales del Estado y municipios.
 
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
 
-XIII. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia; y
+XII. Preservar el equipamiento y mobiliario urbano, así como los bienes de interés cultural, urbanístico y arquitectónico de la ciudad;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIII. Resguardar la flora y fauna en áreas verdes, áreas de valor ambiental, áreas naturales protegidas y conservación del suelo del Estado de Morelos;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIV. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia; y
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
-XIV.- Colaborar con las autoridades competentes en las acciones y programas que promuevan la seguridad ciudadana, la prevención del delito, el mejoramiento de la salud, la conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil.
+XV.- Colaborar con las autoridades competentes en las acciones y programas que promuevan la seguridad ciudadana, la prevención del delito, el mejoramiento de la salud, la conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil.
 
 ## TÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -437,9 +447,9 @@ Son infracciones contra la seguridad ciudadana:
 
 I. Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo;
 
-II. Impedir o estorbar de cualquier forma el uso de la vía pública, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2024)</small>
 
-Para estos efectos, se entenderá que existe causa justificada siempre que la obstrucción del uso de la vía pública, de la libertad de tránsito o de acción de las personas sea inevitable y necesaria y no constituya en sí misma un fin, sino un medio razonable de manifestación de las ideas, de asociación o de reunión pacifica;
+II. Impedir, estorbar u obstruir de cualquier forma el uso de la vía pública, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello.
 
 III. Apagar, sin autorización, el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
 
@@ -1126,3 +1136,11 @@ Remítase el presente Decreto al titular del Poder Ejecutivo para su promulgaci�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+P.O. 1 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS OCHENTA Y SEIS POR EL QUE SE REFORMAN LAS FRACCIONES I Y VI DEL ARTÍCULO 7; II DEL ARTÍCULO 20 Y SE ADICIONA LA FRACCION IX DEL ARTÍCULO 15 DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. - Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
