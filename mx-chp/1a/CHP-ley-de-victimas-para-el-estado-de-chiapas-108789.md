@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-victimas-para-el-estado-de-chiapas-108789"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-20"
-last_updated: "2021-01-20"
+last_updated: "2024-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE VICTIMAS PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2024 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 20 de mayo de 2015.
 
@@ -1004,3 +1006,29 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Todas las referencias establecidas en las diversas disposiciones normativas del Estado a favor de la Comisión Ejecutiva Estatal de Atención a Víctimas, se entenderán realizadas a la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
 
 Artículo Tercero.- Todos los compromisos adquiridos por la Comisión Ejecutiva Estatal de Atención a Víctimas, se entenderán asumidos por virtud del presente Decreto por la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
+
+P.O. DE 1 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 307 DECRETO POR EL QUE SE EXPIDE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Víctimas para el Estado de Chiapas, publicada en el Periódico Oficial 180, mediante Decreto número 236, Segunda Sección, de fecha 20 de mayo de 2015, así como sus subsecuentes reformas.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+Artículo Cuarto.- Los expedientes instaurados y procedimientos que se encuentran en trámite derivados del Decreto que se abroga, continuarán y deberán ser atendidos sin excepción alguna por la normatividad aplicable, hasta su total conclusión.
+
+Artículo Quinto.- La Comisión Ejecutiva Estatal, en un término no mayor de treinta días hábiles, contados a partir de la entrada en vigor de esta Ley, deberá someter a la consideración del Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de la misma, para efectos de su expedición y publicación correspondiente.
+
+Artículo Sexto.- La Comisión Ejecutiva Estatal, deberá emitir la normatividad aplicable a la materia, dentro de los ciento veinte días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Artículo Séptimo.- En caso de existir controversias o situaciones no previstas en la presente Ley, en tanto se expide el Reglamento y demás normatividad aplicable, la Comisión Ejecutiva Estatal resolverá lo conducente.
+
+Artículo Octavo.- Para el debido cumplimiento de la presente Ley, el Sistema Estatal deberá quedar instalado, de acuerdo a su nueva conformación, en un plazo de treinta días hábiles contados a partir de su publicación en el Periódico Oficial.
+
+Artículo Noveno.- Los Municipios, Dependencias y Entidades del Estado de Chiapas, deberán adecuar la normatividad que les resulte aplicable, así como emitir la reglamentación, acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos y demás normatividad que resulten necesarios para dar cumplimiento a las obligaciones que sean de su competencia, las cuales se deriven de la presente Ley.
+
+Artículo Décimo.- Los organismos públicos normativos y operativos del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley; debiendo prever la suficiencia presupuestaría para el funcionamiento de la Comisión Ejecutiva Estatal.
+
+El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento a la presente Ley.
