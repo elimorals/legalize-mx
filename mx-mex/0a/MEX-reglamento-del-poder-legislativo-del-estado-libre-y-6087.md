@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2024-03-13"
+last_updated: "2024-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MAYO DE 2024.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -329,11 +329,13 @@ d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente
 
 XIII. La Comisión de Derechos Humanos, conocerá de los temas siguientes:
 
-a) Sobre la legislación en materia de derechos humanos;
+> <small>(REFORMADO, G.G. 2 DE MAYO DE 2024)</small>
+
+a) Los relacionados con el marco jurídico de los derechos de las personas con discapacidad, de los adultos mayores y de cualquier grupo vulnerable;
 
 b) Aquellos que se relacionen con la promoción y defensa de los derechos humanos;
 
-c) Sobre la convocatoria para ocupar los cargos de comisionado y consejeros ciudadanos de la Comisión de Derechos Humanos del Estado de México; y
+c) (DEROGADO, G.G. 2 DE MAYO DE 2024)
 
 d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
@@ -531,15 +533,29 @@ XXVIII. La Comisión de la Juventud y el Deporte, conocerá de los temas siguien
 
 a) Sobre el deporte;
 
-b) Los relacionados con el desarrollo integral de los jóvenes;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE MAYO DE 2024)</small>
 
-c) Los relativos a los derechos de los jóvenes;
+b) Participar en el Sistema Estatal de Cultura Física y Deporte;
 
-d) Los de gestión en apoyo a la juventud;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE MAYO DE 2024)</small>
 
-e) Sobre la prevención y erradicación de las adicciones entre los jóvenes; y
+c) Dar seguimiento a los reconocimientos otorgados por el Gobierno del Estado a Deportistas, Entrenadores, Jueces, Árbitros y Organizaciones Deportivas;
 
-f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+> <small>(REFORMADO, G.G. 2 DE MAYO DE 2024)</small>
+
+d) Los relacionados con el desarrollo integral y los derechos de los jóvenes;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.G. 2 DE MAYO DE 2024)</small>
+
+e) Los de gestión en apoyo a la juventud;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.G. 2 DE MAYO DE 2024)</small>
+
+f) Sobre la prevención y erradicación de las adicciones entre los jóvenes; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 2 DE MAYO DE 2024)</small>
+
+g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 XXIX. La Comisión de Finanzas Públicas, conocerá de los temas siguientes:
 
@@ -651,7 +667,9 @@ f) La legislación en materia de asistencia social y desarrollo humano;
 
 g) La normatividad, políticas, planes y programas de desarrollo humano, desarrollo social y asistencial para grupos vulnerables en el ámbito estatal;
 
-h) La legislación relativa a la consolidación de la familia, la integración social al desarrollo de las personas con discapacidad, de las personas adultos mayores y la protección de los derechos de las niñas y los niños;
+> <small>(REFORMADO, G.G. 2 DE MAYO DE 2024)</small>
+
+h) La legislación relativa a la consolidación de la familia, la integración social al desarrollo de las personas con discapacidad y de las personas adultas mayores;
 
 i) La legislación en materia de desarrollo humano y poblacional;
 
@@ -732,6 +750,48 @@ c) De la evaluación, seguimiento y en su caso comparecencia de la Secretaría E
 d) Del proceso de armonización de las leyes relacionadas con el combate a la corrupción; y
 
 e) Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 2 DE MAYO DE 2024)</small>
+
+XXXVIII. La Comisión Para la Protección de los Derechos de las Niñas, Niños, Adolescentes, y Primera Infancia, conocerá de forma transversal de los temas, las iniciativas y los trabajos legislativos que se citan de manera enunciativa, más no limitativa, siguientes:
+
+a) Los relacionados con el marco jurídico internacional, nacional y estatal en materia de derechos de las niñas, niños, adolescentes y primera infancia;
+
+b) Los relacionados con la protección, promoción y defensa integral de los derechos de niñas, niños, adolescentes y primera infancia;
+
+c) Promover y realizar acciones encaminadas al respeto de los derechos humanos de las niñas, niños y adolescentes, a través de la vinculación interinstitucional y la sociedad civil;
+
+d) El estudio, análisis y dictamen de las reformas constitucionales del ámbito federal y local, así como legales propuestas ante la Asamblea que se relacionen con asuntos que trastoquen los temas de niñas. niños, adolescentes y primera infancia;
+
+e) La coadyuvancia con los diputados que deseen presentar iniciativas en materia de niñas. niños, adolescentes y primera infancia;
+
+f) El estudio acerca de temas de desarrollo de niñas, niños, adolescentes y primera infancia y el contacto permanente con las instituciones públicas y privadas dedicadas a la atención de este sector etario para conocer sus necesidades;
+
+g) La legislación, políticas, planes y programas tendientes a la promoción, desarrollo y fortalecimiento de los valores y defensa de los derechos de niñas, niños, adolescentes y primera infancia;
+
+h) Las políticas, planes y programas de desarrollo dirigidas a niñas, niños, adolescentes y primera infancia en el ámbito estatal;
+
+i) En temas relativos a la Administración y Procuración de Justicia, relacionados con violación a los derechos humanos de niñas, niños, adolescentes y primera infancia;
+
+j) De educación y cultura, relacionados con el fomento de las actividades culturales y artísticas y de cultura de paz en el Estado dirigidas a niñas, niños, adolescentes y primera infancia;
+
+k) En todo asunto relacionado con los derechos humanos de niñas, niños, adolescentes y primera infancia para el respeto, promoción y defensa dentro del ámbito estatal;
+
+l) En asuntos electorales, que propicien la participación de niñas, niños, adolescentes y primera infancia del Estado de México;
+
+m) En lo relativo al fomento de las actividades deportivas en el Estado, dirigidas a la integración y desarrollo de las niñas, niños, adolescentes y primera infancia;
+
+n) En igualdad, equidad y cultura de paz en los rubros siguientes:
+
+1. Prevención y atención de violencia a través de TICs;
+
+2. Prevención y atención del acoso y violencia escolar y familiar;
+
+3. Los relativos a iniciativas y reformas de Leyes y Códigos, dirigidos a niñas, niños, adolescentes y primera infancia;
+
+o) De manera global, todos aquellos asuntos que estén relacionados de manera directa o indirecta, mediata o inmediata con niñas, niños, adolescentes y primera infancia;
+
+p) Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
 
@@ -3249,25 +3309,37 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 
 La Secretaría de Administración y Finanzas del Poder Legislativo del Estado de México, en un término de noventa días hábiles, después de la entrada en vigor de este Decreto, emitirá las normas para la expedición, uso, renovación y revocación de la Firma Electrónica en el Poder Legislativo del Estado de México.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 215 POR EL QUE SE ADICIONA EL ARTÍCULO 232 QUATER, EL ARTÍCULO 232 QUINQUIES Y EL ARTÍCULO 232 SEXIES AL CÓDIGO PENAL PARA EL ESTADO DE GUERRERO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+G.G. 2 DE MAYO DE 2024.
 
-PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260.- POR EL QUE SE REFORMAN LOS INCISOS B), C), D), E) Y F) DE LA FRACCIÓN XXVIII DEL ARTÍCULO 13 A Y SE ADICIONA EL INCISO G) A LA FRACCIÓN XXVIII DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-P.O. 6 DE MAYO DE 2025.
+###### ARTÍCULO SEGUNDO.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 213 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 325, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 326, AMBOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 499”.]
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+G.G. 2 DE MAYO DE 2024.
 
-SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- POR EL QUE SE ADICIONA LA FRACCIÓN XXXVIII AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL INCISO A) DE LA FRACCIÓN XXIII, EL INCISO H) DE LA FRACCIÓN XXXV DEL ARTÍCULO 13 A; SE ADICIONA LA FRACCIÓN XXXVIII AL ARTÍCULO 13 A Y SE DEROGA EL INCISO C) DE LA FRACCIÓN XXIII DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+###### ARTÍCULO PRIMERO.
 
-P.O. 30 DE MAYO DE 2025.
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión Legislativa Para la Protección de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia continuará con el análisis, estudio y dictamen de los asuntos que se encuentran turnados y pendientes en la Comisión Especial de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia.
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan y/o derogan las disposiciones de igual o menor jerarquía.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232 POR EL QUE SE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 203 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
