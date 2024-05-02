@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-14"
-last_updated: "2019-08-14"
+last_updated: "2024-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL INSTITUTO TAMAULIPECO DE CAPACITACION PARA EL EMPLEO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO TAMAULIPECO DE CAPACITACIÓN PARA EL EMPLEO, PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO TAMAULIPECO DE CAPACITACIÓN PARA EL EMPLEO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2024 (ABROGADO).
 
 Código publicado en el Número 98 del Periódico oficial del Estado de Tamaulipas, el miércoles 14 de agosto de 2019
 
@@ -636,3 +638,29 @@ Cd. Victoria, Tam., a ___ de __________de 2019
 SERVIDORA/OR PÚBLICO
 
 NOMBRE Y PUESTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO TAMAULIPECO DE CAPACITACIÓN PARA EL EMPLEO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflicto de Interés entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto Tamaulipeco de Capacitación para el Empleo, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés del Instituto Tamaulipeco de Capacitación para el Empleo, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto Tamaulipeco de Capacitación para el Empleo.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto Tamaulipeco de Capacitación para el Empleo, publicado en el Periódico Oficial del Estado de Tamaulipas, Número 98, de fecha 14 de agosto de 2019, el cual fue aprobado por el H. Consejo Directivo del ITACE, mediante el acuerdo SO/A22/24/06/2019.
