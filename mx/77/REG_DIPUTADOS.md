@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2023-12-22"
+last_updated: "2024-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3590,7 +3590,9 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 
 ###### Artículo 262.
 
-1. La Cámara podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin, conforme a los Criterios para las Inscripciones de Honor en el Recinto de la Cámara de Diputados que emita la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias. Para ello, deberá presentarse iniciativa en los términos de este Reglamento.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2024)</small>
+
+1. La Cámara podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin, conforme al Reglamento para las Inscripciones de Honor en el Recinto de la Cámara de Diputados, que emita la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias. Para ello, se deberá presentar una iniciativa, en los términos de este Reglamento.
 
 ### CAPITULO III. Del Cabildeo
 
@@ -4583,3 +4585,11 @@ D.O.F. 22 DE DICIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Diario Oficial de la Federación.
 
 Segundo. Para el caso de las minutas cuyo plazo para ser dictaminadas haya vencido se declara finalizado el proceso legislativo. La Presidencia de la Mesa Directiva enviará a la Colegisladora, antes de que concluya el año legislativo, un listado con el objeto de que proceda en consecuencia y actualice sus registros parlamentarios.
+
+D.O.F. 2 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA LAS INSCRIPCIONES DE HONOR EN EL RECINTO DE LA CÁMARA DE DIPUTADOS Y SE REFORMA EL ARTÍCULO 262 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan los Criterios para Inscripciones de Honor de la Cámara de Diputados, publicados en el Diario Oficial de la Federación, el 3 de octubre de 2011.
