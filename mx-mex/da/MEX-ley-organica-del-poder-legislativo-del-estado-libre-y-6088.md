@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2024-03-13"
+last_updated: "2024-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MAYO DE 2024.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1176,6 +1176,10 @@ XXXVI. Comisión Para las Declaratorias de Alerta de Violencia de Género contra
 > <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2023)</small>
 
 XXXVII. Para el Combate a la Corrupción.
+
+> <small>(ADICIONADO, G.G. 2 DE MAYO DE 2024)</small>
+
+XXXVIII. Para la Protección de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia.
 
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
@@ -2722,3 +2726,23 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Administración y Finanzas del Poder Legislativo del Estado de México, en un término de noventa días hábiles, después de la entrada en vigor de este Decreto, emitirá las normas para la expedición, uso, renovación y revocación de la Firma Electrónica en el Poder Legislativo del Estado de México.
+
+G.G. 2 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- POR EL QUE SE ADICIONA LA FRACCIÓN XXXVIII AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL INCISO A) DE LA FRACCIÓN XXIII, EL INCISO H) DE LA FRACCIÓN XXXV DEL ARTÍCULO 13 A; SE ADICIONA LA FRACCIÓN XXXVIII AL ARTÍCULO 13 A Y SE DEROGA EL INCISO C) DE LA FRACCIÓN XXIII DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión Legislativa Para la Protección de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia continuará con el análisis, estudio y dictamen de los asuntos que se encuentran turnados y pendientes en la Comisión Especial de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia.
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan y/o derogan las disposiciones de igual o menor jerarquía.
