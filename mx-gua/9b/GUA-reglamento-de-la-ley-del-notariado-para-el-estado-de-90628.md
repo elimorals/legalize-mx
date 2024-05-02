@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-del-notariado-para-el-estado-de-90628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2023-05-12"
+last_updated: "2024-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2024.
 
 Reglamento publicado en la Cuarte Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -101,11 +101,15 @@ A la conclusión de los actos jurídicos pendientes, el notario sustituto dará 
 
 Para iniciar funciones en la notaría pública con la nueva adscripción, el notario deberá cumplir con los requisitos previstos en el artículo 25 de la Ley, a excepción de la fracción I, dentro de un plazo que no exceda de 90 días siguientes a la fecha en que se le haya notificado la resolución sobre el cambio de adscripción.
 
-Procedimiento a implementarse ante una renuncia
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2024)</small>
+
+Procedimiento ante terminación de la función notarial
 
 ###### Artículo 6.
 
-Ante la presentación de renuncia al ejercicio de la función notarial se procederá conforme el artículo 125 de la Ley, verificándose el último tomo abierto del protocolo correspondiente. Las sanciones a que se pudiera hacer acreedor el notario, le serán aplicables aun cuando deje de estar en funciones y también es aplicable para los notarios que cambien de adscripción.
+Ante la terminación de la función notarial se procederá conforme el artículo 125 de la Ley, verificándose el último tomo abierto del protocolo correspondiente.
+
+En los supuestos previstos en el artículo 107 fracciones I, II, IV y V de la Ley, cuando se encuentre en funciones un notario o notaria auxiliar y, solicite el procedimiento de homologación de la función notarial se procederá en los términos del artículo 23-B de la Ley, permaneciendo el protocolo en poder y bajo la responsabilidad del notario auxiliar.
 
 ### Capítulo II. Obtención de la calidad de aspirante a notario y del fíat de notario
 
@@ -123,13 +127,17 @@ En relación con la prueba práctica que prevé el artículo 18, fracción II, i
 
 Expedición de convocatoria para aspirante a notario
 
-Artículo 7 bis. La convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario, además de las bases previstas en el artículo 11-B de la Ley, deberá contener la necesidad de cubrir notarías vacantes y en su caso la sociedad civil organizada o los organismos públicos o privados que participen de conformidad con lo establecido en el artículo 13-B de la Ley.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2024)</small>
+
+Artículo 7 bis. La convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario, establecerá además de las bases previstas en el artículo 11-B de la Ley, en su caso, la necesidad de cubrir notarías vacantes, así como la participación de la sociedad civil organizada o los organismos públicos o privados que participen de conformidad con lo establecido en el artículo 13-B de la Ley.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
 
 Contenido de los convenios
 
-Artículo 7 ter. La Secretaría en los convenios que celebre con la sociedad civil organizada o con organismos públicos o privados, para que colaboren en los procedimientos para obtener la calidad de aspirante a notario, notario auxiliar y el fíat de notario público, con la finalidad de dar transparencia al proceso, definirá en las cláusulas de dicho convenio la participación de las partes en cada una de las siguientes etapas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2024)</small>
+
+Artículo 7 ter. La Secretaría en los convenios que celebre con la sociedad civil organizada o con organismos públicos o privados, para que colaboren en los procedimientos para obtener la calidad de aspirante a notario, la licencia de notario auxiliar, la constancia de acreditación de conocimientos y el fíat de notario público; con la finalidad de dar transparencia al proceso, definirá en las cláusulas de dicho convenio la participación de las partes en cada una de las siguientes etapas.
 
 I. Preparación básica para el examen;
 
@@ -141,11 +149,11 @@ IV. Aplicación del examen; y
 
 V. Evaluación y revisión del examen por parte del jurado.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2024)</small>
 
 Convenios
 
-Artículo 7 quáter. La Secretaría de Gobierno cuando celebre convenios con la sociedad civil organizada o con organismos públicos o privados, para que participen como observadores en los procedimientos para obtener la calidad de aspirante a notario, notario auxiliar y el fíat de notario público, deberá permitir dicha participación en todas las etapas del procedimiento, respetándose los principios contenidos en el artículo 14 de la Ley.
+Artículo 7 quáter. La Secretaría de Gobierno cuando celebre convenios con la sociedad civil organizada o con organismos públicos o privados, para que participen como observadores en los procedimientos para obtener la calidad de aspirante a notario, notario auxiliar, la constancia de acreditación de conocimientos y el fíat de notario público, deberá permitir dicha participación en todas las etapas del procedimiento, respetándose los principios contenidos en el artículo 14 de la Ley.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
 
@@ -165,19 +173,21 @@ Ausencia de los miembros del Jurado
 
 Si transcurridos quince minutos del día y hora señalados para el examen teórico de aspirante a notario o del examen teórico y práctico de oposición para la obtención del fíat, no se encuentra presente alguno de los miembros propietarios del jurado, entrará en funciones quien lo supla y si tampoco este concurre, no se llevará a cabo el examen, asentándose lo anterior en el acta que para tal efecto se elabore. En esta última circunstancia los integrantes del Jurado presentes acordarán nueva fecha, hora y lugar para la realización del examen, mismo que deberá llevarse a cabo dentro de los cinco días hábiles siguientes, lo cual se notificará a los participantes de conformidad con lo previsto en la convocatoria correspondiente.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2024)</small>
 
-Lo establecido en este artículo le será aplicable a los exámenes de notario auxiliar.
+Lo establecido en este artículo le será aplicable a los exámenes de notario auxiliar y de acreditación de conocimientos para el procedimiento de homologación de la función notarial.
 
-Facultad del jurado para resolver los incidentes
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2024)</small>
+
+Facultades y representación del Jurado
 
 ###### Artículo 9.
 
-El jurado resolverá los incidentes que se presenten en la realización del examen de aspirante a notario o de oposición para la obtención del fíat.
+El Jurado que se conforme para la elaboración, aplicación y evaluación de los exámenes derivados de las convocatorias para aspirante a notario, y de oposición para obtención de Fíat, tomará las determinaciones y acciones que estime pertinentes para el cumplimiento de los principios a que alude el artículo 14 de la Ley; así como para resolver los incidentes que se presenten en la aplicación y calificación de los exámenes.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+La representación del Jurado ante cualquier instancia recaerá en su presidente, quien podrá expedir certificaciones de los documentos que resguarde o genere el Jurado con motivo de sus funciones.
 
-Lo establecido en este artículo le será aplicable a los exámenes de notario auxiliar.
+Lo establecido en este artículo le será aplicable al jurado que se conforme para los exámenes de notario auxiliar y de acreditación de conocimientos para el procedimiento de homologación de la función notarial. En estos procedimientos la persona titular de la Secretaría, o el servidor público que designe y esté adscrito a la misma, fungirá como presidente del Jurado.
 
 Cédula de identidad notarial
 
@@ -226,6 +236,16 @@ Notificación al notario suplente
 ###### Artículo 16.
 
 Cuando se actualice el supuesto previsto en el artículo 38 de la Ley, relativa a dejar sin efectos la designación realizada se deberá notificar al notario suplente, por conducto de la Dirección General que su designación por el Titular del Poder Ejecutivo ha quedado sin efectos, debiendo aquél proceder a la entrega del protocolo en los términos señalados en la Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2024)</small>
+
+Designación de notario sustituto
+
+Artículo 16 bis. La designación de Notario sustituto podrá ser definitiva o provisional. Será definitiva aquella que derive del otorgamiento de Fíats en los términos de la Ley para la ocupación de Notarías vacantes; y será provisional la que derive de la designación que haga el Titular del Poder Ejecutivo a propuesta de la Secretaría, en los casos a que se refiere el artículo 41-A de la Ley, para concluir exclusivamente los trámites pendientes.
+
+La designación de Notario sustituto provisional tendrá una vigencia de 3 años. En caso de que (sic) vencido este plazo y existieren actos pendientes, el Secretario de Gobierno podrá emitir una ampliación de plazo hasta por 3 años, lo que hará del conocimiento del Titular del Poder Ejecutivo.
+
+Si durante los plazos referidos en el párrafo anterior, se llegare a nombrar un nuevo titular de la Notaría, éste concluirá los trámites pendientes.
 
 Entrega del protocolo y otros elementos del notario sustituto
 
@@ -403,25 +423,21 @@ El notario comunicará a la Dirección General, la destrucción, inutilización 
 
 La Dirección General procederá de inmediato a reponer, a costa del notario, la pieza o piezas del sello. De la entrega-recepción del sello repuesto se levantará acta que firmarán el notario y el Titular de la Dirección General.
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 12 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2024)</small>
 
-Acopio del sello de notario
+Diligencias con motivo de la terminación de la función notarial
 
 ###### Artículo 26.
 
-La Dirección General, a través del Archivo, recogerá los sellos del notario que termine sus funciones, por renuncia, revocación del fíat, cambio de adscripción o fallecimiento. Se procederá de igual manera cuando el notario sustituto o el notario auxiliar si los hubiere, terminen sus actuaciones; así como los sellos alterados, los extraviados recuperados y aquellos que no reúnan los requisitos de la Ley.
+La Dirección General, a través del Archivo, recogerá los sellos del notario en los supuestos previstos por el artículo 41-A de la Ley. Se procederá de igual manera cuando el notario sustituto o el notario auxiliar si los hubiere, terminen sus actuaciones.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+Asimismo, en cualquier tiempo se recogerán los sellos alterados, los extraviados recuperados y aquellos que no reúnan los requisitos de la Ley.
 
-En los casos de terminación de la función por el fallecimiento de Notarios titulares, y para los efectos del artículo 48-L de la Ley, el Notario auxiliar informará al Archivo General de Notarías dentro de los 5 días hábiles siguientes al fallecimiento, el listado de actos que hubieren quedado pendientes por ese suceso. El Archivo General de Notarías procederá en términos de lo dispuesto por el artículo 135 penúltimo párrafo de la Ley, dejando en poder del Auxiliar únicamente los tomos de Protocolo y de Libro de Ratificaciones, sus apéndices e índices, hojas testimonio, hologramas y folios no utilizados que sean necesarios para concluir los actos pendientes.
+En los casos de terminación de la función notarial previstos por el artículo 48-L de la Ley, el Notario auxiliar informará al Archivo General de Notarías dentro de los 5 días hábiles siguientes el listado de actos que hubieren quedado pendientes por ese suceso. El Archivo General de Notarías procederá en términos de lo dispuesto por los artículos 125 o 135 penúltimo párrafo de la Ley, según corresponda, dejando en poder del Auxiliar únicamente los tomos de Protocolo, sus apéndices e índices, hojas testimonio, hologramas y folios no utilizados que estime sean necesarios para concluir los actos pendientes, hecha excepción de que el auxiliar solicite el procedimiento de homologación de la función notarial, en cuyo caso se procederá en los términos del segundo párrafo del artículo 23-B de la Ley.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+La Notaría se considerará vacante hasta que concluya el plazo previsto por el artículo 48-L de la Ley.
 
-La Notaría se considerará vacante hasta que el Notario Auxiliar termine de tramitar los asuntos pendientes de concluirse a la muerte del titular, en los términos de la Ley.
-
-En caso de suspensión, el sello se depositará en el Archivo mientras subsista ésta, al término de los trámites que realice el notario sustituto.
-
-En todos los casos anteriores, la Dirección General hará constar en acta el hecho, remitiendo copia de la misma a la notaría pública de que se trate y al Colegio.
+En todos los casos previstos en este artículo, la Dirección General hará constar en acta el hecho, remitiendo, en su caso, copia de la misma a la notaría pública de que se trate y al Colegio.
 
 Sustitución del sello de notario
 
@@ -805,13 +821,21 @@ V. La copia de las resoluciones en que se les imponga una sanción;
 
 VI. La solicitud de revocación de licencia con los motivos que la sustenten;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2024)</small>
 
-VII. En su caso, el acuerdo de revocación de la licencia; y
+VII. En su caso, el acuerdo de revocación de la licencia;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2024)</small>
 
-VIII. La solicitud de renuncia expresa de parte del Notario auxiliar al ejercicio de la función notarial, así como el acuerdo respectivo que recaiga a su petición.
+VIII. La solicitud de renuncia expresa de parte del Notario auxiliar al ejercicio de la función notarial, así como el acuerdo respectivo que recaiga a su petición;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2024)</small>
+
+IX. En su caso, copia de constancia de acreditación de conocimientos; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2024)</small>
+
+X. En su caso, solicitud de Procedimiento de Homologación de la Función Notarial.
 
 Contenido del expediente de la notaría pública
 
@@ -1072,3 +1096,9 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día 
 Actualización del Manual de Organización
 
 Artículo Segundo. La Secretaría de Gobierno, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto Gubernativo, deberá actualizar su Manual de Organización General, publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020.
+
+P.O. 2 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 170, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO, Y A SU VEZ SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
