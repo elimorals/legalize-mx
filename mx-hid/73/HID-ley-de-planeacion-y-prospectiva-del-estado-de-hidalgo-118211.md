@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2024-04-22"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -243,13 +243,25 @@ IX. Un Presidente Municipal Constitucional, que será el que presida la Asociaci
 
 X. Dos representantes del Sector Empresarial del Estado, determinados por las Cámaras o Consejos en la materia, quienes serán vocales del COPLADEHI;
 
-XI. Dos representantes de instituciones académicas o de investigación del Estado, determinados por invitación del Comité Directivo, quienes serán vocales del COPLADEHI; y,
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
-XII. Dos miembros representativos del sector social, determinados por invitación del Comité Directivo, quienes serán vocales del COPLADEHI.
+XI. Dos representantes de instituciones académicas o de investigación del Estado, determinados por invitación del Comité Directivo, quienes serán vocales del COPLADEHI;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
-XIII. Un representante del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo.
+XII. Dos miembros representativos del sector social, determinados por invitación del Comité Directivo, quienes serán vocales del COPLADEHI;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+
+XIII. Un representante del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2024)</small>
+
+XIV. Un representante del Poder Judicial del Estado, que será la persona titular de la Presidencia del Tribunal Superior de Justicia del Estado, quien fungirá como vocal del COPLADEHI; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2024)</small>
+
+XV. Un representante por cada uno de los organismos autónomos de la entidad, quienes fungirán como vocales del COPLADEHI.
 
 Para el cumplimiento de sus funciones los integrantes del COPLADEHI definidos en el párrafo anterior, podrán contar, si así lo decidieran, con un suplente, el cual tendrá las facultades y obligaciones que le correspondan y solo actuará en ausencia del titular. Para el caso de la presidencia del COPLADEHI, en su ausencia asumirá sus funciones el Coordinador General, haciendo innecesario el nombramiento de un suplente.
 
@@ -972,3 +984,9 @@ P.O. 22 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 840 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 859 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
