@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-04-18"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "HID"
 ---
 # LEY DE EDUCACION DEL ESTADO HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -170,6 +168,10 @@ Los planteles educativos del nivel básico y medio superior del Sistema Educativ
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
 
 Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual y fomentar el uso de métodos anticonceptivos
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+De igual forma, podrán implementar programas de capacitación, orientación y vigilancia, en materia de nutrición, sobrepeso y obesidad.
 
 ###### Artículo 11.
 
@@ -1683,13 +1685,21 @@ Este consejo, podrá promover y apoyar actividades extraescolares de carácter c
 
 El Servicio Social entendido como el conjunto de actividades de carácter obligatorio, temporal, individual o colectivo, que realizarán los estudiantes del nivel superior y en su caso, los de nivel medio superior que así lo establezca la normatividad, en beneficio y de la sociedad y del Estado.
 
-Las personas beneficiadas directamente por los servicios educativos de instituciones de los tipos de educación media superior y superior, deberán prestar servicio social en programas que contribuyan a disminuir el rezago social y la pobreza, rezago educativo, inclusión y la igualdad entre mujeres y hombres, rescate de medio ambiente y espacios públicos y en actividades afines a sus estudios, en los casos y términos que señalen las disposiciones legales. En éstas se preverá la prestación del servicio social o sus equivalentes como requisito previo para obtener título o grado académico correspondiente.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Las personas beneficiadas directamente por los servicios educativos de instituciones de los tipos de educación media superior y superior, deberán prestar servicio social en programas que contribuyan a disminuir el rezago social y la pobreza, rezago educativo, inclusión y la igualdad entre mujeres y hombres, acciones en favor del medio ambiente, restauración del equilibrio ecológico, rescates de espacios públicos y en actividades afines a sus estudios, en los casos y términos que señalen las disposiciones legales. En éstas se preverá la prestación del servicio social o sus equivalentes como requisito previo para obtener título o grado académico correspondiente.
 
 La Secretaría, en coordinación con las instituciones de educación respectivas, promoverán lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales.
 
 ###### Artículo 134.
 
 La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos académicos que realicen estudiantes a los educandos de preescolar, primaria, secundaria, media superior y de educación para adultos que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Artículo 134 BIS. El servicio social podrá realizarse en municipios y en zonas naturales protegidas para la conservación, restauración del equilibrio ecológico y preservación del medio ambiente, restauración del equilibrio ecológico y saneamiento del agua.
+
+Además, podrán apoyar a los municipios dentro de los programas, la gestión y manejo especial de residuos sólidos urbanos.
 
 ### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LOS MEDIOS DE COMUNICACIÓN
 
@@ -2312,3 +2322,15 @@ P.O. 18 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 856 POR EL QUE SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII, RECORRIENDO LA SUBSECUENTE, DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 864 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 865 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
