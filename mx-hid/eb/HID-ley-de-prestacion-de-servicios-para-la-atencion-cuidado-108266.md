@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-108266"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-25"
-last_updated: "2024-04-04"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de mayo de 2015.
 
@@ -539,9 +539,11 @@ La tipología anterior, se ajustará a las normas de cada institución y al Regl
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, que deberá contener, por lo menos, el ámbito de competencia y responsabilidad de las y los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por el Sistema Estatal de Protección Civil o por la Subsecretaría de Protección Civil y Gestión de Riesgos, así como por las Direcciones o Secretarías Municipales de Protección Civil, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2024)</small>
+
 ###### Artículo 40.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por el Estado y los Municipios. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, videovigilancia, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por el Estado y los Municipios. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
 
 ###### Artículo 41.
 
@@ -599,11 +601,15 @@ XIII. Los aparatos de calefacción, deberán estar fijos; y
 
 XIV. Las demás que ordene el Reglamento de la Ley que emita el Ejecutivo del Estado, las disposiciones correspondientes a la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2024)</small>
 
 ###### Artículo 47 Bis.
 
-Los Centros de Atención podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
+Los Centros de Atención deberán instalar equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Es obligación de los Centros de Atención resguardar las grabaciones a que se refiere este artículo por un periodo mínimo de tres años, mismas que, en caso de ser requeridas, se pondrán a disposición de las autoridades competentes, en términos de la legislación aplicable al efecto para el que se requieran.
 
 ### CAPÍTULO IX. DE LAS AUTORIZACIONES
 
@@ -892,3 +898,9 @@ P.O. 4 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 814 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 861 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
