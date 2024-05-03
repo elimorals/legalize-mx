@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-01-19"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -87,9 +87,25 @@ V.- Asegurar en las personas con discapacidad el ejercicio de su derecho al trab
 
 VI.- Impulsar la adopción de acciones afirmativas orientadas a evitar y compensar las desventajas de una persona con discapacidad para participar plenamente en la vida política, económica, social y cultural;
 
-VII.- Impulsar la participación solidaria de la sociedad y la familia en la preservación, y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
-VIII.- Asegurar, todas las medidas necesarias para garantizar la seguridad y la protección de las personas con discapacidad en situación de riesgo, incluidas; emergencias humanitarias, desastres naturales y en su caso, en conflictos armados.
+VII.- Impulsar la participación solidaria de la sociedad y la familia en la preservación, y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+
+VIII.- Asegurar, todas las medidas necesarias para garantizar la seguridad y la protección de las personas con discapacidad en situación de riesgo, incluidas; emergencias humanitarias, desastres naturales y en su caso, en conflictos armados; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 3 DE MAYO DE 2024)</small>
+
+IX.- Crear protocolos y acciones en materia de desastres naturales, tales como:
+
+a) Formular protocolos específicos de evacuación en situaciones de riesgo, emergencias humanitarias y desastres naturales, para las personas con discapacidad;
+
+b) Diseñar y difundir, en formatos accesibles, información sobre los mecanismos de prevención para desastres naturales, casos de riesgo y emergencia humanitaria, así como los sistemas de protección antes, durante y después de estas situaciones;
+
+c) Garantizar que los albergues y refugios sean de fácil acceso para las personas con discapacidad; y
+
+d) Capacitar al personal de protección civil y apoyo humanitario sobre la respuesta y atención que se debe brindar para garantizar la seguridad y la protección de las personas con discapacidad en situaciones de riesgo, emergencias humanitarias y desastres naturales.
 
 ###### Artículo 3.
 
@@ -1250,5 +1266,11 @@ P.O. 19 DE ENERO DE 2024.
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 623 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO Y DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 863 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
