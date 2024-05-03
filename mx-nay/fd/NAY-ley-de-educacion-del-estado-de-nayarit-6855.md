@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2024-01-19"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -205,9 +205,9 @@ IV.- Propiciar en los educandos la integración de los conocimientos que armonic
 
 V.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático, conservación del medio ambiente y el equilibrio ecológico, como elementos fundamentales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
-VI.- Fomentar en los alumnos, docentes, madres y padres de familia, la cultura de la salud para preservar la integridad de la salud con especial atención en el ámbito de la salud sexual y reproductiva contribuyendo con la prevención de embarazos precoces y no planeados así como las famlia (sic) y la (sic) infecciones de transmisión sexual, de igual manera para prevenir la comisión de ilícitos que atenten contra la libertad y el normal desarrollo psicosexual del individuo, con absoluto respeto a la dignidad humana;
+VI.- Fomentar en los alumnos, docentes, madres y padres de familia, la cultura de la salud para preservar la integridad de la salud con especial atención en el ámbito de la salud sexual integral, reproductiva y menstrual, contribuyendo con la prevención de embarazos en la adolescencia y no deseados y las infecciones de transmisión sexual, de igual manera para prevenir la comisión de ilícitos que atenten contra la libertad y el normal desarrollo psicosexual del individuo, con absoluto respeto a la dignidad humana;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1976,3 +1976,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 67 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE MANEJO RESPONSABLE DE LAS REDES SOCIALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 6° DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE EDUCACION SOBRE SALUD MENSTRUAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
