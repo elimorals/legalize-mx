@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2023-05-03"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -1758,9 +1758,9 @@ En este caso, antes de girarse la orden de baja, se le emplazará por medio de p
 
 C. Por desaparición del militar, comprobada esta circunstancia mediante los partes oficiales, siempre que dure en esta situación más de tres meses, en caso de que el individuo de que se trate apareciera y justifique su ausencia, será reincorporado al activo;
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO. D.O.F. 3 DE MAYO DE 2024)</small>
 
-D. Tratándose del personal de Tropa y de los militares de la clase de Auxiliares, además de las causas señaladas en los incisos que anteceden, podrán ser dados de baja por observar mala conducta, determinada por el Consejo de Honor de la Unidad o Dependencia a que pertenezcan, o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría de la Defensa Nacional. En ambos casos, siempre será oído en defensa el afectado;
+D. Por observar mala conducta determinada por el Consejo de Honor de la Unidad, Dependencia o Establecimiento de Educación Militar a que pertenezcan, o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría de la Defensa Nacional, tratándose del personal de Tropa, de los militares de la clase de Auxiliares y de los discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia en su defensa;
 
 E. Los Militares Auxiliares causarán baja, además cuando no se consideren necesarios sus servicios o a consecuencia de cambios orgánicos en las estructuras de las Unidades o Dependencias. En estos casos, también será oído en defensa el afectado.
 
@@ -1772,9 +1772,9 @@ Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta y h
 
 F. Por adquirir otra nacionalidad;
 
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO. D.O.F. 3 DE MAYO DE 2024)</small>
 
-G. Para los Soldados y Cabos, por la rescisión del contrato de enganche o del de su renovación, otorgándoles la garantía de audiencia por quince días hábiles en los términos del Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos, y
+G. La rescisión del contrato de enganche o del de su renovación, para las y los Soldados, Cabos y discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia dentro de los quince días hábiles siguientes al de su notificación en los términos del Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos, y
 
 (NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL APARTADO H. DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2661,3 +2661,15 @@ Quinto. A la entrada en vigor del presente Decreto, la designación del personal
 Sexto. Los documentos expedidos al personal "Diplomado de Estado Mayor" y "Diplomado de Estado Mayor Aéreo", mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como "De Estado Mayor".
 
 Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
+
+D.O.F. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS Y DE LA LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, EN MATERIA DE DISCIPLINA DE DISCENTES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+Tercero.- En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.
+
+Cuarto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
