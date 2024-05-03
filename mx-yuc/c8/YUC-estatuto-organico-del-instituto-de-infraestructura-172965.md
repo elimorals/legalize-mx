@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-infraestructura-172965"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-06-23"
-last_updated: "2022-06-23"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE MAYO DE 2024.
 
 Estatuto publicado en el Número 34,808 del Diario Oficial del Estado de Yucatán, el jueves 23 de junio de 2022.
 
@@ -341,13 +341,17 @@ La persona titular de la dirección general tendrá las facultades y obligacione
 
 La persona titular de la dirección general, para el mejor desempeño de sus facultades y obligaciones, se auxiliará, en términos del artículo 14 del decreto, del personal que apruebe la junta de gobierno, de conformidad con la disponibilidad presupuestaria, cuyo nombramiento o remoción, independientemente de si se trata de personal de confianza o de base, corresponderá a la persona titular de la dirección general, de acuerdo con las disposiciones jurídicas aplicables.
 
-Sin perjuicio de lo anterior, la persona titular de la dirección general podrá ejercer directamente, en cualquier momento, las facultades y obligaciones de las personas servidoras públicas adscritas a las unidades administrativas previstas en el artículo 4, fracción III, de este estatuto orgánico.
+> <small>(REFORMADO, D.O. 3 DE MAYO DE 2024)</small>
+
+Sin perjuicio de lo anterior, la persona titular de la dirección general podrá ejercer directamente, en cualquier momento, las facultades y obligaciones de las personas servidoras públicas adscritas a las unidades administrativas previstas en la fracción III, del artículo 5, de este estatuto orgánico.
 
 ###### Artículo 26.
 
 Suplencias
 
-Las ausencias de la persona titular de la dirección general que no excediesen de quince días serán suplidas por la persona servidora pública de la jerarquía inmediata inferior que aquella designase por oficio. A falta de tal designación, la persona titular de la dirección general será suplida por las personas titulares de las unidades administrativas previstas en el artículo 4, fracción III, de este estatuto orgánico, en el orden que el propio artículo establece.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE MAYO DE 2024)</small>
+
+Las ausencias de la persona titular de la dirección general que no excediesen de quince días serán suplidas por la persona servidora pública de la jerarquía inmediata inferior que aquella designase por oficio. A falta de tal designación, la persona titular de la dirección general será suplida por las personas titulares de las unidades administrativas previstas en la fracción III, del artículo 5, de este estatuto orgánico, en el orden que el propio artículo establece.
 
 Las ausencias de la persona titular de la dirección general que excediesen de quince días serán suplidas por la persona que para tal efecto designase la junta de gobierno.
 
@@ -357,7 +361,9 @@ Las ausencias de la persona titular de la dirección general que excediesen de q
 
 Unidades administrativas y personal del instituto
 
-El instituto contará con las unidades administrativas previstas en el artículo 4, fracción III, de este estatuto orgánico y las demás que apruebe la junta de gobierno para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestaria.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE MAYO DE 2024)</small>
+
+El instituto contará con las unidades administrativas previstas en la fracción III, del artículo 5, de este estatuto orgánico y las demás que apruebe la junta de gobierno para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestaria.
 
 Asimismo, las personas titulares de las unidades administrativas del instituto serán auxiliadas en el ejercicio de sus facultades y obligaciones por el personal que requiera el servicio, de acuerdo con el presupuesto y el organigrama vigente autorizados.
 
@@ -365,7 +371,9 @@ Asimismo, las personas titulares de las unidades administrativas del instituto s
 
 Facultades y obligaciones generales de las personas titulares de las unidades administrativas
 
-Las personas titulares de las unidades administrativas previstas en el artículo 4, fracción III, de este estatuto orgánico, tendrán las siguientes facultades y obligaciones de carácter general:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE MAYO DE 2024)</small>
+
+Las personas titulares de las unidades administrativas previstas en la fracción III, del artículo 5, de este estatuto orgánico, tendrán las siguientes facultades y obligaciones de carácter general:
 
 I. Planear, dirigir, coordinar, supervisar y evaluar el funcionamiento de la unidad administrativa a su cargo.
 
@@ -427,13 +435,23 @@ XII. Supervisar el pago de nómina del personal del instituto.
 
 XIII. Imponer, reducir o revocar las sanciones administrativas a que se hagan acreedoras las personas servidoras públicas del instituto, de conformidad con los lineamientos que para tal efecto determine la persona titular de la dirección general y las disposiciones jurídicas aplicables.
 
-XIV. Integrar, en coordinación con las demás unidades administrativas del instituto, el programa anual de adquisiciones, arrendamientos y prestación de servicios y el programa anual de capacitación de la entidad.
+> <small>(REFORMADA, D.O. 3 DE MAYO DE 2024)</small>
+
+XIV. Integrar, en coordinación con las demás unidades administrativas del instituto, el programa anual de adquisiciones, arrendamientos y prestación de servicios, el programa de sistemas de información y el programa anual de capacitación de la entidad.
 
 XV. Efectuar las adquisiciones, los arrendamientos y la contratación de los servicios que requiera el instituto, previa autorización de la persona titular de la dirección general o de la junta de gobierno, según corresponda.
 
 XVI. Llevar registro y control de los bienes muebles e inmuebles del instituto, y procurar su adecuado uso, conservación y mantenimiento.
 
-XVII. Las demás que les confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, D.O. 3 DE MAYO DE 2024)</small>
+
+XVII. Llevar el registro y control de los expedientes de obra pública del Instituto.
+
+> <small>(ADICIONADA, D.O. 3 DE MAYO DE 2024)</small>
+
+XVIII. Atender y dar seguimiento a las auditorías de los entes fiscalizadores.
+
+XIX. Las demás que les confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 30.
 
@@ -455,7 +473,15 @@ VI. Coordinar de manera permanente la documentación relacionada con los catálo
 
 VII. Integrar un expediente técnico unitario por cada proyecto de obra pública realizado o en proceso de ejecución en que hubiese participado o participe el instituto.
 
-VIII. Las demás que les confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, D.O. 3 DE MAYO DE 2024)</small>
+
+VIII. Efectuar el control de calidad de la obra pública y de los servicios relacionados o conexos en que participe el instituto, de conformidad con las normas y los procedimientos aplicables.
+
+> <small>(ADICIONADA, D.O. 3 DE MAYO DE 2024)</small>
+
+IX. Coordinar y ejecutar el proceso de licitaciones públicas, invitaciones a cuando menos tres personas o adjudicación directa, del presupuesto de inversión del Instituto.
+
+X. Las demás que les confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 31.
 
@@ -511,7 +537,11 @@ XXIII. Ejercer las atribuciones que le correspondan a la Dirección Jurídica co
 
 XXIV. Informar bimestralmente a la persona titular de la Consejería Jurídica acerca de los asuntos que conozca.
 
-XXV. Las demás que les confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, D.O. 3 DE MAYO DE 2024)</small>
+
+XXV. Organizar y conservar los documentos de archivo que se deriven de las operaciones del instituto, cumpliendo con las disposiciones normativas aplicables.
+
+XXVI. Las demás que les confiera la persona titular de la dirección general o que establezcan este estatuto orgánico u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 32.
 
@@ -543,7 +573,7 @@ XI. Vigilar el cumplimiento de las normas técnicas en el desarrollo de la obra 
 
 XII. Establecer y mantener en funcionamiento un sistema de control y seguimiento de los proyectos ejecutivos que realice el instituto.
 
-XIII. Efectuar el control de calidad de la obra pública y de los servicios relacionados o conexos en que participe el instituto, de conformidad con las normas y los procedimientos aplicables.
+XIII. (DEROGADA, D.O. 3 DE MAYO DE 2024)
 
 XIV. Realizar las notas técnicas de la obra pública y de las acciones ejecutadas por el instituto a través de los convenios celebrados con la federación.
 
@@ -622,3 +652,17 @@ Aprobado por la Junta de Gobierno del Instituto de Infraestructura Carretera de 
 Mac. Felipe Alberto Canul Moguel
 
 Director General
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO INCAY 03/2024 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General del Instituto de Infraestructura Carretera de Yucatán, deberá realizar la inscripción de las modificaciones efectuadas al Estatuto Orgánico del Instituto de Infraestructura Carretera de Yucatán en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
