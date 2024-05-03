@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-registro-publico-del-estado-de-nayarit-159476"
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-19"
-last_updated: "2022-07-21"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en la Sección Quinta del Número 13 del Periódico Oficial del Estado Nayarit, el martes 19 de julio de 2022.
 
@@ -51,11 +49,23 @@ LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT
 
 Esta Ley es de orden e interés público y tiene por objeto establecer las disposiciones legales que regulan el proceso registral del Registro Público del Estado de Nayarit.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2024)</small>
+
 ###### Artículo 2.
 
-El Registro Público, es la instancia a través de la cual el Poder Ejecutivo del Estado, cumple la función de dar publicidad registral a la situación jurídica de los actos objeto de inscripción, que conforme a la Ley requieran de dicha publicidad para surtir efectos contra terceros. Cabe señalar que para su operatividad, el Registro Público contará con una estructura orgánica dotada de presupuesto, estructura administrativa, operativa y funcional que contribuya al cumplimiento de sus fines.
+El Registro Público, es la instancia a través de la cual el Poder Ejecutivo del Estado, cumple la función de dar publicidad a la situación jurídica de bienes y derechos, así como los actos jurídicos que conforme a la Ley deban registrarse para surtir efectos contra terceros. Cabe señalar que, para su operatividad, el Registro Público contará con una estructura orgánica dotada de presupuesto, estructura administrativa, operativa y funcional que contribuya al cumplimiento de sus fines.
 
-El Registro Público proporcionará orientación y asesoría a las personas usuarias para la realización de los trámites que tiene encomendados. Todos los trámites a que se refiere esta Ley estarán disponibles para su consulta en el sitio de internet del Registro Público de forma accesible.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2024)</small>
+
+El Registro Público proporcionará orientación y asesoría a las personas usuarias para la realización de los trámites que tiene encomendados.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Para consulta, trámite y expedición de los actos inscritos en el Registro Público de la Propiedad, el solicitante, deberá acreditar su interés jurídico para obtener la información respecto de dichos actos.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Los actos a que se refiere el párrafo anterior podrán realizarse por conducto de los fedatarios públicos o las autoridades competentes, en el ejercicio de sus funciones.
 
 ###### Artículo 3.
 
@@ -72,6 +82,10 @@ Los servidores públicos del Registro Público podrán utilizar su Firma Electr�
 Para efectos de la presente Ley, se deberá entender por:
 
 I. Acervo Registral: Libros, apéndices e índices, sus imágenes, documentos físicos o electrónicos, extractos o contenidos capturados o digitalizados, sus respaldos, Folios Electrónicos y base de datos;
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+I. Bis. Alerta registral: Es un servicio electrónico, mediante el cual se recibe información oportuna, enviada directamente a un correo electrónico o dispositivo móvil, de los actos registrales realizados respecto de un bien inmueble inscrito en el Registro Público del Estado de Nayarit, cuya vigencia es por un año;
 
 II. Boletín Registral: Es un servicio mediante el cual la Dirección del Registro Público y sus Oficinas registrales en el estado, notifica sobre el estado de situación que presentan los trámites ingresados por los solicitantes por ventanilla o de manera electrónica, así como de la emisión de oficios, circulares, edictos, referentes al marco de atribuciones de la Dirección y en su caso las resoluciones a los recursos de inconformidad que sean interpuestos por los solicitantes de los servicios, mismo que se publica y difunde a través de los medios oficiales que para ello establezca la Dirección;
 
@@ -159,7 +173,9 @@ VI. Principio de Legitimación: Consiste en que los derechos inscritos en el Reg
 
 VII. Principio de Prioridad o Prelación: Otorga al título o documento ingresado en el Registro Público, y que haya cubierto el pago de derechos correspondiente, una eficacia excluyente o preferente, sobre el que ingresa con posterioridad; de forma tal que la preferencia en la inscripción o anotación relativa al mismo bien o derecho, se establecerá por el orden de la presentación de los títulos o documentos respectivos ante el Registro Público, tomando para ello en cuenta el día, la hora, minuto y segundo de dicha presentación;
 
-VIII. Principio de Publicidad: Consiste en que los actos y hechos jurídicos inscritos o anotados en el Registro Público, sean susceptibles del conocimiento público, y surtan efectos frente a terceros; por lo que cualquier persona podrá consultar y solicitar, se le muestren los asientos registrales;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+
+VIII. Principio de Publicidad: Consiste en que los actos y hechos jurídicos inscritos o anotados en el Registro Público, sean susceptibles del conocimiento público, y surtan efectos frente a terceros;
 
 IX. Principio de Rogación: El asiento en folios solo procederá a petición de parte interesada y legitimada, mandato judicial o de autoridad administrativa competente, salvo que exista disposición legal en contrario, y
 
@@ -714,6 +730,12 @@ En el acto de inicio de un trámite registral, sea presencial o por vía electr�
 Los efectos y período de permanencia de las alertas preventivas, serán los establecidos por esta Ley y su Reglamento y, en todo caso, no se podrán realizar inscripciones, asientos o anotaciones, ni expedir certificaciones de ninguna naturaleza, que pudieran resultar afectados por los trámites en proceso, una vez concluidos los mismos. En caso de que el solicitante de una certificación relacionada con el Folio Electrónico que fue afectado por una alerta preventiva, insista en su expedición, la Registradora o Registrador podrá emitir la certificación, incluyendo en la misma la o las alertas preventivas que existieren.
 
 La apertura de Folios Electrónicos se llevará a cabo conforme al procedimiento de migración o, en su caso, conforme a los procedimientos y requisitos establecidos en esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Artículo 60 BIS. El propietario, acreedor hipotecario, deudor hipotecario, la persona que tenga la propiedad o garantía fiduciarias, previo pago de derechos en los términos de la Ley de Ingresos del Estado Libre y Soberano de Nayarit para el ejercicio fiscal que corresponda, podrá conocer en tiempo real a través del servicio de alerta registral, de las solicitudes de inscripción o certificación que se ingresen en el Registro Público y que incidan en el inmueble sobre el cual se contrató el servicio.
+
+La alerta registral es de carácter exclusivamente informativo y referencial, sin que implique por sí misma la suspensión o denegación del trámite de registro, la solicitud respectiva se realizará conforme lo establezca el Registro Público de la Propiedad.
 
 ###### Artículo 61.
 
@@ -1746,3 +1768,11 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecinueve días del mes de julio del dos mil veintidós.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
