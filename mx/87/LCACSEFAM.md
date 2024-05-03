@@ -4,7 +4,7 @@ identifier: "LCACSEFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-09"
-last_updated: "2009-06-12"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCACSEFAM"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de febrero de 2006.
 
@@ -124,11 +124,15 @@ De acuerdo con lo dispuesto en este Capítulo, el tiempo de servicios es suscept
 
 No se harán más abonos o deducciones que los reconocidos expresamente en la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2024)</small>
+
 ###### Artículo 15.
 
-Se abonará doble tiempo al militar que:
+Se abonará doble tiempo al personal militar que:
 
-I. Se encuentre en campaña;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+I. Se encuentre en campaña o en operaciones;
 
 II. Preste sus servicios en áreas de hospitales o enfermerías militares consideradas como infectocontagiosas;
 
@@ -423,3 +427,13 @@ D.O.F. 12 DE JUNIO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA LEY PARA LA COMPROBACIÓN, AJUSTE Y CÓMPUTO DE SERVICIOS EN EL EJÉRCITO Y FUERZA AÉREA MEXICANOS, PARA DUPLICAR EL CÓMPUTO DE TIEMPO EN OPERACIONES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores del gasto en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
