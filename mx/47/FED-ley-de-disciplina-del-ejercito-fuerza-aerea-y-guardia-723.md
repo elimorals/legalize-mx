@@ -4,7 +4,7 @@ identifier: "FED-ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-723"
 country: "mx"
 rank: "ley"
 publication_date: "1926-03-15"
-last_updated: "2004-12-10"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=723&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1926-03-11"
 ---
 # LEY DE DISCIPLINA DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES LEY DE DISCIPLINA DEL EJERCITO Y FUERZA AEREA MEXICANOS -- ANTES LEY DE DISCIPLINA DEL EJERCITO Y DE LA ARMADA NACIONALES --
 
-LEY DE DISCIPLINA DEL EJERCITO Y FUERZA AEREA MEXICANOS
+LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 15 de marzo de 1926.
 
@@ -371,9 +371,9 @@ I.- Acordar las notas que hayan de ponerse en las Hojas de Servicios de los Ofic
 
 II.- Dictaminar sobre los castigos correccionales que deban imponerse desde Capitán 1o. hasta el Soldado, por faltas, cuyo conocimiento sea de la competencia de este Consejo.
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
-III.- Acordar se solicite la baja del Ejército y Fuerza Aérea por determinación de mala conducta, para el personal de Tropa y de los militares de la clase de auxiliar, y
+III.- Acordar se solicite la baja del Ejército y Fuerza Aérea por determinación de mala conducta, para el personal de Tropa, militares de la clase de auxiliar y discentes del Sistema Educativo Militar, y
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -470,3 +470,15 @@ D.O.F. 10 DE DICIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS Y DE LA LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, EN MATERIA DE DISCIPLINA DE DISCENTES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+Tercero.- En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.
+
+Cuarto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
