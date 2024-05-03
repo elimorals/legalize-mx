@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-municipio-del-nayar-nayarit-para-el-169072"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-27"
-last_updated: "2023-12-27"
+last_updated: "2024-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL MUNICIPIO DEL NAYAR, NAYARIT; PARA EL EJERCICIO FISCAL 2024
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en la Sección Sexta del Número 121 del Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2023.
 
