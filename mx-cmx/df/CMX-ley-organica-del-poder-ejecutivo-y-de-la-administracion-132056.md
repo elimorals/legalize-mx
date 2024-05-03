@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2023-10-06"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -526,7 +526,15 @@ XXXVI. Coordinar, en el ámbito de sus atribuciones, las acciones del Gobierno d
 
 XXXVII. Emitir, en el ámbito de su competencia y en coordinación con las Alcaldías, los lineamientos generales y medidas administrativas sobre el comercio, trabajo y servicios en la vía pública, que aseguren que estas actividades no se desarrollen en vías primarias, en áreas de acceso y tránsito de hospitales, estaciones de bomberos, en escuelas, en instalaciones del transporte público, en equipamiento o infraestructura destinada a la movilidad de las personas, en las áreas que determinen las instancias de protección civil y en las demás que especifiquen las leyes en la materia;
 
-XXXVIII. Vigilar, sistematizar e impulsar la actualización del padrón del comercio en la vía pública en coordinación con las Alcaldías; y
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2024)</small>
+
+XXXVIII. Vigilar, sistematizar e impulsar la actualización del padrón del comercio en la vía pública en coordinación con las Alcaldías;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2024)</small>
+
+XXXVIII. Bis. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de prevención, atención y promoción a la igualdad y combate a la discriminación, exclusión social, todas las formas de violencia, garantizando el ejercicio de los derechos económicos, sociales, culturales y ambientales, los derechos humanos y libertades fundamentales de las personas LGBTTTI+.
+
+Proporcionar atención psicosocial y acompañamiento a las personas LGBTTTI+ que sufren violencia y discriminación por orientación sexual, identidad, expresión de género, características sexuales o estatus serológico, y
 
 XXXIX. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
@@ -1206,13 +1214,17 @@ I. Diseñar, implementar, y evaluar acciones; políticas públicas y programas g
 
 II. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
 
-III. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones que promuevan la igualdad y combatan la discriminación, exclusión social, violencia, maltrato, abuso, garantizando el ejercicio de los derechos económicos, sociales, culturales y ambientales, los derechos humanos y libertades fundamentales de grupos sociales de atención prioritaria reconocidos por la Constitución Local siendo de manera enunciativa: niños, niñas y adolescentes, personas, mayores, personas jóvenes, personas con discapacidad, personas LGBTTTI, personas migrantes y sujetas a protección internacional, personas afrodescendientes, personas en situación de calle y personas residentes en instituciones de asistencia social;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2024)</small>
+
+III. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones que promuevan la igualdad y combatan la discriminación, exclusión social, violencia, maltrato, abuso, garantizando el ejercicio de los derechos económicos, sociales, culturales y ambientales, los derechos humanos y libertades fundamentales de grupos sociales de atención prioritaria reconocidos por la Constitución Local siendo de manera enunciativa: niños, niñas y adolescentes, personas mayores, personas jóvenes, personas con discapacidad, personas migrantes y sujetas a protección internacional, personas afrodescendientes, personas en situación de calle y personas residentes en instituciones de asistencia social;
 
 IV. Promover la coordinación de acciones y programas de combate a la pobreza que se ejecuten en la Ciudad;
 
 V. Establecer, fomentar, coordinar y ejecutar políticas, programas y acciones en materia de asistencia, inclusión y promoción social, así como de participación social y comunitaria en la Ciudad;
 
-VI. Formular, fomentar, coordinar y ejecutar políticas y programas de prevención y atención a grupos sociales en situación de vulnerabilidad social como son: personas en situación de calle, personas mayores, población con adicciones, personas que viven con el virus de la inmunodeficiencia humana, trabajadoras y trabajadores sexuales y personas transgénero, trasvesti e intersexuales;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2024)</small>
+
+VI. Formular, fomentar, coordinar y ejecutar políticas y programas de prevención y atención a grupos sociales en situación de vulnerabilidad social como son: personas en situación de calle, personas mayores, población con adicciones, personas que viven con el virus de la inmunodeficiencia humana, trabajadoras y trabajadores sexuales;
 
 VII. Establecer y vigilar el cumplimiento de normas y modelos de atención para grupos de alta vulnerabilidad en la Ciudad;
 
@@ -2411,3 +2423,13 @@ G.O. 6 DE OCTUBRE DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXXVIII Y SE ADICIONA UNA FRACCIÓN XXXVIII BIS AL ARTÍCULO 26; Y SE REFORMAN LAS FRACCIONES III Y VI DEL ARTÍCULO 34, AMBOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA DENOMINACIÓN DE LA LEY, SE REFORMAN LOS ARTÍCULOS 1 FRACCIONES I Y II; 2 PÁRRAFO PRIMERO Y SU FRACCIÓN I; 3 PÁRRAFO PRIMERO; 4 FRACCIONES I, II, III, IV, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIV, XXXVI, XXXVII, XXXVIII Y XXXIX, ADICIONÁNDOSE LAS FRACCIONES IV BIS Y IV TER, DEROGÁNDOSE LAS FRACCIONES XXXIII Y XXXV DEL MISMO; SE REFORMAN LOS ARTÍCULOS 5; 6 PÁRRAFO PRIMERO; 7, PÁRRAFO PRIMERO, FRACCIONES III Y IV; 8; 9 FRACCIÓN VII; 10, FRACCIONES I, II, IV, VI, VII Y VIII; LA DENOMINACIÓN DEL CAPÍTULO III, DEL TÍTULO PRIMERO; 11; 12, PÁRRAFO PRIMERO; 13, PÁRRAFO PRIMERO; 14, PÁRRAFO PRIMERO, FRACCIONES II Y III; 15; LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO PRIMERO; 16 PÁRRAFOS PRIMERO Y SEGUNDO; 17 PÁRRAFO PRIMERO, FRACCIONES I, II, III, IV Y V, ADICIONÁNDOSE LA FRACCIÓN VI AL MISMO; SE ADICIONAN LOS ARTÍCULOS 17 BIS Y 17 TER; SE REFORMAN LOS ARTÍCULOS 18 PÁRRAFO PRIMERO, FRACCIONES I Y II; 19, FRACCIONES I, II Y III; 20 FRACCIONES I Y II; 21, FRACCIONES II Y III; 22, FRACCIONES I Y III; 23 FRACCIONES III, V, VI Y VII; 24, FRACCIONES I, II, III, V Y VI; 25, FRACCION I; 26, FRACCIONES I, II, III Y IV; 27 FRACCIONES I Y II; 28, FRACCIONES I, II, III, IV, V, VI Y VII; 29, FRACCIONES I, II Y III; 30, PÁRRAFOS PRIMERO Y TERCERO; 31 PÁRRAFO PRIMERO, FRACCIONES I Y II, ADICIONANDOSE UN PÁRRAFO SEGUNDO AL MISMO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO III; SE REFORMAN LOS ARTÍCULOS 32; 33, PÁRRAFO PRIMERO, IV, V, VI, VII, VIII, IX, X, XI Y XIII, DEROGÁNDOSE LAS FRACCIONES I, II, III Y XII DEL MISMO; SE REFORMA EL ARTÍCULO 34, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO, DEROGÁNDOSE LOS PÁRRAFOS SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO DEL MISMO; SE REFORMA EL ARTÍCULO 35, PÁRRAFO PRIMERO, FRACCIONES I, II, IV, VI, VIII, IX Y X; SE DEROGAN LOS ARTÍCULOS 36, 37, 38, 39 Y 40; Y SE REFORMAN LOS ARTÍCULOS 41, FRACCIONES I Y III; 42, PÁRRAFO PRIMERO Y FRACCIÓN III; 43, PÁRRAFOS PRIMERO Y SEGUNDO, Y FRACCIÓN III; TODOS DE LA LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Inclusión y Bienestar de la Ciudad de México, habrá de concluir las acciones y programas en curso en la materia de la reforma del presente decreto, a más tardar en el ejercicio 2024.
