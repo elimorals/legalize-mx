@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-04-22"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3491,9 +3491,9 @@ Las concesiones no podrán transmitirse bajo ningún título, salvo en los casos
 
 El otorgamiento de concesiones de servicios públicos municipales se sujetará al reglamento respectivo, conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
-I.- El Ayuntamiento deberá aprobar y publicar la determinación relativa a la necesidad de otorgar en concesión el servicio público del que se trate, motivando la imposibilidad de prestarlo directamente o la conveniencia de otorgarlo en concesión;
+I.- El Ayuntamiento deberá aprobar y publicar la determinación relativa a la necesidad de otorgar en concesión el servicio público del que se trate, motivando la imposibilidad de prestarlo directamente o la conveniencia de otorgarlo en concesión; y dicha concesión solo podrá otorgarse, como máximo, por el periodo de vigencia de la administración pública municipal que la conceda;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
@@ -3699,11 +3699,11 @@ IV.- Concluido lo anterior, el Ayuntamiento dictará la declaratoria correspondi
 
 En los casos en que se determine la revocación de las concesiones, los bienes con los que se presta el servicio o la actividad de que se trate serán entregados inmediatamente al municipio, con excepción de aquella que sean propiedad del concesionario y que por su naturaleza no estén incorporados de manera directa al propio servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 159.
 
-Las concesiones podrán prorrogarse si el Ayuntamiento lo considera conveniente, siempre y cuando se cumplan los siguientes requisitos:
+Las concesiones podrán prorrogarse si el Ayuntamiento lo considera conveniente. De la misma manera, un nuevo Ayuntamiento podrá prorrogar las concesiones de la administración anterior, hasta por el periodo que dure la nueva administración municipal, realizando en su caso adecuaciones a la misma. En ambos casos, la prórroga procederá, siempre y cuando se cumplan los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
@@ -4616,3 +4616,9 @@ P.O. 22 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 845 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 120 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 860 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
