@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2021-07-28"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 4 de mayo de 2016.
 
@@ -1071,7 +1071,9 @@ V. Los indicadores relacionados con temas de interés público o trascendencia s
 
 VI. Los indicadores que permitan rendir cuenta de sus objetivos y resultados;
 
-VII. El directorio de todos los servidores públicos, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+
+VII. El directorio de todos los servidores públicos, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales, así como fotografía, previa autorización de la persona servidora pública;
 
 VIII. La remuneración bruta y neta de todos los servidores públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración;
 
@@ -2694,3 +2696,9 @@ TERCERO. El Consejo General del Instituto de Transparencia y Acceso a la Informa
 CUARTO. Para los procedimientos iniciados con anterioridad a la vigencia del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 QUINTO. Se declara la invalidez del OCTAVO TRANSITORIO del Decreto de la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO publicada en el Periódico Oficial del Estado de fecha 9 de octubre del año 2017; en su porción normativa ´El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro del año siguiente a su entrada en vigor´, Declarado inválido por el Pleno de la Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 42/2016.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL ““DECRETO NUM. 866 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 69 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
