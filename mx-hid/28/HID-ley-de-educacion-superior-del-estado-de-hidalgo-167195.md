@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-superior-del-estado-de-hidalgo-167195"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-03"
-last_updated: "2024-04-04"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Alcance Catorce del Número 31 del Periódico Oficial del Estado de Hidalgo, el jueves 3 de agosto de 2023.
 
@@ -412,6 +412,12 @@ A efecto de obtener el título profesional correspondiente al nivel de licenciat
 Las autoridades educativas promoverán con las instituciones de educación superior que, como una opción del servicio social, se realice el reforzamiento del conocimiento, a través de tutorías a educandos en el tipo educativo básico y de media superior en las áreas de matemáticas, lenguaje, comunicación y se proporcione acompañamiento en servicios de psicología, trabajo social, orientación educativa, entre otras, para contribuir a su máximo aprendizaje, desarrollo integral y equidad en educación.
 
 La Autoridad Educativa Federal y la Secretaría en coordinación con las instituciones de educación superior de la Entidad, promoverán que el servicio social sea reconocido como parte de su experiencia para el desempeño de sus labores profesionales.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Artículo 16 BIS. El servicio social podrá realizarse en municipios y en zonas naturales protegidas para la conservación, restauración del equilibrio ecológico y preservación del medio ambiente, restauración del equilibrio ecológico y saneamiento del agua.
+
+Además, podrán apoyar a los municipios dentro de los programas, la gestión y manejo especial de residuos sólidos urbanos.
 
 ###### Artículo 17.
 
@@ -1440,5 +1446,11 @@ RÚBRICA
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 827 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 865 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
