@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2024-02-14"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -135,11 +135,17 @@ IV. Dirección General: La persona titular de la Dirección General de IMSS-BIEN
 
 V. Entidades federativas: Las 32 partes integrantes de la Federación señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos.
 
-VI. Establecimientos de salud: Unidades de salud de primer nivel rurales o urbanos de 1 a 12 consultorios incluyendo las Unidades de especialidades médicas (UNEMES) y los Centros de Salud con Servicios ampliados (CESSA), segundo nivel hospitales comunitarios de 12 a 18 camas y Hospitales Generales de 30 a 180 camas y tercer nivel los hospitales y/o institutos de especialidades.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Establecimientos de salud: Unidades Médicas de primer nivel rurales o urbanos de 1 a 12 consultorios incluyendo las Unidades de especialidades médicas (UNEMES), Centros de Salud con Servicios Ampliados (CESSA), Centros de Salud con Hospitalización, segundo nivel hospitales comunitarios de 12 a 18 camas y Hospitales Generales de 30 a 180 camas y tercer nivel los hospitales y/o institutos de especialidades, además de los HRAE´S.
 
 VII. Estatuto: El Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
 
 VIII. FONSABI: Fondo de Salud para el Bienestar.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VIII Bis. HRAE´S: Los establecimientos de salud denominados Hospital Regional de Alta Especialidad de Ciudad Victoria “Bicentenario 2010”; Hospital Regional de Alta Especialidad del Bajío; Hospital Regional de Alta Especialidad de Ixtapaluca; Hospital Regional de Alta Especialidad de Oaxaca; Hospital Regional de Alta Especialidad de la Península de Yucatán; el Hospital de Especialidades Pediátricas en Tuxtla Gutiérrez; y, Hospital Ciudad Salud en Tapachula.
 
 IX. IMSS-BIENESTAR: El organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar.
 
@@ -347,7 +353,9 @@ VII. Suscribir convenios y acuerdos con instituciones de cualquier orden de gobi
 
 VIII. Suscribir convenios y acuerdos con instituciones de cualquier orden de gobierno para el intercambio de servicios a personas afiliadas a otras instituciones de salud.
 
-IX. Celebrar convenios de colaboración y/o de intercambio de tecnología con instituciones públicas o privadas, nacionales o extranjeras, cuyas actividades resulten afines con el objeto de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IX. Celebrar convenios de colaboración y/o específicos de intercambio de conocimiento y tecnología con instituciones públicas o privadas, nacionales o extranjeras, cuyas actividades resulten afines con el objeto de IMSS-BIENESTAR.
 
 X. Vigilar y ejecutar el cumplimiento del acuerdo de la Junta de Gobierno mediante el cual se autoricen donativos y pagos extraordinarios con apego a las disposiciones normativas aplicables.
 
@@ -359,7 +367,9 @@ XIII. Rendir el informe anual de actividades a la Junta de Gobierno, así como l
 
 XIV. Celebrar convenios de colaboración con el Instituto Mexicano del Seguro Social para la operación coordinada del Programa IMSS-BIENESTAR de conformidad con sus Reglas de Operación vigentes.
 
-XV. Presentar a la Junta de Gobierno las estrategias para la formación, capacitación y educación permanente del personal de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XV. Presentar a la Junta de Gobierno las estrategias para la formación, capacitación, educación permanente e investigación en salud en IMSS-BIENESTAR.
 
 XVI. Establecer, previa autorización de la Junta de Gobierno, un sistema de evaluación del desempeño y de gestión de la calidad para conocer y, en su caso, proponer programas, estrategias y acciones de mejora de IMSS-BIENESTAR.
 
@@ -410,6 +420,10 @@ g) Coordinación de Educación e Investigación.
 h) Coordinación de Programas Preventivos.
 
 i) Coordinación de Normatividad y Planeación Médica.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
+j) Coordinaciones de los Hospitales Regionales de Alta Especialidad.
 
 II. UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
@@ -485,11 +499,19 @@ VI. COORDINACIÓN DE ACCIÓN COMUNITARIA
 
 VII. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
 
-VIII. ÓRGANO INTERNO DE CONTROL
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
+a) División de Comunicación Social y Medios Alternativos.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VIII. ÓRGANO INTERNO DE CONTROL ESPECÍFICO
 
 IX. (DEROGADA, D.O.F. 14 DE FEBRERO DE 2024)
 
-El IMSS-BIENESTAR contará con un Órgano Interno de Control, que se regirá conforme a los artículos 58 y 59 del presente Estatuto.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
+El IMSS-BIENESTAR contará con un Órgano Interno de Control Específico, que se regirá conforme a los artículos 58 y 59 del presente Estatuto.
 
 ###### Artículo 22.
 
@@ -515,7 +537,9 @@ IV. Desempeñar las comisiones que les encomiende la persona titular de la Direc
 
 V. Establecer y presidir los comités que, en su caso, le correspondan de acuerdo con sus atribuciones, así como proponer creación de subcomités de conformidad con la normatividad aplicable.
 
-VI. Definir de conformidad a sus atribuciones y con base a la detección de necesidades de la Unidad el Plan de Capacitación, con el apoyo de la Coordinación de Recursos Humanos y/o de la Coordinación de Educación e Investigación, según corresponda.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Definir de conformidad a sus atribuciones y con base a la detección de necesidades de la Unidad, el Plan de Capacitación e Investigación en Salud, con el apoyo de la Coordinación de Recursos Humanos y/o de la Coordinación de Educación e Investigación, según corresponda.
 
 VII. Definir instrumentos, herramientas, acciones y procedimientos de mejora regulatoria en el ámbito de su competencia.
 
@@ -543,7 +567,9 @@ II. Acatar las medidas establecidas por el área coordinadora de archivos que pe
 
 III. Participar en los comités y subcomités conforme lo establezca la normatividad aplicable.
 
-IV. Definir de conformidad a sus atribuciones y con base a la detección de necesidades de la Coordinación el Plan de Capacitación, con el apoyo de la Coordinación de Recursos Humanos y/o de la Coordinación de Educación e Investigación, según corresponda.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IV. Definir de conformidad a sus atribuciones y con base a la detección de necesidades de la Coordinación, el Plan de Capacitación e Investigación en Salud, con el apoyo de la Coordinación de Recursos Humanos y/o de la Coordinación de Educación e Investigación, según corresponda.
 
 V. Definir instrumentos, herramientas, acciones y procedimientos de mejora regulatoria en el ámbito de su competencia.
 
@@ -577,7 +603,9 @@ IV. Difundir las políticas, normas, programas, procesos, estrategias, manuales 
 
 V. Planear y ejecutar, en coordinación con las unidades, coordinaciones y áreas que integran el IMSS-BIENESTAR, los procesos técnicos, médicos y administrativos necesarios, para el otorgamiento de la atención medico preventiva en las unidades de salud y hospitales.
 
-VI. Establecer, en coordinación con las autoridades del sistema nacional de salud correspondientes, así como con las demás unidades y coordinaciones de IMSS-BIENESTAR, los procesos para la gestión y obtención de los avisos de funcionamiento y licencias sanitarias necesarias, para la operación de las unidades de salud y hospitales de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Establecer las directrices para dar cumplimento a las obligaciones en materia de autorizaciones sanitarias y avisos de funcionamiento, para la operación de las unidades de salud y hospitales de IMSS-BIENESTAR.
 
 VII. Representar y asignar la participación de las áreas correspondientes de la unidad en los consejos, comités, grupos de trabajo o reuniones técnico-operativas, institucionales o del Sistema Nacional de Salud relacionados con los programas de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación así como la calidad y seguridad de la atención.
 
@@ -611,13 +639,17 @@ XXI. Dirigir las estrategias para la implementación y desarrollo del Modelo ún
 
 XXII. Determinar las necesidades de remodelación, ampliación o construcción de obras físicas para la prestación de servicios de salud, de acuerdo con el análisis técnico médico, así como gestionar su realización, con las diferentes unidades y coordinaciones de IMSS-BIENESTAR.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XXIII. Coordinar y aprobar la determinación de las necesidades de recursos humanos, equipo médico y mobiliario de salud, requeridas para que las unidades de atención médicas del IMSS-BIENESTAR cumplan los objetivos de los programas de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación, así como la calidad y seguridad de la atención que se otorga en las unidades de salud y hospitales de IMSS-BIENESTAR.
+XXIII. Coordinar y aprobar la determinación de las necesidades de recursos humanos, financieros, materiales e insumos, equipo e instrumental médico, mobiliario y equipos de laboratorio para cumplir con los objetivos de los programas de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, investigación en salud, enfermedades de alto costo, rehabilitación y paliación, así como la calidad y seguridad de la atención que se otorgará en las unidades de salud y hospitales del IMSS-BIENESTAR.
 
 XXIV. Dirigir la integración del catálogo de insumos y medicamentos con base al Compendio Nacional de Insumos para la Salud, que se aplicará en las unidades de salud y hospitales de IMSS-BIENESTAR por nivel de atención, para desarrollar los procesos de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación.
 
 XXV. Promover el uso de las tecnologías de información y comunicación disponibles en materia de promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, atención médica, enfermedades de alto costo, rehabilitación y paliación, así como la calidad y seguridad de la atención.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXVI. Aprobar la incorporación o baja de Establecimientos de Salud que se consideren como parte de la concurrencia para garantizar la prestación de los servicios de salud en aquellas Entidades Federativas que hayan suscrito el convenio de coordinación a que hace referencia el artículo 77 bis 16 A de la Ley General de Salud.
 
 ###### Artículo 26.
 
@@ -631,7 +663,9 @@ III. Establecer la metodología de evaluación del desempeño y mejora continua 
 
 IV. Representar a la Unidad en los consejos, comités, grupos de trabajo o reuniones técnico-operativas del Sistema Nacional de Salud referente a la actualización, creación, seguimiento, evaluación, asesoría, entre otras acciones, de los procesos de atención médica del primer nivel.
 
-V. Promover la gestión de los trámites procedentes de avisos de funcionamiento y licencias sanitarias necesarias de las unidades de salud de primer nivel, con los niveles de conducción de IMSS-BIENESTAR y autoridades del Sistema Nacional de Salud correspondientes, en vinculación (sic) las Coordinaciones de Unidades de Segundo Nivel y de Normatividad y Planeación Médica.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+V. Promover el cumplimiento de la normativa en materia de avisos de funcionamiento y licencias sanitarias y cualquier otro trámite relacionado a estas con los cuerpos de gobierno de las unidades de salud de primer nivel, en vinculación con las Coordinaciones Estatales de IMSS-BIENESTAR.
 
 VI. Establecer la cartera de servicios, plantilla de personal, catálogo de medicamentos e insumos, de acuerdo con la tipología de unidades de primer nivel móviles y fijas, que se deberán brindar a la población objetivo de IMSS-BIENESTAR en acuerdo con la (sic) Coordinaciones de Normatividad y Planeación Médica, y la Unidad de Administración y Finanzas.
 
@@ -693,7 +727,9 @@ XIII. Coordinar la implementación y desarrollo de la atención en nutrición y 
 
 XIV. Coordinar la implementación y desarrollo de la atención estomatológica preventiva, curativa y de especialidad que se otorgue en las Unidades de salud y hospitales del IMSS BIENESTAR.
 
-XV. Coordinar la gestión e instrumentar los trámites procedentes de los avisos de funcionamiento y licencias sanitarias necesarias de las unidades de salud y hospitales de IMSS-BIENESTAR, con las autoridades del Sistema Nacional de Salud correspondientes, con la Coordinación de Normatividad y Planeación Médica.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XV. Promover el cumplimiento de la normativa en materia de avisos de funcionamiento y licencias sanitarias y cualquier otro trámite relacionado a estas con los cuerpos de gobierno de las unidades de salud de segundo nivel, en vinculación con las Coordinaciones Estatales de IMSS-BIENESTAR.
 
 XVI. Coordinar la elaboración del diagnóstico de salud y programa anual de trabajo, así como su seguimiento respecto a los procesos de atención médica, al que se sujetarán los niveles de conducción y las unidades de segundo nivel de IMSS-BIENESTAR, en vinculación con las coordinaciones de la Unidad de Atención a la Salud y la Coordinación de Normatividad y Planeación Médica.
 
@@ -715,59 +751,95 @@ XXI. Validar la necesidad de los requerimientos de recursos humanos, infraestruc
 
 Son facultades y atribuciones de la Coordinación de Hospitales de Alta Especialidad y Programas Especiales:
 
-I. Definir las normas y procedimientos, con base en las políticas institucionales y del Sistema Nacional de Salud, respecto a la prestación de servicios médicos en las unidades de tercer nivel de IMSS-BIENESTAR y la atención de las enfermedades de alto costo.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-II. Diseñar los lineamientos técnicos operativos, formatos e instrumentos de los procesos de atención médica a los que se sujetarán las unidades de tercer nivel incluyendo la atención de las enfermedades de alto costo.
+I. Definir las normas y procedimientos, con base en las políticas institucionales, del Sistema Nacional de Salud, y lo establecido por el Modelo de Atención a la Salud para el Bienestar, respecto a la prestación de servicios médicos en las unidades de tercer nivel de IMSS-BIENESTAR y la atención de las enfermedades de alto costo.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-III. Establecer la metodología de evaluación del desempeño y mejora continua de los procesos hospitalarios de atención médica incluyendo la atención de las enfermedades de alto costo, a los que responderán las unidades de tercer nivel de IMSS-BIENESTAR, así como la evaluación de tecnología sanitaria, en vinculación con la Coordinación de Normatividad y Planeación Médica.
+II. Diseñar los lineamientos técnicos operativos, formatos e instrumentos de los procesos de atención médica que permitan la atención integral de los usuarios, a los que se sujetarán las unidades de tercer nivel de IMSS-BIENESTAR incluyendo la atención de las enfermedades de alto costo.
 
-IV. Representar a la Unidad en los consejos, comités, grupos de trabajo o reuniones técnico- operativas del Sistema Nacional de Salud referente a la actualización, creación, seguimiento, evaluación, asesoría, entre otras acciones, de los procesos hospitalarios de atención médica del tercer nivel y enfermedades de alto costo.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-V. Establecer la cartera de servicios, plantilla de personal, catálogo de medicamentos e insumos de acuerdo con la tipología de unidades de tercer nivel, que se deberán brindar a la población objetivo de IMSS-BIENESTAR.
+III. Establecer y asesorar sobre la metodología de evaluación del desempeño y mejora continua de los procesos hospitalarios de atención medica incluyendo la atención de las enfermedades de alto costo, a los que responderán las unidades de tercer nivel de IMSS-BIENESTAR, así como la evaluación de tecnología sanitaria, en vinculación con la Coordinación de Normatividad y Planeación Médica.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IV. Representar a la Unidad de Atención a la Salud en los consejos, comités, grupos de trabajo o reuniones técnico-operativas del Sistema Nacional de Salud referente a la actualización, creación, seguimiento, evaluación, asesoría, entre otras acciones, de los procesos hospitalarios de atención médica referentes al tercer nivel y enfermedades de alto costo, establecida por el Modelo de Atención a la Salud para el Bienestar.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+V. Establecer la cartera de servicios, plantilla de personal, catálogo de medicamentos e insumos de acuerdo con la tipología de unidades de tercer nivel establecida por el Modelo de Atención a la Salud para el Bienestar, que se deberán brindar a la población objetivo de IMSS-BIENESTAR.
 
 VI. Coordinar el grupo de expertos para la definición y atención de Enfermedades de Alto Costo financiadas por el Fondo de Salud para el Bienestar.
 
 VII. Definir y mantener actualizados los protocolos técnicos para la atención de las enfermedades de alto costo de manera colegiada, con sustento en la evidencia científica disponible y en el marco regulatorio sectorial e institucional.
 
-VIII. Coordinar el proceso de evaluación de casos clínicos que requieren la prescripción de medicamentos de alto costo y analizar las solicitudes de excepción que se presentará al Comité correspondiente para su aprobación.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VIII. Coordinar el proceso de evaluación de casos clínicos que requieren la prescripción de medicamentos de alto costo, así como revisar y analizar las solicitudes de excepción que se presentará al Comité correspondiente para su aprobación.
 
 IX. Difundir las recomendaciones para la prescripción de medicamentos para enfermedades de alto costo a los Jefes de Servicios de Atención a la Salud y Directores de Unidades de Segundo y Tercer Nivel de Atención.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-X. Acordar con las coordinaciones de Unidades de Primer Nivel, de Unidades de Segundo Nivel, de Normatividad y Planeación Médica y de Planeación Estratégica el desarrollo y actualización de la regionalización operativa y el sistema de referencia y contrarreferencia en los que se integrarán las unidades de tercer nivel de IMSS-BIENESTAR.
+X. Acordar con las coordinaciones de Unidades de Primer Nivel, de Unidades de Segundo Nivel, de Normatividad y Planeación Médica, así como con la Unidad de Planeación Estratégica y Coordinaciones Estatales, el desarrollo y actualización de la regionalización operativa y el sistema de referencia y contrarreferencia en los que se integrarán las unidades de tercer nivel de IMSS-BIENESTAR.
 
-XI. Establecer los criterios de operación relacionados con la calidad y seguridad de la atención para estandarizar el servicio otorgado en unidades del tercer nivel de atención, en vinculación con la Coordinación de Educación e Investigación.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XII. Coordinar el seguimiento al cumplimiento de los acuerdos de los Comités Médicos de las unidades de tercer nivel,
+XI. Establecer y asesorar el desarrollo de programas y proyectos orientados a mejorar la calidad y seguridad de la atención, de conformidad con las disposiciones aplicables, estandarizando el servicio otorgado en unidades del tercer nivel de atención, en vinculación con la Coordinación de Educación e Investigación.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XII. Coordinar y supervisar el seguimiento al cumplimiento de los acuerdos de los Comités Médicos de las unidades de tercer nivel.
 
 XIII. Establecer la vinculación con los responsables de la Secretaría de Salud a nivel federal y estatal de la operación de las Redes Integradas de Servicios de Salud para determinar los acuerdos o intercambios de servicios de atención médica de las unidades de tercer nivel de las entidades federativas donde el IMSS-BIENESTAR tenga presencia.
 
-XIV. Coordinar la elaboración del diagnóstico de salud y programa anual de trabajo, así como su seguimiento respecto a los procesos de atención médica, al que se sujetarán los niveles de conducción y las unidades de tercer nivel de IMSS-BIENESTAR, en vinculación con las coordinaciones de la Unidad de Atención a la Salud y la Coordinación de Planeación Estratégica.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XV. Promover la capacitación continua del personal de salud médico, paramédico y administrativo, sobre los procesos y programas de atención médica que se otorgan en las unidades de tercer nivel, en vinculación con la Coordinación de Educación e Investigación.
+XIV. Supervisar la elaboración e implementación del diagnóstico de salud y programa anual de trabajo, así como su seguimiento respecto a los procesos de atención médica, al que se sujetarán los niveles de conducción y las unidades de tercer nivel de IMSS-BIENESTAR, en vinculación con las coordinaciones de la Unidad de Atención a la Salud y la Coordinación de Planeación Estratégica.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XVI. Instrumentar la operación y seguimiento de los sistemas de información de la atención médica, de las acciones de prevención, de los sistemas de vigilancia epidemiológica y los aplicables que estén en uso en las unidades de tercer nivel de IMSS-BIENESTAR, en vinculación con las Coordinaciones de Planeación Estratégica, Normatividad y Planeación Médica y Epidemiología.
+XV. Promover la capacitación continua del personal de salud médico, paramédico y administrativo, sobre los procesos y programas de atención médica, así como aspectos técnicos y éticos con un enfoque integral, que se otorgan en las unidades de tercer nivel, en vinculación con la Coordinación de Educación e Investigación.
 
-XVII. Promover la ejecución de proyectos de investigación en salud, relacionada con los procesos de atención médica del tercer nivel, en vinculación con la Coordinación de Educación e Investigación.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XVIII. Coordinar las acciones para mejorar la capacidad de gestión del Cuerpo de Gobierno de las unidades de tercer nivel.
+XVI. Instrumentar y desarrollar en vinculación con las Coordinaciones de Planeación Estratégica, de Normatividad y Planeación Médica, y Epidemiología, la implementación, operación y seguimiento de los sistemas de información básica en materia de salud, atención médica, prevención, sistemas de vigilancia epidemiológica, gestión de enfermedades de alto costo y los aplicables que estén en uso en las unidades de tercer nivel de IMSS-BIENESTAR.
 
-XIX. Coordinar el seguimiento al cumplimiento de los requisitos legales y regulatorios que rigen a las unidades de tercer nivel, en vinculación con la Unidad Jurídica.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XX. Acordar con las áreas normativas y operativas involucradas, el marco institucional que regula la prestación de los servicios médicos ante nuevas necesidades de salud, incorporando las mejores prácticas profesionales, así como el conocimiento científico y principios éticos vigentes.
+XVII. Promover la ejecución de proyectos de investigación en salud y creación de alianzas estratégicas en colaboración con otras Instituciones de Sector Salud o Educativo, organismos nacionales o internacionales, que permitan fortalecer la capacidad científica y técnica, relacionada con los procesos de atención médica del tercer nivel y enfermedades de alto costo, en vinculación con la Coordinación de Educación e Investigación.
 
-XXI. Consolidar en forma sistemática las mejores prácticas clínicas para incorporarlas en los procesos de la atención médica y propiciar la excelencia clínica, en particular recursos como los Instrumentos de Gestión que ayuden a maximizar el uso de la evidencia y la gobernanza en salud.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XXII. Validar la evaluación sistemática y atención de las solicitudes de medicamentos y fármacos novedosos, sujetos a evaluación por grupos de expertos de programas especiales, formuladas por las unidades médicas de IMSS-BIENESTAR para pacientes específicos, para que, con base en los lineamientos del organismo en la materia, emitan las recomendaciones individualizadas para el tratamiento de las y los pacientes.
+XVIII. Coordinar las acciones para mejorar la capacidad de gestión y ejecución del Cuerpo de Gobierno de las unidades de tercer nivel.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIX. Promover el cumplimiento de la normativa en materia de avisos de funcionamiento y licencias sanitarias, y cualquier otro trámite relacionado a estas con los cuerpos de gobierno de las unidades de salud de tercer nivel, en vinculación con las Coordinaciones Estatales de IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XX. Acordar y establecer con las áreas normativas y operativas involucradas, el marco institucional que regula la prestación de los servicios médicos ante nuevas necesidades de salud, incorporando las mejores prácticas profesionales, así como el conocimiento científico y principios éticos vigentes.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Consolidar sistemáticamente prácticas clínicas de excelencia, sustentados en el uso de evidencia científica y gobernanza en salud a través de recursos como los instrumentos de gestión, para su incorporación en los procesos de atención médica.
+
+XXII. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
 > <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
 XXIII. Validar la necesidad de los requerimientos de recursos humanos, infraestructura, equipamiento médico, insumos, medicamentos y material de curación, que solicitan las unidades de tercer nivel en conjunto con la Coordinación de Normatividad y Planeación Médica y Coordinaciones vinculadas.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXIV. Promover la ejecución de proyectos de investigación en salud, relacionados con los procesos de atención médica y, de auxiliares de diagnóstico y tratamiento, en vinculación con la Coordinación de Educación e Investigación.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXV. Coordinar y asesorar a las Unidades de tercer nivel de IMSS-BIENESTAR sobre la vinculación con otras Unidades, así como Instituciones que integren el Sistema Nacional de Salud para la gestión de la integración o implementación de mejoras en la organización y administración de los procesos de atención médica de alta especialidad que se requieran.
 
 ###### Artículo 29.
 
@@ -805,7 +877,9 @@ XIV. Establecer la vinculación con las Coordinaciones de la Unidad para la defi
 
 Son facultades y atribuciones de la Coordinación de Supervisión:
 
-I. Diseñar e instrumentar los procedimientos y mecanismos de supervisión, asesoría e informes de resultados que serán útiles para sustentar la aplicación de normas, lineamientos y procedimientos, y así evaluar el desempeño de las unidades de salud y hospitales de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+I. Diseñar e instrumentar los procedimientos y mecanismos de supervisión, asesoría e informes de resultados que serán útiles para sustentar la aplicación de normas, lineamientos y procedimientos, y así evaluar el desempeño de los Establecimientos de Salud de IMSS-BIENESTAR.
 
 II. Organizar la participación de las coordinaciones de la Unidad de Atención a la Salud, de la Unidad de Administración y Finanzas, así como de las Coordinaciones de Acción Comunitaria y de Planeación Estratégica en la creación de los instrumentos de evaluación que serán aplicados en la supervisión de las unidades de salud y hospitales y equipos de conducción.
 
@@ -871,7 +945,9 @@ II. Coordinar la implementación, estandarización, conducción y evaluación de
 
 III. Proponer e implementar el uso de medios y tecnologías para la educación del personal de conducción y operativo de IMSS-BIENESTAR.
 
-IV. Establecer y coordinar el seguimiento del sistema de reconocimiento y estímulos al personal de IMSS-BIENESTAR bajo los estándares de calidad.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IV. Establecer y coordinar el sistema de calificación curricular, reconocimiento, estímulos de productividad, permanencia y promoción de los investigadores de IMSS-BIENESTAR, bajo los estándares de calidad.
 
 V. Coordinar la administración, implementación y estandarización de los procesos de formación en personal de salud de pregrado, posgrado, técnicos y pos técnicos, en vinculación con la Coordinación de Recursos Humanos.
 
@@ -879,13 +955,17 @@ VI. Promover la formación del personal en salud a través de diplomados, especi
 
 VII. Desarrollar e implementar el programa de investigación en salud identificando las líneas de investigación estratégica que respondan a las necesidades y panorama epidemiológico de la población usuaria de los servicios de IMSS-BIENESTAR en vinculación de las Coordinaciones de Unidades de Primer Nivel, Unidades de Segundo Nivel, de Hospitales de Alta Especialidad y Programas Especiales, Enfermería, Epidemiología y Programas Preventivos.
 
-VIII. Supervisar la implementación de los proyectos de investigación y la difusión de sus resultados a través de los diversos medios que se tengan disponibles en el IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-IX. Promover la participación del personal de IMSS-BIENESTAR en los proyectos de investigación en el marco del programa de investigación en salud, así como de lo estipulado por la comunidad científica nacional e internacional.
+VIII. Gestionar el registro, revisión, dictaminación, seguimiento, modificación, suspensión, cierre y difusión de resultados de los proyectos de investigación en salud, a través de los diversos medios de comunicación que se tengan disponibles en el IMSS-BIENESTAR.
+
+IX. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
 X. Coordinar la vinculación con instituciones educativas y de investigación científica, nacionales e internacionales, que contribuyan en la formación de personal de salud y desarrollo de conocimiento científico.
 
-XI. Dirigir la integración y funcionamiento del Comité de Bioética e Investigación del IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XI. Dirigir la integración y funcionamiento de los Comités de Ética en Investigación, el de Investigación y el de Bioseguridad de IMSS-BIENESTAR.
 
 XII. Definir los procesos y estrategias para la implementación del Modelo Único de evaluación de la calidad de las unidades de salud y hospitales de IMSS-BIENESTAR que emite el Consejo de Salubridad General.
 
@@ -921,7 +1001,13 @@ XII. Participar en los consejos, comités, grupos de trabajo o reuniones técnic
 
 XIII. Promover la participación interinstitucional e intersectorial para la prevención y reducción de la morbilidad y mortalidad de mujeres, hombres, personas recién nacidas, niñas, niños, adolescentes, personas mayores y grupos vulnerables.
 
-XIV. Promover la ejecución de proyectos de investigación operativa, relacionados con la prevención y reducción de la morbilidad y mortalidad de mujeres, hombres, personas recién nacidas, niñas, niños, adolescentes, personas mayores y grupos vulnerables.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIV. Promover la ejecución de proyectos de investigación en salud, relacionados con la prevención y reducción de la morbilidad y mortalidad de mujeres, hombres, personas recién nacidas, niñas, niños, adolescentes, personas mayores y grupos vulnerables.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XV. Promover mecanismos para la recepción y dispersión de recursos públicos y privados para proyectos de investigación de los protocolos que se realicen en las unidades y hospitales del IMSS-BIENESTAR.
 
 ###### Artículo 34.
 
@@ -939,7 +1025,7 @@ V. Validar en vinculación con la Coordinación de Epidemiología, la operación
 
 VI. Contribuir en la normatividad de proyectos de investigación operativa, relacionada con los procesos de atención médica del primero, segundo y tercer nivel de IMSS-BIENESTAR, en vinculación con la Coordinación de Educación e Investigación.
 
-VII. Consolidar la gestión (sic) los trámites para la obtención de avisos de funcionamiento y licencias sanitarias de las unidades de salud de primer, segundo y tercer nivel de atención, con los niveles de conducción de IMSS-BIENESTAR y autoridades sectoriales correspondientes.
+VII. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
 > <small>(F. DE E., D.O.F. 25 DE OCTUBRE DE 2023)</small>
 
@@ -963,19 +1049,69 @@ XV. Coordinar la integración de necesidades de medicamentos y otros insumos ese
 
 XVI. Instrumentar las metas e indicadores de evaluación del desempeño de los procesos de atención médica aplicables a las unidades del primero, segundo y tercer nivel de IMSS-BIENESTAR.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
+###### Artículo 34 Bis.
+
+Son facultades y atribuciones de las Coordinaciones en cada uno de los Hospitales Regionales de Alta Especialidad.
+
+I. Difundir y controlar el desempeño y aplicación de las políticas, normas, planes, programas y estrategias institucionales referentes a la promoción de la salud, prevención y control de enfermedades, vigilancia epidemiológica, farmacovigilancia, atención médica, enfermedades de alto costo, rehabilitación y paliación, educación e investigación en salud de las Coordinaciones de Hospitales Regionales de Alta Especialidad de IMSS-BIENESTAR para la implementación del Modelo de Atención a la Salud para el Bienestar en vinculación con las Coordinaciones competentes adscritas a las Unidad de Atención a la Salud.
+
+II. Proporcionar los servicios médico-quirúrgicos, ambulatorios y hospitalarios de alta especialidad relacionados con la salud.
+
+III. Fungir como Hospital de referencia dentro de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
+
+IV. Impulsar a la investigación científica de excelencia en alta especialidad en los campos básico, clínico, epidemiológico y de servicios de salud; la generación de conocimientos sobre el origen de las enfermedades, sus causas y tratamientos, considerando para la priorización las necesidades de atención y las condiciones demográficas y epidemiológicas.
+
+V. Difundir información técnica y científica sobre los avances que en materia de salud registre, así como publicar los resultados de los trabajos de investigación que realice en vinculación con la Coordinación de Educación e Investigación.
+
+VI. Formar recursos humanos capacitados en el campo de las especialidades y subespecialidades médicas con que cuentan, así como contar con programas de posgrado en vinculación con la Coordinación de Educación e Investigación.
+
+VII. Diseñar y ejecutar programas y cursos de capacitación, enseñanza y especialización de personal profesional, técnico y auxiliar en su ámbito de responsabilidad en vinculación con la Coordinación de Educación e Investigación.
+
+VIII. Establecer un Sistema de Mejora Continua de la calidad de los servicios de atención médica y de la seguridad que se brinda a los usuarios.
+
+IX. Participar en la ejecución de los programas sectoriales, especiales y regionales de salud, acorde con los servicios que ofrezca.
+
+X. Prestar servicios de alta especialidad a otros organismos, órganos, entidades o instituciones públicas que lo requieran, de acuerdo a los convenios que para el efecto celebre.
+
+XI. Coordinar la elaboración del diagnóstico sobre las necesidades del personal, medicamentos e insumos médicos, mobiliario y equipamiento médico e infraestructura en salud requerida para su operación, con la finalidad de gestionar los recursos que se requieran ante las Unidades de Atención a la Salud, Administración y Finanzas e Infraestructura, conforme a su ámbito de competencia.
+
+XII. Dirigir la elaboración del programa anual de trabajo de las Coordinaciones de los Hospitales Regionales de Alta Especialidad, para su presentación a la persona Titular de la Unidad de Atención a la Salud de IMSS-BIENESTAR.
+
+XIII. Representar a IMSS-BIENESTAR en los actos jurídicos en los que sea parte en el ámbito de su competencia, ante todas las autoridades administrativas y jurisdiccionales, previa autorización de la Unidad Jurídica; así como en aquellos trámites que sean necesarios para la gestión de licencias y autorizaciones necesarias para su operación.
+
+XIV. Dirigir las acciones de administración y supervisión de los recursos humanos, materiales, financieros, técnicos y tecnológicos asignados a las Coordinaciones de los Hospitales Regionales de Alta Especialidad, de conformidad con lo establecido por las Coordinaciones competentes adscritas a la Unidad de Administración y Finanzas.
+
+XV. Coordinar las gestiones para la creación y operación de los comités y subcomités que, en su caso, se requieran para su operación previa autorización de las Unidades o Coordinaciones de IMSS-BIENESTAR, de conformidad con el ámbito de su competencia.
+
+XVI. Coordinar la supervisión de la atención a las auditorías u otros actos de fiscalización que lleven a cabo las diversas autoridades competentes, de conformidad con lo establecido por la Coordinación de Contabilidad y Trámite de Erogaciones.
+
+XVII. Expedir copias certificadas de los documentos que obren en sus archivos relativos al ámbito de su competencia; así como instrumentar las medidas necesarias que permitan la organización, el resguardo y la conservación de dicha documentación.
+
+XVIII. Rendir el informe anual de actividades a la Unidad de Atención a la Salud, así como los informes periódicos que ésta le solicite; las Coordinaciones de Hospitales Regionales de Alta Especialidad serán responsables de la calidad y oportunidad de la información reportada.
+
+XIX. Administrar el ejercicio y comprobación de los recursos asignados a los fondos fijos o revolventes destinados para la adquisición de materiales, bienes y servicios necesarios para la operación de los HRAE’S, conforme a los criterios que emitan las Coordinaciones adscritas a la Unidad de Administración y Finanzas.
+
+XX. Coordinar y supervisar la recepción, registro y suministro de almacenes de medicamentos, material de curación e insumos a la salud, procurando el adecuado uso de los mismos.
+
+XXI. Coordinar y vigilar el cumplimiento de las disposiciones normativas y administrativas en materia de tecnologías de la información, comunicaciones y seguridad informática acordes con el Programa Institucional del IMSS-BIENESTAR, que contribuyan a la sistematización, actualización, calidad, optimización de funciones y procesos de los Hospitales Regionales de Alta Especialidad; en coordinación y conforme lo establezca la Coordinación de Tecnologías de la Información.
+
 #### SECCIÓN SEGUNDA. UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
 ###### Artículo 35.
 
 Son facultades y atribuciones de la Unidad de Administración y Finanzas:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-I. Establecer las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir la gestión de los recursos humanos, financieros, la conservación de bienes muebles e inmuebles, seguridad en los inmuebles, servicios generales e inversión, abastecimiento de insumos, servicios de administración, servicios informáticos y de comunicaciones, equipamiento, contratación de servicios incluido dentro de estos el mantenimiento de bienes inmuebles cuando no implique una modificación al mismo, la atención a órganos fiscalizadores, así como darles seguimiento y verificar su observancia de conformidad con la política que determine la persona titular de la Dirección General y las autoridades correspondientes.
+I. Establecer las normas, criterios, sistemas y procedimientos de carácter administrativo que deban regir la gestión de los recursos humanos, financieros, la conservación de bienes muebles e inmuebles, seguridad en los inmuebles, servicios generales e inversión, abastecimiento de insumos, servicios de administración, servicios de tecnologías de la información y comunicación, equipamiento, contratación de servicios, la atención a órganos fiscalizadores, así como darles seguimiento y verificar su observancia de conformidad con la política que determine la persona titular de la Dirección General y las autoridades correspondientes.
 
 II. Autorizar la realización de gestiones administrativas para la obtención de recursos para el pago de juicios contenciosos y laborales y, en su caso, instrumentar acciones administrativas en aquellas controversias que obliguen al IMSS-BIENESTAR a cumplir con la resolución respectiva.
 
-III. Coordinar la administración de los servicios de tecnologías de la información y de comunicaciones de las unidades y coordinaciones de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+III. Coordinar la administración de los servicios de tecnologías de la información y de comunicaciones de las unidades y coordinaciones de IMSS-BIENESTAR, tanto a nivel central como en las Coordinaciones Estatales, así como los establecimientos públicos de salud en el primer, segundo y tercer nivel de atención.
 
 IV. Planear con la persona titular de la Dirección General la definición de la política laboral del IMSS-BIENESTAR, coordinar su aplicación y vigilar su estricta observancia, así como establecer lineamientos en materia administrativa y laboral con apoyo de la Unidad Jurídica del IMSS-BIENESTAR.
 
@@ -1073,11 +1209,15 @@ XVI. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus
 
 XVII. Determinar los programas para la gestión, la programación del presupuesto, la información programática, el trámite de erogaciones, la tesorería, la planeación y análisis financiero, la cartera de inversión.
 
-XVIII. Elaborar los criterios generales y específicos para la administración del patrimonio, incluido lo correspondiente a inmuebles federales; así como para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+XVIII. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
 XIX. Coordinar que los donativos y pagos extraordinarios se lleven a cabo conforme a las disposiciones legales aplicables y verificar que los mismos se apliquen a los fines señalados en el Acuerdo de la Junta de Gobierno respectivo y a lo autorizado por la Dirección General.
 
 XX. Elaborar los informes contable-presupuestales periódicos, para la atención de las dependencias y entidades del gobierno federal y del Congreso de la Unión, en los que se especifiquen los avances y el cierre del ejercicio fiscal del que se trate.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Integrar y registrar el seguimiento a los indicadores de desempeño de los programas presupuestarios de IMSS-BIENESTAR en los sistemas que establezca la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 37.
 
@@ -1093,13 +1233,17 @@ IV. Dirigir la aplicación de los mecanismos de control correspondientes al trá
 
 V. Notificar a la Secretaría de Hacienda y Crédito Público, los ingresos de ley que sean captados por las unidades administrativas de IMSS-BIENESTAR.
 
-VI. Coordinar la elaboración del programa de aseguramiento de inmuebles, para la contratación y administración de las pólizas de los seguros que dan protección al patrimonio de IMSS-BIENESTAR.
+VI. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
-VII. Establecer criterios para clasificar, tramitar y registrar las operaciones contables de IMSS-BIENESTAR, con el objeto de fortalecer la integridad contable y cumplir con los términos definidos en la regulación aplicable.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VII. Establecer criterios para clasificar, tramitar y registrar las operaciones contables de IMSS-BIENESTAR, con el objeto de fortalecer la integridad contable y la rendición de cuentas a efecto de cumplir con los términos definidos en la regulación aplicable.
 
 VIII. Someter a la consideración y autorización de la persona titular de la Unidad de Administración y Finanzas, el catálogo de cuentas y el manual de contabilidad, en el interés de que sean puestas a consideración de las autoridades superiores.
 
-IX. Coordinar la integración de los estados financieros de IMSS-BIENESTAR, con el propósito de someterlos a la autorización de la persona titular de la Unidad de Administración y Finanzas, y su posterior presentación ante la Dirección General y la Junta de Gobierno del Organismo, así como también, para la toma de decisiones.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IX. Coordinar la integración de la información remitida por las unidades responsables para la elaboración de los estados financieros de IMSS-BIENESTAR, con el propósito de someterlos a la autorización de la persona titular de la Unidad de Administración y Finanzas, y su posterior presentación ante la Dirección General y la Junta de Gobierno del Organismo, así como también, para la toma de decisiones.
 
 X. Coordinar, entre las coordinaciones que conforman la Unidad de Administración y Finanzas, la integración de la Cuenta de la Hacienda Pública Federal, así como los demás informes aplicables en la materia, con fines de rendición de cuentas.
 
@@ -1117,9 +1261,21 @@ XVI. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus
 
 XVII. Elaborar la información relativa a la cuenta de la Hacienda Pública Federal, a fin de cumplir con la normatividad en la materia.
 
-XVIII. Coordinar la integración del proyecto de presupuesto anual de operación, para el ejercicio de las funciones y cumplimiento de los objetivos de IMSS BIENESTAR, así como controlar el comportamiento del ejercicio del presupuesto autorizado.
+XVIII. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
-XIX. Elaborar los criterios generales y específicos para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, así como de los fideicomisos que forme parte, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+XIX. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XX. Coordinar y presentar para aprobación del Titular de la Unidad de Administración y Finanzas, los informes contables y financieros que deban rendirse ante las dependencias y entidades competentes del Gobierno Federal, así como el Congreso de la Unión, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Coordinar el trámite de pago a proveedores y prestadores de servicios de IMSS-BIENESTAR, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXII. Proporcionar orientación en materia fiscal, realizar consultas y trámites ante las autoridades tributarias.
 
 ###### Artículo 38.
 
@@ -1187,9 +1343,9 @@ V. Establecer, en el ámbito de su responsabilidad, las directrices para las Con
 
 VI. Validar, en el ámbito de su competencia, las solicitudes de adquisiciones, arrendamientos y servicios que emitan las áreas requirentes de IMSS-BIENESTAR, con el objeto de que se elaboren de conformidad con las leyes, reglamentos, políticas, bases, lineamientos, acuerdos institucionales y demás disposiciones vigentes dictadas por los órganos superiores, además de determinar la posibilidad de realizar una consolidación interna de requerimientos, buscando con ello, garantizar las mejores condiciones del mercado.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VII. Llevar a cabo los procedimientos de contratación, desde la investigación de mercado hasta la contratación de la adquisición y mantenimiento de bienes muebles, inmuebles cuando no impliquen una modificación al mismo, equipo médico, equipo electrónico, equipo electromecánico, parque vehicular; además de la contratación de los servicios generales, servicios médicos, servicios médicos integrales, servicios complementarios, entre otros, que sean requeridos para las oficinas centrales y los hospitales que formen parte de IMSS BIENESTAR, con la finalidad de definir las líneas rectoras en los procesos operativos.
+VII. Llevar a cabo los procedimientos de contratación, desde la investigación de mercado hasta la contratación de la adquisición y mantenimiento de bienes muebles, inmuebles cuando no impliquen una modificación al mismo, equipo médico, equipo electrónico, equipo electromecánico, parque vehicular; además de la contratación de los servicios generales, servicios médicos, servicios médicos integrales, servicios complementarios así como el programa de aseguramiento de inmuebles entre otros, que sean requeridos para las oficinas centrales y los hospitales que formen parte de IMSS-BIENESTAR, con la finalidad de definir las líneas rectoras en los procesos operativos.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -1247,9 +1403,13 @@ III. Coordinar y difundir los planes estratégicos de abastecimiento de bienes d
 
 IV. Supervisar la ejecución y evaluación del proceso de abasto de bienes de consumo y servicios a través del diseño de indicadores, parámetros y la información que se genere en el desempeño de las atribuciones del área.
 
-V. Coordinar la elaboración y evaluación del presupuesto anual de gastos de bienes (sic) servicios a nivel nacional, en el ámbito de su competencia, a efecto de someterlo (sic) consideración de la Unidad de Administración y Finanzas.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VI. Coordinar las acciones de evaluación del proceso de abasto institucional de bienes de consumo y contratación de servicios, promoviendo la eficiencia y eficacia de este y en su caso proponer medidas preventivas y correctivas.
+V. Coordinar la elaboración y evaluación del presupuesto anual de gastos de bienes y servicios a nivel nacional, en el ámbito de su competencia, a efecto de someterlo a consideración de la Unidad de Administración y Finanzas.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Coordinar las acciones de evaluación y contratación en el proceso de abasto institucional de bienes y servicios, promoviendo la eficiencia y eficacia de este y en su caso proponer medidas preventivas y correctivas.
 
 VII. Supervisar la operación del sistema de abasto de IMSS-BIENESTAR y demás sistemas relacionados con el abasto nacional y proponer las mejoras que se requieran.
 
@@ -1263,13 +1423,15 @@ XI. Autorizar el canje o devolución de bienes recibidos en nivel central con la
 
 XII. Coordinar la distribución de los bienes requeridos para los Programas Nacionales de Vacunación y campañas especiales en coordinación con la Unidad de Atención a la Salud y vigilar el arribo de productos a las unidades almacenarías del sistema de abasto.
 
-XIII. Determinar las necesidades de los servicios que se requieren para la distribución de los bienes de consumo de los almacenes centrales a las unidades médicas y a las representaciones estatales, a efecto de que se realicen los procesos licitatorios.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIII. Determinar los servicios que se requieren para la distribución de los bienes de consumo en los almacenes centrales de las unidades médicas y representaciones estatales, a efecto de realizar los procesos licitatorios.
 
 XIV. Coordinar el seguimiento al grado de cumplimiento de las entregas programadas que realicen las y los proveedores en los almacenes de nivel central.
 
 XV. Verificar el cumplimiento de las normas y procedimientos establecidos para la recepción, almacenamiento y distribución de los diferentes bienes de consumo adquiridos.
 
-XVI. Supervisar los trámites para el pago de fletes y maniobras de los bienes de consumo que se adquieran y almacenen centralmente.
+XVI. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
 XVII. Contribuir con las comisiones, comités y cuerpos colegiados que en materia de abastecimiento se integren, o en su caso, instruir a su personal para que se integre a los mismos.
 
@@ -1279,7 +1441,9 @@ XIX. Coordinar y supervisar la capacitación a nivel nacional, respecto a las et
 
 XX. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
 
-XXI. Elaborar los criterios generales y específicos para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, así como de los fideicomisos que forme parte, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Proponer criterios generales y específicos para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, en colaboración con las áreas competentes del organismo.
 
 ###### Artículo 41.
 
@@ -1303,7 +1467,9 @@ VIII. Validar las propuestas de las unidades y coordinaciones de IMSS-BIENESTAR 
 
 IX. Validar criterios normativos con relación a la aplicación de las Condiciones Generales de Trabajo, en el ámbito de su competencia y difundirlos en el IMSS-BIENESTAR en vinculación con la Unidad Jurídica.
 
-X. Supervisar el cumplimiento de la ejecución de las resoluciones emitidas por el Órgano Interno de Control por las unidades y coordinaciones de IMSS-BIENESTAR, así como de sus representaciones estatales, que impone como sanción administrativa, la destitución e inhabilitación de personas trabajadoras u otras sanciones, así como las emitidas por los tribunales competentes.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+X. Supervisar el cumplimiento de la ejecución de las resoluciones emitidas por el Órgano Interno de Control Específico por las unidades y coordinaciones de IMSS-BIENESTAR, así como de sus representaciones estatales, que impone como sanción administrativa, la destitución e inhabilitación de personas trabajadoras u otras sanciones, así como las emitidas por los tribunales competentes.
 
 XI. Coordinar, en su ámbito de competencia, la atención y resolución de las peticiones sindicales, solicitudes y consultas planteadas por las unidades y coordinaciones de IMSS-BIENESTAR, en apego a lo establecido en las Condiciones Generales de Trabajo y la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
@@ -1325,87 +1491,159 @@ XIX. Elaborar los criterios generales y específicos para la asignación, ejerci
 
 XX. Coordinar los programas en materia de clima y cultura organizacional del IMSS-BIENESTAR.
 
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Autorizar el inicio de labores de las personas que ocuparán las áreas de las Unidades y Coordinaciones de IMSS-BIENESTAR, conforme a las propuestas realizadas por las personas Titulares de las Unidades y Coordinaciones, previa valoración de acuerdo a su ámbito de competencia.
+
 ###### Artículo 42.
 
 Son facultades y atribuciones de la Coordinación de Administración de Nómina Federalizada e IMSS-BIENESTAR:
 
-I. Proponer políticas, normas, planes, programas, proyectos y sistemas para la administración de la nómina federalizada e IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-II. Fungir como ventanilla única de las entidades federativas para atender las consultas y solicitudes en materia de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR.
+I. Proponer las políticas, normas, planes, programas, proyectos, criterios, manuales, lineamientos, disposiciones y procedimientos, respecto a la administración, registro, gestión, recepción, dispersión de la nómina, así como de control de plazas.
 
-III. Administrar y operar el proceso de control de plazas relacionados con la nómina federalizada e IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-IV. Conciliar y registrar, conforme a la normatividad aplicable, los movimientos de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR.
+II. Fungir como ventanilla única de las entidades federativas y de las Coordinaciones Estatales, para atender las consultas y solicitudes en materia de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR.
 
-V. Retener y enterar las cantidades que por concepto de impuestos federales y seguridad social deban cubrirse respecto de los pagos por concepto de nómina, prestaciones y seguridad social, que se realicen con cargo a la nómina federalizada e IMSS-BIENESTAR, de conformidad con las disposiciones jurídicas aplicables, así como otras cantidades que, en su caso, deban retenerse con base en la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VI. Integrar y difundir la información en materia de servicios personales relacionados con de (sic) la nómina federalizada e IMSS-BIENESTAR.
+III. Coordinar, administrar y operar el proceso de control y registro de plazas relacionadas con la nómina federalizada e IMSS-BIENESTAR.
 
-VII. Formular el anteproyecto de presupuesto de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR, en los términos establecidos por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VIII. Desarrollar y dar mantenimiento, en coordinación con el área encargada de tecnologías de la información y comunicaciones de IMSS-BIENESTAR, al sistema de administración de Nómina Federalizada que se implemente.
+IV. Administrar, conciliar y registrar, conforme a la normatividad aplicable, los movimientos de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR.
 
-IX. Llevar a cabo las acciones correspondientes para que el pago y los movimientos de personal relacionados con la nómina federalizada e IMSS-BIENESTAR se realicen a través del sistema de administración de nómina que se implemente.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+V. Retener y gestionar el entero por concepto de seguridad social e impuestos federales y locales derivados del pago de salarios y prestaciones que se realicen con cargo a la nómina federalizada e IMSS-BIENESTAR, de conformidad con las disposiciones jurídicas aplicables, así como otras cantidades que, en su caso, deban retenerse con base en la normatividad aplicable.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Integrar y difundir la información en materia de servicios personales relacionada con el proceso de la nómina federalizada e IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VII. Formular el anteproyecto de presupuesto regularizable de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR, en los términos establecidos por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VIII. Desarrollar y mantener actualizado, en coordinación con el área encargada de tecnologías de la información y comunicaciones de IMSS-BIENESTAR, el sistema de administración de nómina federalizada e IMSS-BIENESTAR que se implemente.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IX. Llevar a cabo las acciones correspondientes para que el pago y los movimientos de personal que integra tanto la nómina federalizada como la de IMSS-BIENESTAR se realicen a través del sistema de administración de nómina que se implemente.
 
 X. Administrar y operar, en términos de las disposiciones jurídicas aplicables, el sistema de administración de nómina Federalizada e IMSS-BIENESTAR.
 
-XI. Proporcionar apoyo y asesoría a las unidades administrativas de IMSS BIENESTAR para la mejora de procesos, innovación y transparencia en materia de servicios personales relacionados con la Nómina Federalizada e IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+XI. Proporcionar apoyo y asesoría a las unidades administrativas de IMSS-BIENESTAR para la mejora de procesos, innovación y transparencia en materia de servicios personales relacionados con la nómina federalizada e IMSS-BIENESTAR.
 
-XII. Dirigir la elaboración y actualización de la estructura orgánica básica y no básica, de las Unidades y Coordinaciones del IMSS-BIENESTAR con la finalidad de observar los criterios establecidos por la Secretaría de la Función Pública y la Secretaría de Hacienda y Crédito Público, así como, para su presentación a la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XII. Coordinar la elaboración y actualización de la estructura orgánica básica y no básica, de las Unidades y Coordinaciones del IMSS-BIENESTAR, con la finalidad de observar los criterios establecidos por la Secretaría de la Función Pública y la Secretaría de Hacienda y Crédito Público, así como, para su presentación a la Junta de Gobierno.
 
 XIII. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
 
-XIV. Definir los programas para el control del presupuesto correspondiente a la nómina federalizada e IMSS-BIENESTAR.
+XIV. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
 
-XV. Elaborar los criterios generales y específicos para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, así como de los fideicomisos que forme parte, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+XV. (DEROGADA, D.O.F. 3 DE MAYO DE 2024)
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVI. Controlar, administrar y validar los procesos de nómina.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVII. Coordinar el proceso de nómina previa validación de la Coordinación de Recursos Humanos; con la finalidad de elaborar el cálculo, generación, validación, comprobación y cierre de nómina.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVIII. Vigilar la aplicación de la actualización del catálogo de puestos y los tabuladores de sueldos, así como de las remuneraciones y prestaciones a las que tenga derecho el personal que integra la nómina federalizada e IMSS-BIENESTAR.
 
 ###### Artículo 43.
 
 Son facultades y atribuciones de la Coordinación de Tecnologías de la Información:
 
-I. Definir, elaborar y establecer las políticas, normas, lineamientos, metodologías y programas en materia de tecnologías de la información, comunicaciones y seguridad informática acordes con el Plan Estratégico Institucional, que contribuyan a la sistematización, actualización, calidad, optimización de funciones y procesos de las unidades y coordinaciones de IMSS-BIENESTAR, tanto a nivel central como en las representaciones estatales, en el ámbito de sus facultades.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-II. Establecer los criterios que las unidades y coordinaciones de IMSS-BIENESTAR, a nivel central y en las representaciones estatales, así como las unidades de salud y hospitales de IMSS-BIENESTAR deberán seguir para la observancia de las políticas, normas y procedimientos vigentes en materia de tecnologías de información, comunicaciones y seguridad informática.
+I. Definir, elaborar y establecer las políticas, normas, lineamientos, metodologías y programas en materia de Tecnologías de la Información, Comunicaciones y Seguridad de la Información acordes con el Plan Estratégico Institucional, que contribuyan a la sistematización, actualización, calidad, optimización de funciones y procesos de las unidades y las coordinaciones de IMSS-BIENESTAR, tanto a nivel central como en las coordinaciones estatales, así como los establecimientos públicos de salud en el primer, segundo y tercer nivel de atención en el ámbito de sus facultades.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-III. Coordinar la elaboración del Plan Estratégico Institucional en materia de tecnologías de la información, comunicaciones, seguridad informática, innovación y desarrollo tecnológico para instrumentar y operar en las diferentes unidades y coordinaciones de IMSS- BIENESTAR en su respectivo ámbito de competencia, con el apoyo de la Unidad de Planeación Estratégica y Coordinaciones Estatales.
+II. Establecer los criterios que las unidades y coordinaciones de IMSS-BIENESTAR, tanto a nivel central como en las coordinaciones estatales, así como los establecimientos públicos de salud en el primer, segundo y tercer nivel de atención deberán seguir para la observancia de las políticas, normas y procedimientos vigentes en materia de Tecnologías de Información, Comunicaciones y Seguridad de la Información.
 
-IV. Diseñar y desarrollar sistemas y servicios en materia de tecnologías de la información y comunicaciones que apoyen las funciones sustantivas, administrativas y de control que deberán operar las unidades y coordinaciones del IMSS-BIENSTAR (sic) y en las unidades de salud y hospitales de IMSS-BIENESTAR, a nivel central y en las representaciones estatales, conforme a su ámbito de competencia, acorde con los objetivos y al Plan Estratégico Institucional.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-V. Coordinar la atención y soporte técnico a los usuarios y administrar los bienes, servicios de infraestructura, así como los demás elementos vinculados con las tecnologías de información y comunicaciones que requiera el IMSS-BIENESTAR.
+III. Coordinar en la elaboración del Plan Estratégico Institucional en materia de Tecnologías de la Información, Comunicaciones, Seguridad de la Información, innovación y desarrollo tecnológico para instrumentar y operar en las diferentes unidades y coordinaciones de IMSS-BIENESTAR, en su respectivo ámbito de competencia, en vinculación con la Unidad de Planeación Estratégica y Coordinaciones Estatales.
 
-VI. Evaluar y promover el desempeño y operación de los sistemas de tecnologías de la información y comunicaciones por los usuarios de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VII. Dirigir la integración de los requerimientos de gasto atendiendo a las necesidades de IMSS-BIENESTAR, conforme al Plan Estratégico Institucional en materia de tecnologías de información y comunicaciones, innovación y desarrollo tecnológico, incluyendo bienes de inversión, servicios, requisiciones extraordinarias y demás recursos para someterlos a la consideración de la Unidad de Administración y Finanzas.
+IV. Diseñar, desarrollar y brindar mantenimiento a los sistemas informáticos y servicios en materia de Tecnologías de la Información, Comunicaciones y Seguridad de la Información que apoyen las funciones sustantivas, administrativas y de control que deberán operar las unidades y coordinaciones de IMSS-BIENESTAR, tanto a nivel central como en las coordinaciones estatales, así como los establecimientos públicos de salud en el primer, segundo y tercer nivel de atención conforme a su ámbito de competencia, acorde con los objetivos y al Plan Estratégico Institucional.
 
-VIII. Determinar la procedencia y viabilidad técnica, operativa y financiera, conforme a las necesidades y el Plan estratégico de IMSS-BIENESTAR, para contratar la adquisición de bienes, arrendamientos y servicios en materia de tecnologías de la información, comunicaciones y seguridad informática.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-IX. Proponer nuevas tecnologías de información y comunicaciones que impulsen la innovación y desarrollo tecnológico de IMSS-BIENESTAR y evaluar su impacto funcional.
+V. Coordinar la atención y soporte técnico a los usuarios, así como, administrar y suministrar los bienes, servicios de infraestructura y demás elementos vinculados con las Tecnologías de Información, Comunicaciones y Seguridad de la Información que requiera IMSS-BIENESTAR.
 
-X. Elaborar los planes de contingencia en caso de desastre, respaldo, administración y seguridad que permitan el control y resguardo de la información de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Evaluar y promover el desempeño y operación de los Sistemas de Tecnologías de la Información, Comunicaciones y Seguridad de la Información por los usuarios de IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VII. Dirigir la integración de los requerimientos de gasto atendiendo a las necesidades de IMSS-BIENESTAR, conforme al Plan Estratégico Institucional en materia de Tecnologías de Información, Comunicaciones, Seguridad de la Información, innovación y desarrollo tecnológico, incluyendo bienes de inversión, servicios, requisiciones extraordinarias y demás recursos para someterlos a la consideración de la Unidad de Administración y Finanzas.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VIII. Determinar la procedencia y viabilidad técnica, operativa y financiera, conforme a las necesidades y el Plan estratégico de IMSS-BIENESTAR, para contratar la adquisición de bienes, arrendamientos y servicios en materia de Tecnologías de la Información, Comunicaciones y Seguridad de la Información.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IX. Proponer nuevas Tecnologías de Información, Comunicaciones y Seguridad de la Información que impulsen la innovación y desarrollo tecnológico de IMSS-BIENESTAR y evaluar su impacto funcional.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+X. Elaborar los planes de contingencia en caso de desastre, respaldo, administración y seguridad de la información que permitan el control y resguardo de la información de IMSS-BIENESTAR.
 
 XI. Participar en la elaboración de los planes de continuidad de negocio que garanticen la prestación de los servicios de IMSS-BIENESTAR.
 
 XII. Coordinar la elaboración de proyectos tecnológicos o el desarrollo de Tecnologías de Información emergentes para su posible implementación.
 
-XIII. Dirigir las asesorías a las diferentes áreas de IMSS-BIENESTAR que lo soliciten en los procesos de implementación, adquisición, arrendamiento y actualización en materia de Tecnologías de la Información.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XIV. Administrar los contratos de servicios que en materia de Tecnologías de Información que la Coordinación de Tecnologías de Información haya contratado para el desempeño de sus funciones y las de la Institución.
+XIII. Dirigir las asesorías a las diferentes áreas de IMSS-BIENESTAR que lo soliciten en los procesos de implementación, adquisición, arrendamiento y actualización en materia de Tecnologías de la Información, Comunicación y Seguridad de la Información.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIV. Administrar los contratos de servicios que en materia de Tecnologías de la Información, Comunicación y Seguridad de la Información que la Coordinación de Tecnologías de la Información haya contratado para el desempeño de sus funciones y las de la Institución.
 
 XV. Coordinar el intercambio de información con entidades externas ya sea particulares o del gobierno federal conforme a los convenios y contratos que suscriba IMSS-BIENESTAR o disposiciones que se emitan en la materia.
 
-XVI. Clasificar y resguardar la información considerara (sic) como critica para el desempeño de las actividades de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XVII. Administrar los centros de datos ya sean propios o de terceros que sean utilizados para brindar los servicios al IMSS-BIENESTAR.
+XVI. Clasificar y resguardar la información considerada como critica para el desempeño de las actividades de IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVII. Operar y administrar los servicios de Centros de Datos ya sean propios o de terceros que sean utilizados para brindar los servicios a IMSS-BIENESTAR.
 
 XVIII. Elaborar informes anuales de la situación que guarda la infraestructura y servicios en materia de tecnologías de información, comunicaciones y seguridad informática.
 
-XIX. Elaborar las fichas técnicas y estudios de mercado para la adquisición de bienes y servicios en materia de tecnologías de información y seguridad informática.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIX. Elaborar las fichas técnicas y estudios de mercado para la adquisición de bienes y servicios en materia de Tecnologías de Información, Comunicaciones y Seguridad de la Información.
 
 XX. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previo validación de la Unidad Jurídica.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Proponer y participar en la elaboración de los planes de capacitación en materia de Tecnologías de la Información, Comunicaciones y Seguridad de la Información, así como impartir cursos relacionados en la materia en colaboración con la Coordinación de Recursos Humanos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXII. Diseñar, coordinar la implementación y controlar la operación de las arquitecturas de las Tecnologías de la Información, Comunicaciones y Seguridad de la Información necesarias.
 
 #### SECCIÓN TERCERA. UNIDAD DE INFRAESTRUCTURA
 
@@ -1455,21 +1693,23 @@ Son facultades y atribuciones de la Coordinación de Proyectos y Construcción d
 
 I. Dirigir la realización de proyectos arquitectónicos y de ingeniería, así como de construcción de obras públicas dirigidas al desarrollo de la infraestructura hospitalaria.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-II. Conducir la realización de proyectos (sic) presupuestos base, que sirvan de referencia para llevar a cabo los análisis de las propuestas económicas que presenten los proveedores que participan en las licitaciones, para la adjudicación de los contratos.
+II. Conducir la realización de proyectos presupuestos base, que sirvan de referencia para llevar a cabo los análisis de las propuestas económicas que presenten los proveedores que participan en las licitaciones, bajo la supervisión de la Unidad de Infraestructura, para la adjudicación de los contratos.
 
 III. Dictar estrategias y mecanismos para diagnosticar y evaluar el estado de la infraestructura, a fin de determinar prioridades en la inversión, así como mecanismos para su fortalecimiento y desarrollo.
 
 IV. Dirigir la planeación, desarrollo e implementación de las estrategias y acciones de desarrollo de infraestructura, a efecto de que la inversión en la materia cuente con principios generales de calidad, funcionalidad, sustentabilidad, desarrollo tecnológico y accesibilidad.
 
-V. Implementar estrategias y acciones dirigidas a fortalecer los estándares y prácticas de eficiencia y calidad para las obras públicas.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+V. Establecer estrategias y acciones dirigidas a fortalecer los estándares y prácticas de eficiencia y calidad para las obras públicas.
 
 VI. Establecer acciones y estrategias dirigidas al cumplimiento de la normativa en materia de control del ejercicio presupuestal y ejecución de obra pública.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VII. Fungir como Área Responsable de las contrataciones para la elaboración de proyectos arquitectónicos y de ingeniería dirigidos al desarrollo de la infraestructura, previo acuerdo con la persona titular de la Unidad de Infraestructura.
+VII. Participar en las contrataciones para la elaboración de proyectos arquitectónicos y de ingeniería dirigidos al desarrollo de la infraestructura, previo acuerdo con la persona titular de la Unidad de Infraestructura.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -1485,23 +1725,33 @@ XI. Realizar los procedimientos de licitación pública, invitación a cuando me
 
 XII. Determinar la terminación de manera anticipada, o bien, declarar la rescisión administrativa de los contratos de obra pública y servicios relacionados con las mismas, previa orientación de la Unidad Jurídica, cuando así proceda, así como determinar la suspensión parcial, total, temporal o definitiva de las obras públicas o servicios relacionados contratados, de conformidad con las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XIII. Proponer a la persona titular de la Unidad de Infraestructura los criterios en materia de obra pública y servicios relacionados con las mismas, con la finalidad de garantizar que los actos que celebren la Coordinación de Proyectos y Construcción de Obras y las Coordinaciones Estatales en tales rubros se lleven a cabo conforme el marco normativo aplicable.
+XIII. Proponer a la persona titular de la Unidad de Infraestructura los criterios en materia de obra pública y servicios relacionados con las mismas, con la finalidad de garantizar que los actos que celebre la Coordinación de Proyectos y Construcción de Obras en tales rubros se lleven a cabo conforme el marco normativo aplicable.
 
-XIV. Dirigir la participación del personal del área para el asesoramiento en todas las etapas de los procedimientos de licitaciones públicas en el ámbito de obra pública y servicios relacionados con la (sic) mismas, que lleve a cabo la Unidad de Infraestructura para la adjudicación de contratos, mediante la asistencia a dichos actos, con la finalidad de determinar que se cubran los aspectos legales de la normatividad vigente en la materia.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XV. Emitir los comentarios en materia de obra pública y servicios relacionados con las mismas a la Unidad de Infraestructura para su participación en las sesiones de los comités de obras públicas y de adquisiciones de IMSS-BIENESTAR, con la finalidad de que el desarrollo de dichas sesiones se efectúe conforme al marco normativo aplicable.
+XIV. Participar en el asesoramiento de todas las etapas de los procedimientos de licitaciones públicas en el ámbito de obra pública y servicios relacionados con la mismas, que lleve a cabo la Unidad de Infraestructura para la adjudicación de contratos, mediante la asistencia a dichos actos, con la finalidad de determinar que se cubran los aspectos legales de la normatividad vigente en la materia.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XV. Emitir los comentarios en materia de obra pública y servicios relacionados con las mismas a la Unidad de Infraestructura para su participación en las sesiones de los comités de obras públicas de IMSS-BIENESTAR, con la finalidad de que el desarrollo de dichas sesiones se efectúe conforme al marco normativo aplicable.
 
 XVI. Dictaminar las garantías que otorguen los contratistas para el cumplimiento de las obligaciones a cargo de los mismos en los contratos y convenios de obra pública y de servicios relacionados con la mismas, que celebre el IMSS-BIENESTAR, con la finalidad de que se ajusten en su otorgamiento a las disposiciones aplicables en la materia.
 
-XVII. Designar los mecanismos para optimizar la asignación de recursos que permitan dar cumplimiento a las metas y objetivos de los programas a su cargo.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVII. Establecer los mecanismos para optimizar la asignación de recursos que permitan dar cumplimiento a las metas y objetivos de los programas a su cargo.
 
 XVIII. Establecer el presupuesto asignado a la Unidad de Infraestructura a efecto de cumplir con los programas destinados para la atención de infraestructura a los establecimientos de salud.
 
-XIX. Consolidar los procesos de planeación, evaluación y administración de las obras públicas y de los servicios relacionados con las mismas, de conformidad con la normativa federal aplicable.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XX. Dirigir las solicitudes de pago de acciones de obra pública de los programas y proyectos financiados con Recursos del Fondo tras la validación del expediente en apego a la normativa vigente, a fin de que el área designada realice la gestión de pago.
+XIX. Participar en los procesos de planeación, evaluación y administración de las obras públicas y de los servicios relacionados con las mismas, de conformidad con la normativa federal aplicable.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XX. Autorizar las solicitudes de pago de acciones de obra pública de los programas y proyectos financiados con recursos del Fondo tras la validación del expediente en apego a la normativa vigente, a fin de que el área designada realice la gestión de pago.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -1519,7 +1769,9 @@ III. Valorar las solicitudes de recursos de los programas y proyectos de inversi
 
 IV. Conducir la elaboración de los expedientes para el proceso de adquisición de equipamiento, remitiendo la información de programas y proyectos de inversión, a efecto de que el área contratante realice las gestiones establecidas.
 
-V. Coordinar las acciones para dar seguimiento a la conservación y mantenimiento del equipamiento en los establecimientos de salud a fin de alargar su vida útil y asegurar su óptimo funcionamiento.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+V. Coordinar las acciones necesarias para gestionar la contratación de los servicios de mantenimiento preventivo y/o correctivo del equipamiento médico que contenga componentes electrónicos y electromecánicos, así como las gestiones correspondientes al monitoreo y seguimiento de estos servicios en los establecimientos de salud, a fin de alargar su vida útil y asegurar su óptimo funcionamiento.
 
 VI. Coordinar el seguimiento de las obligaciones contractuales de los instrumentos jurídicos destinados al equipamiento de los establecimientos de salud destinado a la atención para las personas sin seguridad social con la finalidad de dar cumplimiento a los mismos.
 
@@ -1537,9 +1789,9 @@ III. Coordinar los mecanismos para la realización de los diferentes proyectos d
 
 IV. Dirigir la aplicación de las políticas, normas, sistemas y procedimientos para la planeación, programación y ejecución de las acciones en materia de conservación y mantenimiento de infraestructura hospitalaria.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-V. Asegurar que se cumplan las etapas de contratación de los diferentes proyectos a desarrollar y supervisar que las acciones de conservación y mantenimiento de infraestructura cuando impliquen una modificación al propio inmueble se lleven a cabo con los estándares de calidad esperados y en términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+V. Verificar que se cumplan las etapas de contratación de los diferentes proyectos a desarrollar y supervisar que las acciones de conservación y mantenimiento de infraestructura cuando impliquen una modificación al propio inmueble se lleven a cabo con los estándares de calidad esperados y en términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -1547,19 +1799,25 @@ VI. Evaluar y vigilar el cumplimiento de los contratos de obras públicas y de s
 
 VII. Proponer a la persona titular de la Unidad de Infraestructura el presupuesto anual de operación y de inversión de la Unidad de Infraestructura, para la contratación de obra pública y servicios relacionados con la misma, así como las de conservación y los demás servicios de carácter general y naturaleza administrativa que sean necesarios.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VIII. Formular y reportar el seguimiento al avance físico y financiero de los programas de conservación, mantenimiento, seguridad, protección ambiental y supervisión de la infraestructura hospitalaria en los Establecimientos de salud.
+VIII. Verificar el seguimiento del avance físico y financiero de los programas de conservación y mantenimiento, seguridad, protección ambiental y supervisión de la infraestructura hospitalaria en los Establecimientos de Salud.
 
 IX. Disponer las acciones para la evaluación, seguimiento y control de las actividades establecidas en los programas de trabajo aprobados, para el desarrollo de la infraestructura inmobiliaria.
 
-X. Designar la factibilidad técnica de las propuestas de inversión física de los proyectos relacionados con los programas, con base en la información que integren las áreas de la Unidad de Infraestructura.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XI. Coordinar las medidas preventivas y correctivas observadas en los resultados de las auditorías practicadas a las contrataciones de obras públicas y de los servicios relacionados con las mismas.
+X. Verificar la factibilidad técnica de las propuestas de inversión física de los proyectos relacionados con los programas, con base en la información que integren las áreas de la Unidad de Infraestructura.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XI. Conducir las medidas preventivas y correctivas observadas en los resultados de las auditorías practicadas a las contrataciones de obras públicas y de los servicios relacionados con las mismas.
 
 XII. Emitir los informes de la Unidad de Infraestructura y Coordinaciones de IMSS-BIENESTAR.
 
-XIII. Implementar estrategias orientadas a lograr una mejora continua en los procesos, mediante la generación de propuestas, así como a través de la evaluación y retroalimentación de las condiciones de operación.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIII. Proponer estrategias orientadas a lograr una mejora continua en los procesos, mediante la generación de propuestas, así como a través de la evaluación y retroalimentación de las condiciones de operación.
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
@@ -1571,19 +1829,29 @@ I. Proponer al Titular de la Unidad de Infraestructura los programas de mantenim
 
 II. Establecer y administrar los mecanismos para optimizar la asignación de recursos que permitan dar cumplimiento a las metas y objetivos de los programas a su cargo, a fin de lograr una operación eficaz de los mismos y su consolidación.
 
-III. Dar seguimiento presupuestal en las cuentas que norman la Unidad de Infraestructura para eficiente (sic) los recursos.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+III. Coordinar las acciones para el seguimiento presupuestal en las cuentas que norman la Unidad de Infraestructura para eficientar los recursos.
 
 IV. Coordinar las actividades para la elaboración de los informes institucionales que permitan dar cuenta al titular de la Unidad de Infraestructura de los resultados alcanzados, constituyéndose como enlace con las dependencias concentradoras en la materia.
 
-V. Conducir la atención de los asuntos relacionados con los programas a su cargo, así como las auditorías, revisiones y requerimientos efectuados por los distintos órganos de fiscalización relacionados con las mismas de la Unidad de Infraestructura.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-VI. Formular propuestas respecto de los proyectos de convocatorias de licitación pública nacional o internacional, para la contratación de las obras públicas y servicios relacionadas con las mismas.
+V. Conducir la atención de los asuntos relacionados con los programas a su cargo, así como las auditorías, revisiones y requerimientos efectuados por los distintos órganos de fiscalización relacionados con las mismas.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Emitir opinión sobre los proyectos de bases de licitación pública nacional o internacional, para la contratación de las obras públicas y servicios relacionadas con las mismas.
 
 VII. Determinar las acciones de evaluación y monitoreo, así como los tipos de evaluación que se aplicarán a los programas presupuestarios y a las políticas públicas de la Administración Pública Federal
 
-VIII. Promover la vinculación del cronograma de ejecución de las evaluaciones con el calendario de las actividades
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-IX. Articular los resultados de las acciones de evaluación y monitoreo, como elemento relevante del Presupuesto.
+VIII. Colaborar en la vinculación del cronograma de ejecución de las evaluaciones con el calendario de las actividades.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IX. Evaluar los resultados de las acciones de monitoreo, como elemento relevante del Presupuesto.
 
 #### SECCIÓN CUARTA. UNIDAD JURÍDICA
 
@@ -1601,7 +1869,9 @@ IV. Fungir como asesor jurídico de IMSS-BIENESTAR en el sistema procesal penal 
 
 V. Absolver posiciones en representación de las personas titulares de la Dirección General, así como de las unidades y coordinaciones a que se refiere este Estatuto.
 
-VI. Autorizar, mediante oficio, a servidores públicos bajo su adscripción, para ejercer las representaciones procesales a que se refieren las fracciones I, III, IV y VI del presente artículo y, en su caso, sustituir o revocar dichas representaciones.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Autorizar, mediante oficio, a servidores públicos bajo su adscripción, para ejercer las representaciones procesales a que se refieren las fracciones I, III y IV del presente artículo y, en su caso, sustituir o revocar dichas representaciones.
 
 VII. Coordinar, con apoyo de las unidades y coordinaciones de IMSS-BIENESTAR, la implementación de las medidas institucionales para la atención de los requerimientos, visitas, medidas cautelares, recomendaciones y resoluciones de la Comisión Nacional de los Derechos Humanos, la Comisión Nacional de Arbitraje Médico, el Consejo Nacional para Prevenir la Discriminación y demás mecanismos y organismos nacionales e internacionales de derechos humanos.
 
@@ -1623,7 +1893,9 @@ XV. Supervisar las gestiones y trámites de carácter administrativo ante las di
 
 XVI. Supervisar el trámite para otorgar y revocar poderes generales, limitados y especiales a favor de las personas servidoras públicas que representen al IMSS-BIENESTAR, para que los ejerzan en el ámbito de su competencia en los términos de este Estatuto, previa instrucción de la persona titular de la Dirección General.
 
-XVII. Dar su visto bueno y remitir a la persona titular de la Dirección General de IMSS-BIENESTAR los proyectos de ordenamientos jurídico-normativos relacionados con las atribuciones de IMSS-BIENESTAR autorizados por las unidades y coordinaciones previstas en este Estatuto de las disposiciones normativas, administrativas para su autorización y, en su caso, para someterlas a la Junta de Gobierno para su aprobación.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVII. Dar su visto bueno y remitir a la persona titular de la Dirección General de IMSS-BIENESTAR los proyectos de actos administrativos de carácter general relacionados con las atribuciones de IMSS-BIENESTAR presentados por las unidades y coordinaciones, para su autorización y en su caso, para someterlas a la Junta de Gobierno para su aprobación, así como dirigir la opinión de los proyectos de las disposiciones normativas de carácter interno.
 
 XVIII. Asesorar a la Coordinación de Recursos Humanos en la revisión de las Condiciones Generales de Trabajo.
 
@@ -1636,6 +1908,10 @@ XXI. Sustanciar el procedimiento de Responsabilidad Patrimonial del Estado en t�
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
 
 XXII. Emitir los lineamientos de operación, normas y disposiciones de aplicación general del IMSS-BIENESTAR que le instruya la Junta de Gobierno, previamente aprobadas por esta.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
+Para el caso de los HRAE’S la Unidad Jurídica se auxiliará para el ejercicio de sus funciones del Jefe de Departamento de Asuntos Jurídicos adscrito a cada uno de ellos, quienes actuarán bajo la instrucción permanente de las personas Titulares de las Coordinaciones adscritas a la Unidad en su respectivo ámbito de competencia.
 
 ###### Artículo 49.
 
@@ -1657,9 +1933,15 @@ VII. Impulsar acuerdos de colaboración con los diversos órdenes de gobierno, s
 
 VIII. Coordinar, con la Unidad de Administración y Finanzas, la integración y actualización del inventario de los bienes inmuebles de IMSS-BIENESTAR pendientes de regularización.
 
-IX. Realizar las gestiones y trámites necesarios, ante las diversas autoridades, federales y locales, para la obtención de las autorizaciones sanitarias de las unidades de salud a cargo de IMSS-BIENESTAR
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IX. Verificar que en los expedientes de los establecimientos de salud a cargo de IMSS-BIENESTAR, obre el aviso de funcionamiento y las autorizaciones sanitarias necesarias, y en su caso, requerir a las Coordinaciones Estatales la regularización correspondiente.
 
 X. Cumplir, en el ámbito de su competencia, las resoluciones del Poder Judicial de la Federación y de los Tribunales Agrarios, emitiendo los acuerdos de trámite y órdenes que sean necesarias e informar oportunamente sobre su cumplimiento.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XI. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
 
 ###### Artículo 50.
 
@@ -1671,7 +1953,9 @@ II. Recibir y analizar las solicitudes de opinión jurídica respecto de la apli
 
 III. Compilar y difundir los criterios de interpretación y aplicación de las leyes y otras disposiciones jurídicas que normen el funcionamiento y actividades de IMSS-BIENESTAR.
 
-IV. Formular y revisar los anteproyectos de iniciativas de leyes y de reglamentos, decretos, acuerdos, y demás ordenamientos jurídico-normativos relacionados con las atribuciones de IMSS-BIENESTAR, incluyendo aquellos que constituyan normas internas del organismo.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+IV. Formular y revisar los anteproyectos de iniciativas de leyes y de reglamentos, decretos, acuerdos, y demás actos administrativos de carácter general relacionados con las atribuciones de IMSS-BIENESTAR, así como emitir opinión de las disposiciones normativas de carácter interno del organismo.
 
 V. Fungir como enlace, con la colaboración de las unidades y coordinaciones previstas en este Estatuto, para la atención de los requerimientos, visitas, medidas cautelares, recomendaciones y resoluciones la Comisión Nacional de los Derechos Humanos, la Comisión Nacional de Arbitraje Médico, el Consejo Nacional para Prevenir la Discriminación y demás mecanismos implementados por organismos nacionales e internacionales de derechos humanos, así como para la implementación de las medidas institucionales que se deriven de los anteriores.
 
@@ -1688,6 +1972,10 @@ X. Representar a la Unidad Jurídica en las reuniones de órganos colegiados de 
 XI. Resolver y responder las solicitudes de información y documentación realizadas por autoridades locales o federales relacionadas con la normatividad o las actividades de IMSS-BIENESTAR.
 
 XII. Coordinar la integración de informes, requerimientos de auditorías y revisiones de cualquier índole que corresponda rendir a la Unidad Jurídica.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIII. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
 
 ###### Artículo 51.
 
@@ -1720,6 +2008,10 @@ XII. Absolver posiciones en representación de las personas titulares de la Dire
 XIII. Coordinar la asesoría que se brinde a las personas titulares de la Dirección General, así como de las unidades y coordinaciones previstas en este Estatuto, para el debido cumplimiento de las resoluciones que se dicten en los procedimientos en los que el IMSS-BIENESTAR sea parte o tenga interés.
 
 XIV. Autorizar, mediante oficio, a servidores públicos bajo su adscripción, las representaciones procesales a que se refieren las fracciones II, III, IV, V, VII, IX, XI y XII del presente artículo y, en su caso, sustituir o revocar dichas representaciones.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XV. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
 
 ###### Artículo 52.
 
@@ -1931,6 +2223,18 @@ IX. Establecer el control de las acciones que realicen las Coordinaciones Estata
 
 X. Conducir las acciones de la vinculación interinstitucional en los tres niveles de gobierno, a fin de fortalecer la operación de los servicios de salud del IMSS-BIENESTAR.
 
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XI. Diseñar e implementar una estrategia de proximidad territorial y organizacional de la Unidad con las Coordinaciones Estatales.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XII. Proponer la regionalización del territorio nacional conforme a criterios poblacionales y de la demanda de servicios para efectos de la planeación y vinculación con las Coordinaciones Estatales.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIII. Fungir como enlace entre las Coordinaciones de los Hospitales Regionales de Alta Especialidad y las Coordinaciones Estatales.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
 #### SECCIÓN SEXTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
@@ -1949,7 +2253,9 @@ IV. Coordinar, con las áreas competentes, el marco normativo de los albergues c
 
 V. Establecer los mecanismos que favorezcan el apoyo de la comunidad en la aplicación de la vigilancia epidemiológica simplificada.
 
-VI. Aprobar los programas de capacitación del personal de IMSS-BIENESTAR en materia de acciones comunitarias.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+VI. Aprobar y profesionalizar por competencias los programas de capacitación del personal de Acción comunitaria de Servicios de Salud de IMSS-BIENESTAR en materia de acciones comunitarias.
 
 VII. Promover el reconocimiento y vinculación con la medicina tradicional existente.
 
@@ -1965,17 +2271,45 @@ XII. Definir mecanismos de capacitación, orientación y difusión en materia de
 
 XIII. Supervisar los resultados de las acciones realizadas en materia de atención a expresiones ciudadanas por parte de las áreas competentes.
 
-XIV. Actualizar y dar seguimiento al cumplimiento de la normativa establecida para la instrumentación de la Contraloría Social.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIV. Actualizar y dar seguimiento al cumplimiento de la normativa establecida para la instrumentación de la Contraloría Social en las Unidades de Salud de Primer Nivel, Unidades de Segundo Nivel, Hospitales de Alta especialidad y Programas Especiales.
 
 XV. Promover la existencia de la figura del aval ciudadano en los establecimientos de salud de IMSS-BIENESTAR.
 
-XVI. Instrumentar la metodología de supervisión-evaluación-asesoría del componente comunitario e informar los resultados.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVI. Instrumentar la metodología y los mecanismos de supervisión, evaluación y asesoría del desempeño directivo y operativo; así como los procesos de la organización comunitaria, orientación y promoción a la salud, contraloría y aval ciudadano en concordancia con las prioridades vigentes vinculadas al ciclo de vida y salud.
 
 XVII. Establecer las estrategias de seguimiento al proceso de supervisión-asesoría del componente comunitario, realizada en las entidades federativas.
 
-XVIII. Diseñar estrategias a nivel individual, grupal y masivo para la prevención de enfermedades en coordinación con la Unidad de Atención a la Salud.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-XIX. Validar los indicadores de desempeño del componente comunitario.
+XVIII. Diseñar estrategias a nivel individual, grupal y masivo para la prevención de enfermedades en coordinación con la Unidad de Atención a la Salud aplicable en las Unidades de Salud de Primer Nivel, Unidades de Segundo Nivel, Hospitales de Alta especialidad y Programas Especiales, de acuerdo con (sic) ciclo de vida y salud vinculado a las prioridades en salud vigentes.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIX. Validar los indicadores de desempeño del componente comunitario con impactos en salud, difundir los resultados, establecer propuestas y acciones de mejora.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XX. Promover la profesionalización por competencias en el personal institucional de acción comunitaria.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXI. Fomentar la consejería comunitaria tomando como eje central el ciclo de vida y salud.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXII. Establecer un modelo de gestión de calidad para contar con acciones de mejora en la eficacia y eficiencia de los procesos del componente comunitario.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXIII. Promover la interculturalidad como herramienta para facilitar las acciones de orientación y promoción a la salud en los ámbitos rural, suburbano y urbano que facilite las acciones de promoción en las Unidades de Salud de Primer Nivel, Unidades de Segundo Nivel, Hospitales de Alta especialidad y Programas Especiales.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXIV. Dar seguimiento a la operación del Modelo de Atención a la Salud para el Bienestar (MAS-BIENESTAR), en el ámbito de su competencia, con apoyo de las Coordinaciones Estatales y de los Equipos de conducción bajo su cargo.
 
 ###### Artículo 56.
 
@@ -2015,9 +2349,37 @@ XIII. Establecer el mecanismo de integración del informe de los temas que se re
 
 XIV. Coordinar el diseño y producción de materiales editoriales, gráficos, audiovisuales, así como el desarrollo de eventos institucionales.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+
+Para el ejercicio de las atribuciones XI, XII, XIII y XIV se auxiliará de la División de Comunicación Social y Medios Alternativos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
 #### SECCIÓN PRIMERA. JEFATURA DE SERVICIOS DE ATENCIÓN A LA SALUD
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+###### Artículo 57 Bis.
+
+Son facultades y atribuciones de la División de Comunicación Social y Medios Alternativos:
+
+I. Integrar y presentar a la persona titular de la Coordinación de Transparencia y Vinculación un Plan General de Trabajo de Comunicación Social que incluya las políticas, programas, estrategias y proyectos a realizar en materia de comunicación interna, información, difusión y comunicación digital para su implementación a nivel central y en las Coordinaciones Estatales de IMSS-BIENESTAR.
+
+II. Diseñar mecanismos de comunicación con las unidades y coordinaciones de IMSS-BIENESTAR para la detección de necesidades en materia de comunicación interna, información, difusión y comunicación digital.
+
+III. Elaborar y someter a consideración de la persona titular de la Coordinación de Transparencia y Vinculación la estrategia de comunicación interna de acuerdo con las líneas de trabajo institucionales, con el fin de dar a conocer entre el personal las principales acciones e información general de IMSS-BIENESTAR.
+
+IV. Instrumentar y someter a consideración de la persona titular de la Coordinación de Transparencia y Vinculación la estrategia de comunicación digital a través de la página electrónica y las redes sociales de IMSS-BIENESTAR, así como a la difusión de materiales institucionales y de corte informativo a medios de comunicación.
+
+V. Dirigir el diseño y producción de materiales editoriales, gráficos y audiovisuales de IMSS-BIENESTAR, así como el desarrollo de eventos institucionales.
+
+VI. Regular el monitoreo de la información institucional que sea difundida en radio, televisión, prensa impresa nacional y estatal, redes sociales y otros medios de comunicación; así como la compilación, análisis y síntesis de dicha información.
+
+VII. Concertar y dirigir conferencias de prensa o entrevistas, así como dar cobertura informativa a las giras de trabajo de la persona titular de la Dirección General y servidores públicos que por la naturaleza de sus funciones lo requieran.
+
+VIII. Gestionar con la Unidad de Administración y Finanzas, la contratación de servicios en materia de comunicación social y la emisión de los informes que correspondan.
+
+IX. Desarrollar todas aquellas funciones inherentes al ámbito de su competencia y las demás que le sean asignadas por su superior jerárquico.
 
 ## TÍTULO CUARTO. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN
 
@@ -2031,7 +2393,9 @@ El Órgano de Vigilancia de IMSS-BIENESTAR, estará integrado por una persona Co
 
 I. Vigilar que la administración de los recursos y funcionamiento de IMSS-BIENESTAR se realicen de acuerdo con lo que dispongan los programas y presupuestos aprobados.
 
-II. Emitir opinión del dictamen de los estados financieros y las auditorías de carácter administrativo que realicen los auditores externos y el Órgano Interno de Control de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+II. Emitir opinión del dictamen de los estados financieros y las auditorías de carácter administrativo que realicen los auditores externos y el Órgano Interno de Control Específico de IMSS-BIENESTAR.
 
 III. Recomendar a la Junta de Gobierno y a la persona titular de la Dirección General las medidas preventivas y correctivas convenientes para el mejoramiento administrativo y operativo de IMSS-BIENESTAR y, en su caso, vigilar el cumplimiento de las mismas.
 
@@ -2041,15 +2405,21 @@ V. Opinar sobre el informe de actividades y evaluación que rinda la persona tit
 
 La o el Comisario Público Propietario o su suplente asistirán a las sesiones ordinarias y extraordinarias de la Junta de Gobierno con voz, pero sin voto, y a las sesiones de comités y grupos de trabajo especializados a los que sean convocados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2024)</small>
+
 ###### Artículo 59.
 
-El IMSS-BIENESTAR contará con un Órgano Interno de Control, al frente del cual habrá un titular que se auxiliará de los titulares de las áreas de Auditoría Interna, de Desarrollo y Mejora de la gestión Pública; Quejas, Denuncias e Investigaciones; y Responsabilidades, mismos que serán designados por la persona titular de la Secretaría de la Función Pública.
+El IMSS-BIENESTAR contará con un Órgano Interno de Control Específico, al frente del cual habrá un titular que se auxiliará de los titulares de las áreas de Auditoría Interna, Desarrollo y Mejora de la Gestión Pública; Quejas, Denuncias e Investigaciones; y Responsabilidades, mismos que serán designados por la persona titular de la Secretaría de la Función Pública.
 
 Las personas servidoras públicas a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, el Reglamento Interior de la Secretaría de la Función Pública, la Ley General de Responsabilidades Administrativas, la Ley Federal de las Entidades Paraestatales y su Reglamento, y demás disposiciones jurídicas aplicables.
 
-Asimismo, contarán con el personal adscrito a dicho Órgano Interno de Control que figure en su estructura autorizada, conforme a las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
 
-El IMSS-BIENESTAR proporcionará al Órgano Interno de Control los recursos humanos, materiales, presupuestales y tecnológicos que requiera para la atención de los asuntos a su cargo.
+Asimismo, contarán con el personal adscrito a dicho Órgano Interno de Control Específico que figure en su estructura autorizada, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2024)</small>
+
+El IMSS-BIENESTAR proporcionará al Órgano Interno de Control Específico los recursos humanos, materiales, presupuestales y tecnológicos que requiera para la atención de los asuntos a su cargo.
 
 Asimismo, las personas servidoras públicas de IMSS-BIENESTAR están obligadas a atender requerimientos o resoluciones de los titulares antes señalados, conforme a la competencia de éstos.
 
@@ -2129,7 +2499,9 @@ XI. Ejercer actos de dominio sobre los bienes propiedad de IMSS-BIENESTAR en est
 
 XII. Establecer y presidir los comités y subcomités que, en su caso, le correspondan de acuerdo con sus atribuciones.
 
-XIII. Vigilar el cumplimiento de las Condiciones Generales de Trabajo y sus reglamentos, en la esfera de su competencia y ejercitar las acciones que correspondan, incluyendo las relativas a la terminación de los efectos del nombramiento, en vinculación con la Coordinación de Recursos Humanos.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XIII. Vigilar el cumplimiento de las Condiciones Generales de Trabajo y sus reglamentos, en la esfera de su competencia; incluyendo sin limitar, la instrumentación de actas administrativas con base en los lineamientos que, en su caso, emitan las instancias competentes de IMSS-BIENESTAR. Así como aplicar medidas disciplinarias a los trabajadores bajo su adscripción y coadyuvar en las acciones relativas a la terminación de los efectos del nombramiento, en vinculación con la Coordinación de Recursos Humanos.
 
 XIV. Celebrar todo tipo de convenios en los que pudiera ser parte, previa autorización de la Unidad Jurídica.
 
@@ -2149,7 +2521,9 @@ XXI. Supervisar que se solventen las observaciones, se apliquen las recomendacio
 
 XXII. Autorizar a terceros el uso de los bienes inmuebles del Instituto, en los términos de las disposiciones legales, reglamentarias y administrativas aplicables, previa opinión de la Unidad de Administración y Finanzas.
 
-XXIII. Proponer a la Dirección General, previa valoración de las unidades y coordinaciones competentes, el nombramiento de las personas que ocuparán las áreas de la Coordinación Estatal, en apego a las disposiciones y procedimientos que se emitan para tal fin. La Coordinación de Recursos Humanos formalizará los nombramientos de las personas que hayan sido autorizados.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXIII. Proponer a la Dirección General, el nombramiento de las personas que ocuparán las áreas de la Coordinación Estatal, en apego a las disposiciones y procedimientos que se emitan para tal fin.
 
 XXIV. Expedir copias certificadas de los documentos que obren en sus archivos relativos al ámbito de su competencia; así como instrumentar las medidas necesarias que permitan la organización, el resguardo y la conservación de dicha documentación.
 
@@ -2162,6 +2536,26 @@ XXVII. Dar seguimiento al sistema de evaluación del desempeño y de gestión de
 XXVIII. Instrumentar la ejecución de las resoluciones emitidas por el Órgano Interno de Control o diversas autoridades jurisdiccionales en el orden de su competencia.
 
 XXIX. Las demás que le encomienden las leyes, los reglamentos, la Junta de Gobierno, la Dirección General y las unidades y coordinaciones de acuerdo con sus atribuciones.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXX. Formalizar los nombramientos de las personas que ocuparán las áreas de la Coordinación Estatal previa autorización y notificación de la Coordinación de Recursos Humanos.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXXI. Dar seguimiento a la operación del Modelo de Atención a la Salud para el Bienestar (MAS-BIENESTAR), con el apoyo de la estructura estatal y de los Equipos de conducción bajo su cargo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXXII. Realizar los trámites y registros necesarios ante las autoridades fiscales, en materia de impuestos, derechos, contribuciones e impuestos locales, en cumplimiento de las obligaciones fiscales establecidas en las disposiciones jurídicas aplicables. Asimismo, atender cualquier requerimiento y/o solicitud de información que realicen dichas autoridades.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXXIII. Dirigir el ejercicio, administración y comprobación de los recursos asignados a los fondos fijos o revolventes destinados para la adquisición de materiales, bienes y servicios necesarios para la operación de los HRAE’S, conforme a los criterios que emitan las Coordinaciones adscritas a la Unidad de Administración y Finanzas.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XXXIV. Representar a IMSS-BIENESTAR en los actos jurídicos en los que sea parte en el ámbito de su competencia, ante todas las autoridades administrativas y jurisdiccionales, previa autorización de la Unidad Jurídica; así como en aquellos trámites que sean necesarios para la gestión de licencias y autorizaciones necesarias para su operación.
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2285,7 +2679,9 @@ VIII. Integrar con el apoyo de las personas titulares de las Jefaturas de Depart
 
 IX. Aprobar y promover el cumplimiento de programas de formación profesional, capacitación y educación continua del personal médico, paramédico y becarios de pregrado y posgrado de las unidades de salud y hospitales de IMSS-BIENESTAR.
 
-X. Verificar que se lleven a cabo las acciones que permitan la ejecución y desarrollo de proyectos de investigación operativa relacionados con las prioridades en salud locales.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+X. Verificar que se lleven a cabo las acciones que permitan la formación y evaluación curricular de investigadores, así como la gestión de recursos y la ejecución de protocolos de investigación en salud y desarrollo tecnológico relacionados con las prioridades en salud locales.
 
 XI. Validar la operación del Sistema Nacional de Vigilancia Epidemiológica en las unidades de salud y hospitales, a fin de garantizar la identificación, notificación inmediata y atención de brotes, casos de transcendencia, situaciones emergentes y contingencias que pongan en riesgo la salud de la población objetivo de IMSS-BIENESTAR.
 
@@ -2319,9 +2715,13 @@ II. Coordinar, supervisar y evaluar la administración de los recursos humanos, 
 
 III. Autorizar y procesar los movimientos e incidencias del personal en materia de recursos humanos, las plantillas de personal autorizadas y la estructura orgánica estatal autorizada y registrada, autorizar el pago de la partida de guardias y suplencias en coordinación con la Jefatura de Servicios de Atención a la Salud y validar las nóminas de pago de sueldos de los trabajadores que se encuentren en las áreas administrativas y en los Centros de Trabajo.
 
-IV. Expedir los documentos inherentes a los trámites que operen en el ámbito de su competencia, para otorgar a los trabajadores las prestaciones a que tengan derecho y gestionar ante la Coordinación de Recursos Humanos aquellos que corresponda emitir a esta última.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
-V. Autorizar el diagnóstico de las necesidades de capacitación y coordinar las actividades de capacitación y servicios educativos, atendiendo los requerimientos de las áreas administrativas y las unidades de salud y hospitales, en vinculación con las Coordinaciones de Recursos Humanos y de Educación e Investigación.
+IV. Expedir los documentos inherentes a los trámites que operen en el ámbito de su competencia, para otorgar a los trabajadores las prestaciones a que tengan derecho y gestionar ante la Coordinación de Recursos Humanos aquellos que corresponda emitir a esta última; así como realizar las acciones que conforme a su ámbito de competencia correspondan para la aplicación de medidas disciplinarias al personal adscrito a la Coordinación Estatal, y en los casos que proceda, para la terminación de los efectos del nombramiento de los trabajadores, incluyendo sin limitar, la instrumentación de actas administrativas con base en los lineamientos que, en su caso, emitan las instancias competentes de IMSS-BIENESTAR.
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+V. Autorizar el diagnóstico de las necesidades de capacitación de investigación en salud y coordinar las actividades de capacitación y servicios educativos, atendiendo los requerimientos de las áreas administrativas y las unidades de salud y hospitales, en vinculación con las Coordinaciones de Recursos Humanos y de Educación e Investigación.
 
 VI. Gestionar, coordinar, supervisar y evaluar el otorgamiento de los servicios generales que requiere la operación de las unidades de salud y hospitales relacionados con limpieza, lavado de ropa hospitalaria, comunicaciones y telefonía local, energía eléctrica, agua potable, mensajería, fotocopiado, impresión de papelería, archivo, conservación y mantenimiento de mobiliario, equipo administrativo, equipo de cómputo y planta vehicular, así como recolección, destino final de basura, residuos peligrosos biológico infecciosos y fumigación y control de plagas, entre otros.
 
@@ -2437,7 +2837,13 @@ XV. Requerir a las unidades administrativas estatales toda la información, docu
 
 XVI. Participar como asesor, cuando así se requiera, en los comités, comisiones y demás cuerpos colegiados que se constituyan al interior de las unidades de salud y hospitales, y de la Coordinación Estatal.
 
-XVII. Realizar las gestiones y trámites necesarios, ante las diversas autoridades, para la obtención de las autorizaciones sanitarias de las unidades de salud a cargo de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVII. Otorgar asesoría para realizar las gestiones y trámites necesarios, ante las diversas autoridades, para la obtención de las autorizaciones sanitarias de las unidades de salud a cargo de IMSS-BIENESTAR.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+
+XVIII. Realizar la investigación correspondiente a fin de instrumentar las actas administrativas que se formalicen con motivo de violaciones a las disposiciones laborales por parte de los trabajadores de la Coordinación Estatal, sus áreas administrativas, unidades de salud y hospitales; dictaminar las mismas y, de ser procedente, promover ante el Tribunal Federal de Conciliación y Arbitraje la terminación de los efectos del nombramiento.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2576,3 +2982,15 @@ D.O.F. 14 DE FEBRERO DE 2024.
 PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
 SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
+
+TERCERO. Las atribuciones conferidas a la persona titular del Hospital Regional de Alta Especialidad “Ciudad Salud” en Tapachula, serán realizadas por la persona encargada de la Dirección del mismo, en tanto sea aprobada la estructura orgánica básica de dicho establecimiento de salud por parte de la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública.
+
+CUARTO. El Hospital Regional de Alta Especialidad “Ciudad Salud” en Tapachula, podrá llevar a cabo directamente las gestiones administrativas necesarias ante las unidades y coordinaciones de IMSS-BIENESTAR, de conformidad a lo Establecido en este Estatuto Orgánico para dar continuidad al funcionamiento del mismo.
