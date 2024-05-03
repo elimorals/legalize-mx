@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2023-08-23"
+last_updated: "2024-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -585,7 +585,9 @@ El Organismo del Transporte Masivo podrá acordar la realización de todas las a
 
 Los ayuntamientos tendrán la siguiente participación:
 
-I. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, protección del ambiente, seguridad, comodidad y fluidez en la vialidad, en coordinación con la Secretaría;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+
+I. Realizar los estudios necesarios sobre tránsito de vehículos, impacto en la movilidad, seguridad vial, concesionamiento y permisionamiento, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, protección del ambiente, seguridad, comodidad y fluidez en la vialidad, en coordinación con la Secretaría;
 
 II. Proveer en el ámbito de su competencia, que la infraestructura vial y peatonal, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose en su caso, con las áreas correspondientes para lograr este objetivo;
 
@@ -3432,3 +3434,9 @@ P.O. 23 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 559 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 862 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 16 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
