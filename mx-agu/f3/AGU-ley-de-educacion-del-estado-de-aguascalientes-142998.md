@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2024-01-22"
+last_updated: "2024-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -329,7 +329,9 @@ XI. Realizar campañas educativas que tiendan a elevar los niveles culturales, s
 
 XII. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para personas en situación de vulnerabilidad;
 
-XIII. Establecer políticas incluyentes, transversales y con perspectiva de igualdad entre mujeres y hombres, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación, tanto en el sector público como privado, en todos los niveles educativos que se prevén en la presente ley;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+
+XIII. Establecer políticas incluyentes, transversales y con perspectiva de igualdad entre mujeres y hombres, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación, tanto en el sector público como privado, en todos los niveles educativos que se prevén en la presente ley. Bajo este aspecto estarán comprendidas las becas y demás apoyos económicos para los hijos de madres jefas de familia, y en su caso aquellos para que éstas últimas puedan iniciar o continuar sus estudios de educación básica, media y superior;
 
 XIV. Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
 
@@ -2516,3 +2518,15 @@ P.O. 22 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 631.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
