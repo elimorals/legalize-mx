@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2024-04-29"
+last_updated: "2024-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -2043,7 +2043,9 @@ Lo anterior con el objetivo de integrar y coordinar un sistema de medición y ev
 
 ### CAPÍTULO I. LA SECRETARIA GENERAL
 
-#### Sección Primera. El Secretario General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2024)</small>
+
+#### Sección Primera. De la Persona Titular de la Secretaría General
 
 ###### ARTÍCULO 153.
 
@@ -2085,9 +2087,11 @@ VI. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corr
 
 VII. No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 157.
 
-El Secretario General del Congreso del Estado tiene las atribuciones siguientes:
+La Persona Titular de la Secretaria General del Congreso del Estado tiene las atribuciones siguientes:
 
 I. La administración general del Congreso del Estado;
 
@@ -2104,6 +2108,10 @@ VI. Formular los programas anuales de naturaleza administrativa y financiera;
 VII. Supervisar y vigilar que se cumplan las políticas, lineamientos y acuerdos de la Mesa Directiva, en la prestación de los servicios parlamentarios, administrativos y financieros; e
 
 VIII. Informar trimestralmente a la Mesa Directiva en turno, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios parlamentarios, administrativos y financieros.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2024)</small>
+
+IX. La coordinación, elaboración, publicación, distribución y el adecuado archivo y resguardo tanto de los ejemplares de la Gaceta Parlamentaria del Congreso del Estado de Aguascalientes, como de los documentos remitidos para ser publicados en dicha gaceta;
 
 ###### ARTÍCULO 158.
 
@@ -2306,6 +2314,66 @@ En caso de que algún Diputado cometiera algún delito en el Recinto Oficial dur
 ###### ARTÍCULO 185.
 
 Si el delito se cometiera durante el receso o después de levantada la sesión, el Presidente de la Mesa Directiva lo comunicará al Pleno, al reanudarse la sesión o al comienzo de la siguiente y solicitará a la Junta de Coordinación Política que proponga los Diputados que integrarán la Comisión encargada de la instrucción del proceso de juicio de procedencia.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2024)</small>
+
+## TÍTULO NOVENO. DE LA GACETA LEGISLATIVA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2024)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+
+###### ARTÍCULO 186.
+
+La Gaceta Legislativa es el órgano oficial de difusión de las actividades del Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+
+###### ARTÍCULO 187.
+
+La Gaceta Legislativa se publicará, en edición digital, la cual deberá estar disponible en la página de Internet oficial del Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+
+###### ARTÍCULO 188.
+
+Deberán publicarse íntegramente en la Gaceta Legislativa los siguientes documentos:
+
+I. Las comunicaciones oficiales o síntesis de las mismas que sean dirigidas al Poder Legislativo del Estado de Aguascalientes;
+
+II. Las convocatorias, citatorios y el Proyecto de Orden del Día de las sesiones del Pleno;
+
+III. Las convocatorias, citatorios y los proyectos de Orden del Día de las reuniones de comisiones y de comités;
+
+IV. Las iniciativas de ley, decretos y puntos de acuerdo legislativos presentadas ante el Poder Legislativo del Estado de Aguascalientes;
+
+V. Las actas, informes, resoluciones, acuerdos, declaraciones y pronunciamientos del Pleno, la Mesa y las comisiones del Poder Legislativo del Estado de Aguascalientes
+
+VI. Los dictámenes emitidos por comisiones y comités, así como sus votos particulares;
+
+VII. Las convocatorias a mesas de trabajo y foros para consultar con la sociedad sobre el trabajo legislativo;
+
+VIII. Las solicitudes de licencia de los diputados y diputadas;
+
+IX. El registro de asistencia e inasistencia de los diputados y diputadas a las sesiones del Pleno;
+
+X. El registro de asistencia e inasistencia de los diputados y diputadas a las reuniones de comisiones y de comités; y
+
+XI. Los demás que ordene la asamblea, la Junta de Coordinación Política o la Mesa Directiva, o bien los que autorice directamente la persona titular de la Secretaria General.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+
+###### ARTÍCULO 189.
+
+Para la publicación de documentos en la Gaceta Parlamentaria, deberán presentarse los originales ante la Secretaria General, en modo impreso y firmado, en los plazos, términos y condiciones que señalen los lineamientos técnicos que para tal efecto expida la persona titular de la Secretaria General.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+
+###### ARTÍCULO 190.
+
+Queda prohibido modificar las ediciones de la Gaceta Parlamentaria una vez que sean cerradas y publicadas.
 
 […]
 
@@ -2526,3 +2594,15 @@ P.O. 29 DE ABRIL DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 699.- SE REFORMA Y SE ADICIONA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor a los 150 días naturales a partir de su publicación en el Periódico Oficial del Estado de Aguascalientes, para llevar a cabo las reasignaciones presupuestarias y operativas que resulten necesarias.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto
