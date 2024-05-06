@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2023-12-26"
+last_updated: "2024-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2024.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1587,21 +1587,25 @@ Artículo 55 Quaterdecies. La Contraloría, a través de la Dirección General d
 
 ### CAPÍTULO NOVENO. REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES, D.O.F. 6 DE MAYO DE 2024)</small>
 
 ###### Artículo 56.
 
-Las personas servidoras públicas obligadas, en términos del Capítulo anterior y del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, al efectuar su registro automatizado de inicio y conclusión de labores deberán realizarlo en los equipos biométricos de geometría de mano.
+Las personas servidoras públicas obligadas, en términos del Capítulo anterior y del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, al efectuar su registro automatizado de inicio y conclusión de labores deberán realizarlo en los medios electrónicos que determine el Consejo.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 El lapso de ingesta de alimentos podrá registrarse en este sistema como medida de control interno, sin que las omisiones de registro automatizado conlleven descuento alguno. Las personas titulares de los órganos jurisdiccionales y áreas administrativas podrán prescindir de dicho registro.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 La manipulación, modificación o alteración del registro será causa de responsabilidad administrativa para quien lo instruya o quien lo realice para su beneficio.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES, D.O.F. 6 DE MAYO DE 2024)</small>
 
 ###### Artículo 57.
 
-Los servidores públicos obligados al registro automatizado deberán ser enrolados en el equipo biométrico de mano de su centro de trabajo por el Auxiliar de Asistencia y Puntualidad de su adscripción. Si por necesidades del servicio se encuentran comisionados a uno distinto, también deberán ser enrolados en el equipo de dicho centro, por el Auxiliar de Asistencia y Puntualidad respectivo.
+Las personas servidoras públicas obligadas al registro automatizado deberán ser enroladas en el medio electrónico correspondiente de su centro de trabajo por la persona Auxiliar de Asistencia y Puntualidad de su adscripción. Si por necesidades del servicio se encuentran comisionadas a uno distinto, también deberán ser enroladas en el equipo de dicho centro, por la persona Auxiliar de Asistencia y Puntualidad respectiva.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
@@ -1623,9 +1627,11 @@ El Auxiliar de Asistencia y Puntualidad deberá enviar las solicitudes de descue
 
 El Auxiliar de Asistencia y Puntualidad será el responsable de auxiliar al titular del órgano jurisdiccional o del área administrativa respectiva, en el seguimiento y control de asistencia de los servidores públicos adscritos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES, D.O.F. 6 DE MAYO DE 2024)</small>
+
 ###### Artículo 61.
 
-El Auxiliar de Asistencia y Puntualidad será el responsable de verificar previamente la identidad del personal que enrole en el lector biométrico, mediante una identificación oficial con fotografía y, en su caso, el recibo de pago correspondiente, a fin de validarlo con el número de expediente asignado por la Dirección General de Recursos Humanos. Lo mismo se observará en el supuesto de modificaciones que se realicen respecto a la geometría de mano.
+La persona Auxiliar de Asistencia y Puntualidad será la responsable de verificar previamente la identidad del personal que sea registrado en el medio electrónico correspondiente para este efecto, mediante una identificación oficial con fotografía y, en su caso, el recibo de pago, a fin de validarlo con el número de expediente asignado por la Dirección General de Recursos Humanos.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
@@ -1641,9 +1647,11 @@ Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá ase
 
 Asimismo, dicho Auxiliar deberá resguardar, en su caso, la documentación idónea que acredite la justificación autorizada.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES, D.O.F. 6 DE MAYO DE 2024)</small>
+
 ###### Artículo 63.
 
-En caso de ausencia temporal o permanente del Auxiliar de Asistencia y Puntualidad, la Dirección General de Tecnologías de la Información deberá realizar el alta en el lector biométrico del servidor público que lo supla o sustituya, e informarlo a la Unidad de Registro y Control de Asistencia mediante correo electrónico.
+En caso de ausencia temporal o permanente de la persona Auxiliar de Asistencia y Puntualidad, la persona designada por la Dirección General de Tecnologías de la Información deberá realizar el alta de la persona servidora pública en el medio electrónico correspondiente que la supla o sustituya, e informarlo a la Unidad de Registro y Control de Asistencia mediante correo electrónico.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
@@ -1673,11 +1681,11 @@ VI. Por vacaciones; y
 
 VII. Por determinación del Pleno o Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES, D.O.F. 6 DE MAYO DE 2024)</small>
 
 ###### Artículo 66.
 
-La Unidad de Registro y Control de Asistencia, en su caso, con el apoyo de la Coordinación de Administración Regional y del Auxiliar de Asistencia y Puntualidad, realizará cotejos de identidad y revisiones periódicas de los registros automatizados de la geometría de mano de los servidores públicos.
+La Unidad de Registro y Control de Asistencia, en su caso, con el apoyo de la Coordinación de Administración Regional y de la persona Auxiliar de Asistencia y Puntualidad, llevará a cabo cotejos de identidad y revisiones periódicas de los registros automatizados realizados por las personas servidoras públicas, a través de los medios electrónicos que determine el Consejo.
 
 ###### Artículo 67.
 
@@ -14626,3 +14634,13 @@ D.O.F. 26 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 6 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Las áreas administrativas y órganos jurisdiccionales deberán adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
