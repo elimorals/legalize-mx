@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2023-01-17"
+last_updated: "2024-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -191,7 +191,9 @@ B) En el Poder Ejecutivo,
 
 24. Los Secretarios Particulares del Jefe de Gabinete, de los Secretarios, de los Sub - secretarios, y del Oficial Mayor en las Dependencias de la Administración Pública, así como los de los Directores Generales de las Entidades de la Administración Pública;
 
-25. El personal adscrito presupuestalmente a las Secretarías Particular y Privado (sic) o Ayudantías;
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
+25. El personal adscrito presupuestalmente a las Secretarías Particular y Privada o Ayudantías;
 
 26. Los Asesores Jurídicos, Políticos y Administrativos del Gobernador y de los Secretarios;
 
@@ -415,7 +417,9 @@ Es nula la renuncia que los trabajadores hagan de los salarios devengados, de la
 
 Todo convenio o liquidación, para ser válido, deberá hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante el Tribunal de Arbitraje, quien lo aprobará, siempre que no contenga renuncia de los derechos de los Trabajadores.
 
-### CAPITULO SEGUNDO. Suspensión del (sic) las Relaciones de Trabajo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2024)</small>
+
+### CAPITULO SEGUNDO. Suspensión de las Relaciones de Trabajo
 
 ###### ARTICULO 20.
 
@@ -445,7 +449,9 @@ III.- En los casos de la fracción V del artículo anterior, desde la fecha en q
 
 El trabajador deberá regresar a su trabajo:
 
-I.- En los casos de las fracciones I, II y IV del artículo anterior, al día siguiente de la fecha en que termine la causa de la supensión (sic); y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+
+I.- En los casos de las fracciones I, II y IV del artículo anterior, al día siguiente de la fecha en que termine la causa de la suspensión; y
 
 II.- En los casos de las fracciones III y V del artículo anterior, dentro de los 4 días siguientes a la terminación de la causa de la suspensión.
 
@@ -465,9 +471,11 @@ IV.- La terminación de la obra o el vencimiento del término, tratándose de tr
 
 V.- La incapacidad física o mental o inhabilidad, debidamente comprobadas del trabajador, que hagan imposible la prestación del trabajo.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 24.
 
-En el caso de la fracción V del artículo anterior, si la incapacidad proviene de un riesgo de trabajo no profesional, el trabajador tendrá derecho a que se le proporcione otro empleo compatible con sus capacidades, o en su defecto, a la (sic) indemnizaciones que se consignan en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes o equivalentes.
+En el caso de la fracción V del artículo anterior, si la incapacidad proviene de un riesgo de trabajo no profesional, el trabajador tendrá derecho a que se le proporcione otro empleo compatible con sus capacidades, o en su defecto, a las indemnizaciones que se consignan en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes o equivalentes.
 
 ### CAPITULO CUARTO. Rescisión de las Relaciones de Trabajo
 
@@ -593,9 +601,11 @@ V.- Incurrir su jefe inmediato, superior jerárquico o colaboradores del servici
 
 El trabajador podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se den cualquiera de las causas mencionadas en el artículo anterior, y tendrá derecho a que el Estado lo indemnice con el importe de tres meses de salario, más los salarios caídos con las limitaciones que establece el presente Estatuto.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2024)</small>
 
-ARTICULO 31 BIS.- Si el Estado se negara a someter sus diferencias al arbitraje, se dará por terminado el contrato de trabajo y el Estado estará obligado a indemnizar al trabajador con el importe de tres meses de salario, más los salarios caídos hasta el día que presente la insumisión al arbitraje ante el Tribunal de Arbitraje establecido en el título noveno del (sic) este Estatuto, salarios caídos que se sujetarán a las limitaciones que se establecen en este Estatuto.
+ARTICULO 31 BIS.- Si el Estado se negara a someter sus diferencias al arbitraje, se dará por terminado el contrato de trabajo y el Estado estará obligado a indemnizar al trabajador con el importe de tres meses de salario, más los salarios caídos hasta el día que presente la insumisión al arbitraje ante el Tribunal de Arbitraje establecido en el título noveno de este Estatuto, salarios caídos que se sujetarán a las limitaciones que se establecen en este Estatuto.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
 
 La acción de insumisión al arbitraje, podrá ser realizada independientemente de cualquier acción ejercitada por el trabajador, insumisión que deberá realizarse por el Estado, antes de dar contestación a la demanda instaurada por el trabajador, dándosele vista a la parte trabajadora para que vea y reciba las cantidades que por este concepto se le depositan, para que en su caso las reciba y se dé por terminado el conflicto laboral por estos conceptos instaurado, o en su caso para que manifieste lo que a su derecho corresponda.
 
@@ -705,9 +715,11 @@ IX.- El veinticinco de diciembre; y
 
 X.- Los demás que señale el calendario oficial que proporcionará el Estado al principio del año o los que acuerden los titulares de los diversos Poderes del Estado, Municipios u organismos descentralizados.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 44.
 
-Loos (sic) trabajadores que presten sus servicios en esos días tendrán derecho a que se les pague un salario doble por el servicio prestado.
+Los trabajadores que presten sus servicios en esos días tendrán derecho a que se les pague un salario doble por el servicio prestado.
 
 ### CAPITULO CUARTO. Vacaciones
 
@@ -785,9 +797,11 @@ En el caso de las Fracciones I y VI, los descuentos no podrán exceder del veint
 
 El salario no es susceptible de embargo judicial o administrativo, fuera de los casos señalados en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 54.
 
-En (sic) nula la cesión de salarios en favor de tercera persona.
+Es nula la cesión de salarios en favor de tercera persona.
 
 ###### ARTICULO 55.
 
@@ -1075,9 +1089,11 @@ Los trabajadores de confianza no podrán formar parte de los sindicatos. Los tra
 
 Cuando un trabajador de confianza hubiese sido promovido de un puesto base y se le separe de aquél, podrá volver a ocupar el de base, salvo que exista causa justificada para su separación.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 70.
 
-Para la constitución de los sindicatos y su reconocimiento por el Gobierno del Estado de Aguascalintes (sic) y sus Municipios, así como de los organismos descentralizados, se requerirá concurrencia de 20 o más trabajadores por cada entidad.
+Para la constitución de los sindicatos y su reconocimiento por el Gobierno del Estado de Aguascalientes y sus Municipios, así como de los organismos descentralizados, se requerirá concurrencia de 20 o más trabajadores por cada entidad.
 
 ###### ARTICULO 71.
 
@@ -1229,7 +1245,9 @@ I.- Cuando la mayoría de los huelguistas ejecuten actos violentos contra las pe
 
 II.- Cuando se realice al acontecer algún desastre natural o accidental, que afecte al orden público general; o
 
-III.- Cuando se suspendan las labores sin antes haberse realizado la declaratoria prevista en al (sic) Artículo 97.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+
+III.- Cuando se suspendan las labores sin antes haberse realizado la declaratoria prevista en el Artículo 97.
 
 ###### ARTICULO 92.
 
@@ -1449,7 +1467,9 @@ V.- Bajo su más estricta responsabilidad, dictar las medidas necesarias para qu
 
 VI.- Proporcionar a las autoridades, los informes que le sean requeridos y practicar las diligencias que sean solicitadas; y
 
-VIII (sic).- Representar al Tribunal ante las demás autoridades.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
+VII.- Representar al Tribunal ante las demás autoridades.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
@@ -1663,9 +1683,11 @@ V.- Si en la casa o local designado para hacer la notificación se negaré al in
 
 En todos los casos a que se refiere este Artículo, el actuario asentará razón en autos, señalando con claridad los elementos de convicción en que se apoye.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 148.
 
-Las ulteriores notificaciones personales se harán al interesado o persona autorizada para ello, el mismo día que se dicte la resolución, si concurren al Local del Tribunal o en el domicilio señalado, y si no se encontraren presentes, se les dejará una copia de la esolución (sic) autorizada por el actuario; si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo. El actuario asentará razón en autos.
+Las ulteriores notificaciones personales se harán al interesado o persona autorizada para ello, el mismo día que se dicte la resolución, si concurren al Local del Tribunal o en el domicilio señalado, y si no se encontraren presentes, se les dejará una copia de la resolución autorizada por el actuario; si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo. El actuario asentará razón en autos.
 
 ###### ARTICULO 149.
 
@@ -1791,11 +1813,11 @@ El Tribunal ordenará se cite a los absolventes personalmente o por conducto de 
 
 Si la persona citada para absolver posiciones no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior, y en consecuencia, se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 168.
 
-Cuando se ofrezca la confesión a cargo del Gobernador del Estado, Secretarios de Estado, Fiscal General del Estado, Presidente del Supremo Tribunal de Justicia, Presidente de la Mesa Directiva del Congreso del Estado, Presidentes Municipales y Directores Generales de Organismos Descentralizados, y se les hayan atribuido hechos propios, éstos no absolverán posiciones en la forma establecida en los artículos anteriores, pero la parte contraria podrá pedir que se les gire oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de cinco días. En el oficio se percibirá (sic) a la parte absolvente de tenerla por confesa sino (sic) contestare dentro de ese término, o si no lo hiciere categóricamente, afirmando o negando los hechos.
+Cuando se ofrezca la confesión a cargo del Gobernador del Estado, Secretarios de Estado, Fiscal General del Estado, Presidente del Supremo Tribunal de Justicia, Presidente de la Mesa Directiva del Congreso del Estado, Presidentes Municipales, Directores Generales de Organismos Descentralizados, y se les hayan atribuido hechos propios, éstos no absolverán posiciones en la forma establecida en los artículos anteriores, pero la parte contraria podrá pedir que se les gire oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de cinco días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro de ese término, o si no lo hiciere categóricamente, afirmando o negando los hechos.
 
 Para tal efecto, al ofrecer la prueba, deberán acompañarse los pliegos correspondientes, para que una vez calificadas las posiciones por el Tribunal, se giren los oficios correspondientes.
 
@@ -1819,9 +1841,11 @@ El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujeta
 
 ### CAPITULO DECIMO TERCERO. Recursos
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 172.
 
-Contra actos del presidente del Tribunal de Arabitraje (sic) y los actuarios, en ejecución de los laudos y convenios, procede el recurso de revisión.
+Contra actos del presidente del Tribunal de Arbitraje y los actuarios, en ejecución de los laudos y convenios, procede el recurso de revisión.
 
 ###### ARTICULO 173.
 
@@ -1877,9 +1901,11 @@ Las partes pueden exigir la responsabilidad en que incurran los miembros del Tri
 
 ### CAPITULO DECIMO CUARTO. Del Procedimiento ante el Tribunal de Arbitraje
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 180.
 
-El procedimiento para resolver las controversias que se sometan ante el Tribunal de Arbitraje, se iniciará con la presentación de la demanda por escrito; se continuará con la conteatación (sic) que se dé en igual forma; con una audiencia de conciliación, ofrecimiento y admisión de purebas (sic); con la audiencia de desahogo de pruebas, alegatos y resolución correspondiente.
+El procedimiento para resolver las controversias que se sometan ante el Tribunal de Arbitraje, se iniciará con la presentación de la demanda por escrito; se continuará con la contestación que se dé en igual forma; con una audiencia de conciliación, ofrecimiento y admisión de pruebas; con la audiencia de desahogo de pruebas, alegatos y resolución correspondiente.
 
 ###### ARTICULO 181.
 
@@ -1935,7 +1961,9 @@ II.- Si las partes llegaren a un arreglo, se dará por terminado el conflicto. E
 
 III.- Las partes de común acuerdo, podrán solicitar se suspenda la audiencia, con el objeto de conciliarse y el Tribunal, por una sola vez, la suspenderá y fijará su reanudación dentro de los cinco días siguientes, quedando notificadas las partes de la nueva fecha en ese momento, con los apercibimientos de ley; y
 
-IV.- Si las partes no llegaren a ningúna (sic) acuerdo, se les tendrá por inconformes con todo arreglo y se declarará abierta la siguiente etapa.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+
+IV.- Si las partes no llegaren a ningún acuerdo, se les tendrá por inconformes con todo arreglo y se declarará abierta la siguiente etapa.
 
 ###### ARTICULO 189.
 
@@ -2320,3 +2348,11 @@ P.O. 17 DE ENERO DE 2023.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 634.- SE REFORMA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
