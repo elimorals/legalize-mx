@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2022-01-13"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -323,17 +323,15 @@ VII. Presentar un programa integral de trabajo sobre Procuración de Justicia en
 
 VIII. Someterse a la evaluación de control de confianza correspondiente.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XIX A XV FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 83 A LA 85.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### Artículo 14.
 
-Facultades del Fiscal General del Estado. El titular de la Fiscalía General del Estado de Baja California, intervendrá por sí o por conducto de los Fiscales del Ministerio Público y demás órganos de la Fiscalía, en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Baja California, la presente Ley y las demás disposiciones aplicables.
+Facultades del Fiscal General del Estado. La persona titular de la Fiscalía General del Estado de Baja California, intervendrá por sí o por conducto de las y los Fiscales del Ministerio Público y demás órganos de la Fiscalía, en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Baja California, la presente Ley y las demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2024)</small>
 
-El Fiscal General del Estado, de forma enunciativa más no limitativa, tendrá dentro de sus atribuciones, las siguientes:
+La persona titular de la Fiscalía General del Estado, de forma enunciativa más no limitativa, tendrá dentro de sus atribuciones, las siguientes:
 
 I. Determinar la política, criterios y prioridades institucionales, ejerciendo por sí o por conducto de las Fiscalías y demás órganos de la Fiscalía General, los fines institucionales previstos en la presente Ley;
 
@@ -341,9 +339,9 @@ I. Determinar la política, criterios y prioridades institucionales, ejerciendo 
 
 II. Emitir con apego a los preceptos constitucionales federales y estatales, los reglamentos, decretos, acuerdos, convenios, protocolos, instrumentos y acciones relativas a los asuntos que sean competencia de la Fiscalía General; así como proponer al Poder Ejecutivo del Gobierno del Estado los anteproyectos de leyes relacionados (sic) investigación y persecución del delito;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III. Designar y remover a los servidores públicos de la Fiscalía General del Estado, con excepción de los casos que la ley establezca; así como ejercer la disciplina y administración de todo el personal de la Fiscalía General del Estado, resolviendo sobre su ingreso, adscripción, sustitución, promoción, renuncia, permiso, licencia, estímulos y sanciones, cuando sean procedentes;
+III. Designar y remover a las y los servidores públicos de la Fiscalía General del Estado, con excepción de los casos que la ley establezca; así como ejercer la disciplina y administración de todo el personal de la Fiscalía General del Estado, resolviendo sobre su ingreso, adscripción, sustitución, promoción, renuncia, permiso, licencia, estímulos y sanciones, cuando sean procedentes;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -385,13 +383,17 @@ XII. Participar en la Conferencia Nacional de Procuración de Justicia;
 
 XIII. Participar en el sistema de atención a las víctimas y ofendidos por la comisión de delitos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XIV. Solicitar la colaboración de otras autoridades, así como auxiliar a las que lo soliciten, directamente o por conducto de la Fiscalía Central, en la persecución de los probables autores o partícipes del hecho delictivo, en los términos que dispongan las leyes, acuerdos, convenios, bases y demás instrumentos de colaboración celebrados para tal efecto, y
+XIV. Solicitar la colaboración de otras autoridades, así como auxiliar a las que lo soliciten, directamente o por conducto de la Fiscalía Central, en la persecución de los probables autores o partícipes del hecho delictivo, en los términos que dispongan las leyes, acuerdos, convenios, bases y demás instrumentos de colaboración celebrados para tal efecto;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
 
-XV. Las demás que le confieren las leyes y reglamentos.
+XV. Capacitar al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la integración adecuada de carpetas de investigación; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MAYO DE 2024)</small>
+
+XVI. Las demás que le confieren las leyes y reglamentos.
 
 ###### Artículo 15.
 
@@ -1144,3 +1146,9 @@ P.O. 13 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 67 MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA REFORMA AL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 415 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 14 A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
