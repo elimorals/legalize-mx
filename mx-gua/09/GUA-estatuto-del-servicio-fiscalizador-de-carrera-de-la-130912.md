@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-servicio-fiscalizador-de-carrera-de-la-130912"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-04"
-last_updated: "2024-04-04"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MAYO DE 2024.]</small>
 
 Estatuto publicado en la Segunda Parte al Número 199 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de octubre de 2018.
 
@@ -583,17 +583,17 @@ VI. Obtener resultados no aprobatorios en la evaluación al desempeño por más 
 
 IV (SIC). Las demás que se establezcan en las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2024)</small>
 
 ###### Artículo 51.
 
-Los Servidores Públicos de la Auditoría Superior independientemente del nivel tabular que ocupen al momento de la separación del cargo, tendrán derecho a una prima de antigüedad que consistirá en el importe de por lo menos quince días de salario tabular por cada año de prestación de servicio. En el supuesto de no haber cumplido el año, la parte proporcional que le corresponda.
+Los Servidores Públicos tienen derecho a una prima de antigüedad que consistirá en el importe de por lo menos quince días de salario tabular por cada año de prestación de servicio, en el supuesto de no haber cumplido el año, la parte proporcional que le corresponda siempre y cuando hayan cumplido cinco años de servicio.
 
 La prima de antigüedad se pagará en los siguientes supuestos:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE ABRIL DE 2024)</small>
+(REFORMADA, P.O. 4 DE ABRIL DE 2024) (F. DE E., P.O. 7 DE MAYO DE 2024)
 
-I. En los casos de retiro voluntario;
+I. En los casos de retiro voluntario, siempre y cuando hayan cumplido cinco años de servicio;
 
 II. En los casos de disolución de la relación laboral independientemente si es o no justificada;
 
@@ -629,9 +629,9 @@ II. Por nacimiento de hijo;
 
 III. Por matrimonio; y
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2024)</small>
+(REFORMADA, P.O. 4 DE ABRIL DE 2024) (F. DE E., P.O. 7 DE MAYO DE 2024)
 
-I (SIC). Por defunción de algún familiar, hasta el cuarto grado de parentesco.
+IV. Por defunción de algún familiar, hasta el cuarto grado de parentesco.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
