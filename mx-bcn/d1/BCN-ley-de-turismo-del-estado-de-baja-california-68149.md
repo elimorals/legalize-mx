@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2023-12-08"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -875,9 +875,17 @@ III.- Efectuar el pago de los servicios prestados en el momento de la presentaci
 
 IV.- Declarar, bajo protesta de decir verdad, los hechos o antecedentes de sus quejas o reclamaciones, cuando los requiera la autoridad;
 
-V.- Respetar el entorno natural y cultural de los sitios en que realicen el turismo, así como la flora, la fauna y las tradiciones; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI.- Observar los lineamientos, políticas y Reglamentos de los Servicios Turísticos brindados por los establecimientos referidos en el Artículo 62 de esta Ley.
+V.- Respetar el entorno natural y cultural de los sitios en que realicen el turismo, así como la flora, la fauna y las tradiciones;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VI.- Observar los lineamientos, políticas y Reglamentos de los Servicios Turísticos brindados por los establecimientos referidos en el artículo 61 de esta Ley; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+VII.- Mostrar identificación oficial vigente a la prestadora de servicios turísticos al momento de hospedarse en algún establecimiento con la finalidad de ser incluido en un registro de visitantes o turistas.
 
 #### SECCIÓN SEGUNDA. DE SUS DERECHOS
 
@@ -971,13 +979,27 @@ XIX.- Proporcionar la información, para efectos estadísticos, en el momento qu
 
 XX.- Cumplir con las demás disposiciones derivadas de esta Ley y su Reglamento;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XXI.- En la construcción de su infraestructura así como en el desarrollo de sus actividades respetarán la capacidad de carga de los ecosistemas, la flora y la fauna silvestre. Asimismo, deberán observar las normas de construcción, los planes de ordenamiento ecológico y los planes de desarrollo urbano. Por último, los prestadores de servicios turísticos, en los proyectos que promuevan, deberán ser congruentes con las aptitudes físicas de las áreas donde se pretenda desarrollar la actividad turística, y
+XXI.- En la construcción de su infraestructura así como en el desarrollo de sus actividades respetarán la capacidad de carga de los ecosistemas, la flora y la fauna silvestre. Asimismo, deberán observar las normas de construcción, los planes de ordenamiento ecológico y los planes de desarrollo urbano. Por último, los prestadores de servicios turísticos, en los proyectos que promuevan, deberán ser congruentes con las aptitudes físicas de las áreas donde se pretenda desarrollar la actividad turística;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XXII.- Durante las emergencias sanitarias decretadas por la autoridad correspondiente, acatar las indicaciones emitidas por la Secretaria de Salud, y, dar aviso a la misma sobre la presencia de personas con síntomas propios de la enfermedad infecto contagiosa.
+XXII.- Durante las emergencias sanitarias decretadas por la autoridad correspondiente, acatar las indicaciones emitidas por la Secretaría de Salud, y, dar aviso a la misma sobre la presencia de personas con síntomas propios de la enfermedad infecto contagiosa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+XXIII.- Tratándose de las prestadoras de servicios turísticos de hospedaje, deberán:
+
+a) Informar, capacitar y sensibilizar a su personal y trabajadores en materia de derechos humanos, explotación sexual, comercial infantil asociada al turismo o cualquier otro tipo de violencia sexual contra niñas, niños y adolescentes, y el seguimiento de protocolos para detectar la posible comisión de delitos relacionados con dichas conductas;
+
+b) Dar aviso inmediato a las autoridades correspondientes sobre la probable comisión de hechos delictivos en sus instalaciones;
+
+c) Contar con sistema de video vigilancia acorde con los servicios prestados por el establecimiento en sus áreas comunes;
+
+d) Solicitar identificación oficial vigente de sus huéspedes, incluida la identificación oportuna de las niñas, niños y adolescentes; y,
+
+e) Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones del establecimiento de hospedaje, siempre y cuando se acredite, por los medios idóneos legalmente reconocidos, que se encuentran en compañía de la persona que ejerce la patria potestad, tutela o custodia.
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -1440,3 +1462,9 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 328 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 Y ADICIÓN DE LOS ARTÍCULOS 8 BIS, 29 BIS, 29 TER, 29 QUATER, 29 QUINQUIES Y 29 SEXTIES A LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 414 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 62 Y 65 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
