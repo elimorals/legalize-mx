@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2016-10-28"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -43,6 +43,8 @@ LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas y principios conforme a los cuales se llevará a cabo la planeación estatal del desarrollo de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
 La presente Ley establece:
@@ -61,13 +63,15 @@ V.- Las bases para la coordinación y colaboración intergubernamental, bajo los
 
 VI.- Las bases para la evaluación técnica y ciudadana del desempeño de las instituciones de planeación y del cumplimiento de los objetivos y metas establecidos por los planes y programas estatales y municipales, la cual será continua, sistemática, transparente y de interés público;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VII.- Las bases para la incorporación de la perspectiva de equidad de género en los planes y programas a que se refiere la presente ley, para promover y garantizar la igualdad entre mujeres y hombres; y
+VII.- Las bases para la incorporación de la perspectiva de género y la interseccionalidad en los planes y programas a que se refiere la presente ley, para promover y garantizar la igualdad entre mujeres y hombres; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VIII.- Las responsabilidades de los servidores públicos relativas al cumplimiento de los principios de la planeación, de sus planes y programas, así como de las metas y acciones que establezcan.
+VIII.- Las responsabilidades de las personas servidoras públicas relativas al cumplimiento de los principios de la planeación, de sus planes y programas, así como de las metas y acciones que establezcan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 3.
 
@@ -77,7 +81,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. PLANEACIÓN ESTATAL DEL DESARROLLO: La previsión ordenada y la ejecución de acciones que fomenten el desarrollo socioeconómico de Baja California, con base en la regulación que los Gobiernos Estatal y Municipales ejercen sobre la vida política, económica, ambiental, social e institucional de la Entidad, incluyendo la colaboración y coordinación con iniciativas de la sociedad civil y de las organizaciones privadas y sociales. La finalidad y objetivo esencial de la planeación y de los programas de desarrollo es mejorar la calidad de vida de la población. La planeación será democrática y deliberativa;
 
-II. SECRETARÍA.- La Secretaría de Planeación y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+II. SECRETARÍA.- Secretaría de Hacienda;
 
 III. COPLADE.- El Comité de Planeación para el Desarrollo del Estado de Baja California;
 
@@ -89,17 +95,21 @@ V. SEDOC.- Sistema Estatal de Información, Documentación, Estadística, y Cart
 
 VI. EVALUACIÓN.- Proceso que tiene como finalidad determinar el grado de eficacia y eficiencia, con que han sido empleados los recursos destinados y las medidas tomadas para alcanzar los objetivos previstos, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VII. PERSPECTIVA DE EQUIDAD DE GÉNERO.- Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres;
+VII. PERSPECTIVA DE GÉNERO.- Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+VII-A. INTERSECCIONALIDAD.- Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 VIII. PROCESO DE PLANEACIÓN PARA EL DESARROLLO.- Fases en la que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos y metas generales, económicos, ambientales, sociales y políticos, tomando en consideración la disponibilidad de recursos reales y potenciales. Está integrado por las etapas de diagnóstico, programación, presupuestación, ejecución y evaluación;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-IX. PROGRAMA.- Instrumento de los planes que ordena y vincula, cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta, que contribuirá a lograr los objetivos de los planes de desarrollo; y
+IX. PROGRAMA.- Instrumento de los planes que ordena y vincula, cronológica, espacial, cuantitativa y técnicamente las acciones o actividades y los recursos necesarios para alcanzar una meta, que contribuirá a lograr los objetivos de los planes de desarrollo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -131,6 +141,8 @@ VII.- El de bienestar social, para garantizar la igualdad de derechos y oportuni
 
 VIII.- La atención y desarrollo integral de las personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
 Los responsables de la planeación en el Estado, son:
@@ -151,19 +163,25 @@ VII.- El Poder Legislativo del Estado;
 
 VIII.- Los Ayuntamientos;
 
-IX.- Los Presidentes Municipales, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+IX.- Las Personas Titulares de las Presidencias Municipales; y,
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
 X.- Los Institutos Municipales de Planeación u Organismos Municipales de Planeación.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 6.
 
-Es responsabilidad del Gobernador del Estado, conducir la Planeación Estatal del Desarrollo, de conformidad con lo dispuesto en la presente Ley, así como aprobar y coordinar la ejecución del Plan Estratégico del Estado y el Plan Estatal de Desarrollo, integrando a éstos los Planes Municipales que formulen los Ayuntamientos, con la participación de los Consejos Ciudadanos de carácter consultivo existentes y de los que sean creados en la entidad, así como los Consejos formalizados o que sean creados en los Municipios, los grupos sociales organizados y los particulares.
+Es responsabilidad de la Persona Titular del Poder Ejecutivo, conducir la Planeación Estatal del Desarrollo, de conformidad con lo dispuesto en la presente Ley, así como aprobar y coordinar la ejecución del Plan Estratégico del Estado y el Plan Estatal de Desarrollo, integrando a éstos los Planes Municipales que formulen los Ayuntamientos, con la participación de los Consejos de la Ciudadanía de carácter consultivo existentes y de los que sean creados en la entidad, así como los Consejos formalizados o que sean creados en los Municipios, los grupos sociales organizados y las personas particulares.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 7.
 
-El Gobernador del Estado remitirá el Plan Estatal de Desarrollo al Congreso del Estado para su examen y opinión, en un plazo no mayor de seis meses a partir del inicio de su gestión constitucional. El Plan Estratégico del Estado será remitido al momento de concluirse y cuando se haya actualizado su contenido.
+La Persona Titular del Poder Ejecutivo remitirá el Plan Estatal de Desarrollo al Congreso del Estado para su examen y opinión, en un plazo no mayor de seis meses a partir del inicio de su gestión constitucional. El Plan Estratégico del Estado será remitido al momento de concluirse y cuando se haya actualizado su contenido.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -171,27 +189,29 @@ El Gobernador del Estado remitirá el Plan Estatal de Desarrollo al Congreso del
 
 Los Ayuntamientos aprobarán los Planes de Desarrollo Municipales y antes de remitirlos al Congreso del Estado, los enviarán al INEPLAN a efecto de que realice un dictamen de compatibilidad con el Plan Estatal de Desarrollo. De igual forma sucederá para el caso de los Planes Estratégicos Municipales y su actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
-El informe que rinda el titular del Poder Ejecutivo ante el Poder Legislativo sobre el estado que guarda la administración pública, incluirá el avance en el cumplimiento del Plan de Desarrollo del Estado y del Plan Estratégico del Estado.
+El informe que rinda la Persona Titular del Poder Ejecutivo ante el Poder Legislativo sobre el estado que guarda la administración pública, incluirá el avance en el cumplimiento del Plan de Desarrollo del Estado y del Plan Estratégico del Estado.
 
 Las iniciativas de Leyes y de Decretos, así como los Reglamentos y Acuerdos que expida el Ejecutivo del Estado, deberán señalar las relaciones que, en su caso, existan entre el contenido de dichos documentos, el Plan Estratégico del Estado, el Plan Estatal de Desarrollo y los programas relativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-El Gobernador del Estado, al enviar al Congreso del Estado las iniciativas de Leyes de Ingresos y Presupuesto de Egresos, incluirá la información sobre la relación que guarda el contenido de dichas iniciativas con los objetivos y prioridades de la planeación estatal y con los programas anuales que deberán elaborarse para la ejecución del Plan Estatal de Desarrollo.
+La Persona Titular del Poder Ejecutivo, al enviar al Congreso del Estado las iniciativas de Leyes de Ingresos y Presupuesto de Egresos, incluirá la información sobre la relación que guarda el contenido de dichas iniciativas con los objetivos y prioridades de la planeación estatal y con los programas anuales que deberán elaborarse para la ejecución del Plan Estatal de Desarrollo.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
 
 La programación y presupuestación del gasto público estatal se basarán en los objetivos y en las líneas de acción del Plan Estatal de Desarrollo, así como a lo establecido en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-Las dependencias y entidades de la administración pública estatal y municipal, deberán planear y conducir sus actividades con sujeción a los objetivos, estrategias y prioridades de la planeación estatal del desarrollo y las que fijen el gobernador y los presidentes municipales respectivamente, observando siempre la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género desde su planeación.
+Las dependencias y entidades de la administración pública estatal y municipal, deberán planear y conducir sus actividades con sujeción a los objetivos, estrategias y prioridades de la planeación estatal del desarrollo y las que fijen la Persona Titular del Poder Ejecutivo y las Personas Titulares de las Presidencias Municipales respectivamente, observando siempre la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género y la interseccionalidad desde su planeación.
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE PLANEACIÓN DEL DESARROLLO
 
@@ -203,9 +223,11 @@ La planeación estatal del desarrollo será democrática y deliberativa y se lle
 
 El Sistema Estatal de Planeación del Desarrollo es el que integra y vincula a los órganos y autoridades responsables del proceso de formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-En el Sistema Estatal de Planeación del Desarrollo concurrirán los sectores social y privado en forma concertada o inducida, y los particulares a través de demandas que formulen o participando en la consulta pública, con el propósito de que intervengan directamente en la elaboración, instrumentación, control y evaluación del desempeño de las instituciones y objetivos de la planeación.
+En el Sistema Estatal de Planeación del Desarrollo concurrirán los sectores social y privado en forma concertada o inducida, y las personas particulares a través de demandas que formulen o participando en la consulta pública, con el propósito de que intervengan directamente en la elaboración, instrumentación, control y evaluación del desempeño de las instituciones y objetivos de la planeación.
 
 ###### ARTÍCULO 14.
 
@@ -249,9 +271,11 @@ XV.- Aquellos que por necesidad del desarrollo del Estado se demanden.
 
 ### CAPÍTULO TERCERO. ATRIBUCIONES DE LAS AUTORIDADES DE PLANEACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-Corresponde al Gobernador del Estado en materia de planeación, las siguientes atribuciones:
+Corresponde a la Persona Titular del Poder Ejecutivo en materia de planeación, las siguientes atribuciones:
 
 I.- Planear y conducir el desarrollo integral del Estado en la esfera de su competencia;
 
@@ -275,9 +299,9 @@ Corresponde a la Secretaría las siguientes atribuciones:
 
 I.- Proporcionar los lineamientos a las dependencias y entidades de la administración pública Estatal, para que elaboren su programación del gasto público, cumpliendo con los objetivos, estrategias y prioridades contenidas en el Plan Estatal de Desarrollo, mismo que constituye el marco referencial para la instrumentación del Programa Operativo Anual; y se entreguen ante esa Secretaría para que se integre al Presupuesto de Egresos de la administración pública Estatal;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- Coordinar las actividades de planeación operativa que requieran la elaboración de programas, así como programación del gasto público de las dependencias y entidades de la administración pública estatal, vigilando que los programas y sus respectivos presupuestos mantengan congruencia con el plan estatal de desarrollo y cuenten con enfoque de género;
+II.- Coordinar las actividades de planeación operativa que requieran la elaboración de programas, así como programación del gasto público de las dependencias y entidades de la administración pública estatal, vigilando que los programas y sus respectivos presupuestos mantengan congruencia con el plan estatal de desarrollo y cuenten con perspectiva de género e interseccionalidad;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -307,7 +331,9 @@ I.- Intervenir en el ámbito de su competencia en la elaboración del Plan Estra
 
 II.- Elaborar los planes y programas sectoriales, con base en los parámetros establecidos por los Planes elaborados por el INEPLAN y tomando en cuenta las propuestas que presenten los integrantes del sector;
 
-III.- Mantener la congruencia de los programas sectoriales con las políticas públicas que determine el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III.- Mantener la congruencia de los programas sectoriales con las políticas públicas que determine la Persona Titular del Poder Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -315,9 +341,9 @@ IV.- Coordinar las actividades tendientes a cumplir con los programas anuales re
 
 V.- Asegurar la visión sectorial en las actividades de programación que correspondan a las entidades de la administración estatal, agrupadas en su sector;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI.- Elaborar los presupuestos para la ejecución de los programas operativos anuales correspondientes, con perspectiva de equidad de género.
+VI.- Elaborar los presupuestos para la ejecución de los programas operativos anuales correspondientes, con perspectiva de género e interseccionalidad.
 
 VII.- Considerar el ámbito territorial de las acciones previstas en los programas a su cargo, procurando su congruencia con los objetivos y prioridades de los planes estratégicos y Municipales de desarrollo, así como de los programas de los Gobiernos Municipales, y
 
@@ -329,9 +355,9 @@ Corresponde a las Entidades de la Administración Pública Estatal en materia de
 
 I.- Participar en la elaboración de los programas sectoriales, especiales y regionales, presentando las propuestas que procedan en relación a su objeto de creación, funciones y objetivos particulares;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- Elaborar su programa institucional y los presupuestos correspondientes, con perspectiva de equidad de género.
+II.- Elaborar su programa institucional y los presupuestos correspondientes, con perspectiva de género e interseccionalidad;
 
 III.- Vigilar que sus programas institucionales mantengan congruencia con el programa sectorial respectivo;
 
@@ -357,17 +383,17 @@ V.- Elaborar el Plan Estatal de Desarrollo, compatibilizando y actualizando al m
 
 VI.- Elaborar estudios y diagnósticos territoriales, sociales, urbanos, rurales, económicos, de infraestructura pública, ambientales, cartográficos, del patrimonio histórico y cultural, así como los demás que sean necesarios para el proceso de planeación y que apoyen el diseño de las políticas y planes correspondientes,
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VII.- Diseñar la planeación y ordenamiento territorial de Baja California, incluyendo áreas urbanas, rurales, costas y reservas ecológicas, elaborando los planes correspondientes, así como aquellos otros solicitados por el Gobernador del Estado. La aprobación de los planes anteriores corresponde al titular del Ejecutivo, previo dictamen del Consejo Directivo del INEPLAN;
+VII.- Diseñar la planeación y ordenamiento territorial de Baja California, incluyendo áreas urbanas, rurales, costas y reservas ecológicas, elaborando los planes correspondientes, así como aquellos otros solicitados por la Persona Titular del Poder Ejecutivo del Estado. La aprobación de los planes anteriores corresponde a la Persona Titular del Poder Ejecutivo, previo dictamen del Consejo Directivo del INEPLAN;
 
 VIII.- Elaborar el Informe Bienal sobre Calidad de Vida y Desarrollo Humano del Estado de Baja California, con indicadores y estadísticas continuas que permitan evaluar la evolución social de la entidad;
 
 IX.- Concertar acuerdos en materia de planeación con organismos e institutos de investigación públicos o privados, así como con instituciones científicas y de educación superior;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-X.- Participar en la coordinación con los titulares de las representaciones Federales en el Estado, para verificar que los programas, proyectos y acciones que se desarrollan en la Entidad, garanticen su efectiva ejecución y beneficio social en el marco de la planeación de desarrollo;
+X.- Participar en la coordinación con las personas titulares de las representaciones Federales en el Estado, para verificar que los programas, proyectos y acciones que se desarrollan en la Entidad, garanticen su efectiva ejecución y beneficio social en el marco de la planeación de desarrollo;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -389,19 +415,25 @@ I.- Organizar y sistematizar las demandas y necesidades de la sociedad bajacalif
 
 II.- Recopilar y sistematizar la información de los programas e iniciativas de los gobiernos Federal y Municipales, con el objeto de promover la cooperación y coordinación con la administración Estatal y con las organizaciones de la sociedad civil y empresas privadas; la información será compartida y coordinada con el SEDOC;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III.- Operar los mecanismos de concertación, participación, coordinación e inducción del Gobierno del Estado, con los ciudadanos, grupos y organizaciones sociales y privados, así como con los gobiernos Federal, de las Dependencias y Entidades Federativas así como de los Municipios;
+III.- Operar los mecanismos de concertación, participación, coordinación e inducción del Gobierno del Estado, con las y los ciudadanos, grupos y organizaciones sociales y privados, así como con los gobiernos Federal, de las Dependencias y Entidades Federativas así como de los Municipios;
 
-IV.- Promover la participación de los habitantes y de los grupos y organizaciones sociales y privados a través de la incorporación de sus aspiraciones y demandas para en su caso incorporarlas a la estrategia del desarrollo;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+IV.- Promover la participación de las personas habitantes y de los grupos y organizaciones sociales y privados a través de la incorporación de sus aspiraciones y demandas para en su caso incorporarlas a la estrategia del desarrollo;
 
-V.- Coordinarse con los titulares de las representaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, perspectiva de equidad de género y beneficio social en el marco de la planeación del desarrollo;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI.- Fomentar la suscripción de convenios de coordinación entre los gobiernos Federal, Estatal y Municipales, así como la de convenios de participación con los ciudadanos, grupos y organizaciones sociales y privados, a fin de dar congruencia a los planes de desarrollo y los programas que de ellos deriven;
+V.- Coordinarse con las personas titulares de las representaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, perspectiva de género e interseccionalidad y beneficio social en el marco de la planeación del desarrollo;
 
-VII.- Fungir como órgano de consulta tanto del Gobierno del Estado, como de los Ayuntamientos y de los habitantes, grupos y organizaciones sociales y privados en materia de necesidades y requerimientos de la sociedad;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VI.- Fomentar la suscripción de convenios de coordinación entre los gobiernos Federal, Estatal y Municipales, así como la de convenios de participación con las y los ciudadanos, grupos y organizaciones sociales y privados, a fin de dar congruencia a los planes de desarrollo y los programas que de ellos deriven;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VII.- Fungir como órgano de consulta tanto del Gobierno del Estado, como de los Ayuntamientos y de las personas habitantes, grupos y organizaciones sociales y privados en materia de necesidades y requerimientos de la sociedad;
 
 VIII.- Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, como instancias auxiliares, y
 
@@ -415,9 +447,9 @@ Corresponde al Poder Legislativo en materia de planeación las siguientes atribu
 
 I.- Intervenir en las materias que le competen en la elaboración del Plan Estratégico del Estado y el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- Elaborar su presupuesto por programa y con perspectiva de equidad de género;
+II.- Elaborar su presupuesto por programa y con perspectiva de género;
 
 III.- Auxiliar en la esfera de su competencia al resto de las autoridades y órganos responsables de la planeación, y
 
@@ -429,9 +461,9 @@ Corresponde al Poder Judicial en materia de planeación las siguientes atribucio
 
 I.- Intervenir respecto de las materias que le competen en la elaboración del Plan Estratégico del Estado y el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- Elaborar su presupuesto por programa y con perspectiva de equidad de género;
+II.- Elaborar su presupuesto por programa y con perspectiva de género;
 
 III.- Mantener la congruencia de sus programas con el Plan Estatal, así como los programas Federales y Estatales;
 
@@ -457,15 +489,17 @@ IV.- Proponer al Gobierno Estatal y al Federal, programas de inversión, gasto y
 
 V.- Ratificar el programa de inversión en obras y servicios públicos municipales;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI.- Verificar que la programación del gasto público municipal se sujete a la técnica del presupuesto por programa y con perspectiva de equidad de género; y
+VI.- Verificar que la programación del gasto público municipal se sujete a la técnica del presupuesto por programa y con perspectiva de género e interseccionalidad; y
 
 VII.- Las demás que le atribuyan las Leyes, reglamentos, decretos y acuerdos sobre la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 24.
 
-Corresponde al Presidente Municipal en materia de planeación las siguientes atribuciones:
+Corresponde a la Persona Titular de la Presidencia Municipal en materia de planeación las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -477,9 +511,9 @@ III.- Instruir que los programas y actividades de las dependencias y entidades M
 
 IV.- Proponer a los Gobiernos Federal y Estatal que concierten programas de inversión para el desarrollo municipal dentro del marco del Convenio de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-V.- Vigilar que las dependencias municipales elaboren sus presupuestos de acuerdo a los programas emanados del plan municipal y que hayan incorporado la perspectiva de equidad de género y que la reflejen en sus indicadores desagregada por sexo.
+V.- Vigilar que las dependencias municipales elaboren sus presupuestos de acuerdo a los programas emanados del plan municipal y que hayan incorporado la perspectiva de género y que la reflejen en sus indicadores desagregada por sexo;
 
 VI.- Coordinar las actividades de la administración pública Municipal con las actividades de las administraciones públicas Federal y Estatal en programas de desarrollo;
 
@@ -493,9 +527,9 @@ Corresponde a las Dependencias de la Administración Pública Municipal en mater
 
 I.- Intervenir en el ámbito de su competencia en la elaboración del Plan Estratégico Municipal y el Plan Municipal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- Elaborar sus programas y presupuesto anual basado en la técnica del presupuesto por programa y con perspectiva de equidad de género;
+II.- Elaborar sus programas y presupuesto anual basado en la técnica del presupuesto por programa y con perspectiva de género e interseccionalidad;
 
 III.- Mantener la congruencia de sus programas con el Plan Estatal y el plan Municipal, así como con los programas Federales y Estatales cuyo ámbito sea el del Municipio;
 
@@ -513,9 +547,9 @@ I.- Participar en la elaboración de los programas municipales presentando las p
 
 II.- Elaborar su Programa Operativo Institucional;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III.- Proponer al ayuntamiento los presupuestos anuales para la ejecución de sus programas, incorporando en los mismos la perspectiva de equidad de género;
+III.- Proponer al ayuntamiento los presupuestos anuales para la ejecución de sus programas, incorporando en los mismos la perspectiva de género;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -555,17 +589,21 @@ IX.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sob
 
 En el ámbito del Sistema Estatal de Planeación del Desarrollo, se da la participación y consulta de los diversos grupos sociales, con el objeto de que la población exprese sus opiniones para la formulación, instrumentación y evaluación de los planes y los programas a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-Sólo los consejos ciudadanos de carácter consultivo existentes y los que sean creados en la Entidad, así como los consejos formalizados o que sean creados en los Municipios y las organizaciones representativas de obreros, campesinos, grupos populares, instituciones académicas, profesionales de la investigación, organismos empresariales, y otras agrupaciones sociales, participarán como órganos de consulta permanente en el proceso de planeación del desarrollo, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los institutos municipales u organismos Municipales que realicen tal función.
+Sólo los consejos de la ciudadanía de carácter consultivo existentes y los que sean creados en la Entidad, así como los consejos formalizados o que sean creados en los Municipios y las organizaciones representativas de personas obreras, personas campesinas, grupos populares, instituciones académicas, personas profesionales de la investigación, organismos empresariales, y otras agrupaciones sociales, participarán como órganos de consulta permanente en el proceso de planeación del desarrollo, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los institutos municipales u organismos Municipales que realicen tal función.
 
-Todos los particulares podrán participar con sus opiniones y propuestas en los distintos ámbitos de la planeación, ya sea Estatal, Regional o Municipal, a través de las Mesas de Trabajo y foros de consulta que sean convocados para tal efecto.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Todas las personas particulares podrán participar con sus opiniones y propuestas en los distintos ámbitos de la planeación, ya sea Estatal, Regional o Municipal, a través de las Mesas de Trabajo y foros de consulta que sean convocados para tal efecto.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Estos foros se realizarán durante los primeros tres meses del plazo requerido para elaborar el Plan Estatal y dentro de los primeros dos meses para elaborar los Planes Municipales como parte del programa de actividades del COPLADE y de los institutos municipales de planeación u organismos municipales de planeación.
 
-El Gobernador o Presidentes Municipales electos que hayan recibido la constancia de mayoría por las autoridades correspondientes, podrán acordar con las administraciones Estatal o Municipales en funciones, se inicien los foros de consulta por las instancias de planeación.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+La Persona Titular del Poder Ejecutivo del Estado o las Personas Titulares de las Presidencias Municipales electas que hayan recibido la constancia de mayoría por las autoridades correspondientes, podrán acordar con las administraciones Estatal o Municipales en funciones, se inicien los foros de consulta por las instancias de planeación.
 
 Para el caso de los Planes Estratégico tanto del Estado como de los Municipios los foros se realizarán en los primeros cuatro meses según los plazos señalados por esta Ley para la elaboración o actualización de los documentos.
 
@@ -585,9 +623,11 @@ II.- Regionales: Serán organizados y convocados por las coordinaciones de los r
 
 III.- Municipales: Habrán de ser organizados y convocados por los Institutos Municipales de Planeación u Organismos Municipales de Planeación, de acuerdo a la estructura sectorial o por Mesas de Trabajo que hayan adoptado para su funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 30.
 
-La participación de los Consejos Ciudadanos de carácter consultivo y de las diversas organizaciones de los sectores privado y social legalmente constituidas, en todas las etapas del proceso de planeación se asegurará de la siguiente manera:
+La participación de los Consejos de la Ciudadanía de carácter consultivo y de las diversas organizaciones de los sectores privado y social legalmente constituidas, en todas las etapas del proceso de planeación se asegurará de la siguiente manera:
 
 I.- En el ámbito de la planeación estatal, a través de los Subcomités Sectoriales, Regionales y Especiales que operan en el COPLADE, la cual quedará formalizada mediante los instrumentos que las disposiciones legales determinen al respecto; y
 
@@ -595,9 +635,11 @@ I.- En el ámbito de la planeación estatal, a través de los Subcomités Sector
 
 II.- En el ámbito de los Municipios, la participación social se llevará a cabo en los Consejos de los Institutos Municipales de Planeación y de los Organismos Municipales de Planeación, a través de las figuras de representación que se determinen conformar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 31.
 
-Las autoridades Estatales y Municipales promoverán la figura de los Consejos Ciudadanos Consultivos como alternativa de organización y participación social plural, incluyente, corresponsable y democrática de la comunidad para la planeación del desarrollo, los cuales tendrán los siguientes objetivos:
+Las autoridades Estatales y Municipales promoverán la figura de los Consejos de la Ciudadanía Consultivos como alternativa de organización y participación social plural, incluyente, corresponsable y democrática de la comunidad para la planeación del desarrollo, los cuales tendrán los siguientes objetivos:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -611,9 +653,9 @@ III.- Despertar, en cada miembro y entre los grupos que lo integran, el interés
 
 IV.- Constituir una organización comunitaria que infunda la unidad, la solidaridad, la subsidiaridad, la corresponsabilidad y la democracia entre sus miembros y su entorno, y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-V.- Formar un verdadero instrumento de vinculación y concertación entre la sociedad y los gobiernos estatal y municipales, promoviendo que lleven a cabo el diseño, elaboración, aplicación, seguimiento y evaluación de resultados de los planes y programas, en el ámbito de su competencia, con perspectiva de equidad de género.
+V.- Formar un verdadero instrumento de vinculación y concertación entre la sociedad y los gobiernos estatal y municipales, promoviendo que lleven a cabo el diseño, elaboración, aplicación, seguimiento y evaluación de resultados de los planes y programas, en el ámbito de su competencia, con perspectiva de género.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -757,9 +799,11 @@ III.- Por largo plazo la vigencia del plan por un periodo que comprende de trece
 
 En todos los planes estratégicos es imprescindible que se establezcan los tiempos a corto, mediano y largo plazo para facilitar la evaluación del cumplimiento de sus objetivos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 40.
 
-El Plan Estatal de Desarrollo se elaborará y publicará dentro de los seis meses siguientes a la toma de posesión del Gobernador del Estado, y su vigencia será de seis años a partir de su publicación en el Periódico Oficial del Estado, el cual deberá estar articulado con el Plan Estratégico del Estado, y considerarse los recursos presupuestales para garantizar su ejecución.
+El Plan Estatal de Desarrollo se elaborará y publicará dentro de los seis meses siguientes a la toma de posesión de la Persona Titular del Poder Ejecutivo del Estado, y su vigencia será de seis años a partir de su publicación en el Periódico Oficial del Estado, el cual deberá estar articulado con el Plan Estratégico del Estado, y considerarse los recursos presupuestales para garantizar su ejecución.
 
 ###### ARTÍCULO 41.
 
@@ -791,13 +835,17 @@ I.- El Plan Estratégico Estatal y los Planes Estratégicos Municipales, se form
 
 El Plan Estratégico Estatal y de los Planes Estratégicos Municipales actualizará sus horizontes de largo plazo cada diez y ocho años respectivamente, en un plazo de un año, contado a partir del inicio del año previsto para ello.
 
-Para la formulación del Plan Estatal de Desarrollo, será de seis meses a partir de la toma de posesión del Gobernador electo, y para los Municipios, será de cuatro meses contados a partir de la toma de posesión del Presidente Municipal.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Para la formulación del Plan Estatal de Desarrollo, será de seis meses a partir de la toma de posesión de la Persona Titular del Poder Ejecutivo del Estado electo, y para los Municipios, será de cuatro meses contados a partir de la toma de posesión de la Persona Titular de la Presidencia Municipal.
 
 Para la formulación de los Planes Sectoriales se atenderán los plazos que definen las disposiciones legales correspondientes.
 
 II.- El plazo de la etapa de instrumentación, es de un año calendario a través de la formulación de los programas a que se refiere esta Ley;
 
-III.- El plazo de la etapa de control, será permanente una vez aprobados los programas emanados de los planes, determinándose su aplicación preventiva, concurrente y sancionadora, en base a lo que determine la Ley de Responsabilidades de los Servidores Públicos para el Estado de Baja California; y,
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III.- El plazo de la etapa de control, será permanente una vez aprobados los programas emanados de los planes, determinándose su aplicación preventiva, concurrente y sancionadora, en base a lo que determine la Ley de Responsabilidades Administrativas del Estado de Baja California; y,
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -819,11 +867,11 @@ V.- El plazo para el programa institucional será de tres meses contados a parti
 
 VI.- El plazo para los programas territoriales será de seis meses a cuatro años a partir de la publicación de los distintos planes sectoriales.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 45.
 
-Los planes Municipales deberán elaborarse, aprobarse y enviarse al INEPLAN para su compatibilización con el Plan Estatal de Desarrollo dentro de un plazo de cuatro meses a partir de la fecha de la toma de posesión de los Presidentes Municipales y su vigencia no excederá del período constitucional que les corresponda; los cuales deberá estar articulados con los Planes Estratégicos Municipales respectivos, y considerarse recursos presupuestales para garantizar su ejecución. Asimismo, antes de finalizar la administración municipal deberán publicar la evaluación del avance del Plan Municipal correspondiente realizado por el Instituto Municipal de Planeación u Organismo Municipal de Planeación. Los Planes Estratégicos Municipales también deberán ser evaluados por el organismo competente y se deberá llevar a cabo antes de que proceda su actualización.
+Los planes Municipales deberán elaborarse, aprobarse y enviarse al INEPLAN para su compatibilización con el Plan Estatal de Desarrollo dentro de un plazo de cuatro meses a partir de la fecha de la toma de posesión de las Personas Titulares de las Presidencias Municipales y su vigencia no excederá del período constitucional que les corresponda; los cuales deberá (sic) estar articulados con los Planes Estratégicos Municipales respectivos, y considerarse recursos presupuestales para garantizar su ejecución. Asimismo, antes de finalizar la administración municipal deberán publicar la evaluación del avance del Plan Municipal correspondiente realizado por el Instituto Municipal de Planeación u Organismo Municipal de Planeación. Los Planes Estratégicos Municipales también deberán ser evaluados por el organismo competente y se deberá llevar a cabo antes de que proceda su actualización.
 
 ###### ARTÍCULO 46.
 
@@ -831,9 +879,11 @@ La categoría de plan queda reservada para el Plan Estratégico del Estado, Plan
 
 ### CAPÍTULO SEXTO. DEL CONTROL, SEGUIMIENTO Y EVALUACIÓN DE LA EJECUCIÓN DE LOS PROGRAMAS
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-Las dependencias, entidades públicas, organismos, unidades administrativas y servidores públicos, conforme a las facultades y obligaciones contenidas en este capítulo, reportarán periódicamente los resultados de la ejecución de los programas a la Secretaría, y en el caso de los Municipios, a quien los Ayuntamientos designen.
+Las dependencias, entidades públicas, organismos, unidades administrativas y las personas servidoras públicas, conforme a las facultades y obligaciones contenidas en este capítulo, reportarán periódicamente los resultados de la ejecución de los programas a la Secretaría, y en el caso de los Municipios, a quien los Ayuntamientos designen.
 
 ###### ARTÍCULO 48.
 
@@ -841,17 +891,17 @@ La Secretaría y los Ayuntamientos, en el ámbito de su competencia, establecer�
 
 Para la elaboración e integración de los informes de evaluación habrán de considerarse entre otros elementos, los indicadores del SEDOC, aplicados al proceso de planeación democrática para el desarrollo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 49.
 
-En cumplimiento de los objetivos y líneas de acción establecidos en los planes, los titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia, eficacia y con perspectiva de equidad de género y enviarán a la Secretaría, cuando esta así lo solicite, los informes del avance programático presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
+En cumplimiento de los objetivos y líneas de acción establecidos en los planes, las personas titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás personas servidoras públicas serán responsables de que los programas se ejecuten con oportunidad, eficiencia, eficacia y con perspectiva de género y enviarán a la Secretaría, cuando esta así lo solicite, los informes del avance programático presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 50.
 
-Las dependencias, entidades públicas, organismos, unidades administrativas y servidores públicos, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas, así como que se haya incorporado la perspectiva de equidad de género, y en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia, línea de acción, actividad o proyecto a los que se refiere el artículo 35 de esta ley, dictamen que habrán de hacer de conocimiento inmediato a la Secretaría o al ayuntamiento, en el ámbito de su competencia, para que a su vez, se reformule el contenido de los planes o programas.
+Las dependencias, entidades públicas, organismos, unidades administrativas y las personas servidoras públicas, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas, así como que se haya incorporado la perspectiva de género, y en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia, línea de acción, actividad o proyecto a los que se refiere el artículo 35 de esta ley, dictamen que habrán de hacer de conocimiento inmediato a la Secretaría o al ayuntamiento, en el ámbito de su competencia, para que a su vez, se reformule el contenido de los planes o programas.
 
 ### CAPÍTULO SÉPTIMO. DE LA VERTIENTE DE OBLIGACIÓN
 
@@ -919,15 +969,21 @@ Los programas a que se refieren los artículos anteriores especificarán los res
 
 El INEPLAN formulará el Plan Estratégico del Estado y el Plan Estatal de Desarrollo y lo enviará al Ejecutivo del Estado para su aprobación así como los planes sectoriales.
 
-El INEPLAN validará los programas sectoriales, especiales y regionales y territoriales que elaboren las dependencias y entidades de la Administración Pública Estatal y los pondrá a consideración y aprobación del Gobernador; la Secretaría hará lo anterior solamente con el Programa Operativo Anual que sustente el Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-Los programas institucionales deberán ser sometidos para su aprobación al titular de la Dependencia coordinadora de sector, con la validación del INEPLAN.
+El INEPLAN validará los programas sectoriales, especiales y regionales y territoriales que elaboren las dependencias y entidades de la Administración Pública Estatal y los pondrá a consideración y aprobación de la Persona Titular del Poder Ejecutivo del Estado; la Secretaría hará lo anterior solamente con el Programa Operativo Anual que sustente el Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Los programas institucionales deberán ser sometidos para su aprobación a la Persona Titular de la Dependencia coordinadora de sector, con la validación del INEPLAN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-El Instituto Municipal de Planeación u Organismo Municipal de Planeación formulará el Plan Estratégico Municipal y el Plan Municipal de Desarrollo y lo enviará al Presidente Municipal para su aprobación por el Cabildo.
+El Instituto Municipal de Planeación u Organismo Municipal de Planeación formulará el Plan Estratégico Municipal y el Plan Municipal de Desarrollo y lo enviará a la Presidencia Municipal para su aprobación por el Cabildo.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Cada programa que emane de los anteriores planes será validado por Instituto Municipal de Planeación u Organismo Municipal de Planeación y aprobado por el Ayuntamiento, así como, el programa Operativo Anual que sustenta el Presupuesto de Egresos Municipal.
 
@@ -935,11 +991,11 @@ Cada programa que emane de los anteriores planes será validado por Instituto Mu
 
 El Plan Estratégico del Estado, el Plan Estatal de Desarrollo, los Planes Sectoriales, los Planes Estratégicos Municipales, los Planes Municipales de Desarrollo y los programas sectoriales, especiales, regionales, territoriales y operativos anuales e institucionales, así como sus respectivas evaluaciones se publicarán en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 63.
 
-El Plan Estatal de Desarrollo los planes sectoriales, los Planes Municipales de Desarrollo se evaluarán antes de concluir su vigencia, de conformidad con lo establecido en el artículo 43 fracción IV de este ordenamiento. Los programas sectoriales, regionales y especiales, serán evaluados cada año por el INEPLAN y los Institutos Municipales de Planeación u Organismos Municipales de Planeación en el ámbito de su competencia. Las adecuaciones consecuentes, previa su aprobación por parte del Gobernador y de los Ayuntamientos, en su caso, se publicarán en el Periódico Oficial del Estado.
+El Plan Estatal de Desarrollo los planes sectoriales, los Planes Municipales de Desarrollo se evaluarán antes de concluir su vigencia, de conformidad con lo establecido en el artículo 43 fracción IV de este ordenamiento. Los programas sectoriales, regionales y especiales, serán evaluados cada año por el INEPLAN y los Institutos Municipales de Planeación u Organismos Municipales de Planeación en el ámbito de su competencia. Las adecuaciones consecuentes, previa su aprobación por parte de la Persona Titular del Poder Ejecutivo del Estado y de los Ayuntamientos, en su caso, se publicarán en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -1001,13 +1057,13 @@ El Ejecutivo Estatal ordenará la publicación, en el Periódico Oficial, de los
 
 La vertiente de concertación comprende los resultados cuyos alcances y condiciones se especificarán en los programas operativos anuales, en los programas institucionales o en convenios; este esfuerzo se realiza entre gobierno y sociedad, con el propósito de ejecutar de manera compartida y mediante la cooperación los objetivos de los planes y los programas a que hace referencia esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-El Ejecutivo del Estado, a través de sus dependencias y entidades paraestatales, podrá concertar la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico del Estado, el Plan Estatal y planes sectoriales; así como los resultados de los programas, con las representaciones de los grupos sociales o con los particulares interesados.
+El Ejecutivo del Estado, a través de sus dependencias y entidades paraestatales, podrá concertar la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico del Estado, el Plan Estatal y planes sectoriales; así como los resultados de los programas, con las representaciones de los grupos sociales o con las personas particulares interesadas.
 
-Los Ayuntamientos podrán concertar, asimismo, con los grupos organizados de la sociedad, los Consejos de Desarrollo Económico Municipales, las cámaras empresariales, así como con los particulares, la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico Municipal y en el Plan Municipal de Desarrollo; así también deberán considerar en sus respectivos Presupuestos de Egresos, los recursos económicos necesarios para la consecución de los proyectos emanados de dichos Planes.
+Los Ayuntamientos podrán concertar, asimismo, con los grupos organizados de la sociedad, los Consejos de Desarrollo Económico Municipales, las cámaras empresariales, así como con las personas particulares, la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico Municipal y en el Plan Municipal de Desarrollo; así también deberán considerar en sus respectivos Presupuestos de Egresos, los recursos económicos necesarios para la consecución de los proyectos emanados de dichos Planes.
 
 ###### ARTÍCULO 71.
 
@@ -1025,11 +1081,15 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 La vertiente de inducción incluye la ejecución de aquellos instrumentos y acciones económicos, sociales, normativos y administrativos que utiliza y desarrolla el Ejecutivo del Estado o los Ayuntamientos en el ámbito de su competencia, para incitar determinados comportamientos del sector privado, con el objeto de que hagan compatibles sus acciones con lo propuesto por los planes y programas y, en consecuencia, cumplir con los resultados esperados.
 
-El concepto de inducción como parte del Sistema Estatal de Planeación del Desarrollo, se explica por la gran diversidad de instrumentos al alcance del Estado y por la necesidad de prever sus resultados sobre las actividades de los particulares.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+El concepto de inducción como parte del Sistema Estatal de Planeación del Desarrollo, se explica por la gran diversidad de instrumentos al alcance del Estado y por la necesidad de prever sus resultados sobre las actividades de las personas particulares.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 74.
 
-El Presupuesto de Egresos del Estado y de los Ayuntamientos anualmente indicarán el uso selectivo de los instrumentos de política económica para inducir las acciones de los particulares para el cumplimiento de los objetivos, estrategias y líneas de acción de los planes.
+El Presupuesto de Egresos del Estado y de los Ayuntamientos anualmente indicarán el uso selectivo de los instrumentos de política económica para inducir las acciones de las personas particulares para el cumplimiento de los objetivos, estrategias y líneas de acción de los planes.
 
 ###### ARTÍCULO 75.
 
@@ -1079,13 +1139,17 @@ Cada Dependencia de la Administración Pública Estatal o Municipal, que ejerza 
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 85.
 
-Los servidores públicos que en el ejercicio de sus funciones, contravengan las disposiciones de esta Ley, o los objetivos y prioridades de los planes, los programas y convenios respectivos, se les impondrán las sanciones de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Las personas servidoras públicas que, en el ejercicio de sus funciones, contravengan las disposiciones de esta Ley, o los objetivos y prioridades de los planes, los programas y convenios respectivos, se les impondrán las sanciones de conformidad con lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 86.
 
-Las responsabilidades a que se refieren la presente Ley y, la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California son independientes de las de orden civil o penal que se puedan derivar de los mismos actos u omisiones.
+Las responsabilidades a que se refieren la presente Ley y, la Ley de Responsabilidades Administrativas del Estado de Baja California son independientes de las de orden civil o penal que se puedan derivar de los mismos actos u omisiones.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1186,3 +1250,9 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 650 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN V DEL ARTÍCULO 34 BIS, ASÍ COMO REFORMA DEL ARTÍCULO 70 A LA LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 425 MEDIANTE EL CUAL SE APRUEBA LAS REFORMAS A LOS ARTÍCULOS 2, 3, 5, 6, 7, 9, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 30, 31, 40, 43, 45, 47, 49, 50, 60, 61, 63, 70, 73, 74, 85 Y 86 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
