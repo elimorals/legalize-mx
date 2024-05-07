@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2024-04-05"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -719,11 +719,13 @@ IX. Implementar mecanismos para la atención, canalización y seguimiento de los
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia que se suscite hacia niñas, niños y adolescentes en los centros educativos;
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso sexual o cualquier otra forma de violencia que se suscite hacia niñas, niños y adolescentes en los centros educativos;
 
-XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+XII. Se elaboren protocolos de actuación sobre situaciones de acoso, violencia escolar y violencia sexual que afecte a niñas, niños y adolescentes, para guiar la actuación del personal docente y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del sistema educativo, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -1936,3 +1938,9 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 401 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 427 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 55 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
