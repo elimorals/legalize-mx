@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2024-04-05"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -59,53 +59,71 @@ Los Ayuntamientos, en ejercicio de esta atribución, están facultados para apro
 
 I.- Regular su funcionamiento, el de la administración pública municipal, y el de sus órganos de gobierno interno;
 
-II.- Establecer los procedimientos para el nombramiento y remoción de los funcionarios, comisionados y demás servidores públicos;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+II.- Establecer los procedimientos para el nombramiento y remoción de personas funcionarias, comisionadas y demás personas servidoras públicas;
 
 III.- Regular las materias, procedimientos, funciones y servicios públicos de su competencia;
 
-IV.- Regular el uso y aprovechamiento de los bienes municipales, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-V.- Emitir el estatuto que establezca las demarcaciones administrativas interiores del territorio municipal.
+IV.- Regular el uso y aprovechamiento de los bienes municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI.- Establecer los procedimientos para el nombramiento y remoción de los Comisarios Sociales Honorarios.
+V.- Emitir el estatuto que establezca las demarcaciones administrativas interiores del territorio municipal; y,
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VI.- Establecer los procedimientos para el nombramiento y remoción de personas Comisarias Sociales Honorarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 4.
 
-Del Órgano de Gobierno Municipal.- El Ayuntamiento, es el órgano de Gobierno del Municipio; se integra por un Presidente Municipal, un Síndico Procurador, y por el número de Regidores que establezca la Ley Electoral, de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
+Del Órgano de Gobierno Municipal.- El Ayuntamiento, es el órgano de Gobierno del Municipio; se integra por la persona titular de la Presidencia Municipal, una persona titular de la Sindicatura Procuradora y por el número de personas titulares de las Regidurías que establezca la Ley Electoral, de conformidad con lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
 
 El Ayuntamiento tendrá su residencia en la cabecera de cada municipalidad y ejercerá sus atribuciones de manera exclusiva en el ámbito territorial y jurídico de su competencia.
 
-El recinto del Ayuntamiento es inviolable; toda fuerza pública que no esté a cargo del propio Ayuntamiento está impedida para tener acceso a él, salvo que se otorgue permiso previo por el Presidente Municipal, o en su ausencia por el secretario fedatario del Ayuntamiento, quién deberá levantar constancia de ello.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-Los integrantes de los Ayuntamientos son responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrán ser privados del ejercicio de sus funciones, ni detenidos hasta en tanto se siga el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción penal o reconocimiento de los tribunales.
+El recinto del Ayuntamiento es inviolable; toda fuerza pública que no esté a cargo del propio Ayuntamiento está impedida para tener acceso a él, salvo que se otorgue permiso previo por la persona titular de la Presidencia Municipal, o en su ausencia por la persona que ocupe la titularidad del cargo de secretario fedatario del Ayuntamiento, quién deberá levantar constancia de ello.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Las personas integrantes de los Ayuntamientos son responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrán ser privados del ejercicio de sus funciones, ni detenidos hasta en tanto se siga el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción penal o reconocimiento de los tribunales.
 
 En todo el Estado se dará entera fe y crédito a los actos y despachos originados de las autoridades municipales, relativos a asuntos de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-De las Sesiones de Cabildo.- El Ayuntamiento funciona de manera colegiada, en régimen de sesiones de Cabildo ordinarias de periodicidad preestablecida y extraordinarias, y adopta sus resoluciones mediante votación emitida por la mayoría de sus miembros, de conformidad con lo que para el caso establece esta Ley y la reglamentación interior del Ayuntamiento, bajo las siguientes bases:
+De las Sesiones de Cabildo.- El Ayuntamiento funciona de manera colegiada, en régimen de sesiones de Cabildo ordinarias de periodicidad preestablecida y extraordinarias, y adopta sus resoluciones mediante votación emitida por la mayoría de sus integrantes, de conformidad con lo que para el caso establece esta Ley y la reglamentación interior del Ayuntamiento, bajo las siguientes bases:
 
-I.- En las sesiones de Cabildo, todos los miembros integrantes del Ayuntamiento tienen derecho a voz y voto;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2020)</small>
+I.- En las sesiones de Cabildo, todas las personas integrantes del Ayuntamiento tienen derecho a voz y voto.
 
-II.- Las Sesiones de Cabildo se desarrollarán conforme lo disponga el reglamento correspondiente, debiendo ser públicas por regla general y se deberán transmitir en vivo a través de su portal de internet conforme a las disposiciones de esta Ley; y reservadas cuando así lo proponga el Presidente Municipal, o en su caso, lo soliciten por escrito la mayoría de los miembros del Ayuntamiento y que la naturaleza de los asuntos a tratar así lo amerite. En dichas sesiones deberán tomarse las medidas necesarias para la protección de los datos personales y demás información cuya difusión sea restringida por la Ley de la materia. Los acuerdos que se adopten deberán hacerse públicos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2024)</small>
+
+II.- Las sesiones de Cabildo se desarrollarán conforme lo disponga el reglamento correspondiente, debiendo ser públicas por regla general y se deberán transmitir en vivo a través de su portal de internet conforme a las disposiciones de esta ley; y reservadas cuando así lo proponga la persona titular de la Presidencia Municipal, o en su caso, lo soliciten por escrito la mayoría de las personas integrantes del Ayuntamiento y que la naturaleza de los asuntos a tratar así lo amerite. En dichas sesiones deberán tomarse las medidas necesarias para la protección de los datos personales y demás información cuya difusión sea restringida por la ley de la materia. Los acuerdos que se adopten deberán hacerse públicos.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
 
 Cuando por caso fortuito o causas de fuerza mayor, sea imposible que los integrantes del Cabildo Municipal puedan reunirse a sesionar de manera presencial, por haberse decretado una medida de seguridad sanitaria por la autoridad competente, el Presidente Municipal o los Presidentes de las Comisiones de Trabajo instituidas por el Ayuntamiento, podrán convocar a sesión virtual de Cabildo o de Comisiones, respectivamente, debiendo hacerlo por escrito o vía electrónica, especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
 
-III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado registro, darle publicidad a los acuerdos adoptados, y ejercer la fé pública del órgano de gobierno, en cada Ayuntamiento fungirá una persona como secretario fedatario, quien no será miembro del Ayuntamiento y se designará por mayoría a propuesta del Presidente Municipal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado registro, darle publicidad a los acuerdos adoptados, y ejercer la fé pública del órgano de gobierno, en cada Ayuntamiento fungirá una persona como secretario fedatario, quien no será integrante del Ayuntamiento y se designará por mayoría a propuesta de la persona titular de la Presidencia Municipal.
 
-IV.- Cada Ayuntamiento establecerá las comisiones de Regidores para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las (sic) materia de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+IV.- Cada Ayuntamiento establecerá las comisiones de personas titulares de Regidurías para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las materias de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que, conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
 
-Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto con el propósito de recibir directamente de los ciudadanos opiniones, propuestas, peticiones o proyectos relacionados con temas de interés general, en términos de las disposiciones reglamentarias correspondientes.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto con el propósito de recibir directamente de la ciudadanía opiniones, propuestas, peticiones o proyectos relacionados con temas de interés general, en términos de las disposiciones reglamentarias correspondientes.
 
 ###### ARTÍCULO 6.
 
@@ -113,11 +131,11 @@ De la representación legal del Municipio.- En representación del Municipio y p
 
 El reglamento mediante el cual se otorguen facultades de representación legal y poderes, o el acuerdo del Ayuntamiento que las contenga, debidamente certificado por el Secretario Fedatario Municipal y publicado en el Periódico Oficial del Estado, tendrá en todo caso la naturaleza de documento público en los procedimientos administrativos y judiciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO P, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 7.
 
-Del Órgano Ejecutivo del Ayuntamiento.- La persona titular de la Presidencia Municipal, en su calidad de Alcaldesa o Alcalde de la comuna, es el Órgano Ejecutivo del Ayuntamiento y ostenta, en todo caso, las siguientes atribuciones:
+Del órgano Ejecutivo del Ayuntamiento.- La persona titular de la Presidencia Municipal, en su calidad de Alcaldesa o Alcalde de la comuna, es el órgano Ejecutivo del Ayuntamiento y ostenta, en todo caso, las siguientes atribuciones:
 
 I.- Dirigir el gobierno y la administración pública municipal, centralizada y paramunicipal;
 
@@ -137,13 +155,13 @@ VI.- Ejercer el derecho de previa observación de los acuerdos que se pretendan 
 
 VII.- Cumplir y hacer cumplir las disposiciones normativas derivadas de las leyes y reglamentos federales, estatales y municipales, dentro del ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la igualdad de trato y oportunidades entre mujeres y hombres y la protección de los derechos de los pueblos indígenas;
+VIII.- Promover entre las y los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la igualdad de trato y oportunidades entre mujeres y hombres y la protección de los derechos de los pueblos indígenas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-IX. Promover la capacitación continua de los servidores públicos de la administración pública municipal, y el desarrollo de trabajo conjunto entre autoridades municipales y sociedad civil, en materia de igualdad de trato y oportunidades entre mujeres y hombres, así como su difusión;
+IX.- Promover la capacitación continua de las personas servidoras públicas de la administración pública municipal, y el desarrollo de trabajo conjunto entre autoridades municipales y sociedad civil, en materia de igualdad de trato y oportunidades entre mujeres y hombres, así como su difusión;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
 
@@ -161,21 +179,23 @@ XII.- Rendir anualmente durante la primera semana del mes de octubre un informe 
 
 XIII.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 8.
 
-Del Síndico Procurador.- El Síndico Procurador.- (sic) El Síndico Procurador tendrá a su cargo la función de contraloría interna, la procuración de la defensa de los intereses del Ayuntamiento, y vigilar que no se afecten los intereses de los habitantes del municipio, en el ejercicio de las funciones y atribuciones de orden municipal, ostentando en todo caso, las siguientes atribuciones:
+De la persona titular de la Sindicatura Procuradora.- La persona titular de la Sindicatura Procuradora tendrá a su cargo la función de contraloría interna, la procuración de la defensa de los intereses del Ayuntamiento, y vigilar que no se afecten los intereses de las y los habitantes del municipio, en el ejercicio de las funciones y atribuciones de orden municipal, ostentando en todo caso, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-I.- Ejercer la representación jurídica del Ayuntamiento en los litigios jurisdiccionales, así como en las negociaciones relativas a la hacienda municipal, pudiendo nombrar apoderado legal y delegar sus facultades, con arreglo a las que específicamente el Ayuntamiento le delegue;
+I.- Ejercer la representación jurídica del Ayuntamiento en los litigios jurisdiccionales, así como en las negociaciones relativas a la hacienda municipal, pudiendo otorgar poder legal y delegar sus facultades, con arreglo a las que específicamente el Ayuntamiento le delegue.
 
-En caso de que el Síndico Procurador, por cualquiera de las causas o supuestos enunciados en las normas técnicas o reglamentos que para tal efecto establezcan los propios Ayuntamientos, se encuentre imposibilitado para ejercer la representación jurídica del Ayuntamiento, la podrá ejercer el Presidente Municipal por acuerdo del Ayuntamiento, estando obligado a dar cuenta de su actuación ante el órgano de gobierno municipal.
+En caso de que la persona titular de la Sindicatura Procuradora, por cualquiera de las causas o supuestos enunciados en las normas técnicas o reglamentos que para tal efecto establezcan los propios Ayuntamientos, se encuentre imposibilitada para ejercer la representación jurídica del Ayuntamiento, la podrá ejercer la persona titular de la Presidencia Municipal por acuerdo del Ayuntamiento, estando obligado a dar cuenta de su actuación ante el órgano de gobierno municipal.
 
 II.- Nombrar y remover al personal a su cargo;
 
-III.- Vigilar que la administración de los bienes del Municipio, la recaudación fiscal, los procedimientos administrativos, la ejecución de obras y el ejercicio de los recursos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas correspondientes e imponiendo las sanciones que resulten procedentes, de conformidad con lo dispuesto por la Ley de la materia y la reglamentación municipal, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III.- Vigilar que la administración de los bienes del Municipio, la recaudación fiscal, los procedimientos administrativos, la ejecución de obras y el ejercicio de los recursos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas correspondientes e imponiendo las sanciones que resulten procedentes, de conformidad con lo dispuesto por la Ley de la materia y la reglamentación municipal,
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -189,9 +209,9 @@ V.- En caso de presumirse la comisión de ilícitos sancionados por el Código P
 
 VI.- Dictar las medidas preventivas correspondientes;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VII.- Si con motivo del resultado de la investigación que se inicie, ya sea derivada de una Auditoria Interna, de una denuncia o de oficio se llegaren a encontrar faltas administrativas graves, deberá elaborar el Informe de presunta responsabilidad administrativa y promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa, así como presentar la denuncia de hechos ante la Fiscalía Especializada en combate a la corrupción del Estado o demás autoridades competentes, para la imposición de las sanciones que correspondan a los servidores públicos o a los particulares en los términos de las disposiciones legales aplicables; debiendo además cuando corresponda, informar de ello al Congreso del Estado y a la Auditoria Superior del Estado una vez concluidas las diligencias de investigación y dentro de un plazo de cinco días hábiles contados a partir del momento en que haya sido calificada como grave la falta administrativa;
+VII.- Si con motivo del resultado de la investigación que se inicie, ya sea derivada de una Auditoria Interna, de una denuncia o de oficio se llegaren a encontrar faltas administrativas graves, deberá elaborar el Informe de presunta responsabilidad administrativa y promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa, así como presentar la denuncia de hechos ante la Fiscalía Especializada en combate a la corrupción del Estado o demás autoridades competentes, para la imposición de las sanciones que correspondan a las personas servidoras públicas o a particulares en los términos de las disposiciones legales aplicables; debiendo además cuando corresponda, informar de ello al Congreso del Estado y a la Auditoria Superior del Estado una vez concluidas las diligencias de investigación y dentro de un plazo de cinco días hábiles contados a partir del momento en que haya sido calificada como grave la falta administrativa;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -213,9 +233,9 @@ XI.- Participar en los programas y políticas públicas en materia de desarrollo
 
 XII.- Proponer mecanismos de inclusión de participación social en los programas y acciones de desarrollo social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XIII.- Recibir y dar trámite a las quejas contra servidores públicos o con relación a los servicios prestados por el ayuntamiento;
+XIII.- Recibir y dar trámite a las quejas contra personas servidoras públicas o con relación a los servicios prestados por el ayuntamiento;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -225,29 +245,29 @@ XIV.- Instrumentar y operar un sistema de comunicación con la población en gen
 
 XV.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XVI.- Convocar, capacitar, evaluar, seleccionar, nombrar, remover, coordinar y supervisar a los Comisarios Sociales Honorarios conforme al procedimiento establecido en ésta Ley y en la normatividad técnica de cada Ayuntamiento.
+XVI.- Convocar, capacitar, evaluar, seleccionar, nombrar, remover, coordinar y supervisar a las personas Comisarias Sociales Honorarias conforme al procedimiento establecido en ésta Ley y en la normatividad técnica de cada Ayuntamiento;
 
-> <small>(REFORMADA [N. DE E, ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XVII.- Presidir las reuniones de los Comisarios Sociales Honorarios.
+XVII.- Presidir las reuniones de las personas Comisarias Sociales Honorarias;
 
 > <small>(REFORMADA [N. DE E, ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 XVIII.- Las demás que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-Las facultades a que se refiere el presente artículo podrán ser ejercidas por el Síndico Procurador o a través de la estructura a su cargo, según lo establezcan los reglamentos municipales correspondientes a cada Ayuntamiento.
+Las facultades a que se refiere el presente artículo podrán ser ejercidas por la persona titular de la Sindicatura Procuradora o a través de la estructura a su cargo, según lo establezcan los reglamentos municipales correspondientes a cada Ayuntamiento.
 
 ARTÍCULO 8 BIS.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
-Los Regidores, en conjunto con el Presidente Municipal y el Síndico Procurador, conforman el Ayuntamiento que es el órgano deliberante de representación popular de los ciudadanos del Municipio; no podrán ser reconvenidos por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
+Las personas titulares de las Regidurías, en conjunto con las personas titulares de la Presidencia Municipal y la Sindicatura Procuradora conforman el Ayuntamiento que es el órgano deliberante de representación popular de la ciudadanía del Municipio; en consecuencia, no podrán ser reconvenidas por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
 
@@ -255,33 +275,49 @@ I.- Participar en las sesiones de cabildo y en la gestión de los intereses del 
 
 II.- Integrarse y formar parte de las comisiones ordinarias y extraordinarias que establezca el Ayuntamiento, ejerciendo las facultades de inspección y vigilancia de los ramos de la administración pública a su cargo;
 
-III.- Obtener del Presidente Municipal, información, datos o antecedentes relativos a los servicios de las diferentes dependencias del órgano ejecutivo, que resulten necesarios para el desarrollo de su función, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III.- Obtener de la persona titular de la Presidencia Municipal, información, datos o antecedentes relativos a los servicios de las diferentes dependencias del órgano ejecutivo, que resulten necesarios para el desarrollo de su función; y,
 
 IV.- Las demás relativas a su función, que el propio Ayuntamiento establezca en su reglamentación interna o de gobierno o por virtud de los acuerdos respectivos.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-En el ejercicio de sus funciones, los regidores deberán de abstenerse a dar órdenes e instrucciones a los funcionarios, comisionados y demás servidores públicos, comunicando al presidente municipal cualquier asunto relativo a las dependencias del órgano ejecutivo.
+En el ejercicio de sus funciones, los titulares de las Regidurías deberán de abstenerse a dar órdenes e instrucciones a las personas funcionarias, comisionadas o servidoras públicas, comunicando a la persona titular de la Presidencia Municipal cualquier asunto relativo a las dependencias del órgano ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
+ARTÍCULO 9 BIS.- De la Glosa Municipal.- Dentro de los veintiocho días naturales posteriores a la rendición del informe al que alude la fracción XI del artículo 7 de esta Ley, las personas titulares de las dependencias municipales y entes públicos paramunicipales, previa citación por escrito, deberán comparecer ante las comisiones las personas titulares de las Regidurías Municipales correspondientes para el desahogo de la glosa; dichas comparecencias se desarrollaran en sesiones públicas a las que podrán asistir la ciudadanía que tenga interés en presenciar las comparecencias, bajo los términos que se establezcan en los reglamentos que para tal efecto expidan los ayuntamientos; tales sesiones se transmitirán por el portal de internet del ayuntamiento, bajo el principio de máxima publicidad.
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
 
-ARTÍCULO 9 BIS.- De la Glosa Municipal.- Dentro de los veintiocho días naturales posteriores a la rendición del informe al que alude la fracción XI del artículo 7 de esta Ley, los titulares de las dependencias municipales y entes públicos paramunicipales, previa citación por escrito, deberán comparecer ante las comisiones de regidores correspondientes para el desahogo de la glosa; dichas comparecencias se desarrollaran en sesiones públicas a las que podrán asistir los ciudadanos interesados, bajo los términos que se establezcan en los reglamentos que para tal efecto expidan los ayuntamientos; tales sesiones se transmitirán por el portal de internet del ayuntamiento, bajo el principio de máxima publicidad.
-
 La calendarización, formato y lineamientos bajo los cuales se desarrollará la glosa, deberán ser propuestos y aprobados por acuerdo de los plenos de los cabildos municipales.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
-ARTÍCULO 9 TER.- El Presidente Municipal, Síndico Procurador y Regidores que participen en un proceso electoral con el propósito de su elección consecutiva, conforme a lo dispuesto por las leyes aplicables, se sujetarán a lo siguiente:
+ARTÍCULO 9 TER.- Las personas titulares de la Presidencia Municipal, Sindicatura Procuradora y de Regidurías Municipales que participen en un proceso electoral con el propósito de su elección consecutiva, conforme a lo dispuesto por las leyes aplicables, se sujetarán a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 I. No podrán utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 II. No podrán ocupar al personal adscrito a la nómina del Ayuntamiento durante su horario laboral para realizar actos de campaña.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 III. No podrán estar presentes en actos públicos relacionados con la entrega de beneficios derivados de programas sociales.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 IV. No podrán condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 V. No podrán promocionar o publicitar las acciones de gobierno realizadas en el periodo que comprende desde el inicio de las precampañas hasta la conclusión de la jornada electoral.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 VI. Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
 
@@ -311,11 +347,11 @@ Con base en la proyección de los ingresos disponibles para cada ejercicio fisca
 
 La deuda pública de los Ayuntamientos se sujetará a lo dispuesto por la Ley de Deuda Pública del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-De la inspección de la Hacienda Pública Municipal.- La inspección de la hacienda pública municipal compete al Ayuntamiento por conducto del Síndico Procurador, en los términos de la reglamentación municipal, y al Congreso del Estado por conducto de la Auditoría Superior del Estado. Cuando el Gobierno del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos o en los casos en que se les otorgue participación estatal de impuestos, el Ejecutivo del Estado podrá nombrar un representante en las visitas de inspección que se realicen.
+De la inspección de la Hacienda Pública Municipal.- La inspección de la hacienda pública municipal compete al Ayuntamiento por conducto de la persona titular de la Sindicatura Procuradora, en los términos de la reglamentación municipal, y al Congreso del Estado por conducto de la Auditoría Superior del Estado. Cuando el Gobierno del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos o en los casos en que se les otorgue participación estatal de impuestos, el Ejecutivo del Estado podrá nombrar un representante en las visitas de inspección que se realicen.
 
 ###### ARTÍCULO 13.
 
@@ -333,7 +369,9 @@ d) Los muebles municipales que por su naturaleza normalmente no sean sustituible
 
 e) Las servidumbres, cuando el predio dominante sea uno de los indicados en este artículo.
 
-La incorporación patrimonial de un bien al régimen del dominio público municipal se hará por el Presidente Municipal, de conformidad con lo que para el caso determine la reglamentación que adopte el Ayuntamiento.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+La incorporación patrimonial de un bien al régimen del dominio público municipal se hará por la persona titular de la Presidencia Municipal, de conformidad con lo que para el caso determine la reglamentación que adopte el Ayuntamiento.
 
 II.- Son bienes propios municipales, enunciativamente:
 
@@ -351,9 +389,11 @@ Con excepción del Comodato para fines particulares, los Ayuntamientos pueden ej
 
 De la Protección de Bienes del Dominio Público.- Los Ayuntamientos poseen la potestad de deslindar y recuperar administrativamente la posesión de los bienes del dominio público municipal, que por cualquier motivo se encuentren en posesión de particulares o de autoridad diversa, siguiendo el procedimiento que al efecto reglamenten, consignando el derecho de audiencia y defensa de los afectados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-De la Disposición del Patrimoniol (sic) Municipal.- Para disponer del patrimonio municipal, se requiere de la votación favorable de las dos terceras partes de los miembros del Ayuntamiento, para autorizar los siguientes actos:
+De la Disposición del Patrimonio Municipal.- Para disponer del patrimonio municipal, se requiere de la votación favorable de las dos terceras partes de las personas integrantes del Ayuntamiento, para autorizar los siguientes actos:
 
 I.- La desincorporación del régimen del dominio público y su incorporación al régimen de bienes propios del Municipio, de toda clase de bienes inmuebles que ostenten esta naturaleza conforme a las normas aplicables;
 
@@ -391,27 +431,33 @@ IV.- Los Ayuntamientos no podrán otorgar concesiones sobre bienes, o para la pr
 
 ### CAPÍTULO PRIMERO. DE LA POTESTAD REGLAMENTARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-De los Reglamentos Municipales.- Los reglamentos municipales que expidan los Ayuntamientos deberán ser aprobados por la mayoría absoluta de sus miembros y sus normas deberán ser generales, abstractas, impersonales y vinculantes a la aplicación de leyes federales y estatales y al ejercicio de atribuciones de los Municipios.
+De los Reglamentos Municipales.- Los reglamentos municipales que expidan los Ayuntamientos deberán ser aprobados por la mayoría absoluta de sus integrantes y sus normas deberán ser generales, abstractas, impersonales y vinculantes a la aplicación de leyes federales y estatales y al ejercicio de atribuciones de los Municipios.
 
 Para su correspondiente publicidad e inicio de vigencia, deberán publicarse en el Periódico Oficial del Gobierno del Estado. Los Municipios estarán exentos del pago de derechos por la publicación de sus reglamentos y demás acuerdos y disposiciones de observancia general en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-En cuanto a su redacción y contenido, se procurará utilizar en los reglamentos municipales lenguaje que promueva la igualdad de trato y oportunidades entre mujeres y hombres.
+En cuanto a su redacción y contenido, se procurará utilizar en los reglamentos municipales lenguaje inclusivo y no sexista que promueva la igualdad de trato y oportunidades entre mujeres y hombres.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Del Reglamento Interno de los Ayuntamientos.- Los Ayuntamientos expedirán un reglamento interno que establezca las funciones y obligaciones de los Munícipes y organice el funcionamiento del órgano de gobierno.
+Del Reglamento Interno de los Ayuntamientos.- Los Ayuntamientos expedirán un reglamento interno que establezca las funciones y obligaciones de Munícipes y organice el funcionamiento del órgano de gobierno.
 
 ###### ARTÍCULO 20.
 
 Del Reglamento de Administración Pública.- Los Municipios expedirán un reglamento de administración pública municipal que organice la estructura administrativa interna, atendiendo a su conformación jerárquica y establezca sus entidades y demás formas de organización, así como la competencia y atribuciones a cargo de cada una de ellas. La administración pública municipal será centralizada, desconcentrada y paramunicipal, conforme se determine en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
-Del Bando de Policía y Gobierno.- Para los efectos de esta Ley, se entiende como bando de policía y gobierno, el anuncio público de una o varias normas o mandatos de carácter general, solemnemente publicados, que expide el Ayuntamiento para asegurar, mantener o restablecer el orden; la seguridad y la paz pública; el civismo y las buenas costumbres; los derechos y deberes de los habitantes del Municipio para con la sociedad y el gobierno de la comunidad; la salud pública; la observancia de los estatutos vecinales y comunales; el cuidado de los caminos, calles, plazas, playas y paseos; la realización de espectáculos y actividades públicas y en general toda actividad que incida sobre la seguridad, la salud y el bienestar de los habitantes del Municipio, previendo las sanciones administrativas que corresponda aplicar a los infractores.
+Del Bando de Policía y Gobierno.- Para los efectos de esta Ley, se entiende como bando de policía y gobierno, el anuncio público de una o varias normas o mandatos de carácter general, solemnemente publicados, que expide el Ayuntamiento para asegurar, mantener o restablecer el orden; la seguridad y la paz pública; el civismo y las buenas costumbres; los derechos y deberes de las y los habitantes del Municipio para con la sociedad y el gobierno de la comunidad; la salud pública; la observancia de los estatutos vecinales y comunales; el cuidado de los caminos, calles, plazas, playas y paseos; la realización de espectáculos y actividades públicas y en general toda actividad que incida sobre la seguridad, la salud y el bienestar de las y los habitantes del Municipio, previendo las sanciones administrativas que corresponda aplicar a las personas que los infrinjan.
 
 ###### ARTÍCULO 22.
 
@@ -439,7 +485,9 @@ De la Asunción de Funciones y Servicios Públicos.- El Ayuntamiento mediante ac
 
 De los Planes y Programas Municipales.- Los planes y programas, que formulen y aprueben los Ayuntamientos, deberán incorporar la dimensión ambiental que garantice un medio ambiente adecuado para bienestar y desarrollo de la población del Municipio; el respeto y defensa de los derechos humanos; la perspectiva de género y la protección de los derechos de los pueblos indígenas a quienes se tomará en cuenta para la formulación de dichos Planes y Programas.
 
-Los titulares de las entidades y órganos de la Administración Pública Municipal centralizada, desconcentrada y paramunicipal deberán incluir en toda la documentación y en la difusión de sus programas contratados en los medios masivos de comunicación y en el portal institucional de internet la leyenda siguiente: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa".
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Las personas titulares de las entidades y órganos de la Administración Pública Municipal centralizada, desconcentrada y paramunicipal deberán incluir en toda la documentación y en la difusión de sus programas contratados en los medios masivos de comunicación y en el portal institucional de internet la leyenda siguiente: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa".
 
 ### CAPÍTULO SEGUNDO. DEL TERRITORIO Y LA POBLACIÓN DE LOS MUNICIPIOS
 
@@ -453,23 +501,23 @@ De la División Territorial del Estado.- El territorio del Estado de Baja Califo
 
 Las controversias que se susciten respecto de los límites territoriales, entre dos o más Municipios, serán resueltas por el Congreso del Estado de Baja California, modificando en su caso, el Estatuto Territorial de los Municipios del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-De la creación o Supresión de Municipios.- Para la creación o supresión de un Municipio, el Congreso del Estado procederá de la siguiente forma:
+De la Creación o Supresión de Municipios.- Para la creación o supresión de un Municipio, el Congreso del Estado procederá de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-I.- El procedimiento se iniciará mediante solicitud expresa de los ciudadanos vecinos de la demarcación territorial que se proponga para conformar o suprimir un Municipio, o bien por los Diputados, el Gobernador o los Ayuntamientos.
+I.- El procedimiento se iniciará mediante solicitud expresa de la ciudadanía vecina de la demarcación territorial que se proponga para conformar o suprimir un Municipio, o bien por las Diputadas y Diputados del Congreso del Estado, la persona titular del Poder Ejecutivo o los Ayuntamientos.
 
-En caso de que la solicitud provenga de los ciudadanos, ésta deberá cubrir el porcentaje requerido por la Ley de la materia para la procedencia del plebiscito.
+En caso de que la solicitud provenga de la ciudadanía, ésta deberá cubrir el porcentaje requerido por la Ley de la materia para la procedencia del plebiscito.
 
-Cuando la solicitud para conformar o suprimir un Municipio sea realizada por los Diputados, el Gobernador o los Ayuntamientos, se procederá conforme lo previsto en la fracción II del presente artículo;
+Cuando la solicitud para conformar o suprimir un Municipio sea realizada por las Diputadas y Diputados del Congreso del Estado, la persona titular del Poder Ejecutivo o los Ayuntamientos, se procederá conforme lo previsto en la fracción II del presente artículo;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- En todos los casos, el Congreso del Estado conformará una comisión de Diputados encargada de revisar la autenticidad y los contenidos de la documentación presentada, solicitará los dictámenes de viabilidad correspondientes y con base en los mismos, aprobará o desechará la solicitud planteada, debiendo en todo caso fundar y motivar su resolución;
+II.- En todos los casos, el Congreso del Estado conformará una comisión de Diputadas y Diputados encargada de revisar la autenticidad y los contenidos de la documentación presentada, solicitará los dictámenes de viabilidad correspondientes y con base en los mismos, aprobará o desechará la solicitud planteada, debiendo en todo caso fundar y motivar su resolución;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -479,7 +527,9 @@ IV.- Una vez obtenidos los resultados del plebiscito, si éste resulta aprobator
 
 V.- Agotado el procedimiento anterior, la petición será sometida a la aprobación del Congreso del Estado; y
 
-VI.- De resultar procedente la creación de un Municipio, el Congreso del Estado designará, a propuesta del Gobernador del Estado, el Concejo Municipal Fundacional, que fungirá hasta en tanto se realicen las elecciones ordinarias correspondientes, decretando las provisiones necesarias para la transferencia del patrimonio correspondiente.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VI.- De resultar procedente la creación de un Municipio, el Congreso del Estado designará, a propuesta de la persona titular del Poder Ejecutivo, el Concejo Municipal Fundacional, que fungirá hasta en tanto se realicen las elecciones ordinarias correspondientes, decretando las provisiones necesarias para la transferencia del patrimonio correspondiente.
 
 En los Municipios de nueva creación se continuarán aplicando las disposiciones reglamentarias vigentes en el Municipio del cual formaron parte, hasta en tanto emitan sus propios reglamentos.
 
@@ -487,13 +537,19 @@ En los Municipios de nueva creación se continuarán aplicando las disposiciones
 
 Del Territorio del Municipio.- El territorio del Municipio determina el ámbito espacial de validez de los actos de gobierno y de administración, que son de competencia de su Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-De las Demarcaciones Interiores del Municipio.- Con el fin de constituir una división administrativa de su territorio y determinar los mecanismos de gestión, mediante los cuales los vecinos del Municipio participarán en la mejoría de la calidad de vida de sus comunidades, los Municipios emitirán el estatuto que establezca las demarcaciones administrativas interiores de su territorio, tomando en cuenta los factores y características geográficas, demográficas y sociales de las comunidades inmersas en el territorio municipal.
+De las Demarcaciones Interiores del Municipio.- Con el fin de constituir una división administrativa de su territorio y determinar los mecanismos de gestión, mediante los cuales las personas con vecindad en el Municipio participarán en la mejoría de la calidad de vida de sus comunidades, los Municipios emitirán el estatuto que establezca las demarcaciones administrativas interiores de su territorio, tomando en cuenta los factores y características geográficas, demográficas y sociales de las comunidades inmersas en el territorio municipal.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-De los Vecinos del Municipio.- Son vecinos del Municipio, las personas que fijen su residencia legal o habitual dentro de su territorio.
+De las personas con vecindad en el Municipio.- Son personas con vecindad en el Municipio, aquellas que fijen su residencia legal o habitual dentro de su territorio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
@@ -503,7 +559,9 @@ I.- El establecimiento del domicilio de las personas, conforme lo dispone el Có
 
 II.- La residencia efectiva y comprobable, por más de seis meses; y
 
-III.- En caso de extranjeros, deberán acreditar su legal estancia en el país, con residencia en el territorio municipal.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III.- En caso de personas extranjeras, deberán acreditar su legal estancia en el país, con residencia en el territorio municipal.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2020)</small>
 
@@ -525,11 +583,13 @@ II.- Ausencia por más de dos años del territorio municipal.
 
 La vecindad no se pierde por ausencia física originada por el desempeño de un empleo, comisión o cargo de elección popular, o con motivos de estudios o negocios. En este último caso, será necesario que la persona manifieste expresamente su intención de retener la residencia en el Municipio de que se trate.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-De los Derechos y Obligaciones de los Vecinos.- Los vecinos del Municipio, tienen el derecho de gestión y participación en los asuntos públicos del Municipio así como de acceder en equidad a los servicios públicos y bienes de uso común municipales, estando obligados a contribuir a su conservación y cuidado, haciendo uso de ellos conforme a su destino.
+De los Derechos y Obligaciones de las personas con vecindad.- Las personas con vecindad en el Municipio, tienen el derecho de gestión y participación en los asuntos públicos del Municipio así como de acceder en equidad a los servicios públicos y bienes de uso común municipales, estando obligados a contribuir a su conservación y cuidado, haciendo uso de ellos conforme a su destino.
 
-Sin perjuicio de las prerrogativas y obligaciones ciudadanas que deriven de otras disposiciones legales, los derechos y obligaciones de los vecinos ante el gobierno municipal se ejercerán y cumplirán conforme se establezcan en los Bandos de Policía y Gobierno y demás normas reglamentarias de carácter general que expidan los Ayuntamientos.
+Sin perjuicio de las prerrogativas y obligaciones ciudadanas que deriven de otras disposiciones legales, los derechos y obligaciones de las personas con vecindad ante el gobierno municipal se ejercerán y cumplirán conforme se establezcan en los Bandos de Policía y Gobierno y demás normas reglamentarias de carácter general que expidan los Ayuntamientos.
 
 ## TÍTULO TERCERO. DEL PERÍODO CONSTITUCIONAL DEL AYUNTAMIENTO
 
@@ -543,11 +603,11 @@ De la Fecha de Instalación de los Ayuntamientos.- Los Ayuntamientos de la entid
 
 En caso de elecciones extraordinarias, el Ayuntamiento correspondiente se instalará en la fecha que se determine en la declaración de Munícipes electos que se emita conforme a la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 35.
 
-El día treinta del mes de septiembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, se reunirán y comparecerán, en sesión solemne en el recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico Procurador, y Regidores, con el fin de protestar el fiel ejercicio de sus cargos ante la comunidad e instalar el Ayuntamiento. Esta protesta surtirá sus efectos a partir del día uno de octubre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
+El día treinta del mes de septiembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, se reunirán y comparecerán, en sesión solemne en el recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar la titularidad de la Presidencia Municipal, Sindicatura Procuradora y las Regidurías, con el fin de protestar el fiel ejercicio de sus cargos ante la comunidad e instalar el Ayuntamiento. Esta protesta surtirá sus efectos a partir del día uno de octubre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por la persona titular de la secretaría fedataria del Ayuntamiento saliente.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -557,31 +617,43 @@ De la Forma de Instalación del Ayuntamiento.- El Bando solemne que emita el Con
 
 La sesión solemne de toma de protesta se desarrollará de conformidad con la siguiente orden del día:
 
-I.- Toma de lista de presentes de los Munícipes entrantes por parte del secretario fedatario del Ayuntamiento;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- La rendición de la protesta legal de los miembros del Ayuntamiento entrante, ante el representante del Congreso del Estado y la comunidad;
+I.- Toma de lista de presentes de Munícipes entrantes por parte de la persona titular de la secretaria fedataria del Ayuntamiento;
 
-III.- La declaratoria de instalación del Ayuntamiento que hará el nuevo Presidente Municipal, en los siguientes términos:
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+II.- La rendición de la protesta legal de las personas integrantes del Ayuntamiento entrante, ante el representante del Congreso del Estado y la comunidad;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2024)</small>
+
+III.- La declaratoria de instalación del Ayuntamiento que hará la nueva persona titular de la Presidencia Municipal, en los siguientes términos:
 
 "Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar durante el período que comprende del uno de octubre del año de... al treinta de septiembre del año..."
 
 Cumplidas las formalidades anteriores, se procederá conforme lo determine el reglamento interior del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 37.
 
-De los Requisitos de Instalación del Ayuntamiento.- Los Ayuntamientos se considerarán debidamente instalados cuando concurran a la sesión solemne de toma de protesta la mitad más uno del número de Munícipes del ayuntamiento electo, entre quienes deberá estar el Presidente Municipal electo.
+De los Requisitos de Instalación del Ayuntamiento.- Los Ayuntamientos se considerarán debidamente instalados cuando concurran a la sesión solemne de toma de protesta la mitad más uno del número de Munícipes del ayuntamiento electo, entre quienes deberá estar la persona titular de la Presidencia Municipal electa.
 
-En caso contrario, el Diputado representante del Congreso del Estado, tomará el uso de la voz para llamar a los suplentes a presentarse en ese mismo día, dentro del término de dos horas, contadas a partir de dicha intervención. Si no se presentaran los suplentes correspondientes se tendrá por no instalado el Ayuntamiento, procediendo el representante del Congreso del Estado a notificar sin demora al Presidente del Congreso y al Gobernador del Estado, a efecto de que se proceda conforme lo establece el Artículo 86 de la Constitución Política del Estado.
+En caso contrario, la diputada o diputado que representante al Congreso del Estado, tomará el uso de la voz para llamar a quienes tengan el carácter de suplentes a presentarse en ese mismo día, dentro del término de dos horas, contadas a partir de dicha intervención. Si no se presentaran las personas suplentes correspondientes se tendrá por no instalado el Ayuntamiento, procediendo la persona representante del Congreso del Estado a notificar sin demora a la Presidencia del Congreso y a la persona titular del Poder Ejecutivo, a efecto de que se proceda conforme lo establece el Artículo 86 de la Constitución Política del Estado.
 
-En caso de que el diputado representante del Congreso del Estado no se presentare a la sesión correspondiente, no se suspenderá la protesta de los Munícipes, debiéndose realizar ante la comunidad presente.
+En caso de que la diputada o diputado que representa al Congreso del Estado no se presentare a la sesión correspondiente, no se suspenderá la protesta de los Munícipes, debiéndose realizar ante la comunidad presente.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-De los Informes de Gestión Municipal.- Durante el proceso de renovación de cada Ayuntamiento, los Munícipes salientes informarán sobre el estado del Gobierno Municipal a las personas electas para los mismos cargos, conforme a lo dispuesto por el reglamento correspondiente. En caso de omisiones o incumplimiento a esta provisión, el secretario fedatario del Ayuntamiento entrante levantará constancia de ello, notificando a las autoridades correspondientes.
+De los Informes de Gestión Municipal.- Durante el proceso de renovación de cada Ayuntamiento, las personas Munícipes salientes informarán sobre el estado del Gobierno Municipal a las personas electas para los mismos cargos, conforme a lo dispuesto por el reglamento correspondiente. En caso de omisiones o incumplimiento a esta provisión, la persona titular de la secretaría fedataria del Ayuntamiento entrante levantará constancia de ello, notificando a las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
-Del Desempeño del Encargo de los Servidores Públicos.- En ningún caso se suspenderá la atención de los asuntos de la administración pública municipal. Los servidores públicos, empleados, comisionados o los titulares de las entidades o dependencias de la administración pública municipal continuarán en funciones, o en el cumplimiento de su encargo, hasta en tanto sean sustituidos o ratificados en su caso. El incumplimiento de esta disposición dará lugar a las responsabilidades que resulten conforme a la legislación respectiva.
+Del Desempeño del Encargo de las Personas Servidoras Públicas.- En ningún caso se suspenderá la atención de los asuntos de la administración pública municipal. Las personas servidoras públicas, empleadas, comisionadas o aquellas personas titulares de las entidades o dependencias de la administración pública municipal continuarán en funciones, o en el cumplimiento de su encargo, hasta en tanto sean sustituidas o ratificadas en su caso. El incumplimiento de esta disposición dará lugar a las responsabilidades que resulten conforme a la legislación respectiva.
 
 ### CAPÍTULO SEGUNDO. DE LOS CONCEJOS MUNICIPALES Y LA REVOCACIÓN DEL MANDATO DE MUNÍCIPES
 
@@ -593,53 +665,77 @@ Si la suspensión o desaparición fuese decretada dentro del primer año de ejer
 
 En el caso de que la suspensión o desaparición fuese decretada después de transcurrido el primer año de ejercicio constitucional del Ayuntamiento correspondiente, el Congreso del Estado designará un Concejo Municipal sustituto, el cual fungirá durante el resto del período constitucional que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-De la Revocación del Mandato de Munícipes.- Sólo por causa grave, el Congreso del Estado y a petición del Ayuntamiento, con audiencia del afectado, procederá a la revocación del mandato y separación definitiva de un Munícipe. Para los efectos de éste artículo se considera causa grave cualesquiera de las siguientes:
+De la Revocación del Mandato de Munícipes.- Sólo por causa grave, el Congreso del Estado y a petición del Ayuntamiento, con audiencia de la persona afectada, procederá a la revocación del mandato y separación definitiva del Munícipe. Para los efectos de éste artículo se considera causa grave cualesquiera de las siguientes:
 
-I.- Cuando un Munícipe se encuentre afectado en su estado de salud, de tal forma que le sea imposible o inconveniente el continuar en el desempeño de su cargo o el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- Cuando un Ayuntamiento, de conformidad con su reglamento interno, adopte resolución de responsabilidad en contra de un Munícipe, por los siguientes motivos:
+I.- Cuando una persona Munícipe se encuentre afectada en su estado de salud, de tal forma que le sea imposible o inconveniente el continuar en el desempeño de su cargo o el desarrollo de sus funciones;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2024)</small>
+
+II.- Cuando un Ayuntamiento, de conformidad con su reglamento interno, adopte resolución de responsabilidad en contra de una persona Munícipe, por los siguientes motivos:
 
 a) Realizar actos que impliquen la violación a las Leyes y Reglamentos vigentes en el Estado;
 
 b) Ejecutar planes o programas o disponer de recursos públicos de manera distinta a la aprobada por el Ayuntamiento, y
 
-c) Cuando un Munícipe dejare de asistir a las sesiones de Cabildo o de las comisiones instituidas por el Ayuntamiento, o sea omiso en el desempeño de sus funciones y con ello se cause perjuicio grave a las instituciones municipales o a la comunidad.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-En todo caso, para que el Congreso del Estado pueda proceder a la revocación del mandato y separación del cargo de un Munícipe, será necesario que el Ayuntamiento del cual éste forme parte, adopte resolución en ese sentido.
+c).- Cuando una persona Munícipe dejare de asistir a las sesiones de Cabildo o de las comisiones instituidas por el Ayuntamiento, o sea omiso en el desempeño de sus funciones y con ello se cause perjuicio grave a las instituciones municipales o a la comunidad.
 
-En la sesión de Cabildo en la que deba de resolverse respecto de la solicitud de separación de un Munícipe, el afectado tendrá el derecho de audiencia previa, así como el de emisión de voto.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-El Ayuntamiento llamará al suplente a ocupar el cargo vacante, hasta que el Congreso del Estado resuelva en definitiva la remoción solicitada. En caso de resultar improcedente la solicitud de remoción, el Munícipe de que se trate se reintegrará al Ayuntamiento correspondiente, debiendo restituírsele el goce de los derechos y prerrogativas que hubiere dejado de disfrutar durante el desarrollo del procedimiento.
+En todo caso, para que el Congreso del Estado pueda proceder a la revocación del mandato y separación del cargo de una persona Munícipe, será necesario que el Ayuntamiento del cual esta forme parte, adopte resolución en ese sentido.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+En la sesión de Cabildo en la que deba de resolverse respecto de la solicitud de separación de una persona Munícipe, la afectada tendrá el derecho de audiencia previa, así como el de emisión de voto.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+El Ayuntamiento llamará a la persona suplente a ocupar el cargo vacante, hasta que el Congreso del Estado resuelva en definitiva la remoción solicitada. En caso de resultar improcedente la solicitud de remoción, la persona Munícipe de que se trate se reintegrará al Ayuntamiento correspondiente, debiendo restituírsele el goce de los derechos y prerrogativas que hubiere dejado de disfrutar durante el desarrollo del procedimiento
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ### CAPÍTULO TERCERO. DE LAS AUSENCIAS DE LOS MUNICIPES
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
 Ante la ausencia de Munícipes, se observarán las bases siguientes:
 
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
+
 I. Las ausencias que no excedan de quince días, se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de Cabildo para autorizarlas. No será necesario suplirlas a menos que afecte la integración de Cabildo necesario para el quórum legal, en ese caso se llamará a la persona suplente para que cubra su ausencia.
 
-Tratándose de la presidenta o presidente municipal, las ausencias que no excedan de quince días deberán ser cubiertas por la regiduría que para tal efecto determine el cabildo. Si la ausencia es mayor a quince días, se estará a lo dispuesto en la fracción II del presente artículo.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
-II. Las ausencias de las y los munícipes que excedan de quince días, requerirán de licencia para ausentarse del ejercicio de sus funciones y deberá contar con la autorización del Cabildo, el cual deberá pronunciarse y resolver sobre la misma en un plazo no mayor a 48 horas a partir de la solicitud, en el entendido que de no resolverse en dicho periodo se considerará autorizada por afirmativa ficta. El Cabildo resolverá tomando en cuenta las causas de justificación para ausentarse del cargo. Dicha ausencia deberá ser cubierta por su suplente.
+Tratándose de la persona titular de la Presidencia Municipal, las ausencias que no excedan de quince días deberán ser cubiertas por la regiduría que para tal efecto determine el cabildo. Si la ausencia es mayor a quince días, se estará a lo dispuesto en la fracción II del presente artículo.
 
-Para la reincorporación de la o el munícipe, bastará que presente escrito firmado dirigido a la Presidencia Municipal, señalando la fecha de su regreso al menos con 24 horas de anticipación a la fecha pretendida. La Presidencia Municipal deberá comunicar de inmediato al edil suplente en funciones, así como a las y los integrantes del Cabildo el escrito de regreso, ya sea por medio de comunicación oficial o bien, en sesión de Cabildo, lo que suceda primero.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III. Serán consideradas causas de justificación de ausencias de los miembros del Ayuntamiento, el cumplimiento de comisiones de trabajo acordadas por el Cabildo, solicitud de licencias, incapacidad médica probada y causas de fuerza mayor calificadas por el Cabildo o reconocidas en su reglamentación interna.
+II. Las ausencias de munícipes que excedan de quince días, requerirán de licencia para ausentarse del ejercicio de sus funciones y deberá contar con la autorización del Cabildo, el cual deberá pronunciarse y resolver sobre la misma en un plazo no mayor a 48 horas a partir de la solicitud, en el entendido que de no resolverse en dicho periodo se considerará autorizada por afirmativa ficta. El Cabildo resolverá tomando en cuenta las causas de justificación para ausentarse del cargo. Dicha ausencia deberá ser cubierta por su suplente.
+
+Para la reincorporación de munícipes, bastará que presente escrito firmado dirigido a la Presidencia Municipal, señalando la fecha de su regreso al menos con 24 horas de anticipación a la fecha pretendida. La Presidencia Municipal deberá comunicar de inmediato a la persona edil suplente en funciones, así como a las demás personas integrantes del Cabildo el escrito de regreso, ya sea por medio de comunicación oficial o bien, en sesión de Cabildo, lo que suceda primero.
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III. Serán consideradas causas de justificación de ausencias de integrantes del Ayuntamiento, el cumplimiento de comisiones de trabajo acordadas por el Cabildo, solicitud de licencias, incapacidad médica probada y causas de fuerza mayor calificadas por el Cabildo o reconocidas en su reglamentación interna.
 
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO Y MEDIOS DE DEFENSA
 
 ### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Jerarquía y Competencia.- Las disposiciones generales de este capítulo se aplicarán en general a los actos, procedimientos y resoluciones de la administración pública municipal. En el caso de la administración pública paramunicipal, sólo serán aplicables cuando se trate de actos provenientes de organismos descentralizados y que afecten la esfera jurídica de los particulares, conforme a la reglamentación correspondiente.
+Jerarquía y Competencia.- Las disposiciones generales de este capítulo se aplicarán en general a los actos, procedimientos y resoluciones de la administración pública municipal. En el caso de la administración pública paramunicipal, sólo serán aplicables cuando se trate de actos provenientes de organismos descentralizados y que afecten la esfera jurídica de las y los particulares, conforme a la reglamentación correspondiente.
 
 El presente ordenamiento no será aplicable a las materias de carácter fiscal y financiero, las cuales se rigen por ordenamientos específicos.
 
@@ -647,13 +743,21 @@ El presente ordenamiento no será aplicable a las materias de carácter fiscal y
 
 Bases que Rigen el Procedimiento Administrativo.- Las actuaciones administrativas que realicen los Ayuntamientos y sus Autoridades Municipales, deberán regirse por los principios de legalidad, igualdad, publicidad y audiencia, salvaguardando las garantías constitucionales, de conformidad con lo que establezcan en la reglamentación respectiva y atendiendo a las siguientes prescripciones generales:
 
-I.- El procedimiento administrativo podrá iniciarse de oficio o a petición del interesado. Las manifestaciones, informes o declaraciones rendidas por los interesados ante la Autoridad competente se presumirán ciertas, salvo prueba en contrario, aun cuando estén sujetas al control y verificación de la propia Autoridad. Si los informes o declaraciones proporcionados por el particular resultan falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de las penas en que incurren aquellos que se conducen con falsedad, de acuerdo con los ordenamientos legales aplicables. La actuación administrativa de la autoridad y la de los interesados se sujetará al principio de buena fe;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II.- En los procedimientos administrativos no procederá la gestión oficiosa. Quien promueva a nombre de otro deberá acreditar su personalidad en los términos de Ley;
+I.- El procedimiento administrativo podrá iniciarse de oficio o a petición de parte interesada. Las manifestaciones, informes o declaraciones rendidas por las personas interesadas ante la Autoridad competente se presumirán ciertas, salvo prueba en contrario, aun cuando estén sujetas al control y verificación de la propia Autoridad. Si los informes o declaraciones proporcionados por las personas interesadas resultan falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de las penas en que incurren aquellas personas que se conducen con falsedad, de acuerdo con los ordenamientos legales aplicables. La actuación administrativa de la autoridad y la de las personas interesadas se sujetará al principio de buena fe;
 
-III.- En los procedimientos y trámites respectivos, no se podrán exigir mayores formalidades y requisitos que los expresamente establecidos en los ordenamientos reglamentarios de cada materia. Los interesados tendrán en todo momento el derecho de obtener información sobre los procedimientos y el estado en que se encuentran, así como el acceso a los expedientes que con motivo de sus solicitudes, o por mandato legal, formen las Autoridades Municipales;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-IV.- Sólo podrá negarse la información o el acceso a los expedientes, cuando esté protegida dicha información por el secreto industrial, comercial o por disposición legal; o porque el solicitante no sea el titular o causahabiente, o no acredite su interés legítimo en el procedimiento administrativo; o se involucren cuestiones relativas a menores de edad o de defensa y seguridad nacional, y
+II.- En los procedimientos administrativos no procederá la gestión oficiosa. Quien promueva a nombre y en representación legal de otra persona deberá acreditar su personalidad en los términos de Ley;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III.- En los procedimientos y trámites respectivos, no se podrán exigir mayores formalidades y requisitos que los expresamente establecidos en los ordenamientos reglamentarios de cada materia. Las personas interesadas tendrán en todo momento el derecho de obtener información sobre los procedimientos y el estado en que se encuentran, así como el acceso a los expedientes que, con motivo de sus solicitudes, o por mandato legal, formen las Autoridades Municipales;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+IV.- Sólo podrá negarse la información o el acceso a los expedientes, cuando esté protegida dicha información por el secreto industrial, comercial o por disposición legal; o porque la persona solicitante no sea la titular o causahabiente, o no acredite su interés legítimo en el procedimiento administrativo; o se involucren cuestiones relativas a menores de edad o de defensa y seguridad nacional; y,
 
 V.- Las actuaciones se verificarán en las oficinas de las dependencias o entidades competentes. En los casos en que la naturaleza de la diligencia así lo requiera y sea necesario o conveniente para agilizar el procedimiento, el desahogo de la diligencia podrá trasladarse a otro sitio, previa constancia debidamente fundada y motivada de esta circunstancia.
 
@@ -1178,3 +1282,9 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 406 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 428 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 5, 7, 8, 9, 9 BIS, 9 TER, 12, 13, 15, 18, 19, 21, 25, 27, 29, 30, 31, 33, 35, 36, 37, 38, 39, 41, 42, 43 Y 44 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. – La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
