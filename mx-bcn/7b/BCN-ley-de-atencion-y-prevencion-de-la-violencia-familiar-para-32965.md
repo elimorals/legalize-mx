@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2023-12-08"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -171,13 +171,15 @@ Podrán ser invitadas a las reuniones del Consejo, la Presidencia del Congreso d
 
 El Consejo designará una Secretaría Técnica, que tendrá las facultades y obligaciones establecidas en el Reglamento Interno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
 El Consejo tendrá las atribuciones siguientes:
 
-I. Proponer el Programa;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+I. Acorde al contenido de los lineamientos e instrumentos internacionales en materia de no violencia, diseñar y proponer al Ejecutivo Estatal y a los Ayuntamientos en el ámbito de sus respectivas competencias, el Programa para la Atención y Prevención de la Violencia Familiar, así como los mecanismos para medir la eficacia de las acciones que este prevea;
 
 II. Fomentar la coordinación, concertación, colaboración e información entre las instituciones públicas y privadas que se ocupen de la violencia familiar;
 
@@ -197,17 +199,21 @@ V. Fomentar la realización de estudios tendientes a conocer las causas y los im
 
 VI. Difundir los contenidos de esta Ley y de los derechos en materia de violencia familiar, cuyos resultados servirán para diseñar modelos tendientes a la atención y prevención de la violencia familiar en el Estado;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VII. Gestionar con los medios de comunicación, a fin de que participen en la difusión de los programas, de campañas públicas encaminadas a sensibilizar y concientizar a la población sobre el problema de violencia familiar y, de las medidas de atención y prevención de la violencia familiar, y
+VII. Gestionar con los medios de comunicación, a fin de que participen en la difusión de los programas, de campañas públicas encaminadas a sensibilizar y concientizar a la población sobre el problema de violencia familiar y, de las medidas de atención y prevención de la violencia familiar;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VIII. Proponer a la Persona Titular del Ejecutivo del Estado el proyecto de Reglamento Interno;
+VIII. Proponer al Ejecutivo del Estado el proyecto de Reglamento Interno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-IX. Proponer ante los Municipios las políticas públicas de prevención basadas en los trabajos realizados por el consejo.
+IX. Proponer ante los Municipios las políticas públicas de prevención basadas en los trabajos realizados por el consejo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+X. Conforme al resultado de la evaluación de las acciones del programa, proponer a las dependencias del Ejecutivo Estatal y a las dependencias de los Ayuntamientos, las recomendaciones necesarias para el eficaz cumplimiento de las acciones a su cargo, en materia de atención y prevención de la violencia familiar.
 
 ###### ARTÍCULO 10.
 
@@ -598,3 +604,9 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarías correspondientes para la aplicación de la reforma a la presente Ley, dentro de los noventa días siguientes a la publicación del presente Decreto.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 413 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
