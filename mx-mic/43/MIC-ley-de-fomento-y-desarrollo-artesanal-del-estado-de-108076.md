@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-artesanal-del-estado-de-108076"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2019-10-14"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el jueves 21 de mayo de 2015.
 
@@ -61,7 +61,9 @@ I. Artesanía. Actividad realizada de forma manual, individual, familiar o colec
 
 II. Artesano. Persona que con sensibilidad creativa, transforma las materias primas manualmente y con habilidades naturales o dominio técnico en artesanías;
 
-III. Instituto. El Instituto del Artesano Michoacano;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III. Casart Michoacán: A la Casa de las Artesanías de Michoacán de Ocampo;
 
 IV. Consejería Jurídica. La Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo;
 
@@ -73,7 +75,9 @@ VII. Estado. El Estado Libre y Soberano de Michoacán de Ocampo;
 
 VIII. Gobernador. El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo;
 
-IX. Junta. La Junta de Gobierno del Instituto del Artesano Michoacano;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+IX. Junta: A la Junta de Gobierno de la Casa de las Artesanías de Michoacán de Ocampo;
 
 > <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
 
@@ -109,13 +113,17 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría de Turismo; y,
 
-VII. El Instituto del Artesano Michoacano.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VII. La Casa de las Artesanías de Michoacán de Ocampo.
 
 ###### ARTÍCULO 5.
 
 Corresponde al Gobernador del Estado, el ejercicio de las atribuciones siguientes:
 
-I. Vigilar y promover en el ámbito de su competencia, el cumplimiento de la presente Ley, por conducto del Instituto del Artesano Michoacano y demás dependencias y entidades que tengan relación con el sector artesanal del Estado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+I. Vigilar y promover en el ámbito de su competencia, el cumplimiento de la presente Ley, por conducto de la Casart Michoacán y demás dependencias y entidades que tengan relación con el sector artesanal del Estado;
 
 II. Promover las acciones necesarias de coordinación entre los ayuntamientos y el Ejecutivo del Estado, para el cumplimiento de la presente Ley; y,
 
@@ -187,23 +195,29 @@ II. Promover que en cada una de las regiones turísticas del Estado, se cuente c
 
 Así mismo, dentro de los programas de promoción que se tengan contemplados anualmente en el ámbito local, nacional o internacional, se contemplará dentro de los atractivos del Estado a la artesanía michoacana;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III. Promover entre los prestadores de servicios turísticos la adquisición de artesanías elaboradas por artesanos del Estado, para ser utilizadas con fines utilitarios y ornamentales en sus establecimientos, utilizando para tal fin, los catálogos elaborados por el Instituto del Artesano Michoacano; y,
+III. Promover entre los prestadores de servicios turísticos la adquisición de artesanías elaboradas por artesanos del Estado, para ser utilizadas con fines utilitarios y ornamentales en sus establecimientos, utilizando para tal fin, los catálogos elaborados por la Casart Michoacán; y,
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
 IV. Los (sic) demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
-### CAPÍTULO III. DEL INSTITUTO DEL ARTESANO MICHOACANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2024)</small>
+
+### CAPÍTULO III. DE LA CASA DE LAS ARTESANÍAS DE MICHOACÁN DE OCAMPO
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-Se crea el Instituto del Artesano Michoacano, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio.
+Se crea la Casa de las Artesanías de Michoacán de Ocampo, como un organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Desarrollo Económico, con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-El Instituto del Artesano Michoacano se integrará por:
+La Casart Michoacán se integrará por:
 
 I. La Junta de Gobierno;
 
@@ -247,41 +261,67 @@ Podrá sesionar válidamente con la asistencia de la mitad más uno de los integ
 
 La Junta tendrá las siguientes funciones:
 
-I. Aprobar, en su caso, el proyecto de presupuesto anual del Instituto, presentado por el Director General;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II. De acuerdo con esta Ley, vigilar el cumplimiento de las atribuciones asignadas al Instituto;
+I. Aprobar, en su caso, el proyecto de presupuesto anual de la Casart Michoacán, presentado por el Director General;
 
-III. Analizar y en su caso, aprobar los informes administrativos y financieros del Instituto, presentados por el Director General;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-IV. Vigilar el cumplimiento del plan anual de trabajo del Instituto;
+II. De acuerdo con esta Ley, vigilar el cumplimiento de las atribuciones asignadas a la Casart Michoacán;
 
-V. Establecer políticas, lineamientos generales y prioridades a las que se sujetará el Instituto;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI. Aprobar en su caso, el Programa Estatal de Fomento Artesanal y los programas del Instituto, que le presente el Director General;
+III. Analizar y en su caso, aprobar los informes administrativos y financieros de la Casart Michoacán, presentados por el Director General;
 
-VII. Recibir del Director General los informes anuales sobre el funcionamiento del Instituto y, en su caso, sugerir la aplicación de las medidas necesarias para el cumplimiento de los programas, objetivos y metas; y,
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VIII. Definir, en general, los mecanismos y acciones que permitan el cumplimiento de las funciones y atribuciones del Instituto, así como medir el costo beneficio, trasparencia y productividad del Instituto.
+IV. Vigilar el cumplimiento del plan anual de trabajo de la Casart Michoacán;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+V. Establecer políticas, lineamientos generales y prioridades a las que se sujetará la Casart Michoacán;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VI. Aprobar en su caso, el Programa Estatal de Fomento Artesanal y los programas de la Casart Michoacán, que le presente el Director General;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VII. Recibir del Director General los informes anuales sobre el funcionamiento de la Casart Michoacán y, en su caso, sugerir la aplicación de las medidas necesarias para el cumplimiento de los programas, objetivos y metas; y,
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VIII. Definir, en general, los mecanismos y acciones que permitan el cumplimiento de las funciones y atribuciones de la Casart Michoacán, así como medir el costo beneficio, trasparencia y productividad de la misma.
 
 ###### ARTÍCULO 16.
 
 La Junta, para su funcionamiento acatará lo dispuesto en la Ley de Entidades Paraestatales del Estado de Michoacán.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
-El Instituto será dirigido por un Director General, quien contará con la estructura administrativa que autorice la Junta, previo estudio.
+La Casart Michoacán será dirigida por un Director General, quien contará con la estructura administrativa que autorice la Junta, previo estudio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 18.
 
-El Director General del Instituto será designado por el Gobernador, y tendrá las siguientes funciones:
+El Director General de la Casart Michoacán será designado por el Gobernador, y tendrá las siguientes funciones:
 
 I. Representar legalmente al organismo;
 
-II. Formular el plan anual de trabajo y el programa estatal de fomento artesanal, contemplando el desarrollo de las atribuciones del Instituto y el fortalecimiento de la actividad artesanal en el Estado y presentarlo ante la Junta para su aprobación;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III. Elaborar el proyecto del Reglamento interior del Instituto y presentarlo para su análisis a las instancias competentes;
+II. Formular el plan anual de trabajo y el programa estatal de fomento artesanal, contemplando el desarrollo de las atribuciones de la Casart Michoacán y el fortalecimiento de la actividad artesanal en el Estado y presentarlo ante la Junta para su aprobación;
 
-IV. Nombrar y remover al personal del Instituto;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III. Elaborar el proyecto del Reglamento Interior de la Casart Michoacán y presentarlo para su análisis a las instancias competentes;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+IV. Nombrar y remover al personal de la Casart Michoacán;
 
 V. Ejecutar los acuerdos tomados por el Consejo;
 
@@ -293,15 +333,21 @@ VIII. Cumplir y hacer cumplir los acuerdos emanados de la Junta de Gobierno; y,
 
 IX. Todas las acciones encaminadas a fortalecer al sector artesanal en el Estado.
 
-El Director General del Instituto deberá contar con experiencia en el sector de las artesanías de Michoacán; así mismo, y conocimiento técnico en la materia.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+El Director General de la Casart Michoacán deberá contar con experiencia en el sector de las artesanías de Michoacán; así mismo, y conocimiento técnico en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Corresponde al Instituto del Artesano Michoacano, el ejercicio de las atribuciones siguientes:
+Corresponde a la Casart Michoacán, el ejercicio de las atribuciones siguientes:
 
 I. Diseñar, evaluar, administrar y promover acciones que tengan por objeto fortalecer e impulsar la actividad artesanal, al interior de la Entidad y fuera de la misma;
 
-II. Actualizar permanentemente el censo y registro de Artesanos del Estado de Michoacán, así como los datos que el Instituto considere necesarios;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+II. Actualizar permanentemente el censo y registro de Artesanos del Estado de Michoacán, así como los datos que la Casart Michoacán considere necesarios;
 
 III. Difundir a través de medios la actividad artesanal e incrementar el acervo artesanal representando todas las manifestaciones artesanales del Estado;
 
@@ -351,23 +397,31 @@ XXV. Atender las necesidades de asistencia técnica, capacitación, y consultor�
 
 XXVI. Todos aquellos programas, acciones y actividades que tiendan a desarrollar y fortalecer la actividad artesanal en el Estado.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponderá al Instituto promover y concretar acciones para que los artesanos cuenten con apoyos sociales y estímulos fiscales.
+Corresponderá a la Casart Michoacán promover y concretar acciones para que los artesanos cuenten con apoyos sociales y estímulos fiscales.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
-El Instituto podrá celebrar convenios de colaboración con instituciones académicas y entidades públicas o privadas que tengan por objeto desarrollar la actividad artesanal en todos los rubros de interés.
+La Casart Michoacán podrá celebrar convenios de colaboración con instituciones académicas y entidades públicas o privadas que tengan por objeto desarrollar la actividad artesanal en todos los rubros de interés.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-Para el cumplimiento de la presente Ley, el Instituto actualizará las ramas de la producción artesanal utilizadas en el Estado.
+Para el cumplimiento de la presente Ley, la Casart Michoacán actualizará las ramas de la producción artesanal utilizadas en el Estado.
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL DE LAS ARTESANÍAS
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 23.
 
-El Consejo Estatal de las Artesanías es un órgano de consulta, asesoría y apoyo técnico del Instituto que tiene por objeto integrar estrategias y mecanismos que impulsen el desarrollo de la actividad artesanal en el Estado.
+El Consejo Estatal de las Artesanías es un órgano de consulta, asesoría y apoyo técnico de la Casart Michoacán que tiene por objeto integrar estrategias y mecanismos que impulsen el desarrollo de la actividad artesanal en el Estado.
 
 ###### ARTÍCULO 24.
 
@@ -403,7 +457,9 @@ XII. El Presidente del Consejo Coordinador Empresarial del Estado de Michoacán;
 
 XIII. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado;
 
-XIV. El Director General del Instituto del Artesano Michoacano; y,
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+XIV. El Director General de la Casart Michoacán; y,
 
 XV. El Director General del Instituto de Capacitación para el Trabajo del Estado de Michoacán.
 
@@ -439,7 +495,9 @@ II. Organizarse a través de la constitución de las figuras jurídicas que cons
 
 III. Recibir la asesoría necesaria por parte de las dependencias del poder ejecutivo, con el fin de coadyuvar en el desarrollo integral de la actividad artesanal;
 
-IV. Recibir una justa remuneración económica por la comercialización de sus productos, y más aún cuando esta se haga por medio del Instituto del Artesano Michoacano o alguna otra dependencia del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+IV. Recibir una justa remuneración económica por la comercialización de sus productos, y más aún cuando esta se haga por medio de la Casart Michoacán o alguna otra dependencia del Poder Ejecutivo del Estado;
 
 V. Ser tratados de manera digna y respetuosa;
 
@@ -447,7 +505,9 @@ VI. Participar en el censo y registro de artesanos del Estado;
 
 VII. Expresar de manera directa la problemática que lo aqueje ante las instancias gubernamentales pertinentes, con la intención de obtener apoyo y solución de los mismos; y,
 
-VIII. Participar en los concursos, ferias, muestras y toda actividad que organice el Instituto.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VIII. Participar en los concursos, ferias, muestras y toda actividad que organice la Casart Michoacán.
 
 ### CAPÍTULO VI. DEL DESARROLLO ARTESANAL SUSTENTABLE
 
@@ -455,13 +515,17 @@ VIII. Participar en los concursos, ferias, muestras y toda actividad que organic
 
 Para establecer una cultura ecológica en el sector artesanal se deberá promover entre los artesanos del Estado el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-El Instituto en coordinación con las dependencias competentes y Ayuntamientos, fomentará la utilización de insumos artesanales alternos en aquellas zonas donde de conformidad con los criterios ecológicos, disposiciones administrativas normas oficiales y/o disposiciones jurídicas aplicables, no sea posible la explotación de recursos naturales.
+La Casart Michoacán en coordinación con las dependencias competentes y Ayuntamientos, fomentará la utilización de insumos artesanales alternos en aquellas zonas donde de conformidad con los criterios ecológicos, disposiciones administrativas normas oficiales y/o disposiciones jurídicas aplicables, no sea posible la explotación de recursos naturales.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-Privilegiando el respeto a las diferencias culturales, la libre determinación de las comunidades y la conservación de los ecosistemas en el aprovechamiento de los insumos para la producción, el Instituto, apoyará preferentemente al productor artesanal para la extracción, recolección y utilización de aquellas materias primas de origen natural que no pueden ser sujetas a una explotación masiva.
+Privilegiando el respeto a las diferencias culturales, la libre determinación de las comunidades y la conservación de los ecosistemas en el aprovechamiento de los insumos para la producción, la Casart Michoacán, apoyará preferentemente al productor artesanal para la extracción, recolección y utilización de aquellas materias primas de origen natural que no pueden ser sujetas a una explotación masiva.
 
 ### CAPÍTULO VII. DEL FONDO DE APOYO PARA LOS ARTESANOS
 
@@ -497,9 +561,11 @@ V. Créditos para el fortalecimiento de la actividad artesanal; y,
 
 VI. Cualquier otra acción propuesta por el Consejo, previa aprobación por parte de la Junta.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 37.
 
-El Instituto estará facultado para ejercer los recursos del Fondo en los términos de la presente Ley y su reglamento.
+La Casart Michoacán estará facultada para ejercer los recursos del Fondo en los términos de la presente Ley y su reglamento.
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
@@ -552,3 +618,11 @@ P.O. 14 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 171 POR EL QUE “SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 10 DE LA LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 645 POR EL QUE “SE REFORMAN LAS FRACCIONES III Y IX DEL ARTÍCULO 2; LA FRACCIÓN VII DEL ARTÍCULO 4; LA FRACCIÓN I DEL ARTÍCULO 5; LA FRACCIÓN III DEL ARTÍCULO 10; LA DENOMINACIÓN DEL CAPÍTULO III; EL ARTÍCULO 11; EL PÁRRAFO PRIMERO DEL ARTÍCULO 12; LAS FRACCIONES I, II, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 15; EL ARTÍCULO 17; EL PÁRRAFO PRIMERO, LAS FRACCIONES II, III, IV Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 19; LOS ARTÍCULOS 20, 21, 22 Y 23; LA FRACCIÓN XIV DEL ARTÍCULO 25; LAS FRACCIONES IV Y VIII DEL ARTÍCULO 30 Y LOS ARTÍCULOS 32, 33 Y 37 TODOS DE LA LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, decretos, reglamentos y demás disposiciones respecto al Instituto del Artesano Michoacano, se entenderán referidas a la Casa de las Artesanías de Michoacán de Ocampo.
