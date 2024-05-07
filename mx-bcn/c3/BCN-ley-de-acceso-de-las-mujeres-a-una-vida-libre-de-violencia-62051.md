@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2024-04-05"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -1093,6 +1093,10 @@ II. Fomentar la coordinación, concertación, colaboración e información entre
 
 III. Promover la capacitación y sensibilización de los funcionarios del sistema judicial, de procuración de justicia, del policial, del sistema de salud y en general, de cualquiera que preste servicios relacionados con cualquier tipo o modalidad de violencia contra las mujeres;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+III-A. Aplicar un enfoque de interseccionalidad para atender de forma holística y sistemática las diversas variables que generan violencia en contra de las mujeres;
+
 IV. Difundir los contenidos de esta Ley;
 
 V. Gestionar ante los medios de comunicación, a fin de que participen en la difusión de programas, campañas públicas encaminadas a sensibilizar y concientizar a la población sobre el problema de la violencia contra las mujeres, y las medidas para su prevención, sanción y erradicación;
@@ -1147,9 +1151,9 @@ IV. Ofrecer servicios gratuitos y especializados, por medio de las dependencias 
 
 V. Impulsar y apoyar programas de educación pública y privada, que se destinen a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-VI. Diseñar programas de atención y capacitación a mujeres y a víctimas, que les permitan participar plenamente en todos los ámbitos de la vida;
+VI. Diseñar programas de atención y capacitación a mujeres y a víctimas, que les permitan participar plenamente en todos los ámbitos de la vida bajo un enfoque de interseccionalidad;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -1407,9 +1411,9 @@ X. Capacitar al personal del cuerpo de policía estatal y promover la capacitaci
 
 XI. Proporcionar la información que soliciten a través de los portales de acceso a la información pública, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-XII. Diseñar, con una visión transversal, la política integral con perspectiva de protección a la mujer orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+XII. Diseñar, con una visión transversal e interseccional, la política integral con perspectiva de protección a la mujer orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1426,6 +1430,10 @@ Al Instituto de la Mujer para el Estado de Baja California, le corresponderá:
 I. La elaboración del Programa Estatal, que deberá ser sometido a consideración del Sistema;
 
 II. Diseñar la política transversal en el estado, para que todas las Dependencias de Gobierno adopten la perspectiva de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+II-A. Elaborar estudios bajo el enfoque de interseccionalidad que permitan el entendimiento sistemático de las múltiples causas que generan violencia hacia la mujer.
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -1637,7 +1645,9 @@ Corresponde a los municipios de Baja California de conformidad con esta Ley y la
 
 I. Observar el debido cumplimiento de la presente Ley dentro de su ámbito de competencia;
 
-II. Instrumentar una política transversal, para que todas sus dependencias y paramunicipales adopten la perspectiva de género;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+II. Instrumentar una política transversal e interseccional, para que todas sus dependencias y paramunicipales adopten la perspectiva de género;
 
 III. Implementar políticas acordes a erradicar, atender y prevenir la violencia en contra de las mujeres, en concordancia con el programa integral y el programa estatal;
 
@@ -1974,3 +1984,11 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 408 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 42 Y 44 QUATER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día el día siguiente al de su publicación en el Periódico Oficial de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 426 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 13, 14, 16 Y 41 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA; 33, 35, 42, 43 Y 47 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; 9 Y 14 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Las autoridades sujetas a la observancia y aplicación de la presente Ley, en un plazo no mayor a 180 días naturales contados a partir del día siguiente de la publicación del presente Decreto, deberán realizar las adecuaciones necesarias a sus reglamentos para su debida implementación.
