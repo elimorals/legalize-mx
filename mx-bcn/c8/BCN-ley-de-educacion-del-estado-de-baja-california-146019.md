@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2024-04-05"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -131,11 +131,17 @@ XVI. Promover medidas para facilitar y garantizar la incorporación y permanenci
 
 XVII. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
 
-XVIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+XVIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
 
-XIX. Promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, conocimiento en primeros auxilios, la educación vial, campañas de salubridad, así como programas de seguridad escolar; los cuales, incluso, pueden implicar revisiones a las pertenencias de las y los educandos, siempre y cuando dichos esquemas respeten sus derechos, justificándose las respectivas medidas proporcionales que deban considerarse a fin de salvaguardarlos y, en general, a la comunidad educativa a la que pertenecen.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+XIX. Promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, conocimiento en primeros auxilios, la educación vial, campañas de salubridad, así como programas de seguridad escolar; los cuales, incluso, pueden implicar revisiones a las pertenencias de las y los educandos, siempre y cuando dichos esquemas respeten sus derechos, justificándose las respectivas medidas proporcionales que deban considerarse a fin de salvaguardarlos y, en general, a la comunidad educativa a la que pertenecen; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+XX. Promover la educación intercultural en pro de la paz y el entendimiento entre las expresiones culturales compartidas.
 
 ## TÍTULO SEGUNDO. Del Sistema Educativo Estatal
 
@@ -210,6 +216,12 @@ De acuerdo con las necesidades educativas específicas de la población, podrá 
 ###### Artículo 11.
 
 La educación en sus distintos tipos, niveles, modalidades y opciones educativas responderá a la diversidad lingüística, regional, sociocultural y biocultural del Estado, así como de la población rural dispersa y grupos migratorios, además de las características y necesidades de los distintos sectores de la población del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2024)</small>
+
+###### Artículo 11 Bis.
+
+La educación financiera contempla la promoción del emprendimiento, el fomento de la cultura del ahorro y se impulsará en cada nivel educativo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -823,9 +835,17 @@ VII. Participar de los procesos que se deriven en los planteles educativos como 
 
 VIII. Recibir becas, productos higiénicos de gestión menstrual como toallas sanitarias, compresas de tela, tampones, copas menstruales y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, esta Ley y demás disposiciones aplicables.
+IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+X. Recibir las facilidades administrativas cuando participen en competencias deportivas a nivel local, nacional e internacional, sin menoscabo de sus intereses educativos; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MAYO DE 2024)</small>
+
+XI. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, esta Ley y demás disposiciones aplicables.
 
 La autoridad educativa estatal establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
@@ -1105,7 +1125,9 @@ La autoridad educativa estatal emitirá los lineamientos para proporcionar la fo
 
 Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje, donde se presta el servicio público de educación por parte de las autoridades educativas del Estado o por los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-Con el acuerdo de las autoridades, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para organizar grupos de reflexión, de estudio y de información sobre su entorno.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Con el acuerdo de las autoridades, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para organizar grupos de reflexión, de estudio, de inclusión social y de información sobre su entorno.
 
 La autoridad educativa estatal promoverá que los planteles educativos con condiciones suficientes sean utilizados como Centros de Educación para Adultos y Centros de Educación Extraescolar.
 
@@ -1898,3 +1920,27 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 399 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 73 Y 74 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 421 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 65 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente al de la (sic) publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 422 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+[N. DE E TRANSITORIO DEL “DECRETO NO. 423 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 87 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+(SIC) El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 424 MEDIANTE EL CUAL SE APRUEBA LA ADICIONA DEL ARTÍCULO 11 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
