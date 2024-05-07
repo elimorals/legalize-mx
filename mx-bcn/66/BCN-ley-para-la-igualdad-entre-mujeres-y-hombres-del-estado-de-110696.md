@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2023-12-08"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -110,6 +110,10 @@ VI. Perspectiva de Género: Concepto que se refiere a la metodología y los meca
 VII. Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
 
 VIII. Instituto: Instituto de la Mujer para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+VIII-A. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan (sic) en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
 IX. Ley: Ley para la Igualdad entre Mujeres y Hombres del Estado de Baja California;
 
@@ -201,7 +205,9 @@ VI. Garantizar la igualdad de oportunidades, mediante la adopción de políticas
 
 VII. Celebrar acuerdos municipales, nacionales, e internacionales de coordinación, cooperación y concertación en materia de igualdad de género;
 
-VIII. Incorporar en los Presupuestos de Egresos del Ejecutivo Estatal la asignación de recursos para el cumplimiento de la Política Estatal y del Programa;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VIII. Incorporar en los Presupuestos de Egresos del Ejecutivo Estatal la asignación de recursos para el cumplimiento de la Política Estatal y del Programa bajo un enfoque interseccional;
 
 IX. Promover, en coordinación con las dependencias de la Administración Pública Estatal, la aplicación de la presente Ley; y,
 
@@ -247,9 +253,9 @@ I. Elaborar el proyecto del Programa Estatal y someterlo a la aprobación de la 
 
 II. Coordinar el Sistema Estatal y proponer a la persona Titular del Ejecutivo Estatal el reglamento que regule la organización y funcionamiento del mismo;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-III. Coordinar las acciones para la transversalidad de la perspectiva de género en la Administración Pública del Estado;
+III. Coordinar las acciones para la transversalidad e interseccionalidad de la perspectiva de género en la Administración Pública del Estado;
 
 IV. Revisar el Programa Estatal y proponer las adecuaciones correspondientes;
 
@@ -267,9 +273,17 @@ VII. Difundir el contenido de la Ley;
 
 VIII. Elaborar estudios para promover la igualdad de género entre mujeres y hombres en el Estado;
 
-IX. Proponer iniciativas de ley al Titular del Poder Ejecutivo Estatal para desarrollar mecanismos de participación igualitaria entre mujeres y hombres y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-X. Las demás que prevea esta Ley.
+IX. Proponer iniciativas de ley a la persona Titular del Poder Ejecutivo Estatal para desarrollar mecanismos de participación igualitaria entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
+
+X. Elaborar estudios bajo el enfoque de interseccionalidad que permitan el entendimiento sistemático de las múltiples causas de desigualdad entre mujeres y hombres para la elaboración, desarrollo y aplicación del Programa Estatal; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MAYO DE 2024)</small>
+
+XI. Las demás que prevea esta Ley.
 
 ### CAPÍTULO CUARTO. MUNICIPIOS
 
@@ -311,9 +325,9 @@ La Política Estatal establecerá las acciones conducentes para fomentar la igua
 
 I. Fomentar la igualdad sustantiva e igualdad de género;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad, la interseccionalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -679,11 +693,11 @@ XV. Difundir, previo consentimiento de las empresas o personas, los planes que a
 
 ### CAPÍTULO TERCERO. PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### Artículo 41.
 
-La Política Estatal propondrá los mecanismos de operación adecuados para la participación paritaria con perspectiva transversal de igualdad de género en la toma de decisiones políticas y socioeconómicas.
+La Política Estatal propondrá los mecanismos de operación adecuados para la participación paritaria con perspectiva transversal e interseccional de igualdad de género en la toma de decisiones políticas y socioeconómicas.
 
 ###### Artículo 42.
 
@@ -908,3 +922,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
 
 SEGUNDO.- Las autoridades desarrollaran en el ámbito de las disposiciones reglamentarias que correspondan los mecanismos para darles difusión a las empresas que cumplan con estos estándares.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 426 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 13, 14, 16 Y 41 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA; 33, 35, 42, 43 Y 47 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; 9 Y 14 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Las autoridades sujetas a la observancia y aplicación de la presente Ley, en un plazo no mayor a 180 días naturales contados a partir del día siguiente de la publicación del presente Decreto, deberán realizar las adecuaciones necesarias a sus reglamentos para su debida implementación.
