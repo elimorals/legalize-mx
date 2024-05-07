@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-61290
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2018-11-30"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de mayo de 2008.
 
@@ -307,57 +307,77 @@ III. Ser una de las instancias donde se promueva la coordinación entre la autor
 
 IV. Proponer a la autoridad competente mecanismos para el ejercicio ordenado de la actividad pesquera y de acuacultura en él Estado en concordancia con las disposiciones legales, normativas y administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
 El Consejo se integrará de la siguiente forma:
 
-I. El Secretario de Pesca y Acuacultura, quien será su Presidente;
+I.- Una Presidencia que será; la Persona Titular de la Secretaría de Pesca y Acuacultura;
 
-II. El Secretario de Planeación y Finanzas;
+II.- La Persona Titular de la Secretaría de Hacienda;
 
-III. El Secretario de Infraestructura y Desarrollo Urbano;
+III.- La Persona Titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-IV. El Secretario de Desarrollo Social;
+IV.- La Persona Titular de la Secretaría de Bienestar;
 
-V. El Secretario de Protección al Ambiente;
+V.- La Persona Titular de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
-VI. El Secretario de Turismo;
+VI.- La Persona Titular de la Secretaría de Turismo;
 
-VII. El Presidente del Consejo Municipal de Pesca y Acuacultura de los Municipios que cuenten con dicho órgano, o en su defecto un representante de cada uno de los Ayuntamientos del Estado;
+VII.- La persona Presidenta del Consejo Municipal de Pesca y Acuacultura de los Municipios que cuenten con dicho órgano, o en su defecto una persona representante de cada uno de los Ayuntamientos del Estado;
 
-VIII. Un representante del sector pesquero o acuícola, por cada uno de los Municipios del Estado, designados por el Consejo, para un período de tres años y sin derecho a reelección, mediante los procedimientos participativos y transparentes que determine el Reglamento, y
+VIII.- Una persona representante del sector pesquero o acuícola, por cada uno de los Municipios del Estado, designados por el Consejo, para un período de tres años y sin derecho a reelección, mediante los procedimientos participativos y transparentes que determine el Reglamento; y,
 
-IX. Un representante del sector académico, que será designado por el consejo, mediante los procedimientos participativos y transparentes que determine el Reglamento.
+IX.- Una persona representante del sector académico, que será designado por el consejo, mediante los procedimientos participativos y transparentes que determine el Reglamento.
 
-Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a este corresponda.
+Cada persona integrante propietaria designará una persona suplente, quien asistirá a las sesiones del Consejo en ausencia de la persona propietaria, con todas las facultades y derechos que a esta corresponda.
 
-El Consejo contará con un Secretario Técnico designado por el Presidente, de entre el personal de la propia Secretaría, quién deberá contar con nivel de Director de área por lo menos.
+El Consejo contará con una Secretaria Técnica designada por la Presidenta, de entre las personas de la propia Secretaría, quién deberá contar con nivel de Dirección de área por lo menos
 
-Los miembros propietarios y suplentes del Consejo serán a título honorífico.
+Las personas integrantes propietarias y suplentes del Consejo serán a título honorífico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 18.
 
-El Consejo, por acuerdo de sus miembros, podrá invitar a sus sesiones a:
+El Consejo, por acuerdo de sus integrantes, podrá invitar a sus sesiones a:
 
-I. Un represente del Congreso del Estado, con carácter permanente;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II. Un representante de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+I. Una persona representante del Congreso del Estado, con carácter permanente;
 
-III. Un representante de la Comisión Nacional de Acuacultura y Pesca;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-IV. Un representante del Instituto Nacional de Pesca;
+II. Una persona representante de la Secretaría de Agricultura y Desarrollo Rural;
 
-V. Titulares de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector pesquero y acuícola;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+III. Una persona de la Comisión Nacional de Acuacultura y Pesca;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+IV. Una persona representante del Instituto Mexicano de investigación en Pesca Acuacultura Sustentables; y,
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+V. Las personas titulares de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector pesquero y acuícola;
 
 VI. Centros de enseñanzas e instituciones de investigación, y
 
-VII. Cualquier otro que considere el Consejo.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-Los invitados a las sesiones, en términos del presente artículo participaran en las mismas con voz pero sin voto.
+VII. Cualquier otra persona que considere el Consejo.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
+Las personas invitadas a las sesiones, en términos del presente artículo participaran en las mismas con voz, pero sin voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-El Presidente del Consejo tendrá las facultades siguientes:
+La Persona Titular de la Presidencia del Consejo tendrá las facultades siguientes:
 
 I. Definir los asuntos a tratar en las sesiones;
 
@@ -369,7 +389,9 @@ IV. Dar curso a los asuntos y determinar los trámites que deban recaer en ésto
 
 V. Vigilar y proveer lo necesario para el cumplimiento de los acuerdos adoptados por el Consejo;
 
-VI. Rendir informes al Gobernador del Estado de sus actividades;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+
+VI. Rendir informes a la Persona Titular del Poder Ejecutivo del Estado de Baja California de sus actividades;
 
 VII. Revisar los informes de avance y resultados de los asuntos del Consejo;
 
@@ -377,13 +399,15 @@ VIII. Coordinar las comisiones designadas por el Consejo para el debido cumplimi
 
 IX. Las demás previstas en el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-El Secretario Técnico tendrá las siguientes facultades:
+La Secretaría Técnica tendrá las siguientes facultades:
 
-I. Auxiliar al Presidente del Consejo en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
-II. Preparar el orden del día de las sesiones del Consejo, pasar lista de asistencia para verificar el quórum legal;
+I.- Auxiliar a quien ocupe la Presidencia del Consejo en el desempeño de sus funciones;
 
 III. Levantar minuta de la sesión del Consejo;
 
@@ -391,9 +415,11 @@ IV. Conducir la votación para la aprobación de los asuntos del Consejo que as�
 
 VI. Las demás previstas en el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 21.
 
-Los Consejeros tendrán los siguientes derechos:
+Las Consejeras y Consejeros tendrán los siguientes derechos:
 
 I. Asistir a las sesiones del Consejo con derecho a voz y voto;
 
@@ -403,15 +429,19 @@ III. Integrar las comisiones del Consejo, y
 
 IV. Las demás que disponga el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su Presidente, quien emitirá la convocatoria respectiva. En la primera sesión del año, se definirá el calendario de sesiones ordinarias.
+El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de quien ocupe su presidencia, quien emitirá la convocatoria respectiva.
 
 Sin perjuicio de lo anterior, el Consejo podrá convocar a sesión cuando la mayoría de sus miembros lo consideren conveniente por la trascendencia del tema a tratar.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 23.
 
-El quórum legal para sesionar será con la asistencia de más de la mitad de sus miembros, y tomarán las decisiones por mayoría de votos de los presentes, en caso de empate quien presida la sesión tendrá el voto de calidad.
+El quórum legal para sesionar será con la asistencia de más de la mitad de sus integrantes, y tomarán las decisiones por mayoría de votos de los presentes, en caso de empate quien presida la sesión tendrá el voto de calidad
 
 ### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE PESCA Y ACUACULTURA
 
@@ -742,3 +772,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 7 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 416 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 17, 18, 19, 20, 21, 22, Y 23 A LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
