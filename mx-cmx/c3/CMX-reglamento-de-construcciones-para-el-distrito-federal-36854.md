@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2022-04-22"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MAYO DE 2024.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -50,7 +50,9 @@ Se aplicará de manera supletoria al presente Reglamento, la Ley de Procedimient
 
 Para los efectos del presente Reglamento, se entiende por:
 
-I. Administración, a la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
+
+I. Administración, a la Administración Pública de la Ciudad de México;
 
 II. Ley, a la Ley de Desarrollo Urbano del Distrito Federal;
 
@@ -140,6 +142,42 @@ XXVI. Normas de Rehabilitación, a las Normas para la Rehabilitación Sísmica d
 
 XXVII. Demarcación Territorial, a la base de la división territorial y de la organización político administrativa de la Ciudad de México.
 
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXVIII. Plataforma Digital: Sistema informático desarrollado por la Agencia Digital de Innovación Pública, a través de la cual se realizan los trámites establecidos en la Ley de Desarrollo Urbano del Distrito Federal, su Reglamento y este Reglamento;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXIX. Antena, al elemento destinado a la transmisión y/o recepción de señales de comunicación a través del espectro radioeléctrico, que cuenta con soporte, y en su caso, con equipos complementarios de telecomunicaciones inalámbricas o móviles para su funcionamiento;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXX. Aviso de instalación de antenas y/o proyecto de antenas, al Aviso presentado por las personas interesadas a través de la Plataforma Digital para la instalación de la infraestructura de telecomunicaciones a que se refiere el artículo 60 Bis del presente Reglamento;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXXI. Constancia de Aviso de instalación de antenas y/o proyecto de antenas, al documento emitido por la Alcaldía correspondiente a través de la Plataforma Digital una vez presentado el Aviso de Instalación en términos del artículo 60 Bis;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXXII. Equipo adicional de telecomunicaciones inalámbricas o móviles, a cualquier infraestructura activa distinta a la antena;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXXIII. Proyecto de antenas, a la agrupación de antenas que forman parte de un programa o plan de despliegue de una persona física o moral que presta servicios de telecomunicaciones;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXXIV. Torre de telecomunicaciones, a la estructura elevada instalada o montada en terreno natural o en azoteas, donde se fija una antena o cualquier infraestructura activa o pasiva de telecomunicaciones, que permite liberar obstáculos que puedan interferir o atenuar la transmisión y/o recepción de señales de comunicación en frecuencias y radiofrecuencias pertenecientes al espectro radioeléctrico, la cual podrá ser de acuerdo con la Guía de Infraestructura de Telecomunicaciones vigente: autosoportada; arriostrada o atirantada; macroposte; monopolo; o mástil;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXXV. Aviso Vecinal para trabajos menores: al trámite presentado a través de la Plataforma Digital, por la persona física interesada en realizar trabajos menores de rehabilitación o mejoras en vías públicas secundarias al frente de la fachada o las fachadas exteriores de la vivienda del solicitante;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+XXXVI. Constancia de Aviso Vecinal para trabajos menores: al documento emitido por la Alcaldía correspondiente para la realización de trabajos menores de rehabilitación o mejoras en vías públicas secundarias al frente de la fachada o las fachadas exteriores de la vivienda del solicitante, a través de la Plataforma Digital.
+
 ###### ARTÍCULO 3.
 
 De conformidad con lo dispuesto por la Ley y la Ley Orgánica, la aplicación y vigilancia del cumplimiento de las disposiciones de este Reglamento corresponde a la Administración, para lo cual tiene las siguientes facultades:
@@ -196,11 +234,31 @@ Para el estudio y propuesta de reformas al presente Reglamento, se integrará un
 
 La Comisión podrá ampliarse con representantes de asociaciones profesionales y otros organismos e instituciones que la Administración considere oportuno invitar. En este caso, la Administración contará con igual número de representantes.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 5.
 
-Las áreas competentes de las Delegaciones o de la Secretaría de Desarrollo Urbano y Vivienda para registrar manifestaciones de construcción, expedir licencias de construcción especial, permisos y/o autorizaciones, deben contar cuando menos con un profesional calificado con registro vigente de Director Responsable de Obra o Corresponsable, con objeto de que emita las opiniones especializadas que le sean requeridas.
+Las áreas competentes de las Alcaldías o de la Secretaría de Desarrollo Urbano y Vivienda para registrar manifestaciones de construcción, expedir licencias de construcción especial, permisos y/o autorizaciones, deberán contar, cuando menos, con un profesional calificado, con registro vigente de Director Responsable de Obra y/o Corresponsable; lo anterior, con el objeto de que emita las opiniones especializadas que le sean requeridas.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 5 BIS.- Los trámites a que se refiere el presente artículo deberán ser recibidos y atendidos por las Alcaldías o la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, mediante la Plataforma Digital y de conformidad con la normativa aplicable:
+
+a) Certificados de Uso del Suelo en sus modalidades: Certificado Único de Zonificación de Uso del Suelo, Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos y Certificado de Uso del Suelo por Reconocimiento de Actividad;
+
+b) Constancia de Alineamiento y Número Oficial;
+
+c) Registro de Manifestación de Construcción (en sus distintos tipos);
+
+d) Licencia de Construcción Especial;
+
+e) Aviso de Terminación de Obra (manifestaciones de construcción tipo A y licencia de construcción especial señalada en el artículo 57 fracciones II a VIII) y;
+
+f) Aviso de Terminación de Obra para la Autorización de Uso y Ocupación (manifestaciones de construcción tipo B y C, y licencia de construcción especial señalada en el artículo 57 fracción I).
+
+Con el Aviso de Terminación de Obra, y siempre que la construcción lo requiera, se deberán presentar el Visto Bueno de Seguridad y Operación de las Instalaciones y la Constancia de Seguridad Estructural, todos ellos a través de la Plataforma Digital, a efecto de que, de ser procedente, la Alcaldía correspondiente o la Secretaría de Desarrollo Urbano y Vivienda, cuando sea su competencia, autorice el Uso y Ocupación del Inmueble.
+
+Todo servidor público está obligado a realizar los trámites administrativos establecidos en la Ley y en este Reglamento utilizando la Plataforma Digital. Asimismo, se deberá garantizar la prestación del servicio a través de la Ventanilla Única, apoyando a los ciudadanos que acudan a las oficinas de manera presencial a ingresar su trámite en la Plataforma Digital.
 
 ###### ARTÍCULO 6.
 
@@ -246,13 +304,15 @@ Concluida una obra en la vía pública, la Agencia determinará un periodo de in
 
 Se requiere de autorización de la Administración para:
 
-I. Realizar obras, modificaciones o reparaciones en la vía pública;
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
+
+I. Realizar obras, modificaciones o reparaciones en la vía pública, salvo aquellas establecidas en el artículo 62 Bis del presente Reglamento, en cuyo caso se requerirá la presentación del Aviso Vecinal para trabajos menores;
 
 II. Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales o mobiliario urbano;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-III. Romper el pavimento o hacer cortes en las banquetas y guarniciones en la vía pública para la ejecución de obras no efectuadas por el Gobierno de la Ciudad de México.
+III. Romper el pavimento o hacer cortes en las banquetas y guarniciones en la vía pública para la ejecución de obras no efectuadas por el Gobierno de la Ciudad de México, salvo aquellas establecidas en el artículo 62 Bis del presente Reglamento, en cuyo caso se requerirá la presentación del Aviso Vecinal para trabajos menores;
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -396,11 +456,11 @@ II. Las estructuras, postes e instalaciones deben ser identificadas por sus prop
 
 III. En caso de existir afectación al arbolado urbano, deberá contar con los permisos correspondientes, así como el pago de derechos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
-La Administración podrá ordenar el retiro o cambio de lugar de estructuras, postes o instalaciones con cargo a sus propietarios o poseedores, por razones de seguridad, funcionalidad de la vía pública, situaciones de alto riesgo o porque se modifique el ancho de las banquetas o se ejecute cualquier obra en la vía pública que lo requiera y establecerá el plazo para tal efecto.
+La Administración podrá ordenar el retiro o cambio de lugar de estructuras, postes o instalaciones con cargo a los propietarios o poseedores, por razones de seguridad, funcionalidad de la vía pública, situaciones de alto riesgo o porque se modifique el ancho de las banquetas o se ejecute cualquier obra en la vía pública que lo requiera y establecerá el plazo para tal efecto. Mismo caso para los trabajos menores realizados en términos del artículo 62 Bis del presente Reglamento.
 
 Si no lo hicieren dentro del plazo que se les haya fijado, la propia Administración lo ejecutará a costa de dichos propietarios o poseedores.
 
@@ -440,17 +500,31 @@ La Delegación notificará dicho cambio al Servicio Postal Mexicano, a la Tesore
 
 El alineamiento es la traza sobre el terreno que limita el predio respectivo con la vía pública en uso, determinada en los planos debidamente aprobados. El alineamiento contendrá las afectaciones y las restricciones de carácter urbano que señale la Ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-La Administración por conducto de las alcaldías expedirá, a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de dos años contados a partir del día siguiente de su expedición. Cuando el predio pertenezca a dos o más demarcaciones, la Constancia de Alineamiento y número oficial será expedida por la Secretaría de Desarrollo Urbano y Vivienda.
+La Administración, por conducto de las Alcaldías, expedirá a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de dos, cuatro o cinco años a elección del solicitante contados a partir del día siguiente de su expedición.
 
-> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-La vigencia de la Constancia expedida se considerará prorrogada mediante el pago de derechos que establezca el Código Fiscal de la Ciudad de México, siempre y cuando no se hubieren modificado las condiciones del inmueble señaladas en la Constancia original. Dicha prórroga será anual y se podrá realizar de manera ilimitada, siempre que el pago se cubra de manera continua.
+La Secretaría de Desarrollo Urbano y Vivienda expedirá las Constancias de Alineamiento y Número Oficial en los supuestos siguientes:
 
-Si entre la expedición de la constancia a que se refiere este artículo y la presentación de la solicitud de licencia de construcción especial o el registro de manifestación de construcción, se hubiese modificado el alineamiento en los términos del artículo 24 de este Título, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+I. El predio pertenezca a dos o más demarcaciones territoriales.
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+II. El predio esté destinado a obra pública o vivienda de interés social o popular financiada con recursos públicos federales o locales.
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+III. El predio sea propiedad Federal o de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Si entre la expedición de la constancia a que se refiere este artículo y la solicitud de Licencia de Construcción Especial o el Registro de Manifestación de Construcción, se hubiera hecho alguna modificación al alineamiento en los términos del artículo 24 de este Título, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
 
 ### CAPÍTULO VI. DE LAS RESTRICCIONES A LAS CONSTRUCCIONES
 
@@ -564,9 +638,9 @@ III. Ordenar en la obra, el cumplimiento de este Reglamento y de la normatividad
 
 IV. Planear y supervisar el cumplimiento de las medidas de seguridad e higiene contempladas en la normatividad aplicables a la obra, relativas al personal, terceras personas, sus colindancias y la vía pública y en su caso, denunciar ante la Autoridad correspondiente su incumplimiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-V. Llevar en la obra un libro de bitácora foliado y sellado por la Delegación o por la Secretaría, el cual deberá cumplir con los requisitos mínimos establecidos en las Bases Generales y quedará a resguardo y bajo responsabilidad del propietario o poseedor, pudiendo este último delegar dicha responsabilidad en su constructor o contratista, pero sin eximirse de la responsabilidad ante la Secretaría de Desarrollo Urbano y Vivienda. En caso de pérdida o robo de dicho libro de bitácora, las partes firmantes deberán guardar sus copias con firmas autógrafas.
+V. Llevar en la obra un libro de bitácora foliado y sellado digitalmente por la Alcaldía o por la Secretaría, el cual deberá cumplir con los requisitos mínimos establecidos en las Bases Generales y quedará a resguardo y bajo responsabilidad del propietario o poseedor, pudiendo este último delegar dicha responsabilidad en su constructor o contratista, pero sin eximirse de la responsabilidad ante la Secretaría de Desarrollo Urbano y Vivienda. En caso de pérdida o robo de dicho libro de bitácora, las partes firmantes deberán guardar sus copias con firmas autógrafas.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -598,9 +672,13 @@ VI. Ordenar al propietario y/o constructor la colocación en la obra, en lugar v
 
 VII. Solicitar al propietario, poseedor o constructor el aviso de terminación de la obra ejecutada, debiendo anexarlo a la bitácora y conservar copias delos (sic) planos actualizados y registrados del proyecto completo, del libro de bitácora y de las memorias de cálculo;
 
-> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
 
-VIII. Resellar anualmente el carnet dentro de los cinco días hábiles anteriores al vencimiento y refrendar su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior, Colegios o Sociedades Técnicas de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías previamente aprobados por la Secretaría de Obras y Servicios, a través del Instituto sin que sea necesario presentar la documentación que ya obra en poder de dichas autoridades.
+VIII. Resellar anualmente el Carnet Digital a través de la Plataforma Digital dentro de los cinco días hábiles anteriores al vencimiento y refrendar a través de la Plataforma Digital su registro de Director Responsable de Obra cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior, Colegios o Sociedades Técnicas de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías previamente aprobados por la Secretaría de Obras y Servicios, a través del Instituto sin que sea necesario presentar la documentación que ya obra en poder de dichas autoridades;
+
+En el caso de que no se reselle a través de la Plataforma Digital el Carnet Digital, en un período de tres años, será obligatorio presentar una evaluación de conocimientos ante el Comité Técnico de Director Responsable de Obra.
+
+En el caso de resello o refrendo del Carnet Digital, de manera independiente de la fecha en que se lleve a cabo el trámite, se considerará la fecha correspondiente a su registro.
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -868,13 +946,19 @@ d) Notificar al Director Responsable de Obra cualquier irregularidad en el ámbi
 
 e) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-IV. Resellar anualmente el carnet dentro de los cinco días hábiles anteriores al vencimiento y refrendar su registro de Corresponsable cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior, Colegios o Sociedades Técnicas de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías; previamente aprobados por la Secretaría de Obras y Servicios, a través del Instituto tratándose de Corresponsables en Seguridad Estructural y en los casos de Corresponsables en Diseño Urbano y Arquitectónico y Corresponsables en Instalaciones corresponderá dicha aprobación a la Secretaría de Desarrollo Urbano y Vivienda; sin que sea necesario presentar la documentación que ya obra en poder de dichas autoridades.
+IV. Resellar anualmente el Carnet Digital a través de la Plataforma Digital dentro de los cinco días hábiles anteriores al vencimiento y refrendar a través de la Plataforma Digital su registro de Corresponsable cada tres años o cuando lo determine la Administración, para lo cual deberá presentar los documentos que lo acrediten como miembro activo del Colegio de Profesionales respectivo, así como constancia de actualización profesional expedida por Instituciones de Educación Superior, Colegios o Sociedades Técnicas de los que sean miembros, con una duración mínima de treinta horas anuales, en los temas de normatividad y nuevas tecnologías; previamente aprobados por la Secretaría de Obras y Servicios, a través del Instituto tratándose de Corresponsables en Seguridad Estructural y en los casos de Corresponsables en Diseño Urbano y Arquitectónico y Corresponsables en Instalaciones corresponderá dicha aprobación a la Secretaría de Desarrollo Urbano y Vivienda; sin que sea necesario presentar la documentación que ya obra en poder de dichas autoridades.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 8 DE MAYO DE 2024)</small>
 
-En el caso de que un Corresponsable no haya resellado en un período de tres años su carnet, será obligatorio presentar una evaluación de conocimientos formulada por el Comité Técnico correspondiente.
+En el caso de resello o refrendo del Carnet Digital, de manera independiente de la fecha en que se lleve a cabo el trámite, se considerará la fecha correspondiente a su registro.
+
+En el caso de que un Corresponsable no haya resellado en un período de tres años su Carnet Digital a través de la Plataforma Digital, será obligatorio presentar una evaluación de conocimientos formulada por el Comité Técnico correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE MAYO DE 2024)</small>
+
+En el caso de resello o refrendo del Carnet Digital, de manera independiente de la fecha en que se lleve a cabo el trámite, se considerará la fecha correspondiente a su registro.
 
 En particular, informará a la Comisión sobre su participación en las responsivas suscritas a que se refiere el artículo 38 de este Reglamento durante el periodo anterior al refrendo o resello.
 
@@ -894,7 +978,9 @@ I. Cuando ocurra sustitución o retiro del Director Responsable de Obra y/o Corr
 
 II. Cuando no hayan refrendado su registro correspondiente, y
 
-III. Cuando la Delegación expida la autorización de uso y ocupación de la obra.
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
+
+III. Cuando la Alcaldía o la Secretaría de Desarrollo Urbano y Vivienda, según sea el caso, expidan la autorización de uso y ocupación de la obra.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
@@ -976,13 +1062,13 @@ e) Hayan otorgado su responsiva en proyecto u obra que afecte de forma irreparab
 
 En los casos de cancelación de registro, la Secretaría de Desarrollo Urbano y Vivienda o el Instituto, según sea el caso, no otorgará nuevamente al infractor el registro en ninguna de las especialidades que señalan los artículos 33 y 37 del presente Reglamento, excepto en lo señalado en la fracción III, inciso d), del presente artículo.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-En el caso de las fracciones II y III, los infractores deben entregar su carnet de registro a la Secretaría o al Instituto, según sea el caso, dentro de los cinco días hábiles posteriores a la fecha de notificación de la sanción impuesta. En el supuesto de la fracción II, se devolverá el carnet de registro al infractor, al término de la suspensión temporal.
+En el caso de las fracciones I, II y III, la sanción impuesta se registrará en el Carnet Digital mediante la Plataforma Digital, dentro de los cinco días hábiles posteriores a la fecha de notificación de la misma. En el caso de las fracciones II y III, el Carnet Digital estará deshabilitado, por lo que no será posible otorgar nuevas responsivas.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-En el caso de la fracción II, el infractor deberá entregar a la Comisión en un plazo máximo de 30 días naturales un informe detallado de las obras bajo su responsiva, el cual deberá acompañar de copias de la bitácora y memoria fotográfica.
+En el supuesto de la fracción II, se habilitará el Carnet Digital en la Plataforma Digital, al término de la suspensión temporal. En el caso de la fracción II, el infractor deberá entregar a la Comisión en un plazo máximo de 30 días naturales un informe detallado de las obras bajo su responsiva, el cual deberá acompañar de copias de la bitácora y memoria fotográfica.
 
 > <small>(REFORMADO, G.O. 2 DE ABRIL DE 2019)</small>
 
@@ -1128,9 +1214,11 @@ El constructor será el responsable, en el caso de que existan daños en la obra
 
 ### CAPÍTULO I. DE LAS MANIFESTACIONES DE CONSTRUCCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-Para construir, ampliar, reparar o modificar una obra o instalación de las señaladas en el artículo 51 de este Reglamento, el propietario o poseedor del predio o inmueble, en su caso, el Director Responsable de Obra y los Corresponsables, previo al inicio de los trabajos debe registrar la manifestación de construcción correspondiente, conforme a lo dispuesto en el presente Capítulo.
+Para construir, ampliar, reparar o modificar una obra o instalación de las señaladas en el artículo 51 de este Reglamento, el propietario o poseedor del predio o inmueble, o en su caso, el Director Responsable de Obra y/o los Corresponsables, previo al inicio de los trabajos deberán registrar a través de la Plataforma Digital la manifestación de construcción correspondiente, conforme a lo dispuesto en el presente Capítulo.
 
 No procede el registro de manifestación de construcción cuando el predio o inmueble se localice en suelo de conservación.
 
@@ -1142,17 +1230,17 @@ Para registrar la manifestación de construcción de una obra o instalación, se
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-a) Que el propietario o poseedor, conjuntamente con el Director Responsable de Obra, presenten el formato correspondiente y ante la autoridad competente, la declaración bajo protesta de decir verdad, de cumplir con este Reglamento y demás disposiciones aplicables, anexando los documentos que se señalan para cada modalidad de manifestación de construcción.
+a) Que el propietario o poseedor, conjuntamente con el Director Responsable de Obra, llenen el formulario contenido en la Plataforma Digital, declarando bajo protesta de decir verdad, que cumplen con este Reglamento y demás disposiciones aplicables, anexando los documentos que se señalan para cada modalidad de manifestación de construcción.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 b) El pago de los derechos que cause el registro de manifestación de construcción y en su caso, de los aprovechamientos que procedan, los cuales deberán ser cubiertos por el propietario, poseedor o representante legal conforme a la autodeterminación que se realice de acuerdo con las tarifas establecidas por el Código Fiscal del Distrito Federal para cada modalidad de manifestación de construcción.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-La autoridad competente registrará la manifestación de construcción cuando se cumpla con la entrega de la documentación requerida, anotando los datos indicados en el Carnet del Director Responsable de Obra y los Corresponsables, sin examinar el contenido de los mismos, entregando al interesado la manifestación de construcción registrada y una copia del croquis o los planos y demás documentos técnicos con sello y firma original, pudiendo éste iniciar de forma inmediata la construcción.
+La autoridad competente registrará a través de la Plataforma Digital la manifestación de construcción cuando se cumpla con la documentación requerida mediante dicha Plataforma Digital, sin revisar el contenido de la misma. Con el registro de la manifestación de construcción, quedarán anotados los datos de la obra en el Carnet Digital del Director Responsable de Obra y de los Corresponsables, a fin de dejar constancia de la responsiva otorgada por los mismos en dicha manifestación.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1160,19 +1248,23 @@ La autoridad competente registrará la manifestación de construcción cuando se
 
 En caso de que faltaran algunos de los requisitos, no se registrará dicha manifestación.
 
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Una vez registrada la manifestación, el interesado obtendrá de la Plataforma Digital el documento electrónico que acredita dicho registro, teniendo disponibles en la Plataforma Digital el croquis o los planos o demás documentos técnicos presentados con sello digital, pudiendo iniciar de forma inmediata la construcción.
+
 ###### ARTÍCULO 49.
 
 En el caso de las zonas arboladas que la obra pueda afectar, la Delegación establecerá las condiciones mediante las cuales se llevará a cabo la reposición de los árboles afectados con base en las disposiciones que al efecto expida la Secretaría del Medio Ambiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 50.
 
-Registrada la manifestación de construcción, la autoridad revisará los datos y documentos ingresados y verificará el desarrollo de los trabajos, en los términos establecidos en los artículos 244 y 245 del presente Reglamento.
+Registrada la manifestación de construcción en la Plataforma Digital, la autoridad revisará los datos y documentos ingresados en la misma y verificará el desarrollo de los trabajos, en los términos establecidos en los artículos 244 y 245 del presente Reglamento.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-La Administración notificará al propietario y/o poseedor, al Director Responsable de Obra y/o Corresponsable las observaciones que se generen de la revisión por el incumplimiento de este Reglamento.
+La Administración notificará las observaciones derivadas de la revisión de los requisitos previstos en este Reglamento al propietario y/o poseedor, al Director Responsable de Obra y/o Corresponsable, mediante el o los correos electrónicos señalados para tales efectos, las cuales también podrán consultarse en la Plataforma Digital.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1252,55 +1344,81 @@ El propietario o poseedor se obliga a colocar en la obra, en lugar visible y leg
 
 Para las manifestaciones de construcción tipos B y C, se deben cumplir los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-I. Presentar manifestación de construcción ante la Administración a través del formato establecido para ello, suscrita por el propietario, poseedor o representante legal, en la que se señalará el nombre, denominación o razón social del o de los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables, acompañada de los siguientes documentos:
+I. Presentar manifestación de construcción digital ante la Administración a través de la Plataforma Digital, por el propietario, poseedor o representante legal, en la que se señalará el nombre, denominación o razón social del o de los interesados, correo electrónico, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables, acompañada de los siguientes documentos en formato digital:
 
 a) Comprobantes de pago de los derechos correspondientes y en su caso, de los aprovechamientos;
 
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+b) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado de acreditación de uso del suelo por derechos adquiridos, los cuales deberán ser verificados y firmados por el Director Responsable de Obra y/o Corresponsable en Diseño Urbano y Arquitectónico, en su caso;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+c) Un tanto digital del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera y en su caso, espacios para estacionamiento de automóviles y/o bicicletas y/o motocicletas; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior.
+
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-b) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos, los cuales deberán ser verificados y firmados por el Director Responsable de Obra y/o Corresponsable en Diseño Urbano y Arquitectónico, en su caso;
-
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-c) Dos tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera y EN SU CASO, espacios para estacionamiento DE AUTOMÓVILES Y/O BICICLETAS Y/O MOTOCICLETAS; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior.
 
 Estos planos deben acompañarse de la memoria descriptiva de proyecto, la cual contendrá como mínimo: el listado de locales construidos y las áreas libres, superficie y número de ocupantes o usuarios de cada uno; el análisis del cumplimiento de los Programas Delegacional o Parcial, incluyendo coeficientes de ocupación y utilización del suelo; cumpliendo con los requerimientos de este Reglamento, sus Normas Técnicas Complementarias y demás disposiciones referentes a: accesibilidad para personas con discapacidad, cantidad de estacionamientos, estacionamiento y su funcionalidad, patios de iluminación y ventilación, niveles de iluminación y ventilación en cada local, circulaciones horizontales y verticales, salidas y muebles hidrosanitarios, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego y otras que se requieran; y en su caso, de las restricciones o afectaciones del predio.
 
-Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Diseño Urbano y Arquitectónico, en su caso.
-
-De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
-
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-d) Dos tantos de los proyectos de las instalaciones hidráulicas incluyendo el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar conforme a los artículos 82, 83 y 89 de este Reglamento, sanitarias, eléctricas, gas e instalaciones especiales y otras que se requieran, en los que se debe incluir como mínimo: plantas, cortes e isométricos en su caso, mostrando las trayectorias de tuberías, alimentaciones, así como el diseño y memorias correspondientes, que incluyan la descripción de los dispositivos conforme a los requerimientos establecidos por este Reglamento y sus Normas en cuanto a salidas y muebles hidráulicos y sanitarios, equipos de extinción de fuego, sistema de captación y aprovechamiento de aguas pluviales en azotea y otras que considere el proyecto.
+Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Diseño Urbano y Arquitectónico, en su caso.
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+d) Un tanto digital del proyecto de las instalaciones hidráulicas incluyendo el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar conforme a los artículos 82, 83 y 89 de este Reglamento, sanitarias, eléctricas, gas e instalaciones especiales y otras que se requieran, en los que se debe incluir como mínimo: plantas, cortes e isométricos en su caso, mostrando las trayectorias de tuberías, alimentaciones, así como el diseño y memorias correspondientes, que incluyan la descripción de los dispositivos conforme a los requerimientos establecidos por este Reglamento y sus Normas en cuanto a salidas y muebles hidráulicos y sanitarios, equipos de extinción de fuego, sistema de captación y aprovechamiento de aguas pluviales en azotea y otras que considere el proyecto.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso.
 
-De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra;
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital de los planos quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+e) Un tanto digital del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-e) Dos tantos del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
-
 En los planos de estructuras de acero se mostrarán todas las conexiones entre miembros, así como la manera en que deben unirse entre sí los diversos elementos que integran un miembro estructural. Cuando se utilicen remaches o tornillos se indicará su diámetro, número, colocación y calidad, y cuando las conexiones sean soldadas se mostrarán las características completas de la soldadura; éstas se indicarán utilizando una simbología apropiada y, cuando sea necesario, se complementará la descripción con dibujos acotados y a escala.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 En el caso de que la estructura esté formada por elementos prefabricados o de patente, los planos estructurales deberán indicar las condiciones que éstos deben cumplir en cuanto a su resistencia y otros requisitos de comportamiento. Deben especificarse los herrajes y dispositivos de anclaje, las tolerancias dimensionales y procedimientos de montaje.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 Deberán indicarse, asimismo, los procedimientos de apuntalamiento, erección de elementos prefabricados y conexiones de una estructura nueva con otra existente.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 En los planos de fabricación y en los de montaje de estructuras de acero o de concreto prefabricado, se proporcionará la información necesaria para que la estructura se fabrique y monte de manera que se cumplan los requisitos indicados en los planos estructurales.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 Los planos deben acompañarse de la memoria de cálculo, en la cual se describirán con el nivel de detalle suficiente para que puedan ser evaluados por un especialista externo al proyecto, debiendo respetarse los contenidos señalados en lo dispuesto en la memoria de cálculo estructural consignada a continuación.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 La memoria de cálculo será expedida en papel membretado de la empresa o del proyectista, en donde conste su número de cédula profesional y firma, así como la descripción del proyecto, conteniendo localización, número de niveles subterráneos y uso, conforme a los siguientes rubros:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 17 DE JUNIO DE 2016, PÁGINAS DE LA 20 A LA 21.]</small>
 
-De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor; quien entregará una copia de los mismos para su uso en la obra.
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-Los planos anteriores deberán incluir el proyecto de protección a colindancias y estar firmados por el proyectista indicando su número de cédula profesional, así como por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
+El tanto digital quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital deberá incluir el proyecto de protección a colindancias y estar firmado por el proyectista indicando su número de cédula profesional, así como por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1310,9 +1428,9 @@ f) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo es
 
 g) Constancia de “Registro de la Revisión por parte del Corresponsable en Seguridad Estructural del Proyecto Estructural” emitida por el Instituto, cuya revisión deberá realizarse de conformidad con las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE), para el caso de las edificaciones que pertenezcan al Grupo A o Subgrupo B1, según el artículo 139 de este Reglamento o para las edificaciones del Subgrupo B2 que el Instituto así lo solicite.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-h) Libro de bitácora de obra foliado, para ser sellado por la Administración, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmarán en ese momento;
+h) Archivo digital que contenga las primeras hojas del libro de bitácora de obra foliado, en las que conste la información señalada en el artículo 35 fracción V incisos a) y b) de este Reglamento, considerando que dicho libro con el sello digital de la Alcaldía debe permanecer físicamente en la obra para su uso, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmarán en ese momento;
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1342,9 +1460,9 @@ Cuando la obra se localice en un predio perteneciente a dos o más Delegaciones,
 
 Cuando se trate de Áreas de Conservación Patrimonial de la Ciudad de México, o Zonas de monumentos declaradas por la Federación, se requerirá el dictamen técnico favorable de la Secretaría de Desarrollo Urbano y Vivienda cuando corresponda, así como el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, y la responsiva de un Corresponsable en Diseño Urbano y Arquitectónico.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-En el caso de ampliaciones, modificaciones o reparaciones en edificaciones existentes, se debe presentar cualquiera de los siguientes documentos de la obra original: licencia de construcción, licencia de construcción especial en zona de conservación, registro de manifestación de construcción, registro de obra ejecutada o planos arquitectónicos y/o estructurales donde se establezca que se obtuvo la correspondiente autorización, así como indicar en planos la edificación original y el área donde se realizarán estos trabajos. Se exceptúan de este supuesto los inmuebles declarados monumentos históricos y/o artísticos a que se refiere la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, así como los inmuebles afectos al patrimonio cultural urbano indicados en los Programas de Desarrollo Urbano, acreditando lo anterior a través de dictamen, ficha técnica u oficio emitido por el área competente de la Secretaría de Desarrollo Urbano y Vivienda, del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes.
+En el caso de ampliaciones, modificaciones o reparaciones en edificaciones existentes, se debe presentar cualquiera de los siguientes documentos de la obra original: licencia de construcción, licencia de construcción especial en zona de conservación, registro de manifestación de construcción, registro de obra ejecutada o planos arquitectónicos y/o estructurales donde se establezca que se obtuvo la correspondiente autorización, así como indicar en planos la edificación original y el área donde se realizarán estos trabajos. Se exceptúan de este supuesto los inmuebles declarados monumentos históricos y/o artísticos a que se refiere la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, así como los inmuebles afectos al patrimonio cultural urbano indicados en los Programas de Desarrollo Urbano, así como los inmuebles que refieran los Planes Maestros, acreditando lo anterior a través de dictamen, ficha técnica u oficio emitido por el área competente de la Secretaría de Desarrollo Urbano y Vivienda, del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, según corresponda.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1380,15 +1498,13 @@ En el caso de proyectos destinados a la vivienda de interés social, popular o d
 
 ### CAPÍTULO II. DE LAS LICENCIAS DE CONSTRUCCIÓN ESPECIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
-La licencia de construcción especial es el documento que expide la Administración para poder construir, ampliar, modificar, reparar, instalar, demoler, desmantelar una obra o instalación, colocar tapial, excavar cuando no sea parte del proceso de construcción de un edificio, así como para realizar estas actividades en suelo de conservación.
+La licencia de construcción especial es el documento que expide la Alcaldía a través de la Plataforma Digital antes de construir, ampliar, modificar, reparar, demoler o desmantelar una obra o instalación.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-La licencia de construcción especial y una copia de los planos sellados se entregarán al propietario o poseedor, o al representante legal, quien entregará una copia de los mismos para su uso en la obra.
+La licencia de construcción especial y los planos digitales quedarán en poder de la Administración en la Plataforma Digital y el propietario o poseedor, o el representante legal deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1412,7 +1528,9 @@ I. Edificaciones en suelo de conservación;
 
 II. Instalaciones subterráneas, aéreas y sobre superficie en la vía pública;
 
-III. Estaciones repetidoras de comunicación celular o inalámbrica;
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
+
+III. Torres de telecomunicaciones y/o torres de telecomunicaciones con antenas, soporte y equipo adicional de telecomunicaciones inalámbricas o móviles;
 
 IV. Demoliciones;
 
@@ -1436,49 +1554,69 @@ La licencia de construcción especial señalada en la fracción V, no será exig
 
 Para obtener la licencia de construcción especial, se deben cumplir con los siguientes requisitos:
 
-I. Cuando se trate de edificaciones en suelo de conservación, entregar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+I. Cuando se trate de edificaciones en suelo de conservación, ingresar:
 
-a) Solicitud ante la Administración en donde se localice la obra, en el formato que se establezca, suscrita por el propietario, poseedor o representante legal, en la que se señale el nombre, denominación o razón social del o de los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables;
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+a) Solicitud ante la Administración a través de la Plataforma Digital por el propietario, poseedor o representante legal, en la que se señale el nombre, denominación o razón social del o de los interesados, correo electrónico, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables;
 
 b) Comprobante de pago de derechos;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-c) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos, los cuales deberán ser verificados y firmados por el Director Responsable de Obra y/o Corresponsable en Diseño Urbano y Arquitectónico, en su caso;
+c) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado de acreditación de uso del suelo por derechos adquiridos, los cuales deberán ser verificados y firmados por el Director Responsable de Obra y/o Corresponsable en Diseño Urbano y Arquitectónico, en su caso;
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 d) Proyecto alternativo de captación y aprovechamiento de aguas pluviales y de tratamiento de aguas residuales aprobados por el Sistema de Aguas de la Ciudad de México;
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+e) Un tanto digital del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior.
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Este tanto debe acompañarse de la memoria descriptiva de proyecto, la cual contendrá como mínimo: el listado de locales construidos y las áreas libres, superficie y número de ocupantes o usuarios de cada uno; el análisis del cumplimiento de los Programas Delegacional o Parcial, incluyendo coeficientes de ocupación y utilización del suelo; cumpliendo con los requerimientos de este Reglamento, sus Normas Técnicas Complementarias y demás disposiciones referentes a: accesibilidad para personas con discapacidad, cantidad de estacionamientos, estacionamiento y su funcionalidad, patios de iluminación y ventilación, niveles de iluminación y ventilación en cada local, circulaciones horizontales y verticales, salidas y muebles hidrosanitarios, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego y otras que se requieran; y en su caso, de las restricciones o afectaciones del predio.
+
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-e) Dos tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior.
-
-Estos planos deben acompañarse de la memoria descriptiva de proyecto, la cual contendrá como mínimo: el listado de locales construidos y las áreas libres, superficie y número de ocupantes o usuarios de cada uno; el análisis del cumplimiento de los Programas Delegacional o Parcial, incluyendo coeficientes de ocupación y utilización del suelo; cumpliendo con los requerimientos de este Reglamento, sus Normas Técnicas Complementarias y demás disposiciones referentes a: accesibilidad para personas con discapacidad, cantidad de estacionamientos, estacionamiento y su funcionalidad, patios de iluminación y ventilación, niveles de iluminación y ventilación en cada local, circulaciones horizontales y verticales, salidas y muebles hidrosanitarios, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego y otras que se requieran; y en su caso, de las restricciones o afectaciones del predio.
 
 Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Diseño Urbano y Arquitectónico, en su caso.
 
-De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra;
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital del proyecto arquitectónico quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlo con el sello digital de la Alcaldía para que permanezcan en la obra para su uso;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+f) Un tanto digital de los proyectos de las instalaciones hidráulicas incluyendo el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar, conforme a los artículos 82, 83 y 89 de este Reglamento, sanitarias, eléctricas, de gas e instalaciones especiales y otras que se requieran, en los que se debe incluir como mínimo: plantas, cortes e isométricos en su caso, mostrando las trayectorias de tuberías, alimentaciones, así como el diseño y memorias correspondientes; incluyendo la descripción de los dispositivos que cumplan con los requerimientos establecidos por este Reglamento y sus Normas en cuanto a salidas y muebles hidráulicos y sanitarios, equipos de extinción de fuego, sistema de captación y aprovechamiento de aguas pluviales en azotea y otras que considere el proyecto.
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-f) Dos tantos de los proyectos de las instalaciones hidráulicas incluyendo el uso de sistemas para calentamiento de agua por medio del aprovechamiento de la energía solar, conforme a los artículos 82, 83 y 89 de este Reglamento, sanitarias, eléctricas, de gas e instalaciones especiales y otras que se requieran, en los que se debe incluir como mínimo: plantas, cortes e isométricos en su caso, mostrando las trayectorias de tuberías, alimentaciones, así como el diseño y memorias correspondientes; incluyendo la descripción de los dispositivos que cumplan con los requerimientos establecidos por este Reglamento y sus Normas en cuanto a salidas y muebles hidráulicos y sanitarios, equipos de extinción de fuego, sistema de captación y aprovechamiento de aguas pluviales en azotea y otras que considere el proyecto.
 
 Estos documentos deben estar firmados por el propietario o poseedor, por el proyectista indicando su número de cédula profesional, por el Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso.
 
-De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra;
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital de los proyectos de instalaciones hidráulicas quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+g) Un tanto digital del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos.
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
-g) Dos tantos del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación. Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales. Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos. En particular, para estructuras de concreto se indicarán mediante dibujos acotados los detalles de colocación y traslapes de refuerzo de las conexiones entre miembros estructurales.
-
 En los planos de estructuras de acero se mostrarán todas las conexiones entre miembros, así como la manera en que deben unirse entre sí los diversos elementos que integran un miembro estructural. Cuando se utilicen remaches o tornillos se indicará su diámetro, número, colocación y calidad, y cuando las conexiones sean soldadas se mostrarán las características completas de la soldadura; éstas se indicarán utilizando una simbología apropiada y, cuando sea necesario, se complementará la descripción con dibujos acotados y a escala.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 En el caso de que la estructura esté formada por elementos prefabricados o de patente, los planos estructurales deberán indicar las condiciones que éstos deben cumplir en cuanto a su resistencia y otros requisitos de comportamiento. Deberán especificarse los herrajes y dispositivos de anclaje, las tolerancias dimensionales y procedimientos de montaje.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+
 Deberán indicarse, asimismo, los procedimientos de apuntalamiento, erección de elementos prefabricados y conexiones de una estructura nueva con otra existente.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 En los planos de fabricación y en los de montaje de estructuras de acero o de concreto prefabricado, se proporcionará la información necesaria para que la estructura se fabrique y monte de manera que se cumplan los requisitos indicados en los planos estructurales.
 
@@ -1486,9 +1624,13 @@ En los planos de fabricación y en los de montaje de estructuras de acero o de c
 
 Los planos y la memoria de cálculo deben presentarse con el nivel de detalle suficiente para que puedan ser revisados de conformidad con los requisitos, alcances y procedimientos establecidos en las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones. Se deben (sic) respetar lo dispuesto en la memoria estructural consignada en el artículo 53 fracción I, inciso e) de este Reglamento.
 
-De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-Los planos anteriores, deberán incluir el proyecto de protección a colindancias y estar firmados por el proyectista indicando su número de cédula profesional, así como por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
+El tanto digital del proyecto estructural quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso.
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital deberá incluir el proyecto de protección a colindancias y estar firmado por el proyectista indicando su número de cédula profesional, así como por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1498,9 +1640,9 @@ h) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo es
 
 i) Constancia de “Registro de la Revisión por parte del Corresponsable en Seguridad Estructural del Proyecto Estructural” emitida por el Instituto, cuya revisión deberá realizarse de conformidad con las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE), para el caso de las edificaciones que pertenezcan al Grupo A o Subgrupo B1, según el artículo 139 de este Reglamento o para las edificaciones del Subgrupo B2 que el Instituto así lo solicite.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-j) Libro de bitácora de obra foliado, para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmaran en ese momento;
+j) Archivo digital que contenga las primeras hojas del libro de bitácora de obra foliado, en las que conste la información señalada en el artículo 35 fracción V incisos a) y b) de este Reglamento, considerando que dicho libro con el sello digital de la Alcaldía debe permanecer físicamente en la obra para su uso, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmarán en ese momento;
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1522,31 +1664,31 @@ n) Dictamen técnico favorable de la Secretaría de Desarrollo Urbano y Vivienda
 
 o) Aviso ante el Instituto, cuando se trate de trabajos para la rehabilitación sísmica de edificios dañados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-II. Cuando se trate de instalaciones subterráneas, aéreas o sobre superficie, de demolición del pavimento o cortes en las banquetas y guarniciones en la vía pública, se deberá entregar:
+II. Cuando se trate de instalaciones subterráneas o aéreas en la vía pública, se deberá ingresar:
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y, en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
+a) Solicitud digital por el interesado ante la Administración, a través de la Plataforma Digital, en la que se señale el nombre, denominación o razón social y, en su caso, del representante legal; correo electrónico, domicilio para oír y recibir notificaciones; ubicación y características principales de la instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 b) Comprobante de pago de derechos y, en su caso, de los aprovechamientos;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-c) Cinco tantos de los planos arquitectónicos, estructurales y de instalaciones, así como las memorias de cálculo respectivas, signados por el Director Responsable de Obra y del Corresponsable en Instalaciones, cuando se trate de obras para la conducción de fluidos eléctricos, gas natural, petroquímicos y petrolíferos. El proyecto deberá ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia y autorizado por la Secretaría de Obras y Servicios;
+c) Un tanto digital de los planos arquitectónicos, estructurales y de instalaciones, así como las memorias de cálculo respectivas, signados por el Director Responsable de Obra y del Corresponsable en Instalaciones, cuando se trate de obras para la conducción de fluidos eléctricos, gas natural, petroquímicos y petrolíferos. El proyecto deberá ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia y autorizado por la Secretaría de Obras y Servicios;
 
-d) Versión en archivo electrónico de los planos indicados en el inciso anterior;
+d) (DEROGADO, G.O. 8 DE MAYO DE 2024)
 
 e) Memoria descriptiva y de instalaciones signadas por el Director Responsable de Obra y del Corresponsable en Instalaciones, de conformidad con lo dispuesto en el inciso c) anterior;
 
 f) Visto bueno de las áreas involucradas de la Administración Pública Federal y/o local, de conformidad con las disposiciones aplicables;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-g) Libro de bitácora de obra foliado para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmarán en ese momento; y
+g) Archivo digital que contenga las primeras hojas del libro de bitácora de obra foliado, en las que conste la información señalada en el artículo 35 fracción V incisos a) y b) de este Reglamento, considerando que dicho libro con el sello digital de la Alcaldía debe permanecer físicamente en la obra para su uso, realizando su apertura en el sitio con la presencia de los autorizados para usarla (sic), quienes lo firmarán en ese momento; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1556,47 +1698,71 @@ h) Responsiva del Director Responsable de Obra y el Corresponsable en Instalacio
 
 Cuando se trate de Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano, se deberá contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda; cuando sea competencia de la Federación de acuerdo con lo indicado en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberá contar con el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, según sea su ámbito de competencia.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-De los cinco tantos de planos y el archivo electrónico de los mismos, uno quedará en poder de la Administración, otro será para el interesado, el tercero para el Director Responsable de Obra, el cuarto tanto deberá conservarse en la obra y el quinto junto con el archivo electrónico quedará en poder de la Dirección General de Obras Públicas, de la Secretaría de Obras y Servicios;
+El tanto digital quedará en poder de la Administración en la Plataforma Digital y podrá ser consultado por la Dirección General de Obras Públicas, de la Secretaría de Obras y Servicios;
 
-III. Cuando se trate de estaciones repetidoras de comunicación celular y/o inalámbrica, se debe entregar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+III. Cuando se trate de torres de telecomunicaciones y/o torres de telecomunicaciones con antenas, soporte y equipo adicional de telecomunicaciones inalámbricas o móviles, se deberá ingresar a través de la Plataforma Digital:
 
-a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+a) Solicitud digital ante la Administración por el interesado, a través de la Plataforma Digital, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; correo electrónico, domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
 
 b) Comprobantes de pago de derechos;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-c) Constancia de alineamiento y número oficial vigente y certificado único de zonificación de uso de suelo o certificado único de zonificación del suelo digital o certificado de zonificación de usos del suelo específico o certificado de acreditación de uso del suelo por derechos adquiridos;
+c) Cuando se trate de infraestructura de telecomunicaciones que se instale en terreno natural se deberá ingresar la constancia de alineamiento y número oficial vigente y el certificado único de zonificación de uso de suelo;
 
-d) Cinco tantos de los planos arquitectónicos, estructurales, de instalaciones, los cálculos y memorias descriptivas, signados por el Director Responsable de Obra y el o los Corresponsables en su caso. El proyecto debe ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia;
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
 
-e) Versión en archivo electrónico de los planos indicados en el inciso anterior;
+En el caso de que la infraestructura sea instalada en la azotea de un edificio existente, sólo se deberá ingresar el Certificado Único de Zonificación de Uso de Suelo, acompañado de la revisión cuantitativa de los estados límite de falla y de servicio del edificio existente donde se instalará la Torre de telecomunicaciones, siendo expedida por un Director Responsable de Obra o un Corresponsable en Seguridad Estructural;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-f) Libro de bitácora de obra foliado para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmaran en ese momento;
+d) Un tanto digital de los planos arquitectónicos, estructurales, de instalaciones, las memorias de cálculo estructural y de las instalaciones y memorias descriptivas, signados por el Director Responsable de Obra y el o los Corresponsables en su caso. El proyecto de la Torre de telecomunicaciones y su sistema de sujeción debe ser formulado de conformidad con las Normas y demás disposiciones aplicables en la materia;
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+El tanto digital anterior, quedará a disposición de la Administración en la Plataforma Digital, y podrá ser consultado por la Alcaldía que expida la licencia, la Secretaría de Desarrollo Urbano y Vivienda, y el Director Responsable de Obra; quedando el original en posesión de la persona interesada, quien deberá tenerlo disponible en el lugar de instalación.
+
+e) (DEROGADO, G.O. 8 DE MAYO DE 2024)
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+f) Archivo digital que contenga las primeras hojas del libro de bitácora de obra foliado, en las que conste la información señalada en el artículo 35 fracción V incisos a) y b) de este Reglamento, considerando que dicho libro con el sello digital de la Alcaldía debe permanecer físicamente en la obra para su uso, realizando su apertura en el sitio con la presencia de los autorizados para usarla (sic), quienes lo firmarán en ese momento;
 
 g) Responsiva del Director Responsable de Obra y el o los Corresponsables, en su caso, y
 
 h) Dictámenes de la Secretaría de Desarrollo Urbano y Vivienda y de las demás dependencias, órganos o entidades de la Administración Pública Federal y/o local que señalen las disposiciones en la materia.
 
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+i) Título de concesión que corresponda, autorización y/o cualquier otro documento de similar naturaleza, otorgado por el Instituto Federal de Telecomunicaciones.
+
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 Cuando se trate de Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano, se deberá contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda; cuando sea competencia de la Federación de acuerdo con lo indicado en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberá contar con el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, según sea su ámbito de competencia.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
 
-De los cinco tantos de planos, uno quedará en poder de la Administración, otro será para el interesado, el tercero para el Director Responsable de Obra, el cuarto tanto debe conservarse en la obra y el quinto, junto con el archivo electrónico, quedará en poder de la Secretaría de Desarrollo Urbano y Vivienda;
+Una vez instalada el tipo de infraestructura con motivo de la obtención de la licencia a que se refiere la presente fracción, los interesados deberán colocar un aviso visible en la antena que indique que cumple con los niveles máximos permitidos de radiación electromagnética para seres humanos.
 
-IV. Cuando se trate de demoliciones, salvo en el caso señalado en la fracción VI del artículo 62, se debe entregar:
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+No se podrá colocar publicidad en dichas estructuras.
 
-a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
+
+IV. Cuando se trate de demoliciones, salvo en el caso señalado en la fracción VI del artículo 62, se deberá ingresar a través de la Plataforma Digital:
+
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+a) Solicitud digital ante la Administración por el interesado, a través de la Plataforma Digital, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; correo electrónico, domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y de los Corresponsables;
 
 b) Acreditar la propiedad del inmueble;
 
@@ -1604,9 +1770,9 @@ c) Comprobantes de pago de derechos;
 
 d) Constancia de alineamiento y número oficial vigente;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-e) Libro de bitácora de obra foliado para ser sellado por la Administración correspondiente, el cual debe conservarse en la obra, realizando su apertura en el sitio con la presencia de los autorizados para usarla, quienes lo firmaran en ese momento;
+e) Archivo digital que contenga las primeras hojas del libro de bitácora de obra foliado, en las que conste la información señalada en el artículo 35 fracción V incisos a) y b) de este Reglamento, considerando que dicho libro con el sello digital de la Alcaldía debe permanecer físicamente en la obra para su uso, realizando su apertura en el sitio con la presencia de los autorizados para usarla (sic), quienes lo firmarán en ese momento;
 
 f) Responsiva del Director Responsable de Obra y de los Corresponsables, en su caso;
 
@@ -1622,33 +1788,35 @@ Se deberá cumplir con lo establecido en la Ley de Residuos Sólidos del Distrit
 
 Cuando se trate de demoler inmuebles en Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano, se deberá contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda; cuando sea competencia de la Federación de acuerdo a lo indicado en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberá contar con el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia según sea su ámbito de competencia;
 
-V. Cuando se trate de las licencias de construcción especial señaladas en las fracciones V, VI, VII y VIII del artículo 57 de este Reglamento, se debe entregar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+V. Cuando se trate de las licencias de construcción especial señaladas en las fracciones V, VI, VII y VIII del artículo 57 de este Reglamento, se deberá llenar la solicitud digital ante la Administración a través de la Plataforma Digital ingresando la siguiente información:
 
-a) Solicitud ante la Administración en el formato que establezca la misma, suscrita por el interesado, en la que se señale el nombre, denominación o razón social y en su caso, del representante legal; domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma y domicilio del Director Responsable de Obra y delos (sic) Corresponsables;
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+a) Nombre, denominación o razón social y en su caso, del representante legal; correo electrónico y domicilio para oír y recibir notificaciones; ubicación y características principales de la obra y/o instalación de que se trate; nombre, número de registro, firma, correo electrónico y domicilio del Director Responsable de Obra y de los Corresponsables;
 
 b) Comprobantes de pago de derechos, y
 
 c) Responsiva del Director Responsable de Obra y los Corresponsables, en su caso.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-Para instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, la solicitud de licencia de construcción especial se debe acompañar con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como dos juegos completos de planos, especificaciones y bitácora proporcionados por la empresa que fabrique el aparato, y de una memoria donde se detallen los cálculos que hayan sido necesarios. De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
+Para instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, la solicitud de licencia de construcción especial se debe acompañar con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como un tanto de los planos en formato digital, especificaciones y archivo digital que contenga las primeras páginas del libro de bitácora de obra foliado, en la que conste la información señalada en el artículo 35 fracción V incisos a) y b) de este Reglamento proporcionados por la empresa que fabrique el aparato, y de una memoria donde se detallen los cálculos que hayan sido necesarios. El plano digital quedará en poder de la Administración en la Plataforma Digital y el propietario o poseedor deberá imprimirlos con el sello digital de la Alcaldía para que permanezcan en la obra para su uso.
 
 ###### ARTÍCULO 59.
 
 La licencia de construcción especial, debe expedirse en un plazo máximo de 24 horas contadas a partir del día hábil siguiente a la recepción de la solicitud, con excepción de las que se refieran a la construcción, reparación o mantenimiento de instalaciones subterráneas o aéreas; a las construcciones que se pretendan ejecutar en suelo de conservación o aquéllas que de acuerdo con las disposiciones aplicables en la materia requieran de la opinión de una o varias dependencias, órganos o entidades de la Administración Pública Federal o local. En estos casos, el plazo será de 30 días hábiles contados a partir de la fecha de recepción de la solicitud.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-Una vez que el propietario o poseedor haya cumplido con los requisitos establecidos en el formato que corresponda, la Administración debe expedir la licencia de construcción especial, sin revisar el proyecto, anotando los datos correspondientes en el carnet del Director Responsable de Obra y/o Corresponsables, en su caso.
+Una vez que el propietario o poseedor haya cumplido con los requisitos establecidos en el formato que corresponda, la Administración debe expedir la licencia de construcción especial, sin revisar el proyecto, anotando los datos correspondientes en el Carnet Digital del Director Responsable de Obra y/o Corresponsables, en su caso.
 
 Transcurridos los plazos señalados en este artículo, sin haber resolución de la autoridad, se entenderá otorgada la licencia de construcción especial, procediendo la afirmativa ficta, salvo que se trate de construcciones que se pretendan ejecutar en suelo de conservación o aquellas relativas a instalaciones subterráneas o aéreas, en cuyo caso se entenderá negada la licencia.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-Expedida la licencia de construcción especial, la Administración podrá revisar el expediente y realizar visitas de verificación cuando lo considere conveniente, la Agencia dará seguimiento de cualquier obra en la vía pública, únicamente para el efecto de detectar que no se altere la prestación de los servicios públicos urbanos, la movilidad y la funcionalidad de la misma.
+Expedida la licencia de construcción especial, la Administración podrá revisar el expediente y realizar visitas de verificación cuando lo considere conveniente, la Secretaría de Obras y Servicios o la Alcaldía dará seguimiento de cualquier obra en la vía pública, únicamente para el efecto de detectar que no se altere la prestación de los servicios públicos urbanos, la movilidad y la funcionalidad de la misma.
 
 El Director Responsable de Obra, es responsable de que el proyecto de la obra o instalación y los requisitos constructivos cumplan con lo establecido en este Reglamento y demás disposiciones aplicables en la materia.
 
@@ -1656,9 +1824,17 @@ El Director Responsable de Obra, es responsable de que el proyecto de la obra o 
 
 El tiempo de vigencia de la licencia de construcción especial, será como sigue:
 
-I. Hasta por tres meses, para las obras previstas en las fracciones II, III, V, VI, VII y VIII del artículo 57 de este Reglamento, y
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
 
-II. Hasta por un año, en el caso de las fracciones I y IV del artículo 57 de este Reglamento.
+I. Hasta por tres meses, para las obras previstas en las fracciones II, III, V, VI y VII del artículo 57 de este Reglamento;
+
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
+
+II. Hasta por un año, en el caso de la fracción I del artículo 57 de este Reglamento, y;
+
+> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2024)</small>
+
+III. Hasta por dos años en el caso de las fracciones IV y VIII del artículo 57 de este Reglamento.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1671,6 +1847,48 @@ En ningún caso el plazo para realizar obras en la vía pública, podrá exceder
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 Los plazos anteriores surtirán sus efectos a partir de la notificación de la misma.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 60 BIS.- Se deberá presentar Aviso de instalación de Antenas y/o proyecto de antenas ante la Alcaldía a través de la Plataforma Digital, con al menos tres días hábiles previos al inicio de los trabajos, cuando se lleven a cabo los siguientes trabajos:
+
+I. Instalación o sustitución individual o por Proyecto de antenas, soporte y/o equipo adicional de telecomunicaciones inalámbricas o móviles en inmuebles o estructuras distintas a torres de telecomunicaciones, siempre que no exceda por cada antena, soporte y/o equipo adicional en su conjunto, los 300 decímetros cúbicos;
+
+II. Instalación o sustitución individual o por Proyecto de antenas, soporte y/o equipo adicional de telecomunicaciones inalámbricas o móviles o en torres de telecomunicación que cuenten con licencia, siempre que no excedan el peso previsto en el cálculo estructural inicial; y
+
+III. Los demás supuestos que establezcan otras disposiciones legales o administrativas.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 60 TER.- Para la presentación del Aviso de instalación de Antenas y/o proyecto de antenas, la persona interesada deberá presentar la siguiente documentación a través de la Plataforma Digital:
+
+I. Formato de Aviso de instalación de Antenas y/o proyecto de antenas debidamente requisitado a través de la Plataforma Digital;
+
+II. Descripción de despliegue de antenas o proyecto de antenas, según sea el caso;
+
+III. Título de concesión o autorización para instalar, operar o explotar estaciones terrenas para transmitir señales satelitales y/o cualquier otro documento de similar naturaleza otorgado por el Instituto Federal de Telecomunicaciones en el que se manifieste su anuencia o conformidad respecto de la instalación de la infraestructura; y
+
+IV. Documentación en la que se especifiquen las características técnicas de la infraestructura de telecomunicaciones a instalar.
+
+Una vez presentada la documentación a través de la Plataforma Digital, la Alcaldía correspondiente emitirá una Constancia de Aviso de instalación de estaciones de telecomunicación al solicitante, la cual deberá colocarse en un lugar visible donde se ejecute la obra, a fin de que la autoridad pueda realizar una visita de verificación o supervisión, observando lo establecido por los artículos 244 y 245 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 60 QUATER.- La persona interesada en presentar el Aviso de instalación de estaciones de telecomunicación ante la Alcaldía correspondiente a través de la Plataforma Digital, estará obligada a:
+
+I. Mantener en buen estado físico y en condiciones de seguridad las antenas y/o equipo complementario de telecomunicaciones inalámbricas o móviles;
+
+II. Notificar los cambios en el proyecto de despliegue, a la autoridad competente, dentro de las 24 horas de haber determinado la modificación respectiva;
+
+III. Observar las disposiciones técnicas vigentes para límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes en el intervalo de 100 kHz a 300 GHz en el entorno de estaciones de radiocomunicación o fuentes emisoras así como demás normativa aplicable;
+
+IV. Conservar la estética y color de la antena, así como del soporte y equipos complementarios, a fin de mantener la integración de la imagen urbana donde se instalen;
+
+V. Respetar la normativa aplicable a la protección a espacios de interés cultural y bienes afectos al patrimonio cultural, urbano, artístico e histórico;
+
+VI. Respetar la normativa en materia de protección civil, movilidad, medio ambiente, seguridad salud y demás que resulte aplicable; y
+
+VII. Colocar un letrero visible en la antena, que indique que ésta cumple con los niveles máximos permitidos de radiación electromagnética para seres humanos.
 
 ### CAPÍTULO III. DE LAS DISPOSICIONES COMPLEMENTARIAS SOBRE MANIFESTACIONES DE CONSTRUCCIÓN Y LICENCIAS DE CONSTRUCCIÓN ESPECIAL
 
@@ -1722,6 +1940,72 @@ XI. Obras similares a las anteriores cuando no afecten elementos estructurales.
 
 XII. Las obras generadas de los programas del Gobierno Central de la Ciudad de México tendientes al mejoramiento de los barrios, colonias, pueblos y unidades habitacionales con bajo desarrollo social y alta marginalidad en la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Para dar inicio a las obras contempladas en este artículo, bastará con dar aviso a través de la Plataforma Digital, así mismo, en los casos que sea procedente, con el registro del Aviso, quedarán anotados los datos de la obra en el Carnet Digital del Director Responsable de Obra, a fin de dejar constancia de la responsiva otorgada.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 62 BIS.- Los particulares podrán realizar trabajos menores de rehabilitación o mejoras en vías públicas secundarias al frente de la fachada o las fachadas de su vivienda, que contribuyan al mejoramiento de la imagen urbana, el espacio público y el mobiliario urbano e infraestructura vial, debiendo presentar para tal efecto el Aviso Vecinal para trabajos menores, obtenido a través de la Plataforma Digital. Dicho aviso permitirá a los particulares realizar los trabajos siguientes, sujetándose a lo establecido en el artículo 11 del presente Reglamento:
+
+a) Rehabilitación o mejora de jardineras o áreas verdes existentes en banquetas, que no requieran autorización e Impacto Ambiental y que incluyan elementos listados en la paleta vegetal establecida por la autoridad competente de acuerdo con la normatividad, exceptuando trabajos de poda, trasplante o derribo de arbolado y la extracción de cubierta vegetal o suelo;
+
+b) Reparación de la banqueta o guarnición; debiendo conservar las mismas características geométricas y nivel de la rasante que tenían originalmente;
+
+c) Instalación o mantenimiento de luminarias en postes de hasta 3.50 metros de altura a nivel de banqueta; únicamente para la sustitución de lámpara dañada del mismo tipo y características técnicas de la existente, sin modificación en su instalación, cuyos trabajos deberán ser realizados por personal técnico electricista confinando el área de trabajo;
+
+d) Reparación o mantenimiento de rampas de señalamiento de accesibilidad universal;
+
+e) Adecuación de guarnición de banqueta para habilitación de rampa de accesibilidad universal para personas con discapacidad o para entrada de vehículos al inmueble; o
+
+f) Mantenimiento de señalamiento vertical y horizontal.
+
+En cualquiera de los casos, los particulares deberán garantizar que los trabajos sean finalizados en su totalidad, con base en el periodo previamente establecido en el aviso correspondiente.
+
+La persona que hubiere presentado el Aviso Vecinal para trabajos menores deberá efectuar, a su costa y cargo, las reparaciones, restauraciones o mejoras necesarias para mantener el buen estado de la vía pública, derivado de los trabajos menores a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 62 TER.- Durante la realización de los trabajos menores a los que se refiere el artículo anterior, los particulares observarán en todo momento lo siguiente:
+
+I. No podrán obstruir el desplazamiento seguro y continuo de las personas con discapacidad o de los peatones;
+
+II. Deberán cumplir con las especificaciones que establezcan las Leyes federales, locales, Normas, Reglamentos y demás disposiciones aplicables, a fin de garantizar el derecho a la accesibilidad y al entorno físico, en beneficio del interés colectivo;
+
+III. Deberán basar los trabajos menores que realicen en los principios de diseño universal y accesibilidad;
+
+IV. Deberán respetar los bienes de otros particulares, el mobiliario urbano, el medio ambiente y los servicios públicos existentes;
+
+V. Efectuarán los trabajos menores en un horario comprendido entre las 08:00 a las 18:00 horas; y
+
+VI. Las excavaciones para los trabajos menores solamente se podrán realizar en áreas verdes existentes a una profundidad no mayor de 50 cm., y únicamente en área de banquetas se permitirá el despalme de terreno hasta 10 cm., para no afectar instalaciones subterráneas en sitio.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 62 QUATER.- El Aviso Vecinal para trabajos menores deberá presentarse previo a su inicio, por medio de la Plataforma Digital, con la siguiente información:
+
+I. Datos generales de la persona responsable:
+
+a. Nombre(s);
+
+b. Apellidos; y
+
+c. Domicilio en el que se realizarán los trabajos menores.
+
+II. Descripción de trabajos menores;
+
+III. Horario en el que se realizarán los trabajos; y
+
+IV. Fecha de inicio y conclusión de los trabajos.
+
+La Constancia de Aviso Vecinal para trabajos menores contendrá un código QR, deberá imprimirse y colocarse en un lugar visible de la vivienda de la persona que hubiere presentado el Aviso Vecinal para trabajos menores durante la ejecución de los mismos, a fin de que la Alcaldía correspondiente pueda corroborarlo. En caso de que el particular no cuente con la Constancia de Aviso Vecinal para trabajos menores, o bien, no la coloque en un lugar visible de su vivienda, se procederá en términos de los artículos 15 y 16 del presente Reglamento.
+
+En caso de que la actuación del personal de la Alcaldía que acuda a corroborar la presentación del Aviso Vecinal para trabajos menores mediante la constancia correspondiente no se encuentre apegada a los principios de legalidad y honradez, la persona interesada podrá denunciar dicha situación ante la Secretaría de la Contraloría General o el Órgano Interno de Control de la Alcaldía correspondiente por medio de las herramientas tecnológicas que para tales efectos disponga la Secretaría de la Contraloría General.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+ARTÍCULO 62 QUINTUS.- Los particulares que lleven a cabo los trabajos menores a que se refiere el artículo 62 Bis, podrán recibir orientación gratuita por parte de la Alcaldía correspondiente ante cualquier duda sobre los trabajos a realizar.
+
 ###### ARTÍCULO 63.
 
 No procede el registro de manifestación de construcción ni la expedición de la licencia de construcción especial respecto de lotes o fracciones de terrenos que hayan resultado de la fusión, subdivisión o relotificación de predios, efectuados sin autorización de la Administración.
@@ -1772,15 +2056,15 @@ Asimismo, el Aviso de Revalidación debe acompañarse del comprobante de pago de
 
 Las vigencias de las prórrogas se sujetarán a lo dispuesto en los artículos 54 y 60 de este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE MAYO DE 2024)</small>
 
-### CAPÍTULO IV. DE LA OCUPACIÓN, DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS INSTALACIONES EN LAS CONSTRUCCIONES Y DE LA CONSTANCIA DE SEGURIDAD ESTRUCTURAL
+### CAPÍTULO IV. DEL USO Y OCUPACIÓN, DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS INSTALACIONES EN LAS CONSTRUCCIONES Y DE LA CONSTANCIA DE SEGURIDAD ESTRUCTURAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-Los propietarios o poseedores están obligados a dar el aviso de terminación de las obras ejecutadas por escrito a la Alcaldía y/o a la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento. El aviso antes referido deberá ser registrado por la autoridad en la base de datos de Seguimiento de Obras de la Ciudad de México y en el Sistema de Información respectivo, junto con la responsiva del Director Responsable de Obra y de los Corresponsables, en su caso.
+Los propietarios o poseedores están obligados a presentar el Aviso de Terminación de las obras ejecutadas, ante la Alcaldía y/o a la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor a 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento y en su caso, emita la autorización del uso y ocupación de la obra. El aviso antes referido deberá ser ingresado a través de la Plataforma Digital y se registrará por la autoridad competente en la base de datos del Seguimiento de Obras de la Ciudad de México y en el Sistema de Información respectivo, junto con la responsiva del Director Responsable de Obra y de los Corresponsables, en su caso.
 
 > <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
 
@@ -1814,11 +2098,11 @@ Si del resultado de la visita al inmueble y del cotejo de la documentación corr
 
 La Administración está facultada para ordenar la demolición parcial o total de una obra, con cargo al propietario, que se haya ejecutado en contravención a este Reglamento, independientemente de las sanciones que procedan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 68.
 
-El propietario, poseedor o representante legal de una instalación o edificación recién construida o existente, referidas en los artículos 69 y 90 relativas a las edificaciones de riesgo alto, y 139, fracciones I y II, inciso a) de este Reglamento, debe presentar junto con el aviso de terminación de obra, para el caso de obras nuevas, ante la Alcaldía correspondiente, el Visto Bueno de Seguridad y Operación de las Instalaciones de una edificación o instalación, con la responsiva de un Director Responsable de Obra y del Corresponsable en Instalaciones, en su caso.
+El propietario, poseedor o representante legal de una instalación o edificación recién construida o existente, referidas en los artículos 69 y 90 relativas a las edificaciones de riesgo alto, y 139, fracciones I y II, inciso a) de este Reglamento, debe presentar junto con el aviso de terminación de obra, el Visto Bueno de Seguridad y Operación de las Instalaciones, a través de la Plataforma Digital, con la responsiva de un Director Responsable de Obra y del Corresponsable en Instalaciones en su caso, a efecto de que, de ser procedente, la Alcaldía correspondiente o la Secretaría cuando sea su competencia, autorice el Uso y Ocupación del Inmueble.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE ABRIL DE 2021)</small>
 
@@ -1860,11 +2144,11 @@ La renovación del Visto Bueno de Seguridad y Operación de las Instalaciones se
 
 Cuando se realicen cambios en las edificaciones o instalaciones a que se refiere este artículo, antes de que se cumpla el plazo señalado en el párrafo anterior, debe renovarse el Visto Bueno de Seguridad y Operación de las Instalaciones dentro de los 60 días hábiles siguientes al cambio realizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-Se debe registrar ante la Alcaldía correspondiente el Visto Bueno de Seguridad y Operación de las instalaciones de la edificación o instalación con los usos que a continuación se mencionan, que serán suscritos por un Director Responsable de Obra:
+El Visto Bueno de Seguridad y Operación de las Instalaciones suscrito por un Director Responsable de Obra, deberá registrarse ante la Alcaldía correspondiente, mediante la Plataforma Digital, cuando la edificación o instalación tenga alguno de los usos que a continuación se mencionan:
 
 I. Escuelas públicas o privadas y cualquier otra edificación destinadas a la enseñanza;
 
@@ -1886,39 +2170,45 @@ V. Ascensores para personas, montacargas, escaleras mecánicas o cualquier otro 
 
 VI. Edificaciones o locales donde se realicen actividades de algún giro industrial en las que excedan la ocupación de 40 m2; hospitales y clínicas, albercas con iluminación subacuática, estaciones de servicio para el expendio de combustible y carburantes, así como plataformas de aterrizaje y despegue de helicópteros; para estos casos los Vistos Buenos también deberán estar suscritos por un Corresponsable en Instalaciones.
 
-> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
-ARTÍCULO 69 BIS. Para el caso de planteles escolares donde se imparta educación a nivel preescolar, primaria y secundaria, una vez realizado el trámite ante la Alcaldía del Visto Bueno de Seguridad y Operación de las Instalaciones del plantel educativo, el Órgano Político Administrativo deberá registrar la información solicitada en la Plataforma Electrónica “Sistema de Información de Planteles Escolares”, conforme a los Lineamientos que la Agencia Digital de Innovación Pública emita para tal fin.
+ARTÍCULO 69 BIS.- Para el caso de planteles escolares donde se imparta educación a nivel preescolar, primaria y secundaria, una vez realizado el trámite del Visto Bueno de Seguridad y Operación de las Instalaciones del plantel educativo en la Plataforma Digital, el Órgano Político Administrativo deberá registrar la información solicitada en la Plataforma Electrónica “Sistema de Información de Planteles Escolares”, conforme a los Lineamientos que la Agencia Digital de Innovación Pública emita para tal fin.
+
+> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
 La Alcaldía deberá hacer del conocimiento al Instituto Local de la Infraestructura Física Educativa de la Ciudad de México del registro en la plataforma electrónica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-Recibido el aviso de terminación de obra, así como el Visto Bueno de Seguridad y Operación de las Instalaciones y la Constancia de Seguridad Estructural en su caso, se procederá conforme a lo siguiente:
+Recibido el Aviso de Terminación de Obra, así como el Visto Bueno de Seguridad y Operación de las Instalaciones y la Constancia de Seguridad Estructural, en su caso, se procederá conforme a lo siguiente:
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
 
-I. La Administración otorgará la autorización de uso y ocupación, para lo cual el propietario o poseedor se constituirá desde ese momento, en los términos del artículo 68 de este Reglamento, en el responsable de la operación y mantenimiento de la construcción, a fin de satisfacer las condiciones de seguridad e higiene; dicha autorización se otorgará en un plazo de cinco días hábiles contados a partir de que se hubiere presentado el aviso de terminación de obra. Transcurrido dicho plazo sin que exista resolución de la autoridad, procederá la afirmativa ficta, y
+I. La Administración otorgará a través de la Plataforma Digital la Autorización de Uso y Ocupación, para lo cual el propietario o poseedor se constituirá desde ese momento, en los términos del artículo 68 de este Reglamento, en el responsable de la operación y mantenimiento de la construcción, a fin de satisfacer las condiciones de seguridad e higiene; dicha autorización se otorgará en un plazo de cinco días hábiles contados a partir de que se hubiere presentado el aviso de terminación de obra. Transcurrido dicho plazo sin que exista resolución de la autoridad, procederá la afirmativa ficta, y
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
 II. La Administración autorizará diferencias en la obra ejecutada con respecto al proyecto presentado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio, habitabilidad e higiene, se respeten las restricciones indicadas en el certificado único de zonificación de uso de suelo, la constancia de alineamiento y las características de la manifestación de construcción registrada o de la licencia de construcción especial respectiva, y las tolerancias que fijan este Reglamento y sus Normas.
 
-> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 71.
 
-Para las construcciones del grupo A y Subgrupo B1, a que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Alcaldía correspondiente una Constancia de Seguridad Estructural, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción cumple los estados límite de falla y de servicio prescritos en las disposiciones de este Reglamento y sus Normas.
+Para las construcciones del grupo A y Subgrupo B1, a que se refiere el artículo 139 de este Reglamento, se deberá registrar a través de la Plataforma Digital la Constancia de Seguridad Estructural, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción cumple con los estados límite de falla y de servicio, prescritos en las disposiciones de este Reglamento y sus Normas.
+
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
 Si la constancia del Corresponsable determina que la construcción no cumple con los estados límites de falla y de servicio, ésta debe rehabilitarse (reforzarse, repararse, recimentarse, entre otras) o modificarse para satisfacerlas.
 
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
+
 Las Constancias de Seguridad Estructural deben basarse en inspecciones oculares exhaustivas, estudios analíticos y de campo, consideraciones de los daños en la estructura, antigüedad, zona geotécnica, y cualquier información pertinente. Deben incluir los aspectos enunciados en la memoria de cálculo estructural especificada en el artículo 53, fracción I, inciso e) de este Reglamento, con excepción de lo relativo al diseño de elementos estructurales, cimentación y conexiones.
 
-> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-ARTÍCULO 71 BIS.- La renovación de la Constancia de Seguridad Estructural deberá realizarse de manera quinquenal o después de un sismo que rebase los 90 cm/s2 de aceleración en el terreno registrada en la “estación acelerométrica SCT” de la red acelerográfica de la Universidad Nacional Autónoma de México, ubicada en zona geotécnica III de la Ciudad de México o cuando lo determine la Administración. Para los dos últimos supuestos la Administración, a través de la Secretaría de Gestión Integral de Riesgos y Protección Civil, y en ausencia, la Secretaría de Obras y Servicios o el Instituto para la Seguridad de las Construcciones, hará pública a través de la Gaceta Oficial de la Ciudad de México la obligación de renovar la Constancia. Para el caso de edificaciones escolares, se deberá atender lo prescrito en el Artículo 71 QUATER, y para las demás construcciones del Grupo A y Subgrupo B1, lo prescrito en el Artículo 71 TER.
+ARTÍCULO 71 BIS.- La renovación de la Constancia de Seguridad Estructural deberá realizarse mediante la Plataforma Digital de manera quinquenal o después de un sismo que rebase los 90 cm/s2 de aceleración en el terreno registrada (sic) en la “estación acelerométrica SCT” de la red acelerográfica de la Universidad Nacional Autónoma de México, ubicada en zona geotécnica III de la Ciudad de México o cuando lo determine la Administración. Para los dos últimos supuestos la Administración, a través de la Secretaría de Gestión Integral de Riesgos y Protección Civil, y en ausencia, la Secretaría de Obras y Servicios o el Instituto para la Seguridad de las Construcciones, hará pública a través de la Gaceta Oficial de la Ciudad de México la obligación de renovar la Constancia. Para el caso de edificaciones escolares, se deberá atender lo prescrito en el Artículo 71 QUATER, y para las demás construcciones del Grupo A y Subgrupo B1, lo prescrito en el Artículo 71 TER.
 
 > <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
 
@@ -1948,9 +2238,9 @@ En edificaciones en las que no sean aplicables para la evaluación de los daños
 
 ARTÍCULO 71 QUATER.- Para el caso de planteles escolares donde se imparta educación a nivel inicial, preescolar, primaria, secundaria, media, media superior y superior, para emitir la Constancia de Seguridad Estructural se deberán aplicar los Lineamientos Técnicos para la Revisión de la Seguridad Estructural de Planteles Educativos en la Ciudad de México después de un Sismo, vigentes. En caso de daño, producido por un sismo o cualquier otra acción, se seguirá lo prescrito en el Artículo 177 Bis de este Reglamento. Si la revisión de la Seguridad Estructural a cargo del Corresponsable, determina que la construcción se encuentra en los supuestos de las Secciones 2.3.3.3 y 2.3.3.4 de las Normas de Rehabilitación, ésta debe ser desocupada y rehabilitada en un plazo no mayor que 12 meses.
 
-> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
-Tratándose de los niveles preescolar, primaria y secundaria, una vez realizado el trámite ante la Alcaldía de la Constancia de Seguridad Estructural del plantel educativo, el Órgano Político Administrativo deberá registrar la información solicitada en la Plataforma Electrónica “Sistema de Información de Planteles Escolares”, conforme a los Lineamientos que la Agencia Digital de Innovación Pública emita para tal fin.
+Tratándose de los niveles preescolar, primaria y secundaria, una vez realizado el trámite mediante la Plataforma Digital de la Constancia de Seguridad Estructural del plantel educativo, el Órgano Político Administrativo deberá registrar la información solicitada en la Plataforma Electrónica “Sistema de Información de Planteles Escolares”, conforme a los Lineamientos que la Agencia Digital de Innovación Pública emita para tal fin.
 
 > <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
@@ -1962,7 +2252,9 @@ La Alcaldía deberá hacer del conocimiento al Instituto Local de la Infraestruc
 
 Cuando la obra se haya ejecutado sin registro de manifestación de construcción o licencia de construcción especial, y se demuestre que cumple con este Reglamento y los demás ordenamientos legales respectivos, así como con las disposiciones de los Programas, la Administración concederá el registro de obra ejecutada al Propietario o Poseedor, siempre y cuando se sujete al siguiente procedimiento:
 
-I. Presentar solicitud de registro de obra ejecutada, con la responsiva de un Director Responsable de Obra y de los Corresponsables, en su caso, y
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
+
+I. Presentar mediante la Plataforma Digital solicitud de registro de obra ejecutada, con la responsiva de un Director Responsable de Obra y de los Corresponsables, en su caso, y
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1972,19 +2264,19 @@ II. Acompañar la solicitud con los documentos siguientes: constancia de alineam
 
 Recibida la documentación, la Administración procederá a su revisión y practicará una visita a la obra de que se trate, para constatar que cumple con los requisitos legales aplicables y se ajusta a los documentos exhibidos con la solicitud de registro de obra ejecutada. La Administración autorizará su registro, previo pago de los derechos y las sanciones que se establecen, respectivamente, en el Código Fiscal del Distrito Federal y este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 73.
 
-Para modificar el uso de edificaciones para ser destinadas a alguno de los supuestos señalados en los artículos 69, fracciones I, II y VI; 90, referentes a las edificaciones de riesgo alto, y 139 fracciones I y II, inciso a) de este Reglamento, el propietario o poseedor debe presentar ante la Administración los siguientes documentos:
+Para modificar el uso de edificaciones para ser destinadas a alguno de los supuestos señalados en los artículos 69, fracciones I, II y VI; 90, referentes a las edificaciones de riesgo alto, y 139 fracciones I y II, inciso a) de este Reglamento, el propietario o poseedor debe ingresar ante la Administración a través de la Plataforma Digital los siguientes documentos:
 
 > <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
 I. El Visto Bueno de Seguridad y Operación de las Instalaciones;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 8 DE MAYO DE 2024)</small>
 
-II. La constancia de alineamiento y número oficial vigente y cualesquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico o certificado único de zonificación del suelo digital o certificado de acreditación de uso del suelo por derechos adquiridos o, en su caso, dictamen favorable de impacto urbano o impacto urbano-ambiental;
+II. La constancia de alineamiento y número oficial vigente y cualesquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico o certificado de acreditación de uso del suelo por derechos adquiridos o, en su caso, dictamen favorable de impacto urbano o impacto urbano-ambiental;
 
 III. La licencia de construcción especial o el registro de manifestación de construcción, y
 
@@ -2024,11 +2316,29 @@ La separación de edificios nuevos o que han sufrido modificaciones o ampliacion
 
 La separación entre edificaciones dentro del mismo predio será cuando menos la que resulte de aplicar lo dispuesto en los artículos 87, 88 y 166 de este Reglamento y sus Normas.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 79.
 
-Las edificaciones deberán contar con estacionamiento de vehículos y/o bicicletas y/o motocicletas, incluyendo aquellos exclusivos para personas con discapacidad, acordes con la funcionalidad y lo establecido en la Norma Técnica Complementaria para el Proyecto Arquitectónico, en materia de estacionamientos de vehículos.
+Las edificaciones deberán contar con estacionamientos para automóviles, y/o bicicletas y/o motocicletas. Se dispondrá de cajones exclusivos para personas con discapacidad.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Los establecimientos de centros y plazas comerciales deberán destinar cajones de estacionamiento al interior de su inmueble para ser utilizados exclusiva y gratuitamente por bicicletas y/o motocicletas de personas que prestan servicios de reparto y/o entrega de productos o mercancías a través de plataformas digitales.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 8 DE MAYO DE 2024)</small>
+
+La zona donde se habiliten los cajones de estacionamiento referidos en el párrafo anterior, deberán contar al menos con:
+
+I. Conexión a la red WiFi del centro o plaza comercial para el funcionamiento de aplicaciones, cuando la zona no cuente con cobertura celular;
+
+II. Señalética que permita la fácil identificación de la zona por parte de las personas repartidoras; y
+
+III. Un espacio para el resguardo de cascos y/o mochilas de reparto, en condiciones de seguridad e higiene.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Los cajones de estacionamiento para personas que prestan servicios a través de plataformas digitales para reparto y entrega de productos o mercancías, deberán estar ubicados en zonas que permitan su fácil acceso a los centros y plazas comerciales.
 
 ### CAPÍTULO II. DE LA HABITABILIDAD, ACCESIBILIDAD Y FUNCIONAMIENTO
 
@@ -2760,9 +3070,11 @@ Toda edificación se soportará por medio de una cimentación que cumpla con los
 
 Las edificaciones no podrán en ningún caso desplantarse sobre tierra vegetal, suelos o rellenos sueltos o desechos. Sólo será aceptable cimentar sobre terreno natural firme o rellenos artificiales que no incluyan materiales degradables y hayan sido adecuadamente compactados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 170.
 
-Para fines de este Título, el Distrito Federal se divide en tres zonas con las siguientes características generales:
+Para fines de este Título, la Ciudad de México se divide en tres zonas con las siguientes características generales:
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -2770,7 +3082,9 @@ Zona I. Lomas, formadas por rocas o suelos generalmente firmes que fueron deposi
 
 Zona II. Transición, en la que los depósitos profundos se encuentran a 20 m de profundidad, o menos, y que está constituida predominantemente por estratos arenosos y limoarenosos intercalados con capas de arcilla lacustre, el espesor de éstas es variable entre decenas de centímetros y pocos metros, y
 
-Zona III. Lacustre, integrada por potentes depósitos de arcilla altamente comprensible, separados por capas arenosos (sic) con contenido diverso de limo o arcilla. Estas capas arenosas son de consistencia firme a muy dura y de espesores variables de centímetros a varios metros. Los depósitos lacustres suelen estar cubiertos superficialmente por suelos aluviales y rellenos artificiales; el espesor de este conjunto puede ser superior a 50 m.
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2024)</small>
+
+Zona III. Lacustre, integrada por potentes depósitos de arcilla altamente compresible, separados por capas arenosos (sic) con contenido diverso de limo o arcilla. Estas capas arenosas son de consistencia firme a muy dura y de espesores variables de centímetros a varios metros. Los depósitos lacustres suelen estar cubiertos superficialmente por suelos aluviales y rellenos artificiales; el espesor de este conjunto puede ser superior a 50 m.
 
 La zona a que corresponda un predio se determinará a partir de las investigaciones que se realicen en el subsuelo del predio objeto de estudio, tal como se establecen en las Normas. En caso de edificaciones ligeras o medianas, cuyas características se definan en dichas Normas, podrá determinarse la zona mediante el mapa incluido en las mismas, si el predio está dentro de la porción zonificada; los predios ubicados a menos de 200 m de las fronteras entre dos de las zonas antes descritas se supondrán ubicados en la más desfavorable.
 
@@ -3997,3 +4311,19 @@ G.O. 22 DE ABRIL DE 2022.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 8 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL A FIN DE HOMOLOGAR LAS MODIFICACIONES RELACIONADAS CON LA PLATAFORMA DIGITAL DE TRÁMITES DEL GOBIERNO DE LA CIUDAD DE MÉXICO, ASÍ COMO PARA REALIZAR TRABAJOS MENORES DE REHABILITACIÓN O MEJORAS EN LAS VÍAS PÚBLICAS SECUNDARIAS, INSTALACIÓN DE INFRAESTRUCTURA PARA LA PRESTACIÓN DE SERVICIOS DE TELECOMUNICACIONES Y LA HABILITACIÓN DE CAJONES DE ESTACIONAMIENTO PARA PERSONAS QUE PRESTAN SERVICIOS A TRAVÉS DE PLATAFORMAS DIGITALES PARA REPARTO Y ENTREGA DE PRODUCTOS O MERCANCÍAS".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Agencia Digital de Innovación Pública tendrá un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto para desarrollar la Plataforma Digital referida en el mismo, mediante la cual, se realizará la gestión de todos los trámites que menciona dicho Decreto. Las Alcaldías tendrán 45 días hábiles a partir de la entrada en vigor del presente Decreto para que realicen las modificaciones que resulten pertinentes en sus Manuales Administrativos a fin de operar la citada Plataforma Digital.
+
+En tanto no se ponga en operación la Plataforma en mención, se continuará con la presentación de los trámites, en los términos que se han venido realizando a la fecha del presente Decreto.
+
+CUARTO.- La Agencia Digital de Innovación Pública tendrá un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto para desarrollar el Sistema de Carnet Digital de los Directores Responsables de Obra y Corresponsables a que refiere el presente Reglamento, a través del cual se llevará el control de las responsivas que otorguen y que se registren mediante la Plataforma Digital. Entretanto, el Carnet se expedirá, refrendará y resellará físicamente, en la forma en la que hasta ahora se realiza, sin embargo, ya no será necesario que la Autoridad anote los datos de las obras en el Carnet físico, en virtud de que dicho registro quedará efectuado mediante la Plataforma Digital y quedará disponible para la consulta de las Autoridades competentes para los efectos de supervisión y control que les competan. Asimismo, toda referencia al Carnet, deberá entenderse como Carnet Digital.
+
+QUINTO.- Las modificaciones que corresponden a cada trámite referido en el artículo 5 Bis, entrarán en vigor para cada uno de ellos, una vez que comiencen a operar dentro de la Plataforma Digital prevista en el presente Decreto. Las Alcaldías deberán llevar a cabo los trámites digitales conforme a los Lineamientos de operación de dicha Plataforma Digital y su Manual de Usuario, que al efecto emita la Agencia Digital de Innovación Pública.
