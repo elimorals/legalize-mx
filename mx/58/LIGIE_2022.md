@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2024-04-22"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -63222,7 +63222,7 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 18 DE NOVIEMBRE DE 2022.
 
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 6 DE ENERO DE 2023.
 
-> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS".]</small>
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS”.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
 
@@ -63232,7 +63232,7 @@ Segundo. Se abroga el Decreto por el que se exenta el pago de arancel de importa
 
 Las menciones que se hagan en reglas de carácter general y demás disposiciones administrativas al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, se entenderán hechas al presente decreto.
 
-Tercero. El registro en el "Padrón de Importadores de Productos de la Canasta Básica" de las Empresas Importadoras de Productos de la Canasta Básica, conforme al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, publicado en el Diario Oficial de la Federación el 19 de octubre de 2022, será válido y mantendrá su vigencia en los términos del presente decreto.
+Tercero. El registro en el "Padrón de Importadores de Productos de la Canasta Básica” de las Empresas Importadoras de Productos de la Canasta Básica, conforme al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, publicado en el Diario Oficial de la Federación el 19 de octubre de 2022, será válido y mantendrá su vigencia en los términos del presente decreto.
 
 Las Empresas Importadoras de Productos de la Canasta Básica, a las que se refiere el párrafo anterior, podrán solicitar por escrito ante el Servicio de Administración Tributaria la adición de fracciones arancelarias a su registro, siempre y cuando cumplan con las disposiciones del presente decreto.
 
@@ -63291,3 +63291,9 @@ I. En el programa de la industria eléctrica, las fracciones arancelarias 7208.3
 II. En el programa de la industria electrónica, la fracción arancelaria 7225.19.99, únicamente para los efectos de la fracción II, inciso b), del artículo 5 del decreto a que se refiere este transitorio, y
 
 III. En los programas de las industrias automotriz y de autopartes, las fracciones arancelarias 7208.26.01, 7208.27.01, 7209.16.01, 7209.17.01, 7211.29.99, 7225.30.91 y 7225.40.91.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 8 DE MAYO DE 2024.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE REFORMAN EL DIVERSO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, Y EL DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS”.]</small>
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
