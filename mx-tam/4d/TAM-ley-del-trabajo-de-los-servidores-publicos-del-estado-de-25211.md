@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2024-03-20"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -478,6 +478,12 @@ XIX.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos e
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
 
 Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2024)</small>
+
+XIX Bis.- Otorgar permiso con goce de sueldo a las personas trabajadoras que requieran acompañar a un familiar directo o colateral mayor de 60 años, a cita, tratamiento médico u hospitalización, por periodos de uno, tres y hasta cinco días laborales, respectivamente.
+
+La persona trabajadora dispondrá de 15 días hábiles para presentar la comprobación emitida por la institución médica que acredite la necesidad del cuidado y/o atención personal del familiar adulto mayor;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
@@ -1922,3 +1928,11 @@ Las autoridades competentes contarán con un plazo máximo de 90 días a partir 
 ###### ARTÍCULO TERCERO.
 
 El Gobierno del Estado contará con un plazo máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, para la implementación del equipo e instrumentos en sus centros de trabajo que refiere el artículo 33, fracción XXIII.
+
+P.O. 8 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-844 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XIX BIS AL ARTÍCULO 33 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
