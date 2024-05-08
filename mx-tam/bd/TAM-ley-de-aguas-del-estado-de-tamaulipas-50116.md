@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2024-03-07"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 7 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -1167,9 +1165,15 @@ XIX. Realizar las actividades que se requieran para lograr que el organismo pres
 
 XX. Nombrar y remover al personal del organismo, debiendo informar al Consejo de Administración en su siguiente sesión;
 
-XXI. Someter a la aprobación del Consejo de Administración, el proyecto de Estatuto Orgánico del organismo y sus modificaciones; así como los manuales de organización y de procedimientos; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2024)</small>
 
-XXII. Las demás que le señalen el Consejo de Administración, esta ley, sus reglamentos y el Estatuto Orgánico.
+XXI. Someter a la aprobación del Consejo de Administración, el proyecto de Estatuto Orgánico del organismo y sus modificaciones; así como los manuales de organización y de procedimientos;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2024)</small>
+
+XXII. Certificar documentos físicos y digitales generados por el organismo, así como los que obren en expedientes instruidos o integrados en el ejercicio de sus facultades, incluida la certificación de archivos digitales que se almacenen en dispositivos electrónicos, así como de la información relativa que ampare la contabilidad gubernamental y los expedientes con motivo de los informes de la cuenta pública; y
+
+XXIII. Las demás que le señalen el Consejo de Administración, esta ley, sus reglamentos y el Estatuto Orgánico.
 
 ###### Artículo 35.
 
@@ -3419,4 +3423,12 @@ La Secretaría de Finanzas deberá realizar las adecuaciones administrativas nec
 
 Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
 
+P.O. 8 DE MAYO DE 2024.
+
 ## [N. DE E. TRANSITORIOS DEL ”DECRETO NO. 65-813 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-843 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI, Y SE ADICIONA UNA FRACCIÓN XXII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL PARA SER XXIII, DEL ARTÍCULO 34, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
