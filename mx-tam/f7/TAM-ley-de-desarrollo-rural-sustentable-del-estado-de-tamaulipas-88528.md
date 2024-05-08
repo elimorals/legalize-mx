@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2017-12-15"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -175,7 +175,9 @@ XXIV. Productos Estratégicos: Los productos agropecuarios cuyo proceso producti
 
 XXV. Relevo generacional: proceso gradual y progresivo para transferir experiencias, conocimientos y desarrollar capacidades a los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales a fin de contribuir a la seguridad y soberanía alimentaria, la sustentabilidad ambiental, la productividad y competitividad y, en general, al desarrollo rural sustentable;
 
-XXVI. Secretaría: La Secretaría de Desarrollo Rural del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2024)</small>
+
+XXVI. Secretaría: La Secretaría de Desarrollo Rural, Pesca y Acuacultura;
 
 XXVII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población;
 
@@ -335,11 +337,15 @@ XVI. Otorgar los recursos necesarios para el funcionamiento de los Consejos Esta
 
 XVII. Coadyuvar con las autoridades competentes en la política hidroagrícola del sector rural;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2024)</small>
 
-XVIII. Impulsar la organización social y productiva de las mujeres del campo; y,
+XVIII. Impulsar la organización social y productiva de las mujeres del campo;
 
-XIX. Las demás que le confieran la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2024)</small>
+
+XIX. Fomentar y difundir, entre el sector rural, estrategias para crear puntos de venta itinerantes rurales en las urbes de la entidad, con el fin de que se propicie el comercio sin intermediarios entre productores y consumidores, e idear mecanismos de organización, certificación e integración formal de los participantes; y
+
+XX. Las demás que le confieran la normatividad aplicable.
 
 ###### ARTÍCULO 11.
 
@@ -349,7 +355,9 @@ Se crea la Comisión Estatal Intersecretarial para el Desarrollo Rural Sustentab
 
 1. La Comisión Estatal estará integrada por los Titulares de las siguientes dependencias de la administración pública estatal:
 
-I. Secretaría de Desarrollo Rural, quien la presidirá;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2024)</small>
+
+I. Secretaría de Desarrollo Rural, Pesca y Acuacultura, quien la presidirá;
 
 II. Secretaría de Finanzas;
 
@@ -1612,6 +1620,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-841 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
