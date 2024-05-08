@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-servicios-1680
 country: "mx"
 rank: "codigo"
 publication_date: "2023-10-02"
-last_updated: "2023-10-02"
+last_updated: "2024-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE SERVICIOS DE AGUA Y DRENAJE DE MONTERREY, I.P.D., NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE SERVICIOS DE AGUA Y DRENAJE DE MONTERREY, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE SERVICIOS DE AGUA Y DRENAJE DE MONTERREY, I.P.D.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de Octubre de 2023.
 
@@ -420,3 +422,15 @@ Director General
 ANEXO “A”
 
 > <small>[N. DE E. VÉASE ANEXO A EN EL P.O. DE 2 DE OCTUBRE DE 2023, PÁGINAS DE LA 13 A LA 21.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE SERVICIOS DE AGUA Y DRENAJE DE MONTERREY”.]
+
+PRIMERO: Quedan sin efectos aquellas disposiciones que se opongan al presente Código.
+
+SEGUNDO: El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León, a partir de la cual, adquirirá obligatoriedad y posterior a ello, deberá ser difundido en la página oficial de Internet con la finalidad de hacerlo del conocimiento de las personas servidoras públicas de Servicios de Agua y Drenaje de Monterrey, I.P.D.
+
+TERCERO: Se abroga el Código de Conducta publicado el 02 de octubre del 2023 en el Periódico Oficial del Estado de Nuevo León.
