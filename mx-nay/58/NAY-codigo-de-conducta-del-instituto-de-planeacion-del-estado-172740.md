@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-conducta-del-instituto-de-planeacion-del-estado-17274
 country: "mx"
 rank: "codigo"
 publication_date: "2024-04-11"
-last_updated: "2024-04-11"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "NAY"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE PLANEACION DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 8 DE MAYO DE 2024.]</small>
 
 Código publicado en la Sección Cuarta del Número 70 del Periódico Oficial del Estado de Nayarit, el jueves 11 de abril de 2024.
 
@@ -352,6 +352,8 @@ VOCACIÓN: Inclinación a un estado, una profesión o una carrera.
 
 10. AUTORIZACIÓN
 
-En cumplimiento a los artículos 52 de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit; 11, 17 de la Ley de Planeación del Estado de Nayarit; ; 25 y 26 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Nayarit; 34 fracción II de los Lineamientos Generales para la Integración, Organización y Funcionamiento de los Comités de Ética del Gobierno del Estado de Nayarit y 32 fracción VII del Reglamento Interior del Instituto de Planeación se elaboró el presente Código de Conducta, para su debida observancia; aprobándose por la Junta de Gobierno del Instituto de Planeación de Nayarit en la ___ sesión _____ del presente ejercicio, celebrada el _____ de ____ de 2023.
+> <small>(F. DE E., P.O. 8 DE MAYO DE 2024)</small>
+
+En cumplimiento a los artículos 52 de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit; 11, 17 de la Ley de Planeación del Estado de Nayarit; ; 25 y 26 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Nayarit; 34 fracción II de los Lineamientos Generales para la Integración, Organización y Funcionamiento de los Comités de Ética del Gobierno del Estado de Nayarit y 32 fracción VII del Reglamento Interior del Instituto de Planeación se elaboró el presente Código de Conducta, para su debida observancia; aprobándose por la Junta de Gobierno del Instituto de Planeación de Nayarit en la Segunda Sesión Ordinaria de la Junta de Gobierno del presente ejercicio, celebrada el martes 30 de mayo de 2023.
 
 ATENTAMENTE: LCDA. KARLA PATRICIA AGUILAR SÁNCHEZ, REPRESENTANTE DEL GOBERNADOR DEL ESTADO.- Rúbrica.- M.D.O. ANA GEORGINA GUILLEN SOLIS, PRESIDENTA DE LA JUNTA DE GOBIERNO.- Rúbrica.- LIC. PATRICIA VILLALOBOS ARÁMBULA, VOCAL.- Rúbrica.- ING. JUAN JOSÉ GONZÁLEZ RIVERA, VOCAL.- Rúbrica.- ARQ. JUAN JOSÉ ALBERTO TOPETE RIVAS, VOCAL.- Rúbrica.- LIC. JOSÉ DE JESÚS HERNÁNDEZ PRECIADO, VOCAL.- Rúbrica.- REPRESENTANTES DEL GOBIERNO DEL ESTADO: M.C. CECILIA MARGARITA GUZMÁN HERNÁNDEZ, VOCAL.- Rúbrica.- M.C. CESAR OCTAVIO LARA FONSECA, SECRETARIO DE DESARROLLO SUSTENTABLE.- Rúbrica.- L.C.P.C. Y M.I. MARÍA ISABEL ESTRADA JIMÉNEZ, SECRETARIA PARA LA HONESTIDAD Y BUENA GOBERNANZA.- Rúbrica.- M.F. JULIO CÉSAR LÓPEZ RUELAS, SECRETARIO DE ADMINISTRACIÓN Y FINANZAS.- Rúbrica.- ING. GILBERTO OSCAR CASILLAS BARAJAS, SECRETARIO DE DESARROLLO RURAL.- Rúbrica.
