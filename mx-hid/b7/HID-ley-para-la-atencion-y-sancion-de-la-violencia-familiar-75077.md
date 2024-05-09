@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-y-sancion-de-la-violencia-familiar-75077"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2022-10-21"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -83,11 +83,17 @@ VIII.- Celotipia.- Es el conjunto de emociones que se traducen en una conducta d
 
 IX.- Generador de Violencia Familiar.- Persona que inflige cualquier tipo de violencia en contra de la familia o alguno de sus miembros;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-X.- Receptores de Violencia Familiar.- Los individuos que viven la violencia física, verbal, psicoemocional, vicaria, sexual, patrimonial o económica; y
+X.- Receptores de Violencia Familiar.- Los individuos que viven la violencia física, verbal, psicoemocional, vicaria, sexual, patrimonial, económica o por alienación parental;
 
-XI.- Parentesco.- Vínculo jurídico que une a una persona con el resto de la familia, reconociéndose al efecto el parentesco por consanguinidad, afinidad o civil.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+XI.- Parentesco.- Vínculo jurídico que une a una persona con el resto de la familia, reconociéndose al efecto el parentesco por consanguinidad, afinidad o civil, y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+XII. - Alienación Parental.- Todo acto de manipulación, inducción o engaño ejercido por uno de los progenitores con la intención de producir en su hija o hijo menor de edad, rencor, odio, miedo o desprecio en contra del otro progenitor; (sic)
 
 ###### ARTÍCULO 4.
 
@@ -484,3 +490,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 253 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 868 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
