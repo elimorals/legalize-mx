@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-05-03"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -427,11 +427,11 @@ ARTÍCULO 27 TER.- Los Ayuntamientos incentivarán la participación ciudadana e
 
 Los Ayuntamientos expedirán las normas reglamentarias que establezcan las formas y procedimientos que garanticen el acceso a los instrumentos de participación ciudadana, que contribuyan al mejoramiento del quehacer municipal con la finalidad de que se atiendan eficazmente las necesidades de la población, y, que al mismo tiempo, les permita expresar su aprobación o rechazo a los actos del Ayuntamiento y la Administración Pública Municipal, respecto de los Bandos, reglamentos, circulares y cualquier disposición administrativa de observancia general.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2024)</small>
 
-ARTÍCULO 28 BIS.- El Ayuntamiento podrá establecer un Observatorio Ciudadano para conocer, analizar, dar seguimiento, en su caso evaluar y emitir opinión respecto de las políticas públicas y de interés de la población. Su creación y funcionamiento se sujetará a la normatividad que expida el Ayuntamiento.
+ARTÍCULO 28 BIS.- El Ayuntamiento podrá establecer un Observatorio Ciudadano para conocer, analizar, dar seguimiento, en su caso evaluar y emitir opinión respecto de las políticas públicas y de interés de la población, con enfoque de derechos humanos y perspectiva de género. Su creación y funcionamiento se sujetará a la normatividad que expida el Ayuntamiento.
 
-Quienes integren el Observatorio Ciudadano desempeñarán sus actividades de manera honorífica.
+Quienes integren el Observatorio Ciudadano desempeñarán sus actividades de manera honorífica, respetando la paridad de género, la interculturalidad y fomentando la presencia de personas jóvenes.
 
 ## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
@@ -1789,11 +1789,11 @@ Cuando el Congreso del Estado, tenga conocimiento de la existencia de la situaci
 
 ### CAPÍTULO PRIMERO. DE LOS ÓRGANOS AUXILIARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 80.
 
-Los Ayuntamientos podrán contar con Delegados y Subdelegados, como órganos auxiliares, de conformidad con el reglamento que expidan y en el que señalen los requisitos, observando el principio de igualdad de género; para tal efecto, se requiere ser vecino de la comunidad, saber leer y escribir, tener como mínimo dieciocho años de edad cumplidos al día de su elección, no haber sido condenado por delito doloso, no ser ministro de ningún culto religioso y tener un modo honesto de vivir.
+Los Ayuntamientos podrán contar con Delegados y Subdelegados, como órganos auxiliares, de conformidad con el reglamento que expidan y en el que señalen los requisitos, observando los principios de igualdad y alternancia de género; para tal efecto, se requiere ser vecino de la comunidad, saber leer y escribir, tener como mínimo dieciocho años de edad cumplidos al día de su elección, no haber sido condenado por delito doloso, no ser ministro de ningún culto religioso y tener un modo honesto de vivir.
 
 Los Ayuntamientos, en ejercicio de su facultad reglamentaria podrán establecer:
 
@@ -1807,7 +1807,9 @@ IV.- Los casos de nulidad o de invalidez de las elecciones;
 
 V.- Los medios de impugnación; y
 
-VI.- El tiempo que durarán en su encargo, el cual no será mayor de un año, con derecho a ratificación por una sola ocasión.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+VI.- El tiempo que durarán en su encargo, el cual no será mayor de un año, con derecho a ratificación por una sola ocasión. Concluido este periodo las delegaciones deberán alternar el género de su titular.
 
 Asimismo, establecerán las causas de remoción por causa justificada, del Delegado y Subdelegado, respetando la garantía de audiencia.
 
@@ -4622,3 +4624,17 @@ P.O. 3 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 860 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 867 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 80 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 875 POR EL QUE SE REFORMA EL ARTÍCULO 28 BIS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
