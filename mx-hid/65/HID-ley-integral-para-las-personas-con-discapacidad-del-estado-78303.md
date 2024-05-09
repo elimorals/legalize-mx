@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-05-03"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -695,13 +695,17 @@ V.- Las instalaciones de trasporte público deberán contar con accesibilidad, o
 
 VI.- La creación de mecanismos de fiscalización y sanción que procedan por el incumplimiento de las medidas descritas con anterioridad;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-VII.- Se promueva el otorgamiento de estímulos fiscales a concesionarios y permisionarios del servicio público del transporte que den cumplimiento a las fracciones anteriores; y
+VII.- Se promueva el otorgamiento de estímulos fiscales a concesionarios y permisionarios del servicio público del transporte que den cumplimiento a las fracciones anteriores;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-VIII.- De manera progresiva, se elaboren y ejecuten programas y acciones de instalación o actualización de semáforos peatonales sonoros, a efecto de garantizar el derecho a la movilidad de las personas con discapacidad.
+VIII.- De manera progresiva, se elaboren y ejecuten programas y acciones de instalación o actualización de semáforos peatonales sonoros, a efecto de garantizar el derecho a la movilidad de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+IX.- Procurar y vigilar que las personas en situación de discapacidad cuenten con cajones de estacionamiento reservados para su uso en todos los estacionamientos de la entidad, así como del correcto uso de éstos.
 
 ###### Artículo 65.
 
@@ -1272,5 +1276,11 @@ P.O. 19 DE ENERO DE 2024.
 P.O. 3 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 863 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 870 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 64 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
