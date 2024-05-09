@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2024-01-19"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -293,7 +293,9 @@ VII. Contar con un tratamiento psicológico según sean las circunstancias y las
 
 Las y los alumnos de una institución educativa tienen derecho a:
 
-I. Que se respete su integridad física y emocional, su intimidad, su privacidad, las diferencias por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales y evitar cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los miembros de la comunidad educativa;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+I. Que se respete su integridad física y emocional, su intimidad, su privacidad, las diferencias por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las características sexuales, la orientación sexual, la identidad o la expresión de género, y a que se evite cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los miembros de la comunidad educativa;
 
 II. No ser excluidos del grupo educativo;
 
@@ -1038,5 +1040,11 @@ P.O. 18 DE AGOSTO DE 2023.
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 616 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 872 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5 QUATER DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
