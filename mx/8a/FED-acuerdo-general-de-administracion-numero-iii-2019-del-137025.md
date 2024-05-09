@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-iii-2019-del-137025"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-06-25"
-last_updated: "2019-06-25"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137025&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-06-18"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECEN LAS REGLAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO DE ESTUDIOS CONSTITUCIONALES DE ESTE ALTO TRIBUNAL.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2024.
 
 Acuerdo publicado en la Primera Sección al Número 19 del Diario Oficial de la Federación, el martes 25 de junio de 2019.
 
@@ -141,7 +141,9 @@ VII. Las demás que se establecen en las disposiciones jurídicas aplicables.
 
 El Comité Consultivo del Centro fungirá como un órgano consultivo y de apoyo a las funciones sustantivas del Centro de Estudios Constitucionales.
 
-El Comité Consultivo del Centro de Estudios Constitucionales sesionará una vez cada dos meses, y sus decisiones se tomarán por mayoría simple de votos. El Comité Consultivo designará a un Secretario, quien lo auxiliará en sus funciones.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2024, D.O.F. 9 DE MAYO DE 2024)</small>
+
+El Comité Consultivo del Centro de Estudios Constitucionales sesionará una vez cada seis meses, y sus decisiones se tomarán por mayoría simple de votos. El Comité Consultivo designará a un Secretario, quien lo auxiliará en sus funciones.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -206,3 +208,17 @@ TERCERO. Publíquese el presente Acuerdo General en el Semanario Judicial de la 
 Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Presidente de la Suprema Corte de Justicia de la Nación, el día catorce de junio de dos mil diecinueve, ante el Director General de Asuntos Jurídicos que da fe.- Rúbricas.
 
 EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 9, FRACCIÓN X, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECEN LAS REGLAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO DE ESTUDIOS CONSTITUCIONALES DE ESTE ALTO TRIBUNAL”, constante de dieciocho fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General. Ciudad de México, dieciocho de junio de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2024, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE ABRIL DE DOS MIL VEINTICUATRO, QUE REFORMA AL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECEN LAS REGLAS DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO DE ESTUDIOS CONSTITUCIONALES DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración número III/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de catorce de junio de dos mil diecinueve, por el que se establecen las reglas de organización y funcionamiento del Centro de Estudios Constitucionales de este Alto Tribunal, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha integración deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
