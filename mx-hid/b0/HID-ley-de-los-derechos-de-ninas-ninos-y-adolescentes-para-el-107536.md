@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-04-22"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -126,6 +126,10 @@ VI. Certificado de Idoneidad: El documento expedido por el Sistema DIF Hidalgo o
 VII. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
 VIII. Consejo Técnico de Adopciones: Órgano Colegiado del Sistema para el Desarrollo Integral de la Familia del Estado, cuyo objetivo es coadyuvar con la transparencia del procedimiento de adopción;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+VIII Bis. Cultura de la Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
 
 IX. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
@@ -514,6 +518,10 @@ Las autoridades estatales y/o municipales, en el ámbito de sus respectivas comp
 ###### Artículo 23.
 
 Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2024)</small>
+
+Quien ejerza la patria potestad, tutela, guarda o custodia deberá procurar el derecho de la niña, niño o adolescente a vivir en familia, por lo que promoverá el acercamiento, respeto y adecuada convivencia con ambos ascendientes, y deberá evitar cualquier acto de alienación parental, entendida esta como todo acto de manipulación encaminado a producir en el menor rechazo, rencor, odio, miedo o desprecio en contra de alguno de los progenitores.
 
 Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario al interés superior de la niñez.
 
@@ -1231,9 +1239,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, así como fomentar hábitos dirigidos a la protección y conservación del mismo; al uso racional del agua y al desarrollo sustentable;
+XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de hábitos dirigidos a la protección y conservación del mismo, así como a su concientización del uso racional del agua y de las causas y efectos del cambio climático;
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
@@ -1319,9 +1327,17 @@ Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua
 
 Asimismo, las niñas, niños y adolescentes del Estado que viven y pertenecen a las zonas indígenas, otomí, tenek, pame, náhuatl, hñahñú y tepehua, tienen el derecho a que se les hable y eduque desde su nacimiento en su lengua materna y ser atendidos en todas las escuelas por maestros que fomenten su cultura y preserven su idioma.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2024)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes; para lo cual se procurará el aprovechamiento de la infraestructura y recursos disponibles, a la vez que se promueve el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance.
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, 8 Bis de la Constitución Política del Estado, ni de los principios rectores de esta Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2024)</small>
+
+###### Artículo 62 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la creatividad y producción artística de niños, niñas y adolescentes.
 
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
@@ -1773,7 +1789,9 @@ IV. Impartir en consonancia con la evolución de sus facultades, dirección y or
 
 V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
 
-VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
@@ -1781,7 +1799,9 @@ VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agr
 
 VIII. Abstenerse de cualquier atentando contra su integridad física, psicológica o actos que menoscaben su desarrollo integral, así mismo, evitar ejercer cualquier tipo de violencia con la intención de afectar directamente al menor o a otra persona con la que el menor tenga algún vínculo filial, familiar o afectivo. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
-IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+IX. Evitar conductas de alienación parental, o de cualquier otro tipo, que puedan vulnerar el ambiente de respeto, la adecuada convivencia, o generar violencia, rechazo, rencor, odio, miedo o desprecio, en las relaciones entre niñas, niños y adolescentes y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
 X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
 
@@ -2762,5 +2782,31 @@ P.O. 22 DE ABRIL DE 2024.
 P.O. 22 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 849 POR EL QUE SE REFORMA EL ARTÍCULO 100 BIS 3 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 868 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 871 POR EL CUAL SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 877 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 62 Y SE ADICIONA EL ARTÍCULO 62 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 879 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 102 Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑOS, NIÑAS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
