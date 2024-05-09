@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2022-10-21"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -423,7 +423,9 @@ Corresponde a los Gobiernos Municipales en su ámbito de competencia:
 
 I. Celebrar los convenios necesarios con las instancias públicas estatales y federales, así con las personas físicas o jurídicas de carácter privado, para la adecuada coordinación de las actividades culturales del municipio;
 
-II. Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+II. Elaborar y ejecutar programas para el desarrollo de actividades culturales dentro del territorio municipal, preferentemente por conducto de la dependencia que se instaure para tal efecto;
 
 III. Elaborar y mantener actualizado el registro de las personas que se dediquen a la creación, fomento, apoyo o promoción de actividades culturales y artísticas en el municipio;
 
@@ -443,7 +445,9 @@ X. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la m
 
 XI. Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación artística o en la promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
 
-XII. Procurar la creación de una dependencia municipal que tenga como única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+XII. Instaurar una dependencia municipal que tenga cómo única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura; y
 
 XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales.
 
@@ -465,9 +469,11 @@ Los Gobiernos Municipales, en términos de las disposiciones de la Ley Orgánica
 
 Los ciudadanos y organismos de la sociedad civil podrán someter a la consideración de la Secretaría y de los Gobiernos Municipales, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de Cronista a algún ciudadano destacado, debiendo resolver la autoridad lo conducente.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2024)</small>
+
 ###### Artículo 20.
 
-Los Gobiernos Municipales, en el ámbito de sus respectivas competencias, procuraran contar con un organismo o institución responsable de la coordinación de programas y acciones en materia de cultura y el arte, conforme a esta Ley. El organismo o institución tendrá la naturaleza jurídica y estructura que acuerden los Gobiernos Municipales.
+Los Gobiernos Municipales, en el ámbito de sus respectivas competencias, deberán contar con un organismo o institución responsable de la coordinación de programas y acciones en materia de cultura y el arte, conforme a esta ley. El organismo e institución tendrá la naturaleza jurídica y estructura que acuerden los Gobiernos Municipales.
 
 ###### Artículo 21.
 
@@ -1006,5 +1012,11 @@ SEGUNDO. El Ejecutivo del Estado, deberá adecuar el reglamento de la LEY DE CUL
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 274 QUE REFORMA EL ARTÍCULO 6 A LA LEY DE CULTURA Y DERECHOS CULTURALES EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 883 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO".
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
