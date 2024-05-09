@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2022-05-31"
+last_updated: "2024-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024 (ABROGADO).
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -2834,3 +2836,15 @@ P.O. 31 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUMERO 201 POR EL QUE SE REFORMAN, LA FRACCIÓN I DEL ARTÍCULO 118; EL ARTÍCULO 155; EL ARTÍCULO 157; ASÍ COMO, LAS FRACCIONES II, III, VI, VIII, IX Y X DEL ARTÍCULO 158, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 885 QUE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente decreto abroga el Decreto número 226 que contiene la Ley Orgánica del Poder Judicial del Estado de Hidalgo, publicada en el alcance uno del Periódico Oficial del Estado el 10 de noviembre de 2014.
+
+TERCERO. En un término no mayor de 180 días naturales deberá expedirse el Reglamento de la presente ley.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
