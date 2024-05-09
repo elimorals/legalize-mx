@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-cooperativo-para-el-estado-de-hidalgo-94076"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-29"
-last_updated: "2021-12-27"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 29 de abril de 2013.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el artículo 56, fracciones I y II de la Constitución Política del Estado, D E C R E T A:
 
-A N T E C E D E N T E...
+A N T E C E D E N T E
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -233,9 +235,15 @@ V.- De apoyo diverso para la organización, la protección y el impulso de los m
 
 VI.- Acciones de cooperación en materia cooperativa con la Federación, los Estados y municipios y con otros países u organismos internacionales públicos y privados;
 
-VII.- Acciones de fomento de las empresas cooperativas de participación Estatal; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-VIII.- Los demás conceptos a los que esta Ley y otros ordenamientos jurídicos les den ese carácter.
+VII.- Acciones de fomento de las empresas cooperativas de participación Estatal;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+VIII.- Fomento de la educación cooperativa y de la educación en la economía solidaria; y
+
+IX.- Los demás conceptos a los que esta Ley y otros ordenamientos jurídicos les den ese carácter.
 
 ###### Artículo 13.
 
@@ -382,3 +390,9 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 873 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 12 DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
