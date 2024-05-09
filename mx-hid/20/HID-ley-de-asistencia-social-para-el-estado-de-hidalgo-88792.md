@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2024-04-04"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -467,7 +467,9 @@ VII.-La habilitación o rehabilitación de personas que sufran algún tipo de di
 
 VIII.- La atención en instalaciones especializadas para resolver o disminuir alguna problemática social;
 
-IX.- El fomento de acciones de maternidad y paternidad responsable;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+IX.- El fomento de acciones de maternidad y paternidad responsable que propicien la preservación de los derechos de la niñez y la adolescencia, la satisfacción de sus necesidades, así como su salud física y mental;
 
 X.- La promoción de acciones de corresponsabilidad familiar;
 
@@ -1646,5 +1648,11 @@ SEGUNDO. La implementación de la fracción XXIII Bis del artículo 26 que se ap
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 816 POR EL QUE SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 869 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 11 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
