@@ -4,7 +4,7 @@ identifier: "HID-ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica-604
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2008-03-10"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE HIDALGO
 
-LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE HIDALGO
+LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2008.
 
@@ -39,7 +39,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 ANTECEDENTES
 
-.
+[...]
 
 POR LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -80,6 +80,10 @@ VIII.- Los particulares.
 ###### Artículo 4.
 
 Para efectos de la presente Ley, deberá entenderse por:
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2024)</small>
+
+Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los particulares y los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y Municipal, utilicen la firma electrónica avanzada;
 
 Autoridad Certificadora.- Al órgano designado por el Poder Ejecutivo, que tiene a su cargo los servicios de certificación de firmas electrónicas;
 
@@ -407,9 +411,11 @@ La Autoridad Certificadora y los Prestadores de Servicio de Certificación, ser�
 
 El certificado de firma electrónica avanzada tendrá valor probatorio en los términos de esta Ley y surtirá efectos jurídicos cuando estén firmados electrónicamente por la Autoridad Certificadora o por los Prestadores de Servicios de Certificación autorizados por la misma.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2024)</small>
+
 ###### Artículo 42.
 
-La vigencia de los certificados de firma electrónica avanzada, será de dos años e iniciará al momento mismo de su emisión y expirará el día y hora señalados en el mismo.
+La vigencia de los certificados de firma electrónica avanzada, será de cuatro años como máximo, la cual iniciará al momento mismo de su emisión y expirará el día y hora señalados en el mismo.
 
 ###### Artículo 43.
 
@@ -449,9 +455,17 @@ III.- A que la Autoridad Certificadora y los Prestadores de Servicio de Certific
 
 IV.- A presentar quejas o solicitar aclaraciones ante la Autoridad Certificadora o ante los Prestadores de Servicios de Certificación, quienes proporcionarán domicilio y dirección electrónica para tales efectos;
 
-V.- A actualizar y modificar los datos contenidos en el certificado de firma electrónica; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-VI.- A suspender y extinguir el certificado de la firma electrónica avanzada.
+V.- A actualizar y modificar los datos contenidos en el certificado de firma electrónica;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+VI.- A suspender y extinguir el certificado de la firma electrónica avanzada, y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+VII.- A ser informado por la autoridad certificadora sobre la suspensión y extinción del certificado de la firma electrónica avanzada.
 
 ###### Artículo 46.
 
@@ -459,11 +473,23 @@ Las obligaciones del titular del certificado de firma electrónica avanzada ser�
 
 I.- Proporcionar datos que sean completos, exactos y veraces;
 
-II.- Mantener la confidencialidad de los datos de creación de la firma electrónica avanzada;
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+I Bis. - Actualizar los datos contenidos en el certificado de firma electrónica e informar inmediatamente a la Autoridad Certificadora en caso de que los datos varíen;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+II.- Mantener la confidencialidad de los datos de creación de la firma electrónica avanzada y la clave privada vinculada con ellos, a fin de mantenerlos en secreto;
 
 III.- Resguardar su firma .electrónica avanzada en un medio electrónico; y
 
-IV.- Notificar a la Autoridad Certificadora, la pérdida de la firma electrónica avanzada o su certificado o cualquier otro movimiento que altere el estado o seguridad de la misma.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+IV.- Notificar de manera inmediata a la Autoridad Certificadora, la pérdida de la firma electrónica avanzada o su certificado o cualquier otro movimiento que altere el estado o seguridad de la misma, y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+V.- Verificar la validez y estatus de su certificado de firma electrónica.
 
 ### CAPÍTULO IX. DE LA SUSPENSIÓN DEL CERTIFICADO DE LA FIRMA ELECTRÓNICA AVANZADA
 
@@ -497,9 +523,25 @@ Se podrá revocar el certificado de la firma electrónica por alguna de las sigu
 
 I.- Cuando se observen inexactitudes en los datos aportados por el firmante para la obtención del certificado de la firma electrónica avanzada;
 
-II. Por haberse comprobado que al momento de la expedición del certificado de firma electrónica avanzada no cumplió con los requisitos que marca esta Ley; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-III.- Uso indebido o ilícito del certificado de firma electrónica o de la firma electrónica avanzada.
+II.- Por haberse comprobado que al momento de la expedición del certificado de firma electrónica avanzada no cumplió con los requisitos que marca esta Ley;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+II Bis.- Cuando se compruebe que los documentos que presentó el titular del certificado digital para acreditar su identidad son falsos;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+
+III.- Uso indebido o ilícito del certificado de firma electrónica o de la firma electrónica avanzada;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+IV.- Cuando se ponga en riesgo la confidencialidad, integridad o seguridad de los datos de creación de la firma electrónica avanzada; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+V.- Por resolución firme de autoridad judicial o administrativa que así lo determine.
 
 ###### Artículo 52.
 
@@ -524,6 +566,10 @@ Los titulares de los certificados de firma electrónica avanzada que incurran en
 La extinción del certificado se dará por alguna de las siguientes causas:
 
 I.- Fallecimiento del titular o incapacidad jurídica declarada por una Autoridad competente;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2024)</small>
+
+En este caso, la extinción procederá a solicitud de un tercero legalmente autorizado, quien deberá acompañar el acta de defunción del titular del certificado digital;
 
 II.- Expiración de su vigencia;
 
@@ -580,3 +626,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 874 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
