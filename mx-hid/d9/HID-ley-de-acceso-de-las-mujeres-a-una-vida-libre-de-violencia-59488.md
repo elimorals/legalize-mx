@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-04-18"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -231,9 +231,11 @@ II. Violencia física: Es cualquier acción intencional, en la que se utiliza pa
 
 III. Violencia patrimonial: Es cualquier acción u omisión de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos, violando sus derechos humanos a la igualdad, a la propiedad y a la vida;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
-IV. Violencia económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la mujer víctima, se manifiesta a través de limitaciones encaminadas a controlar sus ingresos propios, adquiridos o asignados; así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; violando su derecho humano a la libertad, la igualdad y el derecho al trabajo;
+IV. Violencia económica: Es toda acción u omisión del agresor que impacta de manera negativa en la economía de la víctima en su independencia y autonomía financiera, se manifiesta a través de limitaciones u omisiones para su desarrollo laboral y/o profesional, así como otros condicionamientos vinculados al género y la maternidad además la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; violando su derecho humano a la libertad, la igualdad y el derecho al trabajo;
+
+Se considera parte de la violencia económica en el ámbito familiar, cuando el agresor controle el ingreso de sus percepciones económicas e incluso de manera injustificada se desentienda de sus obligaciones económicas, de colaborar a realizar las labores domésticas o del cuidado que dependan de él.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -541,7 +543,9 @@ ARTÍCULO 23 BIS.- La violencia política contra las mujeres en razón de géner
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2024)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, servidoras y servidores públicos, representantes populares, personas integrantes de los tres poderes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2020)</small>
 
@@ -578,6 +582,10 @@ XIV.- Imponer, con base en estereotipos de género, la realización de actividad
 XV.- Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 
 XVI.- Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2024)</small>
+
+XVI Bis.- Despersonalizar a la mujer en el ejercicio de sus derechos político electorales, entendiéndose como la intención de quitar a alguien su carácter o atributos personales en función de estereotipos de género, resaltando como condicionante la existencia de una relación personal, íntima o familiar con un hombre.
 
 XVII.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
@@ -2348,3 +2356,15 @@ P.O. 18 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 855 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 880 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 882 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 23 BIS Y SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 23 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
