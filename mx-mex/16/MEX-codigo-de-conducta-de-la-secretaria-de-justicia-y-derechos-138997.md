@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-justicia-y-derechos-1389
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-28"
-last_updated: "2019-10-28"
+last_updated: "2024-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE JUSTICIA Y DERECHOS HUMANOS, DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA CONSEJERÍA JURÍDICA, PUBLICADO EN LA G.G. DE 9 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE JUSTICIA Y DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2024 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 81 de la Gaceta del Gobierno del Estado de México, el lunes 28 de octubre de 2019.
 
@@ -464,3 +466,15 @@ En __________________a los ____ días del mes de ___del año ____.
 PROTESTO LO NECESARIO
 
 _____________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA CONSEJERÍA JURÍDICA”.]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta de la Secretaría de Justicia y Derechos Humanos, publicado en el Periódico Oficial "Gaceta del Gobierno" el 25 (SIC) de octubre de 2019 y demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente Código de Conducta.
