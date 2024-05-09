@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-04-22"
+last_updated: "2024-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -377,9 +377,15 @@ XII.- Estructurar los programas educativos para maximizar la inclusión de grupo
 
 #### SECCIÓN SÉPTIMA. DEL DERECHO A UN TRABAJO DIGNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2024)</small>
+
 ###### Artículo 23.
 
-Todos los jóvenes tienen derecho al trabajo digno y bien remunerado, que tienda a la dignificación del ser humano y a posibilitar el mejoramiento de la calidad de vida de la sociedad.
+Las personas jóvenes tienen derecho al trabajo digno. Se entiende por trabajo digno aquel en el que se respete plenamente la dignidad humana del trabajador; en el cual no exista discriminación por origen étnico o nacional, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, orientación sexual, identidad o expresión de género, características sexuales o estado civil; y en el cual, además, se otorgue al trabajador un salario bien remunerado, acceso a seguridad social, capacitación continua y condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo. El trabajo digno también incluye el respeto irrestricto a los derechos colectivos de los trabajadores, tales como la libertad de asociación, el derecho de huelga y de contratación colectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2024)</small>
+
+Las y los jóvenes tienen derecho a percibir un salario justo, digno e igualitario, que tienda a la dignificación del ser humano y a posibilitar el mejoramiento de la calidad de vida de la sociedad.
 
 ###### Artículo 24.
 
@@ -1386,5 +1392,11 @@ P.O. 19 DE ENERO DE 2024.
 P.O. 22 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 847 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 878 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
