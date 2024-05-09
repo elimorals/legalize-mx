@@ -4,7 +4,7 @@ identifier: "SLP-estatuto-del-servicio-fiscalizador-de-carrera-de-la-167138"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-07-24"
-last_updated: "2023-07-24"
+last_updated: "2024-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "SLP"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO PROFESIONAL FISCALIZADOR DE CARRERA DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024 (ABROGADO).
 
 Estatuto publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 24 de julio de 2023.
 
@@ -595,3 +597,15 @@ C.P. Edith Virginia Muñoz Gutiérrez
 Encargada de Despacho de la Auditoría Superior del Estado
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL SERVICIO PROFESIONAL FISCALIZADOR DE CARRERA DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. El presente Estatuto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí, “Plan de San Luis”.
+
+Segundo. A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior del Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado “Plan de San Luis”, el 24 de Julio de 2023.
+
+Tercero. Los servidores públicos de confianza que cumplan con los requisitos señalados en este Estatuto, podrán solicitar su ingreso al Servicio dentro de los sesenta días hábiles posteriores a la publicación del presente, a través del formato establecido para ello.
