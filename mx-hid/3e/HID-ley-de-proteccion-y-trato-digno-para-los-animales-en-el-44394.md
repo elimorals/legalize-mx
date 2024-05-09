@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-04-22"
+last_updated: "2024-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -586,6 +586,12 @@ V.- Causarles con dolo sed, insolación, dolores o cualquier acto que atente con
 VI.- No proporcionarles una alimentación adecuada y suficiente que cubra sus necesidades vitales, de acuerdo a su especie y talla; y
 
 VII. Mutilar sus extremidades realizarles cualquier acción tendiente a limitar su capacidad de vuelo, en el caso de las aves.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2024)</small>
+
+###### Artículo 22 Ter.
+
+La persona que ejecute conductas de crueldad, maltrato, daño o tortura en contra de un animal doméstico, además de ser responsable de la reparación del daño, tendrá que cubrir los gastos que generen su atención médica veterinaria, medicamentos, tratamientos y/o intervención quirúrgica; independientemente de las sanciones administrativas dispuestas en la presente Ley y de las penas que en su caso establezca el Código Penal para el Estado de Hidalgo.
 
 ###### Artículo 23.
 
@@ -1570,5 +1576,11 @@ P.O. 22 DE ABRIL DE 2024.
 P.O. 22 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 876 POR EL SE ADICIONA EL ARTÍCULO 22 TER A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
