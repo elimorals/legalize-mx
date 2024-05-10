@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-la-prevencion-y-atencion-integral-del-cancer-de-129504
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-30"
-last_updated: "2018-06-30"
+last_updated: "2024-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2024.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el sábado 30 de Junio de 2018
 
@@ -51,13 +51,17 @@ SE CREA LA LEY PARA LA PREVENCIÓN Y ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL 
 
 La presente Ley es de orden público e interés general, y tiene por objeto promover la prevención, diagnóstico, atención, tratamiento, rehabilitación, control y vigilancia epidemiológica del cáncer de mama en el Estado de Baja California Sur. Es de observancia general para todo el personal de las instituciones de salud pública, así como para las personas físicas o morales que coadyuven en la prestación de estos servicios, en los términos y modalidades señaladas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2024)</small>
+
 ###### Artículo 2.
 
-La atención integral del cáncer de mama en el Estado tiene como objetivos los siguientes:
+La atención integral del cáncer de mama en el estado tiene como objetivos los siguientes:
 
 I.- Disminuir las tasas de morbilidad y mortalidad por cáncer de mama en la población femenina del Estado, mediante una política pública de carácter prioritario;
 
-II.- Coadyuvar en la detección oportuna del cáncer de mama en mujeres a partir de los 40 años y en toda persona que haya tenido un familiar consanguíneo con cáncer de mama antes de esa edad, que residan en el Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2024)</small>
+
+II.- La detección oportuna del cáncer de mama en mujeres a partir de los 40 años y en toda persona que haya tenido un familiar consanguíneo con cáncer de mama antes de esa edad, que residan en el Estado de Baja California Sur;
 
 III.- Brindar atención a mujeres y, en su caso, hombres, que no cuenten con seguridad social, cuyo resultado para el diagnóstico del cáncer de mama requiere de estudios complementarios o atención médica de acuerdo a las indicaciones respectivas;
 
@@ -72,6 +76,10 @@ VII.- Brindar acompañamiento psicológico a las personas cuyo resultado indique
 VIII.- Realizar acciones encaminadas a la atención médica y rehabilitación integral de las personas con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama; y
 
 IX.- Poner a disposición de la población, todos los servicios con los que cuente el Sistema Estatal de Salud para la prevención y la atención integral del cáncer de mama.
+
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 2024)</small>
+
+X.- La implementación de programas de cirugías de reconstrucción mamaria gratuitos posteriores a las mastectomías, como parte de la rehabilitación de las pacientes en casos considerados viables.
 
 ###### Artículo 3.
 
@@ -506,3 +514,15 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3033 SE REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 2 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN INTEGRAL DE CÁNCER DE MAMA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero. Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+Tercero. Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2024 y se programarán en los presupuestos de egresos de los ejercicios fiscales subsecuentes.
