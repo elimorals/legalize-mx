@@ -4,7 +4,7 @@ identifier: "FED-reglamento-en-materia-de-recursos-financieros-y-134193"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-03-06"
-last_updated: "2019-03-06"
+last_updated: "2024-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134193&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1753-01-01"
 ---
 # REGLAMENTO EN MATERIA DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 6 DE MARZO DE 2019 EN: http://inicio.inai.org.mx/AcuerdosDelPleno/ACTPUB- 06-02-2019.06.pdf Y www.dof.gob.mx/2019/INAI/ AcuerdosDelPleno-ACT-PUB-06-02-2019.06.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SÉPTIMO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2024 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 6 de marzo de 2019.
 
@@ -984,3 +984,37 @@ Si como resultado de las auditorías se detectan irregularidades que afecten a l
 Transitorios:
 
 Único.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DE RECURSOS FINANCIEROS Y PRESUPUESTALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la modificación al Reglamento de Recursos Financieros y Presupuestales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento anexo que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Administración para que dé el seguimiento que corresponda al presente Acuerdo, dentro del ámbito de su competencia.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo, se publique en el Diario Oficial de la Federación.
+
+El presente Acuerdo y su anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-17-04-2024.11.zip
+
+Contenido del archivo zip:
+
+1. Acuerdo ACT-PUB-17-04-2024.11.pdf
+
+2. Anexo del Acuerdo ACT-PUB-17-04-2024.11.pdf
+
+www.dof.gob.mx/2024/INAI/ACT-PUB-17-04-2024-11.zip
+
+CUARTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+QUINTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo para agilizar su cumplimiento.
+
+SEXTO. El presente Acuerdo y el Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SÉPTIMO. Se abroga el Reglamento de Recursos Financieros y Presupuestales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, autorizado por el Pleno de este Instituto mediante Acuerdo ACT-PUB/06/02/2019.06, publicado en el Diario Oficial de la Federación el seis de marzo de dos mil diecinueve.
