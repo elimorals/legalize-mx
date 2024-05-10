@@ -4,7 +4,7 @@ identifier: "FED-reglamento-en-materia-de-recursos-materiales-del-instituto-1340
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-03-01"
-last_updated: "2021-12-29"
+last_updated: "2024-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134095&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-01-30"
 
 ACUERDO MEDIANTE EL CUAL SE APRUEBA LA ACTUALIZACIÓN DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2024.
 
 Acuerdo Publicado en el Diario Oficial de la Federación, viernes 1 de marzo de 2019.
 
@@ -1675,13 +1675,13 @@ La DRM deberá mantener la custodia de los vales de combustible, vigilando su us
 
 Artículo 190 BIS Lo asignación máxima mensual de combustible para vehículos como apoyo al cargo y utilitario, estará sujeto a la disponibilidad presupuestaria y a los criterios de austeridad, racionalidad y disciplina presupuestal y se hará conforme a lo siguiente:
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 190 BIS DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 190 BIS DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 10 DE MAYO DE 2024)</small>
 
 CILINDROS MONTO
 
-4 5,500
+4 6,600
 
-6 6,500
+6 7,600
 
 En caso de que se requiera una cantidad mayor a la establecida, se deberá justificar por escrito la necesidad, sustentándola a través del kilometraje para que sea analizada y en su caso, autorizada por la DGA.
 
@@ -1860,3 +1860,25 @@ CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo
 QUINTO. El presente Acuerdo con las respectivas modificaciones, entrará en vigor al día siguiente de la publicación en el Diario Oficial de la Federación.
 
 SEXTO. El presente Acuerdo es de observancia general para todos los servidores públicos del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y de observancia obligatoria.
+
+D.O.F. 10 DE MAYO DE 2024.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 190 BIS DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la modificación del artículo 190 Bis del Reglamento en Materia de Recursos Materiales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias, a efecto de que el presente Acuerdo, se publique en el Diario Oficial de la Federación.
+
+El presente Acuerdo puede ser consultado en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-10-04-2024.11.pdf
+
+www.dof.gob.mx/2024/INAI/ACT-PUB-10-04-2024-11.pdf
+
+TERCERO. Se instruye a la Secretaría Técnica del Pleno para que, a través de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo para agilizar su cumplimiento.
+
+QUINTO. El presente Acuerdo con las respectivas modificaciones, entrará en vigor al día siguiente de la publicación en el Diario Oficial de la Federación.
+
+SEXTO. El presente Acuerdo es de observancia general y obligatoria para todas las personas servidoras públicas del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
