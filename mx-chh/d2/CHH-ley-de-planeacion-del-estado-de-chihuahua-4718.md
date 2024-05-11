@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2023-12-06"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -335,7 +335,9 @@ Los Planes Estatales de Desarrollo y de Seguridad Pública deberán elaborarse y
 
 El Plan Estatal de Desarrollo precisará los objetivos, estrategias y prioridades para el desarrollo integral del Estado; determinará los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de las actividades económicas y sociales; contendrá previsiones sobre los recursos que serán asignados para el cumplimiento de sus fines, a través del programa operativo anualizado y regirá el contenido de los programas que se deriven del Plan Estatal de Desarrollo, y lineamientos generales que fijen acciones para el ejercicio de los derechos de los pueblos y comunidades indígenas, de conformidad con lo establecido en las leyes en la materia.
 
-Así mismo, las políticas públicas que se establezcan deberán contemplar la importancia de trabajar con sujetos sociales prioritarios por cuestiones de vulnerabilidad, tales como niñas, niños y adolescentes, jóvenes, personas adultas mayores, mujeres, pueblos indígenas, personas jornaleras, migrantes y personas con discapacidad, esto con la finalidad de darle un rostro humano a toda la actividad y objetivos de desarrollo que el gobierno establezca.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Así mismo, las políticas públicas que se establezcan deberán contemplar la importancia de trabajar con sujetos sociales prioritarios por cuestiones de vulnerabilidad, tales como niñas, niños y adolescentes, jóvenes, personas adultas mayores, mujeres, pueblos indígenas, personas jornaleras, migrantes y personas con discapacidad, así como la prevención, detección y tratamiento de la desnutrición infantil, esto con la finalidad de darle un rostro humano a toda la actividad y objetivos de desarrollo que el gobierno establezca.
 
 El Plan Estatal de Desarrollo deberá contener además previsiones de largo plazo que trasciendan las metas sexenales, la inclusión y alineación con los instrumentos internacionales suscritos por el Estado Mexicano a fin de cumplir con los convenios nacionales e internacionales a los que se comprometa este en materia de desarrollo, así como la integración de lineamientos de carácter regional según las necesidades de desarrollo de su entorno socioeconómico.
 
@@ -766,3 +768,11 @@ SÉPTIMO.- Las menciones que en otras leyes, reglamentos, decretos, acuerdos y d
 Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Coordinación de Gabinete en cualesquiera contratos, convenios, acuerdos o instrumentos jurídicos similares, serán asumidos por la Secretaría que corresponda, la Oficina de la Gubernatura del Estado, la Consejería Jurídica del Ejecutivo del Estado o la Coordinación de Política Digital, en los términos del párrafo anterior.
 
 OCTAVO.- Los nombramientos expedidos con anterioridad a la entrada en vigor del presente Decreto, subsistirán y seguirán surtiendo sus efectos conforme a la normatividad vigente al momento de su expedición, hasta en tanto sean emitidos o reformados los reglamentos interiores de las dependencias a que se refiere este Decreto, en cuyo caso deberán emitirse los nuevos nombramientos.
+
+P.O. 11 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0832/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
