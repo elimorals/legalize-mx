@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2024-03-09"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -775,29 +775,25 @@ Padre con impedimento no dispensable
 
 Si los padres del hijo no pudiesen contraer matrimonio por existir entre ellos el impedimento no dispensable de parentesco por consanguinidad o por afinidad, no se hará mención alguna de esta circunstancia; pero sí se hará constar el nombre de los progenitores si éstos hicieren el reconocimiento.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 97.
 
-Expósitos
+Expósitos.
 
-Toda persona que encontrare un niño recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el tiempo, modo y lugar en que le haya encontrado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá proceder en los términos previstos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco.
 
 ###### ARTICULO 98.
 
-Obligaciones de presentar a los expuestos
-
-La misma obligación tienen los jefes, directores y administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad o casa hogar, respecto de los niños nacidos o expuestos en ellas.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 99.
 
-Mención de objetos del menor
-
-En las actas que se levanten en estos casos, no se expresarán las circunstancias que designa el artículo 97, ni se hará constar que el nacimiento ocurrió en una prisión o en una casa hogar; pero sí la edad aparente del niño, su sexo, el nombre propio que se le ponga y los apellidos que le correspondan o se le pongan en su caso, y el nombre de la persona o casa de cuna que se encargue de él. En el acta únicamente se mencionará que los objetos y papeles del menor se encuentran en el Archivo Estatal del Registro Civil.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 100.
 
-Depósito de documentos del menor
-
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos de valor, se depositarán en el Archivo Estatal del Registro Civil, dando formal recibo de ellos a quien los recoja y se dará parte, inmediatamente, al Ministerio Público, para que proceda como lo dispone este Código en materia de tutela.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 101.
 
@@ -2373,11 +2369,13 @@ Asimilación del parentesco por concubinato
 
 La ley asimila al parentesco por afinidad, la relación que resulta por virtud del concubinato, entre el concubinario y los parientes de la concubina y entre los parientes de ésta y aquél. Esta asimilación sólo comprende a los parientes consanguíneos en línea recta, ascendente o descendente, sin limitación de grado, y su único efecto es constituir un impedimento para el matrimonio en términos de la fracción V del artículo 160.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 291.
 
 Parentesco civil
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado, cuando se trata de una adopción simple. En el caso de la adopción plena, este parentesco surge, además, en relación con los parientes del adoptante y del adoptado, con los mismos derechos y obligaciones derivados del parentesco consanguíneo.
+El parentesco civil es el que nace de la adopción plena. Este parentesco surge entre el adoptante y el adoptado y, además, en relación con los parientes del adoptante y del adoptado, con los mismos derechos y obligaciones derivados del parentesco consanguíneo.
 
 ###### ARTICULO 292.
 
@@ -3269,133 +3267,77 @@ Los notarios públicos que indebidamente den fe o certifiquen contratos de gesta
 
 ### CAPITULO VII. DE LA ADOPCION
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE MAYO DE 2024)</small>
+
 #### SECCION PRIMERA. DE LA ADOPCION SIMPLE
 
 ###### ARTICULO 381.
 
-Quiénes pueden adoptar
-
-Los mayores de veinticinco años, en pleno ejercicio de sus derechos, pueden adoptar a uno o más menores o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que la adopción sea benéfica a éste.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 382.
 
-En caso de matrimonio
-
-Los cónyuges podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 383.
 
-Adopción por una persona o matrimonio
-
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto por el artículo anterior.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 384.
 
-Adopción del pupilo
-
-El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 385.
 
-Quiénes deberán consentirla
-
-Para que la adopción pueda efectuarse, deberán consentir en ella, en sus respectivos casos:
-
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor de quien se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretenda adoptar y lo traten como hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor; y
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo. Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 386.
 
-Suplencia del consentimiento
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-Si el tutor, el Ministerio Público o las personas a que se refieren las fracciones del artículo anterior, sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el Gobernador del Estado o el servidor público a quien éste comisione para ello, cuando encuentren que la adopción solicitada es notoriamente conveniente para los intereses morales y materiales de quien se pretende adoptar.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 387.
 
-Procedimiento
-
-El procedimiento para hacer la adopción y para revocarla será fijado en el Código de Procedimientos Civiles y tan luego cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada, y producirá sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 388.
 
-Derechos y obligaciones
-
-El que adopte tendrá, respecto de la persona y bienes del adoptado, los mismos derechos y deberes que tienen los padres respecto de la persona y bienes de los hijos.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 389.
 
-Derechos y deberes del adoptado
-
-El adoptado tendrá, para con la persona o personas que lo adopten, los mismos derechos y deberes que tiene un hijo.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 390.
 
-A quiénes se limita la relación
-
-Los derechos y deberes que nacen de la adopción, así como del parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo dispuesto en el artículo 162.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 391.
 
-Situación de la patria potestad
-
-Los derechos y deberes que resulten del parentesco de consanguinidad no se extinguen por la adopción, excepto la patria potestad, que será transferida al padre adoptivo.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 392.
 
-Impugnación
-
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha que haya desaparecido la incapacidad.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 393.
 
-Revocación
-
-La adopción puede revocarse:
-
-I.- Si las dos partes convienen en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 385; y
-
-II.- Por ingratitud del adoptado.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 394.
 
-Resolución judicial
-
-En el caso de la fracción I del artículo anterior, el Juez decretará que la adopción queda revocada, si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado. La resolución judicial que revoque la adopción deja sin efecto ésta y sus consecuencias a partir del día en que se dictó, haciendo cesar el parentesco civil creado por la misma.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 395.
 
-Desde cuándo deja de producir sus efectos
-
-En el segundo caso del artículo 393, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 396.
 
-Ingratitud
-
-Se considera ingrato al adoptado:
-
-I.- Si comete algún delito que merezca pena mayor de un año de prisión, contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes; y
-
-III.- Si rehúsa dar alimentos al adoptante que ha caído en la pobreza.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ###### ARTICULO 397.
 
-Anotación en el acta
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-El Juez que decrete la adopción o la revocación de ésta o que apruebe la impugnación, remitirá copia de la resolución respectiva al Oficial del Registro Civil correspondiente para que anote el acta de adopción y las demás que correspondan en los términos que previene este Código.
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 #### SECCION SEGUNDA. DE LA ADOPCION PLENA
 
@@ -3413,33 +3355,33 @@ Requisitos
 
 Para que la adopción plena tenga lugar se requiere:
 
-I.- Que los adoptantes sean un varón y una mujer casados entre sí o que vivan públicamente como marido y mujer, sin tener ningún impedimento para contraer matrimonio entre sí;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
 
-II.- Los adoptantes deben tener como mínimo cinco años de vivir como marido y mujer;
+I.- Que el o los adoptantes sean mayores de veinticinco años, en pleno ejercicio de sus derechos, pudiendo adoptar a uno o más menores o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que la adopción sea benéfica a éste.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+II.- (DEROGADA, P.O. 11 DE MAYO DE 2024)
 
-III.- Que el menor a adoptar no tenga más de cinco años de edad, se trate de un niño abandonado o de padres desconocidos, sea pupilo en casa de cuna o instituciones similares, o sea producto de un embarazo logrado como consecuencia del empleo de inseminación artificial o fertilización in vitro con la participación de una madre sustituta que haya convenido con los presuntos padres darlo en adopción;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+III.- Que el menor o incapacitado sea susceptible de adopción y se cuente con el certificado de idoneidad en los términos previstos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco;
 
 IV.- Que los adoptantes tengan medios bastantes para proveer a la formación y educación integral del adoptado; y
 
-V.- La adopción debe fundarse sobre justos motivos y presentar siempre ventajas para el adoptado.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+V.- Que la adopción se haga con base en el interés superior del adoptado.
 
 ###### ARTICULO 400.
 
-Dispensa de edad
+(DEROGADO, P.O. 11 DE MAYO DE 2024)
 
-La edad a que se refiere la fracción III del artículo anterior, puede ser dispensada por los Tribunales cuando circunstancias especiales lo aconsejen.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 401.
 
-Quiénes deberán consentir
+Quiénes deberán consentir.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-Para que la adopción plena tenga lugar deberán consentir en ella, en sus respectivos casos, la persona o personas quienes por la ley ejercen la patria potestad; el tutor del que se va a adoptar o la persona que lo haya acogido durante seis meses y lo trate como hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor. Tratándose de hijos expósitos o abandonados, el consentimiento lo dará el Ministerio Público.
-
-Si el tutor o el Ministerio Público no consienten, deberán expresar la causa en que se fundan, la que el Juez calificará tomando en cuenta los intereses del menor.
+La adopción debe ser consentida en los términos previstos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco.
 
 ###### ARTICULO 402.
 
@@ -3457,7 +3399,9 @@ I.- La extinción del lazo jurídico con la familia consanguínea, excepto en lo
 
 II.- El adoptado pasa a ser un miembro más en la familia del adoptante como si fuese hijo biológico; y
 
-III.- Confiere al adoptado, respecto de la familia del adoptante, los mismos derechos y obligaciones que si hubiera nacido de matrimonio y viceversa, creando un verdadero lazo de parentesco.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+III.- Confiere al adoptado, respecto de la familia del adoptante, los mismos derechos y obligaciones como si hubiera nacido de él o los adoptantes y viceversa, creando un verdadero lazo de parentesco.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -3737,7 +3681,9 @@ Consentimiento para comparecer en juicio
 
 Quien está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento de quien o de quienes ejerzan aquella función.
 
-En el caso de la adopción simple, la patria potestad sobre el hijo adoptivo la ejercerá únicamente la o las persona (sic) que lo adopten. Cuando se trate de una adopción plena, a falta de los padres adoptantes, la patria potestad la ejercerán los ascendientes de éstos de la misma manera que si fuera un hijo biológico.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Cuando se trate de una adopción plena, a falta de los adoptantes, la patria potestad la ejercerán los ascendientes de éstos de la misma manera que si fuera un hijo biológico.
 
 ###### ARTICULO 432.
 
@@ -25909,48 +25855,26 @@ Los asuntos que se encuentren en trámite ante los órganos jurisdiccionales civ
 
 Se derogan las disposiciones que se opongan al presente Decreto.
 
-###### ARTICULO SEGUNDO.
+P.O. 11 DE MAYO DE 2024.
 
-En relación con las disposiciones del Código Fiscal de la Federación que se reforman conforme al artículo anterior, se aplicarán las siguientes disposiciones transitorias:
+## [N. DE E. TRANSITORIOS DEL DECRETO 242 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 97; 291; 399 FRACCIONES I, III Y V; 401; 403, FRACCIÓN III, Y 431, SEGUNDO PÁRRAFO; SE DEROGAN LOS ARTÍCULOS 98; 99; 100; LA SECCIÓN PRIMERA DEL CAPÍTULO VII DEL TÍTULO OCTAVO, LIBRO PRIMERO CONFORMADO POR LOS ARTÍCULOS 381 AL 397; LA FRACCIÓN II DEL ARTÍCULO 399 Y EL ARTÍCULO 400, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
 
-I.- Cuando con anterioridad al 1o. de enero de 1987, se hubieran causado recargos sobre contribuciones federales no pagadas o intereses a cargo del fisco federal sobre cantidades que deba devolver, que hubieran alcanzado el 500% del importe de dichas contribuciones o cantidades a devolver, según sea el caso, a partir de la fecha mencionada, se reanudará la causación de recargos o intereses sobre las mismas, conforme al Código Fiscal de la Federación, aun cuando excedan del porciento mencionado.
+###### ARTÍCULO PRIMERO.
 
-II.- Respecto a las personas que se encuentren procesadas o sentenciadas al día en que entre en vigor la presente Ley, se estará a lo dispuesto en el artículo 56 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
-Disposición con Vigencia Durante el año de 1987
+###### ARTÍCULO SEGUNDO.
 
-###### ARTICULO TERCERO.
+Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en este Decreto, deberán implementar las adecuaciones administrativas y reglamentarias correspondientes.
 
-Durante el año de 1987 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
+###### ARTÍCULO TERCERO.
 
-I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, determinen las autoridades fiscales como pago provisional a cargo de los obligados durante el año de 1987 se incrementará con la que resulte de aplicar a la misma el factor 2.0.
+Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este y lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes, en todo aquello que beneficie al interés superior de la niñez.
 
-II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 2.20 que se aplicará a partir del 1o. de marzo de 1987, sobre las cantidades en vigor.
+###### ARTÍCULO CUARTO.
 
-III.- Para la reducción e imposición de multas a que se refieren los artículos 75 a 78 inclusive, del Código Fiscal de la Federación, y siempre que se cumplan las demás condiciones o requisitos establecidos en dichos preceptos, serán aplicables los siguientes porcientos en sustitución de los establecidos en los artículos señalados, conforme a lo siguiente:
+Conforme al Artículo Transitorio Cuarto del Código Nacional de Procedimientos Civiles y Familiares, los procedimientos civiles y familiares que se encuentren en trámite al momento de la entrada en vigor de ese ordenamiento en el Estado de Tabasco, continuaran su sustanciación de conformidad con las disposiciones vigentes en el momento de su inicio, salvo que las partes conjuntamente opten por la regulación establecida en el referido Código.
 
-A.- Tratándose de los casos previstos en el artículo 75, fracción VI; el porciento de reducción será del 30% del monto de la multa.
+###### ARTÍCULO QUINTO.
 
-B.- Tratándose de las multas previstas en el artículo 76, los porcientos de las contribuciones omitidas sobre las cuales se impondrán serán las siguientes:
-
-a).- 25% para las previstas en la fracción I.
-
-b).- 50% para las previstas en la fracción II.
-
-c).- 75% para las previstas en la fracción III.
-
-C.- En los casos a que se refiere el artículo 77, fracción I, las multas se incrementarán con los porcientos de las contribuciones omitidas o del beneficio indebido, conforme a lo siguiente:
-
-a).- 10% para las previstas en el inciso a) de la citada fracción I.
-
-b).- 30% para las previstas en el inciso b) de dicha fracción I.
-
-c).- 25% para las previstas en el inciso c) de la fracción I ya señalada.
-
-D.- En los casos a que se refiere el artículo 77, fracción II, las multas se disminuirán conforme a lo siguiente:
-
-a).- En un 40% del monto de las contribuciones omitidas que hayan sido objeto de dictamen, o del beneficio obtenido, si el infractor ha hecho dictaminar por contador público autorizado sus estados financieros correspondientes al ejercicio fiscal en el cual incurrió en la infracción. Lo dispuesto en este inciso, en ningún caso reducirá el monto de las multas que deban imponerse conforme a la fracción II de este artículo, a más del 50% de los montos resultantes en los términos de dicha fracción.
-
-b).- 10% para la prevista en el inciso b) de la citada fracción II.
-
-E.- En los casos señalados en el artículo 78 la multa será el 6% de las contribuciones omitidas.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
