@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-02-24"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1981,7 +1981,9 @@ La Secretaría formulará y desarrollará el programa de nutrición, el cual deb
 
 I.- Operar un sistema permanente de vigilancia sobre la nutrición.
 
-II.- Desarrollar programas de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+II.- Desarrollar programas de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados. Así como programas de detección oportuna en niñas y niños, de cualquier tipo de desnutrición.
 
 III.- Coordinarse con las dependencias e instituciones pertinentes para implementar programas tendientes a evitar la venta de productos de bajo contenido nutricional, principalmente en instituciones de educación básica, en el interior y exterior de los inmuebles.
 
@@ -4134,6 +4136,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0728/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0832/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
