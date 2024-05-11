@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "2014-11-01"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ÚLTIMA REFORMA APLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -185,29 +185,15 @@ La elección de Notario corresponde, a falta de pacto, al que paga los servicios
 
 ART. 10.- El notario está obligado a ajustar sus actos a las leyes, a actuar con imparcialidad y a respetar los derechos de las personas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE NOVIEMBRE DE 2014)</small>
 
 Cuando así lo acuerde el Ejecutivo, la Secretaría requerirá a los Notarios para que colaboren en la prestación de servicios notariales, para satisfacer demandas de interés social, electoral o cumplir con programas o campañas de atención a grupos vulnerables y/o marginados. En estos casos, las condiciones para la prestación del servicio se fijarán por la Secretaría, considerando las características de los propios servicios y la opinión del Colegio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 11 DE MAYO DE 2024)</small>
 
-Se impondrán las penas que corresponden al delito de abuso de autoridad al servidor público que obstaculice o impida a un Notario ejercer su función pública o no le preste el auxilio que requiera para ello.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
-
-Al que ante Notario declare falsamente u oculte la verdad al firmar un instrumento notarial, se le impondrán las penas que corresponden al delito tipificado en el artículo 116 del Código Penal para el Estado de Colima.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
-
-Al que sin ser Notario se ostente como tal o al Notario de otra entidad que ejerza función notarial en el Estado de Colima, se le aplicarán las penas señaladas en el artículo 152 del Código Penal.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 11 DE MAYO DE 2024)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1457,11 +1443,11 @@ ART. 125.- Los Notarios podrán separarse del ejercicio de sus funciones o ausen
 
 ART. 126.- El notario tiene derecho a obtener licencia del Ejecutivo, para estar separado de su cargo hasta por el término de un año. No podrá solicitar nueva licencia sino después de un año de ejercicio personal de su función notarial, salvo causa justificada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(NOTA: EL 13 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 127/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 15 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “en el desempeño de un cargo público,"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
 
-El Notario tiene derecho a que el Ejecutivo le otorgue licencia renunciable por todo el tiempo que dure su incapacidad temporal, en el desempeño de un cargo público, de elección popular, o para que participe en cualquier proceso electoral como candidato, desde la fecha en que sea registrado ante cualquier organismo electoral y hasta el día de la elección correspondiente.
+El Notario o Notaria tiene derecho a que el Ejecutivo le otorgue licencia renunciable por todo el tiempo que dure su incapacidad temporal, EN EL DESEMPEÑO DE UN CARGO de elección popular, o para que participe en cualquier proceso electoral como candidato o candidata, desde la fecha en que se haya registrado ante cualquier organismo electoral y hasta el día de la elección correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1485,9 +1471,21 @@ I. Sujeción a proceso en que haya sido declarado formalmente preso por delito i
 
 II. Sanción administrativa impuesta por el Ejecutivo del Estado, por sí o a solicitud del Consejo del Colegio de Notarios, cuando el Notario contravenga alguna disposición de esta Ley o incurra en falta comprobada, en ejercicio de su función pública;
 
-III. Impedimentos físicos o intelectuales transitorios que coloquen al Notario en la imposibilidad de actuar, caso en el cual surtirá efectos la suspensión durante todo el tiempo que dure el impedimento; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
 
-IV. No cumplir con los cursos de actualización y capacitación en la forma y términos previstos en esta ley.
+III. Impedimentos físicos o intelectuales transitorios que coloquen al Notario o Notaria en la imposibilidad de actuar, caso en el cual surtirá efectos la suspensión durante todo el tiempo que dure el impedimento;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+IV. No cumplir con los cursos de actualización y capacitación en la forma y términos previstos en esta ley;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2024)</small>
+
+V. La separación voluntaria en los términos del artículo 126 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2024)</small>
+
+VI. La que sea impuesta como sanción por autoridad competente;
 
 La Secretaría General de Gobierno impondrá la sanción prevista en este artículo estableciendo el plazo de suspensión y las condiciones para su terminación.
 
@@ -1577,27 +1575,33 @@ VI.- Que transcurran tres meses después de la publicación en el Periódico Ofi
 
 En caso de oposición, se consignará el asunto a la autoridad judicial respectiva para que proceda en términos de Ley.
 
-### CAPITULO OCTAVO. DE LOS DELITOS OFICIALES DE LOS NOTARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2024)</small>
 
-ART. 140.- Son delitos oficiales de los notarios del Estado, aquellos del orden común que se les atribuyan en el ejercicio de sus funciones.
+### CAPITULO OCTAVO. DE LOS DELITOS ESPECIALES
 
-ART. 141.- Las acusaciones, denuncias o querellas por delitos oficiales atribuídos a los notarios en ejercicio de su función, se presentarán ante el Procurador General de Justicia del Estado, quien llevará el asunto al acuerdo del Ejecutivo a efecto de que éste integre una comisión investigadora compuesta por el Procurador General de Justicia del Estado o por un agente del Ministerio Público que el Ejecutivo designe; por un abogado o licenciado en derecho que designe el propio Ejecutivo; por el presidente del Consejo de Notarios del Estado o por quien haga sus veces y por el notario que designe el Consejo de Notarios.
+(NOTA: EL 13 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 127/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MAYO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 458, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ART. 142.- La comisión investigadora procederá de inmediato a instruir la averiguación, previa ratificación de la denuncia, querella o acusación.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
 
-ART. 143.- La comisión investigadora procederá en la forma siguiente:
+ART. 140.- Se impondrán de uno a ocho años de prisión y de cincuenta hasta cien veces el valor diario de la unidad de medida y actualización, a la persona servidora pública que obstaculice o impida a un Notario o Notaria ejercer su función pública o no le preste el auxilio que requiera para ello.
 
-I.- Practicará todas las diligencias necesarias para la comprobación del delito que se impute, describiendo minuciosamente las características y circunstancias del caso y precisando la intervención que haya tenido el notario en el delito que se le atribuye;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
 
-II.- Hecho lo anterior, citará al inculpado para tomarle declaración, le hará saber el motivo del procedimiento, el nombre de su acusador, los datos y elementos de prueba que obran en la investigación y hará constar íntegramente sus declaraciones en la diligencia, las contestaciones que diere a las preguntas que le formule la comisión con relación a los hechos ocurridos, sin perjuicio de que pueda ampliar posteriormente sus declaraciones, cuando la comisión lo estime necesario o lo solicite el notario inculpado, quien podrá nombrar asesor o asesores o bien, manifestar que no desea hacerlo, pero si se rehusare a hacer el nombramiento o la manifestación, el Consejo de Notarios le designará asesor.
+ART. 141.- Al que ante Notario o Notaria declare falsamente u oculte la verdad al firmar un instrumento notarial, se le impondrá de seis meses a dos años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
 
-ART. 144.- Después de tomada la declaración preparatoria al notario, la comisión instructora abrirá un término de prueba por treinta días dentro del cual recibirá las que ofrezcan acusador y acusado, así como las que la comisión estime necesarias.- Si al vencer el término no hubiere podido recibir las pruebas promovidas oportunamente, la comisión instructora lo ampliará por el plazo necesario para que puedan recibirse.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
 
-ART. 145.- Rendidas las pruebas ofrecidas, se pondrán a la vista del acusador por tres días y por otros tres días a la del acusado y sus asesores, a fin de que formulen alegatos, que presentarán dentro de los seis días siguientes.
+ART. 142.- Al que sin ser Notario o Notaria se ostente como tal o que, siéndolo, se encuentre con suspensión o licencia concedida por la persona titular del Poder Ejecutivo del Estado, o al Notario o Notaria de otra entidad que ejerza función notarial en el Estado de Colima, se le impondrán de dos a siete años de prisión y multa por un importe equivalente de cien a doscientas unidades de medida y actualización.
 
-ART. 146.- Transcurridos los términos que señala el artículo anterior, presentados o no los alegatos, la comisión instructora formulará su dictamen, con vista de las constancias de la averiguación; en su parte expositiva analizará clara y metódicamente los hechos ocurridos; formulará consideraciones jurídicas que demuestren plenamente la existencia o inexistencia del delito, expondrá las circunstancias que hubieren ocurrido y que deban influir para determinar la consignación o no al juez competente.
+ART. 143.- (DEROGADO, P.O. 11 DE MAYO DE 2024)
 
-ART. 147.- La comisión instructora tomará sus decisiones por mayoría de votos; si hubiere empate, cada integrante de la misma formulará su voto particular y el expediente se enviará a la Procuraduría General del Estado, a fin de que el Ejecutivo dicte la resolución que a su juicio corresponda, en la que declare que no hay lugar a proceder contra el notario o que debe consignársele a las autoridades comunes.
+ART. 144.- (DEROGADO, P.O. 11 DE MAYO DE 2024)
+
+ART. 145.- (DEROGADO, P.O. 11 DE MAYO DE 2024)
+
+ART. 146.- (DEROGADO, P.O. 11 DE MAYO DE 2024)
+
+ART. 147.- (DEROGADO, P.O. 11 DE MAYO DE 2024)
 
 ### CAPITULO NOVENO. DE LA CLAUSURA DE PROTOCOLOS
 
@@ -1956,3 +1960,9 @@ Las disposiciones relativas al Archivo General de Notarías a que alude el Capí
 ###### ARTÍCULO OCTAVO.
 
 En los instrumentos notariales en los que se haya utilizado la firma electrónica con anterioridad a las presentes reformas, se entenderá que tiene los mismos efectos que el sello notarial.
+
+P.O. 11 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 458.- POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 126; LAS FRACCIONES III Y IV DEL ARTÍCULO 128; Y LOS ARTÍCULOS 140, 141 Y 142; SE ADICIONAN LAS FRACCIONES V Y VI DEL ARTÍCULO 128; Y, SE DEROGAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 10; LOS ARTÍCULOS DEL 143 AL 147, ASÍ MISMO, SE REFORMA EL CAPÍTULO OCTAVO DEL TÍTULO SEGUNDO DEL EJERCICIO NOTARIAL, DE LA LEY DEL NOTARIADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
