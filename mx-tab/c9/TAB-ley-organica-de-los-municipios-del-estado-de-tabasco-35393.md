@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2023-10-18"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1205,9 +1205,9 @@ XIV. Cumplir y hacer cumplir, dentro de su competencia, las disposiciones conten
 
 XV. Tener el mando de la fuerza pública municipal, con las restricciones señaladas en esta y otras leyes;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
 
-XVI. Para el cumplimiento de sus facultades y obligaciones, el Presidente Municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos, salvo los casos de la Secretaría del Ayuntamiento, la Contraloría Municipal y la Dirección de Seguridad Pública, cuyos titulares serán nombrados por el Cabildo, o el Concejo Municipal en su caso, a propuesta del Presidente Municipal. Las excepciones previstas en el párrafo anterior no restringen la facultad del presidente municipal para la remoción de dichos servidores, en su caso;
+XVI. Para el cumplimiento de sus facultades y obligaciones, el Presidente Municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos, salvo los casos de la Secretaría del Ayuntamiento, la Contraloría Municipal y la Dirección de Seguridad Pública, cuyos titulares serán nombrados por el Cabildo, o el Concejo Municipal en su caso, a propuesta del Presidente Municipal. Las excepciones previstas en el párrafo anterior no restringen la facultad del presidente municipal para la remoción de dichos servidores, en su caso. Los nombramientos previstos en esta fracción, al igual que las suplencias y sustituciones, deberán hacerse respetando el principio de paridad de género;
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -4030,3 +4030,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Concejos Municipales o Ayuntamientos de los municipios del Estado de Tabasco, dentro de un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones reglamentarias y administrativas conducentes para dar cumplimiento a lo establecido en el Decreto.
+
+P.O. 11 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 243 POR EL QUE “SE REFORMA EL ARTÍCULO 65, FRACCIÓN XVI, DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La obligación de respetar el principio de paridad de género en las designaciones, suplencias y sustituciones, será vinculante a partir de los Ayuntamientos que entren en funciones en el año dos mil veinticuatro.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
