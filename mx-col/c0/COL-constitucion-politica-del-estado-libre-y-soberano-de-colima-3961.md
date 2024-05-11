@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2023-11-04"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -600,6 +600,10 @@ El poder supremo del Estado se divide para su ejercicio en Legislativo, Ejecutiv
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
 No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias concedidas a la Gobernadora o al Gobernador conforme a lo dispuesto en el artículo 34, fracción XII de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Los poderes del Estado deberán regirse bajo los principios de Parlamento abierto, Gobierno abierto y Justicia abierta, respectivamente, mismos que estarán orientados a la transparencia, la participación ciudadana y la rendición de cuentas en los términos de sus respectivas leyes orgánicas.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -4342,3 +4346,11 @@ P.O. 4 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 355.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 456.- POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
