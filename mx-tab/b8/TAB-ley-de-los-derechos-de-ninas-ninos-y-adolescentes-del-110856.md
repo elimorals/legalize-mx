@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110856"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-23"
-last_updated: "2019-06-05"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 088 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -171,9 +169,11 @@ XXXVII. Tratados Internacionales: Los tratados internacionales vigentes en mater
 
 XXXVIII. Unidad de Atención a Estudiantes que Padecen Acoso Escolar: Instancia multidisciplinaria de la Secretaría de Educación del Estado de Tabasco, encargada del tratamiento de los casos de hostigamiento sobre un educando y de su protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2024)</small>
+
 ###### Artículo 5.
 
-En términos de lo dispuesto por la Ley General, son niñas y niños las personas menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
+Conforme a la Ley General, son niñas y niños las personas menores de doce años, y adolescentes las personas que se encuentren entre doce años cumplidos y menos de dieciocho años de edad. Para efectos de los tratados internacionales y la mayoría de edad, los menores de dieciocho años de edad serán considerados niños y niñas.
 
 Cuando exista duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
@@ -205,9 +205,17 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+XIV. La accesibilidad; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2024)</small>
+
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad.
 
 ###### Artículo 7.
 
@@ -395,7 +403,9 @@ Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en
 
 Los niños, niñas y adolescentes que hayan sido separados de su familia de origen por resolución judicial, o que por otra causa se encuentren en desamparo familiar, tienen derecho a recibir medidas especiales de protección por parte de las autoridades estatales y municipales correspondientes, y a acceder a diversas modalidades de cuidado alternativo, en las que se asegure que:
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible, se resuelva con prontitud su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -403,11 +413,37 @@ III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedim
 
 IV. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social, y por el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
 
-El Sistema DIF Estatal deberá desarrollar una política integral en materia de cuidados alternativos y contar con programas respectivos que permitan a los niños, niñas y adolescentes acceder a los mismos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2024)</small>
 
-Las autoridades estatales competentes deberán tener en consideración el interés superior de la niñez, para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
 
-El Sistema DIF Estatal en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes durante y una vez que haya concluido el acogimiento o forma alternativa de cuidado, de conformidad con lo previsto por esta Ley y demás disposiciones aplicables del Estado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
+
+El Sistema DIF Estatal y las Procuradurías de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2024)</small>
+
+Las autoridades administrativas y jurisdiccionales del Estado, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Los certificados de idoneidad podrán ser expedidos, previa valoración técnica, por el Sistema DIF Estatal y las Procuradurías de Protección, y serán válidos para iniciar el proceso de adopción en cualquier municipio del Estado, independientemente de dónde hayan sido expedidos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier municipio, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE MAYO DE 2024)</small>
+
+Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituirle su derecho a vivir en familia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE MAYO DE 2024)</small>
+
+El Sistema DIF Estatal en coordinación con las Procuradurías de Protección, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
 ### Capítulo Quinto. Del Derecho a la Igualdad Sustantiva
 
@@ -1815,33 +1851,189 @@ I. Prestar servicios de asesoría y asistencia jurídica a las personas que dese
 
 II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes a través del Consejo Técnico de Adopciones, así como formular las recomendaciones pertinentes al órgano jurisdiccional; y
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría Federal de Protección.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+III. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
 
 ###### Artículo 122.
 
 En materia de adopciones en el Estado, regirán las siguientes condiciones mínimas:
 
-I. Niñas, niños y adolescentes serán adoptados con pleno respeto de sus derechos, de conformidad con el principio del interés superior de la niñez;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
 
 II. Se escuchará y tomará en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
 
 III. Se asesorará jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin que conozcan los alcances jurídicos, familiares y sociales de la misma;
 
-IV. El Consejo Técnico de Adopciones y la Procuraduría de Protección verificarán que la adopción no sea motivada por beneficios económicos para quienes participen en ella; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
 
-V. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rigen a nivel estatal.
+IV. El Consejo Técnico de Adopciones y la Procuraduría de Protección verificarán que la adopción no sea motivada por beneficios económicos para quienes participen en ella;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+V. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rigen a nivel estatal;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2024)</small>
+
+VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2024)</small>
+
+VII. El Órgano Jurisdiccional correspondiente garantizará que los procedimientos de adopción se lleven de conformidad con esta ley.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Bis.
+
+Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante cualquiera de las Procuradurías de Protección, o ante el Sistema DIF Estatal o Municipal, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Ter.
+
+Los centros de asistencia social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar solo podrán recibir niñas, niños y adolescentes por disposición de la Procuraduría de Protección correspondiente o de autoridad competente.
+
+Las niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
+
+El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema DIF Estatal, o las Procuradurías de Protección, según corresponda, levanten la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente. Se considera expósito al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerará abandonado.
+
+Durante el término referido se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los centros de asistencia social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riesgo a la niña, niño o adolescente.
+
+Una vez transcurrido dicho término sin obtener información respecto del origen de niñas, niños o adolescentes, o no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección correspondiente levantará un acta circunstanciada publicando la certificación referida en el presente artículo y a partir de ese momento las niñas, niños o adolescentes serán susceptibles de adopción.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Quater.
+
+Para los fines de esta ley se prohíbe:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta ley;
+
+III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos durante el proceso de adopción se suspenderá de inmediato y se declarará la improcedencia. Si se presenta, una vez concluida judicialmente la adopción, la Procuraduría de Protección competente presentará denuncia ante el Fiscal del Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes, así como para anular el procedimiento correspondiente;
+
+IV. El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, y siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII. El matrimonio entre el adoptante y el adoptado o sus descendientes, así como el matrimonio entre el adoptado con los familiares del adoptante o sus descendientes;
+
+IX. Ser adoptado por más de una persona, salvo en caso de que los adoptantes sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
+
+X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio; y
+
+XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+
+Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección o el sistema DIF competente, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
+
+Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección o el sistema DIF correspondiente tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para los hijos consanguíneos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Quinquies.
+
+Pueden ser adoptados niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Sean expósitos o abandonados;
+
+III. Se encuentren en alguno de los supuestos anteriores y acogidos en Centros de Asistencia Social o bajo la tutela del Sistema DIF Estatal, de los Sistemas de los Municipios o de las Procuradurías de Protección; y
+
+IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante el Sistema DIF Estatal, los Sistemas de los Municipios o ante la Procuraduría de Protección correspondiente.
+
+En todo caso se deberá contar con el informe de adoptabilidad.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Sexies.
+
+Los solicitantes deberán acudir a las Procuradurías de Protección, o al Sistema DIF Estatal para realizar sus trámites de adopción, atendiendo a lo previsto en la reglamentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Septies.
+
+Una vez reunidos los requisitos e integrado el expediente, la autoridad competente emitirá su opinión respecto a la expedición del certificado de idoneidad en un término que no excederá de cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Octies.
+
+El juez dispondrá de 90 días hábiles improrrogables para emitir la sentencia sobre resolución de la patria potestad de menores de edad, en los juicios respectivos. Dicho término será contado a partir del día siguiente de la presentación de la demanda.
+
+Respecto a las resoluciones de adopción, el juez contará con 15 días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo. Dicha autoridad administrativa contará con cinco días hábiles para la entrega de tal expediente al juzgado de la materia, una vez cumplimentado lo referido en el artículo 122 Septies de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Novies.- En igualdad de circunstancias se dará preferencia en la adopción a solicitantes mexicanos sobre extranjeros. Asimismo, se dará preferencia a las adopciones nacionales sobre las internacionales.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+###### Artículo 122 Decies.
+
+Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Undecies.- Para que la adopción pueda tener lugar deberán consentirla, por escrito y ante el juez que conozca del procedimiento, la Procuraduría de Protección correspondiente, el solicitante y, en su caso, el adolescente sujeto de adopción.
+
+Para el caso de que los solicitantes sean cónyuges o concubinos, ambos deberán consentir la adopción ante el juez.
+
+En el caso de adolescentes con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+
+Si la Procuraduría de Protección competente no consiente la adopción, deberá expresar la causa, misma que el juez calificará tomando en cuenta el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Duodecies.- Las Procuradurías de Protección y los sistemas DIF, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que los adoptantes cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Terdecies.- En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Quaterdecies.- A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, los sistemas DIF, en coordinación con la Procuraduría de Protección que corresponda, realizarán su seguimiento al menos cada seis meses durante los tres años posteriores a la adopción.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Quindecies.- En caso de que el adoptante sea extranjero con residencia permanente en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Sexdecies.- La adopción en todo caso será plena e irrevocable.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2024)</small>
+
+Artículo 122 Septendecies.- El Sistema DIF Estatal y la Procuraduría Estatal de Protección celebrarán los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia con sus pares municipales o con las autoridades que se requiera.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2024)</small>
 
 ###### Artículo 123.
 
 Tratándose de adopción internacional, esta Ley, el Código Civil para el Estado, el Código Penal para el Estado y la Ley del Sistema Estatal de Asistencia Social, disponen de manera complementaria lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados, sean garantizados en todo momento y se ajusten el interés superior de la niñez, así como para garantizar que la adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación o utilización de las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos. Lo anterior, en términos de las leyes generales, federales o estatales aplicables.
 
+Con el fin de salvaguardar el interés superior de la niñez, previo a que la adopción internacional pueda tener lugar, las autoridades competentes deberán determinar si la niña, el niño o el adolescente son susceptibles de adopción.
+
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
+
 En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema DIF Estatal y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los tratados internacionales.
 
 El Estado dará seguimiento a la convivencia y proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
-Las personas que ejerzan profesiones en el trabajo social y psicología, de las instituciones públicas y privadas de Tabasco que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema DIF Estatal en el ámbito de su competencia, además de cumplir con la Ley Reglamentaria de los Artículos 4º y 5º de la Constitución Federal Relativa al Ejercicio de las Profesiones en el Estado de Tabasco.
+Las personas que ejerzan profesiones en el trabajo social y psicología, de las instituciones públicas y privadas de Tabasco que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema DIF Estatal en el ámbito de su competencia, además de cumplir con la Ley Reglamentaria de los Artículos 4º y 5º de la Constitución Federal relativa al Ejercicio de las Profesiones en el Estado de Tabasco.
 
 La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+
+Las autoridades competentes tienen la obligación de conservar cualquier información que dispongan relativa a niñas, niños y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
 
 ###### Artículo 124.
 
@@ -1953,7 +2145,9 @@ Son obligaciones de los titulares o responsables legales de los centros de asist
 
 I. Garantizar el cumplimiento de los requisitos establecidos por la Ley General, esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del Sistema DIF Nacional;
 
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría Estatal de Protección;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, el cual actualizarán de manera permanente e informarán de inmediato a la Procuraduría Estatal de Protección, que a su vez remitirá dicha información a la Procuraduría de Protección Federal y al Sistema DIF Estatal;
 
 III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
 
@@ -2238,3 +2432,27 @@ P.O. 18 DE MAYO DE 2019.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 11 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 242 POR EL QUE “SE REFORMAN LOS ARTÍCULO 5, PÁRRAFO PRIMERO; 6, FRACCIONES XIII Y XIV; 25, FRACCIÓN I, Y PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; 121, FRACCIÓN III; 122, FRACCIONES I, IV Y V; 123 Y 130, FRACCIÓN II; Y SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 6; LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO AL ARTÍCULO 25; LAS FRACCIONES VI Y VII AL ARTÍCULO 122; ASÍ COMO LOS ARTÍCULOS 122 BIS; 122 TER; 122 QUATER; 122 QUINQUIES; 122 SEXIES; 122 SEPTIES; 122 OCTIES; 122 NOVIES; 122 DECIES; 122 UNDECIES; 122 DUODECIES; 122 TERDECIES; 122 QUATERDECIES; 122 QUINDECIES; 122 SEXDECIES; 122 SEPTENDECIES, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en este Decreto, deberán implementar las adecuaciones administrativas y reglamentarias correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este y lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes, en todo aquello que beneficie al interés superior de la niñez.
+
+###### ARTÍCULO CUARTO.
+
+Conforme al Artículo Transitorio Cuarto del Código Nacional de Procedimientos Civiles y Familiares, los procedimientos civiles y familiares que se encuentren en trámite al momento de la entrada en vigor de ese ordenamiento en el Estado de Tabasco, continuaran su sustanciación de conformidad con las disposiciones vigentes en el momento de su inicio, salvo que las partes conjuntamente opten por la regulación establecida en el referido Código.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
