@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-01-15"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -643,13 +643,17 @@ Prevenir la generación y controlar el manejo integral de los residuos sólidos 
 
 XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad; y
+XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
 
-XXX. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
+XXX. Implementar programas y acciones para la instalación de forma progresiva de luminarias ahorradoras de energía tipo LED, sustituyendo o instalando nuevas luminarias como parte de la estructura del alumbrado público municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2024)</small>
+
+XXXI. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -4189,63 +4193,13 @@ P.O. 15 DE ENERO DE 2024.
 
 – El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 43/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL OCTAVO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO Y SU TRANSFORMACIÓN EN EL QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON SEDE EN ZAPOPAN, JALISCO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, RESIDENCIA Y FECHA DE INICIO DE FUNCIONES; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO, RESIDENCIA Y ESPECIALIDAD INDICADOS”.]
+P.O. 13 DE MAYO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el treinta y uno de octubre de dos mil dieciséis, con excepción de lo dispuesto en el transitorio CUARTO, que entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 652.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-TERCERO. La Dirección General de Recursos Humanos, respetando los derechos laborales del personal del órgano jurisdiccional auxiliar, atenderá la situación laboral y adoptará las medidas que correspondan, de conformidad a lo acordado por el Pleno del Consejo de la Judicatura Federal, así como en las demás disposiciones aplicables.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforman los numerales SEGUNDO, fracción III, número 1; y QUINTO, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a II. …
-
-III. TERCER CIRCUITO:
-
-1. Dieciocho tribunales colegiados especializados: tres en materia penal, cinco en materia administrativa, cinco en materia civil y cinco en materia de trabajo, todos con residencia en Zapopan.
-
-2. …
-
-3. …
-
-4. …
-
-IV. a XXXII. …
-
-QUINTO. …
-
-1. a 2. …
-
-3. El Centro Auxiliar de la Tercera Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, tres con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco tribunales unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-4. a 11. …
-
-…”.
-
-SEXTO. Se reforma el numeral PRIMERO, párrafo primero y fracción I, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
-
-“PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región, está conformado por cuatro tribunales colegiados de Circuito Auxiliares, tres con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco Tribunales Unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos en Guadalajara, Jalisco, y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
-
-I. Los tribunales colegiados de Circuito se denominarán:
-
-a) Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-c) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
-
-d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-II. …”.
-
-D.O.F. 28 DE OCTUBRE DE 2016.
+SEGUNDO.- Los Municipios del Estado de Aguascalientes, conforme a sus posibilidades, destinarán los recursos financieros que les permitan ponderar la implementación e instalación de luminarias ahorradoras tipo LED para el servicio de alumbrado público
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 44/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS TERCERO Y CUARTO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN CON RESIDENCIA EN GUADALAJARA, JALISCO, Y SU TRANSFORMACIÓN EN TRIBUNALES COLEGIADOS SEXTO Y SÉPTIMO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN EL CIRCUITO, RESIDENCIA Y ESPECIALIDAD INDICADOS”.]
 
