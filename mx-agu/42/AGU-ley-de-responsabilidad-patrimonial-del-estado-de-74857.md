@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2023-01-23"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -71,15 +71,11 @@ III. Entes públicos: salvo mención expresa en contrario, los poderes judicial,
 
 IV. Salario: Al salario mínimo general vigente en el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
-
-###### Artículo 3°.
-
-La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, a la Sala Administrativa.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 3º.
 
-La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, a la Sala Administrativa y Electoral del Poder Judicial del Estado de Aguascalientes.
+La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, al Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 ###### Artículo 4º.
 
@@ -165,11 +161,11 @@ La cuantificación de la indemnización se calculará de acuerdo a la fecha en q
 
 Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta Ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad patrimonial, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral o equitativa, según el caso. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de impuestos relativos al pago de las indemnizaciones preceptuadas en los seguros, corresponde a los entes y no podrá disminuirse de la indemnización.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 15.
 
-Las indemnizaciones fijadas por la Sala Administrativa que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
+Las indemnizaciones fijadas por el Tribunal de Justicia Administrativa del Estado de Aguascalientes que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
 
 ###### Artículo 16.
 
@@ -185,11 +181,11 @@ Las resoluciones o sentencias firmes dictadas en términos de la presente Ley, d
 
 Los procedimientos de responsabilidad patrimonial del Estado se iniciarán por reclamación de la parte interesada.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 19.
 
-La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante la Sala Administrativa, conforme a la Ley del Procedimiento Contencioso Administrativo.
+La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, conforme a la Ley del Procedimiento Contencioso Administrativo.
 
 ###### Artículo 20.
 
@@ -231,11 +227,11 @@ Las resoluciones administrativas que se dicten con motivo de los reclamos que pr
 
 Además de lo previsto en el párrafo anterior, las resoluciones administrativas contendrán la valoración del daño causado, así como el monto en dinero o en especie de la indemnización, fundando y motivando de manera detallada los criterios utilizados para tal cuantificación.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 24.
 
-Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante la Sala Administrativa conforme a las leyes de la materia.
+Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, conforme a las leyes de la materia.
 
 ### CAPÍTULO V. Del Procedimiento Contencioso Administrativo
 
@@ -247,11 +243,11 @@ El procedimiento de responsabilidad patrimonial del Estado por la vía contencio
 
 Los actos administrativos afectados de nulidad por sí mismos no presuponen indemnización.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 27.
 
-Las resoluciones dictadas por la Sala Administrativa no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
+Las resoluciones dictadas por el Tribunal de Justicia Administrativa del Estado de Aguascalientes no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
 
 ### CAPÍTULO VI. De la Concurrencia
 
@@ -287,11 +283,11 @@ En el supuesto de que las reclamaciones deriven de hechos o actos dañosos produ
 
 En caso contrario, cuando la lesión reclamada haya sido ocasionada por la actividad del concesionario y no se derive de una determinación impuesta por el concesionante, la reparación correrá a cargo del concesionario.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 32.
 
-En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación de la Sala Administrativa.
+En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación del Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 ### CAPÍTULO VII. De la Prescripción
 
@@ -469,58 +465,10 @@ P.O. 23 DE ENERO DE 2023.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ Y SU TRANSFORMACIÓN EN EL JUZGADO DÉCIMO OCTAVO DE DISTRITO EN LA REFERIDA ENTIDAD FEDERATIVA Y SEDE, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES; Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA RESIDENCIA INDICADOS".]
+P.O. 13 DE MAYO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el treinta y uno de marzo de dos mil dieciséis, con excepción de lo previsto en el transitorio QUINTO, el cual entrará en vigor al día siguiente de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 637.- SE REFORMAN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES; LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, continuará aplicándose hasta el once de abril de dos mil dieciséis.
-
-Las guardias de turno, conforme al sistema del artículo 4 de este Acuerdo, quedan como sigue: del once al dieciocho de abril de dos mil dieciséis, corresponderá al Juzgado Décimo Octavo de Distrito; del dieciocho al veinticinco de abril de dos mil dieciséis, corresponderá al Juzgado Primero de Distrito; del veinticinco de abril al dos de mayo de dos mil dieciséis, al Juzgado Segundo de Distrito; del dos al nueve de mayo de dos mil dieciséis, al Juzgado Decimoquinto de Distrito; del nueve al dieciséis de mayo de dos mil dieciséis, al Juzgado Decimoséptimo de Distrito; del dieciséis al veintitrés de mayo de dos mil dieciséis, al Juzgado Décimo Octavo de Distrito; y así sucesivamente en ese orden de manera semanal.
-
-CUARTO. A la conclusión de funciones de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, la Comisión de Adscripción determinará la readscripción de sus titulares. Para conformar la plantilla del juzgado de Distrito de nueva creación, la Dirección General de Recursos Humanos, vigilará que el personal de los órganos jurisdiccionales auxiliares que concluyen funciones, se integre al referido juzgado, respetando sus derechos laborales.
-
-QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, deberá realizar las acciones necesarias para la ubicación del nuevo órgano jurisdiccional, y para dotarlo de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-SEXTO. Se reforman los numerales SEGUNDO, fracción VII, número 3; y QUINTO, número 4 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a VI. ...
-
-VII. ...
-
-1. ...
-
-2. ...
-
-3. Diecisiete juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba.
-
-VIII. a XXXII. ...
-
-QUINTO. ...
-
-1. a 3. ...
-
-4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y tres juzgados de Distrito Auxiliares.
-
-5. a 11. ...
-
-..."
-
-SÉPTIMO. Se reforma el numeral PRIMERO del Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
-
-"PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, está conformado por dos tribunales colegiados Auxiliares y tres juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
-
-I. Juzgado Tercero de Distrito del Centro Auxiliar de la Cuarta Región;
-
-II. Juzgado Cuarto de Distrito del Centro Auxiliar de la Cuarta Región;
-
-III. Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región;
-
-IV. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región; y
-
-V. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región."
-
-D.O.F. 28 DE ABRIL DE 2016.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
