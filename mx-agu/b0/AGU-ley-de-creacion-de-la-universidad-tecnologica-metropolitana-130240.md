@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-creacion-de-la-universidad-tecnologica-metropolitana-130
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-03"
-last_updated: "2023-05-08"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de septiembre de 2018.
 
@@ -125,7 +125,13 @@ IX.- Administrar libremente su patrimonio con sujeción al marco legal que le im
 
 X.- Las demás que establezcan otras disposiciones legales aplicables.
 
-### CAPÍTULO II. El Patrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
+
+### CAPÍTULO II. El Patrimonio de la Universidad, la Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Primera. El Patrimonio de la Universidad
 
 ###### ARTÍCULO 5°.
 
@@ -154,6 +160,34 @@ A fin de garantizar el buen funcionamiento de la Universidad, para la disposici�
 Los ingresos de la Universidad y los bienes de su propiedad no estarán sujetos a impuestos, contribuciones o derechos estatales o municipales.
 
 Tampoco estarán gravados los actos y contratos en los que ella intervenga, si las contribuciones y/o aprovechamientos, conforme a las leyes respectivas, debieran estar a cargo de la Universidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Segunda. La Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTICULO 7° A.- Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTICULO 7° B.- Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ## TÍTULO II. LA ORGANIZACIÓN
 
@@ -558,3 +592,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
