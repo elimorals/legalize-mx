@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-139634"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2024-01-08"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
@@ -319,7 +319,9 @@ Para ser titular se requiere acreditar:
 
 I. Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos, debiendo tener residencia efectiva en el Estado no menor a dos años;
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+II. Al momento de su designación no haya sido condenada por algún delito por hechos de corrupción, como los previstos en el Código Penal Federal o por delito que tenga previsto como tipos penales protectores de la Administración Pública en el Código Penal para el Estado de Aguascalientes, ni por algún otro delito doloso que se haya cometido en el ejercicio de la función pública, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia; así como no encontrarse inhabilitada por la comisión de faltas administrativas graves señaladas por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
 III. Contar con título de licenciatura y cédula profesional;
 
@@ -974,3 +976,11 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 642.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
