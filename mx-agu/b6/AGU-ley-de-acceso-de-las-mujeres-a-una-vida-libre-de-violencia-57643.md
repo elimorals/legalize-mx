@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2024-01-15"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -775,61 +775,75 @@ El Consejo Estatal para la Erradicación de la Violencia de Género contra las M
 
 El Consejo se conformará por:
 
-I. El Gobernador Constitucional del Estado, quien fungirá como Presidente Honorario;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-II. El titular de la Secretaria General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
+I. La persona titular del Poder Ejecutivo del Estado, quien fungirá en la presidencia honoraria;
 
-III. Un representante de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-IV. Un representante de la Secretaria de Seguridad Pública;
+II. La persona titular de la Secretaria General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-V. Un representante de la Secretaría de Desarrollo Social;
+III. Una persona representante de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-VI. Un representante de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+IV. Una persona representante de la Secretaria de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-VII. Un representante de la Coordinación General de Planeación y Proyectos;
+V. Una persona representante de la Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-VIII. Un representante de la Fiscalía General del Estado;
+VI. Una persona representante de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-IX. Un representante del Instituto de Educación del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+VII. Una persona representante de la Secretaría de Planeación, Participación y Desarrollo;
 
-X. Un representante del Instituto de Servicios de Salud del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+VIII. Una persona representante de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IX. Una persona representante del Instituto de Educación del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+X. Una persona representante del Instituto de Servicios de Salud del Estado;
 
 XI. Una representante del Instituto Aguascalentense de las Mujeres;
 
-XII. Un representante del Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XIII. Un representante del Presidente de la Comisión Estatal de Derechos Humanos;
+XII. Una persona representante del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XIV. Un representante del Instituto Estatal Electoral;
+XIII. Una persona representante del Presidente de la Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XV. Un representante de la Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
+XIV. Una persona representante del Instituto Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XVI. Tres representantes de organizaciones civiles especializadas en la materia;
+XV. Una persona representante de la Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XVII. Un representante del Supremo Tribunal de Justicia del Poder Judicial del Estado; y
+XVI. Tres personas representantes de organizaciones civiles especializadas en la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XVIII. Dos representantes de instituciones de investigación especializados en la materia.
+XVII. Una persona representante del Supremo Tribunal de Justicia del Poder Judicial del Estado; y
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XVIII. Dos personas representantes de instituciones de investigación especializados en la materia.
 
 ###### Artículo 37.
 
@@ -2030,3 +2044,11 @@ P.O. 15 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 643.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
