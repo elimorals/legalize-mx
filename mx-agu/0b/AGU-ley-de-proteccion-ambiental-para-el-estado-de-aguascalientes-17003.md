@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-01-15"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -643,13 +643,17 @@ Prevenir la generación y controlar el manejo integral de los residuos sólidos 
 
 XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad; y
+XXIX. Proponer en sus Leyes de Ingresos, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
 
-XXX. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
+XXX. Implementar programas y acciones para la instalación de forma progresiva de luminarias ahorradoras de energía tipo LED, sustituyendo o instalando nuevas luminarias como parte de la estructura del alumbrado público municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2024)</small>
+
+XXXI. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -4188,3 +4192,11 @@ P.O. 15 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 – El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 652.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Los Municipios del Estado de Aguascalientes, conforme a sus posibilidades, destinarán los recursos financieros que les permitan ponderar la implementación e instalación de luminarias ahorradoras tipo LED para el servicio de alumbrado público
