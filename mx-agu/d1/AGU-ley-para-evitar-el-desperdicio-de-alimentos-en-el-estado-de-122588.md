@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-evitar-el-desperdicio-de-alimentos-en-el-estado-de-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2023-05-08"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EVITAR EL DESPERDICIO DE ALIMENTOS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de julio de 2017.
 
@@ -43,9 +43,11 @@ LEY PARA EVITAR EL DESPERDICIO DE ALIMENTOS EN EL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de observancia general en el Estado de Aguascalientes, sus disposiciones son de orden público e interés social, y tiene por objeto prevenir el desperdicio de alimentos, incentivar la donación de los mismos, y garantizar el derecho universal a la alimentación y a la seguridad alimentaria para todos los habitantes del Estado de Aguascalientes.
+La presente Ley es de observancia general en el Estado de Aguascalientes, sus disposiciones son de orden público e interés social, y tiene por objeto prevenir la pérdida y el desperdicio de alimentos, incentivar la donación de los mismos, y garantizar el derecho universal a la alimentación y a la seguridad alimentaria para todos los habitantes del Estado de Aguascalientes.
 
 ###### Artículo 2°.
 
@@ -95,9 +97,17 @@ XIII.- Ley: Ley para Evitar el Desperdicio de Alimentos en el Estado de Aguascal
 
 XIV.- Padrón Alimentario: Padrón Estatal de Donatarios Alimentarios del DIF;
 
-XV.- Población Vulnerable: grupos sociales en condiciones de pobreza y pobreza extrema; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
 
-XVI.- Secretaría: Secretaría de Bienestar y Desarrollo Social del Gobierno del Estado de Aguascalientes.
+XV.- Pérdida de alimentos: la disminución de calidad o cantidad de los alimentos como consecuencia de las decisiones y acciones de los proveedores de alimentos en la cadena, de suministro de alimentos, ya sea en la etapa de producción, poscosecha, almacenamiento o procesamiento de alimentos, sin incluir la venta al por menor, los proveedores de servicios alimentarios y los consumidores;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XVI.- Población Vulnerable: grupos sociales en condición de pobreza y pobreza extrema; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE MAYO DE 2024)</small>
+
+XVII.- Secretaría: Secretaría de Desarrollo Social del Gobierno del Estado de Aguascalientes.
 
 ###### Artículo 4°.
 
@@ -358,3 +368,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 – Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 638.- SE REFORMA LA LEY PARA EVITAR EL DESPERDICIO DE ALIMENTOS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
