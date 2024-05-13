@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2024-01-22"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -9725,9 +9725,9 @@ X. Cualquier otra que contravenga lo dispuesto en este Código, programas aplica
 
 Serán nulos todos los actos que se celebren en contravención a lo dispuesto en este Código, así como los programas previstos en el mismo.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-La SEPLADE, los Municipios y demás autoridades a que se refiere este Código, en el ámbito de su competencia territorial, podrán impugnar dichos actos ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, a través del juicio previsto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+La SEPLADE, los Municipios y demás autoridades a que se refiere este Código, en el ámbito de su competencia territorial, podrán impugnar dichos actos ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, a través del juicio previsto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
 ###### ARTÍCULO 817.
 
@@ -10100,5 +10100,13 @@ P.O. 22 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 564.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUSCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+> <small>[N. DE E. TRANSITORIO “DECRETO NÚMERO 637.- SE REFORMAN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES; LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
