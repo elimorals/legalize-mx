@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2024-01-08"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -367,13 +367,15 @@ El procedimiento que seguirá el Congreso del Estado se apegará a lo dispuesto 
 
 Los Ayuntamientos tienen como función general el gobierno del Municipio y como atribuciones y facultades las siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-I. Aprobar y expedir reglamentos, Bando Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, así como en materia de movilidad y seguridad vial, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
+I. Aprobar y expedir reglamentos, bandos, códigos y demás disposiciones administrativas de carácter general, necesarias para su funcionamiento, el ejercicio de sus atribuciones, la organización y prestación de los servicios públicos, la salvaguarda de la moralidad, la salubridad, la tranquilidad y la seguridad de las personas y sus bienes, así como la participación ciudadana y vecinal;
 
 II. Señalar en sus reglamentos y bandos, las sanciones a que se sujetarán los infractores, cuidando que las mismas se ejecuten;
 
-III. Presentar ante el Congreso del Estado las iniciativas de Ley, en asuntos de su competencia, en los términos de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+III. Presentar ante el Congreso del Estado las iniciativas de Ley en asuntos de su competencia, en los términos de la Constitución Política del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
 
@@ -447,9 +449,9 @@ XXXI. Cuidar y exigir del Presidente Municipal, Regidores, Síndicos, Secretario
 
 XXXII. Considerar los informes que rindan los regidores, autoridades subalternas y empleados, así como resolver acerca de los puntos a que los mismos hagan referencia;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XXXIII. Revisar la cuenta pública que trimestralmente presente el Comisionado de Hacienda, para su remisión al Congreso del Estado;
+XXXIII. Revisar la cuenta pública que trimestralmente presente el Comisionado de Hacienda para su remisión al Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -521,7 +523,9 @@ LIV. Formular y aprobar los planes y programas conducentes al desarrollo municip
 
 LV. Solicitar en términos de la Ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
 
-LVI. Los municipios podrán coordinarse entre sí, con municipios de otros estados o bien con el Gobierno del Estado, para la solución de problemas comunes. Esta coordinación se llevará a cabo por medio de los convenios respectivos que se celebren de conformidad con lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+LVI. Los municipios del Estado podrán coordinarse entre sí, con municipios de otros estados y con el Gobierno del Estado, para la solución de problemas comunes. Esta coordinación se llevará a cabo por medio de los convenios que se celebren de conformidad con lo dispuesto en la Constitución Política del Estado y la presente Ley;
 
 LVII. Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
@@ -593,9 +597,9 @@ d) Promover créditos financieros, estímulos fiscales y capacitación para los 
 
 e) Implementar acciones para que la juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales.
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en todos los ámbitos que le establece la Ley General de Educación, así como en el caso de las micro y pequeñas empresas, instrumentar acciones y políticas públicas encaminadas a su crecimiento y consolidación, a la par de fomentar el autoempleo;
+LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en todos los ámbitos establecidos por la Ley General de Educación e instrumentar acciones y políticas públicas encaminadas al crecimiento y consolidación de las micro y pequeñas empresas y al fomento del autoempleo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
 
@@ -613,11 +617,15 @@ Los ayuntamientos vigilarán que los acuerdos, políticas y decisiones tomadas e
 
 ### CAPITULO CUARTO. Facultades y Obligaciones de los Presidentes Municipales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 38.
 
-El Presidente Municipal ejecutará los acuerdos tomados por el Ayuntamiento, y para el cumplimiento de sus funciones tendrá las siguientes facultades y obligaciones:
+El Presidente Municipal ejecutará los acuerdos tomados por el Ayuntamiento y para el cumplimiento de sus funciones tendrá las siguientes facultades y obligaciones:
 
-I. Promulgar y publicar los reglamentos y bandos municipales;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+I. Promulgar y publicar los reglamentos, bandos, códigos y demás disposiciones de carácter general emitidos por el Ayuntamiento;
 
 II. Dar publicidad a las normas de carácter general, aprobadas por el Ayuntamiento;
 
@@ -641,11 +649,17 @@ VII. Convocar a los regidores y síndicos a la celebración de sesiones extraord
 
 VIII. Vigilar que la recaudación de la Hacienda Municipal en todas sus ramas, se haga con apego a lo dispuesto por las leyes respectivas;
 
-IX. Vigilar que el manejo y la inversión de los fondos municipales, se realice con estricto apego al Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-X. Dar trámite y seguimiento a los asuntos que competan a Secretaría, en forma puntual y oportuna;
+IX. Vigilar que el manejo y la inversión de los fondos municipales se realicen con estricto apego al Presupuesto de Egresos;
 
-XI. Legalizar conjuntamente al Secretario toda correspondencia, actas y disposiciones emanadas del Ayuntamiento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+X. Dar trámite y seguimiento a los asuntos que competan a la Secretaría del Ayuntamiento en forma puntual y oportuna;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XI. Legalizar conjuntamente con el Secretario del Ayuntamiento toda correspondencia, actas y disposiciones emanadas del Ayuntamiento;
 
 XII. Vigilar e inspeccionar a las dependencias municipales, y demás unidades administrativas que el Ayuntamiento determine cerciorándose que se desempeñen correctamente y tomar las medidas que estime necesarias, para el mejor funcionamiento de las mismas, e informar sobre su estado al Ayuntamiento;
 
@@ -653,7 +667,9 @@ XII. Vigilar e inspeccionar a las dependencias municipales, y demás unidades ad
 
 XIII. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Secretaría de Finanzas;
 
-XIV. Tener bajo su mando los cuerpos de seguridad pública, nombrar y remover a los jefes y agentes de policía y tránsito del Ayuntamiento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XIV. Tener bajo su mando los cuerpos de seguridad pública y nombrar a los jefes y agentes de policía y tránsito del Municipio;
 
 XV. Ordenar, y en su caso vigilar que las visitas domiciliarias que realice la administración pública municipal, cumplan con lo dispuesto por el artículo 16 de la Constitución Federal;
 
@@ -661,9 +677,9 @@ XVI. Imponer las sanciones administrativas por las faltas al Bando, reglamentos 
 
 XVII. Celebrar a nombre del Municipio y por acuerdo del Ayuntamiento, todos los actos y contratos necesarios, conducentes al desempeño de los negocios administrativos y a la eficaz prestación de servicios públicos municipales;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XVIII. Expedir a la Secretaría de Finanzas las órdenes de pago que sean conforme a I (sic) presupuesto aprobado, firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizasen algún gasto no previsto en dicho presupuesto;
+XVIII. Expedir a la Secretaría de Finanzas las órdenes de pago que sean conforme al presupuesto aprobado y firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizan algún gasto no previsto en dicho presupuesto;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -893,11 +909,11 @@ V. No haber sido sentenciado por delito intencional que merezca pena privativa d
 
 VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 50.
 
-La Secretaría de Finanzas es el órgano encargado de la recaudaci6n (sic) de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento
+La Secretaría de Finanzas es el órgano encargado de la recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
 
@@ -1187,7 +1203,9 @@ Los municipios tendrán a su cargo la prestación, explotación, administración
 
 I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-II. Alumbrado público;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+II. Alumbrado Público, en el que se ponderará la implementación e instalación de luminarias tipo LED;
 
 III. Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
@@ -1225,13 +1243,11 @@ II. La recaudación de ingresos municipales.
 
 Los servicios públicos prestados directa o indirectamente por el Ayuntamiento, serán supervisados por los regidores o los órganos municipales respectivos en la forma que determine esta Ley y los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 77.
 
-La prestación de los servicios públicos deberá realizarse por los ayuntamientos, sus unidades administrativas u organismos auxiliares, para lo cual el Ayuntamiento podrá coordinarse con el Estado o con otros municipios para la eficacia de los mismos.
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
-
-Conforme al Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y Artículo 69 de la Constitución Política del Estado de Aguascalientes, cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. En estos supuestos, el Estado no podrá concesionar o contratar el servicio con particulares salvo que se cuente con el consentimiento del Municipio de que se trate, caso en el cual el Municipio deberá respetar el plazo, términos y condiciones del contrato o concesión que otorgada por el Estado. El Estado otorgará las concesiones y celebrará los contratos de prestación de servicios por conducto del titular del Poder Ejecutivo o en su caso, por el titular de la entidad paraestatal que corresponda.
+La prestación de los servicios públicos deberá realizarse por los ayuntamientos, sus unidades administrativas u organismos auxiliares, para lo cual se podrán coordinar con el Gobierno del Estado o con otros municipios para una mayor eficacia de los mismos.
 
 ###### Artículo 78.
 
@@ -1291,13 +1307,17 @@ Para el caso de que se concesione este último, ya sea por un Municipio o por el
 
 A efecto de optimizar el servicio de agua potable, drenaje y alcantarillado, tratamiento y disposición de las aguas residuales, así como las redes de captación de agua pluvial, los municipios deberán contar con una carta hídrica, y considerar su contenido al momento de autorizar a los fraccionadores o desarrolladores de vivienda o industriales, al momento de construir las instalaciones y conexiones de agua potable y alcantarillado de conformidad con el Artículo 83 de la Ley de Agua para el Estado de Aguascalientes; a efecto de que las redes de distribución o captación de aguas, sean las necesarias para el crecimiento ordenado de los centros de población, de acuerdo a la planeación Municipal.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 79 Bis.
 
-Por carta hídrica se debe entender el documento que derivado del empleo de productos cartográficos y dispositivos informáticos, compile el conjunto de datos concentrados por las dependencias u órganos de los gobiernos municipales, sobre la ubicación de los mantos acuíferos y su capacidad, tipo y características de las redes de agua potable, de la red de alcantarillado, colectores de agua pluvial, pozos y su nivel de abatimiento, así como zonas de aprovechamiento de fallas geológicas para captación de agua pluvial.
+Por carta hídrica se entiende el documento que derivado del empleo de productos cartográficos y dispositivos informáticos, compile el conjunto de datos concentrados por las dependencias u órganos de los gobiernos municipales, sobre la ubicación de los mantos acuíferos y su capacidad, el tipo y características de las redes de agua potable y de alcantarillado, de los colectores de agua pluvial, pozos y su nivel de abatimiento, así como zonas de aprovechamiento de fallas geológicas para captación de agua pluvial.
 
-La Carta Hídrica tiene por objeto que los usuarios, fraccionadores y desarrolladores, que soliciten autorización de proyectos de acuerdo a la Ley de Agua del Estado, conozcan la situación real de las redes y de los acuíferos de los que se abastece una zona en espeoífico (sic), y se tomen en consideración que necesidades se presentarán a futuro en el nuevo proyecto y evitar con ello el desabasto, insuficiencia u obsolescencia de la red, procurando que la información con la que se cuenta constituya un crecimiento sustentable de las redes. La información de la Carta Hídrica, deberá ser la referencia para cualquier autorización de proyecto o factibilidad.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+La Carta Hídrica tiene por objeto que los usuarios, fraccionadores y desarrolladores, que soliciten autorización de proyectos de acuerdo a la Ley de Agua del Estado, conozcan la situación real de las redes y de los acuíferos de los que se abastece una zona en específico, y se tomen en consideración que necesidades se presentarán a futuro en el nuevo proyecto y evitar con ello el desabasto, insuficiencia u obsolescencia de la red, procurando que la información con la que se cuenta constituya un crecimiento sustentable de las redes. La información de la Carta Hídrica, deberá ser la referencia para cualquier autorización de proyecto o factibilidad.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE JUNIO DE 2018)</small>
 
 El documento solicitado por los usuarios, fraccionadoras, urbanizadoras y desarrolladoras, con independencia de la información contenida en las factibilidades solicitadas, deberá contener como mínimo la siguiente información:
 
@@ -1431,9 +1451,11 @@ Los bandos, reglamentos y disposiciones de observancia general deberán publicar
 
 ### CAPITULO PRIMERO. De la Responsabilidad de los Servidores Públicos Municipales
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 95.
 
-Son servidores públicos municipales, los integrantes del Ayuntamiento, los titulares de las diferentes dependencias de la administración pública municipal y todos aquellos que desempeñen un empleo, cargo o comisión en la misma. Dichos servidores públicos municipales serán responsables de los delitos y faltas administrativas que comentan (sic) durante su encargo.
+Son servidores públicos municipales los integrantes del Ayuntamiento, los titulares de las diferentes dependencias de la administración pública municipal y todos aquellos que desempeñen un empleo, cargo o comisión en la misma. Dichos servidores públicos municipales serán responsables de los delitos y faltas administrativas que cometan durante su encargo.
 
 ###### Artículo 96.
 
@@ -1567,9 +1589,9 @@ VI. Coadyuvar con las dependencias competentes en las acciones y programas de se
 
 VII. Prestar servicios de atención y asesoría jurídica, psicológica y social a las receptoras de la violencia familiar.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-Para tales efectos, el Sistema Municipal para el Desarrollo Integral de la Familia tendrá adscritos los Servidores Públicos necesarios (sic) acuerdo a lo que el Reglamento de la Ley en materia de Violencia Familiar establezca. Sin menoscabo del auxilio que recibirá de los cuerpos policíacos municipales.
+Para tales efectos, el Sistema Municipal para el Desarrollo Integral de la Familia tendrá adscritos los servidores públicos necesarios de acuerdo a lo que el Reglamento de la Ley en materia de Violencia Familiar establezca. Sin menoscabo del auxilio que recibirá de los cuerpos policíacos municipales.
 
 ## TITULO OCTAVO. DISPOSICIONES REGLAMENTARIAS
 
@@ -2235,9 +2257,11 @@ IV. Vincular el Plan de Desarrollo Municipal con los planes de Desarrollo Federa
 
 V. Aplicar de manera racional los recursos financieros para el cumplimiento del Plan y los programas de Desarrollo.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 165.
 
-El Plan de Desarrollo Municipal contendrá por lo menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieren para su cumplimiento, de conformidad con lo establecido en el Código Urbano para (sic) Estado de Aguascalientes.
+El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieren para su cumplimiento, de conformidad con lo establecido en el Código Urbano para el Estado de Aguascalientes.
 
 ###### Artículo 166.
 
@@ -2820,3 +2844,19 @@ P.O. 8 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 650.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 652.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.– El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.– Los Municipios del Estado de Aguascalientes, conforme a sus posibilidades, destinarán los recursos financieros que les permitan ponderar la implementación e instalación de luminarias ahorradoras tipo LED para el servicio de alumbrado público.
