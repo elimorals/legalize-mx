@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-el-retono-aguascalientes-1673
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-07"
-last_updated: "2023-08-07"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección al Núm. 32 del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de agosto de 2023.
 
@@ -127,9 +127,13 @@ IX. Suscribir contratos y convenios con personas físicas o morales y con instit
 
 X. Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención del título de Técnico Superior Universitario; así como programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura y posgrados, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe la SEP, a través de la Dirección General de Universidades Tecnológicas y Politécnicas o de la autoridad competente adscrita a la propia SEP, los cuales deberán garantizar una formación profesional y una cultura científica y tecnológica.
 
-### CAPÍTULO III. Patrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
 
-#### Sección Primera. Consejo Directivo
+### CAPÍTULO III. Del Patrimonio de la Universidad, la Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Primera. El Patrimonio de la Universidad
 
 ###### Artículo 8.
 
@@ -165,7 +169,33 @@ Los ingresos que obtenga la Universidad por concepto de colegiaturas y cuotas de
 
 El ejercicio de los recursos de la universidad se ajustará siempre a los criterios de racionalidad y disciplina presupuestal y al cumplimiento de las disposiciones legales aplicables en la materia.
 
-#### Sección Segunda. Rectoría
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Segunda. La Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Artículo 12 A. Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Artículo 12 B. Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ### CAPÍTULO IV. Organización
 
@@ -215,7 +245,7 @@ Para el caso de las demás personas servidoras públicas que ocupen cargos infer
 
 ### CAPÍTULO V. Órganos de Gobierno y Administración
 
-#### Sección Primera. Dirección Académica
+#### Sección Primera. Consejo Directivo
 
 ###### Artículo 16.
 
@@ -299,7 +329,7 @@ VIII. Designar a los miembros del Patronato de la Universidad, y
 
 IX. Las demás que se establezcan en la Ley y en otras disposiciones legales y reglamentarias aplicables.
 
-#### Sección Segunda. Dirección de Administración y Finanzas
+#### Sección Segunda. Rectoría
 
 ###### Artículo 22.
 
@@ -335,7 +365,7 @@ VII. Las demás que le otorguen el Consejo Directivo, la Ley, el Estatuto y los 
 
 ### CAPÍTULO VI. Unidades Administrativas
 
-#### Sección Tercera. Dirección de Vinculación y Extensión Universitaria
+#### Sección Primera. Dirección Académica
 
 ###### Artículo 25.
 
@@ -343,7 +373,7 @@ Al frente de la Dirección Académica habrá una persona titular denominada Dire
 
 Las facultades y obligaciones de la Dirección Académica se regularán de manera específica en el Estatuto, Manuales de Organización y demás disposiciones aplicables según corresponda, garantizando el objeto de la presente Ley.
 
-#### Sección Única. Patronato
+#### Sección Segunda. Dirección de Administración y Finanzas
 
 ###### Artículo 26.
 
@@ -351,7 +381,7 @@ Al frente de la Dirección de Administración y Finanzas habrá una persona titu
 
 Las facultades y obligaciones de la Dirección de Administración y Finanzas se regularán de manera específica en el Estatuto, Manuales de Organización y demás disposiciones aplicables según corresponda, garantizando el objeto de la presente Ley.
 
-#### Sección Primera. Órgano de Vigilancia
+#### Sección Tercera. Dirección de Vinculación y Extensión Universitaria
 
 ###### Artículo 27.
 
@@ -361,7 +391,7 @@ Las facultades y obligaciones de la Dirección de Vinculación y Extensión Univ
 
 ### CAPÍTULO VII. Órganos Colegiados de Apoyo
 
-#### Sección Segunda. Órgano Interno de Control
+#### Sección Única. Patronato
 
 ###### Artículo 28.
 
@@ -371,7 +401,7 @@ La organización y funcionamiento del Patronato de la Universidad estará regula
 
 ### CAPÍTULO VIII. Órganos de Control y Evaluación
 
-#### Sección Primera. Personal
+#### Sección Primera. Órgano de Vigilancia
 
 ###### Artículo 29.
 
@@ -381,7 +411,7 @@ El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de 
 
 La o el Comisario Público cuenta con facultades para evaluar el desempeño general y por funciones de la Universidad, realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitar la información y efectuar los actos que requiera para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente y demás disposiciones aplicables. Para el cumplimiento de las funciones citadas el Consejo Directivo y el Rector deberán proporcionar la información que solicite la o el Comisario Público de la Universidad y el Órgano Superior de Fiscalización del Estado, este último únicamente respecto de las cuentas públicas que le sean presentadas.
 
-#### Sección Segunda. Régimen Laboral
+#### Sección Segunda. Órgano Interno de Control
 
 ###### Artículo 31.
 
@@ -509,7 +539,7 @@ XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglam
 
 ### CAPÍTULO IX. Disposiciones Complementarias
 
-#### Sección Tercera. Ausencias y Suplencias
+#### Sección Primera. Personal
 
 ###### Artículo 36.
 
@@ -519,11 +549,13 @@ Para el cumplimiento de sus funciones, la Universidad contará con el personal a
 
 Los nombramientos definitivos del personal académico de la Universidad se otorgarán por el sistema de oposición para garantizar el ingreso, promoción y la permanencia del personal altamente calificado, ajustándose a los procedimientos dispuestos en el Estatuto y el reglamento respectivo. Los principios de libertad de cátedra y de libre investigación normarán la actividad académica y de investigación universitaria.
 
-#### Sección Cuarta. Alumnos
+#### Sección Segunda. Régimen Laboral
 
 ###### Artículo 38.
 
 Las relaciones de trabajo entre la Universidad y sus trabajadores se regularán por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+
+#### Sección Tercera. Ausencias y Suplencias
 
 ###### Artículo 39.
 
@@ -540,6 +572,8 @@ Las ausencias temporales, de casos especiales o definitivas, así como las suple
 ###### Artículo 41.
 
 Las personas servidoras públicas que cubran las ausencias temporales o especiales, actuarán con todas las facultades que correspondan a la persona titular, independientemente de las de su propio cargo.
+
+#### Sección Cuarta. Alumnos
 
 ###### Artículo 42.
 
@@ -604,3 +638,17 @@ CUAUHTÉMOC ESCOBEDO TEJADA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 28 de julio de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
