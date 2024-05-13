@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2024-01-01"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -1945,6 +1945,14 @@ ARTICULO 84 BIS.- Son sesiones A Distancia aquellas que se llevan a cabo a trav�
 
 Estas sesiones se apegarán en lo conducente a lo establecido en los capítulos segundo, tercero, cuarto, quinto y sexto del presente título.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Los miembros del H. Ayuntamiento que se encuentren imposibilitados para asistir de manera física a las Sesiones, por situaciones de emergencia, urgencia o de primera necesidad personal, podrán asistir de manera remota o A Distancia, a través de herramientas tecnológicas que permitan una clara transmisión de audio y video, a efecto de lograr el efectivo cercioramiento de la identidad del miembro del Ayuntamiento, así como del contenido de sus intervenciones y del sentido de sus votaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Se entiende por emergencia, urgencia o de primera necesidad personal toda situación de peligro, desastre, accidente o falta apremiante que requiera de una acción inmediata.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 85.
@@ -2007,6 +2015,14 @@ VIII.- Clausura de la sesión.
 
 Los Regidores y el Síndico deberán ser citados con dos días naturales de anticipación como mínimo, por el Presidente Municipal, a través del Secretario del H. Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+En el caso de sesiones extraordinarias, el citatorio podrá notificarse en un plazo menor.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Las citaciones deberán realizarse de manera personal en el domicilio del integrante del Ayuntamiento a notificar o con alguna persona mayor de edad que atienda en el domicilio; no obstante, para el caso de que dicha persona no se encuentre localizable en su domicilio o que no haya persona alguna que atienda la notificación, la citación podrá realizarse por medios electrónicos, previa constancia de que se acudió al domicilio para notificar.
+
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 90.
@@ -2015,11 +2031,15 @@ Al citatorio correspondiente se anexará el orden del día y copia de los dictá
 
 Los anexos al citatorio podrán ser remitidos a los munícipes por medio de correo electrónico u otro medio digital.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 91.
 
-En el caso de sesiones extraordinarias, el citatorio podrá notificarse en un plazo menor, acompañando copia de los dictámenes que se someterán a discusión y votación en forma documental o electrónica según el caso.
+Los integrantes del Cabildo deberán registrar cuando menos un correo electrónico ante la Secretaría del Ayuntamiento, quien podrá adicionalmente habilitar discrecionalmente otros medios electrónicos de comunicación, como redes sociales o aplicaciones de servicios de mensajería instantánea.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Las citaciones por medios electrónicos se entenderán por realizadas efectivamente en la fecha y hora en que fueran remitidas, siempre que se hubieren llevado a cabo a través de los medios registrados, teniendo la Secretaría del Ayuntamiento la obligación de guardar registro de las constancias de citación efectuadas.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -30586,3 +30606,11 @@ P.O. 1 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA Y REFORMA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN UN TERCER Y UN CUARTO PÁRRAFO AL ARTÍCULO 84 BIS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los miembros del Ayuntamiento contarán con quince días hábiles a efecto de realizar el registro del correo electrónico, usuario, número o cualquier otro dato que sea requerido, a partir de que el Secretario del Ayuntamiento les dé a conocer los medios electrónicos que se encontrarán habilitados para la realización de la citación y remisión de anexos correspondientes para la celebración de las Sesiones de Cabildo.
