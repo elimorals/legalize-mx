@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122347
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-03"
-last_updated: "2023-06-12"
+last_updated: "2024-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de julio de 2017.
 
@@ -1811,9 +1811,11 @@ De persistir el incumplimiento, se aplicarán sobre aquél las medidas de apremi
 
 Transcurrido el plazo, sin que se haya dado cumplimiento, se dará vista a la autoridad competente en materia de responsabilidades administrativas.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 174.
 
-En contra de la resolución que imponga medidas de apremio, el responsable podrá impugnarla ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes.
+En contra de la resolución que imponga medidas de apremio, el responsable podrá impugnarla ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 ###### Artículo 175.
 
@@ -1940,3 +1942,11 @@ P.O. 12 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 637.- SE REFORMAN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES; LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
