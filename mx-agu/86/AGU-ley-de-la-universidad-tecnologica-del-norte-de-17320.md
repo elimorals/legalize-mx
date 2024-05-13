@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-del-norte-de-17320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2016-02-15"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 
@@ -387,7 +387,13 @@ VII. Las demás que le encomienden las disposiciones legales aplicables.
 
 ## TITULO CUARTO. DEL PATRIMONIO DE LA UNIVERSIDAD
 
-### CAPITULO UNICO. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
+
+### CAPITULO UNICO. El Patrimonio de la Universidad, la Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### SECCION PRIMERA. El Patrimonio de la Universidad
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -420,6 +426,34 @@ Los bienes inmuebles que formen parte del patrimonio universitario serán inalie
 Corresponderá al Consejo Directivo solicitar al titular del Poder Ejecutivo la declaratoria de desincorporación de algún inmueble patrimonio de la Universidad, cuando éste deje de estar sujeto a la prestación del servicio propio de su objeto; a fin de que sea inscrita su desincorporación en el Registro Público de la Propiedad correspondiente, caso en el cual el inmueble desincorporado del dominio público será considerado bien del dominio privado de la institución y sujeto a las disposiciones de derecho común.
 
 Para proceder a la solicitud de desincorporación del dominio público de un inmueble de la Universidad, el Comisario Público deberá emitir el dictamen correspondiente para su análisis y aprobación en su caso por el Consejo Directivo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+
+#### SECCION SEGUNDA. La Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTICULO 25 A.- Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTICULO 25 B.- Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al (sic) espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ## TITULO QUINTO. DEL PERSONAL DE LA UNIVERSIDAD
 
@@ -524,3 +558,15 @@ El presente Decreto iniciara su vigencia a partir del día siguiente de su publi
 ###### ARTÍCULO SEGUNDO.
 
 El Rector de la Universidad que se encuentre en funciones a la fecha de inicio de vigencia del presente Decreto, continuará en su cargo, hasta concluir un periodo de cuatro años, contados a partir del momento en que tomó posesión del cargo de Rector.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
