@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2024-04-01"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3577,11 +3577,17 @@ II.- El ascendiente que no la ejerza contra el o los otros que lo hagan;
 
 III.- Los hermanos y demás parientes colaterales del menor dentro del tercer grado en contra del ascendiente que la ejerza con exclusividad o en contra de aquellos que la ejerzan simultáneamente;
 
-IV.- El Ministerio Público; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+IV.- El Ministerio Público;
 
-V.- La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+V.- La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+VI.- Los tutores y/o personas que tengan a su cargo la custodia de los niños, niñas o adolescentes como hijos propios, cuando la conducta de los padres, sea nociva para la integridad y/o formación del menor, o por encontrarse éste en situación de abandono.
 
 ###### Artículo 468.
 
@@ -3615,17 +3621,23 @@ VI.- Cuando en una resolución judicial firme, se determine la existencia de ali
 
 En todos los casos el Juez deberá valorar que la declaración de suspensión de la patria potestad sea consecuente al interés superior de la niña, niño o adolescente involucrado.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 470.
 
-La patria potestad sólo es renunciable en los casos siguientes:
+La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla pueden excusarse:
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
 
 I.- Al contraer segundas nupcias; y
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
+
 II.- Cuando se entregue al menor a una institución de asistencia social pública o privada para darlo en adopción.
 
-Los abuelos pueden excusarse de ejercerla, cuando tengan sesenta años cumplidos, y cuando por el mal estado habitual de su salud, no puedan atender debidamente a su desempeño. El ascendiente que renuncie la patria potestad o se excuse de desempeñarla, no puede recobrarla, a excepción de la madre cuando quede libre del matrimonio que motivó su renuncia.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Los abuelos pueden excusarse de ejercerla, cuando tengan sesenta años cumplidos, y cuando por el mal estado habitual de su salud, no puedan atender debidamente a su desempeño. El ascendiente que se excuse del ejercicio de la patria potestad; no puede recobrarla, a excepción de la madre o el padre cuando queden libres del matrimonio que motivó su excusa.
 
 ## TITULO NOVENO.
 
@@ -7563,11 +7575,17 @@ La disposición hecha en términos vagos en favor de los parientes del testador,
 
 La expresión de una falsa causa, será considerada como no escrita; a no ser que del mismo testamento resulte que el testador no habría hecho aquella disposición conociendo la falsedad de la causa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 1215.
 
-Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fué otra la voluntad del testador.
+Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad de la persona testadora.
 
 En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Asimismo, solamente en caso de que el nombre de la persona testadora o de las personas herederas contenga una variación o variaciones provenientes de errores evidentemente ortográficos, de escritura o abreviaturas, el testamento podrá ser interpretado adminiculando dichos elementos a efecto de deducir que se trata de la misma persona bajo algunas variaciones mínimas en su nombre; con lo cual podrá decretar el entroncamiento correspondiente, sin necesidad de otras pruebas o procedimientos.
 
 ###### Artículo 1216.
 
@@ -17742,3 +17760,19 @@ P.O. 1 DE ABRIL DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 639.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 640.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
