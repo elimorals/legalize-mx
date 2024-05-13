@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-calvillo-del-9503
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-07-08"
-last_updated: "2017-10-02"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -113,9 +113,13 @@ XVI. Expedir las disposiciones necesarias a fin de hacer efectivas las atribucio
 
 XVII. Las demás que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, y las autoridades educativas.
 
-### CAPÍTULO II. Del Patrimonio de la Universidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
 
-#### SECCIÓN PRIMERA. Del Consejo Directivo
+### CAPÍTULO II. Del Patrimonio de la Universidad, la Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Primera. El Patrimonio de la Universidad
 
 ###### ARTÍCULO 6°.
 
@@ -141,7 +145,33 @@ Los bienes inmuebles que formen parte del patrimonio de la Universidad, tendrán
 
 El Consejo Directivo podrá solicitar a la autoridad estatal competente, de conformidad con las disposiciones normativas aplicables, la desafectación de algún inmueble patrimonio de la Universidad, cuando éste deje de estar sujeto a la prestación del servicio propio de su objeto, a fin de que sea inscrita su desafectación en el Registro Público de la Propiedad correspondiente, en cuyo caso el inmueble desafectado será considerado bien del dominio privado de la Universidad y sujeto a las disposiciones de derecho común.
 
-#### SECCIÓN SEGUNDA. Del Rector
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Segunda. La Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTÍCULO 8° A.- Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTÍCULO 8° B.- Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ### CAPÍTULO III. De los Órganos de la Universidad
 
@@ -155,7 +185,7 @@ II. El Rector; y
 
 III. Patronato.
 
-#### SECCIÓN TERCERA. Del Patronato
+#### SECCIÓN PRIMERA. Del Consejo Directivo
 
 ###### ARTÍCULO 10.
 
@@ -227,6 +257,8 @@ VIII. Vigilar el cumplimiento del convenio al que hace referencia el Artículo 3
 
 IX. Las demás que señale la presente Ley, la Ley para el Control de las Entidades Paraestatales y otras disposiciones normativas aplicables.
 
+#### SECCIÓN SEGUNDA. Del Rector
+
 ###### ARTÍCULO 15.
 
 El Rector será el representante legal y titular de la administración de la Universidad, y tendrá las atribuciones, facultades y funciones que le señale la presente Ley, la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y las demás disposiciones jurídicas vigentes, así como las que se establezcan en los reglamentos que emita el Consejo Directivo.
@@ -294,6 +326,8 @@ En caso de ausencia definitiva, el Director de Vinculación ejercerá las funcio
 El Rector será apoyado, para el cumplimiento de sus funciones, por Directores de División y de Centro, con las atribuciones que les confiera el reglamento respectivo.
 
 Los Directores serán nombrados por el Consejo Directivo a partir de una terna propuesta por el Rector. La terna se integrará con candidatos que cumplan el perfil que establezca la Secretaría de Educación Pública, de conformidad con sus facultades y políticas para el Subsistema de Universidades Tecnológicas y de Gobierno del Estado de Aguascalientes, de acuerdo a la legislación aplicable.
+
+#### SECCIÓN TERCERA. Del Patronato
 
 ###### ARTÍCULO 21.
 
@@ -426,3 +460,15 @@ P.O. 2 DE OCTUBRE DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
