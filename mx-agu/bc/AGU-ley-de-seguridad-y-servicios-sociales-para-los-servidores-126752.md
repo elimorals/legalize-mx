@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2023-01-23"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -305,9 +305,11 @@ LIV. Vehículos: A las Sociedades de Inversión, Fondos Mutuos, Fideicomisos de 
 
 Las disposiciones de esta Ley que se refieran a la base y porcentaje de las aportaciones de las Entidades Públicas Patronales y de los Afiliados, son de aplicación estricta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 6°.
 
-Las controversias entre el Instituto y las Entidades Públicas Patronales serán resueltas por la Sala Administrativa del Poder Judicial del Estado de Aguascalientes.
+Las controversias entre el Instituto y las Entidades Públicas Patronales serán resueltas por el Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 Para los efectos del párrafo anterior, en lo no previsto por esta Ley y sus reglamentos se aplicarán supletoriamente:
 
@@ -2439,7 +2441,9 @@ La falta de pago de cuotas, aportaciones, retenciones, actualizaciones o recargo
 
 I. La ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, en el caso de organismos públicos descentralizados y gobiernos municipales, se efectuará a petición del Instituto y se aplicará por la Secretaría de Finanzas del Gobierno del Estado; y
 
-II. Procederá la demanda interpuesta ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, para que mediante sentencia ejecutoria se ordene a las Entidades Públicas Patronales, el pago forzoso de los créditos adeudados en favor del Instituto.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+II. Procederá la demanda interpuesta ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, para que mediante sentencia ejecutoria se ordene a las Entidades Públicas Patronales, el pago forzoso de los créditos adeudados en favor del Instituto.
 
 ###### Artículo 226.
 
@@ -2762,3 +2766,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado (sic) Aguascalientes, deberá realizar las adecuaciones que resulten necesarias para armonizar sus disposiciones reglamentarias de conformidad con la presente reforma, así como con la realizada mediante el Decreto 185 expedido por la presente Legislatura, dentro del plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Tercero. Hasta en tanto se realizan las adecuaciones a que se refiere el artículo anterior, las referencias contenidas en las disposiciones reglamentarias aplicables a la Dirección de Prestaciones Económicas, se entenderán hechas a la Dirección de Prestaciones, Afiliación y Medicina prevista en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado (sic) Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 637.- SE REFORMAN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES; LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
