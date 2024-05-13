@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-universidad-intercultural-para-la-igualdad-1678
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-18"
-last_updated: "2023-09-18"
+last_updated: "2024-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de septiembre de 2023.
 
@@ -183,9 +185,13 @@ XLII. Registrar sus planes y programas de estudio ante la Dirección General de 
 
 XLIII. Las demás que señale la presente Ley, en el Reglamento Interior de la Universidad y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO II. DEL PATRIMONIO DE LA UNIVERSIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
 
-#### Sección Primera. Dirección Académica
+### CAPÍTULO II. DEL PATRIMONIO DE LA UNIVERSIDAD, LA INFRAESTRUCTURA Y EQUIPAMIENTO DE SUS BIENES
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Primera. El Patrimonio de la Universidad
 
 ###### ARTÍCULO 7°.
 
@@ -207,7 +213,33 @@ Los bienes inmuebles que adquiera tendrán carácter de inalienables, imprescrip
 
 A fin de garantizar el buen funcionamiento de la Universidad, para la disposición, uso y enajenación de los bienes muebles se deberá estar a las bases generales que determine la Junta en los términos que señale la Ley de Entidades Paraestatales y demás normatividad estatal que resulte aplicable.
 
-#### Sección Segunda. Dirección Administrativa
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Segunda. La Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTÍCULO 8° A.- Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTÍCULO 8° B.- Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ## TÍTULO II. LA ORGANIZACIÓN
 
@@ -415,7 +447,7 @@ Para garantizar la calidad institucional, la persona titular de la Rectoría con
 
 Las Unidades Administrativas serán todas aquellas, dependientes de la persona titular de la Rectoría, necesarias para el cumplimiento del objeto de la Universidad, mismas que se establezcan en la presente Ley, así como en el Reglamento Interno, los Manuales de Organización y demás disposiciones aplicables.
 
-#### Sección Tercera. Dirección de Vinculación
+#### Sección Primera. Dirección Académica
 
 ###### ARTÍCULO 23.
 
@@ -445,7 +477,7 @@ X. Elaborar la relación de necesidades de recursos humanos, financieros, materi
 
 XI. Las demás que de manera específica le señale el titular de Rectoría y la normatividad interna de la Universidad.
 
-#### Sección Primera. Consejo Académico
+#### Sección Segunda. Dirección Administrativa
 
 ###### ARTÍCULO 24.
 
@@ -503,7 +535,7 @@ XXIV. Realizar todas aquellas actividades afines a las que anteceden; y
 
 XXV. Las demás que de manera específica le señale el titular de la Rectoría y la normatividad interna de la Universidad.
 
-#### Sección Segunda. Consejo de Vinculación y Pertinencia
+#### Sección Tercera. Dirección de Vinculación
 
 ###### ARTÍCULO 25.
 
@@ -549,7 +581,7 @@ b) Consejo de Vinculación y Pertinencia; y
 
 c) Consejo Social Intercultural.
 
-#### Sección Tercera. Consejo Social Intercultural
+#### Sección Primera. Consejo Académico
 
 ###### ARTÍCULO 27.
 
@@ -580,6 +612,8 @@ I. Un coordinador, que tendrá voto de calidad en el propio Consejo Académico y
 II. Un académico por cada sede y por programa educativo de la Universidad, el cual será elegido por las y los profesores de cada una de las licenciaturas, nivel educativo y sedes respectivamente, mediante un proceso democrático, abierto y transparente cada dos años.
 
 Cada miembro del Consejo Académico tendrá una persona suplente, quien será designada por la persona consejera titular, teniendo los mismos derechos y obligaciones.
+
+#### Sección Segunda. Consejo de Vinculación y Pertinencia
 
 ###### ARTÍCULO 29.
 
@@ -624,6 +658,8 @@ VII. Dos personas representantes del Sector Productivo, estos últimos represent
 Por cada titular deberá haber un suplente. Los consejeros durarán en su cargo durante el tiempo que desempeñen las funciones del puesto público por el cual conforman dicho Consejo.
 
 En el caso de los representantes de la sociedad civil, durarán en su cargo tres años, con la posibilidad de ser invitados a participar por un periodo igual.
+
+#### Sección Tercera. Consejo Social Intercultural
 
 ###### ARTÍCULO 32.
 
@@ -758,3 +794,17 @@ SALVADOR MAXIMILIANO RAMÍREZ HERNANDEZ
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 18 de septiembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
