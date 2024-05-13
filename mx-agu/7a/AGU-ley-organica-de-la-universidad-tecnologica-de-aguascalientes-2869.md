@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-aguascalientes-28
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-06-06"
-last_updated: "2016-11-07"
+last_updated: "2024-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1993.
 
@@ -305,7 +307,13 @@ Serán alumnos de la Universidad quienes, habiendo cumplido con los requisitos y
 
 Las agrupaciones de alumnos serán totalmente independientes de las autoridades de la Universidad y se organizarán en la forma que los propios estudiantes determinen.
 
-### CAPITULO QUINTO. Del Patrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
+
+### CAPITULO QUINTO. Del Patrimonio de la Universidad, la Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Primera. El Patrimonio de la Universidad
 
 ###### ARTICULO 23.
 
@@ -333,9 +341,37 @@ Los bienes inmuebles que le concede el Artículo 23 tendrán carácter de inalie
 
 Los ingresos de la Universidad y los bienes de su propiedad no estarán sujetos a impuestos, contribuciones o derechos estatales o municipales. Tampoco estarán gravados los actos y contratos en los que ella intervenga si, conforme a las leyes respectivas, los impuestos, derechos y aprovechamientos debieran estar a cargo de la Universidad.
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### Sección Segunda. La Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 26.
 
-(DEROGADO, P.O. 19 DE JUNIO DE 2005)
+Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+###### ARTICULO 27.
+
+Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -410,3 +446,15 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
