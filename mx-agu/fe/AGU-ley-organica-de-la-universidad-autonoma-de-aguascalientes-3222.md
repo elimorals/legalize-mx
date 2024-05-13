@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "2007-12-24"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -413,9 +415,13 @@ El personal de apoyo será de confianza o sindicalizado, de conformidad con la l
 
 Los alumnos de los distintos niveles de enseñanza tendrán la más amplia libertad de asociarse. Las sociedades de alumnos que se constituyan y la federación de estas sociedades serán totalmente independientes de las autoridades de la Universidad y se organizarán de acuerdo con las normas que los estudiantes determinen. Los profesores de las unidades académicas y de la Universidad, en general, disfrutarán del mismo derecho a que se ha hecho referencia en el párrafo que antecede.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
 
-### CAPITULO V. DEL PATRIMONIO DE LA UNIVERSIDAD
+### CAPITULO V. DEL PATRIMONIO DE LA UNIVERSIDAD, LA INFRAESTRUCTURA Y EQUIPAMIENTO DE SUS BIENES
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+#### SECCION PRIMERA. EL PATRIMONIO DE LA UNIVERSIDAD
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
@@ -454,6 +460,34 @@ III.- La desincorporación de los bienes muebles de la Universidad se acordará 
 ###### ARTICULO 37.
 
 El Consejo Universitario, por voto aprobatorio de las dos terceras partes de sus miembros, autorizará la enajenación de bienes muebles de la Universidad, si se trata de aquéllos que no tengan un valor histórico, artístico o cultural; que no sean imprescindibles para la realización de las funciones de la institución y que se cuente con un dictamen técnico favorable por parte de la Contraloría con respecto a las condiciones de la enajenación y, en su caso, el precio de la venta o los términos de la licitación o subasta.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+
+#### SECCION SEGUNDA. LA INFRAESTRUCTURA Y EQUIPAMIENTO DE SUS BIENES
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTICULO 37 A.- Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+ARTICULO 37 B.- Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrara aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que este provisto por lo menos de:
+
+I.- Mesas, sillas o sillones cómodos, suficientes para el numero de madres trabajadoras o al espacio disponible;
+
+II.- Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el numero de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
@@ -634,3 +668,15 @@ Los recursos que el Estado otorgue a la Universidad Autónoma de Aguascalientes,
 ###### ARTÍCULO CUARTO.
 
 La Universidad Autónoma de Aguascalientes deberá destinar los recursos económicos que le subsidie el Estado de Aguascalientes derivados del Artículo 35 de la ley Orgánica de la Universidad Autónoma de Aguascalientes, al saneamiento de sus fianzas, así como para la inversión en docencia, investigación, extensión y difusión de la cultura.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los 180 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
