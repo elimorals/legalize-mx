@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2023-07-24"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -83,9 +83,9 @@ II. Autoridad Investigadora: La autoridad en la Contraloría, los Órganos inter
 
 III. Autoridad Substanciadora: La autoridad en la Secretaria, los Órganos internos de control y el Órgano Superior de Fiscalización del Estado de Aguascalientes que dirige y conduce el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-IV. Autoridad Resolutora: Tratándose de faltas administrativas no graves lo será la unidad asignada en los Órganos Internos de Control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será la Sala Administrativa del Poder Judicial del Estado de Aguascalientes;
+IV. Autoridad Resolutora: Tratándose de faltas administrativas no graves lo será la unidad asignada en los Órganos Internos de Control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal de Justicia Administrativa;
 
 V. Comité Coordinador: La instancia a la que se refiere la Ley del Sistema Estatal Anticorrupción de Aguascalientes, encargada del establecimiento de políticas, bases, principios y mecanismos de coordinación con el Sistema Nacional Anticorrupción, de conformidad con lo establecido en el Artículo 82 B de la Constitución Política del Estado de Aguascalientes;
 
@@ -115,17 +115,21 @@ XIV. Faltas Administrativas: Las faltas administrativas graves y no graves; así
 
 XV. Falta Administrativa No Grave: Las faltas administrativas de los servidores públicos, cuya sanción corresponde a la Contraloría y a los órganos internos de control competentes;
 
-XVI. Falta Administrativa Grave: Las faltas administrativas de los servidores públicos catalogadas como graves, cuya sanción corresponde a la Sala;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+XVI. Falta Administrativa Grave: Las faltas administrativas de los servidores públicos catalogadas como graves, cuya sanción corresponde al Tribunal de Justicia Administrativa;
 
-XVII. Faltas de Particulares: Los actos de personas físicas o morales privadas que están vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero, Libro Primero de esta Ley, cuya sanción corresponde a la Sala en los términos de la misma;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XVII. Faltas de Particulares: Los actos de personas físicas o morales privadas que están vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero, Libro Primero de esta Ley, cuya sanción corresponde al Tribunal de Justicia Administrativa en los términos de la misma;
 
 XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del servidor público o de un particular en la comisión de faltas administrativas;
 
 XIX. Ley General: A la Ley General del Sistema Nacional Anticorrupción;
 
-XX. Magistrado: El Titular o integrante de la Sala, que se encargará de la atención y resolución de los asuntos en materia de responsabilidades administrativas de servidores públicos y particulares;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XX. Magistrado: El Titular o integrante del Tribunal de Justicia Administrativa, que se encargará de la atención y resolución de los asuntos en materia de responsabilidades administrativas de servidores públicos y particulares;
 
 XXI. Mínimo Vital: Es el derecho a gozar de prestaciones e ingresos mínimos que aseguren a toda persona su subsistencia, y la satisfacción de las necesidades básicas;
 
@@ -137,17 +141,27 @@ XXIV. Órganos Internos de Control: Las unidades administrativas a cargo de prom
 
 XXV. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
 
-XXVI. Sala: la Sala Administrativa del Poder Judicial del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XXVII. (DEROGADA, P.O. 24 DE JULIO DE 2023)
+XXVI. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el Artículo 73 de la Constitución Política del Estado de Aguascalientes;
 
-XXVIII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el Artículo 73 de la Constitución Política del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
 
-XXIX. Sistema Estatal Anticorrupción: La instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, misma que forma parte integrante del Sistema Nacional Anticorrupción y está prevista en la Ley del Sistema Estatal Anticorrupción de Aguascalientes;
+XXVII. Sistema Estatal Anticorrupción: La instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, misma que forma parte integrante del Sistema Nacional Anticorrupción y está prevista en la Ley del Sistema Estatal Anticorrupción de Aguascalientes;
 
-XXX. Sistema Estatal de Información: La plataforma a que se refiere la Ley del Sistema Estatal Anticorrupción de Aguascalientes, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XXXI. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
+XXVIII. Sistema Estatal de Información: La plataforma a que se refiere la Ley del Sistema Estatal Anticorrupción de Aguascalientes, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XXIX. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos; y
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XXX. Tribunal de Justicia Administrativa: Tribunal de Justicia Administrativa del Estado de Aguascalientes.
+
+XXXI. (DEROGADA, P.O. 13 DE MAYO DE 2024)
 
 ###### Artículo 4°.
 
@@ -193,9 +207,29 @@ VII. Promover, respetar, proteger y garantizar los derechos humanos reconocidos 
 
 VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
-IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Gobierno del Estado de Aguascalientes o de sus Municipios.
+IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
+
+X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 13 DE MAYO DE 2024)</small>
+
+XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Gobierno del Estado de Aguascalientes o de sus Municipios.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
 
 ### CAPÍTULO III. Las Autoridades Competentes
 
@@ -211,7 +245,9 @@ II. Los Órganos Internos de Control;
 
 III. El Órgano Superior;
 
-IV. La Sala;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IV. El Tribunal de Justicia Administrativa;
 
 V. Las autoridades establecidas en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes; y
 
@@ -247,19 +283,25 @@ Tratándose de actos u omisiones que hayan sido calificados como faltas administ
 
 (DEROGADO, P.O. 7 DE JUNIO DE 2021)
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 10.
 
-La Sala, además de las facultades y atribuciones conferidas en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y demás normatividad aplicable, estará facultada para resolver la imposición de sanciones por la comisión de faltas administrativas graves y de faltas de particulares, conforme a los procedimientos previstos en esta Ley.
+El Tribunal de Justicia Administrativa, además de las facultades y atribuciones conferidas en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Aguascalientes y demás normatividad aplicable, estará facultado para resolver la imposición de sanciones por la comisión de faltas administrativas graves y de faltas de particulares, conforme a los procedimientos previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 11.
 
-Cuando la autoridad investigadora determine que de los actos u omisiones investigados se desprenden tanto la comisión de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las faltas administrativas graves, una vez substanciado el procedimiento por la autoridad substanciadora, remitirá el expediente respectivo a la Sala, a fin de (sic) ésta sea quien imponga la sanción que corresponda. Si la Sala determina que se cometieron faltas administrativas graves y no graves, al graduar la sanción que proceda tomará en cuenta la comisión de éstas últimas.
+Cuando la autoridad investigadora determine que de los actos u omisiones investigados se desprenden tanto la comisión de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las faltas administrativas graves, una vez substanciado el procedimiento por la autoridad substanciadora, remitirá el expediente respectivo al Tribunal de Justicia Administrativa, a fin de que éste sea quien imponga la sanción que corresponda. Si el Tribunal de Justicia Administrativa determina que se cometieron faltas administrativas graves y no graves, al graduar la sanción que proceda tomará en cuenta la comisión de éstas últimas.
 
 ###### Artículo 12.
 
 Cuando los servidores públicos en el ejercicio de sus funciones incurran en alguno de los actos u omisiones contemplados en el Artículo 74 de la Constitución Local. Los procedimientos respectivos se desarrollarán en forma autónoma según su naturaleza y de conformidad con las disposiciones establecidas en esta Ley, debiendo las autoridades a que alude el Artículo 7° de esta Ley turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-La atribución de la Sala para imponer sanciones a particulares en términos de esta Ley, no limita las facultades de otras autoridades para imponer sanciones administrativas a particulares, conforme a la legislación aplicable.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+La atribución del Tribunal de Justicia Administrativa para imponer sanciones a particulares en términos de esta Ley, no limita las facultades de otras autoridades para imponer sanciones administrativas a particulares, conforme a la legislación aplicable.
 
 ## TÍTULO SEGUNDO. LOS MECANISMOS DE PREVENCIÓN E INSTRUMENTOS DE RENDICIÓN DE CUENTAS
 
@@ -307,7 +349,9 @@ La información prevista en el sistema de evolución patrimonial, de declaració
 
 En el sistema de evolución patrimonial, de declaración de intereses y de constancias de presentación de la declaración fiscal, se inscribirán los datos públicos de los servidores públicos estatales y municipales obligados a presentar declaraciones de situación patrimonial y de intereses. De igual forma, se inscribirá la constancia que para efectos de esta Ley emita la autoridad fiscal, sobre la presentación de la declaración anual de impuestos.
 
-En el sistema estatal de servidores públicos y particulares sancionados del Sistema Estatal de Información, se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley del Sistema Estatal Anticorrupción de Aguascalientes y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los servidores públicos estatales o municipales, o particulares que hayan sido sancionados por actos vinculados con faltas graves en términos de esta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades substanciadoras y la Sala, en términos del Artículo 63 y demás relativos aplicables de esta Ley.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+En el sistema estatal de servidores públicos y particulares sancionados del Sistema Estatal de Información, se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley del Sistema Estatal Anticorrupción de Aguascalientes y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los servidores públicos estatales o municipales, o particulares que hayan sido sancionados por actos vinculados con faltas graves en términos de esta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades substanciadoras y el Tribunal de Justicia Administrativa, en términos del Artículo 63 y demás relativos aplicables de esta Ley.
 
 Los entes públicos, previo al nombramiento, designación o contratación de quienes pretendan ingresar al servicio público, solicitarán a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, la consulta del Sistema Estatal de Información así como del Sistema Nacional de Servidores Públicos y particulares sancionados de la Plataforma Digital Nacional, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
@@ -493,11 +537,15 @@ VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las nor
 
 VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
-IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del órgano interno de control de los entes públicos, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales;
+IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del órgano interno de control de los entes públicos, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad; y
 
-X. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2024)</small>
+
+X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.
 
 XI. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
@@ -531,6 +579,10 @@ XXV. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
 XXVI. (DEROGADA, P.O. 7 DE JUNIO DE 2021)
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
+
 ###### Artículo 37.
 
 También se considerará falta administrativa no grave, los daños y perjuicios que, de manera culposa o negligente y sin incurrir en alguna de las faltas administrativas graves señaladas en el Capítulo siguiente, cause un servidor público a la Hacienda Pública o al patrimonio de los entes públicos.
@@ -553,13 +605,25 @@ Las conductas previstas en el presente Capítulo constituyen faltas administrati
 
 Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción.
+
 ###### Artículo 40.
 
 Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Contraloría.
+
 ###### Artículo 41.
 
 Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo.
 
 ###### Artículo 42.
 
@@ -589,9 +653,19 @@ Será obligación del jefe inmediato determinar y comunicarle al servidor públi
 
 Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo, comisión o función, en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el sistema estatal o nacional de servidores públicos y particulares sancionados.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.
+
 ###### Artículo 46.
 
 Incurrirá en enriquecimiento oculto u ocultamiento de conflicto de interés el servidor público que falte a la veracidad en la presentación de las declaraciones de situación patrimonial o de intereses, que tenga como fin ocultar, respectivamente, el incremento en su patrimonio o el uso y disfrute de bienes o servicios que no sea explicable o justificable, o un conflicto de interés.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Artículo 46 A.- Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.
+
+Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.
 
 ###### Artículo 47.
 
@@ -691,11 +765,11 @@ Los plazos a los que se refiere el presente Artículo se computarán en días na
 
 ### CAPÍTULO I. Las Sanciones por Faltas Administrativas no Graves
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 61.
 
-En los casos de responsabilidades administrativas distintas a las que son competencia de la Sala, la Contraloría o los órganos internos de control de los entes públicos competentes impondrán cualquiera de las sanciones administrativas siguientes:
+En los casos de responsabilidades administrativas distintas a las que son competencia del Tribunal de Justicia Administrativa, la Contraloría o los órganos internos de control de los entes públicos competentes impondrán cualquiera de las sanciones administrativas siguientes:
 
 I. Amonestación pública o privada;
 
@@ -723,6 +797,10 @@ En caso de reincidencia de faltas administrativas no graves, la sanción que imp
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Artículo 62 A.- Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 39, segundo párrafo, y 41, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2023)</small>
 
 ###### Artículo 63.
@@ -739,9 +817,11 @@ La Contraloría o los órganos internos de control de los entes públicos dejar�
 
 ### CAPÍTULO II. Las Sanciones para los Servidores Públicos por Faltas Graves
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 64.
 
-Las sanciones administrativas que imponga la Sala a los servidores públicos, derivado de los procedimientos por la comisión de faltas administrativas graves, consistirán en:
+Las sanciones administrativas que imponga el Tribunal de Justicia Administrativa a los servidores públicos, derivado de los procedimientos por la comisión de faltas administrativas graves, consistirán en:
 
 I. Suspensión del empleo, cargo, comisión o función;
 
@@ -759,9 +839,9 @@ IV. Inhabilitación temporal para desempeñar empleos, cargos, comisiones o func
 
 V. Inhabilitación definitiva para desempeñar empleos, cargos, comisiones o funciones en el servicio público, si la falta es reiterada.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-A juicio de la Sala, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta administrativa grave.
+A juicio del Tribunal de Justicia Administrativa, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la falta administrativa grave.
 
 La suspensión del empleo, cargo, comisión o función que se imponga podrá ser de treinta a noventa días naturales.
 
@@ -773,7 +853,9 @@ En el caso de que se determine la inhabilitación temporal, ésta será de uno h
 
 En el caso de que la falta administrativa grave cometida por el servidor público le genere beneficios económicos, a sí mismo o a cualquiera de las personas a que se refiere el Artículo 39 de esta Ley, se le impondrá sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos. En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las sanciones a que se refiere el Artículo anterior.
 
-La Sala determinará el pago de una indemnización cuando la falta administrativa grave a que se refiere el párrafo anterior provocó daños y perjuicios a la Hacienda Pública o al patrimonio de los entes públicos. En dichos casos, el servidor público estará obligado a reparar la totalidad de los daños y perjuicios causados y las personas que, en su caso, también hayan obtenido un beneficio indebido, serán solidariamente responsables.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+El Tribunal de Justicia Administrativa determinará el pago de una indemnización cuando la falta administrativa grave a que se refiere el párrafo anterior provocó daños y perjuicios a la Hacienda Pública o al patrimonio de los entes públicos. En dichos casos, el servidor público estará obligado a reparar la totalidad de los daños y perjuicios causados y las personas que, en su caso, también hayan obtenido un beneficio indebido, serán solidariamente responsables.
 
 ###### Artículo 66.
 
@@ -837,7 +919,9 @@ Para la imposición de sanciones a las personas morales deberá observarse adem�
 
 Las sanciones previstas en los Incisos c) y d) de esta Fracción, sólo serán procedentes cuando la persona moral obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la persona moral es utilizada de manera sistemática para vincularse con faltas administrativas graves.
 
-A juicio de la Sala podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y de acuerdo a la gravedad de las faltas de particulares.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+A juicio del Tribunal de Justicia Administrativa podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y de acuerdo a la gravedad de las faltas de particulares.
 
 Se considerará como atenuante en la imposición de sanciones a personas morales cuando los órganos de administración, representación, vigilancia o los socios de las personas morales denuncien o colaboren en las investigaciones proporcionando la información y los elementos que posean, además de que resarzan los daños que se hubieren causado.
 
@@ -869,15 +953,23 @@ Las personas morales serán sancionadas por la comisión de faltas de particular
 
 Para la imposición de las sanciones por faltas administrativas graves y faltas de particulares, se observarán las siguientes reglas:
 
-I. La suspensión o la destitución del puesto de los servidores públicos, serán impuestas por la Sala y ejecutadas por el titular o servidor público competente del Ente público correspondiente;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-II. La inhabilitación temporal para desempeñar un empleo, cargo, comisión o función en el servicio público, y para participar en adquisiciones, arrendamientos, servicios u obras públicas, será impuesta por la Sala y ejecutada en los términos de la resolución dictada, y
+I. La suspensión o la destitución del puesto de los servidores públicos, serán impuestas por el Tribunal de Justicia Administrativa y ejecutadas por el titular o servidor público competente del Ente público correspondiente;
 
-III. Las sanciones económicas serán impuestas por la Sala y ejecutadas por la autoridad competente del Ente público correspondiente.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+II. La inhabilitación temporal para desempeñar un empleo, cargo, comisión o función en el servicio público, y para participar en adquisiciones, arrendamientos, servicios u obras públicas, será impuesta por el Tribunal de Justicia Administrativa y ejecutada en los términos de la resolución dictada, y
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+III. Las sanciones económicas serán impuestas por el Tribunal de Justicia Administrativa y ejecutadas por la autoridad competente del Ente público correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 71.
 
-En los casos de sanción económica, la Sala ordenará a los responsables el pago que corresponda y, en el caso de daños y perjuicios que afecten a la Hacienda Pública o al patrimonio de los entes públicos, adicionalmente determinará el pago de las indemnizaciones correspondientes. Dichas sanciones económicas tendrán el carácter de créditos fiscales.
+En los casos de sanción económica, el Tribunal de Justicia Administrativa ordenará a los responsables el pago que corresponda y, en el caso de daños y perjuicios que afecten a la Hacienda Pública o al patrimonio de los entes públicos, adicionalmente determinará el pago de las indemnizaciones correspondientes. Dichas sanciones económicas tendrán el carácter de créditos fiscales.
 
 Las cantidades que se cobren con motivo de las indemnizaciones por concepto de daños y perjuicios formarán parte de la Hacienda Pública o del patrimonio de los entes públicos afectados.
 
@@ -885,9 +977,11 @@ Las cantidades que se cobren con motivo de las indemnizaciones por concepto de d
 
 El monto de la sanción económica impuesta se actualizará, para efectos de su pago, en la forma y términos que establecen las disposiciones fiscales.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 73.
 
-Cuando el servidor público o los particulares presuntamente responsables de estar vinculados con una falta administrativa grave, desaparezcan o exista riesgo inminente de que oculten, enajenen o dilapiden sus bienes a juicio de la Sala, se solicitará a la autoridad competente en el ámbito local o municipal, que en cualquier fase del procedimiento proceda al embargo precautorio de sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo y se procederá en los términos de la legislación aplicable.
+Cuando el servidor público o los particulares presuntamente responsables de estar vinculados con una falta administrativa grave, desaparezcan o exista riesgo inminente de que oculten, enajenen o dilapiden sus bienes a juicio del Tribunal de Justicia Administrativa, se solicitará a la autoridad competente en el ámbito local o municipal, que en cualquier fase del procedimiento proceda al embargo precautorio de sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo y se procederá en los términos de la legislación aplicable.
 
 ###### Artículo 74.
 
@@ -1027,19 +1121,27 @@ El plazo para la presentación del recurso será de cinco días hábiles, contad
 
 El escrito de impugnación deberá presentarse ante la autoridad investigadora que hubiere hecho la calificación de la falta administrativa como no grave, debiendo expresar los motivos por los que se estime indebida dicha calificación.
 
-Interpuesto el recurso, la autoridad investigadora deberá correr traslado, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, a la Sala.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Interpuesto el recurso, la autoridad investigadora deberá correr traslado, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, al Tribunal de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 91.
 
-En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, la Sala requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
+En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el Tribunal de Justicia Administrativa requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 92.
 
-En caso de que la Sala tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en el Artículo 95 de esta Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+En caso de que el Tribunal de Justicia Administrativa tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en el Artículo 95 de esta Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 93.
 
-Una vez subsanadas las deficiencias o aclaraciones o si no existieren, la Sala resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
+Una vez subsanadas las deficiencias o aclaraciones o si no existieren, el Tribunal de Justicia Administrativa resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
 
 ###### Artículo 94.
 
@@ -1487,7 +1589,9 @@ II. El acuerdo de admisión del informe de presunta responsabilidad administrati
 
 III. El acuerdo por el que se ordene la citación a la audiencia inicial del procedimiento de responsabilidad administrativa;
 
-IV. En el caso de faltas administrativas graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa a la Sala encargada de resolver el asunto;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IV. En el caso de faltas administrativas graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al Tribunal de Justicia Administrativa encargado de resolver el asunto;
 
 V. Los acuerdos por los que se aperciba a las partes o terceros, con la imposición de medidas de apremio;
 
@@ -1675,7 +1779,9 @@ X. Una vez trascurrido el periodo de alegatos, la autoridad resolutora del asunt
 
 XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
-### CAPÍTULO III. El Procedimiento de Responsabilidad Administrativa cuya Resolución Corresponda a la Sala
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
+
+### CAPÍTULO III. El Procedimiento de Responsabilidad Administrativa cuya Resolución Corresponda al Tribunal de Justicia Administrativa
 
 ###### Artículo 193.
 
@@ -1683,19 +1789,31 @@ En los asuntos relacionados con faltas administrativas graves o faltas de partic
 
 La autoridad substanciadora deberá observar lo dispuesto en las Fracciones I a VII del Artículo anterior, luego de lo cual procederá conforme a lo siguiente:
 
-I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la autoridad substanciadora deberá, bajo su responsabilidad, enviar a la Sala los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio de la Sala;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-II. Cuando la Sala reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el informe de presunta responsabilidad administrativa sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la autoridad substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el Artículo anterior;
+I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la autoridad substanciadora deberá, bajo su responsabilidad, enviar a la Sala los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio del Tribunal de Justicia Administrativa;
 
-De igual forma, de advertir la Sala que los hechos descritos por la autoridad investigadora en el informe de presunta responsabilidad administrativa corresponden a la descripción de una falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles. En caso de que la autoridad investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber a la Sala, fundando y motivando su proceder. En este caso, la Sala continuará con el procedimiento de responsabilidad administrativa;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MAYO DE 2024)</small>
 
-Una vez que la Sala haya decidido que el asunto corresponde a su competencia y, en su caso, se haya solventado la reclasificación, deberá notificar personalmente a las partes sobre la recepción del expediente;
+II. Cuando el Tribunal de Justicia Administrativa reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el informe de presunta responsabilidad administrativa sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la autoridad substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el Artículo anterior;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+De igual forma, de advertir el Tribunal de Justicia Administrativa que los hechos descritos por la autoridad investigadora en el informe de presunta responsabilidad administrativa corresponden a la descripción de una falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles. En caso de que la autoridad investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber al Tribunal de Justicia Administrativa, fundando y motivando su proceder. En este caso, el Tribunal de Justicia Administrativa continuará con el procedimiento de responsabilidad administrativa;
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Una vez que el Tribunal de Justicia Administrativa haya decidido que el asunto corresponde a su competencia y, en su caso, se haya solventado la reclasificación, deberá notificar personalmente a las partes sobre la recepción del expediente;
 
 Cuando conste en autos que las partes han quedado notificadas, dictará dentro de los quince días hábiles siguientes el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;
 
-III. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Sala declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-IV. Una vez trascurrido el periodo de alegatos, la Sala, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera debiendo expresar los motivos para ello; y
+III. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, el Tribunal de Justicia Administrativa declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IV. Una vez trascurrido el periodo de alegatos, el Tribunal de Justicia Administrativa, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera debiendo expresar los motivos para ello;
 
 V. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
@@ -1709,7 +1827,9 @@ V. La resolución, deberá notificarse personalmente al presunto responsable. En
 
 Los servidores públicos que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Contraloría o los órganos internos de control de los entes públicos, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
-Las resoluciones que se dicten en el recurso de revocación serán impugnables, vía el juicio contencioso administrativo ante la Sala.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Las resoluciones que se dicten en el recurso de revocación serán impugnables, vía el juicio contencioso administrativo ante el Tribunal de Justicia Administrativa.
 
 ###### Artículo 195.
 
@@ -1751,19 +1871,25 @@ El recurso de reclamación procederá en contra de las resoluciones de la autori
 
 La reclamación se interpondrá ante la autoridad substanciadora o resolutora, según corresponda, que haya dictado el auto recurrido, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
 
-Interpuesto el recurso, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga, sin más trámite, se dará cuenta a la Sala para que resuelva en el término de cinco días hábiles.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+Interpuesto el recurso, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga, sin más trámite, se dará cuenta al Tribunal de Justicia Administrativa para que resuelva en el término de cinco días hábiles.
 
 La resolución de la reclamación no admitirá recurso legal alguno.
 
 #### SECCIÓN TERCERA. La Impugnación de Faltas Administrativas Graves
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 199.
 
-Procederá el juicio constitucional de garantías en contra (sic) las resoluciones dictadas por la Sala por la comisión de Faltas administrativas graves o Faltas de particulares.
+Procederá el juicio constitucional de garantías en contra de las resoluciones dictadas por el Tribunal de Justicia Administrativa por la comisión de Faltas administrativas graves o Faltas de particulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 200.
 
-En el caso de que derivado del juicio constitucional de garantías se decrete la revocación de la resolución de la Sala, se ordenará a la dependencia o Ente público en el que preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas.
+En el caso de que derivado del juicio constitucional de garantías se decrete la revocación de la resolución del Tribunal de Justicia Administrativa, se ordenará a la dependencia o Ente público en el que preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas.
 
 Se exceptúan del párrafo anterior, los agentes del Ministerio Público, agentes de la Policía Ministerial del Estado, peritos oficiales y miembros de las instituciones policiales; casos en los que la Fiscalía General del Estado y las instituciones policiales del Estado o de los Municipios, sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1783,9 +1909,11 @@ Tratándose de los servidores públicos de base, la suspensión y la destitució
 
 #### SECCIÓN SEGUNDA. El Cumplimiento y Ejecución de Sanciones por Faltas Administrativas Graves y Faltas de Particulares
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 203.
 
-Las sanciones económicas impuestas por la Sala constituirán créditos fiscales a favor de la Hacienda Pública o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Finanzas del Gobierno del Estado o la autoridad municipal competente, a la que será notificada la resolución emitida por la Sala.
+Las sanciones económicas impuestas por el Tribunal de Justicia Administrativa constituirán créditos fiscales a favor de la Hacienda Pública o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Finanzas del Gobierno del Estado o la autoridad municipal competente, a la que será notificada la resolución emitida por el Tribunal de Justicia Administrativa.
 
 ###### Artículo 204.
 
@@ -1797,27 +1925,37 @@ I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, 
 
 II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Finanzas del Gobierno del Estado o a la autoridad municipal competente.
 
-En el oficio respectivo, la Sala prevendrá a las autoridades señaladas para que informen, dentro del término de diez días, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la Fracción I de este Artículo. En el caso de la Fracción II, la Secretaría de Finanzas del Gobierno del Estado o a la autoridad municipal competente, informará a la Sala una vez que se haya cubierto la indemnización y la sanción económica que corresponda.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+En el oficio respectivo, el Tribunal de Justicia Administrativa prevendrá a las autoridades señaladas para que informen, dentro del término de diez días, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la Fracción I de este Artículo. En el caso de la Fracción II, la Secretaría de Finanzas del Gobierno del Estado o a la autoridad municipal competente, informará al Tribunal de Justicia Administrativa una vez que se haya cubierto la indemnización y la sanción económica que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 205.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine la comisión de faltas de particulares, la Sala, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
+Cuando haya causado ejecutoria una sentencia en la que se determine la comisión de faltas de particulares, el Tribunal de Justicia Administrativa, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
 
-I. Cuando el particular haya sido inhabilitado para participar con cualquier carácter en adquisiciones, arrendamientos, servicios u obras públicas, la Sala ordenará su publicación en el Periódico Oficial del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+I. Cuando el particular haya sido inhabilitado para participar con cualquier carácter en adquisiciones, arrendamientos, servicios u obras públicas, el Tribunal de Justicia Administrativa ordenará su publicación en el Periódico Oficial del Estado de Aguascalientes; y
 
 II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Finanzas del Gobierno del Estado o a la autoridad municipal competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 206.
 
-Cuando el particular tenga carácter de persona moral, sin perjuicio de lo establecido en el artículo que antecede, la Sala girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
+Cuando el particular tenga carácter de persona moral, sin perjuicio de lo establecido en el artículo que antecede, el Tribunal de Justicia Administrativa girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
 
 I. Cuando se decrete la suspensión de actividades de la sociedad respectiva, se dará vista a la Secretaría de Economía, y al Servicio de Administración Tributaria, se inscribirá en el Registro Público de la Propiedad y del Comercio, y se hará publicar un extracto de la sentencia que decrete esta medida en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en la localidad donde tenga su domicilio fiscal el particular; y
 
 II. Cuando se decrete la disolución de la sociedad respectiva, los responsables procederán de conformidad con la Ley General de Sociedades Mercantiles en materia de disolución y liquidación de las sociedades, o en su caso, conforme a los Códigos sustantivos en materia civil, federal o local, según corresponda, y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 207.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una falta administrativa grave o faltas de particulares, la Sala, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del servidor público en su empleo, cargo, comisión o función ordenará la restitución inmediata del mismo.
+Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una falta administrativa grave o faltas de particulares, el Tribunal de Justicia Administrativa, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del servidor público en su empleo, cargo, comisión o función ordenará la restitución inmediata del mismo.
 
 ###### Artículo 208.
 
@@ -2278,3 +2416,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 637.- SE REFORMAN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES; LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 646.- SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
