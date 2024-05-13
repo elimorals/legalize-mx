@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-04-01"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -567,11 +567,11 @@ III. Se tomará en consideración el grado de parentesco; la relación de afinid
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### Artículo 28.
 
-Cuando el Sistema DIF Estatal, haya autorizado la integración de niñas, niños o adolescentes bajo la figura de acogimiento pre-adoptivo, deberá otorgarse un acta de custodia a la familia pre-adoptiva por el término de tres meses; dentro del cual se dará seguimiento mensual mediante visitas de trabajo social y de psicología, para constatar la idónea convivencia y adaptación del menor de edad en su nueva situación con dicha familia, con la finalidad de prevenir o superar las dificultades que se puedan presentar. El acogimiento pre-adoptivo podrá renovarse las veces que sean necesarias hasta en tanto sea resuelta la situación jurídica del menor de edad, siempre y cuando se hayan consolidado las condiciones adecuadas para el menor de edad en la familia de acogimiento pre-adoptivo.
+El acogimiento pre-adoptivo podrá renovarse las veces que sean necesarias hasta en tanto sea resuelta la situación jurídica de la niña, niño o adolescente, siempre y cuando se hayan consolidado las condiciones adecuadas para la niña, niño o adolescente en la familia de acogimiento pre-adoptivo.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1481,9 +1481,9 @@ Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a q
 
 En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito o alguna norma establezca como infracción administrativa, de manera inmediata dará aviso a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes y lo notificará a quienes ejerzan la patria potestad o tutela.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito. No obstante lo anterior, cuando por las circunstancias de los hechos, estuvieren los niños involucrados sin vigilancia, o bien, no se encontrare presente la persona que detente la patria potestad o tutela, con el objeto de garantizar la seguridad e integridad del menor, deberá la autoridad que tenga conocimiento, solicitar el auxilio e intervención de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, la cual tomará las medidas necesarias, a efecto de salvaguardar la integridad de los menores a su cuidado.
+Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito. No obstante lo anterior, cuando por las circunstancias de los hechos, estuvieren los niños involucrados sin vigilancia, o bien, no se encontrare presente la persona que detente la patria potestad o tutela, con el objeto de garantizar la seguridad e integridad de los mismos, deberá la autoridad que tenga conocimiento, solicitar el auxilio e intervención de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, la cual tomará las medidas necesarias, a efecto de salvaguardar la integridad de las niñas y niños a su cuidado.
 
 La Procuraduría de Protección Local, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
 
@@ -2241,9 +2241,9 @@ III. Coordinar la ejecución y dar seguimiento a las medidas de protección para
 
 IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-V. Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes, así como en hechos en donde se haga participar a menores de edad en actividades delictivas; auxiliando a la autoridad correspondiente con la información que se le solicite para la investigación de estos;
+V. Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes, así como en hechos en donde se haga participar a los mismos en actividades delictivas; auxiliando a la autoridad correspondiente con la información que se le solicite para la investigación de estos;
 
 VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
 
@@ -3050,6 +3050,14 @@ P.O. 22 DE ENERO DE 2024.
 P.O. 1 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 621.- SE REFORMA Y ADICIONA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 649.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
