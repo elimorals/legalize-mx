@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-capacitacion-para-el-trabajo-del-2777"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-30"
-last_updated: "2020-10-12"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 1994.
 
@@ -57,21 +57,27 @@ El Instituto de Capacitación para el Trabajo del Estado de Aguascalientes tendr
 
 2.- Promover el desarrollo de nuevos perfiles académicos que correspondan a las necesidades del mercado laboral.
 
-3.- Formar y actualizar a los instructores que se harán cargo de capacitar a los alumnos del Instituto.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+3.- Formar y actualizar a los instructores que se harán cargo de capacitar a las alumnas y los alumnos del Instituto.
 
-4.- Fomentar el desarrollo, participación y reconocimiento de las mujeres, personas con discapacidad, y adultos mayores en los diferentes ámbitos laborales.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+4.- Fomentar el desarrollo, participación y reconocimiento de las mujeres en condiciones de igualdad y no discriminación sin estereotipos de género, así como de personas con discapacidad, y adultos mayores en los diferentes ámbitos laborales.
 
 ###### ARTICULO 4o.
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes facultades:
 
-1.- Impartir capacitación en las áreas industriales y de servicios, a través de sus planteles en la entidad.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+1.- Impartir capacitación en las áreas industriales y de servicios, a través de sus planteles en la entidad, pudiendo ser de manera virtual, según sea el caso.
 
 2.- Formular los planes y programas de estudio que imparta, así como las modalidades educativas que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y los servicios, a fin de presentarlos a la consideración de la Junta Directiva, para presentarlos finalmente a la autorización definitiva de la Dirección General de Centros de Capacitación.
 
-3.- Proporcionar a los alumnos los medios de apoyo para el aprendizaje tales como materiales audiovisuales, servicios de biblioteca, prácticas de laboratorio, prácticas de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas en las empresas industriales o de servicios y los demás que se deriven de los métodos de enseñanza-aprendizaje.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
+3.- Proporcionar a las alumnas y los alumnos los medios de apoyo para el aprendizaje tales como materiales audiovisuales, servicios de biblioteca, prácticas de laboratorio, prácticas de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas en las empresas industriales o de servicios y los demás que se deriven de los métodos de enseñanza-aprendizaje.
 
 4.- Observar las disposiciones correspondientes a la capacitación formal para el trabajo que emita la Secretaría de Educación Pública por conducto de la Subsecretaría de Educación e Investigación Tecnológica.
 
@@ -83,9 +89,9 @@ Para el cumplimiento de su objeto, el Instituto tendrá las siguientes facultade
 
 7.- Crear un órgano de vinculación entre los planteles dependientes del Instituto con el sector productivo de bienes y servicios, con la participación de los representantes de los sectores involucrados;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-8.- Establecimiento de medidas para fortalecer el acceso de personas con discapacidad, adultos mayores y de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres; y
+8.- Establecimiento de medidas para fortalecer el acceso de personas con discapacidad, adultos mayores y de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato, no discriminación y sin estereotipos de género en las condiciones de trabajo entre mujeres y hombres; y
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
 
@@ -215,9 +221,9 @@ Corresponde al Director del Area de Planeación:
 
 1.- Integrar el Programa anual de actividades del Instituto y presentarlo a la consideración del Director General.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-2.- Evaluar las necesidades estatales de capacitación y establecer las prioridades para su atención, creando estrategias específicas para atender la ocupación laboral de mujeres, personas con algún tipo de discapacidad y adultos mayores.
+2.- Evaluar las necesidades estatales de capacitación y establecer las prioridades para su atención, creando estrategias específicas para atender la ocupación laboral de mujeres en condiciones de igualdad y no discriminación sin estereotipos de género, así como de personas con algún tipo de discapacidad y adultos mayores.
 
 3.- Coordinar la asignación de recursos de acuerdo a los programas prioritarios del Instituto.
 
@@ -229,9 +235,9 @@ Corresponde al Director del Area de Planeación:
 
 Corresponde al Director del Area Académica:
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-1.- Realizar la investigación necesaria, con la colaboración de los Directores de Plantel para proponer al Director General los contenidos, planes y programas de estudio, métodos, medios, materiales didácticos y normas pedagógicas para la capacitación, estableciendo además medidas a favor de la igualdad de mujeres y hombres, personas con discapacidad y adultos mayores en las condiciones de trabajo.
+1.- Realizar la investigación necesaria, con la colaboración de los Directores del Plantel para proponer al Director General los contenidos, planes y programas de estudio, métodos, medios, materiales didácticos y normas pedagógicas para la capacitación, estableciendo además medidas a favor de la igualdad, no discriminación y sin estereotipos de género entre mujeres y hombres, personas con discapacidad y adultos mayores en las condiciones de trabajo.
 
 2.- Supervisar y controlar la ejecución del calendario escolar y los planes y programas de estudio, vigilando su cumplimiento.
 
@@ -261,9 +267,9 @@ Corresponde al Director del Area de Vinculación:
 
 6.- Apoyar al Patronato del Instituto, cuando éste lo solicite.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
-7.- Crear medidas para fortalecer el acceso de las personas con discapacidad, adultos mayores, y las mujeres al empleo y la actividad laboral, así como la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+7.- Crear medidas para fortalecer el acceso de las personas con discapacidad, adultos mayores, y las mujeres al empleo y la actividad laboral, así como la aplicación efectiva del principio de igualdad de trato, no discriminación y sin estereotipos de género en las condiciones de trabajo entre mujeres y hombres.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
@@ -331,11 +337,15 @@ Las relaciones entre el Instituto y su personal se regularán por las disposicio
 
 Serán trabajadores de confianza del Instituto el Director General, los Directores de Area, los Directores de Plantel y los que se mencionan en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
 
-### CAPITULO VI. De los Capacitandos
+> <small>(REFORMADA LA DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
+
+### CAPITULO VI. De las alumnas y los alumnos del Instituto de Capacitación para el Trabajo del Estado de Aguascalientes
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 27.
 
-Serán alumnos del Instituto de Capacitación para el Trabajo del Estado de Aguascalientes, quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las especialidades que se impartan y tendrán los beneficios y obligaciones que esta Ley y las disposiciones reglamentarias que se expidan les confieran.
+Serán alumnas y alumnos del Instituto de Capacitación para el Trabajo del Estado de Aguascalientes, quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las especialidades que se impartan y tendrán los beneficios y obligaciones que esta Ley y las disposiciones reglamentarias que se expidan les confieran.
 
 ### CAPITULO VII. De las Disposiciones Generales
 
@@ -392,3 +402,11 @@ P.O. 12 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 651.- SE REFORMAN LA LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
