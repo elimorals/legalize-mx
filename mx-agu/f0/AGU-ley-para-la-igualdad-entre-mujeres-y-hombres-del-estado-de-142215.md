@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2024-01-22"
+last_updated: "2024-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -275,7 +275,9 @@ Los Entes Públicos, en el ámbito de sus respectivas competencias, están oblig
 
 I.- El derecho a una vida libre de violencia y discriminación en razón de su sexo;
 
-II.- La convivencia armónica en la vida personal, laboral y familiar;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+II.- Acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
 
 III.- La erradicación de estereotipos que fomenten la desigualdad;
 
@@ -323,17 +325,13 @@ V.- Observar la integración del principio de igualdad de trato y de oportunidad
 
 ### CAPÍTULO II. ÁMBITO EDUCATIVO, CIENCIA Y TECNOLOGÍA
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2024)</small>
+
 ###### Artículo 14.
 
-El Estado, conforme a la Ley de Educación para el Estado de Aguascalientes, garantizará un igual derecho a la educación de mujeres y hombres a través de la integración activa, en los objetivos y en las actuaciones educativas, de la Igualdad de Trato y Oportunidades entre mujeres y hombres, evitando que se produzcan desigualdades.
+El Estado, conforme a la Ley de Educación del Estado de Aguascalientes, garantizará un igual derecho a la educación de mujeres y hombres a través de la integración activa, en los objetivos y en las actuaciones educativas, de la Igualdad de Trato y Oportunidades entre mujeres y hombres, evitando que se produzcan desigualdades.
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2022)</small>
-
-El Estado de acuerdo con la Ley de Ciencia, Tecnológica, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes, garantizará el diseño e instrumentación de acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación entre mujeres y hombres.
-
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
-
-Las acciones afirmativas creadas para que las mujeres accedan a todas las áreas del conocimiento no constituyen una violación al principio de igualdad.
+El Estado de acuerdo con la Ley de Ciencia, Tecnológica (sic), Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, garantizará el diseño e instrumentación de acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología, innovación y emprendimiento para el desarrollo entre mujeres y hombres.
 
 ###### Artículo 15.
 
@@ -473,9 +471,17 @@ II.- Incentivar la implementación de una contratación, promoción y protecció
 
 III.- Garantizar el derecho a un trabajo productivo, ejercido en condiciones de Igualdad Sustantiva y Respeto a la Dignidad Humana, incorporando medidas dirigidas a evitar cualquier tipo de discriminación laboral, entre mujeres y hombres, en el acceso al empleo, en la formación, promoción y condiciones de trabajo;
 
-IV.- Fijar condiciones de trabajo que prevengan, atiendan, sancionen y erradiquen el acoso y hostigamiento sexuales; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-V.- Las demás que la Ley y otros ordenamientos aplicables le confieren.
+IV.- Fijar condiciones de trabajo que prevengan, atiendan, sancionen y erradiquen el acoso y hostigamiento sexuales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
+
+V.- Garantizar el acceso a mecanismos y herramientas que favorezcan la creación y mantenimiento de negocios, en condiciones de igualdad para mujeres y hombres; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE MAYO DE 2024)</small>
+
+VI.- Las demás que la Ley y otros ordenamientos aplicables confieren.
 
 ### CAPÍTULO VIII. ÁMBITO POLÍTICO
 
@@ -817,13 +823,17 @@ XI.- Establecer medidas o incentivos tanto en el sector público como en el priv
 
 XII.- Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
-XIII.- Dar seguimiento a la implementación del Principio Constitucional de Paridad de Género; presentando un informe anual de los avances en la materia; y
+XIII.- Dar seguimiento a la implementación del Principio Constitucional de Paridad de Género; presentando un informe anual de los avances en la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2024)</small>
 
-XIV.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y las que determinen las disposiciones aplicables.
+XIV.- Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2024)</small>
+
+XV.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y las que determinen las disposiciones aplicables.
 
 ### CAPÍTULO II. EL PROGRAMA PARA LA IGUALDAD
 
@@ -841,7 +851,9 @@ II.- Impulsar el ejercicio igualitario de los derechos; la inclusión social, po
 
 III.-Establecer las condiciones necesarias para que se respete y aplique eficazmente lo contenido en la presente Ley;
 
-IV.- Promover cambios culturales que permitan compartir en condiciones de Igualdad de Trato y Oportunidades, el trabajo productivo y las relaciones familiares y aseguren el acceso equitativo de mujeres y hombres a los procesos de innovación, ciencia y tecnología en el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IV.- Promover cambios culturales que permitan compartir en condiciones de Igualdad de Trato y Oportunidades, el trabajo productivo y las relaciones familiares y aseguren el acceso equitativo de mujeres y hombres a los procesos de innovación, ciencia, tecnología y emprendimiento para el desarrollo, en el Plan Estatal de Desarrollo;
 
 V.- Promover campañas de concientización a mujeres y hombres en la responsabilidad de la atención equitativa de sus dependientes;
 
@@ -994,6 +1006,14 @@ Los entes públicos a que se refiere la fracción IV del artículo 6° de la Ley
 P.O. 22 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 567.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 641.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
