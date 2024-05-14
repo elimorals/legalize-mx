@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2024-03-01"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -144,6 +144,10 @@ XXIII.- Secretaría de Administración: Secretaría de Administración y Finanza
 XXIV.- Secretaría Federal: Secretaría de Hacienda y Crédito Público;
 
 XXV.- Sistema de Alertas: la publicación hecha por la Secretaría Federal sobre los indicadores de endeudamiento de los Municipios;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXV Bis.- Sistemas Normativos Internos: Conjunto de principios, instituciones, normas orales o escritas, prácticas, acuerdos y decisiones que los pueblos y comunidades indígenas reconocen como válidos y vigentes para su organización social, económica, política, jurídica y cultural, así como para el ejercicio de sus formas propias de gobierno, impartición de justicia y la solución de conflictos;
 
 XXVI.- Techo de financiamiento neto: el límite de financiamiento neto anual que podrá contratar un ente público, con fuente de pago de ingresos de libre disposición. Dicha fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del presupuesto de egresos, y
 
@@ -397,6 +401,12 @@ Para crear nuevos municipios dentro de los límites de los ya existentes, modifi
 
 Los Ayuntamientos de cada municipio se integran por una o un Presidente Municipal, una o un Síndico y por Regidurías de mayoría relativa y de representación proporcional, de conformidad con el principio de paridad de género, y a lo dispuesto por la Constitución Política del Estado Libre y Soberano de Nayarit y la Ley Electoral del Estado de Nayarit.
 
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+LOS MUNICIPIOS QUE CUENTEN CON PUEBLOS Y COMUNIDADES INDÍGENAS PREFERENTEMENTE REGISTRADAS EN EL CATÁLOGO NACIONAL DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL INSTITUTO NACIONAL DE PUEBLOS INDÍGENAS, TIENEN EL DERECHO DE ELEGIR A SUS REPRESENTANTES ANTE EL AYUNTAMIENTO, OBSERVANDO LA PARIDAD DE GÉNERO, DE CONFORMIDAD CON SUS SISTEMAS NORMATIVOS INTERNOS Y A LAS DISPOSICIONES APLICABLES DE ESTA LEY.
+
 ###### ARTICULO 31.
 
 Para ser miembro de los Ayuntamientos se requiere cumplir los requisitos que establecen la Constitución Política del Estado, la Ley Electoral del Estado de Nayarit y el presente ordenamiento.
@@ -597,6 +607,28 @@ La representación política, dirección administrativa, gestión social y ejecu
 
 El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio el día 17 de septiembre del año de la elección respectiva.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+ARTICULO 49 BIS.- Tratándose de la elección de la representación de los pueblos y comunidades indígenas ante el Ayuntamiento de los municipios con población indígena, el Ayuntamiento emitirá una convocatoria pública, deberá atender de manera enunciativa más no limitativa las siguientes bases:
+
+I.- Será dirigida a los pueblos y comunidades indígenas asentadas en el territorio del municipio;
+
+II.- La convocatoria deberá expedirse en los primeros sesenta días naturales del inicio del periodo constitucional.
+
+Cuando el Ayuntamiento no expida la convocatoria respectiva dentro de los primeros sesenta días naturales del inicio del periodo constitucional, las autoridades tradicionales, agrarias y/o civiles de los pueblos y comunidades indígenas podrán requerir su cumplimiento, para lo cual, el Ayuntamiento tendrá una prórroga no mayor de treinta días naturales para formular la convocatoria y celebrar la designación correspondiente;
+
+III.- La elección se realizará de acuerdo con los Sistemas Normativos Internos de los pueblos y comunidades indígenas, sin que lo anterior trastoque los principios y demás disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución local, y demás disposiciones aplicables.
+
+El Ayuntamiento deberá incluir en los actos preparatorios de este proceso a las autoridades de los pueblos y comunidades indígenas asentadas en el municipio para atender los procedimientos previstos dentro de su organización comunitaria;
+
+IV.- La convocatoria deberá publicarse, en idioma español y traducida a la lengua materna de las comunidades indígenas asentadas en el municipio, en los lugares de mayor concurrencia de las comunidades indígenas.
+
+La persona electa para ejercer la representación indígena en los términos anteriores, deberá ser reconocida por el Ayuntamiento en la siguiente sesión a la emisión de los resultados del proceso comicial.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Los representantes indígenas durarán en su encargo tres años, SERÁN DE CARÁCTER HONORÍFICO y no podrán ser removidos ni privados de la facultad de representación, salvo que exista causa grave en el ejercicio de sus funciones.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 50.
@@ -666,6 +698,24 @@ Por acuerdo del Presidente Municipal o por mayoría absoluta del Ayuntamiento se
 La citación deberá ser personal, en el domicilio del integrante del Ayuntamiento, por lo menos con setenta y dos horas de anticipación; contendrá el orden del día y, en su caso, la información necesaria para el desarrollo de la sesión, así como el lugar, día y hora en que se llevará a cabo. Se exceptuarán los requisitos anteriores y la citación se hará por medios idóneos, cuando el o los asuntos a tratar sean de carácter urgente y de obvia resolución.
 
 De no asistir el número de miembros necesarios para celebrar las sesiones, se citará nuevamente en los términos que fije esta ley y en la forma que establezca el reglamento interior, y ésta se llevará a cabo con los que asistan, procediendo amonestación pública para los faltistas.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Los representantes indígenas deberán ser debidamente convocados a asistir a las sesiones del Ayuntamiento en los mismos términos que a los integrantes del Ayuntamiento, CUANDO SE TRATEN ASUNTOS QUE PUEDAN CAUSAR IMPACTO EN LA VIDA Y ENTORNO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Contarán con derecho A VOZ cuando las discusiones por tratarse impacten de manera directa en los derechos de las personas indígenas del municipio.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Cuando una decisión impacte de manera particular a una comunidad que se autodetermine como indígena, de manera adicional, dicha comunidad podrá designar a un representante para el caso particular, en atención a sus Sistemas Normativos Internos, quien previa notificación tendrá el derecho a participar en las sesiones del Ayuntamiento CON DERECHO A VOZ.
 
 ###### ARTICULO 53.
 
@@ -4702,3 +4752,17 @@ SEGUNDO. Comuníquese el Decreto a los Ayuntamientos de la Entidad, para los efe
 TERCERO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
 
 CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad.
+
+P.O. 14 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE REPRESENTACIÓN DE PUEBLOS Y COMUNIDADES INDÍGENAS EN LOS AYUNTAMIENTOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El presente Decreto deberá publicarse en (sic) Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, traducido en las lenguas Wixárika, Na’ayeri, O’dam y Meshikan, mismas que se hablan en los pueblos y comunidades indígenas existentes en el Estado de Nayarit.
+
+TERCERO. En los municipios con población indígena, los Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de noventa días naturales, deberán realizar las reformas y adecuaciones a la normatividad correspondiente, a fin de armonizarlos con lo dispuesto en el presente Decreto y de adaptarse a las necesidades de cada municipio conforme a su autonomía, respetando los sistemas normativos de los pueblos y comunidades indígenas asentados en su territorio.
+
+CUARTO. Los Ayuntamientos con población indígena que resulten electos para el periodo constitucional 2024-2027, una vez iniciada la administración deberán emitir la Primera Convocatoria para la elección de la persona que llevará a cabo la representación indígena ante el mismo, de conformidad con lo que dispone el presente Decreto y las demás disposiciones correspondientes.
+
+QUINTO. Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
