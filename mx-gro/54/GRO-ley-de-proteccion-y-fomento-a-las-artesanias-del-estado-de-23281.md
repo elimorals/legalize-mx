@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-proteccion-y-fomento-a-las-artesanias-del-estado-de-2328
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-04"
-last_updated: "2024-04-30"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PROTECCION Y FOMENTO A LAS ARTESANIAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2024.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 4 de julio de 1989.
 
@@ -77,9 +77,21 @@ I. Coadyuvar a la coordinación entre las distintas dependencias y entidades;
 
 II. Estimular la participación de los artesanos y sus organizaciones representativas en los programas que lleve a cabo el sector público;
 
-III. Promover la vinculación entre los aspectos económicos de las artesanías, y las actividades culturales y del turismo; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-IV. Armonizar los intereses de los artesanos, tanto económicos como culturales, con los de las empresas del sector social y del sector privado.
+III. Promover la vinculación entre los aspectos económicos de las artesanías, y las actividades culturales y del turismo;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+IV. Armonizar los intereses de los artesanos, tanto económicos como culturales, con los de las empresas del sector social y del sector privado;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+V. Incentivar programas con el fin de que los artesanos exporten sus productos a otros países directamente y sin intermediarios; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+VI. Establecer programas para la promoción de artesanías en los destinos turísticos del país.
 
 ### CAPITULO II. DE LA PROTECCION Y FOMENTO
 
@@ -109,7 +121,23 @@ IX. (DEROGADA, P.O. 24 DE FEBRERO DE 2009)
 
 X. (DEROGADA, P.O. 24 DE FEBRERO DE 2009)
 
-XI. Las demás que sean necesarias para el ejercicio de las anteriores.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XI. Promover la artesanía guerrerense a nivel nacional a través de exposiciones itinerantes en los centros turísticos más visitados del país;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XII. Elaborar programas de colaboración entre la Secretaría de Relaciones Exteriores y la SEFODECO, que permitan a los artesanos exportar sus productos sin intermediarios;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIII. Promover la artesanía guerrerense a nivel internacional a través de exposiciones itinerantes en el extranjero;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIV. Fomentar el aprendizaje de elaboración de artesanías a través de cursos a jóvenes artesanos; y
+
+XV. Las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 6o.
 
@@ -123,9 +151,21 @@ I. Otorgar subsidios casuísticamente a los artesanos cuando se trate de artesan
 
 II. Establecer mecanismos que permitan la certificación de origen o autenticidad;
 
-III. Desenvolver o intervenir en procedimientos administrativos o judiciales tendientes a combatir prácticas que afecten el prestigio o el valor de las artesanías guerrerenses; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-IV. Prestar asistencia legal a los artesanos a través del Servicio de Defensoría de Oficio en los conflictos que los afecten y que estén directamente vinculados a su actividad productiva.
+III. Desenvolver o intervenir en procedimientos administrativos o judiciales tendientes a combatir prácticas que afecten el prestigio o el valor de las artesanías guerrerenses;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+IV. Prestar asistencia legal a los artesanos a través del Servicio de Defensoría de Oficio en los conflictos que los afecten y que estén directamente vinculados a su actividad productiva;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+V. Crear convenios de colaboración con el Fondo Nacional de las Artesanías con el propósito de difundir a los artesanos la importancia del derecho de autor y registro de marca de sus piezas; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+VI. Promover el registro de marca de artesanos ante el Instituto Mexicano de Propiedad Industrial, a través de programas.
 
 ###### ARTICULO 8o.
 
@@ -147,11 +187,21 @@ II. Congreso Estatal de Lacas en Tixtla;
 
 III. Feria Guerrerense de Artesanías en Ometepec;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-IV. Encuentro Estatal de Artesanos en Chilpancingo para conmemorar el Día del Artesano; y
+IV. Encuentro Estatal de Artesanos en Chilpancingo;
 
-V. Tianguis Anual de Artesanos en Chilapa.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+V. Tianguis Anual de Artesanos en Chilapa;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+VI. Feria Artesana de Acapulco; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+VII. Feria Artesana de la Costa Grande con sede en Coyuca de Benítez.
 
 ###### ARTICULO 11.
 
@@ -277,9 +327,19 @@ VIII. Aprobar el nombramiento de los funcionarios del centro a excepción de la 
 
 IX. Aprobar los reconocimientos a artesanos de excelencia;
 
-X. Aprobar la estructura orgánica del Centro y el reglamento interior; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XI. Las que sean necesarias para el ejercicio de las anteriores.
+X. Aprobar la estructura orgánica del Centro y el reglamento interior;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XI. Conocer y aprobar los presupuestos para las muestras itinerantes de artesanías guerrerenses en el extranjero;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XII. Conocer y aprobar los presupuestos para las muestras itinerantes en los principales centros turísticos del país; y
+
+XIII. Las que sean necesarias para el ejercicio de las anteriores.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2024)</small>
 
@@ -546,3 +606,13 @@ PRIMERO: El presente Decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO: Remítase este Decreto a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
 
 TERCERO: Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la Gaceta Parlamentaria del Honorable Congreso del Estado de Guerrero.
+
+P.O. 14 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 784 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN Y FOMENTO A LAS ARTESANÍAS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
