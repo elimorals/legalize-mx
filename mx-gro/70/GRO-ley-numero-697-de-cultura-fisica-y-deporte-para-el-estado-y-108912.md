@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-697-de-cultura-fisica-y-deporte-para-el-estado-y-108
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-27"
-last_updated: "2024-04-30"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 27 de Febrero de 2015.
 
@@ -555,9 +555,41 @@ VI. Los demás recursos, bienes y derechos que adquiera o reciba por cualquier t
 
 Las relaciones de trabajo entre el INDEG y sus trabajadores se regirán por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248, y en su caso por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y las leyes federales en la materia.
 
-#### Sección Segunda. Del Órgano de Gobierno del Instituto del Deporte de Guerrero
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE MAYO DE 2024)</small>
 
-#### Sección Tercera. Del Director General del Instituto del Deporte de Guerrero
+#### Sección Primera Bis. Programa Becas Deportivas
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Artículo 32 (sic) Bis. Se instituye el Programa Becas Deportivas, de carácter público y de observancia general en el estado de Guerrero, como un acto de justicia social a favor de la juventud en el desarrollo integral del estado, correspondiendo su aplicación al Instituto.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+###### Artículo 32 Bis 1.
+
+EI Programa Becas Deportivas, como un acto de justicia social, tiene por objeto garantizar el otorgamiento de un apoyo económico a favor de la juventud que participa en el desarrollo integral del estado y que no se encuentre en el padrón de personas beneficiarias de los programas similares de carácter federal o municipal en el estado de Guerrero, conforme a lo dispuesto en el artículo 32 Bis 3 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+###### Artículo 32 Bis 2.
+
+El Programa Becas Deportivas será de carácter permanente, público y de observancia general en el estado de Guerrero, que tenderá coordinación y de manera complementaria con los programas federales y municipales a la cobertura universal. Su fondo de operación será aprobado por el Poder Legislativo en el Presupuesto de Egresos de cada año y, una vez aprobado el monto del fondo, éste será intransferible hasta el cumplimiento de sus metas.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+###### Artículo 32 Bis 3.
+
+Tendrán derecho a las prestaciones previstas en la presente Ley, a la juventud que participa en el desarrollo integral del estado, a aquellas deportistas de Alto Rendimiento, así como para deportistas en proceso de desarrollo y entrenadoras o entrenadores, sin discriminación alguna por razón de su nacimiento, nacionalidad, etnia, sexo, discapacidad, enfermedad, religión, lengua, cultura, opinión o cualquier otra condición o circunstancia personal, familiar o social, con la finalidad de incrementar el nivel competitivo en las justas deportivas.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+###### Artículo 32 Bis 4.
+
+Corresponde al Instituto expedir las reglas de operatividad y lineamientos con que deba conducirse el funcionamiento y organización del Programa Becas Deportivas.
+
+El Programa Becas Deportivas se regirá con base a las reglas de operación que determine el Consejo Directivo.
+
+#### Sección Segunda. Del Órgano de Gobierno del Instituto del Deporte de Guerrero
 
 ###### Artículo 32.
 
@@ -673,7 +705,7 @@ XXXIII. Ratificar los nombramientos de apoderados que recaigan en personas ajena
 
 XXXIV. Ejercer las facultades que la Ley Número 690 de Entidades Paraestatales del Estado de Guerrero o la que en el futuro la sustituya y su Reglamento asignen a los Órganos de Gobierno de las entidades.
 
-#### Sección Cuarta. Del Órgano de Vigilancia del Instituto del Deporte de Guerrero
+#### Sección Tercera. Del Director General del Instituto del Deporte de Guerrero
 
 ###### Artículo 35.
 
@@ -769,7 +801,7 @@ XLI. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás orde
 
 El Director General tendrá además, las facultades que le delegue y confiera el Consejo Directivo para administrar y representar legalmente del INDEG como mandatario del mismo.
 
-#### Sección Quinta. De la Concurrencia, Coordinación, Colaboración y Concertación
+#### Sección Cuarta. Del Órgano de Vigilancia del Instituto del Deporte de Guerrero
 
 ###### Artículo 38.
 
@@ -841,9 +873,7 @@ XX. Las demás inherentes a su función y las que le señale expresamente la Con
 
 La actuación del Comisario Público se ajustará en todo caso a lo que le atribuya expresamente el Titular de la Contraloría General del Estado y aquellas que les confieran las leyes y reglamentos a los órganos internos de control.
 
-#### Sección Única
-
-De los Órganos Municipales de Cultura Física y Deporte.
+#### Sección Quinta. De la Concurrencia, Coordinación, Colaboración y Concertación
 
 ###### Artículo 41.
 
@@ -917,7 +947,9 @@ Las políticas y acciones a que se refiere esta Sección se realizarán conforme
 
 ### Capítulo Tercero. Del Sector Público Municipal
 
-#### Sección Primera. Disposiciones Comunes
+#### Sección Única
+
+De los Órganos Municipales de Cultura Física y Deporte.
 
 ###### Artículo 45.
 
@@ -1003,7 +1035,7 @@ El Consejo Municipal de Cultura Física y Deporte, sesionará trimestralmente pr
 
 ### Capítulo Cuarto. De los Sectores Social y Privado
 
-#### Sección Segunda. De la Participación Individual en el Deporte
+#### Sección Primera. Disposiciones Comunes
 
 ###### Artículo 52.
 
@@ -1041,7 +1073,7 @@ El incumplimiento a lo dispuesto en este y el anterior artículo, obligará al I
 
 El Instituto del Deporte de Guerrero y los Ayuntamientos promoverán la creación de uno o más patronatos o fideicomisos, integrados por los sectores social y/o privado, a fin de que coadyuven al desarrollo y ejecución de los programas municipal, estatal y nacional de cultura física y deporte.
 
-#### Sección Tercera. De las Asociaciones y Sociedades Deportivas
+#### Sección Segunda. De la Participación Individual en el Deporte
 
 ###### Artículo 60.
 
@@ -1089,7 +1121,7 @@ XII. Recibir una ficha de seguimiento para registrar sus récords deportivos, y
 
 XIII. Los demás que le otorgue esta Ley.
 
-#### Sección Cuarta. De las Asociaciones Deportivas Estatales
+#### Sección Tercera. De las Asociaciones y Sociedades Deportivas
 
 ###### Artículo 64.
 
@@ -1135,7 +1167,7 @@ Para efecto de que el INDEG otorgue el registro correspondiente como Asociacione
 
 Las Asociaciones y Sociedades Deportivas deberán establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales, considerando en el caso de éstas últimas la opinión del Comité Olímpico Mexicano y del Comité Paralímpico Mexicano, según sea el caso.
 
-#### Sección Quinta. De Otras Asociaciones y Sociedades
+#### Sección Cuarta. De las Asociaciones Deportivas Estatales
 
 ###### Artículo 70.
 
@@ -1203,7 +1235,7 @@ El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su e
 
 El funcionamiento, integración y operación del CEVED estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
-#### Sección Sexta. De las Personas con Discapacidad y Adultos Mayores
+#### Sección Quinta. De Otras Asociaciones y Sociedades
 
 ###### Artículo 79.
 
@@ -1229,7 +1261,7 @@ De igual forma, deberán rendir el INDEG un informe anual sobre las actividades 
 
 El INDEG presentará al Congreso del Estado un informe anual de los resultados alcanzados en la materia.
 
-#### Sección Séptima. Del Deporte de los Pueblos Originarios y Afromexicano
+#### Sección Sexta. De las Personas con Discapacidad y Adultos Mayores
 
 ###### Artículo 84.
 
@@ -1242,6 +1274,8 @@ El Instituto del Deporte de Guerrero organizará y difundirá los beneficios del
 ###### Artículo 86.
 
 El Instituto del Deporte de Guerrero a través de las instituciones médicas, motivará, incorporará y adiestrará a las personas con discapacidad y los adultos mayores en las actividades deportivas de su agrado, con respeto a su dignidad y autoestima.
+
+#### Sección Séptima. Del Deporte de los Pueblos Originarios y Afromexicano
 
 ###### Artículo 87.
 
@@ -2152,3 +2186,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 14 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 786 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
