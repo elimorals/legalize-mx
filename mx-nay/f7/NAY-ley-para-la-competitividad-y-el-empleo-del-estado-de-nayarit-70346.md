@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-competitividad-y-el-empleo-del-estado-de-nayarit-70
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2023-04-05"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 16 de septiembre de 2009.
 
@@ -64,6 +64,10 @@ IV. Competitividad: La calidad del ambiente económico e institucional para el d
 V. Consejo: El Consejo Consultivo Estatal para la Mejora Regulatoria.
 
 VI. Ejecutivo: El Gobernador Constitucional del Estado Libre y Soberano de Nayarit.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+VI Bis. Empoderamiento Financiero: inclusión financiera de las mujeres, a través de la implementación de herramientas y conocimientos de educación financiera que les permita tener libertad en la toma de decisiones;
 
 VII. Empresas: Unidad de organización dedicada a actividades industriales, mercantiles o de prestación de servicios con fines lucrativos. Para los efectos de esta ley las empresas se clasifican en Micro, Pequeñas, Medianas y Grandes.
 
@@ -169,13 +173,17 @@ XIII. Proponer esquemas para la modernización, innovación y desarrollo tecnol�
 
 XIV. Promover que la creación y desarrollo de las MIPyMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XV. Crear y tramitar, de acuerdo a la legislación aplicable, distintivos y certificaciones respecto de productos y servicios nayaritas, para distinguirlos por su calidad e impulsar el consumo local en todas sus vertientes, y
+XV. Crear y tramitar, de acuerdo a la legislación aplicable, distintivos y certificaciones respecto de productos y servicios nayaritas, para distinguirlos por su calidad e impulsar el consumo local en todas sus vertientes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
 
-XVI. Las demás que contribuyan a la realización de los fines de esta ley.
+XVI. Fomentar la independencia financiera de las mujeres, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XVII. Las demás que contribuyan a la realización de los fines de esta ley.
 
 ###### Artículo 4.
 
@@ -213,11 +221,17 @@ II. Auspiciar y apoyar la celebración y aplicación de convenios para el foment
 
 III. Evaluar el desarrollo del fomento económico cuantitativa y cualitativamente, mediante una matriz de indicadores estratégicos y de gestión;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-IV. Apoyar las acciones y proyectos de fomento para el desarrollo económico mediante la asignación de recursos públicos, bajo una perspectiva de género, y
+IV. Apoyar las acciones y proyectos de fomento para el desarrollo económico mediante la asignación de recursos públicos, bajo una perspectiva de género;
 
-V. Las demás previstas en la presente ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+V. Promover el empoderamiento financiero de las mujeres a fin de incentivar su independencia financiera, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2024)</small>
+
+VI. Las demás previstas en la presente ley y otras disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -231,9 +245,17 @@ II. Las disposiciones en materia de mejora regulatoria y autoridades responsable
 
 III. Los esquemas necesarios para estimular e incentivar a las Empresas, y las autoridades u organismos facultados para gestionarlos, otorgando los apoyos que procedan, de conformidad con las actividades sujetas al fomento económico, según lo determine dicho orden de Gobierno, atendiendo la perspectiva de género e impulsando la igualdad entre hombres y mujeres;
 
-IV. Los medios de defensa a los que podrán acudir los particulares en contra de las resoluciones y el procedimiento a observar; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-V. Las demás disposiciones que consideren necesarias para lograr el cumplimiento de esta ley.
+IV. Los medios de defensa a los que podrán acudir los particulares en contra de las resoluciones y el procedimiento a observar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+V. Promover el empoderamiento financiero de las mujeres, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2024)</small>
+
+VI. Las demás disposiciones que consideren necesarias para lograr el cumplimiento de esta ley.
 
 ### CAPÍTULO III. DE LOS APOYOS
 
@@ -253,9 +275,17 @@ Tratándose de Proyectos de Inversión de carácter Estratégico, el ejecutivo a
 
 I. Los proyectos que por su interés e impacto económico, sectorial y regional, generen tangibles beneficios en el estado y los municipios;
 
-II. Contribuyan de manera directa e indirecta a la creación, desarrollo y consolidación de las MIPyMES, particularmente a través de encadenamientos productivos o mejora económica de la zona de impacto; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-III. Aseguren fuentes de empleo constantes y a largo plazo para sectores específicos de la oferta educativa de los planteles públicos o de educación superior.
+II. Contribuyan de manera directa e indirecta a la creación, desarrollo y consolidación de las MIPyMES, particularmente a través de encadenamientos productivos o mejora económica de la zona de impacto;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+III. Aseguren fuentes de empleo constantes y a largo plazo para sectores específicos de la oferta educativa de los planteles públicos o de educación superior, y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+IV. Fomenten el apoyo al empoderamiento financiero de las mujeres.
 
 ### CAPÍTULO IV. DE LOS ESTÍMULOS FISCALES
 
@@ -958,5 +988,11 @@ P.O. 18 DE MARZO DE 2021.
 P.O. 5 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE PERSPECTIVA DE GÉNERO EN EL FOMENTO DE LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE EMPODERAMIENTO FINANCIERO DE LAS MUJERES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
