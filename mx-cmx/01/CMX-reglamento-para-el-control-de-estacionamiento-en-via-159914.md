@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-de-estacionamiento-en-via-159914"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-08-31"
-last_updated: "2022-08-31"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159914&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2022-08-29"
 
 REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE MAYO DE 2024.
 
 Reglamento publicado en el Número 928 de la Gaceta Oficial de la Ciudad de México, el miércoles 31 de agosto de 2022.
 
@@ -182,13 +182,19 @@ II. Establecer los requisitos y datos que deberán contener los comprobantes de 
 
 III. Conciliar mensualmente con la Secretaría, el monto de los recursos captados por el cobro de los ingresos por parquímetros;
 
-IV. Incluir en el proyecto de presupuesto la asignación de recursos para la operación del servicio de parquímetros, así como para la ejecución de los programas y proyectos de movilidad para el desarrollo de infraestructura urbana que defina el Reglamento;
+> <small>(REFORMADA, G.O. 14 DE MAYO DE 2024)</small>
+
+IV. Incluir anualmente en el proyecto de Iniciativa de la Ley de Ingresos de la Ciudad de México, los recursos estimados por la recaudación del sistema de parquímetros a cargo de la Secretaría; y
 
 V. En coordinación con la Secretaría, determinar anualmente el importe a cobrar por el uso de la vía pública en Zona de Parquímetros, considerando, entre otros factores, la ubicación y demanda del servicio;
 
 B. Subsecretaría de Egresos:
 
-I. Incluir anualmente en la Iniciativa de la Ley de Ingresos los recursos estimados por la recaudación de parquímetros;
+> <small>(REFORMADA, G.O. 14 DE MAYO DE 2024)</small>
+
+I. Incluir en el proyecto de Presupuesto de Egresos de la Ciudad de México, para el ejercicio fiscal que corresponda, la asignación de recursos provenientes del sistema de parquímetros, que se destinarán a la ejecución de los programas y proyectos de movilidad para el desarrollo de infraestructura urbana que defina el Reglamento.
+
+Dentro de dicha proyección deberá incluirse, en el presupuesto asignado a la Secretaría, el monto estimado correspondiente al 30% de los recursos totales que se generen por concepto de estacionamiento en la vía pública dentro del Sistema de Parquímetros a su cargo, para realizar las aportaciones correspondientes al Fondo de Administración de Recursos del Sistema de Parquímetros de la Ciudad de México, en términos del inciso a), del artículo 17 Ter de este Reglamento.
 
 C. Dirección General de Patrimonio Inmobiliario:
 
@@ -356,9 +362,29 @@ VII. Cerciorarse que la señalización a que hace referencia la fracción VI se 
 
 Lo no previsto en el presente Reglamento respecto a las concesiones que sean otorgadas para la prestación del servicio y cobro de parquímetros se atenderá (sic) lo establecido en la Ley del Régimen Patrimonial y del Servicio Público.
 
-### CAPÍTULO V. PERSONAS USUARIAS DE LOS PARQUÍMETROS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE MAYO DE 2024)</small>
 
-### CAPÍTULO VI. OBLIGACIONES DE LOS TERCEROS AUTORIZADOS
+### Capítulo IV Bis. Administración de los Recursos Provenientes del Cobro de Estacionamiento en Vía Pública de la Ciudad de México
+
+> <small>(ADICIONADO, G.O. 14 DE MAYO DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+Para la administración de los recursos provenientes de las contraprestaciones que reciba el Gobierno de la Ciudad de México del sistema de parquímetros, se constituirá el Fondo de Administración de Recursos del Sistema de Parquímetros de la Ciudad de México, a efecto de que los recursos que lo integren se destinen a implementación, conservación y mejora en proyectos de movilidad, así como mejoras de infraestructura en la Ciudad de México, previamente aprobados por el Comité de Transparencia y Rendición de Cuentas correspondiente y conforme al presente Reglamento; Los recursos del Fondo también podrán destinarse a desarrollar acciones para el mejoramiento urbano de las colonias en donde opera el sistema de parquímetros a cargo de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 14 DE MAYO DE 2024)</small>
+
+###### Artículo 17 Ter.
+
+Los recursos del Fondo de Administración de Recursos del Sistema de Parquímetros de la Ciudad de México estarán integrados por:
+
+a) Los provenientes del equivalente al 30% de los recursos totales generados por los parquímetros instalados y en operación, derivado del sistema de parquímetros a cargo de la Secretaría.
+
+Estos recursos serán aportados por la Secretaría de acuerdo con la captación efectiva reportada en el informe de avance trimestral mediante las conciliaciones a que se refieren las fracciones XII, XIV y XV del artículo 4 de este Reglamento y que serán destinados exclusivamente a la ejecución de proyectos para el mejoramiento urbano en las mismas zonas de parquímetros.
+
+b) Los rendimientos financieros que se generen en el Fondo.
+
+### CAPÍTULO V. PERSONAS USUARIAS DE LOS PARQUÍMETROS
 
 ###### Artículo 18.
 
@@ -488,7 +514,7 @@ d) El vehículo se encuentre estacionado fuera del área permitida o no coincida
 
 Lo anterior se verificará mediante el distintivo al que se refiere el artículo 42 de este Reglamento.
 
-### CAPÍTULO VII. PERMISO PARA RESIDENTES DE ZONAS DE PARQUÍMETROS
+### CAPÍTULO VI. OBLIGACIONES DE LOS TERCEROS AUTORIZADOS
 
 ###### Artículo 26.
 
@@ -558,7 +584,7 @@ El Plan Operativo Anual deberá ser autorizado por la Secretaría para su implem
 
 La Secretaría autorizará los métodos de pago que deberán cumplir con las obligaciones establecidas en el capítulo V, así como los controles internos que permitan la supervisión de los ingresos por parte de las autoridades competentes.
 
-### CAPÍTULO VIII. COMITÉ DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN ZONAS DE PARQUÍMETROS
+### CAPÍTULO VII. PERMISO PARA RESIDENTES DE ZONAS DE PARQUÍMETROS
 
 ###### Artículo 34.
 
@@ -672,7 +698,7 @@ En caso de no subsanar la prevención en el término señalado, la Secretaría r
 
 Para el procedimiento de revocación de los permisos contemplados en el presente capítulo se estará a lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México.
 
-### CAPÍTULO IX. SISTEMAS DE INFORMACIÓN
+### CAPÍTULO VIII. COMITÉ DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN ZONAS DE PARQUÍMETROS
 
 ###### Artículo 47.
 
@@ -734,7 +760,7 @@ La Secretaría informará trimestralmente al Comité la información de los ingr
 
 Para informar lo previsto en el párrafo anterior, la Secretaría, además de los medios de comunicación ya autorizados, podrá implementar el uso de medios electrónicos oficiales. Asimismo, en la integración de los mismos, se atenderá estrictamente lo relacionado a la protección de datos personales.
 
-### CAPÍTULO X. VIGILANCIA
+### CAPÍTULO IX. SISTEMAS DE INFORMACIÓN
 
 ###### Artículo 53.
 
@@ -746,7 +772,7 @@ Las plataformas de información administradas por la Secretaría permitirán la 
 
 La ejecución de proyectos al amparo de este Reglamento no impedirá ni limitará las atribuciones de la Alcaldía correspondiente, en materias de obras y servicios urbanos en la Zona de Parquímetros.
 
-### CAPÍTULO XI. TECNOLOGÍA SUSTENTABLE
+### CAPÍTULO X. VIGILANCIA
 
 ###### Artículo 55.
 
@@ -780,13 +806,13 @@ VII. Actividades auxiliares para la colocación y retiro de candados inmovilizad
 
 La Secretaría podrá realizar, por sí misma o a través de terceros, revisiones aleatorias o programadas de la operación y funcionamiento del sistema a través de los protocolos y formatos establecidos en los lineamientos correspondientes.
 
-### CAPÍTULO XII. SANCIONES
+### CAPÍTULO XI. TECNOLOGÍA SUSTENTABLE
 
 ###### Artículo 58.
 
 La Secretaría determinará las características técnicas de los equipos para el control y cobro de estacionamiento en la vía pública. Asimismo, adoptará las medidas necesarias para la incorporación de nuevas tecnologías amigables con el medio ambiente en los sistemas para el control y cobro de estacionamiento en la vía pública y el fomento a la innovación, accesibilidad, inclusión y tecnología sustentable.
 
-### CAPÍTULO XIII. MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO XII. SANCIONES
 
 ###### Artículo 59.
 
@@ -828,6 +854,8 @@ Cualquier persona, incluyendo al tercero autorizado u operador, agente o la Secr
 
 En caso de que el tercero autorizado presente, por motivos que sean imputables al mismo, incumplimientos a los niveles de servicio mínimos definidos por la Secretaría, así como a lo establecido en las leyes, reglamentos, lineamientos, títulos de concesión o permisos, la Secretaría podrá imponer sanciones económicas al operador, de acuerdo con lo establecido en los instrumentos jurídicos otorgados y lineamientos que para tal fin emita la misma.
 
+### CAPÍTULO XIII. MEDIOS DE IMPUGNACIÓN
+
 ###### Artículo 66.
 
 Todo acto y resolución emitida por las autoridades administrativas competentes en la aplicación del presente Reglamento, podrán impugnarse a través del recurso de inconformidad previsto por la Ley del (sic) Procedimiento Administrativo de la Ciudad de México.
@@ -849,3 +877,15 @@ QUINTO. A partir de la entrada en vigor del presente Reglamento, se abroga el Re
 SEXTO. En un plazo de 60 días hábiles posteriores a la entrada en vigor del presente Reglamento, la Agencia Digital de Innovación Pública de la Ciudad de México realizará las adecuaciones correspondientes a la Plataforma Digital con la finalidad de dar cumplimiento a lo establecido en el Reglamento. Posteriormente, brindará a la Secretaría las llaves de acceso y demás mecanismos para su operación.
 
 Dado en la residencia oficial de la Jefatura de Gobierno de la Ciudad de México, a los 29 días del mes de agosto del año dos mil veintidós. LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. El Fondo de Administración de Recursos del Sistema de Parquímetros de la Ciudad de México deberá constituirse en un término de 10 días hábiles posteriores a la entrada en vigor del presente Decreto, lo anterior, de conformidad con las Reglas de Operación que al efecto emita la Secretaría de Administración y Finanzas.
