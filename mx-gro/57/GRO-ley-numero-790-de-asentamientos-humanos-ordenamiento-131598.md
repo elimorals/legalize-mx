@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-790-de-asentamientos-humanos-ordenamiento-131598"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-31"
-last_updated: "2018-08-31"
+last_updated: "2024-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 31 de agosto de 2018.
 
@@ -51,9 +51,13 @@ LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO 
 
 La presente Ley es de orden público e interés social y de observancia general en el territorio del Estado de Guerrero; sus disposiciones tienen por objeto:
 
-I. Establecer las normas básicas para regular el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, con pleno respeto a los derechos humanos y sociales, así como el cumplimiento de las obligaciones que tiene el estado y los municipios;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-II. Determinar las normas conforme a las cuales el estado y los municipios ejercerán de manera concurrente y coordinada la planeación y regulación del ordenamiento territorial de los asentamientos humanos, así como la fundación, conservación, mejoramiento, consolidación, crecimiento de los centros de población y el acceso equitativo a los espacios públicos;
+I. Establecer las normas básicas para regular el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, con pleno respeto a los derechos humanos y sociales, así como el cumplimiento de las obligaciones que tiene el estado y los municipios, para promoverlos, respetarlos, protegerlos y garantizarlos plenamente;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+II. Determinar las normas conforme a las cuales el estado y los municipios ejercerán de manera concurrente y coordinada la planeación y regulación del ordenamiento territorial de los asentamientos humanos, así como la fundación, conservación, mejoramiento, consolidación y crecimiento de los centros de población, para garantizar en todo momento la protección y el acceso equitativo a los espacios públicos;
 
 III. Establecer las causas de utilidad pública que fundamenten y justifiquen la expropiación de inmuebles en los diferentes regímenes de propiedad, para incorporarlos al desarrollo urbano y regional;
 
@@ -71,17 +75,27 @@ IX. Plantear, implementar y regular los instrumentos para promover y apoyar a la
 
 X. Definir los principios para determinar las provisiones, reservas, usos del suelo, destinos de áreas y predios que regulan la propiedad en los centros de población, así como vincular la planeación del desarrollo urbano con la planeación económica, tomando en cuenta los derechos humanos y sociales el desarrollo social, el equilibrio ecológico, la protección al ambiente y la prevención de desastres, para lograr el desarrollo sustentable de los centros de población;
 
-XI. Determinar las infracciones y sanciones aplicables en materia de asentamientos humanos, desarrollo urbano y vivienda; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XII. Establecer las obligaciones, así como regular las actuaciones de los servidores públicos y particulares en la ordenación de los asentamientos humanos y desarrollo urbano en el territorio del Estado.
+XI. Determinar las infracciones y sanciones aplicables en materia de asentamientos humanos, desarrollo urbano y vivienda;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XII. Establecer las obligaciones, así como regular las actuaciones de las servidoras o servidores públicos y particulares en la ordenación de los asentamientos humanos y desarrollo urbano en el territorio del estado, y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIII. Establecer las bases y propiciar mecanismos que permitan la participación ciudadana en los procesos de planeación, administración y gestión del territorio, con base en la transparencia y acceso a la información completa y oportuna, así como la creación de instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en la materia, a partir de la gobernanza territorial.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
 
 ###### Artículo 2.
 
-Las personas sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual, tienen derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivos, equitativos, justos, incluyentes, democráticos y seguros.
+Toda persona tiene derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sostenibles, sustentables, resilientes, saludables, productivos, equitativos, justos, incluyentes, democráticos y seguros, para el ejercicio pleno de sus derechos humanos, políticos, económicos, sociales, culturales y ambientales.
 
-Las actividades que realice el gobierno del Estado para ordenar los asentamientos humanos (sic) el territorio estatal, tiene que realizarse atendiendo el cumplimiento de las condiciones señaladas en el párrafo anterior.
+Las actividades que realice el gobierno del estado para ordenar los asentamientos humanos del territorio estatal, deben realizarse atendiendo el cumplimiento de las condiciones señaladas en el párrafo anterior.
 
-El gobierno del Estado y los ayuntamientos, a través de sus diferentes dependencias, promoverán una cultura de corresponsabilidad cívica y social.
+El gobierno del estado y los ayuntamientos, a través de sus diferentes dependencias, promoverán una cultura de corresponsabilidad cívica y social, sobre los diversos temas relacionados con el aprovechamiento del territorio.
 
 ###### Artículo 3.
 
@@ -135,6 +149,10 @@ XXIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicad
 
 XXIV. Desarrollo urbano: El proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXIV Bis. Dictamen de Congruencia: Acto jurídico administrativo, mediante el cual el ejecutivo del estado, a través de la Secretaría, ratifica el contenido de un instrumento de ordenación territorial o planeación del desarrollo urbano, así como sus modificaciones mayores o actualizaciones respecto a las disposiciones de la presente Ley, de las políticas establecidas en los planes y programas de orden estatal, así como las acciones y normas técnicas en la materia;
+
 XXV. Equipamiento urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
 
 XXVI. Espacio edificable: El suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
@@ -161,6 +179,18 @@ XXXVI. Infraestructura: Los sistemas y redes de organización, distribución de 
 
 XXXVII. Instituto: El Instituto de Vivienda y Suelo Urbano del Estado de Guerrero;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXXVII Bis. Instituto Metropolitano de Planeación: Organismo público descentralizado de la administración pública estatal y municipal, con personalidad jurídica y patrimonio propio creado y operado de manera coordinada por el estado y los municipios que conforman una determinada zona metropolitana, cuyo objetivo es contribuir a la planeación y ordenamiento territorial de la zona metropolitana correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXXVII Bis 1. Instituto Municipal de Planeación: Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio creado y operado en los municipios con un rango de población igual o mayor a cien mil habitantes, cuyo objetivo es contribuir a la planeación ordenamiento territorial y desarrollo urbano del municipio;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXXVII Bis 2. Instituto Multimunicipal de Planeación: Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio creado y operado de manera conjunta por los municipios asociados, los cuales están situados en un rango menor de población a cien mil habitantes, cuyo objetivo es contribuir a la planeación ordenamiento territorial y desarrollo urbano del municipio;
+
 XXXVIII. Ley: La Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Guerrero;
 
 XXXIX. Medidas de seguridad: Las acciones encaminadas a evitar los daños que puedan causar a la población las instalaciones, construcciones, obras y acciones que se realicen en contravención a lo dispuesto en esta Ley, sus reglamentos y los programas de desarrollo urbano;
@@ -168,6 +198,10 @@ XXXIX. Medidas de seguridad: Las acciones encaminadas a evitar los daños que pu
 XL. Mejoramiento: La acción tendente a reordenar, renovar, consolidar y dotar de infraestructura, equipamientos y servicios, las zonas de un centro de población de incipiente desarrollo, subutilizadas o deterioradas física o funcionalmente;
 
 XLI. Movilidad: La capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XLI Bis. Observatorio Urbano: Es un organismo que se encarga de recolectar, manejar y aplicar indicadores y estadísticas, orientado a cubrir la necesidad de la ciudad de información urbana oportuna y precisa para analizar su situación y orientar sus decisiones;
 
 XLII. Ordenamiento territorial de los asentamientos humanos: El ordenamiento territorial es una política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias de desarrollo socioeconómico y la preservación ambiental;
 
@@ -184,6 +218,10 @@ XLVII. Reducción de riesgos de desastres: Los esfuerzos sistemáticos dirigidos
 XLVIII. Reservas: Las áreas de un centro de población que serán utilizadas para su crecimiento;
 
 XLIX. Resiliencia: La capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XLIX Bis. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
 L. Secretaría: La Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
@@ -205,9 +243,11 @@ LVIII. Zonificación primaria: La determinación de las áreas que integran y de
 
 LIX. Zonificación Secundaria: La determinación de los usos de suelo en un espacio edificable y no edificable, así como la definición de los destinos específicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 4.
 
-El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, tenderán a mejorar el nivel de vida de la población urbana y rural, mediante:
+El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, se orientarán a mejorar la calidad y el nivel de vida de la población urbana y rural, en materia de planeación y administración urbana, mediante:
 
 I. La vinculación del desarrollo regional y urbano con el bienestar social de la población;
 
@@ -237,7 +277,9 @@ XIII. La estructuración interna de los centros de población y la dotación suf
 
 XIV. El aprovechamiento de los elementos naturales en beneficio social, procurando la conservación del equilibrio ecológico;
 
-XV. La prevención, control, atención de riesgos y contingencias ambientales y urbanas en los centros de población;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XV. La prevención, control, atención de riesgos y contingencias ambientales y urbanas en los centros de población, evitando la ocupación en zonas de riesgos, naturales o antrópicos, así como promover la reubicación de la población asentada en estas zonas;
 
 XVI. La incorporación de medidas correctivas y restrictivas en el control del uso del suelo, para mitigar la presencia de riesgos urbanos en los centros de población;
 
@@ -281,7 +323,9 @@ X. Sustentabilidad ambiental: Promover prioritariamente, el uso racional del agu
 
 XI. Accesibilidad universal y movilidad: Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias y secundarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público y no motorizado; y
 
-XII. Desarrollo sostenible: Promover el desarrollo sostenible, satisfaciendo las necesidades del presente, sin comprometer las necesidades de las futuras generaciones, basado en factores como la economía, sociedad y medio ambiente para mejor (sic) la calidad de vida de los guerrerenses.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XII. Desarrollo sostenible: Tiene como objetivo lograr el desarrollo sostenible y un equilibrio entre satisfacer las necesidades sociales y la protección del medio ambiente, sin comprometer las necesidades de las futuras generaciones, basado en factores como la economía, sociedad y medio ambiente para mejorar la calidad de vida de los guerrerenses.
 
 ### Capítulo III. Causas de utilidad pública
 
@@ -325,9 +369,11 @@ Las expropiaciones sólo podrán hacerse por causa de utilidad pública y median
 
 ### Capítulo I. Concurrencia
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 7.
 
-Las atribuciones en materia de ordenamiento territorial, asentamientos humanos, desarrollo urbano, metropolitano y de conurbaciones, serán ejercidos de manera concurrente por las autoridades estatales y municipales en el ámbito de la competencia que les otorga la Constitución del Estado, la Ley Orgánica del Municipio Libre del Estado y esta Ley, a través de los mecanismos de coordinación y concertación que se generen.
+Las atribuciones en materia de planeación, así como de ordenamiento territorial, asentamientos humanos, desarrollo urbano y desarrollo metropolitano, serán ejercidos de manera concurrente por la federación, el estado y los municipios, en el ámbito de la competencia que les otorga la Constitución Federal, la Constitución del Estado, este ordenamiento, la Ley Orgánica del Municipio Libre del Estado de Guerrero, así como a través de los mecanismos de coordinación y concertación que se generen.
 
 #### Sección Primera. Congreso del Estado
 
@@ -345,9 +391,11 @@ IV. Las demás que se le otorguen en la presente Ley y otros ordenamientos.
 
 #### Sección Segunda. Ejecutivo Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 9.
 
-El Gobernador Constitucional del Estado tendrá las atribuciones siguientes:
+La persona titular del Poder Ejecutivo tendrá las atribuciones siguientes:
 
 I. Aprobar y expedir los lineamientos necesarios para la regulación de los procedimientos anunciados en la presente Ley;
 
@@ -365,15 +413,61 @@ VII. Publicar en el Periódico Oficial del Gobierno del Estado, así como ordena
 
 VIII. Proponer modificaciones a la legislación local en materia de desarrollo urbano que permita contribuir al financiamiento e instrumentación del ordenamiento territorial, el desarrollo urbano, metropolitano y de conurbación, en condiciones de equidad, así como para la recuperación de las inversiones públicas y del incremento de valor de la propiedad inmobiliaria generado por la consolidación y el crecimiento urbano;
 
-IX. Aprobar o ratificar el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y el Atlas de Riesgo del Estado, en el primer año de la administración o por causas de fuerza mayor que así lo amerite; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-X. Las demás que se le otorguen en la presente Ley y otros ordenamientos jurídicos.
+IX. Aprobar o ratificar el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y el Atlas de Riesgo del estado, en el primer año de la administración o por causas de fuerza mayor que así lo amerite;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+X. Impulsar y promover la creación de los institutos municipales, multimunicipales y metropolitanos de planeación, así mismo, establecer y participar en las instancias de coordinación metropolitana en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XI. Coordinar sus acciones con la federación, con otras entidades federativas, sus municipios, municipios asociados o demarcaciones territoriales, según corresponda, para el ordenamiento territorial de los asentamientos humanos y la planeación del desarrollo urbano y desarrollo metropolitano; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la movilidad y a la accesibilidad universal;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XII. Apoyar a las autoridades municipales que lo soliciten, en el asesoramiento y capacitación sobre la administración de la planeación del desarrollo urbano, o para la celebración de convenios entre estas para la creación y mantenimiento de institutos multimunicipales, metropolitanos de planeación o en dado caso, convenir con ellas la transferencia de facultades estatales en materia urbana, en términos de los convenios que para ese efecto se celebren;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIII. Garantizar la gobernanza territorial y urbana;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIV. Formular y conducir las políticas estatales sobre ordenamiento territorial, desarrollo urbano, vivienda y asentamientos humanos;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XV. Promover el cumplimiento y la efectiva protección de los derechos humanos relacionados con el ordenamiento territorial de los asentamientos humanos, el desarrollo urbano y la vivienda;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XVI. Coordinar y promover con la participación de los municipios la formulación, aprobación y ejecución de los planes de zonas metropolitanas y áreas conurbadas;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XVII. Celebrar convenios con la federación, con otras entidades federativas y con los municipios, para la planeación, instrumentación y regulación de las acciones de ordenamiento territorial y la promoción y administración del desarrollo urbano de los municipios, áreas conurbadas, zonas metropolitanas y centros de población de la Entidad;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XVIII. Promover y desarrollar mecanismos de gestión y financiamiento para el ordenamiento territorial y el desarrollo urbano y metropolitano, junto con los municipios involucrados;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIX. Conducir en coordinación con los municipios y otras dependencias y entidades públicas, los procesos de regularización territorial en el estado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XX. Las demás que le otorgue la presente Ley y otros ordenamientos jurídicos.
 
 #### Sección Tercera. Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 10.
 
-La Secretaria de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial, tendrá las atribuciones siguientes:
+La Secretaría de Desarrollo Urbano, Obras públicas y Ordenamiento Territorial ejercerá las atribuciones que esta Ley otorga a la persona titular del Poder Ejecutivo, salvo las que de acuerdo a la ley deba ejercer de manera directa, para lo cual tendrá las atribuciones siguientes:
 
 I. Establecer normas conforme a las cuales se promoverá y dará participación a la ciudadanía en los procesos de planeación, seguimiento y evaluación a que se refiere esta Ley;
 
@@ -389,7 +483,9 @@ VI. Participar en la planeación y regulación de las zonas metropolitanas y con
 
 VII. Establecer y participar en las instancias de coordinación metropolitana y de conurbaciones en los términos de esta Ley;
 
-VIII. Coordinar sus acciones con la federación, con otras entidades federativas y municipios, de manera intraestatal e interestatal, según corresponda, para el ordenamiento territorial de los asentamientos humanos y la planeación del desarrollo urbano, metropolitano y de conurbaciones; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la movilidad y a la accesibilidad universal;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+VIII. Coordinar sus acciones con la federación, con otras entidades federativas y municipios o municipios asociados, de manera intraestatal e interestatal, según corresponda, para el ordenamiento territorial de los asentamientos humanos y la planeación del desarrollo urbano, metropolitano y de conurbaciones; así como para la ejecución de acciones, obras e inversiones en materia de infraestructura, equipamiento y servicios urbanos, incluyendo las relativas a la movilidad y a la accesibilidad universal;
 
 IX. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para el desarrollo regional, desarrollo urbano, metropolitano y de conurbaciones, atendiendo a los principios de esta Ley y a lo establecido en las leyes en la materia;
 
@@ -433,9 +529,25 @@ XXVIII. Establecer las normas conforme a las cuales se efectuará la evaluación
 
 XXIX. Participar conforme a la legislación federal y local, en la constitución y administración de reservas territoriales, la dotación de infraestructura, equipamiento y servicios urbanos, la salvaguarda de la población que se ubique en los polígonos de protección y amortiguamiento determinados por los planes de desarrollo urbano; así como en la protección del patrimonio histórico, cultural y natural y de las zonas de valor ambiental del equilibrio ecológico de los centros de población;
 
-XXX. Formular recomendaciones a los ayuntamientos para el cumplimiento de la política pública estatal de ordenamiento territorial y de desarrollo urbano de los asentamientos humanos; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XXXI. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+XXX. Formular recomendaciones a los ayuntamientos para el cumplimiento de la política pública estatal de ordenamiento territorial y de desarrollo urbano de los asentamientos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XXXI. Prever a nivel estatal las necesidades de tierra para desarrollo urbano y vivienda, priorizando zonas adecuadas que faciliten la introducción de servicios básicos e infraestructura, que cuenten con disponibilidad de agua, lo que se acreditará conforme a dictámenes expedidos por autoridades competentes, evitando zonas de riesgo.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXXII. Impulsar y promover en las instancias competentes del estado y los municipios la creación de institutos municipales, multimunicipales y metropolitanos de planeación, observatorios urbanos, así como proponer la creación de consejos participativos y otras estructuras institucionales y ciudadanas, en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XXXIII. Asesorar a los gobiernos municipales en la conformación de los Institutos municipales, multimunicipales y metropolitanos de planeación, así como en la elaboración y ejecución de sus planes o programas de desarrollo urbano y en la capacitación técnica de su personal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XXXIV. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
 
 #### Sección Cuarta. Ayuntamientos
 
@@ -461,9 +573,33 @@ VIII. Celebrar con la federación, el estado y con otros municipios, o con los p
 
 IX. Coordinar sus acciones y, en su caso, celebrar convenios para asociarse con el estado y con otros municipios o con los particulares, para la prestación de servicios públicos municipales, de acuerdo con lo previsto en la legislación local;
 
-X. Promover la creación y funcionamiento de observatorios urbanos, institutos de planeación, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XI. Las demás que les señale esta Ley y otras disposiciones jurídicas aplicables.
+X. Promover la creación y funcionamiento de observatorios urbanos, institutos de planeación, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XI. Impulsar y promover la conformación de institutos metropolitanos de planeación junto con los municipios que conforman una zona metropolitana determinada, así como participar en la planeación y regulación de las zonas metropolitanas y conurbaciones, en los términos de esta Ley y de la legislación local;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XII. Celebrar convenios de asociación o colaboración con otros municipios para fortalecer sus procesos de planeación urbana, tanto para la programación, financiamiento y ejecución de acciones, como para obras y prestación de servicios comunes; así como para crear y mantener un instituto multimunicipal de planeación, cuando los municipios se encuentren por debajo de un rango de población menor a cien mil habitantes;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIII. Impulsar y promover un instituto municipal de planeación, cuando se encuentre en un rango de población de cien mil habitantes hacia arriba;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIV. Ejecutar en coordinación con las autoridades estatales, acciones para la prevención de riesgos y contingencias ambientales, naturales y urbanas en los centros de población;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XV. Intervenir y coadyuvar en la regularización de la tenencia de la tierra de los asentamientos irregulares en zonas que no sean consideradas de riesgo, así como en los procesos de incorporación al desarrollo urbano de tierras de origen ejidal, comunal, privado o provenientes del patrimonio de la federación o del estado, conforme a la legislación aplicable, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XVI. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
 
 #### Sección Quinta. Área responsable del desarrollo urbano municipal
 
@@ -577,35 +713,35 @@ Será responsabilidad de la Secretaría y de los municipios según sea el caso, 
 
 El Consejo Estatal es la instancia de carácter consultivo, de opinión y deliberación, de conformación plural y de participación ciudadana, convocada por el titular de la Secretaría, para la consulta, asesoría, seguimiento y evaluación de las políticas estatales en la materia.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 20.
 
 El Consejo Estatal, estará integrado de la manera siguiente:
 
-I. El titular de la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial, quien lo presidirá;
+I. La persona titular de la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial, quien la presidirá;
 
-II. Los Delegados Federales de las secretarias y dependencias siguientes:
+II. Las personas titulares de las delegaciones federales de las secretarías y dependencias siguientes:
 
 a) Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-b) Secretaría de Comunicaciones y Transportes;
+b) Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 c) Secretaría de Medio Ambiente y Recursos Naturales;
 
-d) Secretaría de Turismo;
+d) Registró Agrario Nacional;
 
-e) Registró Agrario Nacional;
+e) Instituto Nacional de Suelo Sustentable;
 
-f) Instituto Nacional de Suelo Sustentable;
+f) Instituto Nacional de Estadística y Geografía, y
 
-g) Instituto Nacional de Estadística y Geografía; y
+g) Procuraduría Agraria.
 
-h) Procuraduría Agraria.
-
-III. Los titulares de las siguientes secretarías y organismos públicos descentralizados de la administración pública estatal:
+III. Las personas titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
 
 a) Secretaría General de Gobierno;
 
-b) Secretaría de Administración y Finanzas;
+b) Secretaría de Finanzas y Administración;
 
 c) Secretaría de Fomento y Desarrollo Económico;
 
@@ -615,45 +751,51 @@ e) Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
 
 f) Secretaría de Planeación y Desarrollo Regional;
 
-g) Secretaría de Asuntos Indígenas y Comunidades Afromexicanas;
+g) Secretaría para el Desarrollo de las Comunidades y Pueblos Indígenas y Afromexicanos;
 
-h) Secretaría de Protección Civil;
+h) Secretaría de Gestión Integral de Riesgos y Protección Civil;
 
 i) Secretaría de Turismo;
 
-j) Secretaría de Desarrollo Social;
+j) Secretaría de Bienestar;
 
-k) Dirección General del Instituto de Vivienda y Suelo Urbano de Guerrero;
+k) Instituto de Vivienda y Suelo Urbano de Guerrero;
 
 l) Coordinación General de Fortalecimiento Municipal;
 
-m) Dirección General del Registro Público de la Propiedad y del Comercio;
+m) Registro Público de la Propiedad y del Comercio;
 
-n) Dirección General de la Comisión de Agua Potable Alcantarillado y Saneamiento del Estado de Guerrero;
+n) Comisión de Agua Potable, Alcantarillado y Saneamiento del estado de Guerrero;
 
-o) Dirección General de la Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero;
+o) Comisión de Infraestructura Carretera y Aeroportuaria del estado de Guerrero;
 
-p) Dirección General de Transporte y Vialidad;
+p) Comisión Técnica de Transporte y Vialidad, y
 
-q) Dirección General de la Promotora Turística de Guerrero; y
+q) Promotora Turística de Guerrero.
 
-r) Procuraduría de Defensa de los Campesinos.
+IV. Dos representantes del Congreso del estado de Guerrero:
 
-IV. El Presidente de la Comisión de Desarrollo Urbano y Obras Públicas del Congreso del Estado.
+a) La presidenta o presidente de la Comisión de Desarrollo Urbano y Obras Públicas, y
 
-V. Dos Presidentes Municipales;
+b) La presidenta o presidente de la Comisión de Vivienda.
 
-VI. Dos representantes de las Instituciones Académicas;
+V. Ocho presidentas o presidentes municipales, una persona representante por región administrativa;
 
-VII. Cuatro representantes de Organismos Gremiales;
+VI. Doce personas representantes de las Instituciones Académicas;
 
-VIII. Dos representantes de Organismos del Sector Privado;
+VII. Siete personas representantes de Organismos Gremiales;
 
-IX. Dos representantes de Organismos de la Sociedad Civil.
+VIII. Dos personas representantes de Organismos del Sector Privado;
 
-Las ausencias del Secretario de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, serán suplidas por el Subsecretario de Desarrollo Urbano y Ordenamiento Territorial. Los presidentes municipales serán suplidos por el Director de Desarrollo Urbano del ayuntamiento o su equivalente.
+IX. Ocho personas representantes de Organismos de la Sociedad Civil;
 
-Se constituirá un comité técnico ciudadano auxiliar del Consejo Estatal, el cual se conformará de manera amplia con representación de los colegios de profesionistas, instituciones de nivel superior, instituciones académicas, cámaras empresariales, asociaciones o agrupaciones del ámbito local, regional y estatal.
+X. Una persona representante del Comité Técnico Ciudadano, y
+
+XI. Tres personas de asociaciones empresariales.
+
+Las ausencias de la persona titular de la Secretaría de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, serán suplidas por la persona titular de la Subsecretaría de Desarrollo Urbano y Ordenamiento Territorial. Las presidentas o presidentes municipales serán suplidos por la persona titular de la Dirección de Desarrollo Urbano del ayuntamiento o su equivalente.
+
+Se constituirá un comité técnico ciudadano auxiliar del Consejo Estatal, el cual se conformará de manera amplia con representación de los colegios y asociaciones de profesionistas, instituciones académicas de nivel superior, cámaras empresariales, asociaciones o agrupaciones del ámbito local, regional y estatal.
 
 ###### Artículo 21.
 
@@ -683,13 +825,27 @@ XI. Informar a la opinión pública sobre los aspectos de interés general relat
 
 XII. Integrar las comisiones y grupos de trabajo que sean necesarios para el cumplimiento de sus atribuciones;
 
-XIII. Expedir su reglamento interno, debiendo contar con la asistencia legal de los grupos organizados de abogados debidamente registrados;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XIII. Expedir su reglamento interno;
 
 XIV. Coadyuvar con la participación de los sectores social y ciudadana, en la elaboración, actualización y vigilancia del plan estatal de ordenamiento territorial y desarrollo urbano;
 
-XV Emitir opinión sobre los instrumentos de planeación estatales en materia de desarrollo urbano y del atlas de riesgo que realice el estado y los municipios; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XVI. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
+XV. Emitir opinión sobre los instrumentos de planeación estatales en materia de desarrollo urbano y del atlas de riesgo que realice el estado y los municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XVI. Impulsar y promover la creación de institutos municipales, multimunicipales y metropolitanos de planeación, observatorios urbanos, así como promover la de los consejos participativos y otras estructuras institucionales y ciudadanas;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XVII. Apoyar a las autoridades estatales y municipales que lo soliciten en el asesoramiento y capacitación sobre la creación, implementación, operación, organización, solicitud y generación de ingresos de los institutos, ya sean municipales, multimunicipales y metropolitanos de planeación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XVIII. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
 
 ### Capítulo III. Comisiones metropolitanas o de conurbaciones intraestatales
 
@@ -697,25 +853,27 @@ XVI. Las demás que le señale esta Ley y otras disposiciones legales aplicables
 
 Las comisiones metropolitanas o de conurbaciones intraestatales, coordinarán, formularán y aprobarán los programas metropolitanos, así como su gestión, evaluación y cumplimiento.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 23.
 
 Las comisiones metropolitanas o de conurbaciones intraestatales, estarán integradas de la manera siguiente:
 
-I. El Secretario de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, quien la presidirá;
+I. La persona titular de la Secretaría de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, quien la presidirá;
 
-II. Los Delegados Federales de las secretarías y dependencias siguientes:
+II. Las personas titulares de las delegaciones federales de las secretarías y dependencias siguientes:
 
 a) Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-b) Secretaría de Comunicaciones y Transportes;
+b) Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 c) Secretaría de Medio Ambiente y Recursos Naturales;
 
-d) Instituto Nacional de Suelo Sustentable; y
+d) Instituto Nacional de Suelo Sustentable, y
 
-e) Procuraduría Agraria;
+e) Procuraduría Agraria.
 
-III. Los titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
+III. Las personas titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
 
 a) Secretaría de Finanzas y Administración;
 
@@ -727,35 +885,35 @@ d) Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
 
 e) Secretaría de Planeación y Desarrollo Regional;
 
-f) Secretaría de Asuntos Indígenas y Comunidades Afromexicanas;
+f) Secretaría para el Desarrollo de las Comunidades y Pueblos Indígenas y Afromexicanos;
 
-g) Secretaría de Protección Civil;
+g) Secretaría de Gestión Integral de Riesgos y Protección Civil;
 
 h) Secretaría de Turismo;
 
 i) Secretaría de Cultura;
 
-j) Secretaría de Desarrollo Social;
+j) Secretaría de Bienestar;
 
-k) Dirección General del Instituto de Vivienda y Suelo Urbano de Guerrero;
+k) Instituto de Vivienda y Suelo Urbano de Guerrero;
 
-l) Dirección General de la Comisión de Agua Potable Alcantarillado y Saneamiento del Estado de Guerrero;
+l) Comisión de Agua Potable, Alcantarillado y Saneamiento del estado de Guerrero;
 
-m) Dirección General de la Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero; y
+m) Comisión de Infraestructura Carretera y Aeroportuaria del estado de Guerrero, y
 
-n) Dirección General de Transporte y Vialidad;
+n) Comisión Técnica de Transporte y Vialidad.
 
-IV. El Presidente de la Comisión de Desarrollo Urbano y Obras Públicas del Congreso del Estado;
+IV. La presidenta o presidente de la Comisión de Desarrollo Urbano y Obras Públicas del Congreso del estado;
 
-V. Un representante de una institución académica por cada municipio;
+V. Una persona representante de una institución académica por cada municipio;
 
-VI. Un representante de un colegio de profesionistas afines a la materia por cada municipio; y
+VI. Una persona representante de un colegio de profesionistas afines a la materia por cada municipio, y
 
-VII. Los presidentes municipales y el primer síndico de los ayuntamientos que integren la zona metropolitana o de conurbaciones, según corresponda:
+VII. Las presidentas o presidentes municipales y la primera o el primer síndico de los ayuntamientos que integren la zona metropolitana o de conurbaciones, según corresponda.
 
-Por cada representante propietario se designará un suplente, con conocimiento en la materia.
+Por cada representante propietaria o propietario se designará una suplencia, con conocimiento en la materia.
 
-Las ausencias del Secretario de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, serán suplidas por el Subsecretario de Desarrollo Urbano y Ordenamiento Territorial. Los presidentes municipales serán suplidos por el Director de Desarrollo Urbano del ayuntamiento o su equivalente.
+Las ausencias de la persona titular de la Secretaría de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, serán suplidas por la persona titular de la Subsecretaría de Desarrollo Urbano y Ordenamiento Territorial. Las presidentas o presidentes municipales serán suplidos por la persona titular de la Dirección de Desarrollo Urbano del ayuntamiento o su equivalente.
 
 ###### Artículo 24.
 
@@ -811,29 +969,31 @@ XXII. Las demás que le señale esta Ley y otras disposiciones legales aplicable
 
 Los consejos municipales de desarrollo urbano y vivienda, son las instancias de carácter consultivo, de opinión y deliberación, de conformación plural y de participación ciudadana.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 26.
 
 Los consejos municipales de desarrollo urbano y vivienda, estarán integrados de la manera siguiente:
 
-I. El titular de la Secretaría de Desarrollo Urbano y Obras Públicas del ayuntamiento, sin perjuicio de la denominación y rango jerárquico que los ayuntamientos establezcan, quien lo presidirá;
+I. La persona titular de la Secretaría de Desarrollo Urbano y Obras Públicas del ayuntamiento o su equivalente, sin perjuicio de la denominación y rango jerárquico que los ayuntamientos establezcan, quien la presidirá;
 
-II. Los titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
+II. Las personas titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
 
 a) Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
 b) Secretaría de Medio Ambiente y Recursos Naturales;
 
-c) Secretaría de Protección Civil;
+c) Secretaría de Gestión Integral de Riesgos y Protección Civil;
 
-d) Secretaría de Desarrollo Social;
+d) Secretaria de Bienestar;
 
-e) Dirección General del Instituto de Vivienda y Suelo Urbano de Guerrero; y
+e) Instituto de Vivienda y Suelo Urbano de Guerrero, y
 
-f) Dirección General de Transporte y Vialidad;
+f) Comisión Técnica de Transporte y Vialidad.
 
-III. Los titulares de las dependencias y organismos públicos descentralizados de la administración pública municipal, así como los integrantes del ayuntamiento que se indican, sin perjuicio de la denominación y rango jerárquico que los ayuntamientos establezcan:
+III. Las personas titulares o integrantes de las dependencias y organismos públicos descentralizados de la administración pública municipal o sus equivalentes, conforme a lo siguiente:
 
-a) Secretario del Ayuntamiento;
+a) Secretaría General del Ayuntamiento;
 
 b) Dirección de Administración y Finanzas;
 
@@ -859,27 +1019,27 @@ l) Dirección de Tránsito y Vialidad;
 
 m) Dirección de la Comisión de Agua Potable, Alcantarillado y Saneamiento;
 
-n) El Primer Síndico;
+n) Primera Sindicatura;
 
-o) El Regidor que presida la Comisión de Desarrollo Urbano;
+o) Regiduría que presida la Comisión de Desarrollo Urbano;
 
-p) Dos representantes de las Delegaciones Municipales;
+p) Delegaciones Municipales, dos personas representantes;
 
-q) Un representante del Consejo Consultivo de Comisarios Municipales;
+q) Consejo Consultivo de Comisarios Municipales, una persona representante;
 
-r) Un representante del Consejo Consultivo de Presidentes o Comisarios Ejidales o Bienes Comunales;
+r) Consejo Consultivo de Presidentes o Comisarios Ejidales o Bienes Comunales, una persona representante;
 
-s) Dos representantes de instituciones académicas;
+IV. Dos personas representantes de instituciones académicas;
 
-t) Dos representantes de organismos gremiales;
+V. Dos personas representantes de organismos gremiales;
 
-u) Dos representantes de organismos del sector privado;
+VI. Dos personas representantes de organismos del sector privado, y
 
-v) Dos representantes de organismos de la sociedad civil; y
+VII. Dos personas representantes de organismos de la sociedad civil.
 
-w) Un Secretario Técnico, designado por el presidente del consejo.
+El Consejo contará con una secretaría técnica, la persona titular será propuesta por la presidencia y ratificada por el pleno.
 
-Por cada representante propietario se designará un suplente, con conocimiento en la materia.
+Por cada representante propietaria o propietario se designará una suplencia, con conocimiento en la materia.
 
 ###### Artículo 27.
 
@@ -911,17 +1071,35 @@ XII. Integrar las comisiones y grupos de trabajo, que sean necesarios para el ej
 
 XIII. Coadyuvar, con la participación de los sectores social y ciudadana en la elaboración, actualización y vigilancia de los planes y programas municipales de desarrollo urbano;
 
-XIV. Expedir su reglamento interno, debiendo contar con la asistencia legal de los grupos organizados de abogados debidamente registrados; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
 
-XV. Las demás que les señale esta Ley y otras disposiciones jurídicas aplicables.
+XIV. Expedir su reglamento interno, debiendo contar con la asistencia legal de los grupos organizados de abogados debidamente registrados;
 
-Las ausencias del Secretario Municipal de Obras Publicas y Desarrollo Urbano, serán suplidas por el Director de Desarrollo Urbano Municipal o su equivalente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XV. Promover la participación ciudadana en la formulación, actualización y seguimiento de los planes, que requieran de la intervención de las distintas localidades del municipio, incluyendo el mejoramiento de barrios y colonias, así como el rescate, ampliación y conservación del espacio público;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+
+XVI. Emitir recomendaciones a las autoridades responsables o al Consejo Estatal, acerca de las demandas, propuestas, quejas y denuncias relativas al desarrollo urbano de las distintas localidades del municipio que presenten sus habitantes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2024)</small>
+
+XVII. Las demás que les señale esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Las ausencias de la persona titular de la Secretaría de Desarrollo Urbano y Obras Públicas, serán suplidas por la persona titular de la Dirección de Desarrollo Urbano Municipal o su equivalente.
 
 Se constituirá un comité técnico ciudadano auxiliar del Consejo Municipal de Desarrollo Urbano y Vivienda, el cual se conformará de manera amplia con representación de los colegios de profesionistas, instituciones de nivel superior, instituciones académicas, cámaras empresariales, asociaciones o agrupaciones del ámbito local y regional.
 
-El Consejo Estatal, los consejos municipales y las comisiones metropolitanas y de conurbaciones, podrán designar un suplente por cada representante propietario, con conocimiento en la materia; asimismo, contarán con un secretario técnico designado por los consejos y las comisiones a propuesta del presidente.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
 
-El Consejo Estatal, los consejos municipales y las comisiones metropolitanas y de conurbaciones, podrán invitar a las sesiones a los servidores públicos de la administración pública federal, estatal o municipal, a representantes de los órganos colegiados de profesionistas, asociaciones o agrupaciones del ámbito local, regional o estatal, que considere conveniente de acuerdo con los temas a tratar en cada sesión, quienes tendrán derecho a voz mas no a voto; así mismo, la sesión se instalará con el cincuenta por ciento más uno de sus miembros con derecho a voz y voto.
+El Consejo Estatal, los consejos municipales y las comisiones metropolitanas y de conurbaciones, podrán designar una suplencia por cada representante propietaria o propietario, con conocimiento en la materia; asimismo, contarán con una secretaria o secretario técnico designado por los consejos y las comisiones a propuesta de la presidencia.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
+El Consejo Estatal, los consejos municipales y las comisiones metropolitanas y de conurbaciones, podrán invitar a las sesiones a las servidoras o servidores públicos de la administración pública federal, estatal o municipal, a representantes de los órganos colegiados de profesionistas, asociaciones o agrupaciones del ámbito local, regional o estatal, que considere conveniente de acuerdo con los temas a tratar en cada sesión, quienes tendrán derecho a voz mas no a voto; asimismo, la sesión se instalará con el cincuenta por ciento más uno de sus miembros con derecho a voz y voto.
 
 ## Título Cuarto. Sistema Estatal de Planeación Territorial, Desarrollo Urbano y Metropolitano
 
@@ -960,6 +1138,14 @@ Los planes o programas son instrumentos de planeación de carácter obligatorio,
 El estado y los municipios podrán convenir mecanismos de planeación de las zonas metropolitanas y de conurbaciones para coordinar acciones e inversiones que propicien el desarrollo y regulación de los asentamientos humanos, en términos de la legislación local.
 
 Los instrumentos de planeación referidos deberán guardar congruencia entre sí, sujetándose al orden jerárquico que establece su ámbito territorial, contando con los dictámenes de validación y congruencia que para ese fin sean solicitados y emitidos por los diferentes órdenes de gobierno, para su aplicación y cumplimiento. Los instrumentos serán el sustento territorial para definir y orientar la inversión pública e inducir las obras, acciones e inversiones de los sectores privado y social.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Los planes y programas a que se refiere este artículo serán elaborados, aprobados, ejecutados, controlados, evaluados y modificados por las autoridades competentes, con las formalidades previstas en esta Ley, y estarán a consulta y opinión del público en las secretarías o dependencias que los apliquen.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Asimismo, deberán expresar los fundamentos y motivos legales que, con base en esta Ley y otras disposiciones legales, les den origen y los justifiquen
 
 ###### Artículo 30.
 
@@ -1051,23 +1237,27 @@ El Programa deberá publicarse en el Periódico Oficial del Gobierno del Estado 
 
 Los planes y programas estatales para su aprobación, publicación y registro observarán el procedimiento previsto en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 38.
 
-El Estado y los municipios, por razones de excepcional interés público, fuerza mayor o caso fortuito, en cualquier momento podrán iniciar el proceso de revisión a los planes o programas de desarrollo urbano y los que deriven de éstos, en los supuestos siguientes:
+El estado de Guerrero y los municipios, por razones de excepcional interés público, fuerza mayor o caso fortuito, cualquier momento podrán iniciar el proceso de revisión a los planes o programas de desarrollo urbano y los que deriven de éstos, en los supuestos siguientes:
 
 I. Declaratoria de desastre;
 
-II. La ejecución de obra de infraestructura, equipamiento y servicios urbanos;
+II. La ejecución de obra de infraestructura, equipamiento y servicios urbanos, que impacten positivamente el interés público;
 
-III. La protección del patrimonio histórico, cultural y natural de los centros de población; y
+III. La protección del patrimonio histórico, cultural y natural de los centros de población, regulados en el plan sectorial, plan parcial y por la legislación correspondiente, y
 
-IV. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población.
+IV. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población, de conformidad con la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ### Capitulo IV. Programas de zonas metropolitanos (sic) o conurbadas intraestatales
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 39.
 
-Se podrán crear zonas metropolitanas o conurbadas intraestatales, cuando uno o más centros urbanos situados en territorios municipales del Estado formen una continuidad física y demográfica. El Estado y los municipios respectivos en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros urbanos con apego a lo dispuesto por esta Ley.
+Se podrán crear zonas metropolitanas o conurbadas intraestatales, cuando uno o más centros urbanos situados en territorios municipales o con otra entidad federativa formen una continuidad física y demográfica. El estado y los municipios concernientes, en el ámbito de sus respectivas competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros urbanos con apego a lo dispuesto por esta Ley, y constituirán una zona metropolitana o conurbada interestatal, respectivamente, la cual procurará contar con un instituto metropolitano de planeación, integrado y operado por miembros de cada municipio que constituyan dicha zona metropolitana.
 
 ###### Artículo 40.
 
@@ -1101,15 +1291,19 @@ XII. Las estrategias de seguridad, prevención del riesgo y resiliencia; y
 
 XIII. Metodología o indicadores para dar seguimiento y evaluar la aplicación y el cumplimiento de los objetivos del programa de la zona metropolitana o conurbada.
 
-Adicionalmente, los municipios, podrán formular y aprobar programas parciales que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para los diferentes temas o materias, priorizando los temas de interés metropolitano o de conurbación establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Adicionalmente, los municipios fomentarán la constitución e integración de los institutos metropolitanos de planeación; asi como, crear sus institutos municipales de planeación, podrán formular y aprobar programas sectoriales que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para los diferentes temas o materias de interés establecidos en esta Ley.
 
 ###### Artículo 41.
 
 Una vez aprobados los programas de las zonas metropolitanas o de conurbación, los ayuntamientos en el ámbito de sus jurisdicciones tendrán un plazo de un año para expedir o adecuar sus planes o programas de desarrollo urbano y los correspondientes a los centros de población involucrados, los cuales deberán tener la debida congruencia, coordinación y ajuste con el programa de la zona metropolitana o conurbación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 42.
 
-El Estado y los municipios cuando sea procedente el estudio y planeación conjunta de dos o más centros de población, situados en el territorio de municipios vecinos, podrán convenir la delimitación y constitución de zonas metropolitanas o conurbadas.
+El estado y los municipios cuando sea procedente el estudio y planeación conjunta de dos o más centros de población, o entre estos, con el territorio de otra entidad federativa, podrán convenir la delimitación y constitución de zonas metropolitanas o conurbadas.
 
 El convenio que se celebre con base en lo previsto en el párrafo anterior contendrá:
 
@@ -1123,7 +1317,9 @@ IV. La integración y organización de la comisión metropolitana o conurbada re
 
 V. Las demás acciones que para tal efecto convengan el Estado y los municipios respectivos.
 
-La declaratoria que al respecto emita el Gobernador Constitucional del Estado y el convenio serán publicados en el Periódico Oficial del Gobierno del Estado y en dos diarios de mayor circulación en los municipios de la zona metropolitana o conurbada.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
+La declaratoria que al respecto emita la persona titular del Poder Ejecutivo del estado y el convenio serán publicados en el Periódico Oficial del Gobierno del Estado y en dos diarios de mayor circulación en los municipios de la zona metropolitana o conurbada.
 
 ###### Artículo 43.
 
@@ -1161,9 +1357,11 @@ La Secretaría emitirá los lineamientos a través de los cuales se establecerá
 
 #### Sección Única. Gobernanza metropolitana o de conurbación intraestatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 44.
 
-Para lograr una eficaz gobernanza metropolitana, el Estado y los municipios, establecerán los mecanismos y los instrumentos de carácter obligatorio que aseguren la acción coordinada institucional y la participación de la sociedad.
+Para lograr una eficaz gobernanza metropolitana, el estado y los municipios, establecerán los mecanismos y los instrumentos de carácter obligatorio que aseguren la acción coordinada institucional y la participación de la sociedad.
 
 La gestión de las zonas metropolitanas o conurbadas se efectuará a través de las instancias siguientes:
 
@@ -1177,27 +1375,31 @@ II. Un consejo consultivo de desarrollo metropolitano que promoverá los proceso
 
 Dicho consejo se integrará con perspectiva de género, por representantes de los tres órdenes de gobierno y de agrupaciones sociales legalmente constituidas, colegios de profesionistas, instituciones académicas y expertos en la materia, este último sector que deberá conformar mayoría en el consejo. Sus integrantes elegirán a quien los presida;
 
-III. Los mecanismos de carácter técnico a cargo del Estado y municipios, bajo la figura que corresponda sesionarán permanentemente. La comisión de ordenamiento metropolitano y el consejo consultivo de desarrollo metropolitano que sesionarán por lo menos trimestralmente. Los instrumentos jurídicos, para su integración y funcionamiento, y su reglamento interior, estarán sujetos a lo señalado por la presente Ley y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2024)</small>
+
+III. Los mecanismos de carácter técnico a cargo del estado y municipios, bajo la figura que corresponda, así como los institutos metropolitanos de planeación, sesionarán permanentemente. La comisión de ordenamiento metropolitano y el consejo consultivo de desarrollo metropolitano que sesionarán por lo menos trimestralmente. Los instrumentos jurídicos, para su integración y funcionamiento, y su reglamento interior, estarán sujetos a lo señalado por la presente Ley y demás legislación aplicable;
 
 IV. Las instancias que permitan la prestación de servicios públicos comunes, y
 
 V. Los mecanismos y fuentes de financiamiento de las acciones, programas e instrumentos de planeación metropolitanos contemplando, entre otros, el fondo metropolitano.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 45.
 
-La Comisión de Ordenamiento Metropolitano o de Conurbación intraestatal, estará integrada de la manera siguiente:
+La Comisión de Ordenamiento Metropolitano o de Conurbación Intraestatal, estará integrada de la manera siguiente:
 
-I. El Secretario de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, del gobierno del Estado quien la presidirá;
+I. La persona titular de la Secretaría de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, del gobierno del estado quien la presidirá;
 
-II. Los delegados federales de las secretarias y dependencias siguientes:
+II. Las personas titulares de las delegaciones federales de las secretarías y dependencias siguientes:
 
 a) Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-b) Secretaría de Comunicaciones y Transportes; y
+b) Secretaría de Infraestructura, Comunicaciones y Transportes, y
 
 c) Secretaría de Medio Ambiente y Recursos Naturales.
 
-III. Los titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
+III. Las personas titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
 
 a) Secretaría de Finanzas y Administración;
 
@@ -1207,43 +1409,45 @@ c) Secretaría de Medio Ambiente y Recursos Naturales;
 
 d) Secretaría de Planeación y Desarrollo Regional;
 
-e) Secretaría de Desarrollo Social;
+e) Secretaría de Bienestar;
 
-f) Dirección General del Instituto de Vivienda y Suelo Urbano de Guerrero;
+f) Instituto de Vivienda y Suelo Urbano de Guerrero;
 
-g) Dirección General de la Comisión de Agua Potable Alcantarillado y Saneamiento del Estado de Guerrero;
+g) Comisión de Agua Potable, Alcantarillado y Saneamiento del estado de Guerrero;
 
-h) Dirección General de la Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero;
+h) Comisión de Infraestructura Carretera y Aeroportuaria del estado de Guerrero;
 
-i) Dirección General de Transporte y Vialidad; y
+i) Comisión Técnica de Transporte y Vialidad, y
 
 j) Coordinación General de Fortalecimiento Municipal.
 
-IV. Los presidentes municipales y el primer síndico de los ayuntamientos que integren la zona metropolitana o de conurbaciones, según corresponda:
+IV. Las presidentas o presidentes municipales y la primera o el primer síndico de los ayuntamientos que integren la zona metropolitana o de conurbaciones, según corresponda.
 
-Por cada representante propietario se designará un suplente, con conocimiento en la materia.
+Por cada representante propietaria o propietario se designará una suplencia, con conocimiento en la materia.
 
-La Comisión de Ordenamiento Metropolitano o de Conurbación, contará con un secretario técnico designado por la comisión a propuesta del presidente.
+La Comisión de Ordenamiento Metropolitano o de Conurbación, contará con una secretaria o secretario técnico designado por la Comisión a propuesta de la presidenta o presidente.
 
 La Comisión de Ordenamiento Metropolitano o de Conurbación, podrá contar con subcomisiones o consejos integrados por igual número de representantes de los tres órdenes de gobierno.
 
-Las ausencias del Secretario de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, serán suplidas por el Subsecretario de Desarrollo Urbano y Ordenamiento Territorial; los presidentes municipales serán suplidos por el Director de Desarrollo Urbano del ayuntamiento o su equivalente.
+Las ausencias de la persona titular de la Secretaría de Desarrollo Urbano, Obras Publicas y Ordenamiento Territorial, serán suplidas por la persona titular de la Subsecretaría de Desarrollo Urbano y Ordenamiento Territorial; las presidentas o presidentes municipales serán suplidos por la persona titular de la Dirección de Desarrollo Urbano del ayuntamiento o su equivalente.
 
-La Comisión de Ordenamiento Metropolitano o de Conurbación, podrá invitar a las sesiones a los servidores públicos de la administración pública federal, estatal o municipal, a representantes de los órganos colegiados de profesionistas, asociaciones o agrupaciones del ámbito local, regional o estatal que considere conveniente de acuerdo con los temas a tratar en cada sesión, quienes tendrán derecho a voz y no a voto.
+La Comisión de Ordenamiento Metropolitano o de Conurbación, podrá invitar a las sesiones a las servidoras o servidores públicos de la administración pública federal, estatal o municipal, a representantes de los órganos colegiados de profesionistas, asociaciones o agrupaciones del ámbito local, regional o estatal que considere conveniente de acuerdo con los temas a tratar en cada sesión, quienes tendrán derecho a voz y no a voto.
 
-Para la validez de la sesión se requieren la asistencia del cincuenta por ciento más uno de sus miembros, teniendo el presidente voto de calidad en caso de empate.
+Para la validez de la sesión se requieren la asistencia del cincuenta por ciento más uno de sus miembros, teniendo la presidenta o presidente voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
 
 ###### Artículo 46.
 
 El Consejo Consultivo de Desarrollo Metropolitano o de Conurbación, estará integrado de la manera siguiente:
 
-I. Los delegados federales de las secretarias y dependencias siguientes:
+I. Las personas titulares de las delegaciones federales de las secretarías y dependencias siguientes:
 
-a) Secretaría de Desarrollo Agrario, Territorial y Urbano; y
+a) Secretaría de Desarrollo Agrario, Territorial y Urbano, y
 
-b) Secretaría de Comunicaciones y Transportes.
+b) Secretaría de Infraestructura, Comunicaciones y Transportes.
 
-II. Los titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
+II. Las personas titulares de las secretarías y organismos públicos descentralizados de la administración pública estatal siguientes:
 
 a) Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
@@ -1253,25 +1457,25 @@ c) Secretaría de Medio Ambiente y Recursos Naturales;
 
 d) Secretaría de Planeación y Desarrollo Regional;
 
-e) Secretaría de Desarrollo Social y
+e) Secretaría de Bienestar, y
 
-f) Dirección General del Instituto de Vivienda y Suelo Urbano de Guerrero.
+f) Instituto de Vivienda y Suelo Urbano de Guerrero.
 
-III. Los presidentes municipales de los ayuntamientos que integren la zona metropolitana o de conurbaciones, según corresponda;
+III. Las presidentas o presidentes municipales de los ayuntamientos que integren la zona metropolitana o de conurbaciones, según corresponda;
 
-IV. Dos representantes de agrupaciones sociales legalmente constituidas, por cada municipio;
+IV. Dos personas representantes de agrupaciones sociales legalmente constituidas, por cada municipio;
 
-V. Un representante de una institución académica por cada municipio;
+V. Una persona representante de una institución académica por cada municipio;
 
-VI. Dos representantes de colegios de profesionistas afines a la materia por cada municipio; y
+VI. Dos personas representantes de colegios de profesionistas afines a la materia por cada municipio, y
 
-VII. Dos representantes expertos en la materia, por cada municipio.
+VII. Dos personas representantes expertos en la materia, por cada municipio.
 
-Por cada representante propietario se designará un suplente, con conocimiento en la materia.
+Por cada representante propietaria o propietario se designará una suplencia, con conocimiento en la materia.
 
-Los integrantes del consejo elegirán a su presidente; asimismo, dicho consejo contará con un secretario técnico designado por el consejo a propuesta del presidente.
+Las personas integrantes del Consejo elegirán a su presidenta o presidente; asimismo, dicho Consejo contará con una secretaria o secretario técnico designado por el Consejo a propuesta de la presidenta o presidente.
 
-Para la validez de la sesión se requieren la asistencia del cincuenta por ciento más uno de sus miembros, teniendo el presidente voto de calidad en caso de empate.
+Para la validez de la sesión se requieren la asistencia del cincuenta por ciento más uno de sus miembros, teniendo la presidenta o presidente voto de calidad en caso de empate.
 
 ### Capítulo V. Planes y Programas Municipales de Desarrollo Urbano
 
@@ -1335,11 +1539,13 @@ Todos los instrumentos de planeación municipal para su formulación, actualizac
 
 El Estado y los municipios, en la esfera de sus respectivas competencias, harán cumplir los planes o programas de desarrollo urbano y la observancia, de la presente Ley y la legislación en materia de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2024)</small>
+
 ###### Artículo 52.
 
-El ayuntamiento, una vez que apruebe el plan o programa de desarrollo urbano, y como requisito previo a su inscripción en el Registro Público de la Propiedad y del Comercio del Estado, deberá enviarlo para revisión y evaluación al Ejecutivo del Estado, para que este determine sobre la congruencia con esta Ley, así como la coordinación y ajuste de dicho instrumento con la planeación estatal y federal. La autoridad estatal contará con un plazo de noventa días hábiles para dar respuesta, contados a partir de que sea presentada la solicitud, señalará con precisión si existe o no la congruencia y ajuste. Ante la omisión de respuesta opera la afirmativa ficta.
+El ayuntamiento, una vez que apruebe el plan o programa de desarrollo urbano, y como requisito previo a su inscripción en el Registro Público de la Propiedad y del Comercio del estado, deberá enviarlo para revisión y evaluación al Poder Ejecutivo del estado, para que este determine sobre la congruencia con esta Ley, así como la coordinación y ajuste de dicho instrumento con la planeación estatal y federal. La autoridad estatal contará con un plazo de sesenta días hábiles para dar respuesta, contados a partir de que sea presentada la solicitud, señalará con precisión si existe o no la congruencia y ajuste. Ante la omisión de respuesta opera la afirmativa ficta.
 
-En caso de no ser favorable, el dictamen que elabore el Estado deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes, para que el ayuntamiento efectúe las modificaciones correspondientes, dentro del término de treinta días hábiles, ante la omisión de respuesta a las observaciones, la autoridad competente iniciará los procedimientos de responsabilidad administrativa, observando el Sistema Estatal Anticorrupción y demás disposiciones jurídicas aplicables.
+En caso de no ser favorable, el dictamen que elabore el estado deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes, para que el ayuntamiento efectúe las modificaciones correspondientes, dentro del término de treinta días hábiles, ante la omisión de respuesta a las observaciones, la autoridad competente iniciará los procedimientos de responsabilidad administrativa, observando el Sistema Estatal Anticorrupción y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 53.
 
@@ -1887,6 +2093,10 @@ El ayuntamiento deberá observar la simplificación de las autorizaciones, permi
 
 Lo no previsto en este artículo deberá establecerse en el Reglamento de Construcción para los Municipios del Estado de Guerrero.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+La intervención de las servidoras o servidores públicos y los particulares deberán ajustarse a la aplicación de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, y a las disposiciones penales, civiles y demás legislación aplicable de acuerdo a la conducta de quienes intervengan en los procedimientos de otorgamiento de autorizaciones, licencias y permisos, así como, cualquier otra intervención en materia de desarrollo urbano y ordenamiento territorial.
+
 ###### Artículo 82.
 
 La Secretaría, órganos públicos descentralizados y demás dependencias y entidades estatales que ejecuten infraestructura pública, estarán exentos de realizar el pago de derechos a los ayuntamientos, para el otorgamiento de licencias, permisos de uso del suelo, construcción o cualquier otra acción urbanística, que beneficie a la ciudadanía del municipio donde se ejecute, previo cumplimiento de los requisitos establecidos en la normatividad aplicable.
@@ -1963,6 +2173,10 @@ II. El porcentaje de la superficie total vendible urbanizada que determine el re
 
 III. La superficie de terreno que se destinará para áreas verdes, de acuerdo con las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+La cesión o donación al municipio, se consignará en un instrumento público, el cual deberá ser inscrito en los registros de catastro y áreas de desarrollo urbano del municipio, así como, ante el Registro Público de la Propiedad y del Comercio del estado.
+
 ###### Artículo 89.
 
 Las autorizaciones de fraccionamientos deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, en el caso de los municipios, en la Gaceta Municipal o en dos diarios de mayor circulación local. La publicación de dichas autorizaciones constituirá el título de propiedad del municipio sobre las áreas donadas por el fraccionador para servicios públicos, equipamiento urbano y áreas verdes y serán inscritas en el Registro Público de la Propiedad y del Comercio del Estado.
@@ -1998,6 +2212,10 @@ VI. Las acciones de seguridad y protección de la población y sus bienes por co
 VII. Las medidas que permitan la creación de ciudades inteligentes; y
 
 VIII. Las medidas para incrementar la resiliencia en los centros de población.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Ante la dimensión de los daños ocasionados por fenómenos naturales y antrópicos, la persona titular del Poder Ejecutivo podrá emitir, en el ámbito de su competencia y conforme a los ordenamientos constitucionales y legales, disposiciones administrativas para atender la emergencia y los procesos de reconstrucción, los que deberán ser observados por los municipios para la expedición de permisos y licencias.
 
 ###### Artículo 93.
 
@@ -2148,6 +2366,10 @@ El arroyo y dimensiones de la vialidad serán determinados según la carga vehic
 La creación, recuperación, mantenimiento y defensa del espacio público para todo tipo de usos y para la accesibilidad y movilidad, es principio de esta Ley y una alta prioridad para el Estado y los municipios, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población, se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad.
 
 Los planes o programas municipales de desarrollo urbano, de conurbaciones y de zonas metropolitanas, definirán la dotación de espacio público en cantidades no menores a lo establecido por las leyes y las normas oficiales mexicanas aplicables, privilegiarán la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la accesibilidad y movilidad, igualmente, los espacios abiertos para el deporte, museos, zonas turísticas, los parques y las plazas de manera que cada colonia, barrio y localidad cuente con la dotación igual o mayor a la establecida en las normas mencionadas.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2024)</small>
+
+Las autoridades estatales y municipales, procurarán la instrumentación de mobiliario para el estacionamiento de bicicletas y otros vehículos impulsados por tracción humana en áreas urbanas.
 
 Los planes o programas municipales de desarrollo urbano incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, contemplando la participación social efectiva a través de la consulta, la opinión y la deliberación con las personas y sus organizaciones e instituciones especializadas en la materia, para determinar las prioridades y los proyectos sobre espacio público y para dar seguimiento a la ejecución de proyectos, obras, la evaluación de los programas, la operación y funcionamiento de dichos espacios, entre otras acciones las siguientes:
 
@@ -3322,3 +3544,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 785 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, las autoridades estatales y municipales deberán crear o armonizar los reglamentos de construcción, fraccionamiento de terrenos y servicios públicos municipales, así como, las demás disposiciones legales y reglamentarias relacionadas con esta Ley, en un plazo no mayor a ciento ochenta días hábiles.
+
+TERCERO. La Secretaría de Finanzas y Administración, la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Desarrollo Regional, deberán conforme a sus atribuciones realizar las acciones administrativas, adecuaciones estructurales y presupuestarias necesarias para la aplicabilidad del presente Decreto.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno de Estado, así como en la página oficial del Congreso del Estado de Guerrero, para su conocimiento general.
