@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-para-la-operacion-de-las-actividades-y-16715
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-08-03"
-last_updated: "2023-08-03"
+last_updated: "2024-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167153&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2023-07-28"
 ---
 # REGLAMENTO INTERNO PARA LA OPERACION DE LAS ACTIVIDADES Y TALLERES IMPARTIDOS EN LOS CENTROS DIF CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://intranet.dif.cdmx.gob.mx/transparencia/new/Marco_Normativo_2023/ReglamentoOperacióndeActividadesyTalleresenCentrosDIFCDMX.pdf]</small>
+[NOTA 1: INFORMACIÓN OBTENIDA DE: https://intranet.dif.cdmx.gob.mx/transparencia/new/Marco_Normativo_2023/ReglamentoOperacióndeActividadesyTalleresenCentrosDIFCDMX.pdf]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO (SIC) LA ACTUALIZACIÓN DEL REGLAMENTO INTERNO PARA LA OPERACIÓN DE LAS ACTIVIDADES Y TALLERES IMPARTIDOS EN LOS CENTROS DIF CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 15 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 REGLAMENTO INTERNO PARA LA OPERACIÓN DE LAS ACTIVIDADES Y TALLERES IMPARTIDOS EN LOS CENTROS DIF CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2024 (ABROGADO).
 
 Reglamento publicado en el Número 1162 de la Gaceta Oficial de la Ciudad de México, el jueves 3 de agosto de 2023.
 
@@ -971,3 +973,19 @@ Directora de Desarrollo Comunitario
 Ing. Fausto F. Arregui Guerrero
 
 Jefe de Unidad Departamental de Operación de Centros de Desarrollo Comunitario
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO (SIC) LA ACTUALIZACIÓN DEL REGLAMENTO INTERNO PARA LA OPERACIÓN DE LAS ACTIVIDADES Y TALLERES IMPARTIDOS EN LOS CENTROS DIF CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El responsable de la dirección electrónica de referencia estará a cargo del Ing. Arturo Gutiérrez Palacios, titular de la Dirección de Tecnologías de Información y Comunicaciones y la dirección donde podrá ejercer los derechos de consulta es en San Francisco 1374, 4to Piso, Col. Tlacoquemécatl, C.P. 03200, Alcaldía Benito Juárez, Ciudad de México. Teléfono 55 5559 1919 ext. 3001.
+
+SEGUNDO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El actualizado Reglamento Interno para la Operación de las Actividades y Talleres Impartidos en los Centros DIF Ciudad de México, es de observancia obligatoria para los servidores públicos adscritos al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, para las y los colaboradores voluntarios y, las y los usuarios de las actividades en los Centros DIF; y entrará en vigor en el día de la publicación en la Gaceta Oficial de la Ciudad de México, del Aviso por el que se da a conocer el enlace electrónico donde podrá ser consultado y descargado.
+
+CUARTO.- La Dirección Ejecutiva de los Derechos de las Personas con Discapacidad y Desarrollo Comunitario a través de la Dirección de Desarrollo Comunitario, es la encargada de vigilar el cumplimiento del Reglamento Interno para la Operación de las Actividades y Talleres Impartidos en los Centros DIF Ciudad de México.
+
+QUINTO.- Queda abrogado el “Reglamento Interno para la Operación de las Actividades y Talleres Impartidos en los Centros DIF-DF”, publicado en la Gaceta Oficial de la Ciudad de México el 3 de agosto 2023, mediante Aviso por el que se dio a conocer el enlace electrónico donde podrá ser consultado y descargado.
