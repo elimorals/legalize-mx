@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-proceso-de-entrega-recepcion-de-la-168288"
 country: "mx"
 rank: "ley"
 publication_date: "2023-10-18"
-last_updated: "2023-10-18"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 18 de octubre de 2023.
 
@@ -176,6 +176,12 @@ II. Preparar con oportunidad la información documental y electrónica que se in
 ###### Artículo 10.
 
 Cuando exista impedimento para llevar a cabo el Acto de Entrega Recepción por deceso, por incapacidad física o mental, o por la privación de la libertad por la comisión de un delito, dicha obligación correrá a cargo del titular de la Unidad de Apoyo Administrativo o su equivalente, o quien designe el Titular.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+###### Artículo 10 Bis.
+
+El Gobernador en funciones podrá designar mediante oficio a un servidor público para que se encargue de realizar la entrega física y documental de su despacho.
 
 ### Capítulo II. Del Acto de Entrega Recepción Ordinaria
 
@@ -441,7 +447,9 @@ XII. Transparencia.
 
 Cuando un Anexo del Acta no sea utilizado por no ser aplicable al Servidor Público, no se seleccionará en el SERAPE; en el caso de los anexos obligatorios que no se tenga nada que registrar, se plasmará la leyenda: “Nada que Reportar”.
 
-Se entenderán como Anexos del Acta obligatorios los siguientes: Marco Jurídico y Normativo, Plantilla de personal de estructura autorizada, Mobiliario y equipo de oficina, Sistemas computacionales (Software), Relación de archivos, Asuntos en trámite y de urgente atención (Administrativos y Jurídicos).
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Se entenderán como Anexos del Acta obligatorios los siguientes: Marco Jurídico y Normativo, Plantilla de personal de estructura autorizada, Mobiliario y equipo de oficina, Sistemas computacionales (Hardware), Relación de archivos, Asuntos en trámite y de urgente atención (Administrativos y Jurídicos).
 
 ###### Artículo 27.
 
@@ -449,9 +457,13 @@ Los Servidores Públicos obligados al Acto de Entrega Recepción, son directamen
 
 Los Anexos del Acta deberán ser validados mediante firma electrónica estatal por los Servidores Públicos responsables de los Órganos Administrativos correspondientes, en un plazo no mayor a tres días hábiles, contados a partir de la recepción de estos en el SERAPE.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+El incumplimiento de los Servidores Públicos obligados, será sancionado de acuerdo a lo establecido en el artículo 55, segundo párrafo de la presente Ley.
+
 ###### Artículo 28.
 
-El Gobernador en funciones podrá designar mediante oficio a un servidor público para que se encargue de realizar la entrega física y documental de su despacho.
+(DEROGADO, P.O. 15 DE MAYO DE 2024)
 
 ### Capítulo VI. Del Acta de Entrega Recepción
 
@@ -505,27 +517,35 @@ III. El tercer ejemplar quedará en posesión del Órgano Interno de Control.
 
 IV. El cuarto ejemplar quedará en posesión de la Unidad de Apoyo Administrativo o equivalente del Organismo Público correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 32.
 
-Previo a la formulación del Acta de Entrega Recepción Ordinaria y Final, el Servidor Público Saliente deberá girar oficio, cuando menos con ocho días hábiles de anticipación dentro del plazo que establece el artículo 29, párrafo primero de la presente Ley, informando al Órgano Interno de Control que corresponda, de la realización del acto y solicitando designe un representante, turnando copia al Servidor Público Entrante y a la Unidad de Apoyo Administrativo o su equivalente, con la finalidad de que todos los participantes tengan conocimiento pleno del mismo; el cual contará al menos con los siguientes requisitos:
+Previo a la formulación del Acta de Entrega Recepción Ordinaria y Final, el Servidor Público Saliente deberá presentar un escrito, en el término de cinco días hábiles de anticipación, ante el Órgano Interno de Control que corresponda, solicitando la designación de un representante para la realización de dicho acto, turnando copia al Servidor Público Entrante y a la Unidad de Apoyo Administrativo o su equivalente, con la finalidad de que todos los participantes tengan conocimiento pleno del mismo; el cual contará al menos con los siguientes requisitos:
 
-I. Lugar, hora y fecha en que se iniciará el Acto de Entrega Recepción.
+I. Lugar, fecha y hora en que se iniciará el Acto de entrega Recepción.
 
 II. Especificación del área que se entrega y fecha de conclusión del cargo.
 
-III. Nombre y firma, del servidor público saliente.
+III. Nombre y firma, del Servidor Público Saliente.
 
 IV. Domicilio, número telefónico y correo electrónico del Servidor Público Saliente, para efectos de legal notificación.
 
 V. Copia de identificación oficial.
 
+El término mencionado en el primer párrafo de este artículo empezará a contar a partir de la separación del empleo, cargo o comisión; dicho término no interrumpe el plazo establecido en el artículo 29 párrafo primero, para la formalización del acta de Entrega recepción Ordinaria y Final.
+
 De no existir esta solicitud oficial o agotarse los plazos establecidos para realizar el procedimiento del Acta de Entrega Recepción, el Órgano Estatal de Control procederá de acuerdo a sus facultades por la omisión de esta obligación.
 
-Una vez enviado el oficio antes mencionado, el Servidor Público Saliente deberá enviar a validación a través del SERAPE, los Anexos del Acta correspondientes.
+Una vez enviado el escrito antes mencionado, el Servidor Público Saliente deberá enviar a validación a través del SERAPE, los Anexos correspondientes del Acta.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### Artículo 33.
 
-Derivado de la solicitud realizada por el Servidor Público Saliente, el Órgano Interno de Control, designará de forma oficial y a la brevedad, al representante que participará en dicho acto.
+Una vez recibida la solicitud realizada por el Servidor Público Saliente, el Órgano Interno de Control dentro del término de dos días hábiles, designará de forma oficial al representante que participará en dicho acto.
+
+Dicha designación será comunicada por cualquiera de los medios señalados para oír y recibir notificaciones, proporcionados por el Servidor Público Saliente.
 
 ###### Artículo 34.
 
@@ -543,9 +563,13 @@ La formalización del Acta de Entrega Recepción se elaborará en el domicilio l
 
 Una vez firmada el Acta de Entrega Recepción, el Servidor Público Entrante, tendrá un término de quince días hábiles para llevar a cabo la verificación de su contenido, Anexos del Acta y soportes documentales.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 38.
 
-Durante el término señalado en el artículo anterior, el Servidor Público Entrante, podrá requerir por escrito al Servidor Púbico Saliente que realice las aclaraciones que considere necesarias, elaborando el acta circunstanciada correspondiente. Si a juicio del Servidor Público Entrante persisten las irregularidades, las deberá hacer del conocimiento del Órgano Interno de Control, el cual podrá requerir al Servidor Público Saliente para que en un término de cinco días hábiles subsane las inconsistencias, con el entendido que de no hacerlo procederá conforme a la normatividad aplicable.
+Durante el término señalado en el artículo anterior, el Servidor Público Entrante, podrá requerir por escrito al Servidor Público Saliente que realice las aclaraciones que considere necesarias.
+
+Si el Servidor Público Saliente es omiso en realizar las aclaraciones o bien persistan las irregularidades, se deberá hacer del conocimiento del Órgano Interno de Control; el cual podrá requerir al Servidor Público Saliente para que en un término de cinco días hábiles subsane las inconsistencias, con el entendido que de no hacerlo se procederá conforme a la normatividad aplicable.
 
 ### Capítulo VII. De la intervención del Órgano Estatal de Control
 
@@ -569,7 +593,9 @@ I. Los Órganos Internos de Control, intervendrán y darán seguimiento a los Ac
 
 II. Los Comisarios Públicos, quienes serán los responsables de asesorar y vigilar el cumplimiento y observación de las disposiciones de la presente Ley y demás normatividad aplicable.
 
-III. El Área Técnica, será la responsable de asesorar técnicamente y realizar los cambios o ajustes del SERAPE, previo acuerdo con las Subsecretarías de Auditoría Pública para la Administración Centralizada, Descentralizada y la Secretaría Técnica.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+III. El Área Técnica, será la responsable de asesorar técnicamente y realizar los cambios o ajustes del SERAPE; previo acuerdo con las Subsecretarías de Auditoría Pública para la Administración Centralizada, Auditoría Pública para la Administración Descentralizada, Jurídica y de Prevención, así como la Secretaría Técnica.
 
 ###### Artículo 41.
 
@@ -603,9 +629,11 @@ Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de inf
 
 Las notificaciones personales se harán en el domicilio del Servidor Público Entrante y/o Saliente, en su lugar de trabajo actual o en el último domicilio que este hubiere señalado en el Acta de Entrega Recepción.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 46.
 
-El notificador habilitado deberá cerciorarse del domicilio del servidor público, identificándose en el acto con constancia o credencial expedida por el Órgano Estatal de Control y deberá entregar, junto con la copia del citatorio o documento en el que conste el acto que se notifique, una copia del acta que se formule en el momento de la diligencia y en la que se hagan constar en forma circunstanciada los hechos, señalando fecha y hora en que la notificación se efectúe, recabando el nombre y la firma de la persona con quien se atienda la diligencia; de negarse a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez.
+El notificador habilitado deberá cerciorarse del domicilio del Servidor Público, identificándose en el acto con constancia o credencial expedida por el Órgano Estatal de Control y deberá entregar, junto con la copia del citatorio o documento en el que conste el acto que se notifique, una copia del acta que se formule en el momento de la diligencia y en la que se hagan constar en forma circunstanciada los hechos, señalando lugar, fecha y hora en que la notificación se efectúe, recabando el nombre y la firma de la persona con quien se atienda la diligencia; de negarse a firmar, se hará constar en el acta de notificación, sin que esto afecte su validez.
 
 ###### Artículo 47.
 
@@ -661,7 +689,7 @@ El incumplimiento a cualquiera de las disposiciones contenidas en la presente Le
 
 ###### Artículo 56.
 
-Cuando exista impedimento para llevar a cabo el Acto de Entrega Recepción por causa de deceso, incapacidad física o mental y la reclusión por la comisión de algún delito, dicha obligación correrá a cargo del titular de la Unidad de Apoyo Administrativo o su equivalente, o quien designe el Titular.
+(DEROGADO, P.O. 15 DE MAYO DE 2024)
 
 ## Transitorios
 
@@ -680,3 +708,13 @@ Artículo Sexto.- Los Organismos Públicos, en el ámbito de sus atribuciones, c
 El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento a la presente Ley. Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 12 días del mes de Octubre del año dos mil veintitrés. D.VP.C. Rocio Guadalupe Cervantes Cancino. D.S. C. Leticia Méndez Intzin.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de Octubre del año dos mil veintitrés.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 320 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
