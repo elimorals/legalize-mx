@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-austeridad-disciplina-y-responsabilidad-financiera-15473
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2022-11-26"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Suplemento 62 al Número 104 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de diciembre de 2021.
 
@@ -109,7 +109,13 @@ XIV. Entes Públicos: los Poderes Legislativo, Ejecutivo y Judicial, los organis
 
 XV. Entidades: son las que integran la administración pública paraestatal, se conforman de organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos;
 
-XVI. Ejecutores del gasto: son los Entes Públicos que tengan control sobre sus decisiones o acciones, que realizan las erogaciones reguladas en esta Ley, con cargo al Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XVI. Ejecutores del Gasto: Los Entes Públicos a los que se asignen recursos del presupuesto de egresos. En el Poder Ejecutivo comprende a las Dependencias, Entidades, sus unidades de administración responsables, así como los servidores públicos adscritos a éstas, los cuales por atribución y facultad legal o reglamentaria participen o lleven a cabo los procedimientos de adjudicación directa, invitación restringida o licitación de obras, adquisiciones de bienes, arrendamientos o prestación de servicios, ya sea que paguen o realicen las erogaciones reguladas en esta Ley con cargo al Presupuesto de Egresos, directamente o no a los contratistas o proveedores y que para ello se les hayan autorizado asignaciones presupuestarias.
+
+La Secretaría y sus servidores públicos, al realizar la ministración o transferencia de recursos a los Ejecutores del Gasto trátese de transferencias federales etiquetadas, gasto concurrente o paripassu, o algún otro recurso federal o estatal de los establecidos en ley, incluidos los de libre disposición, no tienen la calidad de Ejecutores del Gasto, siempre que se limiten a los actos de ministrar o transferir los recursos públicos a los responsables de su ejercicio.
+
+Tampoco tienen la calidad de Ejecutores del Gasto, la Secretaría y los servidores públicos de su adscripción cuando su actuar se limite exclusivamente a efectuar erogaciones al pagar obras, adquisiciones, arrendamientos y servicios a solicitud, orden o instrucción de pago de las Dependencias y Entidades, en cuyos procedimientos de adjudicación directa, invitación restringida o licitación de obras, adquisiciones de bienes, arrendamientos o prestación de servicios, no hayan participado;
 
 XVII. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
@@ -132,6 +138,10 @@ XXV. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtien
 XXVI. Ingresos totales: la totalidad de los ingresos provenientes de participaciones e ingresos propios, las transferencias federales etiquetadas y el financiamiento neto;
 
 XXVII. Instancias Ejecutoras del Poder Ejecutivo: dependencias, organismos desconcentrados y Entidades, sus respectivas unidades responsables, así como los servidores públicos adscritos a estas, los cuales por atribución y facultad legal ejecuten acciones derivadas de un programa, proyecto o procesos institucionales y que para ello se les hayan autorizado asignaciones presupuestarias;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXVII Bis. Inversión Pública Productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable; (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos para la prestación de un servicio público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
 XXVIII. Lineamiento: Lineamiento para la integración del anteproyecto de presupuesto de egresos del Estado de Zacatecas, con base en la perspectiva de género y el Modelo de Presupuesto basado en Resultados;
 
@@ -245,6 +255,36 @@ En los casos en que la Legislatura del Estado apruebe la Ley de Ingresos y Presu
 
 Para aquellas transferencias federales etiquetadas cuya distribución no se encuentre disponible en el Presupuesto de Egresos de la Federación, se podrá realizar una estimación con base en los Criterios Generales de Política Económica, el monto nacional y la distribución realizada en ejercicios fiscales anteriores.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+De la integración de los Proyectos de Presupuestos de Egresos
+
+###### Artículo 10 Bis.
+
+Los proyectos de presupuesto de egresos que se mencionan en el artículo anterior se deberán remitir a la Secretaría con la siguiente información:
+
+I. Programas presupuestarios y sus respectivas fichas técnicas, incluyendo objetivos, estrategias, indicadores, metas y plazos de ejecución;
+
+II. Árboles de problemas y objetivos de los programas presupuestarios;
+
+III. Matrices de indicadores para resultados de los programas presupuestarios;
+
+IV. Presupuesto solicitado por cada programa presupuestario, desglosado por capítulo, concepto y partida;
+
+V. Estimación de los costos necesarios para alcanzar las metas establecidas en los programas presupuestarios;
+
+VI. Identificación de las necesidades específicas de igualdad sustantiva y medidas adoptadas para garantizar la equidad en la asignación de recursos;
+
+La remisión de la información deberá garantizar que los proyectos de presupuesto sean congruentes con:
+
+a) Los objetivos, estrategias y metas establecidos en el Plan Estatal de Desarrollo, en su caso, el Plan Municipal de Desarrollo y demás instrumentos de planeación del Estado, en los términos de la Ley de Planeación del Estado de Zacatecas y sus Municipios;
+
+b) Las políticas de gasto público emitidas por la persona titular del Estado, a través de la Secretaría;
+
+c) La evaluación de los avances logrados en el cumplimiento de los objetivos, estrategias y metas del Plan Estatal de Desarrollo, así como los avances sectoriales con base en el Sistema de Evaluación del Desempeño, las metas y avances físicos financieros del ejercicio fiscal anterior y los pretendidos para el siguiente ejercicio;
+
+Los Entes Públicos ejecutores del gasto deberán observar las disposiciones emitidas en los lineamientos para la integración del proyecto de presupuesto de egresos.
+
 Apartados de la Ley de Ingresos y Presupuesto de Egresos
 
 ###### Artículo 11.
@@ -329,11 +369,13 @@ Las proyecciones y resultados a que se refieren las fracciones V y VII del prese
 
 ### Capítulo III. Equilibrio fiscal, balance presupuestario sostenible y responsabilidad hacendaria
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 Equilibrio fiscal
 
 ###### Artículo 16.
 
-Los Entes Públicos buscarán en todo momento mantener el equilibrio fiscal, entendiéndose por éste el balance entre el flujo de efectivo disponible y el presupuesto de egresos por ejercer.
+Los Entes Públicos buscarán en todo momento mantener el equilibrio fiscal, entendiéndose como una situación financiera en donde prevalece el balance entre el flujo de efectivo disponible y el Presupuesto de Egresos del Ejercicio que corresponda.
 
 Balance presupuestario sostenible
 
@@ -361,6 +403,10 @@ El Ejecutivo del Estado, a través de la Secretaría, reportará en informes tri
 
 En caso de que la Legislatura del Estado modifique la Ley de Ingresos y el Decreto del Presupuesto de Egresos, de tal manera que genere un balance presupuestario de recursos disponibles negativo, deberá motivar su decisión, sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Ejecutivo del Estado y los Municipios deberán dar cumplimiento a lo previsto en la fracción III y el párrafo anterior de este artículo.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Cuando el Estado se encuentre en el supuesto señalado en el artículo 27 de la Ley Antiquebranto para una Gestión Responsable y Sostenible de las Finanzas Públicas del Estado de Zacatecas y sea tal el desequilibrio financiero que las medidas a las que se refiere el numeral 28 de la citada Ley no resulten suficientes para reestablecer el balance presupuestario sostenible, la Declaratoria de Emergencia Financiera prevista en el artículo 29 de dicha Ley, deberá contener lo establecido en las fracciones I, II y III de este artículo.
+
 Supuestos del balance presupuestario negativo
 
 ###### Artículo 19.
@@ -369,7 +415,9 @@ Se podrá incurrir en un balance presupuestario de recursos disponibles negativo
 
 I. Se presente una caída en el producto interno bruto nacional en términos reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el Presupuesto de Egresos de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
-II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, o
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, o declaratorias de contingencias sanitarias, o
 
 III. Se tenga la necesidad de prever un costo mayor al 2% de Gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
 
@@ -403,11 +451,23 @@ Previsión de recursos en caso de desastres naturales
 
 El Presupuesto de Egresos del Estado deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto a las finanzas estatales.
 
-El monto de dichos recursos no podrá ser inferior al provisionado en el presupuesto del ejercicio inmediato anterior actualizado mediante el Índice Nacional de Precios al Consumidor.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
-Los recursos aportados deberán ser destinados, en primer término, para financiar las obras y acciones de reconstrucción de la infraestructura estatal, mediante la emisión de reglas para su ejercicio, vigilando ser congruentes y coordinados a los programas de reconstrucción acordados con la federación.
+El monto de dichos recursos se determinará tomando como referencia las declaratorias de emergencias por desastres naturales en el Estado, así como las recomendaciones que establezca la Coordinación de Protección Civil del Estado.
 
-En caso de que el saldo de los recursos del fideicomiso a que se refiere el primer párrafo de este artículo, acumule un monto que sea superior al costo promedio de reconstrucción de la infraestructura estatal dañada de los últimos 5 años, medido a través de las Previsiones económicas para contingentes naturales aprobadas en el Decreto de Presupuesto de Egresos del Estado, se podrá utilizar el remanente que le corresponda para acciones de prevención y mitigación, los cuales podrán ser aplicados para cubrir las aportaciones estatales que se involucren para los proyectos preventivos, conforme a la reglamentación que se emita al respecto.
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Los recursos deberán mantenerse disponibles durante el año hasta en tanto no sean utilizados.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+En caso de ser necesaria la utilización de los recursos, la previsión de gasto establecida en el Presupuesto de Egresos deberá sufrir los ajustes correspondientes a efecto de ser destinada a los rubros necesarios para combatir la contingencia por desastres naturales.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Los recursos previstos deberán ser destinados, en primer término, para financiar las obras y acciones de reconstrucción de la infraestructura estatal, mediante la emisión de reglas para su ejercicio, vigilando ser congruentes y coordinados a los programas de reconstrucción acordados con la federación. Asimismo, los recursos podrán destinarse para atender las acciones extraordinarias en materia de salubridad general para prevenir y combatir daños a la salud, que sea reconocido por la autoridad competente.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
 
 Balance presupuestario sostenible municipal
 
@@ -551,7 +611,9 @@ Dichas evaluaciones deberán ser públicas a través de la página oficial de in
 
 IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
 
-V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal, salvo con autorización de la Secretaría o el Cabildo en tratándose de los Municipios, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el artículo 72 de esta Ley. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2024)</small>
+
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal, salvo con autorización de la Secretaría o el Cabildo en tratándose de los Municipios, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el artículo 72 de esta Ley. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente; los gastos en la materia que se requieran en el caso de que se expidan declaratorias de emergencia financiera, natural o de seguridad pública que sean reconocidas por la autoridad competente y que implique la ejecución de acciones extraordinarias para mitigar los impactos generados por dichas contingencias; y asimismo, el Gasto Etiquetado con cargo a las Transferencias Federales etiquetadas que sean ministradas de manera adicional a los recursos contemplados en el Presupuesto de Egresos.
 
 La Secretaría, en coordinación con la Secretaría de Administración y sus equivalentes en los Entes Públicos que no sean el Poder Ejecutivo, contará con un sistema de registro y control presupuestal de las erogaciones de servicios personales;
 
@@ -577,9 +639,17 @@ b) Cuando el Estado se clasifique en un nivel de endeudamiento en observación, 
 
 II. En su caso, el remanente para:
 
-a) Inversión pública productiva, a través de un fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente, y
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
-b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsecuentes.
+a) Inversión pública productiva, a través de un fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente;
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsecuentes, y
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+c) Un fondo de saneamiento y estabilidad financiera que tiene como objetivo garantizar la estabilidad económica del Estado de Zacatecas.
 
 Los ingresos excedentes derivados de Ingresos de libre disposición del Estado y de los Municipios podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -629,11 +699,27 @@ Los Poderes Legislativo y Judicial, los órganos autónomos, los organismos desc
 
 Transferencia de recursos a Entes Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 42.
 
-La Secretaría en su carácter de Órgano Hacendario y con efectos de suficiencia presupuestal, realizará las transferencias de recursos a los Entes Públicos en su calidad de ejecutores del gasto con base en el Presupuesto de Egresos y de acuerdo con los calendarios de ministración correspondientes; éstos manejarán directamente los recursos públicos que les corresponden y realizarán sus pagos a través de sus Unidades de Administración; los Entes Públicos deberán atender la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, esta Ley y demás disposiciones aplicables relativas al ejercicio de los recursos públicos, la contabilización de su gasto, la emisión y transparencia de su información financiera.
+La Secretaría, previa verificación de que exista suficiencia presupuestal y disponibilidad financiera, podrá efectuar las transferencias de recursos a los Entes Públicos, Dependencias, Entidades a efecto de que éstos puedan realizar las erogaciones en su calidad de Ejecutores del Gasto con base en el Presupuesto de Egresos y de acuerdo con los calendarios de ministración correspondientes; éstos manejarán directamente los recursos públicos que les corresponden y realizarán sus pagos o erogaciones a través de sus Unidades de Administración; los Entes Públicos, Dependencias y Entidades deberán cumplir con la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, esta Ley y demás disposiciones aplicables relativas al ejercicio de los recursos públicos, la contabilización de su gasto, la emisión y transparencia de su información financiera.
 
-En caso de que la Secretaría realice pagos a nombre de los Entes Públicos, dependencias o entidades por cualquier concepto, para dar cumplimiento a resoluciones judiciales, jurisdiccionales o administrativas cuando así corresponda, éstas deberán reintegrarse a la Secretaría mediante la afectación de sus partidas presupuestales.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+En caso de que la Secretaría tenga que realizar erogaciones a nombre de los Entes Públicos, Dependencias o Entidades por cualquier concepto, para cubrir indemnizaciones y obligaciones que se deriven de resoluciones definitivas emitidas por autoridad competente, los montos de éstas erogaciones deberán ser devueltos a la Secretaría a través del reintegro respectivo o mediante la afectación de sus partidas presupuestales.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+De la calendarización del presupuesto
+
+###### Artículo 42 Bis.
+
+Los calendarios de presupuesto de los Entes Públicos del Estado deberán notificarse a la Secretaría en un plazo de cinco días hábiles posteriores al inicio de vigencia del Presupuesto de Egresos del Estado, mismos que serán autorizados para atender el equilibrio fiscal.
+
+La Secretaría queda facultada para elaborar los calendarios de presupuesto de las Dependencias y Entidades, cuando no le sean presentados en los términos del presente artículo.
+
+Los calendarios de presupuesto deberán publicarse en el Periódico Oficial del Estado.
 
 ### Capítulo II. Disposiciones aplicables al ejercicio del gasto público
 
@@ -773,9 +859,13 @@ Prohibición para contraer obligaciones futuras de gasto
 
 Los Entes Públicos no deben contraer obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios fiscales, así como la celebración de contratos, convenios, el otorgamiento de concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga que impliquen la posibilidad de algún gasto contingente o adquirir obligaciones futuras, salvo con la previa autorización de la Secretaría o su equivalente y que alguna otra ley lo permita o que se trate de contratos plurianuales que se celebren en términos de esta Ley.
 
-En el caso de documentos contractuales se suscribirán con vigencia anual y deberá establecerse en ellos la instancia ejecutora, no procederá la renovación automática y deberán atender a lo convenido en el calendario de ejecución establecido en el documento contractual respectivo, debiendo sujetarse a la verificación previa condicionada de disponibilidad financiera prevista en el artículo 99 de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
-En el caso de que no sea posible especificar la instancia ejecutora deberán celebrarse convenios interinstitucionales de delimitación de competencias entre las dependencias de la administración pública estatal, en su caso, con la participación de las entidades paraestatales que correspondan para determinar la instancia ejecutora de los recursos. Del mismo modo podrá procederse, en tratándose de modificación a compromisos de la competencia de dependencias y entidades que provengan de convenios en los cuales no se haya podido establecer el alcance de los mismos.
+En el caso de documentos contractuales se suscribirán con vigencia anual y deberá establecerse en ellos a los Ejecutores del Gasto, no procederá la renovación automática y deberán atender a lo convenido en el calendario de ejecución establecido en el documento contractual respectivo, debiendo sujetarse a la verificación previa condicionada de disponibilidad financiera prevista en el artículo 99 de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+En el caso de que no sea posible especificar a los Ejecutores del Gasto deberán celebrarse convenios interinstitucionales de delimitación de competencias entre las dependencias de la administración pública estatal, en su caso, con la participación de las entidades paraestatales que correspondan.
 
 Para el Poder Ejecutivo, en casos excepcionales, debidamente justificados, el Ejecutivo del Estado podrá recomendar, a través de la Comisión Intersecretarial Gasto Financiamiento, que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año correspondiente.
 
@@ -811,9 +901,17 @@ IV. Del cumplimiento de sus fines y destinos, atendiendo exclusivamente a la ins
 
 V. Del cumplimiento de las disposiciones para el ejercicio óptimo de gasto público;
 
-VI. De que dichos recursos se ejecuten con oportunidad y eficiencia en las acciones previstas en sus respectivos programas, a fin de coadyuvar a la adecuada consecución de las estrategias y objetivos establecidos en el Plan Estatal de Desarrollo y demás programas formulados con base en la Ley de Planeación del Estado de Zacatecas y sus Municipios, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-VII. De la estricta observancia de las disposiciones de austeridad, ajuste del gasto corriente, mejora y modernización de la gestión pública y disciplina presupuestal.
+VI. De que dichos recursos se ejecuten con oportunidad y eficiencia en las acciones previstas en sus respectivos programas, a fin de coadyuvar a la adecuada consecución de las estrategias y objetivos establecidos en el Plan Estatal de Desarrollo y demás programas formulados con base en la Ley de Planeación del Estado de Zacatecas y sus Municipios;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VII. De la estricta observancia de las disposiciones de austeridad, ajuste del gasto corriente, mejora y modernización de la gestión pública y disciplina presupuestal, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VIII. En su caso, del resguardo de los expedientes de los beneficiarios de apoyos y subsidios, así como de posible atención de observaciones ante los entes fiscalizadores; para tal efecto, se notificará a la Secretaría.
 
 Responsabilidad de los ejecutores del gasto del Poder Ejecutivo
 
@@ -823,9 +921,13 @@ En el Poder Ejecutivo, las dependencias y organismos descentralizados que ejecut
 
 Las instancias ejecutoras del Poder Ejecutivo, son las dependencias, organismos desconcentrados y entidades, así como los servidores públicos adscritos a estas, los cuales por atribución y facultad legal ejecuten acciones derivadas de un Programa, Proyecto o Procesos Institucionales, que participen o lleven a cabo los procedimientos de adjudicación directa, invitación restringida o licitación de obras, adquisiciones de bienes o prestación de servicios, ya sea que paguen directamente o no, a los contratistas o proveedores, o a través de cualquier otro medio de adquisición, adjudicación o contratación permitidos por la Ley y que para ello se les hayan autorizado asignaciones presupuestarias.
 
-Los ejecutores del gasto del Poder Ejecutivo deberán ajustar su actuación a lo establecido en las leyes, reglamentos, lineamientos, reglas de operación y demás marco jurídico aplicable y, en su caso, a los convenios que al efecto se celebren.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
-Será responsabilidad de los ejecutores del gasto del Poder Ejecutivo, para el caso de reintegro de recursos no devengados al término del ejercicio fiscal, independientemente del origen de los mismos, informar de ello a la Secretaría, con el propósito de que ésta proceda, en términos del marco jurídico que aplique a los recursos de que se traten con su reintegro a la Tesorería de la Federación o, en su caso, tratándose de recursos de origen estatal con su integración a la bolsa de la Hacienda Pública Estatal.
+Los Ejecutores del gasto serán responsables del ejercicio y aplicación de los recursos presupuestales que se les autoricen y deberán ajustar su actuación a lo establecido en las leyes, reglamentos, lineamientos, reglas de operación y demás marco jurídico aplicable y, en su caso, a los convenios que al efecto se celebren.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Será responsabilidad de los Ejecutores del gasto, para el caso de reintegro de recursos no devengados al término del ejercicio fiscal, independientemente del origen y naturaleza de los mismos, informar de ello a la Secretaría, y proceder en términos del marco jurídico aplicable, a reintegrarlos a la Tesorería de la Federación en tratándose de transferencias federales etiquetadas o a la Hacienda Pública Estatal en el caso de recursos de origen estatal o ingresos de libre disposición.
 
 Ejecutores del gasto, diferentes del Poder Ejecutivo
 
@@ -857,7 +959,9 @@ Responsables de la ejecución del gasto de origen federal o estatal
 
 La Secretaría y sus servidores públicos, al realizar la ministración de los recursos pertenecientes a los fondos de aportaciones federales, gasto federalizado, gasto concurrente o pari-passu, o algún otro recurso federal o estatal de los establecidos en ley, no fungen como ejecutores del gasto, ya que la Secretaría en su carácter de Órgano Hacendario, realizará las transferencias de los recursos públicos a los ejecutores del gasto.
 
-El correcto ejercicio de los recursos destinados a infraestructura, obras, adquisiciones de bienes y servicios, acciones y programas desde el proceso de adjudicación, contratación y entrega será de la exclusiva responsabilidad de la dependencia u organismo público descentralizado ejecutora de los recursos, quien a su vez deberá obtener la documentación comprobatoria del ejercicio de tales recursos conforme a la legislación, convenio o contrato que le sea aplicable.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+El correcto ejercicio de los recursos destinados a infraestructura, obras, adquisiciones de bienes, arrendamientos y prestación de servicios, acciones y programas desde el proceso de adjudicación, contratación y entrega será de la exclusiva responsabilidad del Ente Público, Dependencia o Entidad Ejecutora del Gasto, quien a su vez deberá obtener la documentación comprobatoria del ejercicio de tales recursos conforme a la legislación, convenio o contrato que le sea aplicable.
 
 Prohibición para los municipios en la ejecución del gasto
 
@@ -1313,11 +1417,13 @@ Los gastos en comunicación social, publicidad y cualquier otra erogación equiv
 
 ### Capítulo V. Austeridad en transferencias, asignaciones, subsidios y otras ayudas
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 Celebración de convenios
 
 ###### Artículo 98.
 
-Los Entes Públicos podrán celebrar convenios de coordinación, colaboración, concertación, reasignación y transferencia de recursos o cualquier otro documento contractual que involucre el ejercicio de recursos públicos, con la federación, con otros Estados, con los Municipios, y con otros Entes Públicos, atendiendo a su asignación presupuestal.
+Los Entes Públicos, Dependencias y Entidades podrán celebrar convenios de coordinación, colaboración, concertación, reasignación y transferencia de recursos o cualquier otro documento contractual que involucre el ejercicio de recursos públicos, con la Federación, con otros Estados, con los Municipios, y con otros Entes Públicos, Dependencias y Entidades, atendiendo a su asignación presupuestal.
 
 Suscripción de documentos contractuales
 
@@ -1375,7 +1481,9 @@ Los Entes Públicos, en materia de subsidios, además de identificar la poblaci�
 
 I. Identificar con precisión a la población objetivo, estableciendo el mecanismo de operación que permita garantizar que los recursos se canalicen a esta población, evitando su distracción entre aquellos miembros de la sociedad que no los necesitan;
 
-II. Asegurar que el mecanismo de operación y administración facilite la evaluación de los beneficios económicos y sociales de su asignación y aplicación, así como evitar que se destinen recursos a una administración costosa y excesiva, en detrimento de los recursos asignados a la población objetivo;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+II. Asegurar que el mecanismo de operación y administración facilite la evaluación de los beneficios económicos y sociales de su asignación y aplicación, cuidando que los gastos administrativos nunca rebasen el 5% del total del recurso, en detrimento de los recursos asignados a la población objetivo; con excepción de aquellos programas que otorguen servicios a la población general, previa autorización por la Coordinación Estatal de Planeación, para transferir hasta el 100% del recurso a las partidas del gasto que se requieran.
 
 III. Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su terminación;
 
@@ -1391,9 +1499,11 @@ Los mecanismos de distribución, operación y administración de los subsidios d
 
 Padrón de beneficiarios de subsidios y ayudas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 107.
 
-Los Entes Públicos, sólo podrán conceder subsidios, ministrar donativos, otorgar gratificaciones o dar ayuda de cualquier clase, hasta por los montos aprobados en sus presupuestos para tal fin. Para estos efectos, se deberá formular un padrón de beneficiarios para personas físicas y otro para personas morales y publicarlo en la página de internet del Ente Público, de manera trimestral.
+Los Entes Públicos, sólo podrán conceder subsidios, ministrar donativos, otorgar gratificaciones o dar ayuda de cualquier clase, hasta por los montos aprobados en sus presupuestos y que deberán estar previstos en sus lineamientos o reglas de operación para tal fin.
 
 Los Entes Públicos se abstendrán de otorgar dichas autorizaciones respecto (sic) subsidios, ayudas o transferencias, cuando éstos afecten negativamente la recaudación de ingresos que hayan sido previamente afectados a medios de pago de obligaciones contraídas por el Estado, las Entidades o los fideicomisos constituidos por el Estado para contratar financiamientos, conforme a las disposiciones legales aplicables.
 
@@ -1663,9 +1773,13 @@ Autorización de contratación plurianual
 
 Los Entes Públicos y las dependencias que pretendan celebrar contratos plurianuales a que se refiere este capítulo se sujetarán a lo siguiente:
 
-I. Deberán solicitar la autorización de la Secretaría o a la Comisión Intersecretarial de Gasto Financiamiento, según corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2024)</small>
 
-La solicitud de autorización puede ser generada en dos momentos diferentes: el primero a la entrega de su anteproyecto de presupuesto de egresos ante la Secretaría quien autoriza si así corresponde, bajo criterios y en términos presupuestarios; y el segundo, dentro del ejercicio fiscal a través de la Comisión Intersecretarial de Gasto Financiamiento en cuyo caso la autorización que se emita será con base en los términos contractuales, previa suficiencia presupuestal para el ejercicio fiscal vigente y previsión presupuestal para ejercicios subsecuentes.
+I. Deberán solicitar la autorización a la Comisión Intersecretarial de Gasto Financiamiento, según corresponda.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+La solicitud de autorización puede ser generada en dos momentos diferentes: el primero a la entrega de su anteproyecto de presupuesto de egresos ante la Secretaría quien revisa si cuenta con los elementos que dispone la Ley, si así corresponde, bajo criterios y términos presupuestarios, deberá ser integrada en el proyecto de Presupuesto Egresos que se presenta ante la Legislatura del Estado para su aprobación; y el segundo, dentro del ejercicio fiscal a través de la Comisión Intersecretarial de Gasto Financiamiento, en cuyo caso, la autorización que se emita será con base en los términos contractuales, previa suficiencia presupuestal para el ejercicio fiscal vigente y previsión presupuestal para ejercicios subsecuentes.
 
 A la solicitud se deberán anexar los siguientes documentos:
 
@@ -1681,25 +1795,37 @@ e) El desglose de gasto que debe consignarse a precios del año, tanto para el e
 
 Las dependencias deberán presupuestar el gasto para los ejercicios subsecuentes conforme al inciso d) anterior.
 
-La Secretaría o, en su caso, la Comisión Intersecretarial de Gasto Financiamiento emitirá su resolución en un plazo máximo de 15 días hábiles a partir de la presentación de la solicitud.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
-Transcurrido el plazo anterior sin que la Secretaría emita resolución alguna, las solicitudes se tendrán por autorizadas y ésta deberá informarlo por escrito a petición de la dependencia correspondiente dentro de un plazo de 5 días hábiles.
+La Comisión Intersecretarial de Gasto Financiamiento en un plazo de 15 días hábiles deberá informar por escrito la afirmativa o negativa respecto a la autorización del proyecto plurianual solicitado por la Dependencia o Entidad.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
 
 Las dependencias podrán presentar solicitudes con posterioridad al plazo a que se refiere la presente fracción, las cuales serán analizadas y, en su caso, autorizadas siempre que se trate de gastos administrativos o de apoyo al desempeño de las funciones de la dependencia.
 
 Las solicitudes que presenten las dependencias, podrán ser de manera consolidada por tipo de obras públicas, adquisiciones, arrendamientos o servicios, y
 
-II. Las dependencias que requieran actualizar los montos plurianuales autorizados que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos deberán presentar a la Secretaría la justificación correspondiente, así como el avance financiero y, en el caso de obra pública, además el avance físico. Para dicha actualización no requerirán la autorización de la Secretaría en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2024)</small>
+
+II. Las Dependencias que requieran actualizar los montos plurianuales autorizados que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos, deberán presentar a la Comisión Intersecretarial de Gasto Financiamiento la justificación correspondiente para autorización del ajuste, así como el avance financiero y, en el caso de obra pública, además el avance físico. Para dicha actualización no requerirán la autorización de la Comisión Intersecretarial de Gasto Financiamiento en los siguientes casos:
 
 a) El monto total actualizado de las adquisiciones, arrendamientos o servicios no rebase el 20% de los montos plurianuales autorizados, ni el techo del presupuesto modificado autorizado para el año en el concepto correspondiente, y
 
 b) El monto total actualizado de las obras no rebase el 25% de los montos plurianuales autorizados, ni el techo del presupuesto modificado autorizado para el año en el concepto correspondiente.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Independientemente de los supuestos anteriores, la Comisión Intersecretarial de Gasto Financiamiento solicitará a la Secretaría la validación de suficiencia presupuestaria que soporte los ajustes. En caso de no existir condiciones financieras, no podrá emitirse autorización alguna.
+
 Las dependencias deberán informar a la Secretaría sobre las actualizaciones a que se refiere esta fracción en un plazo máximo de 10 días hábiles a partir de que se hayan formalizado los documentos contractuales de actualización.
 
-En caso de que se rebasen los porcentajes establecidos en los incisos anteriores, se solicitará la autorización de la Secretaría, en los términos de la fracción I de este artículo, anexando la justificación correspondiente.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
-Las dependencias no contraerán compromisos plurianuales que impliquen riesgos de incumplimiento de sus obligaciones o que restrinjan la flexibilidad requerida para el adecuado ejercicio de gasto. Para ello, el monto total de este tipo de contratos, sin incluir aquellos derivados de proyectos para prestación de servicios para cualquier año de su vigencia, no rebasará el 20% de gasto total aprobado para el año en que se celebren en las partidas de gasto correspondientes. En casos excepcionales y debidamente justificados, la Secretaría podrá autorizar un porcentaje mayor.
+En caso de que se rebasen los porcentajes establecidos en los incisos anteriores, se solicitará la autorización a la Comisión Intersecretarial de Gasto Financiamiento, en los términos de la fracción I de este artículo y a la Secretaría, en función del párrafo anterior, anexando la justificación correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Las Dependencias no contraerán compromisos plurianuales que impliquen riesgos de incumplimiento de sus obligaciones o que restrinjan la flexibilidad requerida para el adecuado ejercicio de gasto. Para ello, el monto total de este tipo de contratos, sin incluir aquellos derivados de proyectos para prestación de servicios para cualquier año de su vigencia, no rebasará el 20% de gasto total aprobado para el año en que se celebren en las partidas de gasto correspondientes.
 
 Cuando el monto autorizado originalmente resulte insuficiente para llevar a cabo la contratación, se elaborará la justificación correspondiente y se solicitará una nueva autorización de conformidad con la fracción I de este artículo.
 
@@ -1836,6 +1962,10 @@ Informes trimestrales
 ###### Artículo 144.
 
 De conformidad con la Ley General de Contabilidad Gubernamental, los Entes Públicos deberán de reportar la información financiera la cual será organizada, sistematizada y difundida por cada uno de éstos, al menos, trimestralmente en los portales de internet, a más tardar 30 días después del cierre del periodo que corresponda, en los términos de las disposiciones en materia de transparencia y los criterios que emita el CONAC.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Asimismo, deberán publicar en medios digitales y en datos abiertos la información presupuestaria y contable respecto a lo aprobado por la Legislatura del Estado, el avance del ejercicio del gasto y de lo recaudado, de conformidad con los formatos establecidos por la Secretaría.
 
 Responsables de la información de la cuenta pública
 
@@ -2146,3 +2276,31 @@ f) Resolverá cualquier situación inherente al proceso de extinción y liquidac
 Artículo séptimo. La Secretaría de la Función Pública, en el ejercicio de sus atribuciones, vigilará el proceso de extinción y liquidación. Asimismo, en la cuenta pública respectiva, se informará a la Auditoría Superior del Estado sobre el proceso de extinción y liquidación.
 
 Artículo octavo. La Secretaría de Finanzas en coordinación con la Secretaría de la Función Pública, adscribirán los recursos humanos, materiales y financieros del organismo público descentralizado que mediante esta reforma se extingue, a la Secretaría de Administración, en un respeto absoluto a los derechos laborales adquiridos por los trabajadores.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 544.- SE EXPIDE LA LEY DE FINANCIAMIENTOS, OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY ANTIQUEBRANTO PARA UNA GESTIÓN RESPONSABLE Y SOSTENIBLE DE LAS FINANZAS PÚBLICAS DEL ESTADO DE ZACATECAS Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo primero. El presente Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios, publicada en el Suplemento 10 al 105 del Periódico Oficial del Gobierno del Estado, correspondiente al 31 de diciembre de 2016.
+
+Artículo tercero. Las menciones que en otras leyes, decretos, reglamentos, acuerdos y disposiciones administrativas del marco jurídico estatal, así como en contratos, convenios y cualquier instrumento jurídico se hagan referencia a la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios que se abroga, se entenderán referidas a la nueva Ley de Financiamientos, Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios.
+
+Artículo cuarto. El Registro de Empréstitos y Obligaciones a que se refiere el Título Cuarto, Capítulo Único de la Ley de Financiamientos, Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios, sustituirá al Registro Estatal de Deuda Pública en la misma fecha de entrada en vigor de esta Ley.
+
+Las referencias al Registro Estatal de Deuda en las leyes y disposiciones administrativas, así como en cualquier otro acto o instrumento jurídico, se entenderán hechas al Registro de Empréstitos y Obligaciones.
+
+Artículo quinto. Hasta en tanto no entre en operación el Sistema Informático y la utilización de la Firma Electrónica del Registro de Empréstitos y Obligaciones, los Procedimientos Registrales se realizarán de manera física, pudiendo utilizar escrito libre para llevar a cabo los trámites conducentes cumpliendo con los requisitos previstos en este Decreto.
+
+La Secretaría publicará con la anticipación debida los Lineamientos del Sistema del Registro de Empréstitos y Obligaciones a que se refiere este Ley, y entrarán en vigor de manera simultánea cuando entre en operación el Sistema mencionado en el párrafo que antecede.
+
+Artículo sexto. Para efectos de los saldos de pasivos establecidos en el artículo 10 de la Ley Antiquebranto para una Gestión Responsable y Sostenible de las Finanzas Públicas del Estado de Zacatecas, se considerarán todas aquellas obligaciones provenientes de presupuesto devengado no pagado del ejercicio que corresponda y anteriores.
+
+La Secretaría y los sujetos obligados, estarán facultados para llevar a cabo la cancelación de pasivos con antigüedad mayor a un ejercicio fiscal, siempre y cuando no medie un procedimiento jurisdiccional.
+
+En el caso de que, con posterioridad a la cancelación de pasivos, se presente una acción legal del acreedor en contra del Estado, estas deberán considerarse como una contingencia financiera, en tanto no se llevé a cabo su resolución.
+
+Artículo séptimo. Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+Artículo octavo. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, el Ejecutivo del Estado expedirá los reglamentos correspondientes.
