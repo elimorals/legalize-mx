@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-05-11"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1947,7 +1947,9 @@ Los programas para la salud tienen como objetivos:
 
 I.- Establecer los programas de promoción de la salud, en base a las políticas, estrategias y servicios, con la finalidad de crear una cultura de corresponsabilidad y autocuidado en la población.
 
-II.- Fortalecer en la población las oportunidades para mejorar, conservar y proteger su salud física, mental y social, a través de la comunicación educativa, la educación para la salud y la participación social corresponsable.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+II.- Fortalecer en la población las oportunidades para mejorar, conservar y proteger su salud física, mental y social, a través de la comunicación educativa, la educación para la salud, la participación social corresponsable, la capacitación y el desarrollo de proyectos estratégicos que permitan alcanzar esos objetivos.
 
 III.- Normar, planear, coordinar, supervisar, evaluar y asesorar las acciones para promover la salud de la población, por medio de la elaboración y difusión de normas, modelos operativos, documentos técnicos y materiales de apoyo, así como la capacitación del personal responsable a nivel estatal.
 
@@ -2124,6 +2126,10 @@ I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilita
 II.- La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes y a la población con mayor incidencia, a través de métodos individuales, sociales o de comunicación masiva.
 
 III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+IV. La promoción sobre la creación de centros especializados, así como el fortalecimiento de los ya existentes, para el tratamiento, atención y rehabilitación de personas alcohólicas, fundamentados en el respeto a su integridad y libre decisión.
 
 B) Del tabaquismo:
 
@@ -4144,6 +4150,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 11 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0832/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0840/2024 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 179, FRACCIÓN II, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0841/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 202, APARTADO A), LA FRACCIÓN IV, DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
