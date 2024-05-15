@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-02-21"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -37,7 +37,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -491,7 +493,17 @@ XXIV. Apoyar, asesorar y dar las directrices mínimas a los ayuntamientos del es
 
 XXV. Fomentar el desarrollo de las y los deportistas de alto rendimiento en el estado, creando y ejecutando políticas públicas de impacto, las cuales orienten el fomento, el desarrollo y empoderamiento de las y los deportistas morelenses para que representen a Morelos en competencias oficiales nacionales e internacionales.
 
-XXVI. Las demás que sean afines a las anteriores y contribuyan a la realización del objeto del Instituto.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXVI. Fomentar la integración e implementación de programas, protocolos y lineamientos que permitan la prevención y atención de actos constitutivos de violencia, acoso y hostigamiento sexual que involucren a las y los deportistas, además de promover acciones y mecanismos de denuncia para la erradicación de estas prácticas;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXVII. Promover la participación de las mujeres en el deporte y la actividad física, así como implementar protocolos que garanticen el libre desarrollo de las mujeres en el deporte; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXVI], P.O. 15 DE MAYO DE 2024)</small>
+
+XXVIII. Las demás que sean afines a las anteriores y contribuyan a la realización del objeto del Instituto.
 
 ### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -1575,13 +1587,19 @@ IV. Coadyuvar con las dependencias administrativas involucradas en la realizaci�
 
 V. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
 
-VI. Realizar estudios e informes sobre las causas y efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
 
-VII. Ejecutar los acuerdos, políticas y acciones que determine la Comisión Especial Federal;
+VI. Crear y promover, programas, protocolos de atención y prevención de la discriminación en el ámbito del deporte, así como proponer acciones en favor de los grupos vulnerables del Estado.
 
-VIII. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
+VII. Realizar estudios e informes sobre las causas y efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
 
-IX. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VIII. Ejecutar los acuerdos, políticas y acciones que determine la Comisión Especial Federal.
+
+IX. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
+
+X. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
 
@@ -2106,6 +2124,38 @@ Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS OCHENTA Y OCHO POR EL QUE SE ADICIONA UNA FRACCIÓN SEXTA AL ARTÍCULO *129 QUINQUIES Y SE RECORREN EN ESE ORDEN LAS SUBSECUENTES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS OCHENTA Y NUEVE.- POR EL QUE SE ADICIONAN LAS FRACCIONES XXVI, XXVII, Y XXVIII AL ARTÍCULO 28 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS Y SE RECORRE EN ESE ORDEN LA SUBSECUENTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
