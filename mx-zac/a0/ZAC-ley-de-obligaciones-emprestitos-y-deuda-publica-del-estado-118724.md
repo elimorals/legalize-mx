@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obligaciones-emprestitos-y-deuda-publica-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2021-12-29"
+last_updated: "2024-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # LEY DE OBLIGACIONES, EMPRESTITOS Y DEUDA PUBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FINANCIAMIENTOS, OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL PERIÓDICO OFICIAL EL 15 DE MAYO DE 2024; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR DE LOS NOVENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.]</small>
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024 (ABROGADA).
 
 Ley publicada en el Suplemento 10 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -1178,3 +1180,31 @@ Las reglas específicas de operación para el Fondo de Inversión Pública Munic
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 544.- SE EXPIDE LA LEY DE FINANCIAMIENTOS, OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY ANTIQUEBRANTO PARA UNA GESTIÓN RESPONSABLE Y SOSTENIBLE DE LAS FINANZAS PÚBLICAS DEL ESTADO DE ZACATECAS Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo primero. El presente Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios, publicada en el Suplemento 10 al 105 del Periódico Oficial del Gobierno del Estado, correspondiente al 31 de diciembre de 2016.
+
+Artículo tercero. Las menciones que en otras leyes, decretos, reglamentos, acuerdos y disposiciones administrativas del marco jurídico estatal, así como en contratos, convenios y cualquier instrumento jurídico se hagan (sic) referencia a la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios que se abroga, se entenderán referidas a la nueva Ley de Financiamientos, Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios.
+
+Artículo cuarto. El Registro de Empréstitos y Obligaciones a que se refiere el Título Cuarto, Capítulo Único de la Ley de Financiamientos, Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios, sustituirá al Registro Estatal de Deuda Pública en la misma fecha de entrada en vigor de esta Ley.
+
+Las referencias al Registro Estatal de Deuda en las leyes y disposiciones administrativas, así como en cualquier otro acto o instrumento jurídico, se entenderán hechas al Registro de Empréstitos y Obligaciones.
+
+Artículo quinto. Hasta en tanto no entre en operación el Sistema Informático y la utilización de la Firma Electrónica del Registro de Empréstitos y Obligaciones, los Procedimientos Registrales se realizarán de manera física, pudiendo utilizar escrito libre para llevar a cabo los trámites conducentes cumpliendo con los requisitos previstos en este Decreto.
+
+La Secretaría publicará con la anticipación debida los Lineamientos del Sistema del Registro de Empréstitos y Obligaciones a que se refiere este Ley, y entrarán en vigor de manera simultánea cuando entre en operación el Sistema mencionado en el párrafo que antecede.
+
+Artículo sexto. Para efectos de los saldos de pasivos establecidos en el artículo 10 de la Ley Antiquebranto para una Gestión Responsable y Sostenible de las Finanzas Públicas del Estado de Zacatecas, se considerarán todas aquellas obligaciones provenientes de presupuesto devengado no pagado del ejercicio que corresponda y anteriores.
+
+La Secretaría y los sujetos obligados, estarán facultados para llevar a cabo la cancelación de pasivos con antigüedad mayor a un ejercicio fiscal, siempre y cuando no medie un procedimiento jurisdiccional.
+
+En el caso de que, con posterioridad a la cancelación de pasivos, se presente una acción legal del acreedor en contra del Estado, estas deberán (sic) considerarse como una contingencia financiera, en tanto no se llevé a cabo su resolución.
+
+Artículo séptimo. Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+Artículo octavo. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, el Ejecutivo del Estado expedirá los reglamentos correspondientes.
