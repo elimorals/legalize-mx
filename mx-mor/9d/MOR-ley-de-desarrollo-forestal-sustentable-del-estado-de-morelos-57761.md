@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-forestal-sustentable-del-estado-de-morelos-57
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2021-10-06"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -45,19 +45,25 @@ LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS
 
 ### CAPÍTULO I. Objeto y Aplicación de la Ley
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto garantizar la conservación y protección de los recursos forestales en el Estado de Morelos, promoviendo su restauración, mejora, sustentabilidad, aprovechamiento racional, el fomento al desarrollo en investigación y asesoría y gestión forestal, apoyándose en la solidaridad colectiva y la cohesión territorial, así como distribuir las competencias que en materia forestal correspondan al gobierno estatal y los gobiernos municipales.
+La presente Ley es de orden público e interés social y tiene por objeto garantizar la conservación y protección de los recursos forestales en el Estado de Morelos, promoviendo su restauración, mejora, sustentabilidad, aprovechamiento racional, el fomento al desarrollo en investigación y asesoría y gestión forestal, apoyándose en la solidaridad colectiva y la cohesión territorial, así como distribuir las competencias que en materia forestal correspondan al gobierno estatal y los gobiernos municipales. Así como regular el manejo y uso del fuego en las actividades relacionadas con el sector agropecuario, forestal o de otra índole, con el propósito de prevenir y disminuir incendios forestales y daño a los ecosistemas.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
-Las disposiciones de esta Ley, son aplicables en los terrenos forestales, cualquiera que sea su régimen de propiedad o tenencia.
+Las disposiciones de esta Ley son aplicables en los terrenos forestales, temporalmente forestales, preferentemente forestales y en los terrenos de uso agropecuario y colindantes, cualquiera que sea su régimen de propiedad o tenencia.
 
-Los bosques y selvas, independientemente de su titularidad, desempeñan una función social relevante, tanto como fuente de recursos naturales como por ser proveedores de múltiples servicios ambientales, entre ellos, de protección del suelo y del ciclo hidrológico; de fijación del carbono atmosférico; de depósito de la diversidad biológica y como elementos fundamentales del paisaje. El reconocimiento de estos recursos y externalidades, de los que toda la sociedad se beneficia, obliga a las Administraciones públicas estatales y municipales a velar en todos los casos por su conservación, protección, restauración, mejora y ordenado aprovechamiento.
+Los bosques y selvas, independientemente de su titularidad, desempeñan una función social relevante, tanto como fuente de recursos naturales como por ser proveedores de múltiples servicios ambientales, entre ellos, de protección del suelo y del ciclo hidrológico; de fijación del carbono atmosférico; de depósito de la diversidad biológica y como elementos fundamentales del paisaje. El reconocimiento de estos recursos y externalidades, de los que toda la sociedad se beneficia, obliga a las (sic) Administración pública estatal y las municipales a velar en todos los casos por su conservación, protección, restauración, mejora y ordenado aprovechamiento.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 3.
 
-En lo no previsto por esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley General del Equilibrio Ecológico y Protección al Ambiente y la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Morelos.
+Además de lo previsto por esta Ley, se deberán observar en lo conducente las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Morelos y las Normas Oficiales Mexicanas que resulten aplicables a la materia de esta Ley.
 
 ###### ARTÍCULO 4.
 
@@ -87,9 +93,11 @@ k) Adaptación de los bosques y selvas al cambio climático, fomentando una gest
 
 ### CAPÍTULO II. Terminología Empleada en esta Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-Además de las definiciones contenidas en los artículos 7 de la Ley General de Desarrollo Forestal Sustentable; 2 del Reglamento de la Ley General de Desarrollo Forestal Sustentable, y 4 de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, para los efectos de esta Ley se entenderá por:
+Además de las definiciones contenidas en los artículos 7 de la Ley General de Desarrollo Forestal Sustentable, 4 de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y las Normas Oficiales Mexicanas aplicables, para los efectos de esta Ley se entenderá por:
 
 I. Aprovechamiento racional: Extracción y utilización de los elementos naturales, de forma que resulten eficientes y socialmente útiles y procuren su conservación y la del ambiente;
 
@@ -139,11 +147,25 @@ XXIII. Registro: El Registro Estatal Forestal;
 
 XXIV. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
-XXV. Sistema: Sistema Estatal de Información Forestal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
 
-XXVI. Siniestros forestales: Sucesos que tienen como consecuencia la destrucción de áreas o zonas que implican pérdidas en el sistema forestal, y
+XXV. Secretaría: Secretaría de Desarrollo Sustentable del Gobierno del Estado de Morelos;
 
-XXVII. Zonificación: Zonificación Estatal Forestal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+XXVI. SEDAGRO: Secretaría de Desarrollo Agropecuario del Gobierno del Estado de Morelos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2024)</small>
+
+XXVII. Sistema: Sistema Estatal de Información Forestal;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXVIII. Siniestros forestales: Sucesos que tienen como consecuencia la destrucción de áreas o zonas que implican perdidas en el sistema forestal, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2024)</small>
+
+XXIX. Zonificación: Zonificación Estatal Forestal.
 
 ### CAPÍTULO III. Coordinación entre la Federación, Estados y Gobiernos Municipales
 
@@ -167,9 +189,17 @@ III. Aplicar y operar las demás disposiciones o programas que formulen el gobie
 
 IV. El intercambio de información que facilite el desarrollo de sus actividades;
 
-V. la cooperación en la instrumentación de campañas preventivas y de la difusión de la cultura forestal, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-VI. La vigilancia y prevención de catástrofes, calamidades o emergencias forestales cuando se presenten en dos o más municipios de la Entidad.
+V. La cooperación en la instrumentación de campañas preventivas y de la difusión de la cultura forestal;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VI. La vigilancia y prevención de catástrofes, calamidades o emergencias forestales cuando se presenten en dos o más municipios de la Entidad, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+VII. Vigilar y supervisar el uso del fuego con fines agropecuarios para prevenir incendios forestales.
 
 En la celebración de convenios de coordinación, se tomará en consideración que los gobiernos de los estados y de los municipios en su caso, cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que soliciten asumir.
 
@@ -255,9 +285,17 @@ XXIV. Aprobar los mecanismos, montos y plazos de pago por servicios ambientales 
 
 XXV. Aprobar, modificar o rechazar las medidas adoptadas por el Comité Técnico del Fondo;
 
-XXVI. Proponer la protección de zonas de recarga de acuíferos y la construcción de estructuras que permitan la recuperación de suelos y recarga de acuíferos, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-XXVII. Las demás que establezca la presente ley y otras disposiciones aplicables.
+XXVI. Proponer la protección de zonas de recarga de acuíferos y la construcción de estructuras que permitan la recuperación de suelos y recarga de acuíferos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+XXVII. Participar de manera conjunta con la SEDAGRO en la supervisión y seguimiento del uso del fuego agropecuario, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXVIII. Las demás que establezca la presente Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -267,13 +305,19 @@ Serán miembros del Consejo Forestal del Estado de Morelos y tendrán derecho a 
 
 I. El Presidente, quien será el titular de la Secretaría, quien podrá designar a su suplente;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-II. Un representante del Poder Legislativo del Estado Libre y Soberano de Morelos, recayendo dicha representación en el Diputado Presidente de la Comisión de Medio Ambiente, quien podrá designar a su suplente;
+II. Dos Representantes del Poder Legislativo del Estado Libre y Soberano de Morelos, recayendo dicha representación en la Diputada o Diputado Presidente de la Comisión de Medio Ambiente, Recursos Naturales y Agua y la Diputada o Diputado Presidente de la Comisión de Desarrollo Agropecuario, quienes podrán designar cada quien a su representante;
 
 III. Un Secretario Técnico, a cargo del representante de la CONAFOR en el Estado de Morelos, quien podrá designar a su suplente;
 
-IV. Un representante por cada uno de los sectores siguientes:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+IV. La persona titular de la SEDAGRO, quien podrá designar a un representante, con nivel jerárquico de Director General;
+
+> <small>(REFORMADO [N. DE E. REUBICADO ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2024)</small>
+
+V. Un representante por cada uno de los sectores siguientes:
 
 a) Académico y de investigación;
 
@@ -293,17 +337,23 @@ h) Profesional forestal;
 
 i) Profesional del Estado;
 
-V. Un representante de los municipios del Estado, con territorio de vocación fundamentalmente forestal.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2024)</small>
 
-El encargo como integrante del Consejo será de carácter honorífico, por lo que no percibirán remuneración alguna por su desempeño.
+VI. Un representante de los municipios del Estado, con territorio de vocación fundamentalmente forestal.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+El encargo como integrante del Consejo será de carácter honorifico, por lo que no percibirán remuneración o emolumento alguno por su desempeño.
 
 ###### ARTÍCULO 14.
 
 Cada sector a que se refiere la fracción IV del artículo anterior, designará un Consejero titular y uno suplente; con el objeto de asegurar el buen funcionamiento del Consejo, el Pleno revisará y actualizará la representación de los sectores cada dos años.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-En términos de lo establecido en los artículos 156 en relación con el 157 de la Ley General, la incorporación al Consejo Forestal del Estado de Morelos, de los representantes de los sectores a que se refiere la fracción III del artículo 13 del presente ordenamiento, será proporcional y equitativa, mediante convocatoria que se publicará al menos en un diario de circulación estatal. En dicha convocatoria se establecerán los plazos, condiciones y requisitos para la integración de los sectores.
+En términos de lo establecido en el artículo 153 de la Ley General, la incorporación al Consejo Foresta (sic) del Estado de Morelos, de los representantes de los sectores a que se refiere la fracción V del artículo 13 del presente ordenamiento, será proporcional y equitativa, mediante convocatoria que se publicará al menos en un diario de circulación estatal. En dicha convocatoria se establecerán los plazos, condiciones y requisitos para la integración de los sectores.
 
 ###### ARTÍCULO 16.
 
@@ -403,11 +453,21 @@ V. Comité de Educación e Información Pública;
 
 VI. Comité Técnico del Fondo Forestal Estatal;
 
-VII. Comité de Dictaminación Forestal, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-VIII. Comité Técnico de Sanidad Forestal Estatal.
+VII. Comité de Dictaminación Forestal;
 
-Los Comités de Trabajo serán de carácter permanente y estarán integrados por los miembros que el Consejo determine.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VIII. Comité Técnico de Sanidad Forestal Estatal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+IX. Comité Técnico de Uso de Fuego con fines Agropecuarios.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+Los comités de trabajo serán de carácter permanente y estarán integrados por los miembros que el consejo determine.
 
 ###### ARTÍCULO 23.
 
@@ -549,9 +609,11 @@ II. Auxiliar a las instancias competentes, con el equipo y con los recursos mate
 
 III. Las demás que le confiera esta ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponden a la Secretaría de Desarrollo Agropecuario, las atribuciones siguientes, sin perjuicio de lo previsto en el artículo 13 de la Ley General:
+Corresponden a la SEDAGRO, las atribuciones siguientes, sin perjuicio de lo previsto en el artículo 13 de la Ley General:
 
 I. Asegurar el manejo sostenido de los recursos forestales que se emplean en la producción agrícola y ganadera, mediante el uso múltiple de los mismos, buscando la diversificación productiva y la participación activa de las comunidades indígenas, ejidos, pequeños propietarios y demás personas físicas y morales que se desempeñen en el sector;
 
@@ -559,9 +621,17 @@ II. Promover la coordinación entre los tres ámbitos de gobierno y la concertac
 
 III. Elaborar los estudios que ayuden a los productores a definir alternativas de uso múltiple del recurso suelo, así como la diversificación productiva, de acuerdo a su entorno forestal;
 
-IV. Coordinar con las dependencias competentes de la Administración Pública Federal, Estatal, Municipal y de los Estados circunvecinos, todas las acciones y programas forestales que permitan conseguir los objetivos del desarrollo agropecuario del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-V. Coordinar y supervisar la quema de parcelas agrícolas.
+IV. Coordinar con las dependencias competentes de la Administración Pública Federal, Estatal, Municipal y de los Estados circunvecinos, todas las acciones y programas forestales que permitan conseguir los objetivos del desarrollo agropecuario del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+V. Coordinar y supervisar la quema en parcelas agropecuarias, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+VI. Impartir cursos de capacitación a ejidatarios, comuneros, productores agropecuarios, sean propietarios o poseedores de terrenos y demás interesados, sobre el uso del fuego en los terrenos agropecuarios, prevención, control y combate de calamidades y catástrofes de naturaleza forestal. Así como capacitación en la utilización de técnicas agrícolas que permitan la incorporación de los residuos de cultivos al suelo, que mejoren los suelos y el rendimiento de sus cultivos evitando las quemas agrícolas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -595,9 +665,11 @@ V. El diseño de mecanismos de coordinación y participación concertada con las
 
 VI. La determinación de los mecanismos necesarios para la creación, conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos forestales y atractivos turísticos del estado, aplicando criterios de sustentabilidad ambiental, social y económica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponden a los Ayuntamientos de la entidad, además de las atribuciones señaladas en el artículo 15 de la Ley General, las siguientes:
+Corresponden a los Ayuntamientos de la entidad, además de las atribuciones señaladas en el artículo 13 de la Ley General, las siguientes:
 
 I. Establecer, en sus correspondientes ámbitos de competencia, las medidas necesarias para la debida observancia y cumplimiento de las disposiciones de esta Ley;
 
@@ -1181,23 +1253,33 @@ Para atender las emergencias provocadas por la alta incidencia de plagas o enfer
 
 #### Sección 1. Aplicación y uso del Fuego con Fines Agrícolas
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 76.
 
-Compete a la Secretaría, en coordinación con el Consejo, la planificación, coordinación y ejecución de las medidas precisas para la regulación del uso de fuego y de los incendios forestales, así como promover previo convenio de coordinación del Estado con los Municipios, los apoyos para la obtención de recursos de emergencia para el combate de incendios en su territorio.
+Compete a la Secretaría y la SEDAGRO, en coordinación con el Consejo, la planificación, coordinación y ejecución de las medidas precisas para la regulación del uso de fuego con fines agropecuarios y de los incendios forestales, así como promover previo convenio de coordinación del Estado con los Municipios, los apoyos para la obtención de recursos de emergencia para el combate de incendios en su territorio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-Para realizar cualquier tipo de quema en terrenos forestales y preferentemente forestales, los interesados deberán dar aviso a la autoridad municipal para obtener el permiso correspondiente, quien deberá dar respuesta en un plazo no mayor de tres días hábiles, entendiéndose que si no da respuesta será en sentido negativo. La autoridad municipal deberá a su vez informar de la quema autorizada a la Secretaría para que lleve el registro correspondiente.
+Para realizar cualquier tipo de quema en terrenos forestales, temporalmente forestales, preferentemente forestales y en los terrenos de uso agropecuario y colindantes, los interesados deberán apegarse a lo establecido en la Norma Oficial Mexicana que establezca las especificaciones técnicas de métodos de uso del fuego.
 
-De igual forma el interesado deberá dar aviso de la quema a los dueños de los predios colindantes cuando menos con siete días de anticipación con el objeto de que adopten las precauciones necesarias y coadyuven en la aplicación y los trabajos de control de fuego.
+Además de dar aviso a la autoridad municipal para obtener el permiso correspondiente, quien deberá dar respuesta en un plazo no mayor de tres días hábiles, entendiéndose que si no da respuesta en el plazo señalado aplicará la negativa ficta. La autoridad municipal deberá a su vez informar de la quema autorizada a la Secretaría para que lleve el registro correspondiente.
+
+En el caso de que se trate de una quema en terreno agropecuario la autoridad municipal deberá informar a la SEDAGRO y al Consejo, de la autorización otorgada.
+
+De igual forma, el interesado deberá dar aviso de la quema a los dueños de los predios colindantes cuando menos con siete días de anticipación con el objeto de que adopten las precauciones necesarias y coadyuven en la aplicación y los trabajos de control de fuego.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2024)</small>
+
+ARTÍCULO 77 BIS. En los terrenos agropecuarios, los gobiernos municipales en conjunto con las autoridades comunitarias y las autoridades estatales, en coordinación con SADER, CONAFOR y CONANP, determinarán la época en que el uso del fuego deba restringirse temporalmente, de acuerdo con el riesgo y la problemática de incendios forestales prevaleciente, a fin de reducir situaciones de emergencia por incendios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-En toda quema que se realice en terrenos forestales o preferentemente forestales se considerará lo siguiente:
+Las personas que pretendan hacer uso del fuego en terrenos forestales, temporalmente forestales, preferentemente forestales y en los terrenos de uso agropecuario y colindantes, además de cumplir con el artículo 77 de esta Ley, deberán considerar lo siguiente:
 
 I. No se deberá iniciar la quema si las condiciones climáticas no son las propicias para ello;
 
@@ -1209,9 +1291,25 @@ IV. La quema deberá iniciarse en retroceso de arriba hacia abajo en los terreno
 
 V. La quema deberá efectuarse en el periodo que comprende del día primero de marzo al treinta y uno de mayo de cada año y dentro del horario de las 7:00 A.M., a las 9:00 A.M., con base en el calendario que emita la autoridad competente que se publique para tal fin en los diversos medios de comunicación y en el Periódico Oficial "Tierra y Libertad" del Estado;
 
-VI. Sólo se autorizarán las quemas en terrenos que se encuentren a un kilómetro de distancia de las poblaciones urbanas o suburbanas, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
 
-VII. Las quemas autorizadas por los Ayuntamientos en terrenos colindantes con poblaciones urbanas o suburbanas, deberán ser programadas y supervisadas por el propio Ayuntamiento.
+VI. La quema agropecuaria no se realizará en horas de mayor temperatura ambiental, que comprende de las 12:00 a las 16:00 horas, ni en condiciones limitativas que establezcan las Normas Oficiales Mexicanas;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VII. Solo se autorizarán las quemas en terrenos que se encuentren a un kilómetro de distancia de las poblaciones urbanas o suburbanas;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VII (SIC). Las quemas autorizadas por los Ayuntamientos en terrenos colindantes con poblaciones urbanas o suburbanas, deberán ser programadas y supervisadas por el propio Ayuntamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+VIII. Las autorizaciones otorgadas en términos de lo establecido en el artículo 77 de esta Ley considerarán las condiciones meteorológicas extremas de temperatura y viento o de contingencia ambiental por la mala calidad del aire, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+IX. No se concederá autorización alguna a propietarios, poseedores o usufructuarios de terrenos de uso agropecuario colindantes con terrenos forestales, debiendo utilizarse otras alternativas tecnológicas para el desarrollo de las actividades agropecuarias. En caso de que un incendio agropecuario amenace terrenos forestales, el propietario, poseedor, usufructuario o persona responsable del predio colindante deberá dar aviso de manera inmediata a las autoridades municipales y esta a su vez a la Comisión.
 
 #### Sección 2. Prevención, Combate y Control de Incendios Forestales
 
@@ -1227,7 +1325,9 @@ La responsabilidad de estas acciones recaerá en un director técnico que será 
 
 En la extinción de los incendios se deberá aplicar el sistema de manejo de emergencias en coordinación con las dependencias federales y municipales, para aplicar diagnósticos, metodologías, estrategias y técnicas que conlleven al combate eficaz del incendio.
 
-En los trabajos de extinción de incendios forestales, el director técnico tendrá la calidad de autoridad y podrá movilizar medios públicos y privados para actuar en la extinción, de acuerdo al plan de operaciones. Asimismo, podrá disponer, cuando sea necesario y aunque no se pueda contar con la autorización de los dueños respectivos, la entrada de equipos y medios en predios forestales o agrícolas, la circulación por caminos privados, la utilización de aguas públicas o privadas en la cuantía que se precise, la apertura de brechas cortafuegos, líneas negras y quemas de ensanche necesarias, así como la aplicación de contrafuegos, en zonas en donde se requiera, debido al comportamiento del fuego para evitar mayores desastres.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+En los trabajos de extinción de incendios forestales, el director técnico tendrá la calidad de autoridad y podrá movilizar medios públicos y privados para actuar en la extinción, de acuerdo al plan de operaciones. Así mismo, podrá disponer, cuando sea necesario y, aunque no se pueda contar con la autorización de los dueños respetivos (sic), la entrada de equipos y medios en predios forestales o agropecuarios, la circulación por caminos privados, la utilización de aguas públicas o privadas en la cuantía que se precise, apertura de brechas cortafuegos, líneas negras y quemas de ensanche necesarias, así como la aplicación de contrafuegos, en zonas en donde se requiera, debido al comportamiento del fuego para evitar mayores desastres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
@@ -1239,11 +1339,11 @@ I. Formación de brigadas de divulgación, para la concientización de la poblac
 
 II. Capacitación de comunidades rurales, para a integración de brigadas voluntarias para la prevención, control y combate de incendios forestales.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 81.
 
-Las organizaciones agropecuarias, así como propietarios y poseedores de terrenos forestales y preferentemente forestales, tienen la obligación de comunicar a la Secretaría la programación de quemas, para que ésta brinde la asesoría pertinente.
+Las organizaciones agropecuarias, así como propietarios, poseedores, usufructuarios o responsables de terrenos forestales, temporalmente forestales, preferentemente forestales y en los terrenos de uso agropecuario y colindantes, tienen la obligación de comunicar a la Secretaría y al Consejo la programación de quemas, para que ésta brinde la asesoría pertinente y deberán apegarse a lo establecido en las Normas Oficiales Mexicanas en la materia.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
@@ -1347,9 +1447,11 @@ La autoridad municipal deberá atender el combate y control de incendios; y en e
 
 El Gobierno del Estado y de los municipios así como el Comité para la Prevención, Control y Combate de Incendios Forestales procurarán la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizará campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 90.
 
-Los propietarios, poseedores y usufructuarios de terrenos de uso forestal a quienes se les haya probado la culpabilidad en el origen de un incendio forestal, independientemente de las sanciones administrativas o de otra índole que procedan, están obligados a llevar a cabo la restauración de la superficie afectada en el plazo máximo de dos años, debiendo ser restaurada la cubierta vegetal afectada mediante reforestación artificial cuando la regeneración natural no sea posible, poniendo especial atención a la prevención, control y combate de plagas y enfermedades.
+Los propietarios, poseedores, usufructuarios o responsables de terrenos forestales, temporalmente forestales, preferentemente forestales y en los terrenos de uso agropecuario y colindantes a quienes se les haya probado la culpabilidad en el origen de un incendio forestal, independientemente de las sanciones administrativas o de otra índole que procedan, están obligados a llevar a cabo la restauración de la superficie afectada en el plazo máximo de dos años debiendo ser restaurada la cubierta vegetal afectada mediante reforestación artificial cuando la regeneración natural no sea posible, poniendo especial atención a la prevención, control y combate de plagas y enfermedades.
 
 Cuando los dueños o poseedores de los predios dañados demuestren su imposibilidad inmediata para cumplirlo directamente, podrán solicitar fundadamente a las autoridades municipales, estatales o federales, el apoyo para realizar dichos trabajos, con la obligación de resarcir la erogación correspondiente.
 
@@ -1403,11 +1505,17 @@ II. El titular de la Subsecretaría de Gestión Ambiental Sustentable de la Secr
 
 III. El titular de la Subsecretaría de Planeación para el Desarrollo Sustentable de la Secretaría, fungirá como Secretario Técnico;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-IV. Los representantes que designen las Secretarías de Gobierno, de Salud, de Hacienda y de Obras Públicas, y
+IV. Los representantes que designen las Secretarías de Gobierno, de Salud, de Hacienda y de Obras Públicas;
 
-V. Las demás dependencias del orden estatal, federal y municipal que convoque el presidente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
+
+V. Dos Representantes del Poder Legislativo del Estado Libre y Soberano de Morelos, recayendo dicha representación en la Diputada o Diputado Presidente de la Comisión de Medio Ambiente, Recursos Naturales y Agua y la Diputada o Diputado Presidente de la Comisión de Desarrollo Agropecuario, quienes podrán designar cada quien a su representante, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2024)</small>
+
+VI. Las demás dependencias del orden estatal, federal y municipal que convoque el presidente.
 
 Para atender las emergencias provocadas por la alta incidencia de incendios forestales, se constituirá un Fondo de Contingencias, el cual formará parte del Fondo Forestal Estatal.
 
@@ -2163,7 +2271,9 @@ I. No presentar los informes o avisos en tiempo y forma ante las autoridades est
 
 16. Cambiar el uso de suelo forestal a cualquier otro, sin la autorización correspondiente;
 
-17. Realizar quemas de residuos de cosechas, de huertos frutícolas y de agostaderos o praderas siempre y cuando esta actividad propicie la degradación de los suelos, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+17. Hacer uso del fuego para quemas en terrenos agropecuarios o realizar quemas de residuos de cosechas, de huertos frutícolas y de agostaderos o praderas; sin contar con la aprobación de la autoridad municipal o no apegarse a las Normas Oficiales Mexicanas en la materia.
 
 18. No contar, los prestadores de servicios técnicos, con el certificado de inscripción en el Registro Forestal del Estado;
 
@@ -2179,25 +2289,27 @@ I. No presentar los informes o avisos en tiempo y forma ante las autoridades est
 
 Las sanciones por las infracciones señaladas en el artículo anterior serán las siguientes:
 
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
 I. Multa que se determinará en los casos y montos siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+a) Con el equivalente de 100 a 3000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en los numerales 1, 10, 11, 12,14, 15, 18 y 21;
 
-a. Con el equivalente de 100 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV, XVIII y XXI;
+b) Con el equivalente de 250 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, quienes incurran en los supuestos previstos en los numerales 2, 3, 4, 5, 6, 13, 17 y 19;
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+c) Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en los numerales 7, 8, 9, 16 y 20;
 
-b. Con el equivalente de 250 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II; III, IV, V, VI, XIII, XVII y XIX;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+II. Clausura temporal o definitiva, parcial o total de los establecimientos, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones 3, 4, 6, 10, 11, 12, 13, 19 y 20;
 
-c. Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII; VIII; IX, XVI y XX;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-i. (sic) Clausura temporal o definitiva, parcial o total de los establecimientos, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones III, IV, VI, X, XI, XII, XIII, XIX y XX;
+III. Cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso; de la inscripción registral o de las actividades de que se trate, a las personas físicas o morales señaladas en la fracción anterior, y
 
-ii. Cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso; de la inscripción registral o de las actividades de que se trate, a las personas físicas o morales señaladas en la fracción anterior, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-iii. Además de las sanciones que se establecen en las fracciones anteriores, se harán acreedores, en su caso, al decomiso de las materias primas obtenidas; de los instrumentos, maquinaria, equipos y herramientas o medios de transporte utilizados, las personas físicas o morales que incurran en cualquiera de los supuestos previstos por el artículo 144 de esta Ley.
+IV. Además de las sanciones que se establecen en las fracciones anteriores, se harán acreedores, en su caso, al decomiso de las materias primas obtenidas; de los instrumentos, maquinaria, equipos y herramientas o medios de transporte utilizados, a las personas físicas o morales que incurran en cualquiera de los supuestos previstos por el artículo 144 de esta Ley.
 
 Podrá imponerse una o más de las sanciones previstas en el presente artículo.
 
@@ -2370,3 +2482,13 @@ P.O. 6 DE OCTUBRE DE 2021.
 PRIMERA. - Remitase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad" Órgano Oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. - El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad". Órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS OCHENTA Y SIETE.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS, PARA REGULAR EL USO DE QUEMAS AGROPECUARIAS Y PREVENIR INCENDIOS FORESTALES”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. El Poder Ejecutivo del Estado, los Ayuntamientos y demás instancias competentes, deberán expedir, reformar o actualizar los reglamentos correspondientes en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
