@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2022-03-09"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -77,11 +77,11 @@ V. Madres y Padres de familia o tutores, así como sus asociaciones.
 
 Las Universidades y demás Instituciones de Educación Superior, referidas en la fracción VII, del artículo 3º, de la Constitución Política de los Estados Unidos Mexicanos y 121, de la Constitución Política del Estado Libre y Soberano de Morelos, regularán su función social educativa, por sus propios ordenamientos jurídicos y normas administrativas siempre y cuando no contravengan la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-La aplicación y la vigilancia del cumplimiento de esta Ley corresponden a la autoridad educativa estatal, los Organismos Descentralizados y sus municipios, en sus respectivos ámbitos de competencia y en los términos en que este ordenamiento establece.
-
-Para efectos de la presente Ley, se entenderá por:
+La aplicación y la vigilancia del cumplimiento de esta Ley corresponden a la autoridad educativa estatal, los Organismos Descentralizados y sus municipios, en sus respectivos ámbitos de competencia y en los términos en que este ordenamiento establece. Para efectos de la presente Ley, se entenderá por:
 
 I. Autoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares;
 
@@ -140,6 +140,14 @@ XXVII. Diversidad, al conjunto de particularidades, cualidades y originalidad qu
 XXVIII. Interculturalidad, promueve la interrelación e interacción, mediante el diálogo de conocimientos, saberes, epistemologías, ciencias y tecnologías de diversas culturas. Fomenta la hermenéutica diatópica para el reconocimiento y respeto mutuos; y
 
 XXIX. Vida Escolar; al conjunto de factores sociales y académicos tales como, actividades, pasatiempos, lugares, clases, amistades e individuos con los que convive y en los que se desenvuelven los educandos en el ámbito escolar.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXX. Acoso Escolar, al acoso o bullying escolar que consiste en todo acto u omisión que de manera reiterada agreda física, psicoemocional, patrimonial o sexualmente a una niña, niño, o adolescente; realizado bajo el cuidado de las instituciones escolares, sean públicas o privadas.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XXXI. Seguridad Escolar, se entenderá como el conjunto de condiciones, medidas y acciones enfocadas al desarrollo del autocuidado y a la prevención de riesgos, requeridos para que los miembros de la comunidad educativa puedan realizar el ejercicio pleno de los derechos, libertades y obligaciones, que les reconoce o les impone el ordenamiento jurídico interno y las normas y tratados internacionales.
 
 ###### ARTÍCULO 6.
 
@@ -231,11 +239,11 @@ El Estado está obligado a prestar servicios educativos con equidad y excelencia
 
 Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos o preferencia sexual o prácticas culturales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-La autoridad educativa estatal y los organismos descentralizados, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, con equidad y excelencia, realizarán entre otras, las siguientes acciones:
+La autoridad educativa estatal y los Organismos Descentralizados, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, con equidad y excelencia, realizarán entre otras, las siguientes acciones:
 
 I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
 
@@ -243,7 +251,9 @@ II. Impulsar, en coordinación con las autoridades en la materia, programas de a
 
 III. Apoyar conforme a las disposiciones que, para tal efecto emita la autoridad competente, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
 
-IV. Establecer protocolos de actuación y protección de las víctimas de acoso, hostigamiento, abuso sexual o violación dentro de los planteles Educativos para garantizar la seguridad física, emocional y académica de la víctima y evitar la deserción escolar provocada por estos supuestos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+IV. Establecer protocolos de actuación y protección de las víctimas de Acoso escolar, acoso, hostigamiento, abuso sexual o violación dentro de los planteles Educativos para garantizar la seguridad física, emocional y académica de la víctima y evitar la deserción escolar provocada por estos supuestos;
 
 > <small>(ADICIONADA, P.O. 9 DE MARZO DE 2022)</small>
 
@@ -305,7 +315,9 @@ III. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia
 
 IV. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-V. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez, las mujeres y por razones de preferencias sexuales; así como el fomento de una cultura de igualdad y eliminación de estereotipos de género, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+V. Prevenir y Combatir el Acoso Escolar, las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez, las mujeres y por razones de preferencias sexuales; así como el fomento de una cultura de igualdad y eliminación de estereotipos de género, y
 
 VI. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -345,7 +357,9 @@ VI. Formar a los educandos en la cultura de la paz, el respeto, la tolerancia, l
 
 VII. Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
-VIII. Crear conciencia sobre los valores morales, la sexualidad y prevenir sobre los perjuicios que causan a la persona y a la sociedad las conductas delictivas, e informar y orientar a los educandos sobre el daño que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, propiciando la resistencia y el rechazo a los vicios, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VIII. Crear conciencia sobre las consecuencias negativas del Acoso Escolar, los valores morales, la sexualidad y prevenir sobre los perjuicios que causan a la persona y a la sociedad las conductas delictivas, e informar y orientar a los educandos sobre el daño que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, propiciando la resistencia y el rechazo a los vicios, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 IX. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del Estado y del país;
 
@@ -443,7 +457,9 @@ X. Los conocimientos, habilidades motrices y creativas, a través de la activaci
 
 XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
 
-XII. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XII. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros; evitando el Acoso Escolar, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
 
 ###### ARTÍCULO 23.
 
@@ -819,7 +835,9 @@ X. Fortalecer la conciencia histórica de identidad regional, estatal y nacional
 
 XI. Generar competencias para la convivencia a fin de que el alumno pueda armónicamente con otros y con la naturaleza, comunicarse con eficacia, trabaje en equipo, tome acuerdos y negocie con otros y maneje armónicamente las relaciones personales y emocionales desarrollando su identidad personal y reconozca valores de la diversidad étnica, cultural y lingüística que caracterizan a nuestro país;
 
-XII. Favorecer la capacidad de decisión y acción crítica frente a los valores, las normas sociales y culturales, proceda (sic) en favor de la democracia, la paz, el respeto a la legalidad y a los derechos humanos, participe considerando las formas de trabajo en sociedad, los gobiernos y las empresas, individuales o colectivas, así como tomar en cuenta las implicaciones sociales del uso de la tecnología, actuando en todos sus entornos con respeto a la diversidad sociocultural evitando la discriminación y el racismo, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XII. Favorecer la capacidad de decisión y acción crítica frente a los valores, las normas sociales y culturales, proceda en favor de la democracia, la paz, el respeto a la legalidad y a los derechos humanos, participe considerando las formas de trabajo en sociedad, los gobiernos y las empresas, individuales o colectivas, así como tomar en cuenta las implicaciones sociales del uso de la tecnología, actuando en todos sus entornos con respeto a la diversidad sociocultural evitando el Acoso Escolar, la discriminación y el racismo, y
 
 XIII. Fortalecer el desarrollo integral del educando a fin de que los conocimientos adquiridos consoliden su formación como ciudadanos preparados para la continuidad de los estudios superiores o con el trabajo y producción.
 
@@ -1273,7 +1291,9 @@ VII. Pugnará para que se comprendan e interpreten los principios de nuestras re
 
 VIII. Promoverá y pugnará por la constante actualización y superación académica del Magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado;
 
-IX. Desarrollará y formará en los educandos una sólida conciencia de valores morales necesarios, para la convivencia social, respetuosa entre otras cosas de los derechos humanos y de todas las manifestaciones de la vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+IX. Desarrollará y formará en los educandos una sólida conciencia de valores morales necesarios, para la convivencia social, respetuosa entre otras cosas de los derechos humanos y de todas las manifestaciones de la vida, del daño que ocasiona el Acoso Escolar, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe; y
 
 X. Fortalecerá la conciencia de la identidad y cultura nacional, como el principio fundamental de la independencia y soberanía del país.
 
@@ -1361,15 +1381,17 @@ Los docentes y el personal que labora en los planteles de educación deberán es
 
 En caso de que los docentes, el personal que labora en los planteles educativos, así como los Organismos Descentralizados, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, deberán hacerlo del conocimiento inmediato de la autoridad correspondiente, debiendo en todo momento salvaguardar la integridad de los educandos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 124.
 
-Los Organismos Descentralizados, en el ámbito de su competencia, promoverán la cultura de la paz, seguridad escolar y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones, programas e implementación de protocolos que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
-
-Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
+Los Organismos Descentralizados, en el ámbito de su competencia, promoverán la cultura de la paz, seguridad escolar y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones, programas e implementación de protocolos que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar. Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
 I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, para fortalecer la cohesión comunitaria y una convivencia democrática;
 
-II. Incluir en la formación docente contenidos y prácticas relacionados con la cultura de la paz y la resolución pacífica de conflictos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+II. Incluir en la formación docente contenidos y prácticas relacionados con la cultura de la paz, la resolución pacífica de conflictos, y la atención inmediata de los casos de violencia y Acoso Escolar.
 
 III. Proporcionar atención psicosocial y, en su caso, orientación sobre las vías legales a la persona agresora y a la víctima de violencia o maltrato escolar, ya sea psicológico, emocional, físico o cibernético, así como a las receptoras indirectas de maltrato dentro de las escuelas;
 
@@ -1379,7 +1401,9 @@ V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación es
 
 VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
 
-VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales e implementar las acciones que se consideren necesarias para salvaguardar la integridad de las niñas, niños, adolescentes y jóvenes;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de Acoso Escolar, infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales e implementar las acciones que se consideren necesarias para salvaguardar la integridad de las niñas, niños, adolescentes y jóvenes;
 
 VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico, emocional o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
 
@@ -1409,9 +1433,11 @@ El Estado generará las condiciones para que las poblaciones indígenas, afromex
 
 En la formulación de las estrategias de aprendizaje, se fomentará la participación y colaboración de niñas, niños, adolescentes y jóvenes con el apoyo de docentes, directivos, madres y padres de familia o tutores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 130.
 
-Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo, así como por la seguridad escolar.
+Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo, por la seguridad escolar, así como por la prevención y combate del Acoso Escolar.
 
 En el ámbito de sus respectivas competencias, los Organismos Descentralizados desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
@@ -1743,7 +1769,9 @@ I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la e
 
 II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
 
-III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades educativas que dichas instituciones realicen, sea pública o concedida a particulares con autorización o reconocimiento de validez oficial de estudios, así como en aquellas que provean o mejoren la seguridad escolar y la sana convivencia;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades educativas que dichas instituciones realicen, sea pública o concedida a particulares con autorización o reconocimiento de validez oficial de estudios, así como en aquellas que provean o mejoren la seguridad escolar y la sana convivencia; y la prevención y el combate del Acoso Escolar.
 
 IV. Informar a los Organismos Descentralizados, los cambios que se presenten en la conducta y actitud de los educandos, para que estos apliquen los estudios correspondientes, con el fin de determinar las posibles causas;
 
@@ -1781,7 +1809,9 @@ a) Representar a las asociaciones de madres y padres de familia, de las escuelas
 
 b) Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de las condiciones físicas, de seguridad, ambientales y de contingencias naturales, que se requieran para garantizar el derecho a la educación de sus hijos;
 
-c) Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+c) Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de Acoso Escolar y delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
 
 d) Tratar ante la autoridad educativa estatal y los Organismos Descentralizados los intereses que en materia educativa sean comunes a los asociados;
 
@@ -1831,7 +1861,9 @@ I. Coadyuvar para que los resultados de las evaluaciones al Sistema Educativo Na
 
 II. Proponer estímulos y reconocimientos de carácter social a alumnos, docentes, directivos y empleados de la escuela, que propicien la vinculación con la comunidad, con independencia de los que se prevean en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
 
-III. Coadyuvar en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de la comunidad educativa;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+
+III. Coadyuvar en temas que prevengan el Acoso Escolar, permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de la comunidad educativa;
 
 IV. Contribuir a reducir las condiciones sociales adversas que influyan en la educación, a través de proponer acciones específicas para su atención;
 
@@ -2438,3 +2470,11 @@ PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para 
 SEGUNDA.- Las acciones que deberá realizar la autoridad educativa estatal y los organismos descentralizados adicionadas mediante el presente decreto, estarán supeditadas a la planeación, programación y disponibilidad presupuestal del Poder Ejecutivo, priorizando a pueblos y comunidades indígenas, así como zonas de alta y muy alta marginación, implementándose las mismas de manera gradual en el territorio estatal y debiendo tener cobertura total en los dos años posteriores a la entrada vigor del presente decreto.
 
 TERCERA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y NUEVE POR EL QUE SE REFORMA (SIC) Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS, CON EL PROPÓSITO DE ESTABLECER EL CONCEPTO DE ACOSO O BULLYING ESCOLAR, ASÍ COMO OBLIGAR A LAS AUTORIDADES EDUCATIVAS Y PADRES DE FAMILIA A PREVENIR Y COMBATIR SU COMISIÓN EN PLANTELES EDUCATIVOS PÚBLICOS Y PRIVADOS".]
+
+PRIMERO. - R0emítase (sic) el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
