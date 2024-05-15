@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2024-02-21"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -897,9 +897,13 @@ XIX. Elaborar la propuesta y, en su caso, las modificaciones del proyecto del Mo
 
 XX. Verificar que los Módulos de Atención a la Violencia Familiar y de Género operen bajo el Modelo Homologado.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
 
-XXI. Las demás previstas en el cumplimiento de esta Ley.
+XXI. Establecer mecanismos, en el ámbito de su competencia, que favorezcan la prevención, atención, sanción y erradicación del acoso y hostigamiento sexual en contra de las mujeres. Para lo cual podrá celebrar acuerdos y convenios con instituciones públicas o privadas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2024)</small>
+
+XXII. Las demás previstas en el cumplimiento de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1005,9 +1009,13 @@ XIII. Capacitar y sensibilizar al personal docente y de apoyo a fin de que otorg
 
 XIV. Elaborar programas de otorgamiento de becas dirigidos a mujeres víctimas de violencia y en situación de riesgo o peligro, así como a sus hijas e hijos menores de edad.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2024)</small>
 
-XV. Las demás previstas para el cumplimiento de esta Ley.
+XV. Elaborar y aplicar protocolos de actuación en casos de acoso, hostigamiento o violencia sexual en todos los niveles educativos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2024)</small>
+
+XVI. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 33.
 
@@ -1680,6 +1688,14 @@ Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor
 P.O. 21 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0814/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 6, LA FRACCIÓN VII, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLYC/0844/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY ESTATAL DE EDUCACIÓN”.]
 
 ###### ARTÍCULO ÚNICO.
 
