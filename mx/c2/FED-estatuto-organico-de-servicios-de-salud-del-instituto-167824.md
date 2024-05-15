@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2024-05-03"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -72,6 +72,12 @@ ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIA
 #### SECCION SEXTA. COORDINACIÓN DE ACCIÓN COMUNITARIA
 
 #### SECCION SÉPTIMA. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE MAYO DE 2024)</small>
+
+SECCCIÓN (SIC) OCTAVA
+
+COORDINACIÓN DE CALIDAD E INFORMACIÓN ESTRATÉGICA
 
 ## TÍTULO CUARTO. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN
 
@@ -287,7 +293,9 @@ La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada 
 
 Para la celebración de las sesiones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, y será enviada por la persona titular de la Secretaría Técnica o de la Prosecretaría y recibidos por los integrantes de la Junta de Gobierno y la persona comisaria pública con una anticipación no menor de cinco días hábiles.
 
-En el caso de sesiones extraordinarias, la convocatoria deberá entregarse con una anticipación no menor de dos días hábiles, y las sesiones se realizarán exclusivamente para desahogar los temas de la convocatoria.
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2024)</small>
+
+En el caso de sesiones extraordinarias, la convocatoria deberá entregarse con una anticipación no menor de dos días hábiles, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil, y las sesiones se realizarán exclusivamente para desahogar los temas de la convocatoria.
 
 Cuando exista causa justificada o impedimento para llevar a cabo las sesiones de manera presencial, las mismas podrán ser realizadas a través de medios electrónicos y con previa suscripción del Acta correspondiente tendrán plena validez.
 
@@ -309,13 +317,17 @@ La Secretaría Técnica y, en ausencia de ésta, la Prosecretaría de la Junta d
 
 I. Formular la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que formulen los miembros de la Junta de Gobierno y la Dirección General.
 
-II. Integrar y distribuir a los integrantes de la Junta de Gobierno y a los invitados permanentes, la documentación e información correspondientes a los asuntos que serán tratados en las sesiones, con una anticipación no menor de cinco días hábiles en el caso de ordinarias y no menor de dos días hábiles para las extraordinarias.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+II. Integrar y distribuir a los integrantes de la Junta de Gobierno y a los invitados permanentes, la documentación e información correspondientes a los asuntos que serán tratados en las sesiones, con una anticipación no menor de cinco días hábiles en el caso de ordinarias y no menor de dos días hábiles, para las extraordinarias, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil.
 
 III. Comunicar y llevar el seguimiento de los acuerdos adoptados por la Junta de Gobierno, para los efectos contenidos en éstos.
 
 IV. Elaborar las actas de las sesiones y someterlas a la aprobación de los miembros de la Junta de Gobierno y, en caso de ser aprobadas, se asentarán en el libro de actas que para tal efecto se lleve, debiendo ser firmadas por la Secretaría Técnica o por la Prosecretaría y por la Presidencia para efectos de su formalización.
 
-V. Certificar, una vez que el acta de la sesión correspondiente haya sido aprobada, los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno, así como los documentos que hayan sido incluidos en las carpetas correspondientes a cada sesión.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+V. Certificar los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno, así como los documentos que hayan sido incluidos en las carpetas correspondientes a cada sesión.
 
 VI. Resguardar y controlar los libros de actas y los documentos originales que sustenten los acuerdos adoptados por la Junta de Gobierno.
 
@@ -499,9 +511,11 @@ VI. COORDINACIÓN DE ACCIÓN COMUNITARIA
 
 VII. COORDINACIÓN DE TRANSPARENCIA Y VINCULACIÓN
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+a) (DEROGADO, D.O.F. 15 DE MAYO DE 2024)
 
-a) División de Comunicación Social y Medios Alternativos.
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+VII Bis. COORDINACIÓN DE CALIDAD E INFORMACIÓN ESTRATÉGICA
 
 > <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
@@ -651,6 +665,14 @@ XXV. Promover el uso de las tecnologías de información y comunicación disponi
 
 XXVI. Aprobar la incorporación o baja de Establecimientos de Salud que se consideren como parte de la concurrencia para garantizar la prestación de los servicios de salud en aquellas Entidades Federativas que hayan suscrito el convenio de coordinación a que hace referencia el artículo 77 bis 16 A de la Ley General de Salud.
 
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XXVII. Coordinar las acciones necesarias para la ejecución de los programas presupuestarios sujetos a Reglas de Operación a cargo de IMSS-BIENESTAR, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XXVIII. Fungir como instancia normativa, de consulta, inspección, evaluación, seguimiento y supervisión de los programas presupuestarios en el ámbito de su competencia, así como coordinar sus acciones con las Unidades de IMSS-BIENESTAR y las autoridades competentes para tal efecto.
+
 ###### Artículo 26.
 
 Son facultades y atribuciones de la Coordinación de Unidades de Primer Nivel:
@@ -692,6 +714,10 @@ XV. Promover la ejecución de proyectos de investigación en salud, relacionada 
 > <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
 XVI. Validar la necesidad de los requerimientos de recursos humanos, infraestructura, equipamiento médico, insumos, medicamentos y material de curación, que solicitan las Coordinaciones Estatales para las unidades de primer nivel de atención, en conjunto con la Coordinación de Normatividad y Planeación Médica y Coordinaciones vinculadas.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XVII. Coordinar el otorgamiento de los recursos provenientes de programas presupuestarios a cargo de IMSS-BIENESTAR en el ámbito de su competencia, así como diseñar la normatividad para su ejecución, realizar su inspección, evaluación, seguimiento y supervisión.
 
 ###### Artículo 27.
 
@@ -746,6 +772,10 @@ XX. Definir el proceso de intervención para soporte biomédico en las unidades 
 > <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2024)</small>
 
 XXI. Validar la necesidad de los requerimientos de recursos humanos, infraestructura, equipamiento médico, insumos, medicamentos y material de curación, que solicitan las Coordinaciones Estatales para las unidades de segundo nivel de atención en conjunto con la Coordinación de Normatividad y Planeación Médica y Coordinaciones vinculadas.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XXII. Coordinar el otorgamiento de los recursos provenientes de programas presupuestarios a cargo de IMSS-BIENESTAR en el ámbito de su competencia, así como diseñar la normatividad para su ejecución, realizar su inspección, evaluación, seguimiento y supervisión.
 
 ###### Artículo 28.
 
@@ -840,6 +870,10 @@ XXIV. Promover la ejecución de proyectos de investigación en salud, relacionad
 > <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
 XXV. Coordinar y asesorar a las Unidades de tercer nivel de IMSS-BIENESTAR sobre la vinculación con otras Unidades, así como Instituciones que integren el Sistema Nacional de Salud para la gestión de la integración o implementación de mejoras en la organización y administración de los procesos de atención médica de alta especialidad que se requieran.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XXVI. Coordinar el otorgamiento de los recursos provenientes de programas presupuestarios a cargo de IMSS-BIENESTAR en el ámbito de su competencia, así como diseñar la normatividad para su ejecución, realizar su inspección, evaluación, seguimiento y supervisión.
 
 ###### Artículo 29.
 
@@ -1096,6 +1130,10 @@ XIX. Administrar el ejercicio y comprobación de los recursos asignados a los fo
 XX. Coordinar y supervisar la recepción, registro y suministro de almacenes de medicamentos, material de curación e insumos a la salud, procurando el adecuado uso de los mismos.
 
 XXI. Coordinar y vigilar el cumplimiento de las disposiciones normativas y administrativas en materia de tecnologías de la información, comunicaciones y seguridad informática acordes con el Programa Institucional del IMSS-BIENESTAR, que contribuyan a la sistematización, actualización, calidad, optimización de funciones y procesos de los Hospitales Regionales de Alta Especialidad; en coordinación y conforme lo establezca la Coordinación de Tecnologías de la Información.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XXII. Llevar a cabo los procedimientos administrativos que tengan por objeto la adquisición, arrendamiento y prestación de servicios, así como de obra pública y servicios relacionados con las mismas, en los términos de la legislación, disposiciones normativas y administrativas aplicables; formalizar los contratos derivados de dichos procedimientos y sus modificaciones, así como la terminación anticipada, o bien, la rescisión administrativa de los mismos, esto último previa opinión de la Unidad Jurídica.
 
 #### SECCIÓN SEGUNDA. UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
@@ -2337,49 +2375,87 @@ VII. Convocar a las unidades y coordinaciones de IMSS-BIENESTAR a efecto de inte
 
 VIII. Supervisar el cumplimiento de los compromisos de los proyectos de cooperación internacional, así como las estrategias bilaterales y multilaterales, con la finalidad de consolidar las relaciones entre el IMSS-BIENESTAR y entidades internacionales.
 
-IX. Coordinar la difusión de encuentros, investigaciones, foros, giras y reuniones de trabajo entre las unidades y coordinaciones de IMSS-BIENESTAR.
+IX. (DEROGADA, D.O.F. 15 DE MAYO DE 2024)
 
 X. Conciliar con las unidades y coordinaciones de IMSS-BIENESTAR los mecanismos de cultura institucional y organizacional que promuevan la igualdad de género y no discriminación.
 
-XI. Dirigir la estrategia de comunicación interna de acuerdo con las líneas de trabajo institucionales con el fin de dar a conocer entre el personal las principales acciones e información general de IMSS-BIENESTAR.
+XI. (DEROGADA, D.O.F. 15 DE MAYO DE 2024)
 
-XII. Supervisar la comunicación digital realizada a través de la página electrónica y las redes sociodigitales de IMSS-BIENESTAR, así como a la difusión de materiales institucionales y de corte informativo a medios de comunicación.
+XII. (DEROGADA, D.O.F. 15 DE MAYO DE 2024)
 
-XIII. Establecer el mecanismo de integración del informe de los temas que se reciben a través de atención ciudadana, así como los que se identifiquen sobre el IMSS-BIENESTAR en diferentes medios de comunicación, con el propósito de presentarlo a la persona titular de la Dirección General, unidades y coordinaciones.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
-XIV. Coordinar el diseño y producción de materiales editoriales, gráficos, audiovisuales, así como el desarrollo de eventos institucionales.
+XIII. Establecer el mecanismo de integración del informe de los temas que se reciben a través de atención ciudadana, así como otros que se identifiquen sobre el IMSS-BIENESTAR, con el propósito de presentarlo a la persona titular de la Dirección General, unidades y coordinaciones.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+XIV. (DEROGADA, D.O.F. 15 DE MAYO DE 2024)
 
-Para el ejercicio de las atribuciones XI, XII, XIII y XIV se auxiliará de la División de Comunicación Social y Medios Alternativos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 15 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
-#### SECCIÓN PRIMERA. JEFATURA DE SERVICIOS DE ATENCIÓN A LA SALUD
+#### SECCIÓN OCTAVA. COORDINACIÓN DE CALIDAD E INFORMACIÓN ESTRATÉGICA
 
-> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE MAYO DE 2024)</small>
 
 ###### Artículo 57 Bis.
 
-Son facultades y atribuciones de la División de Comunicación Social y Medios Alternativos:
+Son facultades y atribuciones de la Coordinación de Calidad e Información Estratégica:
 
-I. Integrar y presentar a la persona titular de la Coordinación de Transparencia y Vinculación un Plan General de Trabajo de Comunicación Social que incluya las políticas, programas, estrategias y proyectos a realizar en materia de comunicación interna, información, difusión y comunicación digital para su implementación a nivel central y en las Coordinaciones Estatales de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
-II. Diseñar mecanismos de comunicación con las unidades y coordinaciones de IMSS-BIENESTAR para la detección de necesidades en materia de comunicación interna, información, difusión y comunicación digital.
+I. Crear el Programa de Comunicación Anual de acuerdo con la normativa de la Presidencia de la República y la Secretaría de Gobernación.
 
-III. Elaborar y someter a consideración de la persona titular de la Coordinación de Transparencia y Vinculación la estrategia de comunicación interna de acuerdo con las líneas de trabajo institucionales, con el fin de dar a conocer entre el personal las principales acciones e información general de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
-IV. Instrumentar y someter a consideración de la persona titular de la Coordinación de Transparencia y Vinculación la estrategia de comunicación digital a través de la página electrónica y las redes sociales de IMSS-BIENESTAR, así como a la difusión de materiales institucionales y de corte informativo a medios de comunicación.
+II. Realizar ante la Secretaría de Gobernación el proceso de registro y aprobación de las diferentes campañas de comunicación social de IMSS-BIENESTAR, así como de los Hospitales Regionales de Alta Especialidad.
 
-V. Dirigir el diseño y producción de materiales editoriales, gráficos y audiovisuales de IMSS-BIENESTAR, así como el desarrollo de eventos institucionales.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
-VI. Regular el monitoreo de la información institucional que sea difundida en radio, televisión, prensa impresa nacional y estatal, redes sociales y otros medios de comunicación; así como la compilación, análisis y síntesis de dicha información.
+III. Establecer los canales de comunicación interna para la correcta difusión de las actividades institucionales y crear los materiales informativos que apoyen a las funciones de IMSS-BIENESTAR, así como de los Hospitales Regionales de Alta Especialidad.
 
-VII. Concertar y dirigir conferencias de prensa o entrevistas, así como dar cobertura informativa a las giras de trabajo de la persona titular de la Dirección General y servidores públicos que por la naturaleza de sus funciones lo requieran.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
 
-VIII. Gestionar con la Unidad de Administración y Finanzas, la contratación de servicios en materia de comunicación social y la emisión de los informes que correspondan.
+IV. Vigilar y aprobar el uso de logotipos, logosímbolos, tipografías, colores y estilos gráficos, así como crear Manual de Identidad Gráfica de IMSS-BIENESTAR.
 
-IX. Desarrollar todas aquellas funciones inherentes al ámbito de su competencia y las demás que le sean asignadas por su superior jerárquico.
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+V. Crear y compartir a los medios de comunicación los diferentes programas, actividades y acciones institucionales.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+VI. Establecer las relaciones públicas con los diferentes medios de comunicación y coordinar conferencias de prensa.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+VII. Regular y analizar la información institucional que sea difundida en radio, televisión, prensa impresa nacional y estatal, redes sociales y otros medios de comunicación, así como el impacto en la imagen pública.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+VIII. Crear y coordinar la estrategia de comunicación digital y aprobar el uso correcto de la identidad institucional en sitio web y redes sociales.
+
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+IX. Establecer los reportes y análisis de métricas sobre el comportamiento de la información en las distintas redes sociales.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+X. Vigilar y crear los mensajes, estilos, y producción de materiales impresos para uso institucional.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XI. Conducir la planeación y producción de eventos institucionales, así como coordinar las giras de trabajo del Director General de acuerdo a la agenda institucional para la promoción de actividades.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XII. Establecer canales de comunicación con las diferentes unidades y coordinaciones de IMSS-BIENESTAR, así como con las coordinaciones estatales y regionales para diseñar los materiales y las estrategias de difusión.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XIII. Proponer las disposiciones normativas y administrativas en materia de comunicación social y demás funciones que le correspondan.
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2024)</small>
+
+XIV. Desarrollar todas aquellas funciones inherentes al ámbito de su competencia y las demás que le sean asignadas por su superior jerárquico.
 
 ## TÍTULO CUARTO. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN
 
@@ -2653,7 +2729,7 @@ IV. Las demás que le confieran la persona titular de la Coordinación Estatal o
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
-#### SECCIÓN SEGUNDA. JEFATURA DE SERVICIOS ADMINISTRATIVOS Y FINANZAS
+#### SECCIÓN PRIMERA. JEFATURA DE SERVICIOS DE ATENCIÓN A LA SALUD
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2701,7 +2777,7 @@ XVIII. Coordinar las acciones necesarias para dar cumplimiento conforme a los co
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
-#### SECCIÓN TERCERA. JEFATURA DE SERVICIOS JURÍDICOS
+#### SECCIÓN SEGUNDA. JEFATURA DE SERVICIOS ADMINISTRATIVOS Y FINANZAS
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2797,7 +2873,7 @@ XL. Dar seguimiento a la atención de siniestros, para la integración de expedi
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
-#### SECCIÓN CUARTA. DEPARTAMENTO DE ACCIÓN COMUNITARIA
+#### SECCIÓN TERCERA. JEFATURA DE SERVICIOS JURÍDICOS
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2847,7 +2923,7 @@ XVIII. Realizar la investigación correspondiente a fin de instrumentar las acta
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
-#### SECCIÓN QUINTA. DEPARTAMENTO DE PLANEACIÓN ESTRATÉGICA
+#### SECCIÓN CUARTA. DEPARTAMENTO DE ACCIÓN COMUNITARIA
 
 > <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2880,6 +2956,10 @@ XI. Implementar las acciones en materia de atención a expresiones ciudadanas po
 XII. Aplicar e informar los resultados de la metodología de supervisión-evaluación-asesoría del componente comunitario.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
+
+#### SECCIÓN QUINTA. DEPARTAMENTO DE PLANEACIÓN ESTRATÉGICA
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 76.
 
@@ -2994,3 +3074,11 @@ SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de
 TERCERO. Las atribuciones conferidas a la persona titular del Hospital Regional de Alta Especialidad “Ciudad Salud” en Tapachula, serán realizadas por la persona encargada de la Dirección del mismo, en tanto sea aprobada la estructura orgánica básica de dicho establecimiento de salud por parte de la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública.
 
 CUARTO. El Hospital Regional de Alta Especialidad “Ciudad Salud” en Tapachula, podrá llevar a cabo directamente las gestiones administrativas necesarias ante las unidades y coordinaciones de IMSS-BIENESTAR, de conformidad a lo Establecido en este Estatuto Orgánico para dar continuidad al funcionamiento del mismo.
+
+D.O.F. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)".]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
