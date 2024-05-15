@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2024-04-10"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -651,9 +651,9 @@ LIV. Fomentar el uso responsable y seguro de las tecnologías de la información
 
 LV. Emitir, actualizar, ejecutar y evaluar un Marco Local de Convivencia Escolar de Chihuahua aplicable a todas las escuelas públicas y particulares del nivel básico, que contenga las orientaciones para la elaboración de los Acuerdos Escolares de Convivencia.
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
 
-LVI. Generar, sostener y evaluar políticas públicas tendientes a evitar el acoso escolar o "bullying", en los términos del Marco Local de Convivencia Escolar, de las leyes o acuerdos nacionales aplicables, de tratados internacionales relativos y válidos en nuestro país, y de los protocolos de actuación que para tales efectos se expidan y sean aplicados por las instancias administrativas especializadas y competentes.
+LVI. Generar, sostener y evaluar políticas públicas tendientes a evitar el acoso escolar o "bullying", y el hostigamiento o acoso sexual, en los términos del Marco Local de Convivencia Escolar, de las leyes o acuerdos nacionales aplicables, de tratados internacionales relativos y válidos en nuestro país, y de los protocolos de actuación que para tales efectos se expidan y sean aplicados por las instancias administrativas especializadas y competentes.
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
@@ -4666,3 +4666,11 @@ Las autoridades competentes de la Administración Pública Estatal, deberán rea
 ###### ARTÍCULO QUINTO.
 
 La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones y demás recursos financieros en los presupuestos anuales de egresos, a fin de cumplir con la Ley contenida en el Artículo Primero del presente Decreto.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLYC/0844/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
