@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2020-12-23"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MOR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -1069,7 +1069,7 @@ Las víctimas tienen derecho a ser reparadas de manera oportuna, plena, diferenc
 
 La determinación de medidas obedecerá al desarrollo del enfoque diferencial y propender por la reconstrucción del proyecto de vida de la víctima y su entorno familiar con enfoque transformador.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
 
 ###### Artículo 72.
 
@@ -1079,11 +1079,21 @@ I. La restitución que busque devolver a la víctima a la situación anterior a 
 
 II. La rehabilitación que facilite a la víctima hacer frente a los efectos sufridos por causa del hecho punible o de las violaciones de derechos humanos;
 
-II (SIC). La compensación que se otorgue a la víctima de forma apropiada y proporcional a la gravedad del hecho punible cometido o de la violación de derechos humanos sufrida y teniendo en cuenta las circunstancias de cada caso. Ésta se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia del delito o de la violación de derechos humanos;
+III. La compensación que se otorgue a la víctima de forma apropiada y proporcional a la gravedad del hecho punible cometido o de la violación de derechos humanos sufrida y teniendo en cuenta las circunstancias de cada caso. Ésta se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia del delito o de la violación de derechos humanos;
 
-IV. La satisfacción que reconozca y restablezca la dignidad de las víctimas, y
+IV. La satisfacción que reconozca y restablezca la dignidad de las víctimas;
 
-V. Las medidas de no repetición que persigan la no reiteración del hecho punible o la violación de derechos sufrida por la víctima.
+V. Las medidas de no repetición que persigan la no reiteración del hecho punible o la violación de derechos sufrida por la víctima;
+
+VI. La declaración que restablezca la dignidad y la reputación de la víctima u ofendido y de las personas vinculadas a ella, a través de los medios que solicite, y
+
+VII. La disculpa pública de reconocimiento de hechos y aceptación de responsabilidad, cuando en el delito participe un servidor público o agente de autoridad, lo anterior con independencia de otras responsabilidades en que incurra el Estado por la omisión de cumplimiento en la presente Ley.
+
+Cuando una persona sea declarada penalmente responsable de la comisión del delito de feminicidio, el órgano jurisdiccional de conocimiento deberá condenarla al pago de la reparación integral del daño, a favor de la víctima u ofendidos, en todos los casos.
+
+Cuando sean servidores o agentes estatales los que actúen a título oficial y cometan cualquiera de los delitos materia de esta Ley, las víctimas serán resarcidas por el Estado, conforme a la legislación en materia de responsabilidad patrimonial estatal.
+
+Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo, y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
 Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo al Fondo de la Comisión Ejecutiva Federal o al Fondo, según corresponda, en los términos previstos en la Ley General y esta Ley.
 
@@ -3076,3 +3086,13 @@ P.O. 23 DE DICIEMBRE DE 2020.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 15 DE MAYO DE 2024.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚMERO MIL OCHOCIENTOS SETENTA Y UNO.- POR EL CUAL SE REFORMA INTEGRALMENTE EL ARTÍCULO 72 DE LA LEY DE VICTIMAS DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
