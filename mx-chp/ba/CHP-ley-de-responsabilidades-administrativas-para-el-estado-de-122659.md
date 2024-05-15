@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-responsabilidades-administrativas-para-el-estado-de-1226
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-12"
-last_updated: "2020-08-19"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 12 de julio de 2017.
 
@@ -339,9 +339,13 @@ La información relacionada con las declaraciones de situación patrimonial y de
 
 Las declaraciones patrimoniales y de intereses serán públicas salvo los rubros cuya publicidad pueda afectar la vida privada o los datos personales protegidos por la Constitución, la Constitución Local y la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas. Para tal efecto, el Comité Coordinador, a propuesta del Consejo de Participación Ciudadana, emitirá los formatos respectivos, garantizando que los rubros que pudieran afectar los derechos aludidos queden en resguardo de las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 30.
 
-La Secretaría y los Órganos Internos de Control, según sea el caso, podrán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los Servidores Públicos. De no existir ninguna anomalía, expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
+La Secretaría, los Órganos Internos de Control y el Centro Estatal de Control de Confianza Certificado, en el ámbito de sus respectivas competencias, podrán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los Servidores Públicos.
+
+De no existir ninguna anomalía, expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
 
 ###### Artículo 31.
 
@@ -405,9 +409,11 @@ En la declaración inicial y de conclusión del encargo, se manifestarán los bi
 
 En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
 ###### Artículo 36.
 
-La Secretaría y los Órganos Internos de Control, estarán facultados para llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los Declarantes.
+La Secretaría, los Órganos Internos de Control y el Centro Estatal de Control de Confianza Certificado, en el ámbito de sus respectivas competencias estarán facultados para llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los Declarantes.
 
 ###### Artículo 37.
 
@@ -421,7 +427,9 @@ Las actividades de vinculación a las que hace referencia el párrafo anterior, 
 
 Los Declarantes estarán obligados a proporcionar a la Secretaría, al Centro Estatal de Control de Confianza Certificado y a los Órganos Internos de Control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
 
-Sólo el titular de la Secretaría o los Servidores Públicos en quien deleguen esta facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, bienes inmuebles, muebles o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2024)</small>
+
+La Secretaría, los Órganos Internos de Control y el Centro Estatal de Control de Confianza Certificado, en el ámbito de sus respectivas competencias, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, bienes inmuebles, muebles o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
 
 ###### Artículo 39.
 
@@ -2174,3 +2182,11 @@ P.O. 19 DE AGOSTO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 321 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
