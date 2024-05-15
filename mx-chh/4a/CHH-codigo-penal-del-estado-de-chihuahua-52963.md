@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2024-03-06"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1800,6 +1800,10 @@ XI. Cuando la víctima se encuentre en estado de indefensión.
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
 
 XII. Exista en favor de la víctima, una orden o medida de protección impuesta al activo.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+
+XIII. Si fuere cometido mediante el uso de ácido o sustancia corrosiva.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2020)</small>
 
@@ -5910,6 +5914,14 @@ El presente Decreto entrará en vigor al día siguiente de (sic) publicación en
 P.O. 6 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0797/2023 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 211, LA FRACCIÓN XV, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLYC/0844/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY ESTATAL DE EDUCACIÓN”.]
 
 ###### ARTÍCULO ÚNICO.
 
