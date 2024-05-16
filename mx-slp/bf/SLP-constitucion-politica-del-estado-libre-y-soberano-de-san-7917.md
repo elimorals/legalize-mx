@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2024-03-12"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -323,11 +323,17 @@ El Estado promoverá el bienestar social, así como la vivienda digna y decorosa
 
 Las leyes regularán y organizarán el patrimonio de la familia, determinando los bienes que deben constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni a gravamen alguno.
 
-El Estado reconoce como un Derecho Humano el acceso al agua en condiciones de igualdad social, debiendo garantizar su suficiencia, salubridad, aceptabilidad, accesibilidad y asequibilidad.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+El Estado reconoce como un Derecho Humano el acceso al agua en condiciones de igualdad social.
 
-El Estado garantizará el acceso y disfrute al mínimo vital de agua potable, por lo que bajo ninguna circunstancia podrá restringirse de manera total el servicio de agua potable para uso doméstico.
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2024)</small>
+
+El agua es un bien del dominio público, inalienable, inembargable, irrenunciable e imprescriptible. Su aprovechamiento y transmisión a los particulares estará regulado y limitado de forma tal que en su uso, explotación o aprovechamiento se respete el equilibrio ecológico y no se ponga en peligro a la sociedad en general. Las autoridades estatales y municipales tienen la obligación de proveer de forma continua agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2024)</small>
+
+El Estado deberá asegurar el acceso y disfrute al mínimo vital de agua potable, por lo que bajo ninguna circunstancia podrá restringirse de manera total el servicio de agua potable para uso doméstico, debiendo garantizar los recursos hídricos necesarios para evitar el hambre y las enfermedades.
 
 El Estado Libre y Soberano de San Luis Potosí, no solo reconoce su obligación de garantizar el derecho a la salud, a la alimentación suficiente y de calidad, a la vivienda digna y decorosa, a la protección del patrimonio familiar, el acceso al agua, sino también la de garantizar a través de programas sociales establecidos en la ley, el acceso gratuito de estudiantes al transporte público, atención médica gratuita a la población, y la entrega de apoyos económicos, alimentarios, pensiones, y subsidios a personas en condición de pobreza.
 
@@ -387,11 +393,13 @@ No es punible la muerte dada al producto de la concepción, cuando sea consecuen
 
 ### CAPÍTULO I. De los Sistemas de Protección de Derechos
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 17.
 
-El Congreso del Estado expedirá las leyes a las que deban ajustarse los servidores públicos y las autoridades, para facilitar el acceso al ejercicio de los derechos de sus ciudadanos; esos ordenamientos deberán atender:
+El Congreso del Estado expedirá las leyes a las que deban ajustarse las y los servidores públicos, así como las autoridades, para garantizar el acceso a la justicia y al ejercicio de los derechos de la ciudadanía; esos ordenamientos deberán atender:
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
 
 I. El sistema de protección no jurisdiccional de derechos humanos. El que corresponde a la Comisión Estatal de Derechos Humanos, que es un organismo público, de participación ciudadana y de servicio gratuito; dotado de plena autonomía presupuestal, técnica y de gestión; que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos.
 
@@ -399,15 +407,21 @@ La Comisión será la encargada de conocer de las peticiones, quejas y denuncias
 
 La ley determinará la organización, integración y atribuciones de la Comisión;
 
-II. El sistema penal acusatorio y oral. En el Estado de San Luis Potosí se garantiza la tutela integral en el acceso a la justicia y la protección a las víctimas, ofendidos, testigos y, en general, de todos los sujetos que intervengan en el proceso.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2024)</small>
+
+II. En San Luis Potosí la función jurisdiccional se rige por los principios de legalidad, honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas.
+
+El Poder Judicial del Estado, el Tribunal Electoral del Estado, el Tribunal Estatal de Justicia Administrativa, el Tribunal Estatal de Conciliación y Arbitraje, implementarán el sistema de justicia en línea, mediante el uso de tecnologías de información y la comunicación a efecto de tramitar los juicios y todas sus instancias en línea.
+
+Las leyes de la materia establecerán las diligencias y procesos que por su naturaleza deban ser presenciales, para garantizar una adecuada impartición de justicia.
+
+El sistema penal acusatorio y oral en el Estado, garantiza la tutela integral en el acceso a la justicia y la protección a las víctimas, ofendidos, testigos y, en general, de todos los sujetos que intervengan en el proceso.
 
 Para cumplimentar estos fines y derechos en beneficio de los habitantes del Estado, el proceso penal será acusatorio y oral, con la misma configuración de principios, reglas, garantías y derechos a favor del imputado, la víctima o el ofendido, asumidos por la Constitución Política de los Estados Unidos Mexicanos y que en lo concerniente el Estado adopta como propios.
 
-La ley establecerá las bases para fijar el lugar y establecimientos donde los sentenciados deban compurgar la pena de prisión impuesta por los jueces y tribunales.
+La ley establecerá las bases para fijar el lugar y establecimientos donde las personas sentenciadas deban compurgar la pena de prisión impuesta por la autoridad jurisdiccional.
 
-Los jueces de ejecución de sentencias controlarán y vigilarán la legalidad y respeto a los derechos del sentenciado.
-
-Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño, y establecerán los casos en los que se requerirá supervisión judicial, y
+Las y los jueces de ejecución de sentencias controlarán y vigilarán la legalidad y respeto a los derechos de la persona sentenciada. Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño, y establecerán los casos en los que se requerirá supervisión judicial, y
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -3726,3 +3740,23 @@ P.O. 12 DE MARZO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE REFORMA EL ARTÍCULO 12 EN SUS PÁRRAFOS OCTAVO Y ACTUAL NOVENO; Y ADICIONA AL MISMO ARTÍCULO 12 UN PÁRRAFO ÉSTE COMO NOVENO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 16, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1046.- SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El sistema de justicia en línea se implementará en los tribunales del Estado de forma gradual, sin que se exceda el término del uno de diciembre de dos mil veintiséis.
+
+TERCERO. Los procedimientos que se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
