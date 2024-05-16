@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-95203
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2024-02-21"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2013-05-23"
 
 [NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2. [N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-de-conciliacion-yarbitraje?idiom=es.]
+[NOTA 2. [N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA: https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-deconciliacion-y-arbitraje-abril-2024?idiom=es.]
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MAYO DE 2024 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de julio de 2013.
 
@@ -55,7 +57,7 @@ I Bis. Fondo: El Fondo para la Mejora de la Justicia Cotidiana Laboral Federal;
 
 II. Junta: La Junta Federal de Conciliación y Arbitraje;
 
-III. Juntas Especiales: Las Juntas Especiales de la Federal de Conciliación y Arbitraje;
+III. Juntas Especiales: Las Juntas Especiales de la Federal de Conciliación y Arbitraje.
 
 IV. Ley: La Ley Federal del Trabajo;
 
@@ -67,7 +69,7 @@ VII. Presidentas o Presidentes de Junta Especial: Las Presidentas o los Presiden
 
 VIII. Secretaría: La Secretaría del Trabajo y Previsión Social.
 
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### Artículo 4.
 
@@ -92,6 +94,8 @@ Presidentas o Presidentes de Junta Especial
 Secretaría Auxiliar de Emplazamientos a Huelga y Asuntos Colectivos
 
 Secretaría Auxiliar de Peritajes y Diligencias
+
+Secretaría Auxiliar de Apoyo y Control Procesal en Asuntos Individuales
 
 Secretaría Auxiliar de Asesoría Jurídica e Información Técnica
 
@@ -121,7 +125,7 @@ Actuarias o Actuarios
 
 Las servidoras o servidores públicos que integran el personal jurídico y administrativo de la Junta, contarán con las facultades de decisión, dirección, vigilancia y supervisión inherentes a su cargo, como lo establece la Ley y el presente Reglamento Interior.
 
-Asimismo, para el adecuado cumplimiento de sus funciones contará con el demás personal necesario de acuerdo con el presupuesto asignado y, para mejorar la justicia cotidiana laboral, contará con el Fondo.
+Asimismo, para el adecuado cumplimiento de sus funciones contará con el demás personal necesario de acuerdo con el presupuesto asignado.
 
 ###### Artículo 5.
 
@@ -849,6 +853,50 @@ XVIII. Integrar y mantener actualizado el archivo de expedientes de las o los pe
 
 XIX. Vigilar que se respete la confidencialidad de la información personal contenida en los expedientes integrados con motivo de los servicios periciales designados por la Junta, conforme a lo previsto en la Ley de la materia.
 
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
+De la Secretaría Auxiliar de Apoyo y Control Procesal en Asuntos Individuales
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+Corresponde a la Secretaría Auxiliar de Apoyo y Control Procesal en Asuntos Individuales:
+
+I. Apoyar a la Secretaría General de Conciliación y Asuntos Individuales en la coordinación y evaluación de los asuntos individuales que se tramitan ante las Juntas Especiales, proponer estrategias para el cumplimiento de metas y objetivos de las Juntas Especiales;
+
+II. Dar seguimiento a las estrategias y acciones establecidas en las Juntas Especiales;
+
+III. Apoyar a la Secretaría General de Conciliación y Asuntos Individuales en la coordinación y supervisión de los avances en las Juntas Especiales en el trámite de los juicios en las etapas de instrucción, dictamen, laudo, ejecución y amparo;
+
+IV. Comunicar a la Secretaría General de Conciliación y Asuntos Individuales y a las instancias correspondientes respecto de las irregularidades que observe en las visitas de verificación y control a las Juntas Especiales y proponer las medidas necesarias para atender las mismas con el fin de mejorar el servicio de impartición de justicia laboral;
+
+V. Aprobar el diagnóstico que se presente a la Secretaría General de Conciliación y Asuntos Individuales, respecto del análisis que se haga a la información estadística sobre el cumplimiento de objetivos y metas de las y los Presidentes de Juntas Especiales, para proponer estrategias y acciones para eficientar el servicio de impartición de justicia laboral;
+
+VI. Planear y programar, en coordinación con la Secretaría General de Conciliación y Asuntos Individuales y la Coordinación General de Administración, visitas de verificación y control a Juntas Especiales y verificar el cumplimiento de metas y la oportunidad de los servicios de conciliación y arbitraje;
+
+VII. Coordinar la participación de la Secretaría en la ejecución de las medidas que se establezcan, para brindar apoyo en la tramitación de los asuntos individuales en las Juntas Especiales;
+
+VIII. Supervisar visitas de apoyo técnico y orientación, para la utilización de las aplicaciones informáticas desarrolladas para la atención de los asuntos individuales en las Juntas Especiales;
+
+IX. Coordinar la tramitación de las excusas y denuncias de impedimento de las y los representantes ante las Juntas Especiales, para agilizar el procedimiento, a fin de que se integren legalmente las Juntas Especiales y puedan funcionar;
+
+X. Verificar que las notificaciones que solicite la Secretaría de las actuaciones relativas a renuncias y designaciones de las y los representantes de las y los trabajadores y patrones, así como del jurado de responsabilidades para agilizar los procedimientos, a fin de que queden integradas las Juntas Especiales; y las diligencias de notificación al personal jurídico y administrativo de la Junta, que solicite en apoyo la Secretaría;
+
+XI. Coordinar a las y los Presidentes de Juntas Especiales el apoyo técnico, jurídico y administrativo, para la realización de las reuniones generales de las y los Presidentes de las Juntas Especiales que las conforman, para atender y determinar criterios jurídicos y administrativos;
+
+XII. Proporcionar información a la Secretaría General de Conciliación y Asuntos Individuales, para apoyar en la organización de la Reunión Nacional de Presidentes de Juntas Especiales, en las que se determinarán estrategias a realizar, para cumplir con los objetivos y metas de la Junta Federal de Conciliación y Arbitraje;
+
+XIII. Supervisar la participación de la Secretaría Auxiliar en la elaboración de los proyectos de dictamen de evaluación del desempeño de las y los Presidentes de las Juntas Especiales y someterlos a consideración de la Secretaria y/o Secretario General de Conciliación y Asuntos Individuales, para determiner (sic) y prevenir deficiencias en las actividades jurídicas y administrativas de los órganos impartidores de justicia laboral.
+
+XIV. Verificar la evaluación de las solicitudes de recursos humanos, materiales y tecnológicos de las Juntas Especiales para eficientar el servicio que coadyuve a agilizar el trámite de los juicios en beneficio de las y los usuarios y, en su caso, encauzar la atención;
+
+XV. Coordinar y supervisor (sic) a las y los Actuarios que realicen notificaciones y diligencias en apoyo a las Juntas Especiales. Cuidar el órden y disciplina en el área respectiva, y dar cuenta a la Secretaría General de las irregularidades que se presenten y propuestas de solución;
+
+XVI. Supervisar a las y los Auxiliaries (sic) Dictaminadores y personal de apoyo en el área de Dictamen que cumplan con sus funciones, así como cuidar el orden y la disciplina en el área, y dar cuenta a la Secretaría General de las irregularidades que se presenten y propuestas de solución, y
+
+XVII. Supervisar la Oficialía de Partes Común en Asuntos Individuales en su funcionamiento, en la atención a usuarios y a las Juntas Especiales, y dar cuenta a la Secretaría General de las irregularidades que se presenten y propuestas de solución.
+
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
 
 ###### Artículo 29.
@@ -1451,7 +1499,9 @@ XIX. Presentar a la Presidenta o Presidente de la Junta, de manera mensual, un i
 
 XIX bis. Integrar el Comité Técnico del Fondo;
 
-XX. Instruir los recursos de inconformidad que interpongan los quejosos y/o denunciantes en contra de la calificación de los hechos como faltas administrativas no graves y las abstenciones emitidas por la autoridad investigadora y someterlos a la resolución de la sala especializada en materia de responsabilidades administrativas que corresponda, en los plazos previstos por la Ley de la materia;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+XX. Instruir los recursos de inconformidad que interpongan los quejosos y/o denunciantes en contra de la calificación de los hechos como faltas administrativas no graves y las abstenciones emitidas por la autoridad investigadora y someterlos a la resolución de la sala especializada en materia de responsabilidades administrativas que corresponda, en los plazos previstos por la Ley de la materia; y
 
 XXI. Las demás que le señale el Pleno, otras disposiciones legales y que correspondan al ámbito de su competencia.
 
@@ -1541,11 +1591,9 @@ XIV. Las demás que le señale el Titular de la Unidad y otras disposiciones leg
 
 La ausencia del Titular de la Unidad de Quejas, Denuncias y Responsabilidades será suplida por el Subdirector de Responsabilidades Administrativas y/o por el Jefe de Departamento de Denuncias y/o del Departamento de Investigaciones de acuerdo a la competencia del asunto de que se trate, y las ausencias de éstos serán suplidas por el servidor público inmediato inferior que resulte competente.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/559241/Reglamento_Interior__JFCA_2020.pdf Y www.dof.gob.mx/2020/STPS/ReglamentoInterior_JFCA_04122020.pdf.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE DICIEMBRE DE 2020)</small>
-
-### CAPÍTULO XVIII. Del fondo para la Mejora de la Justicia Cotidiana Laboral Federal
+### CAPÍTULO XVIII. Del Fondo para la Mejora de la Justicia Cotidiana Laboral Federal
 
 ###### Artículo 54.
 
@@ -1714,5 +1762,23 @@ TERCERO. Se deja sin efectos el AVISO General mediante el cual se da a conocer l
 Primero. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. - Se abroga el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje publicado en el Diario Oficial de la Federación el día veintiuno de diciembre de dos mil veinte; y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Tercero. - Las áreas de la Junta con denominación nueva a la que aparece en el Reglamento que se abroga o con competencia en asuntos que correspondían a otras áreas o unidades, se harán cargo de los mismos a partir de la entrada en vigor del presente Reglamento y hasta su total resolución.
+
+D.O.F. 16 DE MAYO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO GENERAL MEDIANTE EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA EN LA CUAL PODRÁ SER CONSULTADO EL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+PRIMERO. Se da a conocer a la población en general la dirección electrónica https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-deconciliacion-y-arbitraje-abril2024?idiom=es a la cual se podrá acceder para consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje vigente, el cual contiene las reformas y adiciones realizadas al mismo, que fueron aprobadas el 7 de marzo de 2024, por el Pleno de la Junta Federal de Conciliación y Arbitraje.
+
+SEGUNDO. Publíquese el presente Aviso en el Diario Oficial de la Federación.
+
+TERCERO. Se deja sin efectos el AVISO General mediante el cual se da a conocer la dirección electrónica en la cual podrá ser consultado el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje de fecha 21 de febrero de 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE".]
+
+Primero. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. - Se abroga el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje publicado en el Diario Oficial de la Federación el día veintiuno de febrero de dos mil veinticuatro; y se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Tercero. - Las áreas de la Junta con denominación nueva a la que aparece en el Reglamento que se abroga o con competencia en asuntos que correspondían a otras áreas o unidades, se harán cargo de los mismos a partir de la entrada en vigor del presente Reglamento y hasta su total resolución.
