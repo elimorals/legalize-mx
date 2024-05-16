@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2024-04-19"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -578,6 +578,18 @@ VII. El uso doméstico tendrá preferencia en relación con cualesquier otro uso
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 VIII. El suministro de agua y saneamiento que realicen los prestadores de este servicio, se sujetará al derecho humano de acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible previsto en el párrafo sexto del artículo 4°, de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO CON SUS INCISOS], P.O. 16 DE MAYO DE 2024)</small>
+
+Los factores que se aplican para el adecuado ejercicio del derecho al agua son:
+
+a) Suficiente: el abastecimiento de agua de cada persona debe ser continuo y suficiente para los usos personales y domésticos. Esos usos comprenden normalmente el consumo, el saneamiento, la preparación de alimentos y la higiene personal y doméstica.
+
+b) Salubre: el agua necesaria para cada uso personal o doméstico debe ser salubre, y por lo tanto, no ha de contener sustancias que puedan constituir una amenaza para la salud de las personas.
+
+c) Aceptable: el agua debería tener un color, un olor y un sabor aceptables para cada uso personal o doméstico.
+
+d) Asequible: el agua y las instalaciones y servicios de agua deben ser accesibles a todos, sin discriminación alguna;
 
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
@@ -3844,3 +3856,11 @@ P.O. 19 DE ABRIL DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE REFORMA EL ARTÍCULO 12 EN SUS PÁRRAFOS OCTAVO Y ACTUAL NOVENO; Y ADICIONA AL MISMO ARTÍCULO 12 UN PÁRRAFO ÉSTE COMO NOVENO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 16, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
