@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2023-11-24"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MAYO DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -512,7 +512,9 @@ E. Derecho a la vivienda
 
 1. Toda persona tiene derecho a una vivienda adecuada para sí y su familia, adaptada a sus necesidades.
 
-2. Las autoridades tomarán medidas para que las viviendas reúnan condiciones de accesibilidad, asequibilidad, habitabilidad, adaptación cultural, tamaño suficiente, diseño y ubicación seguros que cuenten con infraestructura y servicios básicos de agua potable, saneamiento, energía y servicios de protección civil.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+
+2. Las autoridades tomarán medidas para que las viviendas reúnan condiciones de accesibilidad, asequibilidad, habitabilidad, adaptación cultural, tamaño suficiente, diseño y ubicación seguros que cuenten con infraestructura y servicios básicos, conexión a la red de agua potable, captadores de agua pluvial y sistemas que permitan su reúso y saneamiento, energía y servicios de protección civil.
 
 3. Se impulsarán planes accesibles de financiamiento, medidas para asegurar gastos soportables y la seguridad jurídica en la tenencia de la vivienda.
 
@@ -522,9 +524,37 @@ F. Derecho al agua y a su saneamiento
 
 1. Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua.
 
-2. La Ciudad garantizará la cobertura universal del agua, su acceso diario, continuo, equitativo y sustentable. Se incentivará la captación del agua pluvial.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+
+2. La Ciudad garantizará la cobertura universal del agua, su acceso diario, continuo, equitativo y sustentable, aplicando los recursos administrativos, financieros y tecnológicos disponibles, conforme las siguientes bases:
+
+a) Una política de uso y aprovechamiento del agua pluvial, consistente en la implementación y promoción de un sistema amplio de captación de agua de lluvia, priorizando aquellas zonas que no cuenten con infraestructura que les permita acceder a la red hidráulica de la Ciudad, aquellas en donde se presenten condiciones de marginación económica y pobreza urbana, así como centros educativos;
+
+b) La obligación de contar con mecanismos de captación, tratamiento, disposición y uso de aguas servidas;
+
+c) Instrumentos que regulen el uso de sistemas para infiltración de agua al manto freático;
+
+d) La implementación de programas que contribuyan a fortalecer la conciencia pública y la cultura sobre el ahorro y uso sustentable del agua y la reducción de la contaminación mediante la disminución del uso de productos químicos y materiales altamente contaminantes;
+
+Una cultura que considere a los recursos hídricos como finitos, vulnerables y valorables y que incluya las habilidades técnicas para su uso, el conocimiento de los múltiples beneficios y servicios ambientales que prestan a los ecosistemas y el ambiente;
+
+e) El desarrollo de estudios sobre las cuencas hidrográficas, el diseño de materiales y nuevas tecnologías para la gestión integral del agua, la minimización de la huella hídrica, la formulación de estrategias para la reducción de la demanda de agua, el mejor aprovechamiento de las mismas y la planeación urbana con un enfoque de sustentabilidad;
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2024)</small>
+
+f) Se incentivará la captación de agua pluvial.
 
 3. El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida. La gestión del agua será pública y sin fines de lucro.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2024)</small>
+
+4. Al integrar su infraestructura, la obra pública ponderará el uso de materiales y diseños en calles y avenidas que permitan la infiltración para la reducción de inundaciones y la recarga de mantos friáticos y/o acuíferos donde sea factible.
+
+En los casos y sitios que sean posible, como zanjas de infiltración, jardines de lluvia, materiales permeables, entre otros.
+
+Se deberá transformar paulatinamente el diseño de la red de infraestructura hidráulica bajo una política de observancia progresiva, que permita que la ciudad abastezca a las viviendas de líneas de agua tratada y agua potable para diferenciar los usos en el hogar y que las lógicas de tratamiento de las aguas servidas obedezcan al enfoque de agua por diseño.
+
+La infraestructura de tratamiento de las aguas servidas deberá integrar y/o considerar en sus enfoques “soluciones basadas en la naturaleza”.
 
 Artículo 10
 
@@ -1008,7 +1038,9 @@ B. Gestión sustentable del agua
 
 1. Las autoridades de la Ciudad de México garantizarán la disposición y distribución diaria, continua, equitativa, asequible y sustentable del agua, con las características de calidad establecidas en esta Constitución.
 
-2. Se garantizará el saneamiento de aguas residuales, entendido como su recolección, conducción, tratamiento, disposición y reutilización, sin mezclarlas con las de origen pluvial.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+
+2. Se garantizará el saneamiento de aguas residuales, entendido como su recolección, conducción, tratamiento, disposición y reúso obligatorio, sin mezclarlas con las de origen pluvial.
 
 3. La política hídrica garantizará:
 
@@ -1022,17 +1054,31 @@ d) El establecimiento de tarifas diferenciadas y progresivas de acuerdo a su con
 
 e) La reducción de las pérdidas por fugas en las redes de distribución, para lo cual será prioritario invertir en la renovación, mantenimiento y reparación de la infraestructura hidráulica;
 
-f) La promoción de la captación de agua pluvial, el tratamiento y reutilización de aguas para su uso y para revertir la sobreexplotación de los acuíferos;
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
 
-g) La elaboración y aplicación de un plan de infraestructura para el aprovechamiento, tratamiento y preservación del agua, así como para la captación y uso de aguas pluviales y la recuperación de los acuíferos;
+f) Una política pública de captación de agua pluvial, aprovechamiento y tratamiento de aguas grises y residuales, así como la explotación sustentable de acuíferos.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+
+g) La elaboración y aplicación de un plan de infraestructura para el aprovechamiento, tratamiento y preservación del agua, así como para la captación y aprovechamiento de aguas pluviales, grises y residuales y la recuperación de los acuíferos;
 
 h) El acceso gratuito al agua potable para beber en espacios públicos, e
 
-i) El uso de materiales favorables para la captación de agua en la construcción y rehabilitación de espacios públicos, incluyendo obras de pavimentación.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
 
-4. El servicio público de potabilización, distribución, abasto de agua y drenaje será prestado por el Gobierno de la Ciudad a través de un organismo público con personalidad jurídica y patrimonio propio, autonomía técnica y de gestión, coordinará las acciones de las instituciones locales con perspectiva metropolitana y visión de cuenca. Este servicio no podrá ser privatizado.
+i) El uso de materiales favorables en la construcción y rehabilitación de espacios públicos, incluyendo obras de pavimentación para captación y aprovechamiento de agua pluvial, aguas grises y aguas servidas, así como para la prevención de inundaciones y, si es el caso, también para su infiltración.
 
-5. Las actividades económicas no podrán comprometer en ningún caso la satisfacción de las necesidades de uso personal y doméstico del agua. Se promoverá el uso eficiente, responsable y sustentable del agua en las actividades económicas y se regulará el establecimiento de industrias y servicios con alto consumo.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+
+4. El servicio público de potabilización, distribución, abasto de agua y drenaje será prestado por el Gobierno de la Ciudad a través de un organismo público con personalidad jurídica y patrimonio propio, autonomía técnica y de gestión, coordinará las acciones de las instituciones locales con perspectiva innovadora, técnica, científica y metropolitana, así como con visión de cuenca, propiciando minimizar la huella hídrica de la Ciudad. Este servicio de aguas no podrá ser privatizado y deberá contar con un enfoque de gestión basado en datos, para lo cual se deberán crear sistemas de captación de información automatizados en tiempo real, medidores inteligentes y dispositivos de detección de fugas que permitan disminuir paulatinamente las tasas de pérdidas de agua y el incremento del uso eficiente y la disminución per cápita.
+
+Los nuevos desarrollos residenciales y aquellas obras que por su magnitud, particularidades y actividades que desarrollen, deberán estar obligados a contar con mecanismos de captación de agua de lluvia, así como redes internas de doble tubería que permitan su uso no potable.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2024)</small>
+
+5. Las actividades económicas no podrán comprometer en ningún caso la satisfacción de las necesidades de uso personal y domestico del agua. Se promoverá el uso eficiente, responsable y sustentable del agua en las actividades económicas y se regulará el establecimiento de industrias y servicios con alto consumo, quedando obligadas a garantizar un uso eficiente, responsable, sustentable y equitativo del agua mediante la implementación y operación de infraestructura para la captación de agua pluvial y tratamiento de aguas servidas, que cubran su abasto para los servicios que no son considerados de acceso básico vital para la ciudadanía.
+
+Para tal efecto, la autoridad reguladora realizará inspecciones para el debido uso del agua e implementación de sistemas alternativos, a fin de promover el uso sostenible.
 
 6. El gobierno impulsará en todos los niveles educativos, la cultura del uso y cuidado del agua.
 
@@ -4384,7 +4430,7 @@ SEGUNDO. El presente decreto entrará en vigor al momento de su publicación,
 
 G.O. 2 DE JUNIO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR (SIC) QUE SE REFORMA EL NUMERAL 4, APARTADO E DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO (SIC) POR QUE SE REFORMA EL NUMERAL 4, APARTADO E DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
@@ -4447,3 +4493,15 @@ Primero. Remítase a la persona titular de la Jefatura de Gobierno para su publi
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación, con excepción de las disposiciones en materia electoral, las cuales en términos del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor a partir del día siguiente a aquel en que concluya el proceso electoral local ordinario 2023-2024.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL NUMERAL 2 DEL APARTADO E, EL NUMERAL 2 DEL APARTADO F Y SE ADICIONA EL NUMERAL 4 E INCISO F) DEL NUMERAL 2 DEL APARTADO F, TODOS AL ARTÍCULO 9; SE REFORMA EL NUMERAL 2, EL NUMERAL 3 EN SUS INCISOS F), G), E I), Y LOS NUMERALES 4 Y 5 TODOS DEL APARTADO B, DEL ARTÍCULO 16, DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+SEGUNDO.- En un plazo no mayor a 90 días a partir de la entrada en vigor del presente decreto, la Secretaría del Medio Ambiente del Gobierno de la Ciudad de México, coordinará los trabajos de investigación y gestiones necesarias para la implementación de la presente reforma y formulará las propuestas de adecuaciones normativas y programas necesarios para dicho propósito.
+
+TERCERO.- En un plazo no mayor a 180 días, el Congreso de la Ciudad de México deberá expedir las leyes y reformas a la legislación secundaria para la plena aplicación de la reforma.
+
+CUARTO.- Comuníquese el presente Dictamen, a la Presidencia de la Mesa Directiva y a la Coordinación de Servicios Parlamentarios, para los efectos a que se refieren los artículos 103, 104, 105 y 106 del Reglamento del Congreso de la Ciudad de México.
