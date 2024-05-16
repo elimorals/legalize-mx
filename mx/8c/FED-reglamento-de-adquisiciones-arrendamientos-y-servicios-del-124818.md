@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-1248
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-12-14"
-last_updated: "2017-12-14"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124818&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-11-29"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
-[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: http://inicio.inai.org.mx/AcuerdosDelPleno/ACT-PUB-29-11-2017.04.pdf
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/INAI/ACT-PUB-17-04-2024-14.zip]</small>
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2024.
 
 Acuerdo publicado en la Primera Sección al Número 12 del Diario Oficial de la Federación, el jueves 14 de diciembre de 2017.
 
@@ -167,71 +167,93 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Adquisición: las que contiene el artículo tres del presente Reglamento;
 
-II. Área contratante: la Dirección General de Administración del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2024)</small>
 
-III. Área convocante: la Dirección General de Administración del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+II. Anexo Técnico: el documento que contiene la descripción detallada de las características, especificaciones y/o requisitos técnicos de los bienes sujetos de adquisición que cubrirán las necesidades específicas del área requirente, vigencia de la contratación, método de evaluación a realizar, penas convencionales y deductivas que se aplicarán en caso de incumplimiento, forma de pago, entregables, validación de los mismos y fecha límite para su entrega, así como lo relativo a la garantía de cumplimiento. Asimismo, especifica el cumplimiento de Normas Oficiales Mexicanas o, en su caso, Normas Mexicanas, relacionadas con el objeto de la adquisición;
 
-IV. Área requirente: aquélla que solicita formalmente la adquisición, arrendamiento de bienes y prestación de servicios para el cumplimiento de sus funciones;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
 
-V. Área técnica: aquélla que elabora las especificaciones técnicas que se deberán incluir en el procedimiento de contratación; evalúa la propuesta técnica de las proposiciones realizando el Dictamen de Evaluación correspondiente, asimismo es responsable de responder en la junta de aclaraciones, las preguntas que sobre aspectos técnicos realicen los licitantes. El área técnica podrá tener también el carácter de área requirente;
+III. Área contratante: la Dirección General de Administración del Instituto Nacional de Transparencia, Acceso a la información y Protección de Datos Personales;
 
-VI. Arrendamiento: figura jurídica a través de la cual una de las partes, designada como arrendador, se obliga a transferir temporalmente el uso y goce de un bien mueble o inmueble por un período determinado a otra parte que se denominará arrendatario, quien se obliga a pagar un precio cierto en dinero por ese uso y goce temporal;
+IV. Área convocante: la Dirección General de Administración del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-VII. Balines: Bases y Lineamientos en materia de adquisiciones, arrendamientos y servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+V. Área requirente: aquélla que solicita formalmente la adquisición, arrendamiento de bienes y prestación de servicios para el cumplimiento de sus funciones;
 
-VIII. Bienes: los que conforme al Código Civil Federal se consideren bienes muebles;
+VI. Área técnica: aquélla que elabora las especificaciones técnicas que se deberán incluir en el procedimiento de contratación; evalúa la propuesta técnica de las proposiciones realizando el Dictamen de Evaluación correspondiente, asimismo es responsable de responder en la junta de aclaraciones, las preguntas que sobre aspectos técnicos realicen los licitantes. El área técnica podrá tener también el carácter de área requirente;
 
-IX. Comité: el Comité de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+VII. Arrendamiento: figura jurídica a través de la cual una de las partes, designada como arrendador, se obliga a transferir temporalmente el uso y goce de un bien mueble o inmueble por un período determinado a otra parte que se denominará arrendatario, quien se obliga a pagar un precio cierto en dinero por ese uso y goce temporal;
 
-X. CompraNet: el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales en la materia, de las dependencias y entidades; el registro único de proveedores; el padrón de testigos sociales; el registro de proveedores sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los testimonios de los testigos sociales; los datos de los contratos o pedidos, así como los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación;
+VIII. Balines: Bases y Lineamientos en materia de adquisiciones, arrendamientos y servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XI. Conflicto de Interés: La posible afectación del. desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;
+IX. Bienes: los que conforme al Código Civil Federal se consideren bienes muebles;
 
-XII. Contrato o pedido: instrumento jurídico mediante el cual se acuerdan voluntades entre el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y los proveedores, creando o transmitiendo derechos y obligaciones;
+X. Comité: el Comité de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XIII. Convocante: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+XI. CompraNet: el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales en la materia, de las dependencias y entidades; el registro único de proveedores; el padrón de testigos sociales; el registro de proveedores sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los testimonios de los testigos sociales; los datos de los contratos o pedidos, así como los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación;
 
-XIV. DGA: Dirección General de Administración;
+XII. Conflicto de Interés: La posible afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;
 
-XV. DGAJ: Dirección General de Asuntos Jurídicos;
+XIII. Contrato o pedido: instrumento jurídico mediante el cual se acuerdan voluntades entre el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y los proveedores, creando o transmitiendo derechos y obligaciones;
 
-XVI. Garantía: instrumento jurídico a través del cual el proveedor respalda el cumplimiento de las obligaciones contraídas con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y, en su caso, el anticipo que se hubiere otorgado;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
 
-XVII. Instituto: el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XIV. Convocante: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XVIII. Investigación de mercado: verificación previa al inicio del procedimiento de contratación de la existencia de bienes, arrendamientos o servicios y proveedores de éstos, a nivel nacional o internacional, de organismos públicos o privados, de los bienes o prestadores de servicios, o una combinación de dichas fuentes de información; y del precio estimado basado en la información que se obtenga de las fuentes citadas;
+XV. DGA: Dirección General de Administración;
 
-XIX. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Información Pública;
+XVI. DGAJ: Dirección General de Asuntos Jurídicos;
 
-XX. Licitante: persona física o moral que oferta bienes o servicios que participe en cualquier procedimiento de contratación al amparo de este Reglamento;
+XVII. Garantía: instrumento jurídico a través del cual el proveedor respalda el cumplimiento de las obligaciones contraídas con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y, en su caso, el anticipo que se hubiere otorgado;
 
-XXI. MIPYMES: las micro, pequeñas y medianas empresas de nacionalidad mexicana a que hace referencia la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
+XVIII. Instituto: el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XXII. Ofertas subsecuentes de descuentos: modalidad utilizada en las licitaciones públicas en la que los licitantes, al presentar sus proposiciones tienen la posibilidad de que con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
+XIX. Investigación de mercado: verificación previa al inicio del procedimiento de contratación de la existencia de bienes, arrendamientos o servicios y proveedores de éstos, a nivel nacional o internacional, de organismos públicos o privados, de los bienes o prestadores de servicios, o una combinación de dichas fuentes de información; y del precio estimado basado en la información que se obtenga de las fuentes citadas;
 
-XXIII. OIC: Órgano Interno de Control del Instituto.
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2024)</small>
 
-XXIV. Pleno: órgano máximo de dirección y decisión del Instituto.
+XX. Justificación: el documento que contiene la explicación argumentada de las razones que motivan a la realización de un proyecto, buscando responder a las preguntas “¿Por qué?” o “¿Para qué?” y debe contener: 1) Descripción del Proyecto o Servicio, 2) Antecedentes, 3) Situación actual, 4) Objetivo, 5) Alcance, 6) Resultado de la investigación de mercado, 7) Disponibilidad Presupuestal y 8) Procedimiento de contratación propuesto.
 
-XXV. Políticas: Políticas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto.
+La justificación que se define aplica para cualquier contratación de servicios y/o consultoría a excepción de las contrataciones que por las características propias del servicio que se trate, deban estar fundamentadas en alguna de las excepciones contenidas en el artículo 41 del propio Reglamento, en cuyo caso se deberá dar cumplimiento a la justificación establecida en el artículo 40 de dicho ordenamiento y sus correlativos de las Bases y Lineamientos en materia de adquisiciones, arrendamientos y servicios del INAI;
 
-XXVI. Precio no aceptable: aquél que derivado de la investigación de mercado resulte superior en un diez por ciento al ofertado, respecto del que se observa como mediana en dicha investigación o en su defecto, el promedio de las ofertas presentadas en la misma licitación;
+XXI. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Información Pública;
 
-XXVII. Precio conveniente: aquél que se determina a partir de obtener el promedio de los precios preponderantes que resulten de las proposiciones aceptadas técnicamente en la licitación restándole el porcentaje que determine el Instituto en sus políticas, bases y lineamientos;
+XXII. Licitante: persona física o moral que oferta bienes o servicios que participe en cualquier procedimiento de contratación al amparo de este Reglamento;
 
-XXVIII. Presupuesto autorizado: el que la Secretaría de Hacienda y Crédito Público comunica al Instituto, mismo que es aprobado por la Cámara de Diputados;
+XXIII. MIPYMES: las micro, pequeñas y medianas empresas de nacionalidad mexicana a que hace referencia la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-XXIX. Proveedor: persona física o moral a quien se le adjudica la adquisición, arrendamiento de algún bien o la prestación de un servicio y suscribiendo para tal efecto el respectivo contrato y/o pedido con el Instituto;
+XXIV. Ofertas subsecuentes de descuentos: modalidad utilizada en las licitaciones públicas en la que los licitantes, al presentar sus proposiciones tienen la posibilidad de que con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
 
-XXX. PAAAS: Programa Anual de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XXV. OIC: Órgano Interno de Control del Instituto.
 
-XXXI. Reglamento: Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XXVI. Pleno: órgano máximo de dirección y decisión del Instituto.
 
-XXXII. Tratados Internacionales: convenios regidos por el derecho internacional público celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante el cual el Estado Mexicano asume compromisos;
+XXVII. Políticas: Políticas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto.
 
-XXXIII. UMA: Unidad de Medida y Actualización es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en el presente Reglamento.
+XXVIII. Precio no aceptable: aquél que derivado de la investigación de mercado resulte superior en un diez por ciento al ofertado, respecto del que se observa como mediana en dicha investigación o en su defecto, el promedio de las ofertas presentadas en la misma licitación;
 
-XXXIV. Unidad Responsable: área administrativa que es ejecutora de gasto.
+XXIX. Precio conveniente: aquél que se determina a partir de obtener el promedio de los precios preponderantes que resulten de las proposiciones aceptadas técnicamente en la licitación restándole el porcentaje que determine el Instituto en sus políticas, bases y lineamientos;
+
+XXX. Presupuesto autorizado: el que la Secretaría de Hacienda y Crédito Público comunica al Instituto, mismo que es aprobado por la Cámara de Diputados;
+
+XXXI. Proveedor: persona física o moral a quien se le adjudica la adquisición, arrendamiento de algún bien o la prestación de un servicio y suscribiendo para tal efecto el respectivo contrato y/o pedido con el Instituto;
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+XXXII. PAAAS: Programa Anual de Adquisiciones, Arrendamientos y Servicios del instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+XXXIII. Reglamento: Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+XXXIV. Términos de Referencia: documento que se elabora para la contratación de servicios y/o consultorías y en el cual se describen de manera detallada las características que se pretende tenga el servicio a contratar, a través del señalamiento minucioso de las actividades que lo configurarán, las características técnicas de dichas actividades y los procedimientos que se espera utilice el prestador del servicio y que cubra las necesidades específicas del área requirente, debiendo contener antecedentes, justificación, objetivos, alcance, vigencia, Método de evaluación, experiencia y especialidad del personal, penas convencionales y deductivas, forma de pago, entregables, validación de los mismos y fecha límite para su entrega, garantía de cumplimiento, así como cumplimiento de normas oficiales mexicanas o, en su caso, normas mexicanas, relacionadas con el objeto de la contratación.
+
+XXXV. Tratados Internacionales: convenios regidos por el derecho internacional público celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante el cual el Estado Mexicano asume compromisos;
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+XXXVI. UMA: Unidad de Medida y Actualización es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuesto (sic) previstos en el presente Reglamento; y
+
+XXXVII. Unidad Responsable: área administrativa que es ejecutora de gasto.
 
 ###### Artículo 3.
 
@@ -485,7 +507,13 @@ En las adquisiciones de papel para uso de oficina, éste deberá contener un mí
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los licitantes, para lo cual el Instituto a través de la DGA proporcionará a todos igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 16 DE MAYO DE 2024)</small>
+
 Previo al inicio de los procedimientos de contratación previstos, las áreas requirentes deberán realizar una investigación de mercado de la cual se desprendan las condiciones que imperan en el mismo, respecto de la adquisición, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
+Para el caso específico de las adjudicaciones directas, la investigación de mercado tendrá como propósito lo establecido en el Capítulo VI, numeral 2, lineamientos, tercer párrafo, de las Bases y Lineamientos en materia de adquisiciones, arrendamientos y servicios del INAI.
 
 Las condiciones contenidas en la convocatoria a la licitación e invitación a cuando menos tres personas y las proposiciones presentadas por los licitantes no podrán ser negociadas.
 
@@ -777,7 +805,9 @@ La DGA procederá a declarar desierta una licitación, cuando la totalidad de la
 
 En los casos en que no existan proveedores nacionales, en las Balines podrá establecerse un porcentaje menor al utilizado para determinar el precio no aceptable, sin que el mismo pueda ser inferior al cinco por ciento. Los resultados de la investigación y del cálculo para determinar la inaceptabilidad del precio ofertado se incluirán en el fallo a que alude el artículo 38 de este Reglamento.
 
-Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, el Instituto podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el artículo 41 fracción V de este Reglamento. Cuando los requisitos o el carácter sean modificados con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
+Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, el Instituto podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el artículo 41 fracción V de este Reglamento, en cuyo caso podrá aplicar lo establecido en el Capítulo VI, numeral 2, , (sic) lineamientos, tercer párrafo, fracción VIII, de las Bases y Lineamientos en materia de adquisiciones, arrendamientos y servicios del INAI para el procedimiento de adjudicación directa. Cuando los requisitos o el carácter sean modificados con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
 
 La DGA, a solicitud escrita del área requirente, podrá cancelar una licitación, partidas o conceptos incluidos en éstas, cuando se presente caso fortuito; fuerza mayor; existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio al propio Instituto. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá estar debidamente firmada por el Titular del área requirente, y precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes, y no será procedente contra ella recurso alguno, sin embargo, podrán interponer la inconformidad en términos del Título Séptimo Capítulo Primero de este Reglamento.
 
@@ -841,6 +871,8 @@ La dictaminación de la procedencia de la contratación y de que ésta se ubica 
 
 Las contrataciones a que se refiere este artículo, se realizarán preferentemente a través de procedimientos de invitación a cuando menos tres personas, en los casos previstos en sus fracciones VI y X.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 16 DE MAYO DE 2024)</small>
+
 ###### Artículo 42.
 
 La DGA a petición por escrito del área requirente, podrá contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los de invitación a cuando menos tres personas o de adjudicación directa, cuando el importe de cada operación no exceda los montos máximos que al efecto se establecerán en el Presupuesto de Egresos de la Federación, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
@@ -853,7 +885,9 @@ La suma de las operaciones que se realicen al amparo de este artículo no podrá
 
 Para asegurar el cumplimiento de este porcentaje, las áreas requirentes preferentemente elegirán que sus procedimientos de contratación sean realizados a través de licitación pública.
 
-En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular de la DGA podrá adjudicar directamente el contrato o pedido, previa solicitud por escrito del Titular del área requirente.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular de la DGA podrá adjudicar directamente el contrato o pedido, previa solicitud por escrito del Titular del área requirente, siempre que no se modifiquen los requisitos establecidos en la invitación original, siendo aplicable, lo establecido en el Capítulo VI, numeral 2, lineamientos, tercer párrafo, fracción VIII, de las Bases y Lineamientos en materia de adquisiciones, arrendamientos y servicios del INAI para el procedimiento de adjudicación directa.
 
 En la adquisición, arrendamiento de bienes o contratación de servicios, cuyo monto sea inferior a quinientas veces el valor diario de la UMA, se podrá prescindir de cotizaciones, presentando únicamente el documento comprobatorio del gasto para sustentar la adjudicación directa.
 
@@ -1518,3 +1552,33 @@ y vigente a la fecha.
 QUINTO.- Los contratos o pedidos celebrados antes de la entrada en vigor del presente Reglamento, continuarán regulándose hasta su terminación por las disposiciones del Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Información y Protección de Datos y demás normatividad aplicable y vigente a la fecha a la fecha del inicio del trámite.
 
 SEXTO.-. (sic) En tanto se aprueban las Políticas, Bases y Lineamientos referidas en el presente Reglamento, se aplicarán las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto que se encuentran vigentes a la fecha.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE MAYO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban modificaciones al Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento anexo que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Administración para que dé el seguimiento que corresponda al presente Acuerdo, dentro del ámbito de su competencia.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo, se publiquen en el Diario Oficial de la Federación.
+
+El presente Acuerdo puede ser consultado en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-17-04-2024.14.zip
+
+Contenido del archivo zip:
+
+1. Acuerdo ACT-PUB-17-04-2024.14.pdf
+
+2. Anexo del Acuerdo ACT-PUB-17-04-2024.14.pdf
+
+www.dof.gob.mx/2024/INAI/ACT-PUB-17-04-2024-14.zip
+
+CUARTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+QUINTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida (sic) certificación del presente Acuerdo para agilizar su cumplimiento.
+
+SEXTO. El presente Acuerdo entrará en vigor al momento de su publicación en el Diario Oficial de la Federación.
