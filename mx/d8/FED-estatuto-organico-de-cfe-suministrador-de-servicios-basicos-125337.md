@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-suministrador-de-servicios-basicos-125
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-18"
-last_updated: "2018-07-31"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125337&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-12-21"
 
 ESTATUTO ORGÁNICO DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2024.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 18 de enero de 2018.
 
@@ -119,6 +119,8 @@ CFE Suministrador de Servicios Básicos podrá realizar las actividades relacion
 
 ### CAPÍTULO II. Órganos y Estructura
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
 Para el ejercicio de sus funciones, CFE Suministrador de Servicios Básicos cuenta con los siguientes órganos de gobierno, estructura corporativa, órganos de vigilancia e instancia en materia de transparencia:
@@ -131,35 +133,17 @@ C. Estructura corporativa:
 
 I. Gerencia de Procesos Comerciales:
 
-1. Departamento de Facturación y Cobranza; y
+II. Gerencia de Servicios y Atención al Cliente:
 
-2. Departamento de Sistemas Comerciales.
+III. Gerencia de Gestión de Suministros Eléctricos y Regulación:
 
-II. Subgerencia de Servicios y Atención al Cliente:
+IV. Unidad de Recursos Humanos y Servicios Generales.
 
-1. Oficina de Clientes Estratégicos; y
+V. Unidad de Finanzas.
 
-2. Oficina de Canales de Atención.
+VI. Unidad de Asuntos Jurídicos.
 
-III. Gerencia de Mercadotécnica y Estrategia Comercial:
-
-1. Oficina de Inteligencia y Mercadotecnia; y
-
-2. Oficina de Planeación y Regulación.
-
-IV. Gerencia de Gestión de Suministros Eléctricos:
-
-1. Superintendencia de Operación del Mercado Eléctrico Mayorista;
-
-2. Oficina de Estudios del Mercado Eléctrico Mayorista; y
-
-3. Departamento de Validación de Operaciones del Mercado Eléctrico Mayorista.
-
-V. Departamento de Administración y Recursos Humanos:
-
-VI. Supervisoría de Finanzas.
-
-VII. Departamento de Asuntos Jurídicos.
+VII. Unidad de Sistemas Comerciales y Tecnologías de la Información.
 
 VIII. Áreas Regionales:
 
@@ -211,7 +195,9 @@ IV. Aprobar y expedir a propuesta del Director General, las modificaciones al Es
 
 V. Proponer al Consejo de Administración, la creación de empresas filiales de CFE Suministrador de Servicios Básicos.
 
-VI. Designar, a propuesta del Director General, a los funcionarios de CFE Suministrador de Servicios Básicos de nivel inmediato inferior de éste: Gerente de Suministros Eléctricos, Gerente de Procesos Comerciales, Subgerente de Servicios y Atención al Cliente, Gerente de Mercadotecnia y Estrategia Comercial, Supervisor de Finanzas, Jefe de Departamento de Administración y Recursos Humanos y Jefe de Departamento de Asuntos Jurídicos.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+VI. Designar, a propuesta del Director General, a los funcionarios de CFE Suministrador de Servicios Básicos de nivel inmediato inferior de éste: Gerente de Gestión de Suministros Eléctricos y Regulación, Gerente de Procesos Comerciales, Gerente de Servicios y Atención al Cliente, Jefe de Unidad de Finanzas, Jefe de Unidad de Recursos Humanos y Servicios Generales, Jefe de Unidad de Asuntos Jurídicos y Jefe de Unidad de Sistemas Comerciales y Tecnologías de la Información.
 
 ###### ARTÍCULO 9.
 
@@ -267,9 +253,11 @@ Además de las funciones anteriores, tendrá las que establecen los Términos pa
 
 ### CAPÍTULO I. De las áreas operativas del corporativo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-A cargo de la Gerencia de Procesos Comerciales, Gerencia de Mercadotécnica y Estrategia Comercial y Gerencia de Gestión de Suministros Eléctricos, habrá un Gerente; y de la Subgerencia de Servicios y Atención al Cliente, habrá un Subgerente; quienes como titulares de área serán responsables de la conducción de la respectiva área operativa de CFE Suministrador de Servicios Básicos que tengan encomendada; y en el ámbito de su competencia, tendrán las funciones genéricas siguientes:
+A cargo de la Gerencia de Procesos Comerciales, Gerencia de Gestión de Suministros Eléctricos y Regulación y de la Gerencia de Servicios y Atención al Cliente, habrá un Gerente; quienes como titulares de área serán responsables de la conducción de la respectiva área operativa de CFE Suministrador de Servicios Básicos que tengan encomendada; y en el ámbito de su competencia, tendrán las funciones genéricas siguientes:
 
 I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de las áreas operativas que tengan bajo su adscripción;
 
@@ -313,65 +301,71 @@ XX. Defender los intereses jurídicos de la Empresa, así como representar a la 
 
 XXI. Las demás funciones que les confieran el Consejo, el Director General, los manuales y los ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
 Además de las funciones genéricas señaladas en el artículo 12 de este Estatuto Orgánico, la Gerencia de Procesos Comerciales en el ámbito de su respectiva competencia tendrá las siguientes:
 
-I. Supervisar las estrategias generales de facturación, de recuperación de ingresos y de medios de cobranza;
+I. Implementar y evaluar las estrategias del proceso de comercialización, facturación, recuperación de los ingresos y medios de cobranza;
 
 II. Autorizar los mecanismos de cobranza de la venta de energía eléctrica, nuevos productos y servicios;
 
-III. Autorizar la normatividad del proceso comercial;
+III. Autorizar la normatividad aplicable de los procesos de facturación, cobranza y contabilidad comercial;
 
-IV. Autorizar las estrategias de facturación, de recuperación de ingresos y de medios de cobranza;
+IV. Desarrollar la planeación estratégica y operativa del proceso comercial, mediante el establecimiento de estrategias y planes de acción, alineados al cumplimiento de los objetivos planteados;
 
-V. Supervisar de manera general la operación eficiente de los servicios de tecnologías de la información y comunicaciones; y
+V. Establecer las metas e indicadores estratégicos y operativos del proceso comercial, conforme al Plan de Negocios de la Comisión Federal de Electricidad y al Plan Estratégico del Modelo de Comercialización de CFE Suministrador de Servicios Básicos.
 
-VI. Dirigir el funcionamiento eficiente de la infraestructura de tecnologías de la información y comunicaciones.
+VI. Vigilar la atención de los ejercicios de auditorías externas e internas relacionadas con el proceso comercial; y
+
+VII. Aprobar y emitir los datos estadísticos, análisis comerciales e informes de las ventas e ingresos obtenidos por la venta de energía eléctrica a través de las distintas modalidades de facturación.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-Además de las funciones genéricas señaladas en el artículo 12 de este Estatuto Orgánico, la Subgerencia de Servicio y Atención al Cliente, en el ámbito de su respectiva competencia, tendrá las siguientes:
+Además de las funciones genéricas señaladas en el artículo 12 de este Estatuto Orgánico, la Gerencia de Servicios y Atención al Cliente, en el ámbito de su respectiva competencia tendrá las siguientes:
 
-I. Vigilar la atención y retención de los clientes estratégicos de CFE Suministrador de Servicios Básicos;
+I. Controlar los ingresos que se recaudan en los Centros de Atención al Cliente con el fin de que la cobranza que se realiza se lleve bajo criterios de confiabilidad y eficiencia operativa;
 
-II. Autorizar los programas de fidelización y retención de clientes;
+II. Autorizar los programas de fidelización y retención de clientes de CFE Suministrador de Servicios Básicos;
 
-III. Vigilar la aplicación de las estrategias comerciales de nuevos productos y servicios autorizadas por el Director General;
+III. Definir la planeación operativa de la atención al cliente en los diferentes segmentos y canales de comunicación y atención (presencial, telefónica, redes sociales y estratégicos);
 
-IV. Dirigir la planeación operativa de la atención al cliente; e
+IV. Evaluar e informar el impacto en los canales de comunicación, atención y satisfacción del cliente de la implementación de la prestación de los servicios de Suministrador de Servicios Básicos;
 
-V. Informar al Director General y a las demás áreas operativas, los resultados de los diversos canales de atención para mejorar la satisfacción del cliente.
+V. Dirigir y evaluar la contratación del Suministro Básico en los diferentes canales de atención; y
+
+VI. Definir las acciones que aseguren la atención de solicitudes asociadas a la continuidad y la prestación del suministro eléctrico.
 
 ###### ARTÍCULO 15.
 
-Además de las funciones genéricas señaladas en el artículo 12 de este Estatuto Orgánico, la Gerencia de Mercadotecnia y Estrategia Comercial, en el ámbito de su respectiva competencia tendrá las siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2024)
 
-I. Diseñar las estrategias integrales de mercadotecnia global de nuevos productos y servicios, y de retención y fidelización del cliente, de CFE Suministrador de Servicios Básicos;
-
-II. Identificar las oportunidades de negocio bajo esquemas que fortalezcan el posicionamiento de CFE Suministrador de Servicios Básicos;
-
-III. Autorizar el plan estratégico mercadológico verificando la ejecución para la comercialización del portafolio de negocios;
-
-IV. Informar periódicamente al Director General el comportamiento de las tarifas aplicables, de acuerdo a la normatividad vigente;
-
-V. Coordinar con las áreas involucradas las acciones necesarias para dar cumplimiento a las adecuaciones que emitan los entes reguladores en términos de las disposiciones que éstos emitan;
-
-VI. Dictaminar el impacto económico que tendrán los proyectos y programas que se incluirán en el Plan de Negocios; y
-
-VII. Dirigir la planeación empresarial hacia el objeto de CFE Suministrador de Servicios Básicos.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-Además de las funciones genéricas señaladas en el artículo 12 de este Estatuto Orgánico, la Gerencia de Gestión de Suministros Eléctricos, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en el artículo 12 de este Estatuto Orgánico, la Gerencia de Gestión de Suministros Eléctricos y Regulación, en el ámbito de su respectiva competencia tendrá las siguientes:
 
-I. Dirigir las estrategias de compra-venta de energía eléctrica y productos asociados al MEM y de previsión de demandas para la cobertura del suministro eléctrico de usuarios de servicio básico, mediante las ofertas en el MEM;
+I. Dirigir las estrategias de abastecimiento y enajenación de energía eléctrica y productos asociados para proporcionar el suministro de energía eléctrica a los usuarios del suministro básico;
 
-II. Dirigir la ejecución de los contratos de cobertura eléctrica, convenir las condiciones y autorizar modificaciones;
+II. Dirigir la liquidación de operaciones de pago de los Contratos de Cobertura Eléctrica y del Mercado Eléctrico Mayorista, así como las obligaciones de garantías que permitan el abastecimiento continuo del suministro;
 
-III. Participar con las entidades Reguladoras para la conciliación de las estrategias operativas con el cumplimiento del marco regulatorio del MEM; y
+III. Evaluar los pronósticos de necesidades del suministro de energía eléctrica y productos asociados para la gestión de coberturas en el corto, mediano y largo plazo;
 
-IV. Dirigir las actividades y estrategias de representación de generadores exentos en el MEM.
+IV. Instruir las actividades y estrategias de representación de generadores exentos en el Mercado Eléctrico Mayorista en cumplimiento con la regulación en la materia;
+
+V. Validar la ejecución de los contratos de cobertura eléctrica y autorizar las modificaciones que permitan satisfacer el suministro eléctrico con criterios de economía, seguridad y oportunidad;
+
+VI. Validar la recuperación de los ingresos autorizados por el órgano regulador mediante la vía tarifaria;
+
+VII. Vigilar las propuestas de cambios regulatorios que permitan mejorar las condiciones para el desarrollo, así como un desempeño eficaz y eficiente de la empresa;
+
+VIII. Evaluar las solicitudes de cambios en la aplicación de las tarifas eléctricas domésticas de acuerdo con el mecanismo determinado por la Secretaría de Hacienda y Crédito Público; e
+
+IX. Informar al Director General sobre el comportamiento de los costos del suministro eléctrico y el comportamiento tarifario.
 
 ### CAPÍTULO II. De las demás áreas operativas y de las áreas funcionales del Corporativo
 
@@ -409,95 +403,77 @@ XIV. Implementar el Sistema de Control Interno en su Área funcional; y
 
 XV. Las demás que les confieran el Consejo, el Director General, el Titular del área de su adscripción, los manuales y los ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, el Departamento de Administración y Recursos Humanos, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Unidad de Recursos Humanos y Servicios Generales, en el ámbito de su respectiva competencia tendrá las siguientes:
 
-I. Desarrollar procedimientos de contratación en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras, en apego a lo establecido en la normatividad aplicable y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión;
+I. Implantar controles para mitigar los riesgos administrativos de usuarios del sistema de procesamiento de nómina y administración de los recursos humanos;
 
-II. Verificar que los procedimientos de contratación de bienes y servicios en CFE Suministrador de Servicios Básicos, se realicen en apego a lo establecido en la normatividad aplicable y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión;
+II. Vigilar el cumplimiento del marco legal y normativo en las materias de su competencia, facilitando la operación del Corporativo y de las Subgerencias Comerciales Divisionales;
 
-III. Gestionar la satisfacción de las necesidades de bienes en los almacenes de CFE Suministrador de Servicios Básicos, así como verificar la existencia en sus distintas áreas, en apego a lo establecido en la normatividad vigente y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión;
+III. Vigilar el cumplimiento de la normatividad en materia laboral, y de servicios generales, conforme a las leyes, reglamentos internos, convenios específicos y de particularidades que propicien la unificación de criterios en el ámbito de CFE Suministrador de Servicios Básicos;
 
-IV. Implementar la aplicación de máximos y mínimos en los bienes o materiales de los distintos almacenes de CFE Suministrador de Servicios Básicos, manteniendo niveles óptimos en inventario, en apego a lo establecido en la normatividad vigente y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión;
+IV. Colaborar con los miembros del Comité Ejecutivo Nacional del SUTERM, Coordinadores y Delegados, en asuntos inherentes a aspectos de personal y laboral;
 
-V. Vigilar el cumplimiento del marco legal y normativo en las materias de su competencia, facilitando la operación del Corporativo y de las Subgerencias Comerciales Divisionales;
+V. Vigilar en el ámbito de CFE Suministrador de Servicios Básicos el cumplimiento de las obligaciones de transparencia estipuladas en la Ley General y Federal de Transparencia y Acceso a la Información Pública en materia de recursos humanos; y
 
-VI. Implementar el cumplimiento del Sistema de Control Interno de los Procesos de la Organización, a través de sus Indicadores de Gestión para evaluar el desempeño del Corporativo y las Subgerencias Comerciales Divisionales;
+VI. Comunicar las acciones que coadyuven a que el personal de CFE Suministrador de Servicios Básicos cumpla con sus obligaciones como servidores públicos.
 
-VII. Implantar controles para mitigar los riesgos administrativos de usuarios del sistema de procesamiento de nómina y administración de los recursos humanos;
-
-VIII. Dictar políticas de control preventivo y correctivo, autorizadas por el Director General;
-
-IX. Coordinar con las distintas áreas de CFE Suministrador de Servicios Básicos el cumplimiento a los requerimientos de los Órganos Fiscalizadores para cumplir con la normatividad;
-
-X. Implementar las estrategias y coordinar con el SUTERM los programas en materia de Recursos Humanos de CFE Suministrador de Servicios Básicos;
-
-XI. Ejecutar los planes y programas en materia de bienes inmuebles, de acuerdo a las directrices, políticas, estrategias o libramientos que defina el Consejo de Administración y el Consejo;
-
-XII. Integrar y actualizar los inventarios, registros y controles patrimoniales y financieros de los bienes inmuebles de CFE Suministrador de Servicios Básicos;
-
-XIII. Fungir como responsable inmobiliario de CFE Suministrador de Servicios Básicos; y
-
-XIV. Coordinar los procedimientos de enajenación de bienes no útiles, para desalojar espacios de almacenamiento y lograr la recuperación económica.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Además de las funciones genéricas señaladas (sic) los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, el Supervisor de Finanzas, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas (sic) los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Unidad de Finanzas, en el ámbito de su respectiva competencia tendrá las siguientes:
 
 I. Presentar al Director General los (sic) estrategias, estados y análisis financieros de CFE Suministrador de Servicios Básicos, en términos de la normativa aplicable y observando la razonabilidad de las cifras para la toma de decisiones financieras;
 
-II. Coordinar con los titulares de las áreas operativas y funcionales el Plan de Negocios en materia financiera;
+II. Dirigir las actividades de tesorería y programación financiera de CFE Suministrador de Servicios Básicos;
 
-III. Dirigir las actividades de tesorería y programación financiera de CFE Suministrador de Servicios Básicos;
+III. Implantar controles para mitigar los riesgos financieros de usuarios en el sistema informático destinado para ello;
 
-IV. Implantar controles para mitigar los riesgos financieros de usuarios en el sistema informático destinado para ello;
+IV. Ejercer el pago de obligaciones fiscales y contribuciones atribuibles a la operación de CFE Suministrador de Servicios Básicos;
 
-V. Vigilar el entero, el pago de las obligaciones fiscales y el cumplimiento del pago de contribuciones de CFE Suministrador de Servicios Básicos;
+V. Normar y establecer la directriz de los registros contables para atender las Normas Internacionales de Información Financiera;
 
-VI. Informar al Director General los niveles de recursos monetarios, asegurándose que se haga frente a las necesidades del flujo de efectivo;
+VI. Comunicar los Estados Financieros a los diferentes Órganos de Gobierno a fin de dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública y Rendición de Cuentas;
 
-VII. Supervisar y verificar la razonabilidad de las cifras proporcionadas por las áreas para su consolidación y presentación de los estados financieros;
+VII. Establecer los mecanismos para el financiamiento y control de Inversiones para la Administración Presupuestal y la rendición de cuentas a los distintos órganos de Gobierno;
 
-VIII. Normar y establecer los sistemas integrales de registro y control contable, así como difundir la aplicación de criterios de la Comisión;
+VIII. Validar la normativa aplicable en términos de cumplimiento de obligaciones de reporteo gubernamental relacionados a la Cuenta Pública;
 
-IX. Dotar de la información financiera a las áreas que lo requieran, dando seguimiento a métricas financieras; y
+IX. Realizar con los titulares de las áreas la generación de información financiera para integrar el plan financiero de CFE Suministrador de Servicios Básicos; y
 
-X. Supervisar el cumplimiento de la normatividad aplicable al régimen especial en materia de dividendo estatal, presupuesto y deuda de CFE Suministrador de Servicios Básicos.
+X. Verificar que los procedimientos de contratación de bienes y servicios en CFE Suministrador de Servicios Básicos se realicen en apego a lo establecido en la normatividad aplicable y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
-Además de las funciones genéricas señaladas en el artículo 17 de este Estatuto Orgánico, el Departamento de Asuntos Jurídicos, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en el artículo 17 de este Estatuto Orgánico, la Unidad de Asuntos Jurídicos, en el ámbito de su respectiva competencia tendrá las siguientes:
 
 I. Representar legalmente a CFE Suministrador de Servicios Básicos y a su Director General ante los tribunales y demás autoridades, así como ante instancias arbitrales;
 
 II. Defender los intereses jurídicos de CFE Suministrador de Servicios Básicos, así como representar a la misma y a su Director General en los juicios, procedimientos y recursos administrativos, judiciales, laborales, incluidos los juicios de amparo, o arbitrales en que sea parte o tenga interés jurídico, así como realizar todos y cada uno de los actos procesales necesarios para la adecuada defensa o iniciación del juicio o procedimiento administrativo correspondiente;
 
-III. Promover demandas de amparo y realizar todos y cada uno de los actos procesales necesarios para la adecuada defensa o iniciación del juicio o procedimiento correspondiente en defensa de los intereses de la Empresa;
+III. Fungir como órgano jurídico central para homologar los criterios, normas, principios y procedimientos en las áreas jurídicas de las Divisiones Comerciales de CFE Suministrador de Servicios Básicos, observando los criterios de la Oficina del Abogado General de la Comisión Federal de Electricidad;
 
-IV. Fungir como órgano jurídico central para homologar los criterios, normas, principios y procedimientos en las áreas jurídicas regionales de CFE Suministrador de Servicios Básicos, observando los criterios de la Oficina del Abogado General de la Comisión;
+IV. Diseñar la evaluación para ingreso y las evaluaciones de actualización a los abogados internos de todas las áreas jurídicas de CFE Suministrador de Servicios Básicos;
 
-V. Coordinar las áreas jurídicas regionales de CFE Suministrador de Servicios Básicos;
+V. Autorizar la contratación de servicios jurídicos externos, conforme a la normatividad de la Comisión Federal de Electricidad;
 
-VI. Autorizar la evaluación para ingreso y las de actualización a los abogados internos de todas las áreas jurídicas de CFE Suministrador de Servicios Básicos;
+VI. Transmitir los poderes para pleitos y cobranzas y actos de administración en materia laboral, que le otorgue el Director General, y revocar los que hubiera otorgado;
 
-VII. Autorizar la contratación de servicios jurídicos externos, conforme a la normatividad de (sic) Comisión;
+VII. Diseñar y emitir normas, lineamientos y opiniones a la estrategia jurídica general de CFE Suministrador de Servicios Básicos en términos de los criterios de la Oficina del Abogado General de la Comisión Federal de Electricidad;
 
-VIII. Transmitir los poderes para pleitos y cobranzas y actos de administración en materia laboral, que le otorgue el Director General, y revocar los que hubiera otorgado conforme a esta fracción;
+VIII. Atender las consultas y dudas en materia jurídica de los distintos procesos y las del ámbito Divisional Comercial, así como las solicitudes de opinión jurídica que le dirijan;
 
-IX. Dirigir la estrategia jurídica general de CFE Suministrador de Servicios Básicos en términos de los criterios de la Oficina del Abogado General de la Comisión y emitiendo normas, lineamientos y opiniones;
+IX. Aprobar los aspectos jurídicos de los manuales, políticas y circulares que emitan las áreas operativas de apoyo y los relativos al ámbito de su competencia, previo a su aplicación;
 
-X. Atraer los asuntos jurídicos relevantes que permitan asegurar su atención por ese departamento;
+X. Atender, como prosecretario del Consejo de Administración de CFE Suministrador de Servicios Básicos y Secretario de sus Comités Auxiliares, las actividades del Gobierno Corporativo de su ámbito; y
 
-XI. Aprobar los aspectos jurídicos de los manuales, políticas y circulares que emitan las áreas operativas y funcionales y los relativos al ámbito de su competencia, previo a su aplicación;
-
-XII. Vigilar la operación de la Oficialía Común de Partes de CFE Suministrador de Servicios Básicos;
-
-XIII. Dirigir las acciones para el cumplimiento de la normatividad en materia de transparencia, información pública, protección de datos personales y de archivos;
-
-XIV. Fungir como prosecretario del Consejo, y secretario de los comités del mismo, vigilando el cumplimiento jurídico y el seguimiento de los acuerdos tomados en las sesiones; y
-
-XV. Fungir como Enlace de Transparencia, con las funciones que las leyes de la materia asignan a la misma.
+XI. Supervisar la operación del proceso jurídico en las Áreas Divisionales de CFE Suministrador de Servicios Básicos, estableciendo las acciones de mejora o correctivas que correspondan.
 
 ###### ARTÍCULO 21.
 
@@ -517,35 +493,35 @@ VI. Emitir políticas y normas que regulen las actividades auxiliares que se req
 
 VII. Emitir políticas y normas que regulen la actividad comercial en el proceso de facturación de energía eléctrica;
 
-VIII. Coordinar con el Departamento de Asuntos Jurídicos la elaboración de los lineamientos para la atención a solicitudes de información;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+VIII. Coordinar con la Unidad de Asuntos Jurídicos la elaboración de los lineamientos para la atención a solicitudes de información;
 
 IX. Planear las estrategias de diversificación de medios de cobranza; y
 
-X. Coordinar con el Departamento de Asuntos Jurídicos la planeación de los instrumentos jurídicos para la recuperación de la Cartera Vencida.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+X. Coordinar con la Unidad de Asuntos Jurídicos la planeación de los instrumentos jurídicos para la recuperación de la Cartera Vencida.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, el Departamento de Sistemas Comerciales de la Gerencia de Procesos Comerciales, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Unidad de Sistemas Comerciales y Tecnologías de la Información, en el ámbito de su respectiva competencia tendrá las siguientes:
 
-I. Establecer lineamientos que permitan asegurar la aplicación de la normatividad emitida por la Coordinación de Servicios Tecnológicos de la Comisión;
+I. Establecer un gobierno de Tecnologías de la Información en CFE Suministrador de Servicios Básicos, aplicando la normatividad de la Coordinación de Servicios Tecnológicos;
 
-II. Autorizar la planeación operativa de tecnología de la información que permita mantener la continuidad operativa del negocio;
+II. Diseñar la planeación estratégica de tecnología de la información alineada al Plan de Negocios de CFE Suministrador de Servicios Básicos;
 
-III. Aprobar los proyectos de soluciones de negocio y gestionar los recursos necesarios para su desarrollo;
+III. Evaluar los proyectos de tecnologías de la información de los sistemas comerciales y asegurar los recursos de su implementación;
 
-IV. Establecer estrategias de seguridad de la información de Tecnologías de la Información y Comunicaciones;
+IV. Validar la arquitectura de la infraestructura de tecnologías de la información, realizando iniciativas de modernización de infraestructura para CFE SSB;
 
-V. Autorizar el portafolio de servicios de Tecnologías de la Información y Comunicaciones;
+V. Asegurar presupuestos requeridos para la contratación de bienes y servicios en materia de tecnologías de la información;
 
-VI. Gestionar la contratación de bienes y servicios de Tecnologías de la Información y Comunicaciones, conforme la normativa de Comisión;
+VI. Instituir estrategias de seguridad de la información y comunicaciones ante riesgos internos y/o externos, conforme a los principios de disponibilidad, integridad, confidencialidad y autenticidad en el ámbito de CFE SSB; y
 
-VII. Autorizar la arquitectura de la infraestructura de Tecnologías de la Información y Comunicaciones;
-
-VIII. Autorizar el programa de mantenimiento a la infraestructura de Tecnologías de la Información y Comunicaciones;
-
-IX. Brindar el soporte técnico en la integración de la información estadística necesaria y suficiente de las áreas operativas y funcionales requirentes; y
-
-X. Asegurar la estricta observancia de los protocolos de asignación de roles que establezcan las áreas usuarias.
+VII. Proponer convenios de colaboración, acuerdos y/o contratos en materia de tecnologías de la información con otras entidades para el intercambio de información, servicios, apoyos técnicos y tecnológicos de CFE SSB.
 
 ###### ARTÍCULO 23.
 
@@ -589,49 +565,17 @@ VIII. Vigilar y validar la información de los resultados de las nuevas estrateg
 
 ###### ARTÍCULO 25.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Oficina de Inteligencia y Mercadotecnia de la Gerencia de Mercadotecnia y Estrategia Comercial, en el ámbito de su respectiva competencia tendrá las siguientes:
-
-I. Planear las estrategias de mercadotecnia global de CFE Suministrador de Servicios Básicos que generen una mayor aceptación de los clientes;
-
-II. Establecer las estrategias de la difusión de las campañas publicitarias y promocionales a los centros de atención a clientes, canales virtuales y centros de atención regional;
-
-III. Establecer la estrategia para la creación de oportunidades de negocio de nuevos productos y servicios realizando actividades empresariales, económicas y comerciales;
-
-IV. Establecer los lineamientos para el desarrollo de la operación comercial de nuevos productos y servicios que contribuya (sic) a maximizar los ingresos y rentabilidad de CFE Suministrador de Servicios Básicos;
-
-V. Establecer los lineamientos para la generación de las oportunidades de negocio para la empresa, identificando clientes cuyas necesidades no estén cubiertas, desarrollando actividades empresariales, económicas, industriales y comerciales;
-
-VI. Desarrollar las metodologías de aplicación de pruebas en campo para la implementación de los portafolios de nuevos productos y servicios de acuerdo a la estrategia comercial;
-
-VII. Establecer las estrategias de fidelización y retención para los clientes;
-
-VIII. Desarrollar el plan estratégico mercadológico conforme a los resultados obtenidos de los estudios y sondeos de mercados realizados por agencias externas y departamentos internos; y
-
-IX. Evaluar el diagnóstico de las actividades de los clientes y el entorno de acuerdo a las tendencias que influyan en la oferta de valor de la empresa, en comparación con otras.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2024)
 
 ###### ARTÍCULO 26.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Oficina de Planeación y Regulación de la Gerencia de Mercadotecnia y Estrategia Comercial, en el ámbito de su respectiva competencia tendrá las siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2024)
 
-I. Validar la aplicación de las tarifas eléctricas conforme a lo establecido en la normatividad;
-
-II. Evaluar el cumplimiento de los convenios y contratos entre CFE Suministrador de Servicios Básicos y los participantes del MEM, el Transportista y/o el Distribuidor;
-
-III. Coordinar con el Departamento de Asuntos Jurídicos, la gestión de los cambios regulatorios que permitan un desempeño de forma más eficaz y eficiente;
-
-IV. Proponer al área operativa involucrada y al Departamento de Asuntos Jurídicos, la solución de controversias que existan con algún participante del MEM, Transportista y/o Distribuidor;
-
-V. Elaborar el Plan de Negocios de CFE Suministrador de Servicios Básicos;
-
-VI. Pronosticar el comportamiento esperado de los clientes, ventas, productos e ingresos para el corto, mediano y largo plazo;
-
-VII. Desarrollar la planeación estratégica que indique la dirección que deberá seguir CFE Suministrador de Servicios Básicos; y
-
-VIII. Evaluar el resultado de los Indicadores claves de desempeño establecidos en el Plan de Negocios.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Superintendencia de Operación del Mercado Eléctrico Mayorista de la Gerencia de Gestión de Suministros Eléctricos, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, la Superintendencia de Operación del Mercado Eléctrico Mayorista de la Gerencia de Gestión de Suministros Eléctricos y Regulación, en el ámbito de su respectiva competencia tendrá las siguientes:
 
 I. Implantar las políticas de representación y comunicación a generadores exentos y usuarios de último recurso;
 
@@ -655,9 +599,11 @@ X. Evaluar el reporte de transacciones y operación, y vigilar que las operacion
 
 XI. Evaluar el cumplimiento al plan de contingencia del despacho eléctrico en atención a la normatividad aplicable al mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17, la Oficina de Estudios del Mercado Eléctrico Mayorista de la Gerencia de Gestión de Suministros Eléctricos, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17, la Oficina de Estudios del Mercado Eléctrico Mayorista de la Gerencia de Gestión de Suministros Eléctricos y Regulación, en el ámbito de su respectiva competencia tendrá las siguientes:
 
 I. Autorizar las metodologías de cálculo para la previsión, pronósticos de demandas y precios para el mercado eléctrico a corto plazo;
 
@@ -673,15 +619,21 @@ VI. Validar la evolución de las estrategias propuestas para Coberturas Eléctri
 
 VII. Validar las notificaciones, consultas, actualizaciones y/o diligencias administrativas en atención a las entidades regulatorias.
 
-VIII. Ejecutar la evaluación del cumplimiento normativo de la Gerencia de Gestión de Suministros Eléctricos
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+VIII. Ejecutar la evaluación del cumplimiento normativo de la Gerencia de Gestión de Suministros Eléctricos y Regulación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, el Departamento de Validación de Operaciones del Mercado Eléctrico Mayorista de la Gerencia de Gestión de Suministros Eléctricos, en el ámbito de su respectiva competencia tendrá las siguientes:
+Además de las funciones genéricas señaladas en los artículos 12, fracciones XIX y XX y 17 de este Estatuto Orgánico, el Departamento de Validación de Operaciones del Mercado Eléctrico Mayorista de la Gerencia de Gestión de Suministros Eléctricos y Regulación, en el ámbito de su respectiva competencia tendrá las siguientes:
 
 I. Evaluar los resultados financieros de las transacciones diarias en el MEM;
 
-II. Coordinar con el Supervisor de Finanzas el cumplimiento de las obligaciones financieras ante el CENACE, garantizando la participación en el mercado de corto plazo;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+II. Coordinar con el Jefe de Unidad de Finanzas el cumplimiento de las obligaciones financieras ante el CENACE, garantizando la participación en el mercado de corto plazo;
 
 III. Supervisar la rentabilidad de las estrategias de cobertura de suministro eléctrico;
 
@@ -691,9 +643,13 @@ V. Gestionar las garantías de cumplimiento para la operación diaria en el MEM 
 
 VI. Supervisar los resultados de la administración financiera de los contratos de cobertura eléctrica;
 
-VII. Coordinar con el Supervisor de Finanzas la previsión del flujo de efectivo para el cumplimiento de las obligaciones financieras de los contratos de cobertura eléctrica y la operación diaria en el MEM; y
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
 
-VIII. Coordinar la estrategia para el cumplimiento de la regulación, con las demás áreas de la Gerencia de Gestión de Suministros Eléctricos.
+VII. Coordinar con el Jefe de Unidad de Finanzas la previsión del flujo de efectivo para el cumplimiento de las obligaciones financieras de los contratos de cobertura eléctrica y la operación diaria en el MEM; y
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+VIII. Coordinar la estrategia para el cumplimiento de la regulación, con las demás áreas de la Gerencia de Gestión de Suministros Eléctricos y Regulación.
 
 ### CAPÍTULO III. De las Unidades Regionales, de sus Funciones y Circunscripción Territorial
 
@@ -1071,7 +1027,9 @@ XIV. Coordinar las reuniones con los miembros del Consejo Consultivo, en el ámb
 
 XV. Supervisar la contratación del Suministro Básico;
 
-XVI. Desarrollar procedimientos de contratación en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras, en apego a lo establecido en la normatividad aplicable y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión o el Departamento de Administración y Recursos Humanos, según corresponda;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2024)</small>
+
+XVI. Desarrollar procedimientos de contratación en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras, en apego a lo establecido en la normatividad aplicable y de acuerdo a las directrices, políticas, estrategias o lineamientos que al respecto defina la Comisión o la Unidad de Finanzas, según corresponda;
 
 XVII. Recibir, sustanciar y resolver los recursos materia de su competencia; y
 
@@ -1214,3 +1172,9 @@ D.O.F. 31 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS “ADICIONES AL ESTATUTO ORGÁNICO DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS PUBLICADO EL 18 DE ENERO DE 2018”.]
 
 UNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE SUMINISTRADOR DE SERVICIOS BÁSICOS”.]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
