@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2024-02-21"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -1641,7 +1641,9 @@ Las constancias de revalidación y equivalencia de estudios deberán ser registr
 
 VI. Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia;
 
-VII. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los de normal y demás para la formación de docentes de educación básica que impartan los particulares;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2024)</small>
+
+VII. Otorgar, negar y retirar el reconocimiento de validez oficial de estudios distintos a los de normal y demás para la formación de docentes de educación básica que impartan los particulares; así como, modificar o actualizar los acuerdos vigentes, cuando se refiera a la denominación, objetivos generales, perfil de egreso, a la modalidad educativa o a la estructura establecida en su diseño curricular del plan y programa de estudios.
 
 VIII. Editar libros y producir otros materiales educativos, distintos de los señalados en la fracción IV del artículo 113 de la Ley General de Educación, apegados a los fines y criterios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y para el cumplimiento de los planes y programas de estudio autorizados por la autoridad educativa federal;
 
@@ -2326,3 +2328,13 @@ P.O. 21 DE FEBRERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 117 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En el caso específico de modificación o actualización de acuerdos de reconocimiento de validez oficial de estudios otorgados a particulares en el área de salud, la autoridad educativa estatal, podrá actualizarlos o modificarlos siempre y cuando hayan sido expedidos con anterioridad al treinta de septiembre de dos mil diecinueve, cuenten con la ampliación de opinión técnico académica (OTA), correspondiente por parte del Comité Interinstitucional para la Formación y Capacitación de Recursos Humanos en Salud (CIFRHS) y no se modifique su nomenclatura.
