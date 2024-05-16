@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-3484"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-01"
-last_updated: "2017-07-13"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el viernes 1º. de enero de 1993.
 
@@ -269,25 +269,27 @@ Las personas titulares de la Presidencia de la Comisión, las Visitadurías Gene
 
 ### CAPITULO III. DE LA INTEGRACION Y FACULTADES DEL CONSEJO CONSULTIVO
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 16.
 
-El Consejo Consultivo de la Comisión estará integrado por diez consejeros que durarán cinco años en el ejercicio del cargo y serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previa auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos en la Entidad. En la auscultación sólo participarán las organizaciones y organismos legítimamente constituidos. La renovación de los integrantes del Consejo se hará por mitad. Los consejeros sólo podrán ser reelectos para cubrir un segundo período. Los consejeros deberán ser personas que gocen de reconocido prestigio en la sociedad campechana, mexicanos en pleno ejercicio de sus derechos ciudadanos, quienes además no deberán tener la calidad de servidores públicos al momento de su elección, ni ser dirigentes o militantes de partido político alguno. Para el caso se observará el siguiente procedimiento:
+El Consejo Consultivo de la Comisión estará integrado por cuatro consejeras y consejeros que durarán cinco años en el ejercicio del cargo y serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previa auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos en la Entidad. En la auscultación sólo participarán las organizaciones y organismos legítimamente constituidos. La renovación de los integrantes del Consejo se hará por mitad. Las consejeras y consejeros sólo podrán ser reelectos para cubrir un segundo período. Las consejeras y consejeros deberán ser personas que gocen de reconocido prestigio en la sociedad campechana, mexicanas y mexicanos en pleno ejercicio de sus derechos ciudadanos, quienes además no deberán tener la calidad de servidores públicos al momento de su elección, ni ser dirigentes o militantes de partido político alguno. Para el caso se observará el siguiente procedimiento:
 
-I.- La elección de los consejeros deberá tener lugar no menos de tres días antes de la fecha en que concluya el período de los consejeros en funciones;
+I. La elección de las consejeras y consejeros deberá tener lugar no menos de tres días antes de la fecha en que concluya el período de las y los consejeros en funciones;
 
-II.- Dentro de los quince días anteriores a la fecha en que deba procederse a la elección, el Congreso creará una Comisión Especial, o habilitará como tal a la Comisión Ordinaria de Procuración e Impartición de Justicia, Seguridad Pública, Protección Civil y Derechos Humanos, la cual tendrá a su cargo efectuar la auscultación que dispone este artículo;
+II. Dentro de los quince días anteriores a la fecha en que deba procederse a la elección, el Congreso creará una Comisión Especial, o habilitará como tal a la Comisión Ordinaria de Derechos Humanos y de Asuntos de Familia, la cual tendrá a su cargo efectuar la auscultación que dispone este artículo;
 
-III.- Creada o habilitada la comisión, ésta procederá de inmediato a la correspondiente auscultación, misma que consistirá en la realización de entrevistas con las dirigencias de las indicadas organizaciones y organismos a efecto de que sugieran a la persona o personas que consideren satisfacen los requisitos que esta ley impone para ser propuestas al cargo de consejeros;
+III. Creada o habilitada la comisión, ésta procederá de inmediato a la correspondiente auscultación, misma que consistirá en la realización de entrevistas con las dirigencias de las indicadas organizaciones y organismos a efecto de que sugieran a la persona o personas que consideren satisfacen los requisitos que esta ley impone para ser propuestas al cargo de consejeras y consejeros;
 
-IV.- El proceso de auscultación no deberá rebasar el término de ocho días calendario, contados a partir de la fecha de creación o habilitación de la comisión;
+IV. El proceso de auscultación no deberá rebasar el término de ocho días calendario, contados a partir de la fecha de creación o habilitación de la comisión;
 
-V.- Concluida la auscultación, la comisión rendirá por escrito el correspondiente informe de resultados al pleno del Congreso acompañándole la documentación que hubiere recabado, procediéndose desde luego a la elección; y
+V. Concluida la auscultación, la comisión rendirá por escrito el correspondiente informe de resultados al pleno del Congreso, acompañándole la documentación que hubiere recabado, procediéndose desde luego a la elección; y
 
-VI.- Los electos serán citados ante el pleno del Congreso para rendir la protesta de ley.
+VI. Las y los electos serán citados ante el pleno del Congreso para rendir la protesta de ley.
 
-Los consejeros en funciones continuarán desempeñando su encargo hasta en tanto no se dé cumplimiento a lo dispuesto en la fracción V. Ante la falta definitiva de un consejero se procederá a la elección de un sustituto, en la forma prevista por este artículo, quien terminará el período para el que fue electo el faltante y podrá ser reelecto por una sola vez más.
+Las consejeras y consejeros en funciones continuarán desempeñando su encargo hasta en tanto no se dé cumplimiento a lo dispuesto en la fracción V.
+
+Cada consejera y/o consejero contará con un suplente, que será nombrado, al mismo tiempo, bajo el mismo procedimiento e igual periodicidad que las consejeras y consejeros titulares.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -352,6 +354,12 @@ El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus de
 Las sesiones ordinarias se verificarán cuando menos una vez al mes.
 
 Las sesiones extraordinarias podrán convocarse por el Presidente de la Comisión, por sí o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2024)</small>
+
+###### ARTICULO 19. Bis.
+
+En caso de no poder asistir a alguna sesión ordinaria o extraordinaria del Consejo Consultivo que se vaya a celebrar, la Consejera o Consejero titular deberá dar aviso al Secretario Técnico de la Comisión Estatal, con 48 horas de antelación, para que éste solicite de inmediato la asistencia de su suplente, para que asista a la sesión de que se trate.
 
 ### CAPITULO IV. DEL NOMBRAMIENTO Y FACULTADES DE LA SECRETARIA EJECUTIVA
 
@@ -936,3 +944,15 @@ TERCERO.- Para el cumplimiento de este decreto se deberá prever en el presupues
 CUARTO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, lo que corresponda al Órgano Interno de Control.
 
 QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
+
+P.O. 16 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 354 POR EL QUE “SE REFORMA EL ARTÍCULO 16 Y SE ADICIONA EL ARTÍCULO 19 BIS DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Para garantizar la oportuna operatividad del Consejo Consultivo, la designación de las nuevas personas Consejeras por el Congreso del Estado deberá hacerse en un plazo que no exceda de 90 días siguientes a la entrada en vigor del presente decreto.
+
+Artículo Tercero.- Por esta única ocasión, dos de las personas consejeras titulares y sus respectivos suplentes ejercerán su encargo por un periodo de tres años y las restantes con sus correspondientes suplentes por un periodo de cinco años, los cuales serán contados a partir de la fecha de su elección. La pertinente determinación se hará en la misma sesión, inmediatamente después de la elección, mediante el procedimiento de insaculación, correspondiendo a las dos primeras personas titulares y sus suplentes insaculadas el ejercer su cargo por el periodo de tres años y a las demás por un periodo de cinco años.
+
+Artículo Cuarto.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
