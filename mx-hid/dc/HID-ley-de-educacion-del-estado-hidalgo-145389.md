@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-05-03"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -853,9 +853,11 @@ En la educación que se imparta en el Estado de Hidalgo, se utilizará el avance
 
 Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
 ###### Artículo 70.
 
-Las autoridades educativas, en el ámbito de su competencia, promoverán la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo. Asimismo, fortalecerán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas.
+Las autoridades educativas, en el ámbito de su competencia, promoverán la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo. Asimismo, fortalecerán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas. Conforme a la disponibilidad presupuestal, se procurará garantizar que, en los planteles públicos, las y los docentes tengan acceso gratuito a un equipo de cómputo funcional, con acceso permanente a internet de calidad.
 
 ###### Artículo 71.
 
@@ -897,19 +899,29 @@ El calendario que la Autoridad Educativa Federal determine para cada ciclo lecti
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo. Además de conocer y acatar los lineamientos y protocolos expedidos por la Secretaría para la atención oportuna de situaciones en las que se vean vulnerados los derechos de las niñas, niños, adolescentes y jóvenes.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### Artículo 78.
 
-La Secretaría procurará establecer, de acuerdo con la suficiencia presupuestal, las disposiciones reglamentarias y la planeación para implementar el programa Escuela para Padres, Madres y Tutores en la entidad, que podrá incluir actividades de formación, capacitación y orientación como pláticas, cursos, conferencias, talleres, dinámicas de integración o cápsulas informativas, en los centros escolares o a través de los medios digitales e impresos, para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría procurará establecer, de acuerdo con la suficiencia presupuestal, las disposiciones reglamentarias y la planeación para implementar el programa Escuela para Padres, Madres y Tutores en la entidad, que podrá incluir actividades de formación, capacitación y orientación como pláticas, cursos, conferencias, talleres, dinámicas de integración o cápsulas informativas, en los centros escolares o a través de los medios digitales e impresos, para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, igualdad de género, discriminación en razón de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 Las disposiciones que en la materia emita la Secretaría para el diseño, promoción, ejecución y evaluación del programa Escuela para Padres, Madres y Tutores deberán estar enfocadas al cumplimiento de los siguientes objetivos:
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
 I. Asegurar la formación y actualización periódica de madres, padres, tutores o de quienes ejerzan la patria potestad para el desarrollo de habilidades parentales en el conocimiento, cuidado, protección y formación de sus hijos, hijas o pupilos;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
 II. Orientar a madres, padres, tutores o a quienes ejerzan la patria potestad, en el cumplimiento de sus responsabilidades familiares y educativas para asegurar el sano desarrollo físico y mental de las niñas, niños o adolescentes, en cualquier ámbito en donde se desenvuelvan;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+
 III. Contribuir en la capacitación de madres, padres, tutores o de quienes ejerzan la patria potestad, para la protección de los derechos de las y los menores, el respeto a su dignidad y bienestar integral; y
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
 IV. Generar espacios de diálogo, reflexión e intercambio de experiencias entre madres, padres, tutores o quienes ejerzan la patria potestad para la transmisión de conocimientos referentes al desarrollo, formación y crecimiento de las niñas, niños y adolescentes.
 
@@ -2332,5 +2344,19 @@ P.O. 3 DE MAYO DE 2024.
 P.O. 3 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 865 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 888 POR EL QUE SE REFORMA EL ARTÍCULO 70 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 890 POR EL QUE SE REFORMA EL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
