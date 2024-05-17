@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2022-04-12"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -811,7 +811,9 @@ I. Conducirse siempre con apego al orden jurídico y respeto a los derechos huma
 
 II. Prestar auxilio a las personas que hayan sido víctimas de algún delito, en la medida que resulte posible, así como brindar protección a sus bienes y derechos. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
 
-III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su origen étnico o nacional, género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+
+III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su origen étnico o nacional, características sexuales, identidad o expresión de género, orientación sexual, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 IV. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de ello deberán denunciarlo inmediatamente ante la autoridad competente;
 
@@ -978,3 +980,9 @@ P.O. 12 DE ABRIL DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Poder Ejecutivo del Estado de Hidalgo, de conformidad con su disponibilidad presupuestal y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, proveerá administrativamente lo necesario y realizará los ajustes presupuestales procedentes, para la creación y operación de la Fiscalía Especial para la Investigación del Delito de Tortura.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 886 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
