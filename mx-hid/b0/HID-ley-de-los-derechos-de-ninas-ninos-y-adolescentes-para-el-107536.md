@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-05-09"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -2191,6 +2191,12 @@ XV. Realizar y promover estudios e investigaciones para fortalecer las acciones 
 
 XVI. Las demás que les confieran otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+###### Artículo 119 Bis.
+
+En los casos que se detecten embarazos de menores de 18 años, los servicios de salud darán vista a la Procuraduría de Protección, a efecto de denunciar ante el Ministerio Público aquellos hechos en los que se presuman conductas delictivas en contra de las niñas y adolescentes.
+
 ###### Artículo 120.
 
 Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá seguir el siguiente procedimiento:
@@ -2808,5 +2814,11 @@ P.O. 9 DE MAYO DE 2024.
 P.O. 9 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 879 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 102 Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑOS, NIÑAS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 893 POR EL QUE SE ADICIONA EL ARTÍCULO 119 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
