@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-04-04"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -128,6 +128,10 @@ Para el cumplimiento del objeto de esta Ley, el Ejecutivo Estatal por sí mismo 
 Para los efectos de esta Ley, se entenderá por:
 
 I.- Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+I Bis.- Astroturismo: Turismo que integra un conjunto de actividades lúdico-recreativas relacionadas con el acceso y disfrute de la astronomía en zonas naturales libres de contaminación atmosférica y lumínica del estado.
 
 II.- Atlas Turístico de México: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
@@ -373,9 +377,13 @@ XXIX Bis.- Promover que los prestadores de servicios turísticos apliquen polít
 
 XXIX Ter.- Promover una cultura ecológica y de preservación del medio ambiente en los servicios turísticos;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-XXIX Quater.- Conjuntar esfuerzos en materia de verificación e inspección, mediante convenios de coordinación con las autoridades en materia de salubridad, seguridad, protección civil, higiene o protección al consumidor, así como con los municipios; y
+XXIX Quater.- Conjuntar esfuerzos en materia de verificación e inspección, mediante convenios de coordinación con las autoridades en materia de salubridad, seguridad, protección civil, higiene o protección al consumidor, así como con los municipios;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XXIX Quinter. Promover e impulsar estrategias institucionales para el desarrollo del astroturismo en coordinación con los municipios; y
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -499,9 +507,9 @@ IV.- Elaborar, aplicar y evaluar, con la participación de la Secretaría, el Pr
 
 V.- Atender los asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley, u otros ordenamientos legales en concordancia con ella;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-VI.- Constituir el Consejo Municipal de Turismo, el cual deberá sesionar cada trimestre.
+VI. Constituir el Consejo Municipal de Turismo, garantizando el principio de paridad de género, el cual deberá sesionar cada trimestre.
 
 VII.- Consensuar con los sectores privado y social, acciones tendientes a detonar programas en el sector con el impulso de las micro, pequeñas y medianas empresas turísticas;
 
@@ -607,13 +615,17 @@ Con fundamento en la evaluación y análisis realizado, la Secretaría presentar
 
 La Comisión Ejecutiva es una comisión intersecretarial, que tiene como objeto conocer, atender y resolver los asuntos de naturaleza turística, relacionados con la competencia de dos o más Dependencias y/o Entidades de la Administración Pública Estatal, además de servir como órgano de consulta institucional para la atención de asuntos vinculados con el sector.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
 ###### Artículo 21.
 
-La Comisión Ejecutiva será presidida por el Titular del Ejecutivo Estatal y en sus ausencias será sustituido por el titular de la Secretaría; estará integrada por representantes de las Dependencias y Entidades relacionadas con la actividad turística, conforme a lo que establezcan las disposiciones reglamentarias.
+La Comisión Ejecutiva será presidida por la persona titular del Poder Ejecutivo Estatal y en sus ausencias será sustituido por la persona titular de la Secretaría; estará integrada por personas representantes de las Dependencias y Entidades relacionadas con la actividad turística, conforme a lo que establezcan las disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### Artículo 22.
 
-La Comisión Ejecutiva podrá crear comités especializados para los diversos asuntos relacionados con el turismo, como mercadotecnia e inversiones, capacitación y certificación, entre otras. Dichos Comités instrumentarán las medidas de evaluación que consideren convenientes para la actividad y para el logro de las estrategias y actividades emprendidas.
+La Comisión Ejecutiva podrá crear comités especializados para los diversos asuntos relacionados con el turismo, como mercadotecnia e inversiones, capacitación y certificación, entre otras. Dichos Comités deberán de integrarse garantizando el principio de paridad de género y tendrán por objetivo instrumentar las medidas de evaluación que consideren convenientes para la actividad y para el logro de las estrategias y actividades emprendidas.
 
 ### CAPÍTULO IX. DEL CONSEJO CONSULTIVO PARA EL DESARROLLO TURÍSTICO SUSTENTABLE DE HIDALGO
 
@@ -623,19 +635,17 @@ La Comisión Ejecutiva podrá crear comités especializados para los diversos as
 
 En cumplimiento de lo establecido en la Ley General, el Consejo será el órgano de consulta de la Secretaría y el instrumento por el que se fomentarán acciones de cooperación, análisis y suma de esfuerzos entre los sectores público, privado y social, con el fin de lograr un desarrollo integral y sustentable de la actividad turística del Estado. Este será integrado bajo el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### Artículo 24.
 
-El Consejo estará presidido por el Titular del Ejecutivo Estatal y en sus ausencias, por el titular de la Secretaría; estará integrado por los funcionarios competentes de las Dependencias y Entidades de la Administración Pública Estatal involucrados con los asuntos del sector turístico, por un representante del Comité, por los Presidentes Municipales vinculados a los temas, proyectos y asuntos definidos para tratar en cada sesión del Consejo, conforme lo establecido en las disposiciones reglamentarias de esta Ley.
-
-El Comité deberá estar integrado conformé a la normatividad vigente.
+El Consejo estará presidido por la persona Titular del Poder Ejecutivo Estatal y en sus ausencias, por la persona titular de la Secretaría; estará integrado por las funcionarias y los funcionarios competentes de las Dependencias y Entidades de la Administración Pública Estatal involucrados con los asuntos del sector turístico, por una persona representante del Comité, por las presidentas y los presidentes municipales vinculados a los temas, proyectos y asuntos definidos para tratar en cada sesión del Consejo, conforme lo establecido en las disposiciones reglamentarias de esta Ley.
 
 ###### Artículo 25.
 
 Cuando el Ejecutivo Estatal así lo resuelva, podrán ser invitados representantes de instituciones y entidades públicas federales, de los sectores privado, social ó de la población, y demás organizaciones académicas u organismos internacionales, o personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
 
-### CAPITULO X. DEL TURISMO SUSTENTABLE
+### CAPÍTULO X. DEL TURISMO SUSTENTABLE
 
 ###### Artículo 26.
 
@@ -695,11 +705,23 @@ La Secretaría a efecto de impulsar el turismo en la entidad, diversificará y c
 
 En el marco del Sistema Estatal de Financiamiento, la Secretaría, en coordinación con la Secretaría de Desarrollo Económico del Estado, promoverá la existencia de instrumentos financieros que respalden el desarrollo y la comercialización de productos turísticos sustentables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE MAYO DE 2024)</small>
+
+### CAPÍTULO X BIS. DEL ASTROTURISMO
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+La Secretaría promoverá e impulsará el desarrollo del astroturismo en coordinación con los municipios.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+###### Artículo 31 Ter.
+
+La Secretaría impulsará la celebración de convenios con el sector público, privado y social para promover los destinos en donde se desarrollen actividades relacionadas con el astroturismo.
+
 ### CAPÍTULO XI. DEL TURISMO SOCIAL
-
-### CAPÍTULO XI BIS. DEL TURISMO INCLUSIVO
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### Artículo 32.
 
@@ -715,9 +737,9 @@ La Secretaría impulsará la celebración de convenios entre los prestadores de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2023)</small>
 
-### CAPÍTULO XII. DEL TURISMO ACCESIBLE
+### CAPÍTULO XI BIS. DEL TURISMO INCLUSIVO
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### Artículo 34 Bis.
 
@@ -729,9 +751,9 @@ La Secretaría promoverá acciones para propiciar el turismo inclusivo en el Est
 
 La Secretaría de manera conjunta con los municipios y sectores de la sociedad diseñarán políticas públicas con enfoque inclusivo.
 
-### CAPÍTULO XII BIS. DEL TURISMO GASTRONÓMICO
+### CAPÍTULO XII. DEL TURISMO ACCESIBLE
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 35.
 
@@ -743,19 +765,9 @@ La Secretaría procurará que los programas de señalización del sector conside
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO XII TER. DEL TURISMO DEPORTIVO
+### CAPÍTULO XII BIS. DEL TURISMO GASTRONÓMICO
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
-
-Artículo 36 SEXIES. La Secretaría, conjuntamente con el Instituto Hidalguense del Deporte, los municipios, el sector privado y social, impulsará el desarrollo de productos turísticos y eventos para el sector deportivo, respectivamente.
-
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
-
-Artículo 36 SEPTIES. La Secretaría, en coordinación con las dependencias y entidades competentes de la Administración Pública Estatal, Municipal, y las organizaciones del sector social, llevará a cabo programas de promoción al turismo deportivo, procurando incluir actividades con perspectiva de género y en beneficio de los distintos sectores poblacionales.
-
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
-
-Artículo 36 OCTIES. Las y los organizadores de eventos deportivos y prestadores de servicios turísticos, deberán tramitar los permisos, licencias y autorizaciones respectivas; mismos que deberán gestionarse ante las instancias competentes.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 36 Bis.
 
@@ -783,11 +795,21 @@ La Secretaría promoverá los recorridos turísticos por las rutas gastronómica
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2024)</small>
 
+### CAPÍTULO XII TER. DEL TURISMO DEPORTIVO
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 36 SEXIES. La Secretaría, conjuntamente con el Instituto Hidalguense del Deporte, los municipios, el sector privado y social, impulsará el desarrollo de productos turísticos y eventos para el sector deportivo, respectivamente.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 36 SEPTIES. La Secretaría, en coordinación con las dependencias y entidades competentes de la Administración Pública Estatal, Municipal, y las organizaciones del sector social, llevará a cabo programas de promoción al turismo deportivo, procurando incluir actividades con perspectiva de género y en beneficio de los distintos sectores poblacionales.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+
+Artículo 36 OCTIES. Las y los organizadores de eventos deportivos y prestadores de servicios turísticos, deberán tramitar los permisos, licencias y autorizaciones respectivas; mismos que deberán gestionarse ante las instancias competentes.
+
 ### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
-
-### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
 ###### Artículo 37.
 
@@ -805,7 +827,9 @@ Será de especial atención la incorporación de micro, pequeñas y medianas emp
 
 Le corresponde a la Secretaría, en coordinación con la Secretaría de Desarrollo Social de Hidalgo, organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico.
 
-### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
 ###### Artículo 41.
 
@@ -819,7 +843,7 @@ La Secretaría dotará de herramientas y conocimientos a la población local, pa
 
 La Secretaría impulsará la firma de acuerdos y fomentará esfuerzos con las Secretarías Estatales de Educación Pública y del Trabajo y Previsión Social, así como con el Consejo Estatal para la Cultura y las Artes de Hidalgo, para desarrollar acciones encaminadas a la capacitación, profesionalización y certificación laboral de los trabajadores del sector, al igual que participará en la elaboración y actualización de los planes de estudio en materia turística.
 
-### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
+### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 44.
 
@@ -887,7 +911,7 @@ La Secretaría deberá mantener una estrecha comunicación y coordinación con l
 
 La Secretaría impulsará el desarrollo turístico sustentable de las comunidades mediante la creación y difusión de regiones, rutas y circuitos turísticos con la visión de preservar las raíces históricas y culturales del Estado.
 
-### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
+### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
 
 ###### Artículo 49.
 
@@ -909,7 +933,7 @@ La Promotora integrará el portafolio de proyectos turísticos, el cual será ac
 
 Cuando se trate de inversiones en el sector turístico, se podrá considerar el posible otorgamiento de los estímulos y apoyos que consigna la Ley de Fomento y Desarrollo Económico del Estado de Hidalgo. La Secretaría podrá, en apego a las disposiciones legales vigentes, proponer ante las autoridades competentes, se otorguen incentivos fiscales en apoyo a las inversiones turísticas en la Entidad.
 
-### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
+### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
 
 ###### Artículo 54.
 
@@ -975,7 +999,7 @@ La Secretaría en el ejercicio de sus atribuciones, promoverá con la Secretarí
 
 La Secretaría realizará estudios e investigaciones en materia turística que conduzcan a elevar la competitividad del sector y facilitar las acciones de planeación de los sectores privado y social.
 
-### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
+### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
 
 ###### Artículo 59.
 
@@ -995,7 +1019,7 @@ III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y mo
 
 Los procedimientos para la formulación, aprobación, expedición, evaluación y posibles modificaciones de los Ordenamientos Turísticos del Territorio Estatal, se apegarán a la legislación local aplicable en la materia y deberán ser congruentes y corresponder a los programas de ordenamiento turístico general y regional que hayan sido expedidos por la Federación.
 
-### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
 
 ###### Artículo 62.
 
@@ -1041,7 +1065,7 @@ La Secretaría fomentará acuerdos con los Municipios para mantener actualizada 
 
 La Secretaría expedirá de manera anual comprobante de inscripción al Registro, el cual deberá colocarse en lugar visible en los establecimientos del Sector para los turistas.
 
-### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
+### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 70.
 
@@ -1161,9 +1185,7 @@ Los Prestadores de Servicios Turísticos, están obligados a preservar y conserv
 
 En caso de incumplimiento en la prestación de servicios pactados por parte del prestador de servicios, tendrá la obligación de compensar, reembolsar o bonificar por el servicio incumplido a elección del turista.
 
-### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
 
 ###### Artículo 78.
 
@@ -1220,6 +1242,10 @@ V.- Cuidar y conservar el entorno ecológico, así como, abstenerse de adquirir 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 VI.- Atender las normas sanitarias y de higiene en las instalaciones y servicios turísticos, establecidas en las disposiciones legales y por las autoridades competentes.
+
+### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 ###### Artículo 80.
 
@@ -1391,6 +1417,18 @@ SEGUNDO. Para dar cumplimiento a los artículos 46 Bis, 46 Ter y 46 Quater, el P
 
 P.O. 4 DE ABRIL DE 2024.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 813 POR EL QUE SE ADICIONA LA FRACCIÓN XII BIS AL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 813 POR EL QUE SE ADICIONA LA FRACCIÓN XII BIS AL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 896 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 897 POR EL QUE SE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
