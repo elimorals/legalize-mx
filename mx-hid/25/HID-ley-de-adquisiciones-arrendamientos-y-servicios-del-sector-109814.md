@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2022-10-21"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -452,6 +452,10 @@ Cuando desaparezcan las causas que hubieren motivado la suspensión del registro
 La Contraloría cancelará el registro del proveedor en el Padrón de Proveedores, cuando:
 
 I. La información que hubiere proporcionado para la inscripción, resultare falsa o haya actuado con dolo o mala fe en algún procedimiento de contratación para la adjudicación del contrato, en su celebración o en su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+I Bis. Se descubra por cualquier causa que no cuenta con las mercancías o servicios necesarios y/o que los obtiene de plataformas digitales o de terceros para revenderlos u ofrecerlos a precios elevados;
 
 II. No cumpla en sus términos con algún contrato por causas imputables a él y perjudique con ello gravemente los intereses de los convocantes afectadas;
 
@@ -1520,5 +1524,11 @@ P.O. 28 DE MARZO DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 246 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 49 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 891 POR EL QUE SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 31 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
