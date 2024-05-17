@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2024-04-22"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -613,6 +613,8 @@ Cuando ocurra un desastre natural o urbano, un atentado terrorista o accidentes 
 
 ### CAPÍTULO V. MIGRANTES EN CONTEXTO DE MOVILIDAD
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
 ###### Artículo 33.
 
 Se crea el Consejo Estatal de Atención y Protección al Migrante como un órgano colegiado, con el objeto de evaluar yaprobar (sic) políticas públicas y programas para la atención de las personas migrantes y sus familias.
@@ -707,7 +709,7 @@ IX.- Las demás que determine esta Ley, su Reglamento y demás disposiciones nor
 
 ###### Artículo 38.
 
-Las personas migrantes que no sean originarias del Estado de Hidalgo y que se encuentren en territorio estatal tienen derecho a recibir un trato digno, justo y humano, prohibiéndose cualquier acto de discriminación, xenofobia, segregación, exclusión o restricción, por razón de su origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza o cualquier otra conducta que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales del ser humano.
+Las personas migrantes que no sean originarias del Estado de Hidalgo y que se encuentren en territorio estatal tienen derecho a recibir un trato digno, justo y humano, prohibiéndose cualquier acto de discriminación, xenofobia, segregación, exclusión o restricción, por razón de su origen étnico, nacional o regional, la identidad o la expresión de género, características sexuales, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil, el trabajo desempeñado, las costumbres, la raza o cualquier otra conducta que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales del ser humano
 
 ###### Artículo 39.
 
@@ -770,5 +772,11 @@ P.O. 15 DE JULIO DE 2022.
 P.O. 22 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 843 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 895 QUE REFORMA EL ARTÍCULO 38 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
