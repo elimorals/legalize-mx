@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2024-04-04"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -1384,6 +1384,12 @@ Se concede acción popular para denunciar los malos tratos a los adultos mayores
 ###### Artículo 202 Ter.
 
 Los responsables de las instituciones de asistencia social pública o a través de los Directores o encargados de los centros asistenciales, en donde se reciban a adultos mayores, desempeñarán la Tutela de éstos, cuando así sea necesario y no tengan quien los represente, con arreglo a las leyes. En este caso no es necesario el discernimiento del cargo.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+###### Artículo 202 Quater.
+
+Para los supuestos que no se encuentren regulados en el presente capítulo en materia de personas adultos mayores, se atenderán conforme a las disposiciones expresas y aplicables de la Ley de los Derechos de las Personas Adultas Mayores para el Estado de Hidalgo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3572,5 +3578,11 @@ P.O. 17 DE ENERO DE 2024.
 P.O. 4 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 828 POR EL QUE SE ADICIONA EL ARTÍCULO 12 TER A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 887 POR EL QUE SE ADICIONA EL ARTÍCULO 202 QUÁTER A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
