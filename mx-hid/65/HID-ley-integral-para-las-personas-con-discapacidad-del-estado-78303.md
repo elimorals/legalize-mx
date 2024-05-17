@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-05-09"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -245,13 +245,17 @@ XXV.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras nec
 
 XXVI.- Persona con discapacidad con movilidad reducida. Aquélla que, de forma permanente o temporal, tiene limitada su capacidad de movimiento;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-XXVII.- Persona con discapacidad con necesidad de apoyo generalizado. Aquella persona que, como consecuencia de su discapacidad, requiere de la atención o ayuda de otra u otras personas para realizar las actividades esenciales de la vida diaria; y
+XXVII.- Persona con discapacidad con necesidad de apoyo generalizado. Aquella persona que, como consecuencia de su discapacidad, requiere de la atención o ayuda de otra u otras personas para realizar las actividades esenciales de la vida diaria;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-XXVIII.- Trato preferencial: Atención prioritaria a las personas con discapacidad, para agilizar los trámites o procedimientos administrativos que realicen, evitando cualquier tipo de turno o mecanismo de espera.
+XXVIII.- Trato preferencial: Atención prioritaria a las personas con discapacidad, para agilizar los trámites o procedimientos administrativos que realicen, evitando cualquier tipo de turno o mecanismo de espera; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XXIX.- Persona Cuidadora: Persona que realiza labores o actividades de cuidados directos o indirectos y/o gestión de cuidados, de forma remunerada o no remunerada.
 
 ### CAPÍTULO III. DE LA DISCAPACIDAD
 
@@ -1282,5 +1286,11 @@ P.O. 3 DE MAYO DE 2024.
 P.O. 9 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 870 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 64 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 904 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 5 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
