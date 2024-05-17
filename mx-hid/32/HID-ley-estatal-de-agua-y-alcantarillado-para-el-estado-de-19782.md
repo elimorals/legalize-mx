@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2022-10-27"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -1313,11 +1313,25 @@ VII. Mezclar o juntar residuos con distintas categorías de manejo.
 
 Las autoridades en materia de agua promoverán una cultura para el uso eficiente y cuidado del recurso, a través de la realización de acciones y campañas permanentes tendientes a:
 
-I.- Concientizar a la población que el elemento agua es un recurso vital y escaso que debe aprovecharse con racionalidad y eficiencia;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-II.- Realizar diagnósticos periódicos a fin de identificar las condiciones de consumo del agua en el Estado y el uso racional de la misma;
+I.- Promover mediante campañas periódicas e instrumentos de participación ciudadana, la concientización de la población sobre el uso eficiente del agua y su conservación en todas las fases de su ciclo;
 
-III.- Promover la utilización de aparatos ahorradores;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+I Bis.- Impulsar una cultura del cuidado del agua que considere a este elemento como un recurso vital, escaso, finito y vulnerable mediante la educación ambiental;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+I Ter.- Programar, y realizar acciones para el aprovechamiento racional del agua y la conservación de su calidad;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+
+II.- Realizar y publicar diagnósticos y estudios periódicos a fin de identificar las condiciones de consumo del agua en el Estado y el uso racional de la misma;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+
+III.- Promover la utilización de aparatos ahorradores y de opciones tecnológicas alternas, mecanismos o dispositivos de control e infiltración de agua pluvial, que permitan el ahorro, uso y aprovechamiento del agua de manera eficiente y racional;
 
 IV.- Coordinar el desarrollo de sus actividades con organismos públicos y privados, para la implementación de campañas de asistencia técnica, capacitación, promoción y difusión, concientización y demás que se requieran para garantizar el cuidado óptimo del agua y el fomento de la Cultura del Agua;
 
@@ -1325,21 +1339,33 @@ V.- Propiciar la prevención y control de la contaminación;
 
 VI.- Promover su saneamiento;
 
-VII.- Procurar un entorno educativo que difunda los beneficios del uso eficiente y cuidado del agua, así como el respeto al medio ambiente; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-VIII.- Promover ante las instituciones educativas del Estado la realización de cursos, talleres, conferencias y diplomados en materia de cultura del agua y uso racional de la misma, en el marco del día mundial del agua; (sic)
+VII.- Procurar un entorno educativo que difunda los beneficios del uso eficiente y cuidado del agua, así como el respeto y protección al medio ambiente;
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE MAYO DE 2024)</small>
+
+VIII.- Promover ante las instituciones educativas del Estado la realización de cursos, talleres, conferencias y diplomados en materia de cultura del agua y uso racional de la misma, en el marco del día mundial del agua;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+IX.- Impulsar en las empresas constructoras de viviendas, conjuntos habitacionales, espacios agropecuarios, industriales, comerciales y de servicios, el uso eficiente y cuidado del agua, así como que los sistemas y la tecnología que emplean sea la adecuada para el ahorro y aprovechamiento del agua; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+X.- Promover en la población la captación, el uso e instalación de mecanismos o dispositivos de control e infiltración de agua para el uso y aprovechamiento de aguas pluviales.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### Artículo 84 Ter.
 
-Los organismos públicos procurarán la implementación de medidas que propicien el uso eficiente y cuidado del agua, mediante la adquisición e instalación de equipamientos con diseños, materiales y características que propicien el uso racional del agua.
+Los organismos públicos procurarán la implementación de medidas que propicien el uso eficiente y cuidado del agua, mediante la adquisición e instalación de equipamientos con diseños, materiales y características que propicien el uso racional del agua, así como mantener en buen estado su instalación hidráulica evitando su desperdicio.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### Artículo 84 Quater.
 
-Los organismos públicos y privados que se destaquen en su labor en la promoción de la cultura del agua, o por el cuidado y uso eficiente de la misma, podrán ser considerados para el otorgamiento de reconocimientos por este concepto.
+Los organismos públicos y privados que se destaquen en la promoción y defensa del derecho humano al agua, o por su labor en la promoción de la cultura del agua, o por el cuidado y uso eficiente de la misma, podrán ser considerados para el otorgamiento de reconocimientos por este concepto.
 
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
 
@@ -1365,13 +1391,21 @@ V.- Promover planes y programas coordinados con los organismos públicos y priva
 
 VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-VII.- Promover la utilización de sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial; y
+VII.- Promover la utilización de sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-VIII.- Promover el derecho humano al agua.
+VIII.- Promover el derecho humano al agua;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+IX.- Promover planes y programas para la reforestación, restauración de ecosistemas, la protección de zonas ecológicas, áreas verdes, represas, ollas de agua, lagunas de filtración, pozos de absorción; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+X.- Promover acciones que permitan mejorar la captación de aguas pluviales y el tratamiento de aguas residuales, con el fin de mejorar e incrementar los niveles y calidad del agua de los mantos freáticos en coordinación con la Comisión Nacional del Agua y la Secretaría del Medio Ambiente del Gobierno Federal.
 
 ### CAPITULO IV. DEL SERVICIO PUBLICO DE TRATAMIENTO DE AGUAS VERTIDAS AL SISTEMA DE ALCANTARILLADO
 
@@ -2322,5 +2356,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 271 QUE REFORMAN LA FRACCIÓN VII, DEL ARTÍCULO 9, Y LA FRACCIÓN II, DEL ARTÍCULO 33; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO, AL ARTÍCULO 124, DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 894 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
