@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2024-01-19"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 4 DE JUNIO DE 2024 Y 15 DE JULIO DE 2024, EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
-
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -797,7 +795,13 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 
 Los sindicatos son las asociaciones de trabajadores que laboran en un mismo Poder del Estado, en un mismo organismo descentralizado, o en un mismo Municipio, constituidos para el estudio, mejoramiento y defensa de sus intereses comunes.
 
-En cada uno de dichos Poderes, organismos o Municipios sólo habrá un sindicato, en caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal Estatal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MAYO DE 2024)</small>
+
+Todas y todos los trabajadores tienen derecho a formar parte de un sindicato y a constituir sindicatos, sin necesidad de autorización previa.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
+Las y los trabajadores de cada uno de dichos Poderes, organismos o Municipios tienen reconocido el derecho a la sindicación sin más limitaciones que las que la libertad sindical impone en la materia. En caso de que concurran más de un sindicato, el contrato colectivo de trabajo se celebrará con aquel que represente a la mayoría, pero en ningún momento se objetará la coexistencia de diversa entidad sindical.
 
 ###### ARTICULO 63.
 
@@ -807,9 +811,11 @@ Todos los trabajadores tienen derecho a formar parte del sindicato correspondien
 
 Los trabajadores de confianza no podrán formar parte de los sindicatos. Cuando los trabajadores sindicalizados desempeñen un puesto de confianza, quedarán en suspenso todas sus obligaciones y derechos sindicales.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 65.
 
-Para que se constituya un sindicato, se requiere que lo formen veinte trabajadores o más, y que no exista dentro de la dependencia otra agrupación sindical que cuente con mayor número de miembros.
+Para que se constituya un sindicato, se requiere que lo formen veinte trabajadores o más.
 
 ###### ARTICULO 66.
 
@@ -1576,3 +1582,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 626 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 899 POR EL QUE SE REFORMA LOS ARTÍCULOS 62 Y 65 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
