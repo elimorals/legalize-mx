@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2024-01-19"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -105,11 +105,17 @@ IX.- Consejo. El Consejo Consultivo de la Comisión;
 
 X.- Ayuntamientos. Conjunto de autoridades que se encargan de la administración pública de los Municipios;
 
-XI.- Poder Judicial. Todos los órganos que forman parte del Poder Judicial del Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XI.- Poder Judicial. Todos los órganos que forman parte del Poder Judicial del Estado de Hidalgo;
 
-XII.- Autoridades del Estado. Las dependencias, así como las entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Públicos Autónomos, descentralizados, desconcentrados y Ayuntamientos, a través de las y los servidores públicos.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XII.- Autoridades del Estado. Las dependencias, así como las entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Públicos Autónomos, descentralizados, desconcentrados y Ayuntamientos, a través de las y los servidores públicos; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XIII.- Violación de derechos humanos. Todo acto u omisión que cause indebidamente un perjuicio, restricción, menoscabo o afectación a los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano es parte, las leyes federales, estatales y municipales, por parte de alguna autoridad.
 
 ## Título Segundo. De los Derechos Humanos y el combate a la Discriminación en el Estado de Hidalgo
 
@@ -1648,5 +1654,11 @@ P.O. 15 DE JUNIO DE 2023.
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 622 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 905 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
