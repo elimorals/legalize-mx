@@ -4,7 +4,7 @@ identifier: "HID-ley-de-pesca-y-acuacultura-sustentable-para-el-estado-de-109370
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-10"
-last_updated: "2015-08-10"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de agosto de 2015.
 
@@ -41,7 +41,9 @@ QUE CONTIENE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos (sic) 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 DÉCIMO CUARTO.- Que en virtud de lo anteriormente expuesto y derivado del análisis y estudio a la Iniciativa de mérito, al seno de la Primera Comisión Permanente de Legislación y Puntos Constitucionales, es que consideramos pertinente su aprobación, para crear la Ley de Pesca y Acuacultura sustentables para el Estado de Hidalgo.
 
@@ -321,9 +323,15 @@ XXXVII. Ejercer las funciones que le transfiera la Federación, conforme a lo pr
 
 XXXVIII. Celebrar convenios o acuerdos de coordinación con el Gobierno Federal, Municipal y organismos e instituciones de investigación y educación superior afines en materia de pesca y acuacultura;
 
-XXXIX. Aplicar las sanciones económicas establecidas en la presente Ley, su Reglamento y demás normatividad vigente, a través de la Secretaría de Finanzas; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-XL. Las demás que le confieran la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y las demás disposiciones jurídicas aplicables.
+XXXIX. Aplicar las sanciones económicas establecidas en la presente Ley, su Reglamento y demás normatividad vigente, a través de la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XL. Atender los factores de riesgo en materia de pesca y acuacultura ocasionados por la escasez de agua; y
+
+XLI. Las demás que le confieran la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y las demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 9°.
 
@@ -1842,3 +1850,11 @@ PRESIDENTA, DIP. NADIA CAROLINA RUIZ MARTÍNEZ, RÚBRICA; SECRETARIO, DIP. JUAN 
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS CUATRO DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL QUINCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 898 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 8 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
