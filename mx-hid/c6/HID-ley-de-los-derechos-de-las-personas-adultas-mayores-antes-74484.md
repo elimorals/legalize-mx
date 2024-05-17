@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-05-09"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -242,6 +242,10 @@ VII.- Derecho a la asistencia social.- Por tanto, se reconoce que tienen derecho
 7. Ocupar su tiempo libre en actividades productivas, recreativas, culturales, deportivas y de esparcimiento y realizar giras de turismo social dentro y fuera del Estado.
 
 8. Ser beneficiario de los porcentajes de descuentos concertados y difundidos por el Instituto, en determinados bienes y servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales, así como de los descuentos en transporte público para su cómodo traslado, tarifas en el suministro de agua potable y alcantarillado, así como su afiliación a programas de apoyo a las personas adultos mayores.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+9. Solicitar por decisión personal, el ingreso a una institución de asistencia social que se dedique al cuidado de personas adultas mayores, a fin de garantizar la autonomía personal y el libre desarrollo.
 
 VIII.- Derecho a constituir organizaciones.- Conformar organizaciones con la finalidad de promover su desarrollo e inducir a las acciones dirigidas a este sector;
 
@@ -1126,5 +1130,11 @@ P.O. 4 DE ABRIL DE 2024.
 P.O. 9 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 881 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 32 TER DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 902 POR EL QUE SE ADICIONA EL NUMERAL 9 A LA FRACCIÓN VII DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
