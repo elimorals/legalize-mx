@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2021-09-13"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -119,7 +119,9 @@ IX.- Institución Fiduciaria: Es la institución de crédito a quien el fideicom
 
 X.- Órgano de Gobierno: Al cuerpo colegiado que funge como autoridad máxima de la Entidad Paraestatal;
 
-XI.- Plan Estatal de Desarrollo: Es el instrumento rector donde se precisan los objetivos estatales, estrategias, líneas de acción y prioridades del desarrollo integral del Estado de Hidalgo y establece los lineamientos de política de carácter global, regional y municipal; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XI.- Plan Estatal de Desarrollo: Documento rector de la planeación estatal, en el que se establecen las directrices generales de política pública, de carácter estratégico, de prospectiva, que determina los objetivos y metas para orientar la conducción del desarrollo del Estado en todos los ámbitos y rubros de la gestión pública gubernamental; y
 
 XII.- Reglamento: Al Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo.
 
@@ -307,6 +309,14 @@ VIII.- Establecer un sistema de indicadores que permita evaluar la gestión en b
 
 IX.- Proponer al Órgano de Gobierno el nombramiento o la remoción de los dos niveles administrativos inmediatos inferiores al del Director General, la fijación de sueldos y demás prestaciones de conformidad a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia;
 
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+IX Bis.- Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal, para así poder mejorar la gestión de la misma;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+IX Ter.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
 X.- Presentar periódicamente al Órgano de Gobierno el informe del desempeño de las actividades de la Entidad Paraestatal, incluida la evaluación programática - presupuestal, el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
@@ -475,7 +485,11 @@ El Director General del Organismo Descentralizado será designado por el Goberna
 
 I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos políticos; y
 
-II.- No tener alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones III, IV y V del Artículo 24 de esta Ley.
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+II.- Haber desempeñado actividades profesionales, de servicio público o administrativas, relacionadas con materias afines a las de competencia de cada entidad paraestatal; y
+
+III.- No tener alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones III, IV y V del Artículo 24 de esta Ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -491,7 +505,9 @@ Los demás servidores públicos de los Organismos Descentralizados, responderán
 
 Los Organismos Descentralizados deberán inscribir en el Registro Público de Organismos Descentralizados en un plazo no mayor de cuarenta y cinco días a la fecha de su constitución, modificaciones o reformas.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+En caso de incumplimiento a esta disposición dentro del término señalado, la persona titular de la dirección general será responsable de dicha omisión, procediéndose en términos de la normativa vigente en materia de responsabilidades administrativas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -499,7 +515,21 @@ Los Organismos Descentralizados deberán inscribir en el Registro Público de Or
 
 La Unidad de Planeación y Prospectiva operará el Registro Público de Organismos Descentralizados, donde los organismos depositarán información fiscal, administrativa, financiera presupuestal, jurídica y cualquier otra que fuera solicitada para su evaluación.
 
-El Reglamento de esta Ley determinará la organización y funcionamiento del Registro Público de Organismos Descentralizados, las formalidades de las inscripciones y sus anotaciones.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE MAYO DE 2024)</small>
+
+El Reglamento de esta Ley determinará la organización y funcionamiento del Registro Público de Organismos Descentralizados, las formalidades de las inscripciones y sus anotaciones. En dicho Registro deberán, por lo menos, inscribirse:
+
+I. El Estatuto Orgánico y sus reformas o modificaciones;
+
+II. Los nombramientos de las personas que integran el Órgano de Gobierno, así como sus remociones;
+
+III. Los nombramientos y sustituciones de la persona titular de la Dirección General;
+
+IV. Los poderes generales y sus revocaciones;
+
+V. El acuerdo que señale las bases de desincorporación de la entidad, de conformidad con las leyes o decretos que ordenen la misma; y
+
+VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.
 
 ###### Artículo 31.
 
@@ -709,7 +739,9 @@ De igual forma, deberá recibir, tramitar y resolver, las quejas y denuncias pre
 
 El Órgano de Control Interno formará parte de la estructura de la Entidad Paraestatal y tendrá las funciones relativas al control y vigilancia de la gestión pública de la Entidad Paraestatal, conforme a lo dispuesto por las leyes y los reglamentos aplicables, así como los lineamientos que al efecto emita la Secretaría de Contraloría. El Titular del Órgano de Control Interno estará adscrito jerárquica, técnica, funcional y presupuestalmente de la Secretaría de Contraloría, la cual lo nombrará y podrá remover de acuerdo a su normatividad.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Contraloría y Transparencia Gubernamental, podrá acordar que se establezcan órganos de control interno en aquellas Entidades Paraestatales, cuando por las funciones que realicen o por el volumen de las operaciones, se justifique.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
+El Ejecutivo Estatal, por conducto de la Secretaría de Contraloría, podrá acordar que se establezcan órganos de control interno en aquellas Entidades Paraestatales, cuando por las funciones que realicen o por el volumen de las operaciones, se justifique.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -734,6 +766,12 @@ Los fideicomisos públicos a que se refiere el artículo 44 de esta Ley, se ajus
 La Secretaría de Contraloría podrá realizar visitas y auditorías a las Entidades Paraestatales, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los Órganos de Administración, y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
 Para los efectos de responsabilidad, se considerarán como servidores públicos a los particulares o representantes de los sectores social y privado que sean miembros de los Órganos de Gobierno y de los Comités Especializados de las Entidades Paraestatales.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+
+###### Artículo 61 Bis.
+
+En aquellos casos en los que el Órgano de Gobierno, Consejo de Administración, o la Dirección General no dieren cumplimiento a las obligaciones legales que les atribuyen en este ordenamiento, el Ejecutivo Estatal por conducto de las dependencias competentes, así como la dependencia coordinadora de sector y/o vinculo institucional que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar la deficiencias y omisiones para la estricta observancia de las disposiciones de esta ley u otras leyes, lo anterior sin perjuicio de que se adopten otras medidas y que se finquen las responsabilidades a que hubiere lugar.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -814,3 +852,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 750 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 24, DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 889 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
