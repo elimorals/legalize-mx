@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2024-04-22"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -289,13 +289,17 @@ IV.- Normar la actividad de las asociaciones deportivas y establecer sus derecho
 
 V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva a sus trabajadores;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado; y
+VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado;
 
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-VII.- Generar mecanismos con perspectiva de género y de derechos humanos, para garantizar que no exista acoso, violencia, hostigamiento o discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que constituya una agresión al libre desarrollo de la personalidad.
+VII.- Generar mecanismos con perspectiva de género y de derechos humanos, para garantizar que no exista acoso, violencia, hostigamiento o discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que constituya una agresión al libre desarrollo de la personalidad, y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+VIII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talentos deportivos.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
@@ -1894,5 +1898,11 @@ P.O. 29 DE MAYO DE 2023.
 P.O. 22 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 846 POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 892 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 13 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
