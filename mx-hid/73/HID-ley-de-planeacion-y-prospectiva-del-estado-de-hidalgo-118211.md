@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2024-05-03"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -115,9 +115,17 @@ VIII. Incluir en las acciones de la planeación estatal los criterios de desarro
 
 IX. Impulsar la participación obligatoria de todas las dependencias estatales, coordinada y concertada con las dependencias federales y los municipios, inducida con los organismos y organizaciones sociales, en el Sistema Estatal de Planeación Democrática a través del Comité de Planeación para el Desarrollo del Estado;
 
-X. Observar los criterios de la planeación estratégica y la prospectiva para la formulación e implementación de planes, programas y proyectos estratégicos de mediano y largo plazo que tengan vigencia más allá del periodo constitucional de la gestión gubernamental que corresponda; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-XI. La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
+X. Observar los criterios de la planeación estratégica y la prospectiva para la formulación e implementación de planes, programas y proyectos estratégicos de mediano y largo plazo que tengan vigencia más allá del periodo constitucional de la gestión gubernamental que corresponda;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XI. La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+
+XII. El interés superior de la niñez, garantizando de manera plena su derecho al descanso, al juego y al esparcimiento, para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
 ###### ARTÍCULO 4.
 
@@ -189,11 +197,11 @@ Las dependencias y entidades de la Administración Pública Estatal y Municipal 
 
 Los proyectos de iniciativa de leyes y los reglamentos, decretos y acuerdos que formule el Poder Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan Estatal y/o los Programas respectivos.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán planear y conducir sus actividades con perspectiva intercultural y de género en la definición y ejecución de los planes, programas y acciones de gobierno con carácter intersectorial y sujeción a los objetivos y prioridades de la planeación estatal del desarrollo y la prospectiva, a fin de cumplir con la obligación de garantizar la igualdad real de oportunidades entre mujeres y hombres, así como al derecho de una vida libre de violencia.
+Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán planear y conducir sus actividades con perspectiva de género en la definición y ejecución de los planes, programas y acciones de gobierno con carácter intersectorial y sujeción a los objetivos y prioridades de la planeación estatal del desarrollo y la prospectiva, a fin de cumplir con la obligación de garantizar la igualdad real de oportunidades entre mujeres y hombres, así como al derecho de una vida libre de violencia. Adicionalmente, se observará el cumplimiento del interés superior de la niñez.
 
 ###### ARTÍCULO 13.
 
@@ -313,9 +321,9 @@ El Comité de Planeación para el Desarrollo del Estado de Hidalgo tendrá las s
 
 I. Definir, conducir y coordinar las políticas correspondientes al proceso de planeación del desarrollo del Estado;
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
-II. Promover la participación de los diversos sectores sociales para coadyuvar en la formulación, programación, ejecución, evaluación y actualización del Plan Estatal de Desarrollo, contemplando la perspectiva intercultural y de género;
+II. Promover la participación de los diversos sectores sociales para coadyuvar en la formulación, programación, ejecución, evaluación y actualización del Plan Estatal de Desarrollo, contemplando la perspectiva de género, enfoque de derechos humanos y de infancias.
 
 III. Presentar propuestas de proyectos estratégicos para el desarrollo del Estado, incluyendo los que por sus características y dimensiones trasciendan el periodo constitucional de gobierno, para la consecución de los objetivos del Plan Estatal de Desarrollo;
 
@@ -990,3 +998,9 @@ P.O. 3 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 859 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 900 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
