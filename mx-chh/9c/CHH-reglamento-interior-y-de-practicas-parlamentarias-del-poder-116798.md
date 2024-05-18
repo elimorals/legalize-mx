@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2022-08-31"
+last_updated: "2024-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -1379,15 +1379,19 @@ Cuando se trate de Proposiciones con carácter de Punto de Acuerdo no procederá
 
 ### CAPÍTULO VI. PREVENCIONES GENERALES Y MOCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 119.
 
-Las y los diputados aun cuando no estén inscritos en la lista de oradores, podrán solicitar la palabra para rectificar hechos o contestar alusiones personales, cuando haya concluido el orador y sin que puedan hacer uso de la palabra por más de cinco minutos.
+Las y los diputados, aun cuando no estén inscritos en la lista de personas oradoras, podrán solicitar la palabra para rectificar hechos o contestar alusiones personales explícitas, cuando haya concluido la persona oradora y sin que puedan hacer uso de la palabra por más de cinco minutos.
 
 Se considera alusión personal, la referencia a las y los diputados para atribuirles algún hecho o verter una opinión sobre su persona.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 120.
 
-Cuando la alusión se refiera al actuar de algún grupo, coalición parlamentarios o diputados y diputadas independientes del Congreso, la Presidencia concederá la palabra a un representante de aquellos, ajustándose al tiempo de cinco minutos.
+Por disposición expresa del Reglamento, las menciones de personas morales, grupos, partidos o gobiernos no se considerarán como una alusión personal.
 
 La Presidencia únicamente permitirá a las y los diputados intervenir por alusiones personales, siempre y cuando dichas intervenciones no se conviertan en diálogo.
 
@@ -2012,3 +2016,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las iniciativas con carácter de Punto de Acuerdo que se encuentren en estudio en las diversas Comisiones y Comités, a la entrada en vigor de este Decreto, que tengan como propósito las solicitudes de gestión y de información a una dependencia gubernamental, se les dará el tratamiento aludido en el presente Decreto, en el entendido que se tendrán que turnar y dar por atendidas en los términos presentados, mediante acuerdo de trámite, previa consulta y manifestación expresa de la persona iniciadora o, en su caso, del Grupo Parlamentario que se trate.
 
 TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 126 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, será aplicable en las próximas designaciones y nombramientos que se realicen.
+
+P.O. 18 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0846/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
