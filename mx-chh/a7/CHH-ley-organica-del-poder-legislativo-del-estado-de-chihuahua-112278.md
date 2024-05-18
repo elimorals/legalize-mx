@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2024-01-10"
+last_updated: "2024-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -2659,9 +2659,11 @@ IX.- Las y los integrantes de la Comisión Dictaminadora podrán emitir votos pa
 
 ARTÍCULO 192 BIS. Durante la presentación y discusión de los asuntos en tribuna no podrá haber diálogos personales, solo se podrán realizar preguntas a la oradora u orador, siempre y cuando acepte, en cuyo caso, se concederá la palabra desde su curul, hasta por tres minutos, para formular la pregunta, y cinco minutos a la oradora u orador para responderla.
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2024)</small>
 
-ARTÍCULO 192 TER. Cuando la oradora u orador realice alusiones personales a las diputadas y diputados presentes, y si la persona legisladora aludida lo solicita, se le concederá la palabra hasta por cinco minutos desde su curul, pero no podrá haber alusiones sobre alusiones.
+ARTÍCULO 192 TER. Cuando la oradora u orador realice alusiones personales explícitas, a las diputadas y diputados presentes, y si la persona legisladora aludida lo solicita, se le concederá la palabra hasta por cinco minutos desde su curul, pero no podrá haber alusiones sobre alusiones.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 Igualmente, se concederá la palabra hasta por cinco minutos, desde su curul, para rectificación de hechos, en cuyo caso deberá ser respecto al asunto en discusión.
 
@@ -3550,3 +3552,11 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0846/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
