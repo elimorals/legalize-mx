@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-02-24"
+last_updated: "2024-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -772,6 +772,14 @@ Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a ed
 El Sistema Estatal de Salud deberá cumplir y garantizar el derecho a la protección de la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes, sin la necesidad de que estén registrados en algún sistema de salud o que no cuenten con documentación oficial, por lo que las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán cumplir y garantizar este derecho, y adecuar su reglamentación para estos efectos.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, así como el derecho a la información de quienes ejercen la patria potestad, tutela, guarda o custodia.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2024)</small>
+
+###### Artículo 56 Bis.
+
+Para fomentar hábitos alimenticios adecuados y prevenir enfermedades relacionadas con una deficiente nutrición de niñas, niños y adolescentes, el expendio y la distribución de alimentos y bebidas preparadas y procesadas dentro de los planteles educativos, tanto públicos como privados, de educación básica y media superior, deberán sujetarse a lo dispuesto en los lineamientos establecidos por la Secretaría de Educación Pública.
+
+La aplicación, vigilancia y cumplimiento de esta disposición estará a cargo de las autoridades educativas.
 
 ###### Artículo 57.
 
@@ -2838,6 +2846,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0654/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0847/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 56 BIS, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
