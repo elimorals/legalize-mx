@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2019-06-13"
+last_updated: "2024-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -511,7 +509,15 @@ XVI.- Abstenerse de solicitar certificado médico o constancia de no gravidez, a
 
 > <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-XVII. Otorgar permiso de paternidad de cinco días laborales con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de adopción de un infante.
+XVII.- Otorgar permiso de paternidad de cinco días laborales con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de adopción de un infante.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2024)</small>
+
+XVIII.- Otorgar permiso con goce de sueldo, al trabajador o trabajadora que lo solicite, hasta por un día laborable, para acudir a una institución de salud pública o privada a donar sangre de manera altruista, lo que deberá acreditar con la constancia expedida por la Institución a la que hubiere acudido;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2024)</small>
+
+XIX. Otorgar licencia con goce de sueldo al trabajador o trabajadora que done órganos o tejidos de manera altruista, para lo cual deberá presentar previamente solicitud por escrito, acompañando los certificados o documentos que acrediten, el tipo de donación, análisis o estudios clínicos necesarios, la temporalidad de la intervención quirúrgica y de recuperación requeridos, mismos que constituirán el justificante correspondiente. En este caso, no deberán afectarse, suspenderse o disminuirse, total o parcialmente, la antigüedad, el salario, los bonos, las compensaciones, las prestaciones legales o extralegales o cualquier remuneración que venía recibiendo la persona donante hasta antes de la donación de que se trate.
 
 ### CAPITULO II. DEL ESCALAFON
 
@@ -1374,3 +1380,11 @@ NOVENO. En tanto comiencen a operar los registros de Personas Desaparecidas y No
 Asimismo, se deberá migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
 
 DÉCIMO. A partir de la entrada en vigor del presente Decreto, quedan derogadas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+P.O. 18 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 239 POR EL QUE "SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 46 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
