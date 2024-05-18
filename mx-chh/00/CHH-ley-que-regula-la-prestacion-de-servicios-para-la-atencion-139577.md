@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2023-07-29"
+last_updated: "2024-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -867,11 +867,17 @@ X. Comisión Estatal para la Protección contra Riesgos Sanitarios.
 
 XI. Secretaría de Desarrollo Urbano y Ecología.
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2024)</small>
+
+XII. Secretaría de Seguridad Pública del Estado.
+
 ###### Artículo 69.
 
 Podrán participar en sus sesiones, únicamente con derecho a voz, las personas en quienes recaiga la titularidad de las delegaciones, dependencias y entidades de la administración pública federal, estatal, municipal y demás personas que por su conocimiento o experiencias se estimen necesarias, a invitación expresa de la Presidencia.
 
-Serán invitados permanentes: la Comisión Estatal de los Derechos Humanos, la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes; el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto Chihuahuense de las Mujeres; los Municipios de Juárez y Chihuahua, a través de quienes los presidan; una organización de la sociedad civil dedicada a la prestación de servicios en materia de cuidados infantiles, por cada uno de los municipios referidos.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2024)</small>
+
+Serán invitados permanentes: la Comisión Estatal de los Derechos Humanos, la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes; el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto Chihuahuense de las Mujeres; los Municipios de Juárez y Chihuahua, a través de quienes los presidan; una organización de la sociedad civil dedicada a la prestación de servicios en materia de cuidados infantiles, por cada uno de los municipios referidos; así como una persona representante por cada uno de los tipos de Centros de Atención Infantil que existen en el Estado.
 
 ###### Artículo 70.
 
@@ -1216,6 +1222,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0571/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD Y LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0848/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
