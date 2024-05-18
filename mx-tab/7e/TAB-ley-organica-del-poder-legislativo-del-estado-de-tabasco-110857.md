@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2023-04-26"
+last_updated: "2024-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 18 DE MAYO DE 2024; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR DE LOS TREINTA DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024 (ABROGADA).
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -2000,3 +2002,31 @@ P.O. 26 DE ABRIL DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 245 POR EL QUE "SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de los treinta días hábiles siguientes al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Tabasco, publicada el 23 de diciembre de 2015 en el suplemento D del Periódico Oficial del Estado de Tabasco número 7648, así como sus subsecuentes reformas.
+
+El Pleno del Congreso deberá expedir un nuevo Reglamento, en un plazo no mayor a noventa días hábiles a partir de la publicación de esta Ley.
+
+Hasta en tanto se expida dicho ordenamiento se podrán aplicar, en lo que no se opongan a lo señalado en el presente Decreto, el Reglamento Interior y los acuerdos parlamentarios que para el mejor desarrollo de sus funciones apruebe el Congreso a propuesta de la JUCOPO.
+
+###### ARTÍCULO TERCERO.
+
+El sistema de asistencia, votación y audio automatizado, será implementado en el momento en que las finanzas del Congreso lo permitan. En consecuencia, la JUCOPO deberá realizar los trámites y adecuaciones presupuestales para ello.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se establece el sistema de votación automatizado a que se refiere el artículo transitorio anterior, en las votaciones nominales cada Diputada o Diputado emitirá su voto después de que se lea su nombre, en voz alta, para lo cual se pondrá de pie y expresará el sentido de su votación.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado de Tabasco.
