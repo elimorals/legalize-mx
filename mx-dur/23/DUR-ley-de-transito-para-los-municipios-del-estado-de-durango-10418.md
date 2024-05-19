@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2022-12-20"
+last_updated: "2024-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -691,9 +691,17 @@ I.- Cuando el titular sea sancionado por segunda vez en un año, por cometer alg
 
 II.- Cuando el titular cometa por segunda vez en un año alguna infracción a la presente Ley o al reglamento municipal bajo la influencia, legalmente comprobada, de estupefacientes, psicotrópicos u otras sustancias tóxicas;
 
-III.- Cuando al titular se le sancione en dos ocasiones con la suspensión de la licencia; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2024)</small>
 
-IV.- Cuando se compruebe que la información proporcionada para su expedición sea falsa, o alguno de los documentos o constancias exhibidas sean falsas o apócrifas.
+III. Cuando al titular se le sancione en dos ocasiones con la suspensión de la licencia;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2024)</small>
+
+IV. Cuando se compruebe que la información proporcionada para su expedición sea falsa, o alguno de los documentos o constancias exhibidas sean falsas o apócrifas, y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2024)</small>
+
+V. Por resolución judicial firme que así lo determine.
 
 Estos hechos serán puestos del conocimiento de la autoridad competente, en su caso.
 
@@ -964,3 +972,11 @@ Queda sin efecto el Decreto número 70 y publicado en el Periódico Oficial No. 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 568 QUE CONTIENE REFORMA AL ARTÍCULO 48 DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
