@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2023-11-05"
+last_updated: "2024-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
@@ -170,6 +170,10 @@ Además las profesiones mencionadas en los Tratados Internacionales de los que M
 ###### ARTÍCULO 7.
 
 Para obtener título profesional en sus diferentes niveles es indispensable acreditar que se ha cumplido con los requisitos académicos previstos en las leyes aplicables o en las disposiciones que para tal efecto expidan las instituciones educativas autorizadas.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2024)</small>
+
+Así mismo para la expedición del Título profesional y/o grado académico, se deberá efectuar el pago de derechos correspondientes ante la Secretaría de Finanzas y de Administración
 
 ###### ARTÍCULO 8.
 
@@ -954,3 +958,11 @@ P.O. 5 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 19 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 566 QUE CONTIENE ADICIONES AL ARTÍCULO 7 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
