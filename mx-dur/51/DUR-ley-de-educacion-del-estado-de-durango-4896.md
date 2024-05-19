@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2023-11-05"
+last_updated: "2024-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -1286,6 +1286,10 @@ La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
 Para la atención de situaciones constitutivas de acoso escolar, en cada centro escolar abra un responsable para la recepción de denuncias, mismo que será capacitado para la oportuna intervención en estos casos, así como en atención de trastornos emocionales derivados.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2024)</small>
+
+Para los efectos del presente artículo, por acoso escolar se entenderá, aquella conducta intencional, reiterada, que se presenta entre compañeros, realizada bajo el cuidado de las instituciones escolares, sean públicas o privadas, la cual tiene como finalidad agredir, violentar, molestar o intimidar, de manera física, verbal, psicoemocional, patrimonial o sexualmente a uno o varios compañeros, quienes generalmente se encuentran en una situación de desventaja o vulnerabilidad, y la cual causa daños físicos, sociales o emocionales en quienes lo sufren.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -3308,3 +3312,11 @@ P.O. 5 DE NOVIEMBRE DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 19 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 567 QUE CONTIENE ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 77 DE LA LEY DE EDUCACIÓN DEL ESTADO DEDURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
