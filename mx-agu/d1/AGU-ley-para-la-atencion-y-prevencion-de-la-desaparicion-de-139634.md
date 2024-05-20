@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-139634"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2024-05-13"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
@@ -169,33 +169,63 @@ XXV. Tratados: A los Tratados Internacionales de los que el Estado Mexicano sea 
 
 XXVI. Víctimas: Aquellas a las que hace referencia la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados, implementados y evaluados aplicando los siguientes principios:
+Las acciones, medidas y procedimientos establecidos en esta Ley serán diseñados, implementados y evaluados aplicando los siguientes principios:
 
-I. Efectividad y exhaustividad: Todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada se harán de manera inmediata, oportuna, transparente, con base en información útil y científica, encaminadas a la localización y, en su caso, identificación, atendiendo a todas las posibles líneas de investigación.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+I. Efectividad y exhaustividad: Todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada se harán de manera inmediata, oportuna, transparente y coordinada entre las autoridades competentes, con base en información útil y científica, encaminadas a su localización y, en su caso, identificación, atendiendo todas las posibles líneas de investigación;
 
 II. Debida diligencia: Todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
-III. Enfoque diferencial y especializado: Al aplicar esta Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos materia de la Ley General;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-IV. Enfoque humanista: Atención centrada en el alivio del sufrimiento, de la incertidumbre y basada en la necesidad de respuestas a los Familiares;
+III. Enfoque diferencial y especializado: Al aplicar esta Ley, las autoridades deberán tomar en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad que requieran de atención especializada. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos materia de la Ley General;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+IV. Respeto a la dignidad y enfoque humanista: Las autoridades competentes están obligadas a reconocer a las víctimas, incluidos los familiares, como personas que se encuentran en una situación de especial vulnerabilidad y riesgo, como titulares de derechos que deben ser protegidos y que tienen conocimientos importantes que pueden contribuir a la eficacia de la búsqueda, así como garantizar que no sean objeto de estigmatización y malos tratos morales o difamaciones que lesionen su dignidad, reputación o buen nombre como personas. La atención a estas personas será siempre centrada en el alivio del sufrimiento y de la incertidumbre, con base en su necesidad de respuestas;
 
 V. Gratuidad: todas las acciones, los procedimientos y cualquier otro trámite que implique el acceso a la justicia y demás derechos reconocidos en esta Ley, no tendrán costo alguno para las personas;
 
-VI. Igualdad y No Discriminación: En todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada, así como para investigar y juzgar los delitos previstos en la Ley General, se deberá garantizar su realización libre de prejuicios, estereotipos y de cualquier otro elemento que, impida la igualdad, por lo que en ninguna circunstancia se podrán invocar condiciones particulares de la Persona Desaparecida o No Localizada, o la actividad que realizaba previa o al momento de la desaparición para no ser buscada de manera inmediata;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VI. Igualdad y No Discriminación: En todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada, así como para investigar y juzgar los delitos previstos en la Ley General, se deberán garantizar procedimientos libres de prejuicios, estereotipos y de cualquier otro elemento que impida a las personas el acceso a las mismas oportunidades y ejercicio de derechos, por lo que en ninguna circunstancia se podrán invocar condiciones particulares de la Persona Desaparecida o No Localizada, o la actividad que realizaba previa o al momento de la desaparición para no ser buscada de manera inmediata;
 
 VII. Interés superior de la niñez: Las autoridades deberán proteger primordialmente los derechos de niñas, niños y adolescentes, y velar que cuando tengan la calidad de Víctimas o testigos, la protección que se les brinde sea armónica e integral, atendiendo a su desarrollo evolutivo y cognitivo, de conformidad con la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
 
-VIII. Máxima protección: La obligación de adoptar y aplicar las medidas que proporcionen la protección más amplia para garantizar el trato digno, la seguridad, protección, bienestar físico y psicológico e intimidad de las Víctimas a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-IX. No revictimización: La obligación de aplicar las medidas necesarias y justificadas de conformidad con los principios en materia de derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes y los Tratados, para evitar que la Persona Desaparecida o No Localizada y las Víctimas a que se refiere esta Ley, sean revictimizadas o criminalizadas en cualquier forma, agravando su condición, obstaculizando o impidiendo el ejercicio de sus derechos o exponiéndosele a sufrir un nuevo daño;
+VIII. Máxima protección: Se deberán adoptar y aplicar las medidas que proporcionen la protección más amplia a las víctimas y personas involucradas en los procedimientos a que hace referencia esta ley a fin de que se les garantice un trato digno, seguridad, protección, bienestar físico, psicológico y protección a su intimidad. Toda medida de protección deberá tener en cuenta las características específicas e individuales de las personas a proteger;
 
-X. Participación conjunta: Las autoridades de los distintos órdenes de Gobierno en sus respectivos ámbitos de competencia, permitirán la participación directa de los Familiares, en los términos previstos en esta Ley y demás disposiciones aplicables, en las tareas de búsqueda, incluido el diseño, implementación y evaluación de las acciones en casos particulares, como en políticas públicas y prácticas institucionales;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-XI. Presunción de vida: En las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la Persona Desaparecida o No Localizada está con vida, y
+IX. No re victimización: Durante las actuaciones a que se refiere esta ley y la legislación aplicable, la autoridad tendrá la obligación de aplicar las medidas necesarias y justificadas de conformidad con los principios en materia de derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes y los Tratados, para evitar que la Persona Desaparecida o No Localizada y las Víctimas a que se refiere esta Ley, sean re victimizadas o criminalizadas en cualquier forma, agravando su condición, obstaculizando o impidiendo el ejercicio de sus derechos o exponiéndosele a sufrir un nuevo daño;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+X. Participación conjunta: Las autoridades de los distintos órdenes de Gobierno en sus respectivos ámbitos de competencia, permitirán la participación directa de los familiares, representantes legales, abogados, así como toda persona, asociación u organización con interés legítimo en los términos previstos en esta Ley y demás disposiciones aplicables, en las tareas de búsqueda, incluido el diseño, implementación y evaluación de las acciones en casos particulares, como en políticas públicas y prácticas institucionales; así mismo, se garantizará que las personas mencionadas tengan acceso a la información sobre las acciones, procedimientos, avances, resultados e investigaciones realizadas sobre el caso;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+XI. Presunción de vida: Las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones deberán realizarse bajo la presunción de que la Persona Desaparecida o No Localizada está con vida, independientemente de las circunstancias o la fecha en que inicie la desaparición y del momento en que comience la búsqueda;
 
 XII. Verdad: El derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+XIII. Enfoque de búsqueda con estrategia integral: Al Iniciar la búsqueda se deben examinar todas las hipótesis razonables sobre la desaparición de la persona. Solo se podrá eliminar una hipótesis cuando esta resulte insostenible, de acuerdo con criterios objetivos y contrastables. La formulación de hipótesis sobre la desaparición de una persona debe estar fundada en toda la información disponible, incluida aquella entregada por los familiares o denunciantes, y en el uso de criterios científicos y técnicos; no debe basarse en preconceptos relacionados con las condiciones o las características individuales de la persona desaparecida o no localizada;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+XIV. Independencia e imparcialidad: Las entidades encargadas de la búsqueda deben ser independientes y autónomas y deberán desempeñar todas sus funciones con respeto del principio del debido proceso. Todo el personal, incluido el auxiliar y el administrativo, debe ofrecer garantías de independencia, imparcialidad, competencia profesional, capacidad para realizar su trabajo con enfoque diferencial, sensibilidad e integridad moral; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+XV. Perspectiva de género: En todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida y No Localizada, así como para investigar y juzgar los delitos previstos en la Ley General, deberá garantizarse una actuación libre de prejuicios, estereotipos y de cualquier otro elemento que, por cuestiones específicas de sexo, género, identidad u orientación sexual de las personas, propicien situaciones de desventaja, discriminación o violencia.
 
 (NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2024, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE ENERO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 529, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -984,3 +1014,11 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 657.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
