@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-aguascalientes-28
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-06-06"
-last_updated: "2024-05-13"
+last_updated: "2024-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 20 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2024 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1993.
 
@@ -458,3 +458,39 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 658.- SE EXPIDE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley Orgánica de la Universidad Tecnológica de Aguascalientes, expedida mediante Decreto Número 40 por la LV Legislatura del Estado Libre y Soberano de Aguascalientes, publicada en el Periódico Oficial del Estado el día 06 de junio de 1993, así como sus reformas y modificaciones subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+La Universidad Tecnológica de Aguascalientes a la que se hace mención en la presente Ley, para todo efecto a que haya lugar, es el mismo organismo descentralizado al que se hace referencia en la Ley Orgánica de la Universidad Tecnológica de Aguascalientes que se abroga, en consecuencia, conservará y continuará con sus recursos humanos, financieros y materiales en los términos en los que se encuentran actualmente.
+
+###### ARTÍCULO CUARTO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes deberán realizar, en el ámbito de sus competencias, las asignaciones presupuestales que resulten necesarias, a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto, de acuerdo con la suficiencia presupuestal correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Las personas representantes del sector productivo que actualmente integran el Consejo Directivo de la Universidad Tecnológica de Aguascalientes continuarán en su cargo hasta en tanto concluyan el periodo por el cual fueron nombradas de conformidad con las disposiciones vigentes que fundaron y motivaron dicho acto.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Directivo de la Universidad Tecnológica de Aguascalientes deberá instalarse a más tardar dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Directivo de la Universidad Tecnológica de Aguascalientes deberá realizar tanto las acciones necesarias para la expedición del Estatuto y demás normatividad institucional indispensable, a efecto de que las funciones, unidades administrativas y órganos de la Universidad Tecnológica de Aguascalientes encuentren congruencia y armonía con la presente Ley, lo cual deberá realizarse en un término que no exceda de 120 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Quedarán sin efectos todas aquellas disposiciones que se opongan a las contenidas en la presente Ley.
