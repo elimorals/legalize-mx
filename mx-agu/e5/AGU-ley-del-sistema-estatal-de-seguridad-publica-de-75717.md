@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2024-05-06"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -375,7 +375,9 @@ Artículo 11 A.- Para el adecuado funcionamiento del Sistema, el Poder Ejecutivo
 
 Asimismo, el ejercicio, control, vigilancia así como la información, evaluación y fiscalización de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal para la seguridad pública, se sujetarán a la Ley de Coordinación Fiscal, la Ley General del Sistema Nacional de Seguridad Pública, la presente Ley, a los convenios celebrados entre los Gobierno Federal y Estatal, así como a las demás disposiciones federales y estatales aplicables.
 
-Las Instituciones de Seguridad Pública deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional los informes que éste les solicite respecto al ejercicio de los recursos a que se refiere el párrafo anterior y el avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como la ejecución del Programa de Seguridad Pública de la Entidad, derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, vigilancia, transparencia y supervisión del manejo de dichos recursos.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+Las Instituciones de Seguridad Pública deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional los informes que este les solicite respecto al ejercicio de los recursos a que se refiere el párrafo anterior y el avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como la ejecución del Programa Estatal de Seguridad Pública y el Programa para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, vigilancia, transparencia y supervisión del manejo de dichos recursos.
 
 ### CAPÍTULO II. Consejo Estatal de Seguridad Pública
 
@@ -517,27 +519,25 @@ Cuando para la aprobación y ejecución de las resoluciones o acuerdos se compre
 
 La participación en el Sistema y en el Consejo, en ningún caso, implica la transferencia de atribuciones o facultades legales, sino la coordinación en el ejercicio de aquellas que establece el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con el propósito de obtener con mayor eficacia el mejoramiento de las condiciones de Seguridad Pública en la Entidad. Por lo tanto, las Autoridades que integran el Sistema y participan en el Consejo conservan íntegramente las facultades y responsabilidades que legalmente les corresponden.
 
-### CAPÍTULO IV. Programa Estatal de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
+### CAPÍTULO IV. Programas de Seguridad Pública y para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
 
 ###### Artículo 19.
 
-El Gobernador del Estado propondrá al Consejo para su aprobación y expedición, de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal de Seguridad Pública, el cual deberá de vincularse con el Programa Nacional de Seguridad Pública y contener las medidas, objetivos y metas para el mantenimiento del orden, la paz pública, la prevención del delito, y en general, la salvaguarda de la integridad física y de los bienes y derechos de las personas en el Estado y el auxilio a la población en caso de siniestro y desastre en coordinación con las autoridades de protección civil.
+La persona titular del Poder Ejecutivo propondrá al Consejo para su aprobación y expedición, de conformidad con el Plan Estatal de Desarrollo. el Programa Estatal de Seguridad Pública y el Programa Estatal para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, los cuales deberán vincularse con el Programa Nacional de Seguridad Pública y contener las medidas, objetivos y metas para el mantenimiento del orden, la paz pública, la prevención del delito, y en general, la salvaguarda de la integridad física y de los bienes y derechos de las personas en el Estado y el auxilio a la población en caso de siniestro y desastre en coordinación con las autoridades de protección civil.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+Dichos programas deberán revisarse anualmente, conforme a los objetivos y metas programados y alcanzados, las circunstancias presentadas en su realización, así como en las observaciones que se realicen.
 
-El Programa Estatal deberá revisarse anualmente, conforme a los objetivos y metas programados y alcanzados, las circunstancias presentadas en su realización, así como en las observaciones que se realicen.
+La persona titular del Poder Ejecutivo incluirá en su informe anual al Congreso del Estado. los avances y los resultados de la implementación y ejecución del Programa Estatal de Seguridad Pública y el Programa Estatal para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, en términos del artículo 46 fracción IV de la Constitución Política del Estado de Aguascalientes y del artículo 48 de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
-
-El Gobernador del Estado incluirá en su informe anual al Congreso del Estado, los avances y los resultados de la implementación y ejecución del Programa Estatal, en términos del Artículo 46 fracción IV de la Constitución Política del Estado de Aguascalientes y del Artículo 9° de la Ley de Planeación Estatal y Regional del Estado de Aguascalientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
 
 ###### Artículo 20.
 
-Los programas de Seguridad Pública del Estado y de los municipios son obligatorios para todos los servidores públicos de la administración pública de la entidad, conforme a sus respectivas competencias, y deberán contener:
+El Programa Estatal de Seguridad Pública y el Programa Estatal para la Prevención Social de la Violencia y Delincuencia con Participación Ciudadana y de los municipios, deberán contener. entre otros, los siguientes aspectos:
 
 I. Un diagnóstico sobre la seguridad pública en el ámbito de su competencia;
 
@@ -545,13 +545,21 @@ II. Los objetivos del programa;
 
 III. Las estrategias para el logro de los objetivos;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-IV. Los subprogramas específicos, las acciones y metas operativas, los protocolos de actuación y mecanismos previstos para la coordinación con otras entidades o dependencias federales, estatales y municipales, así como aquellos que requieran concertación con los ciudadanos en los términos previstos en ésta Ley; y
+IV. Los subprogramas específicos, las acciones y metas operativas, los protocolos de actuación y mecanismos previstos para la coordinación con otras entidades o dependencias federales, estatales y municipales, así como aquellos que requieran concertación con los ciudadanos en los términos previstos en esta Ley;
 
-V. Los responsables administrativos de su ejecución.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-Los programas municipales deberán vincularse con el Programa Nacional de Seguridad Pública y con el Programa Estatal de Seguridad Pública, en relación a las acciones y resultados previstos.
+V. Los responsables administrativos de su ejecución; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VI. La incorporación de la prevención como elemento central de las prioridades en la calidad de vida de las personas.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Los programas municipales deberán vincularse con el Programa Nacional de Seguridad Publica y con el Programa Estatal para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, en relación a las acciones y resultados previstos.
 
 ### CAPÍTULO V. De la Competencia, Autoridades, y Coordinación en Materia de Seguridad Pública
 
@@ -2934,5 +2942,13 @@ P.O. 6 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 629.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 659.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
