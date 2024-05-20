@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-01-22"
+last_updated: "2024-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -1173,29 +1173,51 @@ ARTÍCULO 28 BIS.- La política estatal de movilidad y seguridad vial se diseña
 
 ### CAPÍTULO SEGUNDO. El Consejo Consultivo
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-El Consejo Consultivo es un órgano auxiliar honorífico, de consulta técnica en materia de transporte de personas y bienes, en vialidades o caminos de jurisdicción local.
+El Consejo Consultivo, es un organismo auxiliar honorifico, de consulta técnica en la materia, con funciones deliberativas y propositivas, donde participan los sectores público, privado, académico y social.
 
 ###### ARTÍCULO 30.
 
 El Consejo Consultivo se integrará por:
 
-I. Un Presidente, que será el titular de la CMOV;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-II. El Presidente del Observatorio Ciudadano;
+I. La presidencia, que estará a cargo de la persona titular de la CMOV;
 
-III. Los representantes de las Secretarías: SEGGOB, SSP, SSMAA, SOP y SSE;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-IV. El Presidente de la Comisión de Transporte Público del Congreso del Estado;
+II. La persona que ocupe la presidencia del Observatorio Ciudadano;
 
-V. El servidor público encargado del transporte en cada uno de los municipios;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-VI. Un representante de los concesionarios de cada una de las siguientes modalidades del transporte público: taxis, vehículos de carga, transporte de materiales, transporte colectivo foráneo, autobuses urbanos, transporte de personal y transporte escolar; miembros que serán designados conforme lo establezca el Reglamento de esta Ley; y
+III. Las personas representantes de las Secretarías: SEGGOB, SSP; SSMAA, SOP y SSE;
 
-VII. Un representante de los operadores.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-Fungirá como Secretario Técnico del Consejo Consultivo el titular de la dirección encargada del transporte público de la CMOV.
+IV. La persona que ocupe la presidencia de la Comisión de Movilidad Sustentable y de Transporte del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+V. La persona servidora pública encargada del transporte en cada uno de los municipios;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VI. Una persona representante de los concesionarios de cada una de las siguientes modalidades del transporte público: taxis, vehículos de carga, transporte de materiales, transporte colectivo foráneo, autobuses urbanos, transporte de personal y transporte escolar; la cual será designada conforme lo establezca el Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VII. Una persona representante de los operadores de cada una de las modalidades de transporte público y del servicio de transporte de personas contratado a través de plataformas tecnológicas, registradas ante la CMOV; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VIII. Tres personas académicas especialistas en materia de movilidad y seguridad vial, que representen a las universidades e instituciones de educación superior en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Estará a cargo de la secretaría técnica del Consejo Consultivo, la persona titular de la dirección del transporte público de la CMOV.
 
 El Consejo Consultivo podrá invitar a representantes de los sectores público, social, privado, estudiantil, académico y de investigación, así como los representantes de los operadores, concesionarios y permisionarios de las diversas modalidades del transporte público, cuando se discutan programas y proyectos que se refieran a alguno de dichos sectores, quienes asistirán con voz pero sin voto.
 
@@ -1221,9 +1243,17 @@ VI. Proponer a la persona titular del Poder Ejecutivo del Estado el proyecto de 
 
 VII. Solicitar información de las solicitudes que presenten los interesados en prestar el servicio de transporte público, así como la información relativa sobre las quejas ciudadanas y problemática sobre el servicio de transporte;
 
-VIII. Emitir opiniones para suspender y revocar concesiones de transporte y demás sanciones aplicables en materia de transporte público; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-IX. Las demás que le asigne el Gobernador, esta Ley, reglamentos y otras disposiciones jurídicas aplicables.
+VIII. Emitir opiniones para suspender y revocar concesiones de transporte y demás sanciones aplicables en materia de transporte público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2024)</small>
+
+IX. Promover y apoyar la investigación académica que pueda dar soluciones a los problemas del Estado y sus municipios, en materia de movilidad, seguridad vial y transporte; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MAYO DE 2024)</small>
+
+X. Las demás que le asigne la persona titular del Poder Ejecutivo, la presente Ley, reglamentos y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -6124,3 +6154,11 @@ El presente decreto iniciara su vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 90 días siguientes a la publicación del presente Decreto, los Municipios del Estado de Aguascalientes deberán realizar las modificaciones correspondientes en su marco normativo aplicable en la materia.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 664.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
