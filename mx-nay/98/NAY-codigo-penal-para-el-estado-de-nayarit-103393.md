@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2024-04-17"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -335,9 +333,101 @@ XVIII. Tentativa de los delitos de violación, previsto por los artículos 293 a
 
 Las causas personales de exclusión de la pena sólo favorecen a aquél en quien concurran.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-Cuando algún miembro o representante de una persona jurídica, con la excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto aquella le proporcione, de modo que resulte cometido a nombre, bajo el amparo o en beneficio de la representación societaria, el juez le impondrá a la persona moral, con audiencia del representante legal de la misma y previo procedimiento correspondiente, las sanciones previstas en este código, sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas por los delitos cometidos.
+Las personas jurídicas serán penalmente responsables, de los delitos cometidos a su nombre, por su cuenta, en su beneficio o a través de los medios que ellas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización. Lo anterior con independencia de la responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 BIS.- En los supuestos previstos en este Código, las personas jurídicas serán penalmente responsables:
+
+I. De los delitos cometidos en nombre o por cuenta de las mismas, y en su beneficio directo o indirecto, por sus representantes legales o por aquellos que actuando individualmente o como integrantes de un órgano de la persona jurídica, están autorizados para tomar decisiones en nombre de la persona jurídica u ostentan facultades de organización y control dentro de la misma, y
+
+II. De los delitos cometidos, en el ejercicio de actividades referentes al objeto social de la persona jurídica y por cuenta y en beneficio directo o indirecto de las mismas, por quienes, estando subordinados o sometidos a la autoridad de las personas físicas mencionadas en la fracción anterior, cometan el delito por falta de supervisión, vigilancia y control de la persona jurídica indebidamente organizada, atendidas las concretas circunstancias del caso.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 TER.- Si el delito fuere cometido por las personas indicadas en la fracción I del artículo 38 Bis, la persona jurídica quedará excluida de responsabilidad si se cumplen las siguientes condiciones:
+
+I. El órgano de administración ha adoptado y ejecutado con eficacia, antes de la comisión del delito, modelos de organización, gestión y prevención que incluyen las medidas de vigilancia y control idóneas y adecuadas para prevenir delitos de la misma naturaleza o para reducir de forma significativa el riesgo de su comisión;
+
+II. La supervisión del funcionamiento y del cumplimiento del modelo de organización, gestión y prevención implantado ha sido confiada a un órgano de la persona jurídica con poderes autónomos de iniciativa y de control o que tenga encomendada legalmente la función de supervisar la eficacia de los controles internos de la persona jurídica;
+
+III. Que se compruebe la existencia de engaños u ocultamiento de información por parte de los autores individuales sean estas personas físicas u otras personas jurídicas que han cometido el o los delitos, eludiendo el cumplimiento de los modelos de organización y de prevención, y
+
+IV. No se ha producido una omisión o un ejercicio insuficiente de sus funciones de supervisión, vigilancia y control por parte del órgano al que se refiere la condición de la fracción II.
+
+En los casos en los que las anteriores condiciones solamente puedan ser objeto de acreditación parcial, esta circunstancia será valorada para los efectos de atenuación de la pena.
+
+En las personas jurídicas que entren en la clasificación de micro y pequeñas empresas, las funciones de supervisión a que se refiere la condición marcada con la fracción II de este artículo, podrán ser asumidas directamente por el órgano de administración. Para estos efectos, son personas jurídicas consideradas como micro y pequeñas empresas, aquéllas que estén consideradas así según con su tamaño, en la estratificación emitida por la legislación aplicable vigente.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 QUÁTER.- Si el delito fuera cometido por las personas indicadas en la fracción II del artículo 38 Bis, la persona jurídica quedará excluida de responsabilidad si, antes de la comisión del delito, ha adoptado y ejecutado eficazmente un modelo de organización, gestión y prevención que resulte idóneo y adecuado para prevenir delitos de la naturaleza del que fue cometido o para reducir de forma significativa el riesgo de su comisión y, además, que se compruebe la existencia de engaños u ocultamiento de información por parte de los autores individuales sean estas personas físicas u otras personas jurídicas que han cometido el o los delitos, eludiendo el cumplimiento de los modelos de organización y de prevención.
+
+En los casos en los que la anterior circunstancia solamente pueda ser objeto de acreditación parcial, será valorada para los efectos de atenuación de la pena.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 QUINQUIES.- Los modelos de organización, gestión y prevención a que se refieren la fracción I del artículo 38 Ter y el artículo 38 Quáter, deberán cumplir los siguientes requisitos:
+
+I. Identificarán las actividades en cuyo ámbito puedan ser cometidos los delitos que deben ser prevenidos;
+
+II. Adoptarán protocolos o procedimientos que concreten el proceso de formación de la voluntad de la persona jurídica, de adopción de decisiones y de ejecución de las mismas con relación a aquéllos, todo esto para prevenir el delito;
+
+III. Dispondrán de modelos de gestión de los recursos financieros adecuados para impedir la comisión de los delitos que deben ser prevenidos, así como compromisos de los órganos directivos o de administración para destinar recursos a la prevención de delitos;
+
+IV. Impondrán la obligación de informar de posibles riesgos e incumplimientos al organismo encargado de vigilar el funcionamiento y observancia del modelo de prevención;
+
+V. Establecerán un sistema disciplinario que sancione adecuadamente el incumplimiento de las medidas de prevención que establezca el modelo, y
+
+VI. Realizarán una verificación periódica del modelo y de su eventual modificación cuando se pongan de manifiesto infracciones relevantes de sus disposiciones, o cuando se produzcan cambios en la organización, en la estructura de control o en la actividad desarrollada que los hagan necesarios.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 SEXIES.- La responsabilidad penal de las personas jurídicas será exigible siempre que se constate la comisión de un delito que haya tenido que cometerse por quien ostente los cargos o funciones aludidas en las fracciones I y II del artículo 38 Bis, aun cuando la concreta persona física responsable no haya sido individualizada o no haya sido posible dirigir el procedimiento contra ella. Cuando como consecuencia de los mismos hechos se impusiere a ambas la pena de multa, los jueces modularán las respectivas cuantías, de modo que la suma resultante no sea desproporcionada en relación con la gravedad del delito que se trate.
+
+La concurrencia, en las personas que materialmente hayan realizado los hechos o en las que los hubiesen hecho posibles por no haber ejercido el debido control, de circunstancias que afecten a la culpabilidad del acusado o agraven su responsabilidad, o el hecho de que dichas personas hayan fallecido o se hubieren sustraído a la acción de la justicia, no excluirá ni modificará la responsabilidad penal de las personas jurídicas, sin perjuicio de lo que se dispone en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 SEPTIES.- Sólo podrán considerarse circunstancias atenuantes de la responsabilidad penal de las personas jurídicas haber realizado, con posterioridad a la comisión del delito y a través de sus representantes legales, las siguientes acciones:
+
+I. Haber procedido, antes de conocer que el procedimiento judicial se dirige contra ella, a aceptar su responsabilidad ante las autoridades investigadoras;
+
+II. Haber colaborado en la investigación del hecho aportando nuevos datos o medios pruebas, en los términos del Código Nacional de Procedimientos Penales, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos;
+
+III. Haber procedido en cualquier momento del procedimiento y con anterioridad al auto de apertura a juicio, a reparar o disminuir el daño causado por el delito, y
+
+IV. Haber establecido, antes del auto de apertura a juicio, medidas eficaces para prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona jurídica.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 OCTIES.- Las disposiciones relativas a la responsabilidad penal de las personas jurídicas no serán aplicables al Estado, los Municipios y sus instituciones públicas.
+
+Lo anterior, con independencia de la acción penal que se pudiera ejercer contra las personas físicas involucradas en el delito cometido.
+
+Cuando una persona jurídica utilice a entes o instituciones públicas estatales y municipales para cometer un delito será sancionada por el delito o delitos cometidos conforme a la presente regulación.
+
+Lo anterior también será aplicable a los fundadores , administradores o representantes que se aprovechen de alguna institución estatal o municipal para eludir alguna responsabilidad penal.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 NONIES.- No se excluirá ni modificará la responsabilidad penal de las personas jurídicas, cuando respecto de ellas concurra:
+
+I. La transformación, fusión, absorción, escisión de la persona moral o jurídica, cuya responsabilidad será trasladable a la entidad en que se transforme, se fusione, se absorba o se escinda.
+
+El juez podrá anular la transformación, fusión, absorción o escisión de la persona moral, con el fin de que los hechos no queden impunes y pueda imponerse la sanción que corresponda. No será necesaria la anulación cuando la sanción consista en multa.
+
+En caso de que la transformación, fusión, absorción o escisión constituya delito diverso, el juez aplicará las reglas del concurso que prevea este código y demás leyes aplicables, y/o
+
+II. La disolución aparente, se considerará que existe disolución aparente de la persona moral, cuando ocurrida su disolución, por cualquier causa o bajo cualquier título, aquélla continúe su actividad económica y mantenga la identidad sustancial de la mayoría de los clientes, proveedores y empleados, o de la parte operativa y/o económica más relevante de cualquiera de ellos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 38 DECIES.- Para los efectos de lo previsto por este Código, a las personas jurídicas podrá imponérseles alguna o varias de las penas, medidas de seguridad o consecuencias previstas en este Código, cuando hayan sido declaradas responsables penalmente respecto de alguno o algunos de los delitos dolosos o culposos, y en su caso, de la tentativa de los primeros, previstos en este Código.
 
 ### CAPÍTULO V. CAUSAS DE EXCLUSIÓN DEL DELITO Y DE LA RESPONSABILIDAD PENAL
 
@@ -414,6 +504,10 @@ IV. En los demás casos que señale la Ley.
 La sanción impuesta o sufrida en el extranjero, se tendrá en cuenta si proviniera de un delito que tenga tal carácter en este Código o en alguna otra ley del Estado.
 
 No hay reincidencia cuando el primero o segundo delito sea culposo y el otro intencional.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 40 BIS.- Habrá reincidencia de una persona jurídica, cuando la misma se actualice en los términos del artículo anterior, respecto a cualquiera de los sujetos activos cualificados señalados en el artículo 38 Bis de este Código, siempre y cuando el sujeto activo haya actuado por medio de la misma persona jurídica en cualquiera de los supuestos previstos en las fracciones I y II de dicho artículo 38 Bis.
 
 ###### ARTÍCULO 41.
 
@@ -549,11 +643,37 @@ I. Suspensión;
 
 II. Disolución;
 
-III. Prohibición de realizar determinadas operaciones;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-IV. Remoción, y
+III. Prohibición de realizar determinadas operaciones, negocios o actividades;
 
-V. Intervención.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+IV. Remoción;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+V. Intervención;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VI. Multa;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VII. Clausura;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VIII. Supervisión y/o contraloría de la administración, contabilidad o de cualquier otra actividad inherente a la persona moral para su funcionamiento;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+IX. Inhabilitación para obtener subvenciones y ayudas públicas, y/o para contratar con el sector público y para gozar de beneficios e incentivos fiscales o sociales, y/o
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+X. Reparación del daño.
 
 #### SECCIÓN TERCERA. SANCIONES
 
@@ -594,6 +714,44 @@ XIV. Tratamiento de Deshabituación o de Desintoxicación.
 Las sanciones se entienden impuestas con las modalidades y en los términos previstos por este Código.
 
 La autoridad judicial aplicará las sanciones y éstas serán ejecutadas por las autoridades competentes, con la vigilancia de la primera, con los propósitos de asegurar la defensa social y obtener la reinserción social del sentenciado y procurar que no vuelva a delinquir.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 50 BIS.- En la aplicación de las penas y medidas de seguridad impuestas a las personas jurídicas cuando concurran circunstancias atenuantes, se aplicarán hasta las dos terceras partes del límite superior de la pena correspondiente.
+
+En todo caso al imponer la pena o medida de seguridad a la persona jurídica se tendrá en cuenta para la individualización de las sanciones, además de lo señalado por el artículo 92 de este Código, lo siguiente:
+
+I. Su necesidad para prevenir la continuidad de la actividad delictiva o de sus efectos;
+
+II. Sus consecuencias económicas y sociales, así como especialmente los efectos para los trabajadores;
+
+III. El puesto que en la estructura de la persona jurídica ocupa la persona o personas físicas involucradas en la comisión del delito y de la persona o personas físicas u órgano que incumplió el deber de control;
+
+IV. La magnitud de la inobservancia del debido control en su organización y la exigibilidad de conducirse conforme a la norma;
+
+V. El monto de dinero involucrado en la comisión del hecho delictivo, en su caso;
+
+VI. La naturaleza jurídica y el volumen de negocios anual de la persona jurídica;
+
+VII. El grado de sujeción y cumplimiento de las disposiciones legales y reglamentarias, y
+
+VIII. El interés público de las consecuencias sociales y económicas o, en su caso, los daños que pudiera causar a la sociedad, la imposición de la pena.
+
+Cuando las penas o medidas de seguridad contenidas en las fracciones I, III, VI y VII del artículo 87, se impongan con una duración limitada, ésta no podrá exceder la duración máxima de la pena privativa de libertad prevista para el caso de que el delito fuera cometido por persona física.
+
+Para la imposición de las penas contenidas en las fracciones I, III, IV, V, VI y VII del artículo 87 por un plazo superior a dos años, será necesario que la persona jurídica se utilice como instrumento para la comisión de conductas tipificadas por este Código.
+
+Cuando la responsabilidad de la persona jurídica, en los casos previstos en la fracción II del artículo 38 bis, derive de un incumplimiento de los deberes de supervisión, vigilancia y control que no tenga carácter grave, estas penas tendrán en todo caso una duración máxima de tres años.
+
+Para la imposición con carácter permanente de las sanciones previstas en las fracciones II y III del artículo 87, y para la imposición por un plazo superior a cinco años de las previstas en las fracciones III y VII del artículo 87, será necesario que se dé alguna de las circunstancias siguientes:
+
+a) Que la imposición de dicha sanción sea necesaria para garantizar la seguridad pública, evitar que se ponga en riesgo la economía estatal o la salud pública o que con ella se haga cesar la comisión de delitos, o
+
+b) Que la persona jurídica se utilice como instrumento para la comisión de conductas tipificadas por este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 50 TER.- En caso de delitos cometidos en el seno, con la colaboración, a través o por medio de empresas, organizaciones, grupos o cualquier otra clase de entidades o agrupaciones de personas que, por carecer de personalidad jurídica, no estén comprendidas en las fracciones I y II del artículo 38 Bis, se les podrá aplicar las penas o medidas de seguridad previstas en el artículo 87 de este Código.
 
 ### CAPÍTULO II. PRISIÓN
 
@@ -678,6 +836,22 @@ La multa impuesta se hará efectiva por las oficinas rentísticas mediante la fa
 ###### ARTÍCULO 62.
 
 Cuando varias personas cometen el delito, el Juez fijará la multa para cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+ARTÍCULO 62 BIS.- En los casos que se imponga una multa a la persona jurídica , ésta no podrá ser menor a treinta días multa ni exceder de diez mil días multa, salvo los casos señalados en este Código.
+
+Para fijar la multa, además de lo previsto en este capítulo, el Juez o el Tribunal podrá tomar en cuenta las siguientes circunstancias:
+
+I. Cuando la punibilidad del delito señale la imposición de multa, los montos de ésta se cuadruplicarán tanto en su mínimo como en su máximo;
+
+II. Cuando la punibilidad del delito señale la imposición de prisión, un año de prisión equivaldrá a 900 días multa, y un mes de prisión a 90 días multa;
+
+III. Cuando la punibilidad del delito señale la imposición tanto de la prisión como de la multa, deberá atenderse a las fracciones I y II de este artículo, o
+
+IV. Se impondrá del triple a séxtuple del beneficio obtenido o facilitado por la comisión del delito o del valor del objeto del delito.
+
+Los Juzgadores determinarán motivadamente la extensión de la pena dentro de los límites establecidos o conforme a la regla aplicable en cada caso según corresponda.
 
 ### CAPÍTULO VII. REPARACIÓN DEL DAÑO
 
@@ -871,15 +1045,67 @@ Cuando se trate de penas no privativas o restrictivas de la libertad, el tratami
 
 Las consecuencias jurídicas accesorias para las personas jurídicas se aplicarán conforme a lo señalado a continuación:
 
-I. La suspensión consiste en cesar la operación de la persona jurídica durante un máximo de cinco años según lo determine el juzgador;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-II. La disolución consiste en la conclusión definitiva de toda actividad de la persona jurídica, la cual no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. El juzgador designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona jurídica incluyendo las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación;
+I. La suspensión consistirá en la cesación de toda o parte de la actividad de la persona moral durante el tiempo que determine el juez en la sentencia, la cual no podrá ser menor de tres meses ni exceder de cinco años. La suspensión será comunicada por el juez de ejecución a la persona titular del Registro Público del Estado de Nayarit para la anotación que corresponda, y será publicada en Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Durante la suspensión, la persona moral afectada no podrá, válidamente, realizar nuevos trabajos, gestiones o empresas, ni contraer nuevos compromisos, ni adquirir nuevos derechos, conforme a los fines para los que fue constituida. Sin embargo, mientras dure la suspensión deberá cumplir todos los compromisos y obligaciones correspondientes y se podrán hacer efectivos los derechos adquiridos anteriormente;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+II. La disolución consiste en la conclusión definitiva de toda actividad de la persona jurídica, la cual no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. El juzgador designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona jurídica incluyendo las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total;
 
 III. La prohibición de realizar determinadas operaciones. Su duración podrá ser hasta por diez años y se referirá, exclusivamente, a las operaciones expresamente determinadas por el juez, mismas que deberán tener relación directa con el delito cometido. Los administradores y el comisario de la sociedad serán responsables ante el juez del cumplimiento de esta prohibición e incurrirán en las penas que establece este Código por desobediencia a un mandato de la autoridad;
 
-IV. La remoción consiste en la sustitución de los administradores por uno designado por el juzgador durante un periodo máximo de cinco años. Para realizar la designación, el juzgador podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito, y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-V. La intervención consiste en la supervisión de las funciones que realizan los órganos de representación de la persona jurídica y se ejercerá con las atribuciones que la ley confiere al interventor hasta por el término de cinco años.
+IV. La remoción consiste en la sustitución de los administradores por uno designado por el juzgador durante un periodo máximo de cinco años. Para realizar la designación, el juzgador podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
+
+V. La intervención consiste en la vigilancia y contraloría de la administración, contabilidad o de cualquier otra actividad inherente a la persona jurídica para su funcionamiento, y se ejercerá con las atribuciones que la ley confiere al interventor, desde uno a cinco años;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VI. Clausura de sus locales y establecimientos por un plazo que no podrá exceder de cinco años;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VII. Inhabilitación para obtener subvenciones y ayudas públicas, para contratar con el sector público y para gozar de beneficios e incentivos fiscales o de la Seguridad Social, por un plazo que no podrá exceder de quince años;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+VIII. La multa consistirá en imponer una sanción pecuniaria a la persona moral, con base en las reglas establecidas en este código para la determinación del marco punible e individualización de las multas previstas en este código para las personas físicas, salvo que la ley fije parámetros distintos en cualquiera de esos aspectos, respecto al delito de que se trate, y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2024)</small>
+
+IX. Reparación de los daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+La intervención podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+El Juez, en la sentencia o, posteriormente, mediante auto, determinará exactamente el contenido de la intervención y determinará quién o quiénes se harán cargo de la intervención y en qué plazos deberán realizar informes de seguimiento para el órgano judicial.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+La intervención se podrá modificar o suspender en todo momento previo informe del o los interventores y del Ministerio Público. El o los interventores tendrán derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica y a recibir cuanta información estime necesaria para el ejercicio de sus funciones. El interventor o interventores tendrán todas las facultades y obligaciones correspondientes al órgano de administración de la persona jurídica y ejercerán privativamente la administración de la misma, por todo el tiempo fijado en la sentencia y, además podrán solicitar la declaración de quiebra o concurso de la persona jurídica en los casos que proceda conforme a la Ley, siempre que esto sea indispensable para salvaguardar los derechos de los trabajadores o de los acreedores.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Las penas previstas para la persona jurídica podrán incrementarse hasta la mitad cuando ésta sea utilizada como instrumento con el fin de cometer delitos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+La sanción impuesta a la persona jurídica de acuerdo con este Código no extingue la responsabilidad civil en que pueda incurrir.
 
 ###### ARTÍCULO 88.
 
@@ -2075,9 +2301,27 @@ La sanción será de uno a cinco años de prisión y multa de uno a diez días y
 
 ### CAPÍTULO I. SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 241.
 
-Para los efectos de este título y el subsecuente, es servidor público, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública, estatal o municipal, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a esta, fideicomisos públicos, en el Congreso Local o en el Poder Judicial.
+Para los efectos de este título y el subsecuente, es servidor público, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública, estatal o municipal, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a esta, fideicomisos públicos, en el Congreso Local o en el Poder Judicial y en los órganos constitucionales autónomos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 20 DE MAYO DE 2024)</small>
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, de uno a veinte años, considerando lo siguiente:
+
+I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+
+II. Las circunstancias socioeconómicas del responsable;
+
+III. Las condiciones exteriores y los medios de ejecución, y
+
+IV. El monto del beneficio que haya obtenido el responsable.
 
 ### CAPÍTULO II. EJERCICIO INDEBIDO DE FUNCIONES
 
@@ -5058,3 +5302,11 @@ P.O. 12 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 361 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE TRANSFEMINICIDIO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE RESPONSABILIDAD PENAL DE PERSONAS FÍSICAS Y JURÍDICAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Las conductas que se hayan cometido hasta antes de la entrada en vigor del presente Decreto, serán sancionadas de conformidad con la legislación vigente en el momento de la comisión del delito.
