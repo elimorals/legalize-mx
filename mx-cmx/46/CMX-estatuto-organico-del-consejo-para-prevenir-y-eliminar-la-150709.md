@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-para-prevenir-y-eliminar-la-15070
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-08-16"
-last_updated: "2021-08-16"
+last_updated: "2024-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150709&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-07-26"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL COPRED, PUBLICADO EN LA G.O. 20 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2024 (ABROGADO).
 
 Estatuto publicado en el Número 662 de la Gaceta Oficial de la Ciudad de México, el lunes 16 de agosto de 2021.
 
@@ -1227,3 +1229,15 @@ Contra las opiniones jurídicas y actos del Consejo las partes involucradas podr
 PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El Reglamento para el funcionamiento y operación de las sesiones de la Junta de Gobierno deberá ser aprobado 60 días hábiles después de la instalación de la Asamblea.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DEL COPRED”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Consejo para Prevenir y Eliminar la Discriminación publicado en la Gaceta Oficial de la Ciudad de México el 16 de agosto de 2021.
+
+TERCERO. Los expedientes de queja y reclamación pendientes de resolución a la entrada en vigor de este Estatuto Orgánico serán resueltos conforme al Estatuto vigente al momento de su admisión.
