@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2024-05-06"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1221,7 +1221,7 @@ I.- El orden, seguridad pública, contingencias y desastres en el ámbito estata
 
 II.- Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia de seguridad pública del Estado, seguridad privada y de protección civil; la prevención social de la violencia y la delincuencia, así como el funcionamiento de los cuerpos de seguridad pública y de protección civil;
 
-III. La normatividad de los sistemas integrales de tratamiento penal y de las instancias de reinserción social;
+III.- (DEROGADA, P.O. 20 DE MAYO DE 2024)
 
 IV. Las políticas, planes y programas la difusión y fortalecimiento de la seguridad pública; y
 
@@ -2606,3 +2606,9 @@ El presente Decreto entrara en vigor a los 150 días naturales a partir de su pu
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 656.- SE DEROGAN DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
