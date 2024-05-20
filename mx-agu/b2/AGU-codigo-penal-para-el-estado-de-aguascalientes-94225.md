@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-04-01"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1603,7 +1603,9 @@ Si quien recibe al menor acredita que lo hizo para incorporarlo a un núcleo fam
 
 Sustracción de menores e incapaces. La Sustracción de Menores e Incapaces consiste en sustraer o retener a un menor de doce años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia, guarda o retención.
 
-Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 2 a 4 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de las daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 3 a 6 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ### CAPÍTULO III. Tipos Penales Protectores de la Familia
 
@@ -2935,9 +2937,7 @@ II. La retención de cualquier vehículo destinado al servicio público de trans
 
 III. La destrucción, inutilización o cambio de sentido o de lugar de una señal establecida para la seguridad de las vías de comunicación o medios de transporte;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
-
-IV. La violación por dos o más veces de la Ley de Vialidad en lo que se refiere a exceso de velocidad; o
+IV. (DEROGADA, P.O. 20 DE MAYO DE 2024)
 
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
 
@@ -4214,3 +4214,19 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones legales que se opongan al mismo.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 662.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 663.- SE DEROGAN DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
