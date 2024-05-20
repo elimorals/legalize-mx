@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-126
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-06-29"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -57,11 +57,61 @@ II. Instituir, reconocer, promover, fomentar y consolidar los instrumentos de pa
 
 Lo no previsto en esta Ley será suplido por las disposiciones del Código Electoral para el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
 
 ###### Artículo 2°.
 
-Los instrumentos de participación ciudadana se regirán por los principios rectores de certeza, legalidad, imparcialidad, accesibilidad, interculturalidad, independencia, máxima publicidad, objetividad, equidad, perspectiva de género, inclusión, no discriminación, pluralismo político, participación social, transparencia y rendición de cuentas.
+Todas las autoridades y la ciudadanía estarán obligadas a regir sus conductas con base en los principios y ejes rectores siguientes:
+
+A. Principios:
+
+I. Accesibilidad.- Se refiere a la facilidad de acceso para que cualquier persona, incluso aquellas que tengan limitaciones en la movilidad, en la comunicación o el entendimiento, pueda llegar o hacer uso de un lugar, objeto o servicio;
+
+II. Certeza.- Radica en que la acción o acciones que se efectúen conforme a la presente ley, serán del todo veraces, reales y apegadas a los hechos, esto es, que el resultado de los procesos sean completamente verificables, fidedignos y confiables;
+
+III. Corresponsabilidad.- Compromiso compartido gobierno-sociedad de participar en los asuntos públicos y acatar las decisiones y acuerdos mutuamente convenidos en las distintas materias involucradas. Está basada en el reconocimiento de la participación ciudadana como componente sustantivo de la democracia y como contrapeso indispensable y responsable del gobierno, y no como sustituto de las responsabilidades del mismo. Por parte de la institución gubernamental refiere a asumir el hecho de gobernar y conducir el desarrollo local de manera conjunta con la sociedad;
+
+IV. Equidad.- Se refiere al principio conforme al cual todas las personas, sin distinción alguna, acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades, instrumentos y mecanismos que esta Ley contiene;
+
+V. Imparcialidad.- Implica la cualidad que deben tener los sujetos de la ley en el ejercicio de su función consistente en su posición trascendente respecto de los sujetos jurídicos afectados por dicho ejercicio;
+
+VI. Interculturalidad.- Es el reconocimiento de la otredad y la coexistencia de la diversidad cultural que existe en la sociedad en un plano de igualdad, equidad real y dignidad humana, manifiesta en la salvaguarda, respeto y ejercicio de los derechos humanos, económicos, sociales, culturales, políticos y civiles de toda persona, pueblo, comunidad o colectivo social, independientemente de su origen;
+
+VII. Inclusión.- Fundamento de la democracia y de la ciudadanía que engloba y comprende a la diversidad social y cultural que forma parte de la sociedad, a través de la concertación y de integrar sus distintas experiencias individuales y colectivas, sus ideologías, creencias, filiaciones políticas y opiniones en los procesos participativos;
+
+VIII. Legalidad.- Garantía de que las decisiones públicas y los procesos de gestión se llevarán a cabo en el marco del Estado de Derecho, garantizarán la información, la difusión, la civilidad y, en general, la cultura democrática;
+
+IX. Libertad.- Facultad de actuar, opinar, expresarse y asociarse según la voluntad de la persona, siempre y cuando sea respetando la Ley y el derecho ajeno;
+
+X. Máxima publicidad.- Consiste en que los entes obligados expongan la información que poseen al escrutinio público y, en caso de duda razonable respecto (sic) restricción a la información, se optará por la publicidad de la misma;
+
+XI. No discriminación.- El impedimento a toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por objeto o resultado impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
+XII. Pluralismo político.- Implica el derecho de manifestar, de participar en elecciones libres y democráticas, de asociarse en partidos y de expresar libremente sus ideas;
+
+XIII. Respeto.- Reconocimiento pleno a la diferencia y a la diversidad de opiniones y posturas asumidas en torno a los asuntos públicos. Considera incluso la libertad de elegir cuando y de qué manera se participa en la vida pública;
+
+XIV. Solidaridad.- Disposición a asumir los problemas de otros y del conjunto de la población como propios, a desarrollar una sensibilidad sustentada en la calidad humana y a generar relaciones de cooperación y fraternidad entre personas vecinas y habitantes, ajenas a todo egoísmo y a hacer prevalecer el interés particular por encima del colectivo;
+
+XV. Tolerancia.- Garantía de reconocimiento y respeto pleno a la diversidad social, cultural, ideológica y política de quienes forman parte en los procesos participativos. Ésta es un fundamento indispensable para la formación de los consensos;
+
+XVI. Deliberación democrática.- La reflexión de los pros y contras, entre dos o más personas para tomar una decisión en democracia;
+
+XVII. Transparencia y rendición de cuentas.- Es el derecho de la ciudadanía de acceder a la información derivada de las acciones y decisiones que llevan a cabo las autoridades por medios accesibles; y
+
+XVIII. Progresividad y no regresividad: Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados.
+
+B. Son Ejes Rectores de esta Ley:
+
+I. La capacitación y formación para la ciudadanía plena;
+
+II. La cultura de la transparencia y la rendición de cuentas;
+
+III. La protección y el respeto de los derechos humanos;
+
+IV. La igualdad sustantiva; y
+
+V. Perspectiva de género
 
 ###### Artículo 3°.
 
@@ -93,9 +143,13 @@ Para efectos de esta Ley son sujetos obligados a la aplicación y ejecución de 
 
 Durante los procedimientos de participación ciudadana, todos los plazos y términos se computarán en días y horas hábiles.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
+
 ###### Artículo 5°.
 
-La interpretación de las disposiciones de esta Ley, se hará tomando en cuenta el objeto y los principios rectores de la participación ciudadana previstos en el Artículo 2° de esta Ley, y se atenderá a los criterios gramatical, sistemático y funcional, privilegiando siempre atender al principio pro-persona y la progresividad de los derechos humanos.
+La interpretación de las disposiciones de esta Ley, se hará tomando en cuenta los principios y ejes rectores de la participación ciudadana previstos en el Artículo 2o de esta Ley, y se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Aguascalientes y en los Tratados e Instrumentos Internacionales, favoreciendo en todo momento a las personas con la protección más amplia y la progresividad de dichos derechos.
+
+A falta de disposición expresa, se aplicarán los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 6°.
 
@@ -1190,3 +1244,11 @@ P.O. 29 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 661.- SE REFORMA LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
