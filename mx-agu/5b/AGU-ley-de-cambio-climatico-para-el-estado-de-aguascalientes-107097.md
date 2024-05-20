@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2023-05-08"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -65,9 +65,11 @@ VII. Promover la transición hacia una economía competitiva, sustentable y de b
 
 En lo no previsto por esta Ley y los ordenamientos específicos que señale, se aplicarán de manera supletoria y complementaria los ordenamientos federales y estatales en materia de cambio climático.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
+
 ###### Artículo 2º.
 
-Para efectos de esta Ley se estará a las definiciones contenidas en el artículo 3º de la Ley General de Cambio Climático así como las siguientes:
+Para efectos de esta Ley se estará a las definiciones contenidas en el artículo 3º de la Ley General de Cambio Climático, así como las siguientes:
 
 I. Autoridades Estatales y Municipales: la Administración Pública Central y Paraestatal del Estado y los municipios;
 
@@ -109,9 +111,9 @@ XII. Programa Estatal: Programa Estatal de Acción contra el Cambio Climático;
 
 XIII. Reglamento: Reglamento de la Ley de Cambio Climático para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
-XIV. Secretaría: Secretaria de Medio Ambiente del Estado de Aguascalientes; y
+XIV. Secretaría: Secretaría de Sustentabilidad, Medio Ambiente y Agua; y
 
 XV. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
 
@@ -155,9 +157,11 @@ Las autoridades en materia de cambio climático en el Estado serán las encargad
 
 ### CAPÍTULO II. Distribución de Competencias en Materia de Cambio Climático
 
-###### Artículo 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
 
-Es competencia del Gobierno del Estado por conducto de la Secretaría de Medio Ambiente:
+###### Artículo 6°.
+
+Es competencia del Gobierno del Estado por conducto de la Secretaría de Sustentabilidad, Medio Ambiente y Agua:
 
 I. Formular, conducir y evaluar la política estatal en materia de cambio climático en concordancia con la política nacional;
 
@@ -551,6 +555,10 @@ Asimismo, favorecerán la adaptación del planeamiento urbanístico existente de
 
 Los Programas de Ordenamiento Ecológico Territorial considerarán los aspectos relacionados con el cambio climático como uno de los pilares de la estrategia de ordenamiento del territorio, y en especial el aumento de la densidad urbana, la conservación de las masas forestales, la limitación de la extensión de la mancha urbana y el control de usos en ámbitos vulnerables.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+
+Los Programas de Ordenamiento Ecológico Territorial deberán contemplar el desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático de conformidad con lo establecido por la Ley General de Cambio Climático.
+
 ###### Artículo 29.
 
 Las Autoridades Estatales y Municipales, elaborarán y desarrollarán sus Planes Integrales de Movilidad Urbana Sustentable los cuales deberán ser alineados a la Estrategia Estatal de Cambio Climático y se incorporarán a los mismos los principios establecidos en la presente Ley, sin perjuicio de lo que disponga la normativa específica que en esta materia se apruebe en el Estado.
@@ -796,3 +804,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 660.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
