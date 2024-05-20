@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2023-07-10"
+last_updated: "2024-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -187,25 +187,23 @@ El propio Organo de Gobierno sesionará válidamente con la asistencia de por lo
 
 Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 14.
 
-El Director General será designado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+La persona titular de la Dirección General será designada y removida por la persona titular del Poder Ejecutivo del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos,
+I.- Tener la nacionalidad mexicana, en pleno ejercicio de sus derechos;
 
-II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
+II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
 
-III.- No encontrarse en alguno de los impedimentos para ser miembro del Organo de Gobierno que señalan las fracciones II, III, y IV y V del Artículo 12 de esta Ley.
+III.- No encontrarse en alguno de los impedimentos para ser miembro del Órgano de Gobierno que señalan las fracciones II, III, y IV y V del Articulo 12 de esta Ley; y
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2011)</small>
+IV.- Ser mayor de treinta años de edad.
 
-Los servidores públicos del primer nivel jerárquico inferior al de Director General, serán designados y removidos por el Gobernador del Estado.
+Los servidores públicos del primer nivel jerárquico inferior al de Dirección General, serán designados y removidos por la persona titular del Poder Ejecutivo del Estado.
 
-(ADICIONADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
-
-Para la designación de los servidores públicos que sean Titulares de la Autoridad Auditora; la Autoridad Investigadora; y la Autoridad Substanciadora y Resolutora, que integren el Órgano Interno de Control, se deberá seguir el procedimiento establecido en el Artículo 45 A de esta Ley.
+Para la designación de las y los servidores públicos que sean Titulares de la Autoridad Auditora; la Autoridad Investigadora; y la Autoridad Substanciadora y Resolutora, que integren el Órgano Interno de Control, se deberá seguir el procedimiento establecido en el Artículo 45 A de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -860,3 +858,15 @@ P.O. 10 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 666.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+– Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas anteriores a esta o aquellas que se opongan.
