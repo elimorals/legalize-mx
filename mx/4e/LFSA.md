@@ -4,7 +4,7 @@ identifier: "LFSA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2007-07-25"
-last_updated: "2022-05-11"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de julio de 2007.
 
@@ -1870,15 +1870,25 @@ Para los efectos del párrafo anterior, se establecen cinco tipos de sanciones c
 
 La Secretaría impondrá las multas teniendo en cuenta la gravedad de la falta y las condiciones económicas del infractor, conforme a la tabla del artículo siguiente y de acuerdo con el tabulador que se indica.
 
-A. De 20 a 1000 días de salario mínimo.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
 
-B. De 1000 a 10,000 días de salario mínimo.
+A. De 20 a 1000 veces el valor diario de la Unidad de Medida y Actualización.
 
-C. De 10,000 a 50,000 días de salario mínimo.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
 
-D. De 50,000 a 100,000 días de salario mínimo.
+B. De 1000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-Para los efectos del presente artículo por salario se entiende el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
+
+C. De 10,000 a 50,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
+
+D. De 50,000 a 100,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
+
+Para los efectos de esta Ley, se entenderá por el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la conducta sancionada.
 
 ###### Artículo 170.
 
@@ -1900,27 +1910,113 @@ La suspensión temporal por la revocación.
 
 ### Capítulo IV De los Delitos
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
+
 ###### Artículo 171.
 
-Al que ingrese al territorio nacional animales, bienes de origen animal, así como productos para uso o consumo animal y por cualquier medio evada un punto de inspección en materia zoosanitaria y puso en peligro o en riesgo la situación zoosanitaria del país incumpliendo el carácter normativo respectivo, se le impondrá la pena de dos a diez años de prisión y multa de hasta mil veces el salario mínimo vigente en la zona económica de la que se trate.
+Al que ingrese al territorio nacional animales, bienes de origen animal, así como productos para uso o consumo animal y por cualquier medio evada un punto de inspección en materia zoosanitaria y puso en peligro o en riesgo la situación zoosanitaria del país incumpliendo el carácter normativo respectivo, se le impondrá la pena de dos a diez años de prisión y multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
 
 ###### Artículo 172.
 
-Al que introduzca al territorio nacional o dentro de éste, transporte o comercie con animales vivos, sus productos o subproductos, que hayan sido alimentados con una sustancia cuyo uso esté prohibido para tal fin en las disposiciones de sanidad animal o de buenas prácticas pecuarias emitidas por la Secretaría, teniendo conocimiento de cualquiera de esos hechos, se le impondrá una pena de cuatro a ocho años de prisión y multa de quinientos hasta tres mil veces el salario mínimo vigente en la zona económica en que se llevó a cabo el hecho y en caso de reincidencia se duplicará la pena y la multa.
+Al que introduzca al territorio nacional o dentro de éste, transporte o comercie con animales vivos, sus productos o subproductos, que hayan sido alimentados con una sustancia cuyo uso esté prohibido conforme a los artículos 93 y 172 Bis de esta Ley o de buenas prácticas pecuarias emitidas por la Secretaría, teniendo conocimiento de cualquiera de esos hechos, se le impondrá una pena de cuatro a ocho años de prisión y multa de quinientas hasta tres mil veces el valor diario de la Unidad de Medida y Actualización y en caso de reincidencia se duplicará la pena y la multa.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2024)</small>
+
+###### Artículo 172 Bis.
+
+Se consideran sustancias o productos prohibidos para uso o consumo en animales destinados al abasto, las siguientes:
+
+I. Carbadox (QCA)
+
+II. Cloranfenicol
+
+III. Clorhidrato de Clenbuterol o Clorhidrato de Clembuterol o Clenbuterol o Clembuterol
+
+IV. Clorhidrato de Fenilefrina
+
+V. Cristal violeta
+
+VI. Cumarina en saborizantes artificiales
+
+VII. Dienoestrol
+
+VIII. Dietilestilbestrol (DES)
+
+IX. Dimetridazol
+
+X. Feniltiouracilo
+
+XI. Furaltadona (AMOZ)
+
+XII. Furazolidona (AOZ)
+
+XIII. Hexoestrol
+
+XIV. Lindano
+
+XV. Metiltiouracilo
+
+XVI. Metronidazol
+
+XVII. Nifupirazina
+
+XVIII. Nifuraldezona
+
+XIX. Nitrofurantoina (AHD)
+
+XX. Nitrofurazona
+
+XXI. Nitrovin (Nitrovina)
+
+XXII. Olaquindox (MQCA)
+
+XXIII. Orciprenaline
+
+XXIV. Oxazolidona
+
+XXV. Pigmentantes sintéticos del grupo de los sudanes
+
+XXVI. Propiltiouracilo
+
+XXVII. Rodinazol o Ronidazol
+
+XXVIII. Roxarsona (3-Nitro)
+
+XXIX. Salbutamol
+
+XXX. Tapazol
+
+XXXI. Tinidazol
+
+XXXII. Tiouracil
+
+El Carbadox (QCA) está prohibido para todos los porcinos adultos y además para todas las edades de las demás especies de animales destinadas para el abasto.
+
+Se entenderán como animales para abasto a aquellos animales cuyo destino final sea el consumo humano.
+
+Al listado de sustancias y productos y sus sales, precursores, metabolitos y derivados químicos, previstos en este artículo, se entenderán incorporados los que dé a conocer la Secretaría en términos de lo dispuesto en el artículo 93 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2024)</small>
 
 ###### Artículo 173.
 
-Al que sin autorización de las autoridades zoosanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, transporte, almacene, comercialice o en general realice actos con cualquier sustancia cuyo uso esté prohibido para alimentación de animales en las disposiciones de sanidad animal o de buenas prácticas pecuarias emitidas por la Secretaría, se le impondrá una pena de cuatro a ocho años de prisión y multa de quinientos hasta tres mil veces el salario mínimo vigente en la zona económica en que se llevó a cabo el hecho y en caso de reincidencia se duplicará la pena y la multa, siempre y cuando esos actos sean con la finalidad de adicionarlas a los alimentos o bebidas de animales cuyos productos o subproductos estén destinados al consumo humano.
+Al que sin autorización de las autoridades zoosanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, transporte, almacene, comercialice o en general realice actos con cualquier sustancia cuyo uso esté prohibido conforme a los artículos 93 y 172 Bis de esta Ley para alimentación de animales en las disposiciones de sanidad animal o de buenas prácticas pecuarias emitidas por la Secretaría, se le impondrá una pena de cuatro a ocho años de prisión y multa de quinientas hasta tres mil veces el valor diario de la Unidad de Medida y Actualización y en caso de reincidencia se duplicará la pena y la multa, siempre y cuando esos actos sean con la finalidad de adicionarlas a los alimentos o bebidas de animales cuyos productos o subproductos estén destinados al consumo humano.
 
 Se presumirá que existe esa finalidad, cuando las sustancias a que se refiere ese artículo se encuentren en el interior de establecimientos dedicados a la producción animal o a la fabricación y expendio de alimentos para ganado.
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2024)</small>
+
 ###### Artículo 174.
 
-Al que ordene el suministro o suministre a animales destinados al abasto alguna sustancia o alimento prohibidos a los que hace alusión esta Ley y demás disposiciones de salud animal, será sancionado con tres a siete años de prisión y de diez mil a cincuenta mil días de salario mínimo de multa.
+Al que distribuya, ordene el suministro o suministre a animales destinados al abasto alguna sustancia o alimento prohibidos conforme a los artículos 93 y 172 Bis de esta Ley, y demás disposiciones de salud animal, será sancionado con tres a siete años de prisión y de diez mil a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2024)</small>
 
 ###### Artículo 175.
 
-Se sancionará con penalidad de uno a cinco años de prisión y multa de hasta mil veces de salario mínimo general vigente en la zona económica en que se lleve a cabo sin perjuicio de las sanciones administrativas que pudieran generarse:
+Se sancionará con penalidad de uno a cinco años de prisión y multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones administrativas que pudieran generarse.
 
 Al que emita documentos en materia zoosanitaria sin observar los procedimientos establecidos para su expedición.
 
@@ -1983,3 +2079,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 169, 171, 172, 173, 174 Y 175 Y, SE ADICIONA UN ARTÍCULO 172 BIS DE LA LEY FEDERAL DE SANIDAD ANIMAL".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
