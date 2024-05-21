@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-04-03"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1595,9 +1595,9 @@ La prescripción producirá su efecto, aunque no la invoque el acusado.
 
 La autoridad la hará valer de oficio, sea cual fuere el estado del procedimiento.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
-Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad, excepto cuando se trate de los delitos previstos en los artículos 192, 194-Bis, 194-Ter, 198 Bis, 198 Bis 1, 199, 267, 270, 273, 276 Septies y 337 Bis de este Código, los cuales serán imprescriptibles.
+Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad, excepto cuando se trate de los delitos previstos en los artículos 192, 194-Bis, 194-Ter, 198 Bis, 198 Bis 1, 199, 267, 270, 273, 276 Septies, 337 Bis y 352 de este Código, los cuales serán imprescriptibles.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -3983,9 +3983,15 @@ A los testigos que intervengan en la celebración del nuevo matrimonio a sabiend
 
 Cometen el delito de incesto los ascendientes que tengan cópula con sus descendientes y los hermanos que tengan cópula entre sí.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 286.
 
-A los ascendientes responsables del delito de incesto se les impondrá una sanción de tres a seis años de prisión y para los descendientes la sanción será de seis meses a tres años de prisión; esta última sanción se impondrá cuando el incesto se realice entre hermanos.
+A los ascendientes responsables del delito de incesto se les impondrá una sanción de cuatro a siete años de prisión y para los descendientes la sanción será de seis meses a tres años de prisión; esta última sanción se impondrá cuando el incesto se realice entre hermanos, siempre y cuando los sujetos sean mayores de edad.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+Cuando la víctima sea menor de edad, la conducta siempre será entendida como típica de violación.
 
 ### CAPITULO V. EXPOSICION DE MENORES
 
@@ -4733,11 +4739,11 @@ Al que cometa el delito de parricidio se le impondrá una sanción de treinta a 
 
 Comete el delito de filicidio el que dolosamente prive de la vida a cualquier descendiente consanguíneo en línea recta, sabiendo el responsable el parentesco.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 353.
 
-Al responsable del delito de filicidio se le impondrá una sanción de treinta a cincuenta años de prisión.
+Al responsable del delito de filicidio se le impondrá una sanción de cuarenta a sesenta años de prisión.
 
 ###### ARTICULO 354.
 
@@ -7562,6 +7568,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-830 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XX Y XXI, Y SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 407, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-846 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 126, PÁRRAFO CUARTO; 286; Y 353; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 286, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
