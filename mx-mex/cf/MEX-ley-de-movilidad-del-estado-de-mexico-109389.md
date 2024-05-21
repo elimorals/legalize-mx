@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2024-04-05"
+last_updated: "2024-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, PUBLICADA EN LA G.G. DE 21 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024 (ABROGADA).
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -1346,3 +1348,43 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264.- POR EL QUE SE EXPIDE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor a los treinta días hábiles siguiente (sic) de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley de Movilidad del Estado de México, contenida en el Decreto número 486, publicada en el Periódico Oficial "Gaceta del Gobierno" en fecha 12 de agosto de 2015 y sus subsecuentes reformas y adiciones.
+
+CUARTO. En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá integrarse el Sistema Estatal de Movilidad y Seguridad Vial, mismo que deberá emitir los lineamientos para su organización y operación, así como el Programa Estatal de Movilidad, Seguridad Vial y Transporte en un plazo no mayor a ciento ochenta días hábiles contados a partir de su integración.
+
+En tanto no se integré el Sistema Estatal de Movilidad y Seguridad Vial y no se emita el Programa Estatal de Movilidad, Seguridad Vial y Transporte, cada autoridad responsable del cumplimento de sus obligaciones en términos de la presente Ley.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley se tendrán ciento ochenta días para la expedición por única vez, por parte de la Secretaría de Movilidad la convocatoria para la creación del Observatorio Ciudadano de Movilidad, Seguridad Vial y Transporte.
+
+SEXTO. El Ejecutivo del Estado reformará el Reglamento Interior de las Secretarías de Movilidad, de Desarrollo Urbano e Infraestructura, de Finanzas, de Salud, de Medio Ambiente y Desarrollo Sostenible, de Educación, Ciencia, Tecnología e Innovación, de las Mujeres y la de Seguridad, para que cuenten con las atribuciones y facultades para dar cumplimiento a lo establecido en la presente Ley.
+
+Aunado a ello, reformará las demás disposiciones normativas que sean necesarias para el cumplimento de la presente Ley en un plazo no mayor a ciento ochenta días hábiles a partir de su entrada en vigor.
+
+SÉPTIMO. Las autoridades municipales en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, deberán aprobar las reformas a sus disposiciones normativas a efecto de armonizarlas con la presente Ley.
+
+OCTAVO. El Programa Estatal de Movilidad, Seguridad Vial y Transporte deberá desarrollarse en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+NOVENO. El Registro Estatal de Movilidad, Seguridad Vial y Transporte funcionará con la estructura, personal y recursos que actualmente tiene el Registro Estatal de Transporte Público dependiente de la Secretaría de Movilidad.
+
+DÉCIMO. Toda referencia al dictamen de impacto vial o evaluación técnica de impacto en materia de movilidad en otros ordenamientos de igual o menor jerarquía se entenderá hecha al estudio de impacto de movilidad.
+
+DÉCIMO PRIMERO. El Fideicomiso para la Infraestructura del Bienestar (FIB), deberá ajustarse de conformidad a la Ley General de Instituciones de Crédito, tomando en cuenta que el contrato de fideicomiso denominado Fideicomiso para el Desarrollo de infraestructura del Estado de México (FIDEIEM), existente constituirá el nuevo.
+
+DÉCIMO SEGUNDO. La Secretaría de Movilidad establecerá el pago de las tarifas correspondientes de las empresas de transporte, una vez terminada la transición del esquema Hombre Camión.
+
+DÉCIMO TERCERO. El Ejecutivo Estatal creará el Organismo Público Descentralizado Sistema de Transporte Colectivo Metro Mexiquense (METROMEX), en un plazo no mayor a un año contado a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor de la presente Ley se tendrán ciento ochenta días hábiles para la expedición del Reglamento de la Ley de Movilidad y Seguridad Vial del Estado de México y sus Municipios.
+
+DÉCIMO QUINTO. La Legislatura deberá armonizar la legislación correspondiente en un lapso de ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO SEXTO. En el caso de las personas que, a través de un contrato electrónico de transporte celebrado en términos del Código Civil del Estado de México, ofrece a un usuario un medio de traslado siendo el prestador de servicios electrónicos el intermediario para tal fin, mediante una aplicación electrónica tecnológica; deberán de obtener su certificado médico toxicológico en un término que no exceda de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley.
