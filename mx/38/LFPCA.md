@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2017-01-27"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -1160,7 +1160,7 @@ a) Procederá en contra de los siguientes actos:
 
 4.- Si la autoridad no da cumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado en el juicio contencioso administrativo federal.
 
-La queja sólo podrá hacerse valer por una sola vez, con excepción de los supuestos contemplados en el subinciso 3, caso en el que se podrá interponer en contra de las resoluciones dictadas en cumplimiento a esta instancia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 21 DE MAYO DE 2024)</small>
 
 b) Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante la Sala Regional, la Sección o el Pleno que dictó la sentencia, dentro de los quince días siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el supuesto previsto en el inciso anterior, subinciso 3, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
 
@@ -2145,3 +2145,9 @@ En el caso de que se cumplan los requisitos de procedencia señalados en el art�
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las erogaciones que, en su caso, se requieran para cumplir con el presente Decreto, serán cubiertas con cargo al presupuesto aprobado para dicho fin en el ejercicio fiscal correspondiente.
+
+D.O.F. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DEROGA UN PÁRRAFO DEL ARTÍCULO 58 DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
