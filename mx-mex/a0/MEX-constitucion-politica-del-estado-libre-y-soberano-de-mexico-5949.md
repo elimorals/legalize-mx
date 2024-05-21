@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2024-04-05"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -73,11 +73,11 @@ La soberanía estatal reside esencial y originariamente en el pueblo del Estado 
 
 ## TITULO SEGUNDO. De los Principios Constitucionales, los Derechos Humanos y sus Garantías
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE MAYO DE 2024)</small>
 
 ###### Artículo 5.
 
-En el Estado de México todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en los que el Estado mexicano sea parte, en esta Constitución y en las leyes que de ésta emanen, por lo que gozarán de las garantías para su protección, las cuales no podrán restringirse ni suspenderse salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
+En el Estado de México todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en los que el Estado mexicano sea parte, en esta Constitución y en las leyes que de ésta emanen, por lo que gozarán de las garantías para su protección, las cuales no podrán restringirse ni suspenderse salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece. En el Estado de México la Naturaleza o biodiversidad, especies endémicas y nativas son sujetos de derecho, los cuales son otorgados, protegidos y promovidos por la constitución y las leyes del Estado.
 
 > <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -679,17 +679,17 @@ Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquier
 
 Corresponde al Estado procurar el desarrollo integral de los pueblos y personas, garantizando que fortalezca la Soberanía del Estado y su régimen democrático y que, mediante la competitividad, el fomento del crecimiento económico, una política estatal para el desarrollo industrial que incluya vertientes sectoriales y regionales, el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución y las disposiciones legales de la Federación. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo digno y bien remunerado. El desarrollo se basará en el aprovechamiento sustentable de los recursos naturales, cuidando la integridad de los ecosistemas, fomentando un justo equilibrio de los factores sociales y económicos, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 21 DE MAYO DE 2024)</small>
 
-Las autoridades ejecutarán programas para conservar, proteger y mejorar los recursos naturales del Estado y evitar su deterioro y extinción, así como para prevenir y combatir la contaminación ambiental.
+Las autoridades ejecutarán programas para conservar, proteger y mejorar los recursos naturales del Estado y evitar su deterioro y extinción, así como para prevenir y combatir la contaminación ambiental, en el Estado de México la Naturaleza o biodiversidad, especies endémicas y nativas son sujetos de derecho, los cuales son otorgados, protegidos y promovidos por la constitución.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales, a las medidas de adaptación y mitigación al cambio climático en el Estado y a la propagación de la flora y de la fauna existentes en el Estado. El daño y deterioro ambiental generarán responsabilidad en términos de ley.
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 21 DE MAYO DE 2024)</small>
 
-Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como para el caso de la Naturaleza, a fin de garantizar los derechos a la existencia, preservación, conservación, reparación, restauración, mantenimiento, regeneración, cuidado y protección de los ecosistemas en el Estado de México para el pleno desarrollo de los ciclos biológicos de todos los seres vivos.
 
 > <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
@@ -5260,3 +5260,15 @@ PRIMERO.- En la sesión del Pleno de la Legislatura o de la Diputación Permanen
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DE APROBACIÓN DE LA MINUTA CON PROYECTO DE DECRETO NÚMERO 262.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5 Y LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
