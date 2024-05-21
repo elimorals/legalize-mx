@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-95203
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2024-05-16"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,11 +23,11 @@ issue_date: "2013-05-23"
 
 [NOTA 2. [N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA: https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-deconciliacion-y-arbitraje-abril-2024?idiom=es.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MAYO DE 2024 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE MAYO DE 2024.]</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de julio de 2013.
 
@@ -1769,7 +1769,9 @@ D.O.F. 16 DE MAYO DE 2024.
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO GENERAL MEDIANTE EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA EN LA CUAL PODRÁ SER CONSULTADO EL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
 
-PRIMERO. Se da a conocer a la población en general la dirección electrónica https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-deconciliacion-y-arbitraje-abril2024?idiom=es a la cual se podrá acceder para consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje vigente, el cual contiene las reformas y adiciones realizadas al mismo, que fueron aprobadas el 7 de marzo de 2024, por el Pleno de la Junta Federal de Conciliación y Arbitraje.
+> <small>(F. DE E., D.O.F. 21 DE MAYO DE 2024)</small>
+
+PRIMERO. Se da a conocer a la población en general la dirección electrónica https://www.gob.mx/jfca/documentos/reglamento-interior-de-la-junta-federal-de-conciliacion-y-arbitraje-abril-2024?idiom=es a la cual se podrá acceder para consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje vigente, el cual contiene las reformas y adiciones realizadas al mismo, que fueron aprobadas el 7 de marzo de 2024, por el Pleno de la Junta Federal de Conciliación y Arbitraje.
 
 SEGUNDO. Publíquese el presente Aviso en el Diario Oficial de la Federación.
 
