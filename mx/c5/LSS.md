@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2024-04-30"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -3060,7 +3060,29 @@ IV. Las donaciones, herencias, legados, adjudicaciones, subsidios y transferenci
 
 V. Los intereses, dividendos, realización de activos, alquileres, rentas, rendimientos, utilidades, frutos y productos de cualquier clase, que generen los bienes y derechos afectos a su patrimonio, y
 
-VI. Cualesquier otros ingresos que le señalen las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2024)</small>
+
+VI. Los bienes inmuebles que las entidades federativas, los municipios y los organismos descentralizados cedan al Instituto con la finalidad de pagar cuotas obrero patronales, ya sea para saldar adeudos o cubrir obligaciones a su cargo.
+
+Para efectos del párrafo anterior, será potestad del Instituto aceptar o no, los bienes inmuebles observando lo siguiente:
+
+a) No podrán aceptarse como pago de las cuotas correspondientes al seguro de retiro, cesantía en edad avanzada y vejez;
+
+b) Los bienes deberán resultar funcionales para cumplir con las facultades y atribuciones del Instituto, previstas en la presente Ley;
+
+c) Los bienes inmuebles deberán estar libres de gravamen, carga, proceso judicial o contingencia de cualquier naturaleza;
+
+d) El valor del inmueble se determinará por el Instituto de Administración y Avalúos de Bienes Nacionales, con base en ese avalúo, el área competente del Instituto determinará los saldos de los créditos o el monto de las obligaciones a cubrir, y
+
+e) El Consejo Técnico del Instituto emitirá los lineamientos que fijen las bases para la incorporación al patrimonio institucional, de los bienes a que se refiere esta fracción.
+
+En ningún caso la dación en pago o el pago en especie dará derecho a la devolución de importe alguno en efectivo, a favor del ente público.
+
+En caso de que existiera saldo a favor del ente público, una vez que se hubiere liquidado el importe de los adeudos y descontados los gastos de adjudicación, éste podrá ser aplicado, considerando el porcentaje máximo de adjudicación, a los importes futuros, sin que pueda ser utilizado para cubrir las aportaciones o adeudos derivados de las cuotas correspondientes al seguro de retiro, cesantía en edad avanzada y vejez, y
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2024)</small>
+
+VII. Cualesquiera otros ingresos que le señalen las leyes y reglamentos.
 
 Todos los bienes inmuebles que formen parte del patrimonio del Instituto, estarán destinados al servicio público de carácter nacional del Seguro Social a que se refiere el artículo 4o. de esta Ley y tendrán el carácter de bienes del dominio público de la Federación.
 
@@ -4961,3 +4983,9 @@ Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar 
 DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
+
+D.O.F. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 253 DE LA LEY DEL SEGURO SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
