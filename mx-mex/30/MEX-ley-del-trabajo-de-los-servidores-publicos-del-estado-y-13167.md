@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2024-04-05"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -381,7 +381,9 @@ Los servidores públicos, mayores de 16 años, tendrán capacidad legal por sí 
 
 Para ingresar al servicio público se requiere:
 
-I. Presentar una solicitud utilizando la forma oficial que se autorice por la institución pública o dependencia correspondiente;
+> <small>(REFORMADA, G.G. 21 DE MAYO DE 2024)</small>
+
+I. Presentar una solicitud utilizando la forma oficial que se autorice por la institución pública o dependencia correspondiente, a la cual se le prohíbe incluir la fotografía de quien solicita el empleo;
 
 II. Ser de nacionalidad mexicana, con la excepción prevista en el artículo 17 de la presente ley;
 
@@ -3646,3 +3648,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 263.- POR EL QUE SE ADICIONA EL ARTÍCULO 7 TER Y EL INCISO H) A LA FRACCIÓN VII DEL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 47 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente decreto.
