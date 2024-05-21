@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-7593
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-16"
-last_updated: "2010-07-16"
+last_updated: "2024-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SAN JOSE ITURBIDE, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE SAN JOSÉ ITURBIDE, GUANAJUATO, PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE SAN JOSE ITURBIDE, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de julio de 2010.
 
@@ -390,3 +392,15 @@ Presidente Municipal
 Lic. Martín Vargas Rivera
 
 Secretario del H. Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE SAN JOSÉ ITURBIDE, GUANAJUATO”.]
+
+Primero.- El presente Reglamento entrará en vigor al día hábil siguiente a su publicación en Diario Oficial del Gobierno del Estado de Guanajuato.
+
+Segundo.- Se abroga el Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de San José Iturbide, Gto., publicado el 16 de julio del 2010 en el Diario Oficial del Estado de Guanajuato.
+
+Tercero.- Se abrogan las disposiciones de igual o menor jerarquía que contravengan la presente disposición.
