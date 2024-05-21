@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2024-02-23"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -4391,11 +4391,11 @@ Para efectos de este artículo se entiende que proceden o representan el product
 
 DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### Artículo 355.
 
-A quien por cualquier medio procure, propicie, posibilite, promueva, induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, consumo de drogas o enervantes, así como bebidas embriagantes, prácticas sexuales, formar parte de una asociación delictuosa o a cometer hechos que la ley señala como delitos, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientas setenta y seis veces el valor de la Unidad de Medida y Actualización.
+Al que por cualquier medio procure, propicie, posibilite, gestione promueva, induzca o facilite el que una persona menor de edad o quien no tenga la capacidad de comprender el significado del hecho o la capacidad de resistir la conducta, realice actos de mendicidad, de exhibicionismo corporal, lascivos o sexuales, consumo de drogas o enervantes, así como bebidas embriagantes, prácticas sexuales, formar parte de una asociación delictuosa o a cometer hechos que la ley señala como delitos, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4413,7 +4413,9 @@ Se impondrán de dos a cinco años de prisión y multa de ciento cuarenta y cuat
 
 I. Emplee directa o indirectamente los servicios de un menor en un lugar nocivo para su sana formación psicosocial, y
 
-II. Acepte que su menor hijo o persona que tenga bajo su guarda y custodia, preste sus servicios en lugar nocivo para su sana formación psicosocial.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2024)</small>
+
+II. Acepte que su menor hijo o persona que tenga bajo su guarda y custodia, sea utilizado para mendicidad o preste sus servicios en lugar nocivo para su salud o para su sana formación psicosocial.
 
 Para efectos de este artículo, se considera como empleado al menor que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tales lugares.
 
@@ -5948,3 +5950,15 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 324.- SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
