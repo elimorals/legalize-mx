@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2024-02-20"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -547,9 +547,9 @@ Cuando una persona adolescente cometa un hecho que la ley señala como delito te
 
 Las personas menores de doce años a las que se les atribuya un hecho que la ley señala como delito, únicamente serán sujetas de asistencia social a cargo del Estado y en coordinación con la familia y la sociedad. En los casos en los que una persona menor de doce años sea detenida, deberá ser puesta en inmediata libertad y deberá darse aviso inmediato a quienes ejerzan sobre ella la patria potestad o tutela, así como a la Procuraduría para la Protección de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
-Las funciones de procuración de justicia en el Estado se realizarán con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+Las funciones de procuración de justicia, a cargo de la Fiscalía General de Justicia del Estado, se realizarán con base en los principios de justicia, legalidad, imparcialidad, autonomía, independencia, objetividad, eficiencia, disciplina, honradez, unidad, buena fe, presunción de inocencia, profesionalismo, diligencia, lealtad, respeto a los derechos humanos y perspectiva de género.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -1203,7 +1203,11 @@ XXIV. Convocar a elecciones extraordinarias de diputados cuando, por cualquiera 
 
 XXV. Instruir al organismo público local electoral, para que proceda a efectuar las elecciones extraordinarias convocadas por el Congreso;
 
-XXVI. Nombrar al Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2024)</small>
+
+XXVI. Designar a las personas titulares de la Fiscalía General de Justicia del Estado y de las Fiscalías Especializadas, a partir de la terna que contenga las propuestas que le presente la persona titular del Poder Ejecutivo del Estado.
+
+El Congreso del Estado mediante el voto de las dos terceras partes de quienes integren la Legislatura, podrá remover a las personas titular (sic) de la Fiscalía General de Justicia del Estado y de las fiscalías especializadas, por las causas graves que establezca la ley, previa acreditación de las mismas, así declarada en resolución firme;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
@@ -1297,13 +1301,35 @@ LX. Expedir las leyes necesarias para la coordinación del Sistema Estatal Antic
 
 LXI. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los Órganos Autónomos reconocidos en esta Constitución, que ejerzan recursos del Presupuesto de Egresos del Estado;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2024)</small>
 
-LXII. Determinar con relación al otorgamiento de haberes de retiro, a favor de las personas que hayan ejercido la titularidad de alguna Magistratura del Tribunal Superior de Justicia del Estado, del Tribunal de Conciliación y Arbitraje del Estado y del Tribunal Electoral de Tlaxcala, conforme a lo dispuesto en esta Constitución y en la ley, y
+LXII. Determinar con relación al otorgamiento de haberes de retiro, a favor de las personas que hayan ejercido la titularidad de alguna Magistratura del Tribunal Superior de Justicia del Estado, del Tribunal de Conciliación y Arbitraje del Estado y del Tribunal Electoral de Tlaxcala, conforme a lo dispuesto en esta Constitución y en la ley;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2024)</small>
+
+LXIII. Expedir la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tlaxcala, y
 
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
 
-LXIII. Las demás que le confiere esta Constitución y las leyes.
+LXIV. Las demás que le confiere esta Constitución y las leyes.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 54 BIS.- Para el nombramiento de la persona titular de la Fiscalía General de Justicia del Estado, se estará al procedimiento siguiente:
+
+I. El Congreso del Estado analizará la terna que proponga la persona titular del Poder Ejecutivo del Estado y, de entre las personas propuestas, realizará la designación, dentro de los quince días naturales posteriores a la presentación de dicha terna;
+
+II. Las personas propuestas en la terna deberán cumplir los requisitos normativos y de idoneidad para desempeñar el cargo;
+
+III. El Congreso designará a la persona titular de la Fiscalía General de Justicia del Estado por mayoría calificada de dos terceras partes de los integrantes de la Legislatura, previa comparecencia de las personas propuestas;
+
+IV. En el supuesto de que el Congreso rechace la terna presentada por la persona titular del Poder Ejecutivo del Estado, ésta formulará nueva terna;
+
+V. El procedimiento indicado en las fracciones anteriores se seguirá hasta que se realice la designación, y
+
+VI. El mismo procedimiento se seguirá para la designación de las personas titulares de las fiscalías especializadas.
+
+La persona titular de la Fiscalía General de Justicia del Estado será nombrada para ocupar el cargo durante siete años, sin posibilidad de ser designada para otro periodo de forma inmediata.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1575,6 +1601,10 @@ XII. Auxiliar a los Ayuntamientos en el ejercicio de sus funciones;
 
 XIII. Nombrar y remover con apego al principio de paridad de género, a los secretarios del Ejecutivo, Oficial Mayor de Gobierno, y a todos los demás servidores públicos del estado, cuyo nombramiento no estén determinados de otro modo en esta Constitución o en las leyes;
 
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2024)</small>
+
+XIII Bis. Someter a consideración del Congreso las ternas de personas que proponga para la designación de la persona titular de la Fiscalía General de Justicia del Estado, así como para el nombramiento de las personas titulares de las fiscalías especializadas;
+
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XIV. Cuidar de la recaudación e inversión de los recursos del Estado;
@@ -1681,57 +1711,89 @@ XL. (DEROGADA, P.O. 18 DE MAYO DE 2001)
 
 ### CAPITULO II. DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 71.
 
-La Institución del Ministerio Público, en representación jurídica de la sociedad, velará por el cumplimiento de las leyes.
+La institución del Ministerio Público del Estado se organizará en una Fiscalía General de Justicia del Estado, con la naturaleza de un órgano autónomo dotado de personalidad jurídica y patrimonio propios, con autonomía técnica, presupuestal y de gestión.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 72.
 
-El ministerio público es el órgano dependiente del Poder Ejecutivo en cuanto a su administración; la investigación de los delitos corresponde al ministerio público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en ejercicio de esta función.
+La Fiscalía General de Justicia del Estado, en representación jurídica de la sociedad, velará por el cumplimiento de las leyes.
 
-Ejercitará las acciones que correspondan contra los infractores de las leyes; hará efectivos los derechos concedidos al Estado e intervendrá en los juicios que afectan a las personas a quienes se debe otorgar especial atención conforme a la ley; tendrá en su estructura órganos de dirección, profesionales y técnicos y se regirá por los principios de justicia, legalidad, imparcialidad, independencia, objetividad, unidad y buena fe.
+Corresponde a la Fiscalía General de Justicia del Estado y a las policías la investigación de los delitos.
 
-La policía preventiva del Estado y la de los municipios colaborarán con la ministerial en el combate a la delincuencia conforme a los convenios que al respecto se celebren.
+La Fiscalía General de Justicia del Estado realizará una procuración de justicia eficaz, efectiva y apegada a derecho; solicitará las medidas cautelares y ejercitará las acciones que correspondan contra los imputados; obtendrá y presentará las pruebas que acrediten la participación de éstos en los hechos que las leyes señalen como delitos; hará efectivos los derechos concedidos al Estado e intervendrá en los juicios que afecten a las personas a quienes se debe otorgar especial atención conforme a la ley; tendrá en su estructura órganos de dirección, profesionales y técnicos, fiscalías especializadas, así como una corporación policíaca, y se regirá por los principios de justicia, legalidad, imparcialidad, autonomía, independencia, objetividad, eficiencia, disciplina, honradez, unidad, buena fe, presunción de inocencia, profesionalismo, diligencia, lealtad, respeto a los derechos humanos y perspectiva de género.
 
-Para la investigación y, en su caso, la remisión al juez especializado para adolescentes, se dispondrá de agentes ministeriales especializados para la atención de esos asuntos, bajo los principios de interés especial en la adolescencia, transversalidad, subsidiariedad, flexibilidad, equidad y de protección integral de los derechos de los adolescentes.
+La policía preventiva del Estado y las de los municipios colaborarán con la policía de investigación de la Fiscalía General de Justicia del Estado, en el combate a la delincuencia, conforme a los convenios que al respecto se celebren.
 
-Los agentes ministeriales o de policía que traten de manera exclusiva con menores o que se dediquen fundamentalmente a la prevención e investigación de presuntas conductas antisociales cometidas por adolescentes, estarán debidamente instruidos y capacitados de forma permanente para el funcionamiento de sus atribuciones.
+Para la investigación y, en su caso, la remisión al juez especializado para adolescentes, se dispondrá de agentes policiacos especializados para la atención de esos asuntos, bajo los principios de interés especial en la adolescencia, transversalidad, subsidiariedad, flexibilidad, equidad y de protección integral de los derechos de los adolescentes.
 
-La Ley Orgánica de la Institución del Ministerio Público, regulará su estructura, funcionamiento, competencia y administración, conforme lo dispone este mandato.
+Los agentes de policía que traten de manera exclusiva con menores o que se dediquen fundamentalmente a la prevención e investigación de presuntas conductas antisociales cometidas por adolescentes, estarán debidamente instruidos y capacitados de forma permanente para el funcionamiento de sus atribuciones.
+
+La Ley Orgánica de la Fiscalía General de Justicia del Estado de Tlaxcala, regulará su estructura, funcionamiento, competencia y administración, conforme lo dispone este mandato.
 
 Garantizar la seguridad pública es un deber del Estado; para ello contará con una corporación de policía que estará al mando del Poder Ejecutivo y de los presidentes municipales, en el ámbito de sus respectivas competencias. Esta policía prestará auxilio a las autoridades, para el debido cumplimiento de sus atribuciones y se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 73.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia, cuya designación se hará por el Congreso a propuesta en terna del Gobernador del Estado.
+La institución del Ministerio Público estará a cargo de la persona titular de la Fiscalía General de Justicia del Estado, cuya designación se hará por el Congreso, a propuesta, en terna, de la persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+Las ausencias temporales de la persona titular de la Fiscalía General de Justicia del Estado serán suplidas en los términos que determine la Ley. En caso de ausencia definitiva, se iniciará el procedimiento de designación establecido en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 73 BIS.- La persona titular del Poder Ejecutivo podrá solicitar al Congreso la remoción de la persona titular de la Fiscalía General de Justicia del Estado, por las causas graves que establezca la ley. En el escrito de solicitud de remoción deberán expresarse los motivos y fundamentos y ofrecerse las pruebas respectivas.
+
+El Congreso podrá rechazar la solicitud, conforme al procedimiento que señale la Ley.
+
+Durante los recesos del Congreso, la Comisión Permanente convocará de inmediato a periodo extraordinario de sesiones, para conocer de la solicitud de remoción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 74.
 
-Para ser Procurador General de Justicia del Estado se cumplirá con los siguientes requisitos:
+La persona titular de la Fiscalía General de Justicia del Estado deberá cumplir los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos, con una residencia mínima de cinco años en el Estado, antes del nombramiento;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 II. Tener cuando menos treinta y cinco años de edad el día del nombramiento;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 III. Ser licenciado en derecho, con título y cédula profesional legalmente expedidos y con antigüedad mínima de cinco años;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 IV. Haber ejercido como abogado postulante, académico o en la administración o procuración de justicia del Estado, cinco años anteriores a la fecha del nombramiento;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 V. Gozar de buena reputación, no haber sido condenado por la comisión de algún delito doloso, ni estar inhabilitado para desempeñar cargos públicos;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 VI. No ser ministro de algún culto religioso;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 VII. No ser miembro activo del Ejército y Fuerzas Armadas del país, y
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 VIII. Aprobar los exámenes públicos de oposición, que se efectúen conforme a la ley, ante el pleno del Congreso, quien nombrará a los miembros del jurado, el que estará integrado básicamente por académicos e investigadores, preferentemente ajenos al Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 74 BIS.- Durante los primeros quince días del mes de enero de cada año, la persona titular de la Fiscalía General de Justicia del Estado, presentará al Congreso y al Poder Ejecutivo un informe de actividades de la Institución del Ministerio Público a su cargo, y deberá comparecer ante el Poder Legislativo cuando se le requiera para informar sobre su gestión.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1739,11 +1801,11 @@ VIII. Aprobar los exámenes públicos de oposición, que se efectúen conforme a
 
 Los servidores públicos del Ministerio Público no tendrán, en los juicios en que intervengan, ninguna prerrogativa especial.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 76.
 
-La operación del sistema integral de justicia para adolescentes, estará a cargo de instancias ministeriales jurisdiccionales y administrativas especializadas en la materia. La ley que se expida establecerá su estructura, y normará su funcionamiento, competencia y administración.
+La operación del sistema integral de justicia para adolescentes estará a cargo de instancias de la Fiscalía General de Justicia del Estado, jurisdiccionales y administrativas especializadas en la materia. La ley que se expida establecerá su estructura, y normará su funcionamiento, competencia y administración.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1759,7 +1821,9 @@ La seguridad pública es una función a cargo del Estado y los municipios, que c
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional y estarán al mando del Poder Ejecutivo y de los presidentes municipales, en el ámbito de sus respectivas competencias.
 
-El ministerio público y las instituciones de seguridad pública deberán coordinarse entre sí para cumplir objetivos comunes de seguridad y conformar el sistema nacional de seguridad pública, en términos de lo que establece la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
+
+La Fiscalía General de Justicia del Estado y las instituciones de seguridad pública deberán coordinarse entre sí para cumplir objetivos comunes de seguridad y conformar el sistema nacional de seguridad pública, en términos de lo que establece la Constitución Política de los Estados Unidos Mexicanos.
 
 ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
@@ -1915,7 +1979,9 @@ b) A la Comisión Estatal de Derechos Humanos;
 
 c) A la Universidad Autónoma de Tlaxcala;
 
-d) Al Procurador General de Justicia del Estado en los asuntos relativos a su función; y,
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
+
+d) A la persona titular de la Fiscalía General de Justicia del Estado, en los asuntos relativos a las funciones de ese Ente, e
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -1933,7 +1999,9 @@ d) A la Comisión Estatal de Derechos Humanos;
 
 e) A las Universidades Públicas estatales; y,
 
-f) Al Procurador General de Justicia del Estado en los asuntos relativos a sus funciones.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
+
+f) A la persona titular de la Fiscalía General de Justicia del Estado, en los asuntos relativos a las funciones de ese Ente.
 
 V. El trámite y resolución de los juicios de competencia constitucional y acciones de inconstitucionalidad a que se refieren las tres Fracciones anteriores, se sujetará a los términos siguientes:
 
@@ -2007,9 +2075,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2024)</small>
 
-VI. No haber ocupado el cargo de Gobernador, Secretario o su equivalente, Procurador General de Justicia, Diputado local, Presidente Municipal o titular de algún organismo público autónomo en el Estado, ni Senador o Diputado Federal, durante el año previo al día de su designación.
+VI. No haber ocupado el cargo de Gobernador, Secretario o su equivalente, titular de la Fiscalía General de Justicia del Estado, Diputado local, Presidente Municipal o titular de algún organismo público autónomo en el Estado, ni Senador o Diputado Federal, durante el año previo al día de su designación, y
 
 VII. (DEROGADA, P.O. 21 DE JULIO DE 2015)
 
@@ -2579,7 +2647,7 @@ Para ser Magistrada o Magistrado de este Tribunal se deberá contar con experien
 
 Previo a su designación, las magistradas y los magistrados deberán aprobar los exámenes públicos de oposición que se efectúen conforme a la Ley, ante el Pleno del Congreso, quien nombrará a los miembros del Jurado, el que estará integrado básicamente por académicos e investigadores preferentemente ajenos al Estado. Para la práctica de esos exámenes, deberá expedirse, con un mes de anticipación, una convocatoria dirigida a todos los abogados de la Entidad, debidamente publicitada en tres periódicos impresos de circulación diaria en el Estado, conteniendo el nombre de los sinodales.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 97.
 
@@ -2611,21 +2679,59 @@ El Instituto contará con un Consejo Consultivo, conformado por cinco Consejeros
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
-### CAPITULO I. DESARROLLO Y PLANEACION
+### CAPITULO V. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 97 TER.- La Fiscalía General de Justicia del Estado tendrá las atribuciones siguientes:
+
+I. Establecer una política para investigar y perseguir de manera estratégica los delitos del fuero común; aquellos en los que, por disposición de las leyes generales, exista competencia concurrente, así como federales cuando lo determine la ley. Para tales efectos tendrá bajo su mando inmediato a la policía de investigación;
+
+II. Expedir reglas para la administración eficiente de los recursos materiales y humanos de la institución;
+
+III. Instituir mecanismos de asistencia con las instituciones de seguridad ciudadana, en las formas y modalidades que establezca la ley para la colaboración y autorización de sus actuaciones;
+
+IV. Establecer un servicio profesional de carrera, con reglas para la selección, ingreso, formación, promoción y permanencia de las personas servidoras públicas;
+
+V. Solicitar el apoyo de las instituciones de seguridad ciudadana, en las formas y modalidades que establezca la ley para la colaboración y autorización de sus actuaciones;
+
+VI. Fungir como representante social y del Estado, cuando la ley lo disponga;
+
+VII. Participar en las instancias relacionadas con los sistemas estatal, municipal y nacional de seguridad;
+
+VIII. Establecer vínculos de coordinación interinstitucional con los poderes del Estado, con las dependencias y entidades del Poder Ejecutivo, con los demás órganos autónomos y con los municipios, para el mejor desempeño de sus funciones, y
+
+IX. Las demás que se prevean en esta Constitución y las leyes.
+
+La Fiscalía General de Justicia del Estado contará, en su estructura orgánica, con una unidad interna de estadística y transparencia, que garantice la publicación oportuna de información, y con una unidad interna de combate a la corrupción y a la infiltración de la delincuencia organizada.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 97 QUÁTER.- La persona titular de la Fiscalía General de Justicia del Estado deberá presentar, ante el Congreso, un plan de política criminal cada año, el primer día del segundo periodo de sesiones.
+
+Dicho plan contendrá en un diagnóstico de la criminalidad y la proyección de las acciones que emprenderá el Ministerio Público al respecto, criterios sobre los delitos que se atenderán de manera prioritaria y metas de desempeño para el siguiente año.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 97 QINQUIES.- La Fiscalía General de Justicia del Estado tendrá fiscalías especializadas para la investigación de determinados delitos, conforme a los que la Ley disponga, las cuales contarán con personal multidisciplinario, capacitado específicamente para cumplir su objeto.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2024)</small>
+
+ARTICULO 97 SEXIES.- Se establecerán unidades de atención temprana, que brindarán asesoría y orientación legal a las personas denunciantes. Tendrán como objetivo recibir, de forma inmediata, las denuncias y canalizarlas a la instancia competente de acuerdo a la naturaleza del hecho denunciado, de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DE LAS FINANZAS PUBLICAS
+### CAPITULO I. DESARROLLO Y PLANEACION
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ## TITULO IX. DE LA ECONOMIA Y LAS FINANZAS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
+### CAPITULO II. DE LAS FINANZAS PUBLICAS
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 98.
 
@@ -2665,9 +2771,9 @@ Los planes de desarrollo estatal como los municipales, se orientarán para logra
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 101.
 
@@ -2731,35 +2837,9 @@ La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efecti
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
+### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
-
-ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
-
-Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
-
-I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
-
-II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
-
-III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
-
-a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
-
-b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
-
-c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
-
-d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
-
-e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
-
-Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 104.
 
@@ -2811,9 +2891,9 @@ III. Contar con título y cédula profesional de nivel licenciatura en aquellas 
 
 IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de falsificación o delitos patrimoniales u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2024)</small>
 
-V. No haber sido Gobernador del Estado, Secretario, Procurador General de Justicia, oficial mayor, titular de entidad paraestatal, contralor, senador, diputado federal o local, presidente municipal, tesorero o síndico municipal, en funciones, seis meses previos al día de la designación, y
+V. No haber sido Gobernador del Estado, Secretario, titular de la Fiscalía General de Justicia, Oficial Mayor, titular de entidad paraestatal, Contralor, Senador, Diputado Federal o Local, Presidente Municipal, Tesorero o Síndico municipal, en funciones, seis meses previos al día de la designación;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2831,9 +2911,35 @@ Durante el ejercicio de su encargo, el Auditor de Fiscalización Superior no pod
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO I. DE LA REFORMA
+### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
+
+Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
+
+I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
+
+III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 107.
 
@@ -2855,11 +2961,11 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos y particulares, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra los diputados, el Gobernador del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados del Tribunal de Justicia Administrativa del Estado, los magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los titulares de las Secretarías del Poder Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, así como contra los consejeros electorales del Consejo General del Instituto Tlaxcalteca de Elecciones y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los integrantes de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
+El juicio político procede contra los diputados, el Gobernador del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados del Tribunal de Justicia Administrativa del Estado, los magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los titulares de las Secretarías del Poder Ejecutivo, de la Fiscalía General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, así como contra los consejeros electorales del Consejo General del Instituto Tlaxcalteca de Elecciones y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los integrantes de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2943,15 +3049,17 @@ Las entidades públicas a las que pertenezcan los servidores a que se refiere el
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO I. DE LA REFORMA
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 113.
 
 Cada servidor público de los cuerpos de seguridad es responsable ante la Ley de sus actos.
 
-El Secretario de Gobierno y el Procurador General de Justicia, así como sus subordinados, serán responsables de los actos de su respectivo cuerpo de seguridad y del uso de la fuerza pública.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2024)</small>
+
+El Secretario de Gobierno y la persona titular de la Fiscalía General de Justicia del Estado, así como sus subordinados, serán responsables de los actos de su respectivo cuerpo de seguridad y del uso de la fuerza pública.
 
 ARTICULO 113 BIS.- (DEROGADO, P.O. 18 DE MAYO DE 2001)
 
@@ -2970,6 +3078,10 @@ Pronunciada una sentencia condenatoria con motivo de un delito cometido durante 
 ## TITULO XII. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 116.
 
@@ -4188,3 +4300,57 @@ Sin perjuicio de lo anterior, los impedimentos establecidos en este Decreto, con
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que contravengan el contenido de este Decreto.
+
+P.O. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 344 - SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, PARA CREAR LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 párrafo primero de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios del Estado de Tlaxcala, para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas y cada una de las disposiciones que se opongan al contenido de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Todas las referencias que se hagan en la presente Constitución, así como en la legislación vigente, reglamentos, acuerdos, circulares y demás documentos de carácter público que se refieran a la Procuraduría General de Justicia del Estado, se entenderán para la Fiscalía General de Justicia del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Las relaciones laborales de las personas trabajadoras de la Procuraduría General de Justicia preservan el derecho a la seguridad social, en los términos en que actualmente la disfrutan.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos laborales de las personas trabajadoras de la Procuraduría General de Justicia del Estado se preservarán con independencia de su transición a la Fiscalía General de Justicia del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+El personal que preste sus servicios a la Fiscalía General de Justicia deberá ser seleccionado mediante un concurso de oposición abierto a partir de las bases y la convocatoria que se expida para el concurso de selección. Antes del examen, todos los aspirantes recibirán un curso intensivo de capacitación durante cinco meses que les transmitirá las habilidades necesarias para ser fiscales a través de la aplicación de un examen de selección que evaluará que las y los aspirantes cuenten con las capacidades prácticas necesarias para desempeñarse efectivamente como fiscales.
+
+En la selección de agentes del Ministerio Público y el resto del personal de la Fiscalía se respetará el principio de paridad de género.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General de Justicia del Estado deberá comenzar operaciones a más tardar el 1 de agosto de 2024.
+
+###### ARTÍCULO NOVENO.
+
+La Procuraduría General de Justicia del Estado continuará encargándose de la función ministerial hasta que inicie sus funciones la Fiscalía General de Justicia del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Todas las averiguaciones previas y carpetas de investigación iniciadas por la Procuraduría General de Justicia del Estado, antes que entre en funcionamiento la Fiscalía General de Justicia del Estado, se concluirán por ésta en los términos de las disposiciones vigentes antes de la entrada en vigor de la Ley que la rija.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Congreso del Estado de Tlaxcala deberá expedir la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tlaxcala, en un término improrrogable que no excederá del 30 de junio de 2024.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La persona titular de la Fiscalía General de Justicia del Estado, será designada por el Congreso, a más tardar el último día del mes de julio del año 2024.
