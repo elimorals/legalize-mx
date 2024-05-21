@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2023-10-20"
+last_updated: "2024-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -102,6 +102,10 @@ Queda prohibida en el Estado de México cualquier forma de discriminación que t
 ###### Artículo 7 Bis.
 
 Niñas, niños y adolescentes tienen derecho a no ser objeto de discriminación alguna ni de limitación o restricción de sus derechos. Las autoridades estatales y municipales están obligadas a efectuar medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, G.G. 21 DE MAYO DE 2024)</small>
+
+Artículo 7 ter.- Queda prohibido en el Estado de México que para la selección de un empleo laboral se les solicite a los postulantes su foto o imagen, así como que en las solicitudes de empleo o currículos sea necesario poner la foto o imagen del postulante.
 
 ### CAPÍTULO III. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS PARA ERRADICAR LA DISCRIMINACIÓN
 
@@ -248,6 +252,10 @@ e) Promover la realización de actividades pedagógicas o de integración en los
 f) Impulsar el establecimiento en las empresas e instituciones, de reglamentos y lineamientos que contemplen mecanismos de prevención y solución de conductas discriminatorias y de desigualdad laboral, procurando la solución a través de mecanismos internos.
 
 g) Propiciar que en los Centros de Trabajo se publicite periódicamente información sobre discriminación y desigualdad en el ámbito laboral, así como los mecanismos para prevenirlas, corregirlas y sancionarlas.
+
+> <small>(ADICIONADO, G.G. 21 DE MAYO DE 2024)</small>
+
+h) Fomentar que se deje de incluir la condición de que la solicitud de empleo y/o el currículum vitae contenga la fotografía de quien solicita el empleo.
 
 > <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
@@ -592,3 +600,13 @@ G.G. 20 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263.- POR EL QUE SE ADICIONA EL ARTICULO 7 TER Y EL INCISO H) A LA FRACCIÓN VII DEL ARTICULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN I DEL ARTICULO 47 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente decreto.
