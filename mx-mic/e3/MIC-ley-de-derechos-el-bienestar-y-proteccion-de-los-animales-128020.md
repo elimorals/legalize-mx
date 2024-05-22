@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2024-04-11"
+last_updated: "2024-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -847,9 +847,17 @@ VII. La instalación u operación de criaderos en inmuebles que no estén destin
 
 VIII. El abandono de animales no humanos en la vía pública;
 
-IX. El abandono de animales no humanos dentro de bienes muebles e inmuebles, sin la custodia o condiciones adecuadas de acuerdo a su especie; y,
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
 
-X. Las mutilaciones por razones estéticas o cualesquiera otras que no resulten en beneficio directo para los animales.
+IX. El abandono de animales no humanos dentro de bienes muebles e inmuebles, sin la custodia o condiciones adecuadas de acuerdo a su especie;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
+
+X. Las mutilaciones por razones estéticas o cualesquiera otras que no resulten en beneficio directo para los animales; y,
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XI. El uso de artificios pirotécnicos de tipo petardo o trueno que produzca efectos sonoros superiores a los 80 decibeles dentro de las zonas urbanas y rurales que afecten a los animales no humanos.
 
 ###### Artículo 67.
 
@@ -1012,3 +1020,9 @@ P.O. 11 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 611 POR EL QUE “SE REFORMAN LOS ARTÍCULO 14 Y 15 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 643 POR EL QUE "SE REFORMAN LAS FRACCIONES IX Y X; Y, SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 66 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
