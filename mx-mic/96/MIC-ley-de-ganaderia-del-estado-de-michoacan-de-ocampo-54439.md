@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-del-estado-de-michoacan-de-ocampo-54439"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-02"
-last_updated: "2019-08-28"
+last_updated: "2024-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024.
 
 Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
 
@@ -80,6 +80,18 @@ XI. La prevención, control y erradicación de enfermedades y plagas que afecten
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 XII. El sistema de rastreabilidad y trazabilidad de la movilización del ganado identificado con aretes del SINIIGA en el Estado, para la preservación y mejoramiento del estatus zoosanitario, prevención de epizootias y combatir el abigeato.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XIII. Instrumentar un sistema estatal de registro de padrón de ganaderos, seguimiento a las acciones y estatus de la ganadería e información estadística del sector pecuario;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XIV. Procurar una mejor distribución de los productos y subproductos ganaderos para asegurar el abasto del mercado interno, regulando la oferta a fin de lograr precios asequibles al consumidor final; y,
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XV. Apoyar la organización económica de los ganaderos, para la sostenibilidad del sector pecuario.
 
 ###### ARTÍCULO 3.
 
@@ -169,9 +181,13 @@ XXIV. Productor pecuario en general: Toda persona física o jurídica que, siend
 
 XXV. Rastreabilidad: Conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus ultimas consecuencias, con miras a su control o erradicación;
 
-XXVI. Secretaría: la Secretaría de Desarrollo Rural y Agroalimentario;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
 
-XXVII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+XXVI. Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Michoacán;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XXVII. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
 XXVIII. SINIIGA: Sistema Nacional de Identificación Individual del Ganado;
 
@@ -245,7 +261,9 @@ VII. Subrogar o desconcentrar los servicios que otorga el Gobierno del Estado en
 
 VIII. Celebrar convenios con los municipios, entidades federativas, la Federación, organizaciones de productores y demás, relativos a programas y medidas zoosanitarias, de combate al abigeato y fomento pecuario;
 
-IX. Determinar y aplicar las sanciones administrativas que corresponda a los infractores de esta Ley y su Reglamento, a través de la Secretaría de Desarrollo Rural y la Tesorería General del Estado;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
+
+IX. Determinar y aplicar las sanciones administrativas que corresponda a los infractores de esta Ley y su Reglamento, a través de la Secretaría de Agricultura y Desarrollo Rural del Estado de Michoacán y de la Secretaría de Finanzas y Administración del Estado de Michoacán;
 
 X. Expedir el Reglamento que se derive de esta Ley, para su exacta aplicación y el logro de los objetivos que se establezcan en los planes y programas, sobre la actividad pecuaria en el Estado;
 
@@ -267,11 +285,11 @@ XIV. Implementar programas de inspección de ganado en tránsito, para control d
 
 XV. Las demás que le otorguen la presente Ley y otros ordenamientos jurídicos estatales y federales que concurren en la regulación de las actividades pecuarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 10.
 
-Son atribuciones de la Secretaría de Desarrollo Rural y Agroalimentario, las siguientes:
+Son atribuciones de la Secretaría de Agricultura y Desarrollo Rural del Estado de Michoacán, las siguientes:
 
 I. Coordinar la elaboración, ejecución, evaluación y revisión del Programa Estatal de Desarrollo Pecuario, con la participación del Consejo Estatal para el Desarrollo Rural Integral Sustentable, de los gobiernos municipales, comité estatal para el fomento ganadero, uniones ganaderas regionales y demás asociaciones de productores pecuarios;
 
@@ -313,7 +331,9 @@ XVI. Establecer el Registro Estatal de Productores Pecuarios y expedir las paten
 
 XVII. Acreditar a los inspectores de rastros municipales y auxiliares;
 
-XVIII. Aplicar las sanciones establecidas en la presente Ley y su Reglamento, coordinándose para tal efecto con la Tesorería General del Estado a fin de aplicar las sanciones económicas que determine, para su liquidación y ejecución, en su caso;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XVIII. Aplicar las sanciones establecidas en la presente Ley y su Reglamento, coordinándose para tal efecto con la Secretaría de Finanzas y Administración del Estado a fin de aplicar las sanciones económicas que determine, para su liquidación y ejecución, en su caso;
 
 XIX. Proponer al Titular del Poder Ejecutivo la declaratoria de cuarentena en las zonas afectadas por plagas y enfermedades del ganado, estableciendo la vigilancia correspondiente;
 
@@ -473,7 +493,11 @@ XII. Administrar los fondos que con el carácter de subsidio les entregue el Gob
 
 XIII. Llevar un registro de propiedad ganadera a través de fierros, marcas, señales, tatuajes, aretes u otros mecanismos de identificación electrónicas; y,
 
-XIV. Las demás que le confiera esta Ley.
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2024)</small>
+
+XIV. Presentar informes trimestrales a la Secretaría, sobre el avance y estatus de los programas y acciones relativas a la ganadería; y,
+
+XV. Las demás que le confiera esta Ley.
 
 ###### ARTÍCULO 20.
 
@@ -789,9 +813,11 @@ La supervisión técnica zoosanitaria de las estaciones de cría y los centros p
 
 La Secretaría llevará un registro, en el que anotará las fechas en que fueron cubiertas las hembras por sementales registrados en el sistema de mejora genética o su semen, y los datos de identificación necesarios, a fin de tener el control de cruzamientos por especies, debiendo facilitar a las asociaciones ganaderas y a sus miembros, los medios probatorios respecto a la clase y procedencia de las crías.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 64.
 
-Los semovientes machos registrados que se destinen al servicio de apareamiento con fines lucrativos, deberán ser reconocidos por un profesional veterinario, aprobado por SAGARPA, para certificar sus condiciones reproductivas. El reconocimiento se practicará cuando menos cada tres meses y se enviará a la Secretaría, el certificado médico correspondiente. En caso de no presentarse los certificados de que se trata, se prohibirá que se continúe utilizando al animal para dicho fin.
+Los semovientes machos registrados que se destinen al servicio de apareamiento con fines lucrativos, deberán ser reconocidos por un profesional veterinario, aprobado por SADER, para certificar sus condiciones reproductivas. El reconocimiento se practicará cuando menos cada tres meses y se enviará a la Secretaría, el certificado médico correspondiente. En caso de no presentarse los certificados de que se trata, se prohibirá que se continúe utilizando al animal para dicho fin.
 
 ###### ARTÍCULO 65.
 
@@ -945,9 +971,11 @@ Se declara de interés público en el Estado la prevención y el combate de las 
 
 Las autoridades a que se refiere esta Ley, en coordinación con el Comité Estatal de Fomento y Protección Pecuaria Michoacán A.C., aplicarán las medidas necesarias, para proteger contra las enfermedades a las especies pecuarias.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 95.
 
-Se declara obligatoria para todos los habitantes del Estado, principalmente médicos veterinarios zootecnistas, productores pecuarios y sus organizaciones, la notificación de enfermedades epizoóticas en sus animales, a las autoridades a que se refiere esta Ley, preferentemente a la Secretaría, o a la SAGARPA.
+Se declara obligatoria para todos los habitantes del Estado, principalmente médicos veterinarios zootecnistas, productores pecuarios y sus organizaciones, la notificación de enfermedades epizoóticas en sus animales, a las autoridades a que se refiere esta Ley, preferentemente a la Secretaría, o a la SADER.
 
 ###### ARTÍCULO 96.
 
@@ -973,9 +1001,11 @@ La Secretaría coordinará la participación de instituciones académicas de inv
 
 La Secretaría promoverá el cumplimiento de las normas oficiales mexicanas en el área de sanidad animal, así como en apoyar la integración y operación del dispositivo nacional de emergencia de sanidad animal, en los casos que se requiera.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 102.
 
-Los propietarios o encargados de ganado deberán, preferentemente, conservar los baños parasiticidas existentes y construir los que sean necesarios, de acuerdo al modelo autorizado por la SAGARPA.
+Los propietarios o encargados de ganado deberán, preferentemente, conservar los baños parasiticidas existentes y construir los que sean necesarios, de acuerdo al modelo autorizado por la SADER.
 
 ###### ARTÍCULO 103.
 
@@ -1324,3 +1354,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO DÉCIMO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 644 POR EL QUE "SE ADICIONAN LAS FRACCIONES XIII, XIV Y XV AL ARTÍCULO 2, SE REFORMAN LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 5, SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 9, SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN XVIII DEL ARTÍCULO 10, SE ADICIONA LA FRACCIÓN XIV Y EL ANTERIOR NUMERAL XIV PASA A SER LA FRACCIÓN XV DEL ARTÍCULO 19; Y, SE REFORMAN LOS ARTÍCULOS 64, 95 Y 102, TODOS DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Se instruye a la Secretaría de Agricultura y Desarrollo Rural para que, en un plazo no mayor a 180 días, emita el Reglamento de Ley respectivo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+Tercero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
