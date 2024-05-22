@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-los-jueces-auxiliares-del-municipio-de-75124"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-07-14"
-last_updated: "1999-07-14"
+last_updated: "2024-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LOS JUECES AUXILIARES DEL MUNICIPIO DE GENERAL TERAN, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL REGLAMENTO DE JUECES AUXILIARES DEL MUNICIPIO DE GENERAL TERÁN, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS JUECES AUXILIARES DEL MUNICIPIO DE GENERAL TERAN, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 14 de julio de 1999.
 
@@ -236,3 +238,19 @@ ING. HERNÁN JAVIER CANTÚ VAQUERO
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 PROFR. ADALBERTO A. MARTÍNEZ LOZANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MAYO DE 2024.
+
+PRIMERO. Se autoriza LA REFORMA POR ABROGACION EL (SIC) REGLAMENTO DE JUECES AUXILIARES DEL MUNICIPIO DE GENERAL TERÁN, NUEVO LEÓN, en los términos que fue transcrita dicha reglamentación.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+TECERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse en la Gaceta Municipal y en la página de Internet del Municipio: www.generalterannl.gob.mx
+
+CUARTO. La convocatoria a la elección posterior a la publicación de este reglamento no permitirá la participación a personas que hayan ejercido el cargo de Juez(a) Auxiliar o sus familiares en primer grado en los 10 años previos a la elección."
+
+QUINTO. Los Delegados Municipales actualmente en funciones concluirán su servicio, una vez nombrado el juez auxiliar respectivo, en los términos del presente Reglamento de Jueces Auxiliares del Municipio de General Terán, Nuevo León.
+
+SEXTO. Queda abrogado el REGLAMENTO DE LOS JUECES AUXILIARES DEL MUNICIPIO DE GENERAL TERÁN, N.L., publicado en el Periódico Oficial del Estado el 14 de julio de 1999, así como todas las reformas y adiciones que fueron aprobadas en años posteriores que se opongan al presente Reglamento.
