@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2022-08-31"
+last_updated: "2024-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -565,7 +565,9 @@ VII. Desarrollar, fomentar y difundir los estudios sobre las prácticas discrimi
 
 VIII. Realizar análisis sobre los ordenamientos jurídicos y administrativos vigentes, así como de las prácticas cotidianas en el sector público a efecto de proponer las modificaciones que correspondan;
 
-IX. Brindar asesoría y orientación, en materia de discriminación y violencia; y,
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
+
+IX. Brindar orientación y asesoría, que permitan la atención integral en materia de no discriminación, para evitar las conductas violentas que conlleven riesgos de suicidio; y,
 
 X. Establecer relaciones de coordinación con instituciones públicas federales, locales y municipales, así como con personas y organizaciones sociales y privadas para la implementación de las políticas públicas en la materia.
 
@@ -998,3 +1000,19 @@ P.O. 31 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 179 POR E QUE “SE ADICIONA LA FRACCIÓN XLVII AL ARTÍCULO 7 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 641 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 22 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
