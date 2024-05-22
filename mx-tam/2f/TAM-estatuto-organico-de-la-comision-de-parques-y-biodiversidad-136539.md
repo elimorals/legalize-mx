@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-comision-de-parques-y-biodiversidad-136
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-05-29"
-last_updated: "2019-05-29"
+last_updated: "2024-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA COMISION DE PARQUES Y BIODIVERSIDAD DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN DE PARQUES Y BIODIVERSIDAD DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN DE PARQUES Y BIODIVERSIDAD DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de mayo de 2019.
 
@@ -1268,3 +1270,43 @@ El Vocal Ejecutivo de la Comisión de Parques y Biodiversidad de Tamaulipas, deb
 Ciudad Victoria, Tam., a 30 de noviembre de 2018
 
 ATENTAMENTE.- EL VOCAL EJECUTIVO DE LA COMISIÓN DE PARQUES Y BIODIVERSIDAD DE TAMAULIPAS.- CARLOS ALEJANDRO GARZA PEÑA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 22 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA COMISIÓN DE PARQUES Y BIODIVERSIDAD DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico de la Comisión de Parques y Biodiversidad de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza al Vocal Ejecutivo de la Comisión de Parques y Biodiversidad de Tamaulipas, para que realice todos los trámites y gestiones necesarias para la difusión del presente Estatuto Orgánico de la Comisión de Parques y Biodiversidad de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Las funciones de las o los servidores públicos titulares de las unidades administrativas que conforman a la Comisión de Parques y Biodiversidad de Tamaulipas, estarán previstas en el Manual de Organización, que será publicado a los 90 días posteriores a la publicación del presente Estatuto.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el Estatuto Orgánico de la Comisión de Parques y Biodiversidad de Tamaulipas aprobado por la Junta de Gobierno de ese Organismo mediante segunda asamblea ordinaria celebrada en fecha 25 de octubre de 2018 y publicado en el Periódico Oficial del Estado número PP28-009 en fecha 29 de mayo de 2019.
+
+###### ARTÍCULO QUINTO.
+
+Los reglamentos y demás disposiciones normativas de la Comisión de Parques y Biodiversidad de Tamaulipas, deberán de emitirse conforme al presente Estatuto Orgánico.
+
+ARTÍCULO SÉXTO. El presente Estatuto Orgánico de la Comisión de Parques y Biodiversidad de Tamaulipas, deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad con el numeral 3 del artículo 12 de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Vocal Ejecutivo de la Comisión de Parques y Biodiversidad de Tamaulipas, deberá instrumentar las acciones necesarias para la difusión del presente Estatuto Orgánico, haciéndolo del conocimiento a las y los servidores públicos adscritos a la Comisión.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Estatuto Orgánico.
