@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-tamaulipeco-para-la-cultura-944
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-08-30"
-last_updated: "2011-08-30"
+last_updated: "2024-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO TAMAULIPECO PARA LA CULTURA Y LAS ARTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO PARA LA CULTURA Y LAS ARTES, PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO PARA LA CULTURA Y LAS ARTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2024 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de agosto de 2011.
 
@@ -612,3 +614,29 @@ El presente Estatuto Orgánico entrará en vigor el día de su expedición y se 
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el cuatro de mayo de dos mil once.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO PARA LA CULTURA Y LAS ARTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico del Instituto Tamaulipeco para la Cultura y las Artes publicado en el Periódico Oficial del Estado Número 103, de fecha 30 de agosto de 2011.
+
+###### ARTÍCULO TERCERO.
+
+El presente Estatuto, deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones administrativas que se opongan al presente Estatuto Orgánico del Instituto Tamaulipeco para la Cultura y las Artes
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto, continuarán su trámite hasta su conclusión o la emisión de la resolución respectiva y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia respectiva.
