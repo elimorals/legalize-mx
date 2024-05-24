@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-de-los-municipios-del-6672"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-21"
-last_updated: "2022-09-28"
+last_updated: "2024-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de marzo de 1984.
 
@@ -283,6 +283,12 @@ VI.- De descuento por faltas injustificadas de asistencia al trabajo, por retard
 
 Los reglamentos que expidan los municipios, determinarán el porcentaje que se descontará al salario de los trabajadores en el caso previsto en la fracción I, y en lo que respecta a las fracciones IV y V, el Tesorero Municipal de cada Ayuntamiento tendrá la obligación de enterar al sindicato solicitante, los recursos retenidos a los trabajadores, en un plazo no mayor a 3 días hábiles posteriores a la retención del salario. Fuera de los casos señalados, el salario no será susceptible de embargo judicial o administrativo.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2024)</small>
+
+ARTICULO 32 BIS. Las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, tendrán derecho a permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro.
+
+Para tal efecto, deberán presentar un certificado médico que cumpla con los requisitos previstos en la Ley General de Salud para su validez, expedido por un médico especialista en Ginecología, preferentemente, en alguna institución pública de seguridad social, que acredite el diagnóstico, El certificado tendrá una vigencia de seis meses a partir de su expedición, al término del cual deberá realizarse la revaloración del diagnóstico; mismo que en ningún momento podrá ser considerado como enfermedad o riesgo de trabajo.
+
 ###### ARTICULO 33.
 
 El pago del salario deberá hacerse en el lugar de trabajo y en moneda de curso legal o en cheque.
@@ -369,7 +375,9 @@ IV.- Proporcionar a los trabajadores los útiles, instrumentos y materiales nece
 
 V.- Guardar a los trabajadores de base la debida consideración y respeto;
 
-VI.- Contribuir al fomento de las actividades deportivas y culturales entre sus trabajadores; y,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2024)</small>
+
+VI.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 32 BIS de esta Ley; y
 
 VII.- Las demás que les fijen las leyes y reglamentos.
 
@@ -1374,3 +1382,9 @@ P.O. 28 DE SEPTIEMBRE DE 2022.
 [N DE E. TRANSITORIO DEL "DECRETO NÚMERO: 253 POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 6, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA" NÚMERO 150 DE FECHA 13 DE DICIEMBRE DE 2021".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 786 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 38, Y SE ADICIONA EL ARTÍCULO 32 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
