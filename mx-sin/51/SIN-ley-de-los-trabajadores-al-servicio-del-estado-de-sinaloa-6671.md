@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-del-estado-de-sinaloa-6671"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "2022-09-28"
+last_updated: "2024-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de abril de 1986.
 
@@ -519,9 +519,15 @@ VII.- Expedir al trabajador que lo solicite o se separe del trabajo, dentro del 
 
 VIII.- Proporcionar capacitación o adiestramiento en los términos de esta Ley;
 
-IX.- Otorgar a las mujeres embarazadas la protección que establezcan los reglamentos; y,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2024)</small>
 
-X.- Las demás que les fijen las leyes, reglamentos y manuales.
+IX.- Otorgar a las mujeres embarazadas la protección que establecen los reglamentos;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2024)</small>
+
+X.- Otorgar a las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro, en los términos establecidos en el artículo 86 BIS de esta Ley; y
+
+XI.- Las demás que les fijen las leyes, reglamentos y manuales.
 
 ### CAPITULO II. OBLIGACIONES CON EL SINDICATO
 
@@ -766,6 +772,12 @@ Las mujeres disfrutarán de un descanso de un mes anterior a la fecha que aproxi
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 En el período de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que se designe para tal efecto, o bien, cuando esto no sea posible, previo acuerdo se reducirá en una hora su jornada de trabajo durante el período señalado.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2024)</small>
+
+ARTICULO 86 BIS.- Las mujeres y personas trabajadoras menstruantes diagnosticadas con dismenorrea primaria o secundaria en grado incapacitante, tendrán derecho a permiso para ausentarse de su centro de trabajo de uno a tres días cada mes, con goce de salario íntegro.
+
+Para tal efecto, deberán presentar un certificado médico que cumpla con los requisitos previstos en la Ley General de Salud para su validez, expedido por un médico especialista en Ginecología, preferentemente, de alguna institución pública de seguridad social, que acredite el diagnostico. El certificado tendrá una vigencia de seis meses a partir de su expedición, al término del cual deberá realizarse la revaloración del diagnóstico; mismo que en ningún momento podrá ser considerado como enfermedad o riesgo de trabajo.
 
 ###### ARTICULO 87.
 
@@ -2040,3 +2052,9 @@ P.O. 28 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 6, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL <<EL ESTADO DE SINALOA>> NÚMERO 150 DE FECHA 13 DE DICIEMBRE DE 2021”.]
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 24 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 786 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 54, Y SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 54, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE PARA QUEDAR FRACCIÓN XI, Y EL ARTÍCULO 86 BIS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
