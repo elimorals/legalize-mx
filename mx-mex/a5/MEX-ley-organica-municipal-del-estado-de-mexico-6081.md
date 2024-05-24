@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2024-04-05"
+last_updated: "2024-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MAYO DE 2024.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2651,21 +2651,23 @@ Los tribunales del Estado serán competentes para conocer de los juicios que se 
 
 Se reconoce acción popular para denunciar ante el ayuntamiento, ante el Órgano Superior de Fiscalización del Estado de México, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho presuntamente delictivo en contra de la hacienda municipal.
 
-### CAPITULO CUARTO. De la Contraloría Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+### CAPITULO CUARTO. Del Órgano Interno De Control Municipal
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 110.
 
-La contraloría municipal es el órgano interno de control encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno, competente para aplicar las leyes en materia de responsabilidades de los servidores públicos.
+El órgano interno de control municipal es el órgano interno de control encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno, competente para aplicar las leyes en materia de responsabilidades de los servidores públicos.
 
-> <small>(REFORMADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 111.
 
-La contraloría estará a cargo de una persona titular denominada Contralora o Contralor, la cual será nombrada por acuerdo de Cabildo de entre una terna de ciudadanas y ciudadanos propuestos por la Presidenta o Presidente Municipal y dependerá jerárquicamente del mismo.
+El órgano interno de control municipal estará a cargo de una persona titular denominada Contralora o Contralor, la cual será nombrada por acuerdo de Cabildo de entre una terna de ciudadanas y ciudadanos propuestos por la Presidenta o Presidente Municipal y dependerá jerárquicamente del mismo.
 
-Para dichos efectos, el Cabildo emitirá una convocatoria pública y corresponderá a la Presidenta o Presidente Municipal la evaluación de las personas aspirantes, así como la formulación de la terna que se someterá a la consideración del Cabildo, el cual deberá designar en un plazo no mayor a ocho días, a la persona titular de la contraloría municipal.
+Para dichos efectos, el Cabildo emitirá una convocatoria pública y corresponderá a la Presidenta o Presidente Municipal la recepción y evaluación de las personas aspirantes, así como la formulación de la terna que se someterá a la consideración en sesión de Cabildo, el cual deberá designar en un plazo no mayor a ocho días, a la persona titular del órgano interno de control municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -2707,13 +2709,15 @@ XIV. Vigilar que los ingresos municipales se enteren a la tesorería municipal c
 
 XV. Participar en la elaboración y actualización del inventario general de los bienes muebles e inmuebles propiedad del municipio, que expresará las características de identificación y destino de los mismos;
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
+XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la declaración de situación patrimonial y de intereses, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
-> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-XVII. Hacer del conocimiento del Órgano Superior de Fiscalización del Estado de México, de las responsabilidades administrativas resarcitorias de los servidores públicos municipales, dentro de los tres días hábiles siguientes a la interposición de las mismas; y remitir los procedimientos resarcitorios, cuando así sea solicitado por el Órgano Superior, en los plazos y términos que le sean indicados por éste;
+XVII. Recibir las denuncias que se formulen por presuntas infracciones o faltas administrativas derivadas de actos u omisiones cometidos por las personas servidoras públicas de sus municipios, o de particulares vinculados con faltas administrativas graves; así como iniciar de oficio, por denuncia o derivado de auditorías realizadas por las autoridades competentes, los procedimientos de investigación por posibles faltas administrativas y en su caso, la calificación de faltas graves y no graves, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+Asimismo, substanciar los procedimientos de responsabilidad administrativa y emitir en su caso, las resoluciones que son de su competencia, imponiendo cuando proceda, las sanciones que correspondan; remitiendo los expedientes al Tribunal de Justicia Administrativa del Estado de México, por faltas graves y faltas de particulares en términos de la referida Ley de Responsabilidades Administrativas del Estado de México y Municipios; instruyendo, tramitando y resolviendo los recursos que le corresponda conocer, previstos en esta;
 
 > <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
 
@@ -5716,3 +5720,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 24 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO IV, LOS ARTÍCULOS 110 Y 111 Y LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 112 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
