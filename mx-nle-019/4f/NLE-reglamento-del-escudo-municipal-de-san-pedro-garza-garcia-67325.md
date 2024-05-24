@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-escudo-municipal-de-san-pedro-garza-garcia-67325
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-25"
-last_updated: "2016-07-18"
+last_updated: "2024-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL ESCUDO MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2024.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de febrero de 2009.
 
@@ -145,9 +145,11 @@ La falta de respeto al escudo municipal se sancionará conforme a lo previsto en
 
 Compete al Presidente Municipal, vigilar el debido cumplimiento de este Reglamento, en esa función se auxiliará de todas las dependencias municipales y los órganos auxiliares de la administración municipal.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-Toda infracción a las disposiciones contenidas en el presente Reglamento, se sancionará por la Secretaría del Republicano Ayuntamiento, a través de la Dirección de Jueces Calificadores.
+Toda infracción a las disposiciones contenidas en el presente Reglamento, se sancionará por la Secretaría del Republicano Ayuntamiento, a través de la Dirección de Jueces Cívicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
 
@@ -161,11 +163,11 @@ Procederá la sanción de decomiso para los artículos que reproduzcan ilícitam
 
 Para los efectos de las sanciones establecidas en el presente Reglamento, por cuota se entenderá el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-Si la infracción es cometida por un servidor público, o éste consiente o interviene en la ejecución de la misma, se sancionará conforme a la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Nuevo León.
+Si la infracción es cometida por un servidor público, o éste consiente o interviene en la ejecución de la misma, se sancionará conforme a la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
 
 ###### ARTÍCULO 16.
 
@@ -270,3 +272,15 @@ P.O. 18 DE JULIO DE 2016.
 > <small>[N. DE E. TRANSITORIO “SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]</small>
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DICTAMEN NÚMERO CGR 2021-2024/005-2024/ APROBACIÓN DEFINITIVA DE REGLAMENTO”.]
+
+PRIMERO.- Las reformas de diversas disposiciones de los Reglamentos municipales de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Difúndase su contenido en el Periódico Oficial del Estado, la Gaceta Municipal y en el portal de internet del Municipio en el hipervínculo www.sanpedro.gob.mx.
+
+TERCERO.- Quedan derogadas todas las disposiciones que se contrapongan a lo previsto en las presentes reformas.
+
+CUARTO.- Los procedimientos administrativos que se encuentren en trámite en las dependencias, órganos y unidades administrativas de la Administración Pública Municipal al día de la publicación del presente documento se sustanciarán y concluirán conforme a las disposiciones legales vigentes al momento de su presentación.
