@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-103815"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2022-03-25"
+last_updated: "2024-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MAYO DE 2024.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 28 de noviembre de 2014.
 
@@ -91,15 +93,23 @@ XII. Promover y fomentar la práctica de actividades físicas, recreativas y dep
 
 Las autoridades encargadas de la aplicación de la presente Ley son:
 
-I. El Gobernador del Estado.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-II. El IMCUFIDE.
+I. La persona titular del Poder Ejecutivo Estatal.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+II. La Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
 III. Los Ayuntamientos.
 
-IV. La Secretaría de Educación.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-V. La Secretaria de Salud.
+IV. El Instituto del Deporte del Estado de México.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+V. La Secretaría de Salud.
 
 ###### Artículo 4.
 
@@ -111,7 +121,13 @@ II. Asociación deportiva: a la organización deportiva constituida en asociaci�
 
 III. CAAD: a la Comisión de Apelación y Arbitraje del Deporte, como la institución pública desconcentrada de la Secretaría de Educación Pública, con plena jurisdicción y autonomía para dictar sus acuerdos, laudos y resoluciones e independiente de las autoridades administrativas.
 
-IV. Consejo Directivo del Instituto Mexiquense de Cultura Física y Deporte: al órgano máximo de dirección y administración del Instituto Mexiquense de Cultura Física y Deporte.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE MAYO DE 2024)</small>
+
+IV. Comisión Legislativa: a la Comisión de la Juventud y el Deporte de la Legislatura del Estado de México.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 24 DE MAYO DE 2024)</small>
+
+IV Bis. Consejo Directivo: al Consejo Directivo del Instituto del Deporte del Estado de México que es su órgano máximo de dirección y administración.
 
 V. CECOVIDE: a la Comisión Estatal Contra la Violencia.
 
@@ -133,7 +149,9 @@ XIII. Deportista: al individuo que practica de manera constante alguna disciplin
 
 XIV. Equipo: a la organización de deportistas de una especialidad que compiten en forma programada y constante usualmente a través de una liga deportiva.
 
-XV. IMCUFIDE: al Instituto Mexiquense de Cultura Física y Deporte.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XV. Instituto: al Instituto del Deporte del Estado de México.
 
 XVI. Institutos Municipales: a los Institutos Municipales de Cultura Física y el Deporte.
 
@@ -151,7 +169,9 @@ XXII. Registros Municipales: a los Registros Municipales de Cultura Física y De
 
 XXIII. Organizaciones Deportivas: a las Asociaciones o Federaciones Internacionales, Nacionales, Estatales, Clubes Deportivos y aquellos entes que tienen como objeto la promoción, difusión y desarrollo de la activación física y deporte.
 
-XXIV. Secretaría: a la Secretaría de Educación.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XXIV. Secretaría: a la Secretaría de Educación, Ciencia, Tecnología e Innovación.
 
 XXV. SIDEM: al Sistema Estatal de Cultura Física y Deporte.
 
@@ -165,11 +185,11 @@ El ejercicio y desarrollo del derecho a la cultura física y deporte son fundame
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 6.
 
-El SIDEM es el conjunto de órganos, instrumentos, métodos, acciones, recursos y procedimientos establecidos por las dependencias y organismos auxiliares de la Administración Pública del Estado de México en materia deportiva, con la participación de los municipios así como de los sectores social y privado, que tiene como objeto apoyar, impulsar, fomentar y promover la activación física, la cultura física y el deporte, con el óptimo aprovechamiento de los recursos humanos, financieros y materiales disponibles.
+El SIDEM es el conjunto de órganos, instrumentos, métodos, acciones, recursos y procedimientos establecidos por las dependencias y organismos auxiliares de la Administración Pública del Estado de México en materia deportiva, con la participación de los municipios y de los sectores social y privado, que tienen como objeto el asesoramiento en la elaboración del Programa Estatal, así como apoyar, impulsar, fomentar, dar seguimiento permanente y promover la cultura física y deporte, con el óptimo aprovechamiento de los recursos humanos, financieros, de infraestructura y materiales disponibles.
 
 ###### Artículo 7.
 
@@ -179,7 +199,9 @@ El SIDEM se vincula e inserta en el Sistema Nacional de Cultura Física y Deport
 
 Forman parte del SIDEM:
 
-I. El IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+I. La Secretaría, a través del Instituto.
 
 II. El Consejo Estatal.
 
@@ -189,15 +211,53 @@ IV. Los Sistemas y Consejos Municipales.
 
 V. Las Asociaciones Deportivas.
 
-VI. Los integrantes de los sectores social y privado que celebren convenios con el IMCUFIDE en términos de la presente Ley.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+VI. Los integrantes de los sectores social y privado que celebren convenios con la Secretaría, a través del Instituto, en términos de la presente Ley.
+
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+VII. La Comisión Legislativa.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 9.
 
-El IMCUFIDE tiene a su cargo la coordinación del Sistema Estatal, en términos de lo dispuesto por el Código Administrativo del Estado de México y su reglamento, será el vínculo entre el Sistema Estatal y el Sistema Nacional de Cultura Física y n (sic) Deporte. Al efecto estará facultado para celebrar contratos y Convenios con las autoridades federales, estatales y municipales, en la materia y con los sectores público, social y privado, para coordinar acciones en la promoción, fomento, desarrollo y capacitación de la cultura física y deporte.
+La Secretaría, a través del Instituto, tiene a su cargo la coordinación del Sistema Estatal, será el vínculo entre el Sistema Estatal y el Sistema Nacional de Cultura Física y Deporte. Al efecto estará facultada para celebrar contratos y Convenios con las autoridades federales, estatales y municipales, en la materia y con los sectores público, social y privado, para coordinar acciones en la promoción, fomento, desarrollo y capacitación de la cultura física y deporte.
+
+> <small>(ADICIONADO, G.G. 24 DE MAYO DE 2024)</small>
+
+###### Artículo 9 Bis.
+
+Se crea el Instituto del Deporte del Estado de México como un organismo público descentralizado de carácter estatal, con personalidad jurídica, patrimonio propio y autonomía técnica, sectorizado a la Secretaría.
+
+Dicho organismo tiene por objeto planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura física y el deporte en el Estado de México.
+
+El Instituto tiene como objetivos:
+
+I. Promover el desarrollo y adopción de una cultura física suficiente, que permita a la población del Estado de México alcanzar mayores niveles de bienestar, a través de la práctica sistemática de actividades físicas para la salud, la recreación y el deporte.
+
+II. Proponer y ejecutar las políticas que orienten la promoción y el impulso para el desarrollo de la cultura física y el deporte en la Entidad.
+
+III. Establecer y coordinar el Sistema Estatal de Cultura Física y Deporte, impulsando la participación de los sectores público, social y privado.
+
+IV. Promover los programas de actividades físicas para la salud, de recreación y de deporte de los integrantes del Sistema Estatal de Cultura Física y Deporte.
+
+V. Apoyar los programas de deporte de alto rendimiento y de talentos deportivos mediante apoyos y estímulos económicos, y gestión de recursos financieros.
+
+VI. Participar en la elaboración y administración de los programas de capacitación de los recursos humanos para el deporte y la cultura física en coordinación con las instituciones y organismos deportivos nacionales, estatales y municipales especializadas.
+
+VII. Operar las instalaciones deportivas bajo su jurisdicción, para desarrollar y promover la cultura física, la detección de talentos, el alto rendimiento; así como promover la operación de otras instalaciones en el Estado.
+
+VIII. Promover la coordinación interinstitucional, con organismos gubernamentales y de cooperación, en el ámbito nacional e internacional, así como entre organismos deportivos estatales como mecanismo eficaz para fortalecer las acciones a favor del deporte estatal, y
+
+IX. Los demás que le confieran otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 10.
 
-El IMCUFIDE como Coordinador del Sistema Estatal tendrá las atribuciones siguientes:
+El Instituto tendrá las atribuciones siguientes:
 
 I. Establecer instrumentos y procedimientos de coordinación con las autoridades federales, estatales y municipales en la materia.
 
@@ -219,13 +279,21 @@ IX. Impulsar la práctica de actividades físicas y deportivas entre la poblaci�
 
 X. Promover la construcción, adecuación y conservación de la infraestructura deportiva, procurando su regionalización.
 
-XI. Coordinar acciones con las dependencias y entidades de la Administración Pública Federal y Estatal así como con las instituciones del sector privado en lo relativo a la investigación en ciencias y técnicas del deporte y medicina deportiva.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-XII. Establecer instrumentos de coordinación con las instituciones educativas para impulsar la enseñanza de la educación física que se imparte en los planteles educativos.
+XI. Coordinar acciones con las dependencias y entidades de la Administración Pública Federal y Estatal así como con las instituciones del sector privado en lo relativo a la actualización en ciencias y técnicas del deporte y medicina deportiva para el mejor desarrollo de sus funciones.
 
-XIII. Apoyar y promover la inserción de la materia deportiva en los planes y programas de investigación en las instituciones de educación superior en la Entidad.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-XIV. Promover campañas para prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos.
+XII. Establecer instrumentos de coordinación con las instituciones educativas a través de la Secretaría, para impulsar la promoción de la educación física que se imparte en los planteles educativos.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XIII. Apoyar y promover la inserción de la materia deportiva en los planes y programas de investigación en las instituciones de educación superior en la Entidad que tengan afinidad con el objeto de estudio.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XIV. Promover mediante la práctica y actividades deportivas, la prevención y combate del uso de estimulantes, sustancias o métodos prohibidos y restringidos.
 
 XV. Impulsar la participación activa de los sectores público, social y privado en materia de cultura física y deporte.
 
@@ -233,7 +301,121 @@ XVI. Promover ante los sectores público, social y privado, oportunidades labora
 
 XVII. Vigilar y asegurar a través del COVEDEM que los procesos electorales en ios (sic) órganos de gobierno y representación de las Asociaciones Deportivas Estatales se realicen en estricto cumplimiento con las disposiciones legales y estatutarias vigentes.
 
-XVIII. Las demás que sean necesarias para el cumplimiento del objeto del Sistema Estatal.
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XVIII. Coordinar con las asociaciones deportivas estatales, el establecimiento de programas específicos para el desarrollo del deporte en la entidad, conforme a los estatutos y reglamentos que las rijan, incluyendo especialmente la actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento;
+
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XIX. Coordinar y colaborar con las organizaciones de los sectores público, social y privado, en el establecimiento de programas específicos para el desarrollo de las actividades físicas para la salud y la recreación, incluyendo especialmente la actualización y capacitación de recursos humanos, eventos promocionales para la generación de recursos;
+
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XX. Establecer y operar en coordinación con las federaciones deportivas nacionales y las asociaciones deportivas estatales, centros para el deporte de alto rendimiento;
+
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XXI. Promover la creación de escuelas de enseñanza, desarrollo y práctica del deporte, en coordinación con los sectores público, social y privado;
+
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+XXII. Apoyar y asesorar a los municipios del Estado en la planeación y ejecución de programas de promoción e impulso de la cultura física y el deporte;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 24 DE MAYO DE 2024)</small>
+
+XXIII. Las demás que sean necesarias para el cumplimiento del objeto del Sistema Estatal.
+
+> <small>(ADICIONADO, G.G. 24 DE MAYO DE 2024)</small>
+
+###### Artículo 10 Bis.
+
+La dirección y administración del Instituto le corresponde a:
+
+I. Al Consejo Directivo, que será la máxima autoridad del Instituto, y
+
+II. A la persona titular de la Dirección General.
+
+> <small>(ADICIONADO, G.G. 24 DE MAYO DE 2024)</small>
+
+###### Artículo 10 Ter.
+
+El Consejo Directivo estará integrado por:
+
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría.
+
+II. Una Secretaría Técnica, que estará a cargo de la persona titular de la Dirección General del Instituto.
+
+III. Una Comisaría, que estará a cargo de la persona que designe la persona titular de la Secretaría de la Contraloría.
+
+IV. Vocales, que serán las personas representantes de las dependencias siguientes:
+
+a) Secretaría de Finanzas.
+
+b) Secretaría de Salud.
+
+c) Secretaría de Bienestar.
+
+d) Secretaría de Desarrollo Urbano e Infraestructura.
+
+e) Secretaría de Desarrollo Económico.
+
+f) Secretaría de Cultura y Turismo.
+
+g) Oficialía Mayor.
+
+V. Invitados permanentes:
+
+a) Una persona representante de la Consejería Jurídica.
+
+b) La persona titular de la Dirección General del Sistema Mexiquense de Medios Públicos.
+
+c) La persona titular de la Dirección General del Instituto Mexiquense de la Juventud, y
+
+d) Tres personas representantes del sector académico, social y privado, cuya actividad se relacione con el objeto del Instituto.
+
+Por cada una de las personas integrantes, el Consejo Directivo aprobará una persona suplente propuesta por la persona propietaria. Las personas integrantes contarán con voz y voto, a excepción de aquellos a que se refieren las fracciones II y III del presente artículo, quienes sólo tendrán derecho a voz. En caso de empate la persona titular de la Presidencia tendrá voto de calidad.
+
+El cargo de integrante del Consejo Directivo será honorífico.
+
+El Reglamento Interior del Instituto establecerá la forma en que habrán de designarse a las personas representantes del sector académico, social y privado, así como su organización y funcionamiento.
+
+> <small>(ADICIONADO, G.G. 24 DE MAYO DE 2024)</small>
+
+###### Artículo 10 Quater.
+
+La Dirección General del Instituto estará a cargo de la persona titular que será nombrada y removida por la persona titular del Poder Ejecutivo del Estado, a propuesta de la persona titular de la Secretaría.
+
+La integración y atribuciones del Consejo Directivo, así como de la persona titular de la Dirección General se establecerán en el Reglamento Interior del Instituto.
+
+El Instituto contará con las unidades administrativas autorizadas que se establezcan en su Reglamento Interior de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
+
+El Instituto se regirá por lo establecido en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su reglamento.
+
+> <small>(ADICIONADO, G.G. 24 DE MAYO DE 2024)</small>
+
+###### Artículo 10 Quinquies.
+
+El patrimonio del Instituto se integrará con:
+
+I. Los ingresos que obtenga por los servicios que preste en ejercicio de sus atribuciones y el cumplimiento de su objetivo.
+
+II. Los derechos, bienes muebles e inmuebles que adquieran por cualquier título legal para el cumplimiento de su objeto.
+
+III. Las aportaciones, subsidios y apoyos que obtenga de los gobiernos federal, estatal y municipal, así como los sectores social y privado, y en general cualquier persona, para coadyuvar a su funcionamiento.
+
+IV. Los recursos que le asignen o transfieran los gobiernos federal, estatal o municipal.
+
+V. Los legados, donaciones y demás liberalidades otorgados a su favor y los productos de los fideicomisos en los que se le señale como beneficiario, y
+
+VI. Las utilidades, intereses, dividendos, rendimiento de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
+
+Los ingresos propios que obtenga el Instituto, serán integrados a su patrimonio y se ejercerán conforme al programa autorizado por el Consejo Directivo.
+
+Los bienes propiedad del Instituto no estarán sujetos a contribuciones estatales. Los actos y contratos en los que intervenga estarán gravados conforme a las disposiciones legales respectivas.
+
+Los bienes que formen parte del patrimonio del Instituto, serán inalienables, inembargables e imprescriptibles, y en ningún caso podrán constituirse gravámenes sobre ellos, mientras se encuentren afectos al objeto del Instituto.
+
+El Instituto administrará su patrimonio con sujeción a las disposiciones jurídicas aplicables, siguiendo los criterios de austeridad, equidad, eficacia y mejora de los servicios.
 
 #### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
@@ -271,21 +453,35 @@ X. Las demás que se establezcan en su Reglamento Interno y que sean necesarias 
 
 El Consejo Estatal se integrará por:
 
-I. Un Presidente, que será el Director General del IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-II. Un Secretario Ejecutivo, que será nombrado por el Presidente, de entre los integrantes del sistema estatal del deporte
+I. Una Presidencia, que estará a cargo de la persona titular de la Dirección General del Instituto.
 
-III. Representantes de las Asociaciones Deportivas con registro. El cargo de miembro del Consejo Estatal será honorífico.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-El Consejo Estatal contará con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto y funcionará en los términos de su Reglamento Interno.
+II. Una Secretaría Ejecutiva, que será nombrada por la persona titular de la Presidencia, de entre las integrantes del SIDEM.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+III. Representantes de las Asociaciones Deportivas con registro. El cargo de integrante del Consejo Estatal será honorífico.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+El Consejo Estatal deberá sesionar en pleno por lo menos dos veces al año, aprobará su calendario de sesiones y contará con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto y funcionará en los términos de su Reglamento Interno.
+
+> <small>(ADICIONADO, G.G. 24 DE MAYO DE 2024)</small>
+
+A las Sesiones del Consejo serán invitados permanentes dos personas integrantes de la Comisión Legislativa, quienes tendrán voz para opinar sobre los temas que se aborden.
 
 #### SECCIÓN SEGUNDA. DE LOS SISTEMAS Y CONSEJOS MUNICIPALES
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 14.
 
-Con el fin de impulsar, fomentar y desarrollar la activación física, la cultura física y el deporte, los municipios deberán contar de conformidad con sus ordenamientos, con un instituto que coadyuve y colabore con el IMCUFIDE, estableciendo para esto, Sistemas Municipales en sus respectivos ámbitos de competencia.
+Con el fin de impulsar, fomentar y desarrollar la cultura física y deporte, los municipios deberán contar de conformidad con sus ordenamientos, con un instituto que coadyuve y colabore con el Instituto, estableciendo para esto, Sistemas Municipales en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 Los Sistemas Municipales, se integrarán por las autoridades municipales, organismos e instituciones públicas y privadas, sociedades y asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el aprovechamiento de los recursos humanos, financieros y materiales.
 
@@ -305,9 +501,13 @@ Los Sistemas Municipales coordinarán sus actividades para aplicar las política
 
 Los Institutos Municipales publicarán su presupuesto, programas y sistemas de evaluación en la Gaceta Municipal que corresponda.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 18.
 
-Las instituciones de la Administración Pública Estatal a través del IMCUFIDE ejercerá las competencias que le son atribuidas por esta Ley y su Reglamento, se coordinará con los municipios y en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y deporte en el ámbito estatal.
+Las instituciones de la Administración Pública Estatal coadyuvarán con la Secretaría y el Instituto para el cumplimiento de la cultura física y deporte, de acuerdo con esta ley y demás ordenamientos jurídicos aplicables.
+
+El Instituto se coordinará con los municipios y en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y deporte en el ámbito estatal.
 
 ###### Artículo 19.
 
@@ -339,9 +539,11 @@ Los Consejos Municipales son órganos de consulta y coordinación de los gobiern
 
 ### CAPÍTULO SEGUNDO. DE LAS ASOCIACIONES DEPORTIVAS ESTATALES
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 22.
 
-Serán registradas por el IMCUFIDE como Asociaciones Deportivas, las personas jurídicas colectivas, cualquiera que sea su estructura, denominación y naturaleza jurídica que conforme a su objeto social, promuevan, difundan, practiquen o contribuyan al desarrollo del deporte, sin fines preponderantemente económicos, siempre y cuando se encuentren legalmente establecidas.
+Serán registradas por el Instituto como Asociaciones Deportivas, las personas jurídicas colectivas, cualquiera que sea su estructura, denominación y naturaleza jurídica que, conforme a su objeto social, promuevan, difundan, practiquen o contribuyan al desarrollo del deporte, sin fines preponderantemente económicos, siempre y cuando se encuentren legalmente establecidas.
 
 ###### Artículo 23.
 
@@ -363,9 +565,11 @@ IV. Asociaciones Deportivas Estatales y Organismos Deportivos afines
 
 La presente Ley reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el Sistema Educativo Estatal, al deporte para personas con discapacidad y en su categoría master que serán los atletas o deportistas veteranos o séniors, cuya edad se determine por cada Asociación Deportiva.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 25.
 
-Para efecto de que el IMCUFIDE otorgue el registro correspondiente a las Asociaciones o Sociedades Deportivas, éstas deberán cumplir con los requisitos establecidos en la presente Ley, su Reglamento y demás disposiciones aplicables.
+Para efecto de que el Instituto otorgue el registro correspondiente a las Asociaciones o Sociedades Deportivas, éstas deberán cumplir con los requisitos establecidos en la presente Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -379,7 +583,9 @@ Las Asociaciones Deportivas regularán su estructura interna y funcionamiento de
 
 Las Asociaciones Deportivas Estatales reconocidas en términos de la presente Ley, además de sus atribuciones ejercerán por delegación, funciones públicas de carácter administrativo, actuando como agentes colaboradores del gobierno Estatal, promoviendo la transparencia de sus acciones.
 
-Además de las funciones propias de gobierno, administración, gestión, organización y reglamentación de las especialidades que corresponden a cada una de las disciplinas deportivas, ejercerán bajo la coordinación del IMCUFIDE las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 24 DE MAYO DE 2024)</small>
+
+Además de las funciones propias de gobierno, administración, gestión, organización y reglamentación de las especialidades que corresponden a cada una de las disciplinas deportivas, ejercerán bajo la coordinación del Instituto las siguientes:
 
 I. Calificar y organizar en su caso, las actividades y competiciones deportivas oficiales.
 
@@ -395,9 +601,11 @@ VI. Actuar en el Estado de México como el organismo rector de su disciplina dep
 
 VII. Ejercer la potestad disciplinaria, en términos de la presente Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 29.
 
-Las Asociaciones Deportivas Estatales que soliciten su registro al IMCUFIDE deberán cumplir con los requisitos siguientes:
+Las Asociaciones Deportivas Estatales que soliciten su registro al Instituto deberán cumplir con los requisitos siguientes:
 
 I. Tener interés deportivo nacional o internacional de la disciplina.
 
@@ -413,11 +621,15 @@ b. Tipo y número de asambleas realizadas durante el año, indicando las materia
 
 c. Procedimiento y quorum para reformar estatutos y toma de acuerdos.
 
-d. El COVEDEM será autoridad en materia de vigilancia de los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, en atención a sus funciones que como agentes colaboradores del gobierno Estatal le son delegadas. (para que entonces el C (SIC)
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+d. El COVEDEM será autoridad en materia de vigilancia de los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, en atención a sus funciones que como agentes colaboradores del gobierno Estatal le son delegadas.
 
 e. Mecanismos de apoyo para sus deportistas afiliados, incluyendo aquellos trámites que se requieran para su participación, representando al Estado de México en competiciones nacionales e internacionales.
 
-f. El reconocimiento del IMCUFIDE para fiscalizar la correcta aplicación y ejercicio de los recursos públicos así como evaluar los resultados de los programas operados.
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+f. El reconocimiento del Instituto para fiscalizar la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de los programas operados.
 
 V. Contar con la afiliación a la asociación nacional e internacional correspondiente.
 
@@ -425,31 +637,43 @@ VI. Estar reconocida conforme a la presente Ley.
 
 Quedarán exentos del cumplimiento de lo dispuesto por la fracción V del presente artículo, la Unión de Asociaciones de Charros del Estado de México, A.C. y Juegos y Deportes Autóctonos.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 30.
 
-Las Asociaciones Deportivas Estatales para ser sujetos de los apoyos y estímulos que en su caso acuerde el gobierno del Estado y los programas deportivos federales deberán estar registradas por el IMCUFIDE de conformidad por la presente Ley, por el Programa Estatal así como cumplir con las obligaciones que se les imponga como integrantes del SIDEM y demás disposiciones aplicables en materia presupuestaria.
+Las Asociaciones Deportivas Estatales para ser sujetos de los apoyos y estímulos que en su caso acuerde el gobierno del Estado y los programas deportivos federales deberán estar registradas por el Instituto de conformidad por la presente Ley, por el Programa Estatal, así como cumplir con las obligaciones que se les imponga como integrantes del SIDEM y demás disposiciones aplicables en materia presupuestaria.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 31.
 
-Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de “Campeonato Estatal” en estricto apego a los Estatutos y Reglamentos aplicables que fije el IMCUFIDE.
+Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal" en estricto apego a los Estatutos y Reglamentos aplicables que fije el Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 32.
 
-Para la realización de competiciones deportivas oficiales nacionales dentro del territorio Estatal, las Asociaciones Deportivas Estatales tienen la obligación de registrarlas ante el IMCUFIDE cumpliendo con los requisitos y procedimientos legales que se establezcan.
+Para la realización de competiciones deportivas oficiales nacionales dentro del territorio Estatal, las Asociaciones Deportivas Estatales tienen la obligación de registrarlas ante el Instituto cumpliendo con los requisitos y procedimientos legales que se establezcan.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 33.
 
-En términos de la presente Ley y con el fin de garantizar, el cumplimiento de las funciones que como colaboradoras de las instituciones Administración Pública Estatal, les son delegadas a las Asociaciones Deportivas Estatales, el IMCUFIDE de acuerdo con el principio de auto organización que resulta compatible con la vigilancia y protección del interés público, podrá llevar a cabo acciones de fiscalización, supervisión, evaluación y vigilancia de los recursos públicos ejercidos por cualquiera de las Asociaciones Estatales.
+En términos de la presente Ley y con el fin de garantizar, el cumplimiento de las funciones que como colaboradoras de las instituciones Administración Pública Estatal, les son delegadas a las Asociaciones Deportivas Estatales, el Instituto de acuerdo con el principio de auto organización que resulta compatible con la vigilancia y protección del interés público, podrá llevar a cabo acciones de fiscalización, supervisión, evaluación y vigilancia de los recursos públicos ejercidos por cualquiera de las Asociaciones Estatales.
 
 ### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE INFORMACIÓN Y DEL REGISTRO ESTATAL
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 34.
 
-El IMCUFIDE organizará y desarrollará el Sistema Estatal de Información de Cultura Física y Deporte, con el objeto de obtener, procesar y generar la información necesaria para la planeación y evaluación de las actividades en la materia, por lo que los integrantes del SIDEM deberán proporcionar al IMCUFIDE la información que les requiera.
+El Instituto organizará y desarrollará el Sistema Estatal de Información de Cultura Física y Deporte, con el objeto de obtener, procesar y generar la información necesaria para la planeación y evaluación de las actividades en la materia, por lo que los integrantes del SIDEM deberán proporcionar a el Instituto la información que les requiera.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 35.
 
-El IMCUFIDE establecerá y operará el Registro Estatal, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
+El Instituto establecerá y operará el Registro Estatal, en el que se inscribirá de manera sistematizada la información referida al artículo anterior.
 
 ###### Artículo 36.
 
@@ -489,7 +713,9 @@ IV. Las personas físicas y jurídicas colectivas así como las agrupaciones que
 
 Son derechos de los deportistas:
 
-I. Inscribirse de manera libre y voluntaria a cualquier asociación o agrupación deportiva reconocida por el IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+I. Inscribirse de manera libre y voluntaria a cualquier asociación o agrupación deportiva reconocida por el Instituto.
 
 II. Participar en la elección de los órganos de Gobierno y representación de las Asociaciones o Agrupaciones Deportivas.
 
@@ -497,7 +723,7 @@ III. Recibir atención deportiva de su asociación u organización deportiva a l
 
 IV. No ser discriminados.
 
-V. Acudir a la CAAD para la resolución de cualquier controversia en materia deportiva.
+V. (DEROGADA, G.G. 24 DE MAYO DE 2024)
 
 ### CAPITULO SEGUNDO. DE LAS OBLIGACIONES
 
@@ -513,7 +739,7 @@ III. Dar cumplimiento a las resoluciones de los órganos disciplinarios deportiv
 
 IV. Utilizar el equipamiento oficial, los medios de transporte y el alojamiento dispuestos para tal efecto, en las competiciones en las que se represente al Estado de México.
 
-V. Someterse al antidopaje durante las competiciones o fuera de ellas, cuando lo requiera el IMCUFIDE, sus Asociaciones u Organizaciones Deportivas a las que pertenezca o cualquier otro organismo competente en la materia.
+V. (DEROGADA, G.G. 24 DE MAYO DE 2024)
 
 VI. Cuidar y promover la instalación deportiva.
 
@@ -535,9 +761,11 @@ Los municipios fomentarán la activación, la cultura física y deporte en el á
 
 Los municipios en el ámbito de sus respectivas competencias, promoverán el ejercicio del derecho de los mexiquenses a la activación física, la cultura física y a la práctica del deporte sin discriminación alguna.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 43.
 
-Las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias coadyuvarán con el IMCUFIDE en el ejercicio de sus atribuciones.
+Las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias coadyuvarán con el Instituto en el ejercicio de sus atribuciones.
 
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
@@ -545,9 +773,11 @@ Las dependencias y entidades de la Administración Pública Estatal, en el ámbi
 
 En los planes estatal y municipales de desarrollo, se deberá incorporar la promoción de la activación física, la cultura física y el deporte. El Gobierno del Estado de México establecerá los objetivos, alcances y límites del desarrollo del sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 45.
 
-El IMCUFIDE será el encargado de integrar el Programa Estatal, debiendo incluir al menos:
+El Instituto será el encargado de integrar y expedir el Programa Estatal, debiendo incluir al menos:
 
 I. Los objetivos y metas.
 
@@ -557,21 +787,29 @@ III. El diseño de políticas que aseguren la efectiva participación del sector
 
 IV. El plan de inversiones, con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución así como su rendición de cuentas.
 
+> <small>(ADICIONADA, G.G. 24 DE MAYO DE 2024)</small>
+
+V. Las políticas y estrategias encaminadas a promover y gestionar la accesibilidad de los distintos grupos vulnerables a la cultura física y el deporte.
+
 ### CAPÍTULO SEGUNDO. DE LA CULTURA FÍSICA
 
 ###### Artículo 46.
 
 La cultura física se promoverá y fomentará en todo el territorio del Estado de México, como factor fundamental del desarrollo armónico e integral del ser humano.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 47.
 
-El IMCUFIDE en coordinación con la Secretaría y los Municipios planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público para fomentar en la población, la práctica de actividades físicas y deportivas.
+El Instituto en coordinación con la Secretaría y los Municipios planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público para fomentar en la población, la práctica de actividades físicas y deportivas.
 
 ###### Artículo 48.
 
 Los Titulares de las Dependencias de la Administración Pública Estatal tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas de sus subordinados, con el objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental y facilitar su plena integración en el desarrollo social y cultural.
 
-Para cumplir con esta responsabilidad, se podrán celebrar Acuerdos de colaboración con el IMCUFIDE que impulsarán y facilitarán las condiciones de empleo compatibles con la activación física, su entrenamiento y participación en competiciones oficiales.
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+Para cumplir con esta responsabilidad, se podrán celebrar Acuerdos de colaboración con el Instituto que impulsarán y facilitarán las condiciones de empleo compatibles con la activación física, su entrenamiento y participación en competiciones oficiales.
 
 ## TÍTULO QUINTO. DE LA CULTURA ANTIDOPAJE
 
@@ -579,21 +817,29 @@ Para cumplir con esta responsabilidad, se podrán celebrar Acuerdos de colaborac
 
 Esta prohibido el consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud y métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones en el Estado de México.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 50.
 
-Se entenderá por dopaje la posesión, suministro y consumo de una sustancia prohibida o de un método no reglamentado que los deportistas utilicen o que se apliquen en animales deliberadamente y que se encuentren descritos en la lista de la Agencia Mundial Antidopaje, difundida por el IMCUFIDE.
+Se entenderá por dopaje en el deporte la administración a los deportistas o a los animales que estos utilicen en su disciplina, así como su uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario, enunciado en la lista vigente de la Agencia Mundial Antidopaje, publicada por la CONADE, y que será difundida por el Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 51.
 
-Cuando se determinen casos de dopaje dentro o fuera de competición las Asociaciones Deportivas estatales, cuyos atletas hayan resultado positivos tendrán que hacerlo del conocimiento al IMCUFIDE.
+Cuando se determinen casos de dopaje dentro o fuera de competición las Asociaciones Deportivas estatales, cuyos atletas hayan resultado positivos tendrán que hacerlo del conocimiento a la CONADE y al Comité Nacional Antidopaje.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 52.
 
-El IMCUFIDE con las Autoridades Estatales, municipales del sector salud así como los integrantes del SIDEM promoverán e impulsarán las medidas de prevención y control del uso de sustancias farmacológicas potencialmente peligrosas para la salud y realizarán la difusión de informes y estudios sobre las causas y efectos de su uso.
+El Instituto con las Autoridades Estatales, municipales del sector salud, así como los integrantes del SIDEM promoverán e impulsarán las medidas de prevención y control del uso de sustancias farmacológicas potencialmente peligrosas para la salud y realizarán la difusión de informes y estudios sobre las causas y efectos de su uso.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 53.
 
-El IMCUFIDE podrá asesorar en materia de cultura antidopaje a los organizadores de eventos deportivos, cuando así lo requieran.
+El Instituto podrá solicitar el asesoramiento en materia de cultura antidopaje a la CONADE o instituciones oficiales, para asesorar a los organizadores de eventos deportivos, cuando así lo requieran.
 
 ## TÍTULO SEXTO. DEL DEPORTE DE ALTO RENDIMIENTO, EL ESPECIAL DE ALTO RENDIMIENTO Y EL PROFESIONAL
 
@@ -611,7 +857,9 @@ III. Que sean deportistas calificados como de alto rendimiento de acuerdo a las 
 
 Las medidas de apoyo derivadas de esta condición, se extenderán por un plazo máximo de tres años, el cual comenzará a contar desde el día siguiente al de la fecha en la que la Subdirección de Alto Rendimiento dio a conocer por última vez, la condición de deportista en esta categoría o en su equivalente.
 
-IV. Que sigan programas tutelados por las Asociaciones Deportivas mexiquenses, en los centros de alto rendimiento reconocidos por el IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+IV. Que sigan programas tutelados por las Asociaciones Deportivas estatales, en los centros de alto rendimiento reconocidos por el Instituto.
 
 V. Que sigan programas deportivos tutelados por las Asociaciones Deportivas.
 
@@ -619,7 +867,9 @@ V. Que sigan programas deportivos tutelados por las Asociaciones Deportivas.
 
 Los deportistas y entrenadores de alto rendimiento mexiquenses y los considerados como talentos deportivos que integren preselecciones y selecciones Estatales y Nacionales recibirán apoyos económicos y materiales para su preparación de acuerdo a la competencia para la que fueren convocados así como incentivos económicos, con base en los resultados obtenidos.
 
-El procedimiento correspondiente quedará establecido en las normas de la materia y las que establezca el IMCUFIDE.
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+El procedimiento correspondiente quedará establecido en las normas de la materia y las que establezca el Instituto.
 
 ###### Artículo 56.
 
@@ -629,11 +879,15 @@ Las autoridades deportivas del Estado, se apoyarán en las opiniones de metodól
 
 Los deportistas y entrenadores de alto rendimiento que gocen de los apoyos económicos y materiales a que se refiere el presente Capítulo deberán participar en los eventos y actos Estatales y Nacionales que convoquen las autoridades deportivas respectivas.
 
-### CAPÍTULO SEGUNDO. DEL DEPORTE ESPECIAL DE ALTO RENDIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE MAYO DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. DEL DEPORTE ADAPTADO DE ALTO RENDIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 58.
 
-Se considera deporte especial de alto rendimiento al que se practica por los deportistas con alguna discapacidad física, intelectual o sensorial, que clasifiquen en cualquiera de las siguientes competiciones:
+Se considera deporte adaptado de alto rendimiento, al que se practica por los deportistas con alguna discapacidad física, intelectual o sensorial, que clasifiquen en cualquiera de las siguientes competiciones:
 
 a. Juegos paralímpicos.
 
@@ -661,25 +915,35 @@ Los deportistas profesionales mexiquenses que integren preselecciones y seleccio
 
 ### CAPÍTULO ÚNICO. DE LAS PERSONAS JURÍDICAS COLECTIVAS Y ÓRGANOS
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 62.
 
-Las personas jurídicas colectivas, cualquiera que sea su naturaleza jurídica, estructura y denominación, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo de la activación física y la recreación deportiva, serán registradas por el IMCUFIDE como asociaciones recreativo-deportivas, siempre que no persigan fines preponderantemente económicos o como sociedades recreativo-deportivas cuando su actividad se realice con fines preponderantemente económicos o de lucro.
+Las personas jurídicas colectivas, cualquiera que sea su naturaleza jurídica, estructura y denominación, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo de la activación física y la recreación deportiva, serán registradas por el Instituto como asociaciones recreativo deportivas, siempre que no persigan fines preponderantemente económicos o como sociedades recreativo-deportivas cuando su actividad se realice con fines preponderantemente económicos o de lucro.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 63.
 
-Las personas jurídicas colectivas, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social desarrollen, promuevan o contribuyan a la rehabilitación, en el campo de la cultura física-deportiva y el deporte serán registradas por el IMCUFIDE como asociaciones de deporte en la rehabilitación, siempre que no persigan fines preponderantemente económicos o como sociedades de deporte en la rehabilitación, cuando su actividad se realice con fines preponderantemente económicos o de lucro.
+Las personas jurídicas colectivas, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social desarrollen, promuevan o contribuyan a la rehabilitación, en el campo de la cultura física deportiva y el deporte serán registradas por el Instituto como asociaciones de deporte en la rehabilitación, siempre que no persigan fines preponderantemente económicos o como sociedades de deporte en la rehabilitación, cuando su actividad se realice con fines preponderantemente económicos o de lucro.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 64.
 
-Para efecto de que el IMCUFIDE otorgue el registro correspondiente como Asociaciones o Sociedades, se deberá cumplir con el trámite previsto en la presente Ley y su Reglamento.
+Para efecto de que el Instituto otorgue el registro correspondiente como Asociaciones o Sociedades, se deberá cumplir con el trámite previsto en la presente Ley y su Reglamento.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 65.
 
-En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar al registro de una asociación o sociedad deportiva de las reconocidas por esta Ley, o que el IMCUFIDE compruebe que existe incumplimiento de los objetivos para los cuales fueron creadas, se seguirá el trámite para la revocación de su inscripción en el Registro Estatal.
+En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar al registro de una asociación o sociedad deportiva de las reconocidas por esta Ley, o que el Instituto compruebe que existe incumplimiento de los objetivos para los cuales fueron creadas, se seguirá el trámite para la revocación de su inscripción en el Registro Estatal.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 66.
 
-Cualquier órgano, sea público o privado de los reconocidos en esta Ley y que reciba recursos del erario público deberá presentar ante el IMCUFIDE, un informe semestral sobre su aplicación y se sujetarán a las auditorías financieras y a las evaluaciones que determine. Además, deberán rendirle un informe anual sobre las actividades realizadas y los resultados Estatales y Nacionales o en su caso, Internacionales obtenidos, acompañados del programa de trabajo para el siguiente ejercicio. El IMCUFIDE presentará ante el Consejo Directivo, los informes semestrales respectivos.
+Cualquier órgano, sea público o privado de los reconocidos en esta Ley y que reciba recursos del erario público deberá presentar ante el Instituto, un informe semestral sobre su aplicación y se sujetarán a las auditorías financieras y a las evaluaciones que determine. Además, deberán rendirle un informe anual sobre las actividades realizadas y los resultados Estatales y Nacionales o en su caso, Internacionales obtenidos, acompañados del programa de trabajo para el siguiente ejercicio. El Instituto presentará ante el Consejo Directivo, los informes semestrales respectivos.
 
 ## TÍTULO OCTAVO. DE LA INFRAESTRUCTURA DEPORTIVA
 
@@ -689,43 +953,51 @@ Cualquier órgano, sea público o privado de los reconocidos en esta Ley y que r
 
 Se considera de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la activación, cultura física y deporte, promoviendo para este fin, la participación de los sectores social y privado en el territorio Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 68.
 
-La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberán realizarse por el IMCUFIDE tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la Asociación Deportiva que corresponda así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos.
+La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberán realizarse por el Instituto tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la Asociación Deportiva que corresponda así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos.
 
 Estas instalaciones, deberán ponerse a disposición de la comunidad, para su uso público.
 
 La cuota de recuperación por el uso de dichas instalaciones, en su caso, se dará conforme a las tarifas aplicables.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 69.
 
-El IMCUFIDE promoverá acciones para el uso óptimo de las instalaciones públicas.
+El Instituto promoverá acciones para el uso óptimo de las instalaciones públicas. Las actividades físicas y la práctica del deporte en espacios naturales deben regirse por los principios de respeto por la naturaleza y de preservación de sus recursos observando las disposiciones de los instrumentos de gestión territorial vigentes. Asimismo, se respetarán las áreas estatales clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas, la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
 
-Las actividades físicas y la práctica del deporte en espacios naturales deben regirse por los principios de respeto por la naturaleza y de preservación de sus recursos observando las disposiciones de los instrumentos de gestión territorial vigentes.
-
-Asimismo, se respetarán las áreas estatales clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas, la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 70.
 
-El IMCUFIDE coordinará con la Secretaría, a los municipios y a los sectores social y privado, sobre el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte emitiendo para ello los lineamientos correspondientes.
+El Instituto coordinará con la Secretaría, a los municipios y a los sectores social y privado, sobre el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte emitiendo para ello los lineamientos correspondientes.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 71.
 
-El IMCUFIDE formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, en la rehabilitación y activación física deportiva. Para tal efecto, constituirá fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos públicos que para este objeto se destinen y que del uso de las instalaciones se obtengan.
+El Instituto formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, en la rehabilitación y activación física deportiva. Para tal efecto, constituirá fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos públicos que para este objeto se destinen y que del uso de las instalaciones se obtengan.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 72.
 
-En términos de los Convenios de Coordinación y Colaboración respectivos, los gobiernos Estatal y municipal inscribirán las instalaciones destinadas a la activación física, cultura física y deporte en el IMCUFIDE, previa solicitud de los responsables o administradores, con la finalidad de contar con la información actualizada que permita participar en las acciones previstas, en la planeación Estatal del deporte.
+En términos de los Convenios de Coordinación y Colaboración respectivos, los gobiernos Estatal y municipal inscribirán las instalaciones destinadas a la activación física, cultura física y deporte en el Instituto, previa solicitud de los responsables o administradores, con la finalidad de contar con la información actualizada que permita participar en las acciones previstas, en la planeación Estatal del deporte.
 
-El IMCUFIDE podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales, en los ordenamientos técnicos de las disciplinas deportivas y demás disposiciones aplicables cumpliendo con el procedimiento que para ese propósito prevea esta Ley.
+El Instituto podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales, en los ordenamientos técnicos de las disciplinas deportivas y demás disposiciones aplicables cumpliendo con el procedimiento que para ese propósito prevea esta Ley.
 
 ###### Artículo 73.
 
 Las instalaciones destinadas a la activación física, cultura física y deporte en las que se celebren eventos o espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia evitando las manifestaciones de violencia, discriminación y cualquier otra conducta antisocial.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 74.
 
-El IMCUFIDE promoverá ante las diversas instancias de gobierno Estatal, la utilización de centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y deporte.
+El Instituto promoverá ante las diversas instancias de gobierno Estatal, la utilización de centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y deporte.
 
 ###### Artículo 75.
 
@@ -737,37 +1009,49 @@ Asimismo deberán respetarse los programas y calendarios previamente establecido
 
 ### CAPÍTULO ÚNICO. DE LA PARTICIPACIÓN DE INSTITUCIONES, ORGANISMOS Y UNIVERSIDADES
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 76.
 
-El IMCUFIDE promoverá, coordinará e impulsará con la Secretaria, la enseñanza, investigación, difusión del desarrollo tecnológico y la aplicación de los conocimientos científicos en materia de activación, cultura física y deporte así como su capacitación.
+El Instituto promoverá, coordinará e impulsará con la Secretaría, la enseñanza, investigación, difusión del desarrollo tecnológico y la aplicación de los conocimientos científicos en materia de activación, cultura física y deporte, así como su capacitación.
 
 ###### Artículo 77.
 
 En el desarrollo de la investigación y conocimientos científicos deberán participar los integrantes del SIDEM, quienes podrán asesorarse de Universidades Públicas o Privadas e Instituciones de Educación Superior del país de acuerdo a lo que se establezca en la presente Ley.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 78.
 
-El IMCUFIDE participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las Dependencias y Entidades de la Administración Pública Estatal, gobiernos municipales, organismos públicos sociales y privados así como del Sistema Educativo Estatal para la capacitación y la formación de profesionales y técnicos en ramas de la cultura física y deporte, debiendo contemplar la atención de personas con alguna discapacidad.
+El Instituto participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las Dependencias y Entidades de la Administración Pública Estatal, gobiernos municipales, organismos públicos sociales y privados, así como del Sistema Educativo Estatal para la capacitación y la formación de profesionales y técnicos en ramas de la cultura física y deporte, debiendo contemplar la atención de personas con alguna discapacidad.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 79.
 
-El IMCUFIDE promoverá y gestionará conjuntamente con las Asociaciones Deportivas la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física deportiva y sus deportes. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación establecido en la Ley General de Educación.
+El Instituto promoverá y gestionará conjuntamente con las Asociaciones Deportivas la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física deportiva y sus deportes. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación establecido en la Ley General de Educación.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 80.
 
-El IMCUFIDE promoverá en coordinación con la Secretaría el desarrollo e investigación en las áreas de medicina deportiva, biomecánica, control de dopaje, psicología del deporte, nutrición y demás ciencias y ramas aplicadas al deporte y las que se requieran para la práctica óptima de la cultura física y deporte en el Estado de México.
+El Instituto promoverá en coordinación con la Secretaría, el desarrollo e investigación en las áreas de medicina deportiva, biomecánica, control de dopaje, psicología del deporte, nutrición y demás ciencias y ramas aplicadas al deporte y las que se requieran para la práctica óptima de la cultura física y deporte en el Estado de México.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 81.
 
-El IMCUFIDE coordinará las acciones necesarias, a fin de que los integrantes del SIDEM obtengan los beneficios por el desarrollo e investigación en estas ciencias se adquieran.
+El Instituto coordinará las acciones necesarias, a fin de que los integrantes del SIDEM obtengan los beneficios por el desarrollo e investigación en estas ciencias se adquieran.
 
 ###### Artículo 82.
 
 Los deportistas mexiquenses tendrán derecho a recibir atención médica, las autoridades Estatales y municipales promoverán los mecanismos y límites de concertación con las instituciones públicas o privadas para la atención de los mismos.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 83.
 
-Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento y los considerados como talentos deportivos que integren preselecciones y selecciones Estatales deberán contar con un seguro de vida y gastos médicos que gestionará el IMCUFIDE así como incentivos económicos de acuerdo a los resultados obtenidos y según lo establezca el Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Árbitros y Organizaciones Deportivas.
+Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento y los considerados como talentos deportivos que integren preselecciones y selecciones Estatales deberán contar con un seguro de vida y gastos médicos que gestionará el Instituto, así como incentivos económicos de acuerdo a los resultados obtenidos y según lo establezca el Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte.
 
 ###### Artículo 84.
 
@@ -777,9 +1061,11 @@ Las instituciones y organizaciones de los sectores social y privado, están obli
 
 Las instituciones de salud y educación promoverán en el ámbito de su competencia programas de atención médica, psicológica y de nutrición para deportistas, formación y actualización de especialistas en medicina del deporte y ciencias aplicadas así como para la investigación científica.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 86.
 
-El IMCUFIDE promoverá ante la Secretaría de Salud, la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
+El Instituto promoverá ante la Secretaría de Salud, la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
 
 ###### Artículo 87.
 
@@ -789,21 +1075,29 @@ Las instancias correspondientes verificarán y certificarán que los laboratorio
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 88.
 
-El IMCUFIDE podrá otorgar y promover en el ámbito de sus respectivas competencias apoyos, subvenciones y reconocimientos a los deportistas, entrenadores y organismos de cultura física y deporte conforme a lo dispuesto en la presente Ley y en su caso, como lo establezca el Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Arbitros y Organizaciones Deportivas.
+El Instituto podrá otorgar y promover en el ámbito de sus respectivas competencias apoyos, subvenciones y reconocimientos a los deportistas, entrenadores y organismos de cultura física y deporte conforme a lo dispuesto en la presente Ley y en su caso, como lo establezca el Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 89.
 
-El IMCUFIDE a través del Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Arbitros y Organizaciones Deportivas, promoverá y gestionará el otorgamiento de un reconocimiento económico a los deportistas que obtengan una o más medallas en Olimpiada Nacional.
+El Instituto a través del Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte, promoverá y gestionará el otorgamiento de un reconocimiento económico a los deportistas que obtengan medallas en el sistema nacional de competencias y de alto rendimiento.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 90.
 
-El IMCUFIDE a través del Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Arbitros y Organizaciones Deportivas, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados para reconocimiento a medallistas de Olimpiada Nacional.
+El Instituto a través del Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados para reconocimiento a medallistas en el sistema nacional de competencias y de alto rendimiento.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 91.
 
-El IMCUFIDE establecerá los mecanismos necesarios para que los deportistas con discapacidad gocen de los mismos reconocimientos y estímulos que otorga el gobierno Estatal.
+El Instituto establecerá los mecanismos necesarios para que los deportistas con discapacidad gocen de los mismos reconocimientos y estímulos que otorga el gobierno Estatal.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS ÓRGANOS TÉCNICOS Y DE VIGILANCIA
 
@@ -813,25 +1107,37 @@ El IMCUFIDE establecerá los mecanismos necesarios para que los deportistas con 
 
 El COVEDEM es el órgano que tiene por objeto vigilar y asegurar los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales y organismos afines.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 93.
 
-El COVEDEM será coordinado por el IMCUFIDE con el fin de que los procesos electorales se cumplan con apego a Derecho, bajo los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos.
+El COVEDEM será coordinado por el Instituto con el fin de que los procesos electorales se cumplan con apego a Derecho, bajo los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 94.
 
-En caso de que exista alguna controversia en cualquiera de las etapas del proceso de elección de los órganos de gobierno y representación de las / (sic) Asociaciones Deportivas Estatales, el COVEDEM vigilará y resolverá el y procedimiento establecido en el Reglamento de la presente Ley.
+En caso de que exista alguna controversia en cualquiera de las etapas del proceso de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, el COVEDEM vigilará y resolverá el y procedimiento establecido en el Reglamento de la presente Ley.
 
 ###### Artículo 95.
 
 El Comité se integrará por:
 
-I. Un Presidente, que será el Director General del IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-II. Un Secretario Técnico, que será el Jefe de la Unidad Jurídica del IMCUFIDE.
+I. Una Presidencia, que estará a cargo de la persona titular de la Dirección General del Instituto.
 
-III. Tres Comisionados Titulares, que serán designados por el Director General.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-La designación de los Comisionados, deberá recaer en personas con conocimiento en el ámbito deportivo así como de reconocido prestigio y calidad moral.
+II. Una Secretaría Técnica, que estará a cargo de la persona titular de la Unidad Jurídica del Instituto.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+III. Tres Personas Comisionadas Titulares, que serán designadas por la persona titular de la Dirección General del Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+La designación de las personas Comisionadas, deberá recaer en personas con conocimiento en el ámbito deportivo, así como de reconocido prestigio y calidad moral.
 
 ###### Artículo 96.
 
@@ -859,55 +1165,77 @@ VII. Desconocer si así fuese el caso, cualquier elección que atente contra los
 
 El funcionamiento y operación del COVEDEM estará regulado en el Reglamento.
 
-### CAPÍTULO SEGUNDO. DEL COMITÉ TÉCNICO PARA LA ASIGNACIÓN DE APOYOS Y ESTÍMULOS A DEPORTISTAS, ENTRENADORES, JUECES, ÁRBITROS Y ORGANIZACIONES DEPORTIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE MAYO DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. DEL COMITÉ PARA LA ASIGNACIÓN DE APOYOS Y ESTÍMULOS ECONÓMICOS DE CULTURA FÍSICA Y DEPORTE
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 99.
 
-El Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Árbitros y Organizaciones Deportivas será el órgano encargado de analizar, valorar y someter a la autorización del Director General del IMCUFIDE, las solicitudes de apoyo presentadas y se integrará por:
+El Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte será el órgano encargado de analizar, valorar y someter a la autorización del Instituto, las solicitudes de apoyo presentadas y se integrará por:
 
-I. Un Presidente, que será el Director Operativo del IMCUFIDE con voz y voto.
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría con voz y voto.
 
-II. Un Secretario Técnico, que será el Jefe del Departamento de Servicios a Deportistas de Alto Rendimiento del IMCUFIDE con voz y voto.
+II. Una Secretaría Técnica, que estará a cargo de la persona titular de la Dirección General con voz y voto.
 
-III. Un Comisario, que será el Contralor Interno del IMCUFIDE con voz pero sin voto.
+III. Una Comisaría, que estará a cargo de la persona titular del Órgano Interno de Control del Instituto con voz, pero sin voto.
 
-IV. Seis vocales designados conforme al reglamento y que serán:
+IV. Ocho vocales con derecho a voz y voto, que serán:
 
-a. El primer vocal: un entrenador o un metodólogo del deporte, con voz y voto.
+a. La persona titular de la Subdirección de Deporte de Alto Rendimiento del Instituto.
 
-b. El segundo vocal: el Presidente de una Asociación Deportiva, con voz y voto.
+b. La persona titular de la Subdirección de Fomento del Deporte del Instituto.
 
-c. El tercer vocal: un deportista destacado con voz y voto.
+c. La persona titular de la Subsecretaría de Administración y Finanzas de la Secretaría.
 
-d. El cuarto vocal: el Subdirector de Administración y Finanzas del IMCUFIDE con voz y voto.
+d. La persona titular de la Coordinación de Asuntos Jurídicos e Igualdad de Género de la Secretaría.
 
-e. El quinto vocal: el Titular de la Unidad Jurídica del IMCUFIDE con voz pero sin voto.
+e. Una persona entrenadora del deporte.
 
-f. El sexto vocal: que será el Jefe del Departamento de Servicios en las Ciencias Aplicadas al Deporte del IMCUFIDE con voz pero sin voto.
+f. Una persona que ocupe la presidencia de una asociación deportiva.
+
+g. Una deportista, mujer, de reconocido desempeño.
+
+h. Un deportista, hombre, de reconocido desempeño.
+
+Corresponde a la persona que funja como presidente designar a las personas previstas en los incisos e, f, g y h.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 100.
 
-Son atribuciones del Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Arbitros y Organizaciones Deportivas, las siguientes:
+Son atribuciones del Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte, las siguientes:
 
-I. Revisar que la Subdirección de Deporte de Alto Rendimiento requiera a los deportistas, entrenadores y Organizaciones Deportivas, el resultado obtenido en la competencia para la cual fue otorgado el apoyo.
+I. Conocer, analizar, resolver y dictaminar las solicitudes de apoyos y estímulos en materia de cultura física y deporte, que le sean presentadas a través de la Secretaría o el Instituto.
 
-II. Dictaminar la asignación, renovación o cancelación de apoyos y estímulos, remitiendo los dictámenes al Director General del lMCUFIDE para su autorización.
+II. Dictaminar, previa solicitud de las y los interesados el otorgamiento y/o la negativa de apoyos y estímulos.
 
-III. Auxiliar al Director General del IMCUFIDE sobre los recursos de inconformidad a los que se refiere el Código de Procedimientos Administrativos del Estado de México.
+III. Dar vista al Órgano Interno de Control correspondiente, cuando existan elementos para determinar la posible responsabilidad patrimonial de las y los beneficiarios, en caso de acreditar la presentación de información o documentación falsa, o destinar el recurso para fines diversos a los autorizados.
 
-IV. Elaborar el fabulador de apoyos y estímulos a que se refiere la presente Ley.
+IV. Acordar el periodo de duración de los apoyos y estímulos.
+
+V. Resolver todo lo no previsto en las reglas de operación relacionado con el otorgamiento, cancelación y terminación del apoyo o estímulo, así como, en su caso, la reintegración de los recursos otorgados.
+
+VI. Vigilar el cumplimiento de las presentes reglas de operación de los programas.
+
+VII. Las demás que le correspondan por razón de la materia y por instrucción de la persona titular de la Secretaría.
+
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 101.
 
-El funcionamiento y operación del Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Arbitros y Organizaciones Deportivas estará regulado en el Reglamento.
+El funcionamiento y operación del Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte estará regulado en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
 
 ###### Artículo 102.
 
-Los estímulos que se otorguen con cargo al presupuesto del IMCUFIDE tendrán el cumplimiento de alguno de los siguientes fines:
+Los estímulos que se otorguen con cargo al presupuesto del Instituto tendrán el cumplimiento de alguno de los siguientes fines:
 
 I. Desarrollar los programas deportivos de las Asociaciones Deportivas Estatales.
 
-II. Impulsar la investigación científica en materia de activación física, cultura física y deporte.
+II. (DEROGADA, G.G. 24 DE MAYO DE 2024)
 
 III. Fomentar las actividades de las Asociaciones Deportivas en materia recreativa-deportiva, de rehabilitación y de cultura física.
 
@@ -923,15 +1251,19 @@ VIII. Contribuir con el desarrollo deportivo de los municipios del Estado de Mé
 
 IX. Fomentar y promover planes y programas destinados al impulso y desarrollo de la actividad física y deporte para las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 103.
 
-Los candidatos a obtener estímulos y apoyos a que se refiere esta Ley deberán presentar, además de los requisitos que establezca el Comité Técnico para la Asignación de Apoyos y Estímulos a Deportistas, Entrenadores, Jueces, Árbitros y Organizaciones Deportivas, los siguientes:
+Los candidatos a obtener estímulos y apoyos a que se refiere esta Ley deberán presentar, además de los requisitos que establezca el Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte, los siguientes:
 
 I. Formar parte del SIDEM.
 
 II. Estar propuesto por la Asociación Deportiva Estatal correspondiente.
 
-El trámite y demás requisitos para ser acreedores de los estímulos a que se refiere esta Ley, se especificarán en las Reglas de Operación del Comité de Estímulos a Deportistas, Entrenadores, Jueces, Árbitros y Organizaciones Deportivas, su otorgamiento y goce estará sujeto al estricto cumplimiento de conformidad en la presente Ley, los Reglamentos Técnicos y Deportivos de la disciplina deportiva así como las bases que establezca el Ejecutivo Estatal por conducto del IMCUFIDE.
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
+El trámite y demás requisitos para ser acreedores de los estímulos a que se refiere esta Ley, se especificarán en las Reglas de Operación del Comité para la Asignación de Apoyos y Estímulos económicos de cultura física y deporte, su otorgamiento y goce estará sujeto al estricto cumplimiento de conformidad en la presente Ley, los Reglamentos Técnicos y Deportivos de la disciplina deportiva, así como las bases que establezca el Ejecutivo Estatal por conducto del Instituto.
 
 ###### Artículo 104.
 
@@ -959,83 +1291,59 @@ III. La rendición sobre las actuaciones de comprobación y de control financier
 
 IV. Facilitar la información le sea requerida por las autoridades de la Administración Pública Estatal.
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 106.
 
-Las personas físicas y jurídicas colectivas y las agrupaciones que hubieren contribuido al desarrollo de la cultura física y deporte podrán obtener reconocimiento por el IMCUFIDE así como en su caso, estímulos económicos, previo cumplimiento de los requisitos que para tal efecto se establezcan.
+Las personas físicas y jurídicas colectivas y las agrupaciones que hubieren contribuido al desarrollo de la cultura física y deporte podrán obtener reconocimiento por el Instituto, así como en su caso, estímulos económicos, previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
 ###### Artículo 107.
 
 Los deportistas y entrenadores que gocen de estímulos y apoyos deberán participar representando al Estado de México en los diferentes eventos deportivos ya sean nacionales e internacionales.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE MAYO DE 2024)</small>
+
 ### CAPÍTULO TERCERO. DEL COMITÉ ESTATAL ANTIDOPAJE
 
 ###### Artículo 108.
 
-El Comité Estatal Antidopaje será la instancia responsable de conocer los resultados, controversias e irregularidades en las normas y procedimientos que surjan de los controles dentro y fuera de competiciones, a que sean sometidos los deportistas en el territorio Estatal así como de coordinar con el área responsable de la Comisión Nacional del Deporte y su Comité Nacional Antidopaje las acciones en esta materia.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 109.
 
-EL Comité Estatal Antidopaje está integrado por:
-
-I. El responsable de la Subdirección de Deporte de Alto Rendimiento del IMCUFIDE, quien fungirá como Presidente.
-
-II. El responsable del área médica del IMCUFIDE quien fungirá como Secretario Técnico.
-
-III. El Presidente de alguna asociación Estatal, designado por el Consejo Directivo a propuesta del Director General del IMCUFIDE quien fungirá como vocal.
-
-IV. Un deportista de alto rendimiento, designado por el Consejo Directivo a propuesta del Director General del IMCUFIDE quien fungirá como vocal.
-
-V. Un especialista de la Secretaría de Salud o del Instituto de Seguridad Social del Estado y Municipios, invitado por el Director General del IMCUFIDE quien fungirá como vocal.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 110.
 
-Son funciones del Comité Estatal Antidopaje:
-
-I. Difundir la lista de substancias doping y métodos no reglamentarios en el deporte.
-
-II. Dictaminar la procedencia o negatividad de casos de doping.
-
-III. Difundir en las organizaciones deportivas las desventajas y consecuencias del doping en el deporte.
-
-IV. Asesorar a instituciones educativas, gubernamentales y no gubernamentales en materia de doping.
-
-V. Normar el programa de rehabilitación médica, psicológica y social para deportistas con fallo de doping positivo.
-
-VI. Expedir las Normas Técnicas así como las cédulas de aprobación a los laboratorios que acrediten tener los recursos humanos y materiales suficientes y necesarios para llevar a cabo análisis de substancias y métodos tipo doping.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 111.
 
-Para dar fallo de doping positivo el Comité Estatal Antidopaje deberá contar con una declaración escrita del deportista indicando la substancia o método tipo doping utilizado o en su caso, el análisis de laboratorio positivo.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 112.
 
-El deportista con fallo de doping positivo no podrá ser objeto de premiación, reconocimiento o incentivo de cualquier índole por su participación en la competencia.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 113.
 
-El deportista con fallo de doping positivo será sancionado la primera vez con suspensión temporal de sus beneficios como deportista por un período no menor a seis meses.
-
-Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias etiquetadas como estupefacientes por la Ley General de Salud.
-
-Durante el tiempo de la suspensión no podrá representar al Estado ni participar en competición oficial avalada por el IIMCUFIDE (SIC).
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 114.
 
-El deportista con reincidencia será sancionado por un período mayor a seis meses y en su caso de manera definitiva, ello sin prejuicio de las sanciones que estén previstas en la normatividad aplicable.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 115.
 
-Lo dispuesto en este Capítulo será aplicado en los mismos términos a los directivos, técnicos, médicos, entrenadores o cualquier otra persona física o jurídica colectiva que resulte responsable de la inducción, facilitación o administración de sustancias, métodos de dopaje prohibidos o no reglamentarios en el deporte.
-
-Lo anterior, sin menoscabo de las sanciones que pudieran proceder de otros ordenamientos aplicables.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 116.
 
-Para los efectos de la presente Ley, se considera infracción administrativa, el resultado positivo del análisis antidopaje practicado al deportista o aplicado a los animales que éstos utilicen en su disciplina, además de las sanciones que procedan en el ámbito deportivo y que al efecto se establezcan de manera legal así como de la responsabilidad penal, en que se incurra de conformidad con las disposiciones legales aplicables.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ###### Artículo 117.
 
-El funcionamiento y operación del Comité Estatal Antidopaje estará regulado en el Reglamento.
+(DEROGADO, G.G. 24 DE MAYO DE 2024)
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LAS CONDUCTAS VIOLENTAS EN EL DEPORTE
 
@@ -1059,15 +1367,19 @@ VI. La facilitación de medios técnicos, económicos materiales o tecnológicos
 
 ### CAPÍTULO SEGUNDO. DE LAS POLÍTICAS UTILIZADAS CONTRA LA VIOLENCIA
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 119.
 
-El IMCUFIDE se auxiliará de la CECOVIDE como órgano colegiado encargado de elaborar y conducir las políticas locales contra la violencia en el deporte en el Estado de México.
+El Instituto se auxiliará de la CECOVIDE como órgano colegiado encargado de elaborar y conducir las políticas locales contra la violencia en el deporte en el Estado de México.
 
 ###### Artículo 120.
 
 La CECOVIDE, se integrará por:
 
-I. Representantes del IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+I. Personas representantes del Instituto.
 
 II. Representantes de los Institutos Municipales.
 
@@ -1113,11 +1425,17 @@ El Comité de Justicia Deportiva es la instancia responsable de resolver las con
 
 El Comité de Justicia Deportiva se integrará de la manera siguiente:
 
-I. Un Presidente, que será el Jefe de la Unidad Jurídica del IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
 
-II. Un Secretario Técnico a propuesta del Director General del IMCUFIDE.
+I. Una Presidencia, que estará a cargo de la persona titular de la Unidad Jurídica del Instituto.
 
-III. Tres Vocales que serán designados por el Director General del IMCUFIDE.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+II. Una Secretaría Técnica, a propuesta por la persona titular de la Dirección General del Instituto.
+
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+III. Tres Vocales que serán personas designadas por la persona titular de la Dirección General del Instituto.
 
 ###### Artículo 125.
 
@@ -1177,7 +1495,9 @@ II. En el supuesto a que se refiere la fracción III, cancelándose al infractor
 
 III. En el caso de las fracciones IV, VI y VII la cancelación del registro.
 
-IV. En la fracción V, cancelación del registro cuando el infractor pertenezca a los sectores social o privado y en caso de servidores públicos, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+IV. En la fracción V, cancelación del registro cuando el infractor pertenezca a los sectores social o privado y en caso de servidores públicos, serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 V. En el supuesto de la fracción VIII, se aplicarán las siguientes reglas:
 
@@ -1185,7 +1505,9 @@ V. En el supuesto de la fracción VIII, se aplicarán las siguientes reglas:
 
 a. Si el infractor pertenece a los sectores social y privado, atendiendo a la gravedad de la infracción, con amonestación o multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
-b. Si se trata de servidores públicos, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+> <small>(REFORMADA, G.G. 24 DE MAYO DE 2024)</small>
+
+b. Si se trata de personas servidoras públicas, serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 129.
 
@@ -1197,9 +1519,11 @@ La aplicación de sanciones administrativas por infracciones a esta Ley y dispos
 
 ### CAPÍTULO TERCERO. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, G.G. 24 DE MAYO DE 2024)</small>
+
 ###### Artículo 131.
 
-Contra los actos y resoluciones de las autoridades encargadas de la aplicación de esta ley, los particulares afectados podrán interponer el recurso administrativo de inconformidad ante la propia autoridad o promover juicio ante el Tribunal de lo Contencioso Administrativo, en términos del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones de las autoridades encargadas de la / (sic) aplicación de esta ley, los particulares afectados podrán interponer el recurso administrativo de inconformidad ante la propia autoridad o promover juicio ante el Tribunal de Justicia Administrativa del Estado de México, en términos del Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -1278,3 +1602,35 @@ G.G. 25 DE MARZO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 24 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 265.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor en un plazo de 180 días hábiles contados a partir de su publicación en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+TERCERO. Los recursos humanos, materiales, financieros y presupuestales de la Dirección General de Cultura Física y Deporte, y de la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de cultura física y deporte, serán transferidos al organismo público descentralizado de carácter estatal denominado Instituto del Deporte del Estado de México.
+
+Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y en cualquier tipo de documentación a la Dirección General de Cultura Física y Deporte, y a la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de cultura física y deporte, con excepción de las referidas como dependencia coordinadora de sector, se entenderán hechas al organismo público descentralizado de carácter estatal denominado Instituto del Deporte del Estado de México.
+
+Las personas servidoras públicas que, hasta la entrada en vigor del presente Decreto, presten sus servicios en la Dirección General de Cultura Física y Deporte, y en la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de cultura física y deporte, serán adscritas al organismo público descentralizado de carácter estatal denominado Instituto del Deporte del Estado de México. En todo caso, se respetarán los derechos laborales de las personas servidoras públicas de conformidad con las disposiciones jurídicas aplicables.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Dirección General de Cultura Física y Deporte, y en la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de cultura física y deporte, seguirán siendo atendidos hasta su conclusión por el organismo público descentralizado de carácter estatal denominado Instituto del Deporte del Estado de México.
+
+Los convenios, contratos o acuerdos suscritos por la Dirección General de Cultura Física y Deporte, y la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de cultura física y deporte, seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos del organismo público descentralizado de carácter estatal denominado Instituto del Deporte del Estado de México.
+
+La actuación del organismo público descentralizado de carácter estatal denominado Instituto del Deporte del Estado de México y sus unidades administrativas que con motivo de este Decreto se transfieren de la Dirección General de Cultura Física y Deporte, y de la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de cultura física y deporte, se regirá conforme a lo establecido en la normativa aplicable a dichas áreas, hasta en tanto se emitan las disposiciones normativas correspondientes.
+
+Las Secretarías de Finanzas, de la Contraloría y de Educación, Ciencia, Tecnología e Innovación, la Oficialía Mayor y el Instituto del Deporte del Estado de México, realizarán los actos jurídicos que se requieran para la transferencia, a favor de esta última, de los bienes muebles e inmuebles de la Dirección General de Cultura Física y Deporte, de conformidad con la normativa aplicable.
+
+CUARTO. Las Secretarías de Finanzas, de la Contraloría y de Educación, Ciencia, Tecnología e Innovación, la Oficialía Mayor y el Instituto del Deporte del Estado de México deberán intervenir en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo, en términos de las disposiciones jurídicas aplicables, en el ámbito de sus respectivas competencias.
+
+QUINTO. El Consejo Directivo del Instituto del Deporte del Estado de México deberá instalarse en un plazo máximo de 60 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La persona titular del Ejecutivo Estatal deberá expedir el Reglamento Interior del Instituto del Deporte del Estado de México en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente decreto.
+
+OCTAVO. El Congreso del Estado de México deberá armonizar las disposiciones legales que se opongan a la presente reforma en un plazo no mayor a 180 días hábiles a partir de su entrada en vigor.
