@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-04-27"
+last_updated: "2024-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA EL 27 DE ABRIL DE 2024.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA EL 25 DE MAYO DE 2024.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4757,7 +4757,9 @@ Este delito se perseguirá de oficio.
 
 412 QUINQUIES.- A quién, sin tener una relación de parentesco cometa sobre una persona adulta mayor algún tipo de violencia, se le impondrá la pena de cuatro a ocho años de prisión y multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Además, la autoridad correspondiente lo sujetará a terapias psicológicas por el tiempo que se estime conveniente.
 
-Se considera violencia todo acto o admisión contra una persona adulta mayor, que ocurra de manera única o repetida, la cual puede ser física, psicológica o emocional, económica o patrimonial, sexual o que vulnere el goce de sus derechos humanos y libertades fundamentales.
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2024)</small>
+
+Se considera violencia todo acto u omisión contra una persona adulta mayor, que ocurra de manera única o repetida, la cual puede ser física, psicológica o emocional, económica o patrimonial, sexual o que vulnere el goce de sus derechos humanos y libertades fundamentales
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2024)</small>
 
