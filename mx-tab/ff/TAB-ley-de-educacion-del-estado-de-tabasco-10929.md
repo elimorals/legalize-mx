@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2022-04-06"
+last_updated: "2024-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -137,9 +137,9 @@ XVII.- Promover en la población del Estado, el establecimiento de una cultura e
 
 XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación;
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2024)</small>
 
-XIX.- Destacar la importancia de una alimentación completa, equilibrada, suficiente y variada para el desarrollo pleno del individuo;
+XIX.- Destacar la importancia de una alimentación completa, equilibrada, suficiente y variada para el desarrollo pleno del individuo y fomentar hábitos de higiene bucal y personal;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
@@ -962,6 +962,10 @@ Para la determinación de creación, consolidación y desarrollo de una instituc
 Artículo 76 Las funciones de docencia, investigación y de difusión que realicen las instituciones de educación superior, guardarán relación armónica entre sí, y servirán de fundamento para lograr la identidad nacional y mantener la independencia científica, tecnológica, humanística y económica del país.
 
 Artículo 77 Todas las instituciones que proporcionen educación superior, vigilarán que los alumnos cumplan con la prestación del servicio social de conformidad con el artículo 5° párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos, relativo al ejercicio de las profesiones y tendrá una duración mínima de 6 meses.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+Las autoridades educativas, en coordinación con las instituciones de educación respectivas, promoverán lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2528,3 +2532,19 @@ P.O. 6 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
+
+P.O. 25 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 247 POR EL QUE “SE REFORMA EL ARTÍCULO 9, FRACCIÓN XIX, DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado de Tabasco y se aplicará a partir del ciclo escolar siguiente.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 248 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 77 DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
