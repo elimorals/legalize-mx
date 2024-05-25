@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110856"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-23"
-last_updated: "2024-05-11"
+last_updated: "2024-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2024.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -1146,6 +1146,86 @@ Cuando existan indicios de conflicto de intereses entre quienes ejerzan la repre
 El Ministerio Público podrá intervenir de oficio en beneficio de la salvaguarda de los derechos de niñas, niños y adolescentes cuando se cumpla el plazo de intervención o de interposición de recursos o acciones por parte de la Procuraduría Estatal de Protección y ésta no lo haga. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General, esta Ley y demás disposiciones aplicables.
 
 No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+###### Artículo 90 Bis.
+
+Se crea el Registro de Obligaciones Alimentarias, cuyo objeto es concentrar la información de deudores y acreedores de obligaciones alimentarias, a fin de dar efectiva protección y restitución de los derechos de niñas, niños y adolescentes.
+
+En él se inscribirán a las personas que hayan dejado de cumplir sus obligaciones alimentarias de manera consecutiva o intermitente, ya sea en tres ocasiones en un período de 60 días naturales, o, para el caso de las pensiones alimenticias que se deban cumplir de manera mensual, en tres ocasiones en un período de seis meses, decretadas por la autoridad judicial correspondiente.
+
+La autoridad judicial, previa comprobación del incumplimiento de las obligaciones alimentarias a que se refiere el párrafo anterior, ordenará la inscripción a la unidad administrativa del Tribunal Superior de Justicia del Estado de Tabasco encargada de tal efecto.
+
+El Tribunal Superior de Justicia del Estado de Tabasco, se encargará de suministrar, intercambiar, sistematizar, consultar, analizar y actualizar, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de su competencia utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional DIF para que se integre al Registro Nacional de Obligaciones.
+
+La actualización del citado registro deberá realizarse de forma mensual.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+###### Artículo 90 Ter.
+
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez o la autoridad responsable del fuero local; de no hacerlo, será sancionada y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar, en un máximo de quince días hábiles, al acreedor alimentario y al Juez o la autoridad responsable del fuero local, cualquier cambio en su empleo, la ubicación de éste y el puesto o cargo que desempeñará, a efecto de que se actualice la pensión alimenticia decretada.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+###### Artículo 90 Quáter.
+
+La inscripción al Registro de Obligaciones Alimentarias deberá especificar cuando menos:
+
+I. Nombre o nombres, apellidos, Clave Única de Registro de Población y clave y homoclave del Registro Federal de Contribuyentes del deudor alimentario;
+
+II. Órgano jurisdiccional que ordenó la inscripción, cuantía del cumplimiento de la obligación alimentaria y plazo de pago de los alimentos definitivos;
+
+III. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción; y
+
+IV. Plazo de permanencia en el Registro, conforme a la resolución que lo ordene.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+###### Artículo 90 Quinquies.
+
+El Registro de Obligaciones Alimentarias emitirá certificados de no inscripción, a petición de la parte interesada. Para efecto de lo anterior, se dispondrá de un sitio web en el cual se genere automáticamente el certificado de forma gratuita, mismo que contendrá como mínimo la siguiente información:
+
+I. Nombre o nombres, apellidos y Clave Única de Registro de Población del deudor alimentario; y
+
+II. Órgano jurisdiccional que ordenó el registro, cuantía de la pensión y estado de cumplimiento.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+Artículo 90 Sexties.- El Sistema Estatal de Protección Integral de los Derechos de los (sic) Niñas, Niños y Adolescentes celebrará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información del Registro de Obligaciones Alimentarias.
+
+Las autoridades del Gobierno estatal y municipal, en el ámbito de sus competencias, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro de Obligaciones Alimentarias, en los trámites y procedimientos siguientes:
+
+I. Obtención de licencias y permisos para conducir;
+
+II. Para participar como candidato a cargos concejiles y de elección popular;
+
+III. Para participar como aspirante a cargos de jueces y magistrados del Poder Judicial;
+
+IV. Para participar como proveedor de los dos órdenes de gobierno;
+
+V. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales;
+
+VI. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene; y
+
+VII. Los que se establezcan en las disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+###### Artículo 90 Septies.
+
+Las autoridades estatales competentes, instrumentarán las medidas de restricción migratoria que establezcan que ninguna persona inscrita en el Registro de Obligaciones Alimentarias pueda salir del país, cuando:
+
+I. Sea deudor alimentario moroso; y
+
+II. Existan medios de prueba que permitan al Juez determinar la existencia de un riesgo importante de que la salida del país sea utilizada como un medio de evasión de pago.
+
+El impedimento para salir del país deberá ser solicitado por el acreedor o por quienes tengan su guarda y custodia ante el Juez correspondiente, quien, en su caso, deberá notificar a las autoridades migratorias respectivas para los efectos conducentes.
+
+En el caso de la fracción I de este artículo, el Juez podrá autorizar la salida del país si se garantiza el pago de, por lo menos, la mitad del adeudo que se tenga por el pago de alimentos y un depósito que corresponda al pago adelantado desde noventa hasta trescientos sesenta y cinco días de la pensión, según las circunstancias, o bien proporcione cualquier otra garantía que, a criterio del Juez, garantice el cumplimiento de la obligación.
 
 ### Capítulo Segundo. De los Deberes de las Niñas, Niños y Adolescentes
 
@@ -2456,3 +2536,15 @@ Conforme al Artículo Transitorio Cuarto del Código Nacional de Procedimientos 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 246 POR EL QUE "SE ADICIONAN LOS ARTÍCULOS 90 BIS, 90 TER, 90 QUÁTER, 90 QUINQUIES, 90 SEXTIES Y 90 SEPTIES, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Tribunal Superior de Justicia del Estado de Tabasco, determinará dentro de su estructura orgánica y con el personal con que cuenta, el área encargada de llevar el Registro de Obligaciones Alimentarias a que se refiere el presente Decreto.
+
+TERCERO. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, el Poder Judicial del Estado de Tabasco realizará las adecuaciones necesarias al Reglamento Interior del Tribunal Superior de Justicia del Estado de Tabasco y demás disposiciones aplicables, para el debido cumplimiento de este Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
