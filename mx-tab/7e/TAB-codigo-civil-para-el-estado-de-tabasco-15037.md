@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2024-05-11"
+last_updated: "2024-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2461,6 +2461,10 @@ Qué comprende.
 
 Los alimentos comprenden comida, vestido, habitación y asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para su educación básica obligatoria, para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales; así como para su sano esparcimiento que le permitan un desarrollo integral.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+En el caso de las niñas y niños no nacidos, también comprende la provisión de medicamentos esenciales, vacunas, leche y alimentos necesarios para su crecimiento y desarrollo saludable durante el embarazo de la madre.
+
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 305.
@@ -2468,6 +2472,18 @@ Los alimentos comprenden comida, vestido, habitación y asistencia en casos de e
 Como se puede cumplir.
 
 El obligado a dar alimentos cumple la obligación asignando una pensión proporcional al acreedor alimentario, o incorporándole a su familia, siempre que tuviere hogar propio y no existan indicios suficientes de violencia familiar o algún otro grave inconveniente a juicio del Juez.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2024)</small>
+
+ARTICULO 305 BIS.- Del ingreso al Registro de Obligaciones Alimentarias
+
+Aquellas personas que hayan dejado de cumplir sus obligaciones alimentarias de manera consecutiva o intermitente, ya sea en tres ocasiones en un período de 60 días naturales, o, para el caso de las pensiones alimenticias que se deban cumplir de manera mensual, en tres ocasiones en un período de seis meses, decretadas por la autoridad judicial correspondiente, en cualquier momento del procedimiento podrá solicitarse a la autoridad jurisdiccional lo haga del conocimiento del Registro de Obligaciones Alimentarias a cargo del Tribunal Superior de Justicia del Estado de Tabasco.
+
+La autoridad jurisdiccional podrá retener los pasaportes a los deudores alimentarios morosos, y tratándose de extranjeros se dará vista al Instituto Nacional de Migración, mediante oficio para que proceda conforme a la Ley de Migración, a efecto que no se le permita la salida del Territorio Nacional.
+
+Del mismo modo la autoridad jurisdiccional podrá ordenar a petición de parte, el embargo precautorio de bienes y derechos de los que sea titular del (sic) deudor alimentario, así como el congelamiento provisional de sus cuentas bancarias.
+
+A efecto de lo anterior, la autoridad jurisdiccional también podrá instruir la anotación, registro o inscripción que corresponda a la medida ordenada. En su caso, se dará vista al Ministerio Público para los efectos que corresponda.
 
 ###### ARTICULO 306.
 
@@ -25878,3 +25894,15 @@ Conforme al Artículo Transitorio Cuarto del Código Nacional de Procedimientos 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 246 POR EL QUE “SE ADICIONAN: UN PÁRRAFO SEGUNDO AL ARTÍCULO 304; Y EL ARTÍCULO 305 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Tribunal Superior de Justicia del Estado de Tabasco, determinará dentro de su estructura orgánica y con el personal con que cuenta, el área encargada de llevar el Registro de Obligaciones Alimentarias a que se refiere el presente Decreto.
+
+TERCERO. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, el Poder Judicial del Estado de Tabasco realizará las adecuaciones necesarias al Reglamento Interior del Tribunal Superior de Justicia del Estado de Tabasco y demás disposiciones aplicables, para el debido cumplimiento de este Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
