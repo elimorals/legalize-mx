@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-de-las-personas-servidoras-publicas-del-155036"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-17"
-last_updated: "2021-12-17"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JUNIO DE 2024 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MAYO DE 2024.
 
 Código publicado en la Sección Primera del Número 116 de la Gaceta del Gobierno del Estado de México, el viernes 17 de diciembre de 2021.
 
@@ -37,7 +39,9 @@ C O N S I D E R A N D O
 
 I. Que el artículo 116 fracción V de la Constitución Política de los Estados Unidos Mexicanos, dispone que las Constituciones y Leyes de los Estados deberán instituir Tribunales de Justicia Administrativa, dotados de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y en su caso, recursos contra sus resoluciones. Los tribunales tendrán a su cargo dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
-II. Que el artículo 87 de la Constitución Política del Estado libre y Soberano de México, establece que el Tribunal de Justicia Administrativa del Estado de México, es un órgano dotado de plena autonomía para dictar sus fallos y ejercer su presupuesto; su organización, funcionamiento, procedimientos y en su caso, recursos contra sus resoluciones, que conocerá y resolverá de las controversias que se susciten entre la administración pública estatal, municipal, organismos auxiliares con funciones de autoridad y los particulares, que el Tribunal funcionará en Pleno o en Salas Regionales.
+> <small>(REFORMADO, G.G. 27 DE MAYO DE 2024)</small>
+
+II. Que el artículo 87 de la Constitución Política del Estado libre y Soberano de México, establece que el Tribunal de Justicia Administrativa del Estado de México, es un órgano dotado de plena autonomía para dictar sus fallos y ejercer su presupuesto; su organización, funcionamiento, procedimientos y en su caso, recursos contra sus resoluciones, que conocerá y resolverá de las controversias que se susciten entre la administración pública estatal, municipal, organismos auxiliares con funciones de autoridad y los particulares.
 
 III. Que los artículos 3 y 4 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, establecen que este organismo jurisdiccional es un órgano autónomo e independiente de cualquier autoridad y dotado de plena jurisdicción para emitir y hacer cumplir sus resoluciones; y es competente para dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública del Estado, municipios, organismos auxiliares con funciones de autoridad y los particulares; así como para resolver los procedimientos por responsabilidades administrativas graves de servidores públicos y particulares en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
@@ -63,7 +67,17 @@ XIII. Que por Decreto número 292, publicado en el periódico oficial “Gaceta 
 
 XIV. Que de conformidad con lo dispuesto por los artículos 80 párrafo primero y 82 fracción XXVI de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, el Órgano Interno de Control del Tribunal analizó, adecuó y aprobó el Código de Ética para las Personas Servidoras Públicas del Tribunal de Justicia Administrativa del Estado de México.
 
-Atento a lo anterior, el Titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de México, a efecto de dar cumplimiento a las disposiciones legales antes invocadas, emite:
+> <small>(ADICIONADO, G.G. 27 DE MAYO DE 2024)</small>
+
+XIV (SIC). Que mediante el Acuerdo publicado en el Diario Oficial de la Federación el 9 de abril de 2024, el Sistema Nacional Anticorrupción refrendó los lineamientos para la emisión del Código de Ética.
+
+> <small>(ADICIONADO, G.G. 27 DE MAYO DE 2024)</small>
+
+XV. Que el 15 de marzo de 2024, se publicó en el Periódico Oficial "Gaceta del Gobierno" el Plan de Desarrollo del Estado de México 2023-2029, el cual establece en su Eje 1, Cero corrupción y gobierno del pueblo y para el pueblo Estado de Derecho y austeridad; Estrategia 1.2.2 Desarrollar e implementar estrategias integrales para prevenir, detectar y sancionar actos de corrupción; y en su línea de acción 1.2.2.2 Impulsar la Ética Pública para prevenir y combatir la corrupción al interior de la administración pública, por lo que, resulta necesario promover acciones tendentes a materializar tales propósitos al interior del Tribunal.
+
+> <small>(REFORMADO, G.G. 27 DE MAYO DE 2024)</small>
+
+Atento a los considerandos XIV y XV el Titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de México, en el ámbito de sus atribuciones con fundamento en los artículos 80, primero párrafo y 82, fracción XXVI de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México; y 86, fracción VI del Reglamento Interno del Tribunal de Justicia Administrativa del Estado de México, se reforman, adicionan y derogan diversas disposiciones del presente Código de Ética, para quedar como sigue:
 
 EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
@@ -85,19 +99,33 @@ El presente Código, es el instrumento que contiene los principios y valores con
 
 El lenguaje empleado en el presente Código, no busca generar ninguna distinción, ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a toda persona servidora pública. En la elaboración del Código de Conducta, el Comité de Ética, deberá considerar utilizar un lenguaje claro, incluyente y no sexista.
 
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL ACUERDO PUBLICADO EN LA G.G. DE 27 DE MAYO DE 2024, PÁGINAS DE LA 47 A LA 48.]</small>
+
 ###### Artículo 5.
 
 Para efectos del presente Código, se entenderá por:
 
 a) Bases: Las Bases para la integración del Comité de Ética del Tribunal de Justicia Administrativa del Estado de México.
 
-b) Código de Conducta: El Código de Conducta del Tribunal de Justicia Administrativa del Estado de México.
+> <small>(REFORMADO, G.G. 27 DE MAYO DE 2024)</small>
+
+b) Código de Conducta: Al Código de Conducta para las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de México.
 
 c) Código de Ética: Al Código de Ética de las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de México.
 
 d) Comité: Al Comité de Ética del Tribunal de Justicia Administrativa del Estado de México.
 
+> <small>(ADICIONADO, G.G. 27 DE MAYO DE 2024)</small>
+
+d ) (sic) Conflicto de interés: A la posible afectación del desempeño imparcial y objetivo de las funciones de las personas servidoras públicas en razón de intereses personales, familiares o de negocios.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE INCISO e) ES SIMILAR AL DEL INCISO f) (sic), G.G. 27 DE MAYO DE 2024]</small>
+
 e) Denuncia: A la manifestación por la que una persona hace del conocimiento de las autoridades investigadoras, actos u omisiones de alguna persona servidora pública o particulares que pudieran constituir o vincularse con faltas administrativas previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+(REFORMADO [N. DE E. ADICIONADO, EL CONTENIDO DE ESTE INCISO f (sic) ES SIMILAR AL DEL INCISO e)], G.G. 27 DE MAYO DE 2024)
+
+f ) (sic) Denuncia: Manifestación acerca de actos u omisiones de las personas servidoras públicas, por presuntas vulneraciones a los principios, valores o reglas de integridad, descritas en el Código de Ética o las conductas contempladas en el Código de Conducta, y que se hace del conocimiento al Comité de Ética.
 
 f) Ley de Responsabilidades Administrativas: Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
@@ -105,13 +133,25 @@ g) Lineamientos: Al acuerdo por el que se dan a conocen los Lineamientos para la
 
 h) Personas servidoras públicas: Aquéllas que desempeñan un empleo, cargo o comisión en el Tribunal de Justicia Administrativa del Estado de México.
 
+> <small>[N. DE E. EL CONTENIDO DE ESTE INCISO i) ES SIMILAR AL DEL INCISO j (sic), G.G. 27 DE MAYO DE 2024]</small>
+
 i) Principios Rectores: Los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, eficacia, integridad, equidad, cortesía, independencia, justicia y secreto profesional.
+
+(REFORMADO [N. DE E. ADICIONADO, EL CONTENIDO DE ESTE INCISO j (sic) ES SIMILAR AL DEL INCISO i)], G.G. 27 DE MAYO DE 2024)
+
+j ) (sic) Principios Rectores: Los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, eficacia, integridad y equidad.
 
 j) Reglas de Integridad: Las conductas para el ejercicio del empleo, cargo o comisión de las personas servidoras públicas del Tribunal, que constituyen una guía para identificar acciones que puedan vulnerar lo previsto en cada una de ellas.
 
 k) Tribunal: Al Tribunal de Justicia Administrativa del Estado de México.
 
+> <small>[N. DE E. EL CONTENIDO DE ESTE INCISO l) ES SIMILAR AL DEL INCISO m), G.G. 27 DE MAYO DE 2024]</small>
+
 l) Valores: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación, liderazgo y responsabilidad.
+
+(REFORMADO [N. DE E. ADICIONADO, EL CONTENIDO DE ESTE INCISO m) ES SIMILAR AL DEL INCISO l)], G.G. 27 DE MAYO DE 2024)
+
+m) Valores: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
 
 ###### Artículo 6.
 
@@ -183,19 +223,19 @@ Equidad. Las personas servidoras públicas del Tribunal, procurarán que toda pe
 
 ###### Artículo 22.
 
-Cortesía. Las personas servidoras públicas del Tribunal, contribuyen a un mejor funcionamiento de la administración de la justicia administrativa, mediante el respeto y consideración que se debe tener con las personas con las que tengan trato dentro del Tribunal, así como litigantes, testigos, justiciables, autoridades demandadas y en general, a todos los que se relacionan con la administración de justicia administrativa.
+(DEROGADO, G.G. 27 DE MAYO DE 2024)
 
 ###### Artículo 23.
 
-Independencia. Las personas servidoras públicas del Tribunal, en el desempeño de su función, actuarán sin dejarse influir real o aparentemente por factores ajenos al derecho mismo, directa o indirectamente de ningún otro poder público o privado.
+(DEROGADO, G.G. 27 DE MAYO DE 2024)
 
 ###### Artículo 24.
 
-Justicia. Las personas servidoras públicas del Tribunal, respetan la igualdad de los derechos y conceden a cada individuo lo que le es debido, para este Tribunal todas las personas son iguales en punto a exigir un esquema adecuado, de derechos y libertades básicas e iguales.
+(DEROGADO, G.G. 27 DE MAYO DE 2024)
 
 ###### Artículo 25.
 
-Secreto profesional. Las personas servidoras públicas del Tribunal, salvaguardan los derechos de las partes y de sus allegados, por lo que es obligatorio guardar absoluta reserva y secreto profesional en relación con las causas en trámite y con los hechos o datos conocidos en el ejercicio de su función o con ocasión de ésta.
+(DEROGADO, G.G. 27 DE MAYO DE 2024)
 
 ### CAPÍTULO III. VALORES FUNDAMENTALES PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO EN EL TRIBUNAL
 
@@ -233,7 +273,7 @@ Liderazgo: Las personas servidoras públicas del Tribunal, son guía, ejemplo y 
 
 ###### Artículo 34.
 
-Responsabilidad. Las personas servidoras públicas del Tribunal, deberán estar dispuestas a responder voluntariamente por sus actos y omisiones.
+(DEROGADO, G.G. 27 DE MAYO DE 2024)
 
 ### CAPÍTULO IV. DIRECTRICES QUE RIGEN LA ACTUACIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL
 
@@ -265,19 +305,23 @@ XI. Separarse legalmente de los activos e intereses económicos que afecten de m
 
 XII. Abstenerse de intervenir o promover, por si o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y
 
-XIII. Abstenerse de realizar cualquier trató o promesa privada que comprometa al Estado de (sic) Mexicano.
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado de México.
 
 ### CAPÍTULO V. REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA EN EL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 36.
 
-Actuación Pública. Las personas servidoras públicas del Tribunal, conducirán su actuación con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público.
+Actuación Pública. Las personas servidoras públicas del Tribunal, conducirán su actuación con transparencia, honestidad, lealtad, cooperación, austeridad y con una clara orientación al interés público.
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
 I.- Abstenerse de ejercer las atribuciones y facultades que le impone el servicio público y que le confieren los ordenamientos legales y normativos correspondientes;
 
-II.- Adquirir para sí o para terceros, bienes o servicios de personas u organizaciones beneficiadas con programas o contratos gubernamentales, a un precio notoriamente inferior o bajo condiciones de crédito favorables, distintas a las del mercado;
+II.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
 
 III.- Favorecer o ayudar a otras personas u organizaciones a cambio o bajo la promesa de recibir dinero, dádivas, obsequios, regalos o beneficios personales o para terceros;
 
@@ -303,15 +347,17 @@ XIII.- Actuar como abogado en juicios de cualquier materia que se promuevan en c
 
 XIV.- Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a personal subordinado o compañeros de trabajo;
 
-XV.- Desempeñar dos o más puestos o celebrar dos o más contratos de prestación de servicios profesionales o la combinación de unos con otros, sin contar con dictamen de compatibilidad;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+XV.- Desempeñar otro empleo, en el sector público o privado, cuando los horarios sean incompatibles con los establecidos por el Tribunal y represente un posible conflicto de interés;
 
 XVI.- Dejar de colaborar con otros servidores públicos y de propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales;
 
 XVII.- Obstruir u obstaculizar la generación de soluciones a dificultades que se presenten para la consecución de las metas previstas en los planes y programas gubernamentales;
 
-XVIII.- Evitar conducirse bajo criterios de austeridad, sencillez y uso apropiado de los bienes y medios que disponga con motivo del ejercicio del cargo público;
+XVIII.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
 
-XIX.- Conducirse de forma ostentosa, incongruente y desproporcionada a la remuneración y apoyos que perciba con motivo del cargo público;
+XIX.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
 
 ###### Artículo 37.
 
@@ -319,25 +365,37 @@ Información Pública. Las personas servidoras públicas del Tribunal, conducir�
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-I.- Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-II.- Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a información pública;
+I.- Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a la información pública;
 
-III.- Declarar la incompetencia para la atención de una solicitud de acceso a información pública, a pesar de contar con atribuciones o facultades legales o normativas;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+II.- Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a la información pública;
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+III.- Declarar la incompetencia para la atención de una solicitud de acceso a la información pública, a pesar de contar con atribuciones o facultades legales o normativas;
 
 IV.- Declarar la inexistencia de información o documentación pública, sin realizar una búsqueda exhaustiva en los expedientes y archivos institucionales bajo su resguardo;
 
 V.- Ocultar información y documentación pública en archivos personales, ya sea dentro o fuera de los espacios institucionales;
 
-VI.- Alterar, ocultar o eliminar de manera deliberada, información pública;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-VII.- Permitir o facilitar la sustracción, destrucción o inutilización indebida, de información o documentación pública;
+VI.- Alterar, ocultar o eliminar de manera deliberada la información pública;
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+VII.- Permitir o facilitar la sustracción, destrucción o inutilización indebida de información o documentación pública;
 
 VIII.- Proporcionar indebidamente documentación e información confidencial o reservada;
 
 IX.- Utilizar con fines lucrativos las bases de datos a las que tengan acceso o que haya obtenido con motivo de su empleo, cargo, comisión o funciones;
 
-X.- Obstaculizar las actividades para la identificación, generación, procesamiento, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto, y
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+X.- Obstaculizar las actividades para la identificación, generación, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto; y,
 
 XI.- Difundir información pública en materia de transparencia proactiva y gobierno abierto en formatos que, de manera deliberada, no permitan su uso, reutilización o redistribución por cualquier interesado.
 
@@ -365,7 +423,7 @@ VIII.- Ser parcial en la selección, designación, contratación, y en su caso, 
 
 IX.- Influir en las decisiones de otros servidores públicos para que se beneficie a un participante en los procedimientos de contratación o para el otorgamiento de autorizaciones;
 
-X.- Evitar imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables;
+X.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
 
 XI.- Enviar correos electrónicos a los licitantes, proveedores, contratistas o concesionarios a través de cuentas personales o distintas al correo institucional;
 
@@ -373,13 +431,19 @@ XII.- Reunirse con licitantes, proveedores, contratistas y concesionarios fuera 
 
 XIII.- Ser beneficiario directo o a través de familiares hasta el cuarto grado, de contratos gubernamentales relacionados con el Tribunal.
 
+> <small>(ADICIONADA, G.G. 27 DE MAYO DE 2024)</small>
+
+XIV.- Cumplir con la normativa aplicable para la adquisición de bienes o servicios, conforme al precio establecido en el mercado.
+
 ###### Artículo 39.
 
 Trámites y servicios. Las personas servidoras públicas del Tribunal, atenderán a los usuarios y autoridades de forma respetuosa, eficiente, oportuna, responsable e imparcial.
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-I.- Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato, incumpliendo protocolos de actuación o atención al público;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+I.- Ejercer una actitud contraria de servicio, respeto a la dignidad humana y cordialidad en la atención al público;
 
 II.- Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios;
 
@@ -397,9 +461,13 @@ Recursos Humanos. Las personas servidoras públicas del Tribunal, que participan
 
 Vulneran esta regia, de manera enunciativa y no limitativa, las conductas siguientes:
 
-I.- Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-II.- Designar, contratar o nombrar en un empleo, cargo, comisión o función, a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les correspondería velar si se desempeñaran en el servicio público;
+I.- Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito y normatividad aplicable;
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+II.- Designar, contratar o nombrar en un empleo, cargo, comisión o función, a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios que puedan estar en contraposición o percibirse como contrarios a los intereses que les correspondería velar si se desempeñaran en el servicio público;
 
 III.- Proporcionar a un tercero no autorizado, información contenida en expedientes del personal y en archivos de recursos humanos bajo su resguardo;
 
@@ -407,7 +475,9 @@ IV.- Suministrar información sobre los reactivos de los exámenes elaborados pa
 
 V.- Seleccionar, contratar, nombrar o designar a personas, sin haber obtenido previamente, la constancia de no inhabilitación;
 
-VI.- Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que las leyes imponen a todo ciudadano;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+VI.- Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos o que no cumplan con las obligaciones que las leyes imponen a todo ciudadano;
 
 VII.- Seleccionar, contratar, designar o nombrar directa o indirectamente como subalternos a familiares hasta el cuarto grado de parentesco;
 
@@ -415,7 +485,9 @@ VIII.- Inhibir la formulación o presentación de inconformidades o recursos que
 
 IX.- Otorgar a una persona servidora pública subordinada, durante su proceso de evaluación, una calificación que no corresponda a sus conocimientos, capacidades o desempeño;
 
-X.- Disponer del personal a su cargo en forma indebida, para que le realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+X.- Disponer del personal a su cargo para que realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público;
 
 XI.- Presentar información y documentación falsa o que induzca al error, sobre el cumplimiento de metas de su evaluación del desempeño;
 
@@ -423,9 +495,13 @@ XII.- Remover, cesar, despedir, separar o dar o solicitar la baja de personas se
 
 XIII.- Omitir excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés;
 
-XIV.- Evitar que el proceso de evaluación del desempeño de las personas servidoras públicas se realice en forma objetiva y en su caso, dejar de retroalimentar sobre los resultados obtenidos cuando el desempeño del servidor público sea contrario a lo esperado, y
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-XV.- Eludir, conforme a sus atribuciones, la reestructuración de áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias al Código de Ética, a las Reglas de Integridad o al Código de Conducta.
+XIV.- Evitar que los procesos de evaluación de ingreso, desempeño y permanencia de las personas servidoras públicas se realicen en forma objetiva;
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+XV.- Eludir la implementación de acciones de mejora en áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias al Código de Ética o al Código de Conducta.
 
 ###### Artículo 41.
 
@@ -435,7 +511,9 @@ Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguie
 
 I.- Solicitar la baja, enajenación, transferencia o destrucción de bienes, cuando éstos sigan siendo útiles;
 
-II.- Compartir información con terceros ajenos a los procedimientos de baja, enajenación, transferencia o destrucción de bienes públicos, o sustituir documentos o alterar éstos;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+II.- Compartir información con terceros ajenos a los procedimientos de baja, enajenación, transferencia y destrucción de bienes públicos, así como sustituir o alterar los documentos;
 
 III.- Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles;
 
@@ -465,9 +543,11 @@ III.- Dejar de atender las recomendaciones formuladas por cualquier instancia de
 
 IV.- Alterar registros de cualquier índole para simular o modificar los resultados de las funciones, programas y proyectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 43.
 
-Control interno. Las personas servidoras públicas del Tribunal, que participan en procesos en materia de control interno, generarán, obtendrán, utilizarán y comunicarán información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas.
+Las personas servidoras públicas del Tribunal, que participan en procesos en materia de control interno, generarán, obtendrán, utilizarán y comunicarán información suficiente, oportuna, confiable y de calidad, con el fin de procurar que todas las actividades, operaciones y actuaciones, así como la administración de la información y los recursos, se realicen apegándose a los principios de legalidad, imparcialidad y rendición de cuentas.
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
@@ -479,19 +559,27 @@ III.- Generar información financiera, presupuestaria y de operación sin el res
 
 IV.- Comunicar información financiera, presupuestaria y de operación incompleta, confusa o dispersa;
 
-V.- Omitir supervisar los planes, programas o proyectos a su cargo, en su caso, las actividades y el cumplimiento de las funciones del personal que le reporta;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+V.- Omitir supervisar los planes, programas o proyectos a su cargo, y en su caso, las actividades y el cumplimiento de las funciones del personal subordinado;
 
 VI.- Dejar de salvaguardar documentos e información que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad;
 
 VII.- Ejecutar sus funciones sin establecer las medidas de control que le correspondan;
 
-VIII.- Omitir modificar procesos y tramos de control, conforme a sus atribuciones, en áreas en las que se detecten conductas contrarias al Código de Ética, las Reglas de Integridad o al Código de Conducta;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+VIII.- Omitir modificar procesos y tramos de control, conforme a sus atribuciones, en áreas en las que se detecten conductas contrarias al Código de Ética o al Código de Conducta;
 
 IX.- Dejar de implementar, en su caso, de adoptar, mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés;
 
 X.- Inhibir las manifestaciones o propuestas que tiendan a mejorar o superar deficiencias de operación, de procesos, de calidad de trámites y servicios, o de comportamiento ético de los servidores públicos, y
 
-XI.- Eludir establecer estándares o protocolos de actuación en aquellos trámites o servicios de atención directa al público o dejar de observar aquéllos previstos por las instancias competentes.
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+XI.- Eludir dar cumplimiento a leyes, reglamentos y demás normas que rijan la materia en aquellos trámites o servicios de atención directa al público o dejar de observar aquéllos previstos por las instancias competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.G. 27 DE MAYO DE 2024)</small>
 
 ###### Artículo 44.
 
@@ -499,21 +587,35 @@ Procedimiento administrativo. Las personas servidoras públicas del Tribunal, qu
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-I.- Omitir notificar el inicio del procedimiento y sus consecuencias;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+I.- Omitir efectuar el emplazamiento del inicio del procedimiento y sus consecuencias;
 
 II.- Dejar de otorgar la oportunidad de ofrecer pruebas;
 
-III.- Prescindir el desahogo de pruebas en que se finque la defensa;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+III.- Prescindir del desahogo de pruebas que hayan admitido a las partes;
 
 IV.- Excluir la oportunidad de presentar alegatos;
 
 V.- Omitir señalar los medios de defensa que se pueden interponer para combatir la resolución dictada;
 
-VI.- Negarse a informar, declarar o testificar sobre hechos que le consten relacionados con conductas contrarias a la normatividad, así como al Código de Ética, las Reglas de Integridad y al Código de Conducta;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-VII.- Dejar de proporcionar o negar documentación o información que el Comité y la autoridad competente requiera para el ejercicio de sus funciones o evitar colaborar con éstos en sus actividades, e
+VI.- Negarse a informar, declarar o testificar sobre hechos que le consten relacionados con conductas contrarias a la normatividad;
 
-VIII.- Inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a la normatividad, así como al Código de Ética, a las Reglas de Integridad o al Código de Conducta.
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+VII.- Dejar de proporcionar o negar documentación y/o información que la autoridad competente requiera de manera fundada y motivada, para el ejercicio de sus funciones, así como evitar colaborar con éstas en sus actividades;
+
+> <small>(ADICIONADA, G.G. 27 DE MAYO DE 2024)</small>
+
+VIII.- Dejar de requerir documentación y/o información que, de manera fundada y motivada, sea necesaria para el ejercicio de sus funciones; e,
+
+> <small>(REFORMADA Y REUBICADA, G.G. 27 DE MAYO DE 2024)</small>
+
+IX.- Inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a la normatividad.
 
 ###### Artículo 45.
 
@@ -521,7 +623,9 @@ Desempeño permanente con integridad. Las personas servidoras públicas del Trib
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-I.- Omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público, y de cooperación entre personas servidoras públicas;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+I.- Omitir conducirse con un trato digno;
 
 II.- Realizar cualquier tipo de discriminación tanto a otras personas servidoras públicas como a toda persona en general;
 
@@ -533,73 +637,111 @@ V.- Ocultar información y documentación gubernamental, con el fin de entorpece
 
 VI.- Recibir, solicitar o aceptar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión y otorgamiento de trámites y servicios;
 
-VII.- Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-VIII.- Omitir excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar, de negocios, o cualquier otro en el que tenga algún conflicto de interés;
+VII.- Realizar actividades particulares en horarios de trabajo que contravengan el uso eficiente y eficaz de los recursos públicos;
 
-IX.- Aceptar documentación que no reúna los requisitos fiscales para la comprobación de gastos de representación, viáticos, pasajes, alimentación, telefonía celular, entre otros;
+VIII.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
 
-X.- Utilizar el parque vehicular de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por el Tribunal;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+IX.- Aceptar documentación que no reúna los requisitos fiscales para la comprobación de gastos;
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+X.- Utilizar el parque vehicular de carácter oficial o arrendado, para uso particular, personal o familiar;
 
 XI.- Solicitar la baja, enajenación, transferencia o destrucción de bienes muebles, cuando éstos sigan siendo útiles;
 
-XII.- Obstruir la presentación de denuncias, acusaciones o delaciones sobre el uso indebido o de derroche de recursos económicos que impidan o propicien la rendición de cuentas;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-XIII.- Evitar conducirse con criterios de sencillez, austeridad y uso adecuado de los bienes y medios que disponga con motivo del ejercicio del cargo público, y
+XII.- Obstruir la presentación de denuncias y acusaciones sobre el uso indebido o de derroche de recursos económicos que impidan o no propicien la rendición de cuentas;
 
-XIV.- Conducirse de manera ostentosa, inadecuada y desproporcionada respecto a la remuneración y apoyos que se determinen presupuestalmente para su cargo público.
+XIII.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XIV.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MAYO DE 2024)</small>
 
 ###### Artículo 46.
 
-Cooperación con la integridad. Las personas servidoras públicas del Tribunal, en el desempeño de su empleo, cargo, comisión o función, cooperarán con el Tribunal y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
+Cooperación con la integridad. Las personas servidoras públicas del Tribunal, en el desempeño de su empleo, cargo, comisión o función, cooperarán en el fortalecimiento de la cultura ética y de servicio a la sociedad.
 
 Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
 
-I. Detectar áreas sensibles o vulnerables a la corrupción;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-II. Proponer, en su caso, adoptar cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas antiéticas, y
+I. Fomentar la cultura de la denuncia en áreas sensibles o vulnerables a la corrupción;
 
-III. Recomendar, diseñar y establecer mejores prácticas a favor del servicio público.
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+II. Proponer cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas antiéticas; y,
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+III. Aplicar buenas prácticas a favor del servicio público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MAYO DE 2024)</small>
 
 ###### Artículo 47.
 
-Comportamiento digno. Las personas servidoras públicas del Tribunal, se conducirán en forma digna y sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación con motivo de sus funciones.
+Comportamiento digno. Las personas servidoras públicas del Tribunal, en el desempeño de su empleo, cargo o comisión, se conducirán con respeto hacia las personas con las que tienen o guardan relación.
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-I.- Realizar señales sexualmente sugerentes con las manos o a través de los movimientos del cuerpo;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-II.- Tener contacto físico sugestivo o de naturaleza sexual, como tocamientos, abrazos, besos, manoseo, jalones;
+I.- No proporcionar un trato respetuoso y adecuado a toda persona con la que, con motivo de su empleo, cargo o comisión tenga relación;
 
-III.- Hacer regalos, dar preferencias indebidas o notoriamente diferentes o manifestar abiertamente o de manera indirecta el interés sexual por una persona;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-IV.- Llevar a cabo conductas dominantes, agresivas, intimidatorias u hostiles hacia una persona para que se someta a sus deseos o intereses sexuales, o al de alguna otra u otras personas;
+II.- Dejar de realizar acciones que garanticen y protejan los derechos humanos, así como, la igualdad entre mujeres y hombres;
 
-V.- Espiar a una persona mientras ésta se cambia de ropa o está en el sanitario;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-VI.- Condicionar la obtención de un empleo, su permanencia en él o las condiciones del mismo a cambio de aceptar conductas de naturaleza sexual;
+III.- Gestionar y otorgar un trámite o servicio condicionado;
 
-VII.- Obligar a la realización de actividades que no competen a sus labores u otras medidas disciplinarias en represalia por rechazar proposiciones de carácter sexual;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-VIII.- Condicionar la prestación de un trámite o servicio a cambio de que la persona acceda a sostener conductas sexuales de cualquier naturaleza;
+IV.- No fomentar la cultura de la denuncia por transgresiones a los ordenamientos jurídicos en materia de ética;
 
-IX.- Expresar comentarios, burlas, piropos o bromas hacia otra persona referentes a la apariencia o a la anatomía con connotación sexual, bien sea presenciales o a través de algún medio de comunicación;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-X.- Realizar comentarios, burlas o bromas sugerentes respecto de su vida sexual o de otra persona, bien sea presenciales o a través de algún medio de comunicación;
+V.- No propiciar el desarrollo de las relaciones de trabajo entre compañeros, con un trato equitativo y solidario;
 
-XI.- Expresar insinuaciones, invitaciones, favores o propuestas a citas o encuentros de carácter sexual;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-XII.- Emitir expresiones o utilizar lenguaje que denigre a las personas o pretenda colocarlas como objeto sexual;
+VI.- Realizar cualquier acción que afecte el respeto, el honor y la dignidad de las demás personas servidoras públicas;
 
-XIII.- Preguntar a una persona sobre historias, fantasías o preferencias sexuales o sobre su vida sexual;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-XIV.- Exhibir o enviar a través de algún medio de comunicación carteles, calendarios, mensajes, fotos, afiches, ilustraciones u objetos con imágenes o estructuras de naturaleza sexual, no deseadas ni solicitadas por la persona receptora;
+VII.- Efectuar acciones que representen agresividad, intimidación, supremacía o dominación, respecto de otras personas servidoras públicas o ciudadanos;
 
-XV.- Difundir rumores o cualquier tipo de información sobre la vida sexual de una persona;
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
 
-XVI.- Expresar insultos o humillaciones de naturaleza sexual, y
+VIII.- Realizar durante el ejercicio de su empleo, cargo o comisión la ejecución de comportamientos, tendentes a vulnerar la dignidad de toda persona;
 
-XVII.- Mostrar deliberadamente partes íntimas del cuerpo a una o varias personas.
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+IX.- Difundir por cualquier medio durante el ejercicio de su empleo, cargo o comisión, imágenes o videos de toda persona que tenga como consecuencia una afectación a su honor o dignidad; y,
+
+> <small>(REFORMADA, G.G. 27 DE MAYO DE 2024)</small>
+
+X.- Promover en el desarrollo del servicio público, la discriminación;
+
+XI.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XII.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XIII.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XIV.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XV.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XVI.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
+
+XVII.- (DEROGADA, G.G. 27 DE MAYO DE 2024)
 
 ### CAPÍTULO VI. MECANISMOS DE CAPACITACIÓN Y DIFUSIÓN DEL CÓDIGO DE ÉTICA Y DE LAS POLÍTICAS DE INTEGRIDAD
 
@@ -620,3 +762,13 @@ SEGUNDO. El presente Código entrará en vigor el día siguiente hábil de su pu
 TERCERO. En términos del lineamiento Décimo Segundo del acuerdo por el que se dan a conocen los Lineamientos para la emisión del Código de Ética a que se refiera el artículo 16 de la Ley General de Responsabilidades Administrativas, el Órgano Interno de Control, emitirá la convocatoria con las bases para la integración del Comité, estableciendo su organización, atribuciones y funcionamiento.
 
 Dado en la ciudad de Toluca de Lerdo, Estado de México, a los diecisiete días del mes de diciembre del dos mil veintiuno.- EL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO.- MTRO. EN AUD. EVERARDO CAMACHO ROSALES.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE FECHA VEINTICUATRO DE MAYO DE DOS MIL VEINTICUATRO, POR EL CUAL SE REFORMA EL CONSIDERANDO II Y SE ADICIONAN LOS CONSIDERANDOS XIV Y XV; ASÍ MISMO SE REFORMAN LOS SIGUIENTES ARTÍCULOS 5, INCISOS B), F), J) Y M); 35, FRACCIÓN XIII; 36, PRIMER PÁRRAFO Y LA FRACCIÓN XV; 37, FRACCIONES I, II, III, VI, VII Y X; 39, FRACCIÓN I; 40, FRACCIONES I, II, VI, X, XIV Y XV; 41, FRACCIÓN II; 43, PRIMER PÁRRAFO, FRACCIONES V, VIII Y XI; 44, PRIMER PÁRRAFO Y FRACCIONES I, III, VI, VII Y IX; 45, FRACCIONES I, VII, IX, X Y XII; 46, PRIMER PÁRRAFO, FRACCIONES I, II Y III; Y 47, PRIMER PÁRRAFO, Y FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X; SE ADICIONA EN LOS ARTÍCULOS 5, INCISO D); 38, FRACCIÓN XIV Y 44, FRACCIÓN VIII; Y SE DEROGAN LOS ARTÍCULOS 22, 23, 24, 25, 34, 36 FRACCIONES II, XVIII Y XIX; 38, FRACCIÓN X; 45, FRACCIONES VIII, XIII Y XIV; Y 47, FRACCIONES XI Y XII DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno del Estado de México", en el Órgano de difusión interno y en la Página Web del Tribunal, así como en los estrados de las Secciones de la Sala Superior, Salas Regionales de Jurisdicción Ordinaria, Salas Especializadas en Materia de Responsabilidades Administrativas, Magistratura Consultiva y Magistratura Supernumeraria; así como en las oficinas de la (sic) Unidades Administrativas del Tribunal.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado de México".
