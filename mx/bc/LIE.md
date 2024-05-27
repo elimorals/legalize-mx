@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2018-06-15"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSIÓN EXTRANJERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -434,17 +434,21 @@ La Comisión podrá resolver sobre la inversión neutra que pretendan realizar s
 
 ### Capítulo I. De la Estructura de la Comisión
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 23.
 
-La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Desarrollo Social; de Medio Ambiente, Recursos Naturales y Pesca; de Energía; de Comercio y Fomento Industrial; de Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz pero no voto.
+La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Bienestar; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Infraestructura, Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz, pero no voto.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 La Comisión se reunirá semestralmente, cuando menos, y decidirá sobre los asuntos de su competencia por mayoría de votos, teniendo su presidente voto de calidad, en caso de empate.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 24.
 
-La Comisión será presidida por el Secretario de Comercio y Fomento Industrial y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
+La Comisión será presidida por el Secretario de Economía y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1105,3 +1109,9 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 23 Y 24 DE LA LEY DE INVERSIÓN EXTRANJERA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
