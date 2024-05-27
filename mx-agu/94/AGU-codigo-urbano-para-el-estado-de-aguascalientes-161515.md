@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2024-05-13"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -1137,9 +1137,19 @@ XXVI.- Proponer lineamientos generales para la regularización de la tenencia de
 
 XXVII.- Llevar a cabo convocatorias o programas, así como celebrar los contratos o convenios que sean necesarios para lograr los fines de Desarrollo Urbano, Ordenamiento Territorial y Planeación Urbana;
 
-XXVIII.- Proponer normas y criterios generales para homologar y simplificar los procedimientos y criterios de regularización de la tenencia de la tierra; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-XXIX.- Las demás que le señalen este Código y que sean necesarias para el cumplimiento de su objeto.
+XXVIII.- Proponer normas y criterios generales para homologar y simplificar los procedimientos y criterios de regularización de la tenencia de la tierra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2024)</small>
+
+XXIX. Emitir lineamientos generales que promuevan y fortalezcan el diseño, la elaboración de políticas y acciones de mitigación de las emisiones de carbono, para el fortalecimiento y desarrollo de infraestructura que permita la transición a la electromovilidad.
+
+Para ello podrán aprobar planes y programas de desarrollo urbano en materia de electromovilidad que contemplen las medidas necesarias para que establecimientos públicos y propiedades privadas con las características que ahí se determinen, cuenten con las instalaciones necesarias para el establecimiento de centros de carga eléctrica para la movilidad en observancia a las especificaciones técnicas dadas por las autoridades federales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
+
+XXX.- Las demás que le señalen este Código y que sean necesarias para el cumplimiento de su objeto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
@@ -5255,25 +5265,35 @@ I.- Designación, aceptación y constancia emitida por el Municipio que acredite
 
 II.- Los siguientes documentos técnicos:
 
-a).- Factibilidad de la red de electrificación y alumbrado público otorgada por la Comisión Federal de Electricidad y por la dependencia municipal correspondiente;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
 
-b).- Factibilidad de agua potable, alcantarillado y saneamiento emitida por dependencia o entidad de carácter municipal respectiva;
+a).- Factibilidad de la red de electrificación y alumbrado público, según corresponda, otorgada por la Comisión Federal de Electricidad y por la dependencia municipal correspondiente;
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2024)</small>
 
-c).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLADE o el Municipio;
+b).- Cuando así lo establezcan los planes y programas de desarrollo urbano en materia de electromovilidad aprobados por el Consejo Estatal al que se refiere la fracción XXIX del artículo 24 de esta ley, deberán contar con las instalaciones necesarias para el establecimiento de centros de carga eléctrica para la movilidad en observancia a las especificaciones técnicas dadas por las autoridades federales.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+Estas mismas disposiciones se aplicarán para las edificaciones y espacios comerciales e industriales que dichos planes y programas acuerden;
 
-d).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+c).- Factibilidad de agua potable, alcantarillado y saneamiento emitida por dependencia o entidad de carácter municipal respectiva;
 
-e).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLADE o el Municipio; y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+d).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLADE o el Municipio;
 
-f).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)</small>
+
+e).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)</small>
+
+f).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLADE o el Municipio; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)</small>
+
+g).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
 
 III.- Dictamen en materia de impacto ambiental;
 
@@ -10110,3 +10130,23 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 669.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con el inicio de vigencia del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, deberá emitir los Lineamientos Generales correspondientes a la aplicación de lo dispuesto en el presente Decreto, en un término no mayor de 180 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios de la Entidad, deberán con la entrada en vigor del presente Decreto, modificar y actualizar su marco normativo a efecto de darle cumplimiento, en un término no mayor a 180 días de que se emitan los Lineamientos a que hace referencia el Artículo Tercero Transitorio de este Decreto.
