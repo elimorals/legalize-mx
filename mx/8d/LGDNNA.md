@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2024-04-17"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -1074,7 +1074,7 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-> <small>(REFORMADA, D.O.F. 15 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 27 DE MAYO DE 2024)</small>
 
 XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
@@ -1126,11 +1126,17 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
+
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, e
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2024)</small>
+
+XI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
 
 ###### Artículo 59.
 
@@ -2797,5 +2803,11 @@ D.O.F. 27 DE MARZO DE 2024.
 D.O.F. 17 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 4 Y 6 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 57 Y 58 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
