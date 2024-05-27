@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2024-05-06"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -389,11 +389,17 @@ XXXII. Proporcionar a los educandos los libros de texto gratuitos y materiales e
 
 XXXIII. Garantizar el acceso a la educación básica y media superior, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
 
-Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos en el párrafo anterior; así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. De igual forma, las autoridades educativas promoverán acciones similares para el caso de la educación superior; y
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos en el párrafo anterior; así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. De igual forma, las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
-XXXIV. Celebrar acuerdos de colaboración que garanticen la higiene bucodental a niños, niñas y adolescentes, con las instancias correspondientes.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+
+XXXIV. Celebrar acuerdos de colaboración que garanticen la higiene bucodental a niños, niñas y adolescentes, con las instancias correspondientes; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+
+XXXV. Fomentar y promover en el ámbito de su competencia la educación para madres y padres de familia o tutores, que tengan la guarda y custodia de niñas, niños o adolescentes, a efecto de que puedan continuar con su educación o puedan terminarla a nivel profesional, para lo cual, se realizarán convenios y se incentivará a las entidades de educación superior a otorgar becas y estímulos para que madres y padres de familia o tutores terminen sus estudios a nivel profesional.
 
 ###### Artículo 10.
 
@@ -2530,3 +2536,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 673.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
