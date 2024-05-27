@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2024-05-20"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -509,6 +509,8 @@ Las acciones de mitigación y adaptación que se incluyan en los programas secto
 
 ### CAPÍTULO VI. Integración de los objetivos de reducción de emisiones en las políticas sectoriales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 22.
 
 La OCC coadyuvará con el Instituto Nacional de Ecología y Cambio Climático conforme a lo establecido en los artículos 74 y 75 de la Ley General de Cambio Climático.
@@ -531,13 +533,15 @@ La OCC proporcionará al Instituto Nacional de Ecología y Cambio Climático los
 
 ###### Artículo 25.
 
-El Gobierno del Estado y los Municipios, en el ámbito de sus competencias, impulsarán el ahorro y la eficiencia energética, así como la utilización de combustibles menos intensivos en carbono en los distintos sectores de actividad consumidores de energía. Asimismo, promoverán el uso de energía de origen renovable en las actividades industriales, agrícolas, ganaderas y forestales, en el transporte, en los edificios destinados a usos habitacionales y de servicios y en el ámbito urbano.
+El Gobierno del Estado y los Municipios, en el ámbito de sus competencias, impulsarán el ahorro y la eficiencia energética, así como la utilización de combustibles menos intensivos en carbono en los distintos sectores de actividad consumidores de energía. Asimismo, promoverán y podrán crear políticas públicas, para el uso de energía de origen renovable en las actividades industriales, comerciales, agrícolas, ganaderas y forestales, en el transporte con énfasis en la electromovilidad, en los edificios públicos, en edificios destinados a usos habitacionales y de servicios, y en el ámbito urbano.
 
 Esto deberá plasmarse en una Política Energética Estatal la cuál determine los objetivos de ahorro energético y de consumo de energía de origen renovable, así como las líneas de actuación en consonancia con la presente Ley, y los objetivos de reducción de emisiones que se definan en el Programa.
 
 El Gobierno del Estado y los Municipios desarrollarán planes de eficiencia energética y de utilización de las energías renovables en sus ámbitos de actuación, que contribuyan de manera efectiva a la reducción de sus emisiones en consonancia con las directrices de esta Ley.
 
-Los planes de eficiencia energética incluirán, al menos, medidas dirigidas a contribuir de manera efectiva a la reducción de las emisiones asociadas a los edificios que ocupen las oficinas públicas, a promover la movilidad sostenible de sus trabajadores, la incorporación de vehículos eficientes, tales como los eléctricos o híbridos, en sus flotas, los procesos de consumo mediante incorporación de la compra verde y la mejora de la eficiencia de las instalaciones de iluminación exterior.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+
+Los planes de eficiencia energética incluirán, al menos, medidas dirigidas a contribuir de manera efectiva a la reducción de las emisiones asociadas a los edificios que ocupen las oficinas públicas, a promover la movilidad sostenible de sus trabajadores, la incorporación de vehículos eficientes, tales como los eléctricos o híbridos en sus flotas, los procesos de consumo mediante incorporación de la compra verde y la mejora de la eficiencia de las instalaciones de iluminación exterior. Para ello, las leyes, planes y programas de desarrollo urbano podrán contemplar las medidas necesarias para que establecimientos públicos y propiedades privadas con las características que ahí se determinen, cuenten con las instalaciones necesarias para el establecimiento de centros de carga eléctrica para la movilidad en observancia a las especificaciones técnicas dadas por las autoridades federales.
 
 ###### Artículo 26.
 
@@ -604,6 +608,10 @@ V. Promover una correcta gestión de los excedentes, materia orgánica, subprodu
 Las actuaciones que desarrollen las Autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, estarán dirigidas a la protección, el aprovechamiento sustentable de los recursos que se encuentren en su territorio. Asimismo, promoverán la tecnificación de la superficie de riego, la producción bajo condiciones de prácticas de agricultura sustentable o agricultura protegida cuando sea viable y prácticas sustentables de ganadería, silvicultura, y pesca.
 
 De igual manera, promoverán la implementación de un sistema tarifario por el uso de agua, que incorpore el pago por los servicios ambientales hidrológicos de los ecosistemas, a fin de destinar su producto a la conservación de los mismos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2024)</small>
+
+Artículo 33 BIS.- Con la finalidad de reducir las emisiones de carbono, así como de llevar a cabo la transición a la electromovilidad, la legislación y la planeación que se aprueben en el Estado en estas materias, tendrán por objeto, al menos, la de fortalecer el diseño, la elaboración de políticas y acciones de mitigación que se encuentren vinculadas a sectores públicos y privados, tomando como consideración la de promover, crear y desarrollar infraestructura urbana y de construcción que colaboren para la instalación de estaciones de carga privadas y públicas.
 
 ### CAPÍTULO VIII
 
@@ -810,3 +818,23 @@ P.O. 20 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 660.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 669.-SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con el inicio de vigencia del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+– El Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, deberá emitir los Lineamientos Generales correspondientes a la aplicación de lo dispuesto en el presente Decreto, en un término no mayor de 180 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+– El Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios de la Entidad, deberán con la entrada en vigor del presente Decreto, modificar y actualizar su marco normativo a efecto de darle cumplimiento, en un término no mayor a 180 días de que se emitan los Lineamientos a que hace referencia el Artículo Tercero Transitorio de este Decreto.
