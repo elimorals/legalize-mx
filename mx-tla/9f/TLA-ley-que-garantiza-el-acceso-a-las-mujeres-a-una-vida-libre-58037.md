@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2023-05-26"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -251,9 +251,13 @@ X. El derecho a la libertad de profesar la religión y las creencias propias que
 
 XI. El derecho a tener igualdad de acceso a las funciones públicas y a participar en los asuntos públicos, y
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-XII. En el ámbito laboral tiene derecho a recibir un salario adecuado a sus necesidades, así como un trato digno por parte de los integrantes de la organización y recibir prestaciones de ley. En ninguna circunstancia se le puede exigir a la mujer la presentación del certificado de no gravidez como requisito indispensable para su contratación en cualquier empleo, así como negarle el ingreso al trabajo por encontrarse embarazada, y aquella que lo hiciera será sancionado (sic) por las leyes en la materia.
+XII. En el ámbito laboral tiene derecho a recibir un salario adecuado a sus necesidades, así como un trato digno por parte de los integrantes de la organización y recibir prestaciones de ley. En ninguna circunstancia se le puede exigir a la mujer la presentación del certificado de no gravidez como requisito indispensable para su contratación, permanencia o ascenso en cualquier empleo, así como negarle el ingreso al trabajo por encontrarse embarazada, ni sujetar cualquier circunstancia inherente a la relación laboral a la condición de que no se embarace.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN A LA FRACCIÓN XII, P.O. 27 DE MAYO DE 2024]</small>
+
+La persona que incurra en las conductas prohibidas en esta fracción ameritará la imposición de la multa prevista en el artículo 70 fracción II de esta Ley.
 
 ###### Artículo 10.
 
@@ -1750,3 +1754,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 352.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY LABORAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS; LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA Y LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido de este Decreto.
