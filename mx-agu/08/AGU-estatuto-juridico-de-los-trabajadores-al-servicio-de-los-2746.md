@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2024-05-06"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -417,7 +417,7 @@ Es nula la renuncia que los trabajadores hagan de los salarios devengados, de la
 
 Todo convenio o liquidación, para ser válido, deberá hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en él. Será ratificado ante el Tribunal de Arbitraje, quien lo aprobará, siempre que no contenga renuncia de los derechos de los Trabajadores.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 27 DE MAYO DE 2024)</small>
 
 ### CAPITULO SEGUNDO. Suspensión de las Relaciones de Trabajo
 
@@ -865,9 +865,9 @@ E).- Por razones de carácter personal del trabajador, que no podrán exceder de
 
 IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspondientes, y siempre que se ajusten a los términos de esta Ley;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos; y
+X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2020)</small>
 
@@ -914,6 +914,10 @@ Todos los supuestos a que se refiere esta Fracción deberán ser acreditados a t
 XII.- Conceder permiso a sus trabajadores, mujeres y hombres, consistente en un día al año, con goce integro de su salario, sin afectar sus derechos y antigüedad, para someterse a la realización de exámenes médicos de prevención y detección de cáncer de mama y cervicouterino, a las mujeres; y, de prevención y detección de cáncer de próstata a los hombres.
 
 En ambos casos, deberán justificar este permiso, presentando el certificado médico correspondiente expedido por una institución pública de salud.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+
+XIII.- No discriminar a razón de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, antecedentes penales o cualquier otra que atente contra la dignidad humana, para el ingreso, permanencia, relación laboral o ascenso de los trabajadores.
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2000)</small>
 
@@ -1813,11 +1817,11 @@ El Tribunal ordenará se cite a los absolventes personalmente o por conducto de 
 
 Si la persona citada para absolver posiciones no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior, y en consecuencia, se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 168.
 
-Cuando se ofrezca la confesión a cargo del Gobernador del Estado, Secretarios de Estado, Fiscal General del Estado, Presidente del Supremo Tribunal de Justicia, Presidente de la Mesa Directiva del Congreso del Estado, Presidentes Municipales, Directores Generales de Organismos Descentralizados, y se les hayan atribuido hechos propios, éstos no absolverán posiciones en la forma establecida en los artículos anteriores, pero la parte contraria podrá pedir que se les gire oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de cinco días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro de ese término, o si no lo hiciere categóricamente, afirmando o negando los hechos.
+Cuando se ofrezca la confesión a cargo de la persona titular del Poder Ejecutivo, de las personas titulares de las Secretarías de Estado, de la persona titular de la Fiscalía General del Estado, de la persona titular de la Presidencia del Supremo Tribunal de Justicia, de la persona titular de la Presidencia de la Mesa Directiva del Congreso del Estado, de las personas titulares de las Presidencias Municipales y de las personas titulares de las Direcciones Generales de Organismos Descentralizados, y se les hayan atribuido hechos propios, estos no absolverán posiciones en la forma establecida en los artículos anteriores, pero la parte contraria podrá pedir que se les gire oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de cinco días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro de ese término, o si no lo hiciere categóricamente, afirmando o negando los hechos.
 
 Para tal efecto, al ofrecer la prueba, deberán acompañarse los pliegos correspondientes, para que una vez calificadas las posiciones por el Tribunal, se giren los oficios correspondientes.
 
@@ -2356,3 +2360,19 @@ P.O. 6 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 665.- SE REFORMA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 677.- SE REFORMA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
