@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2023-01-23"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -367,6 +367,20 @@ VII.- Operar establecimientos de asistencia social en beneficio de menores en es
 
 Asimismo procurará mantener, de acuerdo a los programas y recursos disponibles, en permanente funcionamiento los establecimientos del Organismo, tales como: Casa-DIF, Centros de Desarrollo, Centro de Neuropsiquiatría, Guardería, Centros de Bienestar Familiar, Centros de Atención al Senecto, albergues, y demás que se pongan en operación;
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 27 DE MAYO DE 2024)</small>
+
+Con relación a las guarderías, el organismo:
+
+a) Impulsará el horario extendido o nocturno atendiendo a la demanda de las madres o padres trabajadores que no cuenten con prestaciones de seguridad social;
+
+b) Podrá operar y ubicar geográfica y estratégicamente las guarderías necesarias de acuerdo (sic) lo establecido en el inciso a) que precede; y
+
+c) Podrá impulsar su establecimiento mediante convenios de colaboración.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2024)</small>
+
+Para el establecimiento y mantenimiento de las guarderías que opere el Organismo, en la Ley de Ingresos del Estado de cada año, se establecerá la cuota de recuperación por la prestación del servicio correspondiente;
+
 VIII.- Llevar a cabo acciones en materia de prevención de la discapacidad y de rehabilitación de personas con discapacidad en centros hospitalarios, con sujeción a las disposiciones aplicables en materia de salud, así como la atención a las personas potencialmente suicidas;
 
 IX.- Prestar los servicios de orientación nutricional, dirigidos principalmente a madres gestantes;
@@ -407,9 +421,9 @@ XXII.- Realizar los Cursos Intensivos para Padres de Familia;
 
 XXIII.- Proponer programas, enfocados a la prevención y atención de embarazos en las niñas y adolescentes del Estado; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-XIV.- Las demás que establezcan las disposiciones aplicables en la materia.
+XXIV.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -1844,3 +1858,11 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 672.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
