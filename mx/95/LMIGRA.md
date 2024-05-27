@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2024-03-26"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -126,39 +126,45 @@ X. Defensor de derechos humanos: a toda persona u organización de la sociedad c
 
 XI. Estación Migratoria: a la instalación física que establece el Instituto para alojar temporalmente a los extranjeros que no acrediten su situación migratoria regular, en tanto se resuelve su situación migratoria;
 
-XII. Extranjero: a la persona que no pasea (sic) la calidad de mexicano, conforme a lo previsto en el artículo 30 de la Constitución;
+XII. Filtro de revisión migratoria: al espacio ubicado en el lugar destinado al tránsito internacional de personas, donde el Instituto autoriza o rechaza la internación regular de personas al territorio de los Estados Unidos Mexicanos;
 
-XIII. Filtro de revisión migratoria: al espacio ubicado en el lugar destinado al tránsito internacional de personas, donde el Instituto autoriza o rechaza la internación regular de personas al territorio de los Estados Unidos Mexicanos;
+XIII. Instituto: al Instituto Nacional de Migración;
 
-XIV. Instituto: al Instituto Nacional de Migración;
+XIV. Ley: a la presente Ley;
 
-XV. Ley: a la presente Ley;
-
-XVI. Lugar destinado al tránsito internacional de personas: al espacio físico fijado por la Secretaría para el paso de personas de un país a otro;
-
-XVII. Mexicano: a la persona que posea las calidades determinadas en el artículo 30 de la Constitución;
-
-XVIII. Migrante: al individuo que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación.
+XV. Lugar destinado al tránsito internacional de personas: al espacio físico fijado por la Secretaría para el paso de personas de un país a otro;
 
 > <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Niña, niño o adolescente migrante: cualquier persona migrante, nacional o extranjera, menor de dieciocho años de edad. Son niñas y niños los menores de doce años, y adolescentes las personas entre doce años cumplidos y menos de dieciocho años de edad.
+XVI. Niña, niño o adolescente migrante: cualquier persona migrante, nacional o extranjera, menor de dieciocho años de edad. Son niñas y niños los menores de doce años, y adolescentes las personas entre doce años cumplidos y menos de dieciocho años de edad.
 
 Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor a doce años, se presumirá que es niña o niño;
 
 > <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XX. Niña, niño o adolescente migrante no acompañado: cualquier persona migrante menor de dieciocho años de edad que no se encuentra acompañada por la persona adulta que ejerce la patria potestad, que la tenga bajo su guarda y custodia, por su tutor o persona adulta bajo cuyos cuidados se encuentre habitualmente por costumbre;
+XVII. Niña, niño o adolescente migrante no acompañado: cualquier persona migrante menor de dieciocho años de edad que no se encuentra acompañada por la persona adulta que ejerce la patria potestad, que la tenga bajo su guarda y custodia, por su tutor o persona adulta bajo cuyos cuidados se encuentre habitualmente por costumbre;
 
 > <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXI. Niña, niño o adolescente migrante acompañado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada por la persona adulta que ejerce la patria potestad, la tenga bajo su guarda y custodia o por su tutor;
+XVIII. Niña, niño o adolescente migrante acompañado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada por la persona adulta que ejerce la patria potestad, la tenga bajo su guarda y custodia o por su tutor;
 
 > <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
-XXII. Niña, niño o adolescente migrante separado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada de una persona adulta bajo cuyos cuidados se encuentra habitualmente por costumbre y no en virtud de ley;
+XIX. Niña, niño o adolescente migrante separado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada de una persona adulta bajo cuyos cuidados se encuentra habitualmente por costumbre y no en virtud de ley;
 
-XXIII. Oficina consular: a las representaciones del Estado mexicano ante el gobierno de otro país en las que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localizan en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento;
+XX. Oficina consular: a las representaciones del Estado mexicano ante el gobierno de otro país en las que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localizan en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
+
+XXI. Persona extranjera: a la persona que no posea la nacionalidad mexicana, conforme a lo previsto en el artículo 30 de la Constitución;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
+
+XXII. Persona mexicana: a la persona que posea los requisitos exigidos en el artículo 30 de la Constitución;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
+
+XXIII. Persona migrante: a la persona que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación;
 
 XXIV. Presentación: a la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
 
@@ -2001,3 +2007,9 @@ D.O.F. 26 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 36 DE LA LEY DE MIGRACIÓN".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE MIGRACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
