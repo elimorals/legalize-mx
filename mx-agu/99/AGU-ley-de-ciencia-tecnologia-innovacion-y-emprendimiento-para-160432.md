@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2024-01-22"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -65,7 +65,9 @@ V. Obtener, administrar y evaluar la aplicación transparente de los recursos qu
 
 VI. Coordinar las actividades científicas, tecnológicas, de innovación y de emprendimiento de las dependencias y entidades de la administración pública del Estado y la incorporación de los avances en esta materia para su modernización, observando y aplicando las políticas e instrumentos previstos en este ordenamiento;
 
-VII. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología, Innovación y Emprendimiento del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica y emprendedora, así como la creación de centros, grupos y redes de investigación y fomento a las estructuras de dinamización, impulso y fortalecimiento a los emprendedores;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+
+VII. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología, Innovación y Emprendimiento del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica y emprendedora, así como la creación de centros, grupos y redes de investigación y fomento a las estructuras de dinamización, impulso y fortalecimiento a las personas emprendedoras;
 
 VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de personas dedicadas a la investigación, la ciencia y el desarrollo de tecnología de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en instrumento promotor del emprendimiento innovador, de base científica y tecnológica para el desarrollo del Estado de Aguascalientes como Sociedad del Conocimiento;
 
@@ -119,7 +121,9 @@ XI. Instituto: Al Instituto de Ciencia y Tecnología del Estado de Aguascaliente
 
 XII. Investigación científica y tecnológica: A aquella que abarca la actividad científica, básica y aplicada en todas las áreas del conocimiento, así como aquella actividad tecnológica;
 
-XIII. Investigador: Al profesional adscrito a las instituciones comprendidas en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, o en el padrón que establezca el Instituto de Ciencia y Tecnología del Estado de Aguascalientes, que ostenta un nivel académico reconocido nacionalmente de: Licenciatura, Especialidad, Maestría o Doctorado y que ejecuta acciones orientadas a la creación, aplicación e innovación de conocimientos, productos procesos o métodos, o participa en la gestión, difusión, divulgación y enseñanza de conocimientos e informa de los resultados y/o avances de una investigación;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+
+XIII. Investigador: La persona profesional adscrita a las instituciones comprendidas en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, o en el padrón que establezca el Instituto de Ciencia y Tecnología del Estado de Aguascalientes, que ostenta un nivel académico reconocido nacionalmente de: Licenciatura, Especialidad, Maestría o Doctorado y que ejecuta acciones orientadas a la creación, aplicación e innovación de conocimientos, productos procesos o métodos, o participa en la gestión, difusión, divulgación y enseñanza de conocimientos e informa de los resultados y/o avances de una investigación;
 
 XIV. Junta de Gobierno: A la Junta de Gobierno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
@@ -173,9 +177,17 @@ VII. Los apoyos a las actividades de fomento al emprendimiento y a la innovació
 
 VIII. Las personas físicas e instituciones que lleven a cabo emprendimientos de alto impacto e innovación de base científica o tecnológica, que reciban apoyo del Gobierno del Estado, deberán difundir y compartir sus casos de éxito a la sociedad, como fuente de inspiración para otros, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes y de la información que por razón de su naturaleza deba reservarse;
 
-IX. Las personas físicas e instituciones que lleven a cabo investigación y desarrollo tecnológico, que reciban apoyo del Gobierno del Estado, deberán difundir, publicar, editar, diseñar, informar a la sociedad sus actividades, los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes y de la información que por razón de su naturaleza deba reservarse; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-X. Los apoyos que otorgue el Instituto deberán definirse con base a los logros sobresalientes de personas, empresas e instituciones que realicen investigación científica, desarrollo tecnológico, innovación y emprendimiento, así como en razón a la vinculación, enlace, intercambio de información, trabajo en equipo, alianza estratégica de la investigación con las actividades educativas y productivas.
+IX. Las personas físicas e instituciones que lleven a cabo investigación y desarrollo tecnológico, que reciban apoyo del Gobierno del Estado, deberán difundir, publicar, editar, diseñar, informar a la sociedad sus actividades, los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes y de la información que por razón de su naturaleza deba reservarse;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+
+X. Los apoyos que otorgue el Instituto deberán definirse con base a los logros sobresalientes de personas, empresas e instituciones que realicen investigación científica, desarrollo tecnológico, innovación y emprendimiento, así como en razón a la vinculación, enlace, intercambio de información, trabajo en equipo, alianza estratégica de la investigación con las actividades educativas y productivas; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+
+XI. Los apoyos que otorgue el Instituto deberán realizarse con base a los principios de igualdad sustantiva y perspectiva de género, para contribuir a la consolidación y transformación de una Sociedad del Conocimiento.
 
 ### CAPÍTULO I. Naturaleza Jurídica y Objeto
 
@@ -331,25 +343,45 @@ Cada uno de los órganos y unidades administrativas referidas en el presente art
 
 La Junta de Gobierno es el órgano máximo de decisión del Instituto y se integrará de la siguiente manera:
 
-a. La persona titular del Poder Ejecutivo del Estado de Aguascalientes, quién será suplido en sus ausencias, por la persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+> <small>(REFORMADA [N. DE E. ANTES NUMERAL A], P.O. 27 DE MAYO DE 2024)</small>
 
-b. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+I. La persona titular del Poder Ejecutivo del Estado de Aguascalientes, quien será suplido en sus ausencias, por la persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-II (SIC). La persona titular de la Secretaría de Finanzas;
+> <small>(REFORMADA [N. DE E. ANTES NUMERAL B], P.O. 27 DE MAYO DE 2024)</small>
 
-III. La persona titular de la Secretaría de Desarrollo Rural y Agroempresarial;
+II. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-IV. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
 
-V. La persona titular de la Secretaría de Innovación y Gobierno Digital;
+III. La persona titular de la Secretaría de Finanzas;
 
-VI. La persona titular de la Dirección General del Instituto de Educación de Aguascalientes;
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
 
-VII. La persona titular de la Dirección General del Fideicomiso Público denominado Sistema de Financiamiento de Aguascalientes;
+IV. La persona titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-VIII. La persona que presida la Comisión de Ciencia y Tecnología del H. Congreso del Estado;
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
 
-IX. Dos personas representantes de las Cámaras Empresariales en el Estado, designadas por la persona titular del Poder Ejecutivo del Estado.
+V. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
+
+VI. La persona titular de la Secretaría de Innovación y Gobierno Digital;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
+
+VII. La persona titular de la Dirección General del Instituto de Educación de Aguascalientes;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
+
+VIII. La persona titular de la Dirección General del Fideicomiso Público denominado Sistema de Financiamiento de Aguascalientes;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
+
+IX. La persona que presida la Comisión de Ciencia y Tecnología del H. Congreso del Estado;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)</small>
+
+X. Dos personas representantes de las Cámaras Empresariales en el Estado, designadas por la persona titular del Poder Ejecutivo del Estado.
 
 Por cada miembro propietario se deberá nombrar una persona suplente, quien sustituirá las faltas temporales en términos del Reglamento y gozará de los mismos derechos y obligaciones que los titulares.
 
@@ -657,7 +689,9 @@ V. Implementar las acciones necesarias para la recepción de denuncias por falta
 
 VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de las personas servidoras públicas adscritas al Instituto o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
 
-VII. VII. (SIC) Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a las personas servidoras públicas del Instituto o de los particulares, habilitando para ello al personal del área correspondiente;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a las personas servidoras públicas del Instituto o de los particulares, habilitando para ello al personal del área correspondiente;
 
 VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
 
@@ -779,6 +813,8 @@ Los acuerdos se asentarán en un Acta, que será suscrita por el Presidente y el
 
 ### CAPÍTULO I. Financiamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 43.
 
 Las relaciones de trabajo entre el Instituto y su personal se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
@@ -795,7 +831,7 @@ Para efectos del presente Capítulo se estará en lo dispuesto por el Reglamento
 
 ###### Artículo 45.
 
-El Ejecutivo del Estado, aportará recursos destinados a financiar la realización de proyectos de emprendimiento, investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura emprendedora, científica y tecnológica y a la formación de recursos en una cantidad no menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria.
+La persona titular del Poder Ejecutivo, aportará recursos destinados a financiar la realización de proyectos de emprendimiento, investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura emprendedora, científica y tecnológica y a la formación de recursos en una cantidad no menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria.
 
 En el entendido de que dicho porcentaje se aplicará adicionalmente al presupuesto anual autorizado por el Congreso del Estado al Instituto.
 
@@ -921,9 +957,17 @@ I. Promover en las dependencias de la Administración Pública Estatal y en los 
 
 II. Promover la creación y consolidación de programas de posgrado y especialización de alto nivel en el Estado;
 
-III. Promover programas de apoyo y becas para fortalecimiento de capacidades técnicas y especializadas o la realización de estudios de posgrado, encaminados a la formación de los recursos humanos que satisfagan las necesidades de conocimiento, investigación y desarrollo tecnológico del Estado, dentro de sus áreas prioritarias; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-IV. Apoyar la integración de las comunidades emprendedoras, innovadoras, científica y tecnológica del Estado.
+III. Promover programas de apoyo y becas para fortalecimiento de capacidades técnicas y especializadas o la realización de estudios de posgrado, encaminados a la formación de los recursos humanos que satisfagan las necesidades de conocimiento, investigación y desarrollo tecnológico del Estado, dentro de sus áreas prioritarias;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+
+IV. Apoyar la integración de las comunidades emprendedoras, innovadoras, científica y tecnológica del Estado; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+
+V. Promover la creación de programas de apoyo y becas para mujeres con la finalidad de fortalecer a este sector poblacional, contribuyendo a la consolidación y transformación de perspectiva de género del Estado de Aguascalientes en una Sociedad del Conocimiento.
 
 ### CAPÍTULO I. Relaciones entre la Investigación y el Sector Productivo
 
@@ -983,6 +1027,8 @@ Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación
 
 ### CAPÍTULO III. Coordinación y Desconcentración
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 66.
 
 Las dependencias y entidades de la Administración Pública Estatal, Instituciones públicas de educación superior, así como centros de investigación, promoverán la innovación y el desarrollo tecnológico, para tal efecto, establecerán mecanismos eficientes y funcionales para vincularse con el sector productivo.
@@ -999,9 +1045,11 @@ Las Unidades de Vinculación, y Transferencia de Tecnología y Conocimiento o la
 
 Los recursos que le sean asignados presupuestariamente deberán de destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo emprendedor, tecnológico, investigación e innovación, así como a promover su vinculación con los sectores productivos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 68.
 
-Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y la (sic) organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
+Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y las organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
 
 Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones de educación, Centros, entidades u organizaciones de la sociedad civil aprobarán y establecerán lo siguiente:
 
@@ -1109,9 +1157,7 @@ El Gobierno del Estado, a través del Instituto, promoverá ante los sectores so
 
 ###### Artículo 76.
 
-El Ejecutivo del Estado, a través del Instituto, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar el emprendimiento y la innovación, así como la desconcentración de la investigación científica y tecnológica.
-
-En los convenios a que se refiere el párrafo anterior se determinarán los objetivos comunes y las obligaciones de las partes y, en su caso, además, los compromisos concretos de financiamiento.
+La persona titular del Poder Ejecutivo, a través del Instituto, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar el emprendimiento y la innovación, así como la desconcentración de la investigación científica y tecnológica.
 
 ###### Artículo 77.
 
@@ -1274,3 +1320,19 @@ P.O. 22 DE ENERO DE 2024.
 ###### ARTICULO UNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 675.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 678.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
