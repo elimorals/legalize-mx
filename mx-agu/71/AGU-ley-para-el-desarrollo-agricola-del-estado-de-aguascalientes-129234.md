@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-12-25"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PARA EL DESARROLLO AGRICOLA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -1219,6 +1221,10 @@ III. Supervisar el uso y aplicación de productos agroquímicos, biológicos y s
 
 IV. Definir y ejecutar medidas de adaptación y mitigación del cambio climático para las actividades agrícolas;
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+
+La Secretaría emprenderá todas las acciones a su alcance para impedir la modificación negativa de las condiciones climáticas de la entidad, especialmente en lo que hace a la captación de lluvia, mediante el uso de cañones antigranizo o mecanismos semejantes.
+
 V. Apoyar el mejoramiento y conservación del suelo, implementando la rotación de cultivos, terrazas de muro vivo, labranza de conservación, cultivos de cobertera, aplicación técnica de fertilizantes químicos, abonos y mejoradores orgánicos e inorgánicos, entre otros;
 
 VI. Fomentar el desarrollo de la producción orgánica, para la recuperación de cuencas hidrológicas, aguas, suelos, ecosistemas, así como sistemas agrícolas deteriorados por las prácticas convencionales de producción, que las reoriente a prácticas sustentables;
@@ -2200,3 +2206,11 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 671.- SE ADICIONAN DISPOSICIONES A LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los noventa días siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
