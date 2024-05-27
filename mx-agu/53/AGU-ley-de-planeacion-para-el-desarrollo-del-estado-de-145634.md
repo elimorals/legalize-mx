@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-para-el-desarrollo-del-estado-de-145634"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2024-01-22"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de diciembre de 2020.
 
@@ -179,13 +179,17 @@ III. Transparencia y Combate a la Corrupción: relativa a transparencia, fiscali
 
 IV. Igualdad sustantiva de derechos entre mujeres y hombres: como la garantía del ejercicio pleno de los derechos universales y la capacidad de hacerlos efectivos en la vida cotidiana de la ciudadanía;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-V. Gobernanza y Participación Ciudadana: como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso y la participación de todos los grupos y sectores vulnerables en cada uno de los aspectos de la vida social y estatal, mediante la apertura de espacios democráticos que sirvan de vía para ello para la consolidación del Sistema Integral de Planeación para el Desarrollo del Estado, y
+V. Gobernanza y Participación Ciudadana: como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso y la participación de todos los grupos y sectores vulnerables en cada uno de los aspectos de la vida social y estatal, mediante la apertura de espacios democráticos que sirvan de vía para ello para la consolidación del Sistema Integral de Planeación para el Desarrollo del Estado;
 
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
 
-VI. Interés superior de los niños, niñas y adolescentes: Como el instrumento que garantice de manera plena los derechos de niñas, niños y adolescentes y su desarrollo integral.
+VI. Interés superior de los niños, niñas y adolescentes: Como el instrumento que garantice de manera plena los derechos de niñas, niños y adolescentes y su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+
+VII. La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 ###### Artículo 6°.
 
@@ -319,9 +323,11 @@ XLII. Consejo Aguascalientes: Al Consejo para la Planeación y Evaluación Estra
 
 Es responsabilidad de las autoridades, instancias y organismos mencionados en esta Ley, en sus respectivos ámbitos de competencia, conducir la planeación para el desarrollo, garantizando la participación de los sectores público, social y privado, instituyendo para ello el SIPDE.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+
 ###### Artículo 9°.
 
-Las autoridades estatales y municipales, en el ámbito de su competencia, deberán programar y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación para el desarrollo estatal, mesoregional, intrarregional y municipal.
+Las autoridades estatales y municipales, en el ámbito de su competencia, deberán programar y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación para el desarrollo estatal, mesoregional, intrarregional y municipal.
 
 En materia de planeación del desarrollo, el Poder Ejecutivo del Estado y los Ayuntamientos, aplicarán las disposiciones de la presente Ley, en el ámbito de sus respectivas competencias.
 
@@ -1348,3 +1354,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente decreto, el Ejecutivo Estatal emitirá el Reglamento Interior del Consejo para la Planeación y Evaluación Estratégica de Largo Plazo del Estado de Aguascalientes, donde se detallarán aspectos operativos, criterios y proceso de selección de los consejeros ciudadanos de éste y de sus comisiones, así como los medios de financiamiento para su operación y la de la Oficina Ejecutiva.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 676.- SE REFORMA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
