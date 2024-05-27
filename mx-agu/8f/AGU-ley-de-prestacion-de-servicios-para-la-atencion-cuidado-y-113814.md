@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-11381
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2020-06-29"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -116,6 +116,10 @@ El Ejecutivo Estatal por conducto de sus dependencias y entidades, y los Municip
 ###### Artículo 10.
 
 Con el fin de garantizar el cumplimiento de los servicios a que se refiere esta Ley, en los Centros de Atención se contemplarán las actividades previstas en el Artículo 12 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2024)</small>
+
+En los casos de niñas y niños de la primera infancia, que van de los 0 a los 5 años de edad, recibirán servicios de estimulación temprana para el desarrollo integral físico y mental que les permita desarrollar al máximo sus capacidades cognoscitivas, emocionales, motrices, lingüistas y sociales.
 
 ###### Artículo 11.
 
@@ -862,3 +866,11 @@ El Poder Ejecutivo y los Ayuntamientos del Estado deberán adecuar las normas re
 ###### ARTÍCULO TERCERO.
 
 Los Centros de Atención contarán con el plazo de un año contado a partir de la entrada en vigor del Artículo 39, para adecuar sus instalaciones y equipamiento a fin de cumplir con lo prescrito en dicho Artículo.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 674.- SE ADICIONAN DISPOSICIONES A LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
