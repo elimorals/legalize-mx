@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-05-20"
+last_updated: "2024-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -3143,9 +3143,11 @@ V. Generar o causar por cualquier medio o forma, alteraciones, destrucción, da�
 
 VI. Causar la muerte o lesiones que afecten la salud de animales domésticos, sin justificación o autorización legal. Para los efectos de la presente Fracción, los animales domésticos serán aquellos que habiten con un ser humano con la finalidad de convivir y dependan de éste para subsistir, así como los que deambulen libremente por la vía pública sin que habiten con un ser humano.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+(NOTA: EL 21 DE ABRIL DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 670, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Al responsable de Atentados al Equilibrio Ecológico Dolosos previstos en las Fracciones I a la V se le aplicarán de 1 a 10 años de prisión y de 20 a 200 días multa, reparación total de los daños y perjuicios causados y suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones de 6 meses a 2 años.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+
+Al responsable de Atentados al Equilibrio Ecológico Dolosos previstos en las fracciones I a la V se le aplicarán de 1 a 10 años de prisión y de 20 a 200 días multa, reparación total de los danos (sic) y perjuicios causados Y SUSPENSIÓN E INHABILITACIÓN DE DERECHOS, FUNCIONES, CARGOS, COMISIONES, EMPLEOS O PROFESIONES DE 6 MESES A 2 AÑOS.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
@@ -3315,7 +3317,11 @@ Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transpo
 
 Atentados al equilibrio ecológico culposos. Los Atentados al Equilibrio Ecológico Culposos consisten en desechar, descargar, o realizar actos con materiales o residuos que ocasionen o puedan ocasionar daños; o despedir o descargar en la atmósfera, gases, humos y polvos que ocasionen o puedan ocasionar daños; o descargar, depositar o infiltrar aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos y demás depósitos o corrientes de agua, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, rebasando los límites fijados en las normas técnicas propuestas por la Ley de Protección Ambiental para el Estado de Aguascalientes, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
 
-Al responsable de Atentados al Equilibrio Ecológico Culposos, se le aplicarán de 6 meses a 4 años de prisión, de 10 a 100 días multa, reparación total de los daños y perjuicios causados y suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones de 6 meses a 2 años.
+(NOTA: EL 21 DE ABRIL DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE MAYO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 670, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+
+Al responsable de Atentados al Equilibrio Ecológico Culposos, se le aplicarán de 6 meses a 4 años de prisión, de 10 a 100 días multa, reparación total de los danos (sic) y perjuicios causados Y SUSPENSIÓN E INHABILITACIÓN DE DERECHOS, FUNCIONES, CARGOS, COMISIONES, EMPLEOS O PROFESIONES DE 6 MESES A 2 AÑOS.
 
 > <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -4230,3 +4236,11 @@ P.O. 20 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 670.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
