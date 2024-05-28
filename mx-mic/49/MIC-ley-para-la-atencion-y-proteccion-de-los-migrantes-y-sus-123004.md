@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2023-11-30"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -139,7 +139,9 @@ VII. A la protección del Estado contra toda violencia, daño corporal, amenaza 
 
 VIII. A no ser sometidos individual o colectivamente, a detención o prisión, arbitrarias, salvo por los motivos que las leyes establezcan;
 
-IX. Acceso a una estrategia de integración social, cultural y laboral para los migrantes michoacanos o los michoacanos que han regresado al Estado y tuvieron la calidad de migrantes;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+
+IX. Acceso a una estrategia de integración social, cultural, educativa y laboral para los migrantes michoacanos o los michoacanos que han regresado al Estado y tuvieron la calidad de migrantes;
 
 X. Ser consultados y participar en temas relacionados con la migración para la integración y ejecución de los Planes de Desarrollo Estatal y Municipales, reconociéndole al migrante michoacano como un ente transformador que tiene la capacidad y el interés de proponer mejoras en la política económica y social de sus lugares de origen;
 
@@ -151,13 +153,17 @@ XI. Recibir acompañamiento de la Secretaría ante las autoridades competentes, 
 
 XII. Recibir apoyo dirigido a mejorar la condición social de la población femenina migrante y la erradicación de todas las formas de discriminación en su contra;
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-XIII. Contar con interpretación y traducción cuando su idioma sea distinto al español en procesos y trámites legales; y,
+XIII. Contar con interpretación y traducción cuando su idioma sea distinto al español en procesos y trámites legales;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XIV. Recibir apoyo y las facilidades necesarias para que las niñas, niños y adolescentes descendientes de migrantes puedan tener acceso a la educación, libre de discriminación y estereotipos, en igualdad de oportunidades, con un enfoque diferenciado e interseccional; y,
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2021)</small>
 
-XV (SIC). Las demás que les confieran las normas jurídicas aplicables.
+XV. Las demás que les confieran las normas jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2021)</small>
 
@@ -191,7 +197,9 @@ II. Prevenir cualquier tipo de violación a los derechos humanos de los migrante
 
 III. Proporcionar acompañamiento y servicios básicos de salud, así como, apoyo económico a los michoacanos que habiendo tenido la calidad de migrantes han regresado al Estado, a través de la Secretaría y de la autoridad de la Administración Pública Municipal competente, de acuerdo a su disponibilidad presupuestal;
 
-IV. Garantizar el acceso a la educación a los migrantes, proporcionando los trámites y servicios necesarios;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+
+IV. Establecer acciones y garantizar el acceso a la educación a los migrantes, así como a las niñas, niños y adolescentes descendientes de migrantes, proporcionando los trámites y servicios necesarios;
 
 V. Fortalecer los vínculos culturales y la unión familiar entre los migrantes michoacanos y sus comunidades de origen, resaltando los valores de la diversidad y la interacción multicultural;
 
@@ -1324,3 +1332,11 @@ P.O. 30 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
 
 SEGUNDO. Para los efectos de las reformas que implican un impacto presupuestal por parte de la Secretaría del Migrante del Gobierno del Estado de Michoacán, éstas entrarán en vigor a partir del 1 de enero del año 2024, conforme a la asignación de los recursos etiquetados para la Administración Pública Estatal correspondiente al Ejercicio Fiscal 2024.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 653 POR EL QUE “SE REFORMAN LAS FRACCIONES IX, XIII Y SE ADICIONA LA FRACCIÓN XIV, RECORRIÉNDOSE EN SU ORDEN SUBSECUENTE LA SIGUIENTE DEL ARTÍCULO 4; Y, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 7, AMBOS DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
