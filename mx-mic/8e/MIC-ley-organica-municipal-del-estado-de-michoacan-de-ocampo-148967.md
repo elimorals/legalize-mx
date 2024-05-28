@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2023-12-22"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1763,9 +1763,17 @@ VII. No haber sido inhabilitada o inhabilitado para desempeñar un empleo, cargo
 
 VIII. Contar con residencia efectiva en el Municipio respectivo, por más de 2 años anteriores a la designación;
 
-IX. No haber sido condenada o condenado por delito doloso; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-X. Las demás que establezcan las disposiciones legales aplicables.
+IX. No haber sido condenada o condenado por delito doloso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2024)</small>
+
+X. No haber formado parte de los órganos desconcentrados del Instituto Electoral de Michoacán, en el proceso electoral anterior inmediato, ya sea ordinario o extraordinario; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2024)</small>
+
+XI. Las demás que establezcan las disposiciones legales aplicables.
 
 El nombramiento se dará durante el mes de diciembre y entrará en funciones a partir del primero de enero del año posterior al inicio de la administración.
 
@@ -3538,3 +3546,9 @@ PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 652 POR EL QUE "SE REFORMAN LAS FRACCIONES IX Y X Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 77 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
