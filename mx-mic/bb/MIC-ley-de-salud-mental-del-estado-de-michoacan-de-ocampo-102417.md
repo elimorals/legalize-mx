@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2023-01-23"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -97,6 +97,10 @@ X BIS. Ley de Asistencia Social del Estado de Michoacán de Ocampo;
 
 XI. Personal de salud: Profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XI BIS. Posvención del Suicidio: Intervención profesional que tiene como fin reducir la carga emocional provocada por el suicidio de un familiar o ser cercano, favoreciendo el procesamiento psíquico del impacto;
+
 XII. Prevención de riesgos en salud mental: Acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
@@ -119,11 +123,15 @@ XX. Secretaría de Educación: Secretaría de Educación del Estado de Michoacá
 
 XXI. Secretaría de Seguridad Pública: Secretaría de Seguridad Pública del Estado de Michoacán
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-XXI BIS. Secretaría de Desarrollo Social y Humano;
+XXI BIS. Secretaría del Bienestar: Secretaría del Bienestar del Estado de Michoacán de Ocampo;
 
 XXII. Segundo nivel de atención: Atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XXII BIS. Suicidio: Acto por el que un individuo se causa a sí mismo una lesión, o un daño, con un grado variable de la intención de morir, pudiendo culminar en quitarse deliberadamente la propia vida;
 
 XXIII. Titular de la Secretaría: Secretario de Salud del Estado de Michoacán;
 
@@ -263,9 +271,17 @@ XII. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordina
 
 XIII. Coordinarse con las dependencias estatales del empleo, a efecto de establecer acciones para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas privadas e instituciones de Gobierno;
 
-XIV. Presentar al Comité y al Poder Legislativo del Estado, un informe anual sobre las políticas públicas puestas en práctica en materia de salud mental, así como el estado de avance en el cumplimiento de la implementación del Modelo de Salud Mental para el Estado de Michoacán y los diversos programas generados; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-XV. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
+XIV. Presentar al Comité y al Poder Legislativo del Estado, un informe anual sobre las políticas públicas puestas en práctica en materia de salud mental, así como el estado de avance en el cumplimiento de la implementación del Modelo de Salud Mental para el Estado de Michoacán y los diversos programas generados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2024)</small>
+
+XV. Desarrollar acciones y programas para detectar, atender y prevenir conductas suicidas, así como estrategias para la posvención del suicidio; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2024)</small>
+
+XVI. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
 
 ###### Artículo 11.
 
@@ -289,9 +305,11 @@ Todo prestador de servicios de salud mental de los sectores público, social y p
 
 ### CAPÍTULO II. DE LAS ACCIONES PARA LA ATENCIÓN DE LA SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
 ###### Artículo 14.
 
-Para efectos de esta ley, son acciones para la atención de la salud mental, la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación, seguimiento y fomento en materia de salud mental, las cuales tienen carácter prioritario.
+Para efectos de esta ley son acciones para la atención de la salud mental: la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación, seguimiento y fomento en materia de salud mental, incluida la posvención del suicidio, las cuales tienen carácter prioritario.
 
 ###### Artículo 15.
 
@@ -872,3 +890,11 @@ P.O. 23 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301.- PRIMERO.- SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 4°; LAS FRACCIONES IV Y VI DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 37; EL ARTÍCULO 61; LA FRACCIÓN IV DEL ARTÍCULO 64; Y, EL ARTÍCULO 76 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 648 POR EL QUE "SE ADICIONAN AL ARTÍCULO 4° LAS FRACCIONES XI BIS Y XXII BIS Y SE REFORMA LA FRACCIÓN XXI BIS; SE ADICIONA AL ARTÍCULO 10 LA FRACCIÓN XVI Y SE REFORMAN LAS FRACCIONES XIV Y XV; Y, SE REFORMA EL ARTÍCULO 14, TODOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
