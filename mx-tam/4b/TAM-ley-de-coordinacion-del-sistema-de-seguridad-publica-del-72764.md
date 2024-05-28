@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2022-12-22"
+last_updated: "2024-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -91,9 +91,9 @@ V. Fiscalía General: La Fiscalía General de Justicia del Estado;
 
 VI. Haber: La cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN III], P.O. 14 DE ABRIL DE 2020)
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-VII. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
+VII. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia, tránsito y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 14 DE ABRIL DE 2020)
 
@@ -383,11 +383,15 @@ III. Las policías preventivas y las de tránsito municipales;
 
 IV. Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros Regionales de Ejecución de Medidas para Adolescentes;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-V. La Policía Procesal; y
+V. La Policía Procesal;
 
-VI. Las demás que se constituyan con apego a la Ley.
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+VI. La Guardia de Tránsito Estatal; y
+
+VII. Las demás que se constituyan con apego a la Ley.
 
 ###### ARTICULO 12.
 
@@ -2586,3 +2590,27 @@ Los procedimientos de responsabilidad administrativa, de separación y remoción
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, serán atendidos por éstos hasta su conclusión.
 
 Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-847 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRÁNSITO; DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes de la Dirección de Tránsito Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública, en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, en la Ley de Tránsito y su Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de certificación, evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y demás normatividad vigente, les serán aplicables a las personas integrantes que formen parte de la Dirección de Tránsito Estatal.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Dirección de Tránsito Estatal, por lo que deberán adecuarse la normatividad aplicable, a efecto de que se adopten las funciones en materia de tránsito.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
