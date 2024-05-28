@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2022-12-22"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -109,9 +109,9 @@ VIII.- Graduación: la determinación de la cantidad de tiempo de entre los lím
 
 IX.- Haber: la cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-X.- Integrantes: los sujetos del régimen de desarrollo policial en la Secretaría, exclusivamente los Guardias Estatales, los Cuerpos de Vigilancia, Custodia y Seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros de Ejecución de Medidas para Adolescentes; respecto de las instituciones preventivas de seguridad pública municipal, aquéllos que así se definan en los ordenamientos jurídicos que al efecto se emitan;
+X.- Integrantes: los sujetos del régimen de desarrollo policial en la Secretaría, exclusivamente los Guardias Estatales, Guardias de la Dirección de Tránsito Estatal, los Cuerpos de Vigilancia, Custodia y Seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros de Ejecución de Medidas para Adolescentes; respecto de las instituciones preventivas de seguridad pública municipal, aquéllos que así se definan en los ordenamientos jurídicos que al efecto se emitan;
 
 XI.- Ley: la Ley de Seguridad Pública para el Estado de Tamaulipas;
 
@@ -191,9 +191,15 @@ VIII.- La Dirección de la Policía de Investigación;
 
 IX.- La Dirección de Ejecución de Medidas para Adolescentes;
 
-X.- La Rectoría de la Universidad; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-XI.- Las demás que con ese carácter determine la Ley y demás ordenamientos jurídicos aplicables.
+X.- La Rectoría de la Universidad;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XI.- La Dirección de Tránsito Estatal; y
+
+XII.- Las demás que con ese carácter determine la Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -347,9 +353,15 @@ XLI.- Fomentar cursos de capacitación para el personal operativo, así como la 
 
 XLII.- Elaborar las evaluaciones de riesgo y llevar a cabo el seguimiento de las medidas cautelares distintas a la prisión preventiva y la suspensión condicional del proceso, en términos de las disposiciones legales aplicables, por conducto de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso;
 
-XLIII.- Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social, así como la estabilidad y permanencia de las instituciones constitucionales del Estado; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-XLIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado.
+XLIII.- Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social, así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XLIV.- Implementar, dirigir y ejecutar las atribuciones en materia de tránsito de competencia estatal, en los términos expresados en el artículo 3º de la Ley de Tránsito; y
+
+XLV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -483,13 +495,15 @@ III.- Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecuci�
 
 IV.- Los Guías Técnicos de los Centros Regionales de Ejecución de Medidas para Adolescentes;
 
-V.- La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-VI.- Cualquiera otra que así lo decrete el Gobernador del Estado.
+V.- La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos;
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
 
-2.- Las instituciones policiales previstas en las fracciones I y II del párrafo anterior estarán a cargo de la persona titular de la Subsecretaría de Operación de la Guardia Estatal, quien será nombrado y removido libremente por el Gobernador del Estado y ejercerá las atribuciones que correspondan a cada institución con base a esta Ley.
+VI.- La Guardia de Tránsito Estatal; y
+
+VII.- Cualquiera otra que así lo decrete el Gobernador del Estado.
 
 #### Sección Segunda. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA MUNICIPAL
 
@@ -581,7 +595,9 @@ XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víc
 
 XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
-XXIX.- Vigilar y verificar que los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XXIX.- Apoyar a la Dirección de Tránsito Estatal, cuando así lo solicite, en la vigilancia y verificación de los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso;
 
 XXX.- Coadyuvar con las demás autoridades estatales cuando sea formalmente requerido para brindar el apoyo de la fuerza pública en sus funciones de vigilancia, verificación e inspección en materia de protección civil, sanitaria y fiscal, cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares;
 
@@ -673,11 +689,73 @@ V.- Llevar a cabo las tareas logísticas que requiera el cumplimiento de sus fun
 
 VI.- Las demás que le asignen las leyes y la normatividad relativa a su objeto y funciones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTGERAN, P.O. 28 DE MAYO DE 2024)</small>
+
+### CAPÍTULO V BIS. DE LA DIRECCIÓN DE TRÁNSITO ESTATAL
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+ARTÍCULO 26 BIS.
+
+1.- La Dirección de Tránsito Estatal, estará sujeta a la presente Ley, la Ley de Tránsito y demás disposiciones jurídicas aplicables.
+
+2.- La Dirección de Tránsito Estatal, estará constituida por el mando, personal administrativo y el número de elementos que se requieran para el cumplimiento de sus funciones, conforme a la disponibilidad del Presupuesto de Egresos del Estado.
+
+3.- El personal operativo de la Dirección de Tránsito Estatal apoyará a las demás instituciones policiales, estatales o municipales, cuando así se requiera, previa autorización de la persona titular de la Secretaría.
+
+4.- La persona titular de la Dirección de Tránsito Estatal, será designada y removida libremente por el Gobernador del Estado a propuesta de la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+ARTÍCULO 26 TER. La Dirección de Tránsito Estatal, tendrá las atribuciones siguientes:
+
+I.- Vigilar la observancia y aplicación de la ley de la materia, de los acuerdos y convenios que se suscriban, así como de las disposiciones de carácter administrativo que emanen de esos ordenamientos en materia de competencia estatal;
+
+II.- Dictar las medidas conducentes para la administración, vigilancia y control del tránsito en las vías públicas de jurisdicción estatal;
+
+III.- Proporcionar asesoría en materia de tránsito a los ayuntamientos que lo soliciten;
+
+IV.- Ejecutar, supervisar y controlar las actividades de tránsito;
+
+V.- Coordinar y supervisar las actividades de los elementos de la Guardia Estatal de Tránsito y de Vialidad;
+
+VI.- En el ámbito de su competencia, aplicar infracciones derivadas de la Ley de Tránsito y su Reglamento, y supervisar el pago de las mismas y de los derechos por servicios al público;
+
+VII.- Controlar la vigilancia del tránsito vehicular en vías públicas de jurisdicción del Estado, así como en las convenidas y coordinadas con los municipios y la Federación;
+
+VIII.- Opinar respecto del señalamiento de tránsito en las vías públicas;
+
+IX.- Establecer las restricciones para el tránsito de vehículos en las vías públicas de jurisdicción estatal, así como proponer en las convenidas y coordinadas con los municipios y la Federación con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público;
+
+X.- Inspeccionar y vigilar el salvamento, arrastre y traslado que realice el concesionario o permisionario que efectúe la prestación de los servicios auxiliares;
+
+XI.- Proponer los depósitos de vehículos que cuenten con concesión o permiso como lo establece la Ley de Transporte del Estado de Tamaulipas, para prestar los servicios auxiliares, en los vehículos que tengan que ser retirados de la circulación por motivo de sanciones administrativas;
+
+XII.- Apoyar y supervisar la capacitación de los aspirantes y de los integrantes de la Guardia de Tránsito Estatal;
+
+XIII.- Programar, apoyar y encauzar la educación vial;
+
+XIV.- Auxiliar a las autoridades judiciales y administrativas, tanto federales como estatales y municipales, así como militares, para el cumplimiento de sus determinaciones, siempre que lo requieran y sean procedentes;
+
+XV.- Cumplir y hacer cumplir en la esfera de su competencia, los ordenamientos federales y estatales en materia de protección del ambiente, del equilibrio ecológico y para prevención y control de la contaminación generada por vehículos automotores;
+
+XVI.- Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con el tránsito de peatones y de vehículos en caso de terremoto, explosión, inundación o cualquier otro siniestro, asalto, actos de vandalismo, manifestaciones y marchas, accidentes graves o cualquier alteración del orden público;
+
+XVII.- Autorizar y ordenar el retiro de la vía pública de los vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
+
+XVIII.- Atender y resolver las quejas del público, sobre la prestación del servicio de tránsito en las vías de jurisdicción local, así como, en su caso, los que se presten conjuntamente con autoridades municipales y federales;
+
+XIX.- Imponer las sanciones por infracciones a la ley de la materia, siempre que no correspondan a los ayuntamientos;
+
+XX.- Autorizar la transferencia del servicio público de tránsito que soliciten los municipios de acuerdo con los requisitos establecidos para tales efectos;
+
+XXI.- Verificar que los municipios que soliciten la transferencia del servicio público de tránsito, previo a su autorización, acrediten que su personal cuenta con los cursos de capacitación correspondientes impartidos por la Universidad de Seguridad y Justicia de Tamaulipas, así como, en los municipios que ya cuenten con la transferencia de referencia, para que los agentes de tránsito municipales que hayan asignado tomen los cursos de capacitación y actualización correspondientes; y
+
+XXII.- Las demás que determinen la ley de la materia, y las que se justifiquen por las necesidades públicas.
+
 ### CAPÍTULO VI
 
 DE LOS CUERPOS DE VIGILANCIA, CUSTODIA Y SEGURIDAD DE LOS CENTROS DE EJECUCIÓN DE SANCIONES Y DE LOS GUÍAS TÉCNICOS DE LOS CENTROS REGIONALES DE EJECUCIÓN DE MEDIDAS PARA ADOLESCENTES
-
-### CAPÍTULO VII. DE LAS DISPOSICIONES COMUNES PARA LAS INSTITUCIONES POLICIALES DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 27.
 
@@ -705,7 +783,7 @@ X.- Las demás que les señalen las disposiciones legales y reglamentarias aplic
 
 2.- En lo no previsto en el presente Capítulo, los Guías Técnicos adscritos a la Dirección de Ejecución de Medidas para Adolescentes, se regirán por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, así como en los demás ordenamientos que le sean aplicables.
 
-### CAPÍTULO VIII. DE LAS DELEGACIONES REGIONALES, LAS COORDINACIONES MUNICIPALES Y LAS DELEGACIONES DE LA SECRETARÍA
+### CAPÍTULO VII. DE LAS DISPOSICIONES COMUNES PARA LAS INSTITUCIONES POLICIALES DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 28.
 
@@ -815,17 +893,21 @@ Son requisitos de ingreso a las instituciones policiales los establecidos en el 
 
 Las relaciones laborales entre el Estado o los Municipios, con los Integrantes, se normarán por lo previsto en las disposiciones legales aplicables, según corresponda.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DE LAS DELEGACIONES REGIONALES, LAS COORDINACIONES MUNICIPALES Y LAS DELEGACIONES DE LA SECRETARÍA
 
 ###### ARTÍCULO 34.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-1.- La Guardia Estatal y la Policía Auxiliar, además de la estructura orgánica que disponga el Reglamento Interior de la Secretaría, contarán con las Delegaciones Regionales y Coordinaciones Municipales, la primera y Delegaciones la segunda, que serán las unidades administrativas necesarias para el control, supervisión y organización del personal operativo desplegado en el territorio de la entidad, al frente de las cuales habrán Delegados Regionales o Coordinadores Municipales y Delegados de designación especial, según sea el caso, nombrados por el Secretario, en los términos de lo dispuesto en los artículos 35 y 36 de esta Ley.
+1.- La Guardia Estatal, la Policía Auxiliar y la Guardia de Tránsito Estatal, además de lo que disponga la estructura orgánica y el Reglamento Interior de la Secretaría, contarán con las Delegaciones Regionales y Coordinaciones Municipales, la primera, Delegaciones la segunda, y Jefaturas de Equipos, la tercera, que serán las unidades administrativas necesarias para el control, supervisión y organización del personal operativo desplegado en el territorio de la entidad, al frente de las cuales habrán Delegados Regionales o Coordinadores Municipales, Delegados de designación especial, y Jefes de Equipo, según sea el caso, nombrados por el Secretario, en los términos de lo dispuesto en los artículos 35 y 36 de esta ley.
 
-2.- Los Delegados Regionales, los Coordinadores Municipales y los Delegados no se considerarán Integrantes, serán nombrados por designación especial, mediante contrato que no podrá exceder de tres meses y no estarán sujetos al régimen de desarrollo policial, por lo que tendrán la calidad de trabajadores de confianza, de conformidad con la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-3.- La cantidad de Delegados Regionales, de Coordinadores Municipales y de Delegados, de designación especial, serán los estrictamente necesarios para atender las necesidades del servicio, desempeñando su encargo en el lugar que le designe el Secretario, el cual podrá removerlos libremente o reasignarlos en cualquier tiempo de una Delegación a otra o bien, de un Municipio a otro, según sea el caso, sin necesidad de procedimiento especial alguno. Contarán con un plazo no mayor de cuarenta y ocho horas para presentarse en la sede que le haya sido encomendada.
+2.- Los Delegados Regionales, los Coordinadores Municipales, los Delegados y los Jefes de Equipo, serán integrantes y se considerarán como tales en el desempeño de los cargos expresados, serán nombrados por designación especial, y estarán sujetos al régimen de desarrollo policial.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+3.- La cantidad de Delegados Regionales, de Coordinadores Municipales, de Delegados de designación especial, y de Jefes de Equipo, serán los estrictamente necesarios para atender las necesidades del servicio, desempeñando su encargo en el lugar que le designe el Secretario, el cual podrá removerlos libremente o reasignarlos en cualquier tiempo de una Delegación a otra o bien, de un Municipio a otro, o de una Jefatura de Equipo a otra, según sea el caso, sin necesidad de procedimiento especial alguno. Contarán con un plazo no mayor de cuarenta y ocho horas para presentarse en la sede que le haya sido encomendada.
 
 4.- El incumplimiento con lo dispuesto en los párrafos que anteceden, dará lugar a que no se les renueve el contrato respectivo, causando baja sin responsabilidad para Gobierno del Estado.
 
@@ -835,19 +917,21 @@ Las relaciones laborales entre el Estado o los Municipios, con los Integrantes, 
 
 2.- En cualquier momento se podrán dar por terminados los efectos del contrato de las personas designadas conforme a este artículo, sin que les sea aplicable el procedimiento de remoción para los Integrantes, por no reunir tal calidad.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-Tratándose de Integrantes que cuenten con un permiso para separarse del servicio activo para desempeñar exclusivamente el cargo de confianza de Delegado Regional o Coordinador Municipal o Delegado de designación especial, deberán sujetarse además a lo siguiente:
+Tratándose de integrantes que cuenten con un permiso para desempeñar el cargo de Delegado Regional, Coordinador Municipal, Delegado de designación especial o Jefe de Equipo deberán sujetarse además a lo siguiente:
 
-I.- Durante el tiempo que dure su encargo, no tendrá derecho a ser convocado para ascenso.
+I.- Durante el tiempo que dure su encargo, tendrán derecho a ser convocados para ascenso;
 
-II.- Serán nombrados por designación especial mediante contrato que no podrá exceder de tres meses y durante el desempeño del encargo respectivo, no se considerarán Integrantes y por tanto, no estarán sujetos al régimen de desarrollo policial, considerándose como trabajadores de confianza, de conformidad con la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+II.- Serán nombrados por designación especial y durante el desempeño del encargo respectivo, se considerarán Integrantes y por tanto, estarán sujetos al régimen de desarrollo policial; y
 
-III.- En caso de que los Integrantes que se encuentren desempeñando el cargo de confianza de Delegado Regional o Coordinador Municipal o Delegado, conforme a lo estipulado en este artículo y que con motivo del desempeño de sus funciones, incurran en responsabilidad administrativa y sean sancionados con destitución de su empleo, cargo o comisión, conforme a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, esta sanción trascenderá a su puesto de origen, sin responsabilidad para la Secretaría ni para Gobierno del Estado.
+III.- En caso de que los Integrantes que se encuentren desempeñando el cargo de Delegado Regional, Coordinador Municipal, Delegado y Jefe de Equipo, conforme a lo estipulado en este artículo y que con motivo del desempeño de sus funciones, incurran en responsabilidad administrativa y sean sancionados con destitución de su empleo, cargo o comisión, conforme a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, esta sanción trascenderá a su puesto de origen, sin responsabilidad para la Secretaría ni para Gobierno del Estado.
 
 ## TÍTULO CUARTO. DEL RÉGIMEN DISCIPLINARIO DE LOS INTEGRANTES DE LA SECRETARÍA
 
-### CAPÍTULO II. DE LOS DEBERES DISCIPLINARIOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 37.
 
@@ -881,7 +965,7 @@ c).- Afecten la prestación del servicio.
 
 Los medios para encauzar la disciplina son las medidas preventivas disciplinarias y los correctivos disciplinarios; las primeras se utilizarán para conservarla, mantenerla y vigorizarla; los segundos para restablecerla cuando ha sido quebrantada.
 
-### CAPÍTULO I. DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
+### CAPÍTULO II. DE LOS DEBERES DISCIPLINARIOS
 
 #### Sección Primera. DE LOS INTEGRANTES
 
@@ -1007,7 +1091,7 @@ V.- Considerar las vidas de los integrantes a su cargo como valor inestimable qu
 
 ## TÍTULO QUINTO. DEL RECLUTAMIENTO, CAPACITACIÓN Y PROFESIONALIZACIÓN
 
-### CAPÍTULO II. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
+### CAPÍTULO I. DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
 ###### ARTÍCULO 53.
 
@@ -1263,7 +1347,7 @@ La estructura administrativa de la Universidad será determinada por el Gobernad
 
 Para la liquidación o extinción de la Universidad, se requerirá de las mismas formalidades inherentes a su establecimiento, debiéndose prever en el decreto correspondiente, la elaboración del inventario de activos y pasivos, así como su rendición final de cuentas y el destino de los bienes a su cargo para la realización de los objetivos que motivaron su edificación o adquisición, en un organismo o institución con propósitos o fines homólogos.
 
-### CAPÍTULO III. DE LOS CONSEJOS DE DESARROLLO POLICIAL
+### CAPÍTULO II. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
 
 ###### ARTÍCULO 66.
 
@@ -1289,7 +1373,7 @@ Se considerará policía de carrera, a los Integrantes y a aquellos pertenecient
 
 2.- No podrá concederse un grado a Integrante alguno, si no se ha ostentado el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exijan el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública o bien, los que se establezcan en las disposiciones que al efecto emitan los Ayuntamientos, según sea el caso.
 
-### CAPÍTULO I. DE LA COORDINACIÓN ENTRE AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES
+### CAPÍTULO III. DE LOS CONSEJOS DE DESARROLLO POLICIAL
 
 ###### ARTÍCULO 70.
 
@@ -1425,7 +1509,7 @@ II.- Remoción.
 
 ## TÍTULO SEXTO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO II. DE LAS INSTANCIAS DE COORDINACIÓN
+### CAPÍTULO I. DE LA COORDINACIÓN ENTRE AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES
 
 ###### ARTÍCULO 77.
 
@@ -1443,7 +1527,7 @@ El Sistema Estatal de Seguridad Pública se integrará con las autoridades, conf
 
 Para lograr los fines y objetivos de la seguridad pública, el Sistema Estatal de Seguridad Pública tendrá como base la coordinación y los objetivos establecidos en el artículo 6 de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
-### CAPÍTULO III. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
+### CAPÍTULO II. DE LAS INSTANCIAS DE COORDINACIÓN
 
 #### Sección Primera. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -1503,7 +1587,7 @@ Los Consejos Municipales son las instancias encargadas de la coordinación, plan
 
 La estructura de los Consejos Municipales e Intermunicipales de Seguridad Pública será similar, en lo conducente, a la del Consejo Estatal de Seguridad Pública y estarán integrados conforme a lo dispuesto por el artículo 33 de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
-### CAPÍTULO IV. DEL SERVICIO DE ATENCIÓN AL PÚBLICO
+### CAPÍTULO III. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
 #### Sección Primera. DE LA DIRECCIÓN DE ENLACE INFORMÁTICO
 
@@ -1567,7 +1651,7 @@ La información relativa al personal de seguridad pública, sólo podrá registr
 
 Los integrantes de las dependencias e instituciones de seguridad pública están obligados a notificar, ante su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad, y éstos, de notificarlo a la Dirección de Enlace Informático.
 
-### CAPÍTULO ÚNICO. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO IV. DEL SERVICIO DE ATENCIÓN AL PÚBLICO
 
 ###### ARTÍCULO 99.
 
@@ -1583,7 +1667,7 @@ Los integrantes de las dependencias e instituciones de seguridad pública están
 
 ## TÍTULO SÉPTIMO. DE LA PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO I. DE LAS SANCIONES PARA LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+### CAPÍTULO ÚNICO. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### ARTÍCULO 101.
 
@@ -1603,7 +1687,7 @@ Las anteriores disposiciones, podrán ser complementadas por otras que dicte el 
 
 ## TÍTULO OCTAVO. DE LAS SANCIONES
 
-### CAPÍTULO II. DEL PROCEDIMIENTO POR FALTAS GRAVES AL RÉGIMEN DISCIPLINARIO DE LA SECRETARÍA
+### CAPÍTULO I. DE LAS SANCIONES PARA LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 105.
 
@@ -1685,7 +1769,7 @@ II. Veinte días de haber por cada uno de los años de servicios prestados, si l
 
 III. En aquellos juicios en que se condene al pago de haberes o percepciones de cualquier índole dejados de percibir incluso prestaciones, por el tiempo en que el Integrante haya estado suspendido, separado o removido del cargo, estos se cubrirán hasta por un periodo máximo de doce meses.
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE SEPARACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO POR FALTAS GRAVES AL RÉGIMEN DISCIPLINARIO DE LA SECRETARÍA
 
 ###### ARTÍCULO 108.
 
@@ -1829,7 +1913,7 @@ En las actuaciones que se practiquen en los procedimientos a que se refiere este
 
 ## TÍTULO NOVENO. DE LA PERMANENCIA EN LA SECRETARÍA
 
-### CAPÍTULO I. DEL RECURSO DE RECTIFICACIÓN
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE SEPARACIÓN
 
 ###### ARTÍCULO 121.
 
@@ -1885,11 +1969,11 @@ La persona titular de la Sala y el representante de la Dirección de Asuntos Int
 
 Cuando en la resolución se determine que un Integrante no cumple con los requisitos de permanencia que disponga la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se decretará su separación del cargo.
 
-### CAPÍTULO II. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO I. DEL RECURSO DE RECTIFICACIÓN
 
 ## TÍTULO DÉCIMO. DE LOS RECURSOS PROCEDENTES CONTRA LAS DETERMINACIONES DEL CONSEJO DE LA SECRETARÍA
 
-### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES PARA LOS PROCEDIMIENTOS DEL CONSEJO DE LA SECRETARÍA
+### CAPÍTULO II. DEL RECURSO DE RECONSIDERACIÓN
 
 ###### ARTÍCULO 130.
 
@@ -1920,6 +2004,8 @@ V.- El Pleno de la Secretaría ordenará se notifique su resolución en los tres
 ###### ARTÍCULO 132.
 
 El recurso de rectificación no se interpondrá en ningún caso, contra los criterios y contenidos de las evaluaciones que se hubieren aplicado.
+
+### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES PARA LOS PROCEDIMIENTOS DEL CONSEJO DE LA SECRETARÍA
 
 ###### ARTÍCULO 133.
 
@@ -2406,3 +2492,27 @@ Los procedimientos de responsabilidad administrativa, de separación y remoción
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, serán atendidos por éstos hasta su conclusión.
 
 Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+P.O. 28 DE MAYO DE 2024.
+
+> <small>[N. DE E. TRANSITORIOS DEL”DECRETO NO. 65-847 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRÁNSITO; DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes de la Dirección de Tránsito Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública, en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, en la Ley de Tránsito y su Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de certificación, evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y demás normatividad vigente, les serán aplicables a las personas integrantes que formen parte de la Dirección de Tránsito Estatal.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Dirección de Tránsito Estatal, por lo que deberán adecuarse la normatividad aplicable, a efecto de que se adopten las funciones en materia de tránsito.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
