@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2024-04-16"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -158,6 +158,10 @@ XXXIII. Osario Común: El área donde se depositarán los restos áridos de sere
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
 XXXIV. Pandemia: La propagación mundial de una enfermedad;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+XXXIV Bis. Salud: Estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades;
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -939,13 +943,19 @@ La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades
 
 Dentro de las necesidades básicas del ser humano se encuentra la salud mental, por ello la Secretaría de Salud establecerá el servicio de psicología permanente en todos los establecimientos de salud de primer nivel de atención en el Estado y de psiquiatría, cuando sea referenciado al segundo nivel de salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 31.
 
-Son acciones de Salud Pública, el saneamiento del medio, la prevención, el control de enfermedades y accidentes, los servicios médicos y auxilio, la promoción de la salud, el control y vigilancia sanitaria, así como la prevención y control de adicciones y demás que señale la Ley General de Salud.
+Son acciones de salud pública, el saneamiento del medio, la prevención, el control de enfermedades y accidentes, los servicios médicos y auxilio, la promoción de la salud, el control y vigilancia sanitaria, la prevención y control de adicciones, la salud sexual y reproductiva, la prevención de embarazos de niñas y adolescentes con pleno respeto a sus derechos humanos y demás que señale la Ley General de Salud.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2024)</small>
 
-La Secretaría de Salud, con el fin de combatir el cáncer cérvico uterino, cáncer de mama, cáncer testicular y cáncer de próstata, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, así como a contrarrestar y erradicar los estigmas o estereotipos sociales, la discriminación y la violencia de género, que impiden o dificultan el acceso a diagnósitcos tempranos, especialmente de las mujeres. La rehabilitación deberá incluir la atención psico-oncológica, la reconstrucción mamaria y testicular con prótesis sin erogación económica para los pacientes y sus familias, en los casos que sean atendidos en los hospitales de la Secretaría de Salud, además de desarrollar, entre otras, las siguientes acciones:
+Las acciones de salud pública comprenden el desarrollo de políticas públicas; la evaluación y monitoreo; la promoción de la salud, fomento de la participación comunitaria y de la sociedad civil organizada; la identificación, prevención, atención y recuperación de los problemas que afecten la salud de la población en general, y la atención de sus determinantes o causas estructurales.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MAYO DE 2024)</small>
+
+La Secretaría de Salud, con el fin de combatir el cáncer cérvico uterino, cáncer de mama, cáncer testicular y cáncer de próstata, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, así como a contrarrestar y erradicar los estigmas o estereotipos sociales, la discriminación y la violencia de género, que impiden o dificultan el acceso a diagnósticos tempranos, especialmente de las mujeres. La rehabilitación deberá incluir la atención psico-oncológica, la reconstrucción mamaria y testicular con prótesis sin erogación económica para los pacientes y sus familias, en los casos que sean atendidos en los hospitales de la Secretaría de Salud, además de desarrollar, entre otras, las siguientes acciones:
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
 
@@ -3270,6 +3280,22 @@ Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 16 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 614 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15 BIS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 649.- ÚNICO.- SE ADICIONA LA FRACCIÓN XXXIV BIS AL ARTÍCULO 2° DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 650.- ÚNICO.- SE REFORMA EL ARTÍCULO 31 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
