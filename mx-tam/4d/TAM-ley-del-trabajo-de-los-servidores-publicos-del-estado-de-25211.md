@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2024-05-08"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -111,9 +111,9 @@ g).- Los demás que desempeñen función de:
 
 8.- LOS SECRETARIOS PARTICULARES Y AYUDANTES DE LAS DEPENDENCIAS Y DIRECTORES GENERALES.- Así como el personal adscrito presupuestalmente a aquellos servidores cuyos nombramientos o ejercicio requiera la aprobación expresa del Gobernador del Estado; y
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-9.- EN LAS INSTITUCIONES POLICIALES Y DE PROCURACIÓN DE JUSTICIA.- Que se integran por las Policías Ministerial, Investigadora, Auxiliar, Guardia Estatal y el personal que labora en los Centros de Ejecución de Sanciones para adultos, o en los Centros de Reintegración Social y Familiar para Menores Infractores, que se rigen por sus propias disposiciones legales y reglamentarias, incluido el personal administrativo.
+9.- EN LAS INSTITUCIONES POLICIALES Y DE PROCURACIÓN DE JUSTICIA.- Que se integran por las Policías Ministerial, Investigadora, Auxiliar, Guardia Estatal, Guardia de Tránsito Estatal, y el personal que labora en los Centros de Ejecución de Sanciones para adultos, o en los Centros de Reintegración Social y Familiar para Menores Infractores, que se rigen por sus propias disposiciones legales y reglamentarias, incluido el personal administrativo.
 
 B).- EN EL PODER LEGISLATIVO:
 
@@ -1936,3 +1936,27 @@ P.O. 8 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O.28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-847 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRÁNSITO; DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes de la Dirección de Tránsito Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública, en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, en la Ley de Tránsito y su Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de certificación, evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y demás normatividad vigente, les serán aplicables a las personas integrantes que formen parte de la Dirección de Tránsito Estatal.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Dirección de Tránsito Estatal, por lo que deberán adecuarse (sic) la normatividad aplicable, a efecto de que se adopten las funciones en materia de tránsito.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
