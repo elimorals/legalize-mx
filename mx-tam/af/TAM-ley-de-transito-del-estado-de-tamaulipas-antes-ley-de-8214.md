@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2023-07-05"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -59,17 +59,53 @@ Para los efectos de esta ley, se entiende por vía pública, todo espacio públi
 
 Asimismo, se entenderá por:
 
-a) Agente de Tránsito.- El servidor público a cargo de la vigilancia del tránsito de vehículos y personas, en su calidad de Policía Preventivo de Tránsito, en términos de la Ley de Seguridad Pública para el Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-b) Infracción.- Es la consecuencia directa e inmediata, imputable a un conductor, peatón o pasajero que trasgreda alguna disposición de Tránsito, por la que le deriva una sanción.
+a) Agente de Tránsito.- La persona servidora pública municipal a cargo de la vigilancia del tránsito de vehículos y personas, en su calidad de Policía Preventivo de Tránsito, en términos de la Ley de Seguridad Pública para el Estado de Tamaulipas;
 
-c) Pasajero.- Persona que se encuentra a bordo de un vehículo automotor y no es el conductor.
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
-d) Peatón.- Persona que transita, a pie o con la ayuda de algún artefacto de uso personal, por la vía pública o zonas privadas con acceso al público.
+b) Guardia de Tránsito Estatal.- La persona integrante de la Dirección de Tránsito Estatal a cargo de la vigilancia del tránsito de vehículos y personas, autorizada para expedir y firmar las boletas de sanción con motivo de infracciones a las disposiciones en materia de tránsito, captadas mediante sistemas tecnológicos y equipos electrónicos portátiles;
 
-e) Secretaría.- La Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-f) Zona privada de acceso público.- Son todos aquéllos sitios en los que aún siendo propiedad privada, es factible que pueda transitar por éste cualquier persona o vehículo automotor, de tracción humana o animal, incluidos los accesos, estacionamientos, camellones, glorietas, puentes, banquetas y toda aquélla obra de infraestructura o instalación que sea susceptible de favorecer el tránsito de vehículos o personas, ya sea en tiendas departamentales, de autoservicio o en colonias, fraccionamientos o asentamientos humanos de índole reservada o privada.
+c) Infracción.- Es la consecuencia directa e inmediata, imputable a un conductor, persona peatona o pasajero que trasgreda alguna disposición de Tránsito, por la que le deriva una sanción, que podrá ser registrada manualmente en una boleta oficial o en el dispositivo electrónico que se disponga para tal fin;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+d) Pasajero.- Persona que se encuentra a bordo de un vehículo automotor y no es el conductor;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+e) Persona Peatona.- Persona que transita por la vía, a pie o que por su condición de discapacidad o de movilidad limitada utilizan ayudas técnicas para desplazarse, incluye menores de 12 años a bordo de un vehículo no motorizado;
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+f) Persona usuaria.- La persona que realiza desplazamientos haciendo uso del sistema de movilidad;
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+g) Personas usuarias de vehículos no motorizados.- Persona que realiza desplazamientos en vehículo no motorizado de tracción humana; incluye a aquellos asistidos por motor de baja potencia, que desarrolla velocidades no mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+h) Secretaría.- La Secretaría de Seguridad Pública;
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+i) Secretaría de Finanzas.- La Secretaría de Finanzas;
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+j) Sistema de movilidad.- Conjunto de elementos y recursos relacionados directa o indirectamente con el tránsito y la movilidad, cuya estructura e interacción permiten el desplazamiento de personas, bienes y mercancías en el espacio público;
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+k) Vías estatales de comunicación.- Los caminos, carreteras y puentes en términos de la Ley de Caminos del Estado de Tamaulipas; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE MAYO DE 2024)</small>
+
+l) Zona privada de acceso público.- Son todos aquéllos sitios en los que aún siendo propiedad privada, es factible que pueda transitar por éste cualquier persona o vehículo automotor, de tracción humana o animal, incluidos los accesos, estacionamientos, camellones, glorietas, puentes, banquetas y toda aquélla obra de infraestructura o instalación que sea susceptible de favorecer el tránsito de vehículos o personas, ya sea en tiendas departamentales, de autoservicio o en colonias, fraccionamientos o asentamientos humanos de índole reservada o privada.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -117,6 +153,54 @@ VI. Elaborar y colocar, de acuerdo con las Normas Oficiales Mexicanas aplicables
 
 VII. Las demás atribuciones que ésta y otras disposiciones legales les asignen.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+###### ARTICULO 3° Bis.
+
+A la persona titular de la Secretaría de Seguridad Pública a través de la Dirección de Tránsito Estatal, le compete:
+
+I.- Vigilar la observancia y aplicación de la ley de la materia, de los acuerdos y convenios que se suscriban, así como de las disposiciones de carácter administrativo que emanen de esos ordenamientos en materia de competencia estatal;
+
+II.- Dictar las medidas conducentes para la administración, vigilancia y control del tránsito en las vías públicas de jurisdicción estatal;
+
+III.- Proporcionar asesoría en materia de tránsito a los ayuntamientos que lo soliciten;
+
+IV.- Ejecutar, supervisar y controlar las actividades de tránsito;
+
+V.- Coordinar y supervisar las actividades de los elementos de la Guardia Estatal de Tránsito y de Vialidad;
+
+VI.- En el ámbito de su competencia, aplicar infracciones derivadas de la Ley de Tránsito y su Reglamento, y supervisar el pago de las mismas y de los derechos por servicios al público;
+
+VII.- Controlar la vigilancia del tránsito vehicular en vías públicas de jurisdicción del Estado, así como en las convenidas y coordinadas con los municipios y la Federación;
+
+VIII.- Opinar respecto del señalamiento de tránsito en las vías públicas;
+
+IX.- Establecer las restricciones para el tránsito de vehículos en las vías públicas de jurisdicción estatal, así como proponer en las convenidas y coordinadas con los municipios y la Federación con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público;
+
+X.- Inspeccionar y vigilar el salvamento, arrastre y traslado que realice el concesionario o permisionario que efectúe la prestación de los servicios auxiliares;
+
+XI.- Proponer los depósitos de vehículos que cuenten con concesión o permiso como lo establece la Ley de Transporte del Estado para que (sic) prestar los servicios auxiliares, en los vehículos que tengan que ser retirados de la circulación por motivo de sanciones administrativas;
+
+XII.- Apoyar y supervisar la capacitación de los aspirantes y de los integrantes de la Guardia de Tránsito Estatal;
+
+XIII.- Programar, apoyar y encauzar la educación vial;
+
+XIV.- Auxiliar a las autoridades judiciales y administrativas, tanto federales como estatales y municipales, así como militares, para el cumplimiento de sus determinaciones, siempre que lo requieran y sean procedentes;
+
+XV.- Cumplir y hacer cumplir en la esfera de su competencia, los ordenamientos federales y estatales en materia de protección del ambiente, del equilibrio ecológico y para prevención y control de la contaminación generada por vehículos automotores;
+
+XVI.- Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con el tránsito de peatones y de vehículos en caso de terremoto, explosión, inundación o cualquier otro siniestro, asalto, actos de vandalismo, manifestaciones y marchas, accidentes graves o cualquier alteración del orden público;
+
+XVII.- Autorizar y ordenar el retiro de la vía pública de los vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
+
+XVIII.- Atender y resolver las quejas del público, sobre la prestación del servicio de tránsito en las vías de jurisdicción estatal, así como, en su caso, los que se presten conjuntamente con autoridades municipales y federales;
+
+XIX.- Autorizar la transferencia del servicio público de tránsito que soliciten los municipios de acuerdo con los requisitos establecidos para tales efectos;
+
+XX.- Verificar que los municipios que soliciten la transferencia del servicio público de tránsito, previo a su autorización, acrediten que su personal cuenta con los cursos de capacitación correspondientes impartidos por la Universidad de Seguridad y Justicia de Tamaulipas, así como, en los municipios que ya cuenten con la transferencia de referencia, para que los agentes de tránsito municipales que hayan asignado tomen los cursos de capacitación y actualización correspondientes; y
+
+XXI.- Las demás que determinen la ley de la materia, y las que se justifiquen por las necesidades públicas.
+
 ###### ARTICULO 4º.
 
 Cuando en este ordenamiento se utilice la palabra Secretaría, se refiere a la de Seguridad Pública del Estado.
@@ -127,29 +211,37 @@ Cuando en este ordenamiento se utilice la palabra Secretaría, se refiere a la d
 
 Son autoridades de Tránsito:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-II.- El Secretario de Seguridad Pública;
+I.- La persona Titular del Poder Ejecutivo del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+
+II.- La persona Titular de la Secretaría de Seguridad Pública:
+
+1. La persona Titular de la Dirección de Tránsito Estatal; y
+
+2. Las personas integrantes de la Guardia de Tránsito Estatal;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 III.- Los Ayuntamientos del Estado, por cuanto hace a sus atribuciones propias y su circunscripción;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-IV.- Los Directores de Seguridad Pública Municipal;
+IV.- Las personas Titulares de las Direcciones de Seguridad Pública Municipal;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-V.- Los Directores o Delegados de Tránsito en los Municipios;
+V.- Las personas Titulares de las Direcciones o Delegaciones de Tránsito en los Municipios;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-VI.- Los Peritos de Tránsito;
+VI.- Las personas Peritos de Tránsito;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-VII.- Los Agentes de Tránsito; y
+VII.- Las personas Agentes de Tránsito; y
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -161,15 +253,21 @@ VIII.- Las demás que con ese carácter prevean las disposiciones reglamentarias
 
 Los Ayuntamientos, dentro del ámbito de su circunscripción y competencia, ejercerán las atribuciones que les confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas, el Código Municipal para el Estado de Tamaulipas, esta ley, y las demás disposiciones legales, acuerdos o convenios que celebren con apego a la ley.
 
-En el desempeño de sus atribuciones reglamentarias, darán satisfacción a los requisitos que establece esta ley y las demás disposiciones de carácter municipal para la validez de sus reglamentos.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-Estos contendrán, entre otras, las previsiones que regulen y faciliten el tránsito seguro y responsable de los peatones y automovilistas.
+En el desempeño de sus atribuciones reglamentarias, darán satisfacción a los requisitos que establecen esta ley y las demás disposiciones de carácter estatal y municipal para la validez de sus reglamentos.
 
-Al efecto, preveerán (sic) aquéllas disposiciones que resulten necesarias para cumplir el propósito de privilegiar la seguridad de las personas, el fortalecimiento y desarrollo de la cultura cívica y del respeto en la circulación y conducción de automotores, y de todas aquéllas disposiciones que garanticen el cumplimiento de la responsabilidad civil en caso de daños, lesiones o muerte con motivo del tránsito de vehículos.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+Estos contendrán, entre otras, las previsiones que regulen y faciliten el tránsito seguro y responsable de los peatones y automovilistas, de acuerdo con las leyes y reglamentos estatales.
 
-Los Ayuntamientos deberán establecer en sus Reglamentos, la obligación de las autoridades municipales competentes, de elaborar y colocar, de acuerdo a las Normas Oficiales Mexicanas aplicables, en cantidad suficiente en sus respectivas jurisdicciones, en general, y de manera particular, en zonas escolares, hospitalarias o de salud, recreativas y comerciales.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+Al efecto, preverán aquellas disposiciones que resulten necesarias para cumplir el propósito de privilegiar la seguridad de las personas, el fortalecimiento y desarrollo de la cultura cívica y del respeto en la circulación y conducción de automotores, y de todas aquellas disposiciones que garanticen el cumplimiento de la responsabilidad civil en caso de daños, lesiones o muerte con motivo del tránsito de vehículos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+Los Ayuntamientos deberán establecer en sus Reglamentos, de conformidad con las leyes y reglamentos estatales, la obligación de las autoridades municipales competentes, de elaborar y colocar, de acuerdo a las Normas Oficiales Mexicanas aplicables, en cantidad suficiente en sus respectivas jurisdicciones, en general, y de manera particular, en zonas escolares, hospitalarias o de salud, recreativas y comerciales.
 
 ###### ARTICULO 7º.
 
@@ -191,11 +289,11 @@ III.- Por el servicio que prestan.
 
 Las disposiciones reglamentarias estatales o las de los municipios, establecerán lo que corresponda a cada categoría.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 9°.
 
-Toda persona residente del Estado de Tamaulipas que sea propietario de vehículos automotores a los que esta Ley se refiere, previo a ponerlos en circulación deberán de registrarlos en la Secretaria; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación, seguro de responsabilidad civil de daños contra terceros y, en su caso la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
+Toda persona residente del Estado de Tamaulipas que sea propietaria de vehículos automotores a los que esta Ley se refiere, previo a ponerlos en circulación deberán de registrarlos en la Secretaría de Finanzas; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación, seguro de responsabilidad civil de daños contra terceros y, en su caso la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -235,9 +333,23 @@ ARTICULO 14 BIS.- Todo vehículo automotor que circule por las vías públicas e
 
 Los vehículos que no cuenten con placas del Estado de Tamaulipas y que circulen permanentemente en la entidad, deberán contar y portar póliza de seguro vigente a que hace referencia el párrafo anterior y con el engomado que previo pago, será expedido por la Secretaría de Finanzas a tales vehículos, siempre y cuando cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; este último deberá colocarse en el vehículo de forma visible adherido al vidrio parabrisas delantero lado derecho, con el que se acreditará ante las autoridades correspondientes que cuentan con la póliza de seguro vigente.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-La Guardia Estatal y las autoridades de tránsito municipal, conforme (sic) las facultades otorgadas en la ley correspondiente, podrán verificar que los vehículos cuenten con el engomado expedido por la Secretaría de Finanzas y la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; en caso de que el vehículo o el poseedor del mismo, no cuenten o no exhiban la póliza de seguro vigente o con el engomado referido según sea el caso, se emitirán las sanciones correspondientes.
+La Guardia Estatal deberá auxiliar a las autoridades de tránsito estatal y municipal, cuando así lo soliciten, conforme (sic) las facultades otorgadas en la ley correspondiente, o en caso de una infracción en flagrancia, podrá verificar que los vehículos cuenten con el engomado expedido por la Secretaría de Finanzas y la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; en caso de que el vehículo o el poseedor del mismo, no cuenten o no exhiban la póliza de seguro vigente o con el engomado referido según sea el caso, se emitirán las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+###### ARTICULO 14 Ter.
+
+Los Guardias de Tránsito Estatal o Agentes de Tránsito Municipal que violen las disposiciones legales y reglamentarias en la materia, o que en aplicación de las mismas soliciten el arrastre de un vehículo y su remisión a un depósito autorizado sin causa justificada, se le aplicarán las sanciones correspondientes.
+
+Los particulares pueden acudir ante la autoridad ministerial, la Dirección de Asuntos Internos de la Secretaría de Seguridad u órganos de disciplina de los municipios a denunciar presuntos actos ilícitos de los Guardias de Tránsito Estatal o Agentes de Tránsito municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+###### ARTICULO 14 Quater.
+
+Si con motivo del arrastre de un vehículo, éste sufriera daños o robo, las personas prestadoras del servicio de grúa de arrastre y/o de depósito autorizados de vehículos, tienen la obligación de reparar los daños o indemnizar económicamente al propietario del vehículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -260,6 +372,24 @@ IV.- Para demostración.
 ###### ARTICULO 16.
 
 Los peatones y las personas con discapacidad, tendrán preferencia en la circulación, por lo que los conductores de vehículos y motocicletas les guardarán la consideración debida y tomarán las precauciones necesarias para la protección y seguridad de su integridad física; cediéndoles el paso, cuando éstos se encuentren cruzando las calles y sobrevenga un cambio de señal de paso de los semáforos que regulan la circulación.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+###### ARTICULO 16 Bis.
+
+Las disposiciones de esta ley y la Secretaría priorizan en todo momento a las personas, los grupos en situación de vulnerabilidad, garantizando el uso y disposición de las vías, de acuerdo a la jerarquía de movilidad, siguiente:
+
+I.- Personas con discapacidad y movilidad limitada, y peatonas, con un enfoque equitativo diferenciado en razón de género;
+
+II.- Personas ciclistas y usuarias de vehículos no motorizadas;
+
+III.- Personas usuarias y prestadoras del servicio de transporte público de pasajeros, con un enfoque equitativo diferenciado;
+
+IV.- Persona prestadora de servicios de transporte y distribución de bienes y mercancías; y
+
+V.- Personas usuarias de vehículos motorizados particulares.
+
+Las autoridades de tránsito estatal y municipal establecerán en sus respectivos reglamentos el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
 
 ###### ARTICULO 17.
 
@@ -427,9 +557,11 @@ IX. En caso de extravío del permiso durante el embarazo, la mujer deberá repor
 
 X. En el supuesto de que el producto no se logre, deberá notificarse de este hecho al Sistema para el Desarrollo Integral de la Familia del Municipio que le compete, para los efectos administrativos correspondientes.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 26.
 
-Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tránsito, se retirarán por las autoridades competentes, trasladándolos a lotes oficiales.
+Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tránsito, se retirarán por las autoridades competentes, trasladándolos a depósitos oficiales autorizados.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -677,7 +809,9 @@ III.- Recibir y canalizar ante las autoridades competentes, las quejas de la com
 
 IV.- Las demás que a juicio de la Comisión Consultiva cumplan con sus objetivos, siempre que no contravengan las disposiciones de esta Ley y su Reglamento.
 
-### CAPITULO X. DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2024)</small>
+
+### CAPITULO X. DE LAS SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -789,6 +923,12 @@ Sin demérito del monto de tarifas que por multa prevé esta ley a los infractor
 
 En el ejercicio de sus atribuciones reglamentarias privilegiarán el cumplimiento de los preceptos constitucionales.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+###### ARTICULO 51 Bis.
+
+Contra las sanciones por infracción a las disposiciones normativas en la materia, procede el recurso de revisión expresado en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
 
 ### CAPITULO XI. DE LA PARTICIPACION CIUDADANA
@@ -805,33 +945,45 @@ Los ciudadanos, previa autorización de las autoridades de Tránsito Municipal o
 
 Los interesados en participar como Agente Ciudadano Auxiliar de Tránsito, deberán:
 
-I. Realizar solicitud por escrito ante las autoridades de Tránsito Municipal de coadyuvar como Agente Ciudadano Auxiliar de Tránsito cumpliendo con los requisitos que señalen las leyes respectivas.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-II.- Recibir capacitación vial, impartida de las autoridades de Tránsito Municipal.
+I.- Realizar solicitud por escrito ante las autoridades de Tránsito Estatal o Municipal de coadyuvar como Agente Ciudadano Auxiliar de Tránsito cumpliendo con los requisitos que señalen las leyes respectivas; y
 
-La autoridad de Tránsito Municipal, de considerarlo procedente, otorgará la acreditación como Agente Ciudadano Auxiliar de Tránsito, indicando la zona y el horario en que podrá realizar su coadyuvancia.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+II.- Recibir capacitación vial, impartida de las autoridades de Tránsito Estatal o Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+
+La autoridad de Tránsito Estatal o Municipal, de considerarlo procedente, otorgará la acreditación como Agente Ciudadano Auxiliar de Tránsito, indicando la zona y el horario en que podrá realizar su coadyuvancia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 54.
 
-Son facultades de los Agentes Ciudadanos Auxiliares de Tránsito, coadyuvar con las autoridades de Tránsito Municipal en lo siguiente:
+Son facultades de los Agentes Ciudadanos Auxiliares de Tránsito, coadyuvar con las autoridades de Tránsito Estatal o Municipal en lo siguiente:
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2007)</small>
 
 I.- Realizar acciones de coordinación y control del tráfico vial;
 
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2007)</small>
+
 II. Auxiliar a peatones; y
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 2007)</small>
+(ADICIONADA, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 29 DE MARZO DE 2007)
 
 III.- Divulgar los reglamentos y educación vial.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
 Los Agentes Ciudadanos Auxiliares de Tránsito, no podrán imponer sanciones o multas.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 55.
 
-La autoridad de Tránsito Municipal deberá comisionar personal oficial a las zonas y en horarios en que se autorice el apoyo de los Agentes Ciudadanos.
+La autoridad de Tránsito Estatal o Municipal deberá comisionar personal oficial a las zonas y en horarios en que se autorice el apoyo de los Agentes Ciudadanos.
 
 T R A N S I T O R I O S
 
@@ -1144,3 +1296,27 @@ P.O. 5 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-847 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE TRÁNSITO; DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes de la Dirección de Tránsito Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública, en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, en la Ley de Tránsito y su Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de certificación, evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y demás normatividad vigente, les serán aplicables a las personas integrantes que formen parte de la Dirección de Tránsito Estatal.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Dirección de Tránsito Estatal, por lo que deberán adecuarse la normatividad aplicable, a efecto de que se adopten las funciones en materia de tránsito.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
