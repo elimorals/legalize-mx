@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2024-03-12"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -331,9 +331,27 @@ l) En general, en cualquier situación que implique la pérdida o disminución d
 
 VII. Violencia vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+VIII. Violencia digital, es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Entre otras, se puede manifestar mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, ya sean propias o de otra persona que cause daño o perjuicio y que atente contra la integridad, la dignidad, la libertad o la vida privada de las mujeres.
+
+Para efectos de la presente fracción se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+
+IX. Violencia mediática, se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
+
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+ARTÍCULO 9 BIS.- Tratándose de violencia digital o mediática para garantizar la integridad de la víctima se ordenará a la autoridad competente las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley. En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La violencia digital y mediática será sancionada en la forma y términos que establezca el artículo 187 del Código Penal para el Estado Libre y Soberano de Guerrero, No. 499.
 
 ### CAPÍTULO II. DE LA VIOLENCIA FAMILIAR
 
@@ -1702,3 +1720,13 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 726 POR EL QUE SE ADICIONAN LAS FRACCIONES VIII, IX, SE REALIZA EL CORRIMIENTO DE LA ACTUAL FRACCIÓN VIII, PARA PASAR A SER LA FRACCIÓN X DEL ARTÍCULO 9; ASIMISMO, SE ADICIONA EL NUMERAL 9 BIS, A LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
