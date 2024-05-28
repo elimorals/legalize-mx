@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2024-02-27"
+last_updated: "2024-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1495,7 +1495,9 @@ La Secretaría, en coordinación con las autoridades competentes, orientará a l
 
 La Secretaría, en coordinación con las autoridades estatales y municipales, en sus respectivos ámbitos de competencia, evitarán la instalación o edificación de establecimientos comerciales, de servicios y casas habitación en las áreas circundantes en donde funcione cualquier establecimiento que implique un riesgo para la salud de la población.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VI. DE LA PREVENCION DEL SUICIDIO
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 73.
 
@@ -1505,13 +1507,37 @@ Corresponde a la Secretaría ejercer el control sanitario sobre los establecimie
 
 Todo establecimiento industrial que cuente con servicios médicos en sus instalaciones para efecto de atención de enfermedades o accidentes ocupacionales, requieren contar con autorización sanitaria y con médico responsable.
 
-### CAPITULO II. DE LAS ENFERMEDADES TRANSMISIBLES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
+### CAPITULO I. DISPOSICIONES COMUNES
+
+###### ARTICULO 74 Bis.
+
+La Secretaría dentro de sus atribuciones, implementará las acciones necesarias para la prevención de suicidio, acorde al Programa Nacional para la Prevención de Suicidio.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+
+###### ARTICULO 74 Ter.
+
+La Secretaría y en su caso en concurrencia con la federación y los municipios, en sus respectivos ámbitos de competencia, a fin de prevenir el suicidio, procurará las siguientes acciones:
+
+I.- Fomentar el desarrollo de actividades que contribuyan a la prevención de suicidio;
+
+II.- Promover la participación de la comunidad en la detección de personas con tendencia al suicidio, a fin de canalizarlas a las instancias de atención a la salud mental correspondientes;
+
+III.- Promover en la ciudadanía los medios de comunicación establecidos para recibir apoyo u orientación emocional;
+
+IV.- Brindar atención a las personas con tendencia al suicidio, mediante los servicios de salud mental correspondientes;
+
+V.- Procurar la formación de facilitadores para contribuir en la disminución de la depresión y el riesgo suicida; y
+
+VI.- Fomentar una cultura sustentada en valores y principios en torno a la autoafirmación de la dignidad humana, dirigida preferentemente a niñas, niños, adolescentes y jóvenes.
 
 ## TITULO OCTAVO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. DE LAS ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. DE LAS ENFERMEDADES TRANSMISIBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 ###### ARTICULO 75.
 
@@ -1529,7 +1555,7 @@ IV.- Promover la colaboración de las instituciones de los sectores público, so
 
 La Secretaría de Salud realizará acciones de inspección directa en los establecimientos y servicios previstos en la fracción II del artículo 3° de esta ley, para asegurarse del cumplimiento de las condiciones higiénico-sanitarias previstas en las disposiciones legales, previa solicitud de autorización judicial, cuando el caso lo amerite.
 
-### CAPITULO IV. DE LOS ACCIDENTES
+### CAPITULO III. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 76.
 
@@ -1649,9 +1675,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 La Secretaría determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
 
-### CAPITULO PRIMERO. DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+### CAPITULO IV. DE LOS ACCIDENTES
 
 ###### ARTICULO 88.
 
@@ -1693,9 +1717,9 @@ VI.- Establecer un sistema de comunicación constante y seguimiento médico de l
 
 VII.- Las demás que sean necesarias para asegurar el acceso a los mejores tratamientos en el ejercicio de la protección al derecho de acceso a la salud y acceso a la tecnología en ese padecimiento.
 
-### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
+### CAPITULO PRIMERO. DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 90.
 
@@ -1721,7 +1745,9 @@ V.- La promoción de la participación de la comunidad en su prevención.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 12 DE FEBRERO DE 2008)</small>
 
-### CAPITULO I. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
+### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 92.
 
@@ -1729,7 +1755,7 @@ La Secretaría de Salud implementará acciones entre las instituciones de salud,
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
-### CAPITULO II. DEL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
+### CAPITULO I. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
 
 ###### ARTICULO 93.
 
@@ -1737,7 +1763,7 @@ La Secretaría de Salud promoverá la participación de las organizaciones de la
 
 ## TITULO DECIMO. DE LAS ADICCIONES
 
-### CAPITULO III. DEL TABAQUISMO
+### CAPITULO II. DEL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTICULO 94.
 
@@ -1751,7 +1777,7 @@ El Consejo tendrá por objeto promover y apoyar las acciones de los sectores pú
 
 Con base en la disponibilidad presupuestal de la Secretaría de Salud, se promoverá la creación de un Instituto contra las adicciones, con objeto de promover, apoyar y ejecutar las acciones orientadas a la prevención del tabaquismo, alcoholismo y la fármaco dependencia.
 
-### CAPITULO IV. DE LA FARMACODEPENDENCIA
+### CAPITULO III. DEL TABAQUISMO
 
 ###### ARTICULO 96.
 
@@ -1783,9 +1809,7 @@ III.- Hábitos de consumo y abuso de bebidas alcohólicas en los ámbitos famili
 
 La información, resultados y conclusiones de las investigaciones, se utilizarán para establecer medidas y estrategias para evitar el abuso de bebidas alcohólicas. Los resultados de dicha información serán de acceso público, sin perjuicio de los derechos de propiedad intelectual, y estará sujeta a la normatividad en la materia.
 
-### CAPÍTULO V. DE LA LUDOPATÍA
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+### CAPITULO IV. DE LA FARMACODEPENDENCIA
 
 ###### ARTICULO 98.
 
@@ -1813,9 +1837,9 @@ IV.- Sobre los efectos negativos de la publicidad en relación con la incidencia
 
 La Secretaría coordinará con las instancias federales y estatales correspondientes, las acciones que se desarrollen contra el tabaquismo. Asimismo, promoverá y establecerá servicios de orientación y atención a fumadores que deseen abandonar el hábito e implementará acciones permanentes para evitar y disuadir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO UNICO
+### CAPÍTULO V. DE LA LUDOPATÍA
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 101.
 
@@ -1875,6 +1899,8 @@ Los establecimientos industriales, comerciales, de servicios, de artesanías y o
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 103 Bis.
 
 La Secretaría en coordinación con las autoridades sanitarias brindará atención, tratamiento y garantizará la prevención y protección de quienes padezcan ludopatía a través de un programa estatal que comprenda:
@@ -1899,7 +1925,7 @@ La Secretaría tendrá a su cargo la recopilación y procesamiento anual de la i
 
 ## TITULO DECIMO PRIMERO. DEL CONTROL SANITARIO DE LA PUBLICIDAD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 104.
 
@@ -1913,7 +1939,7 @@ Las disposiciones reglamentarias determinarán los productos y servicios en los 
 
 DEL CONTROL SANITARIO DE LOS ESTABLECIMIENTOS QUE PROCESEN BEBIDAS NO ALCOHOLICAS, ALCOHOLICAS Y QUE EXPENDAN TABACO.
 
-### CAPITULO II. DE LOS ESTABLECIMIENTOS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 106.
 
@@ -1949,7 +1975,7 @@ II.- En la venta o suministro de productos de tabaco se deberá exigir identific
 
 ## TITULO DECIMO TERCERO. DEL CONTROL SANITARIO EN MATERIA DE SALUBRIDAD LOCAL
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
 ###### ARTICULO 110.
 
@@ -1963,9 +1989,7 @@ Toda persona podrá denunciar ante la autoridad sanitaria cualquier hecho, acto 
 
 Los propietarios de los establecimientos a los que se refiere esta ley serán responsables de que el personal que labora en ellos, se practiquen exámenes médicos y de laboratorio, cuando menos dos veces al año, para efectos de obtener el certificado de salud.
 
-### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 113.
 
@@ -1985,7 +2009,9 @@ III.- Cuidar de la conservación, aseo, buen estado y mantenimiento de los mismo
 
 ARTICULO 114 BIS.- Los establecimientos con instalaciones para un aforo de más de 100 personas, a los que regularmente acudan niñas, niños, adolescentes y personas adultas, procurarán contar con baños públicos familiares, para la atención de niñas y niños menores de 10 años, y personas adultas mayores que para su uso se acompañen de una persona que los ayude y cuide. Este tipo de baños públicos deberán reunir los requisitos establecidos en la normatividad reglamentaria aplicable.
 
-### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 115.
 
@@ -2005,7 +2031,7 @@ El responsable de la construcción, reconstrucción, modificación o acondiciona
 
 ## TITULO DECIMO CUARTO. DE LAS AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. DE LOS CERTIFICADOS
+### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 117.
 
@@ -2069,7 +2095,7 @@ Los establecimientos que no requieren para su funcionamiento de autorización sa
 
 La autoridad sanitaria competente podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
-### CAPITULO UNICO
+### CAPITULO III. DE LOS CERTIFICADOS
 
 ###### ARTICULO 123.
 
@@ -2125,7 +2151,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
+### CAPITULO UNICO
 
 ###### ARTICULO 130.
 
@@ -2165,11 +2191,11 @@ Los certificados de muerte fetal serán expedidos por profesionales de la medici
 
 Los certificados enunciados se extenderán en los modelos aprobados y otorgados por la Secretaría y de conformidad con las Normas Oficiales Mexicanas.
 
-### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
 
 ## TITULO DECIMO QUINTO. DE LA VIGILANCIA SANITARIA
 
-### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 136.
 
@@ -2201,7 +2227,7 @@ En la diligencia de verificación sanitaria y recolección de muestras se deber�
 
 ## TITULO DECIMO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
-### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 142.
 
@@ -2291,7 +2317,7 @@ La suspensión de mensajes publicitarios en materia de salud, procederá cuando 
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la autoridad sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 151.
 
@@ -2373,9 +2399,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO V. DE LA PRESCRIPCION
 
 ###### ARTICULO 163.
 
@@ -2419,9 +2443,9 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 171.
 
@@ -2473,9 +2497,9 @@ II.- Que no se siga perjuicio al interés social, ni se contravengan disposicion
 
 III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
-### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
+### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 180.
 
@@ -2499,9 +2523,9 @@ Los interesados podrán hacer valer la prescripción, por vía de excepción. La
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
+### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 184.
 
@@ -2727,7 +2751,7 @@ La Secretaría de Salud del Estado queda facultada para realizar la interpretaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
+### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3003,7 +3027,7 @@ Comprobar, previamente a la extracción de los órganos y tejidos y por un médi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
+### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3189,31 +3213,7 @@ V. Las demás que le asignen el Consejo o su Presidente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este Comité será responsable de hacer la selección de disponentes y receptores de trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Los Establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3294,6 +3294,34 @@ XXIV. Las demás que para el cumplimiento de sus funciones le confieran otros or
 El Centro Estatal de Trasplantes y los comités internos correspondientes en cada establecimiento de salud, observarán los procedimientos señalados en la Ley General de Salud y en esta ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este Comité será responsable de hacer la selección de disponentes y receptores de trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los Establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 206.
 
@@ -3972,3 +4000,11 @@ P.O. 27 DE FEBRERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 28 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-848 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO VI DENOMINADO “DE LA PREVENCIÓN DEL SUICIDIO”, AL TÍTULO SÉPTIMO; Y LOS ARTÍCULOS 74 BIS Y 74 TER, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
