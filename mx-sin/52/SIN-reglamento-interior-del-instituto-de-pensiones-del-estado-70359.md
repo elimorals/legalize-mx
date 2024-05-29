@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-instituto-de-pensiones-del-estado-70359
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-02"
-last_updated: "2009-10-02"
+last_updated: "2024-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE PENSIONES DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE PENSIONES DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE PENSIONES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2024 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 2 de octubre de 2009.
 
@@ -696,3 +698,17 @@ Es dado en la ciudad de Culiacán Rosales, Sinaloa, a los treinta días del mes 
 El Director General del Consejo de Administración del Instituto de Pensiones del Estado de Sinaloa
 
 Lic. José Ernesto Peñuelos Castellanos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO DE PENSIONES DEL ESTADO DE SINALOA".]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de Pensiones del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" número 120 el día dos de octubre del año dos mil nueve.
+
+Artículo Tercero.- El Director General del Instituto de Pensiones del Estado de Sinaloa en cumplimiento del presente Reglamento Interior y conforme a sus facultades conferidas, dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del mismo, presentará propuesta de modificación al Manual de Organización para la autorización de la H. Junta de Gobierno del Instituto de Pensiones del Estado de Sinaloa.
+
+Artículo Cuarto.- Los asuntos pendientes al entrar en vigor este Reglamento Interior, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquellas unidades a las que se las (sic) haya atribuido la competencia conforme al mismo.
