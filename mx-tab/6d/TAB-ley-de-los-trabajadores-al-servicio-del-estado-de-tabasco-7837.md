@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2024-05-18"
+last_updated: "2024-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -87,7 +87,9 @@ Tratándose de trabajadores de confianza, las Entidades públicas de que se trat
 
 Para los efectos de esta Ley, se entenderán como titulares:
 
-I.- En el Poder Legislativo: El congreso del Estado, representado por el Presidente de la Gran Comisión;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+
+I. En el Poder Legislativo: El congreso del Estado, representado por el Presidente de la Junta de Coordinación Política;
 
 II.- En el Poder Ejecutivo: El Gobernador del Estado y, en sus dependencias los funcionarios de mayor jerarquía;
 
@@ -499,7 +501,9 @@ XII.- Impedir que se haga propaganda política, comercial o religiosa dentro de 
 
 XIII.- Impartir cursos de capacitación y adiestramiento para los trabajadores;
 
-XIV.- Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la Ley; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+
+XIV. Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la ley;
 
 XV.- Respetar los derechos otorgados a los trabajadores en los preceptos legales.
 
@@ -515,9 +519,13 @@ XVII.- Otorgar permiso de paternidad de cinco días laborales con goce de sueldo
 
 XVIII.- Otorgar permiso con goce de sueldo, al trabajador o trabajadora que lo solicite, hasta por un día laborable, para acudir a una institución de salud pública o privada a donar sangre de manera altruista, lo que deberá acreditar con la constancia expedida por la Institución a la que hubiere acudido;
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
 
-XIX. Otorgar licencia con goce de sueldo al trabajador o trabajadora que done órganos o tejidos de manera altruista, para lo cual deberá presentar previamente solicitud por escrito, acompañando los certificados o documentos que acrediten, el tipo de donación, análisis o estudios clínicos necesarios, la temporalidad de la intervención quirúrgica y de recuperación requeridos, mismos que constituirán el justificante correspondiente. En este caso, no deberán afectarse, suspenderse o disminuirse, total o parcialmente, la antigüedad, el salario, los bonos, las compensaciones, las prestaciones legales o extralegales o cualquier remuneración que venía recibiendo la persona donante hasta antes de la donación de que se trate.
+XIX.- Otorgar licencia con goce de sueldo al trabajador o trabajadora que done órganos o tejidos de manera altruista, para lo cual deberá presentar previamente solicitud por escrito, acompañando los certificados o documentos que acrediten, el tipo de donación, análisis o estudios clínicos necesarios, la temporalidad de la intervención quirúrgica y de recuperación requeridos, mismos que constituirán el justificante correspondiente. En este caso, no deberán afectarse, suspenderse o disminuirse, total o parcialmente, la antigüedad, el salario, los bonos, las compensaciones, las prestaciones legales o extralegales o cualquier remuneración que venía recibiendo la persona donante hasta antes de la donación de que se trate; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2024)</small>
+
+XX.- Otorgar, anualmente, permiso con goce de sueldo a las trabajadoras y a los trabajadores que lo soliciten, para acudir a realizarse estudios o análisis, con el objeto de prevenir o detectar algún tipo de cáncer; debiendo acreditarse dicha realización con los documentos correspondientes.
 
 ### CAPITULO II. DEL ESCALAFON
 
@@ -1209,11 +1217,11 @@ Las autoridades están obligadas a prestar auxilio al Tribunal de Conciliación 
 
 El Tribunal, para hacer cumplir sus determinaciones, podrán imponer multas hasta de siete veces el valor diario de la Unidad de Medida y Actualización; tratándose de los trabajadores y los titulares de las Entidades Públicas a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 129.
 
-Las multas se harán efectivas por la Secretaría de Planeación y Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+Las multas se harán efectivas por la Secretaría de Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
 ### CAPITULO IV. EJECUCION
 
@@ -1384,6 +1392,14 @@ DÉCIMO. A partir de la entrada en vigor del presente Decreto, quedan derogadas 
 P.O. 18 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO 239 POR EL QUE "SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 46 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 244 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 7 FRACCIÓN I; 46 FRACCIONES XIV Y XIX Y 129. SE ADICIONAN: LA FRACCIÓN XX, AL ARTÍCULO 46, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO".]
 
 PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
