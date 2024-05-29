@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-territorial-y-urbano-para-el-estado-de-zacatecas-y-13834
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-31"
-last_updated: "2024-02-03"
+last_updated: "2024-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de agosto de 2019.
 
@@ -4769,21 +4769,37 @@ Artículo sexto. El Consejo Estatal, las Comisiones Metropolitanas o Conurbadas 
 
 Artículo séptimo. Los Municipios gestionarán lo pertinente para que dentro de un plazo de un año se revisen y, en su caso, se expidan o actualicen los Programas Municipales de Desarrollo Urbano, Programas de Desarrollo Urbano de Centros de Población y sus Programas Parciales de Desarrollo Urbano, en los términos de este ordenamiento.
 
-Artículo octavo. Dentro del plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Código, los Ayuntamientos en el ejercicio de las facultades de inspección y vigilancia a que se refiere el presente ordenamiento, deberán elaborar un inventario de asentamientos humanos, fraccionamientos, colonias o condominios irregulares en sus municipios, a efecto de que se incorporen a los programas de desarrollo urbano, en su caso, de regularización, como una acción de mejoramiento de los centros de población. Transcurrido el plazo señalado para la elaboración del inventario en referencia, las autoridades competentes estarán obligadas a denunciar la existencia de nuevos asentamientos humanos que incumplan las disposiciones de este Código y de inmediato dictar las medidas de seguridad que procedan.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2024)</small>
 
-En (sic) inventario en referencia, deberá ser remitido a más tardar, dentro de los quince días hábiles contados a partir del vencimiento del plazo de ciento ochenta días señalado en el párrafo anterior, a esta Legislatura y a la Auditoría Superior del Estado para verificar su cumplimiento y para los efectos de revisión y fiscalización de la cuenta pública que corresponda.
+Artículo octavo. Se autoriza una prórroga de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto, para que los Ayuntamientos, en el ejercicio de las facultades de inspección y vigilancia a que se refiere el presente ordenamiento, elaboren el inventario de asentamientos humanos, fraccionamientos, colonias o condominios irregulares en sus municipios, y los mismos se incorporen a los programas de desarrollo urbano, en su caso, de regularización, como una acción de mejoramiento de los centros de población. Transcurrido el plazo señalado para la elaboración del inventario en referencia, las autoridades competentes estarán obligadas a denunciar la existencia de nuevos asentamientos humanos que incumplan las disposiciones de este Código, procediendo a la suspensión de cualquier obra o ventas de predios que se realicen ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundado en las disposiciones de la Ley General, este Código y será publicada en los periódicos de mayor circulación de la localidad, como advertencia pública, sin perjuicio de dictar las medidas de seguridad que procedan.
 
-Artículo noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Código, la Legislatura del Estado aprobará la ley en materia de expropiación.
+El inventario en referencia deberá ser remitido a esta Legislatura y a la Auditoría Superior del Estado dentro de los quince días hábiles siguientes a partir del vencimiento del plazo de ciento veinte días señalado en el párrafo anterior, para verificar su cumplimiento y para los efectos de revisión y fiscalización de la cuenta pública que corresponda.
+
+Los programas de desarrollo urbano para mejoramiento de los centros de población a que se refiere el artículo anterior, establecerán, entre otros, las normas previstas en la legislación urbana, particularmente, las señaladas en el artículo 89 del presente Código.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2024)</small>
+
+Artículo noveno. Con independencia de los procedimientos de revisión y fiscalización referidos en el artículo anterior, los Ayuntamientos del Estado, de forma paralela a la elaboración del inventario de asentamientos humanos, fraccionamientos, colonias o condominios irregulares, aprobarán programas de regularización de asentamientos humanos, fraccionamientos, colonias o condominios irregulares en sus municipios para que los mismos se incorporen a los programas de desarrollo urbano, conforme a lo siguiente:
+
+a) En relación con los asentamientos humanos, fraccionamientos, colonias o condominios irregulares que hubieren sido detectados o inventariados durante la vigencia del Código Urbano del Estado de Zacatecas, publicado en Suplemento 2 al número 73 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al 11 de septiembre de 1996, de manera fundada y motivada, los ayuntamientos podrán dispensar el cumplimiento de requisitos para la regularización de este tipo de inmuebles, de conformidad con dispuesto en los artículos 230, 238, 436, 437, 443, Sexto Transitorio y demás relativos y aplicables del Código en referencia.
+
+b) Para el caso de los asentamientos humanos, fraccionamientos, colonias o condominios irregulares detectados a partir de la vigencia del presente Código Territorial y Urbano para el Estado de Zacatecas y sus Municipios, deberán observar las previsiones establecidas en los programas de desarrollo urbano aprobados y la dispensa de algún requisito relativo a los procedimientos administrativos de regularización en los municipios incorporados en dichos programas, serán dictaminados por los Consejos Municipales o, en su caso, por el Consejo Estatal, en términos del presente Código.
+
+El dictamen de procedencia respecto de la regularización de un asentamiento humano deberá contener, de conformidad con el artículo 358 del Código en referencia, lo siguiente: la factibilidad jurídica, la factibilidad técnica urbanística; la justificación de beneficio social y público, y la congruencia con los programas y declaratorias de desarrollo urbano aplicables.
+
+Los programas y procedimientos de regularización deberán ser informados a esta Legislatura y a la Auditoría Superior del Estado, para verificar su cumplimiento y para los efectos de revisión y fiscalización de la cuenta pública que corresponda.
+
+Artículo décimo. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Código, la Legislatura del Estado aprobará la ley en materia de expropiación.
 
 En ese mismo plazo deberá armonizarse a las disposiciones de este Código la Ley de Construcción para el Estado y Municipios de Zacatecas y otros ordenamientos que resulten necesarios.
 
-Artículo décimo. Los procedimientos y asuntos pendientes de resolución cuyo trámite se haya iniciado antes de la vigencia de este Código, se tramitarán y resolverán conforme a las leyes que se abrogan.
+Artículo décimo primero. Los procedimientos y asuntos pendientes de resolución cuyo trámite se haya iniciado antes de la vigencia de este Código, se tramitarán y resolverán conforme a las leyes que se abrogan.
 
-Artículo décimo primero. Los recursos de inconformidad tramitados atendiendo las disposiciones del Código que se abroga, continuarán su proceso hasta su conclusión en los términos de dichas disposiciones.
+Artículo décimo segundo. Los recursos de inconformidad tramitados atendiendo las disposiciones del Código que se abroga, continuarán su proceso hasta su conclusión en los términos de dichas disposiciones.
 
-Artículo décimo segundo. Dentro de los sesenta días siguientes a la entrada en vigor de este Decreto, el titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias y en cumplimiento a lo establecido en el artículo 49 de este ordenamiento legal, emitirán la convocatoria pública respectiva para la constitución de los observatorios ciudadanos.
+Artículo décimo tercero. Dentro de los sesenta días siguientes a la entrada en vigor de este Decreto, el titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias y en cumplimiento a lo establecido en el artículo 49 de este ordenamiento legal, emitirán la convocatoria pública respectiva para la constitución de los observatorios ciudadanos.
 
-Artículo décimo tercero. Con el propósito de evitar la indebida utilización del agua, y generar condiciones de sustentabilidad urbana, los Ayuntamientos ordenarán y verificarán que a más tardar en un año a partir de la publicación del presente Código, todos los edificios públicos, como escuelas, hospitales, edificios municipales, y cualquier otro, independientemente que sirva al gobierno federal, estatal o municipal así como los que se destinen a la atención al público, como hoteles, terminales de camiones, restaurantes, cines, bares, centros de distracción y cualquier otro que preste servicio al público, en sus instalaciones de baños y sanitarios deberá sustituir los mingitorios ordinarios con alimentación de agua, por mingitorios de uso ecológico. Asimismo, deberán de sustituirse en el mismo plazo las tazas sanitarias que utilicen más de seis litros en su depósito por tazas que utilicen seis o menos litros en su funcionamiento por descarga.
+Artículo décimo cuarto. Con el propósito de evitar la indebida utilización del agua, y generar condiciones de sustentabilidad urbana, los Ayuntamientos ordenarán y verificarán que a más tardar en un año a partir de la publicación del presente Código, todos los edificios públicos, como escuelas, hospitales, edificios municipales, y cualquier otro, independientemente que sirva al gobierno federal, estatal o municipal así como los que se destinen a la atención al público, como hoteles, terminales de camiones, restaurantes, cines, bares, centros de distracción y cualquier otro que preste servicio al público, en sus instalaciones de baños y sanitarios deberá sustituir los mingitorios ordinarios con alimentación de agua, por mingitorios de uso ecológico. Asimismo, deberán de sustituirse en el mismo plazo las tazas sanitarias que utilicen más de seis litros en su depósito por tazas que utilicen seis o menos litros en su funcionamiento por descarga.
 
 Podrá además imponer multa hasta por cinco veces el valor de la Unidad de Medida y Actualización, de la autoridad responsable o del particular inclumplido (sic) con esta determinación, por cada verificación mensual que se realice, hasta que se cumpla debidamente, en los términos de este Código.
 
@@ -4806,3 +4822,11 @@ Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su
 Artículo Segundo. Se establece un plazo no mayor a noventa días para que se los Ayuntamientos modifiquen en lo conducente las disposiciones reglamentarias y establecer el procedimiento para el saneamiento y limpia de lotes baldíos, construcciones inconclusas y casas abandonadas, en los términos del presente Decreto.
 
 Artículo Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 520.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES TRANSITORIAS DEL CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
