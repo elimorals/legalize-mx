@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-03-22"
+last_updated: "2024-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -163,9 +163,17 @@ XV. Interculturalidad: El enfoque intercultural parte del reconocimiento y respe
 
 XVI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos, lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
-XVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y asegurando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
 
-XVIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes y discapacitados víctimas de violencia.
+XVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y asegurando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+
+XVIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes y discapacitados víctimas de violencia; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2024)</small>
+
+XIX. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
 
 ###### ARTÍCULO 3.
 
@@ -189,7 +197,9 @@ III. Violencia patrimonial.- Es cualquier acto u omisión que afecta la superviv
 
 IV. Violencia Económica.- Toda acción u omisión que afecta de manera directa o indirecta a la economía, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos, percepción de un salario menor por igual trabajo, explotación laboral, exigencia de exámenes de no gravidez, así como la discriminación para la promoción laboral, incumplimiento de las responsabilidades alimentarias, exclusión o discriminación en la toma de decisiones financieras o en la disposición de los recursos compartidos sin la voluntad de la víctima;
 
-V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad sexual, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y (sic)
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+
+V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
 
@@ -326,6 +336,10 @@ VII. Proporcionar atención psicológica y legal, especializada y gratuita a qui
 ###### ARTÍCULO 10.
 
 Violencia en la Comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2024)</small>
+
+ARTÍCULO 10 bis.- Acoso Sexual en Espacios Públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA DE FUNCIONARIOS PÚBLICOS
 
@@ -635,9 +649,13 @@ XIII. Celebrar convenios de cooperación, coordinación y concertación con los 
 
 XIV. Impulsar acciones para el otorgamiento de financiamientos preferentemente a mujeres, en especial, a jefas de familia o aquellas que sean o hayan sido víctimas de violencia, a fin de garantizar su derecho a la vivienda, mejorar su calidad de vida y la de sus familias, así como disminuir la brecha de género en esta materia.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2024)</small>
 
-XV. Las demás previstas en esta ley y en otras disposiciones aplicables.
+XV. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2024)</small>
+
+XVI. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2023)</small>
 
@@ -929,13 +947,17 @@ IX. Llevar a cabo programas de información a la población respecto de la viole
 
 X. Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
 
-XI. Garantizar la formación y capacitación a quienes integran la corporación policial para el cumplimiento eficiente de su responsabilidad, teniendo como base los derechos humanos y cualquier protocolo de actuación que proteja a las víctimas; y
+XI. Garantizar la formación y capacitación a quienes integran la corporación policial para el cumplimiento eficiente de su responsabilidad, teniendo como base los derechos humanos y cualquier protocolo de actuación que proteja a las víctimas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2024)</small>
 
-XII. Las demás previstas en esta ley y en otras disposiciones aplicables.
+XII. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2024)</small>
+
+XIII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LAS MEDIDAS DE PROTECCIÓN
 
@@ -1380,3 +1402,11 @@ P.O. 22 DE MARZO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 29 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 355 POR EL QUE "SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 2 QUATER; LA FRACCIÓN V DEL ARTÍCULO 5; LA FRACCIÓN XV DEL ARTÍCULO 23; LAS FRACCIONES XI Y XII DEL ARTÍCULO 31; Y SE ADICIONAN LA FRACCIÓN XIX AL ARTÍCULO 2 QUATER; EL ARTÍCULO 10 BIS; LA FRACCIÓN XVI AL ARTÍCULO 23 Y LA FRACCIÓN XIII AL ARTÍCULO 31, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
