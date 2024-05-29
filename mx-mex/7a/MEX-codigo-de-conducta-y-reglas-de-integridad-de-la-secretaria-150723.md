@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-la-secretaria-1507
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-17"
-last_updated: "2021-08-17"
+last_updated: "2024-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE DESARROLLO URBANO Y OBRA DEL GOBIERNO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE DESARROLLO URBANO E INFRAESTRUCTURA DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 29 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRA DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MAYO DE 2024 (ABROGADO).
 
 Código publicado en la Sección Primera del Número 30 de la Gaceta del Gobierno del Estado de México, el martes 17 de agosto de 2021.
 
@@ -466,3 +468,17 @@ TERCERO. Con el objeto de dar certeza a las personas servidoras públicas, el Co
 CUARTO. El presente Código entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 Metepec, México, a los siete días del mes de julio de dos mil veintiuno.- El Secretario de Desarrollo Urbano y Obra, Lic. Rafael Díaz Leal Barrueta.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 29 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE DESARROLLO URBANO E INFRAESTRUCTURA DEL GOBIERNO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se abroga el Código de Conducta y Reglas de Integridad de la Secretaría de Desarrollo Urbano y Obra del Gobierno del Estado de México, publicado en el periódico oficial “Gaceta del Gobierno” el 17 de agosto de 2021, así como las demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente Código.
+
+TERCERO. Con el objeto de dar certeza a las personas servidoras públicas, el Comité y el Órgano Interno de Control serán competentes para la interpretación, consulta y asesoría en caso de dudas con motivo de la aplicación u observancia del presente Código.
+
+CUARTO. El presente Código entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
