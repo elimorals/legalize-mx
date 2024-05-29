@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-organo-regulador-de-transporte-136533"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-05"
-last_updated: "2019-06-05"
+last_updated: "2024-05-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136533&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-30"
 ---
 # CODIGO DE CONDUCTA DEL ORGANO REGULADOR DE TRANSPORTE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DEL ORGANISMO REGULADOR DE TRANSPORTE, PUBLICADO EN LA G.O. DE 29 DE MAYO DE 2024, EL PRESENTE CÓDIGO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DEL ÓRGANO REGULADOR DE TRANSPORTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2024 (SIN EFECTOS).
 
 Código publicado en el Número 106 de la Gaceta Oficial de la Ciudad de México, el miércoles 5 de junio de 2019.
 
@@ -313,3 +315,15 @@ Ciudad de México, a los 30 días del mes de mayo de dos mil diecinueve.
 PÁVEL SOSA MARTÍNEZ,
 
 COORDINADOR GENERAL DEL ÓRGANO REGULADOR DE TRANSPORTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DEL ORGANISMO REGULADOR DE TRANSPORTE”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
+
+SEGUNDO.- Se deja sin efectos el “Acuerdo por el cual se da a conocer el Código de Conducta del Órgano Regulador de Transporte”, publicado en la Gaceta Oficial de la Ciudad de México No. 106, de fecha 5 de junio de 2019.
+
+TERCERO.- Se instruye a la Dirección Ejecutiva de Administración y Finanzas del Organismo Regulador de Transporte para que haga de conocimiento a todo el personal adscrito a esta Entidad el presente Código de Conducta mediante oficio y acuse, una vez publicado el mismo.
