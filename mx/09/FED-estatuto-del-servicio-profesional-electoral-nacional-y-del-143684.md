@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1436
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-07-23"
-last_updated: "2023-10-05"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143684&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-08"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2024.
 
 Estatuto publicado en el Número 18 del Diario Oficial de la Federación, el jueves 23 de julio de 2020.
 
@@ -1083,11 +1083,15 @@ El personal del Instituto, con motivo del nacimiento de un hijo o una hija, tend
 
 El personal del Instituto tendrá derecho a un permiso por adopción cuando adopte a una o un menor de edad, dicho permiso será concedido por un periodo de noventa días con goce de sueldo, posteriores al día en que el o la solicitante reciba a la persona menor de edad adoptada. Para tal efecto se deberá informar a la DEA y presentar la documentación legal que acredite los trámites de la adopción.
 
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2024)</small>
+
 ###### Artículo 56.
 
-Las madres trabajadoras tendrán derecho durante el periodo de lactancia a dos lapsos extraordinarios por día, de media hora cada uno, por un periodo de seis meses, que empezará a contar desde el momento en que la madre trabajadora se reincorpore a sus labores, después de haber concluido su licencia médica por embarazo, y no requerirá de formalidad alguna salvo petición por escrito de la trabajadora.
+Las madres trabajadoras tendrán derecho durante el periodo de lactancia a dos lapsos extraordinarios por día, de media hora cada uno, por un periodo de hasta dos años, que empezará a contar desde el momento en que la madre trabajadora se reincorpore a sus labores, después de haber concluido su licencia médica por embarazo, y no requerirá de formalidad alguna salvo petición por escrito de la trabajadora.
 
-Los lapsos para la lactancia podrán disfrutarse en un solo periodo de una hora, previo acuerdo con el jefe inmediato. En los casos en que la jornada laboral sea menor a la ordinaria, las madres trabajadoras tendrán derecho a un lapso de treinta minutos continuos o a dos lapsos de quince minutos cada uno.
+Los lapsos para la lactancia podrán disfrutarse en un solo periodo de una hora, previo acuerdo con el jefe inmediato.
+
+En los casos en que la jornada laboral sea menor a la mitad de la jornada ordinaria, las madres trabajadoras tendrán derecho a un sólo lapso de treinta minutos continuos o a dos lapsos de quince minutos cada uno.
 
 ###### Artículo 57.
 
@@ -5052,3 +5056,17 @@ Cuarto. Se instruye a la Dirección Ejecutiva de Administración para que realic
 Quinto. Se instruye a la Dirección del Secretariado y a la Dirección Jurídica para que, en el ámbito de sus respectivas competencias, actualicen y publiquen en la NormaINE, el Estatuto de conformidad con lo aprobado en el presente Acuerdo.
 
 Sexto. Publíquese el presente acuerdo en NormaINE, la Gaceta Electoral y en el portal de internet del Instituto; así como en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 56 DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, EN LO RELATIVO A LA AMPLIACIÓN DEL PERIODO DE LACTANCIA PARA EL PERSONAL DEL INSTITUTO NACIONAL ELECTORAL, EN CUMPLIMIENTO A LO ORDENADO POR EL ACUERDO INE/CG682/2023", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la reforma al artículo 56 del Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa, en lo relativo a la ampliación del periodo de lactancia para el personal del Instituto Nacional Electoral, en los términos del documento anexo que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se tiene por cumplido lo ordenado en el punto cuarto del Acuerdo INE/CG682/2023, en lo relativo a la ampliación del periodo de lactancia, establecido en el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa.
+
+TERCERO. El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Se instruye a la Dirección del Secretariado y a la Dirección Jurídica para que, en el ámbito de sus respectivas competencias, actualicen y publiquen en la NormaINE, el Estatuto de conformidad con lo aprobado en el presente Acuerdo.
+
+QUINTO. Publíquese el presente Acuerdo y su anexo en el portal de internet y en la Gaceta Electoral del Instituto Nacional Electoral.
