@@ -4,7 +4,7 @@ identifier: "HID-ley-de-becas-del-estado-de-hidalgo-93961"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-22"
-last_updated: "2023-09-22"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE BECAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE SEPTIEMBRE DE 2023 NO APLICA AL ARTICULADO DEL DECRETO 550 PUBLICADO EN EL P.O. DEL 18 DE AGOSTO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de abril de 2013.
 
@@ -227,7 +225,9 @@ VII.- Vocal: Un representante de la Unidad de Planeación y Prospectiva del Gobi
 
 VIII.- Vocal: La persona titular de la Asociación Estatal de Padres de Familia del Estado de Hidalgo.
 
-A las sesiones del Comité, se invitará a un representante de la Secretaría de la Contraloría del Gobierno del Estado, quien tendrá derecho a voz, pero sin voto.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
+A las sesiones del Comité, se invitará a un representante del Órgano Interno de Control de la Secretaría, quien tendrá derecho a voz, pero sin voto.
 
 Por cada propietario deberá nombrarse un suplente quien será designado en cada caso particular; asimismo, el Comité podrá contar con los asesores que considere de conformidad al (sic) Reglamento de la presente Ley; todos los cargos serán honoríficos.
 
@@ -251,7 +251,9 @@ VII.- Vocal: Un representante de la Unidad de Planeación y Prospectiva del Gobi
 
 VIII.- Vocal: Un representante del Sector Productivo o Social y de agrupaciones o asociaciones que representen al sector educativo, a invitación de la persona titular de la Secretaría.
 
-A las sesiones del Comité se invitará a un representante de la Secretaría de la Contraloría del Gobierno del Estado, quien tendrá derecho a voz, pero sin voto.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
+A las sesiones del Comité, se invitará a un representante del Órgano Interno de Control de la Secretaría, quien tendrá derecho a voz, pero sin voto.
 
 Por cada propietario deberá nombrarse un suplente quien será designado en cada caso particular; asimismo, el Comité podrá contar con los asesores que considere de conformidad al Reglamento de la presente Ley; todos los cargos serán de manera honorífica.
 
@@ -307,9 +309,9 @@ DE LOS CRITERIOS DE SELECCIÓN PARA EL OTORGAMIENTO DE BECAS AL ESTUDIO.
 
 Para el otorgamiento de becas prevalecerán los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-I.- Que la persona beneficiada forme parte de los grupos sociales en situación de vulnerabilidad, tales como personas en situación de pobreza, con alguna discapacidad, sea indígena o hija o hijo de migrantes, lo anterior de manera enunciativa mas no limitativa.
+I. Que la persona beneficiada forme parte de los grupos sociales en situación de vulnerabilidad, tales como personas en situación de pobreza, con alguna discapacidad, sea indígena o hija o hijo de migrantes, o que habiten en zonas de atención prioritarias rurales y urbanas, lo anterior de manera enunciativa mas no limitativa;
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
 
@@ -387,19 +389,41 @@ I.- Recibir puntualmente la beca correspondiente, previo cumplimiento a los requ
 
 II.- Recibir el comunicado a través del padre o tutor por parte del Comité a través de la o el director, sobre la asignación de la beca;
 
-III.- Recibir el monto de la beca otorgada;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+III.- Recibir el monto de la beca otorgada, por el lapso que dure la misma, siempre y cuando cumpla con las obligaciones establecidas en la ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+III Bis.- Solicitar la renovación de la beca, en caso de hacerse acreedor a ella;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2020)</small>
 
 IV.- Tener buena conducta durante el ciclo escolar;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-V.- Asistir a las reuniones o eventos en los que sean convocados por su Institución o la Autoridad Educativa; y
+V. Asistir a las reuniones o eventos en los que sean convocados por su institución o la Autoridad Educativa;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2020)</small>
 
 VI.- Cumplir con las obligaciones que se deriven de la presente Ley, su Reglamento y las Convocatorias.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VII. Procurar superar el promedio de calificaciones, o cuando menos, mantener el logrado al momento de otorgársele la beca;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VIII. Cubrir los requisitos que exijan las reglas de operación, el programa de becas con que fue beneficiado y las demás disposiciones establecidas en la presente ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+IX. Informar a la institución o a la Autoridad Educativa sobre cualquier cambio de plantel que hiciere, para regularizar su situación; e
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+X. Informar oportunamente a la institución o a la Autoridad Educativa sobre cualquier situación que le impida cumplir con algún requisito, o bien, le obstaculice recibir el beneficio.
 
 ## TITULO SEXTO. DE LAS CAUSAS DE EXCEPCIÓN, IMPROCEDENCIA Y CANCELACIÓN
 
@@ -477,6 +501,16 @@ En contra de las resoluciones que emita el Comité se podrá interponer el recur
 
 Los recursos que se obtengan a través de los convenios y programas que se incluyan como extraordinarios, se sujetarán a los principios y requisitos de elegibilidad debidamente validadas y autorizados por el Comité, administrados de acuerdo a las disposiciones reglamentarias internas de la Secretaría.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE MAYO DE 2024)</small>
+
+## TITULO OCTAVO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 28.
+
+El incumplimiento de las disposiciones de la presente ley, será sancionado en los términos que establece la Ley de Responsabilidades Administrativas del Estado de Hidalgo, sin perjuicio de lo que señalen otros ordenamientos legales.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -544,3 +578,9 @@ P.O. 18 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 932 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BECAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
