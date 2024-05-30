@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -547,9 +547,11 @@ El Sistema Educativo Estatal privilegiará la participación e inclusión de las
 
 Las personas con discapacidad tienen derecho al empleo y a la capacitación, en términos de igualdad, equidad y remuneración para su desarrollo personal y social.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
 ###### Artículo 45.
 
-Las Instituciones y Entidades de la Administración Pública con competencia en materia de empleo y formación profesional, serán las encargadas de formular políticas para la inserción e integración laboral de las personas con discapacidad.
+Las instituciones y entidades de la Administración Pública con competencia en materia de empleo y formación profesional, serán las encargadas de formular políticas para la inserción e integración laboral de las personas con discapacidad. Para tal efecto, se considerará procurar progresivamente los ajustes razonables que permitan la integración de espacios e instalaciones adecuadas para el acceso y desarrollo de actividades de las personas con discapacidad.
 
 ###### Artículo 46.
 
@@ -1079,6 +1081,10 @@ III.- Promover mejores condiciones laborales para las personas con discapacidad;
 
 IV.- Promover los derechos laborales de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+IV Bis.- Promover campañas de difusión que incentiven la contratación e inclusión de personas con discapacidad, tanto en el sector público como en el privado.
+
 V.- Velar por el cumplimiento de los derechos en materia laboral de las personas con discapacidad; y
 
 VI.- Estimular la inclusión de personas con discapacidad en empresas privadas.
@@ -1294,3 +1300,9 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 904 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 5 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 941 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
