@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-04-22"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -69,25 +69,17 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2024)</small>
 
 ###### Artículo 3.
 
-En los términos de la Ley General de Salud y de la presente Ley, corresponde a la Secretaría de Salud y a los organismos descentralizados sectorizados a esta Dependencia, en el ámbito de su competencia, organizar, operar, supervisar y evaluar la prestación de los siguientes servicios:
+En los términos de la Ley General de Salud y de la presente Ley, corresponde a la Secretaría de Salud y a los organismos descentralizados sectorizados a esta Dependencia, en el ámbito de su competencia, organizar, operar, supervisar, evaluar e implementar la prestación de los siguientes servicios:
 
 A.- EN MATERIA DE SALUBRIDAD GENERAL:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-I.- La atención médica de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad;
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-La atención a que se refiere esta fracción, incluye el otorgamiento gratuito de cubrebocas.
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
-
-En la prestación de este servicio se promoverá el uso de las tecnologías de la información y las comunicaciones para la creación de redes de telemedicina que amplíen la cobertura y aseguren su acceso.
+I.- La atención médica especializada de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad y de atención prioritaria;
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2023, PÁGINA 61, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II, DEL APARTADO A, DEL PRESENTE ARTÍCULO, PASÓ A REUBICARSE COMO UN SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 142.]</small>
 
@@ -365,11 +357,13 @@ Es competencia del Gobierno del Estado a través de la Secretaría de Salud y, e
 
 A.- En materia de salubridad general:
 
-I.- En el ámbito de su jurisdicción y en coordinación con el Ejecutivo Federal, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado A del Artículo 3º de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+I.- En el ámbito de su jurisdicción y en coordinación con el Ejecutivo Federal, organizar, administrar, operar, evaluar e implementar los servicios de salud a que se refiere el apartado A del Artículo 3º de esta Ley;
 
-I Bis.- Garantizar la atención primaria de la salud con personal médico de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+I Bis.- Garantizar la atención primaria de la salud con personal médico de calidad especializado, preferentemente en beneficio de grupos en situación de vulnerabilidad y grupos de atención prioritaria; para lo cual se deberá de disponer de personal debidamente especializado y certificado para atender de manera específica al caso concreto.
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
 
@@ -2700,3 +2694,9 @@ P.O. 22 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 927 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
