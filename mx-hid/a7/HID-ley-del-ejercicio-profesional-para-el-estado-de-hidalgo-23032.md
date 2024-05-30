@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2023-03-31"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -405,9 +405,11 @@ VII.- Cumplir con las disposiciones contenidas en el Código Civil del Estado, e
 
 Una vez cumplidos los requisitos señalados en el Artículo anterior, los aspirantes a colegios de profesionistas deberán solicitar el registro como colegio ante la Dirección de Profesiones, dentro de los treinta días naturales siguientes a la fecha de protocolización de la escritura con la que acrediten su constitución.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
 ###### ARTICULO 45.
 
-Para efectos de la fracción I del Artículo 43 de esta Ley, cuando se trate de profesiones de nueva creación o que no existan en el Estado, el mínimo de asociados que tendrá el colegio de que se trate, no será menor a veinte.
+Para efectos de la fracción I del artículo 43 de esta Ley, cuando se trate de profesiones de nueva creación o que no existan en el Estado, o bien, cuando el número de profesionistas inscritos en el Registro Profesional Estatal no alcance el mínimo requerido, se requerirá únicamente el equivalente al veinte por ciento de los profesionistas inscritos en el Registro referido.
 
 ###### ARTICULO 46.
 
@@ -794,3 +796,9 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 484 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 928 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
