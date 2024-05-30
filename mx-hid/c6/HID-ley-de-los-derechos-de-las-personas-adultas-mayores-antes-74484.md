@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -885,6 +885,12 @@ V.- Promover la creación de casas de día, como lugares en los que se brinda at
 
 El Instituto para la Atención de las Personas Adultas Mayores del Estado de Hidalgo, es un Organismo Descentralizado de la Administración Pública Estatal, que tiene como finalidad coordinar, promover, apoyar, fomentar, vigilar y evaluar las acciones, estrategias y programas en materia de atención a las personas adultas mayores en la Entidad; sus objetivos y atribuciones son los establecidos en su Decreto de creación.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+Con base en el Sistema Estatal de Información de Asistencia Social previsto en la Ley de Asistencia Social para el Estado de Hidalgo, corresponde al Instituto difundir: el Directorio Estatal de Instituciones de Asistencia Social; el Directorio nacional e internacional de instituciones de asistencia social; el Directorio de programas y/o proyectos de las dependencias que operan programas de asistencia social en la entidad; el Inventario de infraestructura y clasificación del recurso humano en materia de asistencia social; el Registro Estatal de Asistencia Social Pública y Privada y el Registro de programas en materia de atención de Personas Adultas Mayores, con el propósito de facilitar el acceso constante de esta información a las personas mayores.
+
 ### CAPÍTULO VIII. DENUNCIA POPULAR
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
@@ -1138,3 +1144,9 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 902 POR EL QUE SE ADICIONA EL NUMERAL 9 A LA FRACCIÓN VII DEL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 934 POR EL QUE SE ADICIONA EL ARTÍCULO 31 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
