@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-01-19"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -1317,9 +1317,9 @@ III.- Reducir y abatir los procesos de ocupación irregular de áreas y predios,
 
 IV.- Intervenir en el mercado de terrenos y garantizar la disponibilidad en tiempo y condición del suelo ubicado en las zonas de suelo urbanizable programado; y
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-V.- La programación de adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda, previendo escenarios que requieran de movilización de poblaciones o asentamientos humanos.
+V.- La programación de adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda, garantizando los derechos de vía para asegurar el diseño y construcción de una red de vialidades primarias, secundarias y locales que faciliten la accesibilidad, conectividad, la movilidad y el desarrollo de infraestructura urbana.
 
 ###### ARTICULO 84.
 
@@ -2800,3 +2800,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 614 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 914 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 83 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
