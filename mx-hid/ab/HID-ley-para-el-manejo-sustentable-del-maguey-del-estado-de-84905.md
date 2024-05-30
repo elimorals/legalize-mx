@@ -4,7 +4,7 @@ identifier: "HID-ley-para-el-manejo-sustentable-del-maguey-del-estado-de-84905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2016-12-31"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA EL MANEJO SUSTENTABLE DEL MAGUEY DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 20011.
 
@@ -175,6 +175,10 @@ XXII.- Población: El conjunto de individuos de una especie silvestre, que compa
 
 XXIII.- Proceso Productivo: La articulación de fases, componentes, medios de producción y fuerza de trabajo, mediante la cuales se obtienen un bien de origen agrícola, desde la documentación técnica administrativa, la materia prima y los insumos, hasta la producción, transformación y comercialización.
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XXIII Bis.- Producto: Al bien que resulta de un proceso productivo primario y consiste en la obtención de un fin principal de la explotación del maguey;
+
 XXIV.- Productor: Toda persona que tenga plantas de maguey en cualquier predio destinado a la agricultura o ganadería, o bien que las utilice como cerca o lindero en predios; en regiones semidesérticas a quienes las consideran árboles o aquellos que explotan a la planta y/o sus derivados con fines comerciales, con el objeto de proteger a sus plantas cuando así lo solicite el interesado.
 
 XXV.- Programa de aprovechamiento: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo sustentable del maguey.
@@ -193,13 +197,19 @@ XXXI.- Saneamiento: Las acciones técnicas encaminadas a combatir y controlar pl
 
 XXXII.- Sanidad: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades.
 
-XXXIII.- Secretaría: La Secretaría de Desarrollo Agropecuario.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XXXIII.- Secretaría: La Secretaría de Agricultura y Desarrollo Rural;
 
 XXXIV.- SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
 
 XXXV.- Sistema Estatal de Información Agropecuaria: Organismo de información agrícola y pecuaria creada por el Estado.
 
 XXXVI.- Sistema Producto: Es el conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos y servicios de la producción primaria, acopio, transformación, distribución y comercialización.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XXXVI Bis.- Subproducto: A los derivados del proceso de producción o maduración de la planta del maguey;
 
 XXXVII.- Vivero: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas o hijuelos con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
 
@@ -285,6 +295,10 @@ Corresponden a los Municipios, de conformidad con esta Ley, su Reglamento y las 
 
 I.- Diseñar, formular y aplicar, en concordancia con la política Federal y Estatal, la política en materia de desarrollo sustentable del maguey en el Municipio;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+I Bis.- Coordinarse con la Secretaría para la aplicación y ejecución de las políticas públicas de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey y sus productos y subproductos;
+
 II.- Aplicar los criterios previstos en esta Ley en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente reservadas a la Federación o el Estado;
 
 III.- Establecer acciones encaminadas al desarrollo sustentable del maguey, conforme al Plan Municipal de Desarrollo y sus programas operativos anuales;
@@ -306,6 +320,10 @@ X.- Desarrollar y apoyar viveros y programas de producción de plantas de maguey
 XI.- Llevar a cabo, en coordinación con el Ejecutivo Estatal, acciones de saneamiento dentro de su ámbito de competencia;
 
 XII.- Promover la participación de organismos públicos, privados y no gubernamentales en proyectos de apoyo directo al desarrollo sustentable del maguey;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XII Bis.- Promover ante la población en general la concientización del cuidado y preservación del maguey;
 
 XIII.- Involucrar y apoyar a todos los productores rurales, en su organización e implementación de los programas y acciones, que coadyuven al desarrollo sustentable del maguey dentro de su ámbito territorial de competencia;
 
@@ -329,17 +347,37 @@ La Secretaría ejercerá las atribuciones que esta Ley y su Reglamento le confie
 
 I.- Formular y conducir la política estatal de protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sustentable del maguey y sus materias primas derivadas, y asegurar su congruencia con la política de desarrollo agropecuario y rural, así como las relacionadas con la política ambiental y de recursos naturales;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+I Bis.- Coordinarse con los Municipios para la aplicación y ejecución de las políticas públicas de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos;
+
 II.- Diseñar los instrumentos de política previstos en esta Ley y operar los que correspondan a su competencia;
 
 III.- Diseñar y definir en el ámbito de su competencia, estímulos e incentivos económicos para la conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sustentable del maguey y sus materias primas derivadas, así como los lineamientos para su aplicación y evaluación;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+III Bis.- Capacitar y asesorar a las personas productoras en materia de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey;
+
 IV.- Regular la integración y actualización del Padrón Estatal de Productores de especies del género agave;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+IV Bis.- Llevar un control estadístico del cultivo de maguey en el Estado de Hidalgo;
 
 V.- Establecer los criterios, metodología y procedimientos para la integración, organización y actualización de la zonificación;
 
 VI.- Definir instrumentos para promover un mercado de los derivados, productos y subproductos del maguey;
 
 VII.- Establecer las medidas de sanidad;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VII Bis.- Promover ante las autoridades competentes la declaración de periodos de veda magueyera, para prohibir la explotación de las poblaciones magueyeras con fines de extracción de mixiote y pencas, así como de recolección de gusano rojo, gusano blanco y demás variedades;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VII Ter.- Impulsar programas sostenibles que permitan diversificar la comercialización de otros productos del maguey, tales como mieles y jarabes, fibras, pulpa para forraje, sustratos para producción de hongos, insumos de alimentos forrajeros, bagazos, así como el gusano rojo y blanco;
 
 VIII.- Llevar a cabo la inspección de actividades relacionadas con el maguey y sus materias primas derivadas;
 
@@ -422,6 +460,10 @@ Cuando la solicitud de una autorización sobre terrenos propiedad de un ejido o 
 La Secretaría suspenderá las autorizaciones de aprovechamiento en los siguientes casos:
 
 I.- Por resolución de autoridad judicial o jurisdiccional competente;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+I Bis.- Por veda magueyera declarada por las autoridades competentes;
 
 II.- Cuando exista conflicto respecto de la propiedad o posesión ante alguna autoridad o instancia competente;
 
@@ -627,6 +669,10 @@ Para el funcionamiento de centros de almacenamiento y transformación del maguey
 
 Los ejidatarios, comuneros y demás propietarios o poseedores de maguey, así como los titulares de aprovechamiento, los prestadores de servicios técnicos responsables de los mismos, en forma inmediata a la detección de plagas o enfermedades, estarán obligados a dar aviso de ello a la Secretaría.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+Todo productor de maguey tiene la obligación de aplicar las medidas establecidas por la Secretaría para la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos.
+
 ###### ARTÍCULO 41.
 
 La Secretaría establecerá las medidas fitosanitarias conducentes con el objeto de prevenir, confinar, excluir, combatir o erradicar las plagas que afectan al Maguey, sus productos o subproductos, cuando puedan representar un riesgo fitosanitario, a fin de alcanzar el estatus que permita mejorar la calidad de los productos y a acreditar la condición sanitaria de la producción.
@@ -677,9 +723,11 @@ Las medidas, programas e instrumentos económicos relativos al manejo sustentabl
 
 Sin perjuicio de lo que establezcan otras disposiciones legales, respecto de la coordinación en la materia entre los sectores público y privado y los distintos órdenes de gobierno, corresponderá a la Secretaría, en el ámbito de su competencia, conducir, coordinar o participar en la aplicación, otorgamiento y evaluación de las medidas, programas e instrumentos a que se refiere este Artículo.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-La Secretaría de Finanzas y Administración y la Secretaría, diseñarán, propondrán y aplicarán medidas para asegurar que el Estado, la sociedad y los particulares, coadyuven financieramente para la realización, de tareas de conservación, protección, restauración, vigilancia, ordenación y manejo sustentable del maguey.
+La Secretaría de Hacienda y la Secretaría, diseñarán, propondrán y aplicarán medidas para asegurar que el Estado, la sociedad y los particulares, coadyuven financieramente para la realización, de tareas de conservación, protección, restauración, vigilancia, ordenación y manejo sustentable del maguey.
 
 ###### ARTÍCULO 51.
 
@@ -893,6 +941,10 @@ III.- Llevar a cabo el aprovechamiento de maguey, en contravención a las dispos
 
 IV.- El incumplimiento de las condicionantes señaladas en las autorizaciones de aprovechamiento;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+IV Bis.- El incumplimiento de las medidas o acciones dictadas en una declaratoria de veda magueyera;
+
 V.- Carecer de la documentación o de los sistemas de control establecidos para acreditar la legal procedencia de magueyes y materias primas derivadas;
 
 VI.- Incumplir con la obligación de dar los avisos o presentar los informes a que se refiere esta Ley y su Reglamento;
@@ -1016,3 +1068,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 930 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO SUSTENTABLE DEL MAGUEY DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
