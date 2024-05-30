@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-promocion-al-emprendimiento-del-estado-de-1107
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-14"
-last_updated: "2023-06-15"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de diciembre de 2015.
 
@@ -41,7 +41,9 @@ QUE CONTIENE LA LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDA
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo; D E C R E T A:
 
-A N T E C E D E N T E S…
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -67,9 +69,17 @@ III. Fomentar un entorno favorable a las iniciativas emprendedoras para iniciar 
 
 IV. Establecer mecanismos que apoyen la viabilidad y continuidad de la iniciativa empresarial;
 
-V. Incentivar la innovación productiva en la que tomen parte las y los emprendedores; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-VI. Establecer el Fondo de Impulso y Promoción del Emprendimiento para empresas contribuyentes constituidas legalmente por las y los emprendedores.
+V. Incentivar la innovación productiva en la que tomen parte las y los emprendedores;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VI. Establecer el Fondo de Impulso y Promoción del Emprendimiento para empresas contribuyentes constituidas legalmente por las y los emprendedores; e
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VII. Incentivar la inclusión financiera, promoviendo el uso responsable de los productos y servicios financieros.
 
 ###### Artículo 3.
 
@@ -102,6 +112,10 @@ VIII. ICATHI: El Instituto de Capacitación para el Trabajo de Hidalgo;
 IX. IHCE: Instituto Hidalguense de Competitividad Empresarial;
 
 X. IHJ: Instituto Hidalguense de la Juventud;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+X BIS. Inclusión Financiera. El acceso y uso de servicios financieros formales bajo una regulación apropiada que garantice esquemas de protección al consumidor y promueva la educación financiera para mejorar la capacidad financiera de todos los segmentos de la población;
 
 XI. Incubadora: Instancia privada o pública, generalmente especializada en un sector económico, que evalúa la viabilidad técnica, financiera y de mercado de proyectos empresariales, además de proporcionar servicios integrales de asesoría; legal, administrativa, operativa y en financiamiento. Facilitando en algunos casos uso de espacio físico y equipo;
 
@@ -229,9 +243,15 @@ b. Acercar los avances científicos y tecnológicos que abran la posibilidad a l
 
 VI. Del Fondo de Impulso y Promoción del Emprendimiento;
 
-a. Promover esquemas de financiamiento y capitalización para los proyectos emprendedores viables, y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
 
-b. Las demás, respecto de las materias de su competencia, que establezcan las disposiciones legales y reglamentarias aplicables.
+a. Promover esquemas de financiamiento y capitalización para los proyectos emprendedores viables;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+b. Promover capacitación en materia de inclusión Financiera; y
+
+c. Las demás, respecto de las materias de su competencia, que establezcan las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 11.
 
@@ -240,6 +260,10 @@ Para alcanzar los objetivos señalados en el artículo segundo del Capítulo Pri
 I. De la cultura emprendedora;
 
 a. Promover la cultura y formación emprendedora incorporando actividades para guiar la transformación de ideas en proyectos en los contenidos de planes y programas optativos y/o extracurriculares en todos los niveles del Sistema Educativo Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+b. Impulsar un conjunto de aprendizajes mínimos en educación económico-financiera e Inclusión Financiera para niños y jóvenes que cursen educación obligatoria.
 
 II. De los esquemas de colaboración;
 
@@ -440,3 +464,9 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Reglamento de la presente Ley, para el cumplimiento de lo establecido en el presente Decreto, en un plazo no mayor a 180 días naturales posteriores a la fecha de su entrada en vigor.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 911 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
