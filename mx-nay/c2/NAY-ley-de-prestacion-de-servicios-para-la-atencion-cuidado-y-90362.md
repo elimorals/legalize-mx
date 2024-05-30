@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-90362
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-03"
-last_updated: "2016-11-08"
+last_updated: "2024-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 3 de noviembre 2012.
 
@@ -1086,3 +1088,17 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Prestación de Servicios para la Atención, Cuidados y Desarrollo Integral Infantil, publicada en el Periódico Oficial del Estado de Nayarit el 3 de noviembre de 2012 y se derogan las disposiciones contrarias a esta Ley.
+
+TERCERO. Las modificaciones a las disposiciones reglamentarias de esta Ley deberán ser expedidas por la persona Titular del Poder Ejecutivo del Estado, dentro de los sesenta días naturales posteriores a su entrada en vigor.
+
+CUARTO. La Secretaría de Educación notificará a los Prestadores de Servicios que se encuentren operando con anterioridad a la entrada en vigor de esta Ley, para que en un plazo de treinta días naturales actualicen la información que, de conformidad con la presente Ley, en su caso, les hiciere falta, para el cumplimiento de los requisitos para el funcionamiento del Centro de Atención.
+
+QUINTO. El Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil tendrá un plazo de noventa días naturales contados a partir de la entrada en vigor para elaborar un diagnóstico sobre el estado que guardan los Centros de Atención en la entidad, con especial atención a las medidas de protección civil, salud e higiene de los Centros de Atención.
