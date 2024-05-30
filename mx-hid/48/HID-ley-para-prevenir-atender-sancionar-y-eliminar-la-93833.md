@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2024-04-22"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -115,6 +115,10 @@ Es obligación de todas las autoridades del Gobierno del Estado de Hidalgo, Ayun
 
 Las autoridades del Gobierno del Estado, Ayuntamientos y Entidades Estatales y Municipales y Organismos Públicos Autónomos obligadas por esta Ley, deberán adoptar las acciones que estén a su alcance para el cumplimiento de sus obligaciones, a efecto de promover las medidas preventivas, positivas y compensatorias a favor de la no discriminación y la igualdad real de oportunidades y de trato, así como, acciones afirmativas, las cuales se encargarán de eliminar alguna posible inequidad de género en sectores o grupos específicos.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+Asimismo, vigilarán, inspeccionarán y promoverán que los centros de trabajo públicos y privados, integren, implementen y ejecuten dentro de sus procesos de gestión y de recursos humanos, prácticas para la igualdad laboral de las y los trabajadores, con base en las Normas Oficiales Mexicanas de la materia.
+
 ###### Artículo 7.
 
 En la aplicación e interpretación de esta Ley, las dependencias, organismos y entidades del Gobierno del. Estado de Hidalgo y los Ayuntamientos, en la prestación de sus servicios públicos y organización administrativa, deberán tomar en cuenta:
@@ -180,6 +184,10 @@ XIV. Misoginia: Tendencia a la aversión, que puede ser patológica o no, a las 
 XV. Perspectiva de Género: Principio sustentado en una visión científica, analítica y política sobre la igualdad de oportunidades y de trato entre mujeres y hombres y el acceso al ejercicio efectivo de sus derechos y oportunidades, excluido de toda discriminación por cuestión de género.
 
 XVI. Servidores Públicos: Los señalados como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, así como las Leyes que de ellas emanen;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XVI Bis. Tecnologías de la Información y la Comunicación: Aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
 XVII. Violencia Institucional: Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades;
 
@@ -279,9 +287,9 @@ XII. Aplicar o permitir usos o costumbres que atenten contra la igualdad, dignid
 
 XIII. Impedir la libre elección de cónyuge, concubina, concubinario o pareja;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-XIV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación;
+XIV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación, incluidas las tecnologías de la información y comunicación;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -435,9 +443,13 @@ V. Crear medidas educativas, así como diseñar y desarrollar campañas que prom
 
 VI. Implementar la elaboración y difusión de programas orientados a erradicar la discriminación;
 
-VII. Prohibir la difusión de contenidos discriminatorios, en los medios de comunicación oficial y privados;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-VIII. Establecer, a través de los medios de comunicación oficial, prácticas orientadas a erradicar la discriminación en los contenidos que los propios medios oficiales y privados difundan;
+VII. Prohibir la difusión de contenidos discriminatorios, en los medios de comunicación oficial y privados, incluidos aquellos difundidos mediante las tecnologías de la información y la comunicación;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VIII. Establecer, a través de los medios de comunicación oficial y mediante el uso de las tecnologías de la información y la comunicación, prácticas orientadas a erradicar la discriminación en los contenidos que los propios medios oficiales y privados difundan;
 
 IX. Informar, sensibilizar, capacitar y formar de manera permanente a las y los servidores públicos, en materia de derechos humanos con perspectiva de género, igualdad de oportunidades, de trato y no discriminación;
 
@@ -739,7 +751,9 @@ III. Generar un sistema de becas que fomente la alfabetización, la conclusión 
 
 IV. Crear programas permanentes de sensibilización y capacitación para las personas que presten sus servicios en el sector público, con contenidos relativos a la diversidad cultural, a efecto de que estos les otorguen atención de calidad lo que les favorezca en el ejercicio de programas dirigidos a esta población;
 
-V. Emprender campañas permanentes de información en los medios de comunicación, que promuevan el respeto a las culturas indígenas, en el marco de los derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+V. Emprender campañas permanentes de información en los medios de comunicación, incluidas las tecnologías de la información y la comunicación que promuevan el respeto a las culturas indígenas, en el marco de los derechos humanos;
 
 VI. Procurar que en el marco de las Leyes aplicables, cuando se fijen sanciones penales a las personas indígenas, y tratándose de penas alternativas, se les imponga aquella distinta a la privativa de libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
 
@@ -1011,7 +1025,9 @@ III. Participar en la elaboración del Plan Estatal de Desarrollo en el ámbito 
 
 IV. Desarrollar, fomentar y difundir estudios sobre las prácticas discriminatorias en los ámbitos político, económico, social y cultural del Estado;
 
-V. Difundir a través de los medios de comunicación masiva, contenidos para prevenir y eliminar toda clase de prácticas discriminatorias;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+V. Difundir a través de los medios de comunicación masiva, incluidas las tecnologías de la información y la comunicación contenidos para prevenir y eliminar toda clase de prácticas discriminatorias;
 
 VI. Elaborar y suscribir convenios, acuerdos, bases de coordinación, colaboración y demás instrumentos necesarios, para el cumplimiento de sus obligaciones;
 
@@ -1434,3 +1450,15 @@ P.O. 22 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 839 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 922 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 940 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
