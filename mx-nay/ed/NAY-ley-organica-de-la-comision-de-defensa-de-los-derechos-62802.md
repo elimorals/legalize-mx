@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2023-11-14"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -523,7 +523,9 @@ XXVI. Emitir los acuerdos necesarios para el funcionamiento interior de la Presi
 
 XXVII. Nombrar y remover, en los términos previstos por esta ley, su reglamento y demás disposiciones aplicables, al personal de la Comisión;
 
-XXVIII. Someter a la aprobación del Consejo la designación de quien habrá de fungir como Secretario Ejecutivo y Visitador General de la Comisión;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XXVIII. Designar a quienes habrán de fungir como Secretario Ejecutivo y Visitador General de la Comisión;
 
 XXIX. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
@@ -699,9 +701,11 @@ APARTADO PRIMERO
 
 DESIGNACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 44.
 
-El Secretario Ejecutivo y el Visitador General serán nombrados por el Consejo de la Comisión, de una terna que en cada caso propondrá el Presidente de la Comisión, deberán reunir los requisitos señalados por esta ley; la remuneración económica por el ejercicio de su cargo no podrá ser menor al que percibe un Juez de Primera Instancia, así como el pago de viáticos, alimentos y hospedaje, según sean necesarios en el desempeño de sus funciones.
+El Presidente de la Comisión, designará a la persona titular de la Secretaria Ejecutiva y a la persona titular de la Visitaduría General, quienes deberán reunir los requisitos señalados por esta ley; la remuneración económica por el ejercicio de su cargo no podrá ser menor al que percibe un Juez de Primera Instancia, así como el pago de viáticos, alimentos y hospedaje, según sean necesarios en el desempeño de sus funciones.
 
 ###### ARTÍCULO 45.
 
@@ -1762,3 +1766,11 @@ P.O. 14 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit.
