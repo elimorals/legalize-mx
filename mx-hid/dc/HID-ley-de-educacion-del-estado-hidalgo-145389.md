@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -39,11 +39,11 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 En tal contexto, el Dictamen que contiene la Ley de Educación del Estado de Hidalgo, se armoniza con lo dispuesto en la Ley General de Educación, actualizando supuestos y ámbitos de competencia, que permite construir un ordenamiento jurídico eficaz y actualizado en beneficio de las y los hidalguenses.
 
@@ -709,7 +709,9 @@ En la orientación integral de las y los educandos se considerará lo siguiente:
 
 I. El pensamiento lógico matemático y la alfabetización numérica;
 
-II. La comprensión lectora, la expresión oral y escrita, y la literacidad, con elementos de la lengua que permiten la construcción de conocimientos correspondientes a distintas disciplinas y favorecen la interrelación entre ellos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II. Las acciones para fomentar las habilidades lectoras, la expresión oral y escrita, y la literacidad, con elementos de la lengua que permiten la construcción de conocimientos correspondientes a distintas disciplinas y favorecen la interrelación entre ellos;
 
 III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento, manejo de diferentes lenguajes y herramientas de sistemas informáticos de comunicación para el desarrollo de las habilidades digitales;
 
@@ -740,6 +742,12 @@ XIII (SIC). La educación emocional; la cual se entiende como el proceso educati
 ###### Artículo 61.
 
 Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, artísticos, sociales, biológicos, comunitarios y plurilingües, así como en el ejercicio de valores y la convivencia sana, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 61 Bis.
+
+Las instituciones educativas de nivel básico procurarán fomentar en las y los alumnos las habilidades lectoras, a través de la organización periódica de ferias de libros, talleres de creación literaria infantil, concursos de cuentos y de comprensión lectora, y del fomento de clubes y círculos de lectura e intercambio de libros, entre otras actividades.
 
 ###### Artículo 62.
 
@@ -959,6 +967,10 @@ II. Ser respetados en su integridad, identidad y dignidad, además de la protecc
 
 III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+III. Bis. Recibir educación emocional complementaria que les brinde las herramientas necesarias para desarrollar su máximo potencial;
+
 IV. Ser respetados por su libertad de convicciones éticas, de consciencia y de religión.
 
 V. Recibir una orientación educativa y vocacional;
@@ -1040,6 +1052,10 @@ Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre ot
 I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, para fortalecer la cohesión comunitaria y una convivencia democrática;
 
 II. Promover en la formación docente, contenidos y prácticas relacionados con la cultura de la paz y la resolución pacífica de conflictos;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II Bis. Incorporar breves periodos para recibir educación emocional, que coadyuven en el desarrollo de su máximo potencial;
 
 III. Proporcionar atención psicosocial y, en su caso, orientación sobre las vías legales a la persona agresora y a la víctima de violencia o maltrato escolar, ya sea psicológico, físico o cibernético, así como a las receptoras indirectas de maltrato dentro de las escuelas;
 
@@ -1177,9 +1193,17 @@ V. Promover la integración de un acervo físico y digital en las instituciones 
 
 VI. Promover la acreditación de grados académicos superiores de los docentes;
 
-VII. Promover la investigación educativa y su financiamiento, a través de programas permanentes y de la vinculación con instituciones de educación superior y centros de investigación, y;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-VIII. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional.
+VII. Promover la investigación educativa y su financiamiento, a través de programas permanentes y de la vinculación con instituciones de educación superior y centros de investigación;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VIII. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+IX. Fomentar la capacitación docente en materia de ciencia, tecnología e innovación.
 
 ###### Artículo 103.
 
@@ -2360,3 +2384,21 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 890 POR EL QUE SE REFORMA EL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 917 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 931 POR EL QUE SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 102 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 945 POR EL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
