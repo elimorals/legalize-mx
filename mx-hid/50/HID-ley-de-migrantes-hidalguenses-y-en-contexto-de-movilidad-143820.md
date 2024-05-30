@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -447,11 +447,15 @@ X.- Que sean entrevistados por un intérprete que pueda entenderlos, en caso de 
 
 XI.- Presentar denuncias y quejas, ante las instancias correspondientes, por el incumplimiento de esta Ley;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-XII.- Tratándose de niña, niño o adolescente migrante no acompañado, corresponderá al Sistema Estatal para el Desarrollo Integral de la Familia, garantizar la asistencia adecuada del menor atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, además deberá darse vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia del Estado de Hidalgo; y
+XII.- Tratándose de niña, niño o adolescente migrante no acompañado, corresponderá al Sistema Estatal para el Desarrollo Integral de la Familia, garantizar la asistencia adecuada del menor atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, además deberá darse vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia del Estado de Hidalgo;
 
-XIII.- Los demás que les reconozcan y confieran las normas jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XIII.- No ser criminalizadas o criminalizados, con motivo de su condición migratoria irregular; y
+
+XIV.- Los demás que les reconozcan y confieran las normas jurídicas aplicables.
 
 ###### Artículo 8.
 
@@ -780,3 +784,9 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 895 QUE REFORMA EL ARTÍCULO 38 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 942 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
