@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-04-16"
+last_updated: "2024-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -83,13 +83,17 @@ VII. Establecer las bases y lineamientos, conforme a las cuales el Consejo de Ci
 
 VIII.- Regular la aplicación de recursos destinados para el financiamiento de la investigación, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado, la divulgación científica, así como la formación y el estímulo de investigadores tecnólogos en el Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-IX.- Establecer las acciones y programas que propicien el acercamiento de la sociedad a la actividad científica y tecnológica, así como promover la generación de espacios, donde puedan desarrollar su capacidad innovadora, y
+IX.- Establecer las acciones y programas que propicien el acercamiento de la sociedad a la actividad científica y tecnológica, así como promover la generación de espacios, donde puedan desarrollar su capacidad innovadora;
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-X.- Divulgar y garantizar el acceso abierto a la información científica, tecnológica y de innovación en el Estado.
+X.- Divulgar y garantizar el acceso abierto a la información científica, tecnológica y de innovación en el Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XI.- Fomentar el trámite y registro de la propiedad intelectual y de patentes que se generen a partir del conocimiento científico, tecnológico y de la innovación.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -317,13 +321,17 @@ XIII.- Recibir y revisar los informes de impacto del avance científico, el desa
 
 XIV. Proponer, con base en los elementos que le proporcionen los comités intersectoriales y de vinculación, los lineamientos generales del parque científico e impulsar su conformación y operación en las diversas regiones del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-XV. Realizar el seguimiento y conocer la evaluación general del Programa y del presupuesto anual destinado a la ciencia, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado y los demás instrumentos de apoyo a estas actividades; y
+XV. Realizar el seguimiento y conocer la evaluación general del Programa y del presupuesto anual destinado a la ciencia, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado y los demás instrumentos de apoyo a estas actividades;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-XVI. Promover la investigación científica en los jóvenes investigadores en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa.
+XVI. Promover la investigación científica en los jóvenes investigadores en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XVII. Fomentar el trámite y registro de la propiedad intelectual y de patentes que se generen a partir del conocimiento científico, tecnológico y de la innovación.
 
 ###### ARTÍCULO 8.
 
@@ -485,7 +493,7 @@ ARTÍCULO 13 BIS.- Las personas investigadoras, expertas en tecnología o que pe
 
 #### SECCIÓN I. DEL SISTEMA ESTATAL DE INFORMACIÓN CIENTIFICA, TECNOLÓGICA Y DE POSGRADO
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
@@ -1154,3 +1162,9 @@ P.O. 16 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 832 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 910 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
