@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-04-04"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -103,7 +103,9 @@ X.- Promover acuerdos con instancias municipales, estatales, nacionales o intern
 
 XI.- Elaborar campañas permanentes de fomento a la lectura en los municipios, así como el establecimiento de librerías, y otros espacios públicos y/o privados para la lectura y difusión del libro;
 
-XII.- Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a quienes poseen capacidades diferentes;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XII.- Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a personas con algún tipo de discapacidad;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
@@ -714,3 +716,9 @@ P.O. 4 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Congreso del Estado Libre y Soberano de Hidalgo adoptará las medidas necesarias para procurar que, dentro de un plazo no mayor de noventa días, contados a partir de la entrada en vigor de este Decreto, se realice la Primera Edición de la Feria del Libro del Congreso del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 909 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 2 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
