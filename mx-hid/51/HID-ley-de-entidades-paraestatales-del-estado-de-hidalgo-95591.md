@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -541,6 +543,16 @@ Las certificaciones que expida el Registro Público de los Organismos Descentral
 
 El Registro Público de los Organismos Descentralizados, procederá a la cancelación de las inscripciones cuando se cumpla cualquiera de los supuestos citados en el Artículo 9 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 32 Bis.
+
+Cada Organismo Público Descentralizado deberá contar con una Unidad Institucional para la Igualdad entre Mujeres y Hombres, con el nivel mínimo de Dirección, dependiente de la Dirección General.
+
+La Unidad Institucional para la Igualdad entre Mujeres y Hombres, tendrá como función principal, la de vigilar la incorporación de la perspectiva de género en la planeación, organización, ejecución y evaluación de los procesos administrativos sustantivos del organismo, así como garantizar la institucionalización de la igualdad sustantiva, con base en los (sic) establecido en la Ley para la Igualdad entre (sic) y Hombres del Estado de Hidalgo.
+
+La persona titular de dicha Unidad debe ser designada por su Órgano de Gobierno en términos de lo previsto en el artículo 14, fracción XI, de esta ley.
+
 ### CAPÍTULO IV. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
 ###### Artículo 33.
@@ -860,3 +872,11 @@ P.O. 17 DE MAYO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 938 POR EL QUE SE ADICIONA EL ARTÍCULO 32 BIS A LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Cada Organismo Público Descentralizado de la entidad, durante los primeros 180 días del ejercicio fiscal siguiente a la entrada en vigor del presente Decreto, deberá efectuar los actos tendentes a la creación de su Unidad Institucional para la Igualdad entre Mujeres y Hombres.
