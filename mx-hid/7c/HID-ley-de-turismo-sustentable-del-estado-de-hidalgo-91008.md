@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -483,9 +483,13 @@ XI.- La Secretaría, en coordinación y con base en los lineamientos que determi
 
 XII.- Coadyuvar con la Secretaría de Salud de Hidalgo, en el fomento de programas y medidas para la protección contra riesgos sanitarios y prevención de enfermedades, así como en la promoción de las normas de higiene y control sanitario en las instalaciones y servicios turísticos;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-XII Bis.- En coordinación con la Secretaría de Salud, y en el ámbito de competencia de cada dependencia, promover el diseño de estrategias preventivas para la protección del sector turístico estatal en caso de contingencias sanitarias, y
+XII Bis.- En coordinación con la Secretaría de Salud, y en el ámbito de competencia de cada dependencia, promover el diseño de estrategias preventivas para la protección del sector turístico estatal en caso de contingencias sanitarias;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XII Ter.- Colaborar y participar con la Secretaría de Salud de Hidalgo, la Secretaría de Salud de la Administración Pública Federal y la Secretaría de Turismo de la Administración Pública Federal, en el establecimiento de programas, lineamientos, criterios y estándares respecto a la calidad en la prestación de servicios médicos en la industria de (sic) Turismo Médico y de Salud, así como celebrar convenios o cualquier otro acto tendente a la promoción y fomento del Turismo Médico y de Salud; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -1432,3 +1436,9 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 897 POR EL QUE SE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 912 POR EL QUE SE ADICIONA LA FRACCIÓN XII TER AL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
