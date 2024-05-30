@@ -4,7 +4,7 @@ identifier: "TLA-ley-del-centro-de-conciliacion-laboral-del-estado-de-148399"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-16"
-last_updated: "2023-03-16"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Número 5 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 16 de marzo de 2021.
 
@@ -185,7 +185,9 @@ II. La Dirección General.
 
 La Junta de Gobierno se integrará de la forma siguiente:
 
-I. La persona titular de la Secretaría de Gobierno, quien la presidirá;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+I. La persona titular del Poder Ejecutivo, quien lo presidirá, pudiendo delegar esta atribución en la persona titular de la Dependencia que designe para ello;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
@@ -197,7 +199,9 @@ IV. Un representante del sector empresarial que designen las organizaciones empr
 
 V. Dos representantes del sector de los trabajadores que designen las organizaciones sindicales que tengan mayor presencia en el Estado, y
 
-VI. El Presidente de la Comisión Estatal de Derechos Humanos.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VI. La persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos.
 
 ###### Artículo 11.
 
@@ -508,3 +512,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 354.- SE REFORMAN LAS FRACCIONES I Y VI DEL ARTÍCULO 10 DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
