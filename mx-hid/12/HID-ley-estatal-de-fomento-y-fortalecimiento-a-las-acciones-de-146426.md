@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-1464
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-20"
-last_updated: "2022-05-23"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el miércoles 20 de enero de 2021.
 
@@ -455,6 +455,54 @@ V. Las demás que le señale la presente Ley, su Reglamento y demás disposicion
 
 El Reglamento de la Ley determinará el funcionamiento del Consejo Técnico.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2024)</small>
+
+### CAPÍTULO VII BIS. PREMIO AL MÉRITO SOCIAL
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 30 Bis.
+
+El Congreso del Estado de Hidalgo crea el “Premio al Mérito Social”, para reconocer públicamente a las organizaciones de la Sociedad Civil del Estado de Hidalgo que se hayan distinguido a lo largo del año, por sus acciones en materia de:
+
+I. Desarrollo Integral comunitario.
+
+II. Participación social y ciudadana.
+
+III. Asistencia social.
+
+IV. Igualdad de género.
+
+V. Derechos Humanos, sociedad incluyente y cohesión social.
+
+VI. Promoción de actividades culturales, científicas y deportivas.
+
+VII. Protección Civil.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 30 Ter.
+
+El Congreso del Estado de Hidalgo, por conducto de la Comisión de Participación Ciudadana, deberá:
+
+I. Formular y publicar las bases de la convocatoria cada mes de diciembre, para que sea otorgado el “Premio al Mérito Social” en el mes de febrero de cada año inmediato posterior, en sesión solemne.
+
+II. Recibir y registrar candidaturas, así como los medios comprobatorios y la documentación que acredite el trabajo realizado de cada organización.
+
+III. Llevar a cabo la investigación, análisis y evaluación de las candidaturas, para lo cual podrá auxiliarse del sector académico, social, público y privado para el otorgamiento del “Premio al Mérito Social”.
+
+IV. Elaborar y aprobar los Dictámenes, que contendrán las candidaturas acreedoras de los premios de cada categoría enunciadas en el Artículo 30 Bis de la presente Ley, o las declaratorias de los premios que han quedado desiertos, en su caso.
+
+V. Remitir a la Directiva los dictámenes para llevar a cabo la sesión solemne de premiación.
+
+VI. Las demás que resulten necesarias para el otorgamiento del “Premio al Mérito Social”.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+###### Artículo 30 Quater.
+
+El premio consistirá en el reconocimiento público, así como en la entrega de un Diploma que será firmado por las personas integrantes de la Comisión de Participación Ciudadana del Congreso. El Congreso del Estado podrá destinar recursos para otorgar premiaciones en efectivo o reconocimientos especiales.
+
 ### CAPÍTULO VIII. DEL PROCEDIMIENTO Y RECURSOS
 
 ###### Artículo 31.
@@ -516,3 +564,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197 QUE ADICIONA EL INCISO C A LA FRACCIÓN IV DEL ARTÍCULO 6 DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 929 POR EL QUE SE ADICIONA EL CAPÍTULO VII BIS A LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
