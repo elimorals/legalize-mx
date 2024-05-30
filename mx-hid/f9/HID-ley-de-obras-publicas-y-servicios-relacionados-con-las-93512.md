@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2023-05-29"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -317,11 +317,17 @@ IV.- La disponibilidad de recursos con relación a las necesidades de la obra p�
 
 V.- La prevención de obras principales, así como las complementarias o accesorias y las acciones necesarias para poner aquéllas en servicio, estableciendo las etapas que se requieran para su terminación;
 
-VI.- La tecnología aplicable, en función de la naturaleza de las obras públicas y, en su caso, los servicios relacionados con la misma de la región donde se apliquen; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2023)</small>
+VI.- La tecnología aplicable, en función de la naturaleza de las obras públicas y, en su caso, los servicios relacionados con la misma de la región donde se apliquen;
 
-VII.- Tomar en cuenta el empleo de los recursos humanos y la utilización de los materiales propios de la región, donde se ubiquen las obras.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VII.- Tomar en cuenta el empleo de los recursos humanos y la utilización de los materiales propios de la región, donde se ubiquen las obras; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VIII.- En el diseño de nuevas construcciones de caminos, carreteras y autopistas, así como la modernización de las existentes, se deberá proteger y conservar los diversos ecosistemas, estableciendo para su diseño e implementación pasos de fauna, entendiéndose como pasos de estructuras trasversales a camino, carretera o autopista que permita habilitar el paso seguro de fauna silvestre en el ecosistema afectado por la construcción de las vías de comunicación.
 
 ###### ARTÍCULO 23.
 
@@ -1308,3 +1314,9 @@ P.O. 29 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 304 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 22 Y EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 35, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 925 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
