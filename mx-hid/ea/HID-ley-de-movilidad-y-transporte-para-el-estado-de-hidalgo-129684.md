@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2024-05-03"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -255,7 +255,11 @@ V Bis. Implementar las medidas necesarias para prevenir y atender la violencia c
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-V TER. Determinar, establecer y evaluar, con previo estudio regional, la incorporación, en los Servicios de Transporte Público, Privado y Complementario, así como, en el Servicio Público de Transporte Masivo de Pasajeros, un sistema de transporte seguro, eficaz y eficiente, único para mujeres. Estableciendo las medidas y acciones necesarias a fin de garantizar la movilidad con perspectiva de género en el Estado;
+V Ter. Determinar, establecer y evaluar, con previo estudio regional, la incorporación, en los Servicios de Transporte Público, Privado y Complementario, así como, en el Servicio Público de Transporte Masivo de Pasajeros, un sistema de transporte seguro, eficaz y eficiente, único para mujeres. Estableciendo las medidas y acciones necesarias a fin de garantizar la movilidad con perspectiva de género en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+V Quater. Instrumentar, en coordinación con otras dependencias y con los ayuntamientos, las medidas necesarias a fin de promover la designación de aparcaderos o paraderos de descanso para conductores y/o transportistas de vehículos de carga, los cuales deberán contar con la vigilancia necesaria para salvaguardar la seguridad del lugar y de las personas que hagan uso de los mismos.
 
 VI. Emitir la opinión respecto a la congruencia de los programas municipales de movilidad con relación al Programa Estatal de Movilidad y Transporte;
 
@@ -283,7 +287,9 @@ Dichas tecnologías deberán facilitar la realización de trámites y comunicaci
 
 XIV Bis. Implementar acciones, planes y programas para que los concesionarios y permisionarios cuenten con los medios e instrumentos tecnológicos de respuesta inmediata a través de la georreferenciación, que permitan prevenir la violencia de cualquier tipo contra las mujeres en el transporte público y brinde opciones a éstas para solicitar auxilio y garantice la reacción oportuna de los cuerpos de seguridad pública;
 
-XV. Admitir, substanciar y resolver sobre los recursos y controversias que interpongan los particulares, en términos de la presente Ley, en las cuales se le señale; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XV. Admitir, substanciar y resolver sobre los recursos y controversias que interpongan los particulares, en términos de la presente Ley, en las cuales se le señale;
 
 XVI. En lo relativo al Organismo del Transporte Convencional y al Organismo del Transporte Masivo:
 
@@ -301,7 +307,13 @@ f. Vigilar que el Organismo del Transporte Convencional proceda correctamente en
 
 g. Vigilar que el Organismo del Transporte Convencional y el Organismo del Transporte Masivo obtengan, compilen, clasifiquen, almacenen y preserven en forma adecuada la estadística relacionada con el Sistema Estatal del Transporte e implementen el Registro de Concesiones, Permisos, Autorizaciones y Conductores del Servicio de Transporte; y
 
-h. Las demás que determinen esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
+h. Las demás que determinen esta Ley y otras disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XVII. Implementar una campaña anual de difusión y concientización relativa a las normas de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte, y población en general.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -609,6 +621,10 @@ VIII. Diseñar e instrumentar programas de recuperación y habilitación progres
 
 IX. Las demás que les confiera esta Ley, su reglamento y normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+Las autoridades municipales en materia de vialidad, tránsito y movilidad, así como las de diseño urbano procurarán, en el ámbito de su competencia y en los términos de esta Ley y de la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial del Estado de Hidalgo, diseñar espacios públicos destinados a la movilidad acordes a las normas relativas al medio ambiente, de manera tal que garanticen y resguarden el libre desplazamiento de los medios no motorizados.
+
 ### CAPÍTULO II. DE LA COLABORACIÓN ENTRE AUTORIDADES
 
 ###### Artículo 17.
@@ -771,9 +787,17 @@ VII. Cultura de movilidad: Propiciar una nueva cultura de movilidad, sustentada 
 
 VIII. Accesibilidad Universal: La política de movilidad estará direccionada a hacer comunidades para la gente, es decir, que los servicios se adapten a las necesidades de las personas, procurando que quienes transiten por la vía pública caminando, utilizando una silla de ruedas o un bastón, en bicicleta, transporte público o su vehículo particular, lo hagan en equidad de condiciones y posibilidades;
 
-IX. Nuevas formas de movilidad sustentable: Establecer distintos esquemas innovadores de movilidad eficiente, tanto de forma individual como colectiva, para reducir el uso del automóvil con un pasajero, así como fomentar la intermodalidad y la cohesión social; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-X. Nuevas Tecnologías de apoyo a la Movilidad (APP'S): La movilidad irá acompañada con la implementación de tecnologías que permitan a las personas acceder a los servicios de manera virtual y en tiempo real, conocer los sistemas de movilidad, planear viajes y trasladarse de forma segura; tales como cámaras de seguridad, aplicaciones móviles para acceder a las unidades y sistemas de geolocalización, que proporcionen información a los usuarios sobre los vehículos autorizados y conductores registrados.
+IX. Nuevas formas de movilidad sustentable: Establecer distintos esquemas innovadores de movilidad eficiente, tanto de forma individual como colectiva, para reducir el uso del automóvil con un pasajero, así como fomentar la intermodalidad y la cohesión social;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+X. Nuevas Tecnologías de apoyo a la Movilidad (APP'S): La movilidad irá acompañada con la implementación de tecnologías que permitan a las personas acceder a los servicios de manera virtual y en tiempo real, conocer los sistemas de movilidad, planear viajes y trasladarse de forma segura; tales como cámaras de seguridad, aplicaciones móviles para acceder a las unidades y sistemas de geolocalización, que proporcionen información a los usuarios sobre los vehículos autorizados y conductores registrados; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XI. Educación vial: entendida como un mecanismo para eliminar los riesgos y accidentes entre los usuarios de vehículos motorizados y no motorizados.
 
 ### CAPITULO IV. DEL PROGRAMA DE SEGURIDAD EN LOS SERVICIOS DE TRANSPORTE
 
@@ -1057,9 +1081,17 @@ III. Servicio Mixto. Es aquel que realiza las paradas autorizadas en el circuito
 
 IV. Especializado en Género. Es aquel que es exclusivamente operado por conductoras debidamente capacitadas y autorizadas;
 
-V. Especializado en Movilidad Reducida. Es aquel especialmente adaptado y modificado, que se destina prominentemente al uso de personas con discapacidad, aún y cuando también puede utilizarse por el público en general; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-VI. Metropolitano. Es aquel que se presta dentro de un Municipio localizado en la poligonal de una zona metropolitana; y que parte del centro generador de viajes de su Municipio de origen hacia el centro atractor ubicado en el Municipio de destino, transitando exclusivamente en vías públicas de competencia Estatal o municipal ubicadas dentro de la poligonal de la zona metropolitana.
+V. Especializado en Movilidad Reducida. Es aquel especialmente adaptado y modificado, que se destina prominentemente al uso de personas con discapacidad, aún y cuando también puede utilizarse por el público en general;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VI. Metropolitano. Es aquel que se presta dentro de un Municipio localizado en la poligonal de una zona metropolitana; y que parte del centro generador de viajes de su Municipio de origen hacia el centro atractor ubicado en el Municipio de destino, transitando exclusivamente en vías públicas de competencia Estatal o municipal ubicadas dentro de la poligonal de la zona metropolitana; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VII. Especializado en Personas Adultas Mayores. Es aquel especialmente adaptado y modificado, que se destina preferentemente al uso de personas adultas mayores, aun y cuando también puede utilizarse por el público en general.
 
 ### CAPITULO III. DEL SERVICIO PRIVADO DE TRANSPORTE DE PERSONAS Y BIENES Y DE SUS MODALIDADES
 
@@ -3440,3 +3472,21 @@ P.O. 3 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 862 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 16 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 933 POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 53 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 53 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 936 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 943 POR EL QUE SE ADICIONA LA FRACCIÓN V QUÁTER AL ARTÍCULO 7 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
