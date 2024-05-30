@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2022-07-27"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -421,7 +421,9 @@ I.- Vincular a la mujer en las labores técnicas y profesionales;
 
 II.- Revaluar el papel del varón ante el círculo familiar, estimulando la corresponsabilidad equitativa en el trabajo doméstico y en la atención de los menores, no únicamente como el proveedor económico;
 
-III.- Evitar toda forma de discriminación individual y colectiva hacia la mujer en razón de su sexo;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+III.- Evitar toda forma de discriminación individual y colectiva hacia las mujeres en razón de sus características sexuales, su orientación sexual, su identidad o su expresión de género;
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -584,3 +586,11 @@ P.O. 27 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 227, POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA LA FRACCIÓN XI, DEL ARTÍCULO 8, Y SE REFORMA LA FRACCIÓN VII, DEL ARTÍCULO 11, TODOS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 916 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 26 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
