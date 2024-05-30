@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -601,6 +601,10 @@ XV. Promover la participación de los sectores público, social y privado en la 
 
 XVI. Promover programas de suministro de agua potable, de uso racional y eficiente del mismo y de desinfección intradomiciliaria;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XVI Bis. Promover programas de captación de aguas pluviales, cuyo aprovechamiento se hará de conformidad con el artículo 22 de la presente Ley;
+
 XVII. Procurar que la selección del personal directivo, se realice tomando en consideración la experiencia profesional comprobada en la materia y desarrollar programas de capacitación y adiestramiento para su personal técnico y administrativo;
 
 XVIII. Promover ante las autoridades competentes la expropiación de bienes inmuebles y/o legalizar la ocupación temporal, total o parcial de los mismos, respetando la limitación de los derechos de dominio, en los términos de Ley;
@@ -745,7 +749,9 @@ El Director General del Organismo Operador será designado y removido por la o e
 
 I. Ser ciudadana o ciudadano mexicano en pleno goce y ejercicio de sus derechos;
 
-II. Contar con experiencia técnica, administrativa y preferentemente profesional comprobada en materia de agua.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II.- Contar con experiencia técnica, administrativa y profesional comprobada en materia de agua, la cual deberá acreditarse mediante las constancias o certificados correspondientes con los que acredite haber cursado los estudios de especialización en Manejo y Gestión del Agua, en Tecnología del Agua y Recursos Hídricos o similar o afín a esta materia; y
 
 III. No desempeñar ningún otro empleo, cargo o comisión, incompatible al cargo por cuestión de función o materia, a excepción de las relacionadas con la docencia o beneficencia.
 
@@ -1329,9 +1335,9 @@ I Ter.- Programar, y realizar acciones para el aprovechamiento racional del agua
 
 II.- Realizar y publicar diagnósticos y estudios periódicos a fin de identificar las condiciones de consumo del agua en el Estado y el uso racional de la misma;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-III.- Promover la utilización de aparatos ahorradores y de opciones tecnológicas alternas, mecanismos o dispositivos de control e infiltración de agua pluvial, que permitan el ahorro, uso y aprovechamiento del agua de manera eficiente y racional;
+III.- Promover la utilización de aparatos ahorradores y el aprovechamiento de las aguas residuales de uso doméstico en los hogares;
 
 IV.- Coordinar el desarrollo de sus actividades con organismos públicos y privados, para la implementación de campañas de asistencia técnica, capacitación, promoción y difusión, concientización y demás que se requieran para garantizar el cuidado óptimo del agua y el fomento de la Cultura del Agua;
 
@@ -2364,3 +2370,15 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 894 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 926 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 38 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 939 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
