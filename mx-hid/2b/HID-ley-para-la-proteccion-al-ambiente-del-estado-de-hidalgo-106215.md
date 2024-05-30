@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2024-01-19"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -385,6 +385,10 @@ XII. Establecer los requisitos y procedimientos para la prevención y control de
 
 XII BIS. Participar en la organización y elaboración de estudios sobre la salud ambiental en el Estado, en coordinación con las instituciones académicas correspondientes, difundiendo sus resultados, acorde con las capacidades presupuestales;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XII TER. Promover y desarrollar mecanismos de coordinación y cooperación interinstitucional e intersectorial en materia de cultura y formación ambiental, con un enfoque de desarrollo sustentable y cambio climático;
+
 XIII. Expedir la licencia ambiental estatal para fuentes fijas de emisiones y descargas de contaminantes de jurisdicción estatal, así como las autorizaciones en esta materia a que se refiere la presente Ley;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
@@ -447,9 +451,15 @@ XXXIX. Expedir las certificaciones a las que se refiere la presente Ley;
 
 XL. Regular y controlar los pasivos ambientales en la entidad;
 
-XLI. La administración del Fondo Ambiental del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-XLII. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
+XLI. La administración del Fondo Ambiental del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+XLII. La protección y ejecución de acciones destinadas a preservar los humedales del Estado de Hidalgo; y
+
+XLIII. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -3742,3 +3752,15 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 625 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 913 POR EL QUE SE ADICIONA LA FRACCIÓN XII TER AL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 921 POR EL QUE SE REFORMA LA FRACCIÓN XLI Y SE ADICIONA UNA FRACCIÓN XLII, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
