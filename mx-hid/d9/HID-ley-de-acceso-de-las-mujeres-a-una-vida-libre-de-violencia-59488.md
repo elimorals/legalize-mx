@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-05-09"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -399,11 +399,17 @@ La violencia docente es la acción u omisión por quien realice actividades de e
 
 También constituye violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, preferencia sexual, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-Son manifestaciones de la violencia laboral y docente; el hostigamiento y acoso sexual, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto del patrón o docente independientemente del tipo penal consagrado en las Leyes respectivas.
+Son manifestaciones de la violencia laboral y docente; el hostigamiento, acoso sexual y discriminación, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto del patrón o docente independientemente del tipo penal consagrado en las leyes respectivas.
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios actos.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+La discriminación en este caso resulta de todo trato diferenciado, realizado en contra de una mujer solicitante de empleo o de una empleada, en razón de su maternidad, embarazo o lactancia.
 
 ###### ARTÍCULO 13.
 
@@ -719,7 +725,9 @@ II. Que sea adecuada, oportuna y proporcional;
 
 III. Que los sistemas normativos propios basados en usos y costumbres no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
 
-IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo; y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, embarazo, maternidad, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo; y
 
 V. Las necesidades expresadas por la mujer o niña solicitante. Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales de- terminarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
 
@@ -1098,6 +1106,10 @@ III.- Vigilar el cabal cumplimiento de la presente Ley y de los instrumentos jur
 IV.- Elaborar, coordinar y aplicar el Programa a que se refiere la Ley, auxiliándose de las demás Autoridades encargadas de implementar el presente ordenamiento legal;
 
 V.- Asegurar la difusión y promoción de los derechos de las mujeres con base en el reconocimiento de la composición pluricultural del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+V Bis.- Promover la capacitación de personas traductoras para que los organismos encargados de prevenir, atender, sancionar y erradicar la violencia contra las mujeres puedan brindar sus servicios de manera bilingüe en caso de ser necesaria la atención de las mujeres indígenas;
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
@@ -1730,6 +1742,10 @@ I Bis.- Contar con protección inmediata y efectiva por parte de las autoridades
 > <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
 
 II.- Recibir información veraz y suficiente en formatos accesibles que les permita decidir sobre las opciones de atención;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II Bis.- Contar con una persona traductora en caso de ser necesario;
 
 III.- Contar con asesoría jurídica gratuita y expedita;
 
@@ -2368,3 +2384,15 @@ P.O. 9 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 882 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 23 BIS Y SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 23 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 923 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 12 Y DEL ARTÍCULO 30 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 944 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
