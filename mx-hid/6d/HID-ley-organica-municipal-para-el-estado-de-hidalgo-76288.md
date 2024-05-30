@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-05-09"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -120,6 +120,10 @@ II.- Comisiones del Ayuntamiento: Grupos de personas que ocupan las regidurías 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 II BIS.- Gobierno Abierto: Un modelo de administración pública basado en la transparencia de información pública, la participación social y la colaboración en diseño de políticas con la finalidad de lograr una mejor gestión de los asuntos públicos;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II TER. Gobierno Digital: Modelo que incorpora al trabajo gubernamental las tecnologías de la información y comunicaciones, con el propósito de aumentar la eficiencia de la gestión pública, transformar y agilizar las relaciones del Gobierno con los ciudadanos y las empresas, y las relaciones intergubernamentales, de manera que el Gobierno resulte más accesible, efectivo y transparente en beneficio del ciudadano;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -921,6 +925,10 @@ s TER).- Conforme a la suficiencia presupuestal, participar y coadyuvar con el m
 
 s QUATER) Organizar el Cabildo Infantil y Juvenil, para lo cual el Ayuntamiento deberá emitir el reglamento y la convocatoria correspondiente.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+s QUINQUIES) Conforme a la suficiencia presupuestal, establecer un presupuesto con perspectiva ambiental que tenga por objeto garantizar la prestación oportuna, permanente, eficiente, accesible, asequible y sin discriminación alguna a los servicios de agua potable y su saneamiento, manejo y traslado de residuos sólidos, conservación de áreas verdes y áreas naturales protegidas;
+
 t).- Autorizar al Presidente Municipal, la celebración de contratos con particulares e instituciones oficiales, sobre asuntos de interés público, en los términos de Ley. Al efecto, los Ayuntamientos están facultados para obligarse crediticiamente a través del Presidente Municipal; en este caso, se deberán observar los criterios de aprobación establecidos en esta Ley, así como en las disposiciones de la materia.
 
 Los municipios, sólo podrán contraer deuda pública cuando esta se destine a inversión pública productiva en términos de la legislación aplicable. No constituirán deuda pública, las obligaciones directas a corto plazo que contraigan los municipios y que reunan los requisitos exigidos por la legislación vigente.
@@ -974,6 +982,10 @@ cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
 dd).- Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+dd BIS) Fomentar el uso y aprovechamiento de las tecnologías de la información, a través de las políticas, programas y acciones de Gobierno Digital establecidas en el Plan Estatal de Desarrollo, las leyes federales y estatales, así como en los convenios celebrados por el Municipio en temas de mejora regulatoria;
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -3355,41 +3367,57 @@ Cada municipio procurará destinar un área específica para la Secretaría Ejec
 
 ### CAPÍTULO DÉCIMO QUINQUIES. DE LA INSTANCIA MUNICIPAL PARA LA PREVENCIÓN DE LAS ADICCIONES
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
 
-ARTÍCULO 145 DUODÉCIMUS.- En cada municipio, deberá existir una Instancia Municipal para la Prevención de las Adicciones, que tendrá por objeto prevenir y atender las problemáticas relacionadas al uso de drogas licitas e ilícitas, entre otros tipos de adicciones.
+ARTÍCULO 145 DUODÉCIMUS.- En cada municipio, deberá existir una Instancia Municipal para la Prevención de las Adicciones y el Suicidio, que tendrá por objeto prevenir y atender las problemáticas relacionadas al uso de drogas licitas e ilícitas, entre otros tipos de adicciones, así como a la prevención de las conductas suicidas.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2024)</small>
 
-La persona titular de la Instancia Municipal para la Prevención de las Adicciones, además de los requisitos establecidos en el artículo 114, deberá contar con título profesional en disciplina correspondiente al área de ciencias de la salud, trabajo social o psicología, así como tener experiencia en el ámbito clínico o en algún cargo de la administración pública relacionado con la materia; la cual habrá de ser mínima de un año al momento de su designación.
+ARTÍCULO 145 TERTIUSDÉCIMUS.- La Instancia Municipal para la Prevención de las Adicciones y el Suicidio tendrá las siguientes atribuciones:
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
-
-ARTÍCULO 145 TERTIUSDÉCIMUS.- La Instancia Municipal para la Prevención de las Adicciones tendrá las siguientes atribuciones:
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 I. Brindar atención y seguimiento psicológico.
 
-II. Diseñar y ejecutar programas de prevención de las adicciones.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II. Diseñar y ejecutar programas de prevención de las adicciones y el suicidio;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 III. Impartir talleres que promuevan habilidades sociales y estilos de vida saludables.
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 IV. Impartir talleres ocupacionales de diferentes disciplinas artísticas y deportivas.
 
-V. Diseñar, coordinar y ejecutar acciones de prevención de las adicciones en colonias, barrios y escuelas.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+V. Diseñar, coordinar y ejecutar acciones de prevención de las adicciones y el suicidio en colonias, barrios y escuelas.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 VI. En caso que se amerite, canalizar y referenciar a centros de rehabilitación e instituciones de cuidado a la salud física, psicológica y social.
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+
 VII. Organizar, coordinar y promover grupos de autoayuda.
 
-VIII. Desarrollar eventos y actividades de participación ciudadana a favor de la prevención de adicciones y el fomento de estilos de vida saludables.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+VIII. Desarrollar eventos y actividades de participación ciudadana a favor de la prevención de adicciones, el suicidio y el fomento de estilos de vida saludables;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 IX. Detectar aquellos casos que puedan ser hechos posiblemente constitutivos de algún delito, y referirlos con la autoridad correspondiente; y
 
-X. Coordinar sus acciones con las dependencias u organismos federales o estatales encargados del combate a las adicciones.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+X. Coordinar sus acciones con las dependencias u organismos federales o estatales encargados del combate a las adicciones y el suicidio.
 
-ARTÍCULO 145 QUARTUSDÉCIMUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, podrán colaborar con la Instancia Municipal para la Prevención de las Adicciones en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+
+ARTÍCULO 145 QUARTUSDÉCIMUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, podrán colaborar con la Instancia Municipal para la Prevención de las Adicciones y el Suicidio en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -4638,3 +4666,21 @@ P.O. 9 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 875 POR EL QUE SE REFORMA EL ARTÍCULO 28 BIS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 918 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 920 POR EL QUE SE ADICIONA EL INCISO S QUINQUIES A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 937 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS INCISOS DE LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
