@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-05-17"
+last_updated: "2024-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1399,6 +1399,10 @@ Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lu
 
 Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
+
+Para tal efecto, las autoridades en sus respectivas competencias deberán utilizar un lenguaje simple, directo y cotidiano, evitando tecnicismos, abreviaturas e iniciales. En caso de utilizar conceptos abstractos, se deberá ilustrar con ejemplos sencillos y, de ser posible, apoyarse en fotografías, gráficos o símbolos accesibles para las y los menores.
+
 ###### Artículo 71.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
@@ -2177,6 +2181,10 @@ VIII. Promover la participación de los sectores público, social y privado en l
 
 IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+IX Bis. Auxiliar a las autoridades competentes que le requieran información sobre los datos de las personas deudoras y acreedoras de obligaciones alimentarias inscritas en el Registro Nacional de Obligaciones Alimentarias;
+
 X. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
 
 XI. Coadyuvar con el Sistema DIF Hidalgo y los Sistemas DIF Municipales en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
@@ -2822,3 +2830,15 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 893 POR EL QUE SE ADICIONA EL ARTÍCULO 119 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 919 POR EL QUE SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 946 POR EL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 70 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
