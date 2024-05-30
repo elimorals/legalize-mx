@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-05-09"
+last_updated: "2024-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -147,11 +147,17 @@ II Bis.- La transversalidad, entendida como la directriz para articular polític
 
 III.- La corresponsabilidad de los miembros de la familia, Estado y sociedad en la atención y desarrollo integral de la juventud;
 
-IV.- La tutela plena e igualitaria de sus derechos fundamentales;
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN V], P.O. 30 DE MAYO DE 2024)</small>
 
-V.- La planeación de las políticas de juventud en función de los objetivos marcados en la presente Ley y con la participación de los jóvenes; y
+IV.- La planeación de las políticas de juventud en función de los objetivos marcados en la presente Ley y con la participación de los jóvenes;
 
-VI.- El acceso y disfrute a los derechos sociales básicos, especialmente los relativos a salud, educación, empleo y vivienda, de acuerdo con los requisitos legales.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN VI], P.O. 30 DE MAYO DE 2024)</small>
+
+V.- El acceso y disfrute a los derechos sociales básicos, especialmente los relativos a salud, educación, empleo y vivienda, de acuerdo con los requisitos legales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2024)</small>
+
+VI.- La perspectiva de género.
 
 ###### Artículo 6.
 
@@ -325,13 +331,17 @@ VII.- Adquirir una beca para realizar sus estudios correspondientes, cumpliendo 
 
 VIII.- Que sean evaluadas sus aptitudes, habilidades y conocimientos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-IX.- A tener acceso a la educación financiera; y
+IX.- A tener acceso a la educación financiera;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+X.- El acceso a una educación sexual integral, que les permita disfrutar y ejercer plenamente su sexualidad de manera responsable; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2022)</small>
 
-X.- Las demás que señalen las disposiciones legales aplicables.
+XI.- Las demás que señalen las disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -975,11 +985,17 @@ El Programa Estatal de Atención a la Juventud es el conjunto de políticas, est
 
 El Programa deberá establecer por lo menos:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
-I.- Los objetivos, estrategias, líneas de acción y acciones particulares, en materia de educación, salud, migración, vivienda, participación ciudadana y política, desarrollo sustentable, transparencia y rendición de cuentas, para la atención integral de los jóvenes derivados de la presente Ley; y
+I.- Los objetivos, estrategias, líneas de acción y acciones particulares, en materia de educación, salud, migración, vivienda, participación ciudadana y política, desarrollo sustentable, transparencia y rendición de cuentas, para la atención integral de los jóvenes derivados de la presente Ley;
 
-II.- La participación que corresponderá a las Dependencias y/o Entidades del Estado, los Municipios y la sociedad en general.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+
+II.- La participación que corresponderá a las dependencias y/o entidades del Estado, los Municipios y la sociedad en general; e
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+
+III.- Impulsar acciones que permitan combatir la violencia de género en el ámbito de sus competencias.
 
 El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución, se evaluarán de manera permanente y periódica por la Junta de Gobierno.
 
@@ -1400,3 +1416,15 @@ P.O. 9 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 878 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 915 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 21 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 924 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
