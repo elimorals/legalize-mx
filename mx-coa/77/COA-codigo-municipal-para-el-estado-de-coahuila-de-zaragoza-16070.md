@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2023-12-08"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1371,9 +1371,11 @@ Los dictámenes y acuerdos establecidos en el párrafo anterior deberán contene
 
 Las comisiones a las que refieren los artículos 112, 113, 113 BIS, 113 BIS-1, 113 BIS-2, 113 BIS-4 y 113 BIS-5 serán de forzosa conformación por los ayuntamientos, justificándose mediante la importancia que dichas ramas requieren. De igual manera, será libertad de cada ayuntamiento la integración de comisiones bajo libre criterio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2024)</small>
+
 ###### ARTÍCULO 108.
 
-Las comisiones se integrarán y funcionarán de manera colegiada con el número de miembros que establezca el reglamento interno o el acuerdo del Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario.
+Las comisiones se integrarán y funcionarán de manera colegiada con el número de miembros que establezca el reglamento interno o el acuerdo del Ayuntamiento, procurando observar el principio de paridad de género en la conformación de sus integrantes, y que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
@@ -1397,11 +1399,11 @@ En caso fortuito o de fuerza mayor, o cuando por causas especiales lo haya acord
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2024)</small>
 
 ###### ARTÍCULO 111.
 
-Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación, la de Igualdad de Género; la de Ciencia, Tecnología e Innovación; la de Salud Pública y la de Seguridad Pública y Tránsito.
+Las comisiones podrán ser permanentes o transitorias, y su materia y funciones serán establecidas en el reglamento interno o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación, la de igualdad de género; la de ciencia, tecnología e innovación; la de salud pública y la de seguridad pública y tránsito.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
@@ -5294,3 +5296,15 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 568.- SE REFORMA EL SEGUNDO PÁRRAFO DEL NUMERAL 5 DE LA FRACCIÓN III, DEL ARTÍCULO 102 Y LA FRACCIÓN V DEL ARTÍCULO 113 BIS-4; SE ADICIONA UN TERCER PÁRRAFO AL NUMERAL 5 DE LA FRACCIÓN III, DEL ARTÍCULO 102, Y LA FRACCIÓN VI, RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 113 BIS-5 DEL CÓDIGO MUNICIPAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 75.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 108 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 111, AMBOS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veinticinco.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado de Coahuila.
