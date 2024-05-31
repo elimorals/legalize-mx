@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2024-05-28"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -389,9 +389,13 @@ II.- Disfrutarán de un descanso, al menos, de seis semanas anteriores y seis po
 
 III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario, en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2024)</small>
 
-IV.- En el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos, o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la dependencia o entidad estatal;
+IV.- En el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos, o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la dependencia o entidad estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2024)</small>
+
+El derecho referido en el párrafo anterior, tendrá una vigencia hasta por el término máximo de dos años previa certificación médica por un profesional de la salud experto en lactancia materna, el cual deberá ser actualizado cada 6 meses;
 
 V.- Durante los períodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días. Durante el trascurso del período de sesenta días antes citado, se realizarán las retenciones de las aportaciones de seguridad social en el sueldo de la trabajadora, sin contemplar el descuento que fue objeto el sueldo de la trabajadora;
 
@@ -1960,3 +1964,11 @@ En un plazo no mayor a sesenta días naturales, contados a partir de la entrada 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-851 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO, Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV DEL ARTÍCULO 32 BIS, DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
