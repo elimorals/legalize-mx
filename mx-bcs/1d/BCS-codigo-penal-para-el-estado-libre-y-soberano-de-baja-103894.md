@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2023-12-15"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1089,6 +1089,8 @@ Promoción de la prescripción. La resolución respecto de la prescripción se d
 
 Duplicación de plazos. Los plazos para que opere la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio del Estado por haberse sustraído a la acción de la justicia, siempre y cuando persista esta condición, y que por esa circunstancia no sea posible concluir la investigación, el proceso o la ejecución de la sentencia.
 
+> <small>[N. DE E. VÉASE LA LITERALIDAD DE LA PUBLICACIÓN DEL DECRETO 340, B.O. 31 DE MAYO DE 2024, PÁGINA 11.]</small>
+
 ###### Artículo 112.
 
 Plazos. Los plazos para la prescripción de la pretensión punitiva serán continuos; en ellos se considerará el delito con sus modalidades y se contarán a partir de:
@@ -1105,11 +1107,9 @@ V. El día en que se libró la orden de aprehensión, comparecencia, reaprehensi
 
 VI. Los demás señalados en el Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2024)</small>
 
-No prescribirá la acción penal de los delitos contra la libertad sexual y el normal desarrollo psicosexual recaídos en agravio de menores de edad y de personas que no tienen capacidad para comprender el hecho o que no tienen la capacidad para resistirlo.
-
-Cuando se trate de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que se tenga noticia de la comisión de esos delitos ante el Ministerio Público.
+No prescribirá la acción penal de los delitos contra la libertad sexual y el normal desarrollo psicosexual.
 
 ###### Artículo 113.
 
@@ -4794,3 +4794,9 @@ B.O. 15 DE DICIEMBRE DE 2023.
 PRIMERO.- El Presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3040 SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 112 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
