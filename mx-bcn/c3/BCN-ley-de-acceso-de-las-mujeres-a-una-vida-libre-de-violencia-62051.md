@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2024-05-07"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -301,11 +301,11 @@ Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o
 
 Para efectos de este tipo de violencia, se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2024)</small>
 
-VIII. Violencia Mediática.- Es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+VIII. Violencia Mediática.- Es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, transmita y reproduzca dominación, cosificación, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, naturalizando la subordinación de la mujer en la sociedad, promueva la explotación de mujeres o sus imágenes, que cause daño a las mujeres y niñas de tipo simbólico, psicológico, sexual, físico, económico, patrimonial o feminicida.
 
-La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad y dignidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2023)</small>
 
@@ -333,9 +333,13 @@ X. Violencia Ácida: Es aquella que pretenda causar daño físico irreversible q
 
 Este tipo de violencia implica una alta carga simbólica toda vez que la finalidad es causar de forma deliberada y permanente dolor, sufrimiento y humillación a la mujer, además de causar daño físico, psicológico y emocional irreparable e irreversible, es decir, dejar una marca permanente en ella.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
 
-XI. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XI. Violencia Simbólica.- La que a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XII. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -481,7 +485,9 @@ XI. Imponer, con base en estereotipos de género, la realización de actividades
 
 XII. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 
-XIII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2024)</small>
+
+XIII. Ejercer violencia física, sexual, simbólica, mediática, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
 
 XIV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
@@ -1992,3 +1998,9 @@ P.O. 7 DE MAYO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. Las autoridades sujetas a la observancia y aplicación de la presente Ley, en un plazo no mayor a 180 días naturales contados a partir del día siguiente de la publicación del presente Decreto, deberán realizar las adecuaciones necesarias a sus reglamentos para su debida implementación.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 429 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 Y 11 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
