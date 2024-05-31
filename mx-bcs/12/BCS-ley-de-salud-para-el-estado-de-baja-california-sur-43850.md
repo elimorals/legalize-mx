@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2023-11-30"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE JUNIO DE 2024 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -47,9 +49,11 @@ LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 La presente Ley es de orden público e interés general de aplicación en el Estado de Baja California Sur y tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud proporcionados en el Estado y la concurrencia de éste y sus Municipios en materia de salubridad local, en términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, artículo 18 de la Constitución Política del Estado y de la Ley General de Salud.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2024)</small>
 
-La protección a la salud, es el derecho que tienen todos los habitantes del Estado de Baja California Sur, a la procuración de condiciones de salubridad e higiene que les permitan el desarrollo integral de sus capacidades físicas y mentales.
+###### ARTÍCULO 2°.
+
+La protección a la salud, es el derecho que tienen todos los habitantes del estado de Baja California Sur, a la procuración de condiciones de salubridad e higiene que les permitan el desarrollo integral de sus capacidades físicas y mentales.
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
@@ -66,6 +70,38 @@ V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE MAYO DE 2024)</small>
+
+El derecho a la protección de la salud, tiene las siguientes finalidades:
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+I. El bienestar mental y físico de las personas, para contribuir al ejercicio pleno de sus capacidades;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+II. La prolongación y el mejoramiento de la calidad de la vida humana;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la integridad personal, la salud y, en s u caso, la vida;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género.
 
 ###### ARTÍCULO 3º.
 
@@ -87,7 +123,9 @@ IV.- Salud mental;
 
 V.- Organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la integración de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur;
 
-VI.- Promoción de la formación de recursos humanos para la salud;
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
+
+VI.- Promoción de la formación de recursos humanos para la salud y la atención médica prehospitalaria;
 
 VII.- Coordinación de la investigación para la salud y el control de ésta en los seres humanos;
 
@@ -163,9 +201,17 @@ XIX.- Albergues, asilos y estancias infantiles;
 
 XX.- Centros de reunión y espectáculos;
 
-XXI.- Construcciones; y
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
 
-XXII.- Las demás que le correspondan en los términos de esta Ley y otros ordenamientos legales.
+XXI.- Construcciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MAYO DE 2024)</small>
+
+XXII.- La Prestación de servicios de atención médica prehospitalarias de urgencias y emergencias, y
+
+> <small>(ADICIONADA [REUBICADA ANTES FRACCIÓN XXII], B.O. 31 DE MAYO DE 2024)</small>
+
+XXIII.- Las demás que le correspondan en los términos de esta Ley y otros ordenamientos legales.
 
 ###### ARTÍCULO 4º.
 
@@ -177,7 +223,9 @@ II.- La Secretaría de Salud y sus órganos administrativos que de acuerdo a sus
 
 III.- Los Ayuntamientos en el ámbito de su competencia.
 
-Son auxiliares de las autoridades sanitarias en el Estado en materia de salubridad general y local, las dependencias y los servidores públicos adscritos a los Poderes del Estado y a los Municipios.
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2024)</small>
+
+Son auxiliares de las autoridades sanitarias en el Estado en materia de salubridad general y local, las dependencias y los servidores públicos adscritos a los Poderes del Estado y a los Municipios, así como los prestadores de servicios de atención médica prehospitalaria, de conformidad y en los términos de la legislación aplicable.
 
 ###### ARTÍCULO 5º.
 
@@ -207,9 +255,25 @@ IX.- Conducir el proceso de descentralización de los servicios de salud;
 
 X.- Impulsar y coordinar las acciones tendientes a fomentar la participación de la comunidad en los servicios de salud;
 
-XI.- Generar, operar y mantener actualizado el sistema estatal de estadística básica del sector salud, desagregado por sexo y edad; y
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
 
-XII.- Las demás que le señalen las disposiciones legales vigentes o que le asigne el Gobernador del Estado de acuerdo a sus atribuciones.
+XI.- Generar, operar y mantener actualizado el sistema estatal de estadística básica del sector salud, desagregado por sexo y edad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MAYO DE 2024)</small>
+
+XII.- Ejercer su competencia respecto al Sistema Integral de Servicios de Urgencias y Emergencias Médicas para el Estado y los Municipios de Baja California Sur,
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+XIII.- Regular los servicios médicos prehospitalarios, así como a las instituciones del sector público, social y privado, los organismos que, por cualquier medio, brinden de manera onerosa o gratuita, servicios prehospitalarios de urgencias y emergencias médicas, de conformidad con la Ley de la materia;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2024)</small>
+
+XIV.- Implementar los protocolos, manuales, programas de capacitación, certificación, evaluación, refrendos, vigilancia, procedimientos de sanción, elementos y técnicas necesarias para el desempeño, control, distribución y registro de actividades de los prestadores de servicios médicos prehospitalarios con el propósito de homogenizar los métodos de trabajo y atender con eficiencia, eficacia, calidad, continuidad y líneas estratégicas a la comunidad que lo requiera;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII], B.O. 31 DE MAYO DE 2024)</small>
+
+XV.- Las demás que le señalen las disposiciones legales vigentes o que le asigne el Gobernador del Estado de acuerdo a sus atribuciones.
 
 ###### ARTÍCULO 7º.
 
@@ -255,17 +319,17 @@ VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y act
 
 VIII.- Promover un sistema de regulación y fomento sanitario que verifique que los productos y servicios no sean nocivos para la salud.
 
-> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
 
-IX.- Proporcionar orientación a la población respecto de la importancia de la alimentación saludable y su relación con la salud, y
+IX.- Proporcionar orientación a la población respecto de la importancia de la alimentación saludable y su relación con la salud;
 
-> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
 
-X.- Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, que garanticen una prevención, atención y tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimenticia, y cuyos avances y resultados sean objeto de evaluación.
+X.- Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, que garanticen una prevención, atención y tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria, y cuyos avances y resultados sean objeto de evaluación, y
 
-> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE MAYO DE 2024)</small>
 
-XI.- Regular los servicios de atención médica prehospitalaria.
+XI.- Regular los servicios de atención médica prehospitalaria y promover la capacitación, certificación, profesionalización, evaluación y buenas prácticas en la prestación de los servicios de atención a emergencias y urgencias médicas.
 
 ###### ARTÍCULO 11.
 
@@ -997,7 +1061,9 @@ IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 Para el ejercicio de actividades profesionales en el campo de salud y especialidades de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, psiquiatría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas, constancias o certificados correspondientes hayan sido expedidos y registrados por las autoridades educativas correspondientes.
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2024)</small>
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas, constancias o certificados correspondientes hayan sido expedidos y registrados por las autoridades educativas correspondientes.
 
 ###### ARTÍCULO 86.
 
@@ -3440,3 +3506,35 @@ QUINTO.- En los treinta días hábiles siguientes a la emisión del reglamento, 
 SEXTO.- Los prestadores del servicio sean instituciones públicas, sociales, privadas, organización y/o asociaciones civiles, en un plazo que no excederá de dos años contados a partir del inicio de la vigencia de esta ley, adoptarán paulatinamente las medidas de capacitación, equipamiento y demás obligaciones que refiere la presente Ley y las normas oficiales en la materia. Para efecto de garantizar el cumplimiento a lo anterior la Coordinación Estatal, evaluará semestralmente los avances respectivos, y por este periodo considerará la aplicación de las sanciones relacionadas con lo anterior.
 
 SÉPTIMO.- Para el debido cumplimiento del presente ordenamiento, el Ejecutivo del Estado y los Ayuntamientos, deberán prever en sus Presupuestos de Egresos para el ejercicio fiscal del 2020 y subsecuentes, la cantidad de recursos que se requiere para su implementación y cumplimiento.
+
+B.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3042 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR, SE ABROGA LA LEY DE ATENCIÓN PREHOSPITALARIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, APROBADA MEDIANTE DECRETO NÚMERO 2693, DE FECHA 10 DE DICIEMBRE DE 2019 Y PUBLICADA EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, EN FECHA 30 DE NOVIEMBRE DE 2023; Y SIMULTÁNEAMENTE SE CREA LA LEY DE ATENCIÓN MÉDICA PREHOSPITALARIA PARA EL ESTADO Y LOS MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+TERCERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- El Titular del Ejecutivo Estatal expedirá las disposiciones reglamentarias de conformidad a las reformas y adiciones a la Ley de Salud para el Estado de Baja California Sur, en un plazo no mayor a 6 meses, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, elaborará el Reglamento, así como los protocolos, manuales y lineamientos referidos en la Ley de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, en un plazo no mayor a noventa días hábiles, contados a partir de que la misma entre en vigor.
+
+SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia.
+
+SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes.
+
+OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los· Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto.
+
+SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia. (SIC)
+
+SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes. (SIC)
+
+OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto. (SIC)
+
+SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia. (SIC)
+
+SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes. (SIC)
+
+OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto. (SIC)
