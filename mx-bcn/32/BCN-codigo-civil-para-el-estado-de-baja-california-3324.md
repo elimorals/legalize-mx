@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2024-04-05"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2257,15 +2257,13 @@ El Juez ante el conocimiento de la vulneración de los derechos de las niñas, n
 
 Cuando el Juez se percate de cualquier riesgo o peligro en la integridad y desarrollo de las niñas, niños y adolescentes quienes tienen derecho a recibir alimentos, por parte de quien está obligado a brindarlos, deberá tomar de manera oficiosa todas aquellas acciones que estén a su alcance para salvaguardar la seguridad, continuidad y restitución del derecho. Esta obligación será aplicable aun cuando aquellas situaciones de riesgo o peligro no formen parte directa de la litis que es de su conocimiento.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 301.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado. En el caso de aquellos adultos mayores de sesenta años de edad, que carezcan de capacidad económica, deberán proporcionarles, dentro de sus posibilidades económicas, lo necesario para su atención geriátrica, de preferencia integrándolos a la familia.
+Las hijas e hijos, están obligados a dar alimentos, incluido el cuidado especial que requieran a las madres y padres. A falta o por imposibilidad de las hijas e hijos, lo están las y los descendientes más próximos en grado. En el caso de las personas adultas mayores de sesenta años, que carezcan de capacidad económica, deberán proporcionarles, dentro de sus posibilidades económicas, lo necesario para su atención geriátrica, de preferencia integrándolos a la familia, evitando en cualquier momento la situación de abandono.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
-
-Quedan excluidos de la obligación, en los casos en que sea aplicable y haya operado, algún modo de acabarse o perderse la patria potestad, a que se refieren las fracciones IV, V y VI del artículo 440 y las fracciones I cuando el delito sea cometido en contra del hijo, II, III y IV del artículo 441 de éste Código.
+Quedan excluidos de la obligación, en los casos en que sea aplicable y haya operado, algún modo de acabarse o perderse la patria potestad, a que se refieren las fracciones IV, V y VI del artículo 440 y las fracciones I, cuando el delito sea cometido en contra de hijas e hijos, II, III y IV del artículo 441 de este Código.
 
 ###### ARTICULO 302.
 
@@ -16858,3 +16856,9 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 407 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 440, 441 Y 444 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 433 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 301 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
