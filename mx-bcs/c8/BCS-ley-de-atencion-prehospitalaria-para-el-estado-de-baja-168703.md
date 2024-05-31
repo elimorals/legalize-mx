@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-atencion-prehospitalaria-para-el-estado-de-baja-168703"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-30"
-last_updated: "2023-11-30"
+last_updated: "2024-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "BCS"
 ---
 # LEY DE ATENCION PREHOSPITALARIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. 3042, PUBLICADO EN EL BOLETÍN OFICIAL DE 31 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE JUNIO DE 2024 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY DE ATENCIÓN PREHOSPITALARIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024 (ABROGADO).
 
 Ley publicada en el Extraordinario al Número 76-Bis del Boletín Oficial del Estado de Baja California Sur, el jueves 30 de noviembre de 2023.
 
@@ -990,3 +994,25 @@ VÍCTOR MANUEL CASTRO COSÍO.
 SECRETARÍA GENERAL DE GOBIERNO
 
 JOSÉ SAUL GONZÁLEZ NÚÑEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3042 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR, SE ABROGA LA LEY DE ATENCIÓN PREHOSPITALARIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, APROBADA MEDIANTE DECRETO NÚMERO 2693, DE FECHA 10 DE DICIEMBRE DE 2019 Y PUBLICADA EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, EN FECHA 30 DE NOVIEMBRE DE 2023; Y SIMULTÁNEAMENTE SE CREA LA LEY DE ATENCIÓN MÉDICA PREHOSPITALARIA PARA EL ESTADO Y LOS MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+TERCERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- El Titular del Ejecutivo Estatal expedirá las disposiciones reglamentarias de conformidad a las reformas y adiciones a la Ley de Salud para el Estado de Baja California Sur, en un plazo no mayor a 6 meses, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, elaborará el Reglamento, así como los protocolos, manuales y lineamientos referidos en la Ley de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, en un plazo no mayor a noventa días hábiles, contados a partir de que la misma entre en vigor.
+
+SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de (sic) Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia.
+
+SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes.
+
+OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto.
