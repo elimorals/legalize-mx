@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2023-03-03"
+last_updated: "2024-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "BCN"
 ---
 # LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. 435.- POR EL QUE SE ABROGA LA LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -682,3 +686,25 @@ P.O. 3 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 208 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 13, 15, 17 Y 44 DE LA LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 435 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; SE ABROGA LA LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA; SE REFORMAN DIVERSAS SECCIONES Y ARTICULOS DE LA LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día en que inicie su vigencia el Decreto de creación del organismo que determine el Ejecutivo del Estado de Baja California, encargado de las funciones concernientes a Cultura.
+
+SEGUNDO.- Se extingue el organismo público descentralizado denominado Instituto de Cultura de Baja California, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+TERCERO.- La Persona Titular del Poder Ejecutivo, por conducto de la Secretaría de Cultura en su carácter de coordinadora de sector, señalará las bases para llevar a cabo la liquidación derivada de la extinción del Instituto de Cultura de Baja California, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público, por lo que podrá resolver cualquier situación inherente a dicho proceso.
+
+El Instituto de Cultura de Baja California deberá transferir, según correspondan sus atribuciones y su estructura orgánica, a la Secretaría de Cultura, y en su caso, al organismo que determine el Ejecutivo del Estado de Baja California, los registros de proyectos y programas que a la entrada en vigor del presente instrumento tuviese con motivo de su administración.
+
+CUARTO.- La Persona Titular del Poder Ejecutivo, por conducto de la Oficialía Mayor de Gobierno, intervendrá para tomar el control y disponer de todo tipo de bienes, en términos del ordenamiento aplicable, debiendo identificar los bienes y recursos tanto humanos como financieros con que cuente el Instituto de Cultura de Baja California, para que según sus atribuciones y estructura orgánica se transmitan a la Secretaría de Cultura, o en su caso, al organismo que determine el Ejecutivo del Estado de Baja California, para el ejercicio de sus funciones.
+
+QUINTO.- Las atribuciones del Instituto de Cultura de Baja California que no sean conferidas a la Secretaría de Cultura, inherentes a administrar y gestionar la red de Centros Estatales del Arte y proponer a sus titulares, el sistema estatal de música, coordinar y supervisar la Red Estatal de Bibliotecas Públicas y enlace con la Red Nacional de Bibliotecas Públicas, quedarán a cargo del organismo que determine la Persona Titular del Poder Ejecutivo.
+
+SEXTO.- En la transferencia de personal que se realice con motivo del presente Decreto, cualquiera que sea la naturaleza y forma en que presten sus servicios, se respetarán en todo momento sus derechos laborales. El personal de base cuya relación se encuentre tutelada por lo dispuesto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California quedará a disposición de la Oficialía Mayor y sus derechos adquiridos y demás prestaciones no se afectarán por el presente decreto.
+
+SÉPTIMO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos que a la fecha de publicación del Decreto se encuentren vigentes, continuarán surtiendo sus efectos hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
+
+OCTAVO.- Una vez extinguido, remítase al Registro Público de Organismos Descentralizados para que proceda a la cancelación de la inscripción de la Entidad.
