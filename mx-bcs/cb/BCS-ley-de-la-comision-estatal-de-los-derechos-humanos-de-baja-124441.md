@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-1244
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-31"
-last_updated: "2022-05-23"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de octubre de 2017
 
@@ -903,11 +903,11 @@ VIII.- Presentar a quien presida la Comisión Estatal los informes respecto de l
 
 IX.- Las demás que establezca la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
 
-> <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2024)</small>
 
 ###### Artículo 44 Ter.
 
-Quien ocupe la Titularidad de la Comisión Estatal de los Derechos Humanos, designará a quien desempeñará la Titularidad del Órgano Interno de Control de la Comisión, previo análisis del perfil profesional y la documentación que acredite experiencia y los conocimientos requeridos.
+El Congreso del Estado con el voto de la mayoría calificada de las Diputadas y Diputados presentes en la sesión, designará a quien desempeñará la Titularidad del Órgano Interno de Control de la Comisión, previo análisis del perfil profesional y la documentación que acredite experiencia y los conocimientos requeridos.
 
 > <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -931,13 +931,15 @@ VIII.- Contar con reconocida solvencia moral; y
 
 IX.- No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2024)</small>
 
 ###### Artículo 44 Quinquies.
 
 Quien ocupe la titularidad del Órgano Interno de Control de la Comisión Estatal de los Derechos Humanos, durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley, y solo podrá ser removido de su cargo por las faltas contempladas en la legislación de Responsabilidades Administrativas de los Servidores Públicos.
 
-En ese supuesto o en el caso de renuncia o ausencia definitiva de quien ocupe la Titularidad del Órgano Interno de Control de la Comisión Estatal, quien ocupe la Titularidad de la Comisión Estatal, deberá informar de inmediato a los integrantes del Consejo Consultivo de la Comisión Estatal de los Derechos Humanos, para proceder a una nueva designación dentro del término de 30 días, posteriores a que ésta quedo vacante.
+Para la elección de quien ocupé la titularidad del órgano interno de control, se seguirá el mismo procedimiento que el señalado para la elección de quien ocupé la Presidencia de la Comisión Estatal de los Derechos Humanos.
+
+En el caso de renuncia o ausencia definitiva de quien presida la titularidad del órgano interno de control, le sustituirá en sus funciones y con todas las facultades de la ley quien ostente el cargo de titular de la unidad de investigación para concluir el periodo respectivo, dando aviso de inmediato al Congreso del Estado.
 
 > <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -1512,3 +1514,11 @@ B.O. 23 DE MAYO DE 2022.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3039 SE REFORMA A FRACCIÓN XLVIII DEL NUMERAL 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y LOS ARTÍCULOS 44 TER Y 44 QUINQUIES DE LA LEY DE LA COMISIÓN ESTATAL D LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
