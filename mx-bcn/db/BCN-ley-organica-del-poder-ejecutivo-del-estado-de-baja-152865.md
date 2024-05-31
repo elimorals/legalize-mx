@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2023-03-03"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -1045,7 +1047,7 @@ XL. Impulsar la creación del Consejo Estatal de la Industria del Turismo Médic
 
 XLI. Promover y diseñar la política de salud veterinaria que incluya el programa estatal de zoonosis y ejecutar y evaluar las acciones preventivas e integrales de control, en coordinación con la Secretaría del Medio Ambiente y Desarrollo Sustentable a través del órgano que se determine;
 
-XLII. Participar, en el ámbito de su competencia en la formulación de propuestas ante la Comisión Fronteriza Binacional México - Estados Unidos, a fin de impulsar el intercambio médico y sanitario binacional; y,
+XLII. Participar, en el ámbito de su competencia en la formulación de propuestas ante la Comisión Fronteriza Binacional México – Estados Unidos, a fin de impulsar el intercambio médico y sanitario binacional; y,
 
 XLIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -1625,7 +1627,9 @@ V. Promover, organizar y convocar en colaboración con otros órdenes de gobiern
 
 VI. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, niñas, adolescentes y las juventudes, personas adultas mayores y personas con discapacidad, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado, así como vigilar su efectivo acceso a los servicios culturales;
 
-VII. Proponer procedimientos e integrar jurados y comisiones dictaminadoras para los concursos, becas y premios que promueva conjuntamente con el Instituto de Cultura de Baja California o los particulares que lo soliciten;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2024)</small>
+
+VII. Proponer procedimientos e integrar jurados y comisiones dictaminadoras para los concursos, becas y premios que promueva o los que sean promovidos por particulares que lo soliciten;
 
 VIII. Administrar, coordinar y conservar los bienes muebles e inmuebles destinados a la preservación, promoción y difusión cultural y artística en el Estado;
 
@@ -1651,7 +1655,7 @@ XVIII. Promover, apoyar y gestionar las investigaciones estéticas, artísticas 
 
 XIX. Auspiciar la investigación, preservación, promoción y difusión de la cultura y las artes en general y, particularmente las que identifican a los bajacalifornianos;
 
-XX. Coordinar la red de Centros Estatales del Arte, así como proponer a la Persona Titular del Poder Ejecutivo a sus titulares;
+XX. (DEROGADA, P.O. 31 DE MAYO DE 2024)
 
 XXI. Fomentar la investigación de las manifestaciones culturales propias de cada Municipio, sus ferias, tradiciones y costumbres;
 
@@ -1665,9 +1669,43 @@ XXV. Promover un programa de fomento a la lectura con especial atención a niño
 
 XXVI. Promover y fomentar la adquisición de material didáctico y de lectura para personas con discapacidad en centros culturales y bibliotecas; así como promover ante autoridades competentes acuerdos y autorizaciones correspondientes para adquirir y acceder a libros y contenidos digitales;
 
-XXVII. Coordinar y supervisar la Red Estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas, conforme a los acuerdos de coordinación que se hubieren celebrado o se celebren con la instancia Federal y/o los Ayuntamientos; y,
+XXVII. (DEROGADA, P.O. 31 DE MAYO DE 2024)
 
-XXVIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXVIII. Impulsar, apoyar y promover a las personas y grupos interesados en la difusión de la cultura y las artes en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXIX. Reconocer a las personas residentes en el Estado y a la población bajacaliforniana que se hayan distinguido en las distintas áreas de la cultura, artes, educación e investigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXX. Fomentar programas de intercambio cultural y artístico a nivel nacional y el extranjero para fortalecer el conocimiento y desarrollo de nuestros valores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXXI. Formular estrategias que impulsen el reconocimiento de artistas, así como de las personas que promuevan y gestionen cultura o arte, dentro de los sectores público y privado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXXII. Gestionar la instalación de sistemas electrónicos, de radio, televisión, internet o de cualquier otro tipo, para la promoción cultural y artística, ya sean propios o a través de convenios con diversas instancias, cumpliendo con lo dispuesto por las leyes federales y estatales vigentes en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXXIII. Fomentar las actividades culturales y artísticas entre el personal al servicio del Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXXIV. Coordinar y promover acciones conjuntas con los ayuntamientos del Estado en cuanto a programas y actividades en beneficio de la comunidad, así como para la integración de las comisiones municipales para la preservación, promoción y difusión de la cultura y las artes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXXV. Interactuar con instituciones públicas, como complemento en aquellos programas que tiendan al fortalecimiento del desarrollo cultural y artístico del Estado, principalmente en áreas rurales; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2024)</small>
+
+XXXVI. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 50.
 
@@ -1964,3 +2002,9 @@ P.O. 3 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 211 POR EL QUE SE REFORMA EL ARTÍCULO 26, DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO EL ARTÍCULO 32, FRACCIÓN XXIX, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; Y SE ABROGA LA LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN (SIC) PERIÓDICO OFICIAL NO. 13, SECCIÓN I, DE FECHA 06 DE MARZO DE 2020”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 435 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; SE ABROGA LA LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA; SE REFORMAN DIVERSAS SECCIONES Y ARTÍCULOS DE LA LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día en que inicie su vigencia el Decreto de creación del organismo que determine el Ejecutivo del Estado de Baja California, encargado de las funciones concernientes a Cultura.
