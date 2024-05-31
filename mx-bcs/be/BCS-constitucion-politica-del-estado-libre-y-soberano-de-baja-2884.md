@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2023-11-30"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1485,9 +1485,9 @@ XLVI bis.- Elegir, con el voto de las dos terceras partes de los miembros que co
 
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de las ciudadanas y ciudadanos, los actos del Poder Ejecutivo que sean trascendentales para el orden público o el interés social del Estado, y en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
 
-XLVIII.- Elegir a la Presidenta o Presidente y Consejeras y Consejeros de la Comisión Estatal de Derechos Humanos; así como a las Comisionadas y Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
+XLVIII.- Elegir a la Presidenta o Presidente, Consejeras y Consejeros, y la persona titular del Órgano Interno de Control de la Comisión Estatal de Derechos Humanos; así como a las Comisionadas y Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 
 > <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -4850,3 +4850,11 @@ PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su public
 SEGUNDO.- Dentro de los 30 días naturales siguientes a la publicación del presente Decreto, el Congreso del Estado de Baja California Sur, deberá realizar las adecuaciones necesarias a las Leyes Estatales de conformidad con el presente Decreto.
 
 TERCERO.- El ejercicio de las atribuciones que este Decreto le confiere al Instituto Estatal Electoral en materia de revocación de mandato, se cubrirán con base en la disponibilidad presupuestaria que para el presente ejercicio fiscal se le tiene asignada, así como la que corresponda para los subsecuentes ejercicios fiscales.
+
+B.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3039 SE REFORMA LA FRACCIÓN XLVIII DEL NUMERAL 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y LOS ARTÍCULOS 44 TER Y 44 QUINQUIES DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
