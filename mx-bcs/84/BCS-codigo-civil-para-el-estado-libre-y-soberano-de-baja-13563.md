@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2024-01-17"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -1301,9 +1301,11 @@ No puede renunciarse anticipadamente a los gananciales que resulten de la socied
 
 ### CAPÍTULO VII. De la administración y suspensión de la sociedad conyugal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2024)</small>
+
 ###### Artículo 192.
 
-La representación de la sociedad corresponde al cónyuge que ambos determinen en las capitulaciones, pero en caso de omisión se entenderá que el administrador es el marido.
+La representación de la sociedad corresponde al cónyuge que ambos determinen en las capitulaciones, pero en caso de omisión se entenderá que ambos la administran.
 
 La estipulación sobre el administrador podrá ser libremente modificada, sin necesidad de expresión de causa, para lo cual deberán así hacerlo saber ante el Oficial del Registro Civil donde se celebró el matrimonio, para que marginalmente y previa solicitud ratificada ante su presencia se haga la anotación correspondiente. En caso de desacuerdo, el Juez competente resolverá lo conducente.
 
@@ -1311,9 +1313,11 @@ La estipulación sobre el administrador podrá ser libremente modificada, sin ne
 
 El dominio y posesión de los bienes comunes reside en ambos cónyuges, mientras subsista la sociedad conyugal, pero los bienes inmuebles y los vehículos de propulsión mecánica, no pueden ser gravados ni enajenados por el cónyuge administrador sin el consentimiento del otro. En caso de oposición infundada, el Juez de Primera Instancia puede suplir el consentimiento, oyendo previamente a los interesados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2024)</small>
+
 ###### Artículo 194.
 
-Cuando los cónyuges durante la vigencia de su matrimonio, adquieran bienes inmuebles, será obligación de los notarios públicos hacer constar en la escritura correspondiente, si éstos son adquiridos por uno sólo de ellos y forman parte de su patrimonio exclusivo o en su caso, si forman parte de la sociedad conyugal, de conformidad a lo dispuesto en las capitulaciones matrimoniales respectivas o en su caso, a las reglas supletorias contenidas en el Capítulo VI de este Título.
+Cuando los cónyuges durante la vigencia de su matrimonio, adquieran o enajenen bienes inmuebles, será obligación de los notarios públicos hacer constar en la escritura correspondiente, si éstos son o fueron adquiridos por uno sólo de ellos y forman parte de su patrimonio exclusivo o en su caso, si forman parte de la sociedad conyugal, de conformidad a lo dispuesto en las capitulaciones matrimoniales respectivas o en su caso, a las reglas contenidas en el Capítulo VI de este Título.
 
 Ninguna enajenación o gravamen de los bienes sociales que haga un cónyuge en contravención de la ley o en fraude del otro, perjudicará a éste o a sus herederos, pero se observará lo dispuesto en el Título Segundo, de la Tercera Parte del Libro Cuarto de este Código, respecto de los adquirentes de buena fe.
 
@@ -16286,3 +16290,9 @@ El Consejo de la Judicatura del Poder Judicial del Estado de Baja California Sur
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3038 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 192 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 194, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
