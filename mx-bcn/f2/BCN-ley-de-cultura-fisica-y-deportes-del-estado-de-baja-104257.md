@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2024-04-05"
+last_updated: "2024-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -75,9 +75,9 @@ VIII.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas y 
 
 IX.- Diseñar, aplicar y difundir políticas públicas para reconocer, incentivar y premiar a deportistas Bajacalifornianos que hayan destacado en el ámbito local, nacional e internacional, así como a entrenadores, jueces, árbitros, profesionistas de las ciencias aplicadas y demás especialistas que contribuyen al desarrollo de la cultura física y el deporte del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2024)</small>
 
-X.- Promover las medidas preventivas necesarias para erradicar la violencia de género en la práctica del deporte, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+X.- Promover las medidas preventivas necesarias para erradicar la violencia de género, discriminación y hostigamiento en la práctica del deporte, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
 XI.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
@@ -1613,6 +1613,10 @@ Para efecto de prevenir, controlar y atender cualquier problemática referente a
 
 La coordinación y operación de los trabajos de la Comisión estatal, estarán a cargo del SECUDE.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2024)</small>
+
+La Comisión estatal, además de las atribuciones que se establezcan en su reglamento respectivo, deberá fomentar, coordinar y realizar campañas de divulgación y sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social.
+
 ###### ARTÍCULO 164.
 
 En la celebración de eventos deportivos públicos o privados, los organizadores tienen la obligación de informar a las autoridades de seguridad pública y protección civil, de los detalles del evento, a fin de prever las medidas de seguridad tendientes a proteger la integridad de los asistentes y participantes.
@@ -2216,3 +2220,9 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 396 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 58 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presenta (sic) reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 430 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4 Y 163 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
