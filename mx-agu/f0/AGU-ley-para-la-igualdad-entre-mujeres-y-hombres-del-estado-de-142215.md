@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2024-05-13"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -291,9 +291,17 @@ VI.- Condiciones en el ámbito laboral que eviten, prevengan y atiendan el acoso
 
 El IAM y las Instancias Municipales de la Mujer, deberán:
 
-I.- Proporcionar capacitación y sensibilización en los temas referentes a Igualdad de Trato y Oportunidades entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-II.- Efectuar investigaciones y diagnósticos en temas de derechos y de la aplicación de las normas jurídicas en beneficio de las mujeres.
+I.- Proporcionar capacitación y sensibilización en los temas referentes a Igualdad de Trato y Oportunidades entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+II.- Efectuar investigaciones y diagnósticos en temas de derechos y de la aplicación de las normas jurídicas en beneficio de las mujeres; e
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+III.- Impulsar y guiar la transversalización de presupuestos públicos con perspectiva de género en la administración pública del Estado y sus municipios, respectivamente.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -593,39 +601,63 @@ En términos del Artículo anterior, los Entes Públicos, en el ámbito de su co
 
 ### CAPÍTULO II. EL PODER EJECUTIVO
 
-#### Sección Primera. El Gobernador Constitucional del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2024)</small>
+
+#### Sección Primera. La persona titular del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
 
 ###### Artículo 35.
 
-El Poder Ejecutivo, a través del Gobernador del Estado tendrá las siguientes facultades:
+La persona titular del poder ejecutivo tendrá las siguientes facultades:
 
 I.- Aplicar los instrumentos de la Política Nacional en Materia de Igualdad;
 
-II.- Crear y aplicar el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes, con los principios establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-III.- Conducir las políticas públicas locales en materia de igualdad entre mujeres y hombres y armonizarlas con los programas estatales;
+II.- Aplicar el Programa para la Igualdad, bajo la observancia de los principios establecidos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+III.- Conducir la política pública local en materia de igualdad entre mujeres y hombres;
 
 IV.- Ejecutar en el ámbito de su competencia, los instrumentos de la Política Nacional en Materia de Igualdad;
 
 V.- Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres en el Estado de Aguascalientes, mediante las instancias administrativas correspondientes;
 
-VI.- Suscribir convenios o acuerdos de coordinación a través del Instituto Aguascalentense de las Mujeres con el fin de impulsar Acciones Afirmativas, aplicando el principio de Transversalidad en la función pública;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-VII.- Formular y evaluar las políticas públicas de Igualdad Sustantiva en el Estado de Aguascalientes, así como velar por el cumplimiento y difusión de la presente ley en los ámbitos público y privado.
+VI.- Suscribir convenios o acuerdos de coordinación a través del IAM con el fin de impulsar Acciones Afirmativas, aplicando el principio de Transversalidad en la función pública;
 
-La concertación de acciones implementadas por el Ejecutivo Estatal y los sectores social y privado se realizarán mediante convenios y contratos, los cuales deberán hacerse públicos en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-VIII.- Proponer políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, política, social, cultural y civil; y
+VII.- Formular y evaluar las políticas públicas de Igualdad Sustantiva en el Estado de Aguascalientes, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, así como velar por el cumplimiento y difusión de la presente ley en los ámbitos público y privado;
 
-IX.- Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+La concertación de acciones implementadas por la persona titular del Ejecutivo Estatal y los sectores social y privado se realizarán mediante convenios y contratos, los cuales deberán hacerse públicos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+VIII.- Proponer políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos económico, político, social, cultural, civil, familiar y laboral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
+
+IX.- Incorporar en el presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política local en materia de igualdad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
+
+X.- Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 #### Sección Segunda. El Instituto Aguascalentense de las Mujeres
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
+
 ###### Artículo 36.
 
-El Poder Ejecutivo, a través del Instituto Aguascalentense de las Mujeres tendrá las siguientes facultades:
+El IAM tendrá las siguientes facultades:
 
-I.- El fortalecimiento de la igualdad mediante Acciones Afirmativas específicas que fomenten la no discriminación y la Equidad de Género, en lo social, económico, político, civil, cultural y familiar;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+I.- El fortalecimiento de la igualdad mediante Acciones Afirmativas específicas que fomenten la no discriminación y la Equidad de Género, en los ámbitos económico, político, social, cultural, civil, familiar y laboral;
 
 II.- Promover y garantizar en el Estado la participación igualitaria de mujeres y hombres a través de mecanismos que posibiliten la Transversalidad en la función pública estatal;
 
@@ -757,7 +789,9 @@ VI.- Fomentar la participación paritaria y sin discriminación de mujeres y hom
 
 El Sistema para la Igualdad, es el conjunto orgánico de estructuras, relaciones funcionales, métodos y procedimientos que establecen las instancias de gobierno, con la sociedad civil organizada, instituciones académicas y de investigación con el fin de garantizar la Igualdad Sustantiva entre mujeres y hombres.
 
-El Sistema para la Igualdad estará a cargo del Instituto Aguascalentense de las Mujeres por lo que será presidido por su titular quien será auxiliado por un Secretario Técnico y se integrará por un representante de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2024)</small>
+
+El Sistema para la Igualdad estará a cargo del IAM por lo que será presidido por la persona que sea su titular quien será auxiliada por una persona que tendrá a su cargo la Secretaría Técnica y se integrará por una persona representante de:
 
 I.- La Secretaría de Desarrollo Social;
 
@@ -771,6 +805,10 @@ III.- La Secretaría de Salud;
 
 IV.- La Secretaría de Planeación, Participación y Desarrollo;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+IV Bis.- La Secretaría de la Familia;
+
 V.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
 
 VI.- La Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado;
@@ -781,13 +819,19 @@ VIII.- La Fiscalía General del Estado;
 
 IX.- La Comisión de los Derechos Humanos del Estado de Aguascalientes; y
 
-X.- Dos representantes de la sociedad civil y dos de las instituciones académicas designados por el Poder Ejecutivo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2024)</small>
+
+X.- Dos representantes de la sociedad civil y dos de las instituciones académicas designados por la persona titular del Poder Ejecutivo.
 
 Para que las sesiones del Sistema para la Igualdad sean válidas se necesita la presencia de por lo menos la mitad más uno de sus integrantes.
 
 El Sistema para la Igualdad sesionará trimestralmente y podrá celebrar las reuniones extraordinarias que considere convenientes y todas sus decisiones se tomarán por el voto de la mayoría de los miembros presentes. En caso de empate el Presidente tendrá voto de calidad.
 
-Los integrantes del Sistema para la Igualdad desempeñarán su cargo de forma honorífica, con excepción del Secretario Técnico.
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 3 DE JUNIO DE 2024]</small>
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+Las personas integrantes del Sistema para la Igualdad desempeñaran su cargo de forma honorífica, con excepción quien ejerza la Secretaría Técnica.
 
 ###### Artículo 43.
 
@@ -837,15 +881,23 @@ XV.- Las demás que se requieran para el cumplimiento de los objetivos del Siste
 
 ### CAPÍTULO II. EL PROGRAMA PARA LA IGUALDAD
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+
 ###### Artículo 44.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres, será elaborado por el IAM, considerando las necesidades del Estado, así como las particularidades de la desigualdad en cada Municipio y deberá ser realizado de acuerdo al Plan Estatal de Desarrollo correspondiente.
+El programa para la Igualdad será elaborado por el IAM, considerando las necesidades del Estado, así como las particularidades de la desigualdad en cada Municipio.
+
+Este programa deberá integrarse al Plan Estatal de Desarrollo, así como a los programas sectoriales e institucionales a que se refiere la Ley de Planeación para el Desarrollo del Estado de Aguascalientes.
+
+Una vez revisado el programa para la Igualdad por parte del IAM, deberá hacer del conocimiento de los Entes públicos, los resultados obtenidos para el seguimiento o, en su caso, modificación de las acciones o políticas públicas que permitan el cumplimiento efectivo del objeto de la presente ley.
 
 ###### Artículo 45.
 
 El Programa para la Igualdad, deberá contener de manera enunciativa y no limitativa, lo relativo a:
 
-I.- Procurar el respeto y la vigilancia de los derechos humanos de mujeres y hombres;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+I.- Promover se garantice el respeto y la vigilancia de los derechos humanos de mujeres y hombres;
 
 II.- Impulsar el ejercicio igualitario de los derechos; la inclusión social, política, económica y cultural, así como la participación activa en los procesos de desarrollo en condiciones de igualdad para mujeres y hombres;
 
@@ -859,7 +911,23 @@ V.- Promover campañas de concientización a mujeres y hombres en la responsabil
 
 VI.- Incentivar la creación y adopción de indicadores, que puedan plasmarse en estadísticas, encuestas y levantamiento de datos, que le permitan al Estado y a los Municipios, coadyuvar a garantizar la integración de modo efectivo de oportunidades entre mujeres y hombres; y
 
-VII.- Lo demás establecido en el Título Segundo de la presente Ley y demás ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
+
+VII.- Prever los mecanismos de coordinación, los objetivos, las estrategias y líneas de acción para incorporar, de manera transversal, la perspectiva de género en su aplicación, seguimiento, monitoreo, evaluación y actualización en el estado y los municipios para impulsar, regular, proteger, fomentar y hacer efectivo el derecho a la igualdad de trato y oportunidades entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+VIII.- Proponer políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos económico, político, social, cultural, civil, familiar y laboral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
+
+IX.- Lo demás establecido en el Título Segundo de la presente Ley y demás ordenamientos.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+###### Artículo 45 Bis.
+
+El informe anual del Poder Ejecutivo deberán contener el estado que guarda la ejecución del Programa para la Igualdad, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
 
 ## TÍTULO QUINTO. LA VIGILANCIA, RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
@@ -1014,6 +1082,22 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 13 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 641.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 683.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 694.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
