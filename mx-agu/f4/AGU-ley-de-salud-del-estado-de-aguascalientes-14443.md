@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-01-22"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -217,7 +217,9 @@ V.- Proponer y fortalecer la participación de la comunidad en los servicios de 
 
 VI.- Supervisar que en la prestación de los servicios de salud se aplique la normatividad vigente en la materia, tanto nacional como internacional;
 
-VII.- Realizar todas aquellas acciones necesarias para que los servicios se presten con equidad, calidad y eficiencia;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+VII.- Realizar todas aquellas acciones necesarias para que los servicios se presten con calidad y eficiencia;
 
 VIII.- Promover la ampliación de la cobertura en la prestación de los servicios, apoyando los programas que para el efecto elaboren las instituciones que conforman en Sistema Estatal de Salud;
 
@@ -229,7 +231,9 @@ XI.- Formular recomendaciones a las dependencias competentes sobre la asignació
 
 XII.- Promover, apoyar y llevar la capacitación en la materia a los profesionales, técnicos y auxiliares en salud;
 
-XIII.- Promover el establecimiento de un sistema estatal de información básica en materia de salud;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+XIII.- Promover el establecimiento de un sistema estatal de información básica en materia de salud, y determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades del sector salud, con sujeción a las disposiciones de esta ley y las generales aplicables;
 
 XIV.- Integrar la información estadística que genera el Sistema Estatal de Salud que facilite a las autoridades e instituciones competentes la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
 
@@ -265,13 +269,21 @@ XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacena
 
 XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-XXVII.- Administrar el patrimonio de la beneficencia pública a través del órgano desconcentrado denominado Instituto de Beneficencia Pública del Estado de Aguascalientes, de conformidad con el Titulo Décimo Octavo de la presente Ley; y
+XXVII.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud Incluyendo la salud sexual y reproductiva;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXVIII.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXVIII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXVIII, P.O. 3 DE JUNIO DE 2024)</small>
+
+XXX.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -2103,7 +2115,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
 
 ## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
 
@@ -2111,17 +2123,35 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ###### ARTICULO 105.
 
-La Secretaría, el Organismo y el Instituto en sus respectivas competencias, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
+La Secretaría, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica y con los criterios que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E REPUBLICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
 I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
 
 III.- Recursos materiales, humanos y financieros disponibles para la protección de la salud de la población y su utilización.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 105 Bis.
+
+La Secretaría integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas estatales en materia de salud que contribuyan a la consolidación de un sistema estatal de información en salud.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 105 Ter.
+
+Las dependencias y entidades de la Administración Pública Estatal, los municipios, así como las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 105 de esta ley, deberán suministrarla a la Secretaría, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas estatales para la salud.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 105 Quater.
+
+Corresponde a la Secretaría emitir la normatividad a que deberán sujetarse los sistemas de información de registro electrónico que utilicen las instituciones del Sistema Estatal de Salud, a fin de garantizar la interoperabilidad, procesamiento, interpretación y seguridad de la información contenida en los expedientes clínicos electrónicos.
 
 ###### ARTICULO 106.
 
@@ -4756,3 +4786,11 @@ P.O. 22 DE ENERO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.– Las autoridades competentes, dentro de los 180 días siguientes a la entrada en vigor de este Decreto, deberán emitir los reglamentos necesarios a efecto de aplicar correctamente las reformas contenidas en este Decreto.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 686.- SE REFORMAN (SIC) Y ADICIONA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
