@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-so2-23-ii-2023-del-tribunal-electoral-165889
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-05-03"
-last_updated: "2023-05-03"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165889&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-04-17"
 
 ACUERDO GENERAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL, RENDICIÓN DE CUENTAS Y COMBATE A LA CORRUPCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de mayo de 2023.
 
@@ -129,6 +129,10 @@ XXVIII. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
 
 XXIX. Nexo de atribuibilidad. Elemento que permite establecer a una persona como autora o causante de los hechos, sin que esto suponga el acreditamiento de responsabilidad administrativa;
 
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2024)</small>
+
+XXIX Bis. Observación: Omisiones, incumplimientos normativos o deficiencias encontradas en la práctica de la inspección.
+
 XXX. Órganos auxiliares: la Contraloría Interna, la Dirección de Investigación y la Visitaduría Judicial, todos del Tribunal Electoral del Poder Judicial de la Federación;
 
 XXXI. Órgano auxiliar instructor: es el órgano jurisdiccional que actúa en auxilio de la Comisión u otros órganos auxiliares como instancia instructora en la investigación o, en su caso, substanciación del procedimiento de responsabilidad administrativa;
@@ -150,6 +154,10 @@ XXXVIII. Procedimientos sustantivos: son aquellos derivados de las normas y est�
 XXXIX. Procedimiento tradicional: se refiere a el procedimiento de responsabilidad administrativa que se substancia por medio de la recepción, ya sea en manuscrito o documentos impresos de las promociones y demás documentales de las cuales se forma un expediente también en papel al que se agregan las actuaciones procesales;
 
 XL. Programa: Programa Anual de Visitas Ordinarias de Inspección y Verificaciones a Distancia, aprobado por la Comisión de Administración;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2024)</small>
+
+XL Bis. Recomendación: Propuesta hecha a la sala regional con la finalidad de prevenir o corregir la reincidencia de las observaciones encontradas en la práctica de la inspección.
 
 XLI. Reglamento Interno: Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación;
 
@@ -2216,3 +2224,15 @@ CERTIFICA
 Que el presente documento, integrado por 29 fojas útiles por anverso y reverso, corresponde al Acuerdo General del Tribunal Electoral del Poder Judicial de la Federación, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control, rendición de cuentas y combate a la corrupción, autorizado mediante el acuerdo 10/SO2(23-II-2023), emitidos por la y los integrantes de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en su Segunda Sesión Ordinaria celebrada el 23 de febrero de 2023 DOY FE.
 
 Ciudad de México, a 17 de abril de 2023.- Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Mtro. Oscar Santiago Sánchez.- Firmado digitalmente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 14/SO4(25-IV-2024) DE LA COMISIÓN DE ADMINISTRACIÓN EMITIDO EN LA CUARTA SESIÓN ORDINARIA DEL PRESENTE EJERCICIO, CELEBRADA EL 25 DE ABRIL DEL AÑO EN CURSO, MEDIANTE EL CUAL APRUEBA LAS REFORMAS Y ADICIONES DEL ACUERDO GENERAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL, RENDICIÓN DE CUENTAS Y COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. Las reformas y adiciones del Acuerdo General del Tribunal Electoral del Poder Judicial de la Federación, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control, rendición de cuentas y combate a la corrupción, entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a las presentes reformas.
+
+TERCERO. Para su mayor difusión, publíquese en las páginas de intranet e internet del Tribunal Electoral del Poder Judicial de la Federación.
