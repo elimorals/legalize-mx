@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-05-13"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -179,69 +179,73 @@ XX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 XXI. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXII. Procuraduría de Protección Local: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
+XXII. Primera Infancia: Periodo de vida de crecimiento y desarrollo, comprendido desde los 0 a los 5 años de edad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXIII. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
+XXIII. Procuraduría de Protección Local: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXIV. Programa Estatal: El Programa de Protección Integral de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+XXIV. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXV. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XXV. Programa Estatal: El Programa de Protección Integral de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXVI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+XXVI. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXVII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXVIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXVIII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXIX. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXIX. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXX. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+XXX. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXI. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
+XXXI. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXII. Sistema DIF Estatal.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+XXXII. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXIII. Sistemas DIF Municipales.- Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios del Estado de Aguascalientes;
+XXXIII. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXIV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXXIV. Sistemas DIF Municipales: Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios del Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXV. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+XXXV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXVI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+XXXVI. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
 
-XXXVII. Trastornos Específicos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas.
+XXXVII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
+
+XXXVIII. Trastornos Específicos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1091,13 +1095,17 @@ XVII. Establecer medidas para la detección temprana de discapacidades a efecto 
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes; y
+XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental.
+XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+XXI. Establecer medidas tendientes a la prevención y atención de las consecuencias en la salud de niñas y niños ante uso desmedido de dispositivos electrónicos durante la primera infancia.
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -1299,9 +1307,17 @@ Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por e
 
 Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural; priorizando el interés superior.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendientes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, estarán obligados a desarrollar y aprovechar su infraestructura y recursos; así como el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendientes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+###### Artículo 63 Bis.
+
+Las autoridades del estado de Aguascalientes y de sus municipios, en el ámbito de sus respectivas competencias, estarán obligadas a brindarles a las niñas, niños y adolescentes las condiciones necesarias para la recreación y participación en las actividades culturales de su interés. Así como fomentar la participación en la vida cultural y en las artes, la creatividad y producción artística, de niñas, niños y adolescentes.
 
 ### CAPÍTULO XV. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
@@ -3062,3 +3078,19 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 692.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 693.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
