@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2023-11-27"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -215,7 +215,9 @@ VIII. DESARROLLO HUMANO: Es un proceso permanente que genera las condiciones que
 
 IX. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD: Son aquellos núcleos de población y personas que, por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del gobierno para lograr su bienestar;
 
-X. INEGI: El Instituto Nacional de Estadística Geografía e Informática;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+X. INEGI: Instituto Nacional de Estadística y Geografía;
 
 XI. LEY: La Ley de Desarrollo Social para el Estado de Aguascalientes;
 
@@ -355,9 +357,17 @@ I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, 
 
 II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
-III. Promover y fortalecer el desarrollo regional equilibrado, vinculando las políticas sociales de los niveles federal, estatal y municipal; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social.
+III. Promover y fortalecer el desarrollo regional equilibrado, vinculando las políticas sociales de los niveles federal, estatal y municipal;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+V. Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
 
 ### CAPÍTULO II. De la Planeación y la Programación
 
@@ -753,11 +763,15 @@ II. La Comisión; y
 
 III. El Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
+
 ###### Artículo 59.
 
-La Secretaría tendrá las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado de Aguascalientes; y sin perjuicio de estas le corresponderán además las siguientes:
+La Secretaría tendrá las atribuciones que le confiere la Ley Orgánica de la Administración Pública Estatal; y sin perjuicio de estas le corresponderán además las siguientes:
 
-I. Formular el Programa de Desarrollo Social y Combate a la Pobreza del Gobierno del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+I. Formular y ejecutar el Programa de Desarrollo Social y Combate a la Pobreza del Gobierno del Estado de Aguascalientes;
 
 II. Implementar y vigilar el cumplimiento de los principios y políticas para el desarrollo social del Estado;
 
@@ -765,9 +779,17 @@ III. Participar y promover la celebración de convenios de coordinación con los
 
 IV. Someter a la consideración del Poder Ejecutivo del Estado, las zonas de atención prioritaria e inmediata, de conformidad a la información del INEGI, a los índices de marginalidad que dicte el COESPO, así como darlas a conocer al Congreso y publicarlas anualmente en el Periódico Oficial del Gobierno del Estado;
 
-V. Implementar una base de datos, a fin de generar un sistema de información estadístico confiable con indicadores sociales definidos y estar en posibilidades de medir el avance de la Política Estatal de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-VI. Generar la interacción de los diversos sectores de la sociedad, que permita la implementación de programas productivos y de financiamiento para el desarrollo social.
+V. Implementar una base de datos, a fin de generar un sistema de información estadístico confiable con indicadores sociales definidos y estar en posibilidades de medir el avance de la Política Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+VI. Generar la interacción de los diversos sectores de la sociedad, que permita la implementación de programas productivos y de financiamiento para el desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+VII. Las demás que señale la Ley General de Desarrollo Social y demás disposiciones aplicables.
 
 ### CAPÍTULO III. De la Comisión de Desarrollo Social
 
@@ -775,31 +797,43 @@ VI. Generar la interacción de los diversos sectores de la sociedad, que permita
 
 La Comisión de Desarrollo Social es un organismo de coordinación, apoyo y vinculación entre las diferentes dependencias y entidades de la administración pública estatal que tengan atribuciones relacionadas con la política de desarrollo social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
 
 ###### Artículo 61.
 
-La comisión de Desarrollo Social será presidida por el Titular del Poder Ejecutivo del Estado, o en su caso, por la persona que éste designe, y estará integrada de la manera siguiente:
+La Comisión de Desarrollo Social será presidida por la persona Titular del Poder Ejecutivo del Estado, o en su caso, por la persona que ésta designe, y estará integrada de la manera siguiente:
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 I. De forma permanente:
 
-a) El Titular de la Secretaría, quién tendrá a cargo la coordinación ejecutiva y suplirá al titular del Poder Ejecutivo en casos de ausencia;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
-b) Por el Presidente de la Comisión de Desarrollo Social del Congreso del Estado;
+a) La persona titular de la Secretaría, quién tendrá a cargo la coordinación ejecutiva y suplirá al titular del Poder Ejecutivo en casos de ausencia;
 
-c) El titular de la Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
-d) Los Alcaldes de cada municipio o en quien estos deleguen dicha función; y
+b) La persona que presida la Comisión de Desarrollo Social del Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
-e) El titular de la Secretaría General de Gobierno;
+c) La persona titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
-II. De forma temporal, cuando por un tema o asunto así lo requiera, se podrá integrar el titular respectivo de las siguientes dependencias:
+d) La persona que ocupe la presidencia de cada municipio o en quien estos deleguen dicha función;
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+e) La persona titular de la Secretaría General de Gobierno; y
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+f) La persona titular de la Secretaría de la Familia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2024)</small>
+
+II. De forma temporal, cuando por un tema o asunto así lo requiera, se podrá integrar la persona titular respectivo de las siguientes dependencias:
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -811,17 +845,31 @@ b) (DEROGADO, P.O. 8 DE MAYO DE 2023)
 
 c) La Secretaría de Planeación, Participación y Desarrollo;
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 d) La Secretaría de Desarrollo Rural y Agroempresarial;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 e) El Instituto Cultural de Aguascalientes;
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 f) El Instituto de Educación de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 g) El Instituto del Deporte del Estado de Aguascalientes;
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 h) El Instituto de Servicios de Salud del Estado de Aguascalientes;
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 i) El Instituto de Vivienda Social y Ordenamiento de la propiedad;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 j) El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
 
@@ -833,15 +881,19 @@ k) El Instituto Aguascalentense de la Juventud;
 
 l) El Instituto Aguascalentense de las Mujeres;
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 m) Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; y
 
-n) (DEROGADO, P.O. 23 DE ABRIL DE 2018)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2024)</small>
+
+n) El Instituto Aguascalentense de las Personas Adultas Mayores.
 
 III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
-Además podrán participar como invitados, el Delegado de la Secretaría de Desarrollo Social del Gobierno Federal en el Estado y los demás funcionarios que considere necesario invitar el órgano permanente de la Comisión.
+Además, podrán participar como invitados, la persona Delegada de la Secretaría de Bienestar del Gobierno Federal en el Estado y los demás funcionarios que considere necesario invitar el órgano permanente de la Comisión.
 
 ###### Artículo 62.
 
@@ -1374,3 +1426,11 @@ P.O. 27 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 483.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 684.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
